@@ -1,19 +1,19 @@
 {
   "timestamp": "Live Comprehensive Multi-Media Scan",
   "total_sources_monitored": 23,
-  "total_articles_analyzed": 0,
+  "total_articles_analyzed": 286,
   "frames": {
-    "f_sec": 0,
-    "f_econ": 0,
-    "f_soc": 0,
-    "f_imm": 0
+    "f_sec": 32,
+    "f_econ": 15,
+    "f_soc": 30,
+    "f_imm": 16
   },
   "detailed_themes": {
-    "sec_imm": 0,
-    "econ_tax": 0,
-    "purch_inc": 0,
-    "health_care": 0,
-    "pen_soc": 0,
-    "cohes_dem": 0
+    "sec_imm": 32,
+    "econ_tax": 15,
+    "purch_inc": 17,
+    "health_care": 10,
+    "pen_soc": 13,
+    "cohes_dem": 13
   }
 }
