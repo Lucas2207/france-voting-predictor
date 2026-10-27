@@ -1,10 +1,17 @@
 {
   "compilerOptions": {
     "target": "es2022",
-    "lib": ["es2022", "dom"],
+    "lib": [
+      "es2022",
+      "dom"
+    ],
     "checkJs": true,
     "strict": true,
     "noEmit": true
   },
-  "include": ["app.js", "globals.d.ts"]
+  "include": [
+    "i18n.js",
+    "app.js",
+    "globals.d.ts"
+  ]
 }

@@ -14,11 +14,11 @@
  * @typedef {{ polls?: string, polls_fetched?: string, feeds: FeedStatus[], articles_total: number, articles_analysed: number, media_since: string | null }} Sources
  * @typedef {{ id: string, followers: (number | null)[], change: (number | null)[], latest_by_platform: Record<string, number> }} PersonSeries
  * @typedef {{ id: string, members: string[], followers: (number | null)[], change: (number | null)[] }} PartySeries
- * @typedef {{ dates: string[], platforms: string[], candidates: PersonSeries[], parties: PartySeries[] }} Followers
+ * @typedef {{ dates: string[], platforms: string[], candidates: PersonSeries[], parties: PartySeries[], influencers: PersonSeries[] }} Followers
  * @typedef {{ date: string, candidate: string, channel: string, show: string | null, audience_viewers: number | null, audience_share: number | null, source: SourceLink }} Interview
  * @typedef {Record<string, { count: number, avg_viewers: number | null, avg_share: number | null }>} InterviewSummary
  * @typedef {{ id: string, name: string, color: string | null, views: (number | null)[], change: (number | null)[], subscribers: (number | null)[], latest: { date: string, views: number, subscribers: number | null, videos: number, title: string } | null }} YouTubeSeries
- * @typedef {{ dates: string[], candidates: YouTubeSeries[], media: YouTubeSeries[] }} YouTube
+ * @typedef {{ dates: string[], candidates: YouTubeSeries[], media: YouTubeSeries[], influencers: YouTubeSeries[] }} YouTube
  * @typedef {{ id: string, name: string, party: string, statut: 'non_candidat' | 'a_verifier', note: string, followers: number | null, youtube_views: number | null, youtube_subscribers: number | null }} Influencer
  * @typedef {{ last_updated: string, today: string, candidates: Candidate[], parties: Party[], influencers: Influencer[], youtube: YouTube, projection: Projection[], history: HistoryEntry[], polls: Poll[], media_daily: MediaDay[], media_by_outlet: Record<string, Record<string, { tone: number, n: number }>>, events: CampaignEvent[], followers: Followers, interviews: Interview[], interview_summary: InterviewSummary, sources: Sources, parameters?: Record<string, number> }} LiveData
  */
@@ -32,7 +32,7 @@ let partyById = {};
 /** @type {Record<string, any>} */
 const charts = {};
 
-/** Clés « cand:<id> » et « party:<id> » des entités cochées. */
+/** Clés « cand:<id> », « party:<id> » et « media:<id> » des entités cochées. */
 /** @type {Set<string>} */
 const selected = new Set();
 /** @type {'total' | 'change'} */
@@ -62,7 +62,7 @@ const HTML_ESCAPES = { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'
 /** @param {unknown} s */
 const esc = (s) => String(s ?? '').replace(/[&<>"']/g, c => HTML_ESCAPES[c]);
 /** @param {number | null | undefined} v @param {number} [digits] */
-const fmt = (v, digits = 1) => v == null ? '—' : v.toLocaleString('fr-FR', { minimumFractionDigits: digits, maximumFractionDigits: digits });
+const fmt = (v, digits = 1) => v == null ? '—' : v.toLocaleString(LOCALES[lang], { minimumFractionDigits: digits, maximumFractionDigits: digits });
 /** @param {number | null | undefined} v @param {number} [digits] */
 const signed = (v, digits = 1) => v == null ? '—' : (v > 0 ? '+' : v < 0 ? '−' : '') + fmt(Math.abs(v), digits);
 /** Abonnés lisibles : 1,23 M, 850 k, 4 210. @param {number | null | undefined} v */
@@ -82,45 +82,41 @@ function hexA(hex, a) {
 }
 /** @param {string} id @returns {HTMLCanvasElement} */
 const canvas = (id) => /** @type {HTMLCanvasElement} */ ($(id));
-/** @param {string} key */
-function nameOf(key) {
-  const [kind, id] = key.split(':');
-  return kind === 'cand' ? candById[id].name : partyById[id].name;
-}
-/** @param {string} key */
-function colorOf(key) {
-  const [kind, id] = key.split(':');
-  return kind === 'cand' ? candById[id].color : partyById[id].color;
-}
+/** Date courte ; une date seule est lue à midi pour ne pas glisser d'un jour selon le fuseau. @param {string} iso */
+const shortDate = (iso) => new Date(iso.length === 10 ? iso + 'T12:00:00' : iso).toLocaleDateString(LOCALES[lang], { day: '2-digit', month: 'short' });
 
 async function init() {
+  applyStatic();
+  const sel = document.getElementById('langSelect');
+  if (sel) sel.addEventListener('change', () => setLang(/** @type {HTMLSelectElement} */ (sel).value));
   try {
     const res = await fetch('live_data.json', { cache: 'no-store' });
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
     data = await res.json();
   } catch (e) {
-    $('lastUpdated').textContent = `Données indisponibles (${e instanceof Error ? e.message : e})`;
+    $('lastUpdated').textContent = t('header.unavailable', { error: e instanceof Error ? e.message : String(e) });
     return;
   }
   data.candidates.forEach(c => { candById[c.id] = c; });
   (data.parties || []).forEach(p => { partyById[p.id] = p; });
-
-  const src = data.sources || {};
-  $('lastUpdated').textContent = `Mis à jour : ${data.last_updated}`;
-  const okFeeds = (src.feeds || []).filter(f => f.ok).length;
-  $('sourceSummary').textContent =
-    `${data.polls.length} sondages • ${okFeeds}/${(src.feeds || []).length} flux presse • ${src.articles_analysed}/${src.articles_total} articles analysés`;
-  if (src.polls) /** @type {HTMLAnchorElement} */ ($('pollSourceLink')).href = src.polls;
-  if (data.parameters) {
-    $('paramBeta').textContent = fmt(data.parameters.MEDIA_BETA);
-    $('paramCap').textContent = fmt(data.parameters.MEDIA_CAP, 0);
-  }
 
   // Sélection initiale : les candidats principaux et tous les partis
   data.candidates.filter(c => c.main).forEach(c => selected.add(`cand:${c.id}`));
   (data.parties || []).forEach(p => selected.add(`party:${p.id}`));
   buildPicker();
 
+  renderEverything();
+}
+
+/** Appelée par setLang (i18n.js) : redessine tout, textes compris. */
+function onLanguageChange() {
+  renderEverything();
+}
+
+function renderEverything() {
+  applyStatic();
+  renderHeader();
+  renderMethodology();
   renderProjection();
   renderOutlets();
   renderEvents();
@@ -128,17 +124,40 @@ async function init() {
   renderAll();
 }
 
+function renderHeader() {
+  const src = data.sources || {};
+  $('lastUpdated').textContent = t('header.updated', { date: data.last_updated });
+  const okFeeds = (src.feeds || []).filter(f => f.ok).length;
+  $('sourceSummary').textContent = t('header.summary', {
+    polls: data.polls.length, feeds: okFeeds, total: (src.feeds || []).length,
+    analysed: src.articles_analysed, articles: src.articles_total,
+  });
+}
+
+/** Méthodologie : générée à partir des traductions, avec les paramètres du modèle. */
+function renderMethodology() {
+  const src = data.sources || {};
+  const p = data.parameters || {};
+  const link = `<a class="text-indigo-600 underline" href="${esc(safeUrl(src.polls))}" target="_blank" rel="noopener noreferrer">${t('method.source')}</a>`;
+  const paragraphs = ['method.polls', 'method.media', 'method.projection', 'method.followers', 'method.candidates',
+    'method.youtube', 'method.interviews', 'method.limits', 'method.emblem'];
+  const params = {
+    sourceLink: link, beta: fmt(p.MEDIA_BETA ?? 1.5), cap: fmt(p.MEDIA_CAP ?? 2, 0),
+  };
+  $('methodology').innerHTML = `<h2 class="text-base font-bold text-slate-900">${t('method.title')}</h2>` +
+    paragraphs.map(k => `<p>${t(k, params)}</p>`).join('');
+}
+
 /** Personnalités influentes non candidates : abonnés et audience YouTube. */
 function renderInfluencers() {
   const rows = [...(data.influencers || [])].sort((a, b) => (b.followers ?? -1) - (a.followers ?? -1));
-  const statusLabel = { non_candidat: 'Non candidate', a_verifier: 'Statut à vérifier' };
   $('influencersTable').innerHTML = `<thead><tr class="text-[10px] uppercase tracking-wider text-slate-500 border-b border-slate-200">
-      <th class="px-2 py-1 text-left">Personnalité</th><th class="px-2 py-1 text-left">Parti</th><th class="px-2 py-1 text-left">Statut</th>
-      <th class="px-2 py-1 text-right">Abonnés (réseaux)</th><th class="px-2 py-1 text-right">Vues YouTube</th><th class="px-2 py-1 text-right">Abonnés YouTube</th></tr></thead>
+      <th class="px-2 py-1 text-left">${t('influencers.th.person')}</th><th class="px-2 py-1 text-left">${t('influencers.th.party')}</th><th class="px-2 py-1 text-left">${t('influencers.th.status')}</th>
+      <th class="px-2 py-1 text-right">${t('influencers.th.followers')}</th><th class="px-2 py-1 text-right">${t('influencers.th.views')}</th><th class="px-2 py-1 text-right">${t('influencers.th.subs')}</th></tr></thead>
     <tbody>${rows.map(i => `<tr class="border-b border-slate-100">
       <td class="px-2 py-1 font-semibold whitespace-nowrap">${esc(i.name)}</td>
       <td class="px-2 py-1 whitespace-nowrap">${esc(partyById[i.party] ? partyById[i.party].name : i.party)}</td>
-      <td class="px-2 py-1" title="${esc(i.note)}">${esc(statusLabel[i.statut] || i.statut)}</td>
+      <td class="px-2 py-1" title="${esc(i.note)}">${esc(t('status.' + i.statut))}</td>
       <td class="px-2 py-1 text-right">${compact(i.followers)}</td>
       <td class="px-2 py-1 text-right">${compact(i.youtube_views)}</td>
       <td class="px-2 py-1 text-right">${compact(i.youtube_subscribers)}</td></tr>`).join('')}</tbody>`;
@@ -214,8 +233,8 @@ function renderYouTube() {
   const hasData = !!yt && yt.dates.length > 0 && (yt.candidates.length + yt.media.length) > 0;
   const change = youtubeMode === 'change';
   $('youtubeNote').textContent = hasData
-    ? `Relevés quotidiens depuis le ${yt.dates[0]}. Les vues sont cumulées depuis la création de chaque chaîne.`
-    : 'Aucune chaîne YouTube relevée : renseignez les @ dans config/youtube_channels.json et la clé YOUTUBE_API_KEY (voir méthodologie).';
+    ? t('youtube.note', { date: yt.dates[0] })
+    : t('youtube.none');
   const labelFmt = change ? (/** @type {number} */ v) => `${v > 0 ? '+' : ''}${compact(v)}` : compact;
   const tooltip = (/** @type {any} */ item) => ` ${item.dataset.label} : ${change ? signed(item.parsed.y, 0) : fmt(item.parsed.y, 0)}`;
 
@@ -254,17 +273,17 @@ function renderYouTube() {
       });
   }
   $('youtubeTable').innerHTML = `<thead><tr class="text-[10px] uppercase tracking-wider text-slate-500 border-b border-slate-200">
-      <th class="px-2 py-1 text-left">Chaîne</th><th class="px-2 py-1 text-right">Vues cumulées</th>
-      <th class="px-2 py-1 text-right">Gain depuis le 1er relevé</th><th class="px-2 py-1 text-right">Abonnés</th></tr></thead>
-    <tbody>${rows.join('') || '<tr><td class="py-2 text-slate-400" colspan="4">Aucune chaîne cochée ou aucun relevé.</td></tr>'}</tbody>`;
+      <th class="px-2 py-1 text-left">${t('youtube.th.channel')}</th><th class="px-2 py-1 text-right">${t('youtube.th.views')}</th>
+      <th class="px-2 py-1 text-right">${t('youtube.th.change')}</th><th class="px-2 py-1 text-right">${t('youtube.th.subs')}</th></tr></thead>
+    <tbody>${rows.join('') || `<tr><td class="py-2 text-slate-400" colspan="4">${t('youtube.noneChecked')}</td></tr>`}</tbody>`;
 }
 
 function renderProjection() {
   const statuses = new Set(data.projection.map(p => p.media.status));
   const since = data.sources?.media_since;
   $('mediaStatus').textContent = statuses.has('calibrage')
-    ? `Ajustement média en calibrage : collecte de presse depuis le ${since || '—'}, 14 jours nécessaires.`
-    : 'Ajustement média actif (hypothèse non calibrée, voir méthodologie).';
+    ? t('proj.calib', { since: since ? shortDate(since) : '—' })
+    : t('proj.active');
 
   $('projectionBody').innerHTML = data.projection.map(p => {
     const c = candById[p.id];
@@ -272,10 +291,10 @@ function renderProjection() {
     const ch = p.change_7d;
     const chCls = ch != null && ch > 0.2 ? 'text-emerald-700' : ch != null && ch < -0.2 ? 'text-rose-700' : 'text-slate-500';
     const lowN = p.n_polls < 5
-      ? ` <span class="block text-[10px] text-amber-700">testé dans ${p.n_polls} sondage(s) seulement</span>` : '';
+      ? ` <span class="block text-[10px] text-amber-700">${t('proj.lowN', { n: p.n_polls })}</span>` : '';
     const adj = m.status === 'ok'
       ? signed(m.adjustment)
-      : `0 <span class="text-[10px]">(${m.status === 'calibrage' ? 'calibrage' : 'peu d\'articles'})</span>`;
+      : `0 <span class="text-[10px]">(${m.status === 'calibrage' ? t('proj.adj.calib') : t('proj.adj.few')})</span>`;
     return `<tr class="border-b border-slate-100 hover:bg-slate-50">
       <td class="py-2 pr-3 font-semibold text-slate-900 whitespace-nowrap"><span class="inline-block w-2.5 h-2.5 rounded-full mr-1.5 align-middle" style="background:${c.color}" aria-hidden="true"></span>${esc(c.name)} <span class="text-[11px] font-medium text-slate-400">${esc(c.badge)}</span></td>
       <td class="py-2 px-3 text-right">${fmt(p.poll_avg)} %</td>
@@ -322,7 +341,7 @@ function renderPollChart() {
         byIndex.set(i, [...(byIndex.get(i) || []), v]);
       });
       datasets.push({
-        label: 'Sondage individuel', showLine: false,
+        label: t('poll.individual'), showLine: false,
         data: labels.map((_, i) => {
           const vs = byIndex.get(i);
           return vs ? vs.reduce((a, b) => a + b, 0) / vs.length : null;
@@ -349,12 +368,12 @@ function renderMediaChart() {
     pointHoverRadius: 5, tension: 0.25,
   }));
   $('mediaChartNote').textContent = md.length
-    ? `Articles qui traitent du candidat, selon l'analyse de Claude. Collecte depuis le ${md[0].date}.`
-    : "Aucun article analysé pour l'instant : la courbe apparaîtra après la première analyse quotidienne.";
+    ? t('media.since', { date: shortDate(md[0].date) })
+    : t('media.none');
   if (charts.media) charts.media.destroy();
   charts.media = new Chart(canvas('mediaChart'), {
     type: 'line', data: { labels, datasets },
-    options: lineOptions('', { legend: true, tooltipLabel: (/** @type {any} */ item) => ` ${item.dataset.label} : ${item.parsed.y} article(s)` }),
+    options: lineOptions('', { legend: true, tooltipLabel: (/** @type {any} */ item) => ` ${item.dataset.label} : ${item.parsed.y} ${t('unit.article', { n: item.parsed.y })}` }),
   });
 }
 
@@ -364,14 +383,12 @@ function renderFollowers() {
   const change = followersMode === 'change';
   const lastDate = hasData ? f.dates[f.dates.length - 1] : null;
   const ageDays = lastDate ? (Date.parse(data.today) - Date.parse(lastDate)) / 86400000 : 0;
-  const stale = hasData && ageDays > 10 ? ' ⚠️ Relevés anciens : mettre à jour la semaine en cours.' : '';
+  const stale = hasData && ageDays > 10 ? t('followers.stale') : '';
   const note = hasData
-    ? `Relevés du ${f.dates[0]} au ${lastDate}. Un relevé reste valable 14 jours.${stale}`
-    : "Aucun relevé d'abonnés pour l'instant : voir la méthodologie pour la saisie hebdomadaire.";
+    ? t('followers.range', { from: shortDate(f.dates[0]), to: shortDate(lastDate || '') }) + stale
+    : t('followers.none');
   $('followersNote').textContent = note;
-  $('followersPartyNote').textContent = hasData
-    ? 'Somme des 5 membres les plus suivis de chaque parti (liste fixée au dernier relevé).'
-    : note;
+  $('followersPartyNote').textContent = hasData ? t('followers.partyNote') : note;
 
   /** @type {any[]} */
   const candSets = [];
@@ -396,19 +413,13 @@ function renderFollowers() {
     });
   }
   const labelFmt = change ? (/** @type {number} */ v) => `${v > 0 ? '+' : ''}${compact(v)}` : compact;
-  const opts = lineOptions('', {
-    legend: true,
-    tickFormat: labelFmt,
-    tooltipLabel: (/** @type {any} */ item) => ` ${item.dataset.label} : ${change ? signed(item.parsed.y, 0) : fmt(item.parsed.y, 0)}`,
-  });
+  const tooltip = (/** @type {any} */ item) => ` ${item.dataset.label} : ${change ? signed(item.parsed.y, 0) : fmt(item.parsed.y, 0)}`;
   if (charts.followersCand) charts.followersCand.destroy();
-  charts.followersCand = new Chart(canvas('followersCandChart'), { type: 'line', data: { labels: hasData ? f.dates : [], datasets: candSets }, options: opts });
+  charts.followersCand = new Chart(canvas('followersCandChart'), { type: 'line', data: { labels: hasData ? f.dates : [], datasets: candSets },
+    options: lineOptions('', { legend: true, tickFormat: labelFmt, tooltipLabel: tooltip }) });
   if (charts.followersParty) charts.followersParty.destroy();
-  charts.followersParty = new Chart(canvas('followersPartyChart'), { type: 'line', data: { labels: hasData ? f.dates : [], datasets: partySets }, options: lineOptions('', {
-    legend: true,
-    tickFormat: labelFmt,
-    tooltipLabel: (/** @type {any} */ item) => ` ${item.dataset.label} : ${change ? signed(item.parsed.y, 0) : fmt(item.parsed.y, 0)}`,
-  }) });
+  charts.followersParty = new Chart(canvas('followersPartyChart'), { type: 'line', data: { labels: hasData ? f.dates : [], datasets: partySets },
+    options: lineOptions('', { legend: true, tickFormat: labelFmt, tooltipLabel: tooltip }) });
 
   renderFollowersTable();
 }
@@ -417,7 +428,7 @@ function renderFollowersTable() {
   const f = data.followers;
   const table = $('followersTable');
   if (!f || f.dates.length === 0) {
-    table.innerHTML = '<tbody><tr><td class="py-2 text-slate-400">Aucun relevé.</td></tr></tbody>';
+    table.innerHTML = `<tbody><tr><td class="py-2 text-slate-400">${t('followers.empty')}</td></tr></tbody>`;
     return;
   }
   const platforms = f.platforms;
@@ -428,9 +439,9 @@ function renderFollowersTable() {
     return `<tr class="border-b border-slate-100"><td class="px-2 py-1 font-semibold whitespace-nowrap"><span class="inline-block w-2 h-2 rounded-full mr-1" style="background:${candById[s.id].color}"></span>${esc(candById[s.id].name)}</td>${cells}<td class="px-2 py-1 text-right font-bold">${compact(latest)}</td><td class="px-2 py-1 text-right ${delta != null && delta < 0 ? 'text-rose-700' : 'text-emerald-700'}">${delta == null ? '—' : signed(delta, 0)}</td></tr>`;
   }).join('');
   table.innerHTML = `<thead><tr class="text-[10px] uppercase tracking-wider text-slate-500 border-b border-slate-200">
-      <th class="px-2 py-1 text-left">Candidat</th>${platforms.map(p => `<th class="px-2 py-1 text-right">${esc(p)}</th>`).join('')}
-      <th class="px-2 py-1 text-right">Total</th><th class="px-2 py-1 text-right">Depuis le 1er relevé</th></tr></thead>
-    <tbody>${rows || '<tr><td class="py-2 text-slate-400" colspan="8">Aucun candidat coché.</td></tr>'}</tbody>`;
+      <th class="px-2 py-1 text-left">${t('followers.th.candidate')}</th>${platforms.map(p => `<th class="px-2 py-1 text-right">${esc(p)}</th>`).join('')}
+      <th class="px-2 py-1 text-right">${t('followers.th.total')}</th><th class="px-2 py-1 text-right">${t('followers.th.since')}</th></tr></thead>
+    <tbody>${rows || `<tr><td class="py-2 text-slate-400" colspan="8">${t('followers.noneChecked')}</td></tr>`}</tbody>`;
 }
 
 function renderInterviews() {
@@ -451,18 +462,16 @@ function renderInterviews() {
   });
 
   const n = items.length;
-  $('interviewNote').textContent = n
-    ? `${n} interview(s) avec audience publiée dans la presse. Cliquez sur une infobulle pour l'article source.`
-    : "Aucune interview avec audience publiée pour les candidats cochés. Les points apparaissent quand la presse rapporte une audience.";
+  $('interviewNote').textContent = n ? t('interview.count', { n }) : t('interview.none');
 
   const opts = /** @type {any} */ (lineOptions(share ? '%' : '', {
     legend: true,
     tickFormat: share ? (/** @type {number} */ v) => `${v}%` : compact,
-    tooltipLabel: (/** @type {any} */ item) => ` ${item.dataset.label} : ${share ? fmt(item.parsed.y) + ' %' : fmt(item.parsed.y, 0) + ' téléspectateurs'}`,
+    tooltipLabel: (/** @type {any} */ item) => ` ${item.dataset.label} : ${share ? fmt(item.parsed.y) + ' %' : fmt(item.parsed.y, 0) + ' ' + t('interview.tooltip')}`,
     tooltipAfter: (/** @type {any} */ item) => `   ${item.raw.channel}${item.raw.show ? ' — ' + item.raw.show : ''}`,
   }));
   opts.scales.x = { type: 'linear', grid: { display: false }, ticks: { color: MUTED, font: { size: 10 },
-    callback: (/** @type {number} */ v) => v < 1e11 ? '' : new Date(v).toLocaleDateString('fr-FR', { day: '2-digit', month: 'short' }) } };
+    callback: (/** @type {number} */ v) => v < 1e11 ? '' : shortDate(new Date(v).toISOString()) } };
   opts.plugins.tooltip.callbacks.afterTitle = undefined;
   if (charts.interview) charts.interview.destroy();
   charts.interview = new Chart(canvas('interviewChart'), { type: 'scatter', data: { datasets }, options: opts });
@@ -480,9 +489,9 @@ function renderInterviewSummary(ids) {
       <td class="px-2 py-1 text-right">${s.avg_share == null ? '—' : fmt(s.avg_share) + ' %'}</td></tr>`;
   }).join('');
   $('interviewSummary').innerHTML = `<thead><tr class="text-[10px] uppercase tracking-wider text-slate-500 border-b border-slate-200">
-      <th class="px-2 py-1 text-left">Candidat</th><th class="px-2 py-1 text-right">Interviews</th>
-      <th class="px-2 py-1 text-right">Audience moyenne</th><th class="px-2 py-1 text-right">Part moyenne</th></tr></thead>
-    <tbody>${rows || '<tr><td class="py-2 text-slate-400" colspan="4">Aucun candidat coché.</td></tr>'}</tbody>`;
+      <th class="px-2 py-1 text-left">${t('interview.th.candidate')}</th><th class="px-2 py-1 text-right">${t('interview.th.count')}</th>
+      <th class="px-2 py-1 text-right">${t('interview.th.avg')}</th><th class="px-2 py-1 text-right">${t('interview.th.share')}</th></tr></thead>
+    <tbody>${rows || `<tr><td class="py-2 text-slate-400" colspan="4">${t('followers.noneChecked')}</td></tr>`}</tbody>`;
 }
 
 /**
@@ -543,19 +552,19 @@ function renderOutlets() {
   const matrix = data.media_by_outlet || {};
   const outlets = Object.keys(matrix);
   if (!outlets.length) {
-    table.innerHTML = '<tr><td class="text-slate-400 py-2">Pas encore d\'articles analysés.</td></tr>';
+    table.innerHTML = `<tr><td class="text-slate-400 py-2">${t('tone.none')}</td></tr>`;
     return;
   }
   const ids = data.projection.map(p => p.id).filter(id => outlets.some(o => matrix[o][id]));
   const leanOf = Object.fromEntries((data.sources.feeds || []).map(f => [f.outlet, f.lean]));
   table.innerHTML = `<thead><tr><th class="text-left pr-3 py-1 text-slate-500">Média</th>${ids.map(id =>
     `<th class="px-1 py-1 text-slate-600 font-semibold whitespace-nowrap">${esc(candById[id].name.split(' ').slice(-1)[0])}</th>`).join('')}</tr></thead>
-    <tbody>${outlets.map(o => `<tr><td class="pr-3 py-0.5 font-semibold text-slate-700 whitespace-nowrap">${esc(o)}${leanOf[o] ? ` <span class="font-normal text-[10px] text-slate-400">${esc(leanOf[o])}</span>` : ''}</td>${ids.map(id => {
+    <tbody>${outlets.map(o => `<tr><td class="pr-3 py-0.5 font-semibold text-slate-700 whitespace-nowrap">${esc(o)}${leanOf[o] ? ` <span class="font-normal text-[10px] text-slate-400">${esc(t('lean.' + leanOf[o]))}</span>` : ''}</td>${ids.map(id => {
       const v = matrix[o][id];
       if (!v) return '<td class="px-1 py-0.5"><div class="h-8 w-16 rounded bg-white border border-slate-100"></div></td>';
       const dark = Math.abs(v.tone) > 1.1;
       return `<td class="px-1 py-0.5"><div class="h-8 w-16 rounded flex items-center justify-center ${dark ? 'text-white' : 'text-slate-800'}"
-        style="background:${toneColor(v.tone)}" title="${esc(o)} — ${esc(candById[id].name)} : ${signed(v.tone, 2)} sur ${v.n} article(s)">${signed(v.tone, 1)} <span class="opacity-70 ml-0.5">(${v.n})</span></div></td>`;
+        style="background:${toneColor(v.tone)}" title="${esc(t('tone.cell', { outlet: o, name: candById[id].name, tone: signed(v.tone, 2), n: v.n, unit: t('unit.article', { n: v.n }) }))}">${signed(v.tone, 1)} <span class="opacity-70 ml-0.5">(${v.n})</span></div></td>`;
     }).join('')}</tr>`).join('')}</tbody>`;
 }
 
@@ -563,25 +572,25 @@ function renderEvents() {
   const container = $('eventsContainer');
   const events = data.events || [];
   if (!events.length) {
-    container.innerHTML = '<p class="text-xs text-slate-400">Aucun événement pour l\'instant.</p>';
+    container.innerHTML = `<p class="text-xs text-slate-400">${t('events.none')}</p>`;
     return;
   }
   container.innerHTML = events.slice(0, 16).map(ev => `
     <details class="group p-4 rounded-2xl bg-slate-50 border border-slate-200 transition hover:border-indigo-300">
       <summary class="cursor-pointer outline-none">
         <div class="flex items-center justify-between mb-2 gap-2">
-          <span class="text-xs font-extrabold text-indigo-700 bg-indigo-50 px-2 py-0.5 rounded-lg">${esc(ev.date)}</span>
-          <span class="text-[10px] font-bold uppercase tracking-wider ${ev.origin === 'presse' ? 'text-amber-800 bg-amber-50' : 'text-slate-600 bg-slate-200'} px-2 py-0.5 rounded">${ev.origin === 'presse' ? 'Presse' : 'Wikipédia'}</span>
+          <span class="text-xs font-extrabold text-indigo-700 bg-indigo-50 px-2 py-0.5 rounded-lg">${esc(shortDate(ev.date))}</span>
+          <span class="text-[10px] font-bold uppercase tracking-wider ${ev.origin === 'presse' ? 'text-amber-800 bg-amber-50' : 'text-slate-600 bg-slate-200'} px-2 py-0.5 rounded">${ev.origin === 'presse' ? t('events.presse') : t('events.wiki')}</span>
         </div>
         <h3 class="font-bold text-slate-900 text-sm leading-snug">${esc(ev.title)}</h3>
       </summary>
       <div class="mt-3 pt-3 border-t border-slate-200 space-y-2">
         ${ev.description ? `<p class="text-[11px] text-slate-600 whitespace-pre-line leading-relaxed">${esc(ev.description)}</p>` : ''}
-        ${ev.candidates?.length ? `<p class="text-[11px] text-slate-500">Concerne : ${ev.candidates.map(id => esc(candById[id]?.name || id)).join(', ')}</p>` : ''}
+        ${ev.candidates?.length ? `<p class="text-[11px] text-slate-500">${t('events.concerns', { list: ev.candidates.map(id => esc(candById[id]?.name || id)).join(', ') })}</p>` : ''}
         <ul class="text-[11px] space-y-1">${(ev.sources || []).map(s =>
-          `<li><a class="text-indigo-700 underline" href="${esc(safeUrl(s.url))}" target="_blank" rel="noopener noreferrer">${esc(s.outlet)}</a>${s.title && ev.origin === 'presse' ? ' — ' + esc(s.title) : ''}</li>`).join('') || '<li class="text-slate-400">Pas de lien source</li>'}</ul>
+          `<li><a class="text-indigo-700 underline" href="${esc(safeUrl(s.url))}" target="_blank" rel="noopener noreferrer">${esc(s.outlet)}</a>${s.title && ev.origin === 'presse' ? ' — ' + esc(s.title) : ''}</li>`).join('') || `<li class="text-slate-400">${t('events.nosource')}</li>`}</ul>
       </div>
-    </details>`).join('');
+    </details>`).join('') + `<p class="col-span-full text-[11px] text-slate-400">${t('events.language')}</p>`;
 }
 
 init();
