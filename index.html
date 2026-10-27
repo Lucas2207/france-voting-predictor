@@ -3,89 +3,122 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>République Française • Élection Présidentielle 2027</title>
+  <title>Présidentielle 2027 • Sondages, médias et projection</title>
   <script src="https://cdn.tailwindcss.com"></script>
-  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4"></script>
   <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
-  <style> body { font-family: 'Plus Jakarta Sans', sans-serif; background-color: #F8FAFC; } details > summary { list-style: none; } details > summary::-webkit-details-marker { display: none; } </style>
+  <style>
+    body { font-family: 'Plus Jakarta Sans', sans-serif; background-color: #F8FAFC; }
+    details > summary { list-style: none; } details > summary::-webkit-details-marker { display: none; }
+    .num { font-variant-numeric: tabular-nums; }
+  </style>
 </head>
 <body class="text-slate-800 min-h-screen p-4 md:p-8">
   <div class="max-w-[1550px] mx-auto space-y-6">
-    
-    <!-- En-tête Institutionnel Officiel -->
+
     <header class="flex flex-col md:flex-row justify-between items-start md:items-center bg-white p-6 rounded-2xl shadow-sm border border-slate-200">
       <div class="flex items-center gap-4">
-        <!-- Blason / Drapeau Français Officiel tricolore proportionné -->
-        <div class="flex items-center shadow-md rounded-xl overflow-hidden border border-slate-300 h-14 w-20">
+        <div class="flex items-center shadow-md rounded-xl overflow-hidden border border-slate-300 h-14 w-20" aria-hidden="true">
           <div class="w-1/3 h-full bg-[#002654]"></div>
           <div class="w-1/3 h-full bg-[#FFFFFF]"></div>
           <div class="w-1/3 h-full bg-[#ED2939]"></div>
         </div>
-        
-        <!-- Bloc Blason République Française & Urne -->
         <div>
           <div class="flex items-center gap-2 mb-1">
-            <span class="text-[11px] font-extrabold uppercase tracking-widest text-blue-900 bg-blue-50 px-3 py-0.5 rounded-full border border-blue-200 flex items-center gap-1.5">
-              <span>🇫🇷</span> République Française • Liberté Égalité Fraternité
-            </span>
-            <span class="text-xs font-bold text-indigo-600 bg-indigo-50 px-2.5 py-0.5 rounded-full flex items-center gap-1">
-              🗳️ Urne & Scrutin 2027
-            </span>
+            <span class="text-[11px] font-extrabold uppercase tracking-widest text-blue-900 bg-blue-50 px-3 py-0.5 rounded-full border border-blue-200">Élection présidentielle 2027 • 1er tour</span>
           </div>
-          <h1 class="text-2xl font-extrabold text-slate-900 tracking-tight">Tableau de bord et prédiction média-sociale</h1>
+          <h1 class="text-2xl font-extrabold text-slate-900 tracking-tight">Intentions de vote : sondages, traitement médiatique et projection</h1>
+          <p class="text-xs text-slate-500 mt-1">Projet indépendant — ni sondage, ni site officiel. Voir la méthodologie en bas de page.</p>
         </div>
       </div>
-      
-      <div class="mt-4 md:mt-0 flex items-center gap-3">
-        <span class="text-xs font-semibold text-slate-600 bg-slate-100 px-3 py-2 rounded-xl border border-slate-200" id="lastUpdated">Mise à jour...</span>
-        <button onclick="location.reload()" class="bg-indigo-600 hover:bg-indigo-700 text-white px-4 py-2 rounded-xl text-xs font-bold shadow-md transition flex items-center gap-1.5">
-          🔄 Actualiser
-        </button>
+      <div class="mt-4 md:mt-0 text-right space-y-1">
+        <div class="text-xs font-semibold text-slate-600 bg-slate-100 px-3 py-2 rounded-xl border border-slate-200" id="lastUpdated">Chargement…</div>
+        <div class="text-[11px] text-slate-400" id="sourceSummary"></div>
       </div>
     </header>
 
-    <!-- Filtres & Calculateur -->
-    <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
-      <div class="bg-white p-5 rounded-2xl shadow-sm border border-slate-200 space-y-2">
-        <label for="candidateSelect" class="text-xs font-bold text-slate-500 uppercase tracking-wider">🎯 Isoler un Candidat & Parti</label>
-        <select id="candidateSelect" onchange="filterCandidates()" class="w-full bg-slate-50 border border-slate-300 text-slate-800 text-sm font-semibold rounded-xl p-2.5 focus:ring-2 focus:ring-indigo-500 outline-none">
-          <option value="ALL">Tous les candidats (Vue d'ensemble)</option>
-        </select>
-        <p class="text-[11px] text-slate-400 mt-1">Méthodologie : Agrégation des flux RSS médias et engagement multi-plateforme.</p>
+    <!-- Projection -->
+    <section class="bg-white p-6 rounded-2xl shadow-sm border border-slate-200 space-y-3">
+      <div class="flex flex-wrap justify-between items-baseline gap-2">
+        <h2 class="text-base font-bold text-slate-900">Projection du 1er tour</h2>
+        <span class="text-[11px] text-slate-500" id="mediaStatus"></span>
       </div>
-      <div class="bg-white p-5 rounded-2xl shadow-sm border border-slate-200 col-span-2 flex flex-col justify-center space-y-2">
-        <span class="text-xs font-bold text-slate-500 uppercase tracking-wider" id="calculatorTitle">📊 Calculateur d'évolution (Du 01 Octobre à Aujourd'hui)</span>
-        <div id="calculatorResults" class="flex flex-wrap gap-4 text-xs font-medium text-slate-700">
-          Chargement...
-        </div>
+      <div class="overflow-x-auto">
+        <table class="w-full text-sm num">
+          <thead class="text-[11px] uppercase tracking-wider text-slate-500 border-b border-slate-200">
+            <tr>
+              <th class="text-left py-2 pr-3">Candidat</th>
+              <th class="text-right py-2 px-3">Moyenne sondages</th>
+              <th class="text-right py-2 px-3">Intervalle 95 %</th>
+              <th class="text-right py-2 px-3">Évol. 7 j</th>
+              <th class="text-right py-2 px-3">Articles 7 j</th>
+              <th class="text-right py-2 px-3">Part de voix</th>
+              <th class="text-right py-2 px-3">Tonalité 7 j</th>
+              <th class="text-right py-2 px-3">Ajust. média</th>
+              <th class="text-right py-2 pl-3">Projection</th>
+            </tr>
+          </thead>
+          <tbody id="projectionBody"></tbody>
+        </table>
       </div>
-    </div>
+    </section>
 
-    <!-- Section Repères Chronologiques -->
-    <div class="bg-white p-6 rounded-2xl shadow-sm border border-slate-200 space-y-4">
-      <h3 class="text-xs font-bold text-slate-400 uppercase tracking-wider">📍 Repères Chronologiques & Analyse des Crises (Cliquez sur une carte pour voir les détails)</h3>
-      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4" id="eventsContainer"></div>
+    <!-- Filtre -->
+    <div class="flex flex-wrap items-center gap-3">
+      <label for="candidateSelect" class="text-xs font-bold text-slate-500 uppercase tracking-wider">Afficher</label>
+      <select id="candidateSelect" class="bg-white border border-slate-300 text-slate-800 text-sm font-semibold rounded-xl p-2.5 focus:ring-2 focus:ring-indigo-500 outline-none"></select>
+      <span class="text-[11px] text-slate-400">Un seul candidat : affiche son intervalle et chaque sondage individuel.</span>
     </div>
 
     <!-- Graphiques -->
     <div class="grid grid-cols-1 lg:grid-cols-2 gap-6">
       <div class="bg-white rounded-2xl p-6 shadow-sm border border-slate-200 space-y-4">
-        <div class="flex justify-between items-center">
-          <h2 class="text-base font-bold text-slate-900">Intentions de Vote Projetées (%)</h2>
-          <span class="text-xs text-slate-400 bg-slate-100 px-2.5 py-1 rounded-lg">Agrégateur sondages</span>
+        <div>
+          <h2 class="text-base font-bold text-slate-900">Moyenne des sondages (%)</h2>
+          <p class="text-[11px] text-slate-500">Moyenne pondérée des derniers sondages de chaque institut (30 jours glissants).</p>
         </div>
-        <div class="relative h-[420px] w-full"><canvas id="votingChart"></canvas></div>
+        <div class="relative h-[420px] w-full"><canvas id="pollChart"></canvas></div>
       </div>
-
       <div class="bg-white rounded-2xl p-6 shadow-sm border border-slate-200 space-y-4">
-        <div class="flex justify-between items-center">
-          <h2 class="text-base font-bold text-slate-900">Followers Réseaux Sociaux (Millions - Écosystèmes)</h2>
-          <span class="text-xs text-slate-400 bg-slate-100 px-2.5 py-1 rounded-lg">Zoom dynamique</span>
+        <div>
+          <h2 class="text-base font-bold text-slate-900">Couverture médiatique (articles par jour)</h2>
+          <p class="text-[11px] text-slate-500" id="mediaChartNote">Articles des flux RSS qui traitent du candidat, selon l'analyse de Claude.</p>
         </div>
-        <div class="relative h-[420px] w-full"><canvas id="socialChart"></canvas></div>
+        <div class="relative h-[420px] w-full"><canvas id="mediaChart"></canvas></div>
       </div>
     </div>
 
+    <!-- Tonalité par média -->
+    <section class="bg-white p-6 rounded-2xl shadow-sm border border-slate-200 space-y-3">
+      <div>
+        <h2 class="text-base font-bold text-slate-900">Traitement par média (7 derniers jours)</h2>
+        <p class="text-[11px] text-slate-500">Tonalité moyenne des articles envers chaque candidat, de −2 (très défavorable) à +2 (très favorable). Entre parenthèses : nombre d'articles. Case vide = aucun article.</p>
+      </div>
+      <div class="overflow-x-auto"><table class="text-xs num" id="outletTable"></table></div>
+      <div class="flex items-center gap-2 text-[11px] text-slate-500" aria-hidden="true">
+        <span>−2</span>
+        <span class="h-3 w-40 rounded" style="background: linear-gradient(90deg, #e34948, #f0efec, #2a78d6)"></span>
+        <span>+2</span>
+      </div>
+    </section>
+
+    <!-- Événements -->
+    <section class="bg-white p-6 rounded-2xl shadow-sm border border-slate-200 space-y-4">
+      <div>
+        <h2 class="text-base font-bold text-slate-900">Événements marquants</h2>
+        <p class="text-[11px] text-slate-500">« Presse » : détecté par Claude dans les titres du jour, avec au moins deux médias. « Wikipédia » : annotation du tableau des sondages. Chaque carte renvoie à ses sources.</p>
+      </div>
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4" id="eventsContainer"></div>
+    </section>
+
+    <!-- Méthodologie -->
+    <section class="bg-white p-6 rounded-2xl shadow-sm border border-slate-200 space-y-2 text-xs text-slate-600 leading-relaxed" id="methodology">
+      <h2 class="text-base font-bold text-slate-900">Méthodologie et limites</h2>
+      <p><strong>Sondages.</strong> Les enquêtes du premier tour sont lues chaque jour sur la page Wikipédia qui les recense (<a id="pollSourceLink" class="text-indigo-600 underline" href="#">source</a>). Un institut teste souvent plusieurs hypothèses : on ne garde que les plus complètes (nombre de candidats maximal), puis on fait la moyenne. Pour chaque jour, on prend le dernier sondage de chaque institut sur 30 jours, pondéré par son ancienneté (demi-vie de 14 jours) et la taille de son échantillon. L'intervalle combine l'erreur d'échantillonnage et l'écart entre instituts.</p>
+      <p><strong>Médias.</strong> Les flux RSS politiques d'environ 17 médias, de L'Humanité à Valeurs actuelles, sont collectés chaque jour. Les articles qui citent un candidat sont analysés par Claude (Anthropic), qui note la tonalité du traitement de −2 à +2 et l'angle choisi. Chaque média compte pour une voix, pour qu'un titre très prolifique ne domine pas le résultat.</p>
+      <p><strong>Projection.</strong> Projection = moyenne des sondages + ajustement média. L'ajustement vaut <span id="paramBeta">1,5</span> point par unité de variation de tonalité (7 derniers jours comparés aux 28 précédents), plafonné à ±<span id="paramCap">2</span> points, et reste nul tant qu'il n'y a pas 14 jours d'historique médiatique. <strong>Ce coefficient est une hypothèse de travail, pas un paramètre estimé</strong> : il faudra plusieurs mois de données pour vérifier si la tonalité médiatique annonce réellement les évolutions des sondages.</p>
+      <p><strong>Limites.</strong> Un flux RSS ne contient que le titre et le chapô. L'analyse automatique peut se tromper. Les flux surreprésentent la presse nationale. Les sondages ne sont pas des prédictions, et l'offre de candidats n'est pas encore fixée.</p>
+    </section>
   </div>
 
   <script src="app.js"></script>

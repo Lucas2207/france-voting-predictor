@@ -1,0 +1,87 @@
+[
+ {
+  "outlet": "L'Humanité",
+  "ok": true,
+  "items": 20
+ },
+ {
+  "outlet": "Mediapart",
+  "ok": true,
+  "items": 10
+ },
+ {
+  "outlet": "Libération",
+  "ok": true,
+  "items": 50
+ },
+ {
+  "outlet": "Le Monde",
+  "ok": true,
+  "items": 20
+ },
+ {
+  "outlet": "franceinfo",
+  "ok": true,
+  "items": 20
+ },
+ {
+  "outlet": "France 24",
+  "ok": true,
+  "items": 30
+ },
+ {
+  "outlet": "RFI",
+  "ok": true,
+  "items": 30
+ },
+ {
+  "outlet": "20 Minutes",
+  "ok": true,
+  "items": 20
+ },
+ {
+  "outlet": "Ouest-France",
+  "ok": true,
+  "items": 10
+ },
+ {
+  "outlet": "La Croix",
+  "ok": true,
+  "items": 50
+ },
+ {
+  "outlet": "Marianne",
+  "ok": true,
+  "items": 20
+ },
+ {
+  "outlet": "BFMTV",
+  "ok": true,
+  "items": 30
+ },
+ {
+  "outlet": "Le Parisien",
+  "ok": true,
+  "items": 100
+ },
+ {
+  "outlet": "L'Express",
+  "ok": true,
+  "items": 100
+ },
+ {
+  "outlet": "Les Échos",
+  "ok": false,
+  "error": "503 Server Error: Backend fetch failed for url: https://syndication.lesechos.fr/rss/rss_politique.xml"
+ },
+ {
+  "outlet": "Le Figaro",
+  "ok": true,
+  "items": 20
+ },
+ {
+  "outlet": "Valeurs actuelles",
+  "ok": true,
+  "items": 10
+ }
+]
