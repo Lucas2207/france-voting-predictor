@@ -12,22 +12,30 @@
 <body class="text-slate-800 min-h-screen p-4 md:p-8">
   <div class="max-w-[1550px] mx-auto space-y-6">
     
-    <!-- En-tête Institutionnel -->
+    <!-- En-tête Institutionnel Officiel -->
     <header class="flex flex-col md:flex-row justify-between items-start md:items-center bg-white p-6 rounded-2xl shadow-sm border border-slate-200">
       <div class="flex items-center gap-4">
-        <div class="flex h-12 w-16 rounded-xl overflow-hidden shadow-inner border border-slate-200">
-          <div class="w-1/3 bg-blue-600"></div>
-          <div class="w-1/3 bg-white"></div>
-          <div class="w-1/3 bg-red-600"></div>
+        <!-- Blason / Drapeau Français Officiel tricolore proportionné -->
+        <div class="flex items-center shadow-md rounded-xl overflow-hidden border border-slate-300 h-14 w-20">
+          <div class="w-1/3 h-full bg-[#002654]"></div>
+          <div class="w-1/3 h-full bg-[#FFFFFF]"></div>
+          <div class="w-1/3 h-full bg-[#ED2939]"></div>
         </div>
+        
+        <!-- Bloc Blason République Française & Urne -->
         <div>
-          <div class="flex items-center gap-2">
-            <span class="text-xs font-bold uppercase tracking-widest text-indigo-600 bg-indigo-50 px-2.5 py-0.5 rounded-full">République Française</span>
-            <span class="text-xs font-semibold text-slate-400">Élection Présidentielle • Suivi continu</span>
+          <div class="flex items-center gap-2 mb-1">
+            <span class="text-[11px] font-extrabold uppercase tracking-widest text-blue-900 bg-blue-50 px-3 py-0.5 rounded-full border border-blue-200 flex items-center gap-1.5">
+              <span>🇫🇷</span> République Française • Liberté Égalité Fraternité
+            </span>
+            <span class="text-xs font-bold text-indigo-600 bg-indigo-50 px-2.5 py-0.5 rounded-full flex items-center gap-1">
+              🗳️ Urne & Scrutin 2027
+            </span>
           </div>
-          <h1 class="text-2xl font-extrabold text-slate-900 tracking-tight mt-0.5">Tableau de Bord & Prédiction Média-Sociale</h1>
+          <h1 class="text-2xl font-extrabold text-slate-900 tracking-tight">Tableau de bord et prédiction média-sociale</h1>
         </div>
       </div>
+      
       <div class="mt-4 md:mt-0 flex items-center gap-3">
         <span class="text-xs font-semibold text-slate-600 bg-slate-100 px-3 py-2 rounded-xl border border-slate-200" id="lastUpdated">Mise à jour...</span>
         <button onclick="location.reload()" class="bg-indigo-600 hover:bg-indigo-700 text-white px-4 py-2 rounded-xl text-xs font-bold shadow-md transition flex items-center gap-1.5">
@@ -53,12 +61,10 @@
       </div>
     </div>
 
-    <!-- Section Repères Chronologiques avec Dropdown / Accordéon -->
+    <!-- Section Repères Chronologiques -->
     <div class="bg-white p-6 rounded-2xl shadow-sm border border-slate-200 space-y-4">
-      <h3 class="text-xs font-bold text-slate-400 uppercase tracking-wider">📍 Repères Chronologiques & Analyse des Crises (Cliquez pour étendre)</h3>
-      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4" id="eventsContainer">
-        <!-- Injecté par JS -->
-      </div>
+      <h3 class="text-xs font-bold text-slate-400 uppercase tracking-wider">📍 Repères Chronologiques & Analyse des Crises (Cliquez sur une carte pour voir les détails)</h3>
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4" id="eventsContainer"></div>
     </div>
 
     <!-- Graphiques -->
