@@ -22,7 +22,7 @@ YOUTUBE_FILE = DATA / "youtube.json"
 YOUTUBE_CHANNELS = Path("config/youtube_channels.json")
 PARTIES_FILE = Path("config/parties.json")
 OUTPUT = Path("live_data.json")
-ANALYSE_DAYS = 3       # jours récents (re)vérifiés à chaque exécution
+ANALYSE_DAYS = 7       # jours d'articles analysés à chaque exécution (= durée de conservation)
 MAX_ARTICLE_AGE = 7    # ignore les vieux articles remontés par certains flux
 HISTORY_DAYS = 180
 KNOWN_WINDOW = 14      # jours pendant lesquels un événement est proposé au modèle comme déjà connu
@@ -69,6 +69,9 @@ def main():
     feed_status = _load(DATA / "feed_status.json", [])
     if not args.no_fetch:
         articles, feed_status = news.fetch_feeds(feeds)
+        search_articles, search_status = news.fetch_candidate_search(candidates, news.lean_by_outlet(feeds))
+        articles += search_articles
+        feed_status = feed_status + [search_status]
         cutoff = (today - timedelta(days=MAX_ARTICLE_AGE)).isoformat()
         articles = [a for a in articles if a["published"][:10] >= cutoff]
         added = news.store(articles, candidates)

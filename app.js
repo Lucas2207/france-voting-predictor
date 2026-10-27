@@ -17,7 +17,7 @@
  * @typedef {{ dates: string[], platforms: string[], candidates: PersonSeries[], parties: PartySeries[], influencers: PersonSeries[] }} Followers
  * @typedef {{ date: string, candidate: string, channel: string, show: string | null, audience_viewers: number | null, audience_share: number | null, source: SourceLink }} Interview
  * @typedef {Record<string, { count: number, avg_viewers: number | null, avg_share: number | null }>} InterviewSummary
- * @typedef {{ id: string, name: string, color: string | null, views: (number | null)[], change: (number | null)[], subscribers: (number | null)[], latest: { date: string, views: number, subscribers: number | null, videos: number, title: string } | null }} YouTubeSeries
+ * @typedef {{ id: string, name: string, color: string | null, group?: string | null, views: (number | null)[], change: (number | null)[], subscribers: (number | null)[], latest: { date: string, views: number, subscribers: number | null, videos: number, title: string } | null }} YouTubeSeries
  * @typedef {{ dates: string[], candidates: YouTubeSeries[], media: YouTubeSeries[], influencers: YouTubeSeries[] }} YouTube
  * @typedef {{ id: string, name: string, party: string, statut: 'non_candidat' | 'a_verifier', note: string, followers: number | null, youtube_views: number | null, youtube_subscribers: number | null }} Influencer
  * @typedef {{ last_updated: string, today: string, candidates: Candidate[], parties: Party[], influencers: Influencer[], youtube: YouTube, projection: Projection[], history: HistoryEntry[], polls: Poll[], media_daily: MediaDay[], media_by_outlet: Record<string, Record<string, { tone: number, n: number }>>, events: CampaignEvent[], followers: Followers, interviews: Interview[], interview_summary: InterviewSummary, sources: Sources, parameters?: Record<string, number> }} LiveData
@@ -104,6 +104,8 @@ async function init() {
   data.candidates.filter(c => c.main).forEach(c => selected.add(`cand:${c.id}`));
   (data.parties || []).forEach(p => selected.add(`party:${p.id}`));
   buildPicker();
+  (data.influencers || []).forEach(i => influencerIncluded.add(i.id));
+  wireInfluencerControls();
 
   renderEverything();
 }
@@ -147,19 +149,102 @@ function renderMethodology() {
   $('methodologyBody').innerHTML = paragraphs.map(k => `<p>${t(k, params)}</p>`).join('');
 }
 
-/** Personnalités influentes non candidates : abonnés et audience YouTube. */
+/** Tri et sélection des personnalités influentes. */
+/** @type {{ key: 'name' | 'party' | 'followers' | 'views', dir: 'asc' | 'desc' }} */
+let influencerSort = { key: 'followers', dir: 'desc' };
+/** @type {Set<string>} identifiants des personnalités cochées */
+const influencerIncluded = new Set();
+
+/** @param {Influencer} i */
+const partyLabel = (i) => partyById[i.party] ? partyById[i.party].name : i.party;
+
+/** @param {Influencer} i @param {string} key */
+function influencerValue(i, key) {
+  if (key === 'name') return i.name;
+  if (key === 'party') return partyLabel(i);
+  if (key === 'followers') return i.followers;
+  return i.youtube_views;
+}
+
+/** Personnalités triées selon le choix ; les valeurs absentes restent en bas de liste. */
+function sortedInfluencers() {
+  const rows = [...(data.influencers || [])];
+  const { key, dir } = influencerSort;
+  const sign = dir === 'asc' ? 1 : -1;
+  rows.sort((x, y) => {
+    const a = influencerValue(x, key);
+    const b = influencerValue(y, key);
+    if (a == null || b == null) return a == null && b == null ? 0 : a == null ? 1 : -1;
+    if (typeof a === 'string' && typeof b === 'string') return sign * a.localeCompare(b, LOCALES[lang]);
+    return sign * (Number(a) - Number(b));
+  });
+  return rows;
+}
+
+/** Libellé du bouton de sens : A → Z pour le nom, croissant/décroissant pour les nombres. */
+function renderInfluencerControls() {
+  const { key, dir } = influencerSort;
+  const sel = /** @type {HTMLSelectElement} */ ($('infSortKey'));
+  sel.value = key;
+  const label = key === 'name' || key === 'party'
+    ? (dir === 'asc' ? t('inf.dir.az') : t('inf.dir.za'))
+    : (dir === 'asc' ? t('inf.dir.asc') : t('inf.dir.desc'));
+  $('infSortDir').textContent = label;
+}
+
+/** Personnalités influentes non candidates : abonnés, audience YouTube et total par parti. */
 function renderInfluencers() {
-  const rows = [...(data.influencers || [])].sort((a, b) => (b.followers ?? -1) - (a.followers ?? -1));
+  renderInfluencerControls();
+  const rows = sortedInfluencers();
   $('influencersTable').innerHTML = `<thead><tr class="text-[10px] uppercase tracking-wider text-slate-500 border-b border-slate-200">
+      <th class="px-2 py-1 text-left">${t('inf.th.include')}</th>
       <th class="px-2 py-1 text-left">${t('influencers.th.person')}</th><th class="px-2 py-1 text-left">${t('influencers.th.party')}</th><th class="px-2 py-1 text-left">${t('influencers.th.status')}</th>
       <th class="px-2 py-1 text-right">${t('influencers.th.followers')}</th><th class="px-2 py-1 text-right">${t('influencers.th.views')}</th><th class="px-2 py-1 text-right">${t('influencers.th.subs')}</th></tr></thead>
-    <tbody>${rows.map(i => `<tr class="border-b border-slate-100">
+    <tbody>${rows.map(i => `<tr class="border-b border-slate-100 ${influencerIncluded.has(i.id) ? '' : 'opacity-40'}">
+      <td class="px-2 py-1"><input type="checkbox" data-inf="${esc(i.id)}" class="rounded border-slate-300 text-indigo-600 focus:ring-indigo-500" ${influencerIncluded.has(i.id) ? 'checked' : ''}></td>
       <td class="px-2 py-1 font-semibold whitespace-nowrap">${esc(i.name)}</td>
-      <td class="px-2 py-1 whitespace-nowrap">${esc(partyById[i.party] ? partyById[i.party].name : i.party)}</td>
+      <td class="px-2 py-1 whitespace-nowrap">${esc(partyLabel(i))}</td>
       <td class="px-2 py-1" title="${esc(i.note)}">${esc(t('status.' + i.statut))}</td>
       <td class="px-2 py-1 text-right">${compact(i.followers)}</td>
       <td class="px-2 py-1 text-right">${compact(i.youtube_views)}</td>
       <td class="px-2 py-1 text-right">${compact(i.youtube_subscribers)}</td></tr>`).join('')}</tbody>`;
+
+  // Total cumulé par parti, uniquement pour les personnalités cochées
+  /** @type {Record<string, { count: number, followers: number | null, views: number | null, subs: number | null }>} */
+  const byParty = {};
+  (data.influencers || []).filter(i => influencerIncluded.has(i.id)).forEach(i => {
+    const g = byParty[partyLabel(i)] || (byParty[partyLabel(i)] = { count: 0, followers: null, views: null, subs: null });
+    g.count += 1;
+    if (i.followers != null) g.followers = (g.followers || 0) + i.followers;
+    if (i.youtube_views != null) g.views = (g.views || 0) + i.youtube_views;
+    if (i.youtube_subscribers != null) g.subs = (g.subs || 0) + i.youtube_subscribers;
+  });
+  const totals = Object.entries(byParty).sort((a, b) => (b[1].followers ?? -1) - (a[1].followers ?? -1));
+  $('partyTotalsTable').innerHTML = `<thead><tr class="text-[10px] uppercase tracking-wider text-slate-500 border-b border-slate-200">
+      <th class="px-2 py-1 text-left">${t('influencers.th.party')}</th><th class="px-2 py-1 text-right">${t('inf.th.count')}</th>
+      <th class="px-2 py-1 text-right">${t('influencers.th.followers')}</th><th class="px-2 py-1 text-right">${t('influencers.th.views')}</th><th class="px-2 py-1 text-right">${t('influencers.th.subs')}</th></tr></thead>
+    <tbody>${totals.map(([party, g]) => `<tr class="border-b border-slate-100">
+      <td class="px-2 py-1 font-semibold whitespace-nowrap">${esc(party)}</td><td class="px-2 py-1 text-right">${g.count}</td>
+      <td class="px-2 py-1 text-right font-bold">${compact(g.followers)}</td><td class="px-2 py-1 text-right">${compact(g.views)}</td>
+      <td class="px-2 py-1 text-right">${compact(g.subs)}</td></tr>`).join('') || `<tr><td class="py-2 text-slate-400" colspan="5">${t('followers.noneChecked')}</td></tr>`}</tbody>`;
+}
+
+/** Écouteurs des contrôles de tri et de sélection (installés une fois). */
+function wireInfluencerControls() {
+  $('infSortKey').addEventListener('change', (ev) => {
+    influencerSort = { ...influencerSort, key: /** @type {any} */ (/** @type {HTMLSelectElement} */ (ev.target).value) };
+    renderInfluencers();
+  });
+  $('infSortDir').addEventListener('click', () => {
+    influencerSort = { ...influencerSort, dir: influencerSort.dir === 'asc' ? 'desc' : 'asc' };
+    renderInfluencers();
+  });
+  $('influencersTable').addEventListener('change', (ev) => {
+    const t = /** @type {HTMLInputElement} */ (ev.target);
+    if (!t.dataset.inf) return;
+    if (t.checked) influencerIncluded.add(t.dataset.inf); else influencerIncluded.delete(t.dataset.inf);
+    renderInfluencers();
+  });
 }
 
 /** @param {string} key @param {string} label @param {string} color @param {string} badge */
@@ -251,9 +336,16 @@ function renderYouTube() {
   charts.ytCand = new Chart(canvas('ytCandChart'), { type: 'line',
     data: { labels: hasData ? yt.dates : [], datasets: sets(yt.candidates, 'cand:') },
     options: lineOptions('', { legend: true, tickFormat: labelFmt, tooltipLabel: tooltip }) });
-  if (charts.ytMedia) charts.ytMedia.destroy();
-  charts.ytMedia = new Chart(canvas('ytMediaChart'), { type: 'line',
-    data: { labels: hasData ? yt.dates : [], datasets: sets(yt.media, 'media:') },
+  // Médias : deux graphiques, télévisions et radios (10 couleurs au plus), presse
+  const mediaOf = (/** @type {string} */ group) => yt.media.filter(s => s.group === group);
+  const tvRadio = [...mediaOf('tv'), ...mediaOf('radio')];
+  if (charts.ytMediaTv) charts.ytMediaTv.destroy();
+  charts.ytMediaTv = new Chart(canvas('ytMediaTvChart'), { type: 'line',
+    data: { labels: hasData ? yt.dates : [], datasets: sets(tvRadio, 'media:') },
+    options: lineOptions('', { legend: true, tickFormat: labelFmt, tooltipLabel: tooltip }) });
+  if (charts.ytMediaPresse) charts.ytMediaPresse.destroy();
+  charts.ytMediaPresse = new Chart(canvas('ytMediaPresseChart'), { type: 'line',
+    data: { labels: hasData ? yt.dates : [], datasets: sets(mediaOf('presse'), 'media:') },
     options: lineOptions('', { legend: true, tickFormat: labelFmt, tooltipLabel: tooltip }) });
 
   /** @type {string[]} */
@@ -288,7 +380,7 @@ function renderProjection() {
     const c = candById[p.id];
     const m = p.media;
     const ch = p.change_7d;
-    const chCls = ch != null && ch > 0.2 ? 'text-emerald-700' : ch != null && ch < -0.2 ? 'text-rose-700' : 'text-slate-500';
+    const chCls = ch != null && ch > 0.2 ? 'text-[#1d5fb0]' : ch != null && ch < -0.2 ? 'text-[#c62f2e]' : 'text-slate-500';
     const lowN = p.n_polls < 5
       ? ` <span class="block text-[10px] text-amber-700">${t('proj.lowN', { n: p.n_polls })}</span>` : '';
     const adj = m.status === 'ok'
@@ -435,7 +527,7 @@ function renderFollowersTable() {
     const latest = s.followers[s.followers.length - 1];
     const cells = platforms.map(p => `<td class="px-2 py-1 text-right">${compact(s.latest_by_platform[p])}</td>`).join('');
     const delta = s.change[s.change.length - 1];
-    return `<tr class="border-b border-slate-100"><td class="px-2 py-1 font-semibold whitespace-nowrap"><span class="inline-block w-2 h-2 rounded-full mr-1" style="background:${candById[s.id].color}"></span>${esc(candById[s.id].name)}</td>${cells}<td class="px-2 py-1 text-right font-bold">${compact(latest)}</td><td class="px-2 py-1 text-right ${delta != null && delta < 0 ? 'text-rose-700' : 'text-emerald-700'}">${delta == null ? '—' : signed(delta, 0)}</td></tr>`;
+    return `<tr class="border-b border-slate-100"><td class="px-2 py-1 font-semibold whitespace-nowrap"><span class="inline-block w-2 h-2 rounded-full mr-1" style="background:${candById[s.id].color}"></span>${esc(candById[s.id].name)}</td>${cells}<td class="px-2 py-1 text-right font-bold">${compact(latest)}</td><td class="px-2 py-1 text-right ${delta != null && delta < 0 ? 'text-[#c62f2e]' : 'text-[#1d5fb0]'}">${delta == null ? '—' : signed(delta, 0)}</td></tr>`;
   }).join('');
   table.innerHTML = `<thead><tr class="text-[10px] uppercase tracking-wider text-slate-500 border-b border-slate-200">
       <th class="px-2 py-1 text-left">${t('followers.th.candidate')}</th>${platforms.map(p => `<th class="px-2 py-1 text-right">${esc(p)}</th>`).join('')}
@@ -511,9 +603,11 @@ function lineOptions(unit, { legend, tickFormat, tooltipLabel, tooltipAfter }) {
         position: 'bottom',
         labels: { boxWidth: 12, boxHeight: 2, font: { size: 11, weight: '600' }, color: INK,
                   filter: (/** @type {any} */ item) => !String(item.text).startsWith('_') },
+        onHover: (/** @type {any} */ _e, /** @type {any} */ item, /** @type {any} */ legend) => focusSeries(legend.chart, item.datasetIndex),
+        onLeave: (/** @type {any} */ _e, /** @type {any} */ _item, /** @type {any} */ legend) => focusSeries(legend.chart, null),
       },
       tooltip: {
-        backgroundColor: '#0F172A', padding: 12, cornerRadius: 8, usePointStyle: true,
+        backgroundColor: 'rgba(15, 23, 42, 0.78)', padding: 12, cornerRadius: 8, usePointStyle: true,
         filter: (/** @type {any} */ item) => !String(item.dataset.label).startsWith('_') && item.raw != null,
         itemSort: (/** @type {any} */ a, /** @type {any} */ b) => (b.parsed.y ?? 0) - (a.parsed.y ?? 0),
         callbacks: {
@@ -533,6 +627,24 @@ function lineOptions(unit, { legend, tickFormat, tooltipLabel, tooltipAfter }) {
            ticks: { color: MUTED, font: { size: 10 }, callback: fmtTick } },
     },
   };
+}
+
+/**
+ * Met en avant une série survolée dans la légende : les autres s'estompent (saturation réduite).
+ * @param {any} chart
+ * @param {number | null} index  null = toutes les séries à pleine intensité
+ */
+function focusSeries(chart, index) {
+  chart.data.datasets.forEach((/** @type {any} */ ds, /** @type {number} */ i) => {
+    if (!ds._base) {
+      if (typeof ds.borderColor !== 'string' || !ds.borderColor.startsWith('#')) return;
+      ds._base = ds.borderColor;
+    }
+    const on = index === null || i === index;
+    ds.borderColor = on ? ds._base : hexA(ds._base, 0.2);
+    ds.backgroundColor = on ? ds._base : hexA(ds._base, 0.2);
+  });
+  chart.update('none');
 }
 
 // Diverging bleu <-> rouge, milieu gris neutre

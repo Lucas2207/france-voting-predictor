@@ -26,8 +26,8 @@
  },
  {
   "outlet": "France 24",
-  "ok": false,
-  "error": "403 Client Error: Forbidden for url: https://www.france24.com/fr/france/rss"
+  "ok": true,
+  "items": 30
  },
  {
   "outlet": "RFI",
@@ -51,8 +51,8 @@
  },
  {
   "outlet": "Marianne",
-  "ok": false,
-  "error": "405 Client Error: Not Allowed for url: https://www.marianne.net/rss.xml"
+  "ok": true,
+  "items": 20
  },
  {
   "outlet": "BFMTV",
@@ -123,5 +123,11 @@
   "outlet": "Le Nouvel Obs",
   "ok": true,
   "items": 40
+ },
+ {
+  "outlet": "Google Actualités (recherche par candidat)",
+  "ok": true,
+  "items": 775,
+  "error": null
  }
 ]

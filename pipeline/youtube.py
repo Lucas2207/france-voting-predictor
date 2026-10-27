@@ -86,6 +86,7 @@ def build_series(snapshots, channels):
             "id": ch["id"],
             "name": ch["name"],
             "color": ch.get("color"),
+            "group": ch.get("group"),
             "views": views,
             "change": [None if v is None else v - first for v in views],
             "subscribers": subs,

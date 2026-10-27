@@ -10,17 +10,21 @@ from zoneinfo import ZoneInfo
 
 import feedparser
 import requests
+from urllib.parse import quote
 
 PARIS = ZoneInfo("Europe/Paris")
 ARTICLES_DIR = Path("data/articles")
 USER_AGENT = "Mozilla/5.0 (compatible; france-elections-predictor/1.0)"
 SUMMARY_MAX = 600
+SEARCH_URL = "https://news.google.com/rss/search"
+SEARCH_WINDOW = "when:7d"  # recherche limitée aux 7 derniers jours
 
 
 def normalize(text):
     """Minuscules sans accents, pour la recherche d'alias."""
     text = unicodedata.normalize("NFKD", text.lower())
-    return "".join(c for c in text if not unicodedata.combining(c))
+    text = "".join(c for c in text if not unicodedata.combining(c))
+    return " ".join(text.split())
 
 
 def _strip_html(text):
@@ -67,6 +71,50 @@ def fetch_feeds(feeds):
     return articles, status
 
 
+def lean_by_outlet(feeds):
+    """Positionnement connu par média (config/feeds.json) ; 'non classé' sinon."""
+    return {f["outlet"]: f["lean"] for f in feeds}
+
+
+def fetch_candidate_search(candidates, leans):
+    """Articles qui citent chaque candidat, via Google Actualités (couvre les sites sans flux RSS).
+
+    Le média d'origine est lu dans la source de chaque article. Retourne (articles, état).
+    """
+    now = datetime.now(PARIS)
+    articles, errors = [], 0
+    for c in candidates:
+        query = f'"{c["name"]}" {SEARCH_WINDOW}'
+        url = f"{SEARCH_URL}?q={quote(query)}&hl=fr&gl=FR&ceid=FR:fr"
+        try:
+            resp = requests.get(url, timeout=25, headers={"User-Agent": USER_AGENT})
+            resp.raise_for_status()
+            parsed = feedparser.parse(resp.content)
+        except Exception:
+            errors += 1
+            continue
+        for e in parsed.entries:
+            src = e.get("source")
+            outlet = src.get("title") if hasattr(src, "get") else None
+            link = e.get("link") or ""
+            title = _strip_html(e.get("title"))
+            if not outlet or not link or not title:
+                continue
+            title = re.sub(r"\s+-\s+" + re.escape(outlet) + r"$", "", title)
+            articles.append({
+                "id": hashlib.sha1(link.encode()).hexdigest()[:16],
+                "outlet": outlet,
+                "lean": leans.get(outlet, "non classé"),
+                "url": link,
+                "title": title,
+                "summary": "",
+                "published": _published(e, now).isoformat(timespec="minutes"),
+            })
+    status = {"outlet": "Google Actualités (recherche par candidat)", "ok": errors < len(candidates),
+              "items": len(articles), "error": f"{errors} requête(s) en échec" if errors else None}
+    return articles, status
+
+
 def tag_mentions(article, candidates):
     """Pré-filtre : identifiants des candidats dont un alias apparaît dans le titre ou le résumé."""
     text = normalize(f"{article['title']} {article['summary']}")
@@ -95,7 +143,10 @@ def save_day(day, articles):
 
 
 def store(articles, candidates):
-    """Fusionne les nouveaux articles dans data/articles/<jour>.json. Retourne le nombre ajouté."""
+    """Fusionne les nouveaux articles dans data/articles/<jour>.json. Retourne le nombre ajouté.
+
+    Un même titre publié le même jour n'est gardé qu'une fois (flux RSS et recherche se recouvrent).
+    """
     by_day = {}
     for a in articles:
         by_day.setdefault(a["published"][:10], []).append(a)
@@ -103,12 +154,14 @@ def store(articles, candidates):
     for day, items in by_day.items():
         existing = load_day(day)
         known = {a["id"] for a in existing}
+        titles = {normalize(a["title"]) for a in existing}
         for a in items:
-            if a["id"] in known:
+            if a["id"] in known or normalize(a["title"]) in titles:
                 continue
             a["mentions"] = tag_mentions(a, candidates)
             existing.append(a)
             known.add(a["id"])
+            titles.add(normalize(a["title"]))
             added += 1
         save_day(day, existing)
     return added

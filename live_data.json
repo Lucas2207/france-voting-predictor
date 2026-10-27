@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-10-27 21:03",
+ "last_updated": "2026-10-27 21:53",
  "today": "2026-10-27",
  "candidates": [
   {
@@ -14051,6 +14051,7 @@
     "id": "lepen",
     "name": "Marine Le Pen",
     "color": null,
+    "group": null,
     "views": [
      93191283
     ],
@@ -14075,6 +14076,7 @@
     "id": "melenchon",
     "name": "Jean-Luc Mélenchon",
     "color": null,
+    "group": null,
     "views": [
      454550528
     ],
@@ -14099,6 +14101,7 @@
     "id": "philippe",
     "name": "Édouard Philippe",
     "color": null,
+    "group": null,
     "views": [
      1593793
     ],
@@ -14123,6 +14126,7 @@
     "id": "glucksmann",
     "name": "Raphaël Glucksmann",
     "color": null,
+    "group": null,
     "views": [
      392290
     ],
@@ -14147,6 +14151,7 @@
     "id": "attal",
     "name": "Gabriel Attal",
     "color": null,
+    "group": null,
     "views": [
      2026965
     ],
@@ -14171,6 +14176,7 @@
     "id": "zemmour",
     "name": "Éric Zemmour",
     "color": null,
+    "group": null,
     "views": [
      136171671
     ],
@@ -14195,6 +14201,7 @@
     "id": "retailleau",
     "name": "Bruno Retailleau",
     "color": null,
+    "group": null,
     "views": [
      375658
     ],
@@ -14219,6 +14226,7 @@
     "id": "lisnard",
     "name": "David Lisnard",
     "color": null,
+    "group": null,
     "views": [
      7075527
     ],
@@ -14243,6 +14251,7 @@
     "id": "roussel",
     "name": "Fabien Roussel",
     "color": null,
+    "group": null,
     "views": [
      7563
     ],
@@ -14267,6 +14276,7 @@
     "id": "dupontaignan",
     "name": "Nicolas Dupont-Aignan",
     "color": null,
+    "group": null,
     "views": [
      68231508
     ],
@@ -14291,6 +14301,7 @@
     "id": "arthaud",
     "name": "Nathalie Arthaud",
     "color": null,
+    "group": null,
     "views": [
      1417494
     ],
@@ -14317,6 +14328,7 @@
     "id": "media-bfmtv",
     "name": "BFM TV",
     "color": "#2E4A9E",
+    "group": "tv",
     "views": [
      1948655352
     ],
@@ -14341,6 +14353,7 @@
     "id": "media-franceinfo",
     "name": "franceinfo",
     "color": "#D62839",
+    "group": "tv",
     "views": [
      670416957
     ],
@@ -14365,6 +14378,7 @@
     "id": "media-tf1info",
     "name": "TF1 info",
     "color": "#0091CC",
+    "group": "tv",
     "views": [
      8751561
     ],
@@ -14389,6 +14403,7 @@
     "id": "media-lci",
     "name": "LCI",
     "color": "#D9468F",
+    "group": "tv",
     "views": [
      1648663509
     ],
@@ -14413,6 +14428,7 @@
     "id": "media-cnews",
     "name": "CNews",
     "color": "#B97F00",
+    "group": "tv",
     "views": [
      507413802
     ],
@@ -14436,7 +14452,8 @@
    {
     "id": "media-france-inter",
     "name": "France Inter",
-    "color": "#7B52AE",
+    "color": "#A0522D",
+    "group": "radio",
     "views": [
      2239017805
     ],
@@ -14460,7 +14477,8 @@
    {
     "id": "media-europe1",
     "name": "Europe 1",
-    "color": "#0E9F8A",
+    "color": "#3A6EA5",
+    "group": "radio",
     "views": [
      1984681616
     ],
@@ -14482,9 +14500,35 @@
     }
    },
    {
+    "id": "media-radionova",
+    "name": "Radio Nova",
+    "color": "#C05621",
+    "group": "radio",
+    "views": [
+     444706643
+    ],
+    "change": [
+     0
+    ],
+    "subscribers": [
+     697000
+    ],
+    "latest": {
+     "date": "2026-10-27",
+     "id": "media-radionova",
+     "kind": "media",
+     "title": "Radio Nova",
+     "channel_id": "UCGvjUWz3mGV9cssraATuEsw",
+     "subscribers": 697000,
+     "views": 444706643,
+     "videos": 7521
+    }
+   },
+   {
     "id": "media-lemonde",
     "name": "Le Monde",
-    "color": "#A0522D",
+    "color": "#2E4A9E",
+    "group": "presse",
     "views": [
      764265135
     ],
@@ -14508,7 +14552,8 @@
    {
     "id": "media-mediapart",
     "name": "Mediapart",
-    "color": "#3A6EA5",
+    "color": "#D62839",
+    "group": "presse",
     "views": [
      328154950
     ],
@@ -14528,30 +14573,6 @@
      "views": 328154950,
      "videos": 4596
     }
-   },
-   {
-    "id": "media-radionova",
-    "name": "Radio Nova",
-    "color": "#C05621",
-    "views": [
-     444706643
-    ],
-    "change": [
-     0
-    ],
-    "subscribers": [
-     697000
-    ],
-    "latest": {
-     "date": "2026-10-27",
-     "id": "media-radionova",
-     "kind": "media",
-     "title": "Radio Nova",
-     "channel_id": "UCGvjUWz3mGV9cssraATuEsw",
-     "subscribers": 697000,
-     "views": 444706643,
-     "videos": 7521
-    }
    }
   ],
   "influencers": [
@@ -14559,6 +14580,7 @@
     "id": "bardella",
     "name": "Jordan Bardella",
     "color": null,
+    "group": null,
     "views": [
      141885724
     ],
@@ -14583,6 +14605,7 @@
     "id": "tondelier",
     "name": "Marine Tondelier",
     "color": null,
+    "group": null,
     "views": [
      2524
     ],
@@ -14607,6 +14630,7 @@
     "id": "villepin",
     "name": "Dominique de Villepin",
     "color": null,
+    "group": null,
     "views": [
      8754942
     ],
@@ -14631,6 +14655,7 @@
     "id": "ruffin",
     "name": "François Ruffin",
     "color": null,
+    "group": null,
     "views": [
      84396433
     ],
@@ -14655,6 +14680,7 @@
     "id": "knafo",
     "name": "Sarah Knafo",
     "color": null,
+    "group": null,
     "views": [
      95000324
     ],
@@ -14679,6 +14705,7 @@
     "id": "marechal",
     "name": "Marion Maréchal",
     "color": null,
+    "group": null,
     "views": [
      38772264
     ],
@@ -14703,6 +14730,7 @@
     "id": "hassan",
     "name": "Rima Hassan",
     "color": null,
+    "group": null,
     "views": [
      9992613
     ],
@@ -14727,6 +14755,7 @@
     "id": "guiraud",
     "name": "Guiraud",
     "color": null,
+    "group": null,
     "views": [
      46797357
     ],
@@ -14751,6 +14780,7 @@
     "id": "guette",
     "name": "Clémence Guetté",
     "color": null,
+    "group": null,
     "views": [
      30682724
     ],
@@ -14775,6 +14805,7 @@
     "id": "bompard",
     "name": "Manuel Bompard",
     "color": null,
+    "group": null,
     "views": [
      104096188
     ],
@@ -14799,6 +14830,7 @@
     "id": "darmanin",
     "name": "Gérald Darmanin",
     "color": null,
+    "group": null,
     "views": [
      2146
     ],
@@ -14823,6 +14855,7 @@
     "id": "faure",
     "name": "Olivier Faure",
     "color": null,
+    "group": null,
     "views": [
      98999
     ],
@@ -14847,6 +14880,7 @@
     "id": "delga",
     "name": "Carole Delga",
     "color": null,
+    "group": null,
     "views": [
      48843
     ],
@@ -14871,6 +14905,7 @@
     "id": "wauquiez",
     "name": "Laurent Wauquiez",
     "color": null,
+    "group": null,
     "views": [
      1319734
     ],
@@ -14895,6 +14930,7 @@
     "id": "pecresse",
     "name": "Valérie Pécresse",
     "color": null,
+    "group": null,
     "views": [
      1099435
     ],
@@ -15141,219 +15177,9 @@
  ],
  "youtube_status": [
   {
-   "id": "lepen",
-   "ok": true,
-   "title": "Marine Le Pen"
-  },
-  {
-   "id": "melenchon",
-   "ok": true,
-   "title": "JEAN-LUC MÉLENCHON"
-  },
-  {
-   "id": "philippe",
-   "ok": true,
-   "title": "Edouard Philippe"
-  },
-  {
-   "id": "glucksmann",
-   "ok": true,
-   "title": "Place publique"
-  },
-  {
-   "id": "attal",
-   "ok": true,
-   "title": "Gabriel Attal"
-  },
-  {
-   "id": "zemmour",
-   "ok": true,
-   "title": "Éric Zemmour"
-  },
-  {
-   "id": "retailleau",
-   "ok": true,
-   "title": "Bruno Retailleau"
-  },
-  {
-   "id": "lisnard",
-   "ok": true,
-   "title": "David Lisnard"
-  },
-  {
-   "id": "bardella",
-   "ok": true,
-   "title": "Jordan Bardella"
-  },
-  {
-   "id": "tondelier",
-   "ok": true,
-   "title": "Marine Tondelier"
-  },
-  {
-   "id": "roussel",
-   "ok": true,
-   "title": "Fabien Roussel"
-  },
-  {
-   "id": "dupontaignan",
-   "ok": true,
-   "title": "Nicolas Dupont-Aignan"
-  },
-  {
-   "id": "arthaud",
-   "ok": true,
-   "title": "Nathalie Arthaud"
-  },
-  {
-   "id": "villepin",
-   "ok": true,
-   "title": "Dominique de Villepin"
-  },
-  {
-   "id": "hollande",
+   "id": null,
    "ok": false,
-   "error": "handle non renseigné"
-  },
-  {
-   "id": "ruffin",
-   "ok": true,
-   "title": "FRANÇOIS RUFFIN"
-  },
-  {
-   "id": "knafo",
-   "ok": true,
-   "title": "Sarah Knafo"
-  },
-  {
-   "id": "media-bfmtv",
-   "ok": true,
-   "title": "BFMTV"
-  },
-  {
-   "id": "media-franceinfo",
-   "ok": true,
-   "title": "franceinfo"
-  },
-  {
-   "id": "media-tf1info",
-   "ok": true,
-   "title": "TF1"
-  },
-  {
-   "id": "media-lci",
-   "ok": true,
-   "title": "LCI"
-  },
-  {
-   "id": "media-cnews",
-   "ok": true,
-   "title": "CNEWS"
-  },
-  {
-   "id": "media-france-inter",
-   "ok": true,
-   "title": "France Inter"
-  },
-  {
-   "id": "media-europe1",
-   "ok": true,
-   "title": "Europe 1"
-  },
-  {
-   "id": "media-lemonde",
-   "ok": true,
-   "title": "Le Monde"
-  },
-  {
-   "id": "media-mediapart",
-   "ok": true,
-   "title": "Mediapart"
-  },
-  {
-   "id": "media-radionova",
-   "ok": true,
-   "title": "Radio Nova"
-  },
-  {
-   "id": "marechal",
-   "ok": true,
-   "title": "Marion Maréchal"
-  },
-  {
-   "id": "chenu",
-   "ok": false,
-   "error": "handle non renseigné"
-  },
-  {
-   "id": "hassan",
-   "ok": true,
-   "title": "Rima Hassan"
-  },
-  {
-   "id": "guiraud",
-   "ok": true,
-   "title": "David Guiraud"
-  },
-  {
-   "id": "guette",
-   "ok": true,
-   "title": "Clémence Guetté"
-  },
-  {
-   "id": "bompard",
-   "ok": true,
-   "title": "Manuel Bompard"
-  },
-  {
-   "id": "legendre",
-   "ok": false,
-   "error": "handle non renseigné"
-  },
-  {
-   "id": "naegelen",
-   "ok": false,
-   "error": "handle non renseigné"
-  },
-  {
-   "id": "borne",
-   "ok": false,
-   "error": "handle non renseigné"
-  },
-  {
-   "id": "darmanin",
-   "ok": true,
-   "title": "Gérald DARMANIN"
-  },
-  {
-   "id": "sejourne",
-   "ok": false,
-   "error": "handle non renseigné"
-  },
-  {
-   "id": "faure",
-   "ok": true,
-   "title": "Olivier Faure"
-  },
-  {
-   "id": "delga",
-   "ok": true,
-   "title": "La République En Commun"
-  },
-  {
-   "id": "wauquiez",
-   "ok": true,
-   "title": "Laurent Wauquiez"
-  },
-  {
-   "id": "pecresse",
-   "ok": true,
-   "title": "Valérie Pécresse"
-  },
-  {
-   "id": "meunier",
-   "ok": false,
-   "error": "handle non renseigné"
+   "error": "YOUTUBE_API_KEY absente : collecte sautée"
   }
  ],
  "parties": [
@@ -15466,7 +15292,7 @@
  },
  "sources": {
   "polls": "https://fr.wikipedia.org/wiki/Liste_de_sondages_sur_l'élection_présidentielle_française_de_2027",
-  "polls_fetched": "2026-10-27T21:02+01:00",
+  "polls_fetched": "2026-10-27T21:53+01:00",
   "feeds": [
    {
     "outlet": "L'Humanité",
@@ -15495,8 +15321,8 @@
    },
    {
     "outlet": "France 24",
-    "ok": false,
-    "error": "403 Client Error: Forbidden for url: https://www.france24.com/fr/france/rss"
+    "ok": true,
+    "items": 30
    },
    {
     "outlet": "RFI",
@@ -15520,8 +15346,8 @@
    },
    {
     "outlet": "Marianne",
-    "ok": false,
-    "error": "405 Client Error: Not Allowed for url: https://www.marianne.net/rss.xml"
+    "ok": true,
+    "items": 20
    },
    {
     "outlet": "BFMTV",
@@ -15592,9 +15418,15 @@
     "outlet": "Le Nouvel Obs",
     "ok": true,
     "items": 40
+   },
+   {
+    "outlet": "Google Actualités (recherche par candidat)",
+    "ok": true,
+    "items": 775,
+    "error": null
    }
   ],
-  "articles_total": 1216,
+  "articles_total": 1924,
   "articles_analysed": 109,
   "media_since": "2026-10-20"
  },
