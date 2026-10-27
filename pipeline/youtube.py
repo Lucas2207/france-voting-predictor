@@ -95,3 +95,74 @@ def build_series(snapshots, channels):
         out[{"candidate": "candidates", "media": "media"}.get(ch["kind"], "influencers")].append(series)
     return out
 
+
+
+SEARCH_URL = "https://www.googleapis.com/youtube/v3/search"
+VIDEOS_URL = "https://www.googleapis.com/youtube/v3/videos"
+
+
+def search_videos(channel_id, query, published_after, key, get=requests.get):
+    """Vidéos d'une chaîne correspondant à `query`, publiées après `published_after` (RFC 3339)."""
+    params = {"part": "snippet", "channelId": channel_id, "q": query, "type": "video", "order": "date",
+              "maxResults": 10, "publishedAfter": published_after, "key": key}
+    try:
+        resp = get(SEARCH_URL, params=params, timeout=TIMEOUT)
+    except requests.RequestException as exc:
+        print(f"⚠️  YouTube recherche {query} : {exc}", file=sys.stderr)
+        return []
+    if resp.status_code != 200:
+        print(f"⚠️  YouTube recherche {query} : HTTP {resp.status_code}", file=sys.stderr)
+        return []
+    return [{"video_id": it["id"]["videoId"], "title": it["snippet"]["title"], "published": it["snippet"]["publishedAt"]}
+            for it in resp.json().get("items", []) if it.get("id", {}).get("videoId")]
+
+
+def video_views(video_ids, key, get=requests.get):
+    """Vues actuelles de chaque vidéo (1 unité de quota par lot de 50)."""
+    views = {}
+    ids = list(dict.fromkeys(video_ids))
+    for start in range(0, len(ids), 50):
+        params = {"part": "statistics", "id": ",".join(ids[start:start + 50]), "key": key}
+        try:
+            resp = get(VIDEOS_URL, params=params, timeout=TIMEOUT)
+        except requests.RequestException:
+            continue
+        if resp.status_code != 200:
+            continue
+        for it in resp.json().get("items", []):
+            views[it["id"]] = int(it.get("statistics", {}).get("viewCount", 0))
+    return views
+
+
+def name_in_title(name, title):
+    """Le nom complet, ou le nom de famille s'il est assez distinctif, figure dans le titre."""
+    from .news import normalize
+    t = normalize(title)
+    parts = normalize(name).split()
+    if normalize(name) in t:
+        return True
+    return len(parts[-1]) >= 5 and parts[-1] in t
+
+
+def collect_interview_videos(candidates, channels, today, key, get=requests.get, days=7):
+    """Relevés des vidéos de la semaine où un candidat est cité, sur les chaînes d'information.
+
+    `channels` : liste de (channel_id, nom de la chaîne). Retourne des relevés {date, video_id, ...}.
+    """
+    from datetime import timedelta
+    if not key:
+        return []
+    after = (today - timedelta(days=days)).isoformat() + "T00:00:00Z"
+    found = {}
+    for cand in candidates:
+        for channel_id, channel_name in channels:
+            for v in search_videos(channel_id, f'"{cand["name"]}"', after, key, get=get):
+                if not name_in_title(cand["name"], v["title"]):
+                    continue
+                entry = found.setdefault(v["video_id"], {"video_id": v["video_id"], "title": v["title"],
+                                                         "published": v["published"], "channel": channel_name,
+                                                         "candidates": []})
+                if cand["id"] not in entry["candidates"]:
+                    entry["candidates"].append(cand["id"])
+    views = video_views(list(found), key, get=get)
+    return [{"date": today.isoformat(), **e, "views": views[e["video_id"]]} for e in found.values() if e["video_id"] in views]

@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-10-27 21:53",
+ "last_updated": "2026-10-27 22:04",
  "today": "2026-10-27",
  "candidates": [
   {
@@ -14953,6 +14953,8 @@
    }
   ]
  },
+ "interview_videos": [],
+ "tv_weekly": null,
  "influencers": [
   {
    "id": "marechal",
@@ -15175,13 +15177,7 @@
    "youtube_subscribers": 52800
   }
  ],
- "youtube_status": [
-  {
-   "id": null,
-   "ok": false,
-   "error": "YOUTUBE_API_KEY absente : collecte sautée"
-  }
- ],
+ "youtube_status": [],
  "parties": [
   {
    "id": "rn",

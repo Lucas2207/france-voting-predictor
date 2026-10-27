@@ -10,7 +10,7 @@ import sys
 from datetime import date, datetime, timedelta
 from pathlib import Path
 
-from . import model, news, polls, social, youtube
+from . import mediametrie, model, news, polls, social, youtube
 
 ROOT = Path(__file__).resolve().parent.parent
 DATA = Path("data")
@@ -19,6 +19,8 @@ EVENTS_FILE = DATA / "events.json"
 INTERVIEWS_FILE = DATA / "interviews.json"
 FOLLOWERS_FILE = DATA / "followers.json"
 YOUTUBE_FILE = DATA / "youtube.json"
+INTERVIEW_VIDEOS_FILE = DATA / "interview_videos.json"
+MEDIAMETRIE_FILE = DATA / "mediametrie.json"
 YOUTUBE_CHANNELS = Path("config/youtube_channels.json")
 PARTIES_FILE = Path("config/parties.json")
 OUTPUT = Path("live_data.json")
@@ -35,6 +37,19 @@ def _load(path, default):
 def _save(path, obj):
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(json.dumps(obj, ensure_ascii=False, indent=1), encoding="utf-8")
+
+
+def interview_videos(snapshots, candidates):
+    """Dernier relevé de chaque vidéo d'entretien, les plus récentes d'abord."""
+    latest = {}
+    for s in snapshots:
+        if s["video_id"] not in latest or s["date"] > latest[s["video_id"]]["date"]:
+            latest[s["video_id"]] = s
+    names = {c["id"]: c["name"] for c in candidates}
+    rows = sorted(latest.values(), key=lambda s: s["published"], reverse=True)[:60]
+    return [{"video_id": s["video_id"], "title": s["title"], "channel": s["channel"], "published": s["published"],
+             "candidates": [names.get(c, c) for c in s["candidates"]], "views": s["views"],
+             "url": f"https://www.youtube.com/watch?v={s['video_id']}"} for s in rows]
 
 
 def main():
@@ -81,6 +96,7 @@ def main():
 
     # 2b. Chaînes YouTube (automatique : une fois par jour)
     youtube_doc = _load(YOUTUBE_FILE, {"snapshots": []})
+    interview_doc = _load(INTERVIEW_VIDEOS_FILE, {"snapshots": []})
     youtube_status = []
     if not args.no_fetch:
         channels = _load(YOUTUBE_CHANNELS, {"channels": []})["channels"]
@@ -88,6 +104,29 @@ def main():
         youtube_doc["snapshots"] = youtube.add_snapshots(youtube_doc["snapshots"], snapshots)
         _save(YOUTUBE_FILE, youtube_doc)
         print(f"✅ YouTube : {len(snapshots)} chaîne(s) relevée(s)")
+
+        # Vidéos d'entretiens cités dans la semaine sur les chaînes d'information
+        key = os.environ.get("YOUTUBE_API_KEY")
+        if key:
+            cfg = _load(YOUTUBE_CHANNELS, {"channels": [], "interview_channels": []})
+            channel_ids = {x["id"]: x["channel_id"] for x in youtube_doc["snapshots"] if x.get("channel_id")}
+            names = {c["id"]: c["name"] for c in cfg["channels"]}
+            pairs = [(channel_ids[c], names[c]) for c in cfg.get("interview_channels", []) if c in channel_ids]
+            cands = _load(Path("config/candidates.json"), {"candidates": []})["candidates"]
+            videos = youtube.collect_interview_videos(cands, pairs, today, key)
+            interview_doc["snapshots"] = youtube.add_snapshots(
+                interview_doc["snapshots"], [dict(v, id=v["video_id"]) for v in videos])
+            _save(INTERVIEW_VIDEOS_FILE, interview_doc)
+            print(f"✅ YouTube entretiens : {len(videos)} vidéo(s) citant un candidat")
+
+    # Audiences TV hebdomadaires (Médiamétrie)
+    tv_doc = _load(MEDIAMETRIE_FILE, {"weeks": []})
+    if not args.no_fetch:
+        week = mediametrie.fetch_week(today=today)
+        if week:
+            tv_doc["weeks"] = mediametrie.add_week(tv_doc["weeks"], week)
+            _save(MEDIAMETRIE_FILE, tv_doc)
+            print(f"✅ Médiamétrie : {week['period']}")
 
     # 3. Analyse Claude + 4. événements
     events = _load(EVENTS_FILE, {"checked_days": [], "events": []})
@@ -180,6 +219,8 @@ def main():
         "events": all_events[:40],
         "followers": followers,
         "youtube": yt_series,
+        "interview_videos": interview_videos(interview_doc["snapshots"], candidates),
+        "tv_weekly": tv_doc["weeks"][-1] if tv_doc["weeks"] else None,
         "influencers": influencer_rows,
         "youtube_status": youtube_status,
         "parties": [{k: p[k] for k in ("id", "name", "badge", "color")} for p in parties],

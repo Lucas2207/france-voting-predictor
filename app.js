@@ -20,7 +20,9 @@
  * @typedef {{ id: string, name: string, color: string | null, group?: string | null, views: (number | null)[], change: (number | null)[], subscribers: (number | null)[], latest: { date: string, views: number, subscribers: number | null, videos: number, title: string } | null }} YouTubeSeries
  * @typedef {{ dates: string[], candidates: YouTubeSeries[], media: YouTubeSeries[], influencers: YouTubeSeries[] }} YouTube
  * @typedef {{ id: string, name: string, party: string, statut: 'non_candidat' | 'a_verifier', note: string, followers: number | null, youtube_views: number | null, youtube_subscribers: number | null }} Influencer
- * @typedef {{ last_updated: string, today: string, candidates: Candidate[], parties: Party[], influencers: Influencer[], youtube: YouTube, projection: Projection[], history: HistoryEntry[], polls: Poll[], media_daily: MediaDay[], media_by_outlet: Record<string, Record<string, { tone: number, n: number }>>, events: CampaignEvent[], followers: Followers, interviews: Interview[], interview_summary: InterviewSummary, sources: Sources, parameters?: Record<string, number> }} LiveData
+ * @typedef {{ period: string, fetched: string, total_tv: number | null, shares: Record<string, number> }} TvWeek
+ * @typedef {{ video_id: string, title: string, channel: string, published: string, candidates: string[], views: number, url: string }} InterviewVideo
+ * @typedef {{ last_updated: string, tv_weekly: TvWeek | null, interview_videos: InterviewVideo[], today: string, candidates: Candidate[], parties: Party[], influencers: Influencer[], youtube: YouTube, projection: Projection[], history: HistoryEntry[], polls: Poll[], media_daily: MediaDay[], media_by_outlet: Record<string, Record<string, { tone: number, n: number }>>, events: CampaignEvent[], followers: Followers, interviews: Interview[], interview_summary: InterviewSummary, sources: Sources, parameters?: Record<string, number> }} LiveData
  */
 
 /** @type {LiveData} */
@@ -123,6 +125,8 @@ function renderEverything() {
   renderOutlets();
   renderEvents();
   renderInfluencers();
+  renderTvWeekly();
+  renderInterviewVideos();
   renderAll();
 }
 
@@ -190,6 +194,35 @@ function renderInfluencerControls() {
     ? (dir === 'asc' ? t('inf.dir.az') : t('inf.dir.za'))
     : (dir === 'asc' ? t('inf.dir.asc') : t('inf.dir.desc'));
   $('infSortDir').textContent = label;
+}
+
+/** Parts d'audience TV de la semaine (Médiamétrie) : chaînes suivies et total. */
+function renderTvWeekly() {
+  const w = data.tv_weekly;
+  if (!w) {
+    $('tvWeeklyTable').innerHTML = `<tbody><tr><td class="py-2 text-slate-400">${t('tv.none')}</td></tr></tbody>`;
+    return;
+  }
+  const rows = [['tf1', 'TF1'], ['france2', 'France 2'], ['france3', 'France 3'], ['m6', 'M6'], ['w9', 'W9']]
+    .filter(([k]) => w.shares[k] != null)
+    .map(([k, label]) => `<tr class="border-b border-slate-100"><td class="px-2 py-1 font-semibold">${label}</td><td class="px-2 py-1 text-right">${fmt(w.shares[k])} %</td></tr>`).join('');
+  $('tvWeeklyTable').innerHTML = `<thead><tr class="text-[10px] uppercase tracking-wider text-slate-500 border-b border-slate-200">
+      <th class="px-2 py-1 text-left">${esc(t('tv.week', { period: w.period }))}</th><th class="px-2 py-1 text-right">${t('tv.share')}</th></tr></thead>
+    <tbody>${rows}<tr class="font-bold"><td class="px-2 py-1">${t('tv.total')}</td><td class="px-2 py-1 text-right">${w.total_tv == null ? '—' : compact(w.total_tv)}</td></tr></tbody>`;
+}
+
+/** Vidéos YouTube d'entretiens citant un candidat (7 derniers jours). */
+function renderInterviewVideos() {
+  const rows = (data.interview_videos || []).map(v => `<tr class="border-b border-slate-100">
+      <td class="px-2 py-1 whitespace-nowrap">${esc(shortDate(v.published))}</td>
+      <td class="px-2 py-1 whitespace-nowrap font-semibold">${esc(v.candidates.join(', '))}</td>
+      <td class="px-2 py-1 whitespace-nowrap">${esc(v.channel)}</td>
+      <td class="px-2 py-1"><a class="text-indigo-700 underline" href="${esc(safeUrl(v.url))}" target="_blank" rel="noopener noreferrer">${esc(v.title)}</a></td>
+      <td class="px-2 py-1 text-right">${compact(v.views)}</td></tr>`).join('');
+  $('interviewVideosTable').innerHTML = `<thead><tr class="text-[10px] uppercase tracking-wider text-slate-500 border-b border-slate-200">
+      <th class="px-2 py-1 text-left">${t('yt.th.date')}</th><th class="px-2 py-1 text-left">${t('yt.th.candidate')}</th><th class="px-2 py-1 text-left">${t('yt.th.channel')}</th>
+      <th class="px-2 py-1 text-left">${t('yt.th.title')}</th><th class="px-2 py-1 text-right">${t('yt.th.views')}</th></tr></thead>
+    <tbody>${rows || `<tr><td class="py-2 text-slate-400" colspan="5">${t('yt.none')}</td></tr>`}</tbody>`;
 }
 
 /** Personnalités influentes non candidates : abonnés, audience YouTube et total par parti. */
