@@ -1,5 +1,5 @@
 {
-  "_doc": "Chaînes YouTube suivies : candidats (kind candidate), médias (kind media, group tv | radio | presse : le graphique « Télévisions et radios » en affiche au plus dix, « Presse » les autres), personnalités influentes (kind influencer). 'handle' = le @ de la chaîne, vide tant que non vérifié. W9 : @ à fournir.",
+  "_doc": "Chaînes YouTube suivies : candidats (kind candidate), médias (kind media, group tv | radio | presse : le graphique « Télévisions et radios » en affiche au plus onze, couleurs validées par scripts/validate_palette.js ; « Presse » les autres), personnalités influentes (kind influencer). 'handle' = le @ de la chaîne, vide tant que non vérifié.",
   "channels": [
     {
       "id": "lepen",
@@ -304,6 +304,14 @@
       "handle": "@LeParisien",
       "group": "presse",
       "color": "#0091CC"
+    },
+    {
+      "id": "media-w9",
+      "kind": "media",
+      "name": "W9",
+      "handle": "@W9officiel",
+      "group": "tv",
+      "color": "#6A4C93"
     }
   ]
 }
