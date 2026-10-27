@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-10-27 20:33",
+ "last_updated": "2026-10-27 20:45",
  "today": "2026-10-27",
  "candidates": [
   {
@@ -170,9 +170,9 @@
    "n_polls": 8,
    "change_7d": -0.4,
    "media": {
-    "articles_7d": 35,
-    "share_7d": 0.327,
-    "tone_7d": -0.35,
+    "articles_7d": 50,
+    "share_7d": 0.345,
+    "tone_7d": -0.28,
     "tone_baseline": null,
     "adjustment": 0.0,
     "status": "calibrage"
@@ -189,9 +189,9 @@
    "n_polls": 8,
    "change_7d": 0.7,
    "media": {
-    "articles_7d": 17,
-    "share_7d": 0.159,
-    "tone_7d": 0.02,
+    "articles_7d": 24,
+    "share_7d": 0.166,
+    "tone_7d": -0.2,
     "tone_baseline": null,
     "adjustment": 0.0,
     "status": "calibrage"
@@ -202,22 +202,22 @@
   },
   {
    "id": "philippe",
-   "poll_avg": 14.2,
-   "poll_lo": 9.7,
-   "poll_hi": 18.7,
+   "poll_avg": 14.1,
+   "poll_lo": 9.6,
+   "poll_hi": 18.6,
    "n_polls": 8,
-   "change_7d": 0.1,
+   "change_7d": 0.0,
    "media": {
-    "articles_7d": 5,
-    "share_7d": 0.047,
-    "tone_7d": -1.11,
+    "articles_7d": 9,
+    "share_7d": 0.062,
+    "tone_7d": -0.72,
     "tone_baseline": null,
     "adjustment": 0.0,
     "status": "calibrage"
    },
-   "projected": 14.2,
-   "projected_lo": 9.7,
-   "projected_hi": 18.7
+   "projected": 14.1,
+   "projected_lo": 9.6,
+   "projected_hi": 18.6
   },
   {
    "id": "glucksmann",
@@ -227,9 +227,9 @@
    "n_polls": 8,
    "change_7d": 0.8,
    "media": {
-    "articles_7d": 14,
-    "share_7d": 0.131,
-    "tone_7d": -0.29,
+    "articles_7d": 18,
+    "share_7d": 0.124,
+    "tone_7d": -0.18,
     "tone_baseline": null,
     "adjustment": 0.0,
     "status": "calibrage"
@@ -242,12 +242,12 @@
    "id": "attal",
    "poll_avg": 8.0,
    "poll_lo": 2.6,
-   "poll_hi": 13.4,
+   "poll_hi": 13.3,
    "n_polls": 8,
    "change_7d": 0.5,
    "media": {
-    "articles_7d": 2,
-    "share_7d": 0.019,
+    "articles_7d": 3,
+    "share_7d": 0.021,
     "tone_7d": -1.0,
     "tone_baseline": null,
     "adjustment": 0.0,
@@ -255,7 +255,7 @@
    },
    "projected": 8.0,
    "projected_lo": 2.6,
-   "projected_hi": 13.4
+   "projected_hi": 13.3
   },
   {
    "id": "retailleau",
@@ -265,9 +265,9 @@
    "n_polls": 8,
    "change_7d": 0.1,
    "media": {
-    "articles_7d": 3,
+    "articles_7d": 4,
     "share_7d": 0.028,
-    "tone_7d": -0.25,
+    "tone_7d": -0.17,
     "tone_baseline": null,
     "adjustment": 0.0,
     "status": "calibrage"
@@ -284,9 +284,9 @@
    "n_polls": 7,
    "change_7d": 1.0,
    "media": {
-    "articles_7d": 3,
-    "share_7d": 0.028,
-    "tone_7d": 0.67,
+    "articles_7d": 6,
+    "share_7d": 0.041,
+    "tone_7d": 0.4,
     "tone_baseline": null,
     "adjustment": 0.0,
     "status": "calibrage"
@@ -303,9 +303,9 @@
    "n_polls": 8,
    "change_7d": 0.4,
    "media": {
-    "articles_7d": 0,
-    "share_7d": 0.0,
-    "tone_7d": null,
+    "articles_7d": 2,
+    "share_7d": 0.014,
+    "tone_7d": 0.0,
     "tone_baseline": null,
     "adjustment": 0.0,
     "status": "calibrage"
@@ -322,9 +322,9 @@
    "n_polls": 8,
    "change_7d": 0.0,
    "media": {
-    "articles_7d": 0,
-    "share_7d": 0.0,
-    "tone_7d": null,
+    "articles_7d": 1,
+    "share_7d": 0.007,
+    "tone_7d": 1.0,
     "tone_baseline": null,
     "adjustment": 0.0,
     "status": "calibrage"
@@ -11812,9 +11812,9 @@
      "n_polls": 8
     },
     "philippe": {
-     "mean": 14.2,
-     "lo": 9.7,
-     "hi": 18.7,
+     "mean": 14.1,
+     "lo": 9.6,
+     "hi": 18.6,
      "n_polls": 8
     },
     "glucksmann": {
@@ -11826,7 +11826,7 @@
     "attal": {
      "mean": 8.0,
      "lo": 2.6,
-     "hi": 13.4,
+     "hi": 13.3,
      "n_polls": 8
     },
     "zemmour": {
@@ -11883,9 +11883,9 @@
      "n_polls": 8
     },
     "philippe": {
-     "mean": 14.2,
-     "lo": 9.7,
-     "hi": 18.7,
+     "mean": 14.1,
+     "lo": 9.6,
+     "hi": 18.6,
      "n_polls": 8
     },
     "glucksmann": {
@@ -11897,7 +11897,7 @@
     "attal": {
      "mean": 8.0,
      "lo": 2.6,
-     "hi": 13.4,
+     "hi": 13.3,
      "n_polls": 8
     },
     "zemmour": {
@@ -11954,9 +11954,9 @@
      "n_polls": 8
     },
     "philippe": {
-     "mean": 14.2,
-     "lo": 9.7,
-     "hi": 18.7,
+     "mean": 14.1,
+     "lo": 9.6,
+     "hi": 18.6,
      "n_polls": 8
     },
     "glucksmann": {
@@ -11968,7 +11968,7 @@
     "attal": {
      "mean": 8.0,
      "lo": 2.6,
-     "hi": 13.4,
+     "hi": 13.3,
      "n_polls": 8
     },
     "zemmour": {
@@ -12025,9 +12025,9 @@
      "n_polls": 8
     },
     "philippe": {
-     "mean": 14.2,
-     "lo": 9.7,
-     "hi": 18.7,
+     "mean": 14.1,
+     "lo": 9.6,
+     "hi": 18.6,
      "n_polls": 8
     },
     "glucksmann": {
@@ -12039,7 +12039,7 @@
     "attal": {
      "mean": 8.0,
      "lo": 2.6,
-     "hi": 13.4,
+     "hi": 13.3,
      "n_polls": 8
     },
     "zemmour": {
@@ -12096,9 +12096,9 @@
      "n_polls": 8
     },
     "philippe": {
-     "mean": 14.2,
-     "lo": 9.7,
-     "hi": 18.7,
+     "mean": 14.1,
+     "lo": 9.6,
+     "hi": 18.6,
      "n_polls": 8
     },
     "glucksmann": {
@@ -12110,7 +12110,7 @@
     "attal": {
      "mean": 8.0,
      "lo": 2.6,
-     "hi": 13.4,
+     "hi": 13.3,
      "n_polls": 8
     },
     "zemmour": {
@@ -12167,9 +12167,9 @@
      "n_polls": 8
     },
     "philippe": {
-     "mean": 14.2,
-     "lo": 9.7,
-     "hi": 18.7,
+     "mean": 14.1,
+     "lo": 9.6,
+     "hi": 18.6,
      "n_polls": 8
     },
     "glucksmann": {
@@ -12181,7 +12181,7 @@
     "attal": {
      "mean": 8.0,
      "lo": 2.6,
-     "hi": 13.4,
+     "hi": 13.3,
      "n_polls": 8
     },
     "zemmour": {
@@ -13099,8 +13099,8 @@
   {
    "pollster": "Cluster17",
    "end_date": "2026-10-22",
-   "sample": 3000,
-   "url": "https://cluster17.com/wp-content/uploads/2026/10/ITV-Politico-Octobre-C17.pdf",
+   "sample": 2817,
+   "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/octobre/10339-pres-iv-cluster17-politico-26-octobre.pdf",
    "scores": {
     "Nathalie Arthaud": 0.5,
     "Jean-Luc Mélenchon": 19.17,
@@ -13171,20 +13171,20 @@
      "tone": -1.4
     },
     "lepen": {
-     "articles": 11,
-     "tone": -0.55
+     "articles": 15,
+     "tone": -0.47
     },
     "philippe": {
-     "articles": 1,
+     "articles": 3,
      "tone": -1.0
     },
     "glucksmann": {
-     "articles": 3,
+     "articles": 4,
      "tone": 0.0
     },
     "melenchon": {
-     "articles": 5,
-     "tone": -0.6
+     "articles": 6,
+     "tone": -0.33
     },
     "tondelier": {
      "articles": 1,
@@ -13193,6 +13193,10 @@
     "lisnard": {
      "articles": 1,
      "tone": 0.0
+    },
+    "attal": {
+     "articles": 1,
+     "tone": -1.0
     }
    }
   },
@@ -13200,28 +13204,28 @@
    "date": "2026-10-27",
    "candidates": {
     "lepen": {
-     "articles": 13,
-     "tone": -0.15
-    },
-    "glucksmann": {
-     "articles": 9,
-     "tone": -0.33
+     "articles": 24,
+     "tone": -0.12
     },
     "melenchon": {
-     "articles": 10,
-     "tone": 0.4
+     "articles": 16,
+     "tone": -0.12
+    },
+    "glucksmann": {
+     "articles": 12,
+     "tone": -0.08
     },
     "bardella": {
      "articles": 8,
      "tone": -0.25
     },
     "retailleau": {
-     "articles": 3,
-     "tone": -0.33
+     "articles": 4,
+     "tone": -0.25
     },
     "philippe": {
-     "articles": 3,
-     "tone": -1.33
+     "articles": 5,
+     "tone": -0.8
     },
     "tondelier": {
      "articles": 2,
@@ -13232,8 +13236,8 @@
      "tone": 0.0
     },
     "lisnard": {
-     "articles": 1,
-     "tone": 1.0
+     "articles": 4,
+     "tone": 0.25
     },
     "attal": {
      "articles": 2,
@@ -13242,6 +13246,14 @@
     "hollande": {
      "articles": 2,
      "tone": 0.0
+    },
+    "zemmour": {
+     "articles": 2,
+     "tone": 0.0
+    },
+    "dupontaignan": {
+     "articles": 1,
+     "tone": 1.0
     }
    }
   }
@@ -13265,8 +13277,8 @@
     "n": 2
    },
    "melenchon": {
-    "tone": -1.0,
-    "n": 1
+    "tone": -1.5,
+    "n": 2
    }
   },
   "RFI": {
@@ -13277,6 +13289,10 @@
    "bardella": {
     "tone": 0.0,
     "n": 2
+   },
+   "philippe": {
+    "tone": 0.0,
+    "n": 1
    }
   },
   "L'Express": {
@@ -13286,6 +13302,10 @@
    },
    "glucksmann": {
     "tone": -1.0,
+    "n": 1
+   },
+   "lepen": {
+    "tone": 0.0,
     "n": 1
    }
   },
@@ -13313,6 +13333,14 @@
    "tondelier": {
     "tone": 0.0,
     "n": 1
+   },
+   "retailleau": {
+    "tone": 0.0,
+    "n": 1
+   },
+   "lisnard": {
+    "tone": 0.0,
+    "n": 1
    }
   },
   "France 24": {
@@ -13328,7 +13356,7 @@
   "L'Humanité": {
    "lepen": {
     "tone": -1.0,
-    "n": 3
+    "n": 4
    },
    "bardella": {
     "tone": -1.0,
@@ -13345,23 +13373,63 @@
     "n": 1
    }
   },
+  "CNews": {
+   "lepen": {
+    "tone": 0.5,
+    "n": 4
+   },
+   "philippe": {
+    "tone": -1.0,
+    "n": 2
+   },
+   "melenchon": {
+    "tone": 1.0,
+    "n": 1
+   },
+   "attal": {
+    "tone": -1.0,
+    "n": 1
+   }
+  },
   "franceinfo": {
    "lepen": {
-    "tone": -0.67,
-    "n": 3
+    "tone": -0.75,
+    "n": 4
+   }
+  },
+  "Le Nouvel Obs": {
+   "lepen": {
+    "tone": 0.0,
+    "n": 1
+   },
+   "glucksmann": {
+    "tone": 0.0,
+    "n": 1
    }
   },
   "Valeurs actuelles": {
    "melenchon": {
-    "tone": 0.5,
-    "n": 2
+    "tone": 0.0,
+    "n": 3
    },
    "lisnard": {
     "tone": 0.0,
     "n": 1
    },
    "lepen": {
+    "tone": 0.67,
+    "n": 3
+   },
+   "zemmour": {
     "tone": 1.0,
+    "n": 1
+   },
+   "dupontaignan": {
+    "tone": 1.0,
+    "n": 1
+   },
+   "glucksmann": {
+    "tone": 0.0,
     "n": 1
    }
   },
@@ -13371,8 +13439,18 @@
     "n": 2
    },
    "lepen": {
-    "tone": -1.33,
-    "n": 3
+    "tone": -1.5,
+    "n": 4
+   }
+  },
+  "TF1 info": {
+   "lepen": {
+    "tone": -0.5,
+    "n": 2
+   },
+   "melenchon": {
+    "tone": 0.0,
+    "n": 1
    }
   },
   "BFMTV": {
@@ -13409,10 +13487,20 @@
    "melenchon": {
     "tone": 0.0,
     "n": 1
+   },
+   "philippe": {
+    "tone": 0.0,
+    "n": 1
    }
   },
   "Ouest-France": {
    "glucksmann": {
+    "tone": 0.0,
+    "n": 1
+   }
+  },
+  "Sud Radio": {
+   "melenchon": {
     "tone": 0.0,
     "n": 1
    }
@@ -13431,8 +13519,8 @@
     "n": 7
    },
    "lepen": {
-    "tone": 0.12,
-    "n": 8
+    "tone": 0.11,
+    "n": 9
    },
    "tondelier": {
     "tone": -0.5,
@@ -13443,12 +13531,12 @@
     "n": 1
    },
    "glucksmann": {
-    "tone": -0.5,
-    "n": 6
+    "tone": -0.12,
+    "n": 8
    },
    "melenchon": {
-    "tone": 0.29,
-    "n": 7
+    "tone": 0.12,
+    "n": 8
    },
    "lisnard": {
     "tone": 1.0,
@@ -13457,6 +13545,24 @@
    "attal": {
     "tone": -1.0,
     "n": 2
+   },
+   "zemmour": {
+    "tone": -1.0,
+    "n": 1
+   }
+  },
+  "Europe 1": {
+   "lisnard": {
+    "tone": 0.0,
+    "n": 2
+   },
+   "lepen": {
+    "tone": 0.0,
+    "n": 1
+   },
+   "melenchon": {
+    "tone": -2.0,
+    "n": 1
    }
   }
  },
@@ -13937,10 +14043,615 @@
   ]
  },
  "youtube": {
-  "dates": [],
-  "candidates": [],
-  "media": [],
-  "influencers": []
+  "dates": [
+   "2026-10-27"
+  ],
+  "candidates": [
+   {
+    "id": "lepen",
+    "name": "Marine Le Pen",
+    "color": null,
+    "views": [
+     93191283
+    ],
+    "change": [
+     0
+    ],
+    "subscribers": [
+     224000
+    ],
+    "latest": {
+     "date": "2026-10-27",
+     "id": "lepen",
+     "kind": "candidate",
+     "title": "Marine Le Pen",
+     "channel_id": "UCU3z3px1_RCqYBwrs8LJVWg",
+     "subscribers": 224000,
+     "views": 93191283,
+     "videos": 1016
+    }
+   },
+   {
+    "id": "melenchon",
+    "name": "Jean-Luc Mélenchon",
+    "color": null,
+    "views": [
+     454550528
+    ],
+    "change": [
+     0
+    ],
+    "subscribers": [
+     1310000
+    ],
+    "latest": {
+     "date": "2026-10-27",
+     "id": "melenchon",
+     "kind": "candidate",
+     "title": "JEAN-LUC MÉLENCHON",
+     "channel_id": "UCk-_PEY3iC6DIGJKuoEe9bw",
+     "subscribers": 1310000,
+     "views": 454550528,
+     "videos": 2239
+    }
+   },
+   {
+    "id": "philippe",
+    "name": "Édouard Philippe",
+    "color": null,
+    "views": [
+     1593793
+    ],
+    "change": [
+     0
+    ],
+    "subscribers": [
+     9360
+    ],
+    "latest": {
+     "date": "2026-10-27",
+     "id": "philippe",
+     "kind": "candidate",
+     "title": "Edouard Philippe",
+     "channel_id": "UCoDttl6w1T-Stuw_pvNOvLA",
+     "subscribers": 9360,
+     "views": 1593793,
+     "videos": 188
+    }
+   },
+   {
+    "id": "attal",
+    "name": "Gabriel Attal",
+    "color": null,
+    "views": [
+     2026965
+    ],
+    "change": [
+     0
+    ],
+    "subscribers": [
+     12100
+    ],
+    "latest": {
+     "date": "2026-10-27",
+     "id": "attal",
+     "kind": "candidate",
+     "title": "Gabriel Attal",
+     "channel_id": "UCOcDPuYTuxoRBtfmTBXtqBA",
+     "subscribers": 12100,
+     "views": 2026965,
+     "videos": 248
+    }
+   },
+   {
+    "id": "zemmour",
+    "name": "Éric Zemmour",
+    "color": null,
+    "views": [
+     136171671
+    ],
+    "change": [
+     0
+    ],
+    "subscribers": [
+     498000
+    ],
+    "latest": {
+     "date": "2026-10-27",
+     "id": "zemmour",
+     "kind": "candidate",
+     "title": "Éric Zemmour",
+     "channel_id": "UCjTbZBXEw-gplUAnMXLYHpg",
+     "subscribers": 498000,
+     "views": 136171671,
+     "videos": 524
+    }
+   },
+   {
+    "id": "retailleau",
+    "name": "Bruno Retailleau",
+    "color": null,
+    "views": [
+     375658
+    ],
+    "change": [
+     0
+    ],
+    "subscribers": [
+     4450
+    ],
+    "latest": {
+     "date": "2026-10-27",
+     "id": "retailleau",
+     "kind": "candidate",
+     "title": "Bruno Retailleau",
+     "channel_id": "UCRkuLQabW1hsihpZuHJSbEA",
+     "subscribers": 4450,
+     "views": 375658,
+     "videos": 103
+    }
+   },
+   {
+    "id": "lisnard",
+    "name": "David Lisnard",
+    "color": null,
+    "views": [
+     7075527
+    ],
+    "change": [
+     0
+    ],
+    "subscribers": [
+     25800
+    ],
+    "latest": {
+     "date": "2026-10-27",
+     "id": "lisnard",
+     "kind": "candidate",
+     "title": "David Lisnard",
+     "channel_id": "UC2XZY-bjIEmyLZ9MPJQytZg",
+     "subscribers": 25800,
+     "views": 7075527,
+     "videos": 370
+    }
+   },
+   {
+    "id": "roussel",
+    "name": "Fabien Roussel",
+    "color": null,
+    "views": [
+     7563
+    ],
+    "change": [
+     0
+    ],
+    "subscribers": [
+     1020
+    ],
+    "latest": {
+     "date": "2026-10-27",
+     "id": "roussel",
+     "kind": "candidate",
+     "title": "Fabien Roussel",
+     "channel_id": "UCHQbUAkpnkf_Yg6-xAqj-ZA",
+     "subscribers": 1020,
+     "views": 7563,
+     "videos": 25
+    }
+   },
+   {
+    "id": "dupontaignan",
+    "name": "Nicolas Dupont-Aignan",
+    "color": null,
+    "views": [
+     68231508
+    ],
+    "change": [
+     0
+    ],
+    "subscribers": [
+     233000
+    ],
+    "latest": {
+     "date": "2026-10-27",
+     "id": "dupontaignan",
+     "kind": "candidate",
+     "title": "Nicolas Dupont-Aignan",
+     "channel_id": "UCfA5DnCDX3Ixy5QOAMGtBlA",
+     "subscribers": 233000,
+     "views": 68231508,
+     "videos": 3931
+    }
+   },
+   {
+    "id": "arthaud",
+    "name": "Nathalie Arthaud",
+    "color": null,
+    "views": [
+     1417494
+    ],
+    "change": [
+     0
+    ],
+    "subscribers": [
+     9050
+    ],
+    "latest": {
+     "date": "2026-10-27",
+     "id": "arthaud",
+     "kind": "candidate",
+     "title": "Nathalie Arthaud",
+     "channel_id": "UCZsh-MrJftAOP_-ZgRgLScw",
+     "subscribers": 9050,
+     "views": 1417494,
+     "videos": 823
+    }
+   }
+  ],
+  "media": [
+   {
+    "id": "media-bfmtv",
+    "name": "BFM TV",
+    "color": "#2E4A9E",
+    "views": [
+     1948655352
+    ],
+    "change": [
+     0
+    ],
+    "subscribers": [
+     2710000
+    ],
+    "latest": {
+     "date": "2026-10-27",
+     "id": "media-bfmtv",
+     "kind": "media",
+     "title": "BFMTV",
+     "channel_id": "UCXwDLMDV86ldKoFVc_g8P0g",
+     "subscribers": 2710000,
+     "views": 1948655352,
+     "videos": 84615
+    }
+   },
+   {
+    "id": "media-franceinfo",
+    "name": "franceinfo",
+    "color": "#D62839",
+    "views": [
+     670416957
+    ],
+    "change": [
+     0
+    ],
+    "subscribers": [
+     1090000
+    ],
+    "latest": {
+     "date": "2026-10-27",
+     "id": "media-franceinfo",
+     "kind": "media",
+     "title": "franceinfo",
+     "channel_id": "UCO6K_kkdP-lnSCiO3tPx7WA",
+     "subscribers": 1090000,
+     "views": 670416957,
+     "videos": 28977
+    }
+   },
+   {
+    "id": "media-tf1info",
+    "name": "TF1 info",
+    "color": "#0091CC",
+    "views": [
+     8751561
+    ],
+    "change": [
+     0
+    ],
+    "subscribers": [
+     361000
+    ],
+    "latest": {
+     "date": "2026-10-27",
+     "id": "media-tf1info",
+     "kind": "media",
+     "title": "TF1",
+     "channel_id": "UC26vXhYofHiZDM2ar1zUuwQ",
+     "subscribers": 361000,
+     "views": 8751561,
+     "videos": 53
+    }
+   },
+   {
+    "id": "media-lci",
+    "name": "LCI",
+    "color": "#D9468F",
+    "views": [
+     1648663509
+    ],
+    "change": [
+     0
+    ],
+    "subscribers": [
+     2240000
+    ],
+    "latest": {
+     "date": "2026-10-27",
+     "id": "media-lci",
+     "kind": "media",
+     "title": "LCI",
+     "channel_id": "UCewhc0fvja891XkpIPGRMxQ",
+     "subscribers": 2240000,
+     "views": 1648663509,
+     "videos": 14036
+    }
+   },
+   {
+    "id": "media-cnews",
+    "name": "CNews",
+    "color": "#B97F00",
+    "views": [
+     507413802
+    ],
+    "change": [
+     0
+    ],
+    "subscribers": [
+     652000
+    ],
+    "latest": {
+     "date": "2026-10-27",
+     "id": "media-cnews",
+     "kind": "media",
+     "title": "CNEWS",
+     "channel_id": "UCXKJrYczY2_fJEZgFPGY0HQ",
+     "subscribers": 652000,
+     "views": 507413802,
+     "videos": 40293
+    }
+   },
+   {
+    "id": "media-france-inter",
+    "name": "France Inter",
+    "color": "#7B52AE",
+    "views": [
+     2239017805
+    ],
+    "change": [
+     0
+    ],
+    "subscribers": [
+     1440000
+    ],
+    "latest": {
+     "date": "2026-10-27",
+     "id": "media-france-inter",
+     "kind": "media",
+     "title": "France Inter",
+     "channel_id": "UCJldRgT_D7Am-ErRHQZ90uw",
+     "subscribers": 1440000,
+     "views": 2239017805,
+     "videos": 52881
+    }
+   },
+   {
+    "id": "media-europe1",
+    "name": "Europe 1",
+    "color": "#0E9F8A",
+    "views": [
+     1984681616
+    ],
+    "change": [
+     0
+    ],
+    "subscribers": [
+     2300000
+    ],
+    "latest": {
+     "date": "2026-10-27",
+     "id": "media-europe1",
+     "kind": "media",
+     "title": "Europe 1",
+     "channel_id": "UCIMGfEAERXjmWwQeg15BFsg",
+     "subscribers": 2300000,
+     "views": 1984681616,
+     "videos": 181021
+    }
+   },
+   {
+    "id": "media-lemonde",
+    "name": "Le Monde",
+    "color": "#A0522D",
+    "views": [
+     764265135
+    ],
+    "change": [
+     0
+    ],
+    "subscribers": [
+     2280000
+    ],
+    "latest": {
+     "date": "2026-10-27",
+     "id": "media-lemonde",
+     "kind": "media",
+     "title": "Le Monde",
+     "channel_id": "UCYpRDnhk5H8h16jpS84uqsA",
+     "subscribers": 2280000,
+     "views": 764265135,
+     "videos": 5396
+    }
+   },
+   {
+    "id": "media-mediapart",
+    "name": "Mediapart",
+    "color": "#3A6EA5",
+    "views": [
+     328154950
+    ],
+    "change": [
+     0
+    ],
+    "subscribers": [
+     1190000
+    ],
+    "latest": {
+     "date": "2026-10-27",
+     "id": "media-mediapart",
+     "kind": "media",
+     "title": "Mediapart",
+     "channel_id": "UCdnaDhU-LDQrIEEmSIfq0-Q",
+     "subscribers": 1190000,
+     "views": 328154950,
+     "videos": 4596
+    }
+   },
+   {
+    "id": "media-radionova",
+    "name": "Radio Nova",
+    "color": "#C05621",
+    "views": [
+     444706643
+    ],
+    "change": [
+     0
+    ],
+    "subscribers": [
+     697000
+    ],
+    "latest": {
+     "date": "2026-10-27",
+     "id": "media-radionova",
+     "kind": "media",
+     "title": "Radio Nova",
+     "channel_id": "UCGvjUWz3mGV9cssraATuEsw",
+     "subscribers": 697000,
+     "views": 444706643,
+     "videos": 7521
+    }
+   }
+  ],
+  "influencers": [
+   {
+    "id": "bardella",
+    "name": "Jordan Bardella",
+    "color": null,
+    "views": [
+     141885724
+    ],
+    "change": [
+     0
+    ],
+    "subscribers": [
+     231000
+    ],
+    "latest": {
+     "date": "2026-10-27",
+     "id": "bardella",
+     "kind": "influencer",
+     "title": "Jordan Bardella",
+     "channel_id": "UC3U0VIDgANFaXeOAtt1m5Mw",
+     "subscribers": 231000,
+     "views": 141885724,
+     "videos": 991
+    }
+   },
+   {
+    "id": "tondelier",
+    "name": "Marine Tondelier",
+    "color": null,
+    "views": [
+     2524
+    ],
+    "change": [
+     0
+    ],
+    "subscribers": [
+     738
+    ],
+    "latest": {
+     "date": "2026-10-27",
+     "id": "tondelier",
+     "kind": "influencer",
+     "title": "Marine Tondelier",
+     "channel_id": "UCziKYvao-gVX9qRaHLBIuBQ",
+     "subscribers": 738,
+     "views": 2524,
+     "videos": 2
+    }
+   },
+   {
+    "id": "villepin",
+    "name": "Dominique de Villepin",
+    "color": null,
+    "views": [
+     8754942
+    ],
+    "change": [
+     0
+    ],
+    "subscribers": [
+     52800
+    ],
+    "latest": {
+     "date": "2026-10-27",
+     "id": "villepin",
+     "kind": "influencer",
+     "title": "Dominique de Villepin",
+     "channel_id": "UCMIpCiZdVlMoqfra4hT6d4Q",
+     "subscribers": 52800,
+     "views": 8754942,
+     "videos": 377
+    }
+   },
+   {
+    "id": "ruffin",
+    "name": "François Ruffin",
+    "color": null,
+    "views": [
+     84396433
+    ],
+    "change": [
+     0
+    ],
+    "subscribers": [
+     250000
+    ],
+    "latest": {
+     "date": "2026-10-27",
+     "id": "ruffin",
+     "kind": "influencer",
+     "title": "FRANÇOIS RUFFIN",
+     "channel_id": "UCIQGSp79vVch0vO3Efqif_w",
+     "subscribers": 250000,
+     "views": 84396433,
+     "videos": 1264
+    }
+   },
+   {
+    "id": "knafo",
+    "name": "Sarah Knafo",
+    "color": null,
+    "views": [
+     95000324
+    ],
+    "change": [
+     0
+    ],
+    "subscribers": [
+     157000
+    ],
+    "latest": {
+     "date": "2026-10-27",
+     "id": "knafo",
+     "kind": "influencer",
+     "title": "Sarah Knafo",
+     "channel_id": "UC8ba7bn2fuU_lsVweb4YM4Q",
+     "subscribers": 157000,
+     "views": 95000324,
+     "videos": 616
+    }
+   }
+  ]
  },
  "influencers": [
   {
@@ -13960,8 +14671,8 @@
    "statut": "non_candidat",
    "note": "Président du RN. Marine Le Pen a officialisé sa candidature le 7 juillet 2026 ; Bardella est désigné comme futur Premier ministre dans son équipe.",
    "followers": null,
-   "youtube_views": null,
-   "youtube_subscribers": null
+   "youtube_views": 141885724,
+   "youtube_subscribers": 231000
   },
   {
    "id": "chenu",
@@ -14110,8 +14821,8 @@
    "statut": "non_candidat",
    "note": "Pas de candidature présidentielle relevée dans les sources consultées.",
    "followers": null,
-   "youtube_views": null,
-   "youtube_subscribers": null
+   "youtube_views": 95000324,
+   "youtube_subscribers": 157000
   },
   {
    "id": "meunier",
@@ -14140,8 +14851,8 @@
    "statut": "a_verifier",
    "note": "Statut à confirmer : cité dans certaines listes, pas dans les sources officielles consultées.",
    "followers": null,
-   "youtube_views": null,
-   "youtube_subscribers": null
+   "youtube_views": 84396433,
+   "youtube_subscribers": 250000
   },
   {
    "id": "tondelier",
@@ -14150,8 +14861,8 @@
    "statut": "a_verifier",
    "note": "Statut à confirmer.",
    "followers": null,
-   "youtube_views": null,
-   "youtube_subscribers": null
+   "youtube_views": 2524,
+   "youtube_subscribers": 738
   },
   {
    "id": "villepin",
@@ -14160,11 +14871,227 @@
    "statut": "a_verifier",
    "note": "Statut à confirmer.",
    "followers": null,
-   "youtube_views": null,
-   "youtube_subscribers": null
+   "youtube_views": 8754942,
+   "youtube_subscribers": 52800
   }
  ],
- "youtube_status": [],
+ "youtube_status": [
+  {
+   "id": "lepen",
+   "ok": true,
+   "title": "Marine Le Pen"
+  },
+  {
+   "id": "melenchon",
+   "ok": true,
+   "title": "JEAN-LUC MÉLENCHON"
+  },
+  {
+   "id": "philippe",
+   "ok": true,
+   "title": "Edouard Philippe"
+  },
+  {
+   "id": "glucksmann",
+   "ok": false,
+   "error": "échec de la requête"
+  },
+  {
+   "id": "attal",
+   "ok": true,
+   "title": "Gabriel Attal"
+  },
+  {
+   "id": "zemmour",
+   "ok": true,
+   "title": "Éric Zemmour"
+  },
+  {
+   "id": "retailleau",
+   "ok": true,
+   "title": "Bruno Retailleau"
+  },
+  {
+   "id": "lisnard",
+   "ok": true,
+   "title": "David Lisnard"
+  },
+  {
+   "id": "bardella",
+   "ok": true,
+   "title": "Jordan Bardella"
+  },
+  {
+   "id": "tondelier",
+   "ok": true,
+   "title": "Marine Tondelier"
+  },
+  {
+   "id": "roussel",
+   "ok": true,
+   "title": "Fabien Roussel"
+  },
+  {
+   "id": "dupontaignan",
+   "ok": true,
+   "title": "Nicolas Dupont-Aignan"
+  },
+  {
+   "id": "arthaud",
+   "ok": true,
+   "title": "Nathalie Arthaud"
+  },
+  {
+   "id": "villepin",
+   "ok": true,
+   "title": "Dominique de Villepin"
+  },
+  {
+   "id": "hollande",
+   "ok": false,
+   "error": "handle non renseigné"
+  },
+  {
+   "id": "ruffin",
+   "ok": true,
+   "title": "FRANÇOIS RUFFIN"
+  },
+  {
+   "id": "knafo",
+   "ok": true,
+   "title": "Sarah Knafo"
+  },
+  {
+   "id": "media-bfmtv",
+   "ok": true,
+   "title": "BFMTV"
+  },
+  {
+   "id": "media-franceinfo",
+   "ok": true,
+   "title": "franceinfo"
+  },
+  {
+   "id": "media-tf1info",
+   "ok": true,
+   "title": "TF1"
+  },
+  {
+   "id": "media-lci",
+   "ok": true,
+   "title": "LCI"
+  },
+  {
+   "id": "media-cnews",
+   "ok": true,
+   "title": "CNEWS"
+  },
+  {
+   "id": "media-france-inter",
+   "ok": true,
+   "title": "France Inter"
+  },
+  {
+   "id": "media-europe1",
+   "ok": true,
+   "title": "Europe 1"
+  },
+  {
+   "id": "media-lemonde",
+   "ok": true,
+   "title": "Le Monde"
+  },
+  {
+   "id": "media-mediapart",
+   "ok": true,
+   "title": "Mediapart"
+  },
+  {
+   "id": "media-radionova",
+   "ok": true,
+   "title": "Radio Nova"
+  },
+  {
+   "id": "marechal",
+   "ok": false,
+   "error": "handle non renseigné"
+  },
+  {
+   "id": "chenu",
+   "ok": false,
+   "error": "handle non renseigné"
+  },
+  {
+   "id": "hassan",
+   "ok": false,
+   "error": "handle non renseigné"
+  },
+  {
+   "id": "guiraud",
+   "ok": false,
+   "error": "handle non renseigné"
+  },
+  {
+   "id": "guette",
+   "ok": false,
+   "error": "handle non renseigné"
+  },
+  {
+   "id": "bompard",
+   "ok": false,
+   "error": "handle non renseigné"
+  },
+  {
+   "id": "legendre",
+   "ok": false,
+   "error": "handle non renseigné"
+  },
+  {
+   "id": "naegelen",
+   "ok": false,
+   "error": "handle non renseigné"
+  },
+  {
+   "id": "borne",
+   "ok": false,
+   "error": "handle non renseigné"
+  },
+  {
+   "id": "darmanin",
+   "ok": false,
+   "error": "handle non renseigné"
+  },
+  {
+   "id": "sejourne",
+   "ok": false,
+   "error": "handle non renseigné"
+  },
+  {
+   "id": "faure",
+   "ok": false,
+   "error": "handle non renseigné"
+  },
+  {
+   "id": "delga",
+   "ok": false,
+   "error": "handle non renseigné"
+  },
+  {
+   "id": "wauquiez",
+   "ok": false,
+   "error": "handle non renseigné"
+  },
+  {
+   "id": "pecresse",
+   "ok": false,
+   "error": "handle non renseigné"
+  },
+  {
+   "id": "meunier",
+   "ok": false,
+   "error": "handle non renseigné"
+  }
+ ],
  "parties": [
   {
    "id": "rn",
@@ -14275,7 +15202,7 @@
  },
  "sources": {
   "polls": "https://fr.wikipedia.org/wiki/Liste_de_sondages_sur_l'élection_présidentielle_française_de_2027",
-  "polls_fetched": "2026-10-27T12:23+01:00",
+  "polls_fetched": "2026-10-27T20:44+01:00",
   "feeds": [
    {
     "outlet": "L'Humanité",
@@ -14329,8 +15256,8 @@
    },
    {
     "outlet": "Marianne",
-    "ok": true,
-    "items": 20
+    "ok": false,
+    "error": "405 Client Error: Not Allowed for url: https://www.marianne.net/rss.xml"
    },
    {
     "outlet": "BFMTV",
@@ -14403,8 +15330,8 @@
     "items": 40
    }
   ],
-  "articles_total": 870,
-  "articles_analysed": 77,
+  "articles_total": 1192,
+  "articles_analysed": 108,
   "media_since": "2026-10-20"
  },
  "parameters": {

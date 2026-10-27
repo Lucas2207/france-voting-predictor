@@ -431,6 +431,13 @@
   "published": "2026-10-26T10:49+01:00",
   "mentions": [
    "lepen"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": -1,
+    "frame": "programme"
+   }
   ]
  },
  {
@@ -546,7 +553,8 @@
   "published": "2026-10-26T11:11+01:00",
   "mentions": [
    "villepin"
-  ]
+  ],
+  "analysis": []
  },
  {
   "id": "af645769b16401cf",
@@ -745,6 +753,13 @@
   "published": "2026-10-26T12:13+01:00",
   "mentions": [
    "lepen"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
   ]
  },
  {
@@ -879,6 +894,23 @@
    "lepen",
    "melenchon",
    "philippe"
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": -1,
+    "frame": "sondage_dynamique"
+   },
+   {
+    "id": "lepen",
+    "tone": 1,
+    "frame": "sondage_dynamique"
+   },
+   {
+    "id": "melenchon",
+    "tone": 1,
+    "frame": "sondage_dynamique"
+   }
   ]
  },
  {
@@ -1040,7 +1072,8 @@
   "published": "2026-10-26T13:51+01:00",
   "mentions": [
    "tondelier"
-  ]
+  ],
+  "analysis": []
  },
  {
   "id": "13a0d63794142dad",
@@ -1515,6 +1548,18 @@
   "mentions": [
    "philippe",
    "attal"
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": -1,
+    "frame": "sondage_dynamique"
+   },
+   {
+    "id": "attal",
+    "tone": -1,
+    "frame": "sondage_dynamique"
+   }
   ]
  },
  {
@@ -2130,6 +2175,13 @@
   "published": "2026-10-26T19:31+01:00",
   "mentions": [
    "glucksmann"
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
   ]
  },
  {
@@ -2665,6 +2717,13 @@
   "published": "2026-10-26T21:40+01:00",
   "mentions": [
    "lepen"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": -1,
+    "frame": "autre"
+   }
   ]
  },
  {
