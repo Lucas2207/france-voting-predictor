@@ -111,7 +111,27 @@ def _client():
     return anthropic.Anthropic(max_retries=4)
 
 
+class BudgetExhausted(RuntimeError):
+    """Plafond d'appels à Claude atteint pour cette exécution ; la suite sera traitée au prochain passage."""
+
+
+_budget = {"left": None}
+
+
+def set_budget(calls):
+    _budget["left"] = calls
+
+
+def _spend():
+    if _budget["left"] is None:
+        return
+    if _budget["left"] <= 0:
+        raise BudgetExhausted()
+    _budget["left"] -= 1
+
+
 def _call(client, system, user, schema, max_tokens):
+    _spend()
     response = client.beta.messages.create(
         model=MODEL,
         max_tokens=max_tokens,

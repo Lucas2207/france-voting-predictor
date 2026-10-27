@@ -17,7 +17,17 @@ ARTICLES_DIR = Path("data/articles")
 USER_AGENT = "Mozilla/5.0 (compatible; france-elections-predictor/1.0)"
 SUMMARY_MAX = 600
 SEARCH_URL = "https://news.google.com/rss/search"
-SEARCH_WINDOW = "when:7d"  # recherche limitée aux 7 derniers jours
+
+
+def month_windows(start, today):
+    """Mois calendaires couvrant [start, today] : (début, fin exclue). Google renvoie ~100 résultats par requête."""
+    from datetime import date
+    out, cur = [], date(start.year, start.month, 1)
+    while cur <= today:
+        nxt = date(cur.year + (cur.month == 12), cur.month % 12 + 1, 1)
+        out.append((max(cur, start), nxt))
+        cur = nxt
+    return out
 
 
 def normalize(text):
@@ -76,15 +86,18 @@ def lean_by_outlet(feeds):
     return {f["outlet"]: f["lean"] for f in feeds}
 
 
-def fetch_candidate_search(candidates, leans):
-    """Articles qui citent chaque candidat, via Google Actualités (couvre les sites sans flux RSS).
+def fetch_candidate_search(candidates, leans, start, today):
+    """Articles qui citent chaque candidat depuis `start`, via Google Actualités (couvre les sites sans flux RSS).
 
-    Le média d'origine est lu dans la source de chaque article. Retourne (articles, état).
+    Une requête par candidat et par mois. Le média d'origine est lu dans la source de chaque article.
+    Retourne (articles, état).
     """
     now = datetime.now(PARIS)
-    articles, errors = [], 0
-    for c in candidates:
-        query = f'"{c["name"]}" {SEARCH_WINDOW}'
+    articles, errors, total = [], 0, 0
+    queries = [(c, f'"{c["name"]}" after:{a.isoformat()} before:{b.isoformat()}')
+               for c in candidates for a, b in month_windows(start, today)]
+    for c, query in queries:
+        total += 1
         url = f"{SEARCH_URL}?q={quote(query)}&hl=fr&gl=FR&ceid=FR:fr"
         try:
             resp = requests.get(url, timeout=25, headers={"User-Agent": USER_AGENT})
@@ -110,8 +123,8 @@ def fetch_candidate_search(candidates, leans):
                 "summary": "",
                 "published": _published(e, now).isoformat(timespec="minutes"),
             })
-    status = {"outlet": "Google Actualités (recherche par candidat)", "ok": errors < len(candidates),
-              "items": len(articles), "error": f"{errors} requête(s) en échec" if errors else None}
+    status = {"outlet": "Google Actualités (recherche par candidat)", "ok": errors < total,
+              "items": len(articles), "error": f"{errors} requête(s) en échec sur {total}" if errors else None}
     return articles, status
 
 

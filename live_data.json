@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-10-27 22:04",
+ "last_updated": "2026-10-27 22:15",
  "today": "2026-10-27",
  "candidates": [
   {
@@ -14954,7 +14954,23 @@
   ]
  },
  "interview_videos": [],
- "tv_weekly": null,
+ "tv_weekly": {
+  "fetched": "2026-10-27",
+  "period": "du 19 au 25 octobre 2026",
+  "total_tv": 59908000,
+  "shares": {
+   "nationales": 90.6,
+   "tf1": 18.3,
+   "france2": 12.9,
+   "france3": 8.5,
+   "france5": 3.9,
+   "m6": 8.5,
+   "arte": 3.4,
+   "w9": 3.0,
+   "tmc": 3.2,
+   "canalplus": 1.1
+  }
+ },
  "influencers": [
   {
    "id": "marechal",
@@ -15288,7 +15304,7 @@
  },
  "sources": {
   "polls": "https://fr.wikipedia.org/wiki/Liste_de_sondages_sur_l'élection_présidentielle_française_de_2027",
-  "polls_fetched": "2026-10-27T21:53+01:00",
+  "polls_fetched": "2026-10-27T22:14+01:00",
   "feeds": [
    {
     "outlet": "L'Humanité",
@@ -15418,13 +15434,13 @@
    {
     "outlet": "Google Actualités (recherche par candidat)",
     "ok": true,
-    "items": 775,
+    "items": 2909,
     "error": null
    }
   ],
-  "articles_total": 1924,
+  "articles_total": 4462,
   "articles_analysed": 109,
-  "media_since": "2026-10-20"
+  "media_since": "2026-07-01"
  },
  "parameters": {
   "POLL_WINDOW": 30,

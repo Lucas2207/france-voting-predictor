@@ -24,8 +24,8 @@ MEDIAMETRIE_FILE = DATA / "mediametrie.json"
 YOUTUBE_CHANNELS = Path("config/youtube_channels.json")
 PARTIES_FILE = Path("config/parties.json")
 OUTPUT = Path("live_data.json")
-ANALYSE_DAYS = 7       # jours d'articles analysés à chaque exécution (= durée de conservation)
-MAX_ARTICLE_AGE = 7    # ignore les vieux articles remontés par certains flux
+START_DATE = date(2026, 7, 1)  # période couverte : presse, vidéos et audiences depuis cette date
+CLAUDE_CALL_BUDGET = int(os.environ.get("CLAUDE_CALL_BUDGET", "150"))  # appels à Claude par exécution
 HISTORY_DAYS = 180
 KNOWN_WINDOW = 14      # jours pendant lesquels un événement est proposé au modèle comme déjà connu
 
@@ -84,11 +84,11 @@ def main():
     feed_status = _load(DATA / "feed_status.json", [])
     if not args.no_fetch:
         articles, feed_status = news.fetch_feeds(feeds)
-        search_articles, search_status = news.fetch_candidate_search(candidates, news.lean_by_outlet(feeds))
+        search_articles, search_status = news.fetch_candidate_search(
+            candidates, news.lean_by_outlet(feeds), START_DATE, today)
         articles += search_articles
         feed_status = feed_status + [search_status]
-        cutoff = (today - timedelta(days=MAX_ARTICLE_AGE)).isoformat()
-        articles = [a for a in articles if a["published"][:10] >= cutoff]
+        articles = [a for a in articles if a["published"][:10] >= START_DATE.isoformat()]
         added = news.store(articles, candidates)
         _save(DATA / "feed_status.json", feed_status)
         ok = sum(1 for f in feed_status if f["ok"])
@@ -113,7 +113,7 @@ def main():
             names = {c["id"]: c["name"] for c in cfg["channels"]}
             pairs = [(channel_ids[c], names[c]) for c in cfg.get("interview_channels", []) if c in channel_ids]
             cands = _load(Path("config/candidates.json"), {"candidates": []})["candidates"]
-            videos = youtube.collect_interview_videos(cands, pairs, today, key)
+            videos = youtube.collect_interview_videos(cands, pairs, START_DATE, today, key)
             interview_doc["snapshots"] = youtube.add_snapshots(
                 interview_doc["snapshots"], [dict(v, id=v["video_id"]) for v in videos])
             _save(INTERVIEW_VIDEOS_FILE, interview_doc)
@@ -122,16 +122,19 @@ def main():
     # Audiences TV hebdomadaires (Médiamétrie)
     tv_doc = _load(MEDIAMETRIE_FILE, {"weeks": []})
     if not args.no_fetch:
+        known = {w["period"] for w in tv_doc["weeks"]}
+        past = mediametrie.fetch_weeks_since(START_DATE, today, known)
+        for w in past:
+            tv_doc["weeks"] = mediametrie.add_week(tv_doc["weeks"], w)
         week = mediametrie.fetch_week(today=today)
         if week:
             tv_doc["weeks"] = mediametrie.add_week(tv_doc["weeks"], week)
-            _save(MEDIAMETRIE_FILE, tv_doc)
-            print(f"✅ Médiamétrie : {week['period']}")
+        _save(MEDIAMETRIE_FILE, tv_doc)
+        print(f"✅ Médiamétrie : {len(tv_doc['weeks'])} semaine(s) disponibles")
 
-    # 3. Analyse Claude + 4. événements
+    # 3. Analyse Claude : chronologique depuis START_DATE, plafonnée par exécution
     events = _load(EVENTS_FILE, {"checked_days": [], "events": []})
     interviews_doc = _load(INTERVIEWS_FILE, {"checked_days": [], "interviews": []})
-    recent_days = [d for d in news.all_days() if d >= (today - timedelta(days=ANALYSE_DAYS)).isoformat()]
     if args.no_claude:
         print("ℹ️  Analyse Claude désactivée (--no-claude)")
     elif not (os.environ.get("ANTHROPIC_API_KEY") or os.environ.get("ANTHROPIC_AUTH_TOKEN")):
@@ -139,20 +142,21 @@ def main():
     else:
         import anthropic
         from . import analyze
-        print(f"🤖 Analyse avec {analyze.MODEL} (effort {analyze.EFFORT})")
+        print(f"🤖 Analyse avec {analyze.MODEL} (effort {analyze.EFFORT}, {CLAUDE_CALL_BUDGET} appels max)")
         client = analyze._client()
+        analyze.set_budget(CLAUDE_CALL_BUDGET)
         try:
-            for day in recent_days:
+            for day in news.all_days():
+                if day < START_DATE.isoformat():
+                    continue
                 arts = news.load_day(day)
                 n = analyze.score_articles(arts, candidates, client)
                 if n:
                     news.save_day(day, arts)
                     print(f"   {day} : {n} articles analysés")
-            # événements et interviews : chaque journée terminée une seule fois, dans l'ordre
-            for day in news.all_days():
                 if day >= today.isoformat():
                     continue
-                arts = news.load_day(day)
+                # événements et interviews : chaque journée terminée une seule fois
                 if day not in events["checked_days"]:
                     known = [{"id": e["id"], "title": e["title"], "date": e["date"]}
                              for e in events["events"]
@@ -168,6 +172,8 @@ def main():
                         interviews_doc["interviews"] = social.merge_interviews(interviews_doc["interviews"], found)
                         interviews_doc["checked_days"].append(day)
                         print(f"   {day} : {len(found)} interview(s) avec audience")
+        except analyze.BudgetExhausted:
+            print(f"⏸️  Plafond de {CLAUDE_CALL_BUDGET} appels atteint : la suite sera traitée au prochain passage")
         except (anthropic.AuthenticationError, anthropic.PermissionDeniedError) as exc:
             # Sondages et presse restent publiés, mais l'exécution doit apparaître en échec
             print(f"❌ Clé API refusée, analyse Claude interrompue : {exc}", file=sys.stderr)
@@ -215,7 +221,7 @@ def main():
         "history": history,
         "polls": [p for p in poll_data["polls"] if p["end_date"] >= (today - timedelta(days=HISTORY_DAYS)).isoformat()],
         "media_daily": model.daily_media(days, candidates),
-        "media_by_outlet": model.outlet_matrix(days, candidates, today),
+        "media_by_outlet": model.outlet_matrix(days, candidates, today, window=(today - START_DATE).days + 1),
         "events": all_events[:40],
         "followers": followers,
         "youtube": yt_series,

@@ -43,32 +43,53 @@ class MediametrieTest(unittest.TestCase):
 
 
 class InterviewVideosTest(unittest.TestCase):
-    def test_search_keeps_only_videos_naming_the_candidate(self):
-        def get(url, params, timeout):
-            if "search" in url:
+    def test_keeps_only_videos_naming_the_candidate(self):
+        def get(url, params=None, timeout=None):
+            if "playlistItems" in url:
                 items = [
-                    {"id": {"videoId": "v1"}, "snippet": {"title": "Marine Le Pen face à François Lenglet", "publishedAt": "2026-10-25T10:00:00Z"}},
-                    {"id": {"videoId": "v2"}, "snippet": {"title": "Le journal de 20h", "publishedAt": "2026-10-25T20:00:00Z"}},
+                    {"snippet": {"title": "Marine Le Pen face à François Lenglet", "publishedAt": "2026-10-25T10:00:00Z",
+                                 "resourceId": {"videoId": "v1"}}},
+                    {"snippet": {"title": "Le journal de 20h", "publishedAt": "2026-10-25T20:00:00Z",
+                                 "resourceId": {"videoId": "v2"}}},
+                    {"snippet": {"title": "Un ancien sujet", "publishedAt": "2026-06-01T00:00:00Z",
+                                 "resourceId": {"videoId": "v3"}}},
                 ]
                 return SimpleNamespace(status_code=200, json=lambda: {"items": items})
             return SimpleNamespace(status_code=200, json=lambda: {"items": [{"id": "v1", "statistics": {"viewCount": "1234"}}]})
 
         cands = [{"id": "lepen", "name": "Marine Le Pen"}]
-        out = youtube.collect_interview_videos(cands, [("UCtf1", "TF1 info")], date(2026, 10, 27), "K", get=get)
-        self.assertEqual(len(out), 1)
-        self.assertEqual(out[0]["video_id"], "v1")
+        out = youtube.collect_interview_videos(cands, [("UCtf1", "TF1 info")], date(2026, 7, 1), date(2026, 10, 27), "K", get=get)
+        self.assertEqual([o["video_id"] for o in out], ["v1"])
         self.assertEqual(out[0]["views"], 1234)
         self.assertEqual(out[0]["candidates"], ["lepen"])
 
-    def test_no_key_means_no_search(self):
+    def test_playlist_is_the_channel_uploads_list(self):
+        seen = []
+
+        def get(url, params=None, timeout=None):
+            seen.append(params["playlistId"])
+            return SimpleNamespace(status_code=200, json=lambda: {"items": []})
+
+        youtube.channel_videos("UCabc", date(2026, 7, 1), "K", get=get)
+        self.assertEqual(seen, ["UUabc"])
+
+    def test_no_key_means_no_call(self):
         calls = []
-        out = youtube.collect_interview_videos([{"id": "x", "name": "X Y"}], [("UC", "C")], date(2026, 10, 27), "",
-                                               get=lambda *a, **k: calls.append(1))
+        out = youtube.collect_interview_videos([{"id": "x", "name": "X Y"}], [("UC", "C")], date(2026, 7, 1), date(2026, 10, 27),
+                                               "", get=lambda *a, **k: calls.append(1))
         self.assertEqual((out, calls), ([], []))
 
     def test_short_surname_alone_is_not_enough(self):
         self.assertFalse(youtube.name_in_title("Éric Zemmour", "Un débat sur la sécurité"))
         self.assertTrue(youtube.name_in_title("Éric Zemmour", "Zemmour sur TF1"))
+
+
+class WeekLabelTest(unittest.TestCase):
+    def test_slug_and_label_match_the_site(self):
+        from datetime import date as d
+        self.assertEqual(mediametrie.week_slug(d(2026, 10, 19)), "laudience-de-la-television-du-19-au-25-octobre-2026")
+        self.assertEqual(mediametrie.week_label(mediametrie.week_slug(d(2026, 10, 19))), "du 19 au 25 octobre 2026")
+        self.assertEqual(mediametrie.week_slug(d(2026, 9, 28)), "laudience-de-la-television-du-28-septembre-au-4-octobre-2026")
 
 
 if __name__ == "__main__":

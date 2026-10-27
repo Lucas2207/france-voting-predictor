@@ -97,24 +97,41 @@ def build_series(snapshots, channels):
 
 
 
-SEARCH_URL = "https://www.googleapis.com/youtube/v3/search"
+PLAYLIST_URL = "https://www.googleapis.com/youtube/v3/playlistItems"
 VIDEOS_URL = "https://www.googleapis.com/youtube/v3/videos"
 
 
-def search_videos(channel_id, query, published_after, key, get=requests.get):
-    """Vidéos d'une chaîne correspondant à `query`, publiées après `published_after` (RFC 3339)."""
-    params = {"part": "snippet", "channelId": channel_id, "q": query, "type": "video", "order": "date",
-              "maxResults": 10, "publishedAfter": published_after, "key": key}
-    try:
-        resp = get(SEARCH_URL, params=params, timeout=TIMEOUT)
-    except requests.RequestException as exc:
-        print(f"⚠️  YouTube recherche {query} : {exc}", file=sys.stderr)
-        return []
-    if resp.status_code != 200:
-        print(f"⚠️  YouTube recherche {query} : HTTP {resp.status_code}", file=sys.stderr)
-        return []
-    return [{"video_id": it["id"]["videoId"], "title": it["snippet"]["title"], "published": it["snippet"]["publishedAt"]}
-            for it in resp.json().get("items", []) if it.get("id", {}).get("videoId")]
+def channel_videos(channel_id, since, key, get=requests.get):
+    """Vidéos publiées par une chaîne depuis la date `since` (liste des uploads, 1 unité par page de 50)."""
+    playlist = "UU" + channel_id[2:]  # playlist des envois d'une chaîne
+    out, token = [], None
+    while True:
+        params = {"part": "snippet", "playlistId": playlist, "maxResults": 50, "key": key}
+        if token:
+            params["pageToken"] = token
+        try:
+            resp = get(PLAYLIST_URL, params=params, timeout=TIMEOUT)
+        except requests.RequestException as exc:
+            print(f"⚠️  YouTube liste {channel_id} : {exc}", file=sys.stderr)
+            break
+        if resp.status_code != 200:
+            print(f"⚠️  YouTube liste {channel_id} : HTTP {resp.status_code}", file=sys.stderr)
+            break
+        body = resp.json()
+        reached_start = False
+        for it in body.get("items", []):
+            sn = it.get("snippet", {})
+            published = sn.get("publishedAt", "")
+            if published[:10] < since.isoformat():
+                reached_start = True
+                break
+            vid = sn.get("resourceId", {}).get("videoId")
+            if vid:
+                out.append({"video_id": vid, "title": sn.get("title", ""), "published": published})
+        token = body.get("nextPageToken")
+        if reached_start or not token:
+            break
+    return out
 
 
 def video_views(video_ids, key, get=requests.get):
@@ -144,19 +161,17 @@ def name_in_title(name, title):
     return len(parts[-1]) >= 5 and parts[-1] in t
 
 
-def collect_interview_videos(candidates, channels, today, key, get=requests.get, days=7):
-    """Relevés des vidéos de la semaine où un candidat est cité, sur les chaînes d'information.
+def collect_interview_videos(candidates, channels, since, today, key, get=requests.get):
+    """Vidéos publiées depuis `since` sur les chaînes indiquées dont le titre cite un candidat.
 
     `channels` : liste de (channel_id, nom de la chaîne). Retourne des relevés {date, video_id, ...}.
     """
-    from datetime import timedelta
     if not key:
         return []
-    after = (today - timedelta(days=days)).isoformat() + "T00:00:00Z"
     found = {}
-    for cand in candidates:
-        for channel_id, channel_name in channels:
-            for v in search_videos(channel_id, f'"{cand["name"]}"', after, key, get=get):
+    for channel_id, channel_name in channels:
+        for v in channel_videos(channel_id, since, key, get=get):
+            for cand in candidates:
                 if not name_in_title(cand["name"], v["title"]):
                     continue
                 entry = found.setdefault(v["video_id"], {"video_id": v["video_id"], "title": v["title"],

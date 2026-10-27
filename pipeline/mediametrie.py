@@ -9,7 +9,7 @@ import io
 import re
 import sys
 import unicodedata
-from datetime import date
+from datetime import date, timedelta
 
 import openpyxl
 import requests
@@ -52,6 +52,49 @@ def parse_shares(xlsx_bytes):
     return {"total_tv": total, "shares": shares}
 
 
+MONTHS = ["janvier", "février", "mars", "avril", "mai", "juin", "juillet", "août",
+          "septembre", "octobre", "novembre", "décembre"]
+SLUG_PREFIX = "laudience-de-la-television-"
+
+
+def week_slug(monday):
+    """Fin de l'URL d'un communiqué hebdomadaire : du-19-au-25-octobre-2026 (ou à cheval sur deux mois)."""
+    sunday = monday + timedelta(days=6)
+    if monday.month == sunday.month:
+        dates = f"du-{monday.day}-au-{sunday.day}-{MONTHS[sunday.month - 1]}-{sunday.year}"
+    else:
+        dates = f"du-{monday.day}-{MONTHS[monday.month - 1]}-au-{sunday.day}-{MONTHS[sunday.month - 1]}-{sunday.year}"
+    return SLUG_PREFIX + dates
+
+
+def week_label(slug):
+    return slug.replace(SLUG_PREFIX, "").replace("-", " ").replace(" au ", " au ")
+
+
+def fetch_weeks_since(start, today, known_periods, get=requests.get):
+    """Communiqués hebdomadaires depuis `start` (semaines complètes), absents de `known_periods`.
+
+    Les communiqués anciens ne sont pas tous accessibles : ceux qui manquent sont ignorés.
+    """
+    monday = start - timedelta(days=start.weekday())
+    weeks = []
+    while monday + timedelta(days=6) < today:
+        slug = week_slug(monday)
+        label = week_label(slug)
+        if label not in known_periods:
+            try:
+                page = get(f"{BASE}/fr/audiences-et-resultats/tv/mediamat-hebdomadaire/{slug}", timeout=TIMEOUT).text
+                excel = EXCEL_RE.search(page)
+                if excel:
+                    parsed = parse_shares(get(BASE + excel.group(1), timeout=TIMEOUT).content)
+                    if parsed["shares"]:
+                        weeks.append({"fetched": today.isoformat(), "period": label, **parsed})
+            except requests.RequestException:
+                pass
+        monday += timedelta(days=7)
+    return weeks
+
+
 def latest_release(get=requests.get):
     """Page et export du communiqué hebdomadaire le plus récent. Retourne (libellé, octets) ou None."""
     try:
@@ -64,7 +107,7 @@ def latest_release(get=requests.get):
         if not excel_path:
             return None
         xlsx = get(BASE + excel_path.group(1), timeout=TIMEOUT).content
-        label = page_path.group(1).rsplit("/", 1)[-1].replace("-", " ")
+        label = week_label(page_path.group(1).rsplit("/", 1)[-1])
         return label, xlsx
     except requests.RequestException as exc:
         print(f"⚠️  Médiamétrie : {exc}", file=sys.stderr)
