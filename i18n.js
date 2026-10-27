@@ -7,7 +7,7 @@
  */
 const I18N = {
   fr: {
-    'logo.coat': 'Écu illustratif, non officiel',
+    'logo.coat': 'Palais de l\'Élysée (illustration)',
     'logo.ballot': 'Bulletin de vote',
     'logo.flag': 'Drapeau français',
     'page.title': 'Présidentielle 2027 • Sondages, médias et projection',
@@ -126,12 +126,12 @@ const I18N = {
     'method.youtube': '<strong>YouTube.</strong> Les vues et abonnés des chaînes sont relevés chaque jour automatiquement par l\'API officielle de YouTube (gratuite). Les vues sont cumulées depuis la création de la chaîne ; le gain d\'une période est la différence entre deux relevés. YouTube arrondit le nombre d\'abonnés.',
     'method.interviews': '<strong>Interviews.</strong> Claude relève dans les articles de presse les interviews dont l\'audience est publiée (téléspectateurs ou part d\'audience). Une interview sans chiffre publié n\'est pas comptée.',
     'method.limits': '<strong>Limites.</strong> Un flux RSS ne contient que le titre et le chapô. L\'analyse automatique peut se tromper. Les flux surreprésentent la presse nationale. Les sondages ne sont pas des prédictions, et l\'offre de candidats n\'est pas encore fixée.',
-    'method.emblem': '<strong>Logo.</strong> L\'écu et le bulletin de vote sont des illustrations graphiques propres au site. Ils ne reproduisent pas les armoiries officielles de la République et ne sont pas un signe d\'approbation des pouvoirs publics.',
+    'method.emblem': "Logo : le dessin du palais de l'Élysée et le bulletin de vote sont des illustrations graphiques. Elles ne signifient aucun lien avec la présidence ni aucune approbation des pouvoirs publics.",
     'method.source': 'source',
     'chart.legendNote': '',
   },
   en: {
-    'logo.coat': 'Illustrative shield, not official',
+    'logo.coat': 'Élysée Palace (illustration)',
     'logo.ballot': 'Ballot paper',
     'logo.flag': 'French flag',
     'page.title': 'Presidential 2027 • Polls, media and projection',
@@ -250,11 +250,11 @@ const I18N = {
     'method.youtube': '<strong>YouTube.</strong> Channel views and subscribers are read every day automatically through YouTube’s official API (free). Views are cumulative since the channel was created; the gain over a period is the difference between two readings. YouTube rounds subscriber counts.',
     'method.interviews': '<strong>Interviews.</strong> Claude extracts from press articles the interviews for which an audience is published (viewers or audience share). An interview without a published figure is not counted.',
     'method.limits': '<strong>Limits.</strong> An RSS feed only contains the headline and summary. Automatic analysis can be wrong. The feeds over-represent national press. Polls are not predictions, and the list of candidates is not yet final.',
-    'method.emblem': '<strong>Logo.</strong> The shield and the ballot paper are graphic illustrations made for this site. They do not reproduce the official coat of arms of the Republic and do not imply any endorsement by public authorities.',
+    'method.emblem': 'Logo: the drawing of the Élysée Palace and the ballot paper are graphic illustrations. They imply no link with the Presidency and no endorsement by public authorities.',
     'method.source': 'source',
   },
   es: {
-    'logo.coat': 'Escudo ilustrativo, no oficial',
+    'logo.coat': 'Palacio del Elíseo (ilustración)',
     'logo.ballot': 'Papeleta de voto',
     'logo.flag': 'Bandera francesa',
     'page.title': 'Presidenciales 2027 • Encuestas, medios y proyección',
@@ -373,11 +373,11 @@ const I18N = {
     'method.youtube': '<strong>YouTube.</strong> Las vistas y los suscriptores de los canales se leen cada día automáticamente a través de la API oficial de YouTube (gratuita). Las vistas son acumuladas desde la creación del canal; la ganancia de un periodo es la diferencia entre dos lecturas. YouTube redondea el número de suscriptores.',
     'method.interviews': '<strong>Entrevistas.</strong> Claude extrae de los artículos de prensa las entrevistas cuya audiencia se publica (telespectadores o cuota de audiencia). Una entrevista sin cifra publicada no se cuenta.',
     'method.limits': '<strong>Límites.</strong> Una fuente RSS solo contiene el titular y el resumen. El análisis automático puede equivocarse. Las fuentes sobrerrepresentan la prensa nacional. Las encuestas no son predicciones, y la lista de candidatos aún no está cerrada.',
-    'method.emblem': '<strong>Logotipo.</strong> El escudo y la papeleta de voto son ilustraciones gráficas creadas para este sitio. No reproducen el escudo oficial de la República y no implican ningún respaldo de las autoridades públicas.',
+    'method.emblem': 'Logotipo: el dibujo del Palacio del Elíseo y la papeleta de voto son ilustraciones gráficas. No implican ningún vínculo con la Presidencia ni respaldo de las autoridades públicas.',
     'method.source': 'fuente',
   },
   ar: {
-    'logo.coat': 'درع توضيحي، غير رسمي',
+    'logo.coat': 'قصر الإليزيه (رسم توضيحي)',
     'logo.ballot': 'ورقة اقتراع',
     'logo.flag': 'العلم الفرنسي',
     'page.title': 'الرئاسيات 2027 • استطلاعات الرأي والإعلام والتوقعات',
@@ -496,7 +496,7 @@ const I18N = {
     'method.youtube': '<strong>يوتيوب.</strong> تُقرأ مشاهدات القنوات وعدد مشتركيها كل يوم تلقائيًا عبر واجهة يوتيوب الرسمية (مجانية). المشاهدات تراكمية منذ إنشاء القناة، والربح خلال فترة هو الفرق بين قراءتين. يقرّب يوتيوب عدد المشتركين.',
     'method.interviews': '<strong>المقابلات.</strong> تستخلص Claude من مقالات الصحافة المقابلات التي يُنشر جمهورها (المشاهدون أو حصة الجمهور). لا تُحسب مقابلة بلا رقم منشور.',
     'method.limits': '<strong>الحدود.</strong> لا تحتوي خلاصة RSS إلا على العنوان والملخص. قد يخطئ التحليل الآلي. وتُكثر المصادر من تمثيل الصحافة الوطنية. والاستطلاعات ليست توقعات، وقائمة المرشحين لم تُحسم بعد.',
-    'method.emblem': '<strong>الشعار.</strong> الدرع وورقة الاقتراع رسوم خاصة بهذا الموقع. وهما لا يعيدان إنتاج الشعار الرسمي للجمهورية، ولا يعنيان أي تأييد من السلطات العامة.',
+    'method.emblem': 'الشعار: رسم قصر الإليزيه وورقة الاقتراع رسمان توضيحيان. ولا يعنيان أي صلة بالرئاسة ولا أي تأييد من السلطات العامة.',
     'method.source': 'المصدر',
   },
 };
