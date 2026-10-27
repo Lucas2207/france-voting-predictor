@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-10-27 12:23",
+ "last_updated": "2026-10-27 20:33",
  "today": "2026-10-27",
  "candidates": [
   {
@@ -13,7 +13,9 @@
    "aliases": [
     "Marine Le Pen",
     "Le Pen"
-   ]
+   ],
+   "statut": "declare",
+   "source_statut": "Déclarée le 7 juillet 2026 (source : note du tableau des sondages)"
   },
   {
    "id": "melenchon",
@@ -25,7 +27,9 @@
    "main": true,
    "aliases": [
     "Mélenchon"
-   ]
+   ],
+   "statut": "declare",
+   "source_statut": "Désigné par LFI le 3 mai 2026 (note du tableau des sondages)"
   },
   {
    "id": "philippe",
@@ -37,7 +41,9 @@
    "main": true,
    "aliases": [
     "Édouard Philippe"
-   ]
+   ],
+   "statut": "declare",
+   "source_statut": "Cité parmi les candidats déclarés (France 24, 24 mai 2026) ; date non vérifiée"
   },
   {
    "id": "glucksmann",
@@ -49,7 +55,9 @@
    "main": true,
    "aliases": [
     "Glucksmann"
-   ]
+   ],
+   "statut": "declare",
+   "source_statut": "Déclaré le 23 août 2026, vainqueur de la primaire le 11 octobre (note du tableau)"
   },
   {
    "id": "attal",
@@ -62,7 +70,9 @@
    "aliases": [
     "Gabriel Attal",
     "Attal"
-   ]
+   ],
+   "statut": "declare",
+   "source_statut": "Déclaré le 22 mai 2026 (note du tableau)"
   },
   {
    "id": "zemmour",
@@ -74,7 +84,9 @@
    "main": true,
    "aliases": [
     "Zemmour"
-   ]
+   ],
+   "statut": "declare",
+   "source_statut": "Déclaré le 17 septembre 2026 (note du tableau)"
   },
   {
    "id": "retailleau",
@@ -86,7 +98,9 @@
    "main": true,
    "aliases": [
     "Retailleau"
-   ]
+   ],
+   "statut": "declare",
+   "source_statut": "Désigné par les adhérents LR en avril 2026 (note du tableau)"
   },
   {
    "id": "lisnard",
@@ -98,31 +112,9 @@
    "main": true,
    "aliases": [
     "Lisnard"
-   ]
-  },
-  {
-   "id": "bardella",
-   "name": "Jordan Bardella",
-   "wiki": "Jordan Bardella",
-   "party": "Rassemblement national",
-   "badge": "RN",
-   "color": "#4F6BC4",
-   "main": false,
-   "aliases": [
-    "Bardella"
-   ]
-  },
-  {
-   "id": "tondelier",
-   "name": "Marine Tondelier",
-   "wiki": "Marine Tondelier",
-   "party": "Les Écologistes",
-   "badge": "LE",
-   "color": "#2E8B3A",
-   "main": false,
-   "aliases": [
-    "Tondelier"
-   ]
+   ],
+   "statut": "declare",
+   "source_statut": "Déclaré le 31 mars 2026 (France 24, 24 mai 2026)"
   },
   {
    "id": "roussel",
@@ -135,7 +127,9 @@
    "aliases": [
     "Fabien Roussel",
     "Roussel"
-   ]
+   ],
+   "statut": "declare",
+   "source_statut": "Déclaré le 6 septembre 2026 (note du tableau)"
   },
   {
    "id": "dupontaignan",
@@ -147,7 +141,9 @@
    "main": false,
    "aliases": [
     "Dupont-Aignan"
-   ]
+   ],
+   "statut": "declare",
+   "source_statut": "Déclaré le 19 septembre 2026 (note du tableau)"
   },
   {
    "id": "arthaud",
@@ -160,58 +156,9 @@
    "aliases": [
     "Nathalie Arthaud",
     "Arthaud"
-   ]
-  },
-  {
-   "id": "villepin",
-   "name": "Dominique de Villepin",
-   "wiki": "Dominique de Villepin",
-   "party": "Divers droite",
-   "badge": "DVD",
-   "color": "#5B6B8C",
-   "main": false,
-   "aliases": [
-    "Villepin"
-   ]
-  },
-  {
-   "id": "hollande",
-   "name": "François Hollande",
-   "wiki": "François Hollande",
-   "party": "Parti socialiste",
-   "badge": "PS",
-   "color": "#C2185B",
-   "main": false,
-   "aliases": [
-    "François Hollande",
-    "Hollande"
-   ]
-  },
-  {
-   "id": "ruffin",
-   "name": "François Ruffin",
-   "wiki": "François Ruffin",
-   "party": "Debout !",
-   "badge": "DEB",
-   "color": "#C05621",
-   "main": false,
-   "aliases": [
-    "François Ruffin",
-    "Ruffin"
-   ]
-  },
-  {
-   "id": "knafo",
-   "name": "Sarah Knafo",
-   "wiki": "Sarah Knafo",
-   "party": "Reconquête",
-   "badge": "REC",
-   "color": "#6A4C93",
-   "main": false,
-   "aliases": [
-    "Sarah Knafo",
-    "Knafo"
-   ]
+   ],
+   "statut": "declare",
+   "source_statut": "Déclarée le 8 décembre 2025 (note du tableau)"
   }
  ],
  "projection": [
@@ -330,25 +277,6 @@
    "projected_hi": 9.3
   },
   {
-   "id": "hollande",
-   "poll_avg": 6.8,
-   "poll_lo": 5.7,
-   "poll_hi": 8.0,
-   "n_polls": 3,
-   "change_7d": 0.0,
-   "media": {
-    "articles_7d": 2,
-    "share_7d": 0.019,
-    "tone_7d": 0.0,
-    "tone_baseline": null,
-    "adjustment": 0.0,
-    "status": "calibrage"
-   },
-   "projected": 6.8,
-   "projected_lo": 5.7,
-   "projected_hi": 8.0
-  },
-  {
    "id": "lisnard",
    "poll_avg": 6.6,
    "poll_lo": 4.4,
@@ -385,25 +313,6 @@
    "projected": 4.1,
    "projected_lo": 2.7,
    "projected_hi": 5.5
-  },
-  {
-   "id": "tondelier",
-   "poll_avg": 2.7,
-   "poll_lo": 0.5,
-   "poll_hi": 4.9,
-   "n_polls": 8,
-   "change_7d": -0.4,
-   "media": {
-    "articles_7d": 3,
-    "share_7d": 0.028,
-    "tone_7d": -0.25,
-    "tone_baseline": null,
-    "adjustment": 0.0,
-    "status": "calibrage"
-   },
-   "projected": 2.7,
-   "projected_lo": 0.5,
-   "projected_hi": 4.9
   },
   {
    "id": "dupontaignan",
@@ -509,18 +418,6 @@
      "hi": 12.5,
      "n_polls": 1
     },
-    "bardella": {
-     "mean": 34.5,
-     "lo": 32.3,
-     "hi": 36.7,
-     "n_polls": 1
-    },
-    "tondelier": {
-     "mean": 4.0,
-     "lo": 3.0,
-     "hi": 5.0,
-     "n_polls": 1
-    },
     "roussel": {
      "mean": 3.8,
      "lo": 2.8,
@@ -584,18 +481,6 @@
      "mean": 11.0,
      "lo": 9.5,
      "hi": 12.5,
-     "n_polls": 1
-    },
-    "bardella": {
-     "mean": 34.5,
-     "lo": 32.3,
-     "hi": 36.7,
-     "n_polls": 1
-    },
-    "tondelier": {
-     "mean": 4.0,
-     "lo": 3.0,
-     "hi": 5.0,
      "n_polls": 1
     },
     "roussel": {
@@ -663,18 +548,6 @@
      "hi": 12.5,
      "n_polls": 1
     },
-    "bardella": {
-     "mean": 34.5,
-     "lo": 32.3,
-     "hi": 36.7,
-     "n_polls": 1
-    },
-    "tondelier": {
-     "mean": 4.0,
-     "lo": 3.0,
-     "hi": 5.0,
-     "n_polls": 1
-    },
     "roussel": {
      "mean": 3.8,
      "lo": 2.8,
@@ -738,18 +611,6 @@
      "mean": 11.0,
      "lo": 9.5,
      "hi": 12.5,
-     "n_polls": 1
-    },
-    "bardella": {
-     "mean": 34.5,
-     "lo": 32.3,
-     "hi": 36.7,
-     "n_polls": 1
-    },
-    "tondelier": {
-     "mean": 4.0,
-     "lo": 3.0,
-     "hi": 5.0,
      "n_polls": 1
     },
     "roussel": {
@@ -817,18 +678,6 @@
      "hi": 12.5,
      "n_polls": 1
     },
-    "bardella": {
-     "mean": 34.5,
-     "lo": 32.3,
-     "hi": 36.7,
-     "n_polls": 1
-    },
-    "tondelier": {
-     "mean": 4.0,
-     "lo": 3.0,
-     "hi": 5.0,
-     "n_polls": 1
-    },
     "roussel": {
      "mean": 3.7,
      "lo": 2.7,
@@ -892,18 +741,6 @@
      "mean": 11.0,
      "lo": 9.5,
      "hi": 12.5,
-     "n_polls": 1
-    },
-    "bardella": {
-     "mean": 34.5,
-     "lo": 32.3,
-     "hi": 36.7,
-     "n_polls": 1
-    },
-    "tondelier": {
-     "mean": 4.0,
-     "lo": 3.0,
-     "hi": 5.0,
      "n_polls": 1
     },
     "roussel": {
@@ -971,18 +808,6 @@
      "hi": 12.5,
      "n_polls": 1
     },
-    "bardella": {
-     "mean": 34.5,
-     "lo": 32.3,
-     "hi": 36.7,
-     "n_polls": 1
-    },
-    "tondelier": {
-     "mean": 4.0,
-     "lo": 3.0,
-     "hi": 5.0,
-     "n_polls": 1
-    },
     "roussel": {
      "mean": 3.8,
      "lo": 2.8,
@@ -1046,18 +871,6 @@
      "mean": 11.0,
      "lo": 9.5,
      "hi": 12.5,
-     "n_polls": 1
-    },
-    "bardella": {
-     "mean": 34.5,
-     "lo": 32.3,
-     "hi": 36.7,
-     "n_polls": 1
-    },
-    "tondelier": {
-     "mean": 4.0,
-     "lo": 3.0,
-     "hi": 5.0,
      "n_polls": 1
     },
     "roussel": {
@@ -1125,18 +938,6 @@
      "hi": 12.5,
      "n_polls": 1
     },
-    "bardella": {
-     "mean": 34.5,
-     "lo": 32.3,
-     "hi": 36.7,
-     "n_polls": 1
-    },
-    "tondelier": {
-     "mean": 4.0,
-     "lo": 3.0,
-     "hi": 5.0,
-     "n_polls": 1
-    },
     "roussel": {
      "mean": 3.8,
      "lo": 2.8,
@@ -1200,18 +1001,6 @@
      "mean": 11.0,
      "lo": 9.5,
      "hi": 12.5,
-     "n_polls": 1
-    },
-    "bardella": {
-     "mean": 34.5,
-     "lo": 32.3,
-     "hi": 36.7,
-     "n_polls": 1
-    },
-    "tondelier": {
-     "mean": 4.0,
-     "lo": 3.0,
-     "hi": 5.0,
      "n_polls": 1
     },
     "roussel": {
@@ -1279,18 +1068,6 @@
      "hi": 12.5,
      "n_polls": 1
     },
-    "bardella": {
-     "mean": 34.5,
-     "lo": 32.3,
-     "hi": 36.7,
-     "n_polls": 1
-    },
-    "tondelier": {
-     "mean": 4.0,
-     "lo": 3.0,
-     "hi": 5.0,
-     "n_polls": 1
-    },
     "roussel": {
      "mean": 3.8,
      "lo": 2.8,
@@ -1354,18 +1131,6 @@
      "mean": 11.0,
      "lo": 9.5,
      "hi": 12.5,
-     "n_polls": 1
-    },
-    "bardella": {
-     "mean": 34.5,
-     "lo": 32.3,
-     "hi": 36.7,
-     "n_polls": 1
-    },
-    "tondelier": {
-     "mean": 4.0,
-     "lo": 3.0,
-     "hi": 5.0,
      "n_polls": 1
     },
     "roussel": {
@@ -1433,18 +1198,6 @@
      "hi": 12.5,
      "n_polls": 1
     },
-    "bardella": {
-     "mean": 34.5,
-     "lo": 32.3,
-     "hi": 36.7,
-     "n_polls": 1
-    },
-    "tondelier": {
-     "mean": 4.0,
-     "lo": 3.0,
-     "hi": 5.0,
-     "n_polls": 1
-    },
     "roussel": {
      "mean": 3.8,
      "lo": 2.8,
@@ -1508,18 +1261,6 @@
      "mean": 11.0,
      "lo": 9.5,
      "hi": 12.5,
-     "n_polls": 1
-    },
-    "bardella": {
-     "mean": 34.5,
-     "lo": 32.3,
-     "hi": 36.7,
-     "n_polls": 1
-    },
-    "tondelier": {
-     "mean": 4.0,
-     "lo": 3.0,
-     "hi": 5.0,
      "n_polls": 1
     },
     "roussel": {
@@ -1587,18 +1328,6 @@
      "hi": 12.5,
      "n_polls": 1
     },
-    "bardella": {
-     "mean": 34.5,
-     "lo": 32.3,
-     "hi": 36.7,
-     "n_polls": 1
-    },
-    "tondelier": {
-     "mean": 4.0,
-     "lo": 3.0,
-     "hi": 5.0,
-     "n_polls": 1
-    },
     "roussel": {
      "mean": 3.8,
      "lo": 2.8,
@@ -1662,18 +1391,6 @@
      "mean": 11.0,
      "lo": 9.5,
      "hi": 12.5,
-     "n_polls": 1
-    },
-    "bardella": {
-     "mean": 34.5,
-     "lo": 32.3,
-     "hi": 36.7,
-     "n_polls": 1
-    },
-    "tondelier": {
-     "mean": 4.0,
-     "lo": 3.0,
-     "hi": 5.0,
      "n_polls": 1
     },
     "roussel": {
@@ -1741,18 +1458,6 @@
      "hi": 12.5,
      "n_polls": 1
     },
-    "bardella": {
-     "mean": 34.5,
-     "lo": 32.3,
-     "hi": 36.7,
-     "n_polls": 1
-    },
-    "tondelier": {
-     "mean": 4.0,
-     "lo": 3.0,
-     "hi": 5.0,
-     "n_polls": 1
-    },
     "roussel": {
      "mean": 3.8,
      "lo": 2.8,
@@ -1816,18 +1521,6 @@
      "mean": 11.0,
      "lo": 9.5,
      "hi": 12.5,
-     "n_polls": 1
-    },
-    "bardella": {
-     "mean": 34.5,
-     "lo": 32.3,
-     "hi": 36.7,
-     "n_polls": 1
-    },
-    "tondelier": {
-     "mean": 4.0,
-     "lo": 3.0,
-     "hi": 5.0,
      "n_polls": 1
     },
     "roussel": {
@@ -1895,18 +1588,6 @@
      "hi": 12.5,
      "n_polls": 1
     },
-    "bardella": {
-     "mean": 34.5,
-     "lo": 32.3,
-     "hi": 36.7,
-     "n_polls": 1
-    },
-    "tondelier": {
-     "mean": 4.0,
-     "lo": 3.0,
-     "hi": 5.0,
-     "n_polls": 1
-    },
     "roussel": {
      "mean": 3.8,
      "lo": 2.8,
@@ -1970,18 +1651,6 @@
      "mean": 11.0,
      "lo": 9.5,
      "hi": 12.5,
-     "n_polls": 1
-    },
-    "bardella": {
-     "mean": 34.5,
-     "lo": 32.3,
-     "hi": 36.7,
-     "n_polls": 1
-    },
-    "tondelier": {
-     "mean": 4.0,
-     "lo": 3.0,
-     "hi": 5.0,
      "n_polls": 1
     },
     "roussel": {
@@ -2049,18 +1718,6 @@
      "hi": 12.5,
      "n_polls": 1
     },
-    "bardella": {
-     "mean": 34.5,
-     "lo": 32.3,
-     "hi": 36.7,
-     "n_polls": 1
-    },
-    "tondelier": {
-     "mean": 4.0,
-     "lo": 3.0,
-     "hi": 5.0,
-     "n_polls": 1
-    },
     "roussel": {
      "mean": 3.8,
      "lo": 2.8,
@@ -2124,18 +1781,6 @@
      "mean": 9.6,
      "lo": 7.5,
      "hi": 11.8,
-     "n_polls": 2
-    },
-    "bardella": {
-     "mean": 32.8,
-     "lo": 29.9,
-     "hi": 35.7,
-     "n_polls": 2
-    },
-    "tondelier": {
-     "mean": 4.0,
-     "lo": 3.0,
-     "hi": 5.0,
      "n_polls": 2
     },
     "roussel": {
@@ -2203,18 +1848,6 @@
      "hi": 11.8,
      "n_polls": 2
     },
-    "bardella": {
-     "mean": 32.8,
-     "lo": 29.9,
-     "hi": 35.7,
-     "n_polls": 2
-    },
-    "tondelier": {
-     "mean": 4.0,
-     "lo": 3.0,
-     "hi": 5.0,
-     "n_polls": 2
-    },
     "roussel": {
      "mean": 2.9,
      "lo": 1.6,
@@ -2278,18 +1911,6 @@
      "mean": 9.6,
      "lo": 7.5,
      "hi": 11.8,
-     "n_polls": 2
-    },
-    "bardella": {
-     "mean": 32.8,
-     "lo": 29.9,
-     "hi": 35.7,
-     "n_polls": 2
-    },
-    "tondelier": {
-     "mean": 4.0,
-     "lo": 3.0,
-     "hi": 5.0,
      "n_polls": 2
     },
     "roussel": {
@@ -2357,18 +1978,6 @@
      "hi": 11.8,
      "n_polls": 2
     },
-    "bardella": {
-     "mean": 32.8,
-     "lo": 29.9,
-     "hi": 35.7,
-     "n_polls": 2
-    },
-    "tondelier": {
-     "mean": 4.0,
-     "lo": 3.0,
-     "hi": 5.0,
-     "n_polls": 2
-    },
     "roussel": {
      "mean": 2.9,
      "lo": 1.6,
@@ -2432,18 +2041,6 @@
      "mean": 9.6,
      "lo": 7.5,
      "hi": 11.8,
-     "n_polls": 2
-    },
-    "bardella": {
-     "mean": 32.8,
-     "lo": 29.9,
-     "hi": 35.7,
-     "n_polls": 2
-    },
-    "tondelier": {
-     "mean": 4.0,
-     "lo": 3.0,
-     "hi": 5.0,
      "n_polls": 2
     },
     "roussel": {
@@ -2511,18 +2108,6 @@
      "hi": 11.8,
      "n_polls": 2
     },
-    "bardella": {
-     "mean": 32.8,
-     "lo": 29.9,
-     "hi": 35.7,
-     "n_polls": 2
-    },
-    "tondelier": {
-     "mean": 4.0,
-     "lo": 3.0,
-     "hi": 5.0,
-     "n_polls": 2
-    },
     "roussel": {
      "mean": 2.9,
      "lo": 1.6,
@@ -2586,18 +2171,6 @@
      "mean": 9.4,
      "lo": 8.2,
      "hi": 10.6,
-     "n_polls": 2
-    },
-    "bardella": {
-     "mean": 32.9,
-     "lo": 30.7,
-     "hi": 35.0,
-     "n_polls": 2
-    },
-    "tondelier": {
-     "mean": 3.4,
-     "lo": 2.2,
-     "hi": 4.5,
      "n_polls": 2
     },
     "roussel": {
@@ -2665,18 +2238,6 @@
      "hi": 10.3,
      "n_polls": 4
     },
-    "bardella": {
-     "mean": 33.8,
-     "lo": 31.6,
-     "hi": 35.9,
-     "n_polls": 4
-    },
-    "tondelier": {
-     "mean": 3.8,
-     "lo": 2.7,
-     "hi": 5.0,
-     "n_polls": 4
-    },
     "roussel": {
      "mean": 3.3,
      "lo": 2.3,
@@ -2694,18 +2255,6 @@
      "lo": 0,
      "hi": 1.8,
      "n_polls": 4
-    },
-    "villepin": {
-     "mean": 2.6,
-     "lo": 1.6,
-     "hi": 3.6,
-     "n_polls": 1
-    },
-    "hollande": {
-     "mean": 7.7,
-     "lo": 6.6,
-     "hi": 8.8,
-     "n_polls": 2
     }
    }
   },
@@ -2754,18 +2303,6 @@
      "hi": 10.3,
      "n_polls": 4
     },
-    "bardella": {
-     "mean": 33.8,
-     "lo": 31.6,
-     "hi": 35.9,
-     "n_polls": 4
-    },
-    "tondelier": {
-     "mean": 3.8,
-     "lo": 2.7,
-     "hi": 5.0,
-     "n_polls": 4
-    },
     "roussel": {
      "mean": 3.3,
      "lo": 2.3,
@@ -2783,18 +2320,6 @@
      "lo": 0,
      "hi": 1.8,
      "n_polls": 4
-    },
-    "villepin": {
-     "mean": 2.6,
-     "lo": 1.6,
-     "hi": 3.6,
-     "n_polls": 1
-    },
-    "hollande": {
-     "mean": 7.7,
-     "lo": 6.6,
-     "hi": 8.8,
-     "n_polls": 2
     }
    }
   },
@@ -2843,18 +2368,6 @@
      "hi": 10.3,
      "n_polls": 4
     },
-    "bardella": {
-     "mean": 33.8,
-     "lo": 31.6,
-     "hi": 35.9,
-     "n_polls": 4
-    },
-    "tondelier": {
-     "mean": 3.8,
-     "lo": 2.7,
-     "hi": 5.0,
-     "n_polls": 4
-    },
     "roussel": {
      "mean": 3.3,
      "lo": 2.3,
@@ -2872,18 +2385,6 @@
      "lo": 0,
      "hi": 1.8,
      "n_polls": 4
-    },
-    "villepin": {
-     "mean": 2.6,
-     "lo": 1.6,
-     "hi": 3.6,
-     "n_polls": 1
-    },
-    "hollande": {
-     "mean": 7.7,
-     "lo": 6.6,
-     "hi": 8.8,
-     "n_polls": 2
     }
    }
   },
@@ -2932,18 +2433,6 @@
      "hi": 10.3,
      "n_polls": 4
     },
-    "bardella": {
-     "mean": 33.8,
-     "lo": 31.6,
-     "hi": 35.9,
-     "n_polls": 4
-    },
-    "tondelier": {
-     "mean": 3.8,
-     "lo": 2.7,
-     "hi": 5.0,
-     "n_polls": 4
-    },
     "roussel": {
      "mean": 3.3,
      "lo": 2.3,
@@ -2961,18 +2450,6 @@
      "lo": 0,
      "hi": 1.8,
      "n_polls": 4
-    },
-    "villepin": {
-     "mean": 2.6,
-     "lo": 1.6,
-     "hi": 3.6,
-     "n_polls": 1
-    },
-    "hollande": {
-     "mean": 7.7,
-     "lo": 6.6,
-     "hi": 8.8,
-     "n_polls": 2
     }
    }
   },
@@ -3021,18 +2498,6 @@
      "hi": 10.3,
      "n_polls": 4
     },
-    "bardella": {
-     "mean": 33.8,
-     "lo": 31.6,
-     "hi": 35.9,
-     "n_polls": 4
-    },
-    "tondelier": {
-     "mean": 3.8,
-     "lo": 2.7,
-     "hi": 5.0,
-     "n_polls": 4
-    },
     "roussel": {
      "mean": 3.3,
      "lo": 2.3,
@@ -3050,18 +2515,6 @@
      "lo": 0,
      "hi": 1.8,
      "n_polls": 4
-    },
-    "villepin": {
-     "mean": 2.6,
-     "lo": 1.6,
-     "hi": 3.6,
-     "n_polls": 1
-    },
-    "hollande": {
-     "mean": 7.7,
-     "lo": 6.6,
-     "hi": 8.8,
-     "n_polls": 2
     }
    }
   },
@@ -3110,18 +2563,6 @@
      "hi": 10.3,
      "n_polls": 4
     },
-    "bardella": {
-     "mean": 33.8,
-     "lo": 31.6,
-     "hi": 35.9,
-     "n_polls": 4
-    },
-    "tondelier": {
-     "mean": 3.8,
-     "lo": 2.7,
-     "hi": 5.0,
-     "n_polls": 4
-    },
     "roussel": {
      "mean": 3.3,
      "lo": 2.3,
@@ -3139,18 +2580,6 @@
      "lo": 0,
      "hi": 1.8,
      "n_polls": 4
-    },
-    "villepin": {
-     "mean": 2.6,
-     "lo": 1.6,
-     "hi": 3.6,
-     "n_polls": 1
-    },
-    "hollande": {
-     "mean": 7.7,
-     "lo": 6.6,
-     "hi": 8.8,
-     "n_polls": 2
     }
    }
   },
@@ -3199,18 +2628,6 @@
      "hi": 10.3,
      "n_polls": 4
     },
-    "bardella": {
-     "mean": 33.8,
-     "lo": 31.6,
-     "hi": 35.9,
-     "n_polls": 4
-    },
-    "tondelier": {
-     "mean": 3.8,
-     "lo": 2.7,
-     "hi": 5.0,
-     "n_polls": 4
-    },
     "roussel": {
      "mean": 3.3,
      "lo": 2.3,
@@ -3228,18 +2645,6 @@
      "lo": 0,
      "hi": 1.8,
      "n_polls": 4
-    },
-    "villepin": {
-     "mean": 2.6,
-     "lo": 1.6,
-     "hi": 3.6,
-     "n_polls": 1
-    },
-    "hollande": {
-     "mean": 7.7,
-     "lo": 6.6,
-     "hi": 8.8,
-     "n_polls": 2
     }
    }
   },
@@ -3288,18 +2693,6 @@
      "hi": 10.3,
      "n_polls": 4
     },
-    "bardella": {
-     "mean": 33.8,
-     "lo": 31.6,
-     "hi": 35.9,
-     "n_polls": 4
-    },
-    "tondelier": {
-     "mean": 3.8,
-     "lo": 2.7,
-     "hi": 5.0,
-     "n_polls": 4
-    },
     "roussel": {
      "mean": 3.3,
      "lo": 2.3,
@@ -3317,18 +2710,6 @@
      "lo": 0,
      "hi": 1.8,
      "n_polls": 4
-    },
-    "villepin": {
-     "mean": 2.6,
-     "lo": 1.6,
-     "hi": 3.6,
-     "n_polls": 1
-    },
-    "hollande": {
-     "mean": 7.7,
-     "lo": 6.6,
-     "hi": 8.8,
-     "n_polls": 2
     }
    }
   },
@@ -3377,18 +2758,6 @@
      "hi": 10.3,
      "n_polls": 4
     },
-    "bardella": {
-     "mean": 33.8,
-     "lo": 31.6,
-     "hi": 35.9,
-     "n_polls": 4
-    },
-    "tondelier": {
-     "mean": 3.8,
-     "lo": 2.7,
-     "hi": 5.0,
-     "n_polls": 4
-    },
     "roussel": {
      "mean": 3.3,
      "lo": 2.3,
@@ -3406,18 +2775,6 @@
      "lo": 0,
      "hi": 1.8,
      "n_polls": 4
-    },
-    "villepin": {
-     "mean": 2.6,
-     "lo": 1.6,
-     "hi": 3.6,
-     "n_polls": 1
-    },
-    "hollande": {
-     "mean": 7.7,
-     "lo": 6.6,
-     "hi": 8.8,
-     "n_polls": 2
     }
    }
   },
@@ -3466,18 +2823,6 @@
      "hi": 10.3,
      "n_polls": 4
     },
-    "bardella": {
-     "mean": 33.8,
-     "lo": 31.6,
-     "hi": 35.9,
-     "n_polls": 4
-    },
-    "tondelier": {
-     "mean": 3.8,
-     "lo": 2.7,
-     "hi": 5.0,
-     "n_polls": 4
-    },
     "roussel": {
      "mean": 3.3,
      "lo": 2.3,
@@ -3495,18 +2840,6 @@
      "lo": 0,
      "hi": 1.8,
      "n_polls": 4
-    },
-    "villepin": {
-     "mean": 2.6,
-     "lo": 1.6,
-     "hi": 3.6,
-     "n_polls": 1
-    },
-    "hollande": {
-     "mean": 7.7,
-     "lo": 6.6,
-     "hi": 8.8,
-     "n_polls": 2
     }
    }
   },
@@ -3555,18 +2888,6 @@
      "hi": 10.3,
      "n_polls": 4
     },
-    "bardella": {
-     "mean": 33.8,
-     "lo": 31.6,
-     "hi": 35.9,
-     "n_polls": 4
-    },
-    "tondelier": {
-     "mean": 3.8,
-     "lo": 2.7,
-     "hi": 5.0,
-     "n_polls": 4
-    },
     "roussel": {
      "mean": 3.3,
      "lo": 2.3,
@@ -3584,18 +2905,6 @@
      "lo": 0,
      "hi": 1.8,
      "n_polls": 4
-    },
-    "villepin": {
-     "mean": 2.6,
-     "lo": 1.6,
-     "hi": 3.6,
-     "n_polls": 1
-    },
-    "hollande": {
-     "mean": 7.7,
-     "lo": 6.6,
-     "hi": 8.8,
-     "n_polls": 2
     }
    }
   },
@@ -3644,18 +2953,6 @@
      "hi": 10.3,
      "n_polls": 4
     },
-    "bardella": {
-     "mean": 33.8,
-     "lo": 31.6,
-     "hi": 35.9,
-     "n_polls": 4
-    },
-    "tondelier": {
-     "mean": 3.8,
-     "lo": 2.7,
-     "hi": 5.0,
-     "n_polls": 4
-    },
     "roussel": {
      "mean": 3.3,
      "lo": 2.3,
@@ -3673,18 +2970,6 @@
      "lo": 0,
      "hi": 1.8,
      "n_polls": 4
-    },
-    "villepin": {
-     "mean": 2.6,
-     "lo": 1.6,
-     "hi": 3.6,
-     "n_polls": 1
-    },
-    "hollande": {
-     "mean": 7.7,
-     "lo": 6.6,
-     "hi": 8.8,
-     "n_polls": 2
     }
    }
   },
@@ -3733,18 +3018,6 @@
      "hi": 10.3,
      "n_polls": 4
     },
-    "bardella": {
-     "mean": 33.8,
-     "lo": 31.6,
-     "hi": 35.9,
-     "n_polls": 4
-    },
-    "tondelier": {
-     "mean": 3.8,
-     "lo": 2.7,
-     "hi": 5.0,
-     "n_polls": 4
-    },
     "roussel": {
      "mean": 3.3,
      "lo": 2.3,
@@ -3762,18 +3035,6 @@
      "lo": 0,
      "hi": 1.8,
      "n_polls": 4
-    },
-    "villepin": {
-     "mean": 2.6,
-     "lo": 1.6,
-     "hi": 3.6,
-     "n_polls": 1
-    },
-    "hollande": {
-     "mean": 7.7,
-     "lo": 6.6,
-     "hi": 8.8,
-     "n_polls": 2
     }
    }
   },
@@ -3822,18 +3083,6 @@
      "hi": 10.3,
      "n_polls": 4
     },
-    "bardella": {
-     "mean": 33.8,
-     "lo": 31.6,
-     "hi": 35.9,
-     "n_polls": 4
-    },
-    "tondelier": {
-     "mean": 3.8,
-     "lo": 2.7,
-     "hi": 5.0,
-     "n_polls": 4
-    },
     "roussel": {
      "mean": 3.3,
      "lo": 2.3,
@@ -3851,18 +3100,6 @@
      "lo": 0,
      "hi": 1.8,
      "n_polls": 4
-    },
-    "villepin": {
-     "mean": 2.6,
-     "lo": 1.6,
-     "hi": 3.6,
-     "n_polls": 1
-    },
-    "hollande": {
-     "mean": 7.7,
-     "lo": 6.6,
-     "hi": 8.8,
-     "n_polls": 2
     }
    }
   },
@@ -3911,18 +3148,6 @@
      "hi": 10.1,
      "n_polls": 5
     },
-    "bardella": {
-     "mean": 33.8,
-     "lo": 31.6,
-     "hi": 35.9,
-     "n_polls": 4
-    },
-    "tondelier": {
-     "mean": 4.0,
-     "lo": 2.9,
-     "hi": 5.2,
-     "n_polls": 5
-    },
     "roussel": {
      "mean": 3.4,
      "lo": 2.4,
@@ -3940,18 +3165,6 @@
      "lo": 0,
      "hi": 1.9,
      "n_polls": 5
-    },
-    "villepin": {
-     "mean": 2.6,
-     "lo": 1.6,
-     "hi": 3.6,
-     "n_polls": 1
-    },
-    "hollande": {
-     "mean": 7.7,
-     "lo": 6.6,
-     "hi": 8.8,
-     "n_polls": 2
     }
    }
   },
@@ -4000,18 +3213,6 @@
      "hi": 10.1,
      "n_polls": 5
     },
-    "bardella": {
-     "mean": 33.8,
-     "lo": 31.6,
-     "hi": 35.9,
-     "n_polls": 4
-    },
-    "tondelier": {
-     "mean": 4.0,
-     "lo": 2.9,
-     "hi": 5.2,
-     "n_polls": 5
-    },
     "roussel": {
      "mean": 3.4,
      "lo": 2.4,
@@ -4029,18 +3230,6 @@
      "lo": 0,
      "hi": 1.9,
      "n_polls": 5
-    },
-    "villepin": {
-     "mean": 2.6,
-     "lo": 1.6,
-     "hi": 3.6,
-     "n_polls": 1
-    },
-    "hollande": {
-     "mean": 7.7,
-     "lo": 6.6,
-     "hi": 8.8,
-     "n_polls": 2
     }
    }
   },
@@ -4089,18 +3278,6 @@
      "hi": 10.1,
      "n_polls": 5
     },
-    "bardella": {
-     "mean": 33.8,
-     "lo": 31.6,
-     "hi": 35.9,
-     "n_polls": 4
-    },
-    "tondelier": {
-     "mean": 4.0,
-     "lo": 2.9,
-     "hi": 5.2,
-     "n_polls": 5
-    },
     "roussel": {
      "mean": 3.4,
      "lo": 2.4,
@@ -4118,18 +3295,6 @@
      "lo": 0,
      "hi": 1.9,
      "n_polls": 5
-    },
-    "villepin": {
-     "mean": 2.6,
-     "lo": 1.6,
-     "hi": 3.6,
-     "n_polls": 1
-    },
-    "hollande": {
-     "mean": 7.7,
-     "lo": 6.6,
-     "hi": 8.8,
-     "n_polls": 2
     }
    }
   },
@@ -4178,18 +3343,6 @@
      "hi": 10.1,
      "n_polls": 5
     },
-    "bardella": {
-     "mean": 33.8,
-     "lo": 31.6,
-     "hi": 35.9,
-     "n_polls": 4
-    },
-    "tondelier": {
-     "mean": 4.0,
-     "lo": 2.9,
-     "hi": 5.2,
-     "n_polls": 5
-    },
     "roussel": {
      "mean": 3.4,
      "lo": 2.4,
@@ -4207,18 +3360,6 @@
      "lo": 0,
      "hi": 1.9,
      "n_polls": 5
-    },
-    "villepin": {
-     "mean": 2.6,
-     "lo": 1.6,
-     "hi": 3.6,
-     "n_polls": 1
-    },
-    "hollande": {
-     "mean": 7.7,
-     "lo": 6.6,
-     "hi": 8.8,
-     "n_polls": 2
     }
    }
   },
@@ -4267,18 +3408,6 @@
      "hi": 10.1,
      "n_polls": 5
     },
-    "bardella": {
-     "mean": 33.8,
-     "lo": 31.6,
-     "hi": 35.9,
-     "n_polls": 4
-    },
-    "tondelier": {
-     "mean": 4.0,
-     "lo": 2.9,
-     "hi": 5.2,
-     "n_polls": 5
-    },
     "roussel": {
      "mean": 3.4,
      "lo": 2.4,
@@ -4296,18 +3425,6 @@
      "lo": 0,
      "hi": 1.9,
      "n_polls": 5
-    },
-    "villepin": {
-     "mean": 2.6,
-     "lo": 1.6,
-     "hi": 3.6,
-     "n_polls": 1
-    },
-    "hollande": {
-     "mean": 7.7,
-     "lo": 6.6,
-     "hi": 8.8,
-     "n_polls": 2
     }
    }
   },
@@ -4356,18 +3473,6 @@
      "hi": 10.1,
      "n_polls": 5
     },
-    "bardella": {
-     "mean": 33.8,
-     "lo": 31.6,
-     "hi": 35.9,
-     "n_polls": 4
-    },
-    "tondelier": {
-     "mean": 4.0,
-     "lo": 2.9,
-     "hi": 5.2,
-     "n_polls": 5
-    },
     "roussel": {
      "mean": 3.4,
      "lo": 2.4,
@@ -4385,18 +3490,6 @@
      "lo": 0,
      "hi": 1.9,
      "n_polls": 5
-    },
-    "villepin": {
-     "mean": 2.6,
-     "lo": 1.6,
-     "hi": 3.6,
-     "n_polls": 1
-    },
-    "hollande": {
-     "mean": 7.7,
-     "lo": 6.6,
-     "hi": 8.8,
-     "n_polls": 2
     }
    }
   },
@@ -4445,18 +3538,6 @@
      "hi": 10.1,
      "n_polls": 5
     },
-    "bardella": {
-     "mean": 33.8,
-     "lo": 31.6,
-     "hi": 35.9,
-     "n_polls": 4
-    },
-    "tondelier": {
-     "mean": 4.0,
-     "lo": 2.9,
-     "hi": 5.2,
-     "n_polls": 5
-    },
     "roussel": {
      "mean": 3.4,
      "lo": 2.4,
@@ -4474,18 +3555,6 @@
      "lo": 0,
      "hi": 1.9,
      "n_polls": 5
-    },
-    "villepin": {
-     "mean": 2.6,
-     "lo": 1.6,
-     "hi": 3.6,
-     "n_polls": 1
-    },
-    "hollande": {
-     "mean": 7.7,
-     "lo": 6.6,
-     "hi": 8.8,
-     "n_polls": 2
     }
    }
   },
@@ -4534,18 +3603,6 @@
      "hi": 10.1,
      "n_polls": 5
     },
-    "bardella": {
-     "mean": 33.8,
-     "lo": 31.6,
-     "hi": 35.9,
-     "n_polls": 4
-    },
-    "tondelier": {
-     "mean": 4.0,
-     "lo": 2.9,
-     "hi": 5.2,
-     "n_polls": 5
-    },
     "roussel": {
      "mean": 3.4,
      "lo": 2.4,
@@ -4563,18 +3620,6 @@
      "lo": 0,
      "hi": 1.9,
      "n_polls": 5
-    },
-    "villepin": {
-     "mean": 2.6,
-     "lo": 1.6,
-     "hi": 3.6,
-     "n_polls": 1
-    },
-    "hollande": {
-     "mean": 7.7,
-     "lo": 6.6,
-     "hi": 8.8,
-     "n_polls": 2
     }
    }
   },
@@ -4623,18 +3668,6 @@
      "hi": 10.1,
      "n_polls": 5
     },
-    "bardella": {
-     "mean": 33.8,
-     "lo": 31.6,
-     "hi": 35.9,
-     "n_polls": 4
-    },
-    "tondelier": {
-     "mean": 4.0,
-     "lo": 2.9,
-     "hi": 5.2,
-     "n_polls": 5
-    },
     "roussel": {
      "mean": 3.4,
      "lo": 2.4,
@@ -4652,18 +3685,6 @@
      "lo": 0,
      "hi": 1.9,
      "n_polls": 5
-    },
-    "villepin": {
-     "mean": 2.6,
-     "lo": 1.6,
-     "hi": 3.6,
-     "n_polls": 1
-    },
-    "hollande": {
-     "mean": 7.7,
-     "lo": 6.6,
-     "hi": 8.8,
-     "n_polls": 2
     }
    }
   },
@@ -4712,18 +3733,6 @@
      "hi": 10.1,
      "n_polls": 5
     },
-    "bardella": {
-     "mean": 33.8,
-     "lo": 31.6,
-     "hi": 35.9,
-     "n_polls": 4
-    },
-    "tondelier": {
-     "mean": 4.0,
-     "lo": 2.9,
-     "hi": 5.2,
-     "n_polls": 5
-    },
     "roussel": {
      "mean": 3.4,
      "lo": 2.4,
@@ -4741,18 +3750,6 @@
      "lo": 0,
      "hi": 1.9,
      "n_polls": 5
-    },
-    "villepin": {
-     "mean": 2.6,
-     "lo": 1.6,
-     "hi": 3.6,
-     "n_polls": 1
-    },
-    "hollande": {
-     "mean": 7.7,
-     "lo": 6.6,
-     "hi": 8.8,
-     "n_polls": 2
     }
    }
   },
@@ -4801,18 +3798,6 @@
      "hi": 10.2,
      "n_polls": 4
     },
-    "bardella": {
-     "mean": 34.1,
-     "lo": 32.3,
-     "hi": 35.8,
-     "n_polls": 3
-    },
-    "tondelier": {
-     "mean": 4.0,
-     "lo": 2.8,
-     "hi": 5.3,
-     "n_polls": 4
-    },
     "roussel": {
      "mean": 3.5,
      "lo": 2.5,
@@ -4830,18 +3815,6 @@
      "lo": 0,
      "hi": 1.9,
      "n_polls": 4
-    },
-    "villepin": {
-     "mean": 2.6,
-     "lo": 1.6,
-     "hi": 3.6,
-     "n_polls": 1
-    },
-    "hollande": {
-     "mean": 7.7,
-     "lo": 6.6,
-     "hi": 8.8,
-     "n_polls": 2
     }
    }
   },
@@ -4890,18 +3863,6 @@
      "hi": 10.2,
      "n_polls": 4
     },
-    "bardella": {
-     "mean": 34.1,
-     "lo": 32.3,
-     "hi": 35.8,
-     "n_polls": 3
-    },
-    "tondelier": {
-     "mean": 4.0,
-     "lo": 2.8,
-     "hi": 5.3,
-     "n_polls": 4
-    },
     "roussel": {
      "mean": 3.5,
      "lo": 2.5,
@@ -4919,18 +3880,6 @@
      "lo": 0,
      "hi": 1.9,
      "n_polls": 4
-    },
-    "villepin": {
-     "mean": 2.6,
-     "lo": 1.6,
-     "hi": 3.6,
-     "n_polls": 1
-    },
-    "hollande": {
-     "mean": 7.7,
-     "lo": 6.6,
-     "hi": 8.8,
-     "n_polls": 2
     }
    }
   },
@@ -4979,18 +3928,6 @@
      "hi": 10.2,
      "n_polls": 4
     },
-    "bardella": {
-     "mean": 34.1,
-     "lo": 32.3,
-     "hi": 35.8,
-     "n_polls": 3
-    },
-    "tondelier": {
-     "mean": 4.0,
-     "lo": 2.8,
-     "hi": 5.3,
-     "n_polls": 4
-    },
     "roussel": {
      "mean": 3.5,
      "lo": 2.5,
@@ -5008,18 +3945,6 @@
      "lo": 0,
      "hi": 1.9,
      "n_polls": 4
-    },
-    "villepin": {
-     "mean": 2.6,
-     "lo": 1.6,
-     "hi": 3.6,
-     "n_polls": 1
-    },
-    "hollande": {
-     "mean": 7.7,
-     "lo": 6.6,
-     "hi": 8.8,
-     "n_polls": 2
     }
    }
   },
@@ -5068,18 +3993,6 @@
      "hi": 11.3,
      "n_polls": 4
     },
-    "bardella": {
-     "mean": 35.3,
-     "lo": 32.8,
-     "hi": 37.7,
-     "n_polls": 3
-    },
-    "tondelier": {
-     "mean": 3.7,
-     "lo": 2.5,
-     "hi": 4.9,
-     "n_polls": 4
-    },
     "roussel": {
      "mean": 3.1,
      "lo": 2.1,
@@ -5097,18 +4010,6 @@
      "lo": 0,
      "hi": 1.9,
      "n_polls": 4
-    },
-    "villepin": {
-     "mean": 2.6,
-     "lo": 1.6,
-     "hi": 3.6,
-     "n_polls": 1
-    },
-    "hollande": {
-     "mean": 7.7,
-     "lo": 6.6,
-     "hi": 8.8,
-     "n_polls": 2
     }
    }
   },
@@ -5157,18 +4058,6 @@
      "hi": 11.3,
      "n_polls": 4
     },
-    "bardella": {
-     "mean": 35.3,
-     "lo": 32.8,
-     "hi": 37.7,
-     "n_polls": 3
-    },
-    "tondelier": {
-     "mean": 3.7,
-     "lo": 2.5,
-     "hi": 4.9,
-     "n_polls": 4
-    },
     "roussel": {
      "mean": 3.1,
      "lo": 2.1,
@@ -5186,18 +4075,6 @@
      "lo": 0,
      "hi": 1.9,
      "n_polls": 4
-    },
-    "villepin": {
-     "mean": 2.6,
-     "lo": 1.6,
-     "hi": 3.6,
-     "n_polls": 1
-    },
-    "hollande": {
-     "mean": 7.7,
-     "lo": 6.6,
-     "hi": 8.8,
-     "n_polls": 2
     }
    }
   },
@@ -5246,18 +4123,6 @@
      "hi": 11.3,
      "n_polls": 4
     },
-    "bardella": {
-     "mean": 35.3,
-     "lo": 32.8,
-     "hi": 37.7,
-     "n_polls": 3
-    },
-    "tondelier": {
-     "mean": 3.7,
-     "lo": 2.5,
-     "hi": 4.9,
-     "n_polls": 4
-    },
     "roussel": {
      "mean": 3.1,
      "lo": 2.1,
@@ -5275,18 +4140,6 @@
      "lo": 0,
      "hi": 1.9,
      "n_polls": 4
-    },
-    "villepin": {
-     "mean": 2.6,
-     "lo": 1.6,
-     "hi": 3.6,
-     "n_polls": 1
-    },
-    "hollande": {
-     "mean": 7.7,
-     "lo": 6.6,
-     "hi": 8.8,
-     "n_polls": 2
     }
    }
   },
@@ -5335,18 +4188,6 @@
      "hi": 11.5,
      "n_polls": 3
     },
-    "bardella": {
-     "mean": 35.7,
-     "lo": 33.7,
-     "hi": 37.8,
-     "n_polls": 2
-    },
-    "tondelier": {
-     "mean": 3.8,
-     "lo": 2.6,
-     "hi": 5.0,
-     "n_polls": 3
-    },
     "roussel": {
      "mean": 3.1,
      "lo": 2.1,
@@ -5364,18 +4205,6 @@
      "lo": 0,
      "hi": 1.9,
      "n_polls": 3
-    },
-    "villepin": {
-     "mean": 2.6,
-     "lo": 1.6,
-     "hi": 3.6,
-     "n_polls": 1
-    },
-    "hollande": {
-     "mean": 7.7,
-     "lo": 6.6,
-     "hi": 8.8,
-     "n_polls": 2
     }
    }
   },
@@ -5422,18 +4251,6 @@
      "mean": 9.8,
      "lo": 7.7,
      "hi": 11.8,
-     "n_polls": 2
-    },
-    "bardella": {
-     "mean": 36.0,
-     "lo": 33.5,
-     "hi": 38.5,
-     "n_polls": 1
-    },
-    "tondelier": {
-     "mean": 3.7,
-     "lo": 2.4,
-     "hi": 5.0,
      "n_polls": 2
     },
     "roussel": {
@@ -5501,18 +4318,6 @@
      "hi": 11.8,
      "n_polls": 2
     },
-    "bardella": {
-     "mean": 36.0,
-     "lo": 33.5,
-     "hi": 38.5,
-     "n_polls": 1
-    },
-    "tondelier": {
-     "mean": 3.7,
-     "lo": 2.4,
-     "hi": 5.0,
-     "n_polls": 2
-    },
     "roussel": {
      "mean": 3.0,
      "lo": 2.0,
@@ -5576,18 +4381,6 @@
      "mean": 9.8,
      "lo": 7.7,
      "hi": 11.8,
-     "n_polls": 2
-    },
-    "bardella": {
-     "mean": 36.0,
-     "lo": 33.5,
-     "hi": 38.5,
-     "n_polls": 1
-    },
-    "tondelier": {
-     "mean": 3.7,
-     "lo": 2.4,
-     "hi": 5.0,
      "n_polls": 2
     },
     "roussel": {
@@ -5655,18 +4448,6 @@
      "hi": 11.8,
      "n_polls": 2
     },
-    "bardella": {
-     "mean": 36.0,
-     "lo": 33.5,
-     "hi": 38.5,
-     "n_polls": 1
-    },
-    "tondelier": {
-     "mean": 3.7,
-     "lo": 2.4,
-     "hi": 5.0,
-     "n_polls": 2
-    },
     "roussel": {
      "mean": 3.0,
      "lo": 2.0,
@@ -5730,18 +4511,6 @@
      "mean": 9.8,
      "lo": 7.7,
      "hi": 11.8,
-     "n_polls": 2
-    },
-    "bardella": {
-     "mean": 36.0,
-     "lo": 33.5,
-     "hi": 38.5,
-     "n_polls": 1
-    },
-    "tondelier": {
-     "mean": 3.7,
-     "lo": 2.4,
-     "hi": 5.0,
      "n_polls": 2
     },
     "roussel": {
@@ -5809,18 +4578,6 @@
      "hi": 11.8,
      "n_polls": 2
     },
-    "bardella": {
-     "mean": 36.0,
-     "lo": 33.5,
-     "hi": 38.5,
-     "n_polls": 1
-    },
-    "tondelier": {
-     "mean": 3.7,
-     "lo": 2.4,
-     "hi": 5.0,
-     "n_polls": 2
-    },
     "roussel": {
      "mean": 3.0,
      "lo": 2.0,
@@ -5884,18 +4641,6 @@
      "mean": 9.8,
      "lo": 7.7,
      "hi": 11.8,
-     "n_polls": 2
-    },
-    "bardella": {
-     "mean": 36.0,
-     "lo": 33.5,
-     "hi": 38.5,
-     "n_polls": 1
-    },
-    "tondelier": {
-     "mean": 3.7,
-     "lo": 2.4,
-     "hi": 5.0,
      "n_polls": 2
     },
     "roussel": {
@@ -5963,18 +4708,6 @@
      "hi": 11.8,
      "n_polls": 2
     },
-    "bardella": {
-     "mean": 36.0,
-     "lo": 33.5,
-     "hi": 38.5,
-     "n_polls": 1
-    },
-    "tondelier": {
-     "mean": 3.7,
-     "lo": 2.4,
-     "hi": 5.0,
-     "n_polls": 2
-    },
     "roussel": {
      "mean": 3.0,
      "lo": 2.0,
@@ -6038,18 +4771,6 @@
      "mean": 9.8,
      "lo": 7.7,
      "hi": 11.8,
-     "n_polls": 2
-    },
-    "bardella": {
-     "mean": 36.0,
-     "lo": 33.5,
-     "hi": 38.5,
-     "n_polls": 1
-    },
-    "tondelier": {
-     "mean": 3.7,
-     "lo": 2.4,
-     "hi": 5.0,
      "n_polls": 2
     },
     "roussel": {
@@ -6117,18 +4838,6 @@
      "hi": 11.8,
      "n_polls": 2
     },
-    "bardella": {
-     "mean": 36.0,
-     "lo": 33.5,
-     "hi": 38.5,
-     "n_polls": 1
-    },
-    "tondelier": {
-     "mean": 3.7,
-     "lo": 2.4,
-     "hi": 5.0,
-     "n_polls": 2
-    },
     "roussel": {
      "mean": 3.0,
      "lo": 2.0,
@@ -6194,18 +4903,6 @@
      "hi": 9.7,
      "n_polls": 3
     },
-    "bardella": {
-     "mean": 36.0,
-     "lo": 33.5,
-     "hi": 38.5,
-     "n_polls": 1
-    },
-    "tondelier": {
-     "mean": 3.7,
-     "lo": 2.7,
-     "hi": 4.7,
-     "n_polls": 3
-    },
     "roussel": {
      "mean": 2.7,
      "lo": 1.7,
@@ -6223,12 +4920,6 @@
      "lo": 0,
      "hi": 1.8,
      "n_polls": 3
-    },
-    "hollande": {
-     "mean": 8.0,
-     "lo": 6.7,
-     "hi": 9.3,
-     "n_polls": 1
     }
    }
   },
@@ -6277,18 +4968,6 @@
      "hi": 10.5,
      "n_polls": 3
     },
-    "bardella": {
-     "mean": 36.0,
-     "lo": 33.5,
-     "hi": 38.5,
-     "n_polls": 1
-    },
-    "tondelier": {
-     "mean": 3.9,
-     "lo": 2.7,
-     "hi": 5.1,
-     "n_polls": 3
-    },
     "roussel": {
      "mean": 2.4,
      "lo": 1.4,
@@ -6306,12 +4985,6 @@
      "lo": 0,
      "hi": 1.8,
      "n_polls": 3
-    },
-    "hollande": {
-     "mean": 8.0,
-     "lo": 6.7,
-     "hi": 9.3,
-     "n_polls": 1
     }
    }
   },
@@ -6360,18 +5033,6 @@
      "hi": 10.4,
      "n_polls": 5
     },
-    "bardella": {
-     "mean": 36.0,
-     "lo": 33.5,
-     "hi": 38.5,
-     "n_polls": 1
-    },
-    "tondelier": {
-     "mean": 3.9,
-     "lo": 2.8,
-     "hi": 4.9,
-     "n_polls": 4
-    },
     "roussel": {
      "mean": 2.4,
      "lo": 1.4,
@@ -6389,12 +5050,6 @@
      "lo": 0.0,
      "hi": 2.0,
      "n_polls": 4
-    },
-    "hollande": {
-     "mean": 8.0,
-     "lo": 7.0,
-     "hi": 9.0,
-     "n_polls": 2
     }
    }
   },
@@ -6443,18 +5098,6 @@
      "hi": 10.4,
      "n_polls": 5
     },
-    "bardella": {
-     "mean": 36.0,
-     "lo": 33.5,
-     "hi": 38.5,
-     "n_polls": 1
-    },
-    "tondelier": {
-     "mean": 3.9,
-     "lo": 2.8,
-     "hi": 4.9,
-     "n_polls": 4
-    },
     "roussel": {
      "mean": 2.4,
      "lo": 1.4,
@@ -6472,12 +5115,6 @@
      "lo": 0.0,
      "hi": 2.0,
      "n_polls": 4
-    },
-    "hollande": {
-     "mean": 8.0,
-     "lo": 7.0,
-     "hi": 9.0,
-     "n_polls": 2
     }
    }
   },
@@ -6526,18 +5163,6 @@
      "hi": 10.4,
      "n_polls": 5
     },
-    "bardella": {
-     "mean": 36.0,
-     "lo": 33.5,
-     "hi": 38.5,
-     "n_polls": 1
-    },
-    "tondelier": {
-     "mean": 3.9,
-     "lo": 2.8,
-     "hi": 4.9,
-     "n_polls": 4
-    },
     "roussel": {
      "mean": 2.4,
      "lo": 1.4,
@@ -6555,12 +5180,6 @@
      "lo": 0.0,
      "hi": 2.0,
      "n_polls": 4
-    },
-    "hollande": {
-     "mean": 8.0,
-     "lo": 7.0,
-     "hi": 9.0,
-     "n_polls": 2
     }
    }
   },
@@ -6609,18 +5228,6 @@
      "hi": 10.4,
      "n_polls": 5
     },
-    "bardella": {
-     "mean": 36.0,
-     "lo": 33.5,
-     "hi": 38.5,
-     "n_polls": 1
-    },
-    "tondelier": {
-     "mean": 3.9,
-     "lo": 2.8,
-     "hi": 4.9,
-     "n_polls": 4
-    },
     "roussel": {
      "mean": 2.4,
      "lo": 1.4,
@@ -6638,12 +5245,6 @@
      "lo": 0.0,
      "hi": 2.0,
      "n_polls": 4
-    },
-    "hollande": {
-     "mean": 8.0,
-     "lo": 7.0,
-     "hi": 9.0,
-     "n_polls": 2
     }
    }
   },
@@ -6692,18 +5293,6 @@
      "hi": 10.4,
      "n_polls": 5
     },
-    "bardella": {
-     "mean": 36.0,
-     "lo": 33.5,
-     "hi": 38.5,
-     "n_polls": 1
-    },
-    "tondelier": {
-     "mean": 3.9,
-     "lo": 2.8,
-     "hi": 4.9,
-     "n_polls": 4
-    },
     "roussel": {
      "mean": 2.4,
      "lo": 1.4,
@@ -6721,12 +5310,6 @@
      "lo": 0.0,
      "hi": 2.0,
      "n_polls": 4
-    },
-    "hollande": {
-     "mean": 8.0,
-     "lo": 7.0,
-     "hi": 9.0,
-     "n_polls": 2
     }
    }
   },
@@ -6775,18 +5358,6 @@
      "hi": 10.4,
      "n_polls": 5
     },
-    "bardella": {
-     "mean": 36.0,
-     "lo": 33.5,
-     "hi": 38.5,
-     "n_polls": 1
-    },
-    "tondelier": {
-     "mean": 3.9,
-     "lo": 2.8,
-     "hi": 4.9,
-     "n_polls": 4
-    },
     "roussel": {
      "mean": 2.4,
      "lo": 1.4,
@@ -6804,12 +5375,6 @@
      "lo": 0.0,
      "hi": 2.0,
      "n_polls": 4
-    },
-    "hollande": {
-     "mean": 8.0,
-     "lo": 7.0,
-     "hi": 9.0,
-     "n_polls": 2
     }
    }
   },
@@ -6858,18 +5423,6 @@
      "hi": 10.4,
      "n_polls": 5
     },
-    "bardella": {
-     "mean": 36.0,
-     "lo": 33.5,
-     "hi": 38.5,
-     "n_polls": 1
-    },
-    "tondelier": {
-     "mean": 3.9,
-     "lo": 2.8,
-     "hi": 4.9,
-     "n_polls": 4
-    },
     "roussel": {
      "mean": 2.4,
      "lo": 1.4,
@@ -6887,12 +5440,6 @@
      "lo": 0.0,
      "hi": 2.0,
      "n_polls": 4
-    },
-    "hollande": {
-     "mean": 8.0,
-     "lo": 7.0,
-     "hi": 9.0,
-     "n_polls": 2
     }
    }
   },
@@ -6941,18 +5488,6 @@
      "hi": 10.4,
      "n_polls": 5
     },
-    "bardella": {
-     "mean": 36.0,
-     "lo": 33.5,
-     "hi": 38.5,
-     "n_polls": 1
-    },
-    "tondelier": {
-     "mean": 3.9,
-     "lo": 2.8,
-     "hi": 4.9,
-     "n_polls": 4
-    },
     "roussel": {
      "mean": 2.4,
      "lo": 1.4,
@@ -6970,12 +5505,6 @@
      "lo": 0.0,
      "hi": 2.0,
      "n_polls": 4
-    },
-    "hollande": {
-     "mean": 8.0,
-     "lo": 7.0,
-     "hi": 9.0,
-     "n_polls": 2
     }
    }
   },
@@ -7024,18 +5553,6 @@
      "hi": 10.4,
      "n_polls": 5
     },
-    "bardella": {
-     "mean": 36.0,
-     "lo": 33.5,
-     "hi": 38.5,
-     "n_polls": 1
-    },
-    "tondelier": {
-     "mean": 3.9,
-     "lo": 2.8,
-     "hi": 4.9,
-     "n_polls": 4
-    },
     "roussel": {
      "mean": 2.4,
      "lo": 1.4,
@@ -7053,12 +5570,6 @@
      "lo": 0.0,
      "hi": 2.0,
      "n_polls": 4
-    },
-    "hollande": {
-     "mean": 8.0,
-     "lo": 7.0,
-     "hi": 9.0,
-     "n_polls": 2
     }
    }
   },
@@ -7107,18 +5618,6 @@
      "hi": 10.4,
      "n_polls": 5
     },
-    "bardella": {
-     "mean": 36.0,
-     "lo": 33.5,
-     "hi": 38.5,
-     "n_polls": 1
-    },
-    "tondelier": {
-     "mean": 3.9,
-     "lo": 2.8,
-     "hi": 4.9,
-     "n_polls": 4
-    },
     "roussel": {
      "mean": 2.4,
      "lo": 1.4,
@@ -7136,12 +5635,6 @@
      "lo": 0.0,
      "hi": 2.0,
      "n_polls": 4
-    },
-    "hollande": {
-     "mean": 8.0,
-     "lo": 7.0,
-     "hi": 9.0,
-     "n_polls": 2
     }
    }
   },
@@ -7190,18 +5683,6 @@
      "hi": 10.4,
      "n_polls": 5
     },
-    "bardella": {
-     "mean": 36.0,
-     "lo": 33.5,
-     "hi": 38.5,
-     "n_polls": 1
-    },
-    "tondelier": {
-     "mean": 3.9,
-     "lo": 2.8,
-     "hi": 4.9,
-     "n_polls": 4
-    },
     "roussel": {
      "mean": 2.4,
      "lo": 1.4,
@@ -7219,12 +5700,6 @@
      "lo": 0.0,
      "hi": 2.0,
      "n_polls": 4
-    },
-    "hollande": {
-     "mean": 8.0,
-     "lo": 7.0,
-     "hi": 9.0,
-     "n_polls": 2
     }
    }
   },
@@ -7273,18 +5748,6 @@
      "hi": 10.4,
      "n_polls": 5
     },
-    "bardella": {
-     "mean": 36.0,
-     "lo": 33.5,
-     "hi": 38.5,
-     "n_polls": 1
-    },
-    "tondelier": {
-     "mean": 3.9,
-     "lo": 2.8,
-     "hi": 4.9,
-     "n_polls": 4
-    },
     "roussel": {
      "mean": 2.4,
      "lo": 1.4,
@@ -7302,12 +5765,6 @@
      "lo": 0.0,
      "hi": 2.0,
      "n_polls": 4
-    },
-    "hollande": {
-     "mean": 8.0,
-     "lo": 7.0,
-     "hi": 9.0,
-     "n_polls": 2
     }
    }
   },
@@ -7356,18 +5813,6 @@
      "hi": 10.4,
      "n_polls": 5
     },
-    "bardella": {
-     "mean": 36.0,
-     "lo": 33.5,
-     "hi": 38.5,
-     "n_polls": 1
-    },
-    "tondelier": {
-     "mean": 3.9,
-     "lo": 2.8,
-     "hi": 4.9,
-     "n_polls": 4
-    },
     "roussel": {
      "mean": 2.4,
      "lo": 1.4,
@@ -7385,12 +5830,6 @@
      "lo": 0.0,
      "hi": 2.0,
      "n_polls": 4
-    },
-    "hollande": {
-     "mean": 8.0,
-     "lo": 7.0,
-     "hi": 9.0,
-     "n_polls": 2
     }
    }
   },
@@ -7439,18 +5878,6 @@
      "hi": 10.4,
      "n_polls": 5
     },
-    "bardella": {
-     "mean": 36.0,
-     "lo": 33.5,
-     "hi": 38.5,
-     "n_polls": 1
-    },
-    "tondelier": {
-     "mean": 3.9,
-     "lo": 2.8,
-     "hi": 4.9,
-     "n_polls": 4
-    },
     "roussel": {
      "mean": 2.4,
      "lo": 1.4,
@@ -7468,12 +5895,6 @@
      "lo": 0.0,
      "hi": 2.0,
      "n_polls": 4
-    },
-    "hollande": {
-     "mean": 8.0,
-     "lo": 7.0,
-     "hi": 9.0,
-     "n_polls": 2
     }
    }
   },
@@ -7522,18 +5943,6 @@
      "hi": 10.3,
      "n_polls": 6
     },
-    "bardella": {
-     "mean": 36.0,
-     "lo": 33.5,
-     "hi": 38.5,
-     "n_polls": 1
-    },
-    "tondelier": {
-     "mean": 3.5,
-     "lo": 2.4,
-     "hi": 4.7,
-     "n_polls": 5
-    },
     "roussel": {
      "mean": 2.2,
      "lo": 1.2,
@@ -7551,12 +5960,6 @@
      "lo": 0.0,
      "hi": 2.0,
      "n_polls": 5
-    },
-    "hollande": {
-     "mean": 8.0,
-     "lo": 7.0,
-     "hi": 9.0,
-     "n_polls": 2
     }
    }
   },
@@ -7605,12 +6008,6 @@
      "hi": 10.3,
      "n_polls": 6
     },
-    "tondelier": {
-     "mean": 3.5,
-     "lo": 2.4,
-     "hi": 4.7,
-     "n_polls": 5
-    },
     "roussel": {
      "mean": 2.2,
      "lo": 1.2,
@@ -7628,12 +6025,6 @@
      "lo": 0.0,
      "hi": 2.0,
      "n_polls": 5
-    },
-    "hollande": {
-     "mean": 8.0,
-     "lo": 7.0,
-     "hi": 9.0,
-     "n_polls": 2
     }
    }
   },
@@ -7682,12 +6073,6 @@
      "hi": 10.3,
      "n_polls": 6
     },
-    "tondelier": {
-     "mean": 3.5,
-     "lo": 2.4,
-     "hi": 4.7,
-     "n_polls": 5
-    },
     "roussel": {
      "mean": 2.2,
      "lo": 1.2,
@@ -7705,12 +6090,6 @@
      "lo": 0.0,
      "hi": 2.0,
      "n_polls": 5
-    },
-    "hollande": {
-     "mean": 8.0,
-     "lo": 7.0,
-     "hi": 9.0,
-     "n_polls": 2
     }
    }
   },
@@ -7759,12 +6138,6 @@
      "hi": 10.3,
      "n_polls": 6
     },
-    "tondelier": {
-     "mean": 3.5,
-     "lo": 2.4,
-     "hi": 4.7,
-     "n_polls": 5
-    },
     "roussel": {
      "mean": 2.2,
      "lo": 1.2,
@@ -7782,12 +6155,6 @@
      "lo": 0.0,
      "hi": 2.0,
      "n_polls": 5
-    },
-    "hollande": {
-     "mean": 8.0,
-     "lo": 7.0,
-     "hi": 9.0,
-     "n_polls": 2
     }
    }
   },
@@ -7836,12 +6203,6 @@
      "hi": 10.3,
      "n_polls": 6
     },
-    "tondelier": {
-     "mean": 3.5,
-     "lo": 2.4,
-     "hi": 4.7,
-     "n_polls": 5
-    },
     "roussel": {
      "mean": 2.2,
      "lo": 1.2,
@@ -7859,12 +6220,6 @@
      "lo": 0.0,
      "hi": 2.0,
      "n_polls": 5
-    },
-    "hollande": {
-     "mean": 8.0,
-     "lo": 7.0,
-     "hi": 9.0,
-     "n_polls": 2
     }
    }
   },
@@ -7913,12 +6268,6 @@
      "hi": 10.3,
      "n_polls": 6
     },
-    "tondelier": {
-     "mean": 3.5,
-     "lo": 2.4,
-     "hi": 4.7,
-     "n_polls": 5
-    },
     "roussel": {
      "mean": 2.2,
      "lo": 1.2,
@@ -7936,12 +6285,6 @@
      "lo": 0.0,
      "hi": 2.0,
      "n_polls": 5
-    },
-    "hollande": {
-     "mean": 8.0,
-     "lo": 7.0,
-     "hi": 9.0,
-     "n_polls": 2
     }
    }
   },
@@ -7990,12 +6333,6 @@
      "hi": 10.3,
      "n_polls": 6
     },
-    "tondelier": {
-     "mean": 3.5,
-     "lo": 2.4,
-     "hi": 4.7,
-     "n_polls": 5
-    },
     "roussel": {
      "mean": 2.2,
      "lo": 1.2,
@@ -8013,12 +6350,6 @@
      "lo": 0.0,
      "hi": 2.0,
      "n_polls": 5
-    },
-    "hollande": {
-     "mean": 8.0,
-     "lo": 7.0,
-     "hi": 9.0,
-     "n_polls": 2
     }
    }
   },
@@ -8067,12 +6398,6 @@
      "hi": 10.3,
      "n_polls": 6
     },
-    "tondelier": {
-     "mean": 3.5,
-     "lo": 2.4,
-     "hi": 4.7,
-     "n_polls": 5
-    },
     "roussel": {
      "mean": 2.2,
      "lo": 1.2,
@@ -8090,12 +6415,6 @@
      "lo": 0.0,
      "hi": 2.0,
      "n_polls": 5
-    },
-    "hollande": {
-     "mean": 8.0,
-     "lo": 7.0,
-     "hi": 9.0,
-     "n_polls": 2
     }
    }
   },
@@ -8144,12 +6463,6 @@
      "hi": 10.3,
      "n_polls": 6
     },
-    "tondelier": {
-     "mean": 3.5,
-     "lo": 2.4,
-     "hi": 4.7,
-     "n_polls": 5
-    },
     "roussel": {
      "mean": 2.2,
      "lo": 1.2,
@@ -8167,12 +6480,6 @@
      "lo": 0.0,
      "hi": 2.0,
      "n_polls": 5
-    },
-    "hollande": {
-     "mean": 8.0,
-     "lo": 7.0,
-     "hi": 9.0,
-     "n_polls": 2
     }
    }
   },
@@ -8221,12 +6528,6 @@
      "hi": 10.3,
      "n_polls": 6
     },
-    "tondelier": {
-     "mean": 3.5,
-     "lo": 2.4,
-     "hi": 4.7,
-     "n_polls": 5
-    },
     "roussel": {
      "mean": 2.2,
      "lo": 1.2,
@@ -8244,12 +6545,6 @@
      "lo": 0.0,
      "hi": 2.0,
      "n_polls": 5
-    },
-    "hollande": {
-     "mean": 8.0,
-     "lo": 7.0,
-     "hi": 9.0,
-     "n_polls": 2
     }
    }
   },
@@ -8298,12 +6593,6 @@
      "hi": 10.3,
      "n_polls": 6
     },
-    "tondelier": {
-     "mean": 3.5,
-     "lo": 2.4,
-     "hi": 4.7,
-     "n_polls": 5
-    },
     "roussel": {
      "mean": 2.2,
      "lo": 1.2,
@@ -8321,12 +6610,6 @@
      "lo": 0.0,
      "hi": 2.0,
      "n_polls": 5
-    },
-    "hollande": {
-     "mean": 8.0,
-     "lo": 7.0,
-     "hi": 9.0,
-     "n_polls": 2
     }
    }
   },
@@ -8375,12 +6658,6 @@
      "hi": 10.3,
      "n_polls": 6
     },
-    "tondelier": {
-     "mean": 3.5,
-     "lo": 2.4,
-     "hi": 4.7,
-     "n_polls": 5
-    },
     "roussel": {
      "mean": 2.2,
      "lo": 1.2,
@@ -8398,12 +6675,6 @@
      "lo": 0.0,
      "hi": 2.0,
      "n_polls": 5
-    },
-    "hollande": {
-     "mean": 8.0,
-     "lo": 7.0,
-     "hi": 9.0,
-     "n_polls": 2
     }
    }
   },
@@ -8452,12 +6723,6 @@
      "hi": 10.3,
      "n_polls": 6
     },
-    "tondelier": {
-     "mean": 3.5,
-     "lo": 2.4,
-     "hi": 4.7,
-     "n_polls": 5
-    },
     "roussel": {
      "mean": 2.2,
      "lo": 1.2,
@@ -8475,12 +6740,6 @@
      "lo": 0.0,
      "hi": 2.0,
      "n_polls": 5
-    },
-    "hollande": {
-     "mean": 8.0,
-     "lo": 7.0,
-     "hi": 9.0,
-     "n_polls": 2
     }
    }
   },
@@ -8529,12 +6788,6 @@
      "hi": 10.3,
      "n_polls": 6
     },
-    "tondelier": {
-     "mean": 3.5,
-     "lo": 2.4,
-     "hi": 4.7,
-     "n_polls": 5
-    },
     "roussel": {
      "mean": 2.2,
      "lo": 1.2,
@@ -8552,12 +6805,6 @@
      "lo": 0.0,
      "hi": 2.0,
      "n_polls": 5
-    },
-    "hollande": {
-     "mean": 8.0,
-     "lo": 7.0,
-     "hi": 9.0,
-     "n_polls": 2
     }
    }
   },
@@ -8606,12 +6853,6 @@
      "hi": 10.3,
      "n_polls": 6
     },
-    "tondelier": {
-     "mean": 3.5,
-     "lo": 2.4,
-     "hi": 4.7,
-     "n_polls": 5
-    },
     "roussel": {
      "mean": 2.2,
      "lo": 1.2,
@@ -8629,12 +6870,6 @@
      "lo": 0.0,
      "hi": 2.0,
      "n_polls": 5
-    },
-    "hollande": {
-     "mean": 8.0,
-     "lo": 7.0,
-     "hi": 9.0,
-     "n_polls": 2
     }
    }
   },
@@ -8683,12 +6918,6 @@
      "hi": 10.6,
      "n_polls": 4
     },
-    "tondelier": {
-     "mean": 3.5,
-     "lo": 2.1,
-     "hi": 4.9,
-     "n_polls": 3
-    },
     "roussel": {
      "mean": 2.1,
      "lo": 1.1,
@@ -8706,12 +6935,6 @@
      "lo": 0.1,
      "hi": 2.1,
      "n_polls": 3
-    },
-    "hollande": {
-     "mean": 8.0,
-     "lo": 6.6,
-     "hi": 9.4,
-     "n_polls": 1
     }
    }
   },
@@ -8760,12 +6983,6 @@
      "hi": 10.3,
      "n_polls": 3
     },
-    "tondelier": {
-     "mean": 3.2,
-     "lo": 2.2,
-     "hi": 4.2,
-     "n_polls": 2
-    },
     "roussel": {
      "mean": 2.2,
      "lo": 1.2,
@@ -8783,12 +7000,6 @@
      "lo": 0.1,
      "hi": 2.1,
      "n_polls": 2
-    },
-    "hollande": {
-     "mean": 8.0,
-     "lo": 6.6,
-     "hi": 9.4,
-     "n_polls": 1
     }
    }
   },
@@ -8835,12 +7046,6 @@
      "mean": 9.0,
      "lo": 7.6,
      "hi": 10.4,
-     "n_polls": 1
-    },
-    "tondelier": {
-     "mean": 3.0,
-     "lo": 2.0,
-     "hi": 4.0,
      "n_polls": 1
     },
     "roussel": {
@@ -8908,12 +7113,6 @@
      "hi": 10.4,
      "n_polls": 1
     },
-    "tondelier": {
-     "mean": 3.0,
-     "lo": 2.0,
-     "hi": 4.0,
-     "n_polls": 1
-    },
     "roussel": {
      "mean": 2.0,
      "lo": 1.0,
@@ -8977,12 +7176,6 @@
      "mean": 9.0,
      "lo": 7.6,
      "hi": 10.4,
-     "n_polls": 1
-    },
-    "tondelier": {
-     "mean": 3.0,
-     "lo": 2.0,
-     "hi": 4.0,
      "n_polls": 1
     },
     "roussel": {
@@ -9050,12 +7243,6 @@
      "hi": 10.4,
      "n_polls": 1
     },
-    "tondelier": {
-     "mean": 3.0,
-     "lo": 2.0,
-     "hi": 4.0,
-     "n_polls": 1
-    },
     "roussel": {
      "mean": 2.0,
      "lo": 1.0,
@@ -9119,12 +7306,6 @@
      "mean": 9.0,
      "lo": 7.6,
      "hi": 10.4,
-     "n_polls": 1
-    },
-    "tondelier": {
-     "mean": 3.0,
-     "lo": 2.0,
-     "hi": 4.0,
      "n_polls": 1
     },
     "roussel": {
@@ -9192,12 +7373,6 @@
      "hi": 10.4,
      "n_polls": 1
     },
-    "tondelier": {
-     "mean": 3.0,
-     "lo": 2.0,
-     "hi": 4.0,
-     "n_polls": 1
-    },
     "roussel": {
      "mean": 2.0,
      "lo": 1.0,
@@ -9261,12 +7436,6 @@
      "mean": 9.0,
      "lo": 7.6,
      "hi": 10.4,
-     "n_polls": 1
-    },
-    "tondelier": {
-     "mean": 3.0,
-     "lo": 2.0,
-     "hi": 4.0,
      "n_polls": 1
     },
     "roussel": {
@@ -9334,12 +7503,6 @@
      "hi": 10.4,
      "n_polls": 1
     },
-    "tondelier": {
-     "mean": 3.0,
-     "lo": 2.0,
-     "hi": 4.0,
-     "n_polls": 1
-    },
     "roussel": {
      "mean": 2.0,
      "lo": 1.0,
@@ -9403,12 +7566,6 @@
      "mean": 9.0,
      "lo": 7.6,
      "hi": 10.4,
-     "n_polls": 1
-    },
-    "tondelier": {
-     "mean": 3.0,
-     "lo": 2.0,
-     "hi": 4.0,
      "n_polls": 1
     },
     "roussel": {
@@ -9476,12 +7633,6 @@
      "hi": 9.3,
      "n_polls": 2
     },
-    "tondelier": {
-     "mean": 3.3,
-     "lo": 2.3,
-     "hi": 4.3,
-     "n_polls": 2
-    },
     "roussel": {
      "mean": 2.5,
      "lo": 1.5,
@@ -9499,12 +7650,6 @@
      "lo": 0,
      "hi": 2.0,
      "n_polls": 2
-    },
-    "hollande": {
-     "mean": 8.0,
-     "lo": 6.7,
-     "hi": 9.3,
-     "n_polls": 1
     }
    }
   },
@@ -9553,12 +7698,6 @@
      "hi": 9.3,
      "n_polls": 2
     },
-    "tondelier": {
-     "mean": 3.3,
-     "lo": 2.3,
-     "hi": 4.3,
-     "n_polls": 2
-    },
     "roussel": {
      "mean": 2.5,
      "lo": 1.5,
@@ -9576,12 +7715,6 @@
      "lo": 0,
      "hi": 2.0,
      "n_polls": 2
-    },
-    "hollande": {
-     "mean": 8.0,
-     "lo": 6.7,
-     "hi": 9.3,
-     "n_polls": 1
     }
    }
   },
@@ -9630,12 +7763,6 @@
      "hi": 9.3,
      "n_polls": 2
     },
-    "tondelier": {
-     "mean": 3.3,
-     "lo": 2.3,
-     "hi": 4.3,
-     "n_polls": 2
-    },
     "roussel": {
      "mean": 2.5,
      "lo": 1.5,
@@ -9653,12 +7780,6 @@
      "lo": 0,
      "hi": 2.0,
      "n_polls": 2
-    },
-    "hollande": {
-     "mean": 8.0,
-     "lo": 6.7,
-     "hi": 9.3,
-     "n_polls": 1
     }
    }
   },
@@ -9707,12 +7828,6 @@
      "hi": 9.3,
      "n_polls": 2
     },
-    "tondelier": {
-     "mean": 3.3,
-     "lo": 2.3,
-     "hi": 4.3,
-     "n_polls": 2
-    },
     "roussel": {
      "mean": 2.5,
      "lo": 1.5,
@@ -9730,12 +7845,6 @@
      "lo": 0,
      "hi": 2.0,
      "n_polls": 2
-    },
-    "hollande": {
-     "mean": 8.0,
-     "lo": 6.7,
-     "hi": 9.3,
-     "n_polls": 1
     }
    }
   },
@@ -9784,12 +7893,6 @@
      "hi": 9.3,
      "n_polls": 2
     },
-    "tondelier": {
-     "mean": 3.3,
-     "lo": 2.3,
-     "hi": 4.3,
-     "n_polls": 2
-    },
     "roussel": {
      "mean": 2.5,
      "lo": 1.5,
@@ -9807,12 +7910,6 @@
      "lo": 0,
      "hi": 2.0,
      "n_polls": 2
-    },
-    "hollande": {
-     "mean": 8.0,
-     "lo": 6.7,
-     "hi": 9.3,
-     "n_polls": 1
     }
    }
   },
@@ -9861,12 +7958,6 @@
      "hi": 8.8,
      "n_polls": 1
     },
-    "tondelier": {
-     "mean": 3.4,
-     "lo": 2.4,
-     "hi": 4.4,
-     "n_polls": 1
-    },
     "roussel": {
      "mean": 2.6,
      "lo": 1.6,
@@ -9883,12 +7974,6 @@
      "mean": 1.0,
      "lo": 0,
      "hi": 2.0,
-     "n_polls": 1
-    },
-    "hollande": {
-     "mean": 8.0,
-     "lo": 6.7,
-     "hi": 9.3,
      "n_polls": 1
     }
    }
@@ -9938,12 +8023,6 @@
      "hi": 9.7,
      "n_polls": 2
     },
-    "tondelier": {
-     "mean": 3.2,
-     "lo": 2.2,
-     "hi": 4.2,
-     "n_polls": 2
-    },
     "roussel": {
      "mean": 2.8,
      "lo": 1.8,
@@ -9961,12 +8040,6 @@
      "lo": 0,
      "hi": 1.9,
      "n_polls": 2
-    },
-    "hollande": {
-     "mean": 8.0,
-     "lo": 6.7,
-     "hi": 9.3,
-     "n_polls": 1
     }
    }
   },
@@ -10015,12 +8088,6 @@
      "hi": 9.7,
      "n_polls": 2
     },
-    "tondelier": {
-     "mean": 3.2,
-     "lo": 2.2,
-     "hi": 4.2,
-     "n_polls": 2
-    },
     "roussel": {
      "mean": 2.8,
      "lo": 1.8,
@@ -10038,12 +8105,6 @@
      "lo": 0,
      "hi": 1.9,
      "n_polls": 2
-    },
-    "hollande": {
-     "mean": 8.0,
-     "lo": 6.7,
-     "hi": 9.3,
-     "n_polls": 1
     }
    }
   },
@@ -10092,12 +8153,6 @@
      "hi": 9.7,
      "n_polls": 2
     },
-    "tondelier": {
-     "mean": 3.2,
-     "lo": 2.2,
-     "hi": 4.2,
-     "n_polls": 2
-    },
     "roussel": {
      "mean": 2.8,
      "lo": 1.8,
@@ -10115,12 +8170,6 @@
      "lo": 0,
      "hi": 1.9,
      "n_polls": 2
-    },
-    "hollande": {
-     "mean": 8.0,
-     "lo": 6.7,
-     "hi": 9.3,
-     "n_polls": 1
     }
    }
   },
@@ -10169,12 +8218,6 @@
      "hi": 9.3,
      "n_polls": 3
     },
-    "tondelier": {
-     "mean": 3.3,
-     "lo": 2.3,
-     "hi": 4.3,
-     "n_polls": 3
-    },
     "roussel": {
      "mean": 3.1,
      "lo": 2.1,
@@ -10192,12 +8235,6 @@
      "lo": 0.1,
      "hi": 2.1,
      "n_polls": 3
-    },
-    "hollande": {
-     "mean": 7.9,
-     "lo": 6.9,
-     "hi": 8.9,
-     "n_polls": 2
     }
    }
   },
@@ -10246,12 +8283,6 @@
      "hi": 9.3,
      "n_polls": 3
     },
-    "tondelier": {
-     "mean": 3.3,
-     "lo": 2.3,
-     "hi": 4.3,
-     "n_polls": 3
-    },
     "roussel": {
      "mean": 3.1,
      "lo": 2.1,
@@ -10269,12 +8300,6 @@
      "lo": 0.1,
      "hi": 2.1,
      "n_polls": 3
-    },
-    "hollande": {
-     "mean": 7.9,
-     "lo": 6.9,
-     "hi": 8.9,
-     "n_polls": 2
     }
    }
   },
@@ -10323,12 +8348,6 @@
      "hi": 9.3,
      "n_polls": 3
     },
-    "tondelier": {
-     "mean": 3.3,
-     "lo": 2.3,
-     "hi": 4.3,
-     "n_polls": 3
-    },
     "roussel": {
      "mean": 3.1,
      "lo": 2.1,
@@ -10346,12 +8365,6 @@
      "lo": 0.1,
      "hi": 2.1,
      "n_polls": 3
-    },
-    "hollande": {
-     "mean": 7.9,
-     "lo": 6.9,
-     "hi": 8.9,
-     "n_polls": 2
     }
    }
   },
@@ -10400,12 +8413,6 @@
      "hi": 9.3,
      "n_polls": 3
     },
-    "tondelier": {
-     "mean": 3.3,
-     "lo": 2.3,
-     "hi": 4.3,
-     "n_polls": 3
-    },
     "roussel": {
      "mean": 3.1,
      "lo": 2.1,
@@ -10423,12 +8430,6 @@
      "lo": 0.1,
      "hi": 2.1,
      "n_polls": 3
-    },
-    "hollande": {
-     "mean": 7.9,
-     "lo": 6.9,
-     "hi": 8.9,
-     "n_polls": 2
     }
    }
   },
@@ -10477,12 +8478,6 @@
      "hi": 9.0,
      "n_polls": 4
     },
-    "tondelier": {
-     "mean": 3.0,
-     "lo": 1.8,
-     "hi": 4.2,
-     "n_polls": 4
-    },
     "roussel": {
      "mean": 2.7,
      "lo": 1.5,
@@ -10500,12 +8495,6 @@
      "lo": 0.1,
      "hi": 2.1,
      "n_polls": 4
-    },
-    "hollande": {
-     "mean": 7.9,
-     "lo": 6.9,
-     "hi": 8.9,
-     "n_polls": 2
     }
    }
   },
@@ -10554,12 +8543,6 @@
      "hi": 8.9,
      "n_polls": 5
     },
-    "tondelier": {
-     "mean": 3.4,
-     "lo": 1.7,
-     "hi": 5.0,
-     "n_polls": 5
-    },
     "roussel": {
      "mean": 2.8,
      "lo": 1.7,
@@ -10577,12 +8560,6 @@
      "lo": 0.0,
      "hi": 2.0,
      "n_polls": 5
-    },
-    "hollande": {
-     "mean": 7.9,
-     "lo": 6.9,
-     "hi": 8.9,
-     "n_polls": 2
     }
    }
   },
@@ -10631,12 +8608,6 @@
      "hi": 9.1,
      "n_polls": 6
     },
-    "tondelier": {
-     "mean": 3.4,
-     "lo": 1.9,
-     "hi": 4.9,
-     "n_polls": 6
-    },
     "roussel": {
      "mean": 2.8,
      "lo": 1.8,
@@ -10654,12 +8625,6 @@
      "lo": 0.0,
      "hi": 2.0,
      "n_polls": 6
-    },
-    "hollande": {
-     "mean": 7.9,
-     "lo": 6.9,
-     "hi": 8.9,
-     "n_polls": 2
     }
    }
   },
@@ -10708,12 +8673,6 @@
      "hi": 8.8,
      "n_polls": 6
     },
-    "tondelier": {
-     "mean": 3.3,
-     "lo": 1.8,
-     "hi": 4.8,
-     "n_polls": 6
-    },
     "roussel": {
      "mean": 2.6,
      "lo": 1.5,
@@ -10731,12 +8690,6 @@
      "lo": 0.0,
      "hi": 2.0,
      "n_polls": 6
-    },
-    "hollande": {
-     "mean": 7.9,
-     "lo": 6.9,
-     "hi": 8.9,
-     "n_polls": 2
     }
    }
   },
@@ -10785,12 +8738,6 @@
      "hi": 8.8,
      "n_polls": 6
     },
-    "tondelier": {
-     "mean": 3.3,
-     "lo": 1.8,
-     "hi": 4.8,
-     "n_polls": 6
-    },
     "roussel": {
      "mean": 2.6,
      "lo": 1.5,
@@ -10808,12 +8755,6 @@
      "lo": 0.0,
      "hi": 2.0,
      "n_polls": 6
-    },
-    "hollande": {
-     "mean": 7.9,
-     "lo": 6.9,
-     "hi": 8.9,
-     "n_polls": 2
     }
    }
   },
@@ -10862,12 +8803,6 @@
      "hi": 8.8,
      "n_polls": 6
     },
-    "tondelier": {
-     "mean": 3.3,
-     "lo": 1.8,
-     "hi": 4.8,
-     "n_polls": 6
-    },
     "roussel": {
      "mean": 2.6,
      "lo": 1.5,
@@ -10885,12 +8820,6 @@
      "lo": 0.0,
      "hi": 2.0,
      "n_polls": 6
-    },
-    "hollande": {
-     "mean": 7.9,
-     "lo": 6.9,
-     "hi": 8.9,
-     "n_polls": 2
     }
    }
   },
@@ -10939,12 +8868,6 @@
      "hi": 8.8,
      "n_polls": 6
     },
-    "tondelier": {
-     "mean": 3.3,
-     "lo": 1.8,
-     "hi": 4.8,
-     "n_polls": 6
-    },
     "roussel": {
      "mean": 2.6,
      "lo": 1.5,
@@ -10962,12 +8885,6 @@
      "lo": 0.0,
      "hi": 2.0,
      "n_polls": 6
-    },
-    "hollande": {
-     "mean": 7.9,
-     "lo": 6.9,
-     "hi": 8.9,
-     "n_polls": 2
     }
    }
   },
@@ -11016,12 +8933,6 @@
      "hi": 8.8,
      "n_polls": 6
     },
-    "tondelier": {
-     "mean": 3.3,
-     "lo": 1.8,
-     "hi": 4.8,
-     "n_polls": 6
-    },
     "roussel": {
      "mean": 2.6,
      "lo": 1.5,
@@ -11039,12 +8950,6 @@
      "lo": 0.0,
      "hi": 2.0,
      "n_polls": 6
-    },
-    "hollande": {
-     "mean": 7.9,
-     "lo": 6.9,
-     "hi": 8.9,
-     "n_polls": 2
     }
    }
   },
@@ -11093,12 +8998,6 @@
      "hi": 10.2,
      "n_polls": 6
     },
-    "tondelier": {
-     "mean": 3.6,
-     "lo": 1.8,
-     "hi": 5.4,
-     "n_polls": 6
-    },
     "roussel": {
      "mean": 2.6,
      "lo": 1.4,
@@ -11116,12 +9015,6 @@
      "lo": 0,
      "hi": 1.9,
      "n_polls": 6
-    },
-    "hollande": {
-     "mean": 7.9,
-     "lo": 6.9,
-     "hi": 8.9,
-     "n_polls": 2
     }
    }
   },
@@ -11170,12 +9063,6 @@
      "hi": 9.2,
      "n_polls": 6
     },
-    "tondelier": {
-     "mean": 3.5,
-     "lo": 1.8,
-     "hi": 5.2,
-     "n_polls": 6
-    },
     "roussel": {
      "mean": 2.8,
      "lo": 1.8,
@@ -11193,12 +9080,6 @@
      "lo": 0,
      "hi": 1.9,
      "n_polls": 6
-    },
-    "hollande": {
-     "mean": 7.2,
-     "lo": 6.2,
-     "hi": 8.2,
-     "n_polls": 3
     }
    }
   },
@@ -11247,12 +9128,6 @@
      "hi": 9.2,
      "n_polls": 6
     },
-    "tondelier": {
-     "mean": 3.5,
-     "lo": 1.9,
-     "hi": 5.1,
-     "n_polls": 6
-    },
     "roussel": {
      "mean": 2.6,
      "lo": 1.6,
@@ -11270,12 +9145,6 @@
      "lo": 0,
      "hi": 1.8,
      "n_polls": 6
-    },
-    "hollande": {
-     "mean": 7.2,
-     "lo": 6.2,
-     "hi": 8.2,
-     "n_polls": 3
     }
    }
   },
@@ -11324,12 +9193,6 @@
      "hi": 9.2,
      "n_polls": 6
     },
-    "tondelier": {
-     "mean": 3.5,
-     "lo": 1.9,
-     "hi": 5.1,
-     "n_polls": 6
-    },
     "roussel": {
      "mean": 2.6,
      "lo": 1.6,
@@ -11347,12 +9210,6 @@
      "lo": 0,
      "hi": 1.8,
      "n_polls": 6
-    },
-    "hollande": {
-     "mean": 7.2,
-     "lo": 6.2,
-     "hi": 8.2,
-     "n_polls": 3
     }
    }
   },
@@ -11401,12 +9258,6 @@
      "hi": 9.2,
      "n_polls": 6
     },
-    "tondelier": {
-     "mean": 3.5,
-     "lo": 1.9,
-     "hi": 5.1,
-     "n_polls": 6
-    },
     "roussel": {
      "mean": 2.6,
      "lo": 1.6,
@@ -11424,12 +9275,6 @@
      "lo": 0,
      "hi": 1.8,
      "n_polls": 6
-    },
-    "hollande": {
-     "mean": 7.2,
-     "lo": 6.2,
-     "hi": 8.2,
-     "n_polls": 3
     }
    }
   },
@@ -11478,12 +9323,6 @@
      "hi": 9.2,
      "n_polls": 6
     },
-    "tondelier": {
-     "mean": 3.5,
-     "lo": 1.9,
-     "hi": 5.1,
-     "n_polls": 6
-    },
     "roussel": {
      "mean": 2.6,
      "lo": 1.6,
@@ -11501,12 +9340,6 @@
      "lo": 0,
      "hi": 1.8,
      "n_polls": 6
-    },
-    "hollande": {
-     "mean": 7.2,
-     "lo": 6.2,
-     "hi": 8.2,
-     "n_polls": 3
     }
    }
   },
@@ -11555,12 +9388,6 @@
      "hi": 9.2,
      "n_polls": 6
     },
-    "tondelier": {
-     "mean": 3.5,
-     "lo": 1.9,
-     "hi": 5.1,
-     "n_polls": 6
-    },
     "roussel": {
      "mean": 2.6,
      "lo": 1.6,
@@ -11578,12 +9405,6 @@
      "lo": 0,
      "hi": 1.8,
      "n_polls": 6
-    },
-    "hollande": {
-     "mean": 7.2,
-     "lo": 6.2,
-     "hi": 8.2,
-     "n_polls": 3
     }
    }
   },
@@ -11632,12 +9453,6 @@
      "hi": 9.3,
      "n_polls": 6
     },
-    "tondelier": {
-     "mean": 3.4,
-     "lo": 1.9,
-     "hi": 4.9,
-     "n_polls": 6
-    },
     "roussel": {
      "mean": 2.7,
      "lo": 1.7,
@@ -11655,12 +9470,6 @@
      "lo": 0,
      "hi": 1.8,
      "n_polls": 6
-    },
-    "hollande": {
-     "mean": 7.3,
-     "lo": 6.3,
-     "hi": 8.3,
-     "n_polls": 4
     }
    }
   },
@@ -11709,12 +9518,6 @@
      "hi": 9.3,
      "n_polls": 6
     },
-    "tondelier": {
-     "mean": 3.4,
-     "lo": 1.9,
-     "hi": 4.9,
-     "n_polls": 6
-    },
     "roussel": {
      "mean": 2.7,
      "lo": 1.7,
@@ -11732,12 +9535,6 @@
      "lo": 0,
      "hi": 1.8,
      "n_polls": 6
-    },
-    "hollande": {
-     "mean": 7.3,
-     "lo": 6.3,
-     "hi": 8.3,
-     "n_polls": 4
     }
    }
   },
@@ -11786,12 +9583,6 @@
      "hi": 9.3,
      "n_polls": 6
     },
-    "tondelier": {
-     "mean": 3.4,
-     "lo": 1.9,
-     "hi": 4.9,
-     "n_polls": 6
-    },
     "roussel": {
      "mean": 2.7,
      "lo": 1.7,
@@ -11809,12 +9600,6 @@
      "lo": 0,
      "hi": 1.8,
      "n_polls": 6
-    },
-    "hollande": {
-     "mean": 7.3,
-     "lo": 6.3,
-     "hi": 8.3,
-     "n_polls": 4
     }
    }
   },
@@ -11863,12 +9648,6 @@
      "hi": 9.3,
      "n_polls": 6
     },
-    "tondelier": {
-     "mean": 3.4,
-     "lo": 1.9,
-     "hi": 4.9,
-     "n_polls": 6
-    },
     "roussel": {
      "mean": 2.7,
      "lo": 1.7,
@@ -11886,12 +9665,6 @@
      "lo": 0,
      "hi": 1.8,
      "n_polls": 6
-    },
-    "hollande": {
-     "mean": 7.3,
-     "lo": 6.3,
-     "hi": 8.3,
-     "n_polls": 4
     }
    }
   },
@@ -11940,12 +9713,6 @@
      "hi": 9.3,
      "n_polls": 6
     },
-    "tondelier": {
-     "mean": 3.4,
-     "lo": 1.9,
-     "hi": 4.9,
-     "n_polls": 6
-    },
     "roussel": {
      "mean": 2.7,
      "lo": 1.7,
@@ -11963,12 +9730,6 @@
      "lo": 0,
      "hi": 1.8,
      "n_polls": 6
-    },
-    "hollande": {
-     "mean": 7.3,
-     "lo": 6.3,
-     "hi": 8.3,
-     "n_polls": 4
     }
    }
   },
@@ -12017,12 +9778,6 @@
      "hi": 9.1,
      "n_polls": 7
     },
-    "tondelier": {
-     "mean": 3.3,
-     "lo": 1.9,
-     "hi": 4.7,
-     "n_polls": 7
-    },
     "roussel": {
      "mean": 2.5,
      "lo": 1.5,
@@ -12040,12 +9795,6 @@
      "lo": 0,
      "hi": 1.8,
      "n_polls": 7
-    },
-    "hollande": {
-     "mean": 6.4,
-     "lo": 3.5,
-     "hi": 9.4,
-     "n_polls": 5
     }
    }
   },
@@ -12094,12 +9843,6 @@
      "hi": 9.1,
      "n_polls": 7
     },
-    "tondelier": {
-     "mean": 3.3,
-     "lo": 1.9,
-     "hi": 4.7,
-     "n_polls": 7
-    },
     "roussel": {
      "mean": 2.5,
      "lo": 1.5,
@@ -12117,12 +9860,6 @@
      "lo": 0,
      "hi": 1.8,
      "n_polls": 7
-    },
-    "hollande": {
-     "mean": 6.4,
-     "lo": 3.5,
-     "hi": 9.4,
-     "n_polls": 5
     }
    }
   },
@@ -12171,12 +9908,6 @@
      "hi": 9.1,
      "n_polls": 7
     },
-    "tondelier": {
-     "mean": 3.3,
-     "lo": 1.9,
-     "hi": 4.7,
-     "n_polls": 7
-    },
     "roussel": {
      "mean": 2.5,
      "lo": 1.5,
@@ -12194,12 +9925,6 @@
      "lo": 0,
      "hi": 1.8,
      "n_polls": 7
-    },
-    "hollande": {
-     "mean": 6.4,
-     "lo": 3.5,
-     "hi": 9.4,
-     "n_polls": 5
     }
    }
   },
@@ -12248,12 +9973,6 @@
      "hi": 9.5,
      "n_polls": 7
     },
-    "tondelier": {
-     "mean": 3.4,
-     "lo": 2.1,
-     "hi": 4.7,
-     "n_polls": 7
-    },
     "roussel": {
      "mean": 2.5,
      "lo": 1.5,
@@ -12271,12 +9990,6 @@
      "lo": 0,
      "hi": 1.8,
      "n_polls": 7
-    },
-    "hollande": {
-     "mean": 6.7,
-     "lo": 3.8,
-     "hi": 9.6,
-     "n_polls": 5
     }
    }
   },
@@ -12325,12 +10038,6 @@
      "hi": 9.5,
      "n_polls": 7
     },
-    "tondelier": {
-     "mean": 3.4,
-     "lo": 2.1,
-     "hi": 4.7,
-     "n_polls": 7
-    },
     "roussel": {
      "mean": 2.5,
      "lo": 1.5,
@@ -12348,12 +10055,6 @@
      "lo": 0,
      "hi": 1.8,
      "n_polls": 7
-    },
-    "hollande": {
-     "mean": 6.7,
-     "lo": 3.8,
-     "hi": 9.6,
-     "n_polls": 5
     }
    }
   },
@@ -12402,12 +10103,6 @@
      "hi": 9.5,
      "n_polls": 7
     },
-    "tondelier": {
-     "mean": 3.4,
-     "lo": 2.1,
-     "hi": 4.7,
-     "n_polls": 7
-    },
     "roussel": {
      "mean": 2.5,
      "lo": 1.5,
@@ -12425,12 +10120,6 @@
      "lo": 0,
      "hi": 1.8,
      "n_polls": 7
-    },
-    "hollande": {
-     "mean": 6.7,
-     "lo": 3.8,
-     "hi": 9.6,
-     "n_polls": 5
     }
    }
   },
@@ -12479,12 +10168,6 @@
      "hi": 9.5,
      "n_polls": 7
     },
-    "tondelier": {
-     "mean": 3.4,
-     "lo": 2.1,
-     "hi": 4.7,
-     "n_polls": 7
-    },
     "roussel": {
      "mean": 2.5,
      "lo": 1.5,
@@ -12502,12 +10185,6 @@
      "lo": 0,
      "hi": 1.8,
      "n_polls": 7
-    },
-    "hollande": {
-     "mean": 6.7,
-     "lo": 3.8,
-     "hi": 9.6,
-     "n_polls": 5
     }
    }
   },
@@ -12556,12 +10233,6 @@
      "hi": 9.6,
      "n_polls": 6
     },
-    "tondelier": {
-     "mean": 3.4,
-     "lo": 2.0,
-     "hi": 4.7,
-     "n_polls": 6
-    },
     "roussel": {
      "mean": 2.4,
      "lo": 1.4,
@@ -12579,12 +10250,6 @@
      "lo": 0,
      "hi": 1.8,
      "n_polls": 6
-    },
-    "hollande": {
-     "mean": 6.6,
-     "lo": 3.6,
-     "hi": 9.5,
-     "n_polls": 4
     }
    }
   },
@@ -12633,12 +10298,6 @@
      "hi": 9.2,
      "n_polls": 6
     },
-    "tondelier": {
-     "mean": 3.7,
-     "lo": 2.1,
-     "hi": 5.3,
-     "n_polls": 6
-    },
     "roussel": {
      "mean": 2.6,
      "lo": 1.6,
@@ -12656,12 +10315,6 @@
      "lo": 0,
      "hi": 1.8,
      "n_polls": 6
-    },
-    "hollande": {
-     "mean": 7.0,
-     "lo": 4.2,
-     "hi": 9.8,
-     "n_polls": 5
     }
    }
   },
@@ -12710,12 +10363,6 @@
      "hi": 9.2,
      "n_polls": 6
     },
-    "tondelier": {
-     "mean": 3.7,
-     "lo": 2.1,
-     "hi": 5.3,
-     "n_polls": 6
-    },
     "roussel": {
      "mean": 2.6,
      "lo": 1.6,
@@ -12733,12 +10380,6 @@
      "lo": 0,
      "hi": 1.8,
      "n_polls": 6
-    },
-    "hollande": {
-     "mean": 7.0,
-     "lo": 4.2,
-     "hi": 9.8,
-     "n_polls": 5
     }
    }
   },
@@ -12787,12 +10428,6 @@
      "hi": 9.2,
      "n_polls": 6
     },
-    "tondelier": {
-     "mean": 3.7,
-     "lo": 2.1,
-     "hi": 5.3,
-     "n_polls": 6
-    },
     "roussel": {
      "mean": 2.6,
      "lo": 1.6,
@@ -12810,12 +10445,6 @@
      "lo": 0,
      "hi": 1.8,
      "n_polls": 6
-    },
-    "hollande": {
-     "mean": 7.0,
-     "lo": 4.2,
-     "hi": 9.8,
-     "n_polls": 5
     }
    }
   },
@@ -12864,12 +10493,6 @@
      "hi": 9.2,
      "n_polls": 6
     },
-    "tondelier": {
-     "mean": 3.7,
-     "lo": 2.1,
-     "hi": 5.3,
-     "n_polls": 6
-    },
     "roussel": {
      "mean": 2.6,
      "lo": 1.6,
@@ -12887,12 +10510,6 @@
      "lo": 0,
      "hi": 1.8,
      "n_polls": 6
-    },
-    "hollande": {
-     "mean": 7.0,
-     "lo": 4.2,
-     "hi": 9.8,
-     "n_polls": 5
     }
    }
   },
@@ -12941,12 +10558,6 @@
      "hi": 9.2,
      "n_polls": 6
     },
-    "tondelier": {
-     "mean": 3.7,
-     "lo": 2.1,
-     "hi": 5.3,
-     "n_polls": 6
-    },
     "roussel": {
      "mean": 2.6,
      "lo": 1.6,
@@ -12964,12 +10575,6 @@
      "lo": 0,
      "hi": 1.8,
      "n_polls": 6
-    },
-    "hollande": {
-     "mean": 7.0,
-     "lo": 4.2,
-     "hi": 9.8,
-     "n_polls": 5
     }
    }
   },
@@ -13018,12 +10623,6 @@
      "hi": 9.2,
      "n_polls": 6
     },
-    "tondelier": {
-     "mean": 3.7,
-     "lo": 2.1,
-     "hi": 5.3,
-     "n_polls": 6
-    },
     "roussel": {
      "mean": 2.6,
      "lo": 1.6,
@@ -13041,12 +10640,6 @@
      "lo": 0,
      "hi": 1.8,
      "n_polls": 6
-    },
-    "hollande": {
-     "mean": 7.0,
-     "lo": 4.2,
-     "hi": 9.8,
-     "n_polls": 5
     }
    }
   },
@@ -13095,12 +10688,6 @@
      "hi": 9.2,
      "n_polls": 6
     },
-    "tondelier": {
-     "mean": 3.7,
-     "lo": 2.1,
-     "hi": 5.3,
-     "n_polls": 6
-    },
     "roussel": {
      "mean": 2.6,
      "lo": 1.6,
@@ -13118,12 +10705,6 @@
      "lo": 0,
      "hi": 1.8,
      "n_polls": 6
-    },
-    "hollande": {
-     "mean": 7.0,
-     "lo": 4.2,
-     "hi": 9.8,
-     "n_polls": 5
     }
    }
   },
@@ -13172,12 +10753,6 @@
      "hi": 9.2,
      "n_polls": 6
     },
-    "tondelier": {
-     "mean": 3.7,
-     "lo": 2.1,
-     "hi": 5.3,
-     "n_polls": 6
-    },
     "roussel": {
      "mean": 2.6,
      "lo": 1.6,
@@ -13195,12 +10770,6 @@
      "lo": 0,
      "hi": 1.8,
      "n_polls": 6
-    },
-    "hollande": {
-     "mean": 7.0,
-     "lo": 4.2,
-     "hi": 9.8,
-     "n_polls": 5
     }
    }
   },
@@ -13249,12 +10818,6 @@
      "hi": 9.0,
      "n_polls": 7
     },
-    "tondelier": {
-     "mean": 3.6,
-     "lo": 2.2,
-     "hi": 4.9,
-     "n_polls": 7
-    },
     "roussel": {
      "mean": 2.4,
      "lo": 1.4,
@@ -13272,12 +10835,6 @@
      "lo": 0,
      "hi": 1.8,
      "n_polls": 7
-    },
-    "hollande": {
-     "mean": 7.0,
-     "lo": 4.2,
-     "hi": 9.8,
-     "n_polls": 5
     }
    }
   },
@@ -13326,12 +10883,6 @@
      "hi": 9.0,
      "n_polls": 7
     },
-    "tondelier": {
-     "mean": 3.5,
-     "lo": 2.2,
-     "hi": 4.8,
-     "n_polls": 7
-    },
     "roussel": {
      "mean": 2.3,
      "lo": 1.3,
@@ -13349,12 +10900,6 @@
      "lo": 0,
      "hi": 1.8,
      "n_polls": 7
-    },
-    "hollande": {
-     "mean": 6.9,
-     "lo": 4.5,
-     "hi": 9.3,
-     "n_polls": 5
     }
    }
   },
@@ -13403,12 +10948,6 @@
      "hi": 9.0,
      "n_polls": 7
     },
-    "tondelier": {
-     "mean": 3.5,
-     "lo": 2.2,
-     "hi": 4.8,
-     "n_polls": 7
-    },
     "roussel": {
      "mean": 2.3,
      "lo": 1.3,
@@ -13426,12 +10965,6 @@
      "lo": 0,
      "hi": 1.8,
      "n_polls": 7
-    },
-    "hollande": {
-     "mean": 6.9,
-     "lo": 4.5,
-     "hi": 9.3,
-     "n_polls": 5
     }
    }
   },
@@ -13480,12 +11013,6 @@
      "hi": 9.0,
      "n_polls": 6
     },
-    "tondelier": {
-     "mean": 3.4,
-     "lo": 2.3,
-     "hi": 4.6,
-     "n_polls": 6
-    },
     "roussel": {
      "mean": 2.3,
      "lo": 1.3,
@@ -13503,12 +11030,6 @@
      "lo": 0,
      "hi": 1.8,
      "n_polls": 6
-    },
-    "hollande": {
-     "mean": 6.9,
-     "lo": 4.5,
-     "hi": 9.3,
-     "n_polls": 5
     }
    }
   },
@@ -13557,12 +11078,6 @@
      "hi": 9.0,
      "n_polls": 5
     },
-    "tondelier": {
-     "mean": 3.4,
-     "lo": 2.3,
-     "hi": 4.6,
-     "n_polls": 5
-    },
     "roussel": {
      "mean": 2.2,
      "lo": 1.2,
@@ -13580,12 +11095,6 @@
      "lo": 0,
      "hi": 1.8,
      "n_polls": 5
-    },
-    "hollande": {
-     "mean": 6.9,
-     "lo": 4.4,
-     "hi": 9.4,
-     "n_polls": 4
     }
    }
   },
@@ -13634,12 +11143,6 @@
      "hi": 9.0,
      "n_polls": 5
     },
-    "tondelier": {
-     "mean": 3.4,
-     "lo": 2.3,
-     "hi": 4.6,
-     "n_polls": 5
-    },
     "roussel": {
      "mean": 2.2,
      "lo": 1.2,
@@ -13657,12 +11160,6 @@
      "lo": 0,
      "hi": 1.8,
      "n_polls": 5
-    },
-    "hollande": {
-     "mean": 6.9,
-     "lo": 4.4,
-     "hi": 9.4,
-     "n_polls": 4
     }
    }
   },
@@ -13711,12 +11208,6 @@
      "hi": 9.0,
      "n_polls": 5
     },
-    "tondelier": {
-     "mean": 3.4,
-     "lo": 2.3,
-     "hi": 4.6,
-     "n_polls": 5
-    },
     "roussel": {
      "mean": 2.2,
      "lo": 1.2,
@@ -13734,12 +11225,6 @@
      "lo": 0,
      "hi": 1.8,
      "n_polls": 5
-    },
-    "hollande": {
-     "mean": 6.9,
-     "lo": 4.4,
-     "hi": 9.4,
-     "n_polls": 4
     }
    }
   },
@@ -13794,12 +11279,6 @@
      "hi": 7.2,
      "n_polls": 2
     },
-    "tondelier": {
-     "mean": 2.8,
-     "lo": 1.7,
-     "hi": 3.9,
-     "n_polls": 6
-    },
     "roussel": {
      "mean": 2.1,
      "lo": 1.1,
@@ -13817,12 +11296,6 @@
      "lo": 0,
      "hi": 1.7,
      "n_polls": 6
-    },
-    "hollande": {
-     "mean": 6.9,
-     "lo": 4.4,
-     "hi": 9.4,
-     "n_polls": 4
     }
    }
   },
@@ -13877,12 +11350,6 @@
      "hi": 7.9,
      "n_polls": 4
     },
-    "tondelier": {
-     "mean": 3.1,
-     "lo": 0.7,
-     "hi": 5.5,
-     "n_polls": 6
-    },
     "roussel": {
      "mean": 2.1,
      "lo": 1.1,
@@ -13900,12 +11367,6 @@
      "lo": 0,
      "hi": 1.5,
      "n_polls": 6
-    },
-    "hollande": {
-     "mean": 6.9,
-     "lo": 4.4,
-     "hi": 9.4,
-     "n_polls": 4
     }
    }
   },
@@ -13960,12 +11421,6 @@
      "hi": 7.8,
      "n_polls": 5
     },
-    "tondelier": {
-     "mean": 3.0,
-     "lo": 0.8,
-     "hi": 5.2,
-     "n_polls": 7
-    },
     "roussel": {
      "mean": 2.0,
      "lo": 1.0,
@@ -13983,12 +11438,6 @@
      "lo": 0,
      "hi": 1.6,
      "n_polls": 7
-    },
-    "hollande": {
-     "mean": 6.9,
-     "lo": 4.4,
-     "hi": 9.4,
-     "n_polls": 4
     }
    }
   },
@@ -14043,12 +11492,6 @@
      "hi": 7.8,
      "n_polls": 5
     },
-    "tondelier": {
-     "mean": 3.0,
-     "lo": 0.8,
-     "hi": 5.2,
-     "n_polls": 7
-    },
     "roussel": {
      "mean": 2.0,
      "lo": 1.0,
@@ -14066,12 +11509,6 @@
      "lo": 0,
      "hi": 1.6,
      "n_polls": 7
-    },
-    "hollande": {
-     "mean": 6.8,
-     "lo": 4.1,
-     "hi": 9.5,
-     "n_polls": 3
     }
    }
   },
@@ -14126,12 +11563,6 @@
      "hi": 7.8,
      "n_polls": 5
     },
-    "tondelier": {
-     "mean": 3.0,
-     "lo": 0.8,
-     "hi": 5.2,
-     "n_polls": 7
-    },
     "roussel": {
      "mean": 2.0,
      "lo": 1.0,
@@ -14149,12 +11580,6 @@
      "lo": 0,
      "hi": 1.6,
      "n_polls": 7
-    },
-    "hollande": {
-     "mean": 6.8,
-     "lo": 4.1,
-     "hi": 9.5,
-     "n_polls": 3
     }
    }
   },
@@ -14209,12 +11634,6 @@
      "hi": 7.9,
      "n_polls": 5
     },
-    "tondelier": {
-     "mean": 3.1,
-     "lo": 1.1,
-     "hi": 5.1,
-     "n_polls": 7
-    },
     "roussel": {
      "mean": 2.0,
      "lo": 1.0,
@@ -14232,12 +11651,6 @@
      "lo": 0,
      "hi": 1.6,
      "n_polls": 7
-    },
-    "hollande": {
-     "mean": 6.8,
-     "lo": 4.1,
-     "hi": 9.5,
-     "n_polls": 3
     }
    }
   },
@@ -14292,12 +11705,6 @@
      "hi": 7.9,
      "n_polls": 5
     },
-    "tondelier": {
-     "mean": 3.1,
-     "lo": 1.1,
-     "hi": 5.1,
-     "n_polls": 7
-    },
     "roussel": {
      "mean": 2.0,
      "lo": 1.0,
@@ -14315,12 +11722,6 @@
      "lo": 0,
      "hi": 1.6,
      "n_polls": 7
-    },
-    "hollande": {
-     "mean": 6.8,
-     "lo": 4.1,
-     "hi": 9.5,
-     "n_polls": 3
     }
    }
   },
@@ -14375,12 +11776,6 @@
      "hi": 8.6,
      "n_polls": 6
     },
-    "tondelier": {
-     "mean": 2.8,
-     "lo": 0.8,
-     "hi": 4.9,
-     "n_polls": 7
-    },
     "roussel": {
      "mean": 1.9,
      "lo": 0.9,
@@ -14398,12 +11793,6 @@
      "lo": 0,
      "hi": 1.6,
      "n_polls": 7
-    },
-    "hollande": {
-     "mean": 6.8,
-     "lo": 4.1,
-     "hi": 9.5,
-     "n_polls": 3
     }
    }
   },
@@ -14458,12 +11847,6 @@
      "hi": 8.8,
      "n_polls": 7
     },
-    "tondelier": {
-     "mean": 2.7,
-     "lo": 0.5,
-     "hi": 4.9,
-     "n_polls": 8
-    },
     "roussel": {
      "mean": 1.9,
      "lo": 0.9,
@@ -14481,12 +11864,6 @@
      "lo": 0,
      "hi": 1.6,
      "n_polls": 8
-    },
-    "hollande": {
-     "mean": 6.8,
-     "lo": 5.7,
-     "hi": 8.0,
-     "n_polls": 3
     }
    }
   },
@@ -14541,12 +11918,6 @@
      "hi": 8.8,
      "n_polls": 7
     },
-    "tondelier": {
-     "mean": 2.7,
-     "lo": 0.5,
-     "hi": 4.9,
-     "n_polls": 8
-    },
     "roussel": {
      "mean": 1.9,
      "lo": 0.9,
@@ -14564,12 +11935,6 @@
      "lo": 0,
      "hi": 1.6,
      "n_polls": 8
-    },
-    "hollande": {
-     "mean": 6.8,
-     "lo": 5.7,
-     "hi": 8.0,
-     "n_polls": 3
     }
    }
   },
@@ -14624,12 +11989,6 @@
      "hi": 8.8,
      "n_polls": 7
     },
-    "tondelier": {
-     "mean": 2.7,
-     "lo": 0.5,
-     "hi": 4.9,
-     "n_polls": 8
-    },
     "roussel": {
      "mean": 1.9,
      "lo": 0.9,
@@ -14647,12 +12006,6 @@
      "lo": 0,
      "hi": 1.6,
      "n_polls": 8
-    },
-    "hollande": {
-     "mean": 6.8,
-     "lo": 5.7,
-     "hi": 8.0,
-     "n_polls": 3
     }
    }
   },
@@ -14707,12 +12060,6 @@
      "hi": 8.8,
      "n_polls": 7
     },
-    "tondelier": {
-     "mean": 2.7,
-     "lo": 0.5,
-     "hi": 4.9,
-     "n_polls": 8
-    },
     "roussel": {
      "mean": 1.9,
      "lo": 0.9,
@@ -14730,12 +12077,6 @@
      "lo": 0,
      "hi": 1.6,
      "n_polls": 8
-    },
-    "hollande": {
-     "mean": 6.8,
-     "lo": 5.7,
-     "hi": 8.0,
-     "n_polls": 3
     }
    }
   },
@@ -14790,12 +12131,6 @@
      "hi": 8.8,
      "n_polls": 7
     },
-    "tondelier": {
-     "mean": 2.7,
-     "lo": 0.5,
-     "hi": 4.9,
-     "n_polls": 8
-    },
     "roussel": {
      "mean": 1.9,
      "lo": 0.9,
@@ -14813,12 +12148,6 @@
      "lo": 0,
      "hi": 1.6,
      "n_polls": 8
-    },
-    "hollande": {
-     "mean": 6.8,
-     "lo": 5.7,
-     "hi": 8.0,
-     "n_polls": 3
     }
    }
   },
@@ -14873,12 +12202,6 @@
      "hi": 8.8,
      "n_polls": 7
     },
-    "tondelier": {
-     "mean": 2.7,
-     "lo": 0.5,
-     "hi": 4.9,
-     "n_polls": 8
-    },
     "roussel": {
      "mean": 1.9,
      "lo": 0.9,
@@ -14896,12 +12219,6 @@
      "lo": 0,
      "hi": 1.6,
      "n_polls": 8
-    },
-    "hollande": {
-     "mean": 6.8,
-     "lo": 5.7,
-     "hi": 8.0,
-     "n_polls": 3
     }
    }
   }
@@ -16611,6 +13928,7 @@
   "dates": [],
   "candidates": [],
   "parties": [],
+  "influencers": [],
   "platforms": [
    "tiktok",
    "instagram",
@@ -16618,6 +13936,235 @@
    "facebook"
   ]
  },
+ "youtube": {
+  "dates": [],
+  "candidates": [],
+  "media": [],
+  "influencers": []
+ },
+ "influencers": [
+  {
+   "id": "marechal",
+   "name": "Marion Maréchal",
+   "party": "rn",
+   "statut": "non_candidat",
+   "note": "",
+   "followers": null,
+   "youtube_views": null,
+   "youtube_subscribers": null
+  },
+  {
+   "id": "bardella",
+   "name": "Jordan Bardella",
+   "party": "rn",
+   "statut": "non_candidat",
+   "note": "Président du RN. Marine Le Pen a officialisé sa candidature le 7 juillet 2026 ; Bardella est désigné comme futur Premier ministre dans son équipe.",
+   "followers": null,
+   "youtube_views": null,
+   "youtube_subscribers": null
+  },
+  {
+   "id": "chenu",
+   "name": "Sébastien Chenu",
+   "party": "rn",
+   "statut": "non_candidat",
+   "note": "",
+   "followers": null,
+   "youtube_views": null,
+   "youtube_subscribers": null
+  },
+  {
+   "id": "hassan",
+   "name": "Rima Hassan",
+   "party": "lfi",
+   "statut": "non_candidat",
+   "note": "",
+   "followers": null,
+   "youtube_views": null,
+   "youtube_subscribers": null
+  },
+  {
+   "id": "guiraud",
+   "name": "Guiraud",
+   "party": "lfi",
+   "statut": "non_candidat",
+   "note": "",
+   "followers": null,
+   "youtube_views": null,
+   "youtube_subscribers": null
+  },
+  {
+   "id": "guette",
+   "name": "Clémence Guetté",
+   "party": "lfi",
+   "statut": "non_candidat",
+   "note": "",
+   "followers": null,
+   "youtube_views": null,
+   "youtube_subscribers": null
+  },
+  {
+   "id": "bompard",
+   "name": "Manuel Bompard",
+   "party": "lfi",
+   "statut": "non_candidat",
+   "note": "",
+   "followers": null,
+   "youtube_views": null,
+   "youtube_subscribers": null
+  },
+  {
+   "id": "legendre",
+   "name": "Le Gendre",
+   "party": "hor",
+   "statut": "non_candidat",
+   "note": "",
+   "followers": null,
+   "youtube_views": null,
+   "youtube_subscribers": null
+  },
+  {
+   "id": "naegelen",
+   "name": "Naegelen",
+   "party": "hor",
+   "statut": "non_candidat",
+   "note": "",
+   "followers": null,
+   "youtube_views": null,
+   "youtube_subscribers": null
+  },
+  {
+   "id": "borne",
+   "name": "Élisabeth Borne",
+   "party": "re",
+   "statut": "non_candidat",
+   "note": "",
+   "followers": null,
+   "youtube_views": null,
+   "youtube_subscribers": null
+  },
+  {
+   "id": "darmanin",
+   "name": "Gérald Darmanin",
+   "party": "re",
+   "statut": "non_candidat",
+   "note": "",
+   "followers": null,
+   "youtube_views": null,
+   "youtube_subscribers": null
+  },
+  {
+   "id": "sejourne",
+   "name": "Stéphane Séjourné",
+   "party": "re",
+   "statut": "non_candidat",
+   "note": "",
+   "followers": null,
+   "youtube_views": null,
+   "youtube_subscribers": null
+  },
+  {
+   "id": "faure",
+   "name": "Olivier Faure",
+   "party": "pp",
+   "statut": "non_candidat",
+   "note": "",
+   "followers": null,
+   "youtube_views": null,
+   "youtube_subscribers": null
+  },
+  {
+   "id": "delga",
+   "name": "Carole Delga",
+   "party": "pp",
+   "statut": "non_candidat",
+   "note": "",
+   "followers": null,
+   "youtube_views": null,
+   "youtube_subscribers": null
+  },
+  {
+   "id": "wauquiez",
+   "name": "Laurent Wauquiez",
+   "party": "lr",
+   "statut": "non_candidat",
+   "note": "",
+   "followers": null,
+   "youtube_views": null,
+   "youtube_subscribers": null
+  },
+  {
+   "id": "pecresse",
+   "name": "Valérie Pécresse",
+   "party": "lr",
+   "statut": "non_candidat",
+   "note": "",
+   "followers": null,
+   "youtube_views": null,
+   "youtube_subscribers": null
+  },
+  {
+   "id": "knafo",
+   "name": "Sarah Knafo",
+   "party": "rec",
+   "statut": "non_candidat",
+   "note": "Pas de candidature présidentielle relevée dans les sources consultées.",
+   "followers": null,
+   "youtube_views": null,
+   "youtube_subscribers": null
+  },
+  {
+   "id": "meunier",
+   "name": "Meunier",
+   "party": "rec",
+   "statut": "non_candidat",
+   "note": "",
+   "followers": null,
+   "youtube_views": null,
+   "youtube_subscribers": null
+  },
+  {
+   "id": "hollande",
+   "name": "François Hollande",
+   "party": "Parti socialiste",
+   "statut": "non_candidat",
+   "note": "Pas encore déclaré : il a annoncé qu'il se prononcera en décembre 2026. Pas de chaîne YouTube officielle.",
+   "followers": null,
+   "youtube_views": null,
+   "youtube_subscribers": null
+  },
+  {
+   "id": "ruffin",
+   "name": "François Ruffin",
+   "party": "Debout !",
+   "statut": "a_verifier",
+   "note": "Statut à confirmer : cité dans certaines listes, pas dans les sources officielles consultées.",
+   "followers": null,
+   "youtube_views": null,
+   "youtube_subscribers": null
+  },
+  {
+   "id": "tondelier",
+   "name": "Marine Tondelier",
+   "party": "Les Écologistes",
+   "statut": "a_verifier",
+   "note": "Statut à confirmer.",
+   "followers": null,
+   "youtube_views": null,
+   "youtube_subscribers": null
+  },
+  {
+   "id": "villepin",
+   "name": "Dominique de Villepin",
+   "party": "Divers droite",
+   "statut": "a_verifier",
+   "note": "Statut à confirmer.",
+   "followers": null,
+   "youtube_views": null,
+   "youtube_subscribers": null
+  }
+ ],
+ "youtube_status": [],
  "parties": [
   {
    "id": "rn",
@@ -16710,16 +14257,6 @@
    "avg_viewers": null,
    "avg_share": null
   },
-  "bardella": {
-   "count": 0,
-   "avg_viewers": null,
-   "avg_share": null
-  },
-  "tondelier": {
-   "count": 0,
-   "avg_viewers": null,
-   "avg_share": null
-  },
   "roussel": {
    "count": 0,
    "avg_viewers": null,
@@ -16731,26 +14268,6 @@
    "avg_share": null
   },
   "arthaud": {
-   "count": 0,
-   "avg_viewers": null,
-   "avg_share": null
-  },
-  "villepin": {
-   "count": 0,
-   "avg_viewers": null,
-   "avg_share": null
-  },
-  "hollande": {
-   "count": 0,
-   "avg_viewers": null,
-   "avg_share": null
-  },
-  "ruffin": {
-   "count": 0,
-   "avg_viewers": null,
-   "avg_share": null
-  },
-  "knafo": {
    "count": 0,
    "avg_viewers": null,
    "avg_share": null

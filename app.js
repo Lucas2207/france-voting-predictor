@@ -17,7 +17,10 @@
  * @typedef {{ dates: string[], platforms: string[], candidates: PersonSeries[], parties: PartySeries[] }} Followers
  * @typedef {{ date: string, candidate: string, channel: string, show: string | null, audience_viewers: number | null, audience_share: number | null, source: SourceLink }} Interview
  * @typedef {Record<string, { count: number, avg_viewers: number | null, avg_share: number | null }>} InterviewSummary
- * @typedef {{ last_updated: string, today: string, candidates: Candidate[], parties: Party[], projection: Projection[], history: HistoryEntry[], polls: Poll[], media_daily: MediaDay[], media_by_outlet: Record<string, Record<string, { tone: number, n: number }>>, events: CampaignEvent[], followers: Followers, interviews: Interview[], interview_summary: InterviewSummary, sources: Sources, parameters?: Record<string, number> }} LiveData
+ * @typedef {{ id: string, name: string, color: string | null, views: (number | null)[], change: (number | null)[], subscribers: (number | null)[], latest: { date: string, views: number, subscribers: number | null, videos: number, title: string } | null }} YouTubeSeries
+ * @typedef {{ dates: string[], candidates: YouTubeSeries[], media: YouTubeSeries[] }} YouTube
+ * @typedef {{ id: string, name: string, party: string, statut: 'non_candidat' | 'a_verifier', note: string, followers: number | null, youtube_views: number | null, youtube_subscribers: number | null }} Influencer
+ * @typedef {{ last_updated: string, today: string, candidates: Candidate[], parties: Party[], influencers: Influencer[], youtube: YouTube, projection: Projection[], history: HistoryEntry[], polls: Poll[], media_daily: MediaDay[], media_by_outlet: Record<string, Record<string, { tone: number, n: number }>>, events: CampaignEvent[], followers: Followers, interviews: Interview[], interview_summary: InterviewSummary, sources: Sources, parameters?: Record<string, number> }} LiveData
  */
 
 /** @type {LiveData} */
@@ -36,6 +39,8 @@ const selected = new Set();
 let followersMode = 'total';
 /** @type {'viewers' | 'share'} */
 let interviewMetric = 'viewers';
+/** @type {'total' | 'change'} */
+let youtubeMode = 'total';
 
 const GRID = '#EEF0F3';
 const INK = '#334155';
@@ -119,7 +124,24 @@ async function init() {
   renderProjection();
   renderOutlets();
   renderEvents();
+  renderInfluencers();
   renderAll();
+}
+
+/** Personnalités influentes non candidates : abonnés et audience YouTube. */
+function renderInfluencers() {
+  const rows = [...(data.influencers || [])].sort((a, b) => (b.followers ?? -1) - (a.followers ?? -1));
+  const statusLabel = { non_candidat: 'Non candidate', a_verifier: 'Statut à vérifier' };
+  $('influencersTable').innerHTML = `<thead><tr class="text-[10px] uppercase tracking-wider text-slate-500 border-b border-slate-200">
+      <th class="px-2 py-1 text-left">Personnalité</th><th class="px-2 py-1 text-left">Parti</th><th class="px-2 py-1 text-left">Statut</th>
+      <th class="px-2 py-1 text-right">Abonnés (réseaux)</th><th class="px-2 py-1 text-right">Vues YouTube</th><th class="px-2 py-1 text-right">Abonnés YouTube</th></tr></thead>
+    <tbody>${rows.map(i => `<tr class="border-b border-slate-100">
+      <td class="px-2 py-1 font-semibold whitespace-nowrap">${esc(i.name)}</td>
+      <td class="px-2 py-1 whitespace-nowrap">${esc(partyById[i.party] ? partyById[i.party].name : i.party)}</td>
+      <td class="px-2 py-1" title="${esc(i.note)}">${esc(statusLabel[i.statut] || i.statut)}</td>
+      <td class="px-2 py-1 text-right">${compact(i.followers)}</td>
+      <td class="px-2 py-1 text-right">${compact(i.youtube_views)}</td>
+      <td class="px-2 py-1 text-right">${compact(i.youtube_subscribers)}</td></tr>`).join('')}</tbody>`;
 }
 
 /** @param {string} key @param {string} label @param {string} color @param {string} badge */
@@ -134,6 +156,7 @@ function checkbox(key, label, color, badge) {
 function buildPicker() {
   $('pickerCandidates').innerHTML = data.candidates.map(c => checkbox(`cand:${c.id}`, c.name, c.color, c.badge)).join('');
   $('pickerParties').innerHTML = (data.parties || []).map(p => checkbox(`party:${p.id}`, p.name, p.color, p.badge)).join('');
+  $('pickerMedia').innerHTML = ((data.youtube && data.youtube.media) || []).map(m => checkbox(`media:${m.id}`, m.name, m.color || '#64748B', 'YT')).join('');
   $('pickerPanel').addEventListener('change', (ev) => {
     const t = ev.target;
     if (!(t instanceof HTMLInputElement) || !t.dataset.key) return;
@@ -146,7 +169,8 @@ function buildPicker() {
     /** @type {string[]} */
     let keys = [];
     if (t.dataset.preset === 'all') {
-      keys = [...data.candidates.map(c => `cand:${c.id}`), ...(data.parties || []).map(p => `party:${p.id}`)];
+      keys = [...data.candidates.map(c => `cand:${c.id}`), ...(data.parties || []).map(p => `party:${p.id}`),
+              ...((data.youtube && data.youtube.media) || []).map(m => `media:${m.id}`)];
     } else if (t.dataset.preset === 'main') {
       keys = [...data.candidates.filter(c => c.main).map(c => `cand:${c.id}`), ...(data.parties || []).map(p => `party:${p.id}`)];
     }
@@ -163,6 +187,7 @@ function buildPicker() {
       const [group, value] = (t.dataset.toggle || '').split(':');
       if (group === 'followers') followersMode = /** @type {'total' | 'change'} */ (value);
       if (group === 'interview') interviewMetric = /** @type {'viewers' | 'share'} */ (value);
+      if (group === 'youtube') youtubeMode = /** @type {'total' | 'change'} */ (value);
       document.querySelectorAll(`[data-toggle^="${group}:"]`).forEach(b => {
         const on = /** @type {HTMLButtonElement} */ (b).dataset.toggle === t.dataset.toggle;
         b.classList.toggle('bg-indigo-600', on);
@@ -179,7 +204,59 @@ function renderAll() {
   renderPollChart();
   renderMediaChart();
   renderFollowers();
+  renderYouTube();
   renderInterviews();
+}
+
+/** Vues YouTube des candidats et des médias cochés. */
+function renderYouTube() {
+  const yt = data.youtube;
+  const hasData = !!yt && yt.dates.length > 0 && (yt.candidates.length + yt.media.length) > 0;
+  const change = youtubeMode === 'change';
+  $('youtubeNote').textContent = hasData
+    ? `Relevés quotidiens depuis le ${yt.dates[0]}. Les vues sont cumulées depuis la création de chaque chaîne.`
+    : 'Aucune chaîne YouTube relevée : renseignez les @ dans config/youtube_channels.json et la clé YOUTUBE_API_KEY (voir méthodologie).';
+  const labelFmt = change ? (/** @type {number} */ v) => `${v > 0 ? '+' : ''}${compact(v)}` : compact;
+  const tooltip = (/** @type {any} */ item) => ` ${item.dataset.label} : ${change ? signed(item.parsed.y, 0) : fmt(item.parsed.y, 0)}`;
+
+  /**
+   * @param {YouTubeSeries[]} series
+   * @param {string} prefix
+   */
+  const sets = (series, prefix) => hasData ? series.filter(s => selected.has(prefix + s.id)).map(s => {
+    const color = s.color || (candById[s.id] && candById[s.id].color) || '#64748B';
+    return { label: s.name, data: change ? s.change : s.views, borderColor: color, backgroundColor: color,
+             borderWidth: 2.5, pointRadius: yt.dates.length < 10 ? 4 : 0, pointHoverRadius: 5, tension: 0.2, spanGaps: true };
+  }) : [];
+
+  if (charts.ytCand) charts.ytCand.destroy();
+  charts.ytCand = new Chart(canvas('ytCandChart'), { type: 'line',
+    data: { labels: hasData ? yt.dates : [], datasets: sets(yt.candidates, 'cand:') },
+    options: lineOptions('', { legend: true, tickFormat: labelFmt, tooltipLabel: tooltip }) });
+  if (charts.ytMedia) charts.ytMedia.destroy();
+  charts.ytMedia = new Chart(canvas('ytMediaChart'), { type: 'line',
+    data: { labels: hasData ? yt.dates : [], datasets: sets(yt.media, 'media:') },
+    options: lineOptions('', { legend: true, tickFormat: labelFmt, tooltipLabel: tooltip }) });
+
+  /** @type {string[]} */
+  const rows = [];
+  if (hasData) {
+    /** @type {Array<{ prefix: string, s: YouTubeSeries }>} */
+    const all = [...yt.candidates.map(s => ({ prefix: 'cand:', s })), ...yt.media.map(s => ({ prefix: 'media:', s }))];
+    all.filter(({ prefix, s }) => selected.has(prefix + s.id) && s.latest)
+      .forEach(({ s }) => {
+        if (!s.latest) return;
+        const color = s.color || (candById[s.id] && candById[s.id].color) || '#64748B';
+        const delta = s.change[s.change.length - 1];
+        rows.push(`<tr class="border-b border-slate-100"><td class="px-2 py-1 font-semibold whitespace-nowrap"><span class="inline-block w-2 h-2 rounded-full mr-1" style="background:${esc(color)}"></span>${esc(s.name)}</td>
+          <td class="px-2 py-1 text-right">${compact(s.latest.views)}</td><td class="px-2 py-1 text-right">${delta == null ? '—' : signed(delta, 0)}</td>
+          <td class="px-2 py-1 text-right">${s.latest.subscribers == null ? '—' : compact(s.latest.subscribers)}</td></tr>`);
+      });
+  }
+  $('youtubeTable').innerHTML = `<thead><tr class="text-[10px] uppercase tracking-wider text-slate-500 border-b border-slate-200">
+      <th class="px-2 py-1 text-left">Chaîne</th><th class="px-2 py-1 text-right">Vues cumulées</th>
+      <th class="px-2 py-1 text-right">Gain depuis le 1er relevé</th><th class="px-2 py-1 text-right">Abonnés</th></tr></thead>
+    <tbody>${rows.join('') || '<tr><td class="py-2 text-slate-400" colspan="4">Aucune chaîne cochée ou aucun relevé.</td></tr>'}</tbody>`;
 }
 
 function renderProjection() {
@@ -385,7 +462,7 @@ function renderInterviews() {
     tooltipAfter: (/** @type {any} */ item) => `   ${item.raw.channel}${item.raw.show ? ' — ' + item.raw.show : ''}`,
   }));
   opts.scales.x = { type: 'linear', grid: { display: false }, ticks: { color: MUTED, font: { size: 10 },
-    callback: (/** @type {number} */ v) => new Date(v).toLocaleDateString('fr-FR', { day: '2-digit', month: 'short' }) } };
+    callback: (/** @type {number} */ v) => v < 1e11 ? '' : new Date(v).toLocaleDateString('fr-FR', { day: '2-digit', month: 'short' }) } };
   opts.plugins.tooltip.callbacks.afterTitle = undefined;
   if (charts.interview) charts.interview.destroy();
   charts.interview = new Chart(canvas('interviewChart'), { type: 'scatter', data: { datasets }, options: opts });

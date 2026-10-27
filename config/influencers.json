@@ -1,0 +1,159 @@
+{
+  "_doc": "Personnalités influentes qui ne sont pas candidates à la présidentielle mais pèsent sur les voix de leur parti. Elles apparaissent dans la section dédiée et alimentent les totaux d'abonnés des partis. 'statut' : non_candidat (pressenti ou non déclaré) | a_verifier (statut non confirmé).",
+  "influencers": [
+    {
+      "id": "marechal",
+      "name": "Marion Maréchal",
+      "party": "rn",
+      "statut": "non_candidat",
+      "note": ""
+    },
+    {
+      "id": "bardella",
+      "name": "Jordan Bardella",
+      "party": "rn",
+      "statut": "non_candidat",
+      "note": "Président du RN. Marine Le Pen a officialisé sa candidature le 7 juillet 2026 ; Bardella est désigné comme futur Premier ministre dans son équipe."
+    },
+    {
+      "id": "chenu",
+      "name": "Sébastien Chenu",
+      "party": "rn",
+      "statut": "non_candidat",
+      "note": ""
+    },
+    {
+      "id": "hassan",
+      "name": "Rima Hassan",
+      "party": "lfi",
+      "statut": "non_candidat",
+      "note": ""
+    },
+    {
+      "id": "guiraud",
+      "name": "Guiraud",
+      "party": "lfi",
+      "statut": "non_candidat",
+      "note": ""
+    },
+    {
+      "id": "guette",
+      "name": "Clémence Guetté",
+      "party": "lfi",
+      "statut": "non_candidat",
+      "note": ""
+    },
+    {
+      "id": "bompard",
+      "name": "Manuel Bompard",
+      "party": "lfi",
+      "statut": "non_candidat",
+      "note": ""
+    },
+    {
+      "id": "legendre",
+      "name": "Le Gendre",
+      "party": "hor",
+      "statut": "non_candidat",
+      "note": ""
+    },
+    {
+      "id": "naegelen",
+      "name": "Naegelen",
+      "party": "hor",
+      "statut": "non_candidat",
+      "note": ""
+    },
+    {
+      "id": "borne",
+      "name": "Élisabeth Borne",
+      "party": "re",
+      "statut": "non_candidat",
+      "note": ""
+    },
+    {
+      "id": "darmanin",
+      "name": "Gérald Darmanin",
+      "party": "re",
+      "statut": "non_candidat",
+      "note": ""
+    },
+    {
+      "id": "sejourne",
+      "name": "Stéphane Séjourné",
+      "party": "re",
+      "statut": "non_candidat",
+      "note": ""
+    },
+    {
+      "id": "faure",
+      "name": "Olivier Faure",
+      "party": "pp",
+      "statut": "non_candidat",
+      "note": ""
+    },
+    {
+      "id": "delga",
+      "name": "Carole Delga",
+      "party": "pp",
+      "statut": "non_candidat",
+      "note": ""
+    },
+    {
+      "id": "wauquiez",
+      "name": "Laurent Wauquiez",
+      "party": "lr",
+      "statut": "non_candidat",
+      "note": ""
+    },
+    {
+      "id": "pecresse",
+      "name": "Valérie Pécresse",
+      "party": "lr",
+      "statut": "non_candidat",
+      "note": ""
+    },
+    {
+      "id": "knafo",
+      "name": "Sarah Knafo",
+      "party": "rec",
+      "statut": "non_candidat",
+      "note": "Pas de candidature présidentielle relevée dans les sources consultées."
+    },
+    {
+      "id": "meunier",
+      "name": "Meunier",
+      "party": "rec",
+      "statut": "non_candidat",
+      "note": ""
+    },
+    {
+      "id": "hollande",
+      "name": "François Hollande",
+      "party": "Parti socialiste",
+      "statut": "non_candidat",
+      "note": "Pas encore déclaré : il a annoncé qu'il se prononcera en décembre 2026. Pas de chaîne YouTube officielle."
+    },
+    {
+      "id": "ruffin",
+      "name": "François Ruffin",
+      "party": "Debout !",
+      "statut": "a_verifier",
+      "note": "Statut à confirmer : cité dans certaines listes, pas dans les sources officielles consultées."
+    },
+    {
+      "id": "tondelier",
+      "name": "Marine Tondelier",
+      "party": "Les Écologistes",
+      "statut": "a_verifier",
+      "note": "Statut à confirmer."
+    },
+    {
+      "id": "villepin",
+      "name": "Dominique de Villepin",
+      "party": "Divers droite",
+      "statut": "a_verifier",
+      "note": "Statut à confirmer."
+    }
+  ]
+}

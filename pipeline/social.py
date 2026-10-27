@@ -120,16 +120,17 @@ def party_series(entries, party, dates, today):
     }
 
 
-def build_followers(entries, candidates, parties, today):
-    """Séries d'abonnés pour les candidats et les partis, sur les dates de relevé."""
+def build_followers(entries, candidates, parties, influencers, today):
+    """Séries d'abonnés pour les candidats, les partis et les personnalités influentes."""
     dates = sorted({e["date"] for e in entries})
     if not dates:
-        return {"dates": [], "candidates": [], "parties": [], "platforms": PLATFORMS}
+        return {"dates": [], "candidates": [], "parties": [], "influencers": [], "platforms": PLATFORMS}
     return {
         "dates": dates,
         "platforms": PLATFORMS,
         "candidates": [person_series(entries, c["id"], dates) for c in candidates],
         "parties": [party_series(entries, p, dates, today) for p in parties],
+        "influencers": [person_series(entries, i["id"], dates) for i in influencers],
     }
 
 

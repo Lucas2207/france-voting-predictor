@@ -1,0 +1,273 @@
+{
+  "_doc": "Chaînes YouTube suivies : candidats déclarés (kind candidate), médias (kind media, couleurs validées), et personnalités influentes non candidates (kind influencer). 'handle' = le @ de la chaîne, vide tant que non vérifié.",
+  "channels": [
+    {
+      "id": "lepen",
+      "kind": "candidate",
+      "name": "Marine Le Pen",
+      "handle": "@MarineLePenOfficiel"
+    },
+    {
+      "id": "melenchon",
+      "kind": "candidate",
+      "name": "Jean-Luc Mélenchon",
+      "handle": "@JLMelenchon"
+    },
+    {
+      "id": "philippe",
+      "kind": "candidate",
+      "name": "Édouard Philippe",
+      "handle": "@EdouardPhilippe"
+    },
+    {
+      "id": "glucksmann",
+      "kind": "candidate",
+      "name": "Raphaël Glucksmann",
+      "handle": "@RaphaelGlucksmann1"
+    },
+    {
+      "id": "attal",
+      "kind": "candidate",
+      "name": "Gabriel Attal",
+      "handle": "@gabriel_attal"
+    },
+    {
+      "id": "zemmour",
+      "kind": "candidate",
+      "name": "Éric Zemmour",
+      "handle": "@EricZemmourOff"
+    },
+    {
+      "id": "retailleau",
+      "kind": "candidate",
+      "name": "Bruno Retailleau",
+      "handle": "@Bruno_Retailleau"
+    },
+    {
+      "id": "lisnard",
+      "kind": "candidate",
+      "name": "David Lisnard",
+      "handle": "@david_lisnard"
+    },
+    {
+      "id": "bardella",
+      "kind": "influencer",
+      "name": "Jordan Bardella",
+      "handle": "J_Bardella"
+    },
+    {
+      "id": "tondelier",
+      "kind": "influencer",
+      "name": "Marine Tondelier",
+      "handle": "Marine.Tondelier"
+    },
+    {
+      "id": "roussel",
+      "kind": "candidate",
+      "name": "Fabien Roussel",
+      "handle": "@fabienroussel9212"
+    },
+    {
+      "id": "dupontaignan",
+      "kind": "candidate",
+      "name": "Nicolas Dupont-Aignan",
+      "handle": "@dupontaignannicolas"
+    },
+    {
+      "id": "arthaud",
+      "kind": "candidate",
+      "name": "Nathalie Arthaud",
+      "handle": "@NathalieArthaudLutteOuvriere"
+    },
+    {
+      "id": "villepin",
+      "kind": "influencer",
+      "name": "Dominique de Villepin",
+      "handle": "@dominiquedevillepin"
+    },
+    {
+      "id": "hollande",
+      "kind": "influencer",
+      "name": "François Hollande",
+      "handle": ""
+    },
+    {
+      "id": "ruffin",
+      "kind": "influencer",
+      "name": "François Ruffin",
+      "handle": "@francois_ruffin"
+    },
+    {
+      "id": "knafo",
+      "kind": "influencer",
+      "name": "Sarah Knafo",
+      "handle": "@sarahknafo-videos"
+    },
+    {
+      "id": "media-bfmtv",
+      "kind": "media",
+      "name": "BFM TV",
+      "handle": "@BFMTV",
+      "color": "#2E4A9E"
+    },
+    {
+      "id": "media-franceinfo",
+      "kind": "media",
+      "name": "franceinfo",
+      "handle": "@franceinfo",
+      "color": "#D62839"
+    },
+    {
+      "id": "media-tf1info",
+      "kind": "media",
+      "name": "TF1 info",
+      "handle": "@TF1",
+      "color": "#0091CC"
+    },
+    {
+      "id": "media-lci",
+      "kind": "media",
+      "name": "LCI",
+      "handle": "@LCI",
+      "color": "#D9468F"
+    },
+    {
+      "id": "media-cnews",
+      "kind": "media",
+      "name": "CNews",
+      "handle": "@CNEWSofficiel",
+      "color": "#B97F00"
+    },
+    {
+      "id": "media-france-inter",
+      "kind": "media",
+      "name": "France Inter",
+      "handle": "@FranceInter",
+      "color": "#7B52AE"
+    },
+    {
+      "id": "media-europe1",
+      "kind": "media",
+      "name": "Europe 1",
+      "handle": "@Europe1",
+      "color": "#0E9F8A"
+    },
+    {
+      "id": "media-lemonde",
+      "kind": "media",
+      "name": "Le Monde",
+      "handle": "@lemondefr",
+      "color": "#A0522D"
+    },
+    {
+      "id": "media-mediapart",
+      "kind": "media",
+      "name": "Mediapart",
+      "handle": "@mediapart",
+      "color": "#3A6EA5"
+    },
+    {
+      "id": "media-radionova",
+      "kind": "media",
+      "name": "Radio Nova",
+      "handle": "@radionova",
+      "color": "#C05621"
+    },
+    {
+      "id": "marechal",
+      "kind": "influencer",
+      "name": "Marion Maréchal",
+      "handle": ""
+    },
+    {
+      "id": "chenu",
+      "kind": "influencer",
+      "name": "Sébastien Chenu",
+      "handle": ""
+    },
+    {
+      "id": "hassan",
+      "kind": "influencer",
+      "name": "Rima Hassan",
+      "handle": ""
+    },
+    {
+      "id": "guiraud",
+      "kind": "influencer",
+      "name": "Guiraud",
+      "handle": ""
+    },
+    {
+      "id": "guette",
+      "kind": "influencer",
+      "name": "Clémence Guetté",
+      "handle": ""
+    },
+    {
+      "id": "bompard",
+      "kind": "influencer",
+      "name": "Manuel Bompard",
+      "handle": ""
+    },
+    {
+      "id": "legendre",
+      "kind": "influencer",
+      "name": "Le Gendre",
+      "handle": ""
+    },
+    {
+      "id": "naegelen",
+      "kind": "influencer",
+      "name": "Naegelen",
+      "handle": ""
+    },
+    {
+      "id": "borne",
+      "kind": "influencer",
+      "name": "Élisabeth Borne",
+      "handle": ""
+    },
+    {
+      "id": "darmanin",
+      "kind": "influencer",
+      "name": "Gérald Darmanin",
+      "handle": ""
+    },
+    {
+      "id": "sejourne",
+      "kind": "influencer",
+      "name": "Stéphane Séjourné",
+      "handle": ""
+    },
+    {
+      "id": "faure",
+      "kind": "influencer",
+      "name": "Olivier Faure",
+      "handle": ""
+    },
+    {
+      "id": "delga",
+      "kind": "influencer",
+      "name": "Carole Delga",
+      "handle": ""
+    },
+    {
+      "id": "wauquiez",
+      "kind": "influencer",
+      "name": "Laurent Wauquiez",
+      "handle": ""
+    },
+    {
+      "id": "pecresse",
+      "kind": "influencer",
+      "name": "Valérie Pécresse",
+      "handle": ""
+    },
+    {
+      "id": "meunier",
+      "kind": "influencer",
+      "name": "Meunier",
+      "handle": ""
+    }
+  ]
+}

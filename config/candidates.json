@@ -1,22 +1,163 @@
 {
-  "_doc": "Source unique des personnalités suivies. 'wiki' = nom exact tel qu'il apparaît dans les liens [[...]] des tableaux Wikipédia. 'aliases' = formes recherchées dans les articles (insensible à la casse et aux accents). 'main' = affiché par défaut sur le graphique (8 maximum : au-delà, les couleurs ne sont plus distinguables). Couleurs validées (daltonisme, contraste) pour les 8 'main'.",
+  "_doc": "Candidats déclarés à l'élection présidentielle (statut vérifié, voir source_statut). Ces personnes alimentent les sondages, la veille médias et les graphiques. Les personnalités influentes non candidates sont dans config/influencers.json.",
   "candidates": [
-    {"id": "lepen", "name": "Marine Le Pen", "wiki": "Marine Le Pen", "party": "Rassemblement national", "badge": "RN", "color": "#2E4A9E", "main": true, "aliases": ["Marine Le Pen", "Le Pen"]},
-    {"id": "melenchon", "name": "Jean-Luc Mélenchon", "wiki": "Jean-Luc Mélenchon", "party": "La France insoumise", "badge": "LFI", "color": "#D62839", "main": true, "aliases": ["Mélenchon"]},
-    {"id": "philippe", "name": "Édouard Philippe", "wiki": "Édouard Philippe", "party": "Horizons", "badge": "HOR", "color": "#0091CC", "main": true, "aliases": ["Édouard Philippe"]},
-    {"id": "glucksmann", "name": "Raphaël Glucksmann", "wiki": "Raphaël Glucksmann", "party": "Place publique / PS", "badge": "PP-PS", "color": "#D9468F", "main": true, "aliases": ["Glucksmann"]},
-    {"id": "attal", "name": "Gabriel Attal", "wiki": "Gabriel Attal", "party": "Renaissance", "badge": "RE", "color": "#B97F00", "main": true, "aliases": ["Gabriel Attal", "Attal"]},
-    {"id": "zemmour", "name": "Éric Zemmour", "wiki": "Éric Zemmour", "party": "Reconquête", "badge": "REC", "color": "#7B52AE", "main": true, "aliases": ["Zemmour"]},
-    {"id": "retailleau", "name": "Bruno Retailleau", "wiki": "Bruno Retailleau", "party": "Les Républicains", "badge": "LR", "color": "#0E9F8A", "main": true, "aliases": ["Retailleau"]},
-    {"id": "lisnard", "name": "David Lisnard", "wiki": "David Lisnard", "party": "Nouvelle Énergie", "badge": "NE", "color": "#A0522D", "main": true, "aliases": ["Lisnard"]},
-    {"id": "bardella", "name": "Jordan Bardella", "wiki": "Jordan Bardella", "party": "Rassemblement national", "badge": "RN", "color": "#4F6BC4", "main": false, "aliases": ["Bardella"]},
-    {"id": "tondelier", "name": "Marine Tondelier", "wiki": "Marine Tondelier", "party": "Les Écologistes", "badge": "LE", "color": "#2E8B3A", "main": false, "aliases": ["Tondelier"]},
-    {"id": "roussel", "name": "Fabien Roussel", "wiki": "Fabien Roussel", "party": "Parti communiste français", "badge": "PCF", "color": "#B3261E", "main": false, "aliases": ["Fabien Roussel", "Roussel"]},
-    {"id": "dupontaignan", "name": "Nicolas Dupont-Aignan", "wiki": "Nicolas Dupont-Aignan", "party": "Debout la France", "badge": "DLF", "color": "#3A6EA5", "main": false, "aliases": ["Dupont-Aignan"]},
-    {"id": "arthaud", "name": "Nathalie Arthaud", "wiki": "Nathalie Arthaud", "party": "Lutte ouvrière", "badge": "LO", "color": "#8B1A1A", "main": false, "aliases": ["Nathalie Arthaud", "Arthaud"]},
-    {"id": "villepin", "name": "Dominique de Villepin", "wiki": "Dominique de Villepin", "party": "Divers droite", "badge": "DVD", "color": "#5B6B8C", "main": false, "aliases": ["Villepin"]},
-    {"id": "hollande", "name": "François Hollande", "wiki": "François Hollande", "party": "Parti socialiste", "badge": "PS", "color": "#C2185B", "main": false, "aliases": ["François Hollande", "Hollande"]},
-    {"id": "ruffin", "name": "François Ruffin", "wiki": "François Ruffin", "party": "Debout !", "badge": "DEB", "color": "#C05621", "main": false, "aliases": ["François Ruffin", "Ruffin"]},
-    {"id": "knafo", "name": "Sarah Knafo", "wiki": "Sarah Knafo", "party": "Reconquête", "badge": "REC", "color": "#6A4C93", "main": false, "aliases": ["Sarah Knafo", "Knafo"]}
+    {
+      "id": "lepen",
+      "name": "Marine Le Pen",
+      "wiki": "Marine Le Pen",
+      "party": "Rassemblement national",
+      "badge": "RN",
+      "color": "#2E4A9E",
+      "main": true,
+      "aliases": [
+        "Marine Le Pen",
+        "Le Pen"
+      ],
+      "statut": "declare",
+      "source_statut": "Déclarée le 7 juillet 2026 (source : note du tableau des sondages)"
+    },
+    {
+      "id": "melenchon",
+      "name": "Jean-Luc Mélenchon",
+      "wiki": "Jean-Luc Mélenchon",
+      "party": "La France insoumise",
+      "badge": "LFI",
+      "color": "#D62839",
+      "main": true,
+      "aliases": [
+        "Mélenchon"
+      ],
+      "statut": "declare",
+      "source_statut": "Désigné par LFI le 3 mai 2026 (note du tableau des sondages)"
+    },
+    {
+      "id": "philippe",
+      "name": "Édouard Philippe",
+      "wiki": "Édouard Philippe",
+      "party": "Horizons",
+      "badge": "HOR",
+      "color": "#0091CC",
+      "main": true,
+      "aliases": [
+        "Édouard Philippe"
+      ],
+      "statut": "declare",
+      "source_statut": "Cité parmi les candidats déclarés (France 24, 24 mai 2026) ; date non vérifiée"
+    },
+    {
+      "id": "glucksmann",
+      "name": "Raphaël Glucksmann",
+      "wiki": "Raphaël Glucksmann",
+      "party": "Place publique / PS",
+      "badge": "PP-PS",
+      "color": "#D9468F",
+      "main": true,
+      "aliases": [
+        "Glucksmann"
+      ],
+      "statut": "declare",
+      "source_statut": "Déclaré le 23 août 2026, vainqueur de la primaire le 11 octobre (note du tableau)"
+    },
+    {
+      "id": "attal",
+      "name": "Gabriel Attal",
+      "wiki": "Gabriel Attal",
+      "party": "Renaissance",
+      "badge": "RE",
+      "color": "#B97F00",
+      "main": true,
+      "aliases": [
+        "Gabriel Attal",
+        "Attal"
+      ],
+      "statut": "declare",
+      "source_statut": "Déclaré le 22 mai 2026 (note du tableau)"
+    },
+    {
+      "id": "zemmour",
+      "name": "Éric Zemmour",
+      "wiki": "Éric Zemmour",
+      "party": "Reconquête",
+      "badge": "REC",
+      "color": "#7B52AE",
+      "main": true,
+      "aliases": [
+        "Zemmour"
+      ],
+      "statut": "declare",
+      "source_statut": "Déclaré le 17 septembre 2026 (note du tableau)"
+    },
+    {
+      "id": "retailleau",
+      "name": "Bruno Retailleau",
+      "wiki": "Bruno Retailleau",
+      "party": "Les Républicains",
+      "badge": "LR",
+      "color": "#0E9F8A",
+      "main": true,
+      "aliases": [
+        "Retailleau"
+      ],
+      "statut": "declare",
+      "source_statut": "Désigné par les adhérents LR en avril 2026 (note du tableau)"
+    },
+    {
+      "id": "lisnard",
+      "name": "David Lisnard",
+      "wiki": "David Lisnard",
+      "party": "Nouvelle Énergie",
+      "badge": "NE",
+      "color": "#A0522D",
+      "main": true,
+      "aliases": [
+        "Lisnard"
+      ],
+      "statut": "declare",
+      "source_statut": "Déclaré le 31 mars 2026 (France 24, 24 mai 2026)"
+    },
+    {
+      "id": "roussel",
+      "name": "Fabien Roussel",
+      "wiki": "Fabien Roussel",
+      "party": "Parti communiste français",
+      "badge": "PCF",
+      "color": "#B3261E",
+      "main": false,
+      "aliases": [
+        "Fabien Roussel",
+        "Roussel"
+      ],
+      "statut": "declare",
+      "source_statut": "Déclaré le 6 septembre 2026 (note du tableau)"
+    },
+    {
+      "id": "dupontaignan",
+      "name": "Nicolas Dupont-Aignan",
+      "wiki": "Nicolas Dupont-Aignan",
+      "party": "Debout la France",
+      "badge": "DLF",
+      "color": "#3A6EA5",
+      "main": false,
+      "aliases": [
+        "Dupont-Aignan"
+      ],
+      "statut": "declare",
+      "source_statut": "Déclaré le 19 septembre 2026 (note du tableau)"
+    },
+    {
+      "id": "arthaud",
+      "name": "Nathalie Arthaud",
+      "wiki": "Nathalie Arthaud",
+      "party": "Lutte ouvrière",
+      "badge": "LO",
+      "color": "#8B1A1A",
+      "main": false,
+      "aliases": [
+        "Nathalie Arthaud",
+        "Arthaud"
+      ],
+      "statut": "declare",
+      "source_statut": "Déclarée le 8 décembre 2025 (note du tableau)"
+    }
   ]
 }

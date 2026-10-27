@@ -10,7 +10,7 @@ import sys
 from datetime import date, datetime, timedelta
 from pathlib import Path
 
-from . import model, news, polls, social
+from . import model, news, polls, social, youtube
 
 ROOT = Path(__file__).resolve().parent.parent
 DATA = Path("data")
@@ -18,6 +18,8 @@ POLLS_FILE = DATA / "polls.json"
 EVENTS_FILE = DATA / "events.json"
 INTERVIEWS_FILE = DATA / "interviews.json"
 FOLLOWERS_FILE = DATA / "followers.json"
+YOUTUBE_FILE = DATA / "youtube.json"
+YOUTUBE_CHANNELS = Path("config/youtube_channels.json")
 PARTIES_FILE = Path("config/parties.json")
 OUTPUT = Path("live_data.json")
 ANALYSE_DAYS = 3       # jours récents (re)vérifiés à chaque exécution
@@ -73,6 +75,16 @@ def main():
         _save(DATA / "feed_status.json", feed_status)
         ok = sum(1 for f in feed_status if f["ok"])
         print(f"✅ Presse : {ok}/{len(feed_status)} flux lus, {added} nouveaux articles")
+
+    # 2b. Chaînes YouTube (automatique : une fois par jour)
+    youtube_doc = _load(YOUTUBE_FILE, {"snapshots": []})
+    youtube_status = []
+    if not args.no_fetch:
+        channels = _load(YOUTUBE_CHANNELS, {"channels": []})["channels"]
+        snapshots, youtube_status = youtube.collect(channels, today)
+        youtube_doc["snapshots"] = youtube.add_snapshots(youtube_doc["snapshots"], snapshots)
+        _save(YOUTUBE_FILE, youtube_doc)
+        print(f"✅ YouTube : {len(snapshots)} chaîne(s) relevée(s)")
 
     # 3. Analyse Claude + 4. événements
     events = _load(EVENTS_FILE, {"checked_days": [], "events": []})
@@ -135,7 +147,20 @@ def main():
 
     parties = _load(PARTIES_FILE, {"parties": []})["parties"]
     followers_doc = _load(FOLLOWERS_FILE, {"entries": []})
-    followers = social.build_followers(followers_doc["entries"], candidates, parties, today)
+    influencers = _load(Path("config/influencers.json"), {"influencers": []})["influencers"]
+    followers = social.build_followers(followers_doc["entries"], candidates, parties, influencers, today)
+    yt_channels = _load(YOUTUBE_CHANNELS, {"channels": []})["channels"]
+    yt_series = youtube.build_series(youtube_doc["snapshots"], yt_channels)
+    influencer_rows = []
+    for inf in influencers:
+        yt = yt_series["influencers"]
+        yt_latest = next((s["latest"] for s in yt if s["id"] == inf["id"]), None)
+        influencer_rows.append({
+            "id": inf["id"], "name": inf["name"], "party": inf["party"], "statut": inf["statut"], "note": inf.get("note", ""),
+            "followers": social.total(followers_doc["entries"], inf["id"], today),
+            "youtube_views": yt_latest["views"] if yt_latest else None,
+            "youtube_subscribers": yt_latest["subscribers"] if yt_latest else None,
+        })
     interviews = [i for i in interviews_doc["interviews"] if i["date"] >= (today - timedelta(days=HISTORY_DAYS)).isoformat()]
 
     total_articles = sum(len(a) for a in days.values())
@@ -151,6 +176,9 @@ def main():
         "media_by_outlet": model.outlet_matrix(days, candidates, today),
         "events": all_events[:40],
         "followers": followers,
+        "youtube": yt_series,
+        "influencers": influencer_rows,
+        "youtube_status": youtube_status,
         "parties": [{k: p[k] for k in ("id", "name", "badge", "color")} for p in parties],
         "interviews": interviews,
         "interview_summary": social.interview_summary(interviews, [c["id"] for c in candidates]),
