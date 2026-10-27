@@ -1,64 +1,14 @@
 const candidateConfig = {
-  'Marine Le Pen (RN)': { 
-    color: '#0F172A', 
-    party: 'Rassemblement National', 
-    logoUrl: 'https://upload.wikimedia.org/wikipedia/commons/4/47/Rassemblement_National_logo_2018.svg', 
-    team: 'Bardella, Maréchal, Chenu' 
-  },
-  'Jean-Luc Mélenchon (LFI)': { 
-    color: '#E11D48', 
-    party: 'La France Insoumise', 
-    logoUrl: 'https://upload.wikimedia.org/wikipedia/commons/7/7b/La_France_insoumise_logo_2020.svg', 
-    team: 'Guetté, Bompard, Hassan, Caron, Guiraud' 
-  },
-  'Édouard Philippe (Horizons)': { 
-    color: '#2563EB', 
-    party: 'Horizons', 
-    logoUrl: 'https://upload.wikimedia.org/wikipedia/commons/7/78/Logo_Horizons_2021.svg', 
-    team: 'Le Gendre, Naegelen' 
-  },
-  'Gabriel Attal (Renaissance)': { 
-    color: '#0284C7', 
-    party: 'Renaissance', 
-    logoUrl: 'https://upload.wikimedia.org/wikipedia/commons/e/e7/Logo_Renaissance_2022.svg', 
-    team: 'Borne, Darmanin, Séjourné' 
-  },
-  'Raphaël Glucksmann (PP/PS)': { 
-    color: '#EC4899', 
-    party: 'Place Publique / PS', 
-    logoUrl: 'https://upload.wikimedia.org/wikipedia/commons/6/6d/Logo_Parti_socialiste_2018.svg', 
-    team: 'Faure, Delga' 
-  },
-  'François Hollande (PS)': { 
-    color: '#F43F5E', 
-    party: 'Parti Socialiste', 
-    logoUrl: 'https://upload.wikimedia.org/wikipedia/commons/6/6d/Logo_Parti_socialiste_2018.svg', 
-    team: 'Vallaud, Mayer-Rossignol' 
-  },
-  'Bruno Retailleau (LR)': { 
-    color: '#1E3A8A', 
-    party: 'Les Républicains', 
-    logoUrl: 'https://upload.wikimedia.org/wikipedia/commons/9/93/Logo_Les_R%C3%A9publicains_2015.svg', 
-    team: 'Wauquiez, Pécresse' 
-  },
-  'Dominique de Villepin (DVD)': { 
-    color: '#475569', 
-    party: 'Divers Droite', 
-    logoUrl: 'https://upload.wikimedia.org/wikipedia/commons/4/4d/Logo_UMP.svg', 
-    team: 'Gaullistes indépendants' 
-  },
-  'Éric Zemmour (Reconquête)': { 
-    color: '#7C3AED', 
-    party: 'Reconquête', 
-    logoUrl: 'https://upload.wikimedia.org/wikipedia/commons/4/43/Logo_Reconqu%C3%AAte_%282021%29.svg', 
-    team: 'Knafo, Meunier' 
-  },
-  'David Lisnard (Nouvelle Énergie)': { 
-    color: '#0D9488', 
-    party: 'Nouvelle Énergie', 
-    logoUrl: 'https://upload.wikimedia.org/wikipedia/commons/6/62/Logo_New_Energy_%28symbol%29.svg', 
-    team: 'Collectifs d’élus locaux' 
-  }
+  'Marine Le Pen (RN)': { color: '#0F172A', party: 'Rassemblement National', badge: 'RN', team: 'Bardella, Maréchal, Chenu' },
+  'Jean-Luc Mélenchon (LFI)': { color: '#E11D48', party: 'La France Insoumise', badge: 'LFI', team: 'Guetté, Bompard, Hassan, Caron, Guiraud' },
+  'Édouard Philippe (Horizons)': { color: '#2563EB', party: 'Horizons', badge: 'HORIZONS', team: 'Le Gendre, Naegelen' },
+  'Gabriel Attal (Renaissance)': { color: '#0284C7', party: 'Renaissance', badge: 'RENAISSANCE', team: 'Borne, Darmanin, Séjourné' },
+  'Raphaël Glucksmann (PP/PS)': { color: '#EC4899', party: 'Place Publique / PS', badge: 'PP-PS', team: 'Faure, Delga' },
+  'François Hollande (PS)': { color: '#F43F5E', party: 'Parti Socialiste', badge: 'PS', team: 'Vallaud, Mayer-Rossignol' },
+  'Bruno Retailleau (LR)': { color: '#1E3A8A', party: 'Les Républicains', badge: 'LR', team: 'Wauquiez, Pécresse' },
+  'Dominique de Villepin (DVD)': { color: '#475569', party: 'Divers Droite', badge: 'DVD', team: 'Gaullistes indépendants' },
+  'Éric Zemmour (Reconquête)': { color: '#7C3AED', party: 'Reconquête', badge: 'RECONQUÊTE', team: 'Knafo, Meunier' },
+  'David Lisnard (Nouvelle Énergie)': { color: '#0D9488', party: 'Nouvelle Énergie', badge: 'NE', team: 'Collectifs d’élus locaux' }
 };
 
 let globalData = null;
@@ -78,7 +28,7 @@ async function renderDashboard() {
     select.innerHTML = '<option value="ALL">Tous les candidats (Vue d\'ensemble)</option>';
     Object.keys(candidateConfig).forEach(cand => {
       const cfg = candidateConfig[cand];
-      select.innerHTML += `<option value="${cand}">${cand} - [${cfg.party}]</option>`;
+      select.innerHTML += `<option value="${cand}">[${cfg.badge}] ${cand}</option>`;
     });
 
     renderEvents();
@@ -120,7 +70,7 @@ function updateCharts(selectedCandidate) {
   const calcContainer = document.getElementById('calculatorResults');
 
   calcContainer.innerHTML = candidates.map(cand => {
-    const cfg = candidateConfig[cand] || { party: '', logoUrl: '' };
+    const cfg = candidateConfig[cand] || { party: '', badge: '' };
     const vStart = firstDay.voting_intentions[cand] || 0;
     const vEnd = lastDay.voting_intentions[cand] || 0;
     const vDiff = (vEnd - vStart).toFixed(1);
@@ -133,12 +83,14 @@ function updateCharts(selectedCandidate) {
     const fColor = fDiff >= 0 ? 'text-emerald-600' : 'text-rose-600';
 
     return `
-      <div class="bg-slate-50 border border-slate-200 rounded-xl p-3 flex-1 min-w-[240px] shadow-sm flex items-center gap-3">
-        <img src="${cfg.logoUrl}" alt="${cfg.party}" class="w-8 h-8 object-contain bg-white p-1 rounded-lg border border-slate-200 shrink-0" onerror="this.style.display='none'">
-        <div class="overflow-hidden flex-1">
-          <div class="font-bold text-slate-800 text-xs truncate">${cand}</div>
-          <div class="text-[10px] text-slate-400 truncate">${cfg.party}</div>
-          <div class="text-[11px] text-slate-600 mt-0.5">Intentions : <span class="font-extrabold ${vColor}">${vDiff > 0 ? '+' : ''}${vDiff}%</span></div>
+      <div class="bg-slate-50 border border-slate-200 rounded-xl p-3.5 flex-1 min-w-[240px] shadow-sm flex items-center justify-between">
+        <div>
+          <div class="flex items-center gap-1.5 mb-1">
+            <span class="px-2 py-0.5 rounded text-[10px] font-extrabold text-white" style="background-color: ${cfg.color}">${cfg.badge}</span>
+            <span class="text-[10px] text-slate-400 font-semibold">${cfg.party}</span>
+          </div>
+          <div class="font-extrabold text-slate-900 text-xs">${cand}</div>
+          <div class="text-[11px] text-slate-600 mt-1">Intentions : <span class="font-extrabold ${vColor}">${vDiff > 0 ? '+' : ''}${vDiff}%</span></div>
           <div class="text-[11px] text-slate-600">Followers : <span class="font-extrabold ${fColor}">${fDiff > 0 ? '+' : ''}${fDiff}M</span></div>
         </div>
       </div>
