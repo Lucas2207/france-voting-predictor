@@ -1,3 +1,10 @@
+/**
+ * @typedef {{ color: string, party: string, badge: string, team: string }} CandidateConfig
+ * @typedef {{ date: string, voting_intentions: Record<string, number>, social_media_followers_m: Record<string, number> }} HistoryEntry
+ * @typedef {{ last_updated?: string, start_date?: string, end_date?: string, events?: Record<string, { title: string, desc: string }>, history?: HistoryEntry[] }} LiveData
+ */
+
+/** @type {Record<string, CandidateConfig>} */
 const candidateConfig = {
   'Marine Le Pen (RN)': { color: '#0F172A', party: 'Rassemblement National', badge: 'RN', team: 'Bardella, Maréchal, Chenu' },
   'Jean-Luc Mélenchon (LFI)': { color: '#E11D48', party: 'La France Insoumise', badge: 'LFI', team: 'Guetté, Bompard, Hassan, Caron, Guiraud' },
@@ -11,9 +18,22 @@ const candidateConfig = {
   'David Lisnard (Nouvelle Énergie)': { color: '#0D9488', party: 'Nouvelle Énergie', badge: 'NE', team: 'Collectifs d’élus locaux' }
 };
 
-let globalData = null;
+/** @type {LiveData} */
+let globalData = {};
+/** @type {Chart | null} */
 let chartVoting = null;
+/** @type {Chart | null} */
 let chartSocial = null;
+
+/**
+ * @param {string} id
+ * @returns {HTMLElement}
+ */
+function $(id) {
+  const el = document.getElementById(id);
+  if (!el) throw new Error(`Élément introuvable : #${id}`);
+  return el;
+}
 
 async function renderDashboard() {
   try {
@@ -21,10 +41,10 @@ async function renderDashboard() {
     if (!response.ok) throw new Error(`Erreur HTTP : ${response.status}`);
     globalData = await response.json();
 
-    document.getElementById('lastUpdated').innerText = `Mis à jour : ${globalData.last_updated || 'Aujourd\'hui'}`;
-    document.getElementById('calculatorTitle').innerText = `📊 Calculateur d'évolution (Du ${globalData.start_date || '01 Oct'} au ${globalData.end_date || 'Aujourd\'hui'})`;
+    $('lastUpdated').innerText = `Mis à jour : ${globalData.last_updated || 'Aujourd\'hui'}`;
+    $('calculatorTitle').innerText = `📊 Calculateur d'évolution (Du ${globalData.start_date || '01 Oct'} au ${globalData.end_date || 'Aujourd\'hui'})`;
 
-    const select = document.getElementById('candidateSelect');
+    const select = $('candidateSelect');
     select.innerHTML = '<option value="ALL">Tous les candidats (Vue d\'ensemble)</option>';
     Object.keys(candidateConfig).forEach(cand => {
       const cfg = candidateConfig[cand];
@@ -39,7 +59,7 @@ async function renderDashboard() {
 }
 
 function renderEvents() {
-  const container = document.getElementById('eventsContainer');
+  const container = $('eventsContainer');
   if (!globalData.events) return;
 
   container.innerHTML = Object.entries(globalData.events).map(([date, ev]) => `
@@ -58,6 +78,7 @@ function renderEvents() {
   `).join('');
 }
 
+/** @param {string} selectedCandidate */
 function updateCharts(selectedCandidate) {
   const history = globalData.history || [];
   if (history.length === 0) return;
@@ -67,17 +88,17 @@ function updateCharts(selectedCandidate) {
 
   const firstDay = history[0];
   const lastDay = history[history.length - 1];
-  const calcContainer = document.getElementById('calculatorResults');
+  const calcContainer = $('calculatorResults');
 
   calcContainer.innerHTML = candidates.map(cand => {
-    const cfg = candidateConfig[cand] || { party: '', badge: '' };
+    const cfg = candidateConfig[cand] || { color: '', party: '', badge: '', team: '' };
     const vStart = firstDay.voting_intentions[cand] || 0;
     const vEnd = lastDay.voting_intentions[cand] || 0;
-    const vDiff = (vEnd - vStart).toFixed(1);
+    const vDiff = Number((vEnd - vStart).toFixed(1));
 
     const fStart = firstDay.social_media_followers_m[cand] || 0;
     const fEnd = lastDay.social_media_followers_m[cand] || 0;
-    const fDiff = (fEnd - fStart).toFixed(2);
+    const fDiff = Number((fEnd - fStart).toFixed(2));
 
     const vColor = vDiff >= 0 ? 'text-emerald-600' : 'text-rose-600';
     const fColor = fDiff >= 0 ? 'text-emerald-600' : 'text-rose-600';
@@ -90,8 +111,8 @@ function updateCharts(selectedCandidate) {
             <span class="text-[10px] text-slate-400 font-semibold">${cfg.party}</span>
           </div>
           <div class="font-extrabold text-slate-900 text-xs">${cand}</div>
-          <div class="text-[11px] text-slate-600 mt-1">Intentions : <span class="font-extrabold ${vColor}">${vDiff > 0 ? '+' : ''}${vDiff}%</span></div>
-          <div class="text-[11px] text-slate-600">Followers : <span class="font-extrabold ${fColor}">${fDiff > 0 ? '+' : ''}${fDiff}M</span></div>
+          <div class="text-[11px] text-slate-600 mt-1">Intentions : <span class="font-extrabold ${vColor}">${vDiff > 0 ? '+' : ''}${vDiff.toFixed(1)}%</span></div>
+          <div class="text-[11px] text-slate-600">Followers : <span class="font-extrabold ${fColor}">${fDiff > 0 ? '+' : ''}${fDiff.toFixed(2)}M</span></div>
         </div>
       </div>
     `;
@@ -119,6 +140,10 @@ function updateCharts(selectedCandidate) {
     pointHoverRadius: 6
   }));
 
+  /**
+   * @param {string} unit
+   * @param {boolean} [isSocial]
+   */
   const getOptions = (unit, isSocial = false) => ({
     responsive: true,
     maintainAspectRatio: false,
@@ -139,15 +164,15 @@ function updateCharts(selectedCandidate) {
         padding: 14,
         cornerRadius: 10,
         usePointStyle: true,
-        itemSort: (a, b) => b.raw - a.raw,
+        itemSort: (/** @type {any} */ a, /** @type {any} */ b) => b.raw - a.raw,
         callbacks: {
-          afterBody: (items) => {
+          afterBody: (/** @type {any[]} */ items) => {
             return items.map(item => {
               const cfg = candidateConfig[item.dataset.label];
               return cfg ? `   ↳ Équipe / Figures : ${cfg.team}` : '';
             });
           },
-          afterTitle: (items) => {
+          afterTitle: (/** @type {any[]} */ items) => {
             const date = items[0].label;
             return globalData.events && globalData.events[date] ? `📍 Crise : ${globalData.events[date].title}` : '';
           }
@@ -159,7 +184,7 @@ function updateCharts(selectedCandidate) {
       y: { 
         grid: { color: '#F1F5F9' }, 
         suggestedMin: isSocial ? 0 : undefined,
-        ticks: { color: '#64748B', font: { size: 10 }, callback: v => `${v}${unit}` } 
+        ticks: { color: '#64748B', font: { size: 10 }, callback: (/** @type {number | string} */ v) => `${v}${unit}` } 
       }
     }
   });
@@ -167,13 +192,13 @@ function updateCharts(selectedCandidate) {
   if (chartVoting) chartVoting.destroy();
   if (chartSocial) chartSocial.destroy();
 
-  chartVoting = new Chart(document.getElementById('votingChart').getContext('2d'), {
+  chartVoting = new Chart(/** @type {HTMLCanvasElement} */ ($('votingChart')).getContext('2d'), {
     type: 'line',
     data: { labels: dates, datasets: votingDatasets },
     options: getOptions('%', false)
   });
 
-  chartSocial = new Chart(document.getElementById('socialChart').getContext('2d'), {
+  chartSocial = new Chart(/** @type {HTMLCanvasElement} */ ($('socialChart')).getContext('2d'), {
     type: 'line',
     data: { labels: dates, datasets: socialDatasets },
     options: getOptions('M', true)
@@ -181,7 +206,7 @@ function updateCharts(selectedCandidate) {
 }
 
 function filterCandidates() {
-  const selected = document.getElementById('candidateSelect').value;
+  const selected = /** @type {HTMLSelectElement} */ ($('candidateSelect')).value;
   updateCharts(selected);
 }
 
