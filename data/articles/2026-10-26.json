@@ -39,6 +39,18 @@
   "published": "2026-10-26T06:07+01:00",
   "mentions": [
    "bardella"
+  ],
+  "analysis": [
+   {
+    "id": "bardella",
+    "tone": -1,
+    "frame": "strategie_alliances"
+   },
+   {
+    "id": "lepen",
+    "tone": 1,
+    "frame": "strategie_alliances"
+   }
   ]
  },
  {
@@ -71,6 +83,13 @@
   "published": "2026-10-26T08:00+01:00",
   "mentions": [
    "philippe"
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": -1,
+    "frame": "economie_social"
+   }
   ]
  },
  {
@@ -93,6 +112,13 @@
   "published": "2026-10-26T08:31+01:00",
   "mentions": [
    "lepen"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": 1,
+    "frame": "programme"
+   }
   ]
  },
  {
@@ -185,6 +211,18 @@
   "published": "2026-10-26T10:57+01:00",
   "mentions": [
    "glucksmann"
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": 0,
+    "frame": "polemique"
+   },
+   {
+    "id": "melenchon",
+    "tone": -1,
+    "frame": "polemique"
+   }
   ]
  },
  {
@@ -197,6 +235,13 @@
   "published": "2026-10-26T10:59+01:00",
   "mentions": [
    "melenchon"
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": -1,
+    "frame": "polemique"
+   }
   ]
  },
  {
@@ -229,6 +274,13 @@
   "published": "2026-10-26T11:17+01:00",
   "mentions": [
    "lepen"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": -1,
+    "frame": "programme"
+   }
   ]
  },
  {
@@ -241,6 +293,13 @@
   "published": "2026-10-26T11:25+01:00",
   "mentions": [
    "lepen"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": -2,
+    "frame": "polemique"
+   }
   ]
  },
  {
@@ -253,6 +312,13 @@
   "published": "2026-10-26T11:38+01:00",
   "mentions": [
    "bardella"
+  ],
+  "analysis": [
+   {
+    "id": "bardella",
+    "tone": -1,
+    "frame": "polemique"
+   }
   ]
  },
  {
@@ -415,6 +481,13 @@
   "published": "2026-10-26T13:36+01:00",
   "mentions": [
    "lepen"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": -1,
+    "frame": "programme"
+   }
   ]
  },
  {
@@ -498,6 +571,18 @@
   "mentions": [
    "lepen",
    "bardella"
+  ],
+  "analysis": [
+   {
+    "id": "bardella",
+    "tone": -1,
+    "frame": "polemique"
+   },
+   {
+    "id": "lepen",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
   ]
  },
  {
@@ -530,6 +615,13 @@
   "published": "2026-10-26T14:40+01:00",
   "mentions": [
    "lepen"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": 0,
+    "frame": "polemique"
+   }
   ]
  },
  {
@@ -602,6 +694,13 @@
   "published": "2026-10-26T15:28+01:00",
   "mentions": [
    "glucksmann"
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
   ]
  },
  {
@@ -615,6 +714,18 @@
   "mentions": [
    "glucksmann",
    "tondelier"
+  ],
+  "analysis": [
+   {
+    "id": "tondelier",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   },
+   {
+    "id": "glucksmann",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
   ]
  },
  {
@@ -638,6 +749,18 @@
   "mentions": [
    "melenchon",
    "lisnard"
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": -1,
+    "frame": "securite"
+   },
+   {
+    "id": "lisnard",
+    "tone": 0,
+    "frame": "securite"
+   }
   ]
  },
  {
@@ -650,6 +773,13 @@
   "published": "2026-10-26T16:00+01:00",
   "mentions": [
    "lepen"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": -1,
+    "frame": "programme"
+   }
   ]
  },
  {
@@ -862,7 +992,8 @@
   "published": "2026-10-26T18:01+01:00",
   "mentions": [
    "lepen"
-  ]
+  ],
+  "analysis": []
  },
  {
   "id": "d3ea755cb77dafc2",
@@ -1134,6 +1265,13 @@
   "published": "2026-10-26T20:41+01:00",
   "mentions": [
    "bardella"
+  ],
+  "analysis": [
+   {
+    "id": "bardella",
+    "tone": -2,
+    "frame": "polemique"
+   }
   ]
  },
  {
@@ -1146,6 +1284,13 @@
   "published": "2026-10-26T20:47+01:00",
   "mentions": [
    "lepen"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": -2,
+    "frame": "polemique"
+   }
   ]
  },
  {
@@ -1159,6 +1304,18 @@
   "mentions": [
    "lepen",
    "bardella"
+  ],
+  "analysis": [
+   {
+    "id": "bardella",
+    "tone": -2,
+    "frame": "polemique"
+   },
+   {
+    "id": "lepen",
+    "tone": -1,
+    "frame": "polemique"
+   }
   ]
  },
  {
@@ -1312,6 +1469,18 @@
   "mentions": [
    "lepen",
    "melenchon"
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": 0,
+    "frame": "portrait"
+   },
+   {
+    "id": "lepen",
+    "tone": 0,
+    "frame": "portrait"
+   }
   ]
  },
  {
@@ -1324,6 +1493,13 @@
   "published": "2026-10-26T22:25+01:00",
   "mentions": [
    "melenchon"
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": 0,
+    "frame": "securite"
+   }
   ]
  },
  {

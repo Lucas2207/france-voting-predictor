@@ -42,6 +42,28 @@
    "melenchon",
    "philippe",
    "glucksmann"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": 1,
+    "frame": "sondage_dynamique"
+   },
+   {
+    "id": "melenchon",
+    "tone": 1,
+    "frame": "sondage_dynamique"
+   },
+   {
+    "id": "philippe",
+    "tone": -1,
+    "frame": "sondage_dynamique"
+   },
+   {
+    "id": "glucksmann",
+    "tone": -1,
+    "frame": "sondage_dynamique"
+   }
   ]
  },
  {
@@ -54,6 +76,13 @@
   "published": "2026-10-25T07:06+01:00",
   "mentions": [
    "lisnard"
+  ],
+  "analysis": [
+   {
+    "id": "lisnard",
+    "tone": 1,
+    "frame": "sondage_dynamique"
+   }
   ]
  },
  {
@@ -216,6 +245,13 @@
   "published": "2026-10-25T16:00+01:00",
   "mentions": [
    "lepen"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": 0,
+    "frame": "programme"
+   }
   ]
  },
  {
@@ -238,6 +274,13 @@
   "published": "2026-10-25T16:00+01:00",
   "mentions": [
    "glucksmann"
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": -1,
+    "frame": "strategie_alliances"
+   }
   ]
  },
  {
@@ -290,6 +333,13 @@
   "published": "2026-10-25T18:28+01:00",
   "mentions": [
    "lepen"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": -1,
+    "frame": "polemique"
+   }
   ]
  },
  {
@@ -312,6 +362,13 @@
   "published": "2026-10-25T18:54+01:00",
   "mentions": [
    "lepen"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": -1,
+    "frame": "polemique"
+   }
   ]
  },
  {
@@ -324,6 +381,13 @@
   "published": "2026-10-25T18:55+01:00",
   "mentions": [
    "lepen"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": -2,
+    "frame": "polemique"
+   }
   ]
  },
  {
@@ -376,6 +440,13 @@
   "published": "2026-10-25T19:41+01:00",
   "mentions": [
    "bardella"
+  ],
+  "analysis": [
+   {
+    "id": "bardella",
+    "tone": -1,
+    "frame": "polemique"
+   }
   ]
  },
  {
@@ -409,6 +480,18 @@
   "mentions": [
    "lepen",
    "bardella"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": 0,
+    "frame": "programme"
+   },
+   {
+    "id": "bardella",
+    "tone": 0,
+    "frame": "autre"
+   }
   ]
  },
  {
@@ -432,6 +515,18 @@
   "mentions": [
    "lepen",
    "melenchon"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": 0,
+    "frame": "programme"
+   },
+   {
+    "id": "melenchon",
+    "tone": 1,
+    "frame": "sondage_dynamique"
+   }
   ]
  },
  {

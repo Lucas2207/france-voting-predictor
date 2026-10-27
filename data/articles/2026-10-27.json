@@ -79,6 +79,13 @@
   "published": "2026-10-27T05:00+01:00",
   "mentions": [
    "lepen"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": -1,
+    "frame": "justice_affaires"
+   }
   ]
  },
  {
@@ -92,6 +99,18 @@
   "mentions": [
    "melenchon",
    "glucksmann"
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   },
+   {
+    "id": "melenchon",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
   ]
  },
  {
@@ -285,6 +304,18 @@
   "mentions": [
    "lepen",
    "melenchon"
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": 2,
+    "frame": "sondage_dynamique"
+   },
+   {
+    "id": "lepen",
+    "tone": 1,
+    "frame": "sondage_dynamique"
+   }
   ]
  },
  {
@@ -317,6 +348,13 @@
   "published": "2026-10-27T07:30+01:00",
   "mentions": [
    "retailleau"
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": 0,
+    "frame": "programme"
+   }
   ]
  },
  {
@@ -389,6 +427,13 @@
   "published": "2026-10-27T08:02+01:00",
   "mentions": [
    "lepen"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": -1,
+    "frame": "programme"
+   }
   ]
  },
  {
@@ -441,6 +486,13 @@
   "published": "2026-10-27T08:34+01:00",
   "mentions": [
    "lepen"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": -1,
+    "frame": "programme"
+   }
   ]
  },
  {
@@ -613,6 +665,13 @@
   "published": "2026-10-27T09:35+01:00",
   "mentions": [
    "glucksmann"
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": 0,
+    "frame": "autre"
+   }
   ]
  },
  {
@@ -836,6 +895,18 @@
   "mentions": [
    "philippe",
    "retailleau"
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   },
+   {
+    "id": "philippe",
+    "tone": -1,
+    "frame": "strategie_alliances"
+   }
   ]
  },
  {
@@ -958,6 +1029,13 @@
   "published": "2026-10-27T10:51+01:00",
   "mentions": [
    "bardella"
+  ],
+  "analysis": [
+   {
+    "id": "bardella",
+    "tone": 0,
+    "frame": "polemique"
+   }
   ]
  },
  {
@@ -980,6 +1058,13 @@
   "published": "2026-10-27T10:51+01:00",
   "mentions": [
    "lepen"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": 0,
+    "frame": "portrait"
+   }
   ]
  },
  {
@@ -1022,6 +1107,13 @@
   "published": "2026-10-27T10:51+01:00",
   "mentions": [
    "bardella"
+  ],
+  "analysis": [
+   {
+    "id": "bardella",
+    "tone": 0,
+    "frame": "portrait"
+   }
   ]
  },
  {
@@ -1034,6 +1126,13 @@
   "published": "2026-10-27T10:51+01:00",
   "mentions": [
    "tondelier"
+  ],
+  "analysis": [
+   {
+    "id": "tondelier",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
   ]
  },
  {
@@ -1066,6 +1165,13 @@
   "published": "2026-10-27T10:51+01:00",
   "mentions": [
    "villepin"
+  ],
+  "analysis": [
+   {
+    "id": "villepin",
+    "tone": 0,
+    "frame": "polemique"
+   }
   ]
  },
  {
@@ -1078,6 +1184,18 @@
   "published": "2026-10-27T10:51+01:00",
   "mentions": [
    "glucksmann"
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": 0,
+    "frame": "polemique"
+   },
+   {
+    "id": "melenchon",
+    "tone": -1,
+    "frame": "polemique"
+   }
   ]
  },
  {
@@ -1092,6 +1210,23 @@
    "lepen",
    "melenchon",
    "philippe"
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": -1,
+    "frame": "sondage_dynamique"
+   },
+   {
+    "id": "melenchon",
+    "tone": 1,
+    "frame": "sondage_dynamique"
+   },
+   {
+    "id": "lepen",
+    "tone": 1,
+    "frame": "sondage_dynamique"
+   }
   ]
  },
  {
@@ -1184,6 +1319,13 @@
   "published": "2026-10-27T10:51+01:00",
   "mentions": [
    "lepen"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": -1,
+    "frame": "portrait"
+   }
   ]
  },
  {
@@ -1196,6 +1338,13 @@
   "published": "2026-10-27T10:51+01:00",
   "mentions": [
    "bardella"
+  ],
+  "analysis": [
+   {
+    "id": "bardella",
+    "tone": 1,
+    "frame": "strategie_alliances"
+   }
   ]
  },
  {
@@ -1218,6 +1367,13 @@
   "published": "2026-10-27T10:51+01:00",
   "mentions": [
    "bardella"
+  ],
+  "analysis": [
+   {
+    "id": "bardella",
+    "tone": -1,
+    "frame": "polemique"
+   }
   ]
  },
  {
@@ -1251,6 +1407,18 @@
   "mentions": [
    "retailleau",
    "lisnard"
+  ],
+  "analysis": [
+   {
+    "id": "lisnard",
+    "tone": 1,
+    "frame": "sondage_dynamique"
+   },
+   {
+    "id": "retailleau",
+    "tone": -1,
+    "frame": "sondage_dynamique"
+   }
   ]
  },
  {
@@ -1313,6 +1481,13 @@
   "published": "2026-10-27T10:51+01:00",
   "mentions": [
    "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "autre"
+   }
   ]
  },
  {
@@ -1326,6 +1501,18 @@
   "mentions": [
    "melenchon",
    "glucksmann"
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": 1,
+    "frame": "strategie_alliances"
+   },
+   {
+    "id": "glucksmann",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
   ]
  },
  {
@@ -1410,6 +1597,28 @@
    "lepen",
    "melenchon",
    "attal"
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": 1,
+    "frame": "sondage_dynamique"
+   },
+   {
+    "id": "lepen",
+    "tone": 1,
+    "frame": "sondage_dynamique"
+   },
+   {
+    "id": "philippe",
+    "tone": -2,
+    "frame": "sondage_dynamique"
+   },
+   {
+    "id": "attal",
+    "tone": -2,
+    "frame": "sondage_dynamique"
+   }
   ]
  },
  {
@@ -1442,6 +1651,13 @@
   "published": "2026-10-27T10:51+01:00",
   "mentions": [
    "bardella"
+  ],
+  "analysis": [
+   {
+    "id": "bardella",
+    "tone": 1,
+    "frame": "strategie_alliances"
+   }
   ]
  },
  {
@@ -1454,6 +1670,13 @@
   "published": "2026-10-27T10:51+01:00",
   "mentions": [
    "lepen"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": -1,
+    "frame": "securite"
+   }
   ]
  },
  {
@@ -1546,6 +1769,13 @@
   "published": "2026-10-27T10:51+01:00",
   "mentions": [
    "lepen"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": 0,
+    "frame": "programme"
+   }
   ]
  },
  {
@@ -1620,6 +1850,23 @@
    "melenchon",
    "glucksmann",
    "tondelier"
+  ],
+  "analysis": [
+   {
+    "id": "tondelier",
+    "tone": -1,
+    "frame": "strategie_alliances"
+   },
+   {
+    "id": "melenchon",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   },
+   {
+    "id": "glucksmann",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
   ]
  },
  {
@@ -1653,6 +1900,18 @@
   "mentions": [
    "lepen",
    "bardella"
+  ],
+  "analysis": [
+   {
+    "id": "bardella",
+    "tone": -1,
+    "frame": "portrait"
+   },
+   {
+    "id": "lepen",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
   ]
  },
  {
@@ -1766,6 +2025,18 @@
   "mentions": [
    "lepen",
    "melenchon"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": 1,
+    "frame": "sondage_dynamique"
+   },
+   {
+    "id": "melenchon",
+    "tone": -1,
+    "frame": "sondage_dynamique"
+   }
   ]
  },
  {
@@ -1788,6 +2059,13 @@
   "published": "2026-10-27T10:51+01:00",
   "mentions": [
    "glucksmann"
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": -1,
+    "frame": "sondage_dynamique"
+   }
   ]
  },
  {
@@ -1860,6 +2138,13 @@
   "published": "2026-10-27T10:51+01:00",
   "mentions": [
    "glucksmann"
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": -1,
+    "frame": "polemique"
+   }
   ]
  },
  {
@@ -1880,6 +2165,16 @@
   "title": "Un immeuble de Marseille ravagé par un incendie, cinq appartements détruits et des familles à reloger",
   "summary": "Plusieurs logements d’un immeuble du IIIe arrondissement de Marseille (Bouches-du-Rhône) ont été détruits par un incendie, samedi 25 octobre. Personne n’a été grièvement blessée, mais cinq familles vont devoir être relogées.",
   "published": "2026-10-27T10:55+01:00",
+  "mentions": []
+ },
+ {
+  "id": "0734b8c8601f7f84",
+  "outlet": "Ouest-France",
+  "lean": "centre",
+  "url": "https://www.ouest-france.fr/economie/artisanat/du-champ-a-la-sortie-du-four-cette-boulangere-mise-sur-lautonomie-et-fabrique-son-pain-de-a-a-z-024fb030-ce02-11f1-9fc5-d7c44b31aa3d",
+  "title": "Du champ à la sortie du four, cette boulangère mise sur l’autonomie et fabrique son pain de A à Z",
+  "summary": "À Ballots, Mélanie Sabin cultive l’autonomie, du semis à la cuisson du pain. Depuis son installation en 2020, la paysanne boulangère a développé sa production et diversifié ses produits. Un métier exigeant, porté par la passion, le goût du fait maison et de belles rencontres.",
+  "published": "2026-10-27T10:59+01:00",
   "mentions": []
  },
  {
@@ -1932,6 +2227,13 @@
   "published": "2026-10-27T11:06+01:00",
   "mentions": [
    "hollande"
+  ],
+  "analysis": [
+   {
+    "id": "hollande",
+    "tone": 0,
+    "frame": "economie_social"
+   }
   ]
  },
  {
@@ -1984,6 +2286,13 @@
   "published": "2026-10-27T11:14+01:00",
   "mentions": [
    "hollande"
+  ],
+  "analysis": [
+   {
+    "id": "hollande",
+    "tone": 0,
+    "frame": "economie_social"
+   }
   ]
  },
  {
@@ -2014,6 +2323,26 @@
   "title": "Cambriolage d’objets de plus d’un million d’euros d’objets de luxe à Paris : un peintre mis en examen et incarcéré",
   "summary": "Un quinquagénaire a été mis en examen et incarcéré pour vol aggravé vendredi 23 octobre à Paris. Il est soupçonné d’avoir volé de nombreux objets de valeur dans un appartement du VIe arrondissement en avril 2023, dont des pièces d’or et des bijoux de luxe. Le préjudice total s’élève à plus d’un million d’euros.",
   "published": "2026-10-27T11:18+01:00",
+  "mentions": []
+ },
+ {
+  "id": "4bbc3a8505b3bc3b",
+  "outlet": "BFMTV",
+  "lean": "centre",
+  "url": "https://www.bfmtv.com/politique/video-colere-lyceenne-le-depute-lfi-louis-boyard-denonce-une-forme-d-enfumage-du-gouvernement_VN-202610270379.html",
+  "title": "Colère lycéenne: le député LFI Louis Boyard dénonce \"une forme d'enfumage\" du gouvernement",
+  "summary": "Le député LFI Louis Boyard a fustigé, ce mardi 27 octobre 2026, en conférence de presse, la réponse du gouvernement face aux manifestations en parlant d'une \"forme d'enfummage\".",
+  "published": "2026-10-27T11:22+01:00",
+  "mentions": []
+ },
+ {
+  "id": "29f40a1f13c7b4b2",
+  "outlet": "Ouest-France",
+  "lean": "centre",
+  "url": "https://www.ouest-france.fr/societe/justice/il-cachait-plus-de-21-000-euros-dans-son-canape-un-homme-de-35-ans-condamne-pour-blanchiment-dargent-a-meaux-7fe99b1e-d1ef-11f1-807c-c0c44a88b55f",
+  "title": "Il cachait plus de 21 000 € dans son canapé : un homme de 35 ans condamné pour blanchiment d’argent à Meaux",
+  "summary": "Un homme de 35 ans a été jugé pour blanchiment d’argent début octobre par le tribunal correctionnel de Meaux (Seine-et-Marne). Dans le cadre d’une plainte pour agression sexuelle, le domicile de l’homme avait été perquisitionné et plus de 21 000 € en liquide avaient été découverts, cachés dans le canapé.",
+  "published": "2026-10-27T11:23+01:00",
   "mentions": []
  }
 ]

@@ -39,6 +39,13 @@
   "published": "2026-10-24T06:05+02:00",
   "mentions": [
    "lepen"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": 1,
+    "frame": "strategie_alliances"
+   }
   ]
  },
  {
@@ -71,6 +78,13 @@
   "published": "2026-10-24T07:09+02:00",
   "mentions": [
    "lepen"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
   ]
  },
  {
@@ -93,6 +107,13 @@
   "published": "2026-10-24T07:45+02:00",
   "mentions": [
    "bardella"
+  ],
+  "analysis": [
+   {
+    "id": "bardella",
+    "tone": -1,
+    "frame": "portrait"
+   }
   ]
  },
  {
@@ -165,6 +186,13 @@
   "published": "2026-10-24T09:40+02:00",
   "mentions": [
    "lepen"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": 0,
+    "frame": "autre"
+   }
   ]
  },
  {
@@ -218,6 +246,18 @@
   "mentions": [
    "lepen",
    "bardella"
+  ],
+  "analysis": [
+   {
+    "id": "bardella",
+    "tone": 0,
+    "frame": "justice_affaires"
+   },
+   {
+    "id": "lepen",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
   ]
  },
  {
@@ -260,6 +300,13 @@
   "published": "2026-10-24T15:52+02:00",
   "mentions": [
    "bardella"
+  ],
+  "analysis": [
+   {
+    "id": "bardella",
+    "tone": 1,
+    "frame": "strategie_alliances"
+   }
   ]
  },
  {
@@ -272,6 +319,13 @@
   "published": "2026-10-24T16:04+02:00",
   "mentions": [
    "bardella"
+  ],
+  "analysis": [
+   {
+    "id": "bardella",
+    "tone": 1,
+    "frame": "strategie_alliances"
+   }
   ]
  },
  {
@@ -304,6 +358,13 @@
   "published": "2026-10-24T17:07+02:00",
   "mentions": [
    "bardella"
+  ],
+  "analysis": [
+   {
+    "id": "bardella",
+    "tone": 1,
+    "frame": "strategie_alliances"
+   }
   ]
  },
  {
@@ -366,6 +427,13 @@
   "published": "2026-10-24T20:04+02:00",
   "mentions": [
    "bardella"
+  ],
+  "analysis": [
+   {
+    "id": "bardella",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
   ]
  },
  {
@@ -418,6 +486,13 @@
   "published": "2026-10-24T23:02+02:00",
   "mentions": [
    "bardella"
+  ],
+  "analysis": [
+   {
+    "id": "bardella",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
   ]
  }
 ]

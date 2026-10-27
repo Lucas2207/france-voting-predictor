@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-10-27 11:22",
+ "last_updated": "2026-10-27 11:26",
  "today": "2026-10-27",
  "candidates": [
   {
@@ -223,9 +223,9 @@
    "n_polls": 8,
    "change_7d": -0.4,
    "media": {
-    "articles_7d": 0,
-    "share_7d": 0.0,
-    "tone_7d": null,
+    "articles_7d": 34,
+    "share_7d": 0.34,
+    "tone_7d": -0.34,
     "tone_baseline": null,
     "adjustment": 0.0,
     "status": "calibrage"
@@ -242,9 +242,9 @@
    "n_polls": 8,
    "change_7d": 0.7,
    "media": {
-    "articles_7d": 0,
-    "share_7d": 0.0,
-    "tone_7d": null,
+    "articles_7d": 15,
+    "share_7d": 0.15,
+    "tone_7d": -0.0,
     "tone_baseline": null,
     "adjustment": 0.0,
     "status": "calibrage"
@@ -261,9 +261,9 @@
    "n_polls": 8,
    "change_7d": 0.1,
    "media": {
-    "articles_7d": 0,
-    "share_7d": 0.0,
-    "tone_7d": null,
+    "articles_7d": 5,
+    "share_7d": 0.05,
+    "tone_7d": -1.11,
     "tone_baseline": null,
     "adjustment": 0.0,
     "status": "calibrage"
@@ -280,9 +280,9 @@
    "n_polls": 8,
    "change_7d": 0.8,
    "media": {
-    "articles_7d": 0,
-    "share_7d": 0.0,
-    "tone_7d": null,
+    "articles_7d": 12,
+    "share_7d": 0.12,
+    "tone_7d": -0.32,
     "tone_baseline": null,
     "adjustment": 0.0,
     "status": "calibrage"
@@ -299,9 +299,9 @@
    "n_polls": 8,
    "change_7d": 0.5,
    "media": {
-    "articles_7d": 0,
-    "share_7d": 0.0,
-    "tone_7d": null,
+    "articles_7d": 2,
+    "share_7d": 0.02,
+    "tone_7d": -1.0,
     "tone_baseline": null,
     "adjustment": 0.0,
     "status": "calibrage"
@@ -318,9 +318,9 @@
    "n_polls": 8,
    "change_7d": 0.1,
    "media": {
-    "articles_7d": 0,
-    "share_7d": 0.0,
-    "tone_7d": null,
+    "articles_7d": 3,
+    "share_7d": 0.03,
+    "tone_7d": -0.25,
     "tone_baseline": null,
     "adjustment": 0.0,
     "status": "calibrage"
@@ -337,9 +337,9 @@
    "n_polls": 3,
    "change_7d": 0.0,
    "media": {
-    "articles_7d": 0,
-    "share_7d": 0.0,
-    "tone_7d": null,
+    "articles_7d": 2,
+    "share_7d": 0.02,
+    "tone_7d": 0.0,
     "tone_baseline": null,
     "adjustment": 0.0,
     "status": "calibrage"
@@ -356,9 +356,9 @@
    "n_polls": 7,
    "change_7d": 1.0,
    "media": {
-    "articles_7d": 0,
-    "share_7d": 0.0,
-    "tone_7d": null,
+    "articles_7d": 3,
+    "share_7d": 0.03,
+    "tone_7d": 0.67,
     "tone_baseline": null,
     "adjustment": 0.0,
     "status": "calibrage"
@@ -394,9 +394,9 @@
    "n_polls": 8,
    "change_7d": -0.4,
    "media": {
-    "articles_7d": 0,
-    "share_7d": 0.0,
-    "tone_7d": null,
+    "articles_7d": 3,
+    "share_7d": 0.03,
+    "tone_7d": -0.25,
     "tone_baseline": null,
     "adjustment": 0.0,
     "status": "calibrage"
@@ -15803,9 +15803,766 @@
    "scenarios_used": 3
   }
  ],
- "media_daily": [],
- "media_by_outlet": {},
+ "media_daily": [
+  {
+   "date": "2026-10-24",
+   "candidates": {
+    "lepen": {
+     "articles": 4,
+     "tone": 0.25
+    },
+    "bardella": {
+     "articles": 7,
+     "tone": 0.29
+    }
+   }
+  },
+  {
+   "date": "2026-10-25",
+   "candidates": {
+    "lepen": {
+     "articles": 7,
+     "tone": -0.43
+    },
+    "melenchon": {
+     "articles": 2,
+     "tone": 1.0
+    },
+    "philippe": {
+     "articles": 1,
+     "tone": -1.0
+    },
+    "glucksmann": {
+     "articles": 2,
+     "tone": -1.0
+    },
+    "lisnard": {
+     "articles": 1,
+     "tone": 1.0
+    },
+    "bardella": {
+     "articles": 2,
+     "tone": -0.5
+    }
+   }
+  },
+  {
+   "date": "2026-10-26",
+   "candidates": {
+    "bardella": {
+     "articles": 5,
+     "tone": -1.4
+    },
+    "lepen": {
+     "articles": 11,
+     "tone": -0.55
+    },
+    "philippe": {
+     "articles": 1,
+     "tone": -1.0
+    },
+    "glucksmann": {
+     "articles": 3,
+     "tone": 0.0
+    },
+    "melenchon": {
+     "articles": 5,
+     "tone": -0.6
+    },
+    "tondelier": {
+     "articles": 1,
+     "tone": 0.0
+    },
+    "lisnard": {
+     "articles": 1,
+     "tone": 0.0
+    }
+   }
+  },
+  {
+   "date": "2026-10-27",
+   "candidates": {
+    "lepen": {
+     "articles": 12,
+     "tone": -0.08
+    },
+    "glucksmann": {
+     "articles": 7,
+     "tone": -0.29
+    },
+    "melenchon": {
+     "articles": 8,
+     "tone": 0.38
+    },
+    "retailleau": {
+     "articles": 3,
+     "tone": -0.33
+    },
+    "philippe": {
+     "articles": 3,
+     "tone": -1.33
+    },
+    "bardella": {
+     "articles": 6,
+     "tone": 0.0
+    },
+    "tondelier": {
+     "articles": 2,
+     "tone": -0.5
+    },
+    "villepin": {
+     "articles": 1,
+     "tone": 0.0
+    },
+    "lisnard": {
+     "articles": 1,
+     "tone": 1.0
+    },
+    "attal": {
+     "articles": 2,
+     "tone": -1.0
+    },
+    "hollande": {
+     "articles": 2,
+     "tone": 0.0
+    }
+   }
+  }
+ ],
+ "media_by_outlet": {
+  "Libération": {
+   "lepen": {
+    "tone": 0.0,
+    "n": 5
+   },
+   "bardella": {
+    "tone": -0.6,
+    "n": 5
+   },
+   "lisnard": {
+    "tone": 1.0,
+    "n": 1
+   },
+   "glucksmann": {
+    "tone": 0.0,
+    "n": 2
+   },
+   "melenchon": {
+    "tone": -1.0,
+    "n": 1
+   }
+  },
+  "RFI": {
+   "lepen": {
+    "tone": 0.33,
+    "n": 3
+   },
+   "bardella": {
+    "tone": 0.0,
+    "n": 2
+   }
+  },
+  "L'Express": {
+   "bardella": {
+    "tone": 0.0,
+    "n": 2
+   },
+   "glucksmann": {
+    "tone": -1.0,
+    "n": 1
+   }
+  },
+  "20 Minutes": {
+   "bardella": {
+    "tone": 1.0,
+    "n": 1
+   },
+   "lepen": {
+    "tone": 0.0,
+    "n": 3
+   },
+   "melenchon": {
+    "tone": 0.33,
+    "n": 3
+   },
+   "philippe": {
+    "tone": -1.0,
+    "n": 1
+   },
+   "glucksmann": {
+    "tone": -0.5,
+    "n": 2
+   },
+   "tondelier": {
+    "tone": 0.0,
+    "n": 1
+   }
+  },
+  "France 24": {
+   "bardella": {
+    "tone": 1.0,
+    "n": 1
+   },
+   "lepen": {
+    "tone": -0.5,
+    "n": 2
+   }
+  },
+  "L'Humanité": {
+   "lepen": {
+    "tone": -1.0,
+    "n": 3
+   },
+   "bardella": {
+    "tone": -1.0,
+    "n": 1
+   }
+  },
+  "Marianne": {
+   "philippe": {
+    "tone": -1.0,
+    "n": 1
+   },
+   "lepen": {
+    "tone": -1.0,
+    "n": 1
+   }
+  },
+  "franceinfo": {
+   "lepen": {
+    "tone": -0.67,
+    "n": 3
+   }
+  },
+  "Valeurs actuelles": {
+   "melenchon": {
+    "tone": 0.5,
+    "n": 2
+   },
+   "lisnard": {
+    "tone": 0.0,
+    "n": 1
+   },
+   "lepen": {
+    "tone": 1.0,
+    "n": 1
+   }
+  },
+  "Mediapart": {
+   "bardella": {
+    "tone": -2.0,
+    "n": 2
+   },
+   "lepen": {
+    "tone": -1.33,
+    "n": 3
+   }
+  },
+  "BFMTV": {
+   "melenchon": {
+    "tone": 0.0,
+    "n": 2
+   },
+   "lepen": {
+    "tone": 0.0,
+    "n": 1
+   },
+   "retailleau": {
+    "tone": 0.0,
+    "n": 1
+   },
+   "hollande": {
+    "tone": 0.0,
+    "n": 2
+   }
+  },
+  "Le Monde": {
+   "lepen": {
+    "tone": -1.0,
+    "n": 1
+   },
+   "glucksmann": {
+    "tone": 0.0,
+    "n": 1
+   },
+   "melenchon": {
+    "tone": 0.0,
+    "n": 1
+   }
+  },
+  "Ouest-France": {
+   "glucksmann": {
+    "tone": 0.0,
+    "n": 1
+   }
+  },
+  "Le Parisien": {
+   "retailleau": {
+    "tone": -0.5,
+    "n": 2
+   },
+   "philippe": {
+    "tone": -1.33,
+    "n": 3
+   },
+   "bardella": {
+    "tone": 0.0,
+    "n": 6
+   },
+   "lepen": {
+    "tone": 0.12,
+    "n": 8
+   },
+   "tondelier": {
+    "tone": -0.5,
+    "n": 2
+   },
+   "villepin": {
+    "tone": 0.0,
+    "n": 1
+   },
+   "glucksmann": {
+    "tone": -0.4,
+    "n": 5
+   },
+   "melenchon": {
+    "tone": 0.17,
+    "n": 6
+   },
+   "lisnard": {
+    "tone": 1.0,
+    "n": 1
+   },
+   "attal": {
+    "tone": -1.0,
+    "n": 2
+   }
+  }
+ },
  "events": [
+  {
+   "date": "2026-10-26",
+   "title": "Le gouvernement annonce des mesures pour les lycéens, les organisations appellent à poursuivre la mobilisation",
+   "description": "Réforme de Parcoursup, classes de seconde allégées, places supplémentaires dans le supérieur et postes d'enseignants : le gouvernement présente ses réponses au mouvement lycéen et étudiant, jugées insuffisantes par l'intersyndicale qui appelle à continuer.",
+   "category": "social",
+   "candidates": [],
+   "origin": "presse",
+   "sources": [
+    {
+     "outlet": "France 24",
+     "title": "Mesures pour les lycéens : mitigées, les organisations appellent à \"poursuivre la mobilisation\"",
+     "url": "https://www.france24.com/fr/france/20261026-le-gouvernement-promet-lundi-r%C3%A9ponses-tr%C3%A8s-concr%C3%A8tes-mobilisation-lyc%C3%A9enne"
+    },
+    {
+     "outlet": "La Croix",
+     "title": "Mouvement lycéen : une conférence de presse d’Édouard Geffray et Philippe Baptiste ce lundi",
+     "url": "https://www.la-croix.com/societe/mouvement-lyceen-une-conference-de-presse-d-edouard-geffray-et-philippe-baptiste-ce-lundi-20261026"
+    },
+    {
+     "outlet": "France 24",
+     "title": "Parcoursup, contrôle continu... La mobilisation se poursuit malgré les annonces du gouvernement",
+     "url": "https://www.france24.com/fr/france/20261026-france-en-direct-emmanuel-macron-juge-que-samedi-prochain-sera-%C3%A0-risque"
+    },
+    {
+     "outlet": "L'Humanité",
+     "title": "Réforme de Parcoursup, 28 élèves par classe en seconde… Ce que l’on sait des premières annonces du gouvernement sur les lycées",
+     "url": "https://www.humanite.fr/politique/education-nationale/reforme-de-parcoursup-28-eleves-par-classe-en-seconde-ce-que-lon-sait-des-premieres-annonces-du-gouvernement-sur-les-lycees"
+    },
+    {
+     "outlet": "L'Humanité",
+     "title": "15 000 places pour le supérieur, 500 postes d’enseignants… Le gouvernement sort (timidement) le chéquier pour les lycéens",
+     "url": "https://www.humanite.fr/politique/education-nationale/15-000-places-pour-le-superieur-500-postes-denseignants-le-gouvernement-sort-timidement-le-chequier-pour-les-lyceens"
+    },
+    {
+     "outlet": "Valeurs actuelles",
+     "title": "Réforme de Parcoursup, classes moins chargées : le gouvernement tente d’éteindre la colère des lycéens",
+     "url": "https://www.valeursactuelles.com/societe/reforme-de-parcoursup-classes-moins-chargees-le-gouvernement-tente-deteindre-la-colere-des-lyceens"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-26",
+   "title": "Macron à Marseille après les violences du 17 octobre, manifestations hors des centres-villes le 31 octobre",
+   "description": "En visite à Marseille, Emmanuel Macron reconnaît que l'État n'avait pas anticipé les violences du 17 octobre, annonce que les prochaines manifestations autorisées se tiendront hors des centres-villes et estime que l'état d'urgence n'est pas un tabou.",
+   "category": "securite",
+   "candidates": [],
+   "origin": "presse",
+   "sources": [
+    {
+     "outlet": "20 Minutes",
+     "title": "Macron en visite surprise ce lundi à Marseille pour constater le « retour de l’ordre » après les violences du 17 octobre",
+     "url": "https://www.20minutes.fr/politique/4257577-20261026-macron-visite-surprise-lundi-marseille-constater-retour-ordre-apres-violences-17-octobre"
+    },
+    {
+     "outlet": "Libération",
+     "title": "Les manifestations seront hors des centres-villes samedi 31 octobre pour une nouvelle journée «à risque», selon Macron",
+     "url": "https://www.liberation.fr/politique/les-couvre-feux-vont-se-poursuivre-previent-laurent-nunez-emmanuel-macron-en-visite-a-marseille-sur-le-retour-de-lordre-20261026_X45QLPHQKJB3VFYEFBBECCSKKU/"
+    },
+    {
+     "outlet": "L'Humanité",
+     "title": "En déplacement à Marseille, Macron estime que l’état d’urgence n’est pas « un tabou » si « les choses devaient se dégrader »",
+     "url": "https://www.humanite.fr/politique/emmanuel-macron/en-deplacement-a-marseille-macron-estime-que-letat-durgence-nest-pas-un-tabou-si-les-choses-devaient-se-degrader"
+    },
+    {
+     "outlet": "franceinfo",
+     "title": "Emmanuel Macron s'attend à \"une journée à risques\" samedi 31 octobre et annonce que les prochains tracés des manifestations autorisées se situeront hors des centres-villes",
+     "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/emmanuel-macron-s-attend-a-une-journee-a-risques-samedi-31-octobre-et-annonce-que-les-prochains-traces-des-manifestations-autorisees-se-situeront-hors-des-centres-villes_8254276.html"
+    },
+    {
+     "outlet": "20 Minutes",
+     "title": "Colère sociale : « Traumatisme », « état d’ébullition »… Macron reprend la main sur le maintien de l’ordre",
+     "url": "https://www.20minutes.fr/societe/4257728-20261026-colere-sociale-traumatisme-etat-ebullition-macron-reprend-main-maintien-ordre"
+    },
+    {
+     "outlet": "Libération",
+     "title": "«Le 17 octobre, on n’avait pas du tout anticipé ce qui s’est passé» : en visite express à Marseille, Emmanuel Macron en opération apaisement",
+     "url": "https://www.liberation.fr/societe/le-17-octobre-on-navait-pas-du-tout-anticipe-ce-qui-sest-passe-en-visite-express-a-marseille-emmanuel-macron-en-operation-apaisement-20261026_LJWBCVKXOFFEZAXEQ3QCTLZO7E/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-26",
+   "title": "Le Conseil constitutionnel rejette la demande de démission de Richard Ferrand portée par le RN et l'UDR",
+   "description": "Le Conseil constitutionnel a écarté la demande du RN et de l'UDR réclamant la démission de son président Richard Ferrand.",
+   "category": "institutions",
+   "candidates": [
+    "lepen",
+    "bardella"
+   ],
+   "origin": "presse",
+   "sources": [
+    {
+     "outlet": "franceinfo",
+     "title": "Le Conseil constitutionnel écarte la demande de démission de son président, formulée par le RN et l'UDR",
+     "url": "https://www.franceinfo.fr/politique/front-national/le-conseil-constitutionnel-ecarte-la-demande-de-demission-de-son-president-formulee-par-le-rn-et-l-udr_8254027.html"
+    },
+    {
+     "outlet": "20 Minutes",
+     "title": "Sous pression du RN, le Conseil constitutionnel rejette une démission de son président Richard Ferrand",
+     "url": "https://www.20minutes.fr/politique/4257639-20261026-sous-pression-rn-conseil-constitutionnel-exclut-demission-president-richard-ferrand"
+    },
+    {
+     "outlet": "Libération",
+     "title": "Le Conseil constitutionnel balaie la demande du RN et de l’UDR réclamant la démission de Richard Ferrand",
+     "url": "https://www.liberation.fr/politique/le-conseil-constitutionnel-balaie-la-demande-du-rn-et-de-ludr-reclamant-la-demission-de-richard-ferrand-20261026_LJGO5NOBXFEBLGQXLZKVS6XJ4U/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-26",
+   "title": "Congrès du RN à Orléans : Marine Le Pen lance sa campagne, débordements dénoncés",
+   "description": "Au congrès du RN à Orléans, Marine Le Pen lance sa campagne en promettant une « renaissance » ; Jordan Bardella est plébiscité, tandis que des incidents, dont l'agression d'une responsable de l'UEJF, sont rapportés.",
+   "category": "campagne",
+   "candidates": [
+    "lepen",
+    "bardella",
+    "melenchon"
+   ],
+   "origin": "presse",
+   "sources": [
+    {
+     "outlet": "Libération",
+     "title": "Au congrès du RN, Jordan Bardella plébiscité mais affaibli dans sa présidence",
+     "url": "https://www.liberation.fr/politique/elections/au-congres-du-rn-jordan-bardella-plebiscite-mais-affaibli-dans-sa-presidence-20261026_57QT3UO73JFI3HXVKSZEIVCGYE/"
+    },
+    {
+     "outlet": "RFI",
+     "title": "France: au congrès du RN à Orléans, Marine Le Pen lance sa campagne et promet une «renaissance»",
+     "url": "https://www.rfi.fr/fr/france/20261026-france-au-congr%C3%A8s-du-rn-%C3%A0-orl%C3%A9ans-marine-le-pen-lance-sa-campagne-et-promet-une-renaissance"
+    },
+    {
+     "outlet": "L'Humanité",
+     "title": "Présidentielle 2027 : à Orléans, Marine Le Pen polit les fondamentaux de l’extrême droite",
+     "url": "https://www.humanite.fr/politique/extreme-droite/presidentielle-2027-a-orleans-marine-le-pen-polit-les-fondamentaux-de-lextreme-droite-et-ecarte-toute-rupture"
+    },
+    {
+     "outlet": "L'Humanité",
+     "title": "Congrès du RN : ces débordements qui montrent que le parti n’a pas « changé »",
+     "url": "https://www.humanite.fr/politique/election-presidentielle/congres-du-rn-ces-debordements-qui-montrent-que-le-parti-na-pas-change"
+    },
+    {
+     "outlet": "Marianne",
+     "title": "À Orléans, Marine Le Pen enrobe le programme du RN d’une couche de \"beau\"",
+     "url": "https://www.marianne.net/politique/a-orleans-marine-le-pen-enrobe-le-programme-du-rn-d-une-couche-de-beau"
+    },
+    {
+     "outlet": "Mediapart",
+     "title": "«Ce parti reviendra toujours à son antisémitisme»: la vice-présidente de l’UEJF raconte l’agression subie au congrès du RN",
+     "url": "https://www.mediapart.fr/journal/france/261026/ce-parti-reviendra-toujours-son-antisemitisme-la-vice-presidente-de-l-uejf-raconte-l-agression-subie-au-co"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-25",
+   "title": "Attentat raciste à Trappes : garde à vue du tireur levée pour raisons psychiatriques",
+   "description": "La garde à vue du suspect de l'attentat de Trappes et La Verrière a été levée pour raisons psychiatriques ; l'enquête antiterroriste se poursuit et la motivation raciste se précise. Une marche blanche a été organisée.",
+   "category": "securite",
+   "candidates": [],
+   "origin": "presse",
+   "sources": [
+    {
+     "outlet": "RFI",
+     "title": "Attentat à Trappes et à La Verrière: la motivation raciste de l'attaque se précise",
+     "url": "https://www.rfi.fr/fr/france/20261024-attentat-%C3%A0-trappes-et-%C3%A0-la-verri%C3%A8re-la-motivation-raciste-de-l-attaque-se-pr%C3%A9cise"
+    },
+    {
+     "outlet": "RFI",
+     "title": "Attentat raciste en France: la garde à vue du tireur levée pour raisons psychiatriques",
+     "url": "https://www.rfi.fr/fr/france/20261025-attaque-meurtri%C3%A8re-en-france-la-garde-%C3%A0-vue-du-tireur-lev%C3%A9e-pour-raisons-psychiatriques"
+    },
+    {
+     "outlet": "La Croix",
+     "title": "Attentat raciste à Trappes : la garde à vue du tireur suspendue pour raisons psychiatriques",
+     "url": "https://www.la-croix.com/societe/attentat-raciste-a-trappes-la-garde-a-vue-du-tireur-suspendue-pour-raisons-psychiatriques-presence-de-cannabis-et-de-cocaine-dans-son-sang-20261025"
+    },
+    {
+     "outlet": "France 24",
+     "title": "Attentat dans les Yvelines : le suspect sous traitement pour schizophrénie",
+     "url": "https://www.france24.com/fr/france/20261025-fusillade-meurtri%C3%A8re-dans-les-yvelines-le-suspect-plac%C3%A9-en-observation-psychiatrique"
+    },
+    {
+     "outlet": "Marianne",
+     "title": "Fusillade à Trappes : garde à vue levée pour raisons psychiatriques, l’enquête antiterroriste se poursuit",
+     "url": "https://www.marianne.net/societe/fusillade-a-trappes-garde-a-vue-levee-pour-raisons-psychiatriques-l-enquete-antiterroriste-se-poursuit"
+    },
+    {
+     "outlet": "L'Humanité",
+     "title": "Attentat de Trappes : la libération de la parole raciste est mortelle",
+     "url": "https://www.humanite.fr/politique/attentats/attentat-de-trappes-la-liberation-de-la-parole-raciste-est-mortelle"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-25",
+   "title": "Congrès du RN à Orléans : Marine Le Pen lance sa campagne présidentielle",
+   "description": "Lors du congrès du RN à Orléans, dans une ville sous forte sécurité, Marine Le Pen a tenu son premier meeting de campagne, promettant de ne pas « refaire la France d'avant ». Des incidents ont été rapportés, dont des journalistes agressés et des militants expulsés pendant le discours de Jordan Bardella.",
+   "category": "campagne",
+   "candidates": [
+    "lepen",
+    "bardella"
+   ],
+   "origin": "presse",
+   "sources": [
+    {
+     "outlet": "Marianne",
+     "title": "Congrès du RN : avec des \"superstars\" et des absents, ce que révèle le classement des élus au conseil national",
+     "url": "https://www.marianne.net/politique/le-pen/congres-du-rn-des-superstars-et-des-absents-ce-que-revele-le-classement-de-l-election-au-conseil-national"
+    },
+    {
+     "outlet": "France 24",
+     "title": "Marine Le Pen promet de ne pas \"refaire la France d'avant\", à son premier meeting de campagne",
+     "url": "https://www.france24.com/fr/france/20261025-marine-le-pen-veut-miser-sur-l-optimisme-pour-son-premier-meeting-de-campagne"
+    },
+    {
+     "outlet": "20 Minutes",
+     "title": "Congrès RN à Orléans : Marine Le Pen lance sa campagne de « France apaisée » (dans une ville barricadée)",
+     "url": "https://www.20minutes.fr/politique/4257330-20261025-congres-rn-orleans-marine-pen-lance-campagne-france-apaisee-ville-barricadee"
+    },
+    {
+     "outlet": "Libération",
+     "title": "«On se croirait en temps de guerre» : autour du congrès RN à Orléans, un week-end dystopique dans une ville sous cloche",
+     "url": "https://www.liberation.fr/politique/on-se-croirait-en-temps-de-guerre-au-congres-du-rn-a-orleans-un-week-end-dystopique-dans-une-ville-sous-cloche-20261025_QKC4SWDKZJBSNA6F2LTQ3BFRTM/"
+    },
+    {
+     "outlet": "L'Humanité",
+     "title": "Au congrès du RN à Orléans, des journalistes agressés et la promesse d’un État autoritaire",
+     "url": "https://www.humanite.fr/politique/jordan-bardella/au-congres-du-rn-a-orleans-des-journalistes-agresses-et-la-promesse-dun-etat-autoritaire"
+    },
+    {
+     "outlet": "Libération",
+     "title": "Congrès du RN : des militants expulsés pour avoir brandi une banderole contre l’antisémitisme pendant le discours de Bardella",
+     "url": "https://www.liberation.fr/politique/congres-du-rn-des-militants-expulses-pour-avoir-brandi-une-banderole-contre-lantisemitisme-pendant-le-discours-de-bardella-20261025_QF2H4GV3LNE6VCQ54HPXYCAFGE/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-25",
+   "title": "Bilan de la mobilisation du 24 octobre",
+   "description": "La journée de mobilisation du 24 octobre a donné lieu à plus de 1 300 interpellations et une cinquantaine de policiers blessés ; des attaques d'extrême droite contre des cortèges ont été signalées et la suite du mouvement est discutée.",
+   "category": "social",
+   "candidates": [],
+   "origin": "presse",
+   "sources": [
+    {
+     "outlet": "France 24",
+     "title": "Mobilisation du 24 octobre : plus de 1 300 interpellations, une cinquantaine de policiers blessés",
+     "url": "https://www.france24.com/fr/france/20261025-mobilisation-du-24-octobre-plus-de-1-300-interpellations-une-cinquantaine-de-policiers-bless%C3%A9s"
+    },
+    {
+     "outlet": "Libération",
+     "title": "Attaques d’extrême droite contre des cortèges du 24 octobre : à Nancy, Rouen ou Montpellier, l’attitude des forces de l’ordre en question",
+     "url": "https://www.liberation.fr/politique/attaques-dextreme-droite-contre-des-corteges-du-24-octobre-a-nancy-rouen-ou-montpellier-lattitude-des-forces-de-lordre-en-question-20261025_QL3NN5FSNRD6TKTY2C3ORVWOI4/"
+    },
+    {
+     "outlet": "L'Humanité",
+     "title": "800 000 manifestants dans la rue, des milices d’extrême droite en embuscade, marche blanche à Trappes après l’attentat raciste, congrès du RN… Ce qu’il ne fallait pas manquer ce week-end",
+     "url": "https://www.humanite.fr/monde/cisjordanie/800-000-manifestants-dans-la-rue-des-milices-dextreme-droite-en-embuscade-marche-blanche-a-trappes-apres-lattentat-raciste-congres-du-rn-ce-quil-ne-fallait"
+    },
+    {
+     "outlet": "Libération",
+     "title": "Prochaines mobilisations, annonces du gouvernement… Quel avenir pour le mouvement après les manifestations du 24 octobre ?",
+     "url": "https://www.liberation.fr/politique/prochaines-mobilisations-annonces-du-gouvernement-quel-avenir-pour-le-mouvement-apres-les-manifestations-du-24-octobre-20261025_D6HA7R4VGZG4DHHZUZQQREN47E/"
+    },
+    {
+     "outlet": "Libération",
+     "title": "Derrière la mobilisation du 24 octobre, un soulagement en trompe-l’œil",
+     "url": "https://www.liberation.fr/idees-et-debats/opinions/derriere-la-mobilisation-du-24-octobre-un-soulagement-en-trompe-loeil-20261025_OCVGZAZQUJAIFH5L5CPC2PLS54/"
+    },
+    {
+     "outlet": "20 Minutes",
+     "title": "Colère sociale : Le patron des députés Horizon veut faire payer LFI pour les dégradations",
+     "url": "https://www.20minutes.fr/politique/4257293-20261025-colere-sociale-patron-deputes-horizon-veut-faire-payer-lfi-degradations"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-24",
+   "title": "Mobilisation nationale du 24 octobre : des centaines de milliers de manifestants en France",
+   "description": "Entre 410 000 et 800 000 personnes ont défilé à travers la France lors d'un « acte II » de mobilisation sous haute surveillance. Le ministre de l'Intérieur Laurent Nuñez a salué le déroulé des cortèges et annoncé près de 1 000 interpellations.",
+   "category": "social",
+   "candidates": [],
+   "origin": "presse",
+   "sources": [
+    {
+     "outlet": "RFI",
+     "title": "Manifestations en France: un «acte II» sous haute surveillance, les manifestants entre peur et détermination",
+     "url": "https://www.rfi.fr/fr/france/20261023-manifestations-en-france-un-acte-ii-sous-haute-surveillance-les-manifestants-entre-peur-et-d%C3%A9termination"
+    },
+    {
+     "outlet": "France 24",
+     "title": "Mobilisation du 24 octobre : entre 410 000 et 800 000 manifestants à travers la France",
+     "url": "https://www.france24.com/fr/france/20261024-en-direct-centaines-manifestations-france-climat-fortes-tensions-mobilisation-revendications-salaires-education-syndicats-pouvoir-d-achat-lycee-police-macron"
+    },
+    {
+     "outlet": "RFI",
+     "title": "Mobilisation en France: des centaines de milliers de personnes ont défilé dans l'Hexagone",
+     "url": "https://www.rfi.fr/fr/france/20261024-direct-manifestations-en-france-des-nombreux-d%C3%A9fil%C3%A9s-attendus-dans-un-contexte-de-fortes-tensions-s%C3%A9curitaires"
+    },
+    {
+     "outlet": "La Croix",
+     "title": "Manifestation du 24 octobre : peu d’incidents majeurs, des cortèges sous haute sécurité… Revivez la journée de mobilisation",
+     "url": "https://www.la-croix.com/societe/direct-manifestation-24-octobre-gilets-jaunes-syndicats-parcours-aujourdhui-france-20261024"
+    },
+    {
+     "outlet": "L'Humanité",
+     "title": "800 000 manifestants le 24 octobre : débrief de la journée de mobilisation",
+     "url": "https://www.humanite.fr/politique/emmanuel-macron/800-000-manifestants-le-24-octobre-debrief-de-la-journee-de-mobilisation"
+    },
+    {
+     "outlet": "La Croix",
+     "title": "Manifestation du 24 octobre : à Paris, un défilé calme et des revendications disparates",
+     "url": "https://www.la-croix.com/societe/a-paris-des-manifestants-calmes-et-aux-revendications-disparates-20261024"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-24",
+   "title": "Congrès du RN à Orléans : Jordan Bardella réélu président avec 98,98 % des voix",
+   "description": "Seul candidat, Jordan Bardella a été réélu à la tête du Rassemblement national avec 98,98 % des voix lors d'un congrès à Orléans autour de Marine Le Pen, organisé sous forte sécurité.",
+   "category": "campagne",
+   "candidates": [
+    "bardella",
+    "lepen"
+   ],
+   "origin": "presse",
+   "sources": [
+    {
+     "outlet": "RFI",
+     "title": "France: réuni à Orléans autour de Marine Le Pen, le RN cherche une démonstration de force en pleines tensions sociales",
+     "url": "https://www.rfi.fr/fr/france/20261024-france-r%C3%A9uni-%C3%A0-orl%C3%A9ans-autour-de-marine-le-pen-le-rn-cherche-une-d%C3%A9monstration-de-force-en-pleines-tensions-sociales"
+    },
+    {
+     "outlet": "RFI",
+     "title": "Jordan Bardella reprend son poste de «futur» Premier ministre de Marine Le Pen",
+     "url": "https://www.rfi.fr/fr/jordan-bardella-reprend-son-poste-de-futur-premier-ministre-de-marine-le-pen"
+    },
+    {
+     "outlet": "20 Minutes",
+     "title": "Congrès du RN : Seul candidat, Bardella réélu président avec 98,98 des voix",
+     "url": "https://www.20minutes.fr/politique/4257206-20261024-congres-rn-seul-candidat-bardella-reelu-president-98-98-voix"
+    },
+    {
+     "outlet": "France 24",
+     "title": "Jordan Bardella, réélu président du Rassemblement national avec 98,98 % des voix",
+     "url": "https://www.france24.com/fr/france/20261024-jordan-bardella-r%C3%A9%C3%A9lu-pr%C3%A9sident-du-rn-avec-98-98-des-voix"
+    },
+    {
+     "outlet": "L'Express",
+     "title": "Congrès du RN : Jordan Bardella est réélu sans concurrence à la tête du parti, avec 98,98 % des voix",
+     "url": "https://www.lexpress.fr/politique/rn/congres-du-rn-jordan-bardella-est-reelu-president-du-parti-a-9898-des-voix-TEQRTZIBTVCZXLAUCC5Z45DRBU/"
+    },
+    {
+     "outlet": "Libération",
+     "title": "A Orléans, Jordan Bardella réélu lors d’un congrès sans surprise mais sous tension",
+     "url": "https://www.liberation.fr/politique/a-orleans-jordan-bardella-reelu-lors-dun-congres-sans-surprise-mais-sous-tension-20261024_NJWZPLV77VGYHL4ZZMFRDUW3PI/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-24",
+   "title": "À Orléans, la gauche et l'intersyndicale manifestent contre le RN",
+   "description": "En marge du congrès du RN, partis de gauche, intersyndicale et militants ont manifesté à Orléans contre l'extrême droite ; RFI évoque 13 000 manifestants.",
+   "category": "campagne",
+   "candidates": [],
+   "origin": "presse",
+   "sources": [
+    {
+     "outlet": "La Croix",
+     "title": "« Le RN n’a sa place ni ici ni ailleurs » : à Orléans, intersyndicale et militants s’affichent unis contre l’extrême droite",
+     "url": "https://www.la-croix.com/societe/le-rn-n-a-sa-place-ni-ici-ni-ailleurs-a-orleans-intersyndicale-et-militants-saffichent-unis-contre-lextreme-droite-20261024"
+    },
+    {
+     "outlet": "Libération",
+     "title": "«On a un ennemi commun, le RN» : à Orléans, la gauche unie contre l’extrême droite dans une grande manifestation pacifiste",
+     "url": "https://www.liberation.fr/politique/on-a-un-ennemi-commun-le-rn-a-orleans-la-gauche-unie-contre-lextreme-droite-dans-une-grande-manifestation-pacifiste-20261024_X2AMCZTZTNBLBMGLV3GBM464GA/"
+    },
+    {
+     "outlet": "20 Minutes",
+     "title": "Congrès RN à Orléans : Dans une ville bunkérisée, la gauche manifeste contre « un parti qui menace la démocratie »",
+     "url": "https://www.20minutes.fr/politique/4257192-20261024-congres-rn-orleans-ville-bunkerisee-gauche-manifeste-contre-parti-menace-democratie"
+    },
+    {
+     "outlet": "L'Humanité",
+     "title": "Congrès du RN à Orléans : toute la gauche politique et sociale se rassemble contre le Rassemblement national et ses perroquets",
+     "url": "https://www.humanite.fr/politique/antifascisme/a-orleans-toute-la-gauche-politique-et-sociale-se-rassemble-contre-le-rn-et-ses-perroquets"
+    },
+    {
+     "outlet": "RFI",
+     "title": "France: à Orléans, le congrès du RN s'ouvre sous cloche, 13 000 personnes manifestent contre l'extrême droite",
+     "url": "https://www.rfi.fr/fr/france/20261024-france-%C3%A0-orl%C3%A9ans-le-congr%C3%A8s-du-rn-s-ouvre-sous-cloche-13-000-personnes-manifestent-contre-l-extr%C3%AAme-droite"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-24",
+   "title": "Attentat raciste de Trappes : la garde à vue du suspect prolongée, polémique sur une phrase de Macron",
+   "description": "Après la fusillade meurtrière à Trappes et La Verrière (Yvelines), qualifiée d'attentat raciste, la garde à vue du suspect a été prolongée ; une petite phrase d'Emmanuel Macron suscite des critiques et l'émotion reste vive chez les habitants.",
+   "category": "securite",
+   "candidates": [],
+   "origin": "presse",
+   "sources": [
+    {
+     "outlet": "RFI",
+     "title": "«Cela nous fait peur»: après l'attentat raciste à Trappes, l'émotion et l'indignation restent vives chez les habitants",
+     "url": "https://www.rfi.fr/fr/france/20261024-cela-nous-fait-peur-apr%C3%A8s-l-attentat-raciste-%C3%A0-trappes-l-%C3%A9motion-et-l-indignation-restent-vives-chez-les-habitants"
+    },
+    {
+     "outlet": "20 Minutes",
+     "title": "Attaque à Trappes et à La Verrière : « La première fois… », la petite phrase d’Emmanuel Macron qui ne passe pas",
+     "url": "https://www.20minutes.fr/politique/4257176-20261024-attaque-trappes-verriere-premiere-fois-petite-phrase-emmanuel-macron-passe"
+    },
+    {
+     "outlet": "France 24",
+     "title": "Fusillade meurtrière dans les Yvelines : la garde à vue du suspect prolongée",
+     "url": "https://www.france24.com/fr/france/20261024-fusillade-meurtri%C3%A8re-dans-les-yvelines-la-garde-%C3%A0-vue-du-suspect-prolong%C3%A9e"
+    },
+    {
+     "outlet": "Libération",
+     "title": "Après l’attentat de Trappes, les mots sains du maire Ali Rabeh sur la responsabilité des médias face au racisme",
+     "url": "https://www.liberation.fr/idees-et-debats/opinions/apres-lattentat-de-trappes-les-mots-sains-du-maire-ali-rabeh-sur-la-responsabilite-des-medias-face-au-racisme-20261024_OLCW4ADRWFCNHPHOURAEUZFWQ4/"
+    }
+   ]
+  },
   {
    "date": "2026-10-11",
    "title": "Raphaël Glucksmann, président de Place publique (PP), remporte la primaire socialiste (11/10/2026).",
@@ -15977,7 +16734,7 @@
  ],
  "sources": {
   "polls": "https://fr.wikipedia.org/wiki/Liste_de_sondages_sur_l'élection_présidentielle_française_de_2027",
-  "polls_fetched": "2026-10-27T11:21+01:00",
+  "polls_fetched": "2026-10-27T11:25+01:00",
   "feeds": [
    {
     "outlet": "L'Humanité",
@@ -16065,8 +16822,8 @@
     "items": 10
    }
   ],
-  "articles_total": 480,
-  "articles_analysed": 0,
+  "articles_total": 483,
+  "articles_analysed": 73,
   "media_since": "2026-10-20"
  },
  "parameters": {
