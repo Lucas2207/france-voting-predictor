@@ -144,8 +144,7 @@ function renderMethodology() {
   const params = {
     sourceLink: link, beta: fmt(p.MEDIA_BETA ?? 1.5), cap: fmt(p.MEDIA_CAP ?? 2, 0),
   };
-  $('methodology').innerHTML = `<h2 class="text-base font-bold text-slate-900">${t('method.title')}</h2>` +
-    paragraphs.map(k => `<p>${t(k, params)}</p>`).join('');
+  $('methodologyBody').innerHTML = paragraphs.map(k => `<p>${t(k, params)}</p>`).join('');
 }
 
 /** Personnalités influentes non candidates : abonnés et audience YouTube. */

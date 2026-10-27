@@ -38,13 +38,13 @@
 
     <!-- En-tête : drapeau et écu à gauche, bulletin à droite, de part et d'autre du titre -->
     <header class="bg-white p-6 rounded-2xl shadow-sm border border-slate-200 flex flex-col lg:flex-row items-center gap-5">
-      <div class="flex items-center gap-4 shrink-0">
-        <div class="flex items-center shadow-md rounded-xl overflow-hidden border border-slate-300 h-14 w-20" role="img" data-i18n-attr="aria-label:logo.flag">
+      <div class="flex items-center gap-4 shrink-0 h-16">
+        <div class="flex items-stretch shadow-md rounded-xl overflow-hidden border border-slate-300 h-16 w-24" role="img" data-i18n-attr="aria-label:logo.flag">
           <div class="w-1/3 h-full bg-[#002654]"></div>
           <div class="w-1/3 h-full bg-[#FFFFFF]"></div>
           <div class="w-1/3 h-full bg-[#ED2939]"></div>
         </div>
-        <img src="assets/elysee.png" alt="" class="h-16 w-auto" data-i18n-attr="alt:logo.coat">
+        <img src="assets/elysee.png" alt="" class="h-16 w-auto object-contain" data-i18n-attr="alt:logo.coat">
       </div>
 
       <div class="flex-1 text-center space-y-2">
@@ -238,7 +238,10 @@
     </section>
 
     <!-- Méthodologie (générée à partir des traductions) -->
-    <section class="bg-white p-6 rounded-2xl shadow-sm border border-slate-200 space-y-2 text-xs text-slate-600 leading-relaxed" id="methodology"></section>
+    <details class="bg-white p-6 rounded-2xl shadow-sm border border-slate-200 text-xs text-slate-600 leading-relaxed" id="methodology">
+      <summary class="cursor-pointer text-base font-bold text-slate-900 flex items-center justify-between" data-i18n="method.title">Méthodologie et limites</summary>
+      <div class="mt-4 space-y-2" id="methodologyBody"></div>
+    </details>
   </div>
 
   <script src="i18n.js"></script>
