@@ -51,8 +51,8 @@
  },
  {
   "outlet": "Marianne",
-  "ok": false,
-  "error": "405 Client Error: Not Allowed for url: https://www.marianne.net/rss.xml"
+  "ok": true,
+  "items": 20
  },
  {
   "outlet": "BFMTV",
@@ -83,5 +83,45 @@
   "outlet": "Valeurs actuelles",
   "ok": true,
   "items": 10
+ },
+ {
+  "outlet": "CNews",
+  "ok": true,
+  "items": 100
+ },
+ {
+  "outlet": "TF1 info",
+  "ok": true,
+  "items": 100
+ },
+ {
+  "outlet": "France Inter",
+  "ok": true,
+  "items": 20
+ },
+ {
+  "outlet": "France Culture",
+  "ok": true,
+  "items": 20
+ },
+ {
+  "outlet": "Europe 1",
+  "ok": true,
+  "items": 50
+ },
+ {
+  "outlet": "Sud Radio",
+  "ok": true,
+  "items": 20
+ },
+ {
+  "outlet": "Radio Classique",
+  "ok": true,
+  "items": 10
+ },
+ {
+  "outlet": "Le Nouvel Obs",
+  "ok": true,
+  "items": 40
  }
 ]

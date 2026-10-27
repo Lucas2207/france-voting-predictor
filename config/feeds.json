@@ -1,22 +1,130 @@
 {
-  "_doc": "Flux RSS lus chaque jour. 'lean' = positionnement éditorial approximatif (gauche, centre-gauche, centre, centre-droit, droite), utilisé uniquement pour comparer le traitement entre médias, jamais pour pondérer. Un flux en échec est ignoré et signalé dans le journal.",
+  "_doc": "Flux RSS lus chaque jour : presse écrite et sites, chaînes de télévision d'information, radios les plus écoutées. 'lean' = positionnement éditorial approximatif (gauche, centre-gauche, centre, centre-droit, droite), ou 'non classé' quand il n'est pas établi. Utilisé uniquement pour comparer le traitement entre médias, jamais pour pondérer. Un flux en échec est ignoré et signalé dans le journal. RTL, RMC, M6 info, Le JDD et Le Point n'ont pas de flux RSS accessible.",
   "feeds": [
-    {"outlet": "L'Humanité", "lean": "gauche", "url": "https://www.humanite.fr/sections/politique/feed"},
-    {"outlet": "Mediapart", "lean": "gauche", "url": "https://www.mediapart.fr/articles/feed"},
-    {"outlet": "Libération", "lean": "centre-gauche", "url": "https://www.liberation.fr/arc/outboundfeeds/rss/category/politique/?outputType=xml"},
-    {"outlet": "Le Monde", "lean": "centre-gauche", "url": "https://www.lemonde.fr/politique/rss_full.xml"},
-    {"outlet": "franceinfo", "lean": "centre", "url": "https://www.francetvinfo.fr/politique.rss"},
-    {"outlet": "France 24", "lean": "centre", "url": "https://www.france24.com/fr/france/rss"},
-    {"outlet": "RFI", "lean": "centre", "url": "https://www.rfi.fr/fr/france/rss"},
-    {"outlet": "20 Minutes", "lean": "centre", "url": "https://www.20minutes.fr/feeds/rss-politique.xml"},
-    {"outlet": "Ouest-France", "lean": "centre", "url": "https://www.ouest-france.fr/rss/une"},
-    {"outlet": "La Croix", "lean": "centre", "url": "https://www.la-croix.com/RSS/UNIVERS_WFRA"},
-    {"outlet": "Marianne", "lean": "centre", "url": "https://www.marianne.net/rss.xml"},
-    {"outlet": "BFMTV", "lean": "centre", "url": "https://www.bfmtv.com/rss/politique/"},
-    {"outlet": "Le Parisien", "lean": "centre", "url": "https://feeds.leparisien.fr/leparisien/rss/politique"},
-    {"outlet": "L'Express", "lean": "centre-droit", "url": "https://www.lexpress.fr/arc/outboundfeeds/rss/politique.xml"},
-    {"outlet": "Les Échos", "lean": "centre-droit", "url": "https://syndication.lesechos.fr/rss/rss_politique.xml"},
-    {"outlet": "Le Figaro", "lean": "droite", "url": "https://www.lefigaro.fr/rss/figaro_politique.xml"},
-    {"outlet": "Valeurs actuelles", "lean": "droite", "url": "https://www.valeursactuelles.com/feed?post_type=post&taxonomy_name=politique"}
+    {
+      "outlet": "L'Humanité",
+      "lean": "gauche",
+      "url": "https://www.humanite.fr/sections/politique/feed"
+    },
+    {
+      "outlet": "Mediapart",
+      "lean": "gauche",
+      "url": "https://www.mediapart.fr/articles/feed"
+    },
+    {
+      "outlet": "Libération",
+      "lean": "centre-gauche",
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss/category/politique/?outputType=xml"
+    },
+    {
+      "outlet": "Le Monde",
+      "lean": "centre-gauche",
+      "url": "https://www.lemonde.fr/politique/rss_full.xml"
+    },
+    {
+      "outlet": "franceinfo",
+      "lean": "centre",
+      "url": "https://www.francetvinfo.fr/politique.rss"
+    },
+    {
+      "outlet": "France 24",
+      "lean": "centre",
+      "url": "https://www.france24.com/fr/france/rss"
+    },
+    {
+      "outlet": "RFI",
+      "lean": "centre",
+      "url": "https://www.rfi.fr/fr/france/rss"
+    },
+    {
+      "outlet": "20 Minutes",
+      "lean": "centre",
+      "url": "https://www.20minutes.fr/feeds/rss-politique.xml"
+    },
+    {
+      "outlet": "Ouest-France",
+      "lean": "centre",
+      "url": "https://www.ouest-france.fr/rss/une"
+    },
+    {
+      "outlet": "La Croix",
+      "lean": "centre",
+      "url": "https://www.la-croix.com/RSS/UNIVERS_WFRA"
+    },
+    {
+      "outlet": "Marianne",
+      "lean": "centre",
+      "url": "https://www.marianne.net/rss.xml"
+    },
+    {
+      "outlet": "BFMTV",
+      "lean": "centre",
+      "url": "https://www.bfmtv.com/rss/politique/"
+    },
+    {
+      "outlet": "Le Parisien",
+      "lean": "centre",
+      "url": "https://feeds.leparisien.fr/leparisien/rss/politique"
+    },
+    {
+      "outlet": "L'Express",
+      "lean": "centre-droit",
+      "url": "https://www.lexpress.fr/arc/outboundfeeds/rss/politique.xml"
+    },
+    {
+      "outlet": "Les Échos",
+      "lean": "centre-droit",
+      "url": "https://syndication.lesechos.fr/rss/rss_politique.xml"
+    },
+    {
+      "outlet": "Le Figaro",
+      "lean": "droite",
+      "url": "https://www.lefigaro.fr/rss/figaro_politique.xml"
+    },
+    {
+      "outlet": "Valeurs actuelles",
+      "lean": "droite",
+      "url": "https://www.valeursactuelles.com/feed?post_type=post&taxonomy_name=politique"
+    },
+    {
+      "outlet": "CNews",
+      "lean": "droite",
+      "url": "https://www.cnews.fr/rss.xml"
+    },
+    {
+      "outlet": "TF1 info",
+      "lean": "centre",
+      "url": "https://www.tf1info.fr/feeds/rss-une.xml"
+    },
+    {
+      "outlet": "France Inter",
+      "lean": "non classé",
+      "url": "https://www.radiofrance.fr/franceinter/rss"
+    },
+    {
+      "outlet": "France Culture",
+      "lean": "non classé",
+      "url": "https://www.radiofrance.fr/franceculture/rss"
+    },
+    {
+      "outlet": "Europe 1",
+      "lean": "non classé",
+      "url": "https://www.europe1.fr/rss.xml"
+    },
+    {
+      "outlet": "Sud Radio",
+      "lean": "non classé",
+      "url": "https://www.sudradio.fr/rss"
+    },
+    {
+      "outlet": "Radio Classique",
+      "lean": "non classé",
+      "url": "https://www.radioclassique.fr/feed/"
+    },
+    {
+      "outlet": "Le Nouvel Obs",
+      "lean": "centre-gauche",
+      "url": "https://www.nouvelobs.com/politique/rss.xml"
+    }
   ]
 }
