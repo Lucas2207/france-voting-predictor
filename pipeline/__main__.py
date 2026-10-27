@@ -38,6 +38,7 @@ def main():
     args = ap.parse_args()
 
     os.chdir(ROOT)
+    failed = False
     candidates = _load(Path("config/candidates.json"), {})["candidates"]
     feeds = _load(Path("config/feeds.json"), {})["feeds"]
     today = datetime.now(news.PARIS).date()
@@ -77,21 +78,29 @@ def main():
     elif not (os.environ.get("ANTHROPIC_API_KEY") or os.environ.get("ANTHROPIC_AUTH_TOKEN")):
         print("⚠️  ANTHROPIC_API_KEY absente : analyse de tonalité et détection d'événements sautées", file=sys.stderr)
     else:
+        import anthropic
         from . import analyze
         print(f"🤖 Analyse avec {analyze.MODEL} (effort {analyze.EFFORT})")
         client = analyze._client()
-        for day in recent_days:
-            arts = news.load_day(day)
-            n = analyze.score_articles(arts, candidates, client)
-            if n:
-                news.save_day(day, arts)
-                print(f"   {day} : {n} articles analysés")
-            # événements : uniquement pour les journées terminées, une seule fois
-            if day < today.isoformat() and day not in events["checked_days"]:
-                found = analyze.detect_events(day, arts, candidates, client)
-                events["events"].extend(found)
-                events["checked_days"].append(day)
-                print(f"   {day} : {len(found)} événement(s) détecté(s)")
+        try:
+            for day in recent_days:
+                arts = news.load_day(day)
+                n = analyze.score_articles(arts, candidates, client)
+                if n:
+                    news.save_day(day, arts)
+                    print(f"   {day} : {n} articles analysés")
+                # événements : uniquement pour les journées terminées, une seule fois
+                if day < today.isoformat() and day not in events["checked_days"]:
+                    found = analyze.detect_events(day, arts, candidates, client)
+                    if found is None:
+                        continue  # échec : on retentera ce jour au prochain passage
+                    events["events"].extend(found)
+                    events["checked_days"].append(day)
+                    print(f"   {day} : {len(found)} événement(s) détecté(s)")
+        except (anthropic.AuthenticationError, anthropic.PermissionDeniedError) as exc:
+            # Sondages et presse restent publiés, mais l'exécution doit apparaître en échec
+            print(f"❌ Clé API refusée, analyse Claude interrompue : {exc}", file=sys.stderr)
+            failed = True
         _save(EVENTS_FILE, events)
 
     # 5. Modèle et sortie
@@ -132,7 +141,8 @@ def main():
     _save(OUTPUT, output)
     print(f"✅ {OUTPUT} écrit : {len(projection)} candidats, {len(history)} jours d'historique, "
           f"{analysed}/{total_articles} articles analysés")
+    return 1 if failed else 0
 
 
 if __name__ == "__main__":
-    main()
+    sys.exit(main())

@@ -131,6 +131,16 @@ class AnalyzeTest(unittest.TestCase):
         self.assertEqual([e["title"] for e in events], ["Deux médias"])
         self.assertEqual(events[0]["candidates"], ["lepen"])
 
+    def test_failed_event_detection_returns_none_for_retry(self):
+        from pipeline import analyze
+
+        class RefusingClient(FakeClient):
+            def _create(self, **kwargs):
+                return SimpleNamespace(stop_reason="refusal", _request_id="req_test", content=[], usage=None)
+
+        day = [{"outlet": f"M{i}", "title": "t", "url": "https://x"} for i in range(6)]
+        self.assertIsNone(analyze.detect_events("2026-10-26", day, CANDIDATES, RefusingClient([])))
+
 
 if __name__ == "__main__":
     unittest.main()

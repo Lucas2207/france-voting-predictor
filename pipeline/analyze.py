@@ -144,6 +144,8 @@ def score_articles(articles, candidates, client=None):
             lines.append(f"\n[idx {i}] {a['outlet']} — {a['title']}\n{a['summary']}")
         try:
             data, usage = _call(client, SCORING_SYSTEM, "\n".join(lines), schema, max_tokens=16000)
+        except (anthropic.AuthenticationError, anthropic.PermissionDeniedError):
+            raise  # inutile d'essayer les autres lots : la clé est refusée
         except (AnalysisError, anthropic.APIError, json.JSONDecodeError) as exc:
             print(f"⚠️  lot ignoré ({len(batch)} articles) : {exc}", file=sys.stderr)
             continue
@@ -163,7 +165,10 @@ def score_articles(articles, candidates, client=None):
 
 
 def detect_events(day, articles, candidates, client=None):
-    """Événements marquants du jour, appuyés sur au moins deux médias."""
+    """Événements marquants du jour, appuyés sur au moins deux médias.
+
+    Retourne None si l'appel a échoué (la journée sera retentée au prochain passage).
+    """
     if len(articles) < 5:
         return []
     client = client or _client()
@@ -174,9 +179,11 @@ def detect_events(day, articles, candidates, client=None):
         lines.append(f"[idx {i}] {a['outlet']} — {a['title']}")
     try:
         data, _ = _call(client, EVENTS_SYSTEM, "\n".join(lines), EVENTS_SCHEMA, max_tokens=8000)
+    except (anthropic.AuthenticationError, anthropic.PermissionDeniedError):
+        raise
     except (AnalysisError, anthropic.APIError, json.JSONDecodeError) as exc:
         print(f"⚠️  détection d'événements ignorée pour {day} : {exc}", file=sys.stderr)
-        return []
+        return None
     events = []
     for ev in data["events"]:
         sources = [articles[i] for i in ev["article_idx"] if 0 <= i < len(articles)]
