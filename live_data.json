@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-10-27 21:02",
+ "last_updated": "2026-10-27 21:03",
  "today": "2026-10-27",
  "candidates": [
   {
@@ -170,9 +170,9 @@
    "n_polls": 8,
    "change_7d": -0.4,
    "media": {
-    "articles_7d": 50,
-    "share_7d": 0.345,
-    "tone_7d": -0.28,
+    "articles_7d": 51,
+    "share_7d": 0.347,
+    "tone_7d": -0.31,
     "tone_baseline": null,
     "adjustment": 0.0,
     "status": "calibrage"
@@ -189,9 +189,9 @@
    "n_polls": 8,
    "change_7d": 0.7,
    "media": {
-    "articles_7d": 24,
-    "share_7d": 0.166,
-    "tone_7d": -0.2,
+    "articles_7d": 25,
+    "share_7d": 0.17,
+    "tone_7d": -0.23,
     "tone_baseline": null,
     "adjustment": 0.0,
     "status": "calibrage"
@@ -209,7 +209,7 @@
    "change_7d": 0.0,
    "media": {
     "articles_7d": 9,
-    "share_7d": 0.062,
+    "share_7d": 0.061,
     "tone_7d": -0.72,
     "tone_baseline": null,
     "adjustment": 0.0,
@@ -228,7 +228,7 @@
    "change_7d": 0.8,
    "media": {
     "articles_7d": 18,
-    "share_7d": 0.124,
+    "share_7d": 0.122,
     "tone_7d": -0.18,
     "tone_baseline": null,
     "adjustment": 0.0,
@@ -247,7 +247,7 @@
    "change_7d": 0.5,
    "media": {
     "articles_7d": 3,
-    "share_7d": 0.021,
+    "share_7d": 0.02,
     "tone_7d": -1.0,
     "tone_baseline": null,
     "adjustment": 0.0,
@@ -266,7 +266,7 @@
    "change_7d": 0.1,
    "media": {
     "articles_7d": 4,
-    "share_7d": 0.028,
+    "share_7d": 0.027,
     "tone_7d": -0.17,
     "tone_baseline": null,
     "adjustment": 0.0,
@@ -13204,12 +13204,12 @@
    "date": "2026-10-27",
    "candidates": {
     "lepen": {
-     "articles": 24,
-     "tone": -0.12
+     "articles": 25,
+     "tone": -0.16
     },
     "melenchon": {
-     "articles": 16,
-     "tone": -0.12
+     "articles": 17,
+     "tone": -0.18
     },
     "glucksmann": {
      "articles": 12,
@@ -13455,12 +13455,12 @@
   },
   "BFMTV": {
    "melenchon": {
-    "tone": 0.0,
-    "n": 3
+    "tone": -0.25,
+    "n": 4
    },
    "lepen": {
-    "tone": 0.0,
-    "n": 1
+    "tone": -0.5,
+    "n": 2
    },
    "retailleau": {
     "tone": 0.0,
@@ -14068,7 +14068,7 @@
      "channel_id": "UCU3z3px1_RCqYBwrs8LJVWg",
      "subscribers": 224000,
      "views": 93191283,
-     "videos": 1016
+     "videos": 1017
     }
    },
    {
@@ -14117,6 +14117,30 @@
      "subscribers": 9360,
      "views": 1593793,
      "videos": 188
+    }
+   },
+   {
+    "id": "glucksmann",
+    "name": "Raphaël Glucksmann",
+    "color": null,
+    "views": [
+     392290
+    ],
+    "change": [
+     0
+    ],
+    "subscribers": [
+     2930
+    ],
+    "latest": {
+     "date": "2026-10-27",
+     "id": "glucksmann",
+     "kind": "candidate",
+     "title": "Place publique",
+     "channel_id": "UCixe3VYdKvKavOyopBxsKCw",
+     "subscribers": 2930,
+     "views": 392290,
+     "videos": 430
     }
    },
    {
@@ -14310,7 +14334,7 @@
      "channel_id": "UCXwDLMDV86ldKoFVc_g8P0g",
      "subscribers": 2710000,
      "views": 1948655352,
-     "videos": 84615
+     "videos": 84616
     }
    },
    {
@@ -14334,7 +14358,7 @@
      "channel_id": "UCO6K_kkdP-lnSCiO3tPx7WA",
      "subscribers": 1090000,
      "views": 670416957,
-     "videos": 28977
+     "videos": 28981
     }
    },
    {
@@ -14406,7 +14430,7 @@
      "channel_id": "UCXKJrYczY2_fJEZgFPGY0HQ",
      "subscribers": 652000,
      "views": 507413802,
-     "videos": 40293
+     "videos": 40295
     }
    },
    {
@@ -14430,7 +14454,7 @@
      "channel_id": "UCJldRgT_D7Am-ErRHQZ90uw",
      "subscribers": 1440000,
      "views": 2239017805,
-     "videos": 52881
+     "videos": 52882
     }
    },
    {
@@ -14650,6 +14674,246 @@
      "views": 95000324,
      "videos": 616
     }
+   },
+   {
+    "id": "marechal",
+    "name": "Marion Maréchal",
+    "color": null,
+    "views": [
+     38772264
+    ],
+    "change": [
+     0
+    ],
+    "subscribers": [
+     127000
+    ],
+    "latest": {
+     "date": "2026-10-27",
+     "id": "marechal",
+     "kind": "influencer",
+     "title": "Marion Maréchal",
+     "channel_id": "UCwupzUX-SYyt3y4yx8cYdpg",
+     "subscribers": 127000,
+     "views": 38772264,
+     "videos": 570
+    }
+   },
+   {
+    "id": "hassan",
+    "name": "Rima Hassan",
+    "color": null,
+    "views": [
+     9992613
+    ],
+    "change": [
+     0
+    ],
+    "subscribers": [
+     60400
+    ],
+    "latest": {
+     "date": "2026-10-27",
+     "id": "hassan",
+     "kind": "influencer",
+     "title": "Rima Hassan",
+     "channel_id": "UC33gQfThN0fxgwfwFlNn6XQ",
+     "subscribers": 60400,
+     "views": 9992613,
+     "videos": 133
+    }
+   },
+   {
+    "id": "guiraud",
+    "name": "Guiraud",
+    "color": null,
+    "views": [
+     46797357
+    ],
+    "change": [
+     0
+    ],
+    "subscribers": [
+     136000
+    ],
+    "latest": {
+     "date": "2026-10-27",
+     "id": "guiraud",
+     "kind": "influencer",
+     "title": "David Guiraud",
+     "channel_id": "UCNlu6bn_Vu37IDINEpVlEog",
+     "subscribers": 136000,
+     "views": 46797357,
+     "videos": 334
+    }
+   },
+   {
+    "id": "guette",
+    "name": "Clémence Guetté",
+    "color": null,
+    "views": [
+     30682724
+    ],
+    "change": [
+     0
+    ],
+    "subscribers": [
+     95300
+    ],
+    "latest": {
+     "date": "2026-10-27",
+     "id": "guette",
+     "kind": "influencer",
+     "title": "Clémence Guetté",
+     "channel_id": "UCpU9riAixpc1Xn9Q4i7AkOw",
+     "subscribers": 95300,
+     "views": 30682724,
+     "videos": 580
+    }
+   },
+   {
+    "id": "bompard",
+    "name": "Manuel Bompard",
+    "color": null,
+    "views": [
+     104096188
+    ],
+    "change": [
+     0
+    ],
+    "subscribers": [
+     225000
+    ],
+    "latest": {
+     "date": "2026-10-27",
+     "id": "bompard",
+     "kind": "influencer",
+     "title": "Manuel Bompard",
+     "channel_id": "UCr7r7gh9N45WVwYAmHQ3m3w",
+     "subscribers": 225000,
+     "views": 104096188,
+     "videos": 1062
+    }
+   },
+   {
+    "id": "darmanin",
+    "name": "Gérald Darmanin",
+    "color": null,
+    "views": [
+     2146
+    ],
+    "change": [
+     0
+    ],
+    "subscribers": [
+     1080
+    ],
+    "latest": {
+     "date": "2026-10-27",
+     "id": "darmanin",
+     "kind": "influencer",
+     "title": "Gérald DARMANIN",
+     "channel_id": "UCAkBdKn0B-xUlr6TLPx14wg",
+     "subscribers": 1080,
+     "views": 2146,
+     "videos": 1
+    }
+   },
+   {
+    "id": "faure",
+    "name": "Olivier Faure",
+    "color": null,
+    "views": [
+     98999
+    ],
+    "change": [
+     0
+    ],
+    "subscribers": [
+     135
+    ],
+    "latest": {
+     "date": "2026-10-27",
+     "id": "faure",
+     "kind": "influencer",
+     "title": "Olivier Faure",
+     "channel_id": "UCZ77yq9aznMT9slLfWOCSlg",
+     "subscribers": 135,
+     "views": 98999,
+     "videos": 35
+    }
+   },
+   {
+    "id": "delga",
+    "name": "Carole Delga",
+    "color": null,
+    "views": [
+     48843
+    ],
+    "change": [
+     0
+    ],
+    "subscribers": [
+     399
+    ],
+    "latest": {
+     "date": "2026-10-27",
+     "id": "delga",
+     "kind": "influencer",
+     "title": "La République En Commun",
+     "channel_id": "UCnBiC9JAFRdmM9forUu77Lg",
+     "subscribers": 399,
+     "views": 48843,
+     "videos": 101
+    }
+   },
+   {
+    "id": "wauquiez",
+    "name": "Laurent Wauquiez",
+    "color": null,
+    "views": [
+     1319734
+    ],
+    "change": [
+     0
+    ],
+    "subscribers": [
+     4470
+    ],
+    "latest": {
+     "date": "2026-10-27",
+     "id": "wauquiez",
+     "kind": "influencer",
+     "title": "Laurent Wauquiez",
+     "channel_id": "UCjo4wCbga9X01yGwm0gB0Wg",
+     "subscribers": 4470,
+     "views": 1319734,
+     "videos": 457
+    }
+   },
+   {
+    "id": "pecresse",
+    "name": "Valérie Pécresse",
+    "color": null,
+    "views": [
+     1099435
+    ],
+    "change": [
+     0
+    ],
+    "subscribers": [
+     5410
+    ],
+    "latest": {
+     "date": "2026-10-27",
+     "id": "pecresse",
+     "kind": "influencer",
+     "title": "Valérie Pécresse",
+     "channel_id": "UCXAKlEXGwoavQuOMaNBeaXw",
+     "subscribers": 5410,
+     "views": 1099435,
+     "videos": 444
+    }
    }
   ]
  },
@@ -14661,8 +14925,8 @@
    "statut": "non_candidat",
    "note": "",
    "followers": null,
-   "youtube_views": null,
-   "youtube_subscribers": null
+   "youtube_views": 38772264,
+   "youtube_subscribers": 127000
   },
   {
    "id": "bardella",
@@ -14691,8 +14955,8 @@
    "statut": "non_candidat",
    "note": "",
    "followers": null,
-   "youtube_views": null,
-   "youtube_subscribers": null
+   "youtube_views": 9992613,
+   "youtube_subscribers": 60400
   },
   {
    "id": "guiraud",
@@ -14701,8 +14965,8 @@
    "statut": "non_candidat",
    "note": "",
    "followers": null,
-   "youtube_views": null,
-   "youtube_subscribers": null
+   "youtube_views": 46797357,
+   "youtube_subscribers": 136000
   },
   {
    "id": "guette",
@@ -14711,8 +14975,8 @@
    "statut": "non_candidat",
    "note": "",
    "followers": null,
-   "youtube_views": null,
-   "youtube_subscribers": null
+   "youtube_views": 30682724,
+   "youtube_subscribers": 95300
   },
   {
    "id": "bompard",
@@ -14721,8 +14985,8 @@
    "statut": "non_candidat",
    "note": "",
    "followers": null,
-   "youtube_views": null,
-   "youtube_subscribers": null
+   "youtube_views": 104096188,
+   "youtube_subscribers": 225000
   },
   {
    "id": "legendre",
@@ -14761,8 +15025,8 @@
    "statut": "non_candidat",
    "note": "",
    "followers": null,
-   "youtube_views": null,
-   "youtube_subscribers": null
+   "youtube_views": 2146,
+   "youtube_subscribers": 1080
   },
   {
    "id": "sejourne",
@@ -14781,8 +15045,8 @@
    "statut": "non_candidat",
    "note": "",
    "followers": null,
-   "youtube_views": null,
-   "youtube_subscribers": null
+   "youtube_views": 98999,
+   "youtube_subscribers": 135
   },
   {
    "id": "delga",
@@ -14791,8 +15055,8 @@
    "statut": "non_candidat",
    "note": "Pas de compte nominatif : la chaîne est celle de son mouvement, La République en commun.",
    "followers": null,
-   "youtube_views": null,
-   "youtube_subscribers": null
+   "youtube_views": 48843,
+   "youtube_subscribers": 399
   },
   {
    "id": "wauquiez",
@@ -14801,8 +15065,8 @@
    "statut": "non_candidat",
    "note": "",
    "followers": null,
-   "youtube_views": null,
-   "youtube_subscribers": null
+   "youtube_views": 1319734,
+   "youtube_subscribers": 4470
   },
   {
    "id": "pecresse",
@@ -14811,8 +15075,8 @@
    "statut": "non_candidat",
    "note": "",
    "followers": null,
-   "youtube_views": null,
-   "youtube_subscribers": null
+   "youtube_views": 1099435,
+   "youtube_subscribers": 5410
   },
   {
    "id": "knafo",
@@ -14875,7 +15139,223 @@
    "youtube_subscribers": 52800
   }
  ],
- "youtube_status": [],
+ "youtube_status": [
+  {
+   "id": "lepen",
+   "ok": true,
+   "title": "Marine Le Pen"
+  },
+  {
+   "id": "melenchon",
+   "ok": true,
+   "title": "JEAN-LUC MÉLENCHON"
+  },
+  {
+   "id": "philippe",
+   "ok": true,
+   "title": "Edouard Philippe"
+  },
+  {
+   "id": "glucksmann",
+   "ok": true,
+   "title": "Place publique"
+  },
+  {
+   "id": "attal",
+   "ok": true,
+   "title": "Gabriel Attal"
+  },
+  {
+   "id": "zemmour",
+   "ok": true,
+   "title": "Éric Zemmour"
+  },
+  {
+   "id": "retailleau",
+   "ok": true,
+   "title": "Bruno Retailleau"
+  },
+  {
+   "id": "lisnard",
+   "ok": true,
+   "title": "David Lisnard"
+  },
+  {
+   "id": "bardella",
+   "ok": true,
+   "title": "Jordan Bardella"
+  },
+  {
+   "id": "tondelier",
+   "ok": true,
+   "title": "Marine Tondelier"
+  },
+  {
+   "id": "roussel",
+   "ok": true,
+   "title": "Fabien Roussel"
+  },
+  {
+   "id": "dupontaignan",
+   "ok": true,
+   "title": "Nicolas Dupont-Aignan"
+  },
+  {
+   "id": "arthaud",
+   "ok": true,
+   "title": "Nathalie Arthaud"
+  },
+  {
+   "id": "villepin",
+   "ok": true,
+   "title": "Dominique de Villepin"
+  },
+  {
+   "id": "hollande",
+   "ok": false,
+   "error": "handle non renseigné"
+  },
+  {
+   "id": "ruffin",
+   "ok": true,
+   "title": "FRANÇOIS RUFFIN"
+  },
+  {
+   "id": "knafo",
+   "ok": true,
+   "title": "Sarah Knafo"
+  },
+  {
+   "id": "media-bfmtv",
+   "ok": true,
+   "title": "BFMTV"
+  },
+  {
+   "id": "media-franceinfo",
+   "ok": true,
+   "title": "franceinfo"
+  },
+  {
+   "id": "media-tf1info",
+   "ok": true,
+   "title": "TF1"
+  },
+  {
+   "id": "media-lci",
+   "ok": true,
+   "title": "LCI"
+  },
+  {
+   "id": "media-cnews",
+   "ok": true,
+   "title": "CNEWS"
+  },
+  {
+   "id": "media-france-inter",
+   "ok": true,
+   "title": "France Inter"
+  },
+  {
+   "id": "media-europe1",
+   "ok": true,
+   "title": "Europe 1"
+  },
+  {
+   "id": "media-lemonde",
+   "ok": true,
+   "title": "Le Monde"
+  },
+  {
+   "id": "media-mediapart",
+   "ok": true,
+   "title": "Mediapart"
+  },
+  {
+   "id": "media-radionova",
+   "ok": true,
+   "title": "Radio Nova"
+  },
+  {
+   "id": "marechal",
+   "ok": true,
+   "title": "Marion Maréchal"
+  },
+  {
+   "id": "chenu",
+   "ok": false,
+   "error": "handle non renseigné"
+  },
+  {
+   "id": "hassan",
+   "ok": true,
+   "title": "Rima Hassan"
+  },
+  {
+   "id": "guiraud",
+   "ok": true,
+   "title": "David Guiraud"
+  },
+  {
+   "id": "guette",
+   "ok": true,
+   "title": "Clémence Guetté"
+  },
+  {
+   "id": "bompard",
+   "ok": true,
+   "title": "Manuel Bompard"
+  },
+  {
+   "id": "legendre",
+   "ok": false,
+   "error": "handle non renseigné"
+  },
+  {
+   "id": "naegelen",
+   "ok": false,
+   "error": "handle non renseigné"
+  },
+  {
+   "id": "borne",
+   "ok": false,
+   "error": "handle non renseigné"
+  },
+  {
+   "id": "darmanin",
+   "ok": true,
+   "title": "Gérald DARMANIN"
+  },
+  {
+   "id": "sejourne",
+   "ok": false,
+   "error": "handle non renseigné"
+  },
+  {
+   "id": "faure",
+   "ok": true,
+   "title": "Olivier Faure"
+  },
+  {
+   "id": "delga",
+   "ok": true,
+   "title": "La République En Commun"
+  },
+  {
+   "id": "wauquiez",
+   "ok": true,
+   "title": "Laurent Wauquiez"
+  },
+  {
+   "id": "pecresse",
+   "ok": true,
+   "title": "Valérie Pécresse"
+  },
+  {
+   "id": "meunier",
+   "ok": false,
+   "error": "handle non renseigné"
+  }
+ ],
  "parties": [
   {
    "id": "rn",
@@ -14986,7 +15466,7 @@
  },
  "sources": {
   "polls": "https://fr.wikipedia.org/wiki/Liste_de_sondages_sur_l'élection_présidentielle_française_de_2027",
-  "polls_fetched": "2026-10-27T20:44+01:00",
+  "polls_fetched": "2026-10-27T21:02+01:00",
   "feeds": [
    {
     "outlet": "L'Humanité",
@@ -15015,8 +15495,8 @@
    },
    {
     "outlet": "France 24",
-    "ok": true,
-    "items": 30
+    "ok": false,
+    "error": "403 Client Error: Forbidden for url: https://www.france24.com/fr/france/rss"
    },
    {
     "outlet": "RFI",
@@ -15114,8 +15594,8 @@
     "items": 40
    }
   ],
-  "articles_total": 1192,
-  "articles_analysed": 108,
+  "articles_total": 1216,
+  "articles_analysed": 109,
   "media_since": "2026-10-20"
  },
  "parameters": {

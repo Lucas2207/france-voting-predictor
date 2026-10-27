@@ -26,8 +26,8 @@
  },
  {
   "outlet": "France 24",
-  "ok": true,
-  "items": 30
+  "ok": false,
+  "error": "403 Client Error: Forbidden for url: https://www.france24.com/fr/france/rss"
  },
  {
   "outlet": "RFI",
