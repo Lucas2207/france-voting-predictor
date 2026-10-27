@@ -63,12 +63,28 @@
       </div>
     </section>
 
-    <!-- Filtre -->
-    <div class="flex flex-wrap items-center gap-3">
-      <label for="candidateSelect" class="text-xs font-bold text-slate-500 uppercase tracking-wider">Afficher</label>
-      <select id="candidateSelect" class="bg-white border border-slate-300 text-slate-800 text-sm font-semibold rounded-xl p-2.5 focus:ring-2 focus:ring-indigo-500 outline-none"></select>
-      <span class="text-[11px] text-slate-400">Un seul candidat : affiche son intervalle et chaque sondage individuel.</span>
-    </div>
+    <!-- Choix des entités affichées -->
+    <section class="bg-white p-5 rounded-2xl shadow-sm border border-slate-200 space-y-3" id="pickerPanel">
+      <div class="flex flex-wrap items-center justify-between gap-2">
+        <h2 class="text-xs font-bold text-slate-500 uppercase tracking-wider">Entités affichées dans les graphiques</h2>
+        <div class="flex gap-2">
+          <button data-preset="main" class="px-3 py-1.5 rounded-lg bg-slate-100 hover:bg-slate-200 text-xs font-bold text-slate-700">Principaux</button>
+          <button data-preset="all" class="px-3 py-1.5 rounded-lg bg-slate-100 hover:bg-slate-200 text-xs font-bold text-slate-700">Tout</button>
+          <button data-preset="none" class="px-3 py-1.5 rounded-lg bg-slate-100 hover:bg-slate-200 text-xs font-bold text-slate-700">Aucun</button>
+        </div>
+      </div>
+      <div class="grid md:grid-cols-2 gap-6">
+        <div>
+          <p class="text-[11px] font-bold text-slate-400 uppercase tracking-wider mb-2">Candidats</p>
+          <div id="pickerCandidates" class="grid grid-cols-2 lg:grid-cols-3 gap-x-4 gap-y-2"></div>
+        </div>
+        <div>
+          <p class="text-[11px] font-bold text-slate-400 uppercase tracking-wider mb-2">Partis</p>
+          <div id="pickerParties" class="grid grid-cols-2 gap-x-4 gap-y-2"></div>
+        </div>
+      </div>
+      <p class="text-[11px] text-slate-400">Cocher ou décocher une entité met à jour tous les graphiques. Pour isoler une courbe, décochez les autres.</p>
+    </section>
 
     <!-- Graphiques -->
     <div class="grid grid-cols-1 lg:grid-cols-2 gap-6">
@@ -87,6 +103,48 @@
         <div class="relative h-[420px] w-full"><canvas id="mediaChart"></canvas></div>
       </div>
     </div>
+
+    <!-- Abonnés réseaux sociaux -->
+    <section class="bg-white p-6 rounded-2xl shadow-sm border border-slate-200 space-y-4">
+      <div class="flex flex-wrap justify-between items-start gap-3">
+        <div>
+          <h2 class="text-base font-bold text-slate-900">Abonnés sur TikTok, Instagram, X et Facebook</h2>
+          <p class="text-[11px] text-slate-500" id="followersNote">Chargement…</p>
+        </div>
+        <div class="flex gap-2 text-xs">
+          <button data-toggle="followers:total" class="px-3 py-1.5 rounded-lg bg-indigo-600 text-white font-bold">Abonnés cumulés</button>
+          <button data-toggle="followers:change" class="px-3 py-1.5 rounded-lg bg-slate-100 text-slate-700 font-bold">Gain / perte depuis le 1er relevé</button>
+        </div>
+      </div>
+      <div class="grid grid-cols-1 lg:grid-cols-2 gap-6">
+        <div class="space-y-2">
+          <h3 class="text-sm font-bold text-slate-800">Candidats</h3>
+          <div class="relative h-[340px] w-full"><canvas id="followersCandChart"></canvas></div>
+        </div>
+        <div class="space-y-2">
+          <h3 class="text-sm font-bold text-slate-800">Partis</h3>
+          <p class="text-[11px] text-slate-500" id="followersPartyNote"></p>
+          <div class="relative h-[340px] w-full"><canvas id="followersPartyChart"></canvas></div>
+        </div>
+      </div>
+      <div class="overflow-x-auto"><table class="w-full text-xs num" id="followersTable"></table></div>
+    </section>
+
+    <!-- Audience des interviews -->
+    <section class="bg-white p-6 rounded-2xl shadow-sm border border-slate-200 space-y-4">
+      <div class="flex flex-wrap justify-between items-start gap-3">
+        <div>
+          <h2 class="text-base font-bold text-slate-900">Audience des interviews des candidats</h2>
+          <p class="text-[11px] text-slate-500" id="interviewNote">Chargement…</p>
+        </div>
+        <div class="flex gap-2 text-xs">
+          <button data-toggle="interview:viewers" class="px-3 py-1.5 rounded-lg bg-indigo-600 text-white font-bold">Téléspectateurs</button>
+          <button data-toggle="interview:share" class="px-3 py-1.5 rounded-lg bg-slate-100 text-slate-700 font-bold">Part d'audience</button>
+        </div>
+      </div>
+      <div class="relative h-[340px] w-full"><canvas id="interviewChart"></canvas></div>
+      <div class="overflow-x-auto"><table class="w-full text-xs num" id="interviewSummary"></table></div>
+    </section>
 
     <!-- Tonalité par média -->
     <section class="bg-white p-6 rounded-2xl shadow-sm border border-slate-200 space-y-3">
@@ -117,6 +175,8 @@
       <p><strong>Sondages.</strong> Les enquêtes du premier tour sont lues chaque jour sur la page Wikipédia qui les recense (<a id="pollSourceLink" class="text-indigo-600 underline" href="#">source</a>). Un institut teste souvent plusieurs hypothèses : on ne garde que les plus complètes (nombre de candidats maximal), puis on fait la moyenne. Pour chaque jour, on prend le dernier sondage de chaque institut sur 30 jours, pondéré par son ancienneté (demi-vie de 14 jours) et la taille de son échantillon. L'intervalle combine l'erreur d'échantillonnage et l'écart entre instituts.</p>
       <p><strong>Médias.</strong> Les flux RSS politiques d'environ 17 médias, de L'Humanité à Valeurs actuelles, sont collectés chaque jour. Les articles qui citent un candidat sont analysés par Claude (Anthropic), qui note la tonalité du traitement de −2 à +2 et l'angle choisi. Chaque média compte pour une voix, pour qu'un titre très prolifique ne domine pas le résultat.</p>
       <p><strong>Projection.</strong> Projection = moyenne des sondages + ajustement média. L'ajustement vaut <span id="paramBeta">1,5</span> point par unité de variation de tonalité (7 derniers jours comparés aux 28 précédents), plafonné à ±<span id="paramCap">2</span> points, et reste nul tant qu'il n'y a pas 14 jours d'historique médiatique. <strong>Ce coefficient est une hypothèse de travail, pas un paramètre estimé</strong> : il faudra plusieurs mois de données pour vérifier si la tonalité médiatique annonce réellement les évolutions des sondages.</p>
+      <p><strong>Abonnés.</strong> Les nombres d'abonnés ne sont pas récupérés automatiquement : les interfaces des réseaux exigent l'accord du titulaire du compte, et le scraping enfreint leurs conditions. Une fois par semaine, le nombre d'abonnés est lu sur chaque compte et saisi dans un fichier, puis le calcul est fait automatiquement. Le total d'un candidat additionne ses comptes TikTok, Instagram, X et Facebook ; un relevé reste valable 14 jours. Un parti additionne les 5 membres les plus suivis.</p>
+      <p><strong>Interviews.</strong> Claude relève dans les articles de presse les interviews dont l'audience est publiée (téléspectateurs ou part d'audience). Une interview sans chiffre publié n'est pas comptée.</p>
       <p><strong>Limites.</strong> Un flux RSS ne contient que le titre et le chapô. L'analyse automatique peut se tromper. Les flux surreprésentent la presse nationale. Les sondages ne sont pas des prédictions, et l'offre de candidats n'est pas encore fixée.</p>
     </section>
   </div>

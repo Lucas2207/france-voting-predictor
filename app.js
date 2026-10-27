@@ -1,6 +1,7 @@
 /**
  * Schéma de live_data.json (produit par `python -m pipeline`).
  * @typedef {{ id: string, name: string, wiki: string, party: string, badge: string, color: string, main: boolean, aliases: string[] }} Candidate
+ * @typedef {{ id: string, name: string, badge: string, color: string }} Party
  * @typedef {{ articles_7d: number, share_7d: number, tone_7d: number | null, tone_baseline: number | null, adjustment: number, status: 'ok' | 'calibrage' | 'trop_peu_articles' }} MediaSignal
  * @typedef {{ id: string, poll_avg: number, poll_lo: number, poll_hi: number, n_polls: number, change_7d: number | null, media: MediaSignal, projected: number, projected_lo: number, projected_hi: number }} Projection
  * @typedef {{ mean: number, lo: number, hi: number, n_polls: number }} PollAverage
@@ -9,22 +10,32 @@
  * @typedef {{ date: string, candidates: Record<string, { articles: number, tone: number }> }} MediaDay
  * @typedef {{ outlet: string, title: string, url: string }} SourceLink
  * @typedef {{ date: string, title: string, description: string, category: string, candidates: string[], origin: 'presse' | 'wikipedia', sources: SourceLink[] }} CampaignEvent
- * Sous-ensemble des objets Chart.js utilisés dans les callbacks d'infobulle.
- * @typedef {{ dataset: { label: string }, parsed: { y: number }, raw: any, label: string }} TooltipItem
- * @typedef {{ text: string }} LegendItem
  * @typedef {{ outlet: string, ok: boolean, lean?: string, items?: number, error?: string }} FeedStatus
  * @typedef {{ polls?: string, polls_fetched?: string, feeds: FeedStatus[], articles_total: number, articles_analysed: number, media_since: string | null }} Sources
- * @typedef {{ last_updated: string, today: string, candidates: Candidate[], projection: Projection[], history: HistoryEntry[], polls: Poll[], media_daily: MediaDay[], media_by_outlet: Record<string, Record<string, { tone: number, n: number }>>, events: CampaignEvent[], sources: Sources, parameters?: Record<string, number> }} LiveData
+ * @typedef {{ id: string, followers: (number | null)[], change: (number | null)[], latest_by_platform: Record<string, number> }} PersonSeries
+ * @typedef {{ id: string, members: string[], followers: (number | null)[], change: (number | null)[] }} PartySeries
+ * @typedef {{ dates: string[], platforms: string[], candidates: PersonSeries[], parties: PartySeries[] }} Followers
+ * @typedef {{ date: string, candidate: string, channel: string, show: string | null, audience_viewers: number | null, audience_share: number | null, source: SourceLink }} Interview
+ * @typedef {Record<string, { count: number, avg_viewers: number | null, avg_share: number | null }>} InterviewSummary
+ * @typedef {{ last_updated: string, today: string, candidates: Candidate[], parties: Party[], projection: Projection[], history: HistoryEntry[], polls: Poll[], media_daily: MediaDay[], media_by_outlet: Record<string, Record<string, { tone: number, n: number }>>, events: CampaignEvent[], followers: Followers, interviews: Interview[], interview_summary: InterviewSummary, sources: Sources, parameters?: Record<string, number> }} LiveData
  */
 
 /** @type {LiveData} */
 let data = /** @type {LiveData} */ ({});
 /** @type {Record<string, Candidate>} */
 let candById = {};
-/** @type {Chart | null} */
-let pollChart = null;
-/** @type {Chart | null} */
-let mediaChart = null;
+/** @type {Record<string, Party>} */
+let partyById = {};
+/** @type {Record<string, any>} */
+const charts = {};
+
+/** Clés « cand:<id> » et « party:<id> » des entités cochées. */
+/** @type {Set<string>} */
+const selected = new Set();
+/** @type {'total' | 'change'} */
+let followersMode = 'total';
+/** @type {'viewers' | 'share'} */
+let interviewMetric = 'viewers';
 
 const GRID = '#EEF0F3';
 const INK = '#334155';
@@ -49,12 +60,32 @@ const esc = (s) => String(s ?? '').replace(/[&<>"']/g, c => HTML_ESCAPES[c]);
 const fmt = (v, digits = 1) => v == null ? '—' : v.toLocaleString('fr-FR', { minimumFractionDigits: digits, maximumFractionDigits: digits });
 /** @param {number | null | undefined} v @param {number} [digits] */
 const signed = (v, digits = 1) => v == null ? '—' : (v > 0 ? '+' : v < 0 ? '−' : '') + fmt(Math.abs(v), digits);
+/** Abonnés lisibles : 1,23 M, 850 k, 4 210. @param {number | null | undefined} v */
+const compact = (v) => {
+  if (v == null) return '—';
+  const a = Math.abs(v);
+  if (a >= 1e6) return `${fmt(v / 1e6, 2)} M`;
+  if (a >= 1e3) return `${fmt(v / 1e3, 0)} k`;
+  return fmt(v, 0);
+};
 /** @param {string | null | undefined} u */
 const safeUrl = (u) => /^https?:\/\//.test(u || '') ? u : '#';
-
-/** @param {Candidate} c */
-function badge(c) {
-  return `<span class="inline-block w-2.5 h-2.5 rounded-full mr-1.5 align-middle" style="background:${c.color}" aria-hidden="true"></span>`;
+/** @param {string} hex @param {number} a */
+function hexA(hex, a) {
+  const n = parseInt(hex.slice(1), 16);
+  return `rgba(${(n >> 16) & 255}, ${(n >> 8) & 255}, ${n & 255}, ${a})`;
+}
+/** @param {string} id @returns {HTMLCanvasElement} */
+const canvas = (id) => /** @type {HTMLCanvasElement} */ ($(id));
+/** @param {string} key */
+function nameOf(key) {
+  const [kind, id] = key.split(':');
+  return kind === 'cand' ? candById[id].name : partyById[id].name;
+}
+/** @param {string} key */
+function colorOf(key) {
+  const [kind, id] = key.split(':');
+  return kind === 'cand' ? candById[id].color : partyById[id].color;
 }
 
 async function init() {
@@ -67,6 +98,7 @@ async function init() {
     return;
   }
   data.candidates.forEach(c => { candById[c.id] = c; });
+  (data.parties || []).forEach(p => { partyById[p.id] = p; });
 
   const src = data.sources || {};
   $('lastUpdated').textContent = `Mis à jour : ${data.last_updated}`;
@@ -79,16 +111,75 @@ async function init() {
     $('paramCap').textContent = fmt(data.parameters.MEDIA_CAP, 0);
   }
 
-  const select = /** @type {HTMLSelectElement} */ ($('candidateSelect'));
-  const shown = data.projection.map(p => candById[p.id]);
-  select.innerHTML = '<option value="MAIN">Principaux candidats</option>' +
-    shown.map(c => `<option value="${c.id}">${esc(c.name)} (${esc(c.badge)})</option>`).join('');
-  select.addEventListener('change', () => renderCharts(select.value));
+  // Sélection initiale : les candidats principaux et tous les partis
+  data.candidates.filter(c => c.main).forEach(c => selected.add(`cand:${c.id}`));
+  (data.parties || []).forEach(p => selected.add(`party:${p.id}`));
+  buildPicker();
 
   renderProjection();
-  renderCharts('MAIN');
   renderOutlets();
   renderEvents();
+  renderAll();
+}
+
+/** @param {string} key @param {string} label @param {string} color @param {string} badge */
+function checkbox(key, label, color, badge) {
+  const on = selected.has(key) ? 'checked' : '';
+  return `<label class="flex items-center gap-2 text-xs font-semibold text-slate-700 cursor-pointer hover:text-slate-900">
+    <input type="checkbox" data-key="${esc(key)}" class="rounded border-slate-300 text-indigo-600 focus:ring-indigo-500" ${on}>
+    <span class="inline-block w-2.5 h-2.5 rounded-full" style="background:${esc(color)}" aria-hidden="true"></span>
+    <span>${esc(label)}</span><span class="text-[10px] text-slate-400">${esc(badge)}</span></label>`;
+}
+
+function buildPicker() {
+  $('pickerCandidates').innerHTML = data.candidates.map(c => checkbox(`cand:${c.id}`, c.name, c.color, c.badge)).join('');
+  $('pickerParties').innerHTML = (data.parties || []).map(p => checkbox(`party:${p.id}`, p.name, p.color, p.badge)).join('');
+  $('pickerPanel').addEventListener('change', (ev) => {
+    const t = ev.target;
+    if (!(t instanceof HTMLInputElement) || !t.dataset.key) return;
+    if (t.checked) selected.add(t.dataset.key); else selected.delete(t.dataset.key);
+    renderAll();
+  });
+  $('pickerPanel').addEventListener('click', (ev) => {
+    const t = ev.target;
+    if (!(t instanceof HTMLButtonElement) || !t.dataset.preset) return;
+    /** @type {string[]} */
+    let keys = [];
+    if (t.dataset.preset === 'all') {
+      keys = [...data.candidates.map(c => `cand:${c.id}`), ...(data.parties || []).map(p => `party:${p.id}`)];
+    } else if (t.dataset.preset === 'main') {
+      keys = [...data.candidates.filter(c => c.main).map(c => `cand:${c.id}`), ...(data.parties || []).map(p => `party:${p.id}`)];
+    }
+    selected.clear();
+    keys.forEach(k => selected.add(k));
+    document.querySelectorAll('#pickerPanel input[data-key]').forEach(i => {
+      if (i instanceof HTMLInputElement) i.checked = selected.has(i.dataset.key || '');
+    });
+    renderAll();
+  });
+  document.querySelectorAll('[data-toggle]').forEach(btn => {
+    btn.addEventListener('click', (ev) => {
+      const t = /** @type {HTMLButtonElement} */ (ev.currentTarget);
+      const [group, value] = (t.dataset.toggle || '').split(':');
+      if (group === 'followers') followersMode = /** @type {'total' | 'change'} */ (value);
+      if (group === 'interview') interviewMetric = /** @type {'viewers' | 'share'} */ (value);
+      document.querySelectorAll(`[data-toggle^="${group}:"]`).forEach(b => {
+        const on = /** @type {HTMLButtonElement} */ (b).dataset.toggle === t.dataset.toggle;
+        b.classList.toggle('bg-indigo-600', on);
+        b.classList.toggle('text-white', on);
+        b.classList.toggle('bg-slate-100', !on);
+        b.classList.toggle('text-slate-700', !on);
+      });
+      renderAll();
+    });
+  });
+}
+
+function renderAll() {
+  renderPollChart();
+  renderMediaChart();
+  renderFollowers();
+  renderInterviews();
 }
 
 function renderProjection() {
@@ -103,32 +194,228 @@ function renderProjection() {
     const m = p.media;
     const ch = p.change_7d;
     const chCls = ch != null && ch > 0.2 ? 'text-emerald-700' : ch != null && ch < -0.2 ? 'text-rose-700' : 'text-slate-500';
+    const lowN = p.n_polls < 5
+      ? ` <span class="block text-[10px] text-amber-700">testé dans ${p.n_polls} sondage(s) seulement</span>` : '';
+    const adj = m.status === 'ok'
+      ? signed(m.adjustment)
+      : `0 <span class="text-[10px]">(${m.status === 'calibrage' ? 'calibrage' : 'peu d\'articles'})</span>`;
     return `<tr class="border-b border-slate-100 hover:bg-slate-50">
-      <td class="py-2 pr-3 font-semibold text-slate-900 whitespace-nowrap">${badge(c)}${esc(c.name)} <span class="text-[11px] font-medium text-slate-400">${esc(c.badge)}</span></td>
+      <td class="py-2 pr-3 font-semibold text-slate-900 whitespace-nowrap"><span class="inline-block w-2.5 h-2.5 rounded-full mr-1.5 align-middle" style="background:${c.color}" aria-hidden="true"></span>${esc(c.name)} <span class="text-[11px] font-medium text-slate-400">${esc(c.badge)}</span></td>
       <td class="py-2 px-3 text-right">${fmt(p.poll_avg)} %</td>
-      <td class="py-2 px-3 text-right text-slate-500">${fmt(p.poll_lo)} – ${fmt(p.poll_hi)}${p.n_polls < 5 ? ` <span class="block text-[10px] text-amber-700">testé dans ${p.n_polls} sondage(s) seulement</span>` : ''}</td>
+      <td class="py-2 px-3 text-right text-slate-500">${fmt(p.poll_lo)} – ${fmt(p.poll_hi)}${lowN}</td>
       <td class="py-2 px-3 text-right ${chCls}">${signed(ch)}</td>
       <td class="py-2 px-3 text-right">${m.articles_7d}</td>
       <td class="py-2 px-3 text-right">${m.articles_7d ? fmt(m.share_7d * 100, 0) + ' %' : '—'}</td>
       <td class="py-2 px-3 text-right">${signed(m.tone_7d, 2)}</td>
-      <td class="py-2 px-3 text-right text-slate-500">${m.status === 'ok' ? signed(m.adjustment) : '0 <span class="text-[10px]">(' + (m.status === 'calibrage' ? 'calibrage' : 'peu d\'articles') + ')</span>'}</td>
+      <td class="py-2 px-3 text-right text-slate-500">${adj}</td>
       <td class="py-2 pl-3 text-right font-extrabold text-slate-900">${fmt(p.projected)} %</td>
     </tr>`;
   }).join('');
 }
 
-/** @param {string} sel */
-function selectedIds(sel) {
-  if (sel !== 'MAIN') return [sel];
-  return data.projection.map(p => p.id).filter(id => candById[id].main);
+function renderPollChart() {
+  const cands = data.candidates.filter(c => selected.has(`cand:${c.id}`));
+  const single = cands.length === 1;
+  const hist = data.history;
+  const labels = hist.map(h => h.date);
+  const indexByDate = new Map(labels.map((d, i) => [d, i]));
+
+  /** @type {any[]} */
+  const datasets = [];
+  cands.forEach(c => {
+    if (single) {
+      // Intervalle à 95 % : bande entre lo et hi (lavis ~12 %)
+      datasets.push({ label: '_hi', data: hist.map(h => h.polls[c.id]?.hi ?? null), borderWidth: 0, pointRadius: 0, fill: false });
+      datasets.push({ label: '_lo', data: hist.map(h => h.polls[c.id]?.lo ?? null), borderWidth: 0, pointRadius: 0,
+                      fill: '-1', backgroundColor: hexA(c.color, 0.12) });
+    }
+    datasets.push({
+      label: c.name, data: hist.map(h => h.polls[c.id]?.mean ?? null),
+      borderColor: c.color, backgroundColor: c.color, borderWidth: single ? 4 : 2.5, pointRadius: 0,
+      pointHoverRadius: 5, tension: 0.25, spanGaps: true,
+    });
+    if (single) {
+      // Sondages individuels, moyennés si plusieurs enquêtes tombent le même jour
+      /** @type {Map<number, number[]>} */
+      const byIndex = new Map();
+      data.polls.forEach(p => {
+        const i = indexByDate.get(p.end_date);
+        const v = p.scores[c.wiki];
+        if (i === undefined || v == null) return;
+        byIndex.set(i, [...(byIndex.get(i) || []), v]);
+      });
+      datasets.push({
+        label: 'Sondage individuel', showLine: false,
+        data: labels.map((_, i) => {
+          const vs = byIndex.get(i);
+          return vs ? vs.reduce((a, b) => a + b, 0) / vs.length : null;
+        }),
+        borderColor: c.color, backgroundColor: hexA(c.color, 0.45), pointRadius: 4, pointBorderColor: '#FFFFFF',
+      });
+    }
+  });
+
+  if (charts.poll) charts.poll.destroy();
+  charts.poll = new Chart(canvas('pollChart'), {
+    type: 'line', data: { labels, datasets },
+    options: lineOptions('%', { legend: true, tooltipLabel: (/** @type {any} */ item) => ` ${item.dataset.label} : ${fmt(item.parsed.y)} %` }),
+  });
+}
+
+function renderMediaChart() {
+  const cands = data.candidates.filter(c => selected.has(`cand:${c.id}`));
+  const md = data.media_daily || [];
+  const labels = md.map(d => d.date);
+  const datasets = cands.map(c => ({
+    label: c.name, data: md.map(d => d.candidates[c.id]?.articles ?? 0),
+    borderColor: c.color, backgroundColor: c.color, borderWidth: 2.5, pointRadius: md.length < 10 ? 4 : 0,
+    pointHoverRadius: 5, tension: 0.25,
+  }));
+  $('mediaChartNote').textContent = md.length
+    ? `Articles qui traitent du candidat, selon l'analyse de Claude. Collecte depuis le ${md[0].date}.`
+    : "Aucun article analysé pour l'instant : la courbe apparaîtra après la première analyse quotidienne.";
+  if (charts.media) charts.media.destroy();
+  charts.media = new Chart(canvas('mediaChart'), {
+    type: 'line', data: { labels, datasets },
+    options: lineOptions('', { legend: true, tooltipLabel: (/** @type {any} */ item) => ` ${item.dataset.label} : ${item.parsed.y} article(s)` }),
+  });
+}
+
+function renderFollowers() {
+  const f = data.followers;
+  const hasData = f && f.dates.length > 0;
+  const change = followersMode === 'change';
+  const lastDate = hasData ? f.dates[f.dates.length - 1] : null;
+  const ageDays = lastDate ? (Date.parse(data.today) - Date.parse(lastDate)) / 86400000 : 0;
+  const stale = hasData && ageDays > 10 ? ' ⚠️ Relevés anciens : mettre à jour la semaine en cours.' : '';
+  const note = hasData
+    ? `Relevés du ${f.dates[0]} au ${lastDate}. Un relevé reste valable 14 jours.${stale}`
+    : "Aucun relevé d'abonnés pour l'instant : voir la méthodologie pour la saisie hebdomadaire.";
+  $('followersNote').textContent = note;
+  $('followersPartyNote').textContent = hasData
+    ? 'Somme des 5 membres les plus suivis de chaque parti (liste fixée au dernier relevé).'
+    : note;
+
+  /** @type {any[]} */
+  const candSets = [];
+  if (hasData) {
+    f.candidates.filter(s => selected.has(`cand:${s.id}`)).forEach(s => {
+      const values = change ? s.change : s.followers;
+      if (values.every(v => v == null)) return;
+      candSets.push({ label: candById[s.id].name, data: values, borderColor: candById[s.id].color,
+                      backgroundColor: candById[s.id].color, borderWidth: 2.5, pointRadius: f.dates.length < 10 ? 4 : 0,
+                      pointHoverRadius: 5, tension: 0.2, spanGaps: true });
+    });
+  }
+  /** @type {any[]} */
+  const partySets = [];
+  if (hasData) {
+    f.parties.filter(s => selected.has(`party:${s.id}`)).forEach(s => {
+      const values = change ? s.change : s.followers;
+      if (values.every(v => v == null)) return;
+      partySets.push({ label: partyById[s.id].name, data: values, borderColor: partyById[s.id].color,
+                       backgroundColor: partyById[s.id].color, borderWidth: 2.5, pointRadius: f.dates.length < 10 ? 4 : 0,
+                       pointHoverRadius: 5, tension: 0.2, spanGaps: true });
+    });
+  }
+  const labelFmt = change ? (/** @type {number} */ v) => `${v > 0 ? '+' : ''}${compact(v)}` : compact;
+  const opts = lineOptions('', {
+    legend: true,
+    tickFormat: labelFmt,
+    tooltipLabel: (/** @type {any} */ item) => ` ${item.dataset.label} : ${change ? signed(item.parsed.y, 0) : fmt(item.parsed.y, 0)}`,
+  });
+  if (charts.followersCand) charts.followersCand.destroy();
+  charts.followersCand = new Chart(canvas('followersCandChart'), { type: 'line', data: { labels: hasData ? f.dates : [], datasets: candSets }, options: opts });
+  if (charts.followersParty) charts.followersParty.destroy();
+  charts.followersParty = new Chart(canvas('followersPartyChart'), { type: 'line', data: { labels: hasData ? f.dates : [], datasets: partySets }, options: lineOptions('', {
+    legend: true,
+    tickFormat: labelFmt,
+    tooltipLabel: (/** @type {any} */ item) => ` ${item.dataset.label} : ${change ? signed(item.parsed.y, 0) : fmt(item.parsed.y, 0)}`,
+  }) });
+
+  renderFollowersTable();
+}
+
+function renderFollowersTable() {
+  const f = data.followers;
+  const table = $('followersTable');
+  if (!f || f.dates.length === 0) {
+    table.innerHTML = '<tbody><tr><td class="py-2 text-slate-400">Aucun relevé.</td></tr></tbody>';
+    return;
+  }
+  const platforms = f.platforms;
+  const rows = f.candidates.filter(s => selected.has(`cand:${s.id}`)).map(s => {
+    const latest = s.followers[s.followers.length - 1];
+    const cells = platforms.map(p => `<td class="px-2 py-1 text-right">${compact(s.latest_by_platform[p])}</td>`).join('');
+    const delta = s.change[s.change.length - 1];
+    return `<tr class="border-b border-slate-100"><td class="px-2 py-1 font-semibold whitespace-nowrap"><span class="inline-block w-2 h-2 rounded-full mr-1" style="background:${candById[s.id].color}"></span>${esc(candById[s.id].name)}</td>${cells}<td class="px-2 py-1 text-right font-bold">${compact(latest)}</td><td class="px-2 py-1 text-right ${delta != null && delta < 0 ? 'text-rose-700' : 'text-emerald-700'}">${delta == null ? '—' : signed(delta, 0)}</td></tr>`;
+  }).join('');
+  table.innerHTML = `<thead><tr class="text-[10px] uppercase tracking-wider text-slate-500 border-b border-slate-200">
+      <th class="px-2 py-1 text-left">Candidat</th>${platforms.map(p => `<th class="px-2 py-1 text-right">${esc(p)}</th>`).join('')}
+      <th class="px-2 py-1 text-right">Total</th><th class="px-2 py-1 text-right">Depuis le 1er relevé</th></tr></thead>
+    <tbody>${rows || '<tr><td class="py-2 text-slate-400" colspan="8">Aucun candidat coché.</td></tr>'}</tbody>`;
+}
+
+function renderInterviews() {
+  const ids = new Set(data.candidates.filter(c => selected.has(`cand:${c.id}`)).map(c => c.id));
+  const share = interviewMetric === 'share';
+  const items = (data.interviews || []).filter(i => ids.has(i.candidate) && (share ? i.audience_share != null : i.audience_viewers != null));
+
+  /** @type {any[]} */
+  const datasets = [];
+  data.candidates.filter(c => ids.has(c.id)).forEach(c => {
+    const pts = items.filter(i => i.candidate === c.id).map(i => ({
+      x: Date.parse(i.date), y: share ? i.audience_share : i.audience_viewers,
+      channel: i.channel, show: i.show, outlet: i.source.outlet, url: i.source.url, title: i.source.title,
+    }));
+    if (pts.length === 0) return;
+    datasets.push({ label: c.name, data: pts, borderColor: c.color, backgroundColor: hexA(c.color, 0.75),
+                    pointRadius: 6, pointHoverRadius: 8, pointBorderColor: '#FFFFFF', pointBorderWidth: 1 });
+  });
+
+  const n = items.length;
+  $('interviewNote').textContent = n
+    ? `${n} interview(s) avec audience publiée dans la presse. Cliquez sur une infobulle pour l'article source.`
+    : "Aucune interview avec audience publiée pour les candidats cochés. Les points apparaissent quand la presse rapporte une audience.";
+
+  const opts = /** @type {any} */ (lineOptions(share ? '%' : '', {
+    legend: true,
+    tickFormat: share ? (/** @type {number} */ v) => `${v}%` : compact,
+    tooltipLabel: (/** @type {any} */ item) => ` ${item.dataset.label} : ${share ? fmt(item.parsed.y) + ' %' : fmt(item.parsed.y, 0) + ' téléspectateurs'}`,
+    tooltipAfter: (/** @type {any} */ item) => `   ${item.raw.channel}${item.raw.show ? ' — ' + item.raw.show : ''}`,
+  }));
+  opts.scales.x = { type: 'linear', grid: { display: false }, ticks: { color: MUTED, font: { size: 10 },
+    callback: (/** @type {number} */ v) => new Date(v).toLocaleDateString('fr-FR', { day: '2-digit', month: 'short' }) } };
+  opts.plugins.tooltip.callbacks.afterTitle = undefined;
+  if (charts.interview) charts.interview.destroy();
+  charts.interview = new Chart(canvas('interviewChart'), { type: 'scatter', data: { datasets }, options: opts });
+
+  renderInterviewSummary(ids);
+}
+
+/** @param {Set<string>} ids */
+function renderInterviewSummary(ids) {
+  const summary = data.interview_summary || {};
+  const rows = data.candidates.filter(c => ids.has(c.id)).map(c => {
+    const s = summary[c.id] || { count: 0, avg_viewers: null, avg_share: null };
+    return `<tr class="border-b border-slate-100"><td class="px-2 py-1 font-semibold whitespace-nowrap"><span class="inline-block w-2 h-2 rounded-full mr-1" style="background:${c.color}"></span>${esc(c.name)}</td>
+      <td class="px-2 py-1 text-right">${s.count}</td><td class="px-2 py-1 text-right">${s.avg_viewers == null ? '—' : compact(s.avg_viewers)}</td>
+      <td class="px-2 py-1 text-right">${s.avg_share == null ? '—' : fmt(s.avg_share) + ' %'}</td></tr>`;
+  }).join('');
+  $('interviewSummary').innerHTML = `<thead><tr class="text-[10px] uppercase tracking-wider text-slate-500 border-b border-slate-200">
+      <th class="px-2 py-1 text-left">Candidat</th><th class="px-2 py-1 text-right">Interviews</th>
+      <th class="px-2 py-1 text-right">Audience moyenne</th><th class="px-2 py-1 text-right">Part moyenne</th></tr></thead>
+    <tbody>${rows || '<tr><td class="py-2 text-slate-400" colspan="4">Aucun candidat coché.</td></tr>'}</tbody>`;
 }
 
 /**
+ * Options communes des graphiques en lignes.
  * @param {string} unit
- * @param {{ legend: boolean }} opts
- * @returns {any} options Chart.js
+ * @param {{ legend: boolean, tickFormat?: (v: number) => string, tooltipLabel?: (item: any) => string, tooltipAfter?: (item: any) => string }} opts
+ * @returns {any}
  */
-function chartOptions(unit, { legend }) {
+function lineOptions(unit, { legend, tickFormat, tooltipLabel, tooltipAfter }) {
+  const fmtTick = tickFormat || ((/** @type {number} */ v) => `${v}${unit}`);
   return {
     responsive: true,
     maintainAspectRatio: false,
@@ -138,15 +425,16 @@ function chartOptions(unit, { legend }) {
         display: legend,
         position: 'bottom',
         labels: { boxWidth: 12, boxHeight: 2, font: { size: 11, weight: '600' }, color: INK,
-                  filter: (/** @type {LegendItem} */ item) => !item.text.startsWith('_') },
+                  filter: (/** @type {any} */ item) => !String(item.text).startsWith('_') },
       },
       tooltip: {
         backgroundColor: '#0F172A', padding: 12, cornerRadius: 8, usePointStyle: true,
-        filter: (/** @type {TooltipItem} */ item) => !item.dataset.label.startsWith('_') && item.raw != null,
-        itemSort: (/** @type {TooltipItem} */ a, /** @type {TooltipItem} */ b) => (b.parsed.y ?? 0) - (a.parsed.y ?? 0),
+        filter: (/** @type {any} */ item) => !String(item.dataset.label).startsWith('_') && item.raw != null,
+        itemSort: (/** @type {any} */ a, /** @type {any} */ b) => (b.parsed.y ?? 0) - (a.parsed.y ?? 0),
         callbacks: {
-          label: (/** @type {TooltipItem} */ item) => ` ${item.dataset.label} : ${fmt(item.parsed.y)}${unit}`,
-          afterTitle: (/** @type {TooltipItem[]} */ items) => {
+          label: tooltipLabel || ((/** @type {any} */ item) => ` ${item.dataset.label} : ${fmt(item.parsed.y)}${unit}`),
+          afterBody: tooltipAfter ? (/** @type {any[]} */ items) => items.map(tooltipAfter) : undefined,
+          afterTitle: (/** @type {any[]} */ items) => {
             const date = items[0]?.label;
             const ev = (data.events || []).filter(e => e.date === date);
             return ev.length ? ev.map(e => '📍 ' + e.title.slice(0, 90)).join('\n') : '';
@@ -157,75 +445,9 @@ function chartOptions(unit, { legend }) {
     scales: {
       x: { grid: { display: false }, ticks: { color: MUTED, font: { size: 10 }, maxTicksLimit: 8 } },
       y: { grid: { color: GRID }, border: { display: false }, beginAtZero: true,
-           ticks: { color: MUTED, font: { size: 10 }, callback: (/** @type {number} */ v) => `${v}${unit}` } },
+           ticks: { color: MUTED, font: { size: 10 }, callback: fmtTick } },
     },
   };
-}
-
-/** @param {string} hex @param {number} a */
-function hexA(hex, a) {
-  const n = parseInt(hex.slice(1), 16);
-  return `rgba(${(n >> 16) & 255}, ${(n >> 8) & 255}, ${n & 255}, ${a})`;
-}
-
-/** @param {string} sel */
-function renderCharts(sel) {
-  const ids = selectedIds(sel);
-  const single = ids.length === 1;
-  const hist = data.history;
-  const dates = hist.map(h => h.date);
-
-  /** @type {any[]} datasets Chart.js */
-  const datasets = [];
-  ids.forEach(id => {
-    const c = candById[id];
-    if (single) {
-      // Intervalle à 95 % : bande entre hi et lo (lavis ~10 %)
-      datasets.push({ label: '_hi', data: hist.map(h => h.polls[id]?.hi ?? null), borderWidth: 0, pointRadius: 0, fill: false });
-      datasets.push({ label: '_lo', data: hist.map(h => h.polls[id]?.lo ?? null), borderWidth: 0, pointRadius: 0,
-                      fill: '-1', backgroundColor: hexA(c.color, 0.12) });
-    }
-    datasets.push({
-      label: c.name, data: hist.map(h => h.polls[id]?.mean ?? null),
-      borderColor: c.color, backgroundColor: c.color, borderWidth: 2, pointRadius: 0, pointHoverRadius: 5,
-      tension: 0.25, spanGaps: true, borderCapStyle: 'round', borderJoinStyle: 'round',
-    });
-    if (single) {
-      const pts = data.polls.filter(p => p.scores[c.wiki] != null);
-      datasets.push({
-        type: 'scatter', label: 'Sondage individuel',
-        data: pts.map(p => ({ x: p.end_date, y: p.scores[c.wiki], pollster: p.pollster })),
-        backgroundColor: hexA(c.color, 0.35), borderColor: '#FFFFFF', borderWidth: 1, pointRadius: 4,
-      });
-    }
-  });
-
-  if (pollChart) pollChart.destroy();
-  const pollOpts = chartOptions('%', { legend: true });
-  pollOpts.scales.x.type = 'category';
-  pollOpts.plugins.tooltip.callbacks.label = (/** @type {TooltipItem} */ item) => item.raw?.pollster
-    ? ` ${item.raw.pollster} : ${fmt(item.parsed.y)} %`
-    : ` ${item.dataset.label} : ${fmt(item.parsed.y)} %`;
-  pollChart = new Chart(/** @type {HTMLCanvasElement} */ ($('pollChart')), { type: 'line', data: { labels: dates, datasets }, options: pollOpts });
-
-  // Couverture médiatique : articles par jour
-  const md = data.media_daily || [];
-  const mDates = md.map(d => d.date);
-  const mSets = ids.map(id => {
-    const c = candById[id];
-    return {
-      label: c.name, data: md.map(d => d.candidates[id]?.articles ?? 0),
-      borderColor: c.color, backgroundColor: c.color, borderWidth: 2, pointRadius: md.length < 10 ? 4 : 0,
-      pointHoverRadius: 5, tension: 0.25,
-    };
-  });
-  $('mediaChartNote').textContent = md.length
-    ? `Articles qui traitent du candidat, selon l'analyse de Claude. Collecte depuis le ${md[0].date}.`
-    : "Aucun article analysé pour l'instant : la courbe apparaîtra après la première analyse quotidienne.";
-  if (mediaChart) mediaChart.destroy();
-  const mOpts = chartOptions('', { legend: true });
-  mOpts.plugins.tooltip.callbacks.label = (/** @type {TooltipItem} */ item) => ` ${item.dataset.label} : ${item.parsed.y} article(s)`;
-  mediaChart = new Chart(/** @type {HTMLCanvasElement} */ ($('mediaChart')), { type: 'line', data: { labels: mDates, datasets: mSets }, options: mOpts });
 }
 
 // Diverging bleu <-> rouge, milieu gris neutre

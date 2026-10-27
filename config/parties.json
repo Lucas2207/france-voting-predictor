@@ -1,0 +1,229 @@
+{
+  "_doc": "Partis suivis (8). 'members' = personnes dont on additionne les abonnés ; seules les 5 plus suivies comptent pour le total du parti, et seules les personnes avec au moins un relevé sont retenues. Les entrées « À compléter » sont des places libres : remplacez-les par un id et un nom, puis ajoutez les relevés. Les ids des candidats doivent correspondre à config/candidates.json. Ne pas ajouter de couleur sans relancer scripts/validate_palette.js.",
+  "parties": [
+    {
+      "id": "rn",
+      "name": "Rassemblement national",
+      "badge": "RN",
+      "color": "#2E4A9E",
+      "members": [
+        {
+          "id": "lepen",
+          "name": "Marine Le Pen"
+        },
+        {
+          "id": "marechal",
+          "name": "Marion Maréchal"
+        },
+        {
+          "id": "bardella",
+          "name": "Jordan Bardella"
+        },
+        {
+          "id": "chenu",
+          "name": "Sébastien Chenu"
+        },
+        {
+          "id": "rn-a-completer-1",
+          "name": "À compléter"
+        }
+      ]
+    },
+    {
+      "id": "lfi",
+      "name": "La France insoumise",
+      "badge": "LFI",
+      "color": "#D62839",
+      "members": [
+        {
+          "id": "melenchon",
+          "name": "Jean-Luc Mélenchon"
+        },
+        {
+          "id": "hassan",
+          "name": "Hassan"
+        },
+        {
+          "id": "guiraud",
+          "name": "Guiraud"
+        },
+        {
+          "id": "guette",
+          "name": "Clémence Guetté"
+        },
+        {
+          "id": "bompard",
+          "name": "Manuel Bompard"
+        }
+      ]
+    },
+    {
+      "id": "hor",
+      "name": "Horizons",
+      "badge": "HOR",
+      "color": "#0091CC",
+      "members": [
+        {
+          "id": "philippe",
+          "name": "Édouard Philippe"
+        },
+        {
+          "id": "legendre",
+          "name": "Le Gendre"
+        },
+        {
+          "id": "naegelen",
+          "name": "Naegelen"
+        },
+        {
+          "id": "hor-a-completer-1",
+          "name": "À compléter"
+        },
+        {
+          "id": "hor-a-completer-2",
+          "name": "À compléter"
+        }
+      ]
+    },
+    {
+      "id": "re",
+      "name": "Renaissance",
+      "badge": "RE",
+      "color": "#B97F00",
+      "members": [
+        {
+          "id": "attal",
+          "name": "Gabriel Attal"
+        },
+        {
+          "id": "borne",
+          "name": "Élisabeth Borne"
+        },
+        {
+          "id": "darmanin",
+          "name": "Gérald Darmanin"
+        },
+        {
+          "id": "sejourne",
+          "name": "Stéphane Séjourné"
+        },
+        {
+          "id": "re-a-completer-1",
+          "name": "À compléter"
+        }
+      ]
+    },
+    {
+      "id": "pp",
+      "name": "Place publique / PS",
+      "badge": "PP-PS",
+      "color": "#D9468F",
+      "members": [
+        {
+          "id": "glucksmann",
+          "name": "Raphaël Glucksmann"
+        },
+        {
+          "id": "faure",
+          "name": "Olivier Faure"
+        },
+        {
+          "id": "delga",
+          "name": "Carole Delga"
+        },
+        {
+          "id": "pp-a-completer-1",
+          "name": "À compléter"
+        },
+        {
+          "id": "pp-a-completer-2",
+          "name": "À compléter"
+        }
+      ]
+    },
+    {
+      "id": "lr",
+      "name": "Les Républicains",
+      "badge": "LR",
+      "color": "#0E9F8A",
+      "members": [
+        {
+          "id": "retailleau",
+          "name": "Bruno Retailleau"
+        },
+        {
+          "id": "wauquiez",
+          "name": "Laurent Wauquiez"
+        },
+        {
+          "id": "pecresse",
+          "name": "Valérie Pécresse"
+        },
+        {
+          "id": "lr-a-completer-1",
+          "name": "À compléter"
+        },
+        {
+          "id": "lr-a-completer-2",
+          "name": "À compléter"
+        }
+      ]
+    },
+    {
+      "id": "rec",
+      "name": "Reconquête",
+      "badge": "REC",
+      "color": "#7B52AE",
+      "members": [
+        {
+          "id": "zemmour",
+          "name": "Éric Zemmour"
+        },
+        {
+          "id": "knafo",
+          "name": "Sarah Knafo"
+        },
+        {
+          "id": "meunier",
+          "name": "Meunier"
+        },
+        {
+          "id": "rec-a-completer-1",
+          "name": "À compléter"
+        },
+        {
+          "id": "rec-a-completer-2",
+          "name": "À compléter"
+        }
+      ]
+    },
+    {
+      "id": "ne",
+      "name": "Nouvelle Énergie",
+      "badge": "NE",
+      "color": "#A0522D",
+      "members": [
+        {
+          "id": "lisnard",
+          "name": "David Lisnard"
+        },
+        {
+          "id": "ne-a-completer-1",
+          "name": "À compléter"
+        },
+        {
+          "id": "ne-a-completer-2",
+          "name": "À compléter"
+        },
+        {
+          "id": "ne-a-completer-3",
+          "name": "À compléter"
+        },
+        {
+          "id": "ne-a-completer-4",
+          "name": "À compléter"
+        }
+      ]
+    }
+  ]
+}

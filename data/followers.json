@@ -1,0 +1,4 @@
+{
+  "_doc": "Relevés d'abonnés, saisis à la main (ou via `python -m pipeline.social add`). Un relevé = une personne, une plateforme, une date. platform : tiktok | instagram | x | facebook. Les plateformes ne sont pas accessibles automatiquement : chaque relevé doit être lu sur le compte. 'source' = l'URL du compte ou la capture consultée.",
+  "entries": []
+}

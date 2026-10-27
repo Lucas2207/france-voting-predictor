@@ -3,11 +3,16 @@
 Chaque article n'est analysé qu'une fois (le résultat est stocké dans le fichier du
 jour), donc relancer le pipeline ne refacture pas les articles déjà traités.
 """
+import hashlib
 import json
 import os
+import re
 import sys
+from datetime import date
 
 import anthropic
+
+from .news import normalize
 
 MODEL = os.environ.get("CLAUDE_MODEL", "claude-opus-5-5")
 EFFORT = os.environ.get("CLAUDE_EFFORT", "low")
@@ -34,7 +39,8 @@ Règles :
 - Ne retiens que des faits couverts par au moins deux médias différents dans la liste fournie. Cite les « idx » des articles qui les rapportent.
 - 0 à 4 événements maximum ; renvoie une liste vide si la journée n'a rien de marquant. Ne crée jamais d'événement générique (« point d'actualité », « débats télévisés »).
 - Le titre et la description doivent être strictement factuels et ne contenir que ce que disent les articles fournis. N'invente aucun chiffre ni aucun détail.
-- « candidates » : identifiants des personnalités directement concernées ou mises en avant par l'événement (peut être vide)."""
+- « candidates » : identifiants des personnalités directement concernées ou mises en avant par l'événement (peut être vide).
+- Une liste d'événements déjà signalés peut être fournie. Si un événement du jour est la suite, la répétition ou une nouvelle précision d'un fait déjà listé, renvoie l'id de ce fait dans « existing_id » et ne le recrée pas. « existing_id » vaut null pour un fait nouveau."""
 
 
 def _scoring_schema(candidate_ids):
@@ -85,8 +91,9 @@ EVENTS_SCHEMA = {
                                                              "campagne", "economie", "international", "autre"]},
                     "article_idx": {"type": "array", "items": {"type": "integer"}},
                     "candidates": {"type": "array", "items": {"type": "string"}},
+                    "existing_id": {"type": ["string", "null"]},
                 },
-                "required": ["title", "description", "category", "article_idx", "candidates"],
+                "required": ["title", "description", "category", "article_idx", "candidates", "existing_id"],
                 "additionalProperties": False,
             },
         }
@@ -164,17 +171,81 @@ def score_articles(articles, candidates, client=None):
     return done
 
 
-def detect_events(day, articles, candidates, client=None):
-    """Événements marquants du jour, appuyés sur au moins deux médias.
+STOPWORDS = {"pour", "dans", "avec", "sans", "entre", "contre", "après", "avant", "sont", "était", "dont",
+             "leur", "leurs", "cette", "ces", "aux", "des", "les", "une", "qui", "que", "sur", "par", "est",
+             "selon", "vers", "chez", "comme", "plus", "très", "tout", "tous", "fait", "faire"}
+REPEAT_WINDOW = 7  # jours : au-delà, deux titres proches sont deux événements distincts
 
-    Retourne None si l'appel a échoué (la journée sera retentée au prochain passage).
+
+def _title_tokens(title):
+    return {w for w in re.findall(r"[a-z0-9]+", normalize(title)) if len(w) >= 4 and w not in STOPWORDS}
+
+
+def is_repeat(title_a, title_b):
+    """Titres identiques ou presque (Jaccard >= 0.5 sur les mots significatifs)."""
+    if normalize(title_a) == normalize(title_b):
+        return True
+    a, b = _title_tokens(title_a), _title_tokens(title_b)
+    return bool(a and b) and len(a & b) / len(a | b) >= 0.5
+
+
+def event_id(day, title):
+    return hashlib.sha1(f"{day}|{normalize(title)}".encode()).hexdigest()[:12]
+
+
+def unique_sources(sources):
+    """Une seule source par média : le premier article rencontré."""
+    seen, out = set(), []
+    for s in sources:
+        if s["outlet"] in seen:
+            continue
+        seen.add(s["outlet"])
+        out.append(s)
+    return out
+
+
+def apply_events(store, found):
+    """Ajoute les événements trouvés à `store`, ou enrichit ceux déjà présents.
+
+    Un événement est repris s'il porte le même id, s'il est signalé comme existant par le
+    modèle, ou s'il a un titre quasi identique à un événement de la semaine précédente.
     """
+    for ev in found:
+        target = next((e for e in store if e["id"] == ev["id"]), None)
+        if target is None and not ev.get("existing"):
+            target = next((e for e in store
+                           if abs((date.fromisoformat(e["date"]) - date.fromisoformat(ev["date"])).days) <= REPEAT_WINDOW
+                           and is_repeat(e["title"], ev["title"])), None)
+        if target is not None:
+            target["sources"] = unique_sources(target["sources"] + ev["sources"])
+        elif not ev.get("existing"):
+            store.append({k: v for k, v in ev.items() if k != "existing"})
+    return store
+
+
+def dedupe_events(store):
+    """Fusionne les doublons d'un historique existant ; le premier signalement garde sa date."""
+    result = []
+    for e in sorted(store, key=lambda e: e["date"]):
+        apply_events(result, [dict(e, existing=False)])
+    return result
+
+
+def detect_events(day, articles, candidates, client=None, known=()):
+    """Événements de la journée : nouveaux faits (appuyés sur au moins deux médias) et mises à jour
+    de faits déjà connus (`known`: liste de {id, date, title}). Retourne None si l'appel échoue."""
     if len(articles) < 5:
         return []
     client = client or _client()
     ids = {c["id"] for c in candidates}
+    known_ids = {k["id"] for k in known}
     roster = ", ".join(f"{c['id']} ({c['name']})" for c in candidates)
-    lines = [f"Date : {day}\nIdentifiants des personnalités : {roster}\n\nTitres du jour :"]
+    lines = [f"Date : {day}\nIdentifiants des personnalités : {roster}\n"]
+    if known:
+        lines.append("Événements déjà signalés (id | date | titre) :")
+        lines += [f"- {k['id']} | {k['date']} | {k['title']}" for k in known]
+        lines.append("")
+    lines.append("Titres du jour :")
     for i, a in enumerate(articles):
         lines.append(f"[idx {i}] {a['outlet']} — {a['title']}")
     try:
@@ -184,18 +255,97 @@ def detect_events(day, articles, candidates, client=None):
     except (AnalysisError, anthropic.APIError, json.JSONDecodeError) as exc:
         print(f"⚠️  détection d'événements ignorée pour {day} : {exc}", file=sys.stderr)
         return None
-    events = []
+    out = []
     for ev in data["events"]:
-        sources = [articles[i] for i in ev["article_idx"] if 0 <= i < len(articles)]
+        sources = unique_sources([{"outlet": articles[i]["outlet"], "title": articles[i]["title"], "url": articles[i]["url"]}
+                                  for i in ev["article_idx"] if 0 <= i < len(articles)])
+        if ev.get("existing_id") in known_ids:
+            if sources:
+                out.append({"id": ev["existing_id"], "existing": True, "sources": sources})
+            continue
         if len({s["outlet"] for s in sources}) < 2:
-            continue  # garde-fou : on exige deux médias distincts
-        events.append({
+            continue  # garde-fou : un fait nouveau doit venir d'au moins deux médias
+        out.append({
+            "id": event_id(day, ev["title"]),
+            "existing": False,
             "date": day,
             "title": ev["title"],
             "description": ev["description"],
             "category": ev["category"],
             "candidates": [c for c in ev["candidates"] if c in ids],
             "origin": "presse",
-            "sources": [{"outlet": s["outlet"], "title": s["title"], "url": s["url"]} for s in sources[:6]],
+            "sources": sources,
         })
-    return events
+    return out
+
+INTERVIEW_SYSTEM = """Tu repères les interviews de personnalités politiques à la radio, à la télévision ou en ligne, à partir des titres et chapôs d'articles de presse, et tu relèves l'audience annoncée.
+
+Règles :
+- Ne retiens une interview que si l'article rapporte une mesure d'audience explicite : nombre de téléspectateurs ou d'auditeurs (audience_viewers) et/ou part d'audience en % (audience_share). Sans chiffre, n'inclus pas l'interview.
+- Recopie les chiffres tels qu'ils figurent dans l'article. N'invente rien : si un seul des deux chiffres est donné, mets l'autre à null.
+- « candidate » : identifiant de la personnalité interviewée, parmi la liste fournie. Ignore les interviews de personnes absentes de la liste.
+- « channel » : la chaîne ou la radio (ex. « France Inter »). « show » : l'émission, ou null.
+- Renvoie exactement les interviews trouvées, avec l'« article_idx » de l'article qui donne le chiffre."""
+
+INTERVIEW_SCHEMA = {
+    "type": "object",
+    "properties": {
+        "interviews": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "candidate": {"type": "string"},
+                    "channel": {"type": "string"},
+                    "show": {"type": ["string", "null"]},
+                    "audience_viewers": {"type": ["integer", "null"]},
+                    "audience_share": {"type": ["number", "null"]},
+                    "article_idx": {"type": "integer"},
+                },
+                "required": ["candidate", "channel", "show", "audience_viewers", "audience_share", "article_idx"],
+                "additionalProperties": False,
+            },
+        }
+    },
+    "required": ["interviews"],
+    "additionalProperties": False,
+}
+
+
+def extract_interviews(day, articles, candidates, client=None):
+    """Interviews de la journée avec audience publiée. None si l'appel échoue (nouvelle tentative plus tard)."""
+    todo = [a for a in articles if a.get("mentions")]
+    if not todo:
+        return []
+    client = client or _client()
+    ids = {c["id"] for c in candidates}
+    roster = ", ".join(f"{c['id']} ({c['name']})" for c in candidates)
+    lines = [f"Date : {day}\nPersonnalités : {roster}\n\nArticles :"]
+    for i, a in enumerate(todo):
+        lines.append(f"[idx {i}] {a['outlet']} — {a['title']}\n{a['summary']}")
+    try:
+        data, _ = _call(client, INTERVIEW_SYSTEM, "\n".join(lines), INTERVIEW_SCHEMA, max_tokens=4000)
+    except (anthropic.AuthenticationError, anthropic.PermissionDeniedError):
+        raise
+    except (AnalysisError, anthropic.APIError, json.JSONDecodeError) as exc:
+        print(f"⚠️  interviews ignorées pour {day} : {exc}", file=sys.stderr)
+        return None
+    out = []
+    for item in data["interviews"]:
+        if item["candidate"] not in ids:
+            continue
+        if item["audience_viewers"] is None and item["audience_share"] is None:
+            continue  # garde-fou : pas de chiffre, pas d'interview
+        if not (0 <= item["article_idx"] < len(todo)):
+            continue
+        src = todo[item["article_idx"]]
+        out.append({
+            "date": day,
+            "candidate": item["candidate"],
+            "channel": item["channel"],
+            "show": item["show"],
+            "audience_viewers": item["audience_viewers"],
+            "audience_share": item["audience_share"],
+            "source": {"outlet": src["outlet"], "title": src["title"], "url": src["url"]},
+        })
+    return out
