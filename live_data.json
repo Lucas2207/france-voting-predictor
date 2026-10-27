@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-10-27 20:45",
+ "last_updated": "2026-10-27 21:02",
  "today": "2026-10-27",
  "candidates": [
   {
@@ -14789,7 +14789,7 @@
    "name": "Carole Delga",
    "party": "pp",
    "statut": "non_candidat",
-   "note": "",
+   "note": "Pas de compte nominatif : la chaîne est celle de son mouvement, La République en commun.",
    "followers": null,
    "youtube_views": null,
    "youtube_subscribers": null
@@ -14826,7 +14826,7 @@
   },
   {
    "id": "meunier",
-   "name": "Meunier",
+   "name": "Philippe Meunier",
    "party": "rec",
    "statut": "non_candidat",
    "note": "",
@@ -14875,223 +14875,7 @@
    "youtube_subscribers": 52800
   }
  ],
- "youtube_status": [
-  {
-   "id": "lepen",
-   "ok": true,
-   "title": "Marine Le Pen"
-  },
-  {
-   "id": "melenchon",
-   "ok": true,
-   "title": "JEAN-LUC MÉLENCHON"
-  },
-  {
-   "id": "philippe",
-   "ok": true,
-   "title": "Edouard Philippe"
-  },
-  {
-   "id": "glucksmann",
-   "ok": false,
-   "error": "échec de la requête"
-  },
-  {
-   "id": "attal",
-   "ok": true,
-   "title": "Gabriel Attal"
-  },
-  {
-   "id": "zemmour",
-   "ok": true,
-   "title": "Éric Zemmour"
-  },
-  {
-   "id": "retailleau",
-   "ok": true,
-   "title": "Bruno Retailleau"
-  },
-  {
-   "id": "lisnard",
-   "ok": true,
-   "title": "David Lisnard"
-  },
-  {
-   "id": "bardella",
-   "ok": true,
-   "title": "Jordan Bardella"
-  },
-  {
-   "id": "tondelier",
-   "ok": true,
-   "title": "Marine Tondelier"
-  },
-  {
-   "id": "roussel",
-   "ok": true,
-   "title": "Fabien Roussel"
-  },
-  {
-   "id": "dupontaignan",
-   "ok": true,
-   "title": "Nicolas Dupont-Aignan"
-  },
-  {
-   "id": "arthaud",
-   "ok": true,
-   "title": "Nathalie Arthaud"
-  },
-  {
-   "id": "villepin",
-   "ok": true,
-   "title": "Dominique de Villepin"
-  },
-  {
-   "id": "hollande",
-   "ok": false,
-   "error": "handle non renseigné"
-  },
-  {
-   "id": "ruffin",
-   "ok": true,
-   "title": "FRANÇOIS RUFFIN"
-  },
-  {
-   "id": "knafo",
-   "ok": true,
-   "title": "Sarah Knafo"
-  },
-  {
-   "id": "media-bfmtv",
-   "ok": true,
-   "title": "BFMTV"
-  },
-  {
-   "id": "media-franceinfo",
-   "ok": true,
-   "title": "franceinfo"
-  },
-  {
-   "id": "media-tf1info",
-   "ok": true,
-   "title": "TF1"
-  },
-  {
-   "id": "media-lci",
-   "ok": true,
-   "title": "LCI"
-  },
-  {
-   "id": "media-cnews",
-   "ok": true,
-   "title": "CNEWS"
-  },
-  {
-   "id": "media-france-inter",
-   "ok": true,
-   "title": "France Inter"
-  },
-  {
-   "id": "media-europe1",
-   "ok": true,
-   "title": "Europe 1"
-  },
-  {
-   "id": "media-lemonde",
-   "ok": true,
-   "title": "Le Monde"
-  },
-  {
-   "id": "media-mediapart",
-   "ok": true,
-   "title": "Mediapart"
-  },
-  {
-   "id": "media-radionova",
-   "ok": true,
-   "title": "Radio Nova"
-  },
-  {
-   "id": "marechal",
-   "ok": false,
-   "error": "handle non renseigné"
-  },
-  {
-   "id": "chenu",
-   "ok": false,
-   "error": "handle non renseigné"
-  },
-  {
-   "id": "hassan",
-   "ok": false,
-   "error": "handle non renseigné"
-  },
-  {
-   "id": "guiraud",
-   "ok": false,
-   "error": "handle non renseigné"
-  },
-  {
-   "id": "guette",
-   "ok": false,
-   "error": "handle non renseigné"
-  },
-  {
-   "id": "bompard",
-   "ok": false,
-   "error": "handle non renseigné"
-  },
-  {
-   "id": "legendre",
-   "ok": false,
-   "error": "handle non renseigné"
-  },
-  {
-   "id": "naegelen",
-   "ok": false,
-   "error": "handle non renseigné"
-  },
-  {
-   "id": "borne",
-   "ok": false,
-   "error": "handle non renseigné"
-  },
-  {
-   "id": "darmanin",
-   "ok": false,
-   "error": "handle non renseigné"
-  },
-  {
-   "id": "sejourne",
-   "ok": false,
-   "error": "handle non renseigné"
-  },
-  {
-   "id": "faure",
-   "ok": false,
-   "error": "handle non renseigné"
-  },
-  {
-   "id": "delga",
-   "ok": false,
-   "error": "handle non renseigné"
-  },
-  {
-   "id": "wauquiez",
-   "ok": false,
-   "error": "handle non renseigné"
-  },
-  {
-   "id": "pecresse",
-   "ok": false,
-   "error": "handle non renseigné"
-  },
-  {
-   "id": "meunier",
-   "ok": false,
-   "error": "handle non renseigné"
-  }
- ],
+ "youtube_status": [],
  "parties": [
   {
    "id": "rn",
