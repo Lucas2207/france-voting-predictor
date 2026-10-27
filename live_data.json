@@ -1,19 +1,758 @@
 {
-  "timestamp": "Live Comprehensive Multi-Media Scan",
-  "total_sources_monitored": 23,
-  "total_articles_analyzed": 286,
-  "frames": {
-    "f_sec": 32,
-    "f_econ": 15,
-    "f_soc": 30,
-    "f_imm": 16
+  "last_updated": "2026-10-27 09:18",
+  "start_date": "2026-10-01",
+  "end_date": "2026-10-27",
+  "events": {
+    "2026-10-01": {
+      "title": "Lancement du suivi quotidien",
+      "desc": "Ouverture officielle de la plateforme de modélisation des intentions de vote et de l'impact média/social."
+    },
+    "2026-10-17": {
+      "title": "Manifestations et grèves nationales",
+      "desc": "• Quoi/Où : Mobilisation interprofessionnelle majeure dans 120 villes.\n• Qui : 350 000 manifestants (syndicats) / 180 000 (Intérieur).\n• Revendications : Pouvoir d'achat, salaires et services publics.\n• Réponse : 80 000 forces de l'ordre déployées, 45 interpellations."
+    },
+    "2026-10-23": {
+      "title": "Attentat de Trappes et La Verrière",
+      "desc": "• Quoi/Où : Attaque terroriste islamiste déjouée in extremis / perpétrée en zone urbaine sensible.\n• Bilan : 2 blessés graves, 1 suspect neutralisé par le RAID.\n• Conséquence : Débat immédiat sur la sécurité, l'immigration et l'autorité."
+    },
+    "2026-10-25": {
+      "title": "Annonce de mesures de sécurité & couvre-feu",
+      "desc": "• Quoi/Où : Conseil de défense exceptionnel à l'Élysée.\n• Mesures : Instauration d'un couvre-feu ciblé, renforcement du plan Vigipirate au niveau Urgence Attentat.\n• Réaction politique : Débats intenses au Parlement."
+    },
+    "2026-10-27": {
+      "title": "Point d'actualité politique et sociale (2026-10-27)",
+      "desc": "• Débat télévisé et interventions des porte-paroles.\n• Impact direct sur les communautés numériques suite aux polémiques de la semaine.\n• Évolution mesurée des dynamiques d'adhésion."
+    }
   },
-  "detailed_themes": {
-    "sec_imm": 32,
-    "econ_tax": 15,
-    "purch_inc": 17,
-    "health_care": 10,
-    "pen_soc": 13,
-    "cohes_dem": 13
-  }
+  "history": [
+    {
+      "date": "2026-10-01",
+      "voting_intentions": {
+        "Marine Le Pen (RN)": 24.8,
+        "Jean-Luc Mélenchon (LFI)": 13.5,
+        "Édouard Philippe (Horizons)": 14.3,
+        "Gabriel Attal (Renaissance)": 12.1,
+        "Raphaël Glucksmann (PP/PS)": 11.2,
+        "François Hollande (PS)": 9.6,
+        "Bruno Retailleau (LR)": 1.6,
+        "Dominique de Villepin (DVD)": 5.8,
+        "Éric Zemmour (Reconquête)": 5.3,
+        "David Lisnard (Nouvelle Énergie)": 4.5
+      },
+      "social_media_followers_m": {
+        "Marine Le Pen (RN)": 14.53,
+        "Jean-Luc Mélenchon (LFI)": 11.24,
+        "Édouard Philippe (Horizons)": 1.82,
+        "Gabriel Attal (Renaissance)": 6.53,
+        "Raphaël Glucksmann (PP/PS)": 2.13,
+        "François Hollande (PS)": 4.34,
+        "Bruno Retailleau (LR)": 2.43,
+        "Dominique de Villepin (DVD)": 0.88,
+        "Éric Zemmour (Reconquête)": 6.24,
+        "David Lisnard (Nouvelle Énergie)": 0.69
+      }
+    },
+    {
+      "date": "2026-10-02",
+      "voting_intentions": {
+        "Marine Le Pen (RN)": 24.9,
+        "Jean-Luc Mélenchon (LFI)": 13.3,
+        "Édouard Philippe (Horizons)": 14.6,
+        "Gabriel Attal (Renaissance)": 12.3,
+        "Raphaël Glucksmann (PP/PS)": 11.2,
+        "François Hollande (PS)": 9.5,
+        "Bruno Retailleau (LR)": 1.5,
+        "Dominique de Villepin (DVD)": 6.0,
+        "Éric Zemmour (Reconquête)": 5.3,
+        "David Lisnard (Nouvelle Énergie)": 4.6
+      },
+      "social_media_followers_m": {
+        "Marine Le Pen (RN)": 14.56,
+        "Jean-Luc Mélenchon (LFI)": 11.26,
+        "Édouard Philippe (Horizons)": 1.86,
+        "Gabriel Attal (Renaissance)": 6.58,
+        "Raphaël Glucksmann (PP/PS)": 2.15,
+        "François Hollande (PS)": 4.37,
+        "Bruno Retailleau (LR)": 2.46,
+        "Dominique de Villepin (DVD)": 0.92,
+        "Éric Zemmour (Reconquête)": 6.26,
+        "David Lisnard (Nouvelle Énergie)": 0.72
+      }
+    },
+    {
+      "date": "2026-10-03",
+      "voting_intentions": {
+        "Marine Le Pen (RN)": 24.8,
+        "Jean-Luc Mélenchon (LFI)": 13.4,
+        "Édouard Philippe (Horizons)": 14.4,
+        "Gabriel Attal (Renaissance)": 12.5,
+        "Raphaël Glucksmann (PP/PS)": 11.2,
+        "François Hollande (PS)": 9.4,
+        "Bruno Retailleau (LR)": 1.8,
+        "Dominique de Villepin (DVD)": 6.0,
+        "Éric Zemmour (Reconquête)": 5.1,
+        "David Lisnard (Nouvelle Énergie)": 4.3
+      },
+      "social_media_followers_m": {
+        "Marine Le Pen (RN)": 14.59,
+        "Jean-Luc Mélenchon (LFI)": 11.29,
+        "Édouard Philippe (Horizons)": 1.89,
+        "Gabriel Attal (Renaissance)": 6.61,
+        "Raphaël Glucksmann (PP/PS)": 2.19,
+        "François Hollande (PS)": 4.4,
+        "Bruno Retailleau (LR)": 2.49,
+        "Dominique de Villepin (DVD)": 0.94,
+        "Éric Zemmour (Reconquête)": 6.28,
+        "David Lisnard (Nouvelle Énergie)": 0.76
+      }
+    },
+    {
+      "date": "2026-10-04",
+      "voting_intentions": {
+        "Marine Le Pen (RN)": 25.0,
+        "Jean-Luc Mélenchon (LFI)": 13.5,
+        "Édouard Philippe (Horizons)": 14.4,
+        "Gabriel Attal (Renaissance)": 12.7,
+        "Raphaël Glucksmann (PP/PS)": 11.2,
+        "François Hollande (PS)": 9.7,
+        "Bruno Retailleau (LR)": 1.8,
+        "Dominique de Villepin (DVD)": 6.1,
+        "Éric Zemmour (Reconquête)": 5.3,
+        "David Lisnard (Nouvelle Énergie)": 4.3
+      },
+      "social_media_followers_m": {
+        "Marine Le Pen (RN)": 14.61,
+        "Jean-Luc Mélenchon (LFI)": 11.32,
+        "Édouard Philippe (Horizons)": 1.91,
+        "Gabriel Attal (Renaissance)": 6.64,
+        "Raphaël Glucksmann (PP/PS)": 2.22,
+        "François Hollande (PS)": 4.45,
+        "Bruno Retailleau (LR)": 2.52,
+        "Dominique de Villepin (DVD)": 0.96,
+        "Éric Zemmour (Reconquête)": 6.31,
+        "David Lisnard (Nouvelle Énergie)": 0.8
+      }
+    },
+    {
+      "date": "2026-10-05",
+      "voting_intentions": {
+        "Marine Le Pen (RN)": 25.0,
+        "Jean-Luc Mélenchon (LFI)": 13.4,
+        "Édouard Philippe (Horizons)": 14.5,
+        "Gabriel Attal (Renaissance)": 12.7,
+        "Raphaël Glucksmann (PP/PS)": 11.2,
+        "François Hollande (PS)": 9.6,
+        "Bruno Retailleau (LR)": 1.8,
+        "Dominique de Villepin (DVD)": 6.3,
+        "Éric Zemmour (Reconquête)": 5.5,
+        "David Lisnard (Nouvelle Énergie)": 4.2
+      },
+      "social_media_followers_m": {
+        "Marine Le Pen (RN)": 14.63,
+        "Jean-Luc Mélenchon (LFI)": 11.34,
+        "Édouard Philippe (Horizons)": 1.94,
+        "Gabriel Attal (Renaissance)": 6.67,
+        "Raphaël Glucksmann (PP/PS)": 2.26,
+        "François Hollande (PS)": 4.48,
+        "Bruno Retailleau (LR)": 2.56,
+        "Dominique de Villepin (DVD)": 0.99,
+        "Éric Zemmour (Reconquête)": 6.35,
+        "David Lisnard (Nouvelle Énergie)": 0.84
+      }
+    },
+    {
+      "date": "2026-10-06",
+      "voting_intentions": {
+        "Marine Le Pen (RN)": 24.8,
+        "Jean-Luc Mélenchon (LFI)": 13.6,
+        "Édouard Philippe (Horizons)": 14.5,
+        "Gabriel Attal (Renaissance)": 13.0,
+        "Raphaël Glucksmann (PP/PS)": 11.2,
+        "François Hollande (PS)": 9.5,
+        "Bruno Retailleau (LR)": 1.6,
+        "Dominique de Villepin (DVD)": 6.2,
+        "Éric Zemmour (Reconquête)": 5.2,
+        "David Lisnard (Nouvelle Énergie)": 4.2
+      },
+      "social_media_followers_m": {
+        "Marine Le Pen (RN)": 14.67,
+        "Jean-Luc Mélenchon (LFI)": 11.37,
+        "Édouard Philippe (Horizons)": 1.98,
+        "Gabriel Attal (Renaissance)": 6.71,
+        "Raphaël Glucksmann (PP/PS)": 2.28,
+        "François Hollande (PS)": 4.51,
+        "Bruno Retailleau (LR)": 2.6,
+        "Dominique de Villepin (DVD)": 1.02,
+        "Éric Zemmour (Reconquête)": 6.36,
+        "David Lisnard (Nouvelle Énergie)": 0.88
+      }
+    },
+    {
+      "date": "2026-10-07",
+      "voting_intentions": {
+        "Marine Le Pen (RN)": 24.6,
+        "Jean-Luc Mélenchon (LFI)": 13.4,
+        "Édouard Philippe (Horizons)": 14.7,
+        "Gabriel Attal (Renaissance)": 13.1,
+        "Raphaël Glucksmann (PP/PS)": 11.0,
+        "François Hollande (PS)": 9.6,
+        "Bruno Retailleau (LR)": 1.9,
+        "Dominique de Villepin (DVD)": 6.3,
+        "Éric Zemmour (Reconquête)": 5.0,
+        "David Lisnard (Nouvelle Énergie)": 4.5
+      },
+      "social_media_followers_m": {
+        "Marine Le Pen (RN)": 14.71,
+        "Jean-Luc Mélenchon (LFI)": 11.4,
+        "Édouard Philippe (Horizons)": 2.02,
+        "Gabriel Attal (Renaissance)": 6.74,
+        "Raphaël Glucksmann (PP/PS)": 2.3,
+        "François Hollande (PS)": 4.55,
+        "Bruno Retailleau (LR)": 2.63,
+        "Dominique de Villepin (DVD)": 1.04,
+        "Éric Zemmour (Reconquête)": 6.39,
+        "David Lisnard (Nouvelle Énergie)": 0.92
+      }
+    },
+    {
+      "date": "2026-10-08",
+      "voting_intentions": {
+        "Marine Le Pen (RN)": 24.6,
+        "Jean-Luc Mélenchon (LFI)": 13.5,
+        "Édouard Philippe (Horizons)": 14.9,
+        "Gabriel Attal (Renaissance)": 13.0,
+        "Raphaël Glucksmann (PP/PS)": 11.2,
+        "François Hollande (PS)": 9.4,
+        "Bruno Retailleau (LR)": 1.7,
+        "Dominique de Villepin (DVD)": 6.0,
+        "Éric Zemmour (Reconquête)": 4.9,
+        "David Lisnard (Nouvelle Énergie)": 4.2
+      },
+      "social_media_followers_m": {
+        "Marine Le Pen (RN)": 14.73,
+        "Jean-Luc Mélenchon (LFI)": 11.44,
+        "Édouard Philippe (Horizons)": 2.06,
+        "Gabriel Attal (Renaissance)": 6.77,
+        "Raphaël Glucksmann (PP/PS)": 2.33,
+        "François Hollande (PS)": 4.56,
+        "Bruno Retailleau (LR)": 2.67,
+        "Dominique de Villepin (DVD)": 1.06,
+        "Éric Zemmour (Reconquête)": 6.43,
+        "David Lisnard (Nouvelle Énergie)": 0.95
+      }
+    },
+    {
+      "date": "2026-10-09",
+      "voting_intentions": {
+        "Marine Le Pen (RN)": 24.5,
+        "Jean-Luc Mélenchon (LFI)": 13.4,
+        "Édouard Philippe (Horizons)": 15.2,
+        "Gabriel Attal (Renaissance)": 13.2,
+        "Raphaël Glucksmann (PP/PS)": 11.2,
+        "François Hollande (PS)": 9.3,
+        "Bruno Retailleau (LR)": 1.8,
+        "Dominique de Villepin (DVD)": 5.9,
+        "Éric Zemmour (Reconquête)": 5.2,
+        "David Lisnard (Nouvelle Énergie)": 4.2
+      },
+      "social_media_followers_m": {
+        "Marine Le Pen (RN)": 14.75,
+        "Jean-Luc Mélenchon (LFI)": 11.46,
+        "Édouard Philippe (Horizons)": 2.09,
+        "Gabriel Attal (Renaissance)": 6.79,
+        "Raphaël Glucksmann (PP/PS)": 2.36,
+        "François Hollande (PS)": 4.59,
+        "Bruno Retailleau (LR)": 2.69,
+        "Dominique de Villepin (DVD)": 1.08,
+        "Éric Zemmour (Reconquête)": 6.45,
+        "David Lisnard (Nouvelle Énergie)": 0.99
+      }
+    },
+    {
+      "date": "2026-10-10",
+      "voting_intentions": {
+        "Marine Le Pen (RN)": 24.5,
+        "Jean-Luc Mélenchon (LFI)": 13.2,
+        "Édouard Philippe (Horizons)": 15.4,
+        "Gabriel Attal (Renaissance)": 13.2,
+        "Raphaël Glucksmann (PP/PS)": 11.2,
+        "François Hollande (PS)": 9.1,
+        "Bruno Retailleau (LR)": 1.7,
+        "Dominique de Villepin (DVD)": 5.9,
+        "Éric Zemmour (Reconquête)": 5.1,
+        "David Lisnard (Nouvelle Énergie)": 4.1
+      },
+      "social_media_followers_m": {
+        "Marine Le Pen (RN)": 14.79,
+        "Jean-Luc Mélenchon (LFI)": 11.5,
+        "Édouard Philippe (Horizons)": 2.11,
+        "Gabriel Attal (Renaissance)": 6.83,
+        "Raphaël Glucksmann (PP/PS)": 2.4,
+        "François Hollande (PS)": 4.63,
+        "Bruno Retailleau (LR)": 2.72,
+        "Dominique de Villepin (DVD)": 1.1,
+        "Éric Zemmour (Reconquête)": 6.48,
+        "David Lisnard (Nouvelle Énergie)": 1.02
+      }
+    },
+    {
+      "date": "2026-10-11",
+      "voting_intentions": {
+        "Marine Le Pen (RN)": 24.7,
+        "Jean-Luc Mélenchon (LFI)": 13.2,
+        "Édouard Philippe (Horizons)": 15.4,
+        "Gabriel Attal (Renaissance)": 13.4,
+        "Raphaël Glucksmann (PP/PS)": 11.4,
+        "François Hollande (PS)": 8.9,
+        "Bruno Retailleau (LR)": 1.9,
+        "Dominique de Villepin (DVD)": 5.8,
+        "Éric Zemmour (Reconquête)": 5.3,
+        "David Lisnard (Nouvelle Énergie)": 4.4
+      },
+      "social_media_followers_m": {
+        "Marine Le Pen (RN)": 14.82,
+        "Jean-Luc Mélenchon (LFI)": 11.53,
+        "Édouard Philippe (Horizons)": 2.13,
+        "Gabriel Attal (Renaissance)": 6.87,
+        "Raphaël Glucksmann (PP/PS)": 2.44,
+        "François Hollande (PS)": 4.67,
+        "Bruno Retailleau (LR)": 2.75,
+        "Dominique de Villepin (DVD)": 1.14,
+        "Éric Zemmour (Reconquête)": 6.52,
+        "David Lisnard (Nouvelle Énergie)": 1.05
+      }
+    },
+    {
+      "date": "2026-10-12",
+      "voting_intentions": {
+        "Marine Le Pen (RN)": 24.5,
+        "Jean-Luc Mélenchon (LFI)": 13.2,
+        "Édouard Philippe (Horizons)": 15.2,
+        "Gabriel Attal (Renaissance)": 13.4,
+        "Raphaël Glucksmann (PP/PS)": 11.2,
+        "François Hollande (PS)": 8.8,
+        "Bruno Retailleau (LR)": 1.7,
+        "Dominique de Villepin (DVD)": 6.1,
+        "Éric Zemmour (Reconquête)": 5.4,
+        "David Lisnard (Nouvelle Énergie)": 4.5
+      },
+      "social_media_followers_m": {
+        "Marine Le Pen (RN)": 14.85,
+        "Jean-Luc Mélenchon (LFI)": 11.56,
+        "Édouard Philippe (Horizons)": 2.17,
+        "Gabriel Attal (Renaissance)": 6.9,
+        "Raphaël Glucksmann (PP/PS)": 2.46,
+        "François Hollande (PS)": 4.7,
+        "Bruno Retailleau (LR)": 2.77,
+        "Dominique de Villepin (DVD)": 1.16,
+        "Éric Zemmour (Reconquête)": 6.56,
+        "David Lisnard (Nouvelle Énergie)": 1.07
+      }
+    },
+    {
+      "date": "2026-10-13",
+      "voting_intentions": {
+        "Marine Le Pen (RN)": 24.6,
+        "Jean-Luc Mélenchon (LFI)": 13.1,
+        "Édouard Philippe (Horizons)": 15.1,
+        "Gabriel Attal (Renaissance)": 13.3,
+        "Raphaël Glucksmann (PP/PS)": 11.1,
+        "François Hollande (PS)": 9.0,
+        "Bruno Retailleau (LR)": 1.4,
+        "Dominique de Villepin (DVD)": 5.8,
+        "Éric Zemmour (Reconquête)": 5.5,
+        "David Lisnard (Nouvelle Énergie)": 4.8
+      },
+      "social_media_followers_m": {
+        "Marine Le Pen (RN)": 14.88,
+        "Jean-Luc Mélenchon (LFI)": 11.6,
+        "Édouard Philippe (Horizons)": 2.19,
+        "Gabriel Attal (Renaissance)": 6.92,
+        "Raphaël Glucksmann (PP/PS)": 2.5,
+        "François Hollande (PS)": 4.73,
+        "Bruno Retailleau (LR)": 2.79,
+        "Dominique de Villepin (DVD)": 1.18,
+        "Éric Zemmour (Reconquête)": 6.59,
+        "David Lisnard (Nouvelle Énergie)": 1.1
+      }
+    },
+    {
+      "date": "2026-10-14",
+      "voting_intentions": {
+        "Marine Le Pen (RN)": 24.8,
+        "Jean-Luc Mélenchon (LFI)": 13.2,
+        "Édouard Philippe (Horizons)": 15.3,
+        "Gabriel Attal (Renaissance)": 13.1,
+        "Raphaël Glucksmann (PP/PS)": 11.4,
+        "François Hollande (PS)": 9.1,
+        "Bruno Retailleau (LR)": 1.5,
+        "Dominique de Villepin (DVD)": 5.7,
+        "Éric Zemmour (Reconquête)": 5.4,
+        "David Lisnard (Nouvelle Énergie)": 4.8
+      },
+      "social_media_followers_m": {
+        "Marine Le Pen (RN)": 14.91,
+        "Jean-Luc Mélenchon (LFI)": 11.63,
+        "Édouard Philippe (Horizons)": 2.21,
+        "Gabriel Attal (Renaissance)": 6.95,
+        "Raphaël Glucksmann (PP/PS)": 2.54,
+        "François Hollande (PS)": 4.77,
+        "Bruno Retailleau (LR)": 2.83,
+        "Dominique de Villepin (DVD)": 1.22,
+        "Éric Zemmour (Reconquête)": 6.63,
+        "David Lisnard (Nouvelle Énergie)": 1.12
+      }
+    },
+    {
+      "date": "2026-10-15",
+      "voting_intentions": {
+        "Marine Le Pen (RN)": 24.9,
+        "Jean-Luc Mélenchon (LFI)": 13.5,
+        "Édouard Philippe (Horizons)": 15.1,
+        "Gabriel Attal (Renaissance)": 13.0,
+        "Raphaël Glucksmann (PP/PS)": 11.4,
+        "François Hollande (PS)": 9.1,
+        "Bruno Retailleau (LR)": 1.3,
+        "Dominique de Villepin (DVD)": 5.5,
+        "Éric Zemmour (Reconquête)": 5.3,
+        "David Lisnard (Nouvelle Énergie)": 4.9
+      },
+      "social_media_followers_m": {
+        "Marine Le Pen (RN)": 14.93,
+        "Jean-Luc Mélenchon (LFI)": 11.67,
+        "Édouard Philippe (Horizons)": 2.25,
+        "Gabriel Attal (Renaissance)": 6.99,
+        "Raphaël Glucksmann (PP/PS)": 2.56,
+        "François Hollande (PS)": 4.81,
+        "Bruno Retailleau (LR)": 2.86,
+        "Dominique de Villepin (DVD)": 1.24,
+        "Éric Zemmour (Reconquête)": 6.66,
+        "David Lisnard (Nouvelle Énergie)": 1.14
+      }
+    },
+    {
+      "date": "2026-10-16",
+      "voting_intentions": {
+        "Marine Le Pen (RN)": 24.9,
+        "Jean-Luc Mélenchon (LFI)": 13.4,
+        "Édouard Philippe (Horizons)": 15.0,
+        "Gabriel Attal (Renaissance)": 12.8,
+        "Raphaël Glucksmann (PP/PS)": 11.5,
+        "François Hollande (PS)": 9.2,
+        "Bruno Retailleau (LR)": 1.2,
+        "Dominique de Villepin (DVD)": 5.2,
+        "Éric Zemmour (Reconquête)": 5.3,
+        "David Lisnard (Nouvelle Énergie)": 4.8
+      },
+      "social_media_followers_m": {
+        "Marine Le Pen (RN)": 14.96,
+        "Jean-Luc Mélenchon (LFI)": 11.69,
+        "Édouard Philippe (Horizons)": 2.27,
+        "Gabriel Attal (Renaissance)": 7.02,
+        "Raphaël Glucksmann (PP/PS)": 2.6,
+        "François Hollande (PS)": 4.84,
+        "Bruno Retailleau (LR)": 2.88,
+        "Dominique de Villepin (DVD)": 1.26,
+        "Éric Zemmour (Reconquête)": 6.68,
+        "David Lisnard (Nouvelle Énergie)": 1.18
+      }
+    },
+    {
+      "date": "2026-10-17",
+      "voting_intentions": {
+        "Marine Le Pen (RN)": 25.0,
+        "Jean-Luc Mélenchon (LFI)": 14.4,
+        "Édouard Philippe (Horizons)": 15.3,
+        "Gabriel Attal (Renaissance)": 12.7,
+        "Raphaël Glucksmann (PP/PS)": 12.7,
+        "François Hollande (PS)": 9.3,
+        "Bruno Retailleau (LR)": 1.5,
+        "Dominique de Villepin (DVD)": 5.5,
+        "Éric Zemmour (Reconquête)": 5.5,
+        "David Lisnard (Nouvelle Énergie)": 5.0
+      },
+      "social_media_followers_m": {
+        "Marine Le Pen (RN)": 15.0,
+        "Jean-Luc Mélenchon (LFI)": 11.72,
+        "Édouard Philippe (Horizons)": 2.3,
+        "Gabriel Attal (Renaissance)": 7.05,
+        "Raphaël Glucksmann (PP/PS)": 2.62,
+        "François Hollande (PS)": 4.85,
+        "Bruno Retailleau (LR)": 2.91,
+        "Dominique de Villepin (DVD)": 1.29,
+        "Éric Zemmour (Reconquête)": 6.72,
+        "David Lisnard (Nouvelle Énergie)": 1.21
+      }
+    },
+    {
+      "date": "2026-10-18",
+      "voting_intentions": {
+        "Marine Le Pen (RN)": 25.3,
+        "Jean-Luc Mélenchon (LFI)": 15.2,
+        "Édouard Philippe (Horizons)": 15.2,
+        "Gabriel Attal (Renaissance)": 12.6,
+        "Raphaël Glucksmann (PP/PS)": 13.7,
+        "François Hollande (PS)": 9.5,
+        "Bruno Retailleau (LR)": 1.3,
+        "Dominique de Villepin (DVD)": 5.3,
+        "Éric Zemmour (Reconquête)": 5.8,
+        "David Lisnard (Nouvelle Énergie)": 5.2
+      },
+      "social_media_followers_m": {
+        "Marine Le Pen (RN)": 15.04,
+        "Jean-Luc Mélenchon (LFI)": 11.76,
+        "Édouard Philippe (Horizons)": 2.32,
+        "Gabriel Attal (Renaissance)": 7.08,
+        "Raphaël Glucksmann (PP/PS)": 2.65,
+        "François Hollande (PS)": 4.88,
+        "Bruno Retailleau (LR)": 2.94,
+        "Dominique de Villepin (DVD)": 1.33,
+        "Éric Zemmour (Reconquête)": 6.76,
+        "David Lisnard (Nouvelle Énergie)": 1.25
+      }
+    },
+    {
+      "date": "2026-10-19",
+      "voting_intentions": {
+        "Marine Le Pen (RN)": 25.5,
+        "Jean-Luc Mélenchon (LFI)": 14.9,
+        "Édouard Philippe (Horizons)": 15.3,
+        "Gabriel Attal (Renaissance)": 12.7,
+        "Raphaël Glucksmann (PP/PS)": 13.4,
+        "François Hollande (PS)": 9.7,
+        "Bruno Retailleau (LR)": 1.3,
+        "Dominique de Villepin (DVD)": 5.2,
+        "Éric Zemmour (Reconquête)": 5.8,
+        "David Lisnard (Nouvelle Énergie)": 5.0
+      },
+      "social_media_followers_m": {
+        "Marine Le Pen (RN)": 15.07,
+        "Jean-Luc Mélenchon (LFI)": 11.79,
+        "Édouard Philippe (Horizons)": 2.34,
+        "Gabriel Attal (Renaissance)": 7.12,
+        "Raphaël Glucksmann (PP/PS)": 2.67,
+        "François Hollande (PS)": 4.91,
+        "Bruno Retailleau (LR)": 2.98,
+        "Dominique de Villepin (DVD)": 1.37,
+        "Éric Zemmour (Reconquête)": 6.79,
+        "David Lisnard (Nouvelle Énergie)": 1.28
+      }
+    },
+    {
+      "date": "2026-10-20",
+      "voting_intentions": {
+        "Marine Le Pen (RN)": 25.2,
+        "Jean-Luc Mélenchon (LFI)": 14.8,
+        "Édouard Philippe (Horizons)": 15.0,
+        "Gabriel Attal (Renaissance)": 12.9,
+        "Raphaël Glucksmann (PP/PS)": 13.3,
+        "François Hollande (PS)": 9.6,
+        "Bruno Retailleau (LR)": 1.1,
+        "Dominique de Villepin (DVD)": 4.9,
+        "Éric Zemmour (Reconquête)": 5.8,
+        "David Lisnard (Nouvelle Énergie)": 5.2
+      },
+      "social_media_followers_m": {
+        "Marine Le Pen (RN)": 15.11,
+        "Jean-Luc Mélenchon (LFI)": 11.81,
+        "Édouard Philippe (Horizons)": 2.37,
+        "Gabriel Attal (Renaissance)": 7.14,
+        "Raphaël Glucksmann (PP/PS)": 2.7,
+        "François Hollande (PS)": 4.95,
+        "Bruno Retailleau (LR)": 3.02,
+        "Dominique de Villepin (DVD)": 1.4,
+        "Éric Zemmour (Reconquête)": 6.82,
+        "David Lisnard (Nouvelle Énergie)": 1.32
+      }
+    },
+    {
+      "date": "2026-10-21",
+      "voting_intentions": {
+        "Marine Le Pen (RN)": 25.5,
+        "Jean-Luc Mélenchon (LFI)": 14.6,
+        "Édouard Philippe (Horizons)": 14.8,
+        "Gabriel Attal (Renaissance)": 12.7,
+        "Raphaël Glucksmann (PP/PS)": 13.3,
+        "François Hollande (PS)": 9.7,
+        "Bruno Retailleau (LR)": 1.0,
+        "Dominique de Villepin (DVD)": 4.7,
+        "Éric Zemmour (Reconquête)": 5.9,
+        "David Lisnard (Nouvelle Énergie)": 5.5
+      },
+      "social_media_followers_m": {
+        "Marine Le Pen (RN)": 15.15,
+        "Jean-Luc Mélenchon (LFI)": 11.84,
+        "Édouard Philippe (Horizons)": 2.4,
+        "Gabriel Attal (Renaissance)": 7.18,
+        "Raphaël Glucksmann (PP/PS)": 2.74,
+        "François Hollande (PS)": 4.96,
+        "Bruno Retailleau (LR)": 3.05,
+        "Dominique de Villepin (DVD)": 1.42,
+        "Éric Zemmour (Reconquête)": 6.84,
+        "David Lisnard (Nouvelle Énergie)": 1.35
+      }
+    },
+    {
+      "date": "2026-10-22",
+      "voting_intentions": {
+        "Marine Le Pen (RN)": 25.7,
+        "Jean-Luc Mélenchon (LFI)": 14.5,
+        "Édouard Philippe (Horizons)": 14.9,
+        "Gabriel Attal (Renaissance)": 12.9,
+        "Raphaël Glucksmann (PP/PS)": 13.3,
+        "François Hollande (PS)": 9.8,
+        "Bruno Retailleau (LR)": 1.1,
+        "Dominique de Villepin (DVD)": 4.9,
+        "Éric Zemmour (Reconquête)": 5.9,
+        "David Lisnard (Nouvelle Énergie)": 5.7
+      },
+      "social_media_followers_m": {
+        "Marine Le Pen (RN)": 15.19,
+        "Jean-Luc Mélenchon (LFI)": 11.87,
+        "Édouard Philippe (Horizons)": 2.42,
+        "Gabriel Attal (Renaissance)": 7.2,
+        "Raphaël Glucksmann (PP/PS)": 2.78,
+        "François Hollande (PS)": 4.99,
+        "Bruno Retailleau (LR)": 3.07,
+        "Dominique de Villepin (DVD)": 1.44,
+        "Éric Zemmour (Reconquête)": 6.86,
+        "David Lisnard (Nouvelle Énergie)": 1.37
+      }
+    },
+    {
+      "date": "2026-10-23",
+      "voting_intentions": {
+        "Marine Le Pen (RN)": 27.0,
+        "Jean-Luc Mélenchon (LFI)": 14.4,
+        "Édouard Philippe (Horizons)": 15.0,
+        "Gabriel Attal (Renaissance)": 12.8,
+        "Raphaël Glucksmann (PP/PS)": 13.5,
+        "François Hollande (PS)": 9.9,
+        "Bruno Retailleau (LR)": 2.7,
+        "Dominique de Villepin (DVD)": 5.1,
+        "Éric Zemmour (Reconquête)": 5.7,
+        "David Lisnard (Nouvelle Énergie)": 5.8
+      },
+      "social_media_followers_m": {
+        "Marine Le Pen (RN)": 15.22,
+        "Jean-Luc Mélenchon (LFI)": 11.91,
+        "Édouard Philippe (Horizons)": 2.46,
+        "Gabriel Attal (Renaissance)": 7.22,
+        "Raphaël Glucksmann (PP/PS)": 2.8,
+        "François Hollande (PS)": 5.02,
+        "Bruno Retailleau (LR)": 3.1,
+        "Dominique de Villepin (DVD)": 1.47,
+        "Éric Zemmour (Reconquête)": 6.9,
+        "David Lisnard (Nouvelle Énergie)": 1.39
+      }
+    },
+    {
+      "date": "2026-10-24",
+      "voting_intentions": {
+        "Marine Le Pen (RN)": 28.3,
+        "Jean-Luc Mélenchon (LFI)": 14.3,
+        "Édouard Philippe (Horizons)": 15.0,
+        "Gabriel Attal (Renaissance)": 12.9,
+        "Raphaël Glucksmann (PP/PS)": 13.8,
+        "François Hollande (PS)": 9.7,
+        "Bruno Retailleau (LR)": 4.1,
+        "Dominique de Villepin (DVD)": 4.8,
+        "Éric Zemmour (Reconquête)": 5.8,
+        "David Lisnard (Nouvelle Énergie)": 5.9
+      },
+      "social_media_followers_m": {
+        "Marine Le Pen (RN)": 15.26,
+        "Jean-Luc Mélenchon (LFI)": 11.95,
+        "Édouard Philippe (Horizons)": 2.48,
+        "Gabriel Attal (Renaissance)": 7.24,
+        "Raphaël Glucksmann (PP/PS)": 2.83,
+        "François Hollande (PS)": 5.04,
+        "Bruno Retailleau (LR)": 3.13,
+        "Dominique de Villepin (DVD)": 1.51,
+        "Éric Zemmour (Reconquête)": 6.93,
+        "David Lisnard (Nouvelle Énergie)": 1.43
+      }
+    },
+    {
+      "date": "2026-10-25",
+      "voting_intentions": {
+        "Marine Le Pen (RN)": 28.6,
+        "Jean-Luc Mélenchon (LFI)": 14.6,
+        "Édouard Philippe (Horizons)": 15.0,
+        "Gabriel Attal (Renaissance)": 12.8,
+        "Raphaël Glucksmann (PP/PS)": 14.1,
+        "François Hollande (PS)": 9.4,
+        "Bruno Retailleau (LR)": 3.9,
+        "Dominique de Villepin (DVD)": 4.9,
+        "Éric Zemmour (Reconquête)": 6.0,
+        "David Lisnard (Nouvelle Énergie)": 6.1
+      },
+      "social_media_followers_m": {
+        "Marine Le Pen (RN)": 15.3,
+        "Jean-Luc Mélenchon (LFI)": 11.98,
+        "Édouard Philippe (Horizons)": 2.5,
+        "Gabriel Attal (Renaissance)": 7.27,
+        "Raphaël Glucksmann (PP/PS)": 2.87,
+        "François Hollande (PS)": 5.07,
+        "Bruno Retailleau (LR)": 3.15,
+        "Dominique de Villepin (DVD)": 1.54,
+        "Éric Zemmour (Reconquête)": 6.96,
+        "David Lisnard (Nouvelle Énergie)": 1.45
+      }
+    },
+    {
+      "date": "2026-10-26",
+      "voting_intentions": {
+        "Marine Le Pen (RN)": 28.3,
+        "Jean-Luc Mélenchon (LFI)": 14.4,
+        "Édouard Philippe (Horizons)": 14.9,
+        "Gabriel Attal (Renaissance)": 12.6,
+        "Raphaël Glucksmann (PP/PS)": 14.0,
+        "François Hollande (PS)": 9.2,
+        "Bruno Retailleau (LR)": 3.9,
+        "Dominique de Villepin (DVD)": 4.7,
+        "Éric Zemmour (Reconquête)": 5.8,
+        "David Lisnard (Nouvelle Énergie)": 6.2
+      },
+      "social_media_followers_m": {
+        "Marine Le Pen (RN)": 15.32,
+        "Jean-Luc Mélenchon (LFI)": 12.02,
+        "Édouard Philippe (Horizons)": 2.52,
+        "Gabriel Attal (Renaissance)": 7.3,
+        "Raphaël Glucksmann (PP/PS)": 2.9,
+        "François Hollande (PS)": 5.11,
+        "Bruno Retailleau (LR)": 3.17,
+        "Dominique de Villepin (DVD)": 1.56,
+        "Éric Zemmour (Reconquête)": 6.99,
+        "David Lisnard (Nouvelle Énergie)": 1.47
+      }
+    },
+    {
+      "date": "2026-10-27",
+      "voting_intentions": {
+        "Marine Le Pen (RN)": 28.2,
+        "Jean-Luc Mélenchon (LFI)": 14.5,
+        "Édouard Philippe (Horizons)": 14.9,
+        "Gabriel Attal (Renaissance)": 12.5,
+        "Raphaël Glucksmann (PP/PS)": 13.8,
+        "François Hollande (PS)": 9.5,
+        "Bruno Retailleau (LR)": 4.2,
+        "Dominique de Villepin (DVD)": 4.6,
+        "Éric Zemmour (Reconquête)": 5.9,
+        "David Lisnard (Nouvelle Énergie)": 6.4
+      },
+      "social_media_followers_m": {
+        "Marine Le Pen (RN)": 15.35,
+        "Jean-Luc Mélenchon (LFI)": 12.05,
+        "Édouard Philippe (Horizons)": 2.54,
+        "Gabriel Attal (Renaissance)": 7.33,
+        "Raphaël Glucksmann (PP/PS)": 2.94,
+        "François Hollande (PS)": 5.16,
+        "Bruno Retailleau (LR)": 3.21,
+        "Dominique de Villepin (DVD)": 1.58,
+        "Éric Zemmour (Reconquête)": 7.01,
+        "David Lisnard (Nouvelle Énergie)": 1.51
+      }
+    }
+  ]
 }

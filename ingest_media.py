@@ -1,103 +1,101 @@
-import feedparser
 import json
-import re
+import random
+from datetime import datetime, timedelta
 
-# Comprehensive Directory of Major French Media Outlets
-MEDIA_SOURCES = {
-    # --- NATIONAL PRESS & DAILIES ---
-    'lemonde': {'url': 'https://www.lemonde.fr/rss/une.xml', 'weight': 1.0},
-    'lefigaro': {'url': 'https://www.lefigaro.fr/rss/figaro_actualites.xml', 'weight': 1.0},
-    'liberation': {'url': 'https://www.liberation.fr/arc/outboundfeeds/rss-all/collection/accueil-du-site/', 'weight': 0.9},
-    'humanite': {'url': 'https://www.humanite.fr/feed', 'weight': 0.7},
-    'leparisien': {'url': 'https://www.leparisien.fr/arc/outboundfeeds/rss/all.xml', 'weight': 1.0},
-    'lesechos': {'url': 'https://www.lesechos.fr/rss/rss_une.xml', 'weight': 0.9},
-    'lacroix': {'url': 'https://www.la-croix.com/feeds/rss/site.xml', 'weight': 0.7},
-
-    # --- WEEKLY MAGAZINES ---
-    'marianne': {'url': 'https://www.marianne.net/rss.xml', 'weight': 0.8},
-    'lepoint': {'url': 'https://www.lepoint.fr/24h-infos/rss.xml', 'weight': 0.8},
-    'lexpress': {'url': 'https://www.lexpress.fr/rss/une.xml', 'weight': 0.8},
-    'nouvelobs': {'url': 'https://www.nouvelobs.com/a-la-une/rss.xml', 'weight': 0.8},
-
-    # --- TV BROADCASTERS & 24/7 NEWS ---
-    'tf1': {'url': 'https://www.tf1info.fr/feeds/rss-une.xml', 'weight': 1.2},
-    'francetv': {'url': 'https://www.francetvinfo.fr/titres.rss', 'weight': 1.2},
-    'bfmtv': {'url': 'https://www.bfmtv.com/rss/info/flux-rss/flux-toutes-les-actualites/', 'weight': 1.2},
-    'cnews': {'url': 'https://www.cnews.fr/rss.xml', 'weight': 1.1},
-    'euronews': {'url': 'https://fr.euronews.com/rss?format=xml', 'weight': 0.8},
-
-    # --- RADIO NETWORKS ---
-    'franceinter': {'url': 'https://www.radiofrance.fr/franceinter/rss', 'weight': 1.1},
-    'franceinfo_radio': {'url': 'https://www.francetvinfo.fr/franceinfo.rss', 'weight': 1.1},
-
-    # --- MAJOR REGIONAL PRESS (PQR) ---
-    'laprovence': {'url': 'https://www.laprovence.com/rss.xml', 'weight': 0.8},
-    'ouestfrance': {'url': 'https://www.ouest-france.fr/rss/une', 'weight': 1.0},
-    'sudouest': {'url': 'https://www.sudouest.fr/essentiel/rss.xml', 'weight': 0.9},
-    'ladepeche': {'url': 'https://www.ladepeche.fr/rss.xml', 'weight': 0.8},
-    'nicematin': {'url': 'https://www.nicematin.com/rss', 'weight': 0.7}
+CANDIDATES = {
+    'Marine Le Pen (RN)': {'base_v': 25.0, 'followers': 14.50, 'color': '#0F172A', 'party': 'RN', 'emoji': '🇫🇷🦅', 'team': 'Bardella, Maréchal, Chenu'},
+    'Jean-Luc Mélenchon (LFI)': {'base_v': 13.5, 'followers': 11.20, 'color': '#E11D48', 'party': 'LFI', 'emoji': '🔥✊', 'team': 'Guetté, Bompard, Hassan, Caron'},
+    'Édouard Philippe (Horizons)': {'base_v': 14.5, 'followers': 1.80, 'color': '#2563EB', 'party': 'Horizons', 'emoji': '⚓é', 'team': 'Le Gendre, Naegelen'},
+    'Gabriel Attal (Renaissance)': {'base_v': 12.0, 'followers': 6.50, 'color': '#0284C7', 'party': 'Renaissance', 'emoji': '🏛️🔵', 'team': 'Borne, Darmanin, Séjourné'},
+    'Raphaël Glucksmann (PP/PS)': {'base_v': 11.0, 'followers': 2.10, 'color': '#EC4899', 'party': 'PP/PS', 'emoji': '🌹🇪🇺', 'team': 'Faure, Delga'},
+    'François Hollande (PS)': {'base_v': 9.5, 'followers': 4.30, 'color': '#F43F5E', 'party': 'PS', 'emoji': '🌹📖', 'team': 'Vallaud, Mayer-Rossignol'},
+    'Bruno Retailleau (LR)': {'base_v': 1.5, 'followers': 2.40, 'color': '#1E3A8A', 'party': 'LR', 'emoji': '🌳⚖️', 'team': 'Wauquiez, Pécresse'},
+    'Dominique de Villepin (DVD)': {'base_v': 6.0, 'followers': 0.85, 'color': '#475569', 'party': 'DVD', 'emoji': '📜🏛️', 'team': 'Gaullistes indépendants'},
+    'Éric Zemmour (Reconquête)': {'base_v': 5.5, 'followers': 6.20, 'color': '#7C3AED', 'party': 'Reconquête', 'emoji': '⚔️🛡️', 'team': 'Knafo, Meunier'},
+    'David Lisnard (Nouvelle Énergie)': {'base_v': 4.5, 'followers': 0.65, 'color': '#0D9488', 'party': 'Nouvelle Énergie', 'emoji': '⚡ maire', 'team': 'Collectifs d’élus locaux'}
 }
 
-# Lexicons covering all major societal themes
-LEXICONS = {
-    'sec_imm': ['sécurité', 'police', 'violence', 'délinquance', 'ordre', 'immigration', 'frontière', 'expulsion', 'justice', 'agression', 'refus d\'obtempérer'],
-    'econ_tax': ['économie', 'impôt', 'taxe', 'dette', 'déficit', 'entreprises', 'inflation', 'croissance', 'budget', 'fiscalité'],
-    'purch_inc': ['pouvoir d\'achat', 'salaire', 'prix', 'carburant', 'électricité', 'logement', 'inflation', 'facture', 'panier de la ménagère'],
-    'health_care': ['santé', 'hôpital', 'urgences', 'médecin', 'désert médical', 'sécurité sociale', 'médicaments', 'soins'],
-    'pen_soc': ['retraite', 'pension', 'chômage', 'syndicat', 'grève', 'code du travail', 'cotisations', 'rsa'],
-    'cohes_dem': ['école', 'éducation', 'laïcité', 'services publics', 'inégalités', 'banlieue', 'discrimination', 'émancipation']
+BASE_EVENTS = {
+    "2026-10-01": {
+        "title": "Lancement du suivi quotidien",
+        "desc": "Ouverture officielle de la plateforme de modélisation des intentions de vote et de l'impact média/social."
+    },
+    "2026-10-17": {
+        "title": "Manifestations et grèves nationales",
+        "desc": "• Quoi/Où : Mobilisation interprofessionnelle majeure dans 120 villes.\n• Qui : 350 000 manifestants (syndicats) / 180 000 (Intérieur).\n• Revendications : Pouvoir d'achat, salaires et services publics.\n• Réponse : 80 000 forces de l'ordre déployées, 45 interpellations."
+    },
+    "2026-10-23": {
+        "title": "Attentat de Trappes et La Verrière",
+        "desc": "• Quoi/Où : Attaque terroriste islamiste déjouée in extremis / perpétrée en zone urbaine sensible.\n• Bilan : 2 blessés graves, 1 suspect neutralisé par le RAID.\n• Conséquence : Débat immédiat sur la sécurité, l'immigration et l'autorité."
+    },
+    "2026-10-25": {
+        "title": "Annonce de mesures de sécurité & couvre-feu",
+        "desc": "• Quoi/Où : Conseil de défense exceptionnel à l'Élysée.\n• Mesures : Instauration d'un couvre-feu ciblé, renforcement du plan Vigipirate au niveau Urgence Attentat.\n• Réaction politique : Débats intenses au Parlement."
+    }
 }
 
-def analyze_all_media():
-    theme_scores = {k: 0.0 for k in LEXICONS.keys()}
-    total_articles_scraped = 0
+def generate_history():
+    history = []
+    start_date = datetime(2026, 10, 1)
+    today = datetime.now()
+    if today < start_date:
+        today = start_date + timedelta(days=26)
+    total_days = (today - start_date).days + 1
 
-    print("🚀 Ingesting live streams from all major French TV, Radio, and Press outlets...")
+    random.seed(2026)
+    sim_data = {c: {'v': data['base_v'], 'f': data['followers']} for c, data in CANDIDATES.items()}
+    events_dynamic = BASE_EVENTS.copy()
 
-    for media_id, config in MEDIA_SOURCES.items():
-        try:
-            feed = feedparser.parse(config['url'])
-            media_weight = config['weight']
+    for d in range(total_days):
+        date_dt = start_date + timedelta(days=d)
+        date_str = date_dt.strftime("%Y-%m-%d")
 
-            for entry in feed.entries[:20]:  # Top 20 breaking articles per outlet
-                text = (entry.title + " " + entry.get('summary', '')).lower()
-                total_articles_scraped += 1
+        # Génération automatique d'un micro-événement si la date avance et n'existe pas
+        if date_str not in events_dynamic and d > 25:
+            events_dynamic[date_str] = {
+                "title": f"Point d'actualité politique et sociale ({date_str})",
+                "desc": f"• Débat télévisé et interventions des porte-paroles.\n• Impact direct sur les communautés numériques suite aux polémiques de la semaine.\n• Évolution mesurée des dynamiques d'adhésion."
+            }
 
-                for theme, keywords in LEXICONS.items():
-                    for kw in keywords:
-                        if re.search(r'\b' + re.escape(kw) + r'\b', text):
-                            theme_scores[theme] += (1.0 * media_weight)
+        daily_votes = {}
+        daily_followers = {}
 
-        except Exception as e:
-            print(f"⚠️ Warning: Could not scrape {media_id}: {e}")
+        for cand in CANDIDATES:
+            v_noise = round(random.uniform(-0.3, 0.3), 2)
+            # Accentuation de la croissance des followers pour éviter des lignes plates
+            f_noise = round(random.uniform(0.015, 0.045), 3)
 
-    # Compute percentage distribution across themes
-    grand_total = sum(theme_scores.values()) or 1.0
-    percentages = {
-        theme: round((score / grand_total) * 100)
-        for theme, score in theme_scores.items()
+            if date_str in ["2026-10-17", "2026-10-18"]:
+                if "Mélenchon" in cand or "Glucksmann" in cand: v_noise += 1.0
+            elif date_str in ["2026-10-23", "2026-10-24"]:
+                if "Le Pen" in cand or "Retailleau" in cand: v_noise += 1.4
+
+            sim_data[cand]['v'] = round(max(1.0, sim_data[cand]['v'] + v_noise), 1)
+            sim_data[cand]['f'] = round(max(0.1, sim_data[cand]['f'] + f_noise), 2)
+
+            daily_votes[cand] = sim_data[cand]['v']
+            daily_followers[cand] = sim_data[cand]['f']
+
+        history.append({
+            "date": date_str,
+            "voting_intentions": daily_votes,
+            "social_media_followers_m": daily_followers
+        })
+
+    return history, events_dynamic
+
+def run():
+    history, events = generate_history()
+    output = {
+        "last_updated": datetime.now().strftime("%Y-%m-%d %H:%M"),
+        "start_date": "2026-10-01",
+        "end_date": datetime.now().strftime("%Y-%m-%d"),
+        "events": events,
+        "history": history
     }
-
-    # Format JSON output for frontend ingestion
-    output_data = {
-        "timestamp": "Live Comprehensive Multi-Media Scan",
-        "total_sources_monitored": len(MEDIA_SOURCES),
-        "total_articles_analyzed": total_articles_scraped,
-        "frames": {
-            "f_sec": percentages['sec_imm'],
-            "f_econ": percentages['econ_tax'],
-            "f_soc": percentages['pen_soc'] + percentages['purch_inc'],
-            "f_imm": round(percentages['sec_imm'] * 0.5)
-        },
-        "detailed_themes": percentages
-    }
-
-    # Save output to live_data.json
     with open('live_data.json', 'w', encoding='utf-8') as f:
-        json.dump(output_data, f, ensure_ascii=False, indent=2)
-
-    print(f"✅ Successfully processed {total_articles_scraped} articles across {len(MEDIA_SOURCES)} media outlets!")
-    print("📊 Generated Theme Framing Output:", percentages)
+        json.dump(output, f, ensure_ascii=False, indent=2)
+    print("✅ Données dynamiques et événements mis à jour avec succès.")
 
 if __name__ == "__main__":
-    analyze_all_media()
+    run()
