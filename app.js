@@ -19,7 +19,7 @@
  * @typedef {Record<string, { count: number, avg_viewers: number | null, avg_share: number | null }>} InterviewSummary
  * @typedef {{ id: string, name: string, color: string | null, group?: string | null, views: (number | null)[], change: (number | null)[], subscribers: (number | null)[], latest: { date: string, views: number, subscribers: number | null, videos: number, title: string } | null }} YouTubeSeries
  * @typedef {{ dates: string[], candidates: YouTubeSeries[], media: YouTubeSeries[], influencers: YouTubeSeries[] }} YouTube
- * @typedef {{ id: string, name: string, party: string, statut: 'non_candidat' | 'a_verifier', note: string, followers: number | null, youtube_views: number | null, youtube_subscribers: number | null }} Influencer
+ * @typedef {{ id: string, name: string, party: string, statut: 'non_candidat' | 'a_verifier', note: string, followers: number | null, youtube_views: number | null, youtube_subscribers: number | null, youtube_subs_gain_7d: number | null }} Influencer
  * @typedef {{ period: string, fetched: string, total_tv: number | null, shares: Record<string, number> }} TvWeek
  * @typedef {{ video_id: string, title: string, channel: string, published: string, candidates: string[], views: number, url: string }} InterviewVideo
  * @typedef {{ last_updated: string, tv_weekly: TvWeek | null, interview_videos: InterviewVideo[], today: string, candidates: Candidate[], parties: Party[], influencers: Influencer[], youtube: YouTube, projection: Projection[], history: HistoryEntry[], polls: Poll[], media_daily: MediaDay[], media_by_outlet: Record<string, Record<string, { tone: number, n: number }>>, events: CampaignEvent[], followers: Followers, interviews: Interview[], interview_summary: InterviewSummary, sources: Sources, parameters?: Record<string, number> }} LiveData
@@ -154,19 +154,36 @@ function renderMethodology() {
 }
 
 /** Tri et sélection des personnalités influentes. */
-/** @type {{ key: 'name' | 'party' | 'followers' | 'views', dir: 'asc' | 'desc' }} */
-let influencerSort = { key: 'followers', dir: 'desc' };
+/** @type {{ key: 'name' | 'party' | 'followers' | 'views' | 'subs' | 'subs_gain', dir: 'asc' | 'desc' }} */
+let influencerSort = { key: 'name', dir: 'asc' };
 /** @type {Set<string>} identifiants des personnalités cochées */
 const influencerIncluded = new Set();
 
 /** @param {Influencer} i */
 const partyLabel = (i) => partyById[i.party] ? partyById[i.party].name : i.party;
 
+/** Particules rattachées au nom de famille pour le classement (« Le Gendre » est classé en L). */
+const SURNAME_PARTICLES = new Set(['le', 'la', 'les']);
+
+/**
+ * Nom de famille pour le classement : le dernier mot, avec les particules « le/la/les » qui le précèdent.
+ * Les particules « de/du/van » sont ignorées (« Dominique de Villepin » est classé en V).
+ * @param {string} name
+ */
+function surnameOf(name) {
+  const words = name.trim().split(/\s+/);
+  let i = words.length - 1;
+  while (i > 0 && SURNAME_PARTICLES.has(words[i - 1].toLowerCase())) i--;
+  return words.slice(i).join(' ');
+}
+
 /** @param {Influencer} i @param {string} key */
 function influencerValue(i, key) {
-  if (key === 'name') return i.name;
+  if (key === 'name') return surnameOf(i.name);
   if (key === 'party') return partyLabel(i);
   if (key === 'followers') return i.followers;
+  if (key === 'subs') return i.youtube_subscribers;
+  if (key === 'subs_gain') return i.youtube_subs_gain_7d;
   return i.youtube_views;
 }
 
@@ -179,8 +196,18 @@ function sortedInfluencers() {
     const a = influencerValue(x, key);
     const b = influencerValue(y, key);
     if (a == null || b == null) return a == null && b == null ? 0 : a == null ? 1 : -1;
-    if (typeof a === 'string' && typeof b === 'string') return sign * a.localeCompare(b, LOCALES[lang]);
-    return sign * (Number(a) - Number(b));
+    if (typeof a === 'string' && typeof b === 'string') {
+      const byText = sign * a.localeCompare(b, LOCALES[lang]);
+      // À égalité (même nom ou même parti), ordre par prénom
+      return byText !== 0 ? byText : x.name.localeCompare(y.name, LOCALES[lang]);
+    }
+    const byValue = sign * (Number(a) - Number(b));
+    if (byValue !== 0 || key !== 'subs') return byValue;
+    // Abonnés de la chaîne à égalité : le gain hebdomadaire départage
+    const ga = x.youtube_subs_gain_7d;
+    const gb = y.youtube_subs_gain_7d;
+    if (ga == null || gb == null) return ga == null && gb == null ? 0 : ga == null ? 1 : -1;
+    return gb - ga;
   });
   return rows;
 }
@@ -232,7 +259,7 @@ function renderInfluencers() {
   $('influencersTable').innerHTML = `<thead><tr class="text-[10px] uppercase tracking-wider text-slate-500 border-b border-slate-200">
       <th class="px-2 py-1 text-left">${t('inf.th.include')}</th>
       <th class="px-2 py-1 text-left">${t('influencers.th.person')}</th><th class="px-2 py-1 text-left">${t('influencers.th.party')}</th><th class="px-2 py-1 text-left">${t('influencers.th.status')}</th>
-      <th class="px-2 py-1 text-right">${t('influencers.th.followers')}</th><th class="px-2 py-1 text-right">${t('influencers.th.views')}</th><th class="px-2 py-1 text-right">${t('influencers.th.subs')}</th></tr></thead>
+      <th class="px-2 py-1 text-right">${t('influencers.th.followers')}</th><th class="px-2 py-1 text-right">${t('influencers.th.views')}</th><th class="px-2 py-1 text-right">${t('influencers.th.subs')}</th><th class="px-2 py-1 text-right">${t('inf.th.gain')}</th></tr></thead>
     <tbody>${rows.map(i => `<tr class="border-b border-slate-100 ${influencerIncluded.has(i.id) ? '' : 'opacity-40'}">
       <td class="px-2 py-1"><input type="checkbox" data-inf="${esc(i.id)}" class="rounded border-slate-300 text-indigo-600 focus:ring-indigo-500" ${influencerIncluded.has(i.id) ? 'checked' : ''}></td>
       <td class="px-2 py-1 font-semibold whitespace-nowrap">${esc(i.name)}</td>
@@ -240,7 +267,8 @@ function renderInfluencers() {
       <td class="px-2 py-1" title="${esc(i.note)}">${esc(t('status.' + i.statut))}</td>
       <td class="px-2 py-1 text-right">${compact(i.followers)}</td>
       <td class="px-2 py-1 text-right">${compact(i.youtube_views)}</td>
-      <td class="px-2 py-1 text-right">${compact(i.youtube_subscribers)}</td></tr>`).join('')}</tbody>`;
+      <td class="px-2 py-1 text-right">${compact(i.youtube_subscribers)}</td>
+      <td class="px-2 py-1 text-right ${i.youtube_subs_gain_7d != null && i.youtube_subs_gain_7d < 0 ? 'text-[#c62f2e]' : 'text-[#1d5fb0]'}">${i.youtube_subs_gain_7d == null ? '—' : signed(i.youtube_subs_gain_7d, 0)}</td></tr>`).join('')}</tbody>`;
 
   // Total cumulé par parti, uniquement pour les personnalités cochées
   /** @type {Record<string, { count: number, followers: number | null, views: number | null, subs: number | null }>} */
@@ -253,6 +281,9 @@ function renderInfluencers() {
     if (i.youtube_subscribers != null) g.subs = (g.subs || 0) + i.youtube_subscribers;
   });
   const totals = Object.entries(byParty).sort((a, b) => (b[1].followers ?? -1) - (a[1].followers ?? -1));
+  const missingF = (data.influencers || []).filter(i => i.followers == null).length;
+  const missingV = (data.influencers || []).filter(i => i.youtube_views == null).length;
+  $('infMissing').textContent = t('inf.missing', { followers: missingF, views: missingV });
   $('partyTotalsTable').innerHTML = `<thead><tr class="text-[10px] uppercase tracking-wider text-slate-500 border-b border-slate-200">
       <th class="px-2 py-1 text-left">${t('influencers.th.party')}</th><th class="px-2 py-1 text-right">${t('inf.th.count')}</th>
       <th class="px-2 py-1 text-right">${t('influencers.th.followers')}</th><th class="px-2 py-1 text-right">${t('influencers.th.views')}</th><th class="px-2 py-1 text-right">${t('influencers.th.subs')}</th></tr></thead>

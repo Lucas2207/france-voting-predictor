@@ -92,5 +92,22 @@ class WeekLabelTest(unittest.TestCase):
         self.assertEqual(mediametrie.week_slug(d(2026, 9, 28)), "laudience-de-la-television-du-28-septembre-au-4-octobre-2026")
 
 
+
+
+class SubsGainTest(unittest.TestCase):
+    def test_weekly_gain_uses_snapshot_seven_days_before(self):
+        from pipeline.__main__ import subs_gain_7d
+        snaps = [
+            {"id": "x", "date": "2026-10-20", "subscribers": 1000},
+            {"id": "x", "date": "2026-10-24", "subscribers": 1100},
+            {"id": "x", "date": "2026-10-27", "subscribers": 1250},
+        ]
+        # 27 octobre : le relevé du 20 octobre est à 7 jours exactement
+        self.assertEqual(subs_gain_7d(snaps, "x"), 250)
+        snaps.append({"id": "x", "date": "2026-10-30", "subscribers": 1400})
+        # 30 octobre : le relevé du 24 octobre n'a que 6 jours, on garde celui du 20
+        self.assertEqual(subs_gain_7d(snaps, "x"), 400)
+
+
 if __name__ == "__main__":
     unittest.main()

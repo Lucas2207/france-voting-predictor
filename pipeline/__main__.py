@@ -52,6 +52,18 @@ def interview_videos(snapshots, candidates):
              "url": f"https://www.youtube.com/watch?v={s['video_id']}"} for s in rows]
 
 
+def subs_gain_7d(snapshots, pid):
+    """Gain d'abonnés YouTube sur 7 jours : dernier relevé moins le relevé le plus proche d'il y a 7 jours."""
+    rows = sorted((s for s in snapshots if s["id"] == pid and s.get("subscribers") is not None), key=lambda s: s["date"])
+    if len(rows) < 2:
+        return None
+    last = rows[-1]
+    earlier = [s for s in rows if (date.fromisoformat(last["date"]) - date.fromisoformat(s["date"])).days >= 7]
+    if not earlier:
+        return None
+    return last["subscribers"] - earlier[-1]["subscribers"]
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--no-claude", action="store_true")
@@ -208,6 +220,7 @@ def main():
             "followers": social.total(followers_doc["entries"], inf["id"], today),
             "youtube_views": yt_latest["views"] if yt_latest else None,
             "youtube_subscribers": yt_latest["subscribers"] if yt_latest else None,
+            "youtube_subs_gain_7d": subs_gain_7d(youtube_doc["snapshots"], inf["id"]),
         })
     interviews = [i for i in interviews_doc["interviews"] if i["date"] >= (today - timedelta(days=HISTORY_DAYS)).isoformat()]
 
