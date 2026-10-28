@@ -1,6 +1,6 @@
 {
- "last_updated": "2026-10-27 22:59",
- "today": "2026-10-27",
+ "last_updated": "2026-10-28 10:37",
+ "today": "2026-10-28",
  "candidates": [
   {
    "id": "lepen",
@@ -168,7 +168,7 @@
    "poll_lo": 30.7,
    "poll_hi": 37.7,
    "n_polls": 8,
-   "change_7d": -0.4,
+   "change_7d": -0.2,
    "media": {
     "articles_7d": 51,
     "share_7d": 0.347,
@@ -187,7 +187,7 @@
    "poll_lo": 13.8,
    "poll_hi": 20.0,
    "n_polls": 8,
-   "change_7d": 0.7,
+   "change_7d": 0.6,
    "media": {
     "articles_7d": 25,
     "share_7d": 0.17,
@@ -206,7 +206,7 @@
    "poll_lo": 9.6,
    "poll_hi": 18.6,
    "n_polls": 8,
-   "change_7d": 0.0,
+   "change_7d": 0.1,
    "media": {
     "articles_7d": 9,
     "share_7d": 0.061,
@@ -225,7 +225,7 @@
    "poll_lo": 10.3,
    "poll_hi": 15.9,
    "n_polls": 8,
-   "change_7d": 0.8,
+   "change_7d": 0.5,
    "media": {
     "articles_7d": 18,
     "share_7d": 0.122,
@@ -263,7 +263,7 @@
    "poll_lo": 4.7,
    "poll_hi": 9.3,
    "n_polls": 8,
-   "change_7d": 0.1,
+   "change_7d": 0.4,
    "media": {
     "articles_7d": 4,
     "share_7d": 0.027,
@@ -282,7 +282,7 @@
    "poll_lo": 4.4,
    "poll_hi": 8.8,
    "n_polls": 7,
-   "change_7d": 1.0,
+   "change_7d": 0.5,
    "media": {
     "articles_7d": 6,
     "share_7d": 0.041,
@@ -301,7 +301,7 @@
    "poll_lo": 2.7,
    "poll_hi": 5.5,
    "n_polls": 8,
-   "change_7d": 0.4,
+   "change_7d": 0.1,
    "media": {
     "articles_7d": 2,
     "share_7d": 0.014,
@@ -320,7 +320,7 @@
    "poll_lo": 0.8,
    "poll_hi": 3.4,
    "n_polls": 8,
-   "change_7d": 0.0,
+   "change_7d": 0.1,
    "media": {
     "articles_7d": 1,
     "share_7d": 0.007,
@@ -339,7 +339,7 @@
    "poll_lo": 0.9,
    "poll_hi": 2.9,
    "n_polls": 8,
-   "change_7d": -0.1,
+   "change_7d": 0.0,
    "media": {
     "articles_7d": 0,
     "share_7d": 0.0,
@@ -373,71 +373,6 @@
   }
  ],
  "history": [
-  {
-   "date": "2026-04-30",
-   "polls": {
-    "lepen": {
-     "mean": 32.5,
-     "lo": 30.3,
-     "hi": 34.7,
-     "n_polls": 1
-    },
-    "melenchon": {
-     "mean": 12.2,
-     "lo": 10.7,
-     "hi": 13.8,
-     "n_polls": 1
-    },
-    "philippe": {
-     "mean": 19.0,
-     "lo": 17.1,
-     "hi": 20.9,
-     "n_polls": 1
-    },
-    "glucksmann": {
-     "mean": 11.5,
-     "lo": 10.0,
-     "hi": 13.0,
-     "n_polls": 1
-    },
-    "attal": {
-     "mean": 14.0,
-     "lo": 12.4,
-     "hi": 15.6,
-     "n_polls": 1
-    },
-    "zemmour": {
-     "mean": 5.2,
-     "lo": 4.2,
-     "hi": 6.3,
-     "n_polls": 1
-    },
-    "retailleau": {
-     "mean": 11.0,
-     "lo": 9.5,
-     "hi": 12.5,
-     "n_polls": 1
-    },
-    "roussel": {
-     "mean": 3.8,
-     "lo": 2.8,
-     "hi": 4.8,
-     "n_polls": 1
-    },
-    "dupontaignan": {
-     "mean": 1.2,
-     "lo": 0.2,
-     "hi": 2.2,
-     "n_polls": 1
-    },
-    "arthaud": {
-     "mean": 1.0,
-     "lo": 0,
-     "hi": 2.0,
-     "n_polls": 1
-    }
-   }
-  },
   {
    "date": "2026-05-01",
    "polls": {
@@ -12221,31 +12156,80 @@
      "n_polls": 8
     }
    }
+  },
+  {
+   "date": "2026-10-28",
+   "polls": {
+    "lepen": {
+     "mean": 34.2,
+     "lo": 30.7,
+     "hi": 37.7,
+     "n_polls": 8
+    },
+    "melenchon": {
+     "mean": 16.9,
+     "lo": 13.8,
+     "hi": 20.0,
+     "n_polls": 8
+    },
+    "philippe": {
+     "mean": 14.1,
+     "lo": 9.6,
+     "hi": 18.6,
+     "n_polls": 8
+    },
+    "glucksmann": {
+     "mean": 13.1,
+     "lo": 10.3,
+     "hi": 15.9,
+     "n_polls": 8
+    },
+    "attal": {
+     "mean": 8.0,
+     "lo": 2.6,
+     "hi": 13.3,
+     "n_polls": 8
+    },
+    "zemmour": {
+     "mean": 4.1,
+     "lo": 2.7,
+     "hi": 5.5,
+     "n_polls": 8
+    },
+    "retailleau": {
+     "mean": 7.0,
+     "lo": 4.7,
+     "hi": 9.3,
+     "n_polls": 8
+    },
+    "lisnard": {
+     "mean": 6.6,
+     "lo": 4.4,
+     "hi": 8.8,
+     "n_polls": 7
+    },
+    "roussel": {
+     "mean": 1.9,
+     "lo": 0.9,
+     "hi": 2.9,
+     "n_polls": 8
+    },
+    "dupontaignan": {
+     "mean": 2.1,
+     "lo": 0.8,
+     "hi": 3.4,
+     "n_polls": 8
+    },
+    "arthaud": {
+     "mean": 0.6,
+     "lo": 0,
+     "hi": 1.6,
+     "n_polls": 8
+    }
+   }
   }
  ],
  "polls": [
-  {
-   "pollster": "Harris Interactive",
-   "end_date": "2026-04-30",
-   "sample": 1725,
-   "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/mai/10180-pres-toluna-harris-interactive-rtl-4-mai.pdf",
-   "scores": {
-    "Nathalie Arthaud": 1.0,
-    "Jean-Luc Mélenchon": 12.25,
-    "Fabien Roussel": 3.75,
-    "Marine Tondelier": 4.0,
-    "Raphaël Glucksmann": 11.5,
-    "Édouard Philippe": 19.0,
-    "Bruno Retailleau": 11.0,
-    "Nicolas Dupont-Aignan": 1.25,
-    "Jordan Bardella": 34.5,
-    "Éric Zemmour": 5.25,
-    "Gabriel Attal": 14.0,
-    "Marine Le Pen": 32.5
-   },
-   "scenarios": 4,
-   "scenarios_used": 4
-  },
   {
    "pollster": "Odoxa",
    "end_date": "2026-05-21",
@@ -14044,7 +14028,8 @@
  },
  "youtube": {
   "dates": [
-   "2026-10-27"
+   "2026-10-27",
+   "2026-10-28"
   ],
   "candidates": [
    {
@@ -14053,22 +14038,25 @@
     "color": null,
     "group": null,
     "views": [
-     93191283
+     93191283,
+     93517585
     ],
     "change": [
-     0
+     0,
+     326302
     ],
     "subscribers": [
+     224000,
      224000
     ],
     "latest": {
-     "date": "2026-10-27",
+     "date": "2026-10-28",
      "id": "lepen",
      "kind": "candidate",
      "title": "Marine Le Pen",
      "channel_id": "UCU3z3px1_RCqYBwrs8LJVWg",
      "subscribers": 224000,
-     "views": 93191283,
+     "views": 93517585,
      "videos": 1017
     }
    },
@@ -14078,23 +14066,26 @@
     "color": null,
     "group": null,
     "views": [
-     454550528
+     454550528,
+     455325786
     ],
     "change": [
-     0
+     0,
+     775258
     ],
     "subscribers": [
+     1310000,
      1310000
     ],
     "latest": {
-     "date": "2026-10-27",
+     "date": "2026-10-28",
      "id": "melenchon",
      "kind": "candidate",
      "title": "JEAN-LUC MÉLENCHON",
      "channel_id": "UCk-_PEY3iC6DIGJKuoEe9bw",
      "subscribers": 1310000,
-     "views": 454550528,
-     "videos": 2239
+     "views": 455325786,
+     "videos": 2241
     }
    },
    {
@@ -14103,22 +14094,25 @@
     "color": null,
     "group": null,
     "views": [
-     1593793
+     1593793,
+     1597252
     ],
     "change": [
-     0
+     0,
+     3459
     ],
     "subscribers": [
+     9360,
      9360
     ],
     "latest": {
-     "date": "2026-10-27",
+     "date": "2026-10-28",
      "id": "philippe",
      "kind": "candidate",
      "title": "Edouard Philippe",
      "channel_id": "UCoDttl6w1T-Stuw_pvNOvLA",
      "subscribers": 9360,
-     "views": 1593793,
+     "views": 1597252,
      "videos": 188
     }
    },
@@ -14128,22 +14122,25 @@
     "color": null,
     "group": null,
     "views": [
-     392290
+     392290,
+     392418
     ],
     "change": [
-     0
+     0,
+     128
     ],
     "subscribers": [
+     2930,
      2930
     ],
     "latest": {
-     "date": "2026-10-27",
+     "date": "2026-10-28",
      "id": "glucksmann",
      "kind": "candidate",
      "title": "Place publique",
      "channel_id": "UCixe3VYdKvKavOyopBxsKCw",
      "subscribers": 2930,
-     "views": 392290,
+     "views": 392418,
      "videos": 430
     }
    },
@@ -14153,22 +14150,25 @@
     "color": null,
     "group": null,
     "views": [
-     2026965
+     2026965,
+     2029121
     ],
     "change": [
-     0
+     0,
+     2156
     ],
     "subscribers": [
+     12100,
      12100
     ],
     "latest": {
-     "date": "2026-10-27",
+     "date": "2026-10-28",
      "id": "attal",
      "kind": "candidate",
      "title": "Gabriel Attal",
      "channel_id": "UCOcDPuYTuxoRBtfmTBXtqBA",
      "subscribers": 12100,
-     "views": 2026965,
+     "views": 2029121,
      "videos": 248
     }
    },
@@ -14178,22 +14178,25 @@
     "color": null,
     "group": null,
     "views": [
-     136171671
+     136171671,
+     136301519
     ],
     "change": [
-     0
+     0,
+     129848
     ],
     "subscribers": [
+     498000,
      498000
     ],
     "latest": {
-     "date": "2026-10-27",
+     "date": "2026-10-28",
      "id": "zemmour",
      "kind": "candidate",
      "title": "Éric Zemmour",
      "channel_id": "UCjTbZBXEw-gplUAnMXLYHpg",
      "subscribers": 498000,
-     "views": 136171671,
+     "views": 136301519,
      "videos": 524
     }
    },
@@ -14203,22 +14206,25 @@
     "color": null,
     "group": null,
     "views": [
-     375658
+     375658,
+     388666
     ],
     "change": [
-     0
+     0,
+     13008
     ],
     "subscribers": [
-     4450
+     4450,
+     4460
     ],
     "latest": {
-     "date": "2026-10-27",
+     "date": "2026-10-28",
      "id": "retailleau",
      "kind": "candidate",
      "title": "Bruno Retailleau",
      "channel_id": "UCRkuLQabW1hsihpZuHJSbEA",
-     "subscribers": 4450,
-     "views": 375658,
+     "subscribers": 4460,
+     "views": 388666,
      "videos": 103
     }
    },
@@ -14228,22 +14234,25 @@
     "color": null,
     "group": null,
     "views": [
-     7075527
+     7075527,
+     7179723
     ],
     "change": [
-     0
+     0,
+     104196
     ],
     "subscribers": [
-     25800
+     25800,
+     26000
     ],
     "latest": {
-     "date": "2026-10-27",
+     "date": "2026-10-28",
      "id": "lisnard",
      "kind": "candidate",
      "title": "David Lisnard",
      "channel_id": "UC2XZY-bjIEmyLZ9MPJQytZg",
-     "subscribers": 25800,
-     "views": 7075527,
+     "subscribers": 26000,
+     "views": 7179723,
      "videos": 370
     }
    },
@@ -14253,22 +14262,25 @@
     "color": null,
     "group": null,
     "views": [
-     7563
+     7563,
+     7567
     ],
     "change": [
-     0
+     0,
+     4
     ],
     "subscribers": [
+     1020,
      1020
     ],
     "latest": {
-     "date": "2026-10-27",
+     "date": "2026-10-28",
      "id": "roussel",
      "kind": "candidate",
      "title": "Fabien Roussel",
      "channel_id": "UCHQbUAkpnkf_Yg6-xAqj-ZA",
      "subscribers": 1020,
-     "views": 7563,
+     "views": 7567,
      "videos": 25
     }
    },
@@ -14278,22 +14290,25 @@
     "color": null,
     "group": null,
     "views": [
-     68231508
+     68231508,
+     68271376
     ],
     "change": [
-     0
+     0,
+     39868
     ],
     "subscribers": [
+     233000,
      233000
     ],
     "latest": {
-     "date": "2026-10-27",
+     "date": "2026-10-28",
      "id": "dupontaignan",
      "kind": "candidate",
      "title": "Nicolas Dupont-Aignan",
      "channel_id": "UCfA5DnCDX3Ixy5QOAMGtBlA",
      "subscribers": 233000,
-     "views": 68231508,
+     "views": 68271376,
      "videos": 3931
     }
    },
@@ -14303,23 +14318,26 @@
     "color": null,
     "group": null,
     "views": [
-     1417494
+     1417494,
+     1424936
     ],
     "change": [
-     0
+     0,
+     7442
     ],
     "subscribers": [
-     9050
+     9050,
+     9060
     ],
     "latest": {
-     "date": "2026-10-27",
+     "date": "2026-10-28",
      "id": "arthaud",
      "kind": "candidate",
      "title": "Nathalie Arthaud",
      "channel_id": "UCZsh-MrJftAOP_-ZgRgLScw",
-     "subscribers": 9050,
-     "views": 1417494,
-     "videos": 823
+     "subscribers": 9060,
+     "views": 1424936,
+     "videos": 824
     }
    }
   ],
@@ -14330,23 +14348,26 @@
     "color": "#2E4A9E",
     "group": "tv",
     "views": [
-     1948655352
+     1948655352,
+     1949383043
     ],
     "change": [
-     0
+     0,
+     727691
     ],
     "subscribers": [
+     2710000,
      2710000
     ],
     "latest": {
-     "date": "2026-10-27",
+     "date": "2026-10-28",
      "id": "media-bfmtv",
      "kind": "media",
      "title": "BFMTV",
      "channel_id": "UCXwDLMDV86ldKoFVc_g8P0g",
      "subscribers": 2710000,
-     "views": 1948655352,
-     "videos": 84616
+     "views": 1949383043,
+     "videos": 84628
     }
    },
    {
@@ -14355,23 +14376,26 @@
     "color": "#D62839",
     "group": "tv",
     "views": [
-     670416957
+     670416957,
+     673554491
     ],
     "change": [
-     0
+     0,
+     3137534
     ],
     "subscribers": [
+     1090000,
      1090000
     ],
     "latest": {
-     "date": "2026-10-27",
+     "date": "2026-10-28",
      "id": "media-franceinfo",
      "kind": "media",
      "title": "franceinfo",
      "channel_id": "UCO6K_kkdP-lnSCiO3tPx7WA",
      "subscribers": 1090000,
-     "views": 670416957,
-     "videos": 28981
+     "views": 673554491,
+     "videos": 29015
     }
    },
    {
@@ -14380,22 +14404,25 @@
     "color": "#0091CC",
     "group": "tv",
     "views": [
-     8751561
+     8751561,
+     8812778
     ],
     "change": [
-     0
+     0,
+     61217
     ],
     "subscribers": [
+     361000,
      361000
     ],
     "latest": {
-     "date": "2026-10-27",
+     "date": "2026-10-28",
      "id": "media-tf1info",
      "kind": "media",
      "title": "TF1",
      "channel_id": "UC26vXhYofHiZDM2ar1zUuwQ",
      "subscribers": 361000,
-     "views": 8751561,
+     "views": 8812778,
      "videos": 53
     }
    },
@@ -14405,23 +14432,26 @@
     "color": "#D9468F",
     "group": "tv",
     "views": [
-     1648663509
+     1648663509,
+     1649198018
     ],
     "change": [
-     0
+     0,
+     534509
     ],
     "subscribers": [
+     2240000,
      2240000
     ],
     "latest": {
-     "date": "2026-10-27",
+     "date": "2026-10-28",
      "id": "media-lci",
      "kind": "media",
      "title": "LCI",
      "channel_id": "UCewhc0fvja891XkpIPGRMxQ",
      "subscribers": 2240000,
-     "views": 1648663509,
-     "videos": 14036
+     "views": 1649198018,
+     "videos": 14043
     }
    },
    {
@@ -14430,23 +14460,82 @@
     "color": "#B97F00",
     "group": "tv",
     "views": [
-     507413802
+     507413802,
+     508820521
     ],
     "change": [
-     0
+     0,
+     1406719
     ],
     "subscribers": [
+     652000,
      652000
     ],
     "latest": {
-     "date": "2026-10-27",
+     "date": "2026-10-28",
      "id": "media-cnews",
      "kind": "media",
      "title": "CNEWS",
      "channel_id": "UCXKJrYczY2_fJEZgFPGY0HQ",
      "subscribers": 652000,
-     "views": 507413802,
-     "videos": 40295
+     "views": 508820521,
+     "videos": 40350
+    }
+   },
+   {
+    "id": "media-m6info",
+    "name": "M6 Info",
+    "color": "#7B52AE",
+    "group": "tv",
+    "views": [
+     null,
+     795220317
+    ],
+    "change": [
+     null,
+     0
+    ],
+    "subscribers": [
+     null,
+     310000
+    ],
+    "latest": {
+     "date": "2026-10-28",
+     "id": "media-m6info",
+     "kind": "media",
+     "title": "M6 Info",
+     "channel_id": "UC3Sk_YpjPd_Lz_oPQfhPQXQ",
+     "subscribers": 310000,
+     "views": 795220317,
+     "videos": 14758
+    }
+   },
+   {
+    "id": "media-francetelevisions",
+    "name": "France Télévisions",
+    "color": "#0E9F8A",
+    "group": "tv",
+    "views": [
+     null,
+     270716492
+    ],
+    "change": [
+     null,
+     0
+    ],
+    "subscribers": [
+     null,
+     418000
+    ],
+    "latest": {
+     "date": "2026-10-28",
+     "id": "media-francetelevisions",
+     "kind": "media",
+     "title": "France Télévisions",
+     "channel_id": "UCCBR4hxc0hMbWs0IfBljQMg",
+     "subscribers": 418000,
+     "views": 270716492,
+     "videos": 7225
     }
    },
    {
@@ -14455,23 +14544,26 @@
     "color": "#A0522D",
     "group": "radio",
     "views": [
-     2239017805
+     2239017805,
+     2239891194
     ],
     "change": [
-     0
+     0,
+     873389
     ],
     "subscribers": [
+     1440000,
      1440000
     ],
     "latest": {
-     "date": "2026-10-27",
+     "date": "2026-10-28",
      "id": "media-france-inter",
      "kind": "media",
      "title": "France Inter",
      "channel_id": "UCJldRgT_D7Am-ErRHQZ90uw",
      "subscribers": 1440000,
-     "views": 2239017805,
-     "videos": 52882
+     "views": 2239891194,
+     "videos": 52886
     }
    },
    {
@@ -14480,23 +14572,26 @@
     "color": "#3A6EA5",
     "group": "radio",
     "views": [
-     1984681616
+     1984681616,
+     1985437713
     ],
     "change": [
-     0
+     0,
+     756097
     ],
     "subscribers": [
+     2300000,
      2300000
     ],
     "latest": {
-     "date": "2026-10-27",
+     "date": "2026-10-28",
      "id": "media-europe1",
      "kind": "media",
      "title": "Europe 1",
      "channel_id": "UCIMGfEAERXjmWwQeg15BFsg",
      "subscribers": 2300000,
-     "views": 1984681616,
-     "videos": 181021
+     "views": 1985437713,
+     "videos": 181030
     }
    },
    {
@@ -14505,23 +14600,26 @@
     "color": "#C05621",
     "group": "radio",
     "views": [
-     444706643
+     444706643,
+     446293967
     ],
     "change": [
-     0
+     0,
+     1587324
     ],
     "subscribers": [
-     697000
+     697000,
+     698000
     ],
     "latest": {
-     "date": "2026-10-27",
+     "date": "2026-10-28",
      "id": "media-radionova",
      "kind": "media",
      "title": "Radio Nova",
      "channel_id": "UCGvjUWz3mGV9cssraATuEsw",
-     "subscribers": 697000,
-     "views": 444706643,
-     "videos": 7521
+     "subscribers": 698000,
+     "views": 446293967,
+     "videos": 7525
     }
    },
    {
@@ -14530,23 +14628,26 @@
     "color": "#2E4A9E",
     "group": "presse",
     "views": [
-     764265135
+     764265135,
+     764587303
     ],
     "change": [
-     0
+     0,
+     322168
     ],
     "subscribers": [
+     2280000,
      2280000
     ],
     "latest": {
-     "date": "2026-10-27",
+     "date": "2026-10-28",
      "id": "media-lemonde",
      "kind": "media",
      "title": "Le Monde",
      "channel_id": "UCYpRDnhk5H8h16jpS84uqsA",
      "subscribers": 2280000,
-     "views": 764265135,
-     "videos": 5396
+     "views": 764587303,
+     "videos": 5397
     }
    },
    {
@@ -14555,23 +14656,82 @@
     "color": "#D62839",
     "group": "presse",
     "views": [
-     328154950
+     328154950,
+     328465802
     ],
     "change": [
-     0
+     0,
+     310852
     ],
     "subscribers": [
+     1190000,
      1190000
     ],
     "latest": {
-     "date": "2026-10-27",
+     "date": "2026-10-28",
      "id": "media-mediapart",
      "kind": "media",
      "title": "Mediapart",
      "channel_id": "UCdnaDhU-LDQrIEEmSIfq0-Q",
      "subscribers": 1190000,
-     "views": 328154950,
+     "views": 328465802,
      "videos": 4596
+    }
+   },
+   {
+    "id": "media-leparisien",
+    "name": "Le Parisien",
+    "color": "#0091CC",
+    "group": "presse",
+    "views": [
+     null,
+     3778389490
+    ],
+    "change": [
+     null,
+     0
+    ],
+    "subscribers": [
+     null,
+     2130000
+    ],
+    "latest": {
+     "date": "2026-10-28",
+     "id": "media-leparisien",
+     "kind": "media",
+     "title": "Le Parisien",
+     "channel_id": "UCfHn_8-ehdem86fEvlFg-Gw",
+     "subscribers": 2130000,
+     "views": 3778389490,
+     "videos": 24428
+    }
+   },
+   {
+    "id": "media-w9",
+    "name": "W9",
+    "color": "#6A4C93",
+    "group": "tv",
+    "views": [
+     null,
+     167990350
+    ],
+    "change": [
+     null,
+     0
+    ],
+    "subscribers": [
+     null,
+     93200
+    ],
+    "latest": {
+     "date": "2026-10-28",
+     "id": "media-w9",
+     "kind": "media",
+     "title": "W9",
+     "channel_id": "UCRpM3yXo53-Ko13G4lKavZg",
+     "subscribers": 93200,
+     "views": 167990350,
+     "videos": 3622
     }
    }
   ],
@@ -14582,22 +14742,25 @@
     "color": null,
     "group": null,
     "views": [
-     141885724
+     141885724,
+     141938898
     ],
     "change": [
-     0
+     0,
+     53174
     ],
     "subscribers": [
+     231000,
      231000
     ],
     "latest": {
-     "date": "2026-10-27",
+     "date": "2026-10-28",
      "id": "bardella",
      "kind": "influencer",
      "title": "Jordan Bardella",
      "channel_id": "UC3U0VIDgANFaXeOAtt1m5Mw",
      "subscribers": 231000,
-     "views": 141885724,
+     "views": 141938898,
      "videos": 991
     }
    },
@@ -14607,22 +14770,25 @@
     "color": null,
     "group": null,
     "views": [
-     2524
+     2524,
+     2527
     ],
     "change": [
-     0
+     0,
+     3
     ],
     "subscribers": [
-     738
+     738,
+     736
     ],
     "latest": {
-     "date": "2026-10-27",
+     "date": "2026-10-28",
      "id": "tondelier",
      "kind": "influencer",
      "title": "Marine Tondelier",
      "channel_id": "UCziKYvao-gVX9qRaHLBIuBQ",
-     "subscribers": 738,
-     "views": 2524,
+     "subscribers": 736,
+     "views": 2527,
      "videos": 2
     }
    },
@@ -14632,23 +14798,26 @@
     "color": null,
     "group": null,
     "views": [
-     8754942
+     8754942,
+     8886737
     ],
     "change": [
-     0
+     0,
+     131795
     ],
     "subscribers": [
-     52800
+     52800,
+     53100
     ],
     "latest": {
-     "date": "2026-10-27",
+     "date": "2026-10-28",
      "id": "villepin",
      "kind": "influencer",
      "title": "Dominique de Villepin",
      "channel_id": "UCMIpCiZdVlMoqfra4hT6d4Q",
-     "subscribers": 52800,
-     "views": 8754942,
-     "videos": 377
+     "subscribers": 53100,
+     "views": 8886737,
+     "videos": 378
     }
    },
    {
@@ -14657,22 +14826,25 @@
     "color": null,
     "group": null,
     "views": [
-     84396433
+     84396433,
+     84421414
     ],
     "change": [
-     0
+     0,
+     24981
     ],
     "subscribers": [
+     250000,
      250000
     ],
     "latest": {
-     "date": "2026-10-27",
+     "date": "2026-10-28",
      "id": "ruffin",
      "kind": "influencer",
      "title": "FRANÇOIS RUFFIN",
      "channel_id": "UCIQGSp79vVch0vO3Efqif_w",
      "subscribers": 250000,
-     "views": 84396433,
+     "views": 84421414,
      "videos": 1264
     }
    },
@@ -14682,23 +14854,26 @@
     "color": null,
     "group": null,
     "views": [
-     95000324
+     95000324,
+     95495535
     ],
     "change": [
-     0
+     0,
+     495211
     ],
     "subscribers": [
-     157000
+     157000,
+     158000
     ],
     "latest": {
-     "date": "2026-10-27",
+     "date": "2026-10-28",
      "id": "knafo",
      "kind": "influencer",
      "title": "Sarah Knafo",
      "channel_id": "UC8ba7bn2fuU_lsVweb4YM4Q",
-     "subscribers": 157000,
-     "views": 95000324,
-     "videos": 616
+     "subscribers": 158000,
+     "views": 95495535,
+     "videos": 617
     }
    },
    {
@@ -14707,22 +14882,25 @@
     "color": null,
     "group": null,
     "views": [
-     38772264
+     38772264,
+     38855063
     ],
     "change": [
-     0
+     0,
+     82799
     ],
     "subscribers": [
+     127000,
      127000
     ],
     "latest": {
-     "date": "2026-10-27",
+     "date": "2026-10-28",
      "id": "marechal",
      "kind": "influencer",
      "title": "Marion Maréchal",
      "channel_id": "UCwupzUX-SYyt3y4yx8cYdpg",
      "subscribers": 127000,
-     "views": 38772264,
+     "views": 38855063,
      "videos": 570
     }
    },
@@ -14732,22 +14910,25 @@
     "color": null,
     "group": null,
     "views": [
-     9992613
+     9992613,
+     9994094
     ],
     "change": [
-     0
+     0,
+     1481
     ],
     "subscribers": [
-     60400
+     60400,
+     60500
     ],
     "latest": {
-     "date": "2026-10-27",
+     "date": "2026-10-28",
      "id": "hassan",
      "kind": "influencer",
      "title": "Rima Hassan",
      "channel_id": "UC33gQfThN0fxgwfwFlNn6XQ",
-     "subscribers": 60400,
-     "views": 9992613,
+     "subscribers": 60500,
+     "views": 9994094,
      "videos": 133
     }
    },
@@ -14757,22 +14938,25 @@
     "color": null,
     "group": null,
     "views": [
-     46797357
+     46797357,
+     46903191
     ],
     "change": [
-     0
+     0,
+     105834
     ],
     "subscribers": [
-     136000
+     136000,
+     137000
     ],
     "latest": {
-     "date": "2026-10-27",
+     "date": "2026-10-28",
      "id": "guiraud",
      "kind": "influencer",
      "title": "David Guiraud",
      "channel_id": "UCNlu6bn_Vu37IDINEpVlEog",
-     "subscribers": 136000,
-     "views": 46797357,
+     "subscribers": 137000,
+     "views": 46903191,
      "videos": 334
     }
    },
@@ -14782,23 +14966,26 @@
     "color": null,
     "group": null,
     "views": [
-     30682724
+     30682724,
+     30856352
     ],
     "change": [
-     0
+     0,
+     173628
     ],
     "subscribers": [
-     95300
+     95300,
+     95400
     ],
     "latest": {
-     "date": "2026-10-27",
+     "date": "2026-10-28",
      "id": "guette",
      "kind": "influencer",
      "title": "Clémence Guetté",
      "channel_id": "UCpU9riAixpc1Xn9Q4i7AkOw",
-     "subscribers": 95300,
-     "views": 30682724,
-     "videos": 580
+     "subscribers": 95400,
+     "views": 30856352,
+     "videos": 581
     }
    },
    {
@@ -14807,22 +14994,25 @@
     "color": null,
     "group": null,
     "views": [
-     104096188
+     104096188,
+     104293027
     ],
     "change": [
-     0
+     0,
+     196839
     ],
     "subscribers": [
+     225000,
      225000
     ],
     "latest": {
-     "date": "2026-10-27",
+     "date": "2026-10-28",
      "id": "bompard",
      "kind": "influencer",
      "title": "Manuel Bompard",
      "channel_id": "UCr7r7gh9N45WVwYAmHQ3m3w",
      "subscribers": 225000,
-     "views": 104096188,
+     "views": 104293027,
      "videos": 1062
     }
    },
@@ -14832,16 +15022,19 @@
     "color": null,
     "group": null,
     "views": [
+     2146,
      2146
     ],
     "change": [
+     0,
      0
     ],
     "subscribers": [
+     1080,
      1080
     ],
     "latest": {
-     "date": "2026-10-27",
+     "date": "2026-10-28",
      "id": "darmanin",
      "kind": "influencer",
      "title": "Gérald DARMANIN",
@@ -14857,22 +15050,25 @@
     "color": null,
     "group": null,
     "views": [
-     98999
+     98999,
+     99051
     ],
     "change": [
-     0
+     0,
+     52
     ],
     "subscribers": [
+     135,
      135
     ],
     "latest": {
-     "date": "2026-10-27",
+     "date": "2026-10-28",
      "id": "faure",
      "kind": "influencer",
      "title": "Olivier Faure",
      "channel_id": "UCZ77yq9aznMT9slLfWOCSlg",
      "subscribers": 135,
-     "views": 98999,
+     "views": 99051,
      "videos": 35
     }
    },
@@ -14882,22 +15078,25 @@
     "color": null,
     "group": null,
     "views": [
-     48843
+     48843,
+     48852
     ],
     "change": [
-     0
+     0,
+     9
     ],
     "subscribers": [
+     399,
      399
     ],
     "latest": {
-     "date": "2026-10-27",
+     "date": "2026-10-28",
      "id": "delga",
      "kind": "influencer",
      "title": "La République En Commun",
      "channel_id": "UCnBiC9JAFRdmM9forUu77Lg",
      "subscribers": 399,
-     "views": 48843,
+     "views": 48852,
      "videos": 101
     }
    },
@@ -14907,22 +15106,25 @@
     "color": null,
     "group": null,
     "views": [
-     1319734
+     1319734,
+     1320101
     ],
     "change": [
-     0
+     0,
+     367
     ],
     "subscribers": [
+     4470,
      4470
     ],
     "latest": {
-     "date": "2026-10-27",
+     "date": "2026-10-28",
      "id": "wauquiez",
      "kind": "influencer",
      "title": "Laurent Wauquiez",
      "channel_id": "UCjo4wCbga9X01yGwm0gB0Wg",
      "subscribers": 4470,
-     "views": 1319734,
+     "views": 1320101,
      "videos": 457
     }
    },
@@ -14932,30 +15134,725 @@
     "color": null,
     "group": null,
     "views": [
-     1099435
+     1099435,
+     1099663
     ],
     "change": [
-     0
+     0,
+     228
     ],
     "subscribers": [
+     5410,
      5410
     ],
     "latest": {
-     "date": "2026-10-27",
+     "date": "2026-10-28",
      "id": "pecresse",
      "kind": "influencer",
      "title": "Valérie Pécresse",
      "channel_id": "UCXAKlEXGwoavQuOMaNBeaXw",
      "subscribers": 5410,
-     "views": 1099435,
+     "views": 1099663,
      "videos": 444
+    }
+   },
+   {
+    "id": "panot",
+    "name": "Mathilde Panot",
+    "color": null,
+    "group": null,
+    "views": [
+     null,
+     97288097
+    ],
+    "change": [
+     null,
+     0
+    ],
+    "subscribers": [
+     null,
+     355000
+    ],
+    "latest": {
+     "date": "2026-10-28",
+     "id": "panot",
+     "kind": "influencer",
+     "title": "Mathilde Panot",
+     "channel_id": "UCilxiEGEQHVZ25GU_cnyCzg",
+     "subscribers": 355000,
+     "views": 97288097,
+     "videos": 1192
     }
    }
   ]
  },
- "interview_videos": [],
+ "interview_videos": [
+  {
+   "video_id": "7C554qW5CGo",
+   "title": "Bruno Retailleau : «Il y a un lien entre le désordre migratoire et les désordres sécuritaires»",
+   "channel": "CNews",
+   "published": "2026-10-28T07:43:30Z",
+   "candidates": [
+    "Bruno Retailleau"
+   ],
+   "views": 439,
+   "url": "https://www.youtube.com/watch?v=7C554qW5CGo"
+  },
+  {
+   "video_id": "fxpM4ykJ090",
+   "title": "La grande interview : Bruno Retailleau",
+   "channel": "CNews",
+   "published": "2026-10-28T07:39:46Z",
+   "candidates": [
+    "Bruno Retailleau"
+   ],
+   "views": 1150,
+   "url": "https://www.youtube.com/watch?v=fxpM4ykJ090"
+  },
+  {
+   "video_id": "K4s2zQrocQw",
+   "title": "Bruno Retailleau : «Il faut casser les casseurs»",
+   "channel": "CNews",
+   "published": "2026-10-28T07:38:28Z",
+   "candidates": [
+    "Bruno Retailleau"
+   ],
+   "views": 926,
+   "url": "https://www.youtube.com/watch?v=K4s2zQrocQw"
+  },
+  {
+   "video_id": "ZnbU2AuoybU",
+   "title": "Bruno Retailleau : «Je ne veux pas tirer sur l’ambulance, Emmanuel Macron a perdu la main»",
+   "channel": "CNews",
+   "published": "2026-10-28T07:33:15Z",
+   "candidates": [
+    "Bruno Retailleau"
+   ],
+   "views": 553,
+   "url": "https://www.youtube.com/watch?v=ZnbU2AuoybU"
+  },
+  {
+   "video_id": "hd0SNAV3PCQ",
+   "title": "Bruno Retailleau : «On ne peut pas soumettre l'élection présidentielle à un tel aléas»",
+   "channel": "CNews",
+   "published": "2026-10-28T07:32:01Z",
+   "candidates": [
+    "Bruno Retailleau"
+   ],
+   "views": 1971,
+   "url": "https://www.youtube.com/watch?v=hd0SNAV3PCQ"
+  },
+  {
+   "video_id": "pe-EZdVbNos",
+   "title": "Bruno Retailleau: «LFI a fait la répétition générale du troisième tour de l’élection présidentielle»",
+   "channel": "CNews",
+   "published": "2026-10-28T07:29:17Z",
+   "candidates": [
+    "Bruno Retailleau"
+   ],
+   "views": 2813,
+   "url": "https://www.youtube.com/watch?v=pe-EZdVbNos"
+  },
+  {
+   "video_id": "iOtK9xC_6so",
+   "title": "Bruno Retailleau : «La polarisation débouche sur la violence parce qu’elle est légitimée par LFI.»",
+   "channel": "CNews",
+   "published": "2026-10-28T07:23:28Z",
+   "candidates": [
+    "Bruno Retailleau"
+   ],
+   "views": 1065,
+   "url": "https://www.youtube.com/watch?v=iOtK9xC_6so"
+  },
+  {
+   "video_id": "5zoXSBVw4VM",
+   "title": "Bruno Retailleau : «Ce qui est misérable, c’est l’instrumentalisation que fait la gauche.»",
+   "channel": "CNews",
+   "published": "2026-10-28T07:18:50Z",
+   "candidates": [
+    "Bruno Retailleau"
+   ],
+   "views": 2397,
+   "url": "https://www.youtube.com/watch?v=5zoXSBVw4VM"
+  },
+  {
+   "video_id": "7GyPwKOBlRs",
+   "title": "David Lisnard : «Nous devons être des producteurs non seulement d'IA mais de robotique»",
+   "channel": "CNews",
+   "published": "2026-10-27T21:43:35Z",
+   "candidates": [
+    "David Lisnard"
+   ],
+   "views": 8051,
+   "url": "https://www.youtube.com/watch?v=7GyPwKOBlRs"
+  },
+  {
+   "video_id": "MFs1HZoF-_c",
+   "title": "David Lisnard répond au questionnaire de Proust",
+   "channel": "CNews",
+   "published": "2026-10-27T21:40:38Z",
+   "candidates": [
+    "David Lisnard"
+   ],
+   "views": 4334,
+   "url": "https://www.youtube.com/watch?v=MFs1HZoF-_c"
+  },
+  {
+   "video_id": "wFCNOfY5zMg",
+   "title": "David Lisnard : «Ce qui est devenu obsolète, avec l'IA, c'est l'ENA»",
+   "channel": "CNews",
+   "published": "2026-10-27T21:20:43Z",
+   "candidates": [
+    "David Lisnard"
+   ],
+   "views": 4685,
+   "url": "https://www.youtube.com/watch?v=wFCNOfY5zMg"
+  },
+  {
+   "video_id": "RFqaVCaPTcI",
+   "title": "David Lisnard : «Aujourd'hui, le système de la fiscalité locale est totalement absurde»",
+   "channel": "CNews",
+   "published": "2026-10-27T21:17:24Z",
+   "candidates": [
+    "David Lisnard"
+   ],
+   "views": 12988,
+   "url": "https://www.youtube.com/watch?v=RFqaVCaPTcI"
+  },
+  {
+   "video_id": "0c-8GuEgnXI",
+   "title": "David Lisnard : «Ce que propose Marine Le Pen est contradictoire»",
+   "channel": "CNews",
+   "published": "2026-10-27T21:06:46Z",
+   "candidates": [
+    "Marine Le Pen",
+    "David Lisnard"
+   ],
+   "views": 9692,
+   "url": "https://www.youtube.com/watch?v=0c-8GuEgnXI"
+  },
+  {
+   "video_id": "yuGe2Ao5QyY",
+   "title": "David Lisnard : «J'appelle Eric Ciotti à me rejoindre et à se séparer du RN»",
+   "channel": "CNews",
+   "published": "2026-10-27T21:02:19Z",
+   "candidates": [
+    "David Lisnard"
+   ],
+   "views": 11666,
+   "url": "https://www.youtube.com/watch?v=yuGe2Ao5QyY"
+  },
+  {
+   "video_id": "9nPRVQ1wwi8",
+   "title": "David Lisnard : «La société n'a plus à subventionner ceux qui la détruisent»",
+   "channel": "CNews",
+   "published": "2026-10-27T20:58:24Z",
+   "candidates": [
+    "David Lisnard"
+   ],
+   "views": 7859,
+   "url": "https://www.youtube.com/watch?v=9nPRVQ1wwi8"
+  },
+  {
+   "video_id": "hOzC7iULX8c",
+   "title": "David Lisnard : «Il y a eu une défaillance de l'Etat»",
+   "channel": "CNews",
+   "published": "2026-10-27T20:55:10Z",
+   "candidates": [
+    "David Lisnard"
+   ],
+   "views": 1816,
+   "url": "https://www.youtube.com/watch?v=hOzC7iULX8c"
+  },
+  {
+   "video_id": "-TFie1GktyQ",
+   "title": "David Lisnard : «Le rôle des parents, c'est l'éducation. Le rôle de l'école, c'est l'instruction»",
+   "channel": "CNews",
+   "published": "2026-10-27T20:49:20Z",
+   "candidates": [
+    "David Lisnard"
+   ],
+   "views": 4870,
+   "url": "https://www.youtube.com/watch?v=-TFie1GktyQ"
+  },
+  {
+   "video_id": "Owi7FBzg_UY",
+   "title": "David Lisnard : «Il faut durcir la justice des mineurs dans l'exécution des choses»",
+   "channel": "CNews",
+   "published": "2026-10-27T20:44:41Z",
+   "candidates": [
+    "David Lisnard"
+   ],
+   "views": 3720,
+   "url": "https://www.youtube.com/watch?v=Owi7FBzg_UY"
+  },
+  {
+   "video_id": "8rx5Gbmk7Pg",
+   "title": "David Lisnard : «Il faut être démocrate. Être démocrate, c'est accepter ceux qui nous dérangent»",
+   "channel": "CNews",
+   "published": "2026-10-27T20:40:14Z",
+   "candidates": [
+    "David Lisnard"
+   ],
+   "views": 1054,
+   "url": "https://www.youtube.com/watch?v=8rx5Gbmk7Pg"
+  },
+  {
+   "video_id": "xe8ONbQq7pY",
+   "title": "David Lisnard : «Je refuse cette responsabilité générationnelle qu'on voudrait nous faire porter»",
+   "channel": "CNews",
+   "published": "2026-10-27T20:40:04Z",
+   "candidates": [
+    "David Lisnard"
+   ],
+   "views": 4360,
+   "url": "https://www.youtube.com/watch?v=xe8ONbQq7pY"
+  },
+  {
+   "video_id": "HHA6807riJY",
+   "title": "David Lisnard : «L'extrême gauche empoisonne la tête des enfants»",
+   "channel": "CNews",
+   "published": "2026-10-27T20:38:40Z",
+   "candidates": [
+    "David Lisnard"
+   ],
+   "views": 1054,
+   "url": "https://www.youtube.com/watch?v=HHA6807riJY"
+  },
+  {
+   "video_id": "dk5S6Qu6z8c",
+   "title": "Louis Aliot appelle Bruno Retailleau et David Lisnard à rejoindre le RN pour la présidentielle",
+   "channel": "BFM TV",
+   "published": "2026-10-27T20:33:29Z",
+   "candidates": [
+    "Bruno Retailleau",
+    "David Lisnard"
+   ],
+   "views": 11297,
+   "url": "https://www.youtube.com/watch?v=dk5S6Qu6z8c"
+  },
+  {
+   "video_id": "yS22eNjQLGE",
+   "title": "David Lisnard : «Emmanuel Macron est perché»",
+   "channel": "CNews",
+   "published": "2026-10-27T20:28:50Z",
+   "candidates": [
+    "David Lisnard"
+   ],
+   "views": 10462,
+   "url": "https://www.youtube.com/watch?v=yS22eNjQLGE"
+  },
+  {
+   "video_id": "EQzqGdms_20",
+   "title": "David Lisnard : «On va baisser les cotisations»",
+   "channel": "CNews",
+   "published": "2026-10-27T20:22:16Z",
+   "candidates": [
+    "David Lisnard"
+   ],
+   "views": 4746,
+   "url": "https://www.youtube.com/watch?v=EQzqGdms_20"
+  },
+  {
+   "video_id": "LWIXmFxh-xw",
+   "title": "David Lisnard : «Nous avons le record du monde de la dépense publique»",
+   "channel": "CNews",
+   "published": "2026-10-27T20:20:08Z",
+   "candidates": [
+    "David Lisnard"
+   ],
+   "views": 2346,
+   "url": "https://www.youtube.com/watch?v=LWIXmFxh-xw"
+  },
+  {
+   "video_id": "ysg0boUqkOI",
+   "title": "David Lisnard : «Les dérives de Jean-Luc Mélenchon sont antirépublicaines et néofascistes»",
+   "channel": "CNews",
+   "published": "2026-10-27T20:17:04Z",
+   "candidates": [
+    "Jean-Luc Mélenchon",
+    "David Lisnard"
+   ],
+   "views": 3928,
+   "url": "https://www.youtube.com/watch?v=ysg0boUqkOI"
+  },
+  {
+   "video_id": "C8Lsv42R6jE",
+   "title": "David Lisnard : «Je propose une grande primaire ouverte»",
+   "channel": "CNews",
+   "published": "2026-10-27T20:14:33Z",
+   "candidates": [
+    "David Lisnard"
+   ],
+   "views": 14720,
+   "url": "https://www.youtube.com/watch?v=C8Lsv42R6jE"
+  },
+  {
+   "video_id": "7OP6VGVht6c",
+   "title": "David Lisnard : «Il y a de l'enthousiasme à faire gagner cette France indépendante»",
+   "channel": "CNews",
+   "published": "2026-10-27T20:09:41Z",
+   "candidates": [
+    "David Lisnard"
+   ],
+   "views": 3477,
+   "url": "https://www.youtube.com/watch?v=7OP6VGVht6c"
+  },
+  {
+   "video_id": "9Bv5Qwkm72Q",
+   "title": "David Lisnard : «Je porte un projet de prospérité, d'autorité et de retour au bon sens»",
+   "channel": "CNews",
+   "published": "2026-10-27T20:05:05Z",
+   "candidates": [
+    "David Lisnard"
+   ],
+   "views": 8391,
+   "url": "https://www.youtube.com/watch?v=9Bv5Qwkm72Q"
+  },
+  {
+   "video_id": "55dZ64lRTI0",
+   "title": "Gilles-William Goldnadel : «Je comprends Bruno Retailleau quand il envisage de faire interdire LFI»",
+   "channel": "CNews",
+   "published": "2026-10-27T19:42:45Z",
+   "candidates": [
+    "Bruno Retailleau"
+   ],
+   "views": 3476,
+   "url": "https://www.youtube.com/watch?v=55dZ64lRTI0"
+  },
+  {
+   "video_id": "WA6XEjaIO2k",
+   "title": "Mathilde Panot : «Je conseillerais juste à M. Glucksmann d'arrêter de parler de LFI»",
+   "channel": "CNews",
+   "published": "2026-10-27T11:16:11Z",
+   "candidates": [
+    "Raphaël Glucksmann"
+   ],
+   "views": 26481,
+   "url": "https://www.youtube.com/watch?v=WA6XEjaIO2k"
+  },
+  {
+   "video_id": "ylrkBd4CC_M",
+   "title": "Les Partis Pris : \"Marine Le Pen est optimiste, vraiment ?\", \"Le budget par ordonnance, l’unanimi...",
+   "channel": "LCI",
+   "published": "2026-10-26T20:40:10Z",
+   "candidates": [
+    "Marine Le Pen"
+   ],
+   "views": 3288,
+   "url": "https://www.youtube.com/watch?v=ylrkBd4CC_M"
+  },
+  {
+   "video_id": "gT1syz8iHXQ",
+   "title": "Joseph Macé-Scaron : «LFI est un mouvement gazeux autour de Jean-Luc Mélenchon»",
+   "channel": "CNews",
+   "published": "2026-10-26T20:02:18Z",
+   "candidates": [
+    "Jean-Luc Mélenchon"
+   ],
+   "views": 8065,
+   "url": "https://www.youtube.com/watch?v=gT1syz8iHXQ"
+  },
+  {
+   "video_id": "EGBMj48fXJ8",
+   "title": "\"LE 20.27\" - Marine Le Pen lance sa campagne",
+   "channel": "BFM TV",
+   "published": "2026-10-26T17:19:57Z",
+   "candidates": [
+    "Marine Le Pen"
+   ],
+   "views": 3788,
+   "url": "https://www.youtube.com/watch?v=EGBMj48fXJ8"
+  },
+  {
+   "video_id": "_M7nPqfAZz4",
+   "title": "Jean-Philippe Cartier : «Il faut penser aux gens qui travaillent les week-ends»",
+   "channel": "CNews",
+   "published": "2026-10-26T15:23:47Z",
+   "candidates": [
+    "Édouard Philippe"
+   ],
+   "views": 1270,
+   "url": "https://www.youtube.com/watch?v=_M7nPqfAZz4"
+  },
+  {
+   "video_id": "iG8_3VZPri8",
+   "title": "Polémique : Jean-Philippe Tanguy :«On ne touche pas à La Marseillaise »",
+   "channel": "CNews",
+   "published": "2026-10-26T11:53:57Z",
+   "candidates": [
+    "Édouard Philippe"
+   ],
+   "views": 48974,
+   "url": "https://www.youtube.com/watch?v=iG8_3VZPri8"
+  },
+  {
+   "video_id": "4zULLpxiGIk",
+   "title": "La grande interview : Jean-Philippe Tanguy",
+   "channel": "CNews",
+   "published": "2026-10-26T07:43:39Z",
+   "candidates": [
+    "Édouard Philippe"
+   ],
+   "views": 102170,
+   "url": "https://www.youtube.com/watch?v=4zULLpxiGIk"
+  },
+  {
+   "video_id": "mhrUiM8fqfI",
+   "title": "Jean-Philippe Tanguy : «On ne touche pas aux paroles de La Marseillaise»",
+   "channel": "CNews",
+   "published": "2026-10-26T07:39:42Z",
+   "candidates": [
+    "Édouard Philippe"
+   ],
+   "views": 19799,
+   "url": "https://www.youtube.com/watch?v=mhrUiM8fqfI"
+  },
+  {
+   "video_id": "CeKtUeDzKgI",
+   "title": "Jean-Philippe Tanguy : «Je ne vois pas comment on peut, aujourd'hui, augmenter le SMIC»",
+   "channel": "CNews",
+   "published": "2026-10-26T07:35:27Z",
+   "candidates": [
+    "Édouard Philippe"
+   ],
+   "views": 59964,
+   "url": "https://www.youtube.com/watch?v=CeKtUeDzKgI"
+  },
+  {
+   "video_id": "VtoylwO8luA",
+   "title": "Jean-Philippe Tanguy : «Il faudra faire un gouvernement d'ouverture»",
+   "channel": "CNews",
+   "published": "2026-10-26T07:33:43Z",
+   "candidates": [
+    "Édouard Philippe"
+   ],
+   "views": 11748,
+   "url": "https://www.youtube.com/watch?v=VtoylwO8luA"
+  },
+  {
+   "video_id": "X5T7QAKxtDo",
+   "title": "Jean-Philippe Tanguy : «Le maire de Trappes est dans un projet qui n’a rien de républicain",
+   "channel": "CNews",
+   "published": "2026-10-26T07:28:01Z",
+   "candidates": [
+    "Édouard Philippe"
+   ],
+   "views": 38012,
+   "url": "https://www.youtube.com/watch?v=X5T7QAKxtDo"
+  },
+  {
+   "video_id": "Wbdi15k8fGw",
+   "title": "Jean-Philippe Tanguy : «Toute la semaine, la gauche voulait que notre congrès ne fonctionne pas»",
+   "channel": "CNews",
+   "published": "2026-10-26T07:22:13Z",
+   "candidates": [
+    "Édouard Philippe"
+   ],
+   "views": 19937,
+   "url": "https://www.youtube.com/watch?v=Wbdi15k8fGw"
+  },
+  {
+   "video_id": "UdjS8vDETFM",
+   "title": "Jean-Philippe Tanguy : «C’est choquant que des syndicats s’associent à ce bazar»",
+   "channel": "CNews",
+   "published": "2026-10-26T07:21:02Z",
+   "candidates": [
+    "Édouard Philippe"
+   ],
+   "views": 12053,
+   "url": "https://www.youtube.com/watch?v=UdjS8vDETFM"
+  },
+  {
+   "video_id": "vU_nqU6KkJc",
+   "title": "L'édito de Thomas Bonnet : «Marine Le Pen tente la «positive attitude»»",
+   "channel": "CNews",
+   "published": "2026-10-26T07:16:51Z",
+   "candidates": [
+    "Marine Le Pen"
+   ],
+   "views": 4252,
+   "url": "https://www.youtube.com/watch?v=vU_nqU6KkJc"
+  },
+  {
+   "video_id": "B1xZD9BBZh8",
+   "title": "O. Dartigolle : «Le discours de Marine Le Pen peut arriver à l'oreille de l'électorat de gauche»",
+   "channel": "CNews",
+   "published": "2026-10-25T20:28:56Z",
+   "candidates": [
+    "Marine Le Pen"
+   ],
+   "views": 102388,
+   "url": "https://www.youtube.com/watch?v=B1xZD9BBZh8"
+  },
+  {
+   "video_id": "tyl_gME9frM",
+   "title": "Jules Torres : «Marine Le Pen est déjà dans une campagne de second tour»",
+   "channel": "CNews",
+   "published": "2026-10-25T19:14:49Z",
+   "candidates": [
+    "Marine Le Pen"
+   ],
+   "views": 21796,
+   "url": "https://www.youtube.com/watch?v=tyl_gME9frM"
+  },
+  {
+   "video_id": "Ab89hG8gYqw",
+   "title": "UN DUEL LE PEN/MÉLENCHON au second tour ? \"Les deux extrêmes sont mortels\", redoute F.Bayrou｜LCI",
+   "channel": "LCI",
+   "published": "2026-10-25T19:00:04Z",
+   "candidates": [
+    "Jean-Luc Mélenchon"
+   ],
+   "views": 67805,
+   "url": "https://www.youtube.com/watch?v=Ab89hG8gYqw"
+  },
+  {
+   "video_id": "U_feJRLxrY0",
+   "title": "L'INTÉGRALE - Le discours de Marine Le Pen au congrès du RN à Orléans｜LCI",
+   "channel": "LCI",
+   "published": "2026-10-25T17:44:00Z",
+   "candidates": [
+    "Marine Le Pen"
+   ],
+   "views": 90279,
+   "url": "https://www.youtube.com/watch?v=U_feJRLxrY0"
+  },
+  {
+   "video_id": "oOJxCDAaYFI",
+   "title": "Régis Le Sommier : «Les appels à la révolution de Jean-Luc Mélenchon ne sont pas pertinents»",
+   "channel": "CNews",
+   "published": "2026-10-25T17:21:53Z",
+   "candidates": [
+    "Jean-Luc Mélenchon"
+   ],
+   "views": 8672,
+   "url": "https://www.youtube.com/watch?v=oOJxCDAaYFI"
+  },
+  {
+   "video_id": "7j51nrkMWQg",
+   "title": "\"Jordan Bardella sera le chef d'un gouvernement ouvert et pluraliste\", affirme Marine Le Pen",
+   "channel": "BFM TV",
+   "published": "2026-10-25T17:06:50Z",
+   "candidates": [
+    "Marine Le Pen"
+   ],
+   "views": 69996,
+   "url": "https://www.youtube.com/watch?v=7j51nrkMWQg"
+  },
+  {
+   "video_id": "J43X6eIfHDY",
+   "title": "Marine Le Pen souhaite inscrire la \"communauté nationale\" dans la Constitution",
+   "channel": "BFM TV",
+   "published": "2026-10-25T17:06:07Z",
+   "candidates": [
+    "Marine Le Pen"
+   ],
+   "views": 13750,
+   "url": "https://www.youtube.com/watch?v=J43X6eIfHDY"
+  },
+  {
+   "video_id": "5w1izGjq4jI",
+   "title": "\"Rétablir l’État de droit\": les discours de Jordan Bardella et Marine Le Pen au congrès du RN",
+   "channel": "BFM TV",
+   "published": "2026-10-25T16:46:13Z",
+   "candidates": [
+    "Marine Le Pen"
+   ],
+   "views": 72048,
+   "url": "https://www.youtube.com/watch?v=5w1izGjq4jI"
+  },
+  {
+   "video_id": "z0uUWfS_OEI",
+   "title": "Marine Le Pen : «Mon Premier ministre sera Jordan Bardella»",
+   "channel": "CNews",
+   "published": "2026-10-25T16:24:56Z",
+   "candidates": [
+    "Marine Le Pen"
+   ],
+   "views": 19167,
+   "url": "https://www.youtube.com/watch?v=z0uUWfS_OEI"
+  },
+  {
+   "video_id": "Hk9REbA8Ya8",
+   "title": "Marine Le Pen : «La nation sera là quand vous en aurez besoin»",
+   "channel": "CNews",
+   "published": "2026-10-25T16:16:40Z",
+   "candidates": [
+    "Marine Le Pen"
+   ],
+   "views": 3483,
+   "url": "https://www.youtube.com/watch?v=Hk9REbA8Ya8"
+  },
+  {
+   "video_id": "jfCrEoPm1K4",
+   "title": "Marine Le Pen : «Pour les étrangers délinquants, il y aura une prime d'expulsion définitive»",
+   "channel": "CNews",
+   "published": "2026-10-25T16:12:55Z",
+   "candidates": [
+    "Marine Le Pen"
+   ],
+   "views": 151679,
+   "url": "https://www.youtube.com/watch?v=jfCrEoPm1K4"
+  },
+  {
+   "video_id": "nMFhq5tCUyw",
+   "title": "Marine Le Pen : «Nous voulons que la France retrouve sa puissance»",
+   "channel": "CNews",
+   "published": "2026-10-25T16:02:55Z",
+   "candidates": [
+    "Marine Le Pen"
+   ],
+   "views": 17605,
+   "url": "https://www.youtube.com/watch?v=nMFhq5tCUyw"
+  },
+  {
+   "video_id": "uwFDUv47aIA",
+   "title": "Marine Le Pen : «La violence est la fille de l'incivilité»",
+   "channel": "CNews",
+   "published": "2026-10-25T15:57:04Z",
+   "candidates": [
+    "Marine Le Pen"
+   ],
+   "views": 6937,
+   "url": "https://www.youtube.com/watch?v=uwFDUv47aIA"
+  },
+  {
+   "video_id": "2e50JQYqtR4",
+   "title": "Marine Le Pen : «Je veux que demain, on puisse dire dans le monde : C'est beau, c'est français !»",
+   "channel": "CNews",
+   "published": "2026-10-25T15:52:26Z",
+   "candidates": [
+    "Marine Le Pen"
+   ],
+   "views": 39305,
+   "url": "https://www.youtube.com/watch?v=2e50JQYqtR4"
+  },
+  {
+   "video_id": "yiJ7BJWrOkU",
+   "title": "Marine Le Pen : «La renaissance sera d'abord celle de l'école»",
+   "channel": "CNews",
+   "published": "2026-10-25T15:46:43Z",
+   "candidates": [
+    "Marine Le Pen"
+   ],
+   "views": 4482,
+   "url": "https://www.youtube.com/watch?v=yiJ7BJWrOkU"
+  },
+  {
+   "video_id": "zgKGhitBabU",
+   "title": "Marine Le Pen : «Nous allons tourner le dos aux nouveaux obscurantismes»",
+   "channel": "CNews",
+   "published": "2026-10-25T15:42:33Z",
+   "candidates": [
+    "Marine Le Pen"
+   ],
+   "views": 12575,
+   "url": "https://www.youtube.com/watch?v=zgKGhitBabU"
+  }
+ ],
  "tv_weekly": {
-  "fetched": "2026-10-27",
+  "fetched": "2026-10-28",
   "period": "du 19 au 25 octobre 2026",
   "total_tv": 59908000,
   "shares": {
@@ -14979,7 +15876,7 @@
    "statut": "non_candidat",
    "note": "",
    "followers": null,
-   "youtube_views": 38772264,
+   "youtube_views": 38855063,
    "youtube_subscribers": 127000,
    "youtube_subs_gain_7d": null
   },
@@ -14990,7 +15887,7 @@
    "statut": "non_candidat",
    "note": "Président du RN. Marine Le Pen a officialisé sa candidature le 7 juillet 2026 ; Bardella est désigné comme futur Premier ministre dans son équipe.",
    "followers": null,
-   "youtube_views": 141885724,
+   "youtube_views": 141938898,
    "youtube_subscribers": 231000,
    "youtube_subs_gain_7d": null
   },
@@ -15012,8 +15909,8 @@
    "statut": "non_candidat",
    "note": "",
    "followers": null,
-   "youtube_views": 9992613,
-   "youtube_subscribers": 60400,
+   "youtube_views": 9994094,
+   "youtube_subscribers": 60500,
    "youtube_subs_gain_7d": null
   },
   {
@@ -15023,8 +15920,8 @@
    "statut": "non_candidat",
    "note": "",
    "followers": null,
-   "youtube_views": 46797357,
-   "youtube_subscribers": 136000,
+   "youtube_views": 46903191,
+   "youtube_subscribers": 137000,
    "youtube_subs_gain_7d": null
   },
   {
@@ -15034,8 +15931,8 @@
    "statut": "non_candidat",
    "note": "",
    "followers": null,
-   "youtube_views": 30682724,
-   "youtube_subscribers": 95300,
+   "youtube_views": 30856352,
+   "youtube_subscribers": 95400,
    "youtube_subs_gain_7d": null
   },
   {
@@ -15045,7 +15942,7 @@
    "statut": "non_candidat",
    "note": "",
    "followers": null,
-   "youtube_views": 104096188,
+   "youtube_views": 104293027,
    "youtube_subscribers": 225000,
    "youtube_subs_gain_7d": null
   },
@@ -15111,7 +16008,7 @@
    "statut": "non_candidat",
    "note": "",
    "followers": null,
-   "youtube_views": 98999,
+   "youtube_views": 99051,
    "youtube_subscribers": 135,
    "youtube_subs_gain_7d": null
   },
@@ -15122,7 +16019,7 @@
    "statut": "non_candidat",
    "note": "Pas de compte nominatif : la chaîne est celle de son mouvement, La République en commun.",
    "followers": null,
-   "youtube_views": 48843,
+   "youtube_views": 48852,
    "youtube_subscribers": 399,
    "youtube_subs_gain_7d": null
   },
@@ -15133,7 +16030,7 @@
    "statut": "non_candidat",
    "note": "",
    "followers": null,
-   "youtube_views": 1319734,
+   "youtube_views": 1320101,
    "youtube_subscribers": 4470,
    "youtube_subs_gain_7d": null
   },
@@ -15144,7 +16041,7 @@
    "statut": "non_candidat",
    "note": "",
    "followers": null,
-   "youtube_views": 1099435,
+   "youtube_views": 1099663,
    "youtube_subscribers": 5410,
    "youtube_subs_gain_7d": null
   },
@@ -15155,8 +16052,8 @@
    "statut": "non_candidat",
    "note": "Pas de candidature présidentielle relevée dans les sources consultées.",
    "followers": null,
-   "youtube_views": 95000324,
-   "youtube_subscribers": 157000,
+   "youtube_views": 95495535,
+   "youtube_subscribers": 158000,
    "youtube_subs_gain_7d": null
   },
   {
@@ -15188,7 +16085,7 @@
    "statut": "a_verifier",
    "note": "Statut à confirmer : cité dans certaines listes, pas dans les sources officielles consultées.",
    "followers": null,
-   "youtube_views": 84396433,
+   "youtube_views": 84421414,
    "youtube_subscribers": 250000,
    "youtube_subs_gain_7d": null
   },
@@ -15199,8 +16096,8 @@
    "statut": "a_verifier",
    "note": "Statut à confirmer.",
    "followers": null,
-   "youtube_views": 2524,
-   "youtube_subscribers": 738,
+   "youtube_views": 2527,
+   "youtube_subscribers": 736,
    "youtube_subs_gain_7d": null
   },
   {
@@ -15210,8 +16107,8 @@
    "statut": "a_verifier",
    "note": "Statut à confirmer.",
    "followers": null,
-   "youtube_views": 8754942,
-   "youtube_subscribers": 52800,
+   "youtube_views": 8886737,
+   "youtube_subscribers": 53100,
    "youtube_subs_gain_7d": null
   },
   {
@@ -15221,12 +16118,253 @@
    "statut": "non_candidat",
    "note": "",
    "followers": null,
-   "youtube_views": null,
-   "youtube_subscribers": null,
+   "youtube_views": 97288097,
+   "youtube_subscribers": 355000,
    "youtube_subs_gain_7d": null
   }
  ],
- "youtube_status": [],
+ "youtube_status": [
+  {
+   "id": "lepen",
+   "ok": true,
+   "title": "Marine Le Pen"
+  },
+  {
+   "id": "melenchon",
+   "ok": true,
+   "title": "JEAN-LUC MÉLENCHON"
+  },
+  {
+   "id": "philippe",
+   "ok": true,
+   "title": "Edouard Philippe"
+  },
+  {
+   "id": "glucksmann",
+   "ok": true,
+   "title": "Place publique"
+  },
+  {
+   "id": "attal",
+   "ok": true,
+   "title": "Gabriel Attal"
+  },
+  {
+   "id": "zemmour",
+   "ok": true,
+   "title": "Éric Zemmour"
+  },
+  {
+   "id": "retailleau",
+   "ok": true,
+   "title": "Bruno Retailleau"
+  },
+  {
+   "id": "lisnard",
+   "ok": true,
+   "title": "David Lisnard"
+  },
+  {
+   "id": "bardella",
+   "ok": true,
+   "title": "Jordan Bardella"
+  },
+  {
+   "id": "tondelier",
+   "ok": true,
+   "title": "Marine Tondelier"
+  },
+  {
+   "id": "roussel",
+   "ok": true,
+   "title": "Fabien Roussel"
+  },
+  {
+   "id": "dupontaignan",
+   "ok": true,
+   "title": "Nicolas Dupont-Aignan"
+  },
+  {
+   "id": "arthaud",
+   "ok": true,
+   "title": "Nathalie Arthaud"
+  },
+  {
+   "id": "villepin",
+   "ok": true,
+   "title": "Dominique de Villepin"
+  },
+  {
+   "id": "hollande",
+   "ok": false,
+   "error": "handle non renseigné"
+  },
+  {
+   "id": "ruffin",
+   "ok": true,
+   "title": "FRANÇOIS RUFFIN"
+  },
+  {
+   "id": "knafo",
+   "ok": true,
+   "title": "Sarah Knafo"
+  },
+  {
+   "id": "marechal",
+   "ok": true,
+   "title": "Marion Maréchal"
+  },
+  {
+   "id": "chenu",
+   "ok": false,
+   "error": "handle non renseigné"
+  },
+  {
+   "id": "hassan",
+   "ok": true,
+   "title": "Rima Hassan"
+  },
+  {
+   "id": "guiraud",
+   "ok": true,
+   "title": "David Guiraud"
+  },
+  {
+   "id": "guette",
+   "ok": true,
+   "title": "Clémence Guetté"
+  },
+  {
+   "id": "bompard",
+   "ok": true,
+   "title": "Manuel Bompard"
+  },
+  {
+   "id": "legendre",
+   "ok": false,
+   "error": "handle non renseigné"
+  },
+  {
+   "id": "naegelen",
+   "ok": false,
+   "error": "handle non renseigné"
+  },
+  {
+   "id": "borne",
+   "ok": false,
+   "error": "handle non renseigné"
+  },
+  {
+   "id": "darmanin",
+   "ok": true,
+   "title": "Gérald DARMANIN"
+  },
+  {
+   "id": "sejourne",
+   "ok": false,
+   "error": "handle non renseigné"
+  },
+  {
+   "id": "faure",
+   "ok": true,
+   "title": "Olivier Faure"
+  },
+  {
+   "id": "delga",
+   "ok": true,
+   "title": "La République En Commun"
+  },
+  {
+   "id": "wauquiez",
+   "ok": true,
+   "title": "Laurent Wauquiez"
+  },
+  {
+   "id": "pecresse",
+   "ok": true,
+   "title": "Valérie Pécresse"
+  },
+  {
+   "id": "meunier",
+   "ok": false,
+   "error": "handle non renseigné"
+  },
+  {
+   "id": "media-bfmtv",
+   "ok": true,
+   "title": "BFMTV"
+  },
+  {
+   "id": "media-franceinfo",
+   "ok": true,
+   "title": "franceinfo"
+  },
+  {
+   "id": "media-tf1info",
+   "ok": true,
+   "title": "TF1"
+  },
+  {
+   "id": "media-lci",
+   "ok": true,
+   "title": "LCI"
+  },
+  {
+   "id": "media-cnews",
+   "ok": true,
+   "title": "CNEWS"
+  },
+  {
+   "id": "media-m6info",
+   "ok": true,
+   "title": "M6 Info"
+  },
+  {
+   "id": "media-francetelevisions",
+   "ok": true,
+   "title": "France Télévisions"
+  },
+  {
+   "id": "media-france-inter",
+   "ok": true,
+   "title": "France Inter"
+  },
+  {
+   "id": "media-europe1",
+   "ok": true,
+   "title": "Europe 1"
+  },
+  {
+   "id": "media-radionova",
+   "ok": true,
+   "title": "Radio Nova"
+  },
+  {
+   "id": "media-lemonde",
+   "ok": true,
+   "title": "Le Monde"
+  },
+  {
+   "id": "media-mediapart",
+   "ok": true,
+   "title": "Mediapart"
+  },
+  {
+   "id": "media-leparisien",
+   "ok": true,
+   "title": "Le Parisien"
+  },
+  {
+   "id": "media-w9",
+   "ok": true,
+   "title": "W9"
+  },
+  {
+   "id": "panot",
+   "ok": true,
+   "title": "Mathilde Panot"
+  }
+ ],
  "parties": [
   {
    "id": "rn",
@@ -15337,7 +16475,7 @@
  },
  "sources": {
   "polls": "https://fr.wikipedia.org/wiki/Liste_de_sondages_sur_l'élection_présidentielle_française_de_2027",
-  "polls_fetched": "2026-10-27T22:14+01:00",
+  "polls_fetched": "2026-10-28T10:34+01:00",
   "feeds": [
    {
     "outlet": "L'Humanité",
@@ -15391,8 +16529,8 @@
    },
    {
     "outlet": "Marianne",
-    "ok": true,
-    "items": 20
+    "ok": false,
+    "error": "405 Client Error: Not Allowed for url: https://www.marianne.net/rss.xml"
    },
    {
     "outlet": "BFMTV",
@@ -15467,11 +16605,11 @@
    {
     "outlet": "Google Actualités (recherche par candidat)",
     "ok": true,
-    "items": 2909,
+    "items": 2802,
     "error": null
    }
   ],
-  "articles_total": 4462,
+  "articles_total": 5476,
   "articles_analysed": 109,
   "media_since": "2026-07-01"
  },
