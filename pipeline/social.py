@@ -196,15 +196,25 @@ def known_people():
     return people
 
 
+def x_url(pid):
+    """URL du compte X d'une personne (config/social_accounts.json), ou chaîne vide."""
+    handle = load_json("config/social_accounts.json", {"x": {}})["x"].get(pid, "")
+    return f"https://x.com/{handle}" if handle else ""
+
+
 def _cli_template(args):
-    """Écrit un fichier CSV à remplir : une ligne par personne et par plateforme."""
+    """Écrit un fichier CSV à remplir : une ligne par personne et par plateforme.
+
+    Pour X, l'URL du compte est pré-remplie quand elle est connue.
+    """
     people = known_people()
     with open(args.output, "w", encoding="utf-8-sig", newline="") as f:
         w = csv.writer(f, delimiter=";")
         w.writerow(["id", "nom", "plateforme", "abonnes", "source"])
         for pid, name in people.items():
             for platform in PLATFORMS:
-                w.writerow([pid, name, platform, "", ""])
+                source = x_url(pid) if platform == "x" else ""
+                w.writerow([pid, name, platform, "", source])
     print(f"✅ Modèle écrit : {args.output} ({len(people)} personnes). Remplissez « abonnes » et « source », puis importez-le.")
     return 0
 

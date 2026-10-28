@@ -103,5 +103,14 @@ class InterviewTest(unittest.TestCase):
         self.assertEqual(out[0]["source"]["url"], "https://rtl")
 
 
+
+
+class XAccountsTest(unittest.TestCase):
+    def test_x_url_is_built_from_handle(self):
+        from pipeline import social
+        self.assertEqual(social.x_url("lepen"), "https://x.com/MarineLePen")
+        self.assertEqual(social.x_url("inconnu"), "")
+
+
 if __name__ == "__main__":
     unittest.main()
