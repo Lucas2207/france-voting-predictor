@@ -67,6 +67,17 @@
       </div>
     </header>
 
+    <!-- Navigation par sections : repères et accès direct -->
+    <nav class="sticky top-2 z-20 bg-white/95 backdrop-blur rounded-2xl shadow-sm border border-slate-200 px-3 py-2 flex flex-wrap gap-1 text-xs font-bold text-slate-600" aria-label="Navigation">
+      <a href="#projection" class="px-3 py-1.5 rounded-lg hover:bg-slate-100 hover:text-slate-900 focus-visible:outline focus-visible:outline-2 focus-visible:outline-indigo-600" data-i18n="nav.projection">Projection</a>
+      <a href="#charts" class="px-3 py-1.5 rounded-lg hover:bg-slate-100 hover:text-slate-900 focus-visible:outline focus-visible:outline-2 focus-visible:outline-indigo-600" data-i18n="nav.charts">Graphiques</a>
+      <a href="#networks" class="px-3 py-1.5 rounded-lg hover:bg-slate-100 hover:text-slate-900 focus-visible:outline focus-visible:outline-2 focus-visible:outline-indigo-600" data-i18n="nav.networks">Réseaux</a>
+      <a href="#interviews" class="px-3 py-1.5 rounded-lg hover:bg-slate-100 hover:text-slate-900 focus-visible:outline focus-visible:outline-2 focus-visible:outline-indigo-600" data-i18n="nav.interviews">Interviews</a>
+      <a href="#events" class="px-3 py-1.5 rounded-lg hover:bg-slate-100 hover:text-slate-900 focus-visible:outline focus-visible:outline-2 focus-visible:outline-indigo-600" data-i18n="nav.events">Événements</a>
+      <a href="#method" class="px-3 py-1.5 rounded-lg hover:bg-slate-100 hover:text-slate-900 focus-visible:outline focus-visible:outline-2 focus-visible:outline-indigo-600" data-i18n="nav.method">Méthodologie</a>
+    </nav>
+
+    <div id="projection" class="scroll-mt-28"></div>
     <!-- Projection -->
     <section class="bg-white p-6 rounded-2xl shadow-sm border border-slate-200 space-y-3">
       <div class="flex flex-wrap justify-between items-baseline gap-2">
@@ -93,14 +104,15 @@
       </div>
     </section>
 
+    <div id="charts" class="scroll-mt-28"></div>
     <!-- Choix des entités affichées -->
     <section class="bg-white p-5 rounded-2xl shadow-sm border border-slate-200 space-y-3" id="pickerPanel">
       <div class="flex flex-wrap items-center justify-between gap-2">
         <h2 class="text-xs font-bold text-slate-500 uppercase tracking-wider" data-i18n="picker.title">Entités affichées dans les graphiques</h2>
         <div class="flex gap-2">
-          <button data-preset="main" class="px-3 py-1.5 rounded-lg bg-slate-100 hover:bg-slate-200 text-xs font-bold text-slate-700" data-i18n="picker.main">Principaux</button>
-          <button data-preset="all" class="px-3 py-1.5 rounded-lg bg-slate-100 hover:bg-slate-200 text-xs font-bold text-slate-700" data-i18n="picker.all">Tout</button>
-          <button data-preset="none" class="px-3 py-1.5 rounded-lg bg-slate-100 hover:bg-slate-200 text-xs font-bold text-slate-700" data-i18n="picker.none">Aucun</button>
+          <button data-preset="main" class="px-3 py-1.5 rounded-lg focus-visible:outline focus-visible:outline-2 focus-visible:outline-indigo-600 bg-slate-100 hover:bg-slate-200 text-xs font-bold text-slate-700" data-i18n="picker.main">Principaux</button>
+          <button data-preset="all" class="px-3 py-1.5 rounded-lg focus-visible:outline focus-visible:outline-2 focus-visible:outline-indigo-600 bg-slate-100 hover:bg-slate-200 text-xs font-bold text-slate-700" data-i18n="picker.all">Tout</button>
+          <button data-preset="none" class="px-3 py-1.5 rounded-lg focus-visible:outline focus-visible:outline-2 focus-visible:outline-indigo-600 bg-slate-100 hover:bg-slate-200 text-xs font-bold text-slate-700" data-i18n="picker.none">Aucun</button>
         </div>
       </div>
       <div class="grid md:grid-cols-3 gap-6">
@@ -128,17 +140,38 @@
           <h2 class="text-base font-bold text-slate-900" data-i18n="poll.title">Moyenne des sondages (%)</h2>
           <p class="text-[11px] text-slate-500" data-i18n="poll.help">Moyenne pondérée des derniers sondages de chaque institut (30 jours glissants).</p>
         </div>
-        <div class="relative h-[420px] w-full"><canvas id="pollChart"></canvas></div>
+        <div class="relative h-[420px] w-full"><canvas id="pollChart" role="img" data-i18n-attr="aria-label:chart.poll"></canvas></div>
       </div>
       <div class="bg-white rounded-2xl p-6 shadow-sm border border-slate-200 space-y-4">
         <div>
           <h2 class="text-base font-bold text-slate-900" data-i18n="media.title">Couverture médiatique (articles par jour)</h2>
           <p class="text-[11px] text-slate-500" id="mediaChartNote" data-i18n="media.help">Articles des flux RSS qui traitent du candidat, selon l'analyse de Claude.</p>
         </div>
-        <div class="relative h-[420px] w-full"><canvas id="mediaChart"></canvas></div>
+        <div class="relative h-[420px] w-full"><canvas id="mediaChart" role="img" data-i18n-attr="aria-label:chart.media"></canvas></div>
       </div>
     </div>
 
+    <!-- Tonalité par média -->
+    <details class="bg-white p-6 rounded-2xl shadow-sm border border-slate-200 space-y-3 group">
+      <summary class="cursor-pointer list-none flex items-center justify-between gap-3 focus-visible:outline focus-visible:outline-2 focus-visible:outline-indigo-600 rounded-lg">
+        <span class="text-base font-bold text-slate-900" data-i18n="tone.title">Traitement par média (depuis le 1er juillet 2026)</span>
+        <span class="text-xs font-bold text-indigo-600 transition group-open:rotate-180" aria-hidden="true">▼</span>
+      </summary>
+      <div class="mt-4 space-y-4">
+      <div>
+        
+        <p class="text-[11px] text-slate-500" data-i18n="tone.help">Tonalité moyenne des articles envers chaque candidat, de −2 (très défavorable) à +2 (très favorable). Entre parenthèses : nombre d'articles. Case vide = aucun article.</p>
+      </div>
+      <div class="overflow-x-auto"><table class="text-xs num" id="outletTable"></table></div>
+      <div class="flex items-center gap-2 text-[11px] text-slate-500" aria-hidden="true">
+        <span>−2</span>
+        <span class="h-3 w-40 rounded" style="background: linear-gradient(90deg, #e34948, #f0efec, #2a78d6)"></span>
+        <span>+2</span>
+      </div>
+    </div>
+    </details>
+
+    <div id="networks" class="scroll-mt-28"></div>
     <!-- Abonnés réseaux sociaux -->
     <section class="bg-white p-6 rounded-2xl shadow-sm border border-slate-200 space-y-4">
       <div class="flex flex-wrap justify-between items-start gap-3">
@@ -147,78 +180,96 @@
           <p class="text-[11px] text-slate-500" id="followersNote"></p>
         </div>
         <div class="flex gap-2 text-xs">
-          <button data-toggle="followers:total" class="px-3 py-1.5 rounded-lg bg-indigo-600 text-white font-bold" data-i18n="followers.total">Abonnés cumulés</button>
-          <button data-toggle="followers:change" class="px-3 py-1.5 rounded-lg bg-slate-100 text-slate-700 font-bold" data-i18n="followers.change">Gain / perte depuis le 1er relevé</button>
+          <button data-toggle="followers:total" class="px-3 py-1.5 rounded-lg focus-visible:outline focus-visible:outline-2 focus-visible:outline-indigo-600 bg-indigo-600 text-white font-bold" data-i18n="followers.total">Abonnés cumulés</button>
+          <button data-toggle="followers:change" class="px-3 py-1.5 rounded-lg focus-visible:outline focus-visible:outline-2 focus-visible:outline-indigo-600 bg-slate-100 text-slate-700 font-bold" data-i18n="followers.change">Gain / perte depuis le 1er relevé</button>
         </div>
       </div>
       <div class="grid grid-cols-1 lg:grid-cols-2 gap-6">
         <div class="space-y-2">
           <h3 class="text-sm font-bold text-slate-800" data-i18n="followers.candidates">Candidats</h3>
-          <div class="relative h-[340px] w-full"><canvas id="followersCandChart"></canvas></div>
+          <div class="relative h-[340px] w-full"><canvas id="followersCandChart" role="img" data-i18n-attr="aria-label:chart.followers"></canvas></div>
         </div>
         <div class="space-y-2">
           <h3 class="text-sm font-bold text-slate-800" data-i18n="followers.parties">Partis</h3>
           <p class="text-[11px] text-slate-500" id="followersPartyNote"></p>
-          <div class="relative h-[340px] w-full"><canvas id="followersPartyChart"></canvas></div>
+          <div class="relative h-[340px] w-full"><canvas id="followersPartyChart" role="img" data-i18n-attr="aria-label:chart.followers"></canvas></div>
         </div>
       </div>
       <div class="overflow-x-auto"><table class="w-full text-xs num" id="followersTable"></table></div>
     </section>
 
+    <!-- Chaînes YouTube -->
+    <details class="bg-white p-6 rounded-2xl shadow-sm border border-slate-200 space-y-4 group">
+      <summary class="cursor-pointer list-none flex items-center justify-between gap-3 focus-visible:outline focus-visible:outline-2 focus-visible:outline-indigo-600 rounded-lg">
+        <span class="text-base font-bold text-slate-900" data-i18n="youtube.title">Chaînes YouTube : vues cumulées</span>
+        <span class="text-xs font-bold text-indigo-600 transition group-open:rotate-180" aria-hidden="true">▼</span>
+      </summary>
+      <div class="mt-4 space-y-4">
+      <div class="flex flex-wrap justify-between items-start gap-3">
+        <div>
+          
+          <p class="text-[11px] text-slate-500" id="youtubeNote"></p>
+        </div>
+        <div class="flex gap-2 text-xs">
+          <button data-toggle="youtube:total" class="px-3 py-1.5 rounded-lg focus-visible:outline focus-visible:outline-2 focus-visible:outline-indigo-600 bg-indigo-600 text-white font-bold" data-i18n="youtube.total">Vues cumulées</button>
+          <button data-toggle="youtube:change" class="px-3 py-1.5 rounded-lg focus-visible:outline focus-visible:outline-2 focus-visible:outline-indigo-600 bg-slate-100 text-slate-700 font-bold" data-i18n="youtube.change">Gain depuis le 1er relevé</button>
+        </div>
+      </div>
+      <div class="grid grid-cols-1 lg:grid-cols-2 gap-6">
+        <div class="space-y-2">
+          <h3 class="text-sm font-bold text-slate-800" data-i18n="youtube.candidates">Candidats</h3>
+          <div class="relative h-[340px] w-full"><canvas id="ytCandChart" role="img" data-i18n-attr="aria-label:chart.youtube"></canvas></div>
+        </div>
+        <div class="space-y-2">
+          <h3 class="text-sm font-bold text-slate-800" data-i18n="youtube.tv">Télévisions et radios</h3>
+          <div class="relative h-[340px] w-full"><canvas id="ytMediaTvChart" role="img" data-i18n-attr="aria-label:chart.youtube"></canvas></div>
+        </div>
+        <div class="space-y-2">
+          <h3 class="text-sm font-bold text-slate-800" data-i18n="youtube.press">Presse</h3>
+          <div class="relative h-[340px] w-full"><canvas id="ytMediaPresseChart" role="img" data-i18n-attr="aria-label:chart.youtube"></canvas></div>
+        </div>
+      </div>
+      <div class="overflow-x-auto"><table class="w-full text-xs num" id="youtubeTable"></table></div>
+    </div>
+    </details>
+
     <!-- Personnalités influentes non candidates -->
-    <section class="bg-white p-6 rounded-2xl shadow-sm border border-slate-200 space-y-4">
+    <details class="bg-white p-6 rounded-2xl shadow-sm border border-slate-200 space-y-4 group">
+      <summary class="cursor-pointer list-none flex items-center justify-between gap-3 focus-visible:outline focus-visible:outline-2 focus-visible:outline-indigo-600 rounded-lg">
+        <span class="text-base font-bold text-slate-900" data-i18n="influencers.title">Personnalités influentes non candidates</span>
+        <span class="text-xs font-bold text-indigo-600 transition group-open:rotate-180" aria-hidden="true">▼</span>
+      </summary>
+      <div class="mt-4 space-y-4">
       <div>
-        <h2 class="text-base font-bold text-slate-900" data-i18n="influencers.title">Personnalités influentes non candidates</h2>
+        
         <p class="text-[11px] text-slate-500" data-i18n="influencers.help">Elles ne sont pas candidates à la présidentielle, mais pèsent sur les voix de leur parti. Leurs abonnés comptent dans le total de leur parti. « À vérifier » : statut non confirmé par les sources consultées.</p>
       </div>
       <div class="overflow-x-auto"><table class="w-full text-xs num" id="influencersTable"></table></div>
       <p class="text-[11px] text-slate-400" id="infMissing"></p>
       <h3 class="text-sm font-bold text-slate-800" data-i18n="inf.totals">Total par parti (personnalités cochées)</h3>
       <div class="overflow-x-auto"><table class="w-full text-xs num" id="partyTotalsTable"></table></div>
-    </section>
+    </div>
+    </details>
 
-    <!-- Chaînes YouTube -->
-    <section class="bg-white p-6 rounded-2xl shadow-sm border border-slate-200 space-y-4">
-      <div class="flex flex-wrap justify-between items-start gap-3">
-        <div>
-          <h2 class="text-base font-bold text-slate-900" data-i18n="youtube.title">Chaînes YouTube : vues cumulées</h2>
-          <p class="text-[11px] text-slate-500" id="youtubeNote"></p>
-        </div>
-        <div class="flex gap-2 text-xs">
-          <button data-toggle="youtube:total" class="px-3 py-1.5 rounded-lg bg-indigo-600 text-white font-bold" data-i18n="youtube.total">Vues cumulées</button>
-          <button data-toggle="youtube:change" class="px-3 py-1.5 rounded-lg bg-slate-100 text-slate-700 font-bold" data-i18n="youtube.change">Gain depuis le 1er relevé</button>
-        </div>
-      </div>
-      <div class="grid grid-cols-1 lg:grid-cols-2 gap-6">
-        <div class="space-y-2">
-          <h3 class="text-sm font-bold text-slate-800" data-i18n="youtube.candidates">Candidats</h3>
-          <div class="relative h-[340px] w-full"><canvas id="ytCandChart"></canvas></div>
-        </div>
-        <div class="space-y-2">
-          <h3 class="text-sm font-bold text-slate-800" data-i18n="youtube.tv">Télévisions et radios</h3>
-          <div class="relative h-[340px] w-full"><canvas id="ytMediaTvChart"></canvas></div>
-        </div>
-        <div class="space-y-2">
-          <h3 class="text-sm font-bold text-slate-800" data-i18n="youtube.press">Presse</h3>
-          <div class="relative h-[340px] w-full"><canvas id="ytMediaPresseChart"></canvas></div>
-        </div>
-      </div>
-      <div class="overflow-x-auto"><table class="w-full text-xs num" id="youtubeTable"></table></div>
-    </section>
-
+    <div id="interviews" class="scroll-mt-28"></div>
     <!-- Audience des interviews -->
-    <section class="bg-white p-6 rounded-2xl shadow-sm border border-slate-200 space-y-4">
+    <details class="bg-white p-6 rounded-2xl shadow-sm border border-slate-200 space-y-4 group">
+      <summary class="cursor-pointer list-none flex items-center justify-between gap-3 focus-visible:outline focus-visible:outline-2 focus-visible:outline-indigo-600 rounded-lg">
+        <span class="text-base font-bold text-slate-900" data-i18n="interview.title">Audience des interviews des candidats</span>
+        <span class="text-xs font-bold text-indigo-600 transition group-open:rotate-180" aria-hidden="true">▼</span>
+      </summary>
+      <div class="mt-4 space-y-4">
       <div class="flex flex-wrap justify-between items-start gap-3">
         <div>
-          <h2 class="text-base font-bold text-slate-900" data-i18n="interview.title">Audience des interviews des candidats</h2>
+          
           <p class="text-[11px] text-slate-500" id="interviewNote"></p>
         </div>
         <div class="flex gap-2 text-xs">
-          <button data-toggle="interview:viewers" class="px-3 py-1.5 rounded-lg bg-indigo-600 text-white font-bold" data-i18n="interview.viewers">Téléspectateurs</button>
-          <button data-toggle="interview:share" class="px-3 py-1.5 rounded-lg bg-slate-100 text-slate-700 font-bold" data-i18n="interview.share">Part d'audience</button>
+          <button data-toggle="interview:viewers" class="px-3 py-1.5 rounded-lg focus-visible:outline focus-visible:outline-2 focus-visible:outline-indigo-600 bg-indigo-600 text-white font-bold" data-i18n="interview.viewers">Téléspectateurs</button>
+          <button data-toggle="interview:share" class="px-3 py-1.5 rounded-lg focus-visible:outline focus-visible:outline-2 focus-visible:outline-indigo-600 bg-slate-100 text-slate-700 font-bold" data-i18n="interview.share">Part d'audience</button>
         </div>
       </div>
-      <div class="relative h-[340px] w-full"><canvas id="interviewChart"></canvas></div>
+      <div class="relative h-[340px] w-full"><canvas id="interviewChart" role="img" data-i18n-attr="aria-label:chart.interview"></canvas></div>
       <div class="overflow-x-auto"><table class="w-full text-xs num" id="interviewSummary"></table></div>
       <div class="space-y-2">
         <h3 class="text-sm font-bold text-slate-800" data-i18n="tv.title">Audience TV de la semaine (Médiamétrie)</h3>
@@ -230,22 +281,10 @@
         <p class="text-[11px] text-slate-500" data-i18n="yt.help">Vidéos des chaînes d'information dont le titre cite un candidat, avec leurs vues actuelles.</p>
         <div class="overflow-x-auto"><table class="w-full text-xs num" id="interviewVideosTable"></table></div>
       </div>
-    </section>
+    </div>
+    </details>
 
-    <!-- Tonalité par média -->
-    <section class="bg-white p-6 rounded-2xl shadow-sm border border-slate-200 space-y-3">
-      <div>
-        <h2 class="text-base font-bold text-slate-900" data-i18n="tone.title">Traitement par média (depuis le 1er juillet 2026)</h2>
-        <p class="text-[11px] text-slate-500" data-i18n="tone.help">Tonalité moyenne des articles envers chaque candidat, de −2 (très défavorable) à +2 (très favorable). Entre parenthèses : nombre d'articles. Case vide = aucun article.</p>
-      </div>
-      <div class="overflow-x-auto"><table class="text-xs num" id="outletTable"></table></div>
-      <div class="flex items-center gap-2 text-[11px] text-slate-500" aria-hidden="true">
-        <span>−2</span>
-        <span class="h-3 w-40 rounded" style="background: linear-gradient(90deg, #e34948, #f0efec, #2a78d6)"></span>
-        <span>+2</span>
-      </div>
-    </section>
-
+    <div id="events" class="scroll-mt-28"></div>
     <!-- Événements -->
     <section class="bg-white p-6 rounded-2xl shadow-sm border border-slate-200 space-y-4">
       <div>
@@ -255,6 +294,7 @@
       <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4" id="eventsContainer"></div>
     </section>
 
+    <div id="method" class="scroll-mt-28"></div>
     <!-- Méthodologie (générée à partir des traductions) -->
     <details class="bg-white p-6 rounded-2xl shadow-sm border border-slate-200 text-xs text-slate-600 leading-relaxed" id="methodology">
       <summary class="cursor-pointer text-base font-bold text-slate-900 flex items-center justify-between" data-i18n="method.title">Méthodologie et limites</summary>
