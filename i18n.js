@@ -7,6 +7,8 @@
  */
 const I18N = {
   fr: {
+    'own.none': 'Aucune vidéo relevée pour le moment.',
+    'own.title': 'Vidéos des chaînes propres (depuis le 1er juillet 2026)',
     'pages.none': 'Aucune page relevée.',
     'pages.total': 'Total',
     'pages.party': 'Parti',
@@ -182,6 +184,8 @@ const I18N = {
     'chart.legendNote': '',
   },
   en: {
+    'own.none': 'No video recorded yet.',
+    'own.title': 'Videos on own channels (since 1 July 2026)',
     'pages.none': 'No page recorded.',
     'pages.total': 'Total',
     'pages.party': 'Party',
@@ -356,6 +360,8 @@ const I18N = {
     'method.source': 'source',
   },
   es: {
+    'own.none': 'Todavía no hay vídeos registrados.',
+    'own.title': 'Vídeos de los canales propios (desde el 1 de julio de 2026)',
     'pages.none': 'No hay páginas registradas.',
     'pages.total': 'Total',
     'pages.party': 'Partido',
@@ -530,6 +536,8 @@ const I18N = {
     'method.source': 'fuente',
   },
   ar: {
+    'own.none': 'لا توجد فيديوهات مسجلة بعد.',
+    'own.title': 'فيديوهات القنوات الخاصة (منذ 1 يوليو 2026)',
     'pages.none': 'لا توجد صفحات مسجلة.',
     'pages.total': 'المجموع',
     'pages.party': 'الحزب',

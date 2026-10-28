@@ -8,6 +8,7 @@ Les vues sont cumulées depuis la création de la chaîne ; le gain d'une journ�
 différence entre deux relevés. Les abonnés sont arrondis par YouTube à 3 chiffres significatifs.
 """
 import os
+import re
 import sys
 
 import requests
@@ -161,8 +162,15 @@ def name_in_title(name, title):
     return len(parts[-1]) >= 5 and parts[-1] in t
 
 
+def alias_in_title(aliases, title):
+    """Un des alias complets figure dans le titre, en mots entiers (pas de nom de famille seul)."""
+    from .news import normalize
+    t = normalize(title)
+    return any(re.search(r"\b" + re.escape(normalize(a)) + r"\b", t) for a in aliases)
+
+
 def collect_interview_videos(candidates, channels, since, today, key, get=requests.get):
-    """Vidéos publiées depuis `since` sur les chaînes indiquées dont le titre cite un candidat.
+    """Vidéos publiées depuis `since` sur les chaînes d'information dont le titre cite un candidat (nom complet ou alias).
 
     `channels` : liste de (channel_id, nom de la chaîne). Retourne des relevés {date, video_id, ...}.
     """
@@ -172,7 +180,8 @@ def collect_interview_videos(candidates, channels, since, today, key, get=reques
     for channel_id, channel_name in channels:
         for v in channel_videos(channel_id, since, key, get=get):
             for cand in candidates:
-                if not name_in_title(cand["name"], v["title"]):
+                aliases = cand.get("aliases") or [cand["name"]]
+                if not alias_in_title(aliases, v["title"]):
                     continue
                 entry = found.setdefault(v["video_id"], {"video_id": v["video_id"], "title": v["title"],
                                                          "published": v["published"], "channel": channel_name,
@@ -181,3 +190,23 @@ def collect_interview_videos(candidates, channels, since, today, key, get=reques
                     entry["candidates"].append(cand["id"])
     views = video_views(list(found), key, get=get)
     return [{"date": today.isoformat(), **e, "views": views[e["video_id"]]} for e in found.values() if e["video_id"] in views]
+
+
+def collect_own_videos(people, since, today, key, get=requests.get):
+    """Toutes les vidéos publiées depuis `since` sur les chaînes propres des personnes suivies.
+
+    `people` : liste de (pid, nom, channel_id). Pas de filtre sur le titre : ce sont leurs propres vidéos.
+    """
+    if not key:
+        return []
+    out = []
+    for pid, name, channel_id in people:
+        vids = channel_videos(channel_id, since, key, get=get)
+        views = video_views([v["video_id"] for v in vids], key, get=get)
+        for v in vids:
+            if v["video_id"] not in views:
+                continue
+            out.append({"date": today.isoformat(), "id": v["video_id"], "video_id": v["video_id"], "title": v["title"],
+                        "published": v["published"], "channel": name, "candidates": [pid], "views": views[v["video_id"]]})
+    return out
+

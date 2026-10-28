@@ -20,6 +20,7 @@ INTERVIEWS_FILE = DATA / "interviews.json"
 FOLLOWERS_FILE = DATA / "followers.json"
 YOUTUBE_FILE = DATA / "youtube.json"
 INTERVIEW_VIDEOS_FILE = DATA / "interview_videos.json"
+OWN_VIDEOS_FILE = DATA / "own_videos.json"
 MEDIAMETRIE_FILE = DATA / "mediametrie.json"
 YOUTUBE_CHANNELS = Path("config/youtube_channels.json")
 PARTIES_FILE = Path("config/parties.json")
@@ -80,6 +81,19 @@ def subs_gain_7d(snapshots, pid):
     if not earlier:
         return None
     return last["subscribers"] - earlier[-1]["subscribers"]
+
+
+def own_videos(snapshots, candidates, influencers):
+    """Vidéos des chaînes propres, les plus récentes d'abord (dernier relevé de chaque vidéo)."""
+    latest = {}
+    for s in snapshots:
+        if s["video_id"] not in latest or s["date"] > latest[s["video_id"]]["date"]:
+            latest[s["video_id"]] = s
+    names = {c["id"]: c["name"] for c in candidates + influencers}
+    rows = sorted(latest.values(), key=lambda s: s["published"], reverse=True)[:300]
+    return [{"video_id": s["video_id"], "title": s["title"], "channel": s["channel"], "published": s["published"],
+             "candidates": [names.get(c, c) for c in s["candidates"]], "views": s["views"],
+             "url": f"https://www.youtube.com/watch?v={s['video_id']}"} for s in rows]
 
 
 def main():
@@ -148,6 +162,17 @@ def main():
                 interview_doc["snapshots"], [dict(v, id=v["video_id"]) for v in videos])
             _save(INTERVIEW_VIDEOS_FILE, interview_doc)
             print(f"✅ YouTube entretiens : {len(videos)} vidéo(s) citant un candidat")
+
+            # Vidéos publiées sur les chaînes propres des personnes suivies
+            own_doc = _load(OWN_VIDEOS_FILE, {"snapshots": []})
+            people = []
+            for c in cfg["channels"]:
+                if c["kind"] in ("candidate", "influencer") and c.get("handle") and c["id"] in channel_ids:
+                    people.append((c["id"], c["name"], channel_ids[c["id"]]))
+            own = youtube.collect_own_videos(people, START_DATE, today, key)
+            own_doc["snapshots"] = youtube.add_snapshots(own_doc["snapshots"], own)
+            _save(OWN_VIDEOS_FILE, own_doc)
+            print(f"✅ YouTube chaînes propres : {len(own)} vidéo(s) depuis le 1er juillet")
 
     # Audiences TV hebdomadaires (Médiamétrie)
     tv_doc = _load(MEDIAMETRIE_FILE, {"weeks": []})
@@ -257,6 +282,7 @@ def main():
         "followers": followers,
         "youtube": yt_series,
         "interview_videos": interview_videos(interview_doc["snapshots"], candidates),
+        "own_videos": own_videos(_load(OWN_VIDEOS_FILE, {"snapshots": []})["snapshots"], candidates, influencers),
         "tv_weekly": tv_doc["weeks"][-1] if tv_doc["weeks"] else None,
         "influencers": influencer_rows,
         "youtube_status": youtube_status,
