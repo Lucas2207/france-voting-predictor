@@ -153,76 +153,6 @@ function renderMethodology() {
   $('methodologyBody').innerHTML = paragraphs.map(k => `<p>${t(k, params)}</p>`).join('');
 }
 
-/** Tri et sélection des personnalités influentes. */
-/** @type {{ key: 'name' | 'party' | 'followers' | 'views' | 'subs' | 'subs_gain', dir: 'asc' | 'desc' }} */
-let influencerSort = { key: 'name', dir: 'asc' };
-/** @type {Set<string>} identifiants des personnalités cochées */
-const influencerIncluded = new Set();
-
-/** @param {Influencer} i */
-const partyLabel = (i) => partyById[i.party] ? partyById[i.party].name : i.party;
-
-/** Particules rattachées au nom de famille pour le classement (« Le Gendre » est classé en L). */
-const SURNAME_PARTICLES = new Set(['le', 'la', 'les']);
-
-/**
- * Nom de famille pour le classement : le dernier mot, avec les particules « le/la/les » qui le précèdent.
- * Les particules « de/du/van » sont ignorées (« Dominique de Villepin » est classé en V).
- * @param {string} name
- */
-function surnameOf(name) {
-  const words = name.trim().split(/\s+/);
-  let i = words.length - 1;
-  while (i > 0 && SURNAME_PARTICLES.has(words[i - 1].toLowerCase())) i--;
-  return words.slice(i).join(' ');
-}
-
-/** @param {Influencer} i @param {string} key */
-function influencerValue(i, key) {
-  if (key === 'name') return surnameOf(i.name);
-  if (key === 'party') return partyLabel(i);
-  if (key === 'followers') return i.followers;
-  if (key === 'subs') return i.youtube_subscribers;
-  if (key === 'subs_gain') return i.youtube_subs_gain_7d;
-  return i.youtube_views;
-}
-
-/** Personnalités triées selon le choix ; les valeurs absentes restent en bas de liste. */
-function sortedInfluencers() {
-  const rows = [...(data.influencers || [])];
-  const { key, dir } = influencerSort;
-  const sign = dir === 'asc' ? 1 : -1;
-  rows.sort((x, y) => {
-    const a = influencerValue(x, key);
-    const b = influencerValue(y, key);
-    if (a == null || b == null) return a == null && b == null ? 0 : a == null ? 1 : -1;
-    if (typeof a === 'string' && typeof b === 'string') {
-      const byText = sign * a.localeCompare(b, LOCALES[lang]);
-      // À égalité (même nom ou même parti), ordre par prénom
-      return byText !== 0 ? byText : x.name.localeCompare(y.name, LOCALES[lang]);
-    }
-    const byValue = sign * (Number(a) - Number(b));
-    if (byValue !== 0 || key !== 'subs') return byValue;
-    // Abonnés de la chaîne à égalité : le gain hebdomadaire départage
-    const ga = x.youtube_subs_gain_7d;
-    const gb = y.youtube_subs_gain_7d;
-    if (ga == null || gb == null) return ga == null && gb == null ? 0 : ga == null ? 1 : -1;
-    return gb - ga;
-  });
-  return rows;
-}
-
-/** Libellé du bouton de sens : A → Z pour le nom, croissant/décroissant pour les nombres. */
-function renderInfluencerControls() {
-  const { key, dir } = influencerSort;
-  const sel = /** @type {HTMLSelectElement} */ ($('infSortKey'));
-  sel.value = key;
-  const label = key === 'name' || key === 'party'
-    ? (dir === 'asc' ? t('inf.dir.az') : t('inf.dir.za'))
-    : (dir === 'asc' ? t('inf.dir.asc') : t('inf.dir.desc'));
-  $('infSortDir').textContent = label;
-}
-
 /** Parts d'audience TV de la semaine (Médiamétrie) : chaînes suivies et total. */
 function renderTvWeekly() {
   const w = data.tv_weekly;
@@ -238,7 +168,7 @@ function renderTvWeekly() {
     <tbody>${rows}<tr class="font-bold"><td class="px-2 py-1">${t('tv.total')}</td><td class="px-2 py-1 text-right">${w.total_tv == null ? '—' : compact(w.total_tv)}</td></tr></tbody>`;
 }
 
-/** Vidéos YouTube d'entretiens citant un candidat (7 derniers jours). */
+/** Vidéos YouTube d'entretiens citant un candidat (depuis le 1er juillet 2026). */
 function renderInterviewVideos() {
   const rows = (data.interview_videos || []).map(v => `<tr class="border-b border-slate-100">
       <td class="px-2 py-1 whitespace-nowrap">${esc(shortDate(v.published))}</td>
@@ -252,23 +182,61 @@ function renderInterviewVideos() {
     <tbody>${rows || `<tr><td class="py-2 text-slate-400" colspan="5">${t('yt.none')}</td></tr>`}</tbody>`;
 }
 
-/** Personnalités influentes non candidates : abonnés, audience YouTube et total par parti. */
+/** Tri et sélection des personnalités influentes (logique dans sort.js). */
+/** @type {{ key: string, dir: 'asc' | 'desc' }} */
+let influencerSort = { key: 'name', dir: 'asc' };
+/** @type {Set<string>} identifiants des personnalités cochées */
+const influencerIncluded = new Set();
+/** Colonnes triables : clé de tri, et sens initial au premier clic. */
+/** @type {Record<string, 'asc' | 'desc'>} */
+const SORTABLE = {
+  name: 'asc', party: 'asc', status: 'asc',
+  followers: 'desc', views: 'desc', subs: 'desc', gain: 'desc',
+};
+
+/** @param {Influencer} i */
+const partyLabel = (i) => partyById[i.party] ? partyById[i.party].name : i.party;
+/** @param {string} statut */
+const statusText = (statut) => t('status.' + statut);
+
+/** Personnalités triées selon la colonne et le sens choisis. */
+function sortedInfluencers() {
+  return [...(data.influencers || [])].sort((x, y) =>
+    compareInfluencers(x, y, influencerSort, LOCALES[lang], partyLabel, statusText));
+}
+
+/** Flèche indiquant la colonne triée et son sens. */
+/** @param {string} key */
+const arrow = (key) => influencerSort.key !== key ? '' : (influencerSort.dir === 'asc' ? ' ▲' : ' ▼');
+
+/** Intitulé de colonne cliquable pour trier. */
+/** @param {string} key @param {string} label @param {string} [align] */
+const sortTh = (key, label, align = 'text-left') =>
+  `<th data-sort="${key}" class="px-2 py-1 ${align} cursor-pointer select-none whitespace-nowrap hover:text-slate-900 ${influencerSort.key === key ? 'text-indigo-700' : ''}">${label}${arrow(key)}</th>`;
+
+/** Personnalités influentes non candidates : tableau triable, abonnés, audience YouTube et total par parti. */
 function renderInfluencers() {
-  renderInfluencerControls();
   const rows = sortedInfluencers();
   $('influencersTable').innerHTML = `<thead><tr class="text-[10px] uppercase tracking-wider text-slate-500 border-b border-slate-200">
       <th class="px-2 py-1 text-left">${t('inf.th.include')}</th>
-      <th class="px-2 py-1 text-left">${t('influencers.th.person')}</th><th class="px-2 py-1 text-left">${t('influencers.th.party')}</th><th class="px-2 py-1 text-left">${t('influencers.th.status')}</th>
-      <th class="px-2 py-1 text-right">${t('influencers.th.followers')}</th><th class="px-2 py-1 text-right">${t('influencers.th.views')}</th><th class="px-2 py-1 text-right">${t('influencers.th.subs')}</th><th class="px-2 py-1 text-right">${t('inf.th.gain')}</th></tr></thead>
+      ${sortTh('name', t('influencers.th.person'))}${sortTh('party', t('influencers.th.party'))}${sortTh('status', t('influencers.th.status'))}
+      ${sortTh('followers', t('influencers.th.followers'), 'text-right')}${sortTh('views', t('influencers.th.views'), 'text-right')}
+      ${sortTh('subs', t('influencers.th.subs'), 'text-right')}${sortTh('gain', t('inf.th.gain'), 'text-right')}</tr></thead>
     <tbody>${rows.map(i => `<tr class="border-b border-slate-100 ${influencerIncluded.has(i.id) ? '' : 'opacity-40'}">
       <td class="px-2 py-1"><input type="checkbox" data-inf="${esc(i.id)}" class="rounded border-slate-300 text-indigo-600 focus:ring-indigo-500" ${influencerIncluded.has(i.id) ? 'checked' : ''}></td>
       <td class="px-2 py-1 font-semibold whitespace-nowrap">${esc(i.name)}</td>
       <td class="px-2 py-1 whitespace-nowrap">${esc(partyLabel(i))}</td>
-      <td class="px-2 py-1" title="${esc(i.note)}">${esc(t('status.' + i.statut))}</td>
+      <td class="px-2 py-1" title="${esc(i.note)}">${esc(statusText(i.statut))}</td>
       <td class="px-2 py-1 text-right">${compact(i.followers)}</td>
       <td class="px-2 py-1 text-right">${compact(i.youtube_views)}</td>
       <td class="px-2 py-1 text-right">${compact(i.youtube_subscribers)}</td>
       <td class="px-2 py-1 text-right ${i.youtube_subs_gain_7d != null && i.youtube_subs_gain_7d < 0 ? 'text-[#c62f2e]' : 'text-[#1d5fb0]'}">${i.youtube_subs_gain_7d == null ? '—' : signed(i.youtube_subs_gain_7d, 0)}</td></tr>`).join('')}</tbody>`;
+
+  // Données manquantes, par critère
+  const missing = (/** @type {(i: Influencer) => boolean} */ f) => (data.influencers || []).filter(f).length;
+  $('infMissing').textContent = t('inf.missing', {
+    followers: missing(i => i.followers == null), views: missing(i => i.youtube_views == null),
+  });
 
   // Total cumulé par parti, uniquement pour les personnalités cochées
   /** @type {Record<string, { count: number, followers: number | null, views: number | null, subs: number | null }>} */
@@ -280,10 +248,7 @@ function renderInfluencers() {
     if (i.youtube_views != null) g.views = (g.views || 0) + i.youtube_views;
     if (i.youtube_subscribers != null) g.subs = (g.subs || 0) + i.youtube_subscribers;
   });
-  const totals = Object.entries(byParty).sort((a, b) => (b[1].followers ?? -1) - (a[1].followers ?? -1));
-  const missingF = (data.influencers || []).filter(i => i.followers == null).length;
-  const missingV = (data.influencers || []).filter(i => i.youtube_views == null).length;
-  $('infMissing').textContent = t('inf.missing', { followers: missingF, views: missingV });
+  const totals = Object.entries(byParty).sort((x, y) => (y[1].followers ?? -1) - (x[1].followers ?? -1));
   $('partyTotalsTable').innerHTML = `<thead><tr class="text-[10px] uppercase tracking-wider text-slate-500 border-b border-slate-200">
       <th class="px-2 py-1 text-left">${t('influencers.th.party')}</th><th class="px-2 py-1 text-right">${t('inf.th.count')}</th>
       <th class="px-2 py-1 text-right">${t('influencers.th.followers')}</th><th class="px-2 py-1 text-right">${t('influencers.th.views')}</th><th class="px-2 py-1 text-right">${t('influencers.th.subs')}</th></tr></thead>
@@ -293,14 +258,17 @@ function renderInfluencers() {
       <td class="px-2 py-1 text-right">${compact(g.subs)}</td></tr>`).join('') || `<tr><td class="py-2 text-slate-400" colspan="5">${t('followers.noneChecked')}</td></tr>`}</tbody>`;
 }
 
-/** Écouteurs des contrôles de tri et de sélection (installés une fois). */
+/** Écouteurs : clic sur un intitulé de colonne (tri), case à cocher (sélection). Installés une fois. */
 function wireInfluencerControls() {
-  $('infSortKey').addEventListener('change', (ev) => {
-    influencerSort = { ...influencerSort, key: /** @type {any} */ (/** @type {HTMLSelectElement} */ (ev.target).value) };
-    renderInfluencers();
-  });
-  $('infSortDir').addEventListener('click', () => {
-    influencerSort = { ...influencerSort, dir: influencerSort.dir === 'asc' ? 'desc' : 'asc' };
+  $('influencersTable').addEventListener('click', (ev) => {
+    const th = /** @type {HTMLElement} */ (ev.target).closest('th[data-sort]');
+    if (!th) return;
+    const key = /** @type {HTMLElement} */ (th).dataset.sort || 'name';
+    /** @type {'asc' | 'desc'} */
+    const first = SORTABLE[key] || 'asc';
+    influencerSort = influencerSort.key === key
+      ? { key, dir: influencerSort.dir === 'asc' ? 'desc' : 'asc' }
+      : { key, dir: first };
     renderInfluencers();
   });
   $('influencersTable').addEventListener('change', (ev) => {

@@ -171,18 +171,6 @@
         <h2 class="text-base font-bold text-slate-900" data-i18n="influencers.title">Personnalités influentes non candidates</h2>
         <p class="text-[11px] text-slate-500" data-i18n="influencers.help">Elles ne sont pas candidates à la présidentielle, mais pèsent sur les voix de leur parti. Leurs abonnés comptent dans le total de leur parti. « À vérifier » : statut non confirmé par les sources consultées.</p>
       </div>
-      <div class="flex flex-wrap items-center gap-3 text-xs">
-        <label for="infSortKey" class="font-bold text-slate-600" data-i18n="inf.sort">Trier par</label>
-        <select id="infSortKey" class="bg-white border border-slate-300 text-slate-800 text-xs font-semibold rounded-lg p-1.5 outline-none focus:ring-2 focus:ring-indigo-500">
-          <option value="followers" data-i18n="inf.key.followers">Abonnés</option>
-          <option value="views" data-i18n="inf.key.views">Vues YouTube</option>
-          <option value="name" data-i18n="inf.key.name">Nom de famille</option>
-          <option value="party" data-i18n="inf.key.party">Parti</option>
-          <option value="subs" data-i18n="inf.key.subs">Abonnés YouTube</option>
-          <option value="subs_gain" data-i18n="inf.key.subs_gain">Gain hebdo. d'abonnés</option>
-        </select>
-        <button id="infSortDir" class="px-3 py-1.5 rounded-lg bg-slate-100 hover:bg-slate-200 font-bold text-slate-700">Croissant</button>
-      </div>
       <div class="overflow-x-auto"><table class="w-full text-xs num" id="influencersTable"></table></div>
       <p class="text-[11px] text-slate-400" id="infMissing"></p>
       <h3 class="text-sm font-bold text-slate-800" data-i18n="inf.totals">Total par parti (personnalités cochées)</h3>
@@ -275,6 +263,7 @@
   </div>
 
   <script src="i18n.js"></script>
+  <script src="sort.js"></script>
   <script src="app.js"></script>
 </body>
 </html>
