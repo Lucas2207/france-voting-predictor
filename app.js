@@ -84,6 +84,8 @@ function hexA(hex, a) {
 }
 /** @param {string} id @returns {HTMLCanvasElement} */
 const canvas = (id) => /** @type {HTMLCanvasElement} */ ($(id));
+/** Date et heure au format de la langue (fr : 27/10/2026 22:59). @param {string} stamp « AAAA-MM-JJ HH:MM » */
+const dateTime = (stamp) => new Date(stamp.replace(' ', 'T')).toLocaleString(LOCALES[lang], { day: '2-digit', month: '2-digit', year: 'numeric', hour: '2-digit', minute: '2-digit' });
 /** Date courte ; une date seule est lue à midi pour ne pas glisser d'un jour selon le fuseau. @param {string} iso */
 const shortDate = (iso) => new Date(iso.length === 10 ? iso + 'T12:00:00' : iso).toLocaleDateString(LOCALES[lang], { day: '2-digit', month: 'short' });
 
@@ -132,7 +134,7 @@ function renderEverything() {
 
 function renderHeader() {
   const src = data.sources || {};
-  $('lastUpdated').textContent = t('header.updated', { date: data.last_updated });
+  $('lastUpdated').textContent = t('header.updated', { date: dateTime(data.last_updated) });
   const okFeeds = (src.feeds || []).filter(f => f.ok).length;
   $('sourceSummary').textContent = t('header.summary', {
     polls: data.polls.length, feeds: okFeeds, total: (src.feeds || []).length,
@@ -349,7 +351,7 @@ function renderYouTube() {
   const hasData = !!yt && yt.dates.length > 0 && (yt.candidates.length + yt.media.length) > 0;
   const change = youtubeMode === 'change';
   $('youtubeNote').textContent = hasData
-    ? t('youtube.note', { date: yt.dates[0] })
+    ? t('youtube.note', { date: shortDate(yt.dates[0]) })
     : t('youtube.none');
   const labelFmt = change ? (/** @type {number} */ v) => `${v > 0 ? '+' : ''}${compact(v)}` : compact;
   const tooltip = (/** @type {any} */ item) => ` ${item.dataset.label} : ${change ? signed(item.parsed.y, 0) : fmt(item.parsed.y, 0)}`;
