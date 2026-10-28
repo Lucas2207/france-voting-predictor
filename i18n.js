@@ -7,6 +7,10 @@
  */
 const I18N = {
   fr: {
+    'pages.none': 'Aucune page relevée.',
+    'pages.total': 'Total',
+    'pages.party': 'Parti',
+    'pages.title': 'Pages officielles des partis',
     'followers.platformNone': 'Aucun relevé pour {name} : saisir les abonnés dans data/releves.csv.',
     'followers.byNetwork': 'Par réseau social',
     'followers.platform': 'Abonnés sur {name}',
@@ -178,6 +182,10 @@ const I18N = {
     'chart.legendNote': '',
   },
   en: {
+    'pages.none': 'No page recorded.',
+    'pages.total': 'Total',
+    'pages.party': 'Party',
+    'pages.title': 'Official party pages',
     'followers.platformNone': 'No reading for {name} yet: enter the followers in data/releves.csv.',
     'followers.byNetwork': 'By social network',
     'followers.platform': 'Followers on {name}',
@@ -348,6 +356,10 @@ const I18N = {
     'method.source': 'source',
   },
   es: {
+    'pages.none': 'No hay páginas registradas.',
+    'pages.total': 'Total',
+    'pages.party': 'Partido',
+    'pages.title': 'Páginas oficiales de los partidos',
     'followers.platformNone': 'Sin lecturas para {name}: introduzca los seguidores en data/releves.csv.',
     'followers.byNetwork': 'Por red social',
     'followers.platform': 'Seguidores en {name}',
@@ -518,6 +530,10 @@ const I18N = {
     'method.source': 'fuente',
   },
   ar: {
+    'pages.none': 'لا توجد صفحات مسجلة.',
+    'pages.total': 'المجموع',
+    'pages.party': 'الحزب',
+    'pages.title': 'الصفحات الرسمية للأحزاب',
     'followers.platformNone': 'لا توجد قراءات لـ {name} بعد: أدخل عدد المتابعين في data/releves.csv.',
     'followers.byNetwork': 'حسب الشبكة الاجتماعية',
     'followers.platform': 'المتابعون على {name}',

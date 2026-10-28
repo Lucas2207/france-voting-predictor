@@ -52,6 +52,24 @@ def interview_videos(snapshots, candidates):
              "url": f"https://www.youtube.com/watch?v={s['video_id']}"} for s in rows]
 
 
+PARTY_LABELS = {
+    "rn": "Rassemblement national", "lfi": "La France insoumise", "hor": "Horizons", "ps": "Parti socialiste",
+    "re": "Renaissance", "lr": "Les Républicains", "ne": "Nouvelle Énergie", "rec": "Reconquête",
+    "dlf": "Debout la France", "pcf": "Parti communiste français", "lo": "Lutte ouvrière", "pp": "Place publique",
+}
+
+
+def party_pages():
+    """Pages officielles des partis : abonnés par réseau, du plus suivi au moins suivi."""
+    pages = _load(Path("data/pages_partis.json"), {"pages": {}})["pages"]
+    rows = []
+    for pid, platforms in pages.items():
+        counts = {k: v["followers"] for k, v in platforms.items() if v.get("followers") is not None}
+        rows.append({"id": pid, "name": PARTY_LABELS.get(pid, pid), "platforms": counts,
+                     "total": sum(counts.values())})
+    return sorted(rows, key=lambda r: -r["total"])
+
+
 def subs_gain_7d(snapshots, pid):
     """Gain d'abonnés YouTube sur 7 jours : dernier relevé moins le relevé le plus proche d'il y a 7 jours."""
     rows = sorted((s for s in snapshots if s["id"] == pid and s.get("subscribers") is not None), key=lambda s: s["date"])
@@ -243,6 +261,7 @@ def main():
         "influencers": influencer_rows,
         "youtube_status": youtube_status,
         "parties": [{k: p[k] for k in ("id", "name", "badge", "color")} for p in parties],
+        "party_pages": party_pages(),
         "interviews": interviews,
         "interview_summary": social.interview_summary(interviews, [c["id"] for c in candidates]),
         "sources": {

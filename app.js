@@ -23,7 +23,8 @@
  * @typedef {{ id: string, name: string, party: string, statut: 'non_candidat' | 'a_verifier', note: string, followers: number | null, youtube_views: number | null, youtube_subscribers: number | null, youtube_subs_gain_7d: number | null }} Influencer
  * @typedef {{ period: string, fetched: string, total_tv: number | null, shares: Record<string, number> }} TvWeek
  * @typedef {{ video_id: string, title: string, channel: string, published: string, candidates: string[], views: number, url: string }} InterviewVideo
- * @typedef {{ last_updated: string, tv_weekly: TvWeek | null, interview_videos: InterviewVideo[], today: string, candidates: Candidate[], parties: Party[], influencers: Influencer[], youtube: YouTube, projection: Projection[], history: HistoryEntry[], polls: Poll[], media_daily: MediaDay[], media_by_outlet: Record<string, Record<string, { tone: number, n: number }>>, events: CampaignEvent[], followers: Followers, interviews: Interview[], interview_summary: InterviewSummary, sources: Sources, parameters?: Record<string, number> }} LiveData
+ * @typedef {{ id: string, name: string, platforms: Record<string, number>, total: number }} PartyPage
+ * @typedef {{ last_updated: string, party_pages: PartyPage[], tv_weekly: TvWeek | null, interview_videos: InterviewVideo[], today: string, candidates: Candidate[], parties: Party[], influencers: Influencer[], youtube: YouTube, projection: Projection[], history: HistoryEntry[], polls: Poll[], media_daily: MediaDay[], media_by_outlet: Record<string, Record<string, { tone: number, n: number }>>, events: CampaignEvent[], followers: Followers, interviews: Interview[], interview_summary: InterviewSummary, sources: Sources, parameters?: Record<string, number> }} LiveData
  */
 
 /** @type {LiveData} */
@@ -128,6 +129,7 @@ function renderEverything() {
   renderOutlets();
   renderEvents();
   renderInfluencers();
+  renderPartyPages();
   renderTvWeekly();
   renderInterviewVideos();
   renderAll();
@@ -154,6 +156,20 @@ function renderMethodology() {
     sourceLink: link, beta: fmt(p.MEDIA_BETA ?? 1.5), cap: fmt(p.MEDIA_CAP ?? 2, 0),
   };
   $('methodologyBody').innerHTML = paragraphs.map(k => `<p>${t(k, params)}</p>`).join('');
+}
+
+/** Pages officielles des partis : abonnés par réseau et total. */
+function renderPartyPages() {
+  const nets = ['facebook', 'instagram', 'tiktok', 'youtube'];
+  const labels = { facebook: 'Facebook', instagram: 'Instagram', tiktok: 'TikTok', youtube: 'YouTube' };
+  const rows = (data.party_pages || []).map(p => `<tr class="border-b border-slate-100">
+      <td class="px-2 py-1 font-semibold whitespace-nowrap">${esc(p.name)}</td>
+      ${nets.map(n => `<td class="px-2 py-1 text-right">${p.platforms[n] == null ? '—' : compact(p.platforms[n])}</td>`).join('')}
+      <td class="px-2 py-1 text-right font-bold">${compact(p.total)}</td></tr>`).join('');
+  $('partyPagesTable').innerHTML = `<thead><tr class="text-[10px] uppercase tracking-wider text-slate-500 border-b border-slate-200">
+      <th class="px-2 py-1 text-left">${t('pages.party')}</th>${nets.map(n => `<th class="px-2 py-1 text-right">${labels[n]}</th>`).join('')}
+      <th class="px-2 py-1 text-right">${t('pages.total')}</th></tr></thead>
+    <tbody>${rows || `<tr><td class="py-2 text-slate-400" colspan="6">${t('pages.none')}</td></tr>`}</tbody>`;
 }
 
 /** Parts d'audience TV de la semaine (Médiamétrie) : chaînes suivies et total. */
