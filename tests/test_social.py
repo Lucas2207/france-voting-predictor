@@ -110,6 +110,7 @@ class XAccountsTest(unittest.TestCase):
         from pipeline import social
         self.assertEqual(social.x_url("lepen"), "https://x.com/MarineLePen")
         self.assertEqual(social.x_url("inconnu"), "")
+        self.assertEqual(social.account_url("faure", "instagram"), "https://www.instagram.com/olivierfaure/")
 
 
 class PlatformSeriesTest(unittest.TestCase):

@@ -217,16 +217,23 @@ def known_people():
     return people
 
 
+PROFILE_URLS = {"x": "https://x.com/{}", "instagram": "https://www.instagram.com/{}/"}
+
+
+def account_url(pid, platform):
+    """URL du compte d'une personne sur X ou Instagram (config/social_accounts.json), ou chaîne vide."""
+    handle = load_json("config/social_accounts.json", {}).get(platform, {}).get(pid, "")
+    return PROFILE_URLS[platform].format(handle) if handle and platform in PROFILE_URLS else ""
+
+
 def x_url(pid):
-    """URL du compte X d'une personne (config/social_accounts.json), ou chaîne vide."""
-    handle = load_json("config/social_accounts.json", {"x": {}})["x"].get(pid, "")
-    return f"https://x.com/{handle}" if handle else ""
+    return account_url(pid, "x")
 
 
 def _cli_template(args):
     """Écrit un fichier CSV à remplir : une ligne par personne et par plateforme.
 
-    Pour X, l'URL du compte est pré-remplie quand elle est connue.
+    Pour X et Instagram, l'URL du compte est pré-remplie quand elle est connue.
     """
     people = known_people()
     with open(args.output, "w", encoding="utf-8-sig", newline="") as f:
@@ -234,7 +241,7 @@ def _cli_template(args):
         w.writerow(["id", "nom", "plateforme", "abonnes", "source"])
         for pid, name in people.items():
             for platform in PLATFORMS:
-                source = x_url(pid) if platform == "x" else ""
+                source = account_url(pid, platform)
                 w.writerow([pid, name, platform, "", source])
     print(f"✅ Modèle écrit : {args.output} ({len(people)} personnes). Remplissez « abonnes » et « source », puis importez-le.")
     return 0

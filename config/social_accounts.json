@@ -1,5 +1,5 @@
 {
-  "_doc": "Comptes X (Twitter) des candidats et personnalités (clé x) et des partis (clé x_parties), sans @. L'URL est construite à partir du handle. Les abonnés se relèvent à la main (pipeline.social template).",
+  "_doc": "Comptes des candidats et personnalités suivis : X (clé x) et Instagram (clé instagram), sans @. Clé x_parties : comptes X des partis. Les URL sont construites à partir des handles. Les abonnés se relèvent à la main (pipeline.social template).",
   "x": {
     "lepen": "MarineLePen",
     "bardella": "J_Bardella",
@@ -35,7 +35,18 @@
     "chenu": "sebastienchenu",
     "knafo": "sarahknafooff",
     "meunier": "PhMeunier",
-    "philippot": "f_philippot"
+    "philippot": "f_philippot",
+    "vallaud": "BorisVallaud",
+    "jouvet": "PJouvet",
+    "guedj": "JeromeGuedj",
+    "geoffroy": "HeleneGeoffroy",
+    "aubry": "ManonAubryFr",
+    "genevard": "AnnieGenevard",
+    "bellamy": "fxbellamy",
+    "bertrand": "xavierbertrand",
+    "maillard": "SylvainMaillard",
+    "diaz": "edwige_diaz",
+    "lavalette": "LaureLavalette"
   },
   "x_parties": {
     "lfi": "FranceInsoumise",
@@ -51,5 +62,28 @@
     "rec": "Reconquete_off",
     "dlf": "DLF_Officiel",
     "lp": "les_patriotes"
+  },
+  "instagram": {
+    "faure": "olivierfaure",
+    "vallaud": "borisvallaud",
+    "jouvet": "pierre_jouvet",
+    "guedj": "jeromeguedj",
+    "geoffroy": "helenegeoffroy_",
+    "aubry": "manonaubryfr",
+    "wauquiez": "laurentwauquiez",
+    "genevard": "anniegenevard",
+    "bellamy": "fxbellamy",
+    "bertrand": "xavier.bertrand",
+    "lisnard": "davidlisnard",
+    "attal": "gabrielattal",
+    "borne": "elisabeth_borne",
+    "sejourne": "stephane_sejourne",
+    "darmanin": "gerald_darmanin",
+    "maillard": "sylvainmaillard",
+    "bardella": "jordan_bardella",
+    "lepen": "marine_lepen",
+    "chenu": "sebastienchenu",
+    "diaz": "edwige_diaz",
+    "lavalette": "laurelavalette"
   }
 }
