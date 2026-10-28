@@ -1,4 +1,250 @@
 {
-  "_doc": "Relevés d'abonnés, saisis à la main (ou via `python -m pipeline.social add`). Un relevé = une personne, une plateforme, une date. platform : tiktok | instagram | x | facebook. Les plateformes ne sont pas accessibles automatiquement : chaque relevé doit être lu sur le compte. 'source' = l'URL du compte ou la capture consultée.",
-  "entries": []
+ "_doc": "Relevés d'abonnés, saisis à la main (ou via `python -m pipeline.social add`). Un relevé = une personne, une plateforme, une date. platform : tiktok | instagram | x | facebook. Les plateformes ne sont pas accessibles automatiquement : chaque relevé doit être lu sur le compte. 'source' = l'URL du compte ou la capture consultée.",
+ "entries": [
+  {
+   "date": "2026-10-28",
+   "id": "arthaud",
+   "platform": "instagram",
+   "followers": 29313,
+   "source": "Followers Reseaux Candidats.docx (relevé manuel)"
+  },
+  {
+   "date": "2026-10-28",
+   "id": "arthaud",
+   "platform": "tiktok",
+   "followers": 54200,
+   "source": "Followers Reseaux Candidats.docx (relevé manuel)"
+  },
+  {
+   "date": "2026-10-28",
+   "id": "arthaud",
+   "platform": "x",
+   "followers": 51142,
+   "source": "Followers Reseaux Candidats.docx (relevé manuel)"
+  },
+  {
+   "date": "2026-10-28",
+   "id": "attal",
+   "platform": "instagram",
+   "followers": 460399,
+   "source": "Followers Reseaux Candidats.docx (relevé manuel)"
+  },
+  {
+   "date": "2026-10-28",
+   "id": "attal",
+   "platform": "tiktok",
+   "followers": 685200,
+   "source": "Followers Reseaux Candidats.docx (relevé manuel)"
+  },
+  {
+   "date": "2026-10-28",
+   "id": "attal",
+   "platform": "x",
+   "followers": 290351,
+   "source": "Followers Reseaux Candidats.docx (relevé manuel)"
+  },
+  {
+   "date": "2026-10-28",
+   "id": "dupontaignan",
+   "platform": "instagram",
+   "followers": 70567,
+   "source": "Followers Reseaux Candidats.docx (relevé manuel)"
+  },
+  {
+   "date": "2026-10-28",
+   "id": "dupontaignan",
+   "platform": "tiktok",
+   "followers": 133200,
+   "source": "Followers Reseaux Candidats.docx (relevé manuel)"
+  },
+  {
+   "date": "2026-10-28",
+   "id": "dupontaignan",
+   "platform": "x",
+   "followers": 470137,
+   "source": "Followers Reseaux Candidats.docx (relevé manuel)"
+  },
+  {
+   "date": "2026-10-28",
+   "id": "glucksmann",
+   "platform": "instagram",
+   "followers": 625014,
+   "source": "Followers Reseaux Candidats.docx (relevé manuel)"
+  },
+  {
+   "date": "2026-10-28",
+   "id": "glucksmann",
+   "platform": "x",
+   "followers": 310383,
+   "source": "Followers Reseaux Candidats.docx (relevé manuel)"
+  },
+  {
+   "date": "2026-10-28",
+   "id": "lepen",
+   "platform": "instagram",
+   "followers": 912593,
+   "source": "Followers Reseaux Candidats.docx (relevé manuel)"
+  },
+  {
+   "date": "2026-10-28",
+   "id": "lepen",
+   "platform": "tiktok",
+   "followers": 1700000,
+   "source": "Followers Reseaux Candidats.docx (relevé manuel)"
+  },
+  {
+   "date": "2026-10-28",
+   "id": "lepen",
+   "platform": "x",
+   "followers": 3048888,
+   "source": "Followers Reseaux Candidats.docx (relevé manuel)"
+  },
+  {
+   "date": "2026-10-28",
+   "id": "lisnard",
+   "platform": "instagram",
+   "followers": 608109,
+   "source": "Followers Reseaux Candidats.docx (relevé manuel)"
+  },
+  {
+   "date": "2026-10-28",
+   "id": "lisnard",
+   "platform": "tiktok",
+   "followers": 131800,
+   "source": "Followers Reseaux Candidats.docx (relevé manuel)"
+  },
+  {
+   "date": "2026-10-28",
+   "id": "lisnard",
+   "platform": "x",
+   "followers": 222186,
+   "source": "Followers Reseaux Candidats.docx (relevé manuel)"
+  },
+  {
+   "date": "2026-10-28",
+   "id": "melenchon",
+   "platform": "instagram",
+   "followers": 1181683,
+   "source": "Followers Reseaux Candidats.docx (relevé manuel)"
+  },
+  {
+   "date": "2026-10-28",
+   "id": "melenchon",
+   "platform": "tiktok",
+   "followers": 3200000,
+   "source": "Followers Reseaux Candidats.docx (relevé manuel)"
+  },
+  {
+   "date": "2026-10-28",
+   "id": "melenchon",
+   "platform": "x",
+   "followers": 2724191,
+   "source": "Followers Reseaux Candidats.docx (relevé manuel)"
+  },
+  {
+   "date": "2026-10-28",
+   "id": "philippe",
+   "platform": "instagram",
+   "followers": 226622,
+   "source": "Followers Reseaux Candidats.docx (relevé manuel)"
+  },
+  {
+   "date": "2026-10-28",
+   "id": "philippe",
+   "platform": "tiktok",
+   "followers": 27200,
+   "source": "Followers Reseaux Candidats.docx (relevé manuel)"
+  },
+  {
+   "date": "2026-10-28",
+   "id": "philippe",
+   "platform": "x",
+   "followers": 942793,
+   "source": "Followers Reseaux Candidats.docx (relevé manuel)"
+  },
+  {
+   "date": "2026-10-28",
+   "id": "retailleau",
+   "platform": "instagram",
+   "followers": 115626,
+   "source": "Followers Reseaux Candidats.docx (relevé manuel)"
+  },
+  {
+   "date": "2026-10-28",
+   "id": "retailleau",
+   "platform": "tiktok",
+   "followers": 91400,
+   "source": "Followers Reseaux Candidats.docx (relevé manuel)"
+  },
+  {
+   "date": "2026-10-28",
+   "id": "retailleau",
+   "platform": "x",
+   "followers": 215344,
+   "source": "Followers Reseaux Candidats.docx (relevé manuel)"
+  },
+  {
+   "date": "2026-10-28",
+   "id": "roussel",
+   "platform": "instagram",
+   "followers": 35886,
+   "source": "Followers Reseaux Candidats.docx (relevé manuel)"
+  },
+  {
+   "date": "2026-10-28",
+   "id": "roussel",
+   "platform": "tiktok",
+   "followers": 352900,
+   "source": "Followers Reseaux Candidats.docx (relevé manuel)"
+  },
+  {
+   "date": "2026-10-28",
+   "id": "roussel",
+   "platform": "x",
+   "followers": 105263,
+   "source": "Followers Reseaux Candidats.docx (relevé manuel)"
+  },
+  {
+   "date": "2026-10-28",
+   "id": "ruffin",
+   "platform": "instagram",
+   "followers": 450074,
+   "source": "Followers Reseaux Candidats.docx (relevé manuel)"
+  },
+  {
+   "date": "2026-10-28",
+   "id": "ruffin",
+   "platform": "tiktok",
+   "followers": 192000,
+   "source": "Followers Reseaux Candidats.docx (relevé manuel)"
+  },
+  {
+   "date": "2026-10-28",
+   "id": "ruffin",
+   "platform": "x",
+   "followers": 444627,
+   "source": "Followers Reseaux Candidats.docx (relevé manuel)"
+  },
+  {
+   "date": "2026-10-28",
+   "id": "zemmour",
+   "platform": "instagram",
+   "followers": 313149,
+   "source": "Followers Reseaux Candidats.docx (relevé manuel)"
+  },
+  {
+   "date": "2026-10-28",
+   "id": "zemmour",
+   "platform": "tiktok",
+   "followers": 395600,
+   "source": "Followers Reseaux Candidats.docx (relevé manuel)"
+  },
+  {
+   "date": "2026-10-28",
+   "id": "zemmour",
+   "platform": "x",
+   "followers": 575704,
+   "source": "Followers Reseaux Candidats.docx (relevé manuel)"
+  }
+ ]
 }
