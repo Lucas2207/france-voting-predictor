@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-10-28 16:43",
+ "last_updated": "2026-10-28 18:04",
  "today": "2026-10-28",
  "candidates": [
   {
@@ -14071,14 +14071,13 @@
    {
     "id": "philippe",
     "followers": [
-     1196615
+     1169415
     ],
     "change": [
      0
     ],
     "latest_by_platform": {
      "instagram": 226622,
-     "tiktok": 27200,
      "x": 942793
     }
    },
@@ -14239,7 +14238,7 @@
      "philippe"
     ],
     "followers": [
-     1196615
+     1169415
     ],
     "change": [
      0
@@ -14752,10 +14751,10 @@
      {
       "id": "philippe",
       "followers": [
-       27200
+       null
       ],
       "change": [
-       0
+       null
       ]
      },
      {
@@ -16930,62 +16929,6 @@
     }
    },
    {
-    "id": "bardella",
-    "name": "Jordan Bardella",
-    "color": null,
-    "group": null,
-    "views": [
-     141885724,
-     141938898
-    ],
-    "change": [
-     0,
-     53174
-    ],
-    "subscribers": [
-     231000,
-     231000
-    ],
-    "latest": {
-     "date": "2026-10-28",
-     "id": "bardella",
-     "kind": "influencer",
-     "title": "Jordan Bardella",
-     "channel_id": "UC3U0VIDgANFaXeOAtt1m5Mw",
-     "subscribers": 231000,
-     "views": 141938898,
-     "videos": 991
-    }
-   },
-   {
-    "id": "tondelier",
-    "name": "Marine Tondelier",
-    "color": null,
-    "group": null,
-    "views": [
-     2524,
-     2527
-    ],
-    "change": [
-     0,
-     3
-    ],
-    "subscribers": [
-     738,
-     736
-    ],
-    "latest": {
-     "date": "2026-10-28",
-     "id": "tondelier",
-     "kind": "influencer",
-     "title": "Marine Tondelier",
-     "channel_id": "UCziKYvao-gVX9qRaHLBIuBQ",
-     "subscribers": 736,
-     "views": 2527,
-     "videos": 2
-    }
-   },
-   {
     "id": "roussel",
     "name": "Fabien Roussel",
     "color": null,
@@ -17067,6 +17010,458 @@
      "subscribers": 9060,
      "views": 1424936,
      "videos": 824
+    }
+   }
+  ],
+  "media": [
+   {
+    "id": "media-bfmtv",
+    "name": "BFM TV",
+    "color": "#2E4A9E",
+    "group": "tv",
+    "views": [
+     1948655352,
+     1949383043
+    ],
+    "change": [
+     0,
+     727691
+    ],
+    "subscribers": [
+     2710000,
+     2710000
+    ],
+    "latest": {
+     "date": "2026-10-28",
+     "id": "media-bfmtv",
+     "kind": "media",
+     "title": "BFMTV",
+     "channel_id": "UCXwDLMDV86ldKoFVc_g8P0g",
+     "subscribers": 2710000,
+     "views": 1949383043,
+     "videos": 84634
+    }
+   },
+   {
+    "id": "media-franceinfo",
+    "name": "franceinfo",
+    "color": "#D62839",
+    "group": "tv",
+    "views": [
+     670416957,
+     673554491
+    ],
+    "change": [
+     0,
+     3137534
+    ],
+    "subscribers": [
+     1090000,
+     1090000
+    ],
+    "latest": {
+     "date": "2026-10-28",
+     "id": "media-franceinfo",
+     "kind": "media",
+     "title": "franceinfo",
+     "channel_id": "UCO6K_kkdP-lnSCiO3tPx7WA",
+     "subscribers": 1090000,
+     "views": 673554491,
+     "videos": 29019
+    }
+   },
+   {
+    "id": "media-tf1info",
+    "name": "TF1 info",
+    "color": "#0091CC",
+    "group": "tv",
+    "views": [
+     8751561,
+     8812778
+    ],
+    "change": [
+     0,
+     61217
+    ],
+    "subscribers": [
+     361000,
+     361000
+    ],
+    "latest": {
+     "date": "2026-10-28",
+     "id": "media-tf1info",
+     "kind": "media",
+     "title": "TF1",
+     "channel_id": "UC26vXhYofHiZDM2ar1zUuwQ",
+     "subscribers": 361000,
+     "views": 8812778,
+     "videos": 53
+    }
+   },
+   {
+    "id": "media-lci",
+    "name": "LCI",
+    "color": "#D9468F",
+    "group": "tv",
+    "views": [
+     1648663509,
+     1649198018
+    ],
+    "change": [
+     0,
+     534509
+    ],
+    "subscribers": [
+     2240000,
+     2240000
+    ],
+    "latest": {
+     "date": "2026-10-28",
+     "id": "media-lci",
+     "kind": "media",
+     "title": "LCI",
+     "channel_id": "UCewhc0fvja891XkpIPGRMxQ",
+     "subscribers": 2240000,
+     "views": 1649198018,
+     "videos": 14043
+    }
+   },
+   {
+    "id": "media-cnews",
+    "name": "CNews",
+    "color": "#B97F00",
+    "group": "tv",
+    "views": [
+     507413802,
+     508820521
+    ],
+    "change": [
+     0,
+     1406719
+    ],
+    "subscribers": [
+     652000,
+     652000
+    ],
+    "latest": {
+     "date": "2026-10-28",
+     "id": "media-cnews",
+     "kind": "media",
+     "title": "CNEWS",
+     "channel_id": "UCXKJrYczY2_fJEZgFPGY0HQ",
+     "subscribers": 652000,
+     "views": 508820521,
+     "videos": 40357
+    }
+   },
+   {
+    "id": "media-m6info",
+    "name": "M6 Info",
+    "color": "#7B52AE",
+    "group": "tv",
+    "views": [
+     null,
+     795220317
+    ],
+    "change": [
+     null,
+     0
+    ],
+    "subscribers": [
+     null,
+     310000
+    ],
+    "latest": {
+     "date": "2026-10-28",
+     "id": "media-m6info",
+     "kind": "media",
+     "title": "M6 Info",
+     "channel_id": "UC3Sk_YpjPd_Lz_oPQfhPQXQ",
+     "subscribers": 310000,
+     "views": 795220317,
+     "videos": 14759
+    }
+   },
+   {
+    "id": "media-francetelevisions",
+    "name": "France Télévisions",
+    "color": "#0E9F8A",
+    "group": "tv",
+    "views": [
+     null,
+     270716492
+    ],
+    "change": [
+     null,
+     0
+    ],
+    "subscribers": [
+     null,
+     418000
+    ],
+    "latest": {
+     "date": "2026-10-28",
+     "id": "media-francetelevisions",
+     "kind": "media",
+     "title": "France Télévisions",
+     "channel_id": "UCCBR4hxc0hMbWs0IfBljQMg",
+     "subscribers": 418000,
+     "views": 270716492,
+     "videos": 7225
+    }
+   },
+   {
+    "id": "media-france-inter",
+    "name": "France Inter",
+    "color": "#A0522D",
+    "group": "radio",
+    "views": [
+     2239017805,
+     2239891194
+    ],
+    "change": [
+     0,
+     873389
+    ],
+    "subscribers": [
+     1440000,
+     1440000
+    ],
+    "latest": {
+     "date": "2026-10-28",
+     "id": "media-france-inter",
+     "kind": "media",
+     "title": "France Inter",
+     "channel_id": "UCJldRgT_D7Am-ErRHQZ90uw",
+     "subscribers": 1440000,
+     "views": 2239891194,
+     "videos": 52890
+    }
+   },
+   {
+    "id": "media-europe1",
+    "name": "Europe 1",
+    "color": "#3A6EA5",
+    "group": "radio",
+    "views": [
+     1984681616,
+     1985437713
+    ],
+    "change": [
+     0,
+     756097
+    ],
+    "subscribers": [
+     2300000,
+     2300000
+    ],
+    "latest": {
+     "date": "2026-10-28",
+     "id": "media-europe1",
+     "kind": "media",
+     "title": "Europe 1",
+     "channel_id": "UCIMGfEAERXjmWwQeg15BFsg",
+     "subscribers": 2300000,
+     "views": 1985437713,
+     "videos": 181036
+    }
+   },
+   {
+    "id": "media-radionova",
+    "name": "Radio Nova",
+    "color": "#C05621",
+    "group": "radio",
+    "views": [
+     444706643,
+     446293967
+    ],
+    "change": [
+     0,
+     1587324
+    ],
+    "subscribers": [
+     697000,
+     698000
+    ],
+    "latest": {
+     "date": "2026-10-28",
+     "id": "media-radionova",
+     "kind": "media",
+     "title": "Radio Nova",
+     "channel_id": "UCGvjUWz3mGV9cssraATuEsw",
+     "subscribers": 698000,
+     "views": 446293967,
+     "videos": 7527
+    }
+   },
+   {
+    "id": "media-lemonde",
+    "name": "Le Monde",
+    "color": "#2E4A9E",
+    "group": "presse",
+    "views": [
+     764265135,
+     764587303
+    ],
+    "change": [
+     0,
+     322168
+    ],
+    "subscribers": [
+     2280000,
+     2280000
+    ],
+    "latest": {
+     "date": "2026-10-28",
+     "id": "media-lemonde",
+     "kind": "media",
+     "title": "Le Monde",
+     "channel_id": "UCYpRDnhk5H8h16jpS84uqsA",
+     "subscribers": 2280000,
+     "views": 764587303,
+     "videos": 5397
+    }
+   },
+   {
+    "id": "media-mediapart",
+    "name": "Mediapart",
+    "color": "#D62839",
+    "group": "presse",
+    "views": [
+     328154950,
+     328465802
+    ],
+    "change": [
+     0,
+     310852
+    ],
+    "subscribers": [
+     1190000,
+     1190000
+    ],
+    "latest": {
+     "date": "2026-10-28",
+     "id": "media-mediapart",
+     "kind": "media",
+     "title": "Mediapart",
+     "channel_id": "UCdnaDhU-LDQrIEEmSIfq0-Q",
+     "subscribers": 1190000,
+     "views": 328465802,
+     "videos": 4596
+    }
+   },
+   {
+    "id": "media-leparisien",
+    "name": "Le Parisien",
+    "color": "#0091CC",
+    "group": "presse",
+    "views": [
+     null,
+     3778389490
+    ],
+    "change": [
+     null,
+     0
+    ],
+    "subscribers": [
+     null,
+     2130000
+    ],
+    "latest": {
+     "date": "2026-10-28",
+     "id": "media-leparisien",
+     "kind": "media",
+     "title": "Le Parisien",
+     "channel_id": "UCfHn_8-ehdem86fEvlFg-Gw",
+     "subscribers": 2130000,
+     "views": 3778389490,
+     "videos": 24430
+    }
+   },
+   {
+    "id": "media-w9",
+    "name": "W9",
+    "color": "#6A4C93",
+    "group": "tv",
+    "views": [
+     null,
+     167990350
+    ],
+    "change": [
+     null,
+     0
+    ],
+    "subscribers": [
+     null,
+     93200
+    ],
+    "latest": {
+     "date": "2026-10-28",
+     "id": "media-w9",
+     "kind": "media",
+     "title": "W9",
+     "channel_id": "UCRpM3yXo53-Ko13G4lKavZg",
+     "subscribers": 93200,
+     "views": 167990350,
+     "videos": 3622
+    }
+   }
+  ],
+  "influencers": [
+   {
+    "id": "bardella",
+    "name": "Jordan Bardella",
+    "color": null,
+    "group": null,
+    "views": [
+     141885724,
+     141938898
+    ],
+    "change": [
+     0,
+     53174
+    ],
+    "subscribers": [
+     231000,
+     231000
+    ],
+    "latest": {
+     "date": "2026-10-28",
+     "id": "bardella",
+     "kind": "influencer",
+     "title": "Jordan Bardella",
+     "channel_id": "UC3U0VIDgANFaXeOAtt1m5Mw",
+     "subscribers": 231000,
+     "views": 141938898,
+     "videos": 991
+    }
+   },
+   {
+    "id": "tondelier",
+    "name": "Marine Tondelier",
+    "color": null,
+    "group": null,
+    "views": [
+     2524,
+     2527
+    ],
+    "change": [
+     0,
+     3
+    ],
+    "subscribers": [
+     738,
+     736
+    ],
+    "latest": {
+     "date": "2026-10-28",
+     "id": "tondelier",
+     "kind": "influencer",
+     "title": "Marine Tondelier",
+     "channel_id": "UCziKYvao-gVX9qRaHLBIuBQ",
+     "subscribers": 736,
+     "views": 2527,
+     "videos": 2
     }
    },
    {
@@ -17152,291 +17547,372 @@
      "views": 95495535,
      "videos": 618
     }
+   },
+   {
+    "id": "marechal",
+    "name": "Marion Maréchal",
+    "color": null,
+    "group": null,
+    "views": [
+     38772264,
+     38855063
+    ],
+    "change": [
+     0,
+     82799
+    ],
+    "subscribers": [
+     127000,
+     127000
+    ],
+    "latest": {
+     "date": "2026-10-28",
+     "id": "marechal",
+     "kind": "influencer",
+     "title": "Marion Maréchal",
+     "channel_id": "UCwupzUX-SYyt3y4yx8cYdpg",
+     "subscribers": 127000,
+     "views": 38855063,
+     "videos": 570
+    }
+   },
+   {
+    "id": "hassan",
+    "name": "Rima Hassan",
+    "color": null,
+    "group": null,
+    "views": [
+     9992613,
+     9994094
+    ],
+    "change": [
+     0,
+     1481
+    ],
+    "subscribers": [
+     60400,
+     60500
+    ],
+    "latest": {
+     "date": "2026-10-28",
+     "id": "hassan",
+     "kind": "influencer",
+     "title": "Rima Hassan",
+     "channel_id": "UC33gQfThN0fxgwfwFlNn6XQ",
+     "subscribers": 60500,
+     "views": 9994094,
+     "videos": 133
+    }
+   },
+   {
+    "id": "guiraud",
+    "name": "David Guiraud",
+    "color": null,
+    "group": null,
+    "views": [
+     46797357,
+     46903191
+    ],
+    "change": [
+     0,
+     105834
+    ],
+    "subscribers": [
+     136000,
+     137000
+    ],
+    "latest": {
+     "date": "2026-10-28",
+     "id": "guiraud",
+     "kind": "influencer",
+     "title": "David Guiraud",
+     "channel_id": "UCNlu6bn_Vu37IDINEpVlEog",
+     "subscribers": 137000,
+     "views": 46903191,
+     "videos": 334
+    }
+   },
+   {
+    "id": "guette",
+    "name": "Clémence Guetté",
+    "color": null,
+    "group": null,
+    "views": [
+     30682724,
+     30856352
+    ],
+    "change": [
+     0,
+     173628
+    ],
+    "subscribers": [
+     95300,
+     95400
+    ],
+    "latest": {
+     "date": "2026-10-28",
+     "id": "guette",
+     "kind": "influencer",
+     "title": "Clémence Guetté",
+     "channel_id": "UCpU9riAixpc1Xn9Q4i7AkOw",
+     "subscribers": 95400,
+     "views": 30856352,
+     "videos": 581
+    }
+   },
+   {
+    "id": "bompard",
+    "name": "Manuel Bompard",
+    "color": null,
+    "group": null,
+    "views": [
+     104096188,
+     104293027
+    ],
+    "change": [
+     0,
+     196839
+    ],
+    "subscribers": [
+     225000,
+     225000
+    ],
+    "latest": {
+     "date": "2026-10-28",
+     "id": "bompard",
+     "kind": "influencer",
+     "title": "Manuel Bompard",
+     "channel_id": "UCr7r7gh9N45WVwYAmHQ3m3w",
+     "subscribers": 225000,
+     "views": 104293027,
+     "videos": 1062
+    }
+   },
+   {
+    "id": "darmanin",
+    "name": "Gérald Darmanin",
+    "color": null,
+    "group": null,
+    "views": [
+     2146,
+     2146
+    ],
+    "change": [
+     0,
+     0
+    ],
+    "subscribers": [
+     1080,
+     1080
+    ],
+    "latest": {
+     "date": "2026-10-28",
+     "id": "darmanin",
+     "kind": "influencer",
+     "title": "Gérald DARMANIN",
+     "channel_id": "UCAkBdKn0B-xUlr6TLPx14wg",
+     "subscribers": 1080,
+     "views": 2146,
+     "videos": 1
+    }
+   },
+   {
+    "id": "faure",
+    "name": "Olivier Faure",
+    "color": null,
+    "group": null,
+    "views": [
+     98999,
+     99051
+    ],
+    "change": [
+     0,
+     52
+    ],
+    "subscribers": [
+     135,
+     135
+    ],
+    "latest": {
+     "date": "2026-10-28",
+     "id": "faure",
+     "kind": "influencer",
+     "title": "Olivier Faure",
+     "channel_id": "UCZ77yq9aznMT9slLfWOCSlg",
+     "subscribers": 135,
+     "views": 99051,
+     "videos": 35
+    }
+   },
+   {
+    "id": "delga",
+    "name": "Carole Delga",
+    "color": null,
+    "group": null,
+    "views": [
+     48843,
+     48852
+    ],
+    "change": [
+     0,
+     9
+    ],
+    "subscribers": [
+     399,
+     399
+    ],
+    "latest": {
+     "date": "2026-10-28",
+     "id": "delga",
+     "kind": "influencer",
+     "title": "La République En Commun",
+     "channel_id": "UCnBiC9JAFRdmM9forUu77Lg",
+     "subscribers": 399,
+     "views": 48852,
+     "videos": 101
+    }
+   },
+   {
+    "id": "wauquiez",
+    "name": "Laurent Wauquiez",
+    "color": null,
+    "group": null,
+    "views": [
+     1319734,
+     15340
+    ],
+    "change": [
+     0,
+     -1304394
+    ],
+    "subscribers": [
+     4470,
+     7
+    ],
+    "latest": {
+     "date": "2026-10-28",
+     "id": "wauquiez",
+     "kind": "influencer",
+     "title": "laurentwauquiez",
+     "channel_id": "UCSVGwM9euiZ6MJsTEJVcKCw",
+     "subscribers": 7,
+     "views": 15340,
+     "videos": 58
+    }
+   },
+   {
+    "id": "pecresse",
+    "name": "Valérie Pécresse",
+    "color": null,
+    "group": null,
+    "views": [
+     1099435,
+     1099663
+    ],
+    "change": [
+     0,
+     228
+    ],
+    "subscribers": [
+     5410,
+     5410
+    ],
+    "latest": {
+     "date": "2026-10-28",
+     "id": "pecresse",
+     "kind": "influencer",
+     "title": "Valérie Pécresse",
+     "channel_id": "UCXAKlEXGwoavQuOMaNBeaXw",
+     "subscribers": 5410,
+     "views": 1099663,
+     "videos": 444
+    }
+   },
+   {
+    "id": "panot",
+    "name": "Mathilde Panot",
+    "color": null,
+    "group": null,
+    "views": [
+     null,
+     97288097
+    ],
+    "change": [
+     null,
+     0
+    ],
+    "subscribers": [
+     null,
+     355000
+    ],
+    "latest": {
+     "date": "2026-10-28",
+     "id": "panot",
+     "kind": "influencer",
+     "title": "Mathilde Panot",
+     "channel_id": "UCilxiEGEQHVZ25GU_cnyCzg",
+     "subscribers": 355000,
+     "views": 97288097,
+     "videos": 1192
+    }
+   },
+   {
+    "id": "bellamy",
+    "name": "François-Xavier Bellamy",
+    "color": null,
+    "group": null,
+    "views": [
+     null,
+     4298908
+    ],
+    "change": [
+     null,
+     0
+    ],
+    "subscribers": [
+     null,
+     19400
+    ],
+    "latest": {
+     "date": "2026-10-28",
+     "id": "bellamy",
+     "kind": "influencer",
+     "title": "François-Xavier Bellamy",
+     "channel_id": "UC7dqnnA1NyHvUiZgyK_vMiQ",
+     "subscribers": 19400,
+     "views": 4298908,
+     "videos": 871
+    }
+   },
+   {
+    "id": "bournazel",
+    "name": "Pierre-Yves Bournazel",
+    "color": null,
+    "group": null,
+    "views": [
+     null,
+     0
+    ],
+    "change": [
+     null,
+     0
+    ],
+    "subscribers": [
+     null,
+     0
+    ],
+    "latest": {
+     "date": "2026-10-28",
+     "id": "bournazel",
+     "kind": "influencer",
+     "title": "Rami Zouaoui",
+     "channel_id": "UCdS2DqAt5MoKOlcdRY797fw",
+     "subscribers": 0,
+     "views": 0,
+     "videos": 0
+    }
    }
-  ],
-  "media": [
-   {
-    "id": "media-bfmtv",
-    "name": "BFM TV",
-    "color": "#2E4A9E",
-    "group": null,
-    "views": [
-     1948655352,
-     1949383043
-    ],
-    "change": [
-     0,
-     727691
-    ],
-    "subscribers": [
-     2710000,
-     2710000
-    ],
-    "latest": {
-     "date": "2026-10-28",
-     "id": "media-bfmtv",
-     "kind": "media",
-     "title": "BFMTV",
-     "channel_id": "UCXwDLMDV86ldKoFVc_g8P0g",
-     "subscribers": 2710000,
-     "views": 1949383043,
-     "videos": 84634
-    }
-   },
-   {
-    "id": "media-franceinfo",
-    "name": "franceinfo",
-    "color": "#D62839",
-    "group": null,
-    "views": [
-     670416957,
-     673554491
-    ],
-    "change": [
-     0,
-     3137534
-    ],
-    "subscribers": [
-     1090000,
-     1090000
-    ],
-    "latest": {
-     "date": "2026-10-28",
-     "id": "media-franceinfo",
-     "kind": "media",
-     "title": "franceinfo",
-     "channel_id": "UCO6K_kkdP-lnSCiO3tPx7WA",
-     "subscribers": 1090000,
-     "views": 673554491,
-     "videos": 29019
-    }
-   },
-   {
-    "id": "media-tf1info",
-    "name": "TF1 info",
-    "color": "#0091CC",
-    "group": null,
-    "views": [
-     8751561,
-     8812778
-    ],
-    "change": [
-     0,
-     61217
-    ],
-    "subscribers": [
-     361000,
-     361000
-    ],
-    "latest": {
-     "date": "2026-10-28",
-     "id": "media-tf1info",
-     "kind": "media",
-     "title": "TF1",
-     "channel_id": "UC26vXhYofHiZDM2ar1zUuwQ",
-     "subscribers": 361000,
-     "views": 8812778,
-     "videos": 53
-    }
-   },
-   {
-    "id": "media-lci",
-    "name": "LCI",
-    "color": "#D9468F",
-    "group": null,
-    "views": [
-     1648663509,
-     1649198018
-    ],
-    "change": [
-     0,
-     534509
-    ],
-    "subscribers": [
-     2240000,
-     2240000
-    ],
-    "latest": {
-     "date": "2026-10-28",
-     "id": "media-lci",
-     "kind": "media",
-     "title": "LCI",
-     "channel_id": "UCewhc0fvja891XkpIPGRMxQ",
-     "subscribers": 2240000,
-     "views": 1649198018,
-     "videos": 14043
-    }
-   },
-   {
-    "id": "media-cnews",
-    "name": "CNews",
-    "color": "#B97F00",
-    "group": null,
-    "views": [
-     507413802,
-     508820521
-    ],
-    "change": [
-     0,
-     1406719
-    ],
-    "subscribers": [
-     652000,
-     652000
-    ],
-    "latest": {
-     "date": "2026-10-28",
-     "id": "media-cnews",
-     "kind": "media",
-     "title": "CNEWS",
-     "channel_id": "UCXKJrYczY2_fJEZgFPGY0HQ",
-     "subscribers": 652000,
-     "views": 508820521,
-     "videos": 40357
-    }
-   },
-   {
-    "id": "media-france-inter",
-    "name": "France Inter",
-    "color": "#7B52AE",
-    "group": null,
-    "views": [
-     2239017805,
-     2239891194
-    ],
-    "change": [
-     0,
-     873389
-    ],
-    "subscribers": [
-     1440000,
-     1440000
-    ],
-    "latest": {
-     "date": "2026-10-28",
-     "id": "media-france-inter",
-     "kind": "media",
-     "title": "France Inter",
-     "channel_id": "UCJldRgT_D7Am-ErRHQZ90uw",
-     "subscribers": 1440000,
-     "views": 2239891194,
-     "videos": 52890
-    }
-   },
-   {
-    "id": "media-europe1",
-    "name": "Europe 1",
-    "color": "#0E9F8A",
-    "group": null,
-    "views": [
-     1984681616,
-     1985437713
-    ],
-    "change": [
-     0,
-     756097
-    ],
-    "subscribers": [
-     2300000,
-     2300000
-    ],
-    "latest": {
-     "date": "2026-10-28",
-     "id": "media-europe1",
-     "kind": "media",
-     "title": "Europe 1",
-     "channel_id": "UCIMGfEAERXjmWwQeg15BFsg",
-     "subscribers": 2300000,
-     "views": 1985437713,
-     "videos": 181036
-    }
-   },
-   {
-    "id": "media-lemonde",
-    "name": "Le Monde",
-    "color": "#A0522D",
-    "group": null,
-    "views": [
-     764265135,
-     764587303
-    ],
-    "change": [
-     0,
-     322168
-    ],
-    "subscribers": [
-     2280000,
-     2280000
-    ],
-    "latest": {
-     "date": "2026-10-28",
-     "id": "media-lemonde",
-     "kind": "media",
-     "title": "Le Monde",
-     "channel_id": "UCYpRDnhk5H8h16jpS84uqsA",
-     "subscribers": 2280000,
-     "views": 764587303,
-     "videos": 5397
-    }
-   },
-   {
-    "id": "media-mediapart",
-    "name": "Mediapart",
-    "color": "#A0500D",
-    "group": null,
-    "views": [
-     328154950,
-     328465802
-    ],
-    "change": [
-     0,
-     310852
-    ],
-    "subscribers": [
-     1190000,
-     1190000
-    ],
-    "latest": {
-     "date": "2026-10-28",
-     "id": "media-mediapart",
-     "kind": "media",
-     "title": "Mediapart",
-     "channel_id": "UCdnaDhU-LDQrIEEmSIfq0-Q",
-     "subscribers": 1190000,
-     "views": 328465802,
-     "videos": 4596
-    }
-   },
-   {
-    "id": "media-radionova",
-    "name": "Radio Nova",
-    "color": "#00A8F1",
-    "group": null,
-    "views": [
-     444706643,
-     446293967
-    ],
-    "change": [
-     0,
-     1587324
-    ],
-    "subscribers": [
-     697000,
-     698000
-    ],
-    "latest": {
-     "date": "2026-10-28",
-     "id": "media-radionova",
-     "kind": "media",
-     "title": "Radio Nova",
-     "channel_id": "UCGvjUWz3mGV9cssraATuEsw",
-     "subscribers": 698000,
-     "views": 446293967,
-     "videos": 7527
-    }
-   }
-  ],
-  "influencers": []
+  ]
  },
  "interview_videos": [
   {
@@ -18128,8 +18604,8 @@
    "statut": "non_candidat",
    "note": "",
    "followers": null,
-   "youtube_views": null,
-   "youtube_subscribers": null,
+   "youtube_views": 38855063,
+   "youtube_subscribers": 127000,
    "youtube_subs_gain_7d": null
   },
   {
@@ -18139,8 +18615,8 @@
    "statut": "non_candidat",
    "note": "Président du RN. Marine Le Pen a officialisé sa candidature le 7 juillet 2026 ; Bardella est désigné comme futur Premier ministre dans son équipe.",
    "followers": null,
-   "youtube_views": null,
-   "youtube_subscribers": null,
+   "youtube_views": 141938898,
+   "youtube_subscribers": 231000,
    "youtube_subs_gain_7d": null
   },
   {
@@ -18161,8 +18637,8 @@
    "statut": "non_candidat",
    "note": "",
    "followers": null,
-   "youtube_views": null,
-   "youtube_subscribers": null,
+   "youtube_views": 9994094,
+   "youtube_subscribers": 60500,
    "youtube_subs_gain_7d": null
   },
   {
@@ -18172,8 +18648,8 @@
    "statut": "non_candidat",
    "note": "",
    "followers": null,
-   "youtube_views": null,
-   "youtube_subscribers": null,
+   "youtube_views": 46903191,
+   "youtube_subscribers": 137000,
    "youtube_subs_gain_7d": null
   },
   {
@@ -18183,8 +18659,8 @@
    "statut": "non_candidat",
    "note": "",
    "followers": null,
-   "youtube_views": null,
-   "youtube_subscribers": null,
+   "youtube_views": 30856352,
+   "youtube_subscribers": 95400,
    "youtube_subs_gain_7d": null
   },
   {
@@ -18194,8 +18670,8 @@
    "statut": "non_candidat",
    "note": "",
    "followers": null,
-   "youtube_views": null,
-   "youtube_subscribers": null,
+   "youtube_views": 104293027,
+   "youtube_subscribers": 225000,
    "youtube_subs_gain_7d": null
   },
   {
@@ -18238,8 +18714,8 @@
    "statut": "non_candidat",
    "note": "",
    "followers": null,
-   "youtube_views": null,
-   "youtube_subscribers": null,
+   "youtube_views": 2146,
+   "youtube_subscribers": 1080,
    "youtube_subs_gain_7d": null
   },
   {
@@ -18260,8 +18736,8 @@
    "statut": "non_candidat",
    "note": "",
    "followers": null,
-   "youtube_views": null,
-   "youtube_subscribers": null,
+   "youtube_views": 99051,
+   "youtube_subscribers": 135,
    "youtube_subs_gain_7d": null
   },
   {
@@ -18271,8 +18747,8 @@
    "statut": "non_candidat",
    "note": "Pas de compte nominatif : la chaîne est celle de son mouvement, La République en commun.",
    "followers": null,
-   "youtube_views": null,
-   "youtube_subscribers": null,
+   "youtube_views": 48852,
+   "youtube_subscribers": 399,
    "youtube_subs_gain_7d": null
   },
   {
@@ -18282,8 +18758,8 @@
    "statut": "non_candidat",
    "note": "",
    "followers": null,
-   "youtube_views": null,
-   "youtube_subscribers": null,
+   "youtube_views": 15340,
+   "youtube_subscribers": 7,
    "youtube_subs_gain_7d": null
   },
   {
@@ -18293,8 +18769,8 @@
    "statut": "non_candidat",
    "note": "",
    "followers": null,
-   "youtube_views": null,
-   "youtube_subscribers": null,
+   "youtube_views": 1099663,
+   "youtube_subscribers": 5410,
    "youtube_subs_gain_7d": null
   },
   {
@@ -18304,8 +18780,8 @@
    "statut": "non_candidat",
    "note": "Pas de candidature présidentielle relevée dans les sources consultées.",
    "followers": null,
-   "youtube_views": null,
-   "youtube_subscribers": null,
+   "youtube_views": 95495535,
+   "youtube_subscribers": 158000,
    "youtube_subs_gain_7d": null
   },
   {
@@ -18337,8 +18813,8 @@
    "statut": "a_verifier",
    "note": "Statut à confirmer.",
    "followers": null,
-   "youtube_views": null,
-   "youtube_subscribers": null,
+   "youtube_views": 2527,
+   "youtube_subscribers": 736,
    "youtube_subs_gain_7d": null
   },
   {
@@ -18348,8 +18824,8 @@
    "statut": "a_verifier",
    "note": "Statut à confirmer.",
    "followers": null,
-   "youtube_views": null,
-   "youtube_subscribers": null,
+   "youtube_views": 8886737,
+   "youtube_subscribers": 53100,
    "youtube_subs_gain_7d": null
   },
   {
@@ -18359,8 +18835,8 @@
    "statut": "non_candidat",
    "note": "",
    "followers": null,
-   "youtube_views": null,
-   "youtube_subscribers": null,
+   "youtube_views": 97288097,
+   "youtube_subscribers": 355000,
    "youtube_subs_gain_7d": null
   },
   {
@@ -18447,8 +18923,8 @@
    "statut": "non_candidat",
    "note": "",
    "followers": null,
-   "youtube_views": null,
-   "youtube_subscribers": null,
+   "youtube_views": 4298908,
+   "youtube_subscribers": 19400,
    "youtube_subs_gain_7d": null
   },
   {
@@ -18568,8 +19044,8 @@
    "statut": "non_candidat",
    "note": "",
    "followers": null,
-   "youtube_views": null,
-   "youtube_subscribers": null,
+   "youtube_views": 0,
+   "youtube_subscribers": 0,
    "youtube_subs_gain_7d": null
   },
   {
@@ -18633,6 +19109,135 @@
    "name": "Nouvelle Énergie",
    "badge": "NE",
    "color": "#A0522D"
+  }
+ ],
+ "party_pages": [
+  {
+   "id": "rn",
+   "name": "Rassemblement national",
+   "platforms": {
+    "tiktok": 723700,
+    "instagram": 411000,
+    "facebook": 749000,
+    "youtube": 113000
+   },
+   "total": 1996700
+  },
+  {
+   "id": "lfi",
+   "name": "La France insoumise",
+   "platforms": {
+    "tiktok": 413100,
+    "instagram": 468000,
+    "facebook": 347000,
+    "youtube": 175000
+   },
+   "total": 1403100
+  },
+  {
+   "id": "re",
+   "name": "Renaissance",
+   "platforms": {
+    "tiktok": 37600,
+    "instagram": 125000,
+    "facebook": 277000,
+    "youtube": 31000
+   },
+   "total": 470600
+  },
+  {
+   "id": "ne",
+   "name": "Nouvelle Énergie",
+   "platforms": {
+    "tiktok": 35100,
+    "instagram": 167000,
+    "facebook": 160000,
+    "youtube": 4360
+   },
+   "total": 366460
+  },
+  {
+   "id": "lr",
+   "name": "Les Républicains",
+   "platforms": {
+    "tiktok": 15600,
+    "instagram": 82200,
+    "facebook": 221000,
+    "youtube": 25700
+   },
+   "total": 344500
+  },
+  {
+   "id": "pcf",
+   "name": "Parti communiste français",
+   "platforms": {
+    "tiktok": 50600,
+    "instagram": 59200,
+    "facebook": 153000,
+    "youtube": 67400
+   },
+   "total": 330200
+  },
+  {
+   "id": "ps",
+   "name": "Parti socialiste",
+   "platforms": {
+    "tiktok": 21200,
+    "instagram": 52200,
+    "facebook": 155000,
+    "youtube": 20400
+   },
+   "total": 248800
+  },
+  {
+   "id": "rec",
+   "name": "Reconquête",
+   "platforms": {
+    "tiktok": 18000,
+    "instagram": 71300,
+    "facebook": 73000,
+    "youtube": 5720
+   },
+   "total": 168020
+  },
+  {
+   "id": "hor",
+   "name": "Horizons",
+   "platforms": {
+    "tiktok": 27200,
+    "instagram": 51400,
+    "facebook": 72000
+   },
+   "total": 150600
+  },
+  {
+   "id": "pp",
+   "name": "Place publique",
+   "platforms": {
+    "instagram": 54500,
+    "facebook": 44000,
+    "youtube": 2930
+   },
+   "total": 101430
+  },
+  {
+   "id": "lo",
+   "name": "Lutte ouvrière",
+   "platforms": {
+    "tiktok": 5942,
+    "instagram": 18800,
+    "facebook": 12000,
+    "youtube": 5470
+   },
+   "total": 42212
+  },
+  {
+   "id": "dlf",
+   "name": "Debout la France",
+   "platforms": {
+    "facebook": 23000
+   },
+   "total": 23000
   }
  ],
  "interviews": [],
