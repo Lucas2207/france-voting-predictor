@@ -219,6 +219,7 @@ const sortTh = (key, label, align = 'text-left') =>
 /** Personnalités influentes non candidates : tableau triable, abonnés, audience YouTube et total par parti. */
 function renderInfluencers() {
   const rows = sortedInfluencers();
+  $('infCount').textContent = `(${rows.length})`;
   $('influencersTable').innerHTML = `<thead><tr class="text-[10px] uppercase tracking-wider text-slate-500 border-b border-slate-200">
       <th class="px-2 py-1 text-left">${t('inf.th.include')}</th>
       ${sortTh('name', t('influencers.th.person'))}${sortTh('party', t('influencers.th.party'))}${sortTh('status', t('influencers.th.status'))}
