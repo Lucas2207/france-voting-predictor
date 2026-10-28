@@ -120,17 +120,38 @@ def party_series(entries, party, dates, today):
     }
 
 
+def platform_series(entries, pid, platform, dates):
+    """Abonnés d'une personne sur un seul réseau, relevé par relevé (valeur valable CARRY_DAYS jours)."""
+    values = [latest_by_platform(entries, pid, _d(d)).get(platform) for d in dates]
+    first = next((v for v in values if v is not None), None)
+    return {
+        "id": pid,
+        "followers": values,
+        "change": [None if v is None or first is None else v - first for v in values],
+    }
+
+
 def build_followers(entries, candidates, parties, influencers, today):
-    """Séries d'abonnés pour les candidats, les partis et les personnalités influentes."""
+    """Séries d'abonnés pour les candidats, les partis et les personnalités influentes.
+
+    `by_platform` donne, pour chaque réseau, les séries des candidats et des personnalités.
+    """
     dates = sorted({e["date"] for e in entries})
     if not dates:
-        return {"dates": [], "candidates": [], "parties": [], "influencers": [], "platforms": PLATFORMS}
+        return {"dates": [], "candidates": [], "parties": [], "influencers": [], "by_platform": {}, "platforms": PLATFORMS}
     return {
         "dates": dates,
         "platforms": PLATFORMS,
         "candidates": [person_series(entries, c["id"], dates) for c in candidates],
         "parties": [party_series(entries, p, dates, today) for p in parties],
         "influencers": [person_series(entries, i["id"], dates) for i in influencers],
+        "by_platform": {
+            platform: {
+                "candidates": [platform_series(entries, c["id"], platform, dates) for c in candidates],
+                "influencers": [platform_series(entries, i["id"], platform, dates) for i in influencers],
+            }
+            for platform in PLATFORMS
+        },
     }
 
 

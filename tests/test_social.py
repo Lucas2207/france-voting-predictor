@@ -112,5 +112,18 @@ class XAccountsTest(unittest.TestCase):
         self.assertEqual(social.x_url("inconnu"), "")
 
 
+class PlatformSeriesTest(unittest.TestCase):
+    def test_series_per_network_keep_their_own_values(self):
+        from pipeline import social
+        entries = [e("lepen", "x", "2026-10-01", 100), e("lepen", "tiktok", "2026-10-01", 50),
+                   e("lepen", "x", "2026-10-08", 120)]
+        dates = ["2026-10-01", "2026-10-08"]
+        x = social.platform_series(entries, "lepen", "x", dates)
+        tk = social.platform_series(entries, "lepen", "tiktok", dates)
+        self.assertEqual(x["followers"], [100, 120])
+        self.assertEqual(x["change"], [0, 20])
+        self.assertEqual(tk["followers"], [50, 50])  # valeur reprise, pas de chute à zéro
+
+
 if __name__ == "__main__":
     unittest.main()

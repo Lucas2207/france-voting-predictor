@@ -1,5 +1,5 @@
 {
-  "_doc": "Comptes X (Twitter) des candidats et personnalités suivies. Sans @ ; l'URL est construite à partir du handle. Les abonnés se relèvent à la main (voir pipeline.social template). Un compte absent de cette liste n'est pas suivi sur X.",
+  "_doc": "Comptes X (Twitter) des candidats et personnalités (clé x) et des partis (clé x_parties), sans @. L'URL est construite à partir du handle. Les abonnés se relèvent à la main (pipeline.social template).",
   "x": {
     "lepen": "MarineLePen",
     "bardella": "J_Bardella",
@@ -14,6 +14,42 @@
     "roussel": "Fabien_Roussel",
     "tondelier": "marinetondelier",
     "lisnard": "davidlisnard",
-    "wauquiez": "laurentwauquiez"
+    "wauquiez": "laurentwauquiez",
+    "panot": "MathildePanot",
+    "bompard": "mbompard",
+    "guette": "Cleme_Guette",
+    "guiraud": "GuiraudInd",
+    "hassan": "RimaHas",
+    "faure": "faureolivier",
+    "hollande": "fhollande",
+    "delga": "CaroleDelga",
+    "arthaud": "n_arthaud",
+    "borne": "Elisabeth_Borne",
+    "sejourne": "steph_sejourne",
+    "legendre": "GillesLeGendre",
+    "naegelen": "ChNaegelen",
+    "villepin": "Arcturus_Prime",
+    "retailleau": "BrunoRetailleau",
+    "pecresse": "vpecresse",
+    "marechal": "MarionMarechal",
+    "chenu": "sebastienchenu",
+    "knafo": "sarahknafooff",
+    "meunier": "PhMeunier",
+    "philippot": "f_philippot"
+  },
+  "x_parties": {
+    "lfi": "FranceInsoumise",
+    "ps": "partisocialiste",
+    "ecologistes": "lesecologistes",
+    "pcf": "PCF",
+    "pp": "placepublique_",
+    "re": "Renaissance",
+    "modem": "MoDem",
+    "hor": "HorizonsLeParti",
+    "rn": "RNational_off",
+    "lr": "lesRepublicains",
+    "rec": "Reconquete_off",
+    "dlf": "DLF_Officiel",
+    "lp": "les_patriotes"
   }
 }

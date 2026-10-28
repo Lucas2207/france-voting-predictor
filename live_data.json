@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-10-28 10:37",
+ "last_updated": "2026-10-28 11:25",
  "today": "2026-10-28",
  "candidates": [
   {
@@ -14019,6 +14019,7 @@
   "candidates": [],
   "parties": [],
   "influencers": [],
+  "by_platform": {},
   "platforms": [
    "tiktok",
    "instagram",
@@ -16121,250 +16122,20 @@
    "youtube_views": 97288097,
    "youtube_subscribers": 355000,
    "youtube_subs_gain_7d": null
+  },
+  {
+   "id": "philippot",
+   "name": "Florian Philippot",
+   "party": "Les Patriotes",
+   "statut": "a_verifier",
+   "note": "Candidature non confirmée par les sources consultées (listes de candidats marginaux).",
+   "followers": null,
+   "youtube_views": null,
+   "youtube_subscribers": null,
+   "youtube_subs_gain_7d": null
   }
  ],
- "youtube_status": [
-  {
-   "id": "lepen",
-   "ok": true,
-   "title": "Marine Le Pen"
-  },
-  {
-   "id": "melenchon",
-   "ok": true,
-   "title": "JEAN-LUC MÉLENCHON"
-  },
-  {
-   "id": "philippe",
-   "ok": true,
-   "title": "Edouard Philippe"
-  },
-  {
-   "id": "glucksmann",
-   "ok": true,
-   "title": "Place publique"
-  },
-  {
-   "id": "attal",
-   "ok": true,
-   "title": "Gabriel Attal"
-  },
-  {
-   "id": "zemmour",
-   "ok": true,
-   "title": "Éric Zemmour"
-  },
-  {
-   "id": "retailleau",
-   "ok": true,
-   "title": "Bruno Retailleau"
-  },
-  {
-   "id": "lisnard",
-   "ok": true,
-   "title": "David Lisnard"
-  },
-  {
-   "id": "bardella",
-   "ok": true,
-   "title": "Jordan Bardella"
-  },
-  {
-   "id": "tondelier",
-   "ok": true,
-   "title": "Marine Tondelier"
-  },
-  {
-   "id": "roussel",
-   "ok": true,
-   "title": "Fabien Roussel"
-  },
-  {
-   "id": "dupontaignan",
-   "ok": true,
-   "title": "Nicolas Dupont-Aignan"
-  },
-  {
-   "id": "arthaud",
-   "ok": true,
-   "title": "Nathalie Arthaud"
-  },
-  {
-   "id": "villepin",
-   "ok": true,
-   "title": "Dominique de Villepin"
-  },
-  {
-   "id": "hollande",
-   "ok": false,
-   "error": "handle non renseigné"
-  },
-  {
-   "id": "ruffin",
-   "ok": true,
-   "title": "FRANÇOIS RUFFIN"
-  },
-  {
-   "id": "knafo",
-   "ok": true,
-   "title": "Sarah Knafo"
-  },
-  {
-   "id": "marechal",
-   "ok": true,
-   "title": "Marion Maréchal"
-  },
-  {
-   "id": "chenu",
-   "ok": false,
-   "error": "handle non renseigné"
-  },
-  {
-   "id": "hassan",
-   "ok": true,
-   "title": "Rima Hassan"
-  },
-  {
-   "id": "guiraud",
-   "ok": true,
-   "title": "David Guiraud"
-  },
-  {
-   "id": "guette",
-   "ok": true,
-   "title": "Clémence Guetté"
-  },
-  {
-   "id": "bompard",
-   "ok": true,
-   "title": "Manuel Bompard"
-  },
-  {
-   "id": "legendre",
-   "ok": false,
-   "error": "handle non renseigné"
-  },
-  {
-   "id": "naegelen",
-   "ok": false,
-   "error": "handle non renseigné"
-  },
-  {
-   "id": "borne",
-   "ok": false,
-   "error": "handle non renseigné"
-  },
-  {
-   "id": "darmanin",
-   "ok": true,
-   "title": "Gérald DARMANIN"
-  },
-  {
-   "id": "sejourne",
-   "ok": false,
-   "error": "handle non renseigné"
-  },
-  {
-   "id": "faure",
-   "ok": true,
-   "title": "Olivier Faure"
-  },
-  {
-   "id": "delga",
-   "ok": true,
-   "title": "La République En Commun"
-  },
-  {
-   "id": "wauquiez",
-   "ok": true,
-   "title": "Laurent Wauquiez"
-  },
-  {
-   "id": "pecresse",
-   "ok": true,
-   "title": "Valérie Pécresse"
-  },
-  {
-   "id": "meunier",
-   "ok": false,
-   "error": "handle non renseigné"
-  },
-  {
-   "id": "media-bfmtv",
-   "ok": true,
-   "title": "BFMTV"
-  },
-  {
-   "id": "media-franceinfo",
-   "ok": true,
-   "title": "franceinfo"
-  },
-  {
-   "id": "media-tf1info",
-   "ok": true,
-   "title": "TF1"
-  },
-  {
-   "id": "media-lci",
-   "ok": true,
-   "title": "LCI"
-  },
-  {
-   "id": "media-cnews",
-   "ok": true,
-   "title": "CNEWS"
-  },
-  {
-   "id": "media-m6info",
-   "ok": true,
-   "title": "M6 Info"
-  },
-  {
-   "id": "media-francetelevisions",
-   "ok": true,
-   "title": "France Télévisions"
-  },
-  {
-   "id": "media-france-inter",
-   "ok": true,
-   "title": "France Inter"
-  },
-  {
-   "id": "media-europe1",
-   "ok": true,
-   "title": "Europe 1"
-  },
-  {
-   "id": "media-radionova",
-   "ok": true,
-   "title": "Radio Nova"
-  },
-  {
-   "id": "media-lemonde",
-   "ok": true,
-   "title": "Le Monde"
-  },
-  {
-   "id": "media-mediapart",
-   "ok": true,
-   "title": "Mediapart"
-  },
-  {
-   "id": "media-leparisien",
-   "ok": true,
-   "title": "Le Parisien"
-  },
-  {
-   "id": "media-w9",
-   "ok": true,
-   "title": "W9"
-  },
-  {
-   "id": "panot",
-   "ok": true,
-   "title": "Mathilde Panot"
-  }
- ],
+ "youtube_status": [],
  "parties": [
   {
    "id": "rn",

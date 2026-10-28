@@ -14,7 +14,8 @@
  * @typedef {{ polls?: string, polls_fetched?: string, feeds: FeedStatus[], articles_total: number, articles_analysed: number, media_since: string | null }} Sources
  * @typedef {{ id: string, followers: (number | null)[], change: (number | null)[], latest_by_platform: Record<string, number> }} PersonSeries
  * @typedef {{ id: string, members: string[], followers: (number | null)[], change: (number | null)[] }} PartySeries
- * @typedef {{ dates: string[], platforms: string[], candidates: PersonSeries[], parties: PartySeries[], influencers: PersonSeries[] }} Followers
+ * @typedef {{ id: string, followers: (number | null)[], change: (number | null)[] }} NetworkSeries
+ * @typedef {{ dates: string[], platforms: string[], candidates: PersonSeries[], parties: PartySeries[], influencers: PersonSeries[], by_platform: Record<string, { candidates: NetworkSeries[], influencers: NetworkSeries[] }> }} Followers
  * @typedef {{ date: string, candidate: string, channel: string, show: string | null, audience_viewers: number | null, audience_share: number | null, source: SourceLink }} Interview
  * @typedef {Record<string, { count: number, avg_viewers: number | null, avg_share: number | null }>} InterviewSummary
  * @typedef {{ id: string, name: string, color: string | null, group?: string | null, views: (number | null)[], change: (number | null)[], subscribers: (number | null)[], latest: { date: string, views: number, subscribers: number | null, videos: number, title: string } | null }} YouTubeSeries
@@ -279,6 +280,7 @@ function wireInfluencerControls() {
     if (!t.dataset.inf) return;
     if (t.checked) influencerIncluded.add(t.dataset.inf); else influencerIncluded.delete(t.dataset.inf);
     renderInfluencers();
+    renderPlatformCharts();
   });
 }
 
@@ -339,11 +341,56 @@ function buildPicker() {
 }
 
 function renderAll() {
+  renderPlatformCharts();
   renderPollChart();
   renderMediaChart();
   renderFollowers();
   renderYouTube();
   renderInterviews();
+}
+
+/** Un graphique d'abonnés par réseau : candidats cochés et personnalités cochées dans le tableau. */
+function renderPlatformCharts() {
+  const f = data.followers;
+  const box = $('platformCharts');
+  Object.keys(charts).filter(k => k.startsWith('plat_')).forEach(k => { charts[k].destroy(); delete charts[k]; });
+  if (!f || f.dates.length === 0) {
+    box.innerHTML = `<p class="text-xs text-slate-400">${t('followers.none')}</p>`;
+    return;
+  }
+  const change = followersMode === 'change';
+  const influencerColor = (/** @type {string} */ id) => {
+    const inf = (data.influencers || []).find(i => i.id === id);
+    const party = inf && partyById[inf.party];
+    return party ? party.color : '#64748B';
+  };
+  box.innerHTML = f.platforms.map(p => `<div class="space-y-2">
+      <h4 class="text-xs font-bold text-slate-700">${t('followers.platform', { name: esc(p) })}</h4>
+      <div class="relative h-[260px] w-full"><canvas id="plat_${esc(p)}" role="img" aria-label="${esc(p)}"></canvas></div>
+    </div>`).join('');
+  f.platforms.forEach(p => {
+    const net = (f.by_platform && f.by_platform[p]) || { candidates: [], influencers: [] };
+    /** @type {any[]} */
+    const sets = [];
+    net.candidates.filter(s => selected.has(`cand:${s.id}`)).forEach(s => {
+      const values = change ? s.change : s.followers;
+      if (values.every(v => v == null)) return;
+      sets.push({ label: candById[s.id].name, data: values, borderColor: candById[s.id].color, backgroundColor: candById[s.id].color,
+                  borderWidth: 2.5, pointRadius: f.dates.length < 10 ? 4 : 0, pointHoverRadius: 5, tension: 0.2, spanGaps: true });
+    });
+    net.influencers.filter(s => influencerIncluded.has(s.id)).forEach(s => {
+      const values = change ? s.change : s.followers;
+      if (values.every(v => v == null)) return;
+      const color = influencerColor(s.id);
+      const inf = (data.influencers || []).find(i => i.id === s.id);
+      sets.push({ label: inf ? inf.name : s.id, data: values, borderColor: color, backgroundColor: color,
+                  borderWidth: 2, pointRadius: f.dates.length < 10 ? 4 : 0, pointHoverRadius: 5, tension: 0.2, spanGaps: true });
+    });
+    const labelFmt = change ? (/** @type {number} */ v) => `${v > 0 ? '+' : ''}${compact(v)}` : compact;
+    charts[`plat_${p}`] = new Chart(canvas(`plat_${p}`), { type: 'line', data: { labels: f.dates, datasets: sets },
+      options: lineOptions('', { legend: true, tickFormat: labelFmt,
+        tooltipLabel: (/** @type {any} */ item) => ` ${item.dataset.label} : ${change ? signed(item.parsed.y, 0) : fmt(item.parsed.y, 0)}` }) });
+  });
 }
 
 /** Vues YouTube des candidats et des médias cochés. */
