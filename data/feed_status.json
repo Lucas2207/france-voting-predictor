@@ -81,8 +81,8 @@
  },
  {
   "outlet": "Valeurs actuelles",
-  "ok": false,
-  "error": "503 Server Error: Service Unavailable for url: https://www.valeursactuelles.com/feed?post_type=post&taxonomy_name=politique"
+  "ok": true,
+  "items": 10
  },
  {
   "outlet": "CNews",
@@ -102,7 +102,7 @@
  {
   "outlet": "France Culture",
   "ok": true,
-  "items": 19
+  "items": 20
  },
  {
   "outlet": "Europe 1",
@@ -127,7 +127,7 @@
  {
   "outlet": "Google Actualités (recherche par candidat)",
   "ok": true,
-  "items": 3221,
+  "items": 3008,
   "error": null
  }
 ]
