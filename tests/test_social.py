@@ -34,11 +34,23 @@ class FollowersTest(unittest.TestCase):
         self.assertEqual(len(entries), 1)
         self.assertEqual(entries[0]["followers"], 130)
 
-    def test_series_change_is_relative_to_first_observation(self):
+    def test_month_change_is_relative_to_first_reading_of_the_month(self):
         entries = [e("lepen", "x", "2026-10-01", 100), e("lepen", "x", "2026-10-08", 90)]
-        s = social.person_series(entries, "lepen", ["2026-10-01", "2026-10-08"])
+        s = social.person_series(entries, "lepen", ["2026-10-01", "2026-10-08"], date(2026, 10, 8))
         self.assertEqual(s["followers"], [100, 90])
-        self.assertEqual(s["change"], [0, -10])
+        self.assertEqual(s["change_month"], [0, -10])
+        self.assertEqual(s["change_week"], [None, -10])  # semaine du 5 octobre : base = relevé du 1er
+
+    def test_platform_added_later_is_not_a_gain(self):
+        entries = [e("lepen", "x", "2026-10-28", 100), e("lepen", "facebook", "2026-10-30", 500)]
+        s = social.person_series(entries, "lepen", ["2026-10-28", "2026-10-30"])
+        self.assertEqual(s["followers"], [None, 600])  # pas de total avant le relevé Facebook : pas de palier
+        self.assertEqual(s["change_week"], [0, 0])
+
+    def test_import_skips_unchanged_reading(self):
+        entries = [e("lepen", "x", "2026-10-28", 100)]
+        self.assertEqual(social.last_reading(entries, "lepen", "x", "2026-10-30"), 100)
+        self.assertIsNone(social.last_reading(entries, "lepen", "facebook", "2026-10-30"))
 
     def test_party_sums_only_top_five_members(self):
         members = [{"id": f"m{i}"} for i in range(7)]
@@ -122,7 +134,7 @@ class PlatformSeriesTest(unittest.TestCase):
         x = social.platform_series(entries, "lepen", "x", dates)
         tk = social.platform_series(entries, "lepen", "tiktok", dates)
         self.assertEqual(x["followers"], [100, 120])
-        self.assertEqual(x["change"], [0, 20])
+        self.assertEqual(x["change_month"], [0, 20])
         self.assertEqual(tk["followers"], [50, 50])  # valeur reprise, pas de chute à zéro
 
 

@@ -13,7 +13,7 @@ import csv
 import json
 import re
 import sys
-from datetime import date
+from datetime import date, timedelta
 from pathlib import Path
 
 PLATFORMS = ["tiktok", "instagram", "x", "facebook"]
@@ -62,6 +62,12 @@ def add_entry(entries, entry):
     return sorted(kept, key=lambda e: (e["date"], e["id"], e["platform"]))
 
 
+def last_reading(entries, pid, platform, before):
+    """Dernier abonné relevé pour (personne, plateforme) avant la date `before`, sans limite d'âge."""
+    earlier = [e for e in entries if e["id"] == pid and e["platform"] == platform and e["date"] < before]
+    return max(earlier, key=lambda e: e["date"])["followers"] if earlier else None
+
+
 def latest_by_platform(entries, pid, on):
     """Dernier relevé de chaque plateforme valable à la date `on`."""
     out = {}
@@ -77,8 +83,15 @@ def latest_by_platform(entries, pid, on):
 
 
 def total(entries, pid, on):
+    """Total des abonnés tous réseaux. Pas de total tant qu'un réseau déjà relevé n'a pas de valeur valable :
+    un réseau relevé pour la première fois ne doit pas faire apparaître un palier dans la courbe."""
     values = latest_by_platform(entries, pid, on)
-    return sum(values.values()) if values else None
+    if not values:
+        return None
+    known = {e["platform"] for e in entries if e["id"] == pid}
+    if not known <= set(values):
+        return None
+    return sum(values.values())
 
 
 def top_members(entries, members, on):
@@ -92,13 +105,54 @@ def top_members(entries, members, on):
     return [m for _, m in scored[:TOP_MEMBERS]]
 
 
-def person_series(entries, pid, dates):
-    values = [total(entries, pid, _d(d)) for d in dates]
-    first = next((v for v in values if v is not None), None)
+def period_start(today, period):
+    """Premier jour de la semaine (lundi) ou du mois de `today`."""
+    return today - timedelta(days=today.weekday()) if period == "week" else today.replace(day=1)
+
+
+def period_gains(entries, pid, dates, start, platform=None):
+    """Gain ou perte depuis le début de la période `start`, réseau par réseau.
+
+    Base de chaque réseau : son dernier relevé avant `start`, sinon son premier relevé pendant la période.
+    Un réseau sans base n'entre pas dans le gain : un réseau ajouté en cours de route ne compte pas comme une hausse.
+    Les dates antérieures à `start` ne sont pas calculées.
+    """
+    mine = [e for e in entries if e["id"] == pid and (platform is None or e["platform"] == platform)]
+    base = {}
+    for p in {e["platform"] for e in mine}:
+        readings = sorted((e for e in mine if e["platform"] == p), key=lambda e: e["date"])
+        before = [e for e in readings if _d(e["date"]) < start]
+        after = [e for e in readings if _d(e["date"]) >= start]
+        if before:
+            base[p] = before[-1]["followers"]
+        elif after:
+            base[p] = after[0]["followers"]
+    out = []
+    for d in dates:
+        day = _d(d)
+        if day < start:
+            out.append(None)
+            continue
+        values = latest_by_platform(entries, pid, day)
+        parts = [v - base[p] for p, v in values.items() if p in base and (platform is None or p == platform)]
+        out.append(sum(parts) if parts else None)
+    return out
+
+
+def period_changes(entries, pid, dates, today, platform=None):
+    """Gains de la semaine en cours et du mois en cours (voir period_gains)."""
+    return {
+        "change_week": period_gains(entries, pid, dates, period_start(today, "week"), platform),
+        "change_month": period_gains(entries, pid, dates, period_start(today, "month"), platform),
+    }
+
+
+def person_series(entries, pid, dates, today=None):
+    today = today or _d(dates[-1])
     return {
         "id": pid,
-        "followers": values,
-        "change": [None if v is None or first is None else v - first for v in values],
+        "followers": [total(entries, pid, _d(d)) for d in dates],
+        **period_changes(entries, pid, dates, today),
         "latest_by_platform": latest_by_platform(entries, pid, _d(dates[-1])) if dates else {},
     }
 
@@ -111,23 +165,24 @@ def party_series(entries, party, dates, today):
         parts = [total(entries, m["id"], day) for m in members]
         parts = [p for p in parts if p is not None]
         values.append(sum(parts) if parts else None)
-    first = next((v for v in values if v is not None), None)
-    return {
-        "id": party["id"],
-        "members": [m["id"] for m in members],
-        "followers": values,
-        "change": [None if v is None or first is None else v - first for v in values],
-    }
+    member_changes = {m["id"]: period_changes(entries, m["id"], dates, today) for m in members}
+    out = {"id": party["id"], "members": [m["id"] for m in members], "followers": values}
+    for key in ("change_week", "change_month"):
+        summed = []
+        for i in range(len(dates)):
+            gs = [member_changes[m["id"]][key][i] for m in members if member_changes[m["id"]][key][i] is not None]
+            summed.append(sum(gs) if gs else None)
+        out[key] = summed
+    return out
 
 
-def platform_series(entries, pid, platform, dates):
+def platform_series(entries, pid, platform, dates, today=None):
     """Abonnés d'une personne sur un seul réseau, relevé par relevé (valeur valable CARRY_DAYS jours)."""
-    values = [latest_by_platform(entries, pid, _d(d)).get(platform) for d in dates]
-    first = next((v for v in values if v is not None), None)
+    today = today or _d(dates[-1])
     return {
         "id": pid,
-        "followers": values,
-        "change": [None if v is None or first is None else v - first for v in values],
+        "followers": [latest_by_platform(entries, pid, _d(d)).get(platform) for d in dates],
+        **period_changes(entries, pid, dates, today, platform),
     }
 
 
@@ -142,13 +197,13 @@ def build_followers(entries, candidates, parties, influencers, today):
     return {
         "dates": dates,
         "platforms": PLATFORMS,
-        "candidates": [person_series(entries, c["id"], dates) for c in candidates],
+        "candidates": [person_series(entries, c["id"], dates, today) for c in candidates],
         "parties": [party_series(entries, p, dates, today) for p in parties],
-        "influencers": [person_series(entries, i["id"], dates) for i in influencers],
+        "influencers": [person_series(entries, i["id"], dates, today) for i in influencers],
         "by_platform": {
             platform: {
-                "candidates": [platform_series(entries, c["id"], platform, dates) for c in candidates],
-                "influencers": [platform_series(entries, i["id"], platform, dates) for i in influencers],
+                "candidates": [platform_series(entries, c["id"], platform, dates, today) for c in candidates],
+                "influencers": [platform_series(entries, i["id"], platform, dates, today) for i in influencers],
             }
             for platform in PLATFORMS
         },
@@ -254,7 +309,7 @@ def _cli_import(args):
     path = Path("data/followers.json")
     doc = load_json(path, {"entries": []})
     entries = doc.get("entries", [])
-    accepted, skipped, errors = 0, 0, []
+    accepted, skipped, unchanged, errors = 0, 0, 0, []
     with open(args.file, encoding="utf-8-sig", newline="") as f:
         for n, row in enumerate(csv.DictReader(f, delimiter=";"), start=2):
             raw = (row.get("abonnes") or "").strip()
@@ -272,6 +327,9 @@ def _cli_import(args):
             if problems:
                 errors.append(f"ligne {n} : " + "; ".join(problems))
                 continue
+            if last_reading(entries, entry["id"], entry["platform"], args.date) == followers:
+                unchanged += 1
+                continue
             entries = add_entry(entries, entry)
             accepted += 1
     if errors:
@@ -279,7 +337,8 @@ def _cli_import(args):
     if accepted:
         doc["entries"] = entries
         save_json(path, doc)
-    print(f"✅ {accepted} relevé(s) importé(s) au {args.date}, {skipped} ligne(s) vide(s) ignorée(s), {len(errors)} refusée(s).")
+    print(f"✅ {accepted} relevé(s) importé(s) au {args.date}, {unchanged} inchangé(s) ignoré(s), "
+          f"{skipped} ligne(s) vide(s) ignorée(s), {len(errors)} refusée(s).")
     return 1 if errors else 0
 
 

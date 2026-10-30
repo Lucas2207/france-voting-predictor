@@ -108,41 +108,14 @@
     </section>
 
     <div id="charts" class="scroll-mt-28"></div>
-    <!-- Choix des entités affichées -->
-    <section class="bg-white p-5 rounded-2xl shadow-sm border border-slate-200 space-y-3" id="pickerPanel">
-      <div class="flex flex-wrap items-center justify-between gap-2">
-        <h2 class="text-xs font-bold text-slate-500 uppercase tracking-wider" data-i18n="picker.title">Entités affichées dans les graphiques</h2>
-        <div class="flex gap-2">
-          <button data-preset="main" class="px-3 py-1.5 rounded-lg focus-visible:outline focus-visible:outline-2 focus-visible:outline-indigo-600 bg-slate-100 hover:bg-slate-200 text-xs font-bold text-slate-700" data-i18n="picker.main">Principaux</button>
-          <button data-preset="all" class="px-3 py-1.5 rounded-lg focus-visible:outline focus-visible:outline-2 focus-visible:outline-indigo-600 bg-slate-100 hover:bg-slate-200 text-xs font-bold text-slate-700" data-i18n="picker.all">Tout</button>
-          <button data-preset="none" class="px-3 py-1.5 rounded-lg focus-visible:outline focus-visible:outline-2 focus-visible:outline-indigo-600 bg-slate-100 hover:bg-slate-200 text-xs font-bold text-slate-700" data-i18n="picker.none">Aucun</button>
-        </div>
-      </div>
-      <div class="grid md:grid-cols-3 gap-6">
-        <div>
-          <p class="text-[11px] font-bold text-slate-400 uppercase tracking-wider mb-2" data-i18n="picker.candidates">Candidats</p>
-          <div id="pickerCandidates" class="grid grid-cols-2 lg:grid-cols-3 gap-x-4 gap-y-2"></div>
-        </div>
-        <div>
-          <p class="text-[11px] font-bold text-slate-400 uppercase tracking-wider mb-2" data-i18n="picker.parties">Partis</p>
-          <div id="pickerParties" class="grid grid-cols-2 gap-x-4 gap-y-2"></div>
-        </div>
-        <div>
-          <p class="text-[11px] font-bold text-slate-400 uppercase tracking-wider mb-2" data-i18n="picker.media">Médias (YouTube)</p>
-          <div id="pickerMedia" class="grid grid-cols-2 gap-x-4 gap-y-2"></div>
-        </div>
-      </div>
-      <p class="text-[11px] text-slate-400" data-i18n="colour.legend">Bleu : hausse ou tonalité favorable · Rouge : baisse ou tonalité défavorable.</p>
-      <p class="text-[11px] text-slate-400" data-i18n="picker.help">Cocher ou décocher une entité met à jour tous les graphiques. Pour isoler une courbe, décochez les autres.</p>
-    </section>
-
     <!-- Graphiques -->
-    <div class="grid grid-cols-1 lg:grid-cols-2 gap-6">
+    <div class="grid grid-cols-1 gap-6">
       <div class="bg-white rounded-2xl p-6 shadow-sm border border-slate-200 space-y-4">
         <div>
           <h2 class="text-base font-bold text-slate-900" data-i18n="poll.title">Moyenne des sondages (%)</h2>
           <p class="text-[11px] text-slate-500" data-i18n="poll.help">Moyenne pondérée des derniers sondages de chaque institut (30 jours glissants).</p>
         </div>
+        <div id="pick-pollChart"></div>
         <div class="relative h-[420px] w-full"><canvas id="pollChart" role="img" data-i18n-attr="aria-label:chart.poll"></canvas></div>
       </div>
       <div class="bg-white rounded-2xl p-6 shadow-sm border border-slate-200 space-y-4">
@@ -150,6 +123,7 @@
           <h2 class="text-base font-bold text-slate-900" data-i18n="media.title">Couverture médiatique (articles par jour)</h2>
           <p class="text-[11px] text-slate-500" id="mediaChartNote" data-i18n="media.help">Articles des flux RSS qui traitent du candidat, selon l'analyse de Claude.</p>
         </div>
+        <div id="pick-mediaChart"></div>
         <div class="relative h-[420px] w-full"><canvas id="mediaChart" role="img" data-i18n-attr="aria-label:chart.media"></canvas></div>
       </div>
     </div>
@@ -184,17 +158,20 @@
         </div>
         <div class="flex gap-2 text-xs">
           <button data-toggle="followers:total" class="px-3 py-1.5 rounded-lg focus-visible:outline focus-visible:outline-2 focus-visible:outline-indigo-600 bg-indigo-600 text-white font-bold" data-i18n="followers.total">Abonnés cumulés</button>
-          <button data-toggle="followers:change" class="px-3 py-1.5 rounded-lg focus-visible:outline focus-visible:outline-2 focus-visible:outline-indigo-600 bg-slate-100 text-slate-700 font-bold" data-i18n="followers.change">Gain / perte depuis le 1er relevé</button>
+          <button data-toggle="followers:week" class="px-3 py-1.5 rounded-lg focus-visible:outline focus-visible:outline-2 focus-visible:outline-indigo-600 bg-slate-100 text-slate-700 font-bold" data-i18n="followers.week">Gain cette semaine</button>
+          <button data-toggle="followers:month" class="px-3 py-1.5 rounded-lg focus-visible:outline focus-visible:outline-2 focus-visible:outline-indigo-600 bg-slate-100 text-slate-700 font-bold" data-i18n="followers.month">Gain du mois</button>
         </div>
       </div>
       <div class="grid grid-cols-1 lg:grid-cols-2 gap-6">
         <div class="space-y-2">
           <h3 class="text-sm font-bold text-slate-800" data-i18n="followers.candidates">Candidats</h3>
+          <div id="pick-followersCandChart"></div>
           <div class="relative h-[340px] w-full"><canvas id="followersCandChart" role="img" data-i18n-attr="aria-label:chart.followers"></canvas></div>
         </div>
         <div class="space-y-2">
           <h3 class="text-sm font-bold text-slate-800" data-i18n="followers.parties">Partis</h3>
           <p class="text-[11px] text-slate-500" id="followersPartyNote"></p>
+          <div id="pick-followersPartyChart"></div>
           <div class="relative h-[340px] w-full"><canvas id="followersPartyChart" role="img" data-i18n-attr="aria-label:chart.followers"></canvas></div>
         </div>
       </div>
@@ -229,14 +206,17 @@
       <div class="grid grid-cols-1 lg:grid-cols-2 gap-6">
         <div class="space-y-2">
           <h3 class="text-sm font-bold text-slate-800" data-i18n="youtube.candidates">Candidats</h3>
+          <div id="pick-ytCandChart"></div>
           <div class="relative h-[340px] w-full"><canvas id="ytCandChart" role="img" data-i18n-attr="aria-label:chart.youtube"></canvas></div>
         </div>
         <div class="space-y-2">
           <h3 class="text-sm font-bold text-slate-800" data-i18n="youtube.tv">Télévisions et radios</h3>
+          <div id="pick-ytMediaTvChart"></div>
           <div class="relative h-[340px] w-full"><canvas id="ytMediaTvChart" role="img" data-i18n-attr="aria-label:chart.youtube"></canvas></div>
         </div>
         <div class="space-y-2">
           <h3 class="text-sm font-bold text-slate-800" data-i18n="youtube.press">Presse</h3>
+          <div id="pick-ytMediaPresseChart"></div>
           <div class="relative h-[340px] w-full"><canvas id="ytMediaPresseChart" role="img" data-i18n-attr="aria-label:chart.youtube"></canvas></div>
         </div>
       </div>
@@ -281,6 +261,7 @@
           <button data-toggle="interview:share" class="px-3 py-1.5 rounded-lg focus-visible:outline focus-visible:outline-2 focus-visible:outline-indigo-600 bg-slate-100 text-slate-700 font-bold" data-i18n="interview.share">Part d'audience</button>
         </div>
       </div>
+      <div id="pick-interviewChart"></div>
       <div class="relative h-[340px] w-full"><canvas id="interviewChart" role="img" data-i18n-attr="aria-label:chart.interview"></canvas></div>
       <div class="overflow-x-auto"><table class="w-full text-xs num" id="interviewSummary"></table></div>
       <div class="space-y-2">

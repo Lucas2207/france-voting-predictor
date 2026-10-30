@@ -12,9 +12,9 @@
  * @typedef {{ date: string, title: string, description: string, category: string, candidates: string[], origin: 'presse' | 'wikipedia', sources: SourceLink[] }} CampaignEvent
  * @typedef {{ outlet: string, ok: boolean, lean?: string, items?: number, error?: string }} FeedStatus
  * @typedef {{ polls?: string, polls_fetched?: string, feeds: FeedStatus[], articles_total: number, articles_analysed: number, media_since: string | null }} Sources
- * @typedef {{ id: string, followers: (number | null)[], change: (number | null)[], latest_by_platform: Record<string, number> }} PersonSeries
- * @typedef {{ id: string, members: string[], followers: (number | null)[], change: (number | null)[] }} PartySeries
- * @typedef {{ id: string, followers: (number | null)[], change: (number | null)[] }} NetworkSeries
+ * @typedef {{ id: string, followers: (number | null)[], change_week: (number | null)[], change_month: (number | null)[], latest_by_platform: Record<string, number> }} PersonSeries
+ * @typedef {{ id: string, members: string[], followers: (number | null)[], change_week: (number | null)[], change_month: (number | null)[] }} PartySeries
+ * @typedef {{ id: string, followers: (number | null)[], change_week: (number | null)[], change_month: (number | null)[] }} NetworkSeries
  * @typedef {{ dates: string[], platforms: string[], candidates: PersonSeries[], parties: PartySeries[], influencers: PersonSeries[], by_platform: Record<string, { candidates: NetworkSeries[], influencers: NetworkSeries[] }> }} Followers
  * @typedef {{ date: string, candidate: string, channel: string, show: string | null, audience_viewers: number | null, audience_share: number | null, source: SourceLink }} Interview
  * @typedef {Record<string, { count: number, avg_viewers: number | null, avg_share: number | null }>} InterviewSummary
@@ -37,10 +37,24 @@ let partyById = {};
 /** @type {Record<string, any>} */
 const charts = {};
 
-/** Clés « cand:<id> », « party:<id> » et « media:<id> » des entités cochées. */
-/** @type {Set<string>} */
-const selected = new Set();
-/** @type {'total' | 'change'} */
+/**
+ * Gain de la période affichée (semaine ou mois en cours) pour une série d'abonnés.
+ * @param {{ change_week: (number | null)[], change_month: (number | null)[] }} s
+ * @returns {(number | null)[]}
+ */
+function gainOf(s) {
+  return followersMode === 'month' ? s.change_month : s.change_week;
+}
+
+/** Entités cochées, graphique par graphique. Clés : « cand:<id> », « party:<id> », « media:<id> », « inf:<id> ». */
+/** @type {Record<string, Set<string>>} */
+const chartSel = {};
+/** Options de chaque graphique et entités cochées par défaut (raccourci « Principaux »). */
+/** @type {Record<string, { options: { key: string, label: string, color: string, badge: string }[], isMain: (key: string) => boolean }>} */
+const chartOpts = {};
+/** Graphiques de la section YouTube (la table reprend les entités cochées dans l'un d'eux). */
+const YT_CHARTS = ['ytCandChart', 'ytMediaTvChart', 'ytMediaPresseChart'];
+/** @type {'total' | 'week' | 'month'} */
 let followersMode = 'total';
 /** @type {'viewers' | 'share'} */
 let interviewMetric = 'viewers';
@@ -107,12 +121,9 @@ async function init() {
   data.candidates.forEach(c => { candById[c.id] = c; });
   (data.parties || []).forEach(p => { partyById[p.id] = p; });
 
-  // Sélection initiale : les candidats principaux et tous les partis
-  data.candidates.filter(c => c.main).forEach(c => selected.add(`cand:${c.id}`));
-  (data.parties || []).forEach(p => selected.add(`party:${p.id}`));
-  buildPicker();
   (data.influencers || []).forEach(i => influencerIncluded.add(i.id));
   wireInfluencerControls();
+  buildPickers();
 
   renderEverything();
 }
@@ -301,52 +312,145 @@ function wireInfluencerControls() {
   });
 }
 
-/** @param {string} key @param {string} label @param {string} color @param {string} badge */
-function checkbox(key, label, color, badge) {
-  const on = selected.has(key) ? 'checked' : '';
+/** @param {string} chart @returns {Set<string>} */
+function picked(chart) {
+  return chartSel[chart] || new Set();
+}
+
+/**
+ * @param {string} chart
+ * @param {string} key
+ * @param {string} label
+ * @param {string} color
+ * @param {string} badge
+ */
+function checkbox(chart, key, label, color, badge) {
+  const on = picked(chart).has(key) ? 'checked' : '';
   return `<label class="flex items-center gap-2 text-xs font-semibold text-slate-700 cursor-pointer hover:text-slate-900">
-    <input type="checkbox" data-key="${esc(key)}" class="rounded border-slate-300 text-indigo-600 focus:ring-indigo-500" ${on}>
+    <input type="checkbox" data-chart="${esc(chart)}" data-key="${esc(key)}" class="rounded border-slate-300 text-indigo-600 focus:ring-indigo-500" ${on}>
     <span class="inline-block w-2.5 h-2.5 rounded-full" style="background:${esc(color)}" aria-hidden="true"></span>
     <span>${esc(label)}</span><span class="text-[10px] text-slate-400">${esc(badge)}</span></label>`;
 }
 
-function buildPicker() {
-  $('pickerCandidates').innerHTML = data.candidates.map(c => checkbox(`cand:${c.id}`, c.name, c.color, c.badge)).join('');
-  $('pickerParties').innerHTML = (data.parties || []).map(p => checkbox(`party:${p.id}`, p.name, p.color, p.badge)).join('');
-  $('pickerMedia').innerHTML = ((data.youtube && data.youtube.media) || []).map(m => checkbox(`media:${m.id}`, m.name, m.color || '#64748B', 'YT')).join('');
-  $('pickerPanel').addEventListener('change', (ev) => {
-    const t = ev.target;
-    if (!(t instanceof HTMLInputElement) || !t.dataset.key) return;
-    if (t.checked) selected.add(t.dataset.key); else selected.delete(t.dataset.key);
+/**
+ * Sélecteur propre à un graphique : une case par entité, et trois raccourcis.
+ * @param {string} chart
+ * @param {{ key: string, label: string, color: string, badge: string }[]} options
+ * @param {(key: string) => boolean} isMain entités cochées par défaut
+ */
+function chartPicker(chart, options, isMain) {
+  chartOpts[chart] = { options, isMain };
+  if (!chartSel[chart]) chartSel[chart] = new Set(options.filter(o => isMain(o.key)).map(o => o.key));
+  return `<div class="space-y-2">
+    <div class="flex flex-wrap gap-x-4 gap-y-2">${options.map(o => checkbox(chart, o.key, o.label, o.color, o.badge)).join('')}</div>
+    <div class="flex gap-2 text-[11px]">
+      <button type="button" data-chart="${esc(chart)}" data-chart-preset="main" class="px-2.5 py-1 rounded-lg bg-slate-100 hover:bg-slate-200 font-bold text-slate-700" data-i18n="picker.main">Principaux</button>
+      <button type="button" data-chart="${esc(chart)}" data-chart-preset="all" class="px-2.5 py-1 rounded-lg bg-slate-100 hover:bg-slate-200 font-bold text-slate-700" data-i18n="picker.all">Tout</button>
+      <button type="button" data-chart="${esc(chart)}" data-chart-preset="none" class="px-2.5 py-1 rounded-lg bg-slate-100 hover:bg-slate-200 font-bold text-slate-700" data-i18n="picker.none">Aucun</button>
+    </div>
+  </div>`;
+}
+
+/** @returns {{ key: string, label: string, color: string, badge: string }[]} */
+function candidateOptions() {
+  return data.candidates.map(c => ({ key: `cand:${c.id}`, label: c.name, color: c.color, badge: c.badge }));
+}
+
+/** @returns {{ key: string, label: string, color: string, badge: string }[]} */
+function partyOptions() {
+  return (data.parties || []).map(p => ({ key: `party:${p.id}`, label: p.name, color: p.color, badge: p.badge }));
+}
+
+/**
+ * @param {string[]} groups
+ * @returns {{ key: string, label: string, color: string, badge: string }[]}
+ */
+function mediaOptions(groups) {
+  return ((data.youtube && data.youtube.media) || []).filter(m => groups.includes(m.group || ''))
+    .map(m => ({ key: `media:${m.id}`, label: m.name, color: m.color || '#64748B', badge: 'YT' }));
+}
+
+/** @returns {{ key: string, label: string, color: string, badge: string }[]} */
+function influencerOptions() {
+  return (data.influencers || []).map(i => {
+    const party = partyById[i.party];
+    return { key: `inf:${i.id}`, label: i.name, color: party ? party.color : '#64748B', badge: party ? party.badge : '' };
+  });
+}
+
+/** Un sélecteur par graphique. Les entités sont cochées par défaut selon le graphique. */
+function buildPickers() {
+  const mainCandidate = (/** @type {string} */ key) => key.startsWith('cand:') && !!(candById[key.slice(5)] && candById[key.slice(5)].main);
+  const everything = () => true;
+  const candidates = candidateOptions();
+  const parties = partyOptions();
+  const mount = (/** @type {string} */ chart, /** @type {{ key: string, label: string, color: string, badge: string }[]} */ options, /** @type {(key: string) => boolean} */ isMain) => {
+    $(`pick-${chart}`).innerHTML = chartPicker(chart, options, isMain);
+  };
+  mount('pollChart', candidates, mainCandidate);
+  mount('mediaChart', candidates, mainCandidate);
+  mount('followersCandChart', candidates, mainCandidate);
+  mount('followersPartyChart', parties, everything);
+  mount('ytCandChart', candidates, mainCandidate);
+  mount('ytMediaTvChart', mediaOptions(['tv', 'radio']), everything);
+  mount('ytMediaPresseChart', mediaOptions(['presse']), everything);
+  mount('interviewChart', candidates, mainCandidate);
+
+  // Abonnés par réseau : un sélecteur sous le titre de chaque réseau
+  const f = data.followers;
+  const platforms = (f && f.platforms) || [];
+  $('platformCharts').innerHTML = platforms.map(p => `<div class="space-y-2">
+      <h4 id="plat_title_${esc(p)}" class="text-xs font-bold text-slate-700"></h4>
+      <div id="pick-plat_${esc(p)}"></div>
+      <div class="relative h-[260px] w-full"><canvas id="plat_${esc(p)}" role="img" aria-label="${esc(p)}"></canvas></div>
+    </div>`).join('');
+  platforms.forEach(p => {
+    // Seules les personnes ayant au moins un relevé sur ce réseau sont proposées
+    const net = (f.by_platform && f.by_platform[p]) || { candidates: [], influencers: [] };
+    const hasData = (/** @type {{ followers: (number | null)[] }} */ s) => s.followers.some(v => v != null);
+    const withData = new Set([
+      ...net.candidates.filter(hasData).map(s => `cand:${s.id}`),
+      ...net.influencers.filter(hasData).map(s => `inf:${s.id}`),
+    ]);
+    const options = [...candidates, ...influencerOptions()].filter(o => withData.has(o.key));
+    mount(`plat_${p}`, options, key => mainCandidate(key) || (key.startsWith('inf:') && influencerIncluded.has(key.slice(4))));
+  });
+
+  wireChartControls();
+}
+
+/** Délégation unique : cases à cocher, raccourcis et boutons de bascule. */
+function wireChartControls() {
+  document.addEventListener('change', (ev) => {
+    const el = ev.target;
+    if (!(el instanceof HTMLInputElement) || !el.dataset.chart || !el.dataset.key) return;
+    const set = chartSel[el.dataset.chart];
+    if (el.checked) set.add(el.dataset.key); else set.delete(el.dataset.key);
     renderAll();
   });
-  $('pickerPanel').addEventListener('click', (ev) => {
-    const t = ev.target;
-    if (!(t instanceof HTMLButtonElement) || !t.dataset.preset) return;
-    /** @type {string[]} */
-    let keys = [];
-    if (t.dataset.preset === 'all') {
-      keys = [...data.candidates.map(c => `cand:${c.id}`), ...(data.parties || []).map(p => `party:${p.id}`),
-              ...((data.youtube && data.youtube.media) || []).map(m => `media:${m.id}`)];
-    } else if (t.dataset.preset === 'main') {
-      keys = [...data.candidates.filter(c => c.main).map(c => `cand:${c.id}`), ...(data.parties || []).map(p => `party:${p.id}`)];
-    }
-    selected.clear();
-    keys.forEach(k => selected.add(k));
-    document.querySelectorAll('#pickerPanel input[data-key]').forEach(i => {
-      if (i instanceof HTMLInputElement) i.checked = selected.has(i.dataset.key || '');
+  document.addEventListener('click', (ev) => {
+    const el = ev.target;
+    if (!(el instanceof HTMLButtonElement) || !el.dataset.chartPreset || !el.dataset.chart) return;
+    const chart = el.dataset.chart;
+    const { options, isMain } = chartOpts[chart];
+    const preset = el.dataset.chartPreset;
+    const keys = preset === 'all' ? options.map(o => o.key)
+      : preset === 'main' ? options.filter(o => isMain(o.key)).map(o => o.key) : [];
+    chartSel[chart] = new Set(keys);
+    document.querySelectorAll(`input[data-chart="${chart}"]`).forEach(i => {
+      if (i instanceof HTMLInputElement) i.checked = chartSel[chart].has(i.dataset.key || '');
     });
     renderAll();
   });
   document.querySelectorAll('[data-toggle]').forEach(btn => {
     btn.addEventListener('click', (ev) => {
-      const t = /** @type {HTMLButtonElement} */ (ev.currentTarget);
-      const [group, value] = (t.dataset.toggle || '').split(':');
-      if (group === 'followers') followersMode = /** @type {'total' | 'change'} */ (value);
+      const el = /** @type {HTMLButtonElement} */ (ev.currentTarget);
+      const [group, value] = (el.dataset.toggle || '').split(':');
+      if (group === 'followers') followersMode = /** @type {'total' | 'week' | 'month'} */ (value);
       if (group === 'interview') interviewMetric = /** @type {'viewers' | 'share'} */ (value);
       if (group === 'youtube') youtubeMode = /** @type {'total' | 'change'} */ (value);
       document.querySelectorAll(`[data-toggle^="${group}:"]`).forEach(b => {
-        const on = /** @type {HTMLButtonElement} */ (b).dataset.toggle === t.dataset.toggle;
+        const on = /** @type {HTMLButtonElement} */ (b).dataset.toggle === el.dataset.toggle;
         b.classList.toggle('bg-indigo-600', on);
         b.classList.toggle('text-white', on);
         b.classList.toggle('bg-slate-100', !on);
@@ -366,45 +470,35 @@ function renderAll() {
   renderInterviews();
 }
 
-/** Un graphique d'abonnés par réseau : candidats cochés et personnalités cochées dans le tableau. */
+/** Un graphique d'abonnés par réseau, avec ses propres candidats et personnalités cochés. */
 function renderPlatformCharts() {
   const f = data.followers;
-  const box = $('platformCharts');
   Object.keys(charts).filter(k => k.startsWith('plat_')).forEach(k => { charts[k].destroy(); delete charts[k]; });
-  if (!f || f.dates.length === 0) {
-    box.innerHTML = `<p class="text-xs text-slate-400">${t('followers.none')}</p>`;
-    return;
-  }
-  const change = followersMode === 'change';
-  const influencerColor = (/** @type {string} */ id) => {
-    const inf = (data.influencers || []).find(i => i.id === id);
-    const party = inf && partyById[inf.party];
-    return party ? party.color : '#64748B';
-  };
-  box.innerHTML = f.platforms.map(p => `<div class="space-y-2">
-      <h4 class="text-xs font-bold text-slate-700">${t('followers.platform', { name: esc(p) })}</h4>
-      <div class="relative h-[260px] w-full"><canvas id="plat_${esc(p)}" role="img" aria-label="${esc(p)}"></canvas></div>
-    </div>`).join('');
+  if (!f || f.dates.length === 0) return;
+  const change = followersMode !== 'total';
   f.platforms.forEach(p => {
+    const chart = `plat_${p}`;
+    $(`plat_title_${p}`).textContent = t('followers.platform', { name: p });
     const net = (f.by_platform && f.by_platform[p]) || { candidates: [], influencers: [] };
     /** @type {any[]} */
     const sets = [];
-    net.candidates.filter(s => selected.has(`cand:${s.id}`)).forEach(s => {
-      const values = change ? s.change : s.followers;
+    net.candidates.filter(s => picked(chart).has(`cand:${s.id}`)).forEach(s => {
+      const values = change ? gainOf(s) : s.followers;
       if (values.every(v => v == null)) return;
       sets.push({ label: candById[s.id].name, data: values, borderColor: candById[s.id].color, backgroundColor: candById[s.id].color,
                   borderWidth: 2.5, pointRadius: f.dates.length < 10 ? 4 : 0, pointHoverRadius: 5, tension: 0.2, spanGaps: true });
     });
-    net.influencers.filter(s => influencerIncluded.has(s.id)).forEach(s => {
-      const values = change ? s.change : s.followers;
+    net.influencers.filter(s => picked(chart).has(`inf:${s.id}`)).forEach(s => {
+      const values = change ? gainOf(s) : s.followers;
       if (values.every(v => v == null)) return;
-      const color = influencerColor(s.id);
       const inf = (data.influencers || []).find(i => i.id === s.id);
+      const party = inf && partyById[inf.party];
+      const color = party ? party.color : '#64748B';
       sets.push({ label: inf ? inf.name : s.id, data: values, borderColor: color, backgroundColor: color,
                   borderWidth: 2, pointRadius: f.dates.length < 10 ? 4 : 0, pointHoverRadius: 5, tension: 0.2, spanGaps: true });
     });
     const labelFmt = change ? (/** @type {number} */ v) => `${v > 0 ? '+' : ''}${compact(v)}` : compact;
-    charts[`plat_${p}`] = new Chart(canvas(`plat_${p}`), { type: 'line', data: { labels: f.dates, datasets: sets },
+    charts[chart] = new Chart(canvas(chart), { type: 'line', data: { labels: f.dates, datasets: sets },
       options: lineOptions('', { legend: true, tickFormat: labelFmt,
         tooltipLabel: (/** @type {any} */ item) => ` ${item.dataset.label} : ${change ? signed(item.parsed.y, 0) : fmt(item.parsed.y, 0)}` }) });
   });
@@ -424,8 +518,9 @@ function renderYouTube() {
   /**
    * @param {YouTubeSeries[]} series
    * @param {string} prefix
+   * @param {string} chart
    */
-  const sets = (series, prefix) => hasData ? series.filter(s => selected.has(prefix + s.id)).map(s => {
+  const sets = (series, prefix, chart) => hasData ? series.filter(s => picked(chart).has(prefix + s.id)).map(s => {
     const color = s.color || (candById[s.id] && candById[s.id].color) || '#64748B';
     return { label: s.name, data: change ? s.change : s.views, borderColor: color, backgroundColor: color,
              borderWidth: 2.5, pointRadius: yt.dates.length < 10 ? 4 : 0, pointHoverRadius: 5, tension: 0.2, spanGaps: true };
@@ -433,18 +528,18 @@ function renderYouTube() {
 
   if (charts.ytCand) charts.ytCand.destroy();
   charts.ytCand = new Chart(canvas('ytCandChart'), { type: 'line',
-    data: { labels: hasData ? yt.dates : [], datasets: sets(yt.candidates, 'cand:') },
+    data: { labels: hasData ? yt.dates : [], datasets: sets(yt.candidates, 'cand:', 'ytCandChart') },
     options: lineOptions('', { legend: true, tickFormat: labelFmt, tooltipLabel: tooltip }) });
   // Médias : deux graphiques, télévisions et radios (10 couleurs au plus), presse
   const mediaOf = (/** @type {string} */ group) => yt.media.filter(s => s.group === group);
   const tvRadio = [...mediaOf('tv'), ...mediaOf('radio')];
   if (charts.ytMediaTv) charts.ytMediaTv.destroy();
   charts.ytMediaTv = new Chart(canvas('ytMediaTvChart'), { type: 'line',
-    data: { labels: hasData ? yt.dates : [], datasets: sets(tvRadio, 'media:') },
+    data: { labels: hasData ? yt.dates : [], datasets: sets(tvRadio, 'media:', 'ytMediaTvChart') },
     options: lineOptions('', { legend: true, tickFormat: labelFmt, tooltipLabel: tooltip }) });
   if (charts.ytMediaPresse) charts.ytMediaPresse.destroy();
   charts.ytMediaPresse = new Chart(canvas('ytMediaPresseChart'), { type: 'line',
-    data: { labels: hasData ? yt.dates : [], datasets: sets(mediaOf('presse'), 'media:') },
+    data: { labels: hasData ? yt.dates : [], datasets: sets(mediaOf('presse'), 'media:', 'ytMediaPresseChart') },
     options: lineOptions('', { legend: true, tickFormat: labelFmt, tooltipLabel: tooltip }) });
 
   /** @type {string[]} */
@@ -452,7 +547,7 @@ function renderYouTube() {
   if (hasData) {
     /** @type {Array<{ prefix: string, s: YouTubeSeries }>} */
     const all = [...yt.candidates.map(s => ({ prefix: 'cand:', s })), ...yt.media.map(s => ({ prefix: 'media:', s }))];
-    all.filter(({ prefix, s }) => selected.has(prefix + s.id) && s.latest)
+    all.filter(({ prefix, s }) => YT_CHARTS.some(c => picked(c).has(prefix + s.id)) && s.latest)
       .forEach(({ s }) => {
         if (!s.latest) return;
         const color = s.color || (candById[s.id] && candById[s.id].color) || '#64748B';
@@ -500,7 +595,7 @@ function renderProjection() {
 }
 
 function renderPollChart() {
-  const cands = data.candidates.filter(c => selected.has(`cand:${c.id}`));
+  const cands = data.candidates.filter(c => picked('pollChart').has(`cand:${c.id}`));
   const single = cands.length === 1;
   const hist = data.history;
   const labels = hist.map(h => h.date);
@@ -549,7 +644,7 @@ function renderPollChart() {
 }
 
 function renderMediaChart() {
-  const cands = data.candidates.filter(c => selected.has(`cand:${c.id}`));
+  const cands = data.candidates.filter(c => picked('mediaChart').has(`cand:${c.id}`));
   const md = data.media_daily || [];
   const labels = md.map(d => d.date);
   const datasets = cands.map(c => ({
@@ -570,7 +665,7 @@ function renderMediaChart() {
 function renderFollowers() {
   const f = data.followers;
   const hasData = f && f.dates.length > 0;
-  const change = followersMode === 'change';
+  const change = followersMode !== 'total';
   const lastDate = hasData ? f.dates[f.dates.length - 1] : null;
   const ageDays = lastDate ? (Date.parse(data.today) - Date.parse(lastDate)) / 86400000 : 0;
   const stale = hasData && ageDays > 10 ? t('followers.stale') : '';
@@ -583,8 +678,8 @@ function renderFollowers() {
   /** @type {any[]} */
   const candSets = [];
   if (hasData) {
-    f.candidates.filter(s => selected.has(`cand:${s.id}`)).forEach(s => {
-      const values = change ? s.change : s.followers;
+    f.candidates.filter(s => picked('followersCandChart').has(`cand:${s.id}`)).forEach(s => {
+      const values = change ? gainOf(s) : s.followers;
       if (values.every(v => v == null)) return;
       candSets.push({ label: candById[s.id].name, data: values, borderColor: candById[s.id].color,
                       backgroundColor: candById[s.id].color, borderWidth: 2.5, pointRadius: f.dates.length < 10 ? 4 : 0,
@@ -594,8 +689,8 @@ function renderFollowers() {
   /** @type {any[]} */
   const partySets = [];
   if (hasData) {
-    f.parties.filter(s => selected.has(`party:${s.id}`)).forEach(s => {
-      const values = change ? s.change : s.followers;
+    f.parties.filter(s => picked('followersPartyChart').has(`party:${s.id}`)).forEach(s => {
+      const values = change ? gainOf(s) : s.followers;
       if (values.every(v => v == null)) return;
       partySets.push({ label: partyById[s.id].name, data: values, borderColor: partyById[s.id].color,
                        backgroundColor: partyById[s.id].color, borderWidth: 2.5, pointRadius: f.dates.length < 10 ? 4 : 0,
@@ -622,10 +717,10 @@ function renderFollowersTable() {
     return;
   }
   const platforms = f.platforms;
-  const rows = f.candidates.filter(s => selected.has(`cand:${s.id}`)).map(s => {
+  const rows = f.candidates.filter(s => picked('followersCandChart').has(`cand:${s.id}`)).map(s => {
     const latest = s.followers[s.followers.length - 1];
     const cells = platforms.map(p => `<td class="px-2 py-1 text-right">${compact(s.latest_by_platform[p])}</td>`).join('');
-    const delta = s.change[s.change.length - 1];
+    const delta = gainOf(s)[gainOf(s).length - 1];
     return `<tr class="border-b border-slate-100"><td class="px-2 py-1 font-semibold whitespace-nowrap"><span class="inline-block w-2 h-2 rounded-full mr-1" style="background:${candById[s.id].color}"></span>${esc(candById[s.id].name)}</td>${cells}<td class="px-2 py-1 text-right font-bold">${compact(latest)}</td><td class="px-2 py-1 text-right ${delta != null && delta < 0 ? 'text-[#c62f2e]' : 'text-[#1d5fb0]'}">${delta == null ? '—' : signed(delta, 0)}</td></tr>`;
   }).join('');
   table.innerHTML = `<thead><tr class="text-[10px] uppercase tracking-wider text-slate-500 border-b border-slate-200">
@@ -635,7 +730,7 @@ function renderFollowersTable() {
 }
 
 function renderInterviews() {
-  const ids = new Set(data.candidates.filter(c => selected.has(`cand:${c.id}`)).map(c => c.id));
+  const ids = new Set(data.candidates.filter(c => picked('interviewChart').has(`cand:${c.id}`)).map(c => c.id));
   const share = interviewMetric === 'share';
   const items = (data.interviews || []).filter(i => ids.has(i.candidate) && (share ? i.audience_share != null : i.audience_viewers != null));
 
