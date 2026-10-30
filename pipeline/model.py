@@ -101,6 +101,23 @@ def media_signal(days, cand_id, on):
     }
 
 
+_MEDIA_MAP = None
+
+
+def canonical_outlet(name):
+    """Nom officiel d'un média de config/medias.json, ou None si ce n'est pas un média retenu."""
+    global _MEDIA_MAP
+    if _MEDIA_MAP is None:
+        import json
+        from pathlib import Path
+        doc = json.loads(Path("config/medias.json").read_text(encoding="utf-8"))
+        _MEDIA_MAP = {}
+        for m in doc["medias"]:
+            for alias in [m["name"]] + m["aliases"]:
+                _MEDIA_MAP[alias.strip().lower()] = m["name"]
+    return _MEDIA_MAP.get((name or "").strip().lower())
+
+
 def outlet_matrix(days, candidates, on, window=MEDIA_RECENT):
     """Tonalité moyenne par média et par candidat sur la fenêtre récente."""
     start = on - timedelta(days=window - 1)
@@ -109,8 +126,11 @@ def outlet_matrix(days, candidates, on, window=MEDIA_RECENT):
         if not (start <= _d(day) <= on):
             continue
         for a in articles:
+            media = canonical_outlet(a["outlet"])
+            if media is None:
+                continue
             for c in a.get("analysis") or []:
-                acc.setdefault(a["outlet"], {}).setdefault(c["id"], []).append(c["tone"])
+                acc.setdefault(media, {}).setdefault(c["id"], []).append(c["tone"])
     out = {}
     for outlet, by_c in acc.items():
         out[outlet] = {cid: {"tone": round(sum(v) / len(v), 2), "n": len(v)} for cid, v in by_c.items()}
@@ -118,17 +138,27 @@ def outlet_matrix(days, candidates, on, window=MEDIA_RECENT):
 
 
 def daily_media(days, candidates):
-    """Série quotidienne : nombre d'articles et tonalité par candidat."""
+    """Série quotidienne : nombre d'articles qui citent chaque candidat (mention dans le titre ou le résumé).
+
+    Ce décompte ne demande aucune analyse : il ne dépend pas de l'API. La tonalité, elle, n'est
+    calculée que sur les articles analysés.
+    """
     series = []
     for day in sorted(days):
         row = {}
         for a in days[day]:
-            for c in a.get("analysis") or []:
-                r = row.setdefault(c["id"], {"n": 0, "_t": 0})
-                r["n"] += 1; r["_t"] += c["tone"]
+            if canonical_outlet(a.get("outlet")) is None:
+                continue
+            for cid in a.get("mentions") or []:
+                r = row.setdefault(cid, {"n": 0, "_t": 0, "_k": 0})
+                r["n"] += 1
+                for c in a.get("analysis") or []:
+                    if c["id"] == cid:
+                        r["_t"] += c["tone"]; r["_k"] += 1
         if row:
             series.append({"date": day, "candidates": {
-                cid: {"articles": r["n"], "tone": round(r["_t"] / r["n"], 2)} for cid, r in row.items()}})
+                cid: {"articles": r["n"], "tone": round(r["_t"] / r["_k"], 2) if r["_k"] else None}
+                for cid, r in row.items()}})
     return series
 
 

@@ -1,0 +1,499 @@
+{
+  "_doc": "Médias retenus pour la veille : 9 quotidiens nationaux (dont The New York Times, édition internationale, 10e du classement ACPM diffusion) et 20 quotidiens régionaux (ACPM, diffusion payée 2025-2026), 20 chaînes TV (Médiamétrie, septembre 2026, part d'audience), 20 radios (Médiamétrie EAR, avril-juin 2026, audience cumulée). Magazines à compléter (classement ACPM). Seuls ces médias sont comptés dans les courbes et les tableaux par média. Les noms d'alias servent à reconnaître les articles.",
+  "medias": [
+    {
+      "name": "Le Monde",
+      "type": "presse",
+      "aliases": [
+        "Le Monde",
+        "Le Monde.fr"
+      ]
+    },
+    {
+      "name": "Le Figaro",
+      "type": "presse",
+      "aliases": [
+        "Le Figaro"
+      ]
+    },
+    {
+      "name": "L'Équipe",
+      "type": "presse",
+      "aliases": [
+        "L'Equipe",
+        "L'Équipe"
+      ]
+    },
+    {
+      "name": "Les Échos",
+      "type": "presse",
+      "aliases": [
+        "Les Echos",
+        "Les Échos"
+      ]
+    },
+    {
+      "name": "Libération",
+      "type": "presse",
+      "aliases": [
+        "Libération"
+      ]
+    },
+    {
+      "name": "La Croix",
+      "type": "presse",
+      "aliases": [
+        "La Croix"
+      ]
+    },
+    {
+      "name": "L'Humanité",
+      "type": "presse",
+      "aliases": [
+        "L'Humanité",
+        "L'Humanite"
+      ]
+    },
+    {
+      "name": "Le Parisien / Aujourd'hui en France",
+      "type": "presse",
+      "aliases": [
+        "Le Parisien",
+        "Aujourd'hui en France",
+        "Le Parisien Aujourd'hui en France"
+      ]
+    },
+    {
+      "name": "The New York Times",
+      "type": "presse",
+      "aliases": [
+        "The New York Times",
+        "New York Times",
+        "NYT",
+        "nytimes.com"
+      ]
+    },
+    {
+      "name": "Ouest-France",
+      "type": "presse",
+      "aliases": [
+        "Ouest-France"
+      ]
+    },
+    {
+      "name": "Sud Ouest",
+      "type": "presse",
+      "aliases": [
+        "Sud Ouest"
+      ]
+    },
+    {
+      "name": "Le Télégramme",
+      "type": "presse",
+      "aliases": [
+        "Le Télégramme"
+      ]
+    },
+    {
+      "name": "La Voix du Nord",
+      "type": "presse",
+      "aliases": [
+        "La Voix du Nord"
+      ]
+    },
+    {
+      "name": "Le Dauphiné Libéré",
+      "type": "presse",
+      "aliases": [
+        "Le Dauphiné Libéré"
+      ]
+    },
+    {
+      "name": "La Nouvelle République",
+      "type": "presse",
+      "aliases": [
+        "La Nouvelle République",
+        "lanouvellerepublique.fr"
+      ]
+    },
+    {
+      "name": "Le Progrès",
+      "type": "presse",
+      "aliases": [
+        "Le Progrès"
+      ]
+    },
+    {
+      "name": "La Montagne",
+      "type": "presse",
+      "aliases": [
+        "La Montagne"
+      ]
+    },
+    {
+      "name": "Dernières Nouvelles d'Alsace",
+      "type": "presse",
+      "aliases": [
+        "Dernières Nouvelles d'Alsace",
+        "DNA"
+      ]
+    },
+    {
+      "name": "La Dépêche du Midi",
+      "type": "presse",
+      "aliases": [
+        "La Dépêche du Midi",
+        "ladepeche.fr"
+      ]
+    },
+    {
+      "name": "L'Est Républicain",
+      "type": "presse",
+      "aliases": [
+        "L'Est Républicain"
+      ]
+    },
+    {
+      "name": "Le Républicain Lorrain",
+      "type": "presse",
+      "aliases": [
+        "Le Républicain Lorrain"
+      ]
+    },
+    {
+      "name": "Le Courrier de l'Ouest",
+      "type": "presse",
+      "aliases": [
+        "Le Courrier de l'Ouest"
+      ]
+    },
+    {
+      "name": "Midi Libre",
+      "type": "presse",
+      "aliases": [
+        "Midi Libre"
+      ]
+    },
+    {
+      "name": "L'Union - L'Ardennais",
+      "type": "presse",
+      "aliases": [
+        "L'Union",
+        "L'Union - L'Ardennais"
+      ]
+    },
+    {
+      "name": "La Provence",
+      "type": "presse",
+      "aliases": [
+        "La Provence"
+      ]
+    },
+    {
+      "name": "L'Alsace",
+      "type": "presse",
+      "aliases": [
+        "L'Alsace"
+      ]
+    },
+    {
+      "name": "Nice-Matin",
+      "type": "presse",
+      "aliases": [
+        "Nice-Matin",
+        "Nice Matin"
+      ]
+    },
+    {
+      "name": "Le Journal de Saône-et-Loire",
+      "type": "presse",
+      "aliases": [
+        "Le Journal de Saône-et-Loire"
+      ]
+    },
+    {
+      "name": "TF1",
+      "type": "tv",
+      "aliases": [
+        "TF1",
+        "TF1 info",
+        "TF1 Info",
+        "TF1+"
+      ]
+    },
+    {
+      "name": "France 2",
+      "type": "tv",
+      "aliases": [
+        "France 2"
+      ]
+    },
+    {
+      "name": "France 3",
+      "type": "tv",
+      "aliases": [
+        "France 3",
+        "France 3 Régions"
+      ]
+    },
+    {
+      "name": "M6",
+      "type": "tv",
+      "aliases": [
+        "M6",
+        "M6 Info"
+      ]
+    },
+    {
+      "name": "France 5",
+      "type": "tv",
+      "aliases": [
+        "France 5"
+      ]
+    },
+    {
+      "name": "Arte",
+      "type": "tv",
+      "aliases": [
+        "Arte",
+        "Arte TV"
+      ]
+    },
+    {
+      "name": "W9",
+      "type": "tv",
+      "aliases": [
+        "W9"
+      ]
+    },
+    {
+      "name": "TMC",
+      "type": "tv",
+      "aliases": [
+        "TMC"
+      ]
+    },
+    {
+      "name": "CNews",
+      "type": "tv",
+      "aliases": [
+        "CNews",
+        "CNEWS"
+      ]
+    },
+    {
+      "name": "BFMTV",
+      "type": "tv",
+      "aliases": [
+        "BFMTV",
+        "BFM TV",
+        "BFM"
+      ]
+    },
+    {
+      "name": "LCI",
+      "type": "tv",
+      "aliases": [
+        "LCI"
+      ]
+    },
+    {
+      "name": "RMC Découverte",
+      "type": "tv",
+      "aliases": [
+        "RMC Découverte"
+      ]
+    },
+    {
+      "name": "TFX",
+      "type": "tv",
+      "aliases": [
+        "TFX"
+      ]
+    },
+    {
+      "name": "Canal+",
+      "type": "tv",
+      "aliases": [
+        "Canal+",
+        "CANAL+"
+      ]
+    },
+    {
+      "name": "TF1 Séries Films",
+      "type": "tv",
+      "aliases": [
+        "TF1 Séries Films"
+      ]
+    },
+    {
+      "name": "RMC Story",
+      "type": "tv",
+      "aliases": [
+        "RMC Story"
+      ]
+    },
+    {
+      "name": "6ter",
+      "type": "tv",
+      "aliases": [
+        "6ter"
+      ]
+    },
+    {
+      "name": "France 4",
+      "type": "tv",
+      "aliases": [
+        "France 4"
+      ]
+    },
+    {
+      "name": "Gulli",
+      "type": "tv",
+      "aliases": [
+        "Gulli"
+      ]
+    },
+    {
+      "name": "France Inter",
+      "type": "radio",
+      "aliases": [
+        "France Inter"
+      ]
+    },
+    {
+      "name": "RTL",
+      "type": "radio",
+      "aliases": [
+        "RTL"
+      ]
+    },
+    {
+      "name": "franceinfo",
+      "type": "radio",
+      "aliases": [
+        "franceinfo",
+        "France Info"
+      ]
+    },
+    {
+      "name": "NRJ",
+      "type": "radio",
+      "aliases": [
+        "NRJ"
+      ]
+    },
+    {
+      "name": "Skyrock",
+      "type": "radio",
+      "aliases": [
+        "Skyrock"
+      ]
+    },
+    {
+      "name": "Nostalgie",
+      "type": "radio",
+      "aliases": [
+        "Nostalgie"
+      ]
+    },
+    {
+      "name": "RMC",
+      "type": "radio",
+      "aliases": [
+        "RMC"
+      ]
+    },
+    {
+      "name": "Europe 1",
+      "type": "radio",
+      "aliases": [
+        "Europe 1"
+      ]
+    },
+    {
+      "name": "France Culture",
+      "type": "radio",
+      "aliases": [
+        "France Culture"
+      ]
+    },
+    {
+      "name": "Radio Nova",
+      "type": "radio",
+      "aliases": [
+        "Radio Nova"
+      ]
+    },
+    {
+      "name": "ICI",
+      "type": "radio",
+      "aliases": [
+        "ICI"
+      ]
+    },
+    {
+      "name": "Chérie FM",
+      "type": "radio",
+      "aliases": [
+        "Chérie FM"
+      ]
+    },
+    {
+      "name": "RTL2",
+      "type": "radio",
+      "aliases": [
+        "RTL2"
+      ]
+    },
+    {
+      "name": "Fun Radio",
+      "type": "radio",
+      "aliases": [
+        "Fun Radio"
+      ]
+    },
+    {
+      "name": "RFM",
+      "type": "radio",
+      "aliases": [
+        "RFM"
+      ]
+    },
+    {
+      "name": "Rire et Chansons",
+      "type": "radio",
+      "aliases": [
+        "Rire et Chansons"
+      ]
+    },
+    {
+      "name": "France Musique",
+      "type": "radio",
+      "aliases": [
+        "France Musique"
+      ]
+    },
+    {
+      "name": "Europe 2",
+      "type": "radio",
+      "aliases": [
+        "Europe 2"
+      ]
+    },
+    {
+      "name": "Radio Classique",
+      "type": "radio",
+      "aliases": [
+        "Radio Classique"
+      ]
+    },
+    {
+      "name": "FIP",
+      "type": "radio",
+      "aliases": [
+        "FIP"
+      ]
+    }
+  ]
+}
