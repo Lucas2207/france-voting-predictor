@@ -131,7 +131,6 @@ function renderEverything() {
   renderEvents();
   renderInfluencers();
   renderPartyPages();
-  renderOwnVideos();
   renderTvWeekly();
   renderInterviewVideos();
   renderAll();
@@ -187,19 +186,6 @@ function renderTvWeekly() {
   $('tvWeeklyTable').innerHTML = `<thead><tr class="text-[10px] uppercase tracking-wider text-slate-500 border-b border-slate-200">
       <th class="px-2 py-1 text-left">${esc(t('tv.week', { period: w.period }))}</th><th class="px-2 py-1 text-right">${t('tv.share')}</th></tr></thead>
     <tbody>${rows}<tr class="font-bold"><td class="px-2 py-1">${t('tv.total')}</td><td class="px-2 py-1 text-right">${w.total_tv == null ? '—' : compact(w.total_tv)}</td></tr></tbody>`;
-}
-
-/** Vidéos publiées sur les chaînes propres des personnes suivies (depuis le 1er juillet 2026). */
-function renderOwnVideos() {
-  const rows = (data.own_videos || []).map(v => `<tr class="border-b border-slate-100">
-      <td class="px-2 py-1 whitespace-nowrap">${esc(shortDate(v.published))}</td>
-      <td class="px-2 py-1 whitespace-nowrap font-semibold">${esc(v.candidates.join(', '))}</td>
-      <td class="px-2 py-1"><a class="text-indigo-700 underline" href="${esc(safeUrl(v.url))}" target="_blank" rel="noopener noreferrer">${esc(v.title)}</a></td>
-      <td class="px-2 py-1 text-right">${compact(v.views)}</td></tr>`).join('');
-  $('ownVideosTable').innerHTML = `<thead><tr class="text-[10px] uppercase tracking-wider text-slate-500 border-b border-slate-200">
-      <th class="px-2 py-1 text-left">${t('yt.th.date')}</th><th class="px-2 py-1 text-left">${t('yt.th.candidate')}</th>
-      <th class="px-2 py-1 text-left">${t('yt.th.title')}</th><th class="px-2 py-1 text-right">${t('yt.th.views')}</th></tr></thead>
-    <tbody>${rows || `<tr><td class="py-2 text-slate-400" colspan="4">${t('own.none')}</td></tr>`}</tbody>`;
 }
 
 /** Vidéos YouTube d'entretiens citant un candidat (depuis le 1er juillet 2026). */
