@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-10-30 12:09",
+ "last_updated": "2026-10-30 12:40",
  "today": "2026-10-30",
  "candidates": [
   {
@@ -13156,7 +13156,7 @@
      "tone": null
     },
     "lisnard": {
-     "articles": 11,
+     "articles": 12,
      "tone": null
     },
     "dupontaignan": {
@@ -13350,7 +13350,7 @@
    "date": "2026-07-07",
    "candidates": {
     "lepen": {
-     "articles": 31,
+     "articles": 33,
      "tone": null
     },
     "melenchon": {
@@ -13416,7 +13416,7 @@
    "date": "2026-07-09",
    "candidates": {
     "lepen": {
-     "articles": 22,
+     "articles": 24,
      "tone": null
     },
     "retailleau": {
@@ -14046,7 +14046,7 @@
      "tone": null
     },
     "glucksmann": {
-     "articles": 1,
+     "articles": 2,
      "tone": null
     },
     "attal": {
@@ -14389,7 +14389,7 @@
      "tone": null
     },
     "glucksmann": {
-     "articles": 11,
+     "articles": 12,
      "tone": null
     },
     "lisnard": {
@@ -14418,7 +14418,7 @@
      "tone": null
     },
     "glucksmann": {
-     "articles": 21,
+     "articles": 22,
      "tone": null
     },
     "zemmour": {
@@ -14566,7 +14566,7 @@
      "tone": null
     },
     "philippe": {
-     "articles": 4,
+     "articles": 5,
      "tone": null
     },
     "glucksmann": {
@@ -14599,7 +14599,7 @@
      "tone": null
     },
     "glucksmann": {
-     "articles": 7,
+     "articles": 8,
      "tone": null
     },
     "philippe": {
@@ -14607,7 +14607,7 @@
      "tone": null
     },
     "melenchon": {
-     "articles": 2,
+     "articles": 3,
      "tone": null
     },
     "lisnard": {
@@ -14788,7 +14788,7 @@
      "tone": null
     },
     "zemmour": {
-     "articles": 10,
+     "articles": 11,
      "tone": null
     },
     "retailleau": {
@@ -14825,11 +14825,11 @@
      "tone": null
     },
     "melenchon": {
-     "articles": 2,
+     "articles": 3,
      "tone": null
     },
     "attal": {
-     "articles": 1,
+     "articles": 2,
      "tone": null
     },
     "glucksmann": {
@@ -14837,7 +14837,7 @@
      "tone": null
     },
     "philippe": {
-     "articles": 3,
+     "articles": 4,
      "tone": null
     },
     "zemmour": {
@@ -14858,7 +14858,7 @@
      "tone": null
     },
     "melenchon": {
-     "articles": 4,
+     "articles": 5,
      "tone": null
     },
     "glucksmann": {
@@ -15041,6 +15041,10 @@
     "glucksmann": {
      "articles": 3,
      "tone": null
+    },
+    "attal": {
+     "articles": 1,
+     "tone": null
     }
    }
   },
@@ -15135,7 +15139,7 @@
    "date": "2026-09-14",
    "candidates": {
     "lepen": {
-     "articles": 4,
+     "articles": 5,
      "tone": null
     },
     "melenchon": {
@@ -15444,7 +15448,7 @@
      "tone": null
     },
     "zemmour": {
-     "articles": 2,
+     "articles": 3,
      "tone": null
     },
     "ruffin": {
@@ -15469,11 +15473,11 @@
      "tone": null
     },
     "philippe": {
-     "articles": 3,
+     "articles": 4,
      "tone": null
     },
     "attal": {
-     "articles": 5,
+     "articles": 6,
      "tone": null
     },
     "retailleau": {
@@ -15704,7 +15708,7 @@
    "date": "2026-10-01",
    "candidates": {
     "lepen": {
-     "articles": 6,
+     "articles": 7,
      "tone": null
     },
     "melenchon": {
@@ -16350,7 +16354,7 @@
      "tone": null
     },
     "lepen": {
-     "articles": 3,
+     "articles": 5,
      "tone": null
     },
     "attal": {
@@ -16694,7 +16698,7 @@
    "date": "2026-10-27",
    "candidates": {
     "lepen": {
-     "articles": 29,
+     "articles": 30,
      "tone": -0.16
     },
     "melenchon": {
@@ -16796,7 +16800,7 @@
    "date": "2026-10-29",
    "candidates": {
     "melenchon": {
-     "articles": 14,
+     "articles": 15,
      "tone": null
     },
     "glucksmann": {
@@ -16820,7 +16824,7 @@
      "tone": null
     },
     "lepen": {
-     "articles": 15,
+     "articles": 16,
      "tone": null
     },
     "lisnard": {
@@ -16845,19 +16849,19 @@
      "tone": null
     },
     "glucksmann": {
-     "articles": 9,
+     "articles": 10,
      "tone": null
     },
     "attal": {
-     "articles": 11,
+     "articles": 13,
      "tone": null
     },
     "philippe": {
-     "articles": 14,
+     "articles": 16,
      "tone": null
     },
     "lepen": {
-     "articles": 11,
+     "articles": 12,
      "tone": null
     },
     "melenchon": {
@@ -16865,7 +16869,7 @@
      "tone": null
     },
     "ruffin": {
-     "articles": 10,
+     "articles": 11,
      "tone": null
     },
     "retailleau": {
@@ -17532,12 +17536,16 @@
    {
     "id": "lepen",
     "followers": [
-     5661481,
+     null,
      7861481
     ],
-    "change": [
+    "change_week": [
      0,
-     2200000
+     0
+    ],
+    "change_month": [
+     0,
+     0
     ],
     "latest_by_platform": {
      "instagram": 912593,
@@ -17549,12 +17557,16 @@
    {
     "id": "melenchon",
     "followers": [
-     7105874,
+     null,
      9205874
     ],
-    "change": [
+    "change_week": [
      0,
-     2100000
+     0
+    ],
+    "change_month": [
+     0,
+     0
     ],
     "latest_by_platform": {
      "instagram": 1181683,
@@ -17566,12 +17578,16 @@
    {
     "id": "philippe",
     "followers": [
-     1169415,
+     null,
      1441415
     ],
-    "change": [
+    "change_week": [
      0,
-     272000
+     0
+    ],
+    "change_month": [
+     0,
+     0
     ],
     "latest_by_platform": {
      "instagram": 226622,
@@ -17582,12 +17598,16 @@
    {
     "id": "glucksmann",
     "followers": [
-     935397,
+     null,
      1126397
     ],
-    "change": [
+    "change_week": [
      0,
-     191000
+     0
+    ],
+    "change_month": [
+     0,
+     0
     ],
     "latest_by_platform": {
      "instagram": 625014,
@@ -17598,12 +17618,16 @@
    {
     "id": "attal",
     "followers": [
-     1435950,
+     null,
      1625950
     ],
-    "change": [
+    "change_week": [
      0,
-     190000
+     0
+    ],
+    "change_month": [
+     0,
+     0
     ],
     "latest_by_platform": {
      "instagram": 460399,
@@ -17615,12 +17639,16 @@
    {
     "id": "zemmour",
     "followers": [
-     1284453,
+     null,
      1756453
     ],
-    "change": [
+    "change_week": [
      0,
-     472000
+     0
+    ],
+    "change_month": [
+     0,
+     0
     ],
     "latest_by_platform": {
      "instagram": 313149,
@@ -17632,12 +17660,16 @@
    {
     "id": "retailleau",
     "followers": [
-     422370,
+     null,
      555370
     ],
-    "change": [
+    "change_week": [
      0,
-     133000
+     0
+    ],
+    "change_month": [
+     0,
+     0
     ],
     "latest_by_platform": {
      "instagram": 115626,
@@ -17649,12 +17681,16 @@
    {
     "id": "lisnard",
     "followers": [
-     962095,
+     null,
      1100095
     ],
-    "change": [
+    "change_week": [
      0,
-     138000
+     0
+    ],
+    "change_month": [
+     0,
+     0
     ],
     "latest_by_platform": {
      "instagram": 608109,
@@ -17666,12 +17702,16 @@
    {
     "id": "roussel",
     "followers": [
-     494049,
+     null,
      537049
     ],
-    "change": [
+    "change_week": [
      0,
-     43000
+     0
+    ],
+    "change_month": [
+     0,
+     0
     ],
     "latest_by_platform": {
      "instagram": 35886,
@@ -17683,12 +17723,16 @@
    {
     "id": "dupontaignan",
     "followers": [
-     673904,
+     null,
      1492904
     ],
-    "change": [
+    "change_week": [
      0,
-     819000
+     0
+    ],
+    "change_month": [
+     0,
+     0
     ],
     "latest_by_platform": {
      "instagram": 70567,
@@ -17700,12 +17744,16 @@
    {
     "id": "arthaud",
     "followers": [
-     134655,
+     null,
      193655
     ],
-    "change": [
+    "change_week": [
      0,
-     59000
+     0
+    ],
+    "change_month": [
+     0,
+     0
     ],
     "latest_by_platform": {
      "instagram": 29313,
@@ -17717,12 +17765,16 @@
    {
     "id": "ruffin",
     "followers": [
-     1086701,
+     null,
      2038701
     ],
-    "change": [
+    "change_week": [
      0,
-     952000
+     0
+    ],
+    "change_month": [
+     0,
+     0
     ],
     "latest_by_platform": {
      "instagram": 450074,
@@ -17739,12 +17791,16 @@
      "lepen"
     ],
     "followers": [
-     5661481,
+     null,
      7861481
     ],
-    "change": [
+    "change_week": [
      0,
-     2200000
+     0
+    ],
+    "change_month": [
+     0,
+     0
     ]
    },
    {
@@ -17753,12 +17809,16 @@
      "melenchon"
     ],
     "followers": [
-     7105874,
+     null,
      9205874
     ],
-    "change": [
+    "change_week": [
      0,
-     2100000
+     0
+    ],
+    "change_month": [
+     0,
+     0
     ]
    },
    {
@@ -17767,12 +17827,16 @@
      "philippe"
     ],
     "followers": [
-     1169415,
+     null,
      1441415
     ],
-    "change": [
+    "change_week": [
      0,
-     272000
+     0
+    ],
+    "change_month": [
+     0,
+     0
     ]
    },
    {
@@ -17781,12 +17845,16 @@
      "attal"
     ],
     "followers": [
-     1435950,
+     null,
      1625950
     ],
-    "change": [
+    "change_week": [
      0,
-     190000
+     0
+    ],
+    "change_month": [
+     0,
+     0
     ]
    },
    {
@@ -17795,12 +17863,16 @@
      "glucksmann"
     ],
     "followers": [
-     935397,
+     null,
      1126397
     ],
-    "change": [
+    "change_week": [
      0,
-     191000
+     0
+    ],
+    "change_month": [
+     0,
+     0
     ]
    },
    {
@@ -17809,12 +17881,16 @@
      "retailleau"
     ],
     "followers": [
-     422370,
+     null,
      555370
     ],
-    "change": [
+    "change_week": [
      0,
-     133000
+     0
+    ],
+    "change_month": [
+     0,
+     0
     ]
    },
    {
@@ -17823,12 +17899,16 @@
      "zemmour"
     ],
     "followers": [
-     1284453,
+     null,
      1756453
     ],
-    "change": [
+    "change_week": [
      0,
-     472000
+     0
+    ],
+    "change_month": [
+     0,
+     0
     ]
    },
    {
@@ -17837,12 +17917,16 @@
      "lisnard"
     ],
     "followers": [
-     962095,
+     null,
      1100095
     ],
-    "change": [
+    "change_week": [
      0,
-     138000
+     0
+    ],
+    "change_month": [
+     0,
+     0
     ]
    }
   ],
@@ -17853,7 +17937,11 @@
      null,
      null
     ],
-    "change": [
+    "change_week": [
+     null,
+     null
+    ],
+    "change_month": [
      null,
      null
     ],
@@ -17865,7 +17953,11 @@
      null,
      null
     ],
-    "change": [
+    "change_week": [
+     null,
+     null
+    ],
+    "change_month": [
      null,
      null
     ],
@@ -17877,7 +17969,11 @@
      null,
      null
     ],
-    "change": [
+    "change_week": [
+     null,
+     null
+    ],
+    "change_month": [
      null,
      null
     ],
@@ -17889,7 +17985,11 @@
      null,
      null
     ],
-    "change": [
+    "change_week": [
+     null,
+     null
+    ],
+    "change_month": [
      null,
      null
     ],
@@ -17901,7 +18001,11 @@
      null,
      null
     ],
-    "change": [
+    "change_week": [
+     null,
+     null
+    ],
+    "change_month": [
      null,
      null
     ],
@@ -17913,7 +18017,11 @@
      null,
      null
     ],
-    "change": [
+    "change_week": [
+     null,
+     null
+    ],
+    "change_month": [
      null,
      null
     ],
@@ -17925,7 +18033,11 @@
      null,
      null
     ],
-    "change": [
+    "change_week": [
+     null,
+     null
+    ],
+    "change_month": [
      null,
      null
     ],
@@ -17937,7 +18049,11 @@
      null,
      null
     ],
-    "change": [
+    "change_week": [
+     null,
+     null
+    ],
+    "change_month": [
      null,
      null
     ],
@@ -17949,7 +18065,11 @@
      null,
      null
     ],
-    "change": [
+    "change_week": [
+     null,
+     null
+    ],
+    "change_month": [
      null,
      null
     ],
@@ -17961,7 +18081,11 @@
      null,
      null
     ],
-    "change": [
+    "change_week": [
+     null,
+     null
+    ],
+    "change_month": [
      null,
      null
     ],
@@ -17973,7 +18097,11 @@
      null,
      null
     ],
-    "change": [
+    "change_week": [
+     null,
+     null
+    ],
+    "change_month": [
      null,
      null
     ],
@@ -17985,7 +18113,11 @@
      null,
      null
     ],
-    "change": [
+    "change_week": [
+     null,
+     null
+    ],
+    "change_month": [
      null,
      null
     ],
@@ -17997,7 +18129,11 @@
      null,
      null
     ],
-    "change": [
+    "change_week": [
+     null,
+     null
+    ],
+    "change_month": [
      null,
      null
     ],
@@ -18009,7 +18145,11 @@
      null,
      null
     ],
-    "change": [
+    "change_week": [
+     null,
+     null
+    ],
+    "change_month": [
      null,
      null
     ],
@@ -18021,7 +18161,11 @@
      null,
      null
     ],
-    "change": [
+    "change_week": [
+     null,
+     null
+    ],
+    "change_month": [
      null,
      null
     ],
@@ -18033,7 +18177,11 @@
      null,
      null
     ],
-    "change": [
+    "change_week": [
+     null,
+     null
+    ],
+    "change_month": [
      null,
      null
     ],
@@ -18045,7 +18193,11 @@
      null,
      null
     ],
-    "change": [
+    "change_week": [
+     null,
+     null
+    ],
+    "change_month": [
      null,
      null
     ],
@@ -18057,7 +18209,11 @@
      null,
      null
     ],
-    "change": [
+    "change_week": [
+     null,
+     null
+    ],
+    "change_month": [
      null,
      null
     ],
@@ -18069,7 +18225,11 @@
      null,
      null
     ],
-    "change": [
+    "change_week": [
+     null,
+     null
+    ],
+    "change_month": [
      null,
      null
     ],
@@ -18081,7 +18241,11 @@
      null,
      null
     ],
-    "change": [
+    "change_week": [
+     null,
+     null
+    ],
+    "change_month": [
      null,
      null
     ],
@@ -18093,7 +18257,11 @@
      null,
      null
     ],
-    "change": [
+    "change_week": [
+     null,
+     null
+    ],
+    "change_month": [
      null,
      null
     ],
@@ -18105,7 +18273,11 @@
      null,
      null
     ],
-    "change": [
+    "change_week": [
+     null,
+     null
+    ],
+    "change_month": [
      null,
      null
     ],
@@ -18117,7 +18289,11 @@
      null,
      null
     ],
-    "change": [
+    "change_week": [
+     null,
+     null
+    ],
+    "change_month": [
      null,
      null
     ],
@@ -18129,7 +18305,11 @@
      null,
      null
     ],
-    "change": [
+    "change_week": [
+     null,
+     null
+    ],
+    "change_month": [
      null,
      null
     ],
@@ -18141,7 +18321,11 @@
      null,
      null
     ],
-    "change": [
+    "change_week": [
+     null,
+     null
+    ],
+    "change_month": [
      null,
      null
     ],
@@ -18153,7 +18337,11 @@
      null,
      null
     ],
-    "change": [
+    "change_week": [
+     null,
+     null
+    ],
+    "change_month": [
      null,
      null
     ],
@@ -18165,7 +18353,11 @@
      null,
      null
     ],
-    "change": [
+    "change_week": [
+     null,
+     null
+    ],
+    "change_month": [
      null,
      null
     ],
@@ -18177,7 +18369,11 @@
      null,
      null
     ],
-    "change": [
+    "change_week": [
+     null,
+     null
+    ],
+    "change_month": [
      null,
      null
     ],
@@ -18189,7 +18385,11 @@
      null,
      null
     ],
-    "change": [
+    "change_week": [
+     null,
+     null
+    ],
+    "change_month": [
      null,
      null
     ],
@@ -18201,7 +18401,11 @@
      null,
      null
     ],
-    "change": [
+    "change_week": [
+     null,
+     null
+    ],
+    "change_month": [
      null,
      null
     ],
@@ -18213,7 +18417,11 @@
      null,
      null
     ],
-    "change": [
+    "change_week": [
+     null,
+     null
+    ],
+    "change_month": [
      null,
      null
     ],
@@ -18225,7 +18433,11 @@
      null,
      null
     ],
-    "change": [
+    "change_week": [
+     null,
+     null
+    ],
+    "change_month": [
      null,
      null
     ],
@@ -18237,7 +18449,11 @@
      null,
      null
     ],
-    "change": [
+    "change_week": [
+     null,
+     null
+    ],
+    "change_month": [
      null,
      null
     ],
@@ -18249,7 +18465,11 @@
      null,
      null
     ],
-    "change": [
+    "change_week": [
+     null,
+     null
+    ],
+    "change_month": [
      null,
      null
     ],
@@ -18261,7 +18481,11 @@
      null,
      null
     ],
-    "change": [
+    "change_week": [
+     null,
+     null
+    ],
+    "change_month": [
      null,
      null
     ],
@@ -18273,7 +18497,11 @@
      null,
      null
     ],
-    "change": [
+    "change_week": [
+     null,
+     null
+    ],
+    "change_month": [
      null,
      null
     ],
@@ -18285,7 +18513,11 @@
      null,
      null
     ],
-    "change": [
+    "change_week": [
+     null,
+     null
+    ],
+    "change_month": [
      null,
      null
     ],
@@ -18297,7 +18529,11 @@
      null,
      null
     ],
-    "change": [
+    "change_week": [
+     null,
+     null
+    ],
+    "change_month": [
      null,
      null
     ],
@@ -18309,7 +18545,11 @@
      null,
      null
     ],
-    "change": [
+    "change_week": [
+     null,
+     null
+    ],
+    "change_month": [
      null,
      null
     ],
@@ -18321,7 +18561,11 @@
      null,
      null
     ],
-    "change": [
+    "change_week": [
+     null,
+     null
+    ],
+    "change_month": [
      null,
      null
     ],
@@ -18333,7 +18577,11 @@
      null,
      null
     ],
-    "change": [
+    "change_week": [
+     null,
+     null
+    ],
+    "change_month": [
      null,
      null
     ],
@@ -18345,7 +18593,11 @@
      null,
      null
     ],
-    "change": [
+    "change_week": [
+     null,
+     null
+    ],
+    "change_month": [
      null,
      null
     ],
@@ -18361,7 +18613,11 @@
        1700000,
        1700000
       ],
-      "change": [
+      "change_week": [
+       0,
+       0
+      ],
+      "change_month": [
        0,
        0
       ]
@@ -18372,7 +18628,11 @@
        3200000,
        3200000
       ],
-      "change": [
+      "change_week": [
+       0,
+       0
+      ],
+      "change_month": [
        0,
        0
       ]
@@ -18383,7 +18643,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -18394,7 +18658,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -18405,7 +18673,11 @@
        685200,
        685200
       ],
-      "change": [
+      "change_week": [
+       0,
+       0
+      ],
+      "change_month": [
        0,
        0
       ]
@@ -18416,7 +18688,11 @@
        395600,
        395600
       ],
-      "change": [
+      "change_week": [
+       0,
+       0
+      ],
+      "change_month": [
        0,
        0
       ]
@@ -18427,7 +18703,11 @@
        91400,
        91400
       ],
-      "change": [
+      "change_week": [
+       0,
+       0
+      ],
+      "change_month": [
        0,
        0
       ]
@@ -18438,7 +18718,11 @@
        131800,
        131800
       ],
-      "change": [
+      "change_week": [
+       0,
+       0
+      ],
+      "change_month": [
        0,
        0
       ]
@@ -18449,7 +18733,11 @@
        352900,
        352900
       ],
-      "change": [
+      "change_week": [
+       0,
+       0
+      ],
+      "change_month": [
        0,
        0
       ]
@@ -18460,7 +18748,11 @@
        133200,
        133200
       ],
-      "change": [
+      "change_week": [
+       0,
+       0
+      ],
+      "change_month": [
        0,
        0
       ]
@@ -18471,7 +18763,11 @@
        54200,
        54200
       ],
-      "change": [
+      "change_week": [
+       0,
+       0
+      ],
+      "change_month": [
        0,
        0
       ]
@@ -18482,7 +18778,11 @@
        192000,
        192000
       ],
-      "change": [
+      "change_week": [
+       0,
+       0
+      ],
+      "change_month": [
        0,
        0
       ]
@@ -18495,7 +18795,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -18506,7 +18810,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -18517,7 +18825,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -18528,7 +18840,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -18539,7 +18855,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -18550,7 +18870,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -18561,7 +18885,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -18572,7 +18900,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -18583,7 +18915,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -18594,7 +18930,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -18605,7 +18945,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -18616,7 +18960,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -18627,7 +18975,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -18638,7 +18990,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -18649,7 +19005,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -18660,7 +19020,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -18671,7 +19035,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -18682,7 +19050,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -18693,7 +19065,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -18704,7 +19080,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -18715,7 +19095,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -18726,7 +19110,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -18737,7 +19125,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -18748,7 +19140,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -18759,7 +19155,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -18770,7 +19170,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -18781,7 +19185,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -18792,7 +19200,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -18803,7 +19215,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -18814,7 +19230,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -18825,7 +19245,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -18836,7 +19260,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -18847,7 +19275,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -18858,7 +19290,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -18869,7 +19305,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -18880,7 +19320,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -18891,7 +19335,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -18902,7 +19350,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -18913,7 +19365,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -18924,7 +19380,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -18935,7 +19395,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -18946,7 +19410,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -18961,7 +19429,11 @@
        912593,
        912593
       ],
-      "change": [
+      "change_week": [
+       0,
+       0
+      ],
+      "change_month": [
        0,
        0
       ]
@@ -18972,7 +19444,11 @@
        1181683,
        1181683
       ],
-      "change": [
+      "change_week": [
+       0,
+       0
+      ],
+      "change_month": [
        0,
        0
       ]
@@ -18983,7 +19459,11 @@
        226622,
        226622
       ],
-      "change": [
+      "change_week": [
+       0,
+       0
+      ],
+      "change_month": [
        0,
        0
       ]
@@ -18994,7 +19474,11 @@
        625014,
        625014
       ],
-      "change": [
+      "change_week": [
+       0,
+       0
+      ],
+      "change_month": [
        0,
        0
       ]
@@ -19005,7 +19489,11 @@
        460399,
        460399
       ],
-      "change": [
+      "change_week": [
+       0,
+       0
+      ],
+      "change_month": [
        0,
        0
       ]
@@ -19016,7 +19504,11 @@
        313149,
        313149
       ],
-      "change": [
+      "change_week": [
+       0,
+       0
+      ],
+      "change_month": [
        0,
        0
       ]
@@ -19027,7 +19519,11 @@
        115626,
        115626
       ],
-      "change": [
+      "change_week": [
+       0,
+       0
+      ],
+      "change_month": [
        0,
        0
       ]
@@ -19038,7 +19534,11 @@
        608109,
        608109
       ],
-      "change": [
+      "change_week": [
+       0,
+       0
+      ],
+      "change_month": [
        0,
        0
       ]
@@ -19049,7 +19549,11 @@
        35886,
        35886
       ],
-      "change": [
+      "change_week": [
+       0,
+       0
+      ],
+      "change_month": [
        0,
        0
       ]
@@ -19060,7 +19564,11 @@
        70567,
        70567
       ],
-      "change": [
+      "change_week": [
+       0,
+       0
+      ],
+      "change_month": [
        0,
        0
       ]
@@ -19071,7 +19579,11 @@
        29313,
        29313
       ],
-      "change": [
+      "change_week": [
+       0,
+       0
+      ],
+      "change_month": [
        0,
        0
       ]
@@ -19082,7 +19594,11 @@
        450074,
        450074
       ],
-      "change": [
+      "change_week": [
+       0,
+       0
+      ],
+      "change_month": [
        0,
        0
       ]
@@ -19095,7 +19611,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -19106,7 +19626,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -19117,7 +19641,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -19128,7 +19656,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -19139,7 +19671,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -19150,7 +19686,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -19161,7 +19701,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -19172,7 +19716,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -19183,7 +19731,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -19194,7 +19746,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -19205,7 +19761,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -19216,7 +19776,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -19227,7 +19791,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -19238,7 +19806,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -19249,7 +19821,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -19260,7 +19836,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -19271,7 +19851,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -19282,7 +19866,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -19293,7 +19881,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -19304,7 +19896,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -19315,7 +19911,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -19326,7 +19926,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -19337,7 +19941,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -19348,7 +19956,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -19359,7 +19971,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -19370,7 +19986,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -19381,7 +20001,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -19392,7 +20016,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -19403,7 +20031,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -19414,7 +20046,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -19425,7 +20061,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -19436,7 +20076,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -19447,7 +20091,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -19458,7 +20106,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -19469,7 +20121,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -19480,7 +20136,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -19491,7 +20151,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -19502,7 +20166,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -19513,7 +20181,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -19524,7 +20196,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -19535,7 +20211,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -19546,7 +20226,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -19561,7 +20245,11 @@
        3048888,
        3048888
       ],
-      "change": [
+      "change_week": [
+       0,
+       0
+      ],
+      "change_month": [
        0,
        0
       ]
@@ -19572,7 +20260,11 @@
        2724191,
        2724191
       ],
-      "change": [
+      "change_week": [
+       0,
+       0
+      ],
+      "change_month": [
        0,
        0
       ]
@@ -19583,7 +20275,11 @@
        942793,
        942793
       ],
-      "change": [
+      "change_week": [
+       0,
+       0
+      ],
+      "change_month": [
        0,
        0
       ]
@@ -19594,7 +20290,11 @@
        310383,
        310383
       ],
-      "change": [
+      "change_week": [
+       0,
+       0
+      ],
+      "change_month": [
        0,
        0
       ]
@@ -19605,7 +20305,11 @@
        290351,
        290351
       ],
-      "change": [
+      "change_week": [
+       0,
+       0
+      ],
+      "change_month": [
        0,
        0
       ]
@@ -19616,7 +20320,11 @@
        575704,
        575704
       ],
-      "change": [
+      "change_week": [
+       0,
+       0
+      ],
+      "change_month": [
        0,
        0
       ]
@@ -19627,7 +20335,11 @@
        215344,
        215344
       ],
-      "change": [
+      "change_week": [
+       0,
+       0
+      ],
+      "change_month": [
        0,
        0
       ]
@@ -19638,7 +20350,11 @@
        222186,
        222186
       ],
-      "change": [
+      "change_week": [
+       0,
+       0
+      ],
+      "change_month": [
        0,
        0
       ]
@@ -19649,7 +20365,11 @@
        105263,
        105263
       ],
-      "change": [
+      "change_week": [
+       0,
+       0
+      ],
+      "change_month": [
        0,
        0
       ]
@@ -19660,7 +20380,11 @@
        470137,
        470137
       ],
-      "change": [
+      "change_week": [
+       0,
+       0
+      ],
+      "change_month": [
        0,
        0
       ]
@@ -19671,7 +20395,11 @@
        51142,
        51142
       ],
-      "change": [
+      "change_week": [
+       0,
+       0
+      ],
+      "change_month": [
        0,
        0
       ]
@@ -19682,7 +20410,11 @@
        444627,
        444627
       ],
-      "change": [
+      "change_week": [
+       0,
+       0
+      ],
+      "change_month": [
        0,
        0
       ]
@@ -19695,7 +20427,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -19706,7 +20442,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -19717,7 +20457,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -19728,7 +20472,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -19739,7 +20487,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -19750,7 +20502,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -19761,7 +20517,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -19772,7 +20532,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -19783,7 +20547,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -19794,7 +20562,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -19805,7 +20577,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -19816,7 +20592,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -19827,7 +20607,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -19838,7 +20622,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -19849,7 +20637,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -19860,7 +20652,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -19871,7 +20667,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -19882,7 +20682,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -19893,7 +20697,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -19904,7 +20712,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -19915,7 +20727,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -19926,7 +20742,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -19937,7 +20757,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -19948,7 +20772,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -19959,7 +20787,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -19970,7 +20802,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -19981,7 +20817,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -19992,7 +20832,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -20003,7 +20847,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -20014,7 +20862,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -20025,7 +20877,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -20036,7 +20892,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -20047,7 +20907,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -20058,7 +20922,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -20069,7 +20937,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -20080,7 +20952,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -20091,7 +20967,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -20102,7 +20982,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -20113,7 +20997,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -20124,7 +21012,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -20135,7 +21027,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -20146,7 +21042,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -20161,7 +21061,11 @@
        null,
        2200000
       ],
-      "change": [
+      "change_week": [
+       null,
+       0
+      ],
+      "change_month": [
        null,
        0
       ]
@@ -20172,7 +21076,11 @@
        null,
        2100000
       ],
-      "change": [
+      "change_week": [
+       null,
+       0
+      ],
+      "change_month": [
        null,
        0
       ]
@@ -20183,7 +21091,11 @@
        null,
        272000
       ],
-      "change": [
+      "change_week": [
+       null,
+       0
+      ],
+      "change_month": [
        null,
        0
       ]
@@ -20194,7 +21106,11 @@
        null,
        191000
       ],
-      "change": [
+      "change_week": [
+       null,
+       0
+      ],
+      "change_month": [
        null,
        0
       ]
@@ -20205,7 +21121,11 @@
        null,
        190000
       ],
-      "change": [
+      "change_week": [
+       null,
+       0
+      ],
+      "change_month": [
        null,
        0
       ]
@@ -20216,7 +21136,11 @@
        null,
        472000
       ],
-      "change": [
+      "change_week": [
+       null,
+       0
+      ],
+      "change_month": [
        null,
        0
       ]
@@ -20227,7 +21151,11 @@
        null,
        133000
       ],
-      "change": [
+      "change_week": [
+       null,
+       0
+      ],
+      "change_month": [
        null,
        0
       ]
@@ -20238,7 +21166,11 @@
        null,
        138000
       ],
-      "change": [
+      "change_week": [
+       null,
+       0
+      ],
+      "change_month": [
        null,
        0
       ]
@@ -20249,7 +21181,11 @@
        null,
        43000
       ],
-      "change": [
+      "change_week": [
+       null,
+       0
+      ],
+      "change_month": [
        null,
        0
       ]
@@ -20260,7 +21196,11 @@
        null,
        819000
       ],
-      "change": [
+      "change_week": [
+       null,
+       0
+      ],
+      "change_month": [
        null,
        0
       ]
@@ -20271,7 +21211,11 @@
        null,
        59000
       ],
-      "change": [
+      "change_week": [
+       null,
+       0
+      ],
+      "change_month": [
        null,
        0
       ]
@@ -20282,7 +21226,11 @@
        null,
        952000
       ],
-      "change": [
+      "change_week": [
+       null,
+       0
+      ],
+      "change_month": [
        null,
        0
       ]
@@ -20295,7 +21243,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -20306,7 +21258,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -20317,7 +21273,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -20328,7 +21288,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -20339,7 +21303,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -20350,7 +21318,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -20361,7 +21333,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -20372,7 +21348,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -20383,7 +21363,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -20394,7 +21378,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -20405,7 +21393,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -20416,7 +21408,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -20427,7 +21423,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -20438,7 +21438,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -20449,7 +21453,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -20460,7 +21468,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -20471,7 +21483,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -20482,7 +21498,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -20493,7 +21513,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -20504,7 +21528,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -20515,7 +21543,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -20526,7 +21558,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -20537,7 +21573,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -20548,7 +21588,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -20559,7 +21603,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -20570,7 +21618,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -20581,7 +21633,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -20592,7 +21648,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -20603,7 +21663,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -20614,7 +21678,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -20625,7 +21693,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -20636,7 +21708,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -20647,7 +21723,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -20658,7 +21738,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -20669,7 +21753,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -20680,7 +21768,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -20691,7 +21783,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -20702,7 +21798,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -20713,7 +21813,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -20724,7 +21828,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -20735,7 +21843,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -20746,7 +21858,11 @@
        null,
        null
       ],
-      "change": [
+      "change_week": [
+       null,
+       null
+      ],
+      "change_month": [
        null,
        null
       ]
@@ -20852,7 +21968,7 @@
      9360,
      9370,
      9370,
-     9370
+     9380
     ],
     "latest": {
      "date": "2026-10-30",
@@ -20860,7 +21976,7 @@
      "kind": "candidate",
      "title": "Edouard Philippe",
      "channel_id": "UCoDttl6w1T-Stuw_pvNOvLA",
-     "subscribers": 9370,
+     "subscribers": 9380,
      "views": 1601464,
      "videos": 188
     }
@@ -21044,13 +22160,13 @@
      7563,
      7567,
      7568,
-     7568
+     7570
     ],
     "change": [
      0,
      4,
      5,
-     5
+     7
     ],
     "subscribers": [
      1020,
@@ -21065,7 +22181,7 @@
      "title": "Fabien Roussel",
      "channel_id": "UCHQbUAkpnkf_Yg6-xAqj-ZA",
      "subscribers": 1020,
-     "views": 7568,
+     "views": 7570,
      "videos": 25
     }
    },
@@ -21204,7 +22320,7 @@
      "channel_id": "UCO6K_kkdP-lnSCiO3tPx7WA",
      "subscribers": 1090000,
      "views": 681499716,
-     "videos": 29219
+     "videos": 29220
     }
    },
    {
@@ -21306,7 +22422,7 @@
      "channel_id": "UCXKJrYczY2_fJEZgFPGY0HQ",
      "subscribers": 653000,
      "views": 512744900,
-     "videos": 40527
+     "videos": 40529
     }
    },
    {
@@ -21374,7 +22490,7 @@
      "channel_id": "UCCBR4hxc0hMbWs0IfBljQMg",
      "subscribers": 418000,
      "views": 270775183,
-     "videos": 7229
+     "videos": 7230
     }
    },
    {
@@ -21408,7 +22524,7 @@
      "channel_id": "UCJldRgT_D7Am-ErRHQZ90uw",
      "subscribers": 1440000,
      "views": 2241540675,
-     "videos": 52947
+     "videos": 52949
     }
    },
    {
@@ -21442,7 +22558,7 @@
      "channel_id": "UCIMGfEAERXjmWwQeg15BFsg",
      "subscribers": 2300000,
      "views": 1988351379,
-     "videos": 181131
+     "videos": 181134
     }
    },
    {
@@ -21544,7 +22660,7 @@
      "channel_id": "UCdnaDhU-LDQrIEEmSIfq0-Q",
      "subscribers": 1190000,
      "views": 329413517,
-     "videos": 4599
+     "videos": 4600
     }
    },
    {
@@ -21830,19 +22946,19 @@
      null,
      null,
      61636,
-     61638
+     61640
     ],
     "change": [
      null,
      null,
      0,
-     2
+     4
     ],
     "subscribers": [
      null,
      null,
      452,
-     453
+     452
     ],
     "latest": {
      "date": "2026-10-30",
@@ -21850,8 +22966,8 @@
      "kind": "influencer",
      "title": "Sébastien Chenu",
      "channel_id": "UCLIkvB45uDsLB5VXtkdWi0w",
-     "subscribers": 453,
-     "views": 61638,
+     "subscribers": 452,
+     "views": 61640,
      "videos": 83
     }
    },
@@ -22034,13 +23150,13 @@
      98999,
      99051,
      99124,
-     99134
+     99168
     ],
     "change": [
      0,
      52,
      125,
-     135
+     169
     ],
     "subscribers": [
      135,
@@ -22055,7 +23171,7 @@
      "title": "Olivier Faure",
      "channel_id": "UCZ77yq9aznMT9slLfWOCSlg",
      "subscribers": 135,
-     "views": 99134,
+     "views": 99168,
      "videos": 35
     }
    },
@@ -22238,13 +23354,13 @@
      null,
      null,
      36130,
-     36130
+     36131
     ],
     "change": [
      null,
      null,
      0,
-     0
+     1
     ],
     "subscribers": [
      null,
@@ -22259,7 +23375,7 @@
      "title": "BorisVallaud",
      "channel_id": "UCScGc5Cd6h3Y_djPloqI7UA",
      "subscribers": 344,
-     "views": 36130,
+     "views": 36131,
      "videos": 51
     }
    },
@@ -22408,13 +23524,13 @@
      null,
      null,
      813828,
-     813860
+     813832
     ],
     "change": [
      null,
      null,
      0,
-     32
+     4
     ],
     "subscribers": [
      null,
@@ -22429,7 +23545,7 @@
      "title": "Yannick Jadot 2022",
      "channel_id": "UCw7v4zI01GNLUO6jYgIHx0w",
      "subscribers": 3360,
-     "views": 813860,
+     "views": 813832,
      "videos": 248
     }
    },
@@ -22442,13 +23558,13 @@
      null,
      0,
      27442,
-     27443
+     27444
     ],
     "change": [
      null,
      0,
      27442,
-     27443
+     27444
     ],
     "subscribers": [
      null,
@@ -22463,7 +23579,7 @@
      "title": "Pierre-Yves Bournazel",
      "channel_id": "UCODxvcNsW3aadQfVaUvpNYQ",
      "subscribers": 207,
-     "views": 27443,
+     "views": 27444,
      "videos": 225
     }
    }
@@ -22478,7 +23594,7 @@
    "candidates": [
     "François Ruffin"
    ],
-   "views": 2094,
+   "views": 2656,
    "url": "https://www.youtube.com/watch?v=9N84EmtDhhY"
   },
   {
@@ -22489,7 +23605,7 @@
    "candidates": [
     "Marine Le Pen"
    ],
-   "views": 5484,
+   "views": 6229,
    "url": "https://www.youtube.com/watch?v=Y-fVDcOVvYQ"
   },
   {
@@ -22501,7 +23617,7 @@
     "Marine Le Pen",
     "Jean-Luc Mélenchon"
    ],
-   "views": 13234,
+   "views": 13752,
    "url": "https://www.youtube.com/watch?v=vNfWmhT75Ww"
   },
   {
@@ -22523,7 +23639,7 @@
    "candidates": [
     "David Lisnard"
    ],
-   "views": 33891,
+   "views": 34006,
    "url": "https://www.youtube.com/watch?v=T5V0EuKiNew"
   },
   {
@@ -22545,7 +23661,7 @@
    "candidates": [
     "Bruno Retailleau"
    ],
-   "views": 17180,
+   "views": 17208,
    "url": "https://www.youtube.com/watch?v=fxpM4ykJ090"
   },
   {
@@ -22578,7 +23694,7 @@
    "candidates": [
     "Bruno Retailleau"
    ],
-   "views": 29274,
+   "views": 29294,
    "url": "https://www.youtube.com/watch?v=hd0SNAV3PCQ"
   },
   {
@@ -22589,7 +23705,7 @@
    "candidates": [
     "Bruno Retailleau"
    ],
-   "views": 9998,
+   "views": 10007,
    "url": "https://www.youtube.com/watch?v=pe-EZdVbNos"
   },
   {
@@ -22600,7 +23716,7 @@
    "candidates": [
     "Bruno Retailleau"
    ],
-   "views": 5258,
+   "views": 5285,
    "url": "https://www.youtube.com/watch?v=iOtK9xC_6so"
   },
   {
@@ -22611,7 +23727,7 @@
    "candidates": [
     "Bruno Retailleau"
    ],
-   "views": 8620,
+   "views": 8827,
    "url": "https://www.youtube.com/watch?v=5zoXSBVw4VM"
   },
   {
@@ -22622,7 +23738,7 @@
    "candidates": [
     "David Lisnard"
    ],
-   "views": 17047,
+   "views": 17054,
    "url": "https://www.youtube.com/watch?v=7GyPwKOBlRs"
   },
   {
@@ -22633,7 +23749,7 @@
    "candidates": [
     "David Lisnard"
    ],
-   "views": 8815,
+   "views": 8857,
    "url": "https://www.youtube.com/watch?v=MFs1HZoF-_c"
   },
   {
@@ -22655,7 +23771,7 @@
    "candidates": [
     "David Lisnard"
    ],
-   "views": 41955,
+   "views": 42107,
    "url": "https://www.youtube.com/watch?v=RFqaVCaPTcI"
   },
   {
@@ -22678,7 +23794,7 @@
    "candidates": [
     "David Lisnard"
    ],
-   "views": 59420,
+   "views": 59627,
    "url": "https://www.youtube.com/watch?v=yuGe2Ao5QyY"
   },
   {
@@ -22689,7 +23805,7 @@
    "candidates": [
     "David Lisnard"
    ],
-   "views": 19664,
+   "views": 19687,
    "url": "https://www.youtube.com/watch?v=9nPRVQ1wwi8"
   },
   {
@@ -22700,7 +23816,7 @@
    "candidates": [
     "David Lisnard"
    ],
-   "views": 3501,
+   "views": 3514,
    "url": "https://www.youtube.com/watch?v=hOzC7iULX8c"
   },
   {
@@ -22711,7 +23827,7 @@
    "candidates": [
     "David Lisnard"
    ],
-   "views": 40656,
+   "views": 40876,
    "url": "https://www.youtube.com/watch?v=-TFie1GktyQ"
   },
   {
@@ -22722,7 +23838,7 @@
    "candidates": [
     "David Lisnard"
    ],
-   "views": 6212,
+   "views": 6250,
    "url": "https://www.youtube.com/watch?v=Owi7FBzg_UY"
   },
   {
@@ -22733,7 +23849,7 @@
    "candidates": [
     "David Lisnard"
    ],
-   "views": 1521,
+   "views": 1520,
    "url": "https://www.youtube.com/watch?v=8rx5Gbmk7Pg"
   },
   {
@@ -22744,7 +23860,7 @@
    "candidates": [
     "David Lisnard"
    ],
-   "views": 12938,
+   "views": 12935,
    "url": "https://www.youtube.com/watch?v=xe8ONbQq7pY"
   },
   {
@@ -22755,7 +23871,7 @@
    "candidates": [
     "David Lisnard"
    ],
-   "views": 2074,
+   "views": 2078,
    "url": "https://www.youtube.com/watch?v=HHA6807riJY"
   },
   {
@@ -22767,7 +23883,7 @@
     "Bruno Retailleau",
     "David Lisnard"
    ],
-   "views": 20937,
+   "views": 20955,
    "url": "https://www.youtube.com/watch?v=dk5S6Qu6z8c"
   },
   {
@@ -22778,7 +23894,7 @@
    "candidates": [
     "David Lisnard"
    ],
-   "views": 26237,
+   "views": 26245,
    "url": "https://www.youtube.com/watch?v=yS22eNjQLGE"
   },
   {
@@ -22800,7 +23916,7 @@
    "candidates": [
     "David Lisnard"
    ],
-   "views": 8819,
+   "views": 8820,
    "url": "https://www.youtube.com/watch?v=LWIXmFxh-xw"
   },
   {
@@ -22823,7 +23939,7 @@
    "candidates": [
     "David Lisnard"
    ],
-   "views": 26825,
+   "views": 26844,
    "url": "https://www.youtube.com/watch?v=C8Lsv42R6jE"
   },
   {
@@ -22845,7 +23961,7 @@
    "candidates": [
     "David Lisnard"
    ],
-   "views": 14557,
+   "views": 14680,
    "url": "https://www.youtube.com/watch?v=9Bv5Qwkm72Q"
   },
   {
@@ -22856,7 +23972,7 @@
    "candidates": [
     "Bruno Retailleau"
    ],
-   "views": 7709,
+   "views": 7701,
    "url": "https://www.youtube.com/watch?v=55dZ64lRTI0"
   },
   {
@@ -22889,7 +24005,7 @@
    "candidates": [
     "Jean-Luc Mélenchon"
    ],
-   "views": 15961,
+   "views": 15955,
    "url": "https://www.youtube.com/watch?v=gT1syz8iHXQ"
   },
   {
@@ -23021,7 +24137,7 @@
    "candidates": [
     "Marine Le Pen"
    ],
-   "views": 102467,
+   "views": 102451,
    "url": "https://www.youtube.com/watch?v=B1xZD9BBZh8"
   },
   {
@@ -23032,7 +24148,7 @@
    "candidates": [
     "Marine Le Pen"
    ],
-   "views": 21574,
+   "views": 21572,
    "url": "https://www.youtube.com/watch?v=tyl_gME9frM"
   },
   {
@@ -23055,7 +24171,7 @@
    "candidates": [
     "Marine Le Pen"
    ],
-   "views": 98853,
+   "views": 98884,
    "url": "https://www.youtube.com/watch?v=U_feJRLxrY0"
   },
   {
@@ -23066,7 +24182,7 @@
    "candidates": [
     "Jean-Luc Mélenchon"
    ],
-   "views": 9227,
+   "views": 9226,
    "url": "https://www.youtube.com/watch?v=oOJxCDAaYFI"
   },
   {
@@ -23077,7 +24193,7 @@
    "candidates": [
     "Marine Le Pen"
    ],
-   "views": 73777,
+   "views": 73785,
    "url": "https://www.youtube.com/watch?v=7j51nrkMWQg"
   },
   {
@@ -23099,7 +24215,7 @@
    "candidates": [
     "Marine Le Pen"
    ],
-   "views": 77918,
+   "views": 77937,
    "url": "https://www.youtube.com/watch?v=5w1izGjq4jI"
   },
   {
@@ -23110,7 +24226,7 @@
    "candidates": [
     "Marine Le Pen"
    ],
-   "views": 19546,
+   "views": 19543,
    "url": "https://www.youtube.com/watch?v=z0uUWfS_OEI"
   },
   {
@@ -23132,7 +24248,7 @@
    "candidates": [
     "Marine Le Pen"
    ],
-   "views": 154151,
+   "views": 154164,
    "url": "https://www.youtube.com/watch?v=jfCrEoPm1K4"
   }
  ],
@@ -23145,7 +24261,7 @@
    "candidates": [
     "Dominique de Villepin"
    ],
-   "views": 866,
+   "views": 930,
    "url": "https://www.youtube.com/watch?v=ISoQaFyQLCw"
   },
   {
@@ -23156,7 +24272,7 @@
    "candidates": [
     "François Ruffin"
    ],
-   "views": 507,
+   "views": 738,
    "url": "https://www.youtube.com/watch?v=-EUH1C4YoaQ"
   },
   {
@@ -23167,7 +24283,7 @@
    "candidates": [
     "David Lisnard"
    ],
-   "views": 626,
+   "views": 758,
    "url": "https://www.youtube.com/watch?v=yXbWqOpnC7A"
   },
   {
@@ -23178,7 +24294,7 @@
    "candidates": [
     "Marine Le Pen"
    ],
-   "views": 1435,
+   "views": 1842,
    "url": "https://www.youtube.com/watch?v=BPIukT6fc6U"
   },
   {
@@ -23189,7 +24305,7 @@
    "candidates": [
     "Marine Le Pen"
    ],
-   "views": 2492,
+   "views": 2787,
    "url": "https://www.youtube.com/watch?v=mrKpKTVFFgY"
   },
   {
@@ -23200,7 +24316,7 @@
    "candidates": [
     "Manon Aubry"
    ],
-   "views": 2914,
+   "views": 3163,
    "url": "https://www.youtube.com/watch?v=q-Q5cGTRtUE"
   },
   {
@@ -23211,7 +24327,7 @@
    "candidates": [
     "Marine Le Pen"
    ],
-   "views": 4240,
+   "views": 4476,
    "url": "https://www.youtube.com/watch?v=cICx-7ajWtA"
   },
   {
@@ -23222,7 +24338,7 @@
    "candidates": [
     "Marine Le Pen"
    ],
-   "views": 3386,
+   "views": 3557,
    "url": "https://www.youtube.com/watch?v=qu30BVXkUXo"
   },
   {
@@ -23233,7 +24349,7 @@
    "candidates": [
     "Marine Le Pen"
    ],
-   "views": 3480,
+   "views": 3633,
    "url": "https://www.youtube.com/watch?v=a6e0HbpQSs0"
   },
   {
@@ -23244,7 +24360,7 @@
    "candidates": [
     "Marine Le Pen"
    ],
-   "views": 5718,
+   "views": 6037,
    "url": "https://www.youtube.com/watch?v=jr-rSGNEZaA"
   },
   {
@@ -23255,7 +24371,7 @@
    "candidates": [
     "Sarah Knafo"
    ],
-   "views": 64664,
+   "views": 68249,
    "url": "https://www.youtube.com/watch?v=cPG6m7uRC4s"
   },
   {
@@ -23266,7 +24382,7 @@
    "candidates": [
     "Sarah Knafo"
    ],
-   "views": 77029,
+   "views": 80305,
    "url": "https://www.youtube.com/watch?v=-YxZ6oo2gjQ"
   },
   {
@@ -23277,7 +24393,7 @@
    "candidates": [
     "Marine Le Pen"
    ],
-   "views": 6894,
+   "views": 7123,
    "url": "https://www.youtube.com/watch?v=eER8F98yUsU"
   },
   {
@@ -23288,7 +24404,7 @@
    "candidates": [
     "Nathalie Arthaud"
    ],
-   "views": 1620,
+   "views": 1656,
    "url": "https://www.youtube.com/watch?v=Kkt3570J7-g"
   },
   {
@@ -23299,7 +24415,7 @@
    "candidates": [
     "Marine Le Pen"
    ],
-   "views": 6943,
+   "views": 7220,
    "url": "https://www.youtube.com/watch?v=PutdU9IIAus"
   },
   {
@@ -23310,7 +24426,7 @@
    "candidates": [
     "Mathilde Panot"
    ],
-   "views": 4801,
+   "views": 4874,
    "url": "https://www.youtube.com/watch?v=zhD6-b4ltno"
   },
   {
@@ -23321,7 +24437,7 @@
    "candidates": [
     "Marine Le Pen"
    ],
-   "views": 10042,
+   "views": 10104,
    "url": "https://www.youtube.com/watch?v=5VJzd8zdH_c"
   },
   {
@@ -23332,7 +24448,7 @@
    "candidates": [
     "Jordan Bardella"
    ],
-   "views": 9668,
+   "views": 9852,
    "url": "https://www.youtube.com/watch?v=pPHykhb3iJA"
   },
   {
@@ -23343,7 +24459,7 @@
    "candidates": [
     "Manon Aubry"
    ],
-   "views": 3703,
+   "views": 3781,
    "url": "https://www.youtube.com/watch?v=bm5Sp0g_ONk"
   },
   {
@@ -23354,7 +24470,7 @@
    "candidates": [
     "David Lisnard"
    ],
-   "views": 29592,
+   "views": 30180,
    "url": "https://www.youtube.com/watch?v=Mz8mGdpK7As"
   },
   {
@@ -23365,7 +24481,7 @@
    "candidates": [
     "Marine Le Pen"
    ],
-   "views": 4004,
+   "views": 4042,
    "url": "https://www.youtube.com/watch?v=gtv0mkdyuxg"
   },
   {
@@ -23376,7 +24492,7 @@
    "candidates": [
     "Dominique de Villepin"
    ],
-   "views": 5510,
+   "views": 5570,
    "url": "https://www.youtube.com/watch?v=owkrNt1LUGA"
   },
   {
@@ -23387,7 +24503,7 @@
    "candidates": [
     "Jordan Bardella"
    ],
-   "views": 42136,
+   "views": 42766,
    "url": "https://www.youtube.com/watch?v=8cUUBCLiuqs"
   },
   {
@@ -23398,7 +24514,7 @@
    "candidates": [
     "Marine Le Pen"
    ],
-   "views": 6878,
+   "views": 6899,
    "url": "https://www.youtube.com/watch?v=AQoKHyQzNPI"
   },
   {
@@ -23409,7 +24525,7 @@
    "candidates": [
     "Manon Aubry"
    ],
-   "views": 10423,
+   "views": 10691,
    "url": "https://www.youtube.com/watch?v=5jDB82upFaA"
   },
   {
@@ -23420,7 +24536,7 @@
    "candidates": [
     "Marine Le Pen"
    ],
-   "views": 12397,
+   "views": 12496,
    "url": "https://www.youtube.com/watch?v=o4vzTTfJx2k"
   },
   {
@@ -23431,7 +24547,7 @@
    "candidates": [
     "David Lisnard"
    ],
-   "views": 13191,
+   "views": 13308,
    "url": "https://www.youtube.com/watch?v=M-Z5lLsBrNs"
   },
   {
@@ -23442,7 +24558,7 @@
    "candidates": [
     "Marine Le Pen"
    ],
-   "views": 23378,
+   "views": 23985,
    "url": "https://www.youtube.com/watch?v=GNT9nj_0rTk"
   },
   {
@@ -23453,7 +24569,7 @@
    "candidates": [
     "Manuel Bompard"
    ],
-   "views": 118168,
+   "views": 118992,
    "url": "https://www.youtube.com/watch?v=KGo4GoqcQN0"
   },
   {
@@ -23464,7 +24580,7 @@
    "candidates": [
     "Clémence Guetté"
    ],
-   "views": 108032,
+   "views": 109173,
    "url": "https://www.youtube.com/watch?v=9xz7DepZP_o"
   },
   {
@@ -23475,7 +24591,7 @@
    "candidates": [
     "David Lisnard"
    ],
-   "views": 18885,
+   "views": 19002,
    "url": "https://www.youtube.com/watch?v=I8eSKcUld-M"
   },
   {
@@ -23486,7 +24602,7 @@
    "candidates": [
     "Manon Aubry"
    ],
-   "views": 40288,
+   "views": 40466,
    "url": "https://www.youtube.com/watch?v=UXFANfJSreQ"
   },
   {
@@ -23497,7 +24613,7 @@
    "candidates": [
     "Jean-Luc Mélenchon"
    ],
-   "views": 123070,
+   "views": 124222,
    "url": "https://www.youtube.com/watch?v=w9FA0LTuhVk"
   },
   {
@@ -23508,7 +24624,7 @@
    "candidates": [
     "David Lisnard"
    ],
-   "views": 24525,
+   "views": 24611,
    "url": "https://www.youtube.com/watch?v=1OwMMFAGiew"
   },
   {
@@ -23519,7 +24635,7 @@
    "candidates": [
     "Marine Le Pen"
    ],
-   "views": 19275,
+   "views": 19345,
    "url": "https://www.youtube.com/watch?v=QUu-9zqa6q8"
   },
   {
@@ -23530,7 +24646,7 @@
    "candidates": [
     "Manuel Bompard"
    ],
-   "views": 104063,
+   "views": 104370,
    "url": "https://www.youtube.com/watch?v=h9yyST8sZFc"
   },
   {
@@ -23541,7 +24657,7 @@
    "candidates": [
     "Éric Zemmour"
    ],
-   "views": 35051,
+   "views": 35169,
    "url": "https://www.youtube.com/watch?v=rst_OSYJOLY"
   },
   {
@@ -23552,7 +24668,7 @@
    "candidates": [
     "Marine Le Pen"
    ],
-   "views": 33767,
+   "views": 33935,
    "url": "https://www.youtube.com/watch?v=sakQa7ib91k"
   },
   {
@@ -23563,7 +24679,7 @@
    "candidates": [
     "Marine Le Pen"
    ],
-   "views": 32851,
+   "views": 32905,
    "url": "https://www.youtube.com/watch?v=dXUhUmYWYsg"
   },
   {
@@ -23574,7 +24690,7 @@
    "candidates": [
     "Marine Le Pen"
    ],
-   "views": 41150,
+   "views": 41205,
    "url": "https://www.youtube.com/watch?v=4IzEK2dXP24"
   },
   {
@@ -23585,7 +24701,7 @@
    "candidates": [
     "Marine Le Pen"
    ],
-   "views": 30564,
+   "views": 30770,
    "url": "https://www.youtube.com/watch?v=bIVnw2iBiBo"
   },
   {
@@ -23596,7 +24712,7 @@
    "candidates": [
     "Marine Le Pen"
    ],
-   "views": 43978,
+   "views": 44078,
    "url": "https://www.youtube.com/watch?v=hPuS0SG4k8I"
   },
   {
@@ -23607,7 +24723,7 @@
    "candidates": [
     "Marine Le Pen"
    ],
-   "views": 10617,
+   "views": 10710,
    "url": "https://www.youtube.com/watch?v=jJPPwIk1L8s"
   },
   {
@@ -23618,7 +24734,7 @@
    "candidates": [
     "Sarah Knafo"
    ],
-   "views": 48956,
+   "views": 49090,
    "url": "https://www.youtube.com/watch?v=cuSDEzwEIMw"
   },
   {
@@ -23629,7 +24745,7 @@
    "candidates": [
     "Manon Aubry"
    ],
-   "views": 13703,
+   "views": 13723,
    "url": "https://www.youtube.com/watch?v=H8nMZanJkmc"
   },
   {
@@ -23640,7 +24756,7 @@
    "candidates": [
     "Marine Le Pen"
    ],
-   "views": 23565,
+   "views": 23597,
    "url": "https://www.youtube.com/watch?v=pFUv1ey5tp0"
   },
   {
@@ -23651,7 +24767,7 @@
    "candidates": [
     "Sarah Knafo"
    ],
-   "views": 50168,
+   "views": 50316,
    "url": "https://www.youtube.com/watch?v=E1eeywGRj20"
   },
   {
@@ -23662,7 +24778,7 @@
    "candidates": [
     "Sarah Knafo"
    ],
-   "views": 139750,
+   "views": 140267,
    "url": "https://www.youtube.com/watch?v=A_eq-uoe3qE"
   },
   {
@@ -23673,7 +24789,7 @@
    "candidates": [
     "Clémence Guetté"
    ],
-   "views": 26524,
+   "views": 26596,
    "url": "https://www.youtube.com/watch?v=01Ccaru0V-4"
   },
   {
@@ -23684,7 +24800,7 @@
    "candidates": [
     "Mathilde Panot"
    ],
-   "views": 3895,
+   "views": 3901,
    "url": "https://www.youtube.com/watch?v=Pq4txiP0ZEs"
   },
   {
@@ -23695,7 +24811,7 @@
    "candidates": [
     "François-Xavier Bellamy"
    ],
-   "views": 2168,
+   "views": 2149,
    "url": "https://www.youtube.com/watch?v=POLh0oTA1MA"
   },
   {
@@ -23706,7 +24822,7 @@
    "candidates": [
     "Marine Le Pen"
    ],
-   "views": 15573,
+   "views": 15584,
    "url": "https://www.youtube.com/watch?v=7la2_MT-ciY"
   },
   {
@@ -23717,7 +24833,7 @@
    "candidates": [
     "Nicolas Dupont-Aignan"
    ],
-   "views": 8076,
+   "views": 8098,
    "url": "https://www.youtube.com/watch?v=C1BhaO1by08"
   },
   {
@@ -23728,7 +24844,7 @@
    "candidates": [
     "Sarah Knafo"
    ],
-   "views": 342991,
+   "views": 343840,
    "url": "https://www.youtube.com/watch?v=fr1ak_C3uTI"
   },
   {
@@ -23739,7 +24855,7 @@
    "candidates": [
     "Jean-Luc Mélenchon"
    ],
-   "views": 81177,
+   "views": 81404,
    "url": "https://www.youtube.com/watch?v=2U7RJH0GkGU"
   },
   {
@@ -23750,7 +24866,7 @@
    "candidates": [
     "Mathilde Panot"
    ],
-   "views": 14992,
+   "views": 15042,
    "url": "https://www.youtube.com/watch?v=o0LjwGTeiMw"
   },
   {
@@ -23761,7 +24877,7 @@
    "candidates": [
     "Bruno Retailleau"
    ],
-   "views": 19793,
+   "views": 19824,
    "url": "https://www.youtube.com/watch?v=NaOr1be9_tI"
   },
   {
@@ -23772,7 +24888,7 @@
    "candidates": [
     "Sarah Knafo"
    ],
-   "views": 483970,
+   "views": 487334,
    "url": "https://www.youtube.com/watch?v=7-fra939HyA"
   },
   {
@@ -23783,7 +24899,7 @@
    "candidates": [
     "David Lisnard"
    ],
-   "views": 116007,
+   "views": 116618,
    "url": "https://www.youtube.com/watch?v=BMEElAL3Lco"
   },
   {
@@ -23794,7 +24910,7 @@
    "candidates": [
     "Jean-Luc Mélenchon"
    ],
-   "views": 272367,
+   "views": 272826,
    "url": "https://www.youtube.com/watch?v=Adj85ge5B20"
   },
   {
@@ -23805,7 +24921,7 @@
    "candidates": [
     "Sarah Knafo"
    ],
-   "views": 369052,
+   "views": 369649,
    "url": "https://www.youtube.com/watch?v=0q9v0AN9mJI"
   },
   {
@@ -23816,7 +24932,7 @@
    "candidates": [
     "Marine Le Pen"
    ],
-   "views": 10631,
+   "views": 10643,
    "url": "https://www.youtube.com/watch?v=dy5lGCM3pKg"
   },
   {
@@ -23827,7 +24943,7 @@
    "candidates": [
     "David Lisnard"
    ],
-   "views": 101806,
+   "views": 102318,
    "url": "https://www.youtube.com/watch?v=ISEmls4A5Bo"
   },
   {
@@ -23838,7 +24954,7 @@
    "candidates": [
     "Sarah Knafo"
    ],
-   "views": 338011,
+   "views": 339126,
    "url": "https://www.youtube.com/watch?v=5n9f-nDVWBE"
   },
   {
@@ -23849,7 +24965,7 @@
    "candidates": [
     "Dominique de Villepin"
    ],
-   "views": 34833,
+   "views": 35226,
    "url": "https://www.youtube.com/watch?v=8jENWh39aEU"
   },
   {
@@ -23860,7 +24976,7 @@
    "candidates": [
     "Nathalie Arthaud"
    ],
-   "views": 3267,
+   "views": 3278,
    "url": "https://www.youtube.com/watch?v=qUW5EGMTxDI"
   },
   {
@@ -23871,7 +24987,7 @@
    "candidates": [
     "Sarah Knafo"
    ],
-   "views": 617109,
+   "views": 618526,
    "url": "https://www.youtube.com/watch?v=UIXHi_bIAYY"
   },
   {
@@ -23882,7 +24998,7 @@
    "candidates": [
     "Jean-Luc Mélenchon"
    ],
-   "views": 265965,
+   "views": 266394,
    "url": "https://www.youtube.com/watch?v=K-Y8BfA74rQ"
   },
   {
@@ -23893,7 +25009,7 @@
    "candidates": [
     "Mathilde Panot"
    ],
-   "views": 51224,
+   "views": 51274,
    "url": "https://www.youtube.com/watch?v=l4wvAsE1_B0"
   },
   {
@@ -23904,7 +25020,7 @@
    "candidates": [
     "Jean-Luc Mélenchon"
    ],
-   "views": 500312,
+   "views": 501016,
    "url": "https://www.youtube.com/watch?v=msIb2rNDSTA"
   },
   {
@@ -23915,7 +25031,7 @@
    "candidates": [
     "Clémence Guetté"
    ],
-   "views": 64359,
+   "views": 64412,
    "url": "https://www.youtube.com/watch?v=t46OdY389cU"
   },
   {
@@ -23926,7 +25042,7 @@
    "candidates": [
     "Marine Le Pen"
    ],
-   "views": 13868,
+   "views": 13876,
    "url": "https://www.youtube.com/watch?v=inF6tnhnDcQ"
   },
   {
@@ -23937,7 +25053,7 @@
    "candidates": [
     "Marine Le Pen"
    ],
-   "views": 14153,
+   "views": 14183,
    "url": "https://www.youtube.com/watch?v=LFMmbi4up7Q"
   },
   {
@@ -23948,7 +25064,7 @@
    "candidates": [
     "Nicolas Dupont-Aignan"
    ],
-   "views": 30493,
+   "views": 30558,
    "url": "https://www.youtube.com/watch?v=ate-74Y4XTI"
   },
   {
@@ -23959,7 +25075,7 @@
    "candidates": [
     "Éric Zemmour"
    ],
-   "views": 112374,
+   "views": 112724,
    "url": "https://www.youtube.com/watch?v=qWFAUjUSp5U"
   },
   {
@@ -23970,7 +25086,7 @@
    "candidates": [
     "Marine Le Pen"
    ],
-   "views": 80777,
+   "views": 80858,
    "url": "https://www.youtube.com/watch?v=S7hYOFhktGA"
   },
   {
@@ -24003,7 +25119,7 @@
    "candidates": [
     "David Lisnard"
    ],
-   "views": 10197,
+   "views": 10211,
    "url": "https://www.youtube.com/watch?v=rhprSiTV5F0"
   },
   {
@@ -24025,7 +25141,7 @@
    "candidates": [
     "Marine Le Pen"
    ],
-   "views": 16885,
+   "views": 16893,
    "url": "https://www.youtube.com/watch?v=35aSISSoWWI"
   },
   {
@@ -24036,7 +25152,7 @@
    "candidates": [
     "Clémence Guetté"
    ],
-   "views": 27040,
+   "views": 27064,
    "url": "https://www.youtube.com/watch?v=f_2D0H1tCQI"
   },
   {
@@ -24047,7 +25163,7 @@
    "candidates": [
     "Dominique de Villepin"
    ],
-   "views": 17725,
+   "views": 17741,
    "url": "https://www.youtube.com/watch?v=YUnehHd3UqM"
   },
   {
@@ -24058,7 +25174,7 @@
    "candidates": [
     "Nathalie Arthaud"
    ],
-   "views": 5402,
+   "views": 5503,
    "url": "https://www.youtube.com/watch?v=4nqrk73n6Fw"
   },
   {
@@ -24069,7 +25185,7 @@
    "candidates": [
     "David Lisnard"
    ],
-   "views": 10698,
+   "views": 10706,
    "url": "https://www.youtube.com/watch?v=LnG4MH9Qi0M"
   },
   {
@@ -24080,7 +25196,7 @@
    "candidates": [
     "Marine Le Pen"
    ],
-   "views": 26848,
+   "views": 26864,
    "url": "https://www.youtube.com/watch?v=VPOqUlLITrg"
   },
   {
@@ -24091,7 +25207,7 @@
    "candidates": [
     "David Lisnard"
    ],
-   "views": 13782,
+   "views": 13789,
    "url": "https://www.youtube.com/watch?v=iat7eAxZiGM"
   },
   {
@@ -24102,7 +25218,7 @@
    "candidates": [
     "Éric Zemmour"
    ],
-   "views": 24446,
+   "views": 24479,
    "url": "https://www.youtube.com/watch?v=bFN1mK0GmNk"
   },
   {
@@ -24113,7 +25229,7 @@
    "candidates": [
     "Marine Le Pen"
    ],
-   "views": 29200,
+   "views": 29275,
    "url": "https://www.youtube.com/watch?v=N1GoKhcAvAE"
   },
   {
@@ -24135,7 +25251,7 @@
    "candidates": [
     "Manuel Bompard"
    ],
-   "views": 37899,
+   "views": 37930,
    "url": "https://www.youtube.com/watch?v=yKVneLpOmVc"
   },
   {
@@ -24146,7 +25262,7 @@
    "candidates": [
     "Clémence Guetté"
    ],
-   "views": 157095,
+   "views": 157170,
    "url": "https://www.youtube.com/watch?v=ffkb82d6Hrc"
   },
   {
@@ -24157,7 +25273,7 @@
    "candidates": [
     "Marine Le Pen"
    ],
-   "views": 12943,
+   "views": 12966,
    "url": "https://www.youtube.com/watch?v=a2hL8H-Hxrs"
   },
   {
@@ -24168,7 +25284,7 @@
    "candidates": [
     "Marine Le Pen"
    ],
-   "views": 48448,
+   "views": 48453,
    "url": "https://www.youtube.com/watch?v=Yj5yZ4J0LAA"
   },
   {
@@ -24179,7 +25295,7 @@
    "candidates": [
     "Sarah Knafo"
    ],
-   "views": 194404,
+   "views": 194631,
    "url": "https://www.youtube.com/watch?v=Pqqnw-v674k"
   },
   {
@@ -24190,7 +25306,7 @@
    "candidates": [
     "Nicolas Dupont-Aignan"
    ],
-   "views": 28899,
+   "views": 28909,
    "url": "https://www.youtube.com/watch?v=ZS3pg7sWFCs"
   },
   {
@@ -24223,7 +25339,7 @@
    "candidates": [
     "Manuel Bompard"
    ],
-   "views": 35236,
+   "views": 35229,
    "url": "https://www.youtube.com/watch?v=U5s5DUrpUuA"
   },
   {
@@ -24234,7 +25350,7 @@
    "candidates": [
     "Jean-Luc Mélenchon"
    ],
-   "views": 459841,
+   "views": 460012,
    "url": "https://www.youtube.com/watch?v=SlX43tAq3jA"
   },
   {
@@ -24245,7 +25361,7 @@
    "candidates": [
     "Marine Le Pen"
    ],
-   "views": 47387,
+   "views": 47398,
    "url": "https://www.youtube.com/watch?v=4fliKKYk_mw"
   },
   {
@@ -24256,7 +25372,7 @@
    "candidates": [
     "Clémence Guetté"
    ],
-   "views": 34587,
+   "views": 34636,
    "url": "https://www.youtube.com/watch?v=we4Mb-lDIsQ"
   },
   {
@@ -24278,7 +25394,7 @@
    "candidates": [
     "Marine Le Pen"
    ],
-   "views": 3694,
+   "views": 3702,
    "url": "https://www.youtube.com/watch?v=OInpI1ZFKPE"
   },
   {
@@ -24289,7 +25405,7 @@
    "candidates": [
     "Marine Le Pen"
    ],
-   "views": 47143,
+   "views": 47160,
    "url": "https://www.youtube.com/watch?v=RpjcTfOtZHI"
   },
   {
@@ -24311,7 +25427,7 @@
    "candidates": [
     "Sarah Knafo"
    ],
-   "views": 147611,
+   "views": 148092,
    "url": "https://www.youtube.com/watch?v=U1fxqXugk74"
   },
   {
@@ -24333,7 +25449,7 @@
    "candidates": [
     "Marine Le Pen"
    ],
-   "views": 13619,
+   "views": 13620,
    "url": "https://www.youtube.com/watch?v=2cFhquZYw-E"
   },
   {
@@ -24344,7 +25460,7 @@
    "candidates": [
     "Nathalie Arthaud"
    ],
-   "views": 3274,
+   "views": 3282,
    "url": "https://www.youtube.com/watch?v=iQW3L3emH5c"
   },
   {
@@ -24366,7 +25482,7 @@
    "candidates": [
     "Manuel Bompard"
    ],
-   "views": 90593,
+   "views": 90613,
    "url": "https://www.youtube.com/watch?v=AMFANQmD29Q"
   },
   {
@@ -24377,7 +25493,7 @@
    "candidates": [
     "Marine Le Pen"
    ],
-   "views": 22681,
+   "views": 22682,
    "url": "https://www.youtube.com/watch?v=5LHa9CNeSck"
   },
   {
@@ -24388,7 +25504,7 @@
    "candidates": [
     "Éric Zemmour"
    ],
-   "views": 32953,
+   "views": 32979,
    "url": "https://www.youtube.com/watch?v=9kzB7osRm_E"
   },
   {
@@ -24399,7 +25515,7 @@
    "candidates": [
     "David Lisnard"
    ],
-   "views": 34097,
+   "views": 34122,
    "url": "https://www.youtube.com/watch?v=PaAzYBOx5LA"
   },
   {
@@ -24410,7 +25526,7 @@
    "candidates": [
     "Jean-Luc Mélenchon"
    ],
-   "views": 370370,
+   "views": 370657,
    "url": "https://www.youtube.com/watch?v=nAs0urs6bU4"
   },
   {
@@ -24421,7 +25537,7 @@
    "candidates": [
     "Éric Zemmour"
    ],
-   "views": 27162,
+   "views": 27227,
    "url": "https://www.youtube.com/watch?v=wsdXpwx7AfU"
   },
   {
@@ -24432,7 +25548,7 @@
    "candidates": [
     "Marine Le Pen"
    ],
-   "views": 26193,
+   "views": 26195,
    "url": "https://www.youtube.com/watch?v=GUFECOyAK9k"
   },
   {
@@ -24443,7 +25559,7 @@
    "candidates": [
     "Marine Le Pen"
    ],
-   "views": 81786,
+   "views": 81794,
    "url": "https://www.youtube.com/watch?v=QmBFZV0cYVI"
   },
   {
@@ -24454,7 +25570,7 @@
    "candidates": [
     "Manuel Bompard"
    ],
-   "views": 523801,
+   "views": 524094,
    "url": "https://www.youtube.com/watch?v=Lb4z65-zSoU"
   },
   {
@@ -24476,7 +25592,7 @@
    "candidates": [
     "Marion Maréchal"
    ],
-   "views": 50824,
+   "views": 50829,
    "url": "https://www.youtube.com/watch?v=3VM02KqZ8SU"
   },
   {
@@ -24487,7 +25603,7 @@
    "candidates": [
     "Nathalie Arthaud"
    ],
-   "views": 14775,
+   "views": 14781,
    "url": "https://www.youtube.com/watch?v=Yy6mw8JMM1s"
   },
   {
@@ -24498,7 +25614,7 @@
    "candidates": [
     "Jordan Bardella"
    ],
-   "views": 94766,
+   "views": 94807,
    "url": "https://www.youtube.com/watch?v=oPLU7JfddN0"
   },
   {
@@ -24509,7 +25625,7 @@
    "candidates": [
     "Éric Zemmour"
    ],
-   "views": 23157,
+   "views": 23195,
    "url": "https://www.youtube.com/watch?v=NE5lxiP5oOU"
   },
   {
@@ -24520,7 +25636,7 @@
    "candidates": [
     "David Lisnard"
    ],
-   "views": 47275,
+   "views": 47292,
    "url": "https://www.youtube.com/watch?v=W-kWuy_uq1k"
   },
   {
@@ -24531,7 +25647,7 @@
    "candidates": [
     "Nicolas Dupont-Aignan"
    ],
-   "views": 14241,
+   "views": 14238,
    "url": "https://www.youtube.com/watch?v=3Cuzx-_-6Aw"
   },
   {
@@ -24542,7 +25658,7 @@
    "candidates": [
     "Dominique de Villepin"
    ],
-   "views": 7649,
+   "views": 7698,
    "url": "https://www.youtube.com/watch?v=_H6miZ9bwDo"
   },
   {
@@ -24553,7 +25669,7 @@
    "candidates": [
     "Éric Zemmour"
    ],
-   "views": 130713,
+   "views": 130787,
    "url": "https://www.youtube.com/watch?v=H4nLT38Uv-I"
   },
   {
@@ -24564,7 +25680,7 @@
    "candidates": [
     "Jordan Bardella"
    ],
-   "views": 49868,
+   "views": 49901,
    "url": "https://www.youtube.com/watch?v=vgkh4N9OFiM"
   },
   {
@@ -24575,7 +25691,7 @@
    "candidates": [
     "Jean-Luc Mélenchon"
    ],
-   "views": 280490,
+   "views": 280658,
    "url": "https://www.youtube.com/watch?v=Mn0EXChZ6RU"
   },
   {
@@ -24586,7 +25702,7 @@
    "candidates": [
     "Sarah Knafo"
    ],
-   "views": 105927,
+   "views": 106003,
    "url": "https://www.youtube.com/watch?v=VT0fhEAasBU"
   },
   {
@@ -24597,7 +25713,7 @@
    "candidates": [
     "Marine Le Pen"
    ],
-   "views": 114523,
+   "views": 114550,
    "url": "https://www.youtube.com/watch?v=3jM21BgsATw"
   },
   {
@@ -24608,7 +25724,7 @@
    "candidates": [
     "Sarah Knafo"
    ],
-   "views": 52410,
+   "views": 52486,
    "url": "https://www.youtube.com/watch?v=whGCdp6whKc"
   },
   {
@@ -24652,7 +25768,7 @@
    "candidates": [
     "Sarah Knafo"
    ],
-   "views": 53429,
+   "views": 53517,
    "url": "https://www.youtube.com/watch?v=bPA05r0aJlk"
   },
   {
@@ -24663,7 +25779,7 @@
    "candidates": [
     "Nicolas Dupont-Aignan"
    ],
-   "views": 26980,
+   "views": 26981,
    "url": "https://www.youtube.com/watch?v=5Axl7WUXKLk"
   },
   {
@@ -24674,7 +25790,7 @@
    "candidates": [
     "Mathilde Panot"
    ],
-   "views": 306664,
+   "views": 306858,
    "url": "https://www.youtube.com/watch?v=6m7IIhz8KNc"
   },
   {
@@ -24696,7 +25812,7 @@
    "candidates": [
     "Dominique de Villepin"
    ],
-   "views": 523251,
+   "views": 524045,
    "url": "https://www.youtube.com/watch?v=12gp7WLH_ww"
   },
   {
@@ -24707,7 +25823,7 @@
    "candidates": [
     "David Lisnard"
    ],
-   "views": 16675,
+   "views": 16682,
    "url": "https://www.youtube.com/watch?v=PuzDQlUuZz0"
   },
   {
@@ -24718,7 +25834,7 @@
    "candidates": [
     "Marine Le Pen"
    ],
-   "views": 40609,
+   "views": 40611,
    "url": "https://www.youtube.com/watch?v=HrJ4Xr2_-nE"
   },
   {
@@ -24740,7 +25856,7 @@
    "candidates": [
     "Nicolas Dupont-Aignan"
    ],
-   "views": 4323,
+   "views": 4325,
    "url": "https://www.youtube.com/watch?v=JbPZNuZ4lws"
   },
   {
@@ -24751,7 +25867,7 @@
    "candidates": [
     "Nathalie Arthaud"
    ],
-   "views": 12480,
+   "views": 12476,
    "url": "https://www.youtube.com/watch?v=2iruUv3hGMI"
   },
   {
@@ -24762,7 +25878,7 @@
    "candidates": [
     "Sarah Knafo"
    ],
-   "views": 56821,
+   "views": 56857,
    "url": "https://www.youtube.com/watch?v=vdIjXa7AD3U"
   },
   {
@@ -24773,7 +25889,7 @@
    "candidates": [
     "Jordan Bardella"
    ],
-   "views": 111401,
+   "views": 111412,
    "url": "https://www.youtube.com/watch?v=qYQOQCWayRA"
   },
   {
@@ -24795,7 +25911,7 @@
    "candidates": [
     "Marine Le Pen"
    ],
-   "views": 58374,
+   "views": 58381,
    "url": "https://www.youtube.com/watch?v=BTzo69C2IKU"
   },
   {
@@ -24817,7 +25933,7 @@
    "candidates": [
     "Jean-Luc Mélenchon"
    ],
-   "views": 570052,
+   "views": 570080,
    "url": "https://www.youtube.com/watch?v=o6fu63AyFjY"
   },
   {
@@ -24839,7 +25955,7 @@
    "candidates": [
     "Jean-Luc Mélenchon"
    ],
-   "views": 80892,
+   "views": 80899,
    "url": "https://www.youtube.com/watch?v=loxwn3DECHw"
   },
   {
@@ -24850,7 +25966,7 @@
    "candidates": [
     "Clémence Guetté"
    ],
-   "views": 65243,
+   "views": 65251,
    "url": "https://www.youtube.com/watch?v=xAkT5bWkuVk"
   },
   {
@@ -24872,7 +25988,7 @@
    "candidates": [
     "Jean-Luc Mélenchon"
    ],
-   "views": 595625,
+   "views": 595660,
    "url": "https://www.youtube.com/watch?v=EmZXws6X3fk"
   },
   {
@@ -24883,7 +25999,7 @@
    "candidates": [
     "Éric Zemmour"
    ],
-   "views": 220462,
+   "views": 220484,
    "url": "https://www.youtube.com/watch?v=jfJwDvhcrp8"
   },
   {
@@ -24894,7 +26010,7 @@
    "candidates": [
     "Marine Le Pen"
    ],
-   "views": 485769,
+   "views": 486391,
    "url": "https://www.youtube.com/watch?v=WqxyGstwIeg"
   },
   {
@@ -24905,7 +26021,7 @@
    "candidates": [
     "Marine Le Pen"
    ],
-   "views": 56345,
+   "views": 56375,
    "url": "https://www.youtube.com/watch?v=_OzvV7CGZ3g"
   },
   {
@@ -24916,7 +26032,7 @@
    "candidates": [
     "Marion Maréchal"
    ],
-   "views": 80997,
+   "views": 81020,
    "url": "https://www.youtube.com/watch?v=zHEL-WdkUMI"
   },
   {
@@ -24927,7 +26043,7 @@
    "candidates": [
     "Nicolas Dupont-Aignan"
    ],
-   "views": 6686,
+   "views": 6688,
    "url": "https://www.youtube.com/watch?v=8GtkGavMeZs"
   },
   {
@@ -24949,7 +26065,7 @@
    "candidates": [
     "David Lisnard"
    ],
-   "views": 34313,
+   "views": 34316,
    "url": "https://www.youtube.com/watch?v=-QBv9RRrKJE"
   },
   {
@@ -24971,7 +26087,7 @@
    "candidates": [
     "Jean-Luc Mélenchon"
    ],
-   "views": 216641,
+   "views": 216656,
    "url": "https://www.youtube.com/watch?v=7hBEv95Q8Ew"
   },
   {
@@ -24982,7 +26098,7 @@
    "candidates": [
     "Marine Le Pen"
    ],
-   "views": 224645,
+   "views": 224647,
    "url": "https://www.youtube.com/watch?v=qsuhrdkqb8g"
   },
   {
@@ -25004,7 +26120,7 @@
    "candidates": [
     "Nicolas Dupont-Aignan"
    ],
-   "views": 45800,
+   "views": 45808,
    "url": "https://www.youtube.com/watch?v=ShYf_a5F3V4"
   },
   {
@@ -25015,7 +26131,7 @@
    "candidates": [
     "Marion Maréchal"
    ],
-   "views": 392071,
+   "views": 392271,
    "url": "https://www.youtube.com/watch?v=EE7i6JbRCAQ"
   },
   {
@@ -25026,7 +26142,7 @@
    "candidates": [
     "François Ruffin"
    ],
-   "views": 245971,
+   "views": 245992,
    "url": "https://www.youtube.com/watch?v=cdoM3CebMRY"
   },
   {
@@ -25048,7 +26164,7 @@
    "candidates": [
     "Sarah Knafo"
    ],
-   "views": 125954,
+   "views": 125997,
    "url": "https://www.youtube.com/watch?v=Hgh-XTJvcFM"
   },
   {
@@ -25059,7 +26175,7 @@
    "candidates": [
     "Dominique de Villepin"
    ],
-   "views": 158059,
+   "views": 158119,
    "url": "https://www.youtube.com/watch?v=XJ3O-kSsK8k"
   },
   {
@@ -25081,7 +26197,7 @@
    "candidates": [
     "Marion Maréchal"
    ],
-   "views": 239834,
+   "views": 239859,
    "url": "https://www.youtube.com/watch?v=06ckEFH2jp4"
   },
   {
@@ -25103,7 +26219,7 @@
    "candidates": [
     "Mathilde Panot"
    ],
-   "views": 88509,
+   "views": 88516,
    "url": "https://www.youtube.com/watch?v=4l2dx1n-UFo"
   },
   {
@@ -25114,7 +26230,7 @@
    "candidates": [
     "David Guiraud"
    ],
-   "views": 665528,
+   "views": 665739,
    "url": "https://www.youtube.com/watch?v=UGl1xt_p61Y"
   },
   {
@@ -25125,7 +26241,7 @@
    "candidates": [
     "Marine Le Pen"
    ],
-   "views": 19532,
+   "views": 19533,
    "url": "https://www.youtube.com/watch?v=JyWg11sPIfE"
   },
   {
@@ -25136,7 +26252,7 @@
    "candidates": [
     "Sarah Knafo"
    ],
-   "views": 185554,
+   "views": 185721,
    "url": "https://www.youtube.com/watch?v=Ta-MpLPeeJc"
   },
   {
@@ -25147,7 +26263,7 @@
    "candidates": [
     "David Guiraud"
    ],
-   "views": 106090,
+   "views": 106124,
    "url": "https://www.youtube.com/watch?v=KPsSkeoixY8"
   },
   {
@@ -25158,7 +26274,7 @@
    "candidates": [
     "Nicolas Dupont-Aignan"
    ],
-   "views": 9293,
+   "views": 9289,
    "url": "https://www.youtube.com/watch?v=3FFtPPvReAc"
   },
   {
@@ -25169,7 +26285,7 @@
    "candidates": [
     "Sarah Knafo"
    ],
-   "views": 763592,
+   "views": 764345,
    "url": "https://www.youtube.com/watch?v=Qcr1PMhZ9aY"
   },
   {
@@ -25180,7 +26296,7 @@
    "candidates": [
     "David Lisnard"
    ],
-   "views": 59744,
+   "views": 59783,
    "url": "https://www.youtube.com/watch?v=Nx--ENIqENU"
   },
   {
@@ -25191,7 +26307,7 @@
    "candidates": [
     "Sarah Knafo"
    ],
-   "views": 424641,
+   "views": 424960,
    "url": "https://www.youtube.com/watch?v=BXrbDbN7_K0"
   },
   {
@@ -25213,7 +26329,7 @@
    "candidates": [
     "Manon Aubry"
    ],
-   "views": 53737,
+   "views": 53733,
    "url": "https://www.youtube.com/watch?v=EHhxH_eIUss"
   },
   {
@@ -25235,7 +26351,7 @@
    "candidates": [
     "Marion Maréchal"
    ],
-   "views": 242661,
+   "views": 242681,
    "url": "https://www.youtube.com/watch?v=McachzVcuDY"
   },
   {
@@ -25246,7 +26362,7 @@
    "candidates": [
     "David Lisnard"
    ],
-   "views": 160708,
+   "views": 160771,
    "url": "https://www.youtube.com/watch?v=mFM_ojfrlYU"
   },
   {
@@ -25268,7 +26384,7 @@
    "candidates": [
     "Marine Le Pen"
    ],
-   "views": 34380,
+   "views": 34378,
    "url": "https://www.youtube.com/watch?v=xcNEVGKOtD4"
   },
   {
@@ -25279,7 +26395,7 @@
    "candidates": [
     "David Lisnard"
    ],
-   "views": 19572,
+   "views": 19583,
    "url": "https://www.youtube.com/watch?v=OGhcCN79MQ4"
   },
   {
@@ -25290,7 +26406,7 @@
    "candidates": [
     "Manuel Bompard"
    ],
-   "views": 57947,
+   "views": 57944,
    "url": "https://www.youtube.com/watch?v=_-XlWzOE3Zg"
   },
   {
@@ -25301,7 +26417,7 @@
    "candidates": [
     "Marine Le Pen"
    ],
-   "views": 126874,
+   "views": 126966,
    "url": "https://www.youtube.com/watch?v=qjTlM-pWsnY"
   },
   {
@@ -25312,7 +26428,7 @@
    "candidates": [
     "Éric Zemmour"
    ],
-   "views": 16831,
+   "views": 16836,
    "url": "https://www.youtube.com/watch?v=TL6bI0koWTg"
   },
   {
@@ -25323,7 +26439,7 @@
    "candidates": [
     "Sarah Knafo"
    ],
-   "views": 243927,
+   "views": 244039,
    "url": "https://www.youtube.com/watch?v=3R93dZ4evyk"
   },
   {
@@ -25334,7 +26450,7 @@
    "candidates": [
     "Clémence Guetté"
    ],
-   "views": 65146,
+   "views": 65168,
    "url": "https://www.youtube.com/watch?v=sZeC5H3uKj4"
   },
   {
@@ -25356,7 +26472,7 @@
    "candidates": [
     "Marine Le Pen"
    ],
-   "views": 41327,
+   "views": 41319,
    "url": "https://www.youtube.com/watch?v=PKSdcjV1TEk"
   },
   {
@@ -25367,7 +26483,7 @@
    "candidates": [
     "Nicolas Dupont-Aignan"
    ],
-   "views": 14000,
+   "views": 13999,
    "url": "https://www.youtube.com/watch?v=ILEdXV4jYUk"
   },
   {
@@ -25378,7 +26494,7 @@
    "candidates": [
     "Jordan Bardella"
    ],
-   "views": 36503,
+   "views": 36553,
    "url": "https://www.youtube.com/watch?v=e1kUiLZxTRo"
   },
   {
@@ -25389,7 +26505,7 @@
    "candidates": [
     "Nicolas Dupont-Aignan"
    ],
-   "views": 108324,
+   "views": 108336,
    "url": "https://www.youtube.com/watch?v=FoKTsTUrHOw"
   },
   {
@@ -25400,7 +26516,7 @@
    "candidates": [
     "Marine Le Pen"
    ],
-   "views": 61406,
+   "views": 61411,
    "url": "https://www.youtube.com/watch?v=ivrIFExu_M4"
   },
   {
@@ -25422,7 +26538,7 @@
    "candidates": [
     "Jean-Luc Mélenchon"
    ],
-   "views": 599390,
+   "views": 599480,
    "url": "https://www.youtube.com/watch?v=_D70leqHHxM"
   },
   {
@@ -25433,7 +26549,7 @@
    "candidates": [
     "Marine Le Pen"
    ],
-   "views": 91934,
+   "views": 91935,
    "url": "https://www.youtube.com/watch?v=uMz4ZqRIXqs"
   },
   {
@@ -25444,7 +26560,7 @@
    "candidates": [
     "Éric Zemmour"
    ],
-   "views": 19176,
+   "views": 19179,
    "url": "https://www.youtube.com/watch?v=A8-BLpuQ10A"
   },
   {
@@ -25455,7 +26571,7 @@
    "candidates": [
     "David Lisnard"
    ],
-   "views": 101014,
+   "views": 101031,
    "url": "https://www.youtube.com/watch?v=Zhcb9DIu35U"
   },
   {
@@ -25466,7 +26582,7 @@
    "candidates": [
     "Marine Le Pen"
    ],
-   "views": 138049,
+   "views": 138067,
    "url": "https://www.youtube.com/watch?v=ENNltLEBZc4"
   },
   {
@@ -25488,7 +26604,7 @@
    "candidates": [
     "David Lisnard"
    ],
-   "views": 18046,
+   "views": 18027,
    "url": "https://www.youtube.com/watch?v=3VWsMRUnFAA"
   },
   {
@@ -25499,7 +26615,7 @@
    "candidates": [
     "Manuel Bompard"
    ],
-   "views": 264155,
+   "views": 264159,
    "url": "https://www.youtube.com/watch?v=l0jeHzaM_GE"
   },
   {
@@ -25510,7 +26626,7 @@
    "candidates": [
     "Marine Le Pen"
    ],
-   "views": 33894,
+   "views": 33890,
    "url": "https://www.youtube.com/watch?v=g1SYY6Zaw58"
   },
   {
@@ -25521,7 +26637,7 @@
    "candidates": [
     "Marine Le Pen"
    ],
-   "views": 4658,
+   "views": 4657,
    "url": "https://www.youtube.com/watch?v=HBH8OJaitYQ"
   },
   {
@@ -25543,7 +26659,7 @@
    "candidates": [
     "Clémence Guetté"
    ],
-   "views": 93031,
+   "views": 93037,
    "url": "https://www.youtube.com/watch?v=Oq67trg-fcg"
   },
   {
@@ -25554,7 +26670,7 @@
    "candidates": [
     "Nicolas Dupont-Aignan"
    ],
-   "views": 8338,
+   "views": 8339,
    "url": "https://www.youtube.com/watch?v=TPVXQd7HaN0"
   },
   {
@@ -25565,7 +26681,7 @@
    "candidates": [
     "Marine Le Pen"
    ],
-   "views": 33620,
+   "views": 33609,
    "url": "https://www.youtube.com/watch?v=QyWwpmP0QwI"
   },
   {
@@ -25598,7 +26714,7 @@
    "candidates": [
     "Marine Le Pen"
    ],
-   "views": 6350,
+   "views": 6346,
    "url": "https://www.youtube.com/watch?v=WLQfQVEVaao"
   },
   {
@@ -25642,7 +26758,7 @@
    "candidates": [
     "Clémence Guetté"
    ],
-   "views": 26938,
+   "views": 26947,
    "url": "https://www.youtube.com/watch?v=R3_tPmToSlg"
   },
   {
@@ -25653,7 +26769,7 @@
    "candidates": [
     "Jordan Bardella"
    ],
-   "views": 39673,
+   "views": 39683,
    "url": "https://www.youtube.com/watch?v=uwM1MGAa6xs"
   },
   {
@@ -25664,7 +26780,7 @@
    "candidates": [
     "Marine Le Pen"
    ],
-   "views": 15736,
+   "views": 15738,
    "url": "https://www.youtube.com/watch?v=_TlDYmSK6hg"
   },
   {
@@ -25675,7 +26791,7 @@
    "candidates": [
     "Marion Maréchal"
    ],
-   "views": 114493,
+   "views": 114525,
    "url": "https://www.youtube.com/watch?v=U-7VteOnUcM"
   },
   {
@@ -25686,7 +26802,7 @@
    "candidates": [
     "David Lisnard"
    ],
-   "views": 37960,
+   "views": 37985,
    "url": "https://www.youtube.com/watch?v=cAy2L7fP9C4"
   },
   {
@@ -25697,7 +26813,7 @@
    "candidates": [
     "David Lisnard"
    ],
-   "views": 13057,
+   "views": 13052,
    "url": "https://www.youtube.com/watch?v=OLj6pM22bCc"
   },
   {
@@ -25708,7 +26824,7 @@
    "candidates": [
     "Jean-Luc Mélenchon"
    ],
-   "views": 876286,
+   "views": 876545,
    "url": "https://www.youtube.com/watch?v=fNbwyJW3AKU"
   },
   {
@@ -25719,7 +26835,7 @@
    "candidates": [
     "Clémence Guetté"
    ],
-   "views": 25160,
+   "views": 25170,
    "url": "https://www.youtube.com/watch?v=1gcBkY3wZLU"
   },
   {
@@ -25752,7 +26868,7 @@
    "candidates": [
     "Sarah Knafo"
    ],
-   "views": 141394,
+   "views": 141434,
    "url": "https://www.youtube.com/watch?v=yx1xWSWI2jU"
   },
   {
@@ -25763,7 +26879,7 @@
    "candidates": [
     "David Lisnard"
    ],
-   "views": 9161,
+   "views": 9159,
    "url": "https://www.youtube.com/watch?v=N4KZvyNYARM"
   },
   {
@@ -25774,7 +26890,7 @@
    "candidates": [
     "Nicolas Dupont-Aignan"
    ],
-   "views": 16501,
+   "views": 16503,
    "url": "https://www.youtube.com/watch?v=VobP8dpma6w"
   },
   {
@@ -25796,7 +26912,7 @@
    "candidates": [
     "Jean-Luc Mélenchon"
    ],
-   "views": 78206,
+   "views": 78214,
    "url": "https://www.youtube.com/watch?v=UKfZsiiyRKo"
   },
   {
@@ -25807,7 +26923,7 @@
    "candidates": [
     "Éric Zemmour"
    ],
-   "views": 33464,
+   "views": 33466,
    "url": "https://www.youtube.com/watch?v=gkBokhWoJBk"
   },
   {
@@ -25818,7 +26934,7 @@
    "candidates": [
     "Éric Zemmour"
    ],
-   "views": 22983,
+   "views": 22984,
    "url": "https://www.youtube.com/watch?v=SMXfEeHANyE"
   },
   {
@@ -25829,7 +26945,7 @@
    "candidates": [
     "Éric Zemmour"
    ],
-   "views": 31044,
+   "views": 31042,
    "url": "https://www.youtube.com/watch?v=MFZ69F9uaUc"
   },
   {
@@ -25840,7 +26956,7 @@
    "candidates": [
     "Dominique de Villepin"
    ],
-   "views": 6721,
+   "views": 6707,
    "url": "https://www.youtube.com/watch?v=7TYFK5fIYQE"
   },
   {
@@ -25851,7 +26967,7 @@
    "candidates": [
     "David Lisnard"
    ],
-   "views": 25425,
+   "views": 25430,
    "url": "https://www.youtube.com/watch?v=moO2RZaqIFE"
   },
   {
@@ -25873,7 +26989,7 @@
    "candidates": [
     "Jean-Luc Mélenchon"
    ],
-   "views": 88459,
+   "views": 88462,
    "url": "https://www.youtube.com/watch?v=-CxCRSzfW54"
   },
   {
@@ -25884,7 +27000,7 @@
    "candidates": [
     "Éric Zemmour"
    ],
-   "views": 187103,
+   "views": 187176,
    "url": "https://www.youtube.com/watch?v=6rUrgbtrd6k"
   },
   {
@@ -25939,7 +27055,7 @@
    "candidates": [
     "Marine Le Pen"
    ],
-   "views": 2554,
+   "views": 2555,
    "url": "https://www.youtube.com/watch?v=GJlMTrK7ank"
   },
   {
@@ -25972,7 +27088,7 @@
    "candidates": [
     "Marine Le Pen"
    ],
-   "views": 370434,
+   "views": 370443,
    "url": "https://www.youtube.com/watch?v=j0pP0ySHrZ0"
   },
   {
@@ -25983,7 +27099,7 @@
    "candidates": [
     "Marine Le Pen"
    ],
-   "views": 27979,
+   "views": 27976,
    "url": "https://www.youtube.com/watch?v=mgLqiEzropw"
   },
   {
@@ -26027,7 +27143,7 @@
    "candidates": [
     "Jean-Luc Mélenchon"
    ],
-   "views": 688781,
+   "views": 688855,
    "url": "https://www.youtube.com/watch?v=SJ1BhZdb8sI"
   },
   {
@@ -26038,7 +27154,7 @@
    "candidates": [
     "Marion Maréchal"
    ],
-   "views": 432403,
+   "views": 432540,
    "url": "https://www.youtube.com/watch?v=SYuL76LhBjs"
   },
   {
@@ -26060,7 +27176,7 @@
    "candidates": [
     "Jordan Bardella"
    ],
-   "views": 65131,
+   "views": 65138,
    "url": "https://www.youtube.com/watch?v=iOcpmdzK6JA"
   },
   {
@@ -26071,7 +27187,7 @@
    "candidates": [
     "Mathilde Panot"
    ],
-   "views": 333655,
+   "views": 334316,
    "url": "https://www.youtube.com/watch?v=xX4wwT_bnTY"
   },
   {
@@ -26082,7 +27198,7 @@
    "candidates": [
     "Marine Le Pen"
    ],
-   "views": 23259,
+   "views": 23255,
    "url": "https://www.youtube.com/watch?v=Hl2VVVhjuXY"
   },
   {
@@ -26093,7 +27209,7 @@
    "candidates": [
     "Nathalie Arthaud"
    ],
-   "views": 3187,
+   "views": 3186,
    "url": "https://www.youtube.com/watch?v=Mf6gRev68lo"
   },
   {
@@ -26104,7 +27220,7 @@
    "candidates": [
     "David Lisnard"
    ],
-   "views": 11780,
+   "views": 11783,
    "url": "https://www.youtube.com/watch?v=1aE0txFeMgs"
   },
   {
@@ -26115,7 +27231,7 @@
    "candidates": [
     "François Ruffin"
    ],
-   "views": 13798,
+   "views": 13797,
    "url": "https://www.youtube.com/watch?v=kdIXjXE-x9E"
   },
   {
@@ -26126,7 +27242,7 @@
    "candidates": [
     "Marine Le Pen"
    ],
-   "views": 91916,
+   "views": 91849,
    "url": "https://www.youtube.com/watch?v=MchqUGd2wcs"
   },
   {
@@ -26137,7 +27253,7 @@
    "candidates": [
     "David Lisnard"
    ],
-   "views": 14401,
+   "views": 14403,
    "url": "https://www.youtube.com/watch?v=VYc01IpLrh8"
   },
   {
@@ -26159,7 +27275,7 @@
    "candidates": [
     "Éric Zemmour"
    ],
-   "views": 117999,
+   "views": 117998,
    "url": "https://www.youtube.com/watch?v=cLpSfjx9g7Q"
   },
   {
@@ -26170,7 +27286,7 @@
    "candidates": [
     "Marion Maréchal"
    ],
-   "views": 254454,
+   "views": 254566,
    "url": "https://www.youtube.com/watch?v=gzgVDteLBUw"
   },
   {
@@ -26181,7 +27297,7 @@
    "candidates": [
     "Marine Le Pen"
    ],
-   "views": 26705,
+   "views": 26704,
    "url": "https://www.youtube.com/watch?v=KKjegFflX0s"
   },
   {
@@ -26225,7 +27341,7 @@
    "candidates": [
     "Clémence Guetté"
    ],
-   "views": 41913,
+   "views": 41925,
    "url": "https://www.youtube.com/watch?v=mGJ3RlQut_M"
   },
   {
@@ -26236,7 +27352,7 @@
    "candidates": [
     "David Lisnard"
    ],
-   "views": 17185,
+   "views": 17190,
    "url": "https://www.youtube.com/watch?v=71MqwG_OOFI"
   },
   {
@@ -26247,7 +27363,7 @@
    "candidates": [
     "Manuel Bompard"
    ],
-   "views": 319912,
+   "views": 319933,
    "url": "https://www.youtube.com/watch?v=7GwCNTWyBVs"
   },
   {
@@ -26269,7 +27385,7 @@
    "candidates": [
     "Sarah Knafo"
    ],
-   "views": 81541,
+   "views": 81569,
    "url": "https://www.youtube.com/watch?v=Gbhck0j48o8"
   },
   {
@@ -26280,7 +27396,7 @@
    "candidates": [
     "Marine Le Pen"
    ],
-   "views": 11402,
+   "views": 11398,
    "url": "https://www.youtube.com/watch?v=s-iC3OTlX4Q"
   },
   {
@@ -26302,7 +27418,7 @@
    "candidates": [
     "David Lisnard"
    ],
-   "views": 454727,
+   "views": 454809,
    "url": "https://www.youtube.com/watch?v=_Bj5A2XZf4k"
   },
   {
@@ -26313,7 +27429,7 @@
    "candidates": [
     "Jérôme Guedj"
    ],
-   "views": 4706,
+   "views": 4705,
    "url": "https://www.youtube.com/watch?v=_LlQqR6kzhM"
   },
   {
@@ -26324,7 +27440,7 @@
    "candidates": [
     "Mathilde Panot"
    ],
-   "views": 102395,
+   "views": 102437,
    "url": "https://www.youtube.com/watch?v=4tVAvD5blDo"
   },
   {
@@ -26335,7 +27451,7 @@
    "candidates": [
     "Marine Le Pen"
    ],
-   "views": 50150,
+   "views": 50143,
    "url": "https://www.youtube.com/watch?v=7EsQKRXPj9A"
   },
   {
@@ -26368,7 +27484,7 @@
    "candidates": [
     "Marine Le Pen"
    ],
-   "views": 16473,
+   "views": 16470,
    "url": "https://www.youtube.com/watch?v=Hl8lzi8_ax4"
   },
   {
@@ -26379,7 +27495,7 @@
    "candidates": [
     "Nicolas Dupont-Aignan"
    ],
-   "views": 14179,
+   "views": 14178,
    "url": "https://www.youtube.com/watch?v=1AdvAcRGOdE"
   },
   {
@@ -26401,7 +27517,7 @@
    "candidates": [
     "Bruno Retailleau"
    ],
-   "views": 9603,
+   "views": 9601,
    "url": "https://www.youtube.com/watch?v=GZgsGjrfWx8"
   },
   {
@@ -26412,7 +27528,7 @@
    "candidates": [
     "David Lisnard"
    ],
-   "views": 322911,
+   "views": 322919,
    "url": "https://www.youtube.com/watch?v=2TmA1q5CsEY"
   },
   {
@@ -26423,7 +27539,7 @@
    "candidates": [
     "Clémence Guetté"
    ],
-   "views": 88469,
+   "views": 88467,
    "url": "https://www.youtube.com/watch?v=rKIfx-iVBsM"
   },
   {
@@ -26434,7 +27550,7 @@
    "candidates": [
     "Éric Zemmour"
    ],
-   "views": 778963,
+   "views": 779099,
    "url": "https://www.youtube.com/watch?v=uIvffNoYAJU"
   }
  ],
@@ -26485,8 +27601,8 @@
    "statut": "non_candidat",
    "note": "",
    "followers": null,
-   "youtube_views": 61638,
-   "youtube_subscribers": 453,
+   "youtube_views": 61640,
+   "youtube_subscribers": 452,
    "youtube_subs_gain_7d": null
   },
   {
@@ -26595,7 +27711,7 @@
    "statut": "non_candidat",
    "note": "",
    "followers": null,
-   "youtube_views": 99134,
+   "youtube_views": 99168,
    "youtube_subscribers": 135,
    "youtube_subs_gain_7d": null
   },
@@ -26716,7 +27832,7 @@
    "statut": "non_candidat",
    "note": "",
    "followers": null,
-   "youtube_views": 36130,
+   "youtube_views": 36131,
    "youtube_subscribers": 344,
    "youtube_subs_gain_7d": null
   },
@@ -26848,7 +27964,7 @@
    "statut": "non_candidat",
    "note": "",
    "followers": null,
-   "youtube_views": 813860,
+   "youtube_views": 813832,
    "youtube_subscribers": 3360,
    "youtube_subs_gain_7d": null
   },
@@ -26903,7 +28019,7 @@
    "statut": "non_candidat",
    "note": "",
    "followers": null,
-   "youtube_views": 27443,
+   "youtube_views": 27444,
    "youtube_subscribers": 207,
    "youtube_subs_gain_7d": null
   },
@@ -27472,7 +28588,7 @@
  },
  "sources": {
   "polls": "https://fr.wikipedia.org/wiki/Liste_de_sondages_sur_l'élection_présidentielle_française_de_2027",
-  "polls_fetched": "2026-10-30T12:06+01:00",
+  "polls_fetched": "2026-10-30T12:38+01:00",
   "feeds": [
    {
     "outlet": "L'Humanité",
@@ -27602,11 +28718,11 @@
    {
     "outlet": "Google Actualités (recherche par candidat)",
     "ok": true,
-    "items": 3493,
+    "items": 3194,
     "error": null
    }
   ],
-  "articles_total": 8391,
+  "articles_total": 8470,
   "articles_analysed": 109,
   "media_since": "2026-07-01"
  },
