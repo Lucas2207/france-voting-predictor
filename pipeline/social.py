@@ -217,7 +217,8 @@ def known_people():
     return people
 
 
-PROFILE_URLS = {"x": "https://x.com/{}", "instagram": "https://www.instagram.com/{}/"}
+PROFILE_URLS = {"x": "https://x.com/{}", "instagram": "https://www.instagram.com/{}/",
+                "tiktok": "https://www.tiktok.com/@{}", "facebook": "https://www.facebook.com/{}"}
 
 
 def account_url(pid, platform):
@@ -233,7 +234,7 @@ def x_url(pid):
 def _cli_template(args):
     """Écrit un fichier CSV à remplir : une ligne par personne et par plateforme.
 
-    Pour X et Instagram, l'URL du compte est pré-remplie quand elle est connue.
+    Pour chaque réseau dont le compte est connu, l'URL est pré-remplie.
     """
     people = known_people()
     with open(args.output, "w", encoding="utf-8-sig", newline="") as f:
