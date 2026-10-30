@@ -11,7 +11,7 @@
  * @typedef {{ outlet: string, title: string, url: string }} SourceLink
  * @typedef {{ date: string, title: string, description: string, category: string, candidates: string[], origin: 'presse' | 'wikipedia', sources: SourceLink[] }} CampaignEvent
  * @typedef {{ outlet: string, ok: boolean, lean?: string, items?: number, error?: string }} FeedStatus
- * @typedef {{ polls?: string, polls_fetched?: string, feeds: FeedStatus[], articles_total: number, articles_analysed: number, media_since: string | null }} Sources
+ * @typedef {{ polls?: string, polls_fetched?: string, feeds: FeedStatus[], articles_total: number, articles_analysed: number, analysis_models: Record<string, number>, media_since: string | null }} Sources
  * @typedef {{ id: string, followers: (number | null)[], change_week: (number | null)[], change_month: (number | null)[], latest_by_platform: Record<string, number> }} PersonSeries
  * @typedef {{ id: string, members: string[], followers: (number | null)[], change_week: (number | null)[], change_month: (number | null)[] }} PartySeries
  * @typedef {{ id: string, followers: (number | null)[], change_week: (number | null)[], change_month: (number | null)[] }} NetworkSeries
@@ -156,6 +156,13 @@ function renderHeader() {
 }
 
 /** Méthodologie : générée à partir des traductions, avec les paramètres du modèle. */
+/** Qui a noté la tonalité, d'après sources.analysis_models (Claude et/ou modèle local). @returns {string} */
+function analystLabel() {
+  const models = Object.keys((data.sources && data.sources.analysis_models) || {});
+  const names = models.map(m => m.startsWith('ollama:') ? `${m.slice('ollama:'.length)} (${t('tone.local')})` : 'Claude (Anthropic)');
+  return [...new Set(names)].join(' + ') || 'Claude (Anthropic)';
+}
+
 function renderMethodology() {
   const src = data.sources || {};
   const p = data.parameters || {};
@@ -163,7 +170,7 @@ function renderMethodology() {
   const paragraphs = ['method.polls', 'method.media', 'method.projection', 'method.followers', 'method.candidates',
     'method.youtube', 'method.interviews', 'method.limits', 'method.emblem'];
   const params = {
-    sourceLink: link, beta: fmt(p.MEDIA_BETA ?? 1.5), cap: fmt(p.MEDIA_CAP ?? 2, 0),
+    sourceLink: link, beta: fmt(p.MEDIA_BETA ?? 1.5), cap: fmt(p.MEDIA_CAP ?? 2, 0), analyst: analystLabel(),
   };
   $('methodologyBody').innerHTML = paragraphs.map(k => `<p>${t(k, params)}</p>`).join('');
 }
@@ -919,6 +926,9 @@ function toneColor(t) {
 function renderOutlets() {
   const table = $('outletTable');
   const matrix = data.media_by_outlet || {};
+  const byModel = (data.sources && data.sources.analysis_models) || {};
+  const analysed = Object.values(byModel).reduce((a, b) => a + b, 0);
+  $('toneSource').textContent = analysed ? t('tone.source', { analyst: analystLabel(), n: analysed }) : '';
   const outlets = Object.keys(matrix);
   if (!outlets.length) {
     table.innerHTML = `<tr><td class="text-slate-400 py-2">${t('tone.none')}</td></tr>`;

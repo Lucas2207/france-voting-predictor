@@ -192,12 +192,16 @@ def main():
     interviews_doc = _load(INTERVIEWS_FILE, {"checked_days": [], "interviews": []})
     if args.no_claude:
         print("ℹ️  Analyse Claude désactivée (--no-claude)")
-    elif not (os.environ.get("ANTHROPIC_API_KEY") or os.environ.get("ANTHROPIC_AUTH_TOKEN")):
+    elif os.environ.get("ANALYSIS_BACKEND", "claude") == "claude" and not (
+            os.environ.get("ANTHROPIC_API_KEY") or os.environ.get("ANTHROPIC_AUTH_TOKEN")):
         print("⚠️  ANTHROPIC_API_KEY absente : analyse de tonalité et détection d'événements sautées", file=sys.stderr)
     else:
         import anthropic
         from . import analyze
-        print(f"🤖 Analyse avec {analyze.MODEL} (effort {analyze.EFFORT}, {CLAUDE_CALL_BUDGET} appels max)")
+        if analyze.BACKEND == "ollama":
+            print(f"🤖 Analyse locale avec {analyze.OLLAMA_MODEL} ({CLAUDE_CALL_BUDGET} lots max)")
+        else:
+            print(f"🤖 Analyse avec {analyze.MODEL} (effort {analyze.EFFORT}, {CLAUDE_CALL_BUDGET} appels max)")
         client = analyze._client()
         analyze.set_budget(CLAUDE_CALL_BUDGET)
         try:
@@ -269,6 +273,12 @@ def main():
 
     total_articles = sum(len(a) for a in days.values())
     analysed = sum(1 for a in days.values() for x in a if "analysis" in x)
+    analysis_models = {}
+    for a in days.values():
+        for x in a:
+            if "analysis" in x:
+                label = x.get("analysis_model", "claude")  # articles analysés avant l'étiquette : Claude
+                analysis_models[label] = analysis_models.get(label, 0) + 1
     output = {
         "last_updated": datetime.now(news.PARIS).strftime("%Y-%m-%d %H:%M"),
         "today": today.isoformat(),
@@ -296,6 +306,7 @@ def main():
             "feeds": feed_status,
             "articles_total": total_articles,
             "articles_analysed": analysed,
+            "analysis_models": analysis_models,
             "media_since": min(days) if days else None,
         },
         "parameters": {k: getattr(model, k) for k in (

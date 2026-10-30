@@ -11,9 +11,14 @@ import sys
 from datetime import date
 
 import anthropic
+import requests
 
 from .news import normalize
 
+# Backend d'analyse : « claude » (API Anthropic, défaut) ou « ollama » (modèle local, gratuit)
+BACKEND = os.environ.get("ANALYSIS_BACKEND", "claude")
+OLLAMA_URL = os.environ.get("OLLAMA_URL", "http://localhost:11434")
+OLLAMA_MODEL = os.environ.get("OLLAMA_MODEL", "qwen3.5:4b")
 MODEL = os.environ.get("CLAUDE_MODEL", "claude-opus-5-5")
 EFFORT = os.environ.get("CLAUDE_EFFORT", "low")
 BATCH_SIZE = 25
@@ -103,11 +108,18 @@ EVENTS_SCHEMA = {
 }
 
 
+def analysis_label():
+    """Qui note la tonalité : « ollama:<modèle> » ou « claude:<modèle> » (stocké avec chaque article)."""
+    return f"ollama:{OLLAMA_MODEL}" if BACKEND == "ollama" else f"claude:{MODEL}"
+
+
 class AnalysisError(RuntimeError):
     pass
 
 
 def _client():
+    if BACKEND == "ollama":
+        return None
     return anthropic.Anthropic(max_retries=4)
 
 
@@ -130,8 +142,28 @@ def _spend():
     _budget["left"] -= 1
 
 
+def _call_ollama(system, user, schema):
+    """Même contrat que _call, pour un modèle local via Ollama (sortie JSON contrainte par le schéma)."""
+    try:
+        resp = requests.post(f"{OLLAMA_URL}/api/chat", timeout=900, json={
+            "model": OLLAMA_MODEL, "stream": False, "think": False, "format": schema,
+            "messages": [{"role": "system", "content": system}, {"role": "user", "content": user}],
+            "options": {"temperature": 0, "num_ctx": 8192},
+        })
+    except requests.RequestException as exc:
+        raise AnalysisError(f"Ollama injoignable : {exc}") from exc
+    if resp.status_code != 200:
+        raise AnalysisError(f"Ollama HTTP {resp.status_code} : {resp.text[:200]}")
+    text = resp.json().get("message", {}).get("content")
+    if not text:
+        raise AnalysisError("Ollama : réponse vide")
+    return json.loads(text), None
+
+
 def _call(client, system, user, schema, max_tokens):
     _spend()
+    if BACKEND == "ollama":
+        return _call_ollama(system, user, schema)
     response = client.beta.messages.create(
         model=MODEL,
         max_tokens=max_tokens,
@@ -185,9 +217,10 @@ def score_articles(articles, candidates, client=None):
                     if c["id"] not in seen:
                         seen.add(c["id"]); result.append(c)
                 a["analysis"] = result
+                a["analysis_model"] = analysis_label()
                 done += 1
-        print(f"   lot {start // BATCH_SIZE + 1} : {len(batch)} articles, "
-              f"{usage.input_tokens} tokens entrée / {usage.output_tokens} sortie")
+        print(f"   lot {start // BATCH_SIZE + 1} : {len(batch)} articles, " + (
+              f"{usage.input_tokens} tokens entrée / {usage.output_tokens} sortie" if usage else f"modèle {OLLAMA_MODEL}"))
     return done
 
 
