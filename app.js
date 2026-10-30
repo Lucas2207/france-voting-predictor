@@ -22,10 +22,9 @@
  * @typedef {{ dates: string[], candidates: YouTubeSeries[], media: YouTubeSeries[], influencers: YouTubeSeries[] }} YouTube
  * @typedef {{ id: string, name: string, party: string, statut: 'non_candidat' | 'a_verifier', note: string, followers: number | null, youtube_views: number | null, youtube_subscribers: number | null, youtube_subs_gain_7d: number | null }} Influencer
  * @typedef {{ period: string, fetched: string, total_tv: number | null, shares: Record<string, number> }} TvWeek
- * @typedef {{ video_id: string, title: string, channel: string, published: string, candidates: string[], views: number, url: string }} InterviewVideo
  * @typedef {{ id: string, name: string, platforms: Record<string, number>, total: number }} PartyPage
  * @typedef {{ video_id: string, title: string, channel: string, published: string, candidates: string[], views: number, url: string }} OwnVideo
- * @typedef {{ last_updated: string, own_videos: OwnVideo[], party_pages: PartyPage[], tv_weekly: TvWeek | null, interview_videos: InterviewVideo[], today: string, candidates: Candidate[], parties: Party[], influencers: Influencer[], youtube: YouTube, projection: Projection[], history: HistoryEntry[], polls: Poll[], media_daily: MediaDay[], media_by_outlet: Record<string, Record<string, { tone: number, n: number }>>, events: CampaignEvent[], followers: Followers, interviews: Interview[], interview_summary: InterviewSummary, sources: Sources, parameters?: Record<string, number> }} LiveData
+ * @typedef {{ last_updated: string, own_videos: OwnVideo[], party_pages: PartyPage[], tv_weekly: TvWeek | null, today: string, candidates: Candidate[], parties: Party[], influencers: Influencer[], youtube: YouTube, projection: Projection[], history: HistoryEntry[], polls: Poll[], media_daily: MediaDay[], media_by_outlet: Record<string, Record<string, { tone: number, n: number }>>, events: CampaignEvent[], followers: Followers, interviews: Interview[], interview_summary: InterviewSummary, sources: Sources, parameters?: Record<string, number> }} LiveData
  */
 
 /** @type {LiveData} */
@@ -143,7 +142,6 @@ function renderEverything() {
   renderInfluencers();
   renderPartyPages();
   renderTvWeekly();
-  renderInterviewVideos();
   renderAll();
 }
 
@@ -200,19 +198,6 @@ function renderTvWeekly() {
 }
 
 /** Vidéos YouTube d'entretiens citant un candidat (depuis le 1er juillet 2026). */
-function renderInterviewVideos() {
-  const rows = (data.interview_videos || []).map(v => `<tr class="border-b border-slate-100">
-      <td class="px-2 py-1 whitespace-nowrap">${esc(shortDate(v.published))}</td>
-      <td class="px-2 py-1 whitespace-nowrap font-semibold">${esc(v.candidates.join(', '))}</td>
-      <td class="px-2 py-1 whitespace-nowrap">${esc(v.channel)}</td>
-      <td class="px-2 py-1"><a class="text-indigo-700 underline" href="${esc(safeUrl(v.url))}" target="_blank" rel="noopener noreferrer">${esc(v.title)}</a></td>
-      <td class="px-2 py-1 text-right">${compact(v.views)}</td></tr>`).join('');
-  $('interviewVideosTable').innerHTML = `<thead><tr class="text-[10px] uppercase tracking-wider text-slate-500 border-b border-slate-200">
-      <th class="px-2 py-1 text-left">${t('yt.th.date')}</th><th class="px-2 py-1 text-left">${t('yt.th.candidate')}</th><th class="px-2 py-1 text-left">${t('yt.th.channel')}</th>
-      <th class="px-2 py-1 text-left">${t('yt.th.title')}</th><th class="px-2 py-1 text-right">${t('yt.th.views')}</th></tr></thead>
-    <tbody>${rows || `<tr><td class="py-2 text-slate-400" colspan="5">${t('yt.none')}</td></tr>`}</tbody>`;
-}
-
 /** Tri et sélection des personnalités influentes (logique dans sort.js). */
 /** @type {{ key: string, dir: 'asc' | 'desc' }} */
 let influencerSort = { key: 'name', dir: 'asc' };
