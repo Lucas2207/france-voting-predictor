@@ -168,18 +168,62 @@ function renderMethodology() {
   $('methodologyBody').innerHTML = paragraphs.map(k => `<p>${t(k, params)}</p>`).join('');
 }
 
+/** Tri par colonne des tableaux : clé et sens, par identifiant de tableau. */
+/** @type {Record<string, { key: string, dir: 'asc' | 'desc' }>} */
+const tableSort = {};
+/** Fonction qui redessine un tableau triable (appelée au clic sur un en-tête). */
+/** @type {Record<string, () => void>} */
+const tableRedraw = {};
+
+/**
+ * @typedef {{ key: string, label: string, right?: boolean }} TableColumn
+ * @typedef {{ sort: Record<string, number | string | null>, cells: string[] }} TableRow
+ */
+
+/**
+ * Tableau dont un clic sur un en-tête trie les lignes : décroissant d'abord, puis croissant.
+ * Les valeurs vides restent en bas.
+ * @param {string} id
+ * @param {TableColumn[]} columns
+ * @param {TableRow[]} rows
+ * @param {{ empty: string, defaultKey: string, redraw: () => void }} opts
+ */
+function renderTable(id, columns, rows, opts) {
+  tableRedraw[id] = opts.redraw;
+  const sort = tableSort[id] || { key: opts.defaultKey, dir: 'desc' };
+  const sorted = [...rows].sort((a, b) => {
+    const x = a.sort[sort.key];
+    const y = b.sort[sort.key];
+    if (x == null || y == null) return x == null ? (y == null ? 0 : 1) : -1;
+    const c = typeof x === 'number' && typeof y === 'number' ? x - y : String(x).localeCompare(String(y), 'fr');
+    return sort.dir === 'asc' ? c : -c;
+  });
+  const head = columns.map(c => {
+    const arrow = c.key === sort.key ? (sort.dir === 'asc' ? ' ▲' : ' ▼') : '';
+    return `<th class="px-2 py-1 whitespace-nowrap ${c.right ? 'text-right' : 'text-left'}"><button type="button" data-sort-table="${esc(id)}" data-sort-key="${esc(c.key)}" class="text-[10px] font-bold uppercase tracking-wider text-slate-500 hover:text-slate-900">${esc(c.label)}${arrow}</button></th>`;
+  }).join('');
+  const body = sorted.map(r => `<tr class="border-b border-slate-100">${r.cells.join('')}</tr>`).join('');
+  $(id).innerHTML = `<thead><tr class="border-b border-slate-200">${head}</tr></thead>
+    <tbody>${body || `<tr><td class="py-2 text-slate-400" colspan="${columns.length}">${esc(opts.empty)}</td></tr>`}</tbody>`;
+}
+
 /** Pages officielles des partis : abonnés par réseau et total. */
 function renderPartyPages() {
-  const nets = ['facebook', 'instagram', 'tiktok', 'youtube'];
+  const nets = /** @type {string[]} */ (['facebook', 'instagram', 'tiktok', 'youtube']);
+  /** @type {Record<string, string>} */
   const labels = { facebook: 'Facebook', instagram: 'Instagram', tiktok: 'TikTok', youtube: 'YouTube' };
-  const rows = (data.party_pages || []).map(p => `<tr class="border-b border-slate-100">
-      <td class="px-2 py-1 font-semibold whitespace-nowrap">${esc(p.name)}</td>
-      ${nets.map(n => `<td class="px-2 py-1 text-right">${p.platforms[n] == null ? '—' : compact(p.platforms[n])}</td>`).join('')}
-      <td class="px-2 py-1 text-right font-bold">${compact(p.total)}</td></tr>`).join('');
-  $('partyPagesTable').innerHTML = `<thead><tr class="text-[10px] uppercase tracking-wider text-slate-500 border-b border-slate-200">
-      <th class="px-2 py-1 text-left">${t('pages.party')}</th>${nets.map(n => `<th class="px-2 py-1 text-right">${labels[n]}</th>`).join('')}
-      <th class="px-2 py-1 text-right">${t('pages.total')}</th></tr></thead>
-    <tbody>${rows || `<tr><td class="py-2 text-slate-400" colspan="6">${t('pages.none')}</td></tr>`}</tbody>`;
+  const rows = (data.party_pages || []).map(p => ({
+    sort: { name: p.name, facebook: p.platforms.facebook ?? null, instagram: p.platforms.instagram ?? null,
+            tiktok: p.platforms.tiktok ?? null, youtube: p.platforms.youtube ?? null, total: p.total },
+    cells: [`<td class="px-2 py-1 font-semibold whitespace-nowrap">${esc(p.name)}</td>`,
+            ...nets.map(n => `<td class="px-2 py-1 text-right">${p.platforms[n] == null ? '—' : compact(p.platforms[n])}</td>`),
+            `<td class="px-2 py-1 text-right font-bold">${compact(p.total)}</td>`],
+  }));
+  renderTable('partyPagesTable', [
+    { key: 'name', label: t('pages.party') },
+    ...nets.map(n => ({ key: n, label: labels[n], right: true })),
+    { key: 'total', label: t('pages.total'), right: true },
+  ], rows, { empty: t('pages.none'), defaultKey: 'total', redraw: renderPartyPages });
 }
 
 /** Parts d'audience TV de la semaine (Médiamétrie) : chaînes suivies et total. */
@@ -427,6 +471,16 @@ function wireChartControls() {
     });
     renderAll();
   });
+  document.addEventListener('click', (ev) => {
+    const el = ev.target;
+    if (!(el instanceof HTMLElement) || !el.dataset.sortTable) return;
+    const id = el.dataset.sortTable;
+    const key = el.dataset.sortKey || '';
+    const prev = tableSort[id];
+    const dir = prev && prev.key === key && prev.dir === 'desc' ? 'asc' : 'desc';
+    tableSort[id] = { key, dir };
+    if (tableRedraw[id]) tableRedraw[id]();
+  });
   document.querySelectorAll('[data-toggle]').forEach(btn => {
     btn.addEventListener('click', (ev) => {
       const el = /** @type {HTMLButtonElement} */ (ev.currentTarget);
@@ -527,25 +581,36 @@ function renderYouTube() {
     data: { labels: hasData ? yt.dates : [], datasets: sets(mediaOf('presse'), 'media:', 'ytMediaPresseChart') },
     options: lineOptions('', { legend: true, tickFormat: labelFmt, tooltipLabel: tooltip }) });
 
-  /** @type {string[]} */
-  const rows = [];
-  if (hasData) {
-    /** @type {Array<{ prefix: string, s: YouTubeSeries }>} */
-    const all = [...yt.candidates.map(s => ({ prefix: 'cand:', s })), ...yt.media.map(s => ({ prefix: 'media:', s }))];
-    all.filter(({ prefix, s }) => YT_CHARTS.some(c => picked(c).has(prefix + s.id)) && s.latest)
-      .forEach(({ s }) => {
-        if (!s.latest) return;
-        const color = s.color || (candById[s.id] && candById[s.id].color) || '#64748B';
-        const delta = s.change[s.change.length - 1];
-        rows.push(`<tr class="border-b border-slate-100"><td class="px-2 py-1 font-semibold whitespace-nowrap"><span class="inline-block w-2 h-2 rounded-full mr-1" style="background:${esc(color)}"></span>${esc(s.name)}</td>
-          <td class="px-2 py-1 text-right">${compact(s.latest.views)}</td><td class="px-2 py-1 text-right">${delta == null ? '—' : signed(delta, 0)}</td>
-          <td class="px-2 py-1 text-right">${s.latest.subscribers == null ? '—' : compact(s.latest.subscribers)}</td></tr>`);
-      });
-  }
-  $('youtubeTable').innerHTML = `<thead><tr class="text-[10px] uppercase tracking-wider text-slate-500 border-b border-slate-200">
-      <th class="px-2 py-1 text-left">${t('youtube.th.channel')}</th><th class="px-2 py-1 text-right">${t('youtube.th.views')}</th>
-      <th class="px-2 py-1 text-right">${t('youtube.th.change')}</th><th class="px-2 py-1 text-right">${t('youtube.th.subs')}</th></tr></thead>
-    <tbody>${rows.join('') || `<tr><td class="py-2 text-slate-400" colspan="4">${t('youtube.noneChecked')}</td></tr>`}</tbody>`;
+  renderYouTubeTable('youtubeCandTable', hasData ? yt.candidates : [], 'cand:', ['ytCandChart']);
+  renderYouTubeTable('youtubeMediaTable', hasData ? yt.media : [], 'media:', ['ytMediaTvChart', 'ytMediaPresseChart']);
+}
+
+/**
+ * Vues, gain et abonnés des chaînes cochées dans les graphiques donnés.
+ * @param {string} id
+ * @param {YouTubeSeries[]} series
+ * @param {string} prefix
+ * @param {string[]} charts
+ */
+function renderYouTubeTable(id, series, prefix, charts) {
+  const rows = series.filter(s => s.latest && charts.some(c => picked(c).has(prefix + s.id))).map(s => {
+    const color = s.color || (candById[s.id] && candById[s.id].color) || '#64748B';
+    const latest = /** @type {NonNullable<YouTubeSeries['latest']>} */ (s.latest);
+    const delta = s.change[s.change.length - 1];
+    return {
+      sort: { name: s.name, views: latest.views, change: delta ?? null, subs: latest.subscribers ?? null },
+      cells: [`<td class="px-2 py-1 font-semibold whitespace-nowrap"><span class="inline-block w-2 h-2 rounded-full mr-1" style="background:${esc(color)}"></span>${esc(s.name)}</td>`,
+              `<td class="px-2 py-1 text-right">${compact(latest.views)}</td>`,
+              `<td class="px-2 py-1 text-right">${delta == null ? '—' : signed(delta, 0)}</td>`,
+              `<td class="px-2 py-1 text-right">${latest.subscribers == null ? '—' : compact(latest.subscribers)}</td>`],
+    };
+  });
+  renderTable(id, [
+    { key: 'name', label: t('youtube.th.channel') },
+    { key: 'views', label: t('youtube.th.views'), right: true },
+    { key: 'change', label: t('youtube.th.change'), right: true },
+    { key: 'subs', label: t('youtube.th.subs'), right: true },
+  ], rows, { empty: t('youtube.noneChecked'), defaultKey: 'views', redraw: () => renderYouTube() });
 }
 
 function renderProjection() {
@@ -696,22 +761,30 @@ function renderFollowers() {
 
 function renderFollowersTable() {
   const f = data.followers;
-  const table = $('followersTable');
   if (!f || f.dates.length === 0) {
-    table.innerHTML = `<tbody><tr><td class="py-2 text-slate-400">${t('followers.empty')}</td></tr></tbody>`;
+    $('followersTable').innerHTML = `<tbody><tr><td class="py-2 text-slate-400">${t('followers.empty')}</td></tr></tbody>`;
     return;
   }
   const platforms = f.platforms;
   const rows = f.candidates.filter(s => picked('followersCandChart').has(`cand:${s.id}`)).map(s => {
     const latest = s.followers[s.followers.length - 1];
-    const cells = platforms.map(p => `<td class="px-2 py-1 text-right">${compact(s.latest_by_platform[p])}</td>`).join('');
     const delta = gainOf(s)[gainOf(s).length - 1];
-    return `<tr class="border-b border-slate-100"><td class="px-2 py-1 font-semibold whitespace-nowrap"><span class="inline-block w-2 h-2 rounded-full mr-1" style="background:${candById[s.id].color}"></span>${esc(candById[s.id].name)}</td>${cells}<td class="px-2 py-1 text-right font-bold">${compact(latest)}</td><td class="px-2 py-1 text-right ${delta != null && delta < 0 ? 'text-[#c62f2e]' : 'text-[#1d5fb0]'}">${delta == null ? '—' : signed(delta, 0)}</td></tr>`;
-  }).join('');
-  table.innerHTML = `<thead><tr class="text-[10px] uppercase tracking-wider text-slate-500 border-b border-slate-200">
-      <th class="px-2 py-1 text-left">${t('followers.th.candidate')}</th>${platforms.map(p => `<th class="px-2 py-1 text-right">${esc(p)}</th>`).join('')}
-      <th class="px-2 py-1 text-right">${t('followers.th.total')}</th><th class="px-2 py-1 text-right">${t('followers.th.since')}</th></tr></thead>
-    <tbody>${rows || `<tr><td class="py-2 text-slate-400" colspan="8">${t('followers.noneChecked')}</td></tr>`}</tbody>`;
+    const color = candById[s.id].color;
+    return {
+      sort: { name: candById[s.id].name, ...Object.fromEntries(platforms.map(p => [p, s.latest_by_platform[p] ?? null])),
+              total: latest ?? null, gain: delta ?? null },
+      cells: [`<td class="px-2 py-1 font-semibold whitespace-nowrap"><span class="inline-block w-2 h-2 rounded-full mr-1" style="background:${color}"></span>${esc(candById[s.id].name)}</td>`,
+              ...platforms.map(p => `<td class="px-2 py-1 text-right">${compact(s.latest_by_platform[p])}</td>`),
+              `<td class="px-2 py-1 text-right font-bold">${compact(latest)}</td>`,
+              `<td class="px-2 py-1 text-right ${delta != null && delta < 0 ? 'text-[#c62f2e]' : 'text-[#1d5fb0]'}">${delta == null ? '—' : signed(delta, 0)}</td>`],
+    };
+  });
+  renderTable('followersTable', [
+    { key: 'name', label: t('followers.th.candidate') },
+    ...platforms.map(p => ({ key: p, label: p, right: true })),
+    { key: 'total', label: t('followers.th.total'), right: true },
+    { key: 'gain', label: t('followers.th.since'), right: true },
+  ], rows, { empty: t('followers.noneChecked'), defaultKey: 'total', redraw: renderFollowersTable });
 }
 
 function renderInterviews() {
@@ -754,14 +827,20 @@ function renderInterviewSummary(ids) {
   const summary = data.interview_summary || {};
   const rows = data.candidates.filter(c => ids.has(c.id)).map(c => {
     const s = summary[c.id] || { count: 0, avg_viewers: null, avg_share: null };
-    return `<tr class="border-b border-slate-100"><td class="px-2 py-1 font-semibold whitespace-nowrap"><span class="inline-block w-2 h-2 rounded-full mr-1" style="background:${c.color}"></span>${esc(c.name)}</td>
-      <td class="px-2 py-1 text-right">${s.count}</td><td class="px-2 py-1 text-right">${s.avg_viewers == null ? '—' : compact(s.avg_viewers)}</td>
-      <td class="px-2 py-1 text-right">${s.avg_share == null ? '—' : fmt(s.avg_share) + ' %'}</td></tr>`;
-  }).join('');
-  $('interviewSummary').innerHTML = `<thead><tr class="text-[10px] uppercase tracking-wider text-slate-500 border-b border-slate-200">
-      <th class="px-2 py-1 text-left">${t('interview.th.candidate')}</th><th class="px-2 py-1 text-right">${t('interview.th.count')}</th>
-      <th class="px-2 py-1 text-right">${t('interview.th.avg')}</th><th class="px-2 py-1 text-right">${t('interview.th.share')}</th></tr></thead>
-    <tbody>${rows || `<tr><td class="py-2 text-slate-400" colspan="4">${t('followers.noneChecked')}</td></tr>`}</tbody>`;
+    return {
+      sort: { name: c.name, count: s.count, viewers: s.avg_viewers, share: s.avg_share },
+      cells: [`<td class="px-2 py-1 font-semibold whitespace-nowrap"><span class="inline-block w-2 h-2 rounded-full mr-1" style="background:${c.color}"></span>${esc(c.name)}</td>`,
+              `<td class="px-2 py-1 text-right">${s.count}</td>`,
+              `<td class="px-2 py-1 text-right">${s.avg_viewers == null ? '—' : compact(s.avg_viewers)}</td>`,
+              `<td class="px-2 py-1 text-right">${s.avg_share == null ? '—' : fmt(s.avg_share) + ' %'}</td>`],
+    };
+  });
+  renderTable('interviewSummary', [
+    { key: 'name', label: t('interview.th.candidate') },
+    { key: 'count', label: t('interview.th.count'), right: true },
+    { key: 'viewers', label: t('interview.th.avg'), right: true },
+    { key: 'share', label: t('interview.th.share'), right: true },
+  ], rows, { empty: t('followers.noneChecked'), defaultKey: 'count', redraw: () => renderInterviews() });
 }
 
 /**
