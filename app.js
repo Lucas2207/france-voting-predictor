@@ -173,9 +173,13 @@ function applyTheme(isDark, redraw) {
   (data.candidates || []).forEach(c => { c.color = isDark && darkColor[c.id] ? darkColor[c.id] : lightColor[c.id]; });
   document.querySelectorAll('[data-theme-icon]').forEach(el => {
     const icon = /** @type {HTMLElement} */ (el);
-    icon.classList.toggle('hidden', icon.dataset.themeIcon === (isDark ? 'moon' : 'sun'));
+    icon.classList.toggle('hidden', icon.dataset.themeIcon === (isDark ? 'sun' : 'moon'));
   });
-  $('themeToggle').setAttribute('aria-pressed', String(isDark));
+  $('themeToggle').setAttribute('aria-checked', String(isDark));
+  $('themeKnob').classList.toggle('translate-x-7', isDark);
+  document.querySelectorAll('[data-theme-track]').forEach(el => {
+    (/** @type {HTMLElement} */ (el)).classList.toggle('hidden', (/** @type {HTMLElement} */ (el)).dataset.themeTrack === (isDark ? 'moon' : 'sun'));
+  });
   if (redraw && data.candidates) renderEverything();
 }
 
