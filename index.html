@@ -38,7 +38,10 @@
     html.dark .border-slate-300 { border-color: #475569 !important; }
     html.dark .border-indigo-300 { border-color: #4338CA !important; }
     html.dark .bg-white\/95 { background-color: rgba(30, 41, 59, 0.95) !important; }
-    html.dark img[src$="elysee.png"] { filter: invert(0.85) hue-rotate(180deg); }
+    .elysee-dark { display: none; }
+    html.dark .elysee-dark { display: block; }
+    html.dark .elysee-light { display: none; }
+    html.dark .carpet-blue { fill: #6F8FE0; }
     html.dark select { color-scheme: dark; }
   </style>
 </head>
@@ -76,9 +79,10 @@
     <header class="bg-white p-6 rounded-2xl shadow-sm border border-slate-200 flex flex-col gap-5">
       <div class="flex flex-col lg:flex-row items-center gap-5">
       <div class="relative shrink-0 h-28" role="img" data-i18n-attr="aria-label:logo.coat">
-        <img src="assets/elysee.png" alt="" class="block h-28 w-auto object-contain">
+        <img src="assets/elysee.png" alt="" class="elysee-light block h-28 w-auto object-contain">
+        <img src="assets/elysee-sombre.png" alt="" class="elysee-dark h-28 w-auto object-contain">
         <svg viewBox="0 0 100 130" preserveAspectRatio="none" class="absolute left-0 top-0 w-full h-[130%] overflow-visible" aria-hidden="true">
-          <polygon points="42,91 47.333,91 42.667,112 28,112" fill="#002654"/>
+          <polygon class="carpet-blue" points="42,91 47.333,91 42.667,112 28,112" fill="#002654"/>
           <polygon points="47.333,91 52.667,91 57.333,112 42.667,112" fill="#FFFFFF" stroke="#94A3B8" stroke-width="0.8"/>
           <polygon points="52.667,91 58,91 72,112 57.333,112" fill="#ED2939"/>
         </svg>
