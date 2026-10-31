@@ -60,9 +60,15 @@ let interviewMetric = 'viewers';
 /** @type {'total' | 'change'} */
 let youtubeMode = 'total';
 
-const GRID = '#EEF0F3';
-const INK = '#334155';
-const MUTED = '#64748B';
+let GRID = '#EEF0F3';
+let INK = '#334155';
+let MUTED = '#64748B';
+/** Couleurs claires d'origine et variantes sombres des candidats (config/couleurs_sombre.json). */
+/** @type {Record<string, string>} */
+const lightColor = {};
+/** @type {Record<string, string>} */
+let darkColor = {};
+let dark = false;
 
 /**
  * @param {string} id
@@ -117,14 +123,60 @@ async function init() {
     $('lastUpdated').textContent = t('header.unavailable', { error: e instanceof Error ? e.message : String(e) });
     return;
   }
-  data.candidates.forEach(c => { candById[c.id] = c; });
+  data.candidates.forEach(c => { candById[c.id] = c; lightColor[c.id] = c.color; });
+  darkColor = await loadDarkColors();
   (data.parties || []).forEach(p => { partyById[p.id] = p; });
 
   (data.influencers || []).forEach(i => influencerIncluded.add(i.id));
   wireInfluencerControls();
   buildPickers();
+  applyTheme(initialTheme(), false);
+  $('themeToggle').addEventListener('click', () => {
+    try { localStorage.setItem('theme', dark ? 'light' : 'dark'); } catch (e) { /* mémoire indisponible : choix non mémorisé */ }
+    applyTheme(!dark, true);
+  });
 
   renderEverything();
+}
+
+/** @returns {Promise<Record<string, string>>} variantes sombres par identifiant de candidat (vide si indisponible) */
+async function loadDarkColors() {
+  try {
+    const res = await fetch('config/couleurs_sombre.json', { cache: 'no-store' });
+    if (!res.ok) return {};
+    return (await res.json()).candidates || {};
+  } catch (e) {
+    return {};
+  }
+}
+
+/** Thème du dernier choix, sinon celui du système. @returns {boolean} true si sombre */
+function initialTheme() {
+  try {
+    const saved = localStorage.getItem('theme');
+    if (saved === 'dark' || saved === 'light') return saved === 'dark';
+  } catch (e) { /* pas de stockage : on suit le système */ }
+  return window.matchMedia('(prefers-color-scheme: dark)').matches;
+}
+
+/**
+ * Applique le thème : classe sur <html>, couleurs des candidats et des axes des graphiques.
+ * @param {boolean} isDark
+ * @param {boolean} redraw redessine la page (sauf à l'initialisation, où renderEverything suit)
+ */
+function applyTheme(isDark, redraw) {
+  dark = isDark;
+  document.documentElement.classList.toggle('dark', isDark);
+  GRID = isDark ? '#334155' : '#EEF0F3';
+  INK = isDark ? '#E2E8F0' : '#334155';
+  MUTED = isDark ? '#94A3B8' : '#64748B';
+  (data.candidates || []).forEach(c => { c.color = isDark && darkColor[c.id] ? darkColor[c.id] : lightColor[c.id]; });
+  document.querySelectorAll('[data-theme-icon]').forEach(el => {
+    const icon = /** @type {HTMLElement} */ (el);
+    icon.classList.toggle('hidden', icon.dataset.themeIcon === (isDark ? 'moon' : 'sun'));
+  });
+  $('themeToggle').setAttribute('aria-pressed', String(isDark));
+  if (redraw && data.candidates) renderEverything();
 }
 
 /** Appelée par setLang (i18n.js) : redessine tout, textes compris. */
