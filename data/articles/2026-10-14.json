@@ -51,6 +51,18 @@
   "analysis_model": "ollama:qwen3.5:4b"
  },
  {
+  "id": "80d4cd9476de51d6",
+  "outlet": "Mediapart",
+  "lean": "gauche",
+  "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNSkpRVjI5cmpULTJqeXJmVmtMN1R6TTNTOVFyRjhqVlA1WGNDVE0wNC1OOHJUNXRiLUdiVHE1NDJ0UUpXSHk3NWtXSEhIbExSNmJPdUNSRWJZTEJjNVFXQ3huWGtfR3FUekx6UExRWHl5TTdXNTh2aU83LTlxZ19VYm0xTmdfLWw5SHZ4ZUJSZDl4c3g3QVdiNUpXczRCUm03bzJ0Vl9hVGhEU1ZFbXdHREU5VFBIdEtVYkg5YkRCcmZ1R3FYMGtxUmpsbGNWMDNrRWlFdG5RckNDYXJzMEFmcHdZd2hYVXM?oc=5",
+  "title": "L’essayiste Natacha Polony candidate à la présidentielle pour « proposer une politique de production",
+  "summary": "",
+  "published": "2026-10-14T08:45+02:00",
+  "mentions": [
+   "polony"
+  ]
+ },
+ {
   "id": "00da7dc8b57021fa",
   "outlet": "Le Figaro",
   "lean": "droite",
@@ -1253,6 +1265,796 @@
   "summary": "",
   "published": "2026-10-14T09:00+02:00",
   "mentions": []
+ },
+ {
+  "id": "54c42fe06d09e041",
+  "outlet": "Le Monde.fr",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNa1RaTWtsQllxMWhwZHJyOEU4YlZsOHNVUTN5TENQNnhuU1ZGbEh3TlV3cHJYQkV0NTZUcF9xcDc2bUt0WnlGWVJxNm5HMWt2UlhrTExfLUd0cE5kX3c0Rl9RT1RfZ3ZSZzkyNmo5RWJzWXFUS3VKaVFCUHdLYXZScWRuelhGSElaZ3BtanpkR0hMTTYwMklEX3YwYk9VUkRBRDExcGE3elkzYjQ0QnlFS1gxcktueE1pQWZkR2F1TlUzZmxtVHc?oc=5",
+  "title": "Présidentielle 2027 : Natacha Polony se déclare candidate pour « perturber le jeu politique »",
+  "summary": "",
+  "published": "2026-10-14T09:00+02:00",
+  "mentions": [
+   "polony"
+  ]
+ },
+ {
+  "id": "72af53789c1feecf",
+  "outlet": "Facebook",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOVB3YVQ5TW84TU51dmowTnJ0WDFDWVdIMno2RHpjemlUb2VLTlQtcEI3djFBZEhZT1dqQVV1WnZvTzF0QjZVd2FfUlZVRE1mNlJWNjRXVDJGZWJiVEpPVlJzdm1GUXpMSC16X1lBamU1empKTjYyVk9kXy1ZZkVRR3Z2b2VESzNNTHUzN1NyUEJicGo3Zk85OW42MDBJcXNUV21zcmhWMHNvN3owclpTSy1n?oc=5",
+  "title": "France Inter. . Quelles sont les mesures concrètes dans le programme de Natacha Polony, candidate à l’élection présidentielle ? L’essayiste défend notamment une hausse de 20 à 30% du salaire des enseignants, et la mise en place d’une véritable \"politique",
+  "summary": "",
+  "published": "2026-10-14T09:00+02:00",
+  "mentions": [
+   "polony"
+  ]
+ },
+ {
+  "id": "c7ad003dd96988c5",
+  "outlet": "franceinfo",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQVlVGaUFjRVN2Z09URzVoLWdEY3VQTWxXd0IxcUtiUDdHdUhhZG81T0E5dUNfeDQ1MVdJaW9SeU02dTZmSGJUck9oaTZmc29BN1R0cEpkdHdWNUtrUkRWQzJMS3MyV0dQbVFWUGprSTExY2l5QzBKenp6ZlQ1MzExR3VIUk9xdkNiRGFBSzB1V2stRGNSX1I4S0JSUll3dGtmbGplbmlVOEQ2OGFWV3NFNFpfSEJOcVYxRFB5dkNoQ2NLRTc1NWhxa1BiTHNBakhleFYyMy1nV0o?oc=5",
+  "title": "L'essayiste Natacha Polony annonce sa candidature à l'élection présidentielle",
+  "summary": "",
+  "published": "2026-10-14T09:00+02:00",
+  "mentions": [
+   "polony"
+  ]
+ },
+ {
+  "id": "ac4306d9a80963c8",
+  "outlet": "Sud Radio",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNYjh4dngyenhVTlZaak5mYS1fSHVBSFh0VVMxVnpTVmU4ZlZPdXA5QmJ0QVR2eWJYdERnVktGQ0NmNTI3TVYySlVzQVMzZHJOZXhQTTB0Z0ltQ290RGhrYXByREtrVmxmR01LOFlYNFhKNUNudXlMZ3dsZFJvbmY3dTNXN1UzM2Z6czBiRW9LdXlRZ1VGWXhkWm5rNWk1aXRvWHJIa0J6VERoRjNPMi1NUE1oQWNIOFZhTlRSNWs3V01ETDM0ZXllclNWV1BKTVhwSWpZWm5RdDlURXJ3WXR5eU9jSndQWkQzdV9LNUtnZjB4NmVCNEE?oc=5",
+  "title": "Présidentielle 2027 : les propositions chocs de Natacha Polony pour sortir de la crise lycéenne et étudiante",
+  "summary": "",
+  "published": "2026-10-14T09:00+02:00",
+  "mentions": [
+   "polony"
+  ]
+ },
+ {
+  "id": "39a186b30c53f1da",
+  "outlet": "LCP-Assemblée nationale",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQ2UzNlI4bmhsM3VhV2tBWTdla0Y2TXktVGRreFJPd01EeTNuQ3k1ZUczVld2M05aWjN5R2s3b01pRkd1Y0lBbTdxMjJtdDJpbEtGaDh2dVV3WE1ncjNFeTIwbWoyN1hwNzF6VWp2aVV6WkJGcmkwZHcyaUVHMzhEWHhxd095ajhTdHlmWDFnajZOV2kzbk5NTVhhSlJyS2c?oc=5",
+  "title": "'Oui, je suis candidate à la présidentielle', annonce Natacha Polony",
+  "summary": "",
+  "published": "2026-10-14T09:00+02:00",
+  "mentions": [
+   "polony"
+  ]
+ },
+ {
+  "id": "2b3de56d8806a95e",
+  "outlet": "Pleinchamp",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaWVQX2FyeTg0YkhQMENkX01jT3ZXdHozZVRIclBnbE9fT2tfMF9yTVowb3RXOEJLalZablI4OXJsN2F5NVFMamMzNUlINWxlQkpqalJoMVA0YTV0bk9xaTFVOVYyUDJDR0dTOG5Zek9KdEN6TjhKMUpsT2V0eGhNOGpjS0FkcGFtNDNqZVdqaXZtTE9BOG5zRWJ3UDI5MFJBNUtNNHlnQzcxNFZUNjlraHQtc3ZRUQ?oc=5",
+  "title": "Natacha Polony candidate à l’Élysée, avec l’agriculture comme champ de bataille",
+  "summary": "",
+  "published": "2026-10-14T09:00+02:00",
+  "mentions": [
+   "polony"
+  ]
+ },
+ {
+  "id": "276d3311bbd19694",
+  "outlet": "Le Parisien",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQWl92bWt2UGhNV2w5RWc1eWNmQWdKVFBhMHhxZHh5RVh3bFJDUFZETlpYM0szaDdGYUgtQ3VNcVFHNG12XzA4ZzVxOS1CRHhzMWRCZnRHa3VrTGhqVlFhNTJ0ZFp6NnN0cUlpZ25LcHNibVBGbE1HQnA1ZmlHWExOQ2dXanBYUjJ0dDBZMlpDZjNYTzNhaE1LbkFNN2J0WkJLTVg2T2g2R0ZVTWZ3UEJfWGNxNjN3djBDWDdmTi1VNnBneTIzbmR4TDVCSHMzMVhwN0RndHotWUJlS0VISjhIa2otZThTYm9QeGxaa053VTNLaWtSNk5OUFFCclg2eldt?oc=5",
+  "title": "« La situation m’oblige » : l’essayiste Natacha Polony annonce sa candidature à la présidentielle",
+  "summary": "",
+  "published": "2026-10-14T09:00+02:00",
+  "mentions": [
+   "polony"
+  ]
+ },
+ {
+  "id": "e5578f256675ddb6",
+  "outlet": "Euronews.com",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQX256ZmRyalZGWHdxei0yamxaUXdYUG1fa2lVMlhQNU1YWmdNUzVZeks3MTNyYkpUb3hsNlVSSWlSa0xpVExRV0tnenlvS19lWkhmcVNrbXJCbmI5NkNPaTF4aml3MTBUaDBrS2haMFhzdmRaeVNWR2FXa1pvMWRMejQyQkNYV21zYVA5NWFNRWxRTVdsSVRyc0N2eXRUMFZrR0JhVGtn?oc=5",
+  "title": "France : la course à l'Élysée compte une nouvelle candidate",
+  "summary": "",
+  "published": "2026-10-14T09:00+02:00",
+  "mentions": []
+ },
+ {
+  "id": "6a3fd38129aec336",
+  "outlet": "France TV",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPTExuZms4VWZEYzNNRjhiRUtUQV9ZQVkya09sRHBCcmlzQ0tGajVyR0VOaGR0dTktVDEzZWRzdFBGZzczNWNfUm0xNFRlcHhFOGJQVlpmZTAwOWF3ZXVGMTBBbXc1aUFia256VDNfc2dOTVk3NXhqVVAtZzlmNV9iTm0wcFMzdWFVTlZNQWpEWHlfVFhvUUpsWTlaYmRHSzhqZlNSY2lVd2duVDJEOTMtVlBfX3lGaUlpMmgyMENIbEtsNzNwenB0NDNUcWlNMXowNTdXMllR?oc=5",
+  "title": "Natacha Polony candidate : Caroline Fourest réagit - Le 5 sur 5 Express du mercredi 14 octobre 2026",
+  "summary": "",
+  "published": "2026-10-14T09:00+02:00",
+  "mentions": [
+   "polony"
+  ]
+ },
+ {
+  "id": "0ac3142f4e04177b",
+  "outlet": "20 Minutes",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNTRDLUlzUmRhcHVkUEhKQ0paZ3FjaDFpS2lGS1B2Z2IzSnhyRFk4TXlmbnBsTkhldG00ZmUtMEkxOG9EZGw4akpuQ2hrV0FfU0lYUWV4Q0Y5aU5ZallMRnZxZm9BMTFON2FuM0QxYmdUbjNkQUlDUTI1aDhMLWd0ZklCQm1Fd1pERDVfZ2xaS2JVUXpDRGFGTk84b3hUNjR6NzlaaC1OS1VfZWFMZFhWdlZnVkJGTWptX09oS0VBWjNYMzg0WXJSSE53?oc=5",
+  "title": "L’essayiste et journaliste Natacha Polony se déclare candidate à la présidentielle",
+  "summary": "",
+  "published": "2026-10-14T09:00+02:00",
+  "mentions": [
+   "polony"
+  ]
+ },
+ {
+  "id": "dd4d6431c7435a2f",
+  "outlet": "Facebook",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWWx4SXFKWThwQy1oRlBlSGRNWG9Vd293T2o0bmFWYVV4SGR6Z2VwYkpNbHAzRjhJNXc0U05NV2ppTENKVlByQ2l1QVR6NzhnSTFNNWVkUmJyc0ZqMmVWeEdPX1hkTFhiTlBSazlVWFlnTUZhRl9SYXFNX2VUcFYzZE14Q2Q0X2tRdEFuYVhIZUxoeXV0ZW04R01GbUY?oc=5",
+  "title": "France Inter. . \"Je suis candidate à l’élection présidentielle\" : après avoir lancé un mouvement en septembre 2026, l’essayiste Natacha Polony lance sa candidature, et dénonce \"l’impuissance, l’illisibilité, l’irresponsabilité et l’incapacité à penser le temps\". ➡️",
+  "summary": "",
+  "published": "2026-10-14T09:00+02:00",
+  "mentions": [
+   "polony"
+  ]
+ },
+ {
+  "id": "026df36562e15ad0",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPT0NfMV9PaGJrQ2NIVnkzcHRXbHg3TTR4SGZVbTVPWUlMZUJoUVRIa2VORnJqTEJVMkpTUnI2YlNYbWdXTEVSS2N0enZzbFpUR1dOeWJybXFQSWY5VE9NY2Qtajh2VmkzTjdOZWZGYU96SVJoQ1A2RWFraVpTeGxlcGd0OFVRNFlnbDhuQ0JRRHNFZzVTQWtFSVctNm11Wi1pajVuUEdNUzR5VnFqRDBUbHdmZnJudTZKYmZTYTNRUjZkVXdFT2IzTkNkNEpvbUMwUGwwVU9COFNweXBsWEYzaC1LdllYLTBLaEY4d3ppTWtXWEptR3dDM3c4MlhETnZGcnFaUFZLNmtWcHBEeGQ0ckhR?oc=5",
+  "title": "\"Il faut recréer de la richesse en urgence\" selon Natacha Polony, candidate à l'élection présidentielle",
+  "summary": "",
+  "published": "2026-10-14T09:00+02:00",
+  "mentions": [
+   "polony"
+  ]
+ },
+ {
+  "id": "b14d41f59e38ae4c",
+  "outlet": "Les Echos",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNTUYzdWFRQm5WdTUtS0k3OG1EeVduRWJXNXEtdlVwQ2pSOWMwclhidFdwVFJDeTZZT1l1SFM3aEhlYjlIR0lfTFhiblpYeERRTm5NMXZfRTJvWG9oSzMtLU1xalFEOVJmWnRfRFFzaF9rRktzRzBkMkhIbXYyNnprc2JUbjJKN3FnYnAtOFRsMjUtcVRncjJkb3o4OGx1dGxjM01PdkRpa3ZZYTRfT0EzbThELWNmTktYb0dDTVM5ajJwb1ExMEJzTlRPcmk1RDBGUUhvRUNaaURzNUNuQ3phUkpkV001azM2SG8yd0Z1WGVLQVRqNC0xcHFYZWVjY09mT1RrSHFLaU9kLUx0ZnhF?oc=5",
+  "title": "Présidentielle 2027 : la journaliste et essayiste Natacha Polony se déclare candidate pour « prioriser la production française",
+  "summary": "",
+  "published": "2026-10-14T09:00+02:00",
+  "mentions": [
+   "polony"
+  ]
+ },
+ {
+  "id": "4e017eadcbe6c0a3",
+  "outlet": "La Croix",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVFl4eTZEYlBWaF9QYjVpVGFCYmFwby0ydmZmU2V0dkNfM0lzQV9BRkNlQnpPNGowZXJHTlR1RHl0MnAwZmpDUU9KdzUxMDVvSGtlcENfZDdRQkJMY3d0cTlFcVBzc2s3aHppbUR4OHk0MzhrVmRQWFdnQ2x1N1B4OElvRUdSbVJlVTNQWXpxX1pKRnItTHFYdzNSeEZhZzRudVByVnlLQTI1NnFqMjN5ZWwzQVJ2Z0NCWE90RUdIVQ?oc=5",
+  "title": "Élection présidentielle 2027 : l’essayiste Natacha Polony annonce sa candidature",
+  "summary": "",
+  "published": "2026-10-14T09:00+02:00",
+  "mentions": [
+   "polony"
+  ]
+ },
+ {
+  "id": "c2f9c112dcd74d53",
+  "outlet": "l'Opinion",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOU3RpNmlLYzVQc0xhSEtFdzFRS0FoOVQwZEJwbHVtV3NRbU8wWTJSMklQTjlpTWpFeGxKdTZkMDMzS3ZnNk9remJGcFIxTWpEbXM2U3paSGYxbDJCS2had3FCQ2dFSjQ2T0lnNkdlSy0xMWJrMTRJMmtJTVhHN3ZqZVFONFVzbWw3OVRURmlueUpsWDFYNm93UGhlTzAwNEpzbTZ2bzZONlk1REpxWlhV?oc=5",
+  "title": "« La situation m’oblige » : Natacha Polony est candidate à l'élection présidentielle",
+  "summary": "",
+  "published": "2026-10-14T09:00+02:00",
+  "mentions": [
+   "polony"
+  ]
+ },
+ {
+  "id": "2113fce0a0fd60c9",
+  "outlet": "Le Point",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQ3hyajI0UTBPZFp6WS10SlVoUXRhS3VSdlR2eG04WVMzUV9nU2pGVEdUbFNnTmR4d1djbURTRzhRUGxqSjRMSV9va1dnUzFJWEtjMF9VdWdybmdWdGRpWkpmUDhXdHdNM1VaelFNb29MeVhTQ0ZCVVBEVHV3X3RydTNPNmc2Yy01Z3hQazlVVUoyZlJZQjJTMUlYRzJmb2doVWw5eEQ0ZHEwMHJLMU43TWtZVHJYbHR6eG5xSy1sQk5FNXpQOFVDSTFtQXpjOTFr?oc=5",
+  "title": "« Bien trop étroite » : la famille souverainiste peut-elle porter Natacha Polony ?",
+  "summary": "",
+  "published": "2026-10-14T09:00+02:00",
+  "mentions": [
+   "polony"
+  ]
+ },
+ {
+  "id": "725382d3495b564d",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOc3NZbDJUSkFiY0F6TzdlS1Y1WVFyVWgzVjJ3ZGcxZ0tYWEpJTXhQcjQ4empiZVR0TkdWeHFlXzhPczFQTDY2RDE5YjNOVVVZb0V0ZjN3MzI4SS01bUJkcGZQVGFvV0hTRzltd3RHTi1VWGJFN19EN25fazNsdmNWeHptRDBQZ0t0aDA4ZWU5Um5SQVVCWWkySGJfcTNRaWNweDBVc0FKc09Ra3VodHRaajZFNGhQMFRSSWtrSTlsQWhYRnBQS0ZvczBsS2Z4cWhuLUJ4MU9uSWxLcmViZUtRU2tzWTNoUDNnTXV5Q1Ewa0prRVlDRzNWbnpwRTFacTRSQVdKd0pLaE8?oc=5",
+  "title": "\"La situation m'oblige\": l'essayiste Natacha Polony annonce sa candidature à l'élection présidentielle",
+  "summary": "",
+  "published": "2026-10-14T09:00+02:00",
+  "mentions": [
+   "polony"
+  ]
+ },
+ {
+  "id": "bf4e75f291b49acd",
+  "outlet": "RTL",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPbkU2MnRZd2xUWkhPQTRaMWNiNmQ4el93SWZVSFpUTGZCN3VKdHRQOXJwWTlSYlp5cXVyMUdRT01wMDk5Z2luZEUzNUozWkxMTU9FSVktaFhJSlNVak9PM0VHZ21VVnIzY3NVb1R6Q05hclRKY2JhNHY3X3l1a1hhZ2ZDQzRIWW44b1pfTmVISnltVkNMNlJ4ZmswZVY0cnVYVFhteWtvX29Oc3lnc2ZDUlRUbnB5VklwclVZdlZiaWRPRmFvN2xVbF9KV05SbzFuM2hfbm1kRDRHNWItV0tzcDZlcEhFWVp4?oc=5",
+  "title": "\"La situation m'oblige\" : l'essayiste Natacha Polony officialise sa candidature à l'élection présidentielle 2027",
+  "summary": "",
+  "published": "2026-10-14T09:00+02:00",
+  "mentions": [
+   "polony"
+  ]
+ },
+ {
+  "id": "496b7aa8aef78ed5",
+  "outlet": "Ouest-France",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOaHJxWGhQWGpmRTRVX0lpVElkeGlZMm5rV1RLUnMybzFpcEZ0ZU50RDJlWERFc2c3Zmt0cFVoMGlsMTZhWTN0RUJzSmFjcDdwb1Nld0FNVjFSNjJKcjE3b0N5X2NFMXRleXR1MGJESGc4ZjF6cGNkV1pwRTZINFB5SGozZXJqaE13WHhfQS1lakNnVEU5TFFnZGNBUXQxWmIwb1FxX3ZyNjlxT1RRT2h2YnFucHQ2S2hLdXE0N1J2YTN2Skh0M1JaX2o3QnJiMnBBYktTbldGR2wwd2k1UVlXRHdpVG5IRnE5bm5VTXJMRVlTTnBzMF8zZHpEcElidVlxNXhIODE3dTRKU21KY25MbElCeW4yQQ?oc=5",
+  "title": "Présidentielle 2027. L’essayiste Natacha Polony candidate pour « proposer une politique de production »",
+  "summary": "",
+  "published": "2026-10-14T09:00+02:00",
+  "mentions": [
+   "polony"
+  ]
+ },
+ {
+  "id": "380e287f5cfb2a2a",
+  "outlet": "Le Parisien",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPZ3ZKNkg5LVd1YV84N1VEYy1GMERTVlB1QXlSSGtLeU51TEx3TGJUVWpYWk42X2xjaThlYlNaVHBQVUhoejhwQ2NpOWxQSTY3ckxFUG9YTFlRWFBkYjMyYWV3TmpEWlkwcWc5NTVpMzA4Qnp6NXZXN1VHakRXQVVtWnN5WEc0YzBTRVV1MEhaTnJHcUtuRkNiQWFYVTZzWjcxa3o0VmF1YTBhdEJPN092THZPM1FNckhxOS1mZVFNWDFLNndmaGkzSE5salBkN2FQM0YxOHEtVHVPQXE1enZmU1Vpek5RT0FQTnVOM1l0VVhzQUNzMUd2Q2cyanI3ejNVN1pOVjVtUTVDSktUNnZVeTFTdXNuR2hQR1VxUjJiQ0hrZGpFSXRN?oc=5",
+  "title": "Présidentielle 2027 : prof démissionnaire, « On n’est pas couché » et polémiques… Natacha Polony désormais candidate",
+  "summary": "",
+  "published": "2026-10-14T09:00+02:00",
+  "mentions": [
+   "polony"
+  ]
+ },
+ {
+  "id": "0873160953425231",
+  "outlet": "RMC",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOSjBYY1AyQk9SMmVYUEVWcTlUZC1adThfaHRUbXFRZjZNeEpnOWhWSnN5WHh3TnQ5X25OU2V3Nlo4N0YzYlo5MlRWVUtPd0d0TXhmelhYbXEtV3NVcUlZMk9icWNsU0ZySTBWZTBlc1FjQ0d4RXRxbFhFdkNnRm8zbjhlazN3MFpxNXhOLXNUSWtMQ1JaNm5zcXlwSC00ai1lVEptaWZRVDdQQWh6V2JoaldDZUVmaVlYNG80ZVRRTEExUFFYVm1pUDR1TXNMNXNLS1NxVDFlQk1qcFlXSDgzTXltZXZ3eWlZdTh5cDNPQVRTc3c0ZFZKZEo0azE?oc=5",
+  "title": "Natacha Polony officiellement candidate à la présidentielle: \"C'est courageux mais elle part au casse-pipe!\"",
+  "summary": "",
+  "published": "2026-10-14T09:00+02:00",
+  "mentions": [
+   "polony"
+  ]
+ },
+ {
+  "id": "1df5b8c85812380d",
+  "outlet": "CNews",
+  "lean": "droite",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQVMyU2xicG1QbTdkNGdnYlZWU0VyM1BBMGxqLTRWdDR0dWVjcHJ4eEt5cmhaWXBFYnJxLW1tRWRDcV8xeU56VllITjFzTDBzc3VpdUVaRXdSOVNYS3Y2RXlKVGxxR2JpN0xyVTFjc2VXOXh0V3EwZHpxZVFKeTJPRFJ4bFNxaVBMS3ozSENJQjR0ekU2Unc2WUR1RlVWZTBIQUZWZURab19YZ3BLdk1CLXJtMTdId9IBuwFBVV95cUxPVWhaejFZY01lUlhLVkhMUXNxZTItUlN4Z09mSldvZjJmZEMxUWlUZDlJcVdrR09IRnRFTzhGbDNBdW5fT2trWW5OWjM3dktHeFQ5VFEtTkgyRXZJaHNnUE43amFSaF9uWWJ1ZG1CVzhRRVB5dm5TZUpEN3ZQakd3eGhkd0h3UzZ1elh6STN3M2hPMFhFempnUGZFQmw1RUlYaWRJRktYWWh1anZWZl9tRzR0d1BDdW1NNG9n?oc=5",
+  "title": "Présidentielle 2027 : l'essayiste Natacha Polony annonce sa candidature",
+  "summary": "",
+  "published": "2026-10-14T09:00+02:00",
+  "mentions": [
+   "polony"
+  ]
+ },
+ {
+  "id": "7c5e7c92ae40d760",
+  "outlet": "Le HuffPost",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQal84aUdJRkNKYmN2YzZmdXpNbjk4UFphc05GUzJ1Q281VU9USVJ2RkI1V3NaSy1LSFhTd2lza1pKdWM5cHVsVFNMdE1QSVhtbjZnOXJwUXBaa2o5RWVoMmdZSGw4MU9NRzNrU2dfNkxFaXREUHBwclUyNV9GcXZDRDhqU1QwUGRCVVVKZG5pc01nOFdNSENQNkcwWXlJY2d2ZmcwUTJQMDkzcjFxRlY0SngyZjBXYXY3WUs1TTFaM3lRVVVSVEc3VA?oc=5",
+  "title": "Natacha Polony officialise sa candidature à l’élection présidentielle",
+  "summary": "",
+  "published": "2026-10-14T09:00+02:00",
+  "mentions": [
+   "polony"
+  ]
+ },
+ {
+  "id": "ac2b0978aeccc02f",
+  "outlet": "20 Minutes",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNc3N1SWNnNkFNcDk2R3RyemprRFR3dVY0ajlqVzdHRFJJRGRRMEV0OVc2STNMMjlJY3Q3MXhMS0lGU1hVbjRmTlpvMjJieUJkWTVtLVFuQ0diSkdyLXBwNTRiVWZhTmoxTWJfeVRtWTdtOXNWVTVxVUcwcmFORTJoXzh6MnJ1MW9oc09RQTl0c0xhRHgxTTN0NWZwWUtiS1NJVWdOclh3RU5JaGtqaTJ1Ry1ZRmhyWkw1WFRN?oc=5",
+  "title": "« Des maires m’écrivent pour me parrainer », assure Natacha Polony",
+  "summary": "",
+  "published": "2026-10-14T09:00+02:00",
+  "mentions": [
+   "polony"
+  ]
+ },
+ {
+  "id": "ecd565b869fa54b5",
+  "outlet": "Le Figaro",
+  "lean": "droite",
+  "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOOXd0Q2NpWWtsbURZVFdaMUFFdHk4MjlsWjJvTUJKaVJmMUt2bXNPMEsxVjlQTTBibUtGUFZrTUFSWGw1di1yQVc0MFVTN2d6YzVQZFZ2eTJuNGRodmRCNUlzckNMLUxPXzhvMkRPZEpKazhTcWotell6aWxMTFJ2cWF6MHVtNFFGSUwtRVdwN05QYkFNTFNQSVBsRW40V2JGaTdtVnVTc3doRlF2MkpiOUo4aWMzVUFrLUxMNmFVbzd5TnJhU3hzaTdCVmV2bkk?oc=5",
+  "title": "Présidentielle 2027 : «Je suis candidate», annonce la journaliste Natacha Polony",
+  "summary": "",
+  "published": "2026-10-14T09:00+02:00",
+  "mentions": [
+   "polony"
+  ]
+ },
+ {
+  "id": "890f30e189e827a8",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxNbktJRjc3azZxSjBJVkR0T1BBNlJGVmVvRVJyam16Y3Q0cElWZF9iZGtZZVBsWjdtYWFUY1hGQVBHekpYaFlUeHBrbFVHUkVHSm5uMTRXWEEtZDhUb1JfeE9GSEJCdGt1QVBzTjQxZ1luUXpuTWdhNWVGcjFZdUFMYm91VElpTGpUWHRyVk1uQWNIeFFQYkNHVE40enp5ai1xV2pKWGVRMUxfX3VSTEZzcFdXV3pHWnJRN2p1ZVVKdHIxNnd2SjNTaUQtOGs5dlNFVnJha3F0SkRKUzNHS3RrajU2dk84ekV0emJ0VUpXdjgzTUdSUTZHTFI0TENQN1g0OXpoZ0h4ckRlaXR6c3lxZFh1QV92OXZsMmlRMjIxMDh3aGpPbVdRejNJTjEwUTljZU1yT2N0VlNwcXhIZEhXRmxIS1UyalJVM29sU3hta1FsamdG?oc=5",
+  "title": "\"Des maires m'écrivent pour me parrainer\": Natacha Polony confiante dans l'obtention des 500 signatures pour valider sa candidature à l'élection présidentielle",
+  "summary": "",
+  "published": "2026-10-14T09:00+02:00",
+  "mentions": [
+   "polony"
+  ]
+ },
+ {
+  "id": "e7bcc616a6e1e956",
+  "outlet": "Action agricole Picarde",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNS1QwcVdTRDdSNDY4bGxKeFZmci1sQXdnRkFWbTh2ZUt4TFltZmlXTG1lMTNTbEgxMlNmRUl2R24tWUp1SlA0VmVEUmx1YkcxcV9OSTRMbEtFYkFaWWotU2RrTmpURE9TMXJuTUExc1BwSEZjTW82QWFyVVFObk9ZRFZVY3JYNGs4MThqWnF6Q2ZteGJHXzBnOFhNeDY0NEJoaWVuVmVkNlNzLTVNMW9EUm1acjlYTXhhNFNtWjlQMWd0MVM3RERHRUFFMTQzTTlu?oc=5",
+  "title": "Politique | Natacha Polony, candidate à la Présidentielle : « Nos agriculteurs ne vivent même plus de leur travail",
+  "summary": "",
+  "published": "2026-10-14T09:00+02:00",
+  "mentions": [
+   "polony"
+  ]
+ },
+ {
+  "id": "63f4af80da092fb6",
+  "outlet": "lanouvellerepublique.fr",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWkowNmJoYUloSy1XQ3FyMnZPQ1lENlpkaTd1a0FMbXF1SzR5SGVCYjFmeWF2a09RWHUyT01HZDctbTdKUzZUZUJNX2ZZaGlFUWYyd2NVbDJ5cTMwUmlvNEo3T0VWZXJwdS0zendZeTYwSk8xMVY4cDdHTDJIRVhuT29VdkNiaUJUaWRXLVpRNHpzSkZRa3BIdVE2dVRGbjlvVnhQSGtFQTU0NE9tandFbEdwb3NLMEsxRW9QM29qTEpkRzlnZmZ4d0xhdTFOUXJy?oc=5",
+  "title": "Natacha Polony a déjà son comité de soutien formé depuis cet été à Romorantin",
+  "summary": "",
+  "published": "2026-10-14T09:00+02:00",
+  "mentions": [
+   "polony"
+  ]
+ },
+ {
+  "id": "bf89dffa20fbe973",
+  "outlet": "Ouest-France",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQdFdTUm15Q1gtTFVIYXlTbWN1Q3VVLU9zVkpqZ04zbENmWWJYejY1b0FubHFFeC0xT1puUWRIeDZRaTByWExxUG5TOXduWTByYWhBc3g0TWFPalVMX2hqc0RBYUJpaGZrUnBHVy1pc0o0T3ljZjY3b2pJRk9rOGREWVpGWXZSc2hnWTZrbXkyOGFTM1YwZ1hOdXBSX2FqTVFhaW5LZkxCTGtPWG9Ybl9RTmZxV1puQjZmMkc5RDMwQXlHRWpaandQNmJOZi1vTWZNd1Vfd2ZUYm5rX1hTM2liaVpSN3B5Y0VhY252X2tMUWxyX2ZwWlhBWTR6T3Y3ZEpkZ05kWXc1ckUzb2VnUGx1QmJtMA?oc=5",
+  "title": "Présidentielle 2027 : l’essayiste et journaliste Natacha Polony annonce sa candidature à l’élection",
+  "summary": "",
+  "published": "2026-10-14T09:00+02:00",
+  "mentions": [
+   "polony"
+  ]
+ },
+ {
+  "id": "744178b7f0cbcc31",
+  "outlet": "Midi Libre",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOanpOMXZWYTkwdUlPVE1UbEI2SHo5YWUtTkdab21wa0t6RUNjcnFpeXF6UGpMZVVFbmJfdnoxdVdkeDkxTmc3TXI2a2pRdHR4TGN5YzBQcER1RmFueTBQNW1QQ2RXVDRHdVV2ZUxLZUpxZ1g2clBCM0s3dldiUFV1SWhjNWRGVTNPaHV2M2Z0ZVZNaWM0eU45bDctVUFNeWYyTU9UZXFVWEVYT3NZX1owTE5pRlhpWVNxMjdPaGxhdXF1Zm1CeG4yMHNlcUg0MWNBdWhWTVBYMVdEeHpQMTZhMUR2ZFI1ZlU?oc=5",
+  "title": "Présidentielle 2027 : Natacha Polony annonce sa candidature pour \"rassembler les orphelins de la politique\"",
+  "summary": "",
+  "published": "2026-10-14T09:00+02:00",
+  "mentions": [
+   "polony"
+  ]
+ },
+ {
+  "id": "feb1ee29b9539529",
+  "outlet": "Yahoo Actualités",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUDZtc0pabGFlRzhZZE9IYjgwRE5TZkdsc0t3Y2h4aDZFeWx3LUh1ZUU3azMtTnVkLVVRd19kUWZDNGFJcHZxQmJ4N3RPZjZaS2NWQWhuaExPUkhISnZwaUtEMzBqMmdSemRxckh0QXR5cURJWnppd2dIZ1VVSzF6Q3Z0eTN1eUFPZDB4d3E0VmlFQQ?oc=5",
+  "title": "En Tourraine, Natacha Polony et son mari Périco Légasse possèdent une maison dans un village de 3400 habitants",
+  "summary": "",
+  "published": "2026-10-14T09:00+02:00",
+  "mentions": [
+   "polony"
+  ]
+ },
+ {
+  "id": "a637df2af194bbfd",
+  "outlet": "mesinfos",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQT2VVWUVZOG52dF9qSFBnbTkxZVZmVnQ4V1BHTFo3ajZfenlXRkduN1JxcEFGODVxZHFlUDJLY2pNaEtabmxGYW1EN1FYbWpIUkh3U014dTNwWlFnXzBJckJ3Y2daNm9CejViRHU4SUZLN1k5eGhJdm5oaUVoci1zUWlPSTc4cE9yUV9sZGF2MnFkMmlHZEZJT2hIRS12YlBGUVNCSHVXNA?oc=5",
+  "title": "Présidentielle 2027 : qui est Natacha Polony, nouvelle candidate à l’Élysée ?",
+  "summary": "",
+  "published": "2026-10-14T09:00+02:00",
+  "mentions": [
+   "polony"
+  ]
+ },
+ {
+  "id": "20ffa64d33d2d561",
+  "outlet": "Contrepoints",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNmRlbG84eXdSTEt5Wkc2TzItVndBWk5TVFlCdktSMXc2SVl1cXVYZ05JN2V4MURRTmhrOF81MmlER0pXR2ZDeXFuY3RPVVcxS3diVHhQeWJxajYxamRPaGo0aEl2TXBfT1c3b2RJVUpCSGMyWk5NblJxeFJuc3c2bWdya2RKRGRUMk54a3ZVeG5jdE91VGhhM2Y5TUhTN1k?oc=5",
+  "title": "Natacha Polony : du commentaire politique à la tentation de l’État stratège",
+  "summary": "",
+  "published": "2026-10-14T09:00+02:00",
+  "mentions": [
+   "polony"
+  ]
+ },
+ {
+  "id": "963d3f08470c7ee7",
+  "outlet": "Orange Actualités",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPcXZDWDdIZ1Z3TFdaTXp6c21ZYmRGZkthZk9QVVlWTFU5OVF0MDhudTVWcGdqT2FaWUVZRkJ5a0I0QVNKMFVFdjloQlY0ZUpudW9xeFNTUTloS0UyQTNxZjNTNWlfWWpNYklXdmNyb1pILTNYRG0tTUJZNjZnVlJZQ2lVNVNPTENHOXVNMVlrRzJuNFNMWUpGbnZ6Vm9DLWh4WGpPeHVHNnRhM2RicHJhakF5dWxUV1Fsck1nNFlBT3JQejhySmxEUmY0ZGU1dW40TEJ3ektFOFpUeUUzZnBvcGpFSDZ2bjlDS1AtYkxRWlY?oc=5",
+  "title": "Présidentielle 2027 : la journaliste Natacha Polony se lance dans la course à l’Élysée",
+  "summary": "",
+  "published": "2026-10-14T09:00+02:00",
+  "mentions": [
+   "polony"
+  ]
+ },
+ {
+  "id": "0f119ed74d9eb51a",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONDdTb3N0eUVVRk4zOEktdEVHVDRZc3JnZTduU1Fnd2ZIUUFVRXpHNElXRWlibWd0Y2w2d0dYLVlQWTZSYnZrS3ZnUEZRVnctSmNiaTgyTFpyTjN2VTBsV3FHWjd3S1FZVHFoTzhDdlNFV3FyZFhBczFNc1J3Y25tdHFrR1U1MU0yQWVuQnpjZm9zcl80V3lNWl9sb2llbnN0WVJsQjBHVXBsS25PQzctSDdBcVZSa0k?oc=5",
+  "title": "Natacha Polony : \"je suis candidate\" - 14/10",
+  "summary": "",
+  "published": "2026-10-14T09:00+02:00",
+  "mentions": [
+   "polony"
+  ]
+ },
+ {
+  "id": "5c62e6191f226818",
+  "outlet": "RMC",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxOTDYzX285WnFwVFVrUWh6dkxmTmxfOUQtTHB6eldGYU5KbzNTZGFvcXJSOXhPUnBQSEsyc2NfSExwWTFfcHFJY2tPLWZqcW4wOVpOa2hVM0lvVlZnU2tpOFlqRmpySUxEM3BzQmV5MTVOSmhtRzNMNFFuaHlBQXBRR25SSW8wR1pxQmQyYTlXSmZfQkxZWTNfR0pKRUs2V00yZ0dISHV3R05wVWtxSWNNenV1TkZjM2tFYzZRSkM1em00TzNpZzhZQlk3VnBPWHNPemJwUVZOM0R3Y1lvNjk5OTBxanJ5MUE4Y05nc284WGJzUF9MRWJnTFMxQU5SNUR0elJ3NEJpOEEwbzB3OVF4dEJEQ0dRWEsydTZ4eTVTX0QzaWdVbzhNN0hSTGtCNDJVQzhIdEN0MHB1bXFBTERBeXF3?oc=5",
+  "title": "Natacha Polony candidate à la présidentielle: \" Tout le monde se dit qu'on peut être candidat parce que les autres sont prets à trébucher\"",
+  "summary": "",
+  "published": "2026-10-14T09:00+02:00",
+  "mentions": [
+   "polony"
+  ]
+ },
+ {
+  "id": "82f25c752039a40a",
+  "outlet": "Le Matin",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRVphUlV0WlpmcjBTZmVhNVhyOWZLMHFxQlBicFF6cFdwaGFkYkFXeE52NVpMaWdfYWJuQW50UjJfZFpMbG5tYU9BNWRzaGRkbGJGbmVPVzJsUUJFN2Flczlsa0dKMGVsbnFzNXo1bTFWd0ZWYVpXR2lla3RoT0NhWTJPSFpJLU5QcDBya2R0RFRhcm1PckhXbV82LVp5YWRNOHFqTXhRdGhhZ3M?oc=5",
+  "title": "Présidentielle 2027: Natacha Polony veut relancer la production française",
+  "summary": "",
+  "published": "2026-10-14T09:00+02:00",
+  "mentions": [
+   "polony"
+  ]
+ },
+ {
+  "id": "52ca2829fadbb374",
+  "outlet": "Libération",
+  "lean": "centre-gauche",
+  "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOa3R5el9aMVVxWnV1c1N2dWppbGI4RzhZZ1RGc0d3ZlhDb2tUXzU4Q2o0WFhUUjEtYnBkTHFzVUdmVnBiU2d0OTNfakhEYzhnOEJ1Z2Z0Ymw0aHAzMTRxdjRHaDQ5V1pUSkJyRlBhdHlhM09SVGMzWHNPTFFrMHRMNWpiU2IxZWlyTjlwQ3FiaUlMVEJlTC1GMENLeXNrVUhjek9zZDlOd1BYUWpLZzRnNFNMMUdJUzZUejVOVmI5MXNjdnVjckRlbFB5enhtdS1COVRPaFQ5aDVMOFpGU2tBcFNwVkF0czJ4cExRRmoxSmNuYVljR1E?oc=5",
+  "title": "Natacha Polony se sent «obligée» d’ajouter une énième candidature à l’élection présidentielle",
+  "summary": "",
+  "published": "2026-10-14T09:00+02:00",
+  "mentions": [
+   "polony"
+  ]
+ },
+ {
+  "id": "565f20685a5f9493",
+  "outlet": "Valeurs actuelles",
+  "lean": "droite",
+  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdnFEcWtsTEtPbWFJZ2lVZUVzcndQQldWTnlLRXJLdzRLZEdMTGw2QjJPWFhrelhfcVk3Q0ExbG5UY0tWazRUdUtJV0NKVEhzalVzRGJBUHd4TU1RYjhmS1F4cDhzVTJzWjMzekFmbzh4ODVhSWx3aGt5U3p6bXZaWllkQWdGREVHRTVSSlVuNDRVdXctaFhPdnhSUmpXbzl0M0RCdXo1V3M?oc=5",
+  "title": "Natacha Polony, la marche présidentielle d’une inattendue",
+  "summary": "",
+  "published": "2026-10-14T09:00+02:00",
+  "mentions": [
+   "polony"
+  ]
+ },
+ {
+  "id": "db6e2992286534ed",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPQ252MkNfYVY4VjBrcVlNM3h4UmNwWTV4Vl9iYldiYnhSemxYaVJFWDd4R3FJVkR4TzdjbFgwNmRvMjlMM2NKWkctbnp6VWR1WDZIM0dXSnpPeFBpeWdDbzE5VncyM01RSnNGdHFIX0ZkTFkzS0hVQmY3dDhJbkNlRG9MVWd5VWFIVzRhd0pBcm5wNUs2NTB0QTJkRFhMUkNucll4bGJmc0NULWY1RG4xcHM4LWt0WXk4TkR5c0JLMk1hVlVaTXNNT2o0SXFPdEhJMHNrd0xOVndyWVU4dDlubE5JT09Mb3A1SjdFbk1HTGpzM09YTWI0TjNtQjhPSHM5T3NTQTY5SXZGQQ?oc=5",
+  "title": "Présidentielle 2027: Natacha Polony, éditorialiste politique, annonce sa candidature à l'élection",
+  "summary": "",
+  "published": "2026-10-14T09:00+02:00",
+  "mentions": [
+   "polony"
+  ]
+ },
+ {
+  "id": "761f03d9a234e6b0",
+  "outlet": "lanouvellerepublique.fr",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQZkJmdzJqbml5cEJHZnV6WDdWeTVBLUJhNWdHOVhod1BnTVQ3UUNBaTJSU2Jua2N2SGYyQmkyQi1CZ09Tbkl5eTk3VHdHN0lONzFRNk0yc1dwS214bFJzV3I4VWllRENsQmQ0RXdPYU5CNWUtaTlPVTNqZmZ0WWl5U2R4cFlqUDFVQ1NqT0JyZm5nMW1sMEtIOVcwWXpSQTBRSkRpM1VtWXdkanBhXzkzWWdFYVhTNGNvMHVRUzRhVGQ0aEYtaVMwcWo1cGJHZXR3Vm1pOUtJZ29KeHJkM2t6TmVfZjloeVM0?oc=5",
+  "title": "Présidentielle 2027 : \"Je suis candidate, la situation m’oblige\", annonce la journaliste Natacha Polony",
+  "summary": "",
+  "published": "2026-10-14T09:00+02:00",
+  "mentions": [
+   "polony"
+  ]
+ },
+ {
+  "id": "b82f0a7c3e33a9de",
+  "outlet": "TIME France",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOGNnaHhxUmtFYldQSk9XXzZYRU15THVXY3c1YkZYUW9NT28yMmU2bVk0TFBmVVI0aUVQS3lSaU9FcjhIMlNWQ0czbWlkT2x6aldHcUpFN01zSFNhZm1PSzdSNFRqYk5RYkU4eEFJeW9WZ1ZBMHgzY0FmQ1B2UFdNb0k3bGFXNUZJZGRsR2ZMMjhDVW05ejRMOXh0NUpIM3FYRWZRc2Jyaw?oc=5",
+  "title": "Présidentielle 2027 : Natacha Polony s’élance dans la course à l’Élysée",
+  "summary": "",
+  "published": "2026-10-14T09:00+02:00",
+  "mentions": [
+   "polony"
+  ]
+ },
+ {
+  "id": "cccc1c472eb19ba9",
+  "outlet": "Nord Littoral",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNenphajdVNmJ3YVZhNVRJMDZscnZ0V0NWZTlrVzJQbEZPT09PVlRsd0xHclRNWjVVQjgxUWwza0RnUTQ5Sm1aMkV4N1RBckVKbElsdHZnVjRhRDlvVnFYUDRFUVIwd3gzZUY2NzVuT09VcnJDRTRxQTZVNHJ2RDJHSDhiRmYxdU0tMnJuR2VXekV3TzhGZ3gwai1MSmJBdm5jem9nTV82eEZTN084cXk5YzhZc09yZ2cxa25WRFJNWm1qYjcwN1A0bkRvdng?oc=5",
+  "title": "Présidentielle 2027 : l’essayiste Natacha Polony dénonce « l’impuissance » politique et annonce sa candidature",
+  "summary": "",
+  "published": "2026-10-14T09:00+02:00",
+  "mentions": [
+   "polony"
+  ]
+ },
+ {
+  "id": "1fb005cdc14034b8",
+  "outlet": "Linternaute.com",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZkExWUpHcU03bFNuWEE0djF5N25TWW9sOHpRQ19UNUpmNXBaLWRIZ09DVUFaZENYNVhyTWFJV2ZGck5Hcjl3SlNGb25TQ3JWWmxaQkJ1ekxnSFdJQ1B1V09rLTNXMTJBaE02UHlvMHMtLXBUM2ZYbGgwamVUSVN2R3dEbW5MVGVxSUIxWHdzWGZNTlFaQ0RxalY3RFU1akltNkpwclVHSFpJWUNneWh4TDFJSWk4bjdGaGtFQlN4a3J3S1lXblRyaUZ0SlN2QjA?oc=5",
+  "title": "Natacha Polony, candidate à la présidentielle, est-elle de droite ou de gauche ?",
+  "summary": "",
+  "published": "2026-10-14T09:00+02:00",
+  "mentions": [
+   "polony"
+  ]
+ },
+ {
+  "id": "9cf19a9f33c72342",
+  "outlet": "Gala",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNaGwzYmY3RzFHd25NRDluSUhNandEcmVDa3FsN1RUdmZvU2JkbXlKQkgxTy1JUlJOal9pM0pLUjZ5M0xQWXFPNEFFOUZsUC1mVVlNNUQtOWVEdUVQUG5LZDM2dnFsaUVHdDlWQmtKS1o5SWZsa21mMVNCbW9JTEVmRm81U25mdGVZRUItRDVSMmJ5eUtSZURtaFJGRl9EcUhJMUZmcUlCT1VDaXZVRmpqNDVOZ1JFMU1Nc1hMVnRYX3hnVElhMTBSMFBFRnBKSmNMTE85Q012R09zUmdDZkVKbVpjblJOc01uVy1qNURiTmNqODA0SGZBaHphY0xFVldaaElyem9lai1odw?oc=5",
+  "title": "Natacha Polony candidate à la présidentielle 2027… et ex-enseignante : lycée Louis-le-Grand, DEA de poésie, agrégation… Découvrez son brillant CV",
+  "summary": "",
+  "published": "2026-10-14T09:00+02:00",
+  "mentions": [
+   "polony"
+  ]
+ },
+ {
+  "id": "1c31128e5b45d063",
+  "outlet": "Yahoo Finance France",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbUh1ZTM3bnJoR3NhMkJNT2pmbEJkNDhhejIxanZkbjZYZmNrTERCZDFGSE1QZ1pOVW1OU0czU3dQb1BZblN2aXJQM0RuRVlHZjVZZTVCZDVpWkhFX0FnLWRfOFprdHBxRmxkX05hWVh0MDdQclZETVlIYmQ3QXRsaGdfdE1tUF80YVE?oc=5",
+  "title": "«Nous sommes un pays qui ne gagne pas assez», Natacha Polony se lance pour 2027 et vise les aides aux entreprises",
+  "summary": "",
+  "published": "2026-10-14T09:00+02:00",
+  "mentions": [
+   "polony"
+  ]
+ },
+ {
+  "id": "11f42209c8b22111",
+  "outlet": "Gala",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNR1hoVklFQnNqQlVFTzBxa2FqdjdRam0tWEg5SE9vUUFlX2g1SHJrczlmSFMwVnhLS19uQWdRWFJEOHQ2OWNHVjhGNzBwVTJjb2ROQ29UNU8xVGI2U3k3QUlaM0EzQnNRTTRKeG1yaGVBSUpkU2w0eTFXdFVUQUNLaUhUQm1VcW9YOHBuOWR5QTRjTUJjVkVocmZsM2RlcEFPN2tNcXQ0Nk5BWTRoVWRySFBkUXBhbTIyU3JLTXh6azZkeE56Y0xPVDM5ZDdUT3QyNG9meHRhd0dsazVXVEM4MVFtS2RqbzIzMGRiS2toY2J5UXVIOHdj?oc=5",
+  "title": "Natacha Polony annonce officiellement sa candidature à la présidentielle 2027 : la journaliste pousse un premier coup de gueule !",
+  "summary": "",
+  "published": "2026-10-14T09:00+02:00",
+  "mentions": [
+   "polony"
+  ]
+ },
+ {
+  "id": "a5277c74a6e438f1",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPbFh3WnVOenYxb24xR2pqaU1yX3dDZHU5ODVkZ2cxaXY3eDlWbm00dzdueHFpZkFPSEpjczNOOFAzNU5DTWQzWUlfbi16VGZFU2pUald2YWFGR1dLYzR2LTQ1YlNKWk5SX2Q3QnFVZTgtVU4yUWZsekpyYXN3TFUtU0dvLWFNZkl5UjhabUJLWEJvS2pBWVpRV3JjbFRGOTRoWlN6OGxGSndlbm1nb2IzSFl6T3lhOURrMzItZmVGWjFqSkRTZEtodzFBd0ZkSnZDZVJkSEhlMnJCaHBrR2xMY2YwRElYRUNmR2U5dkpGaXFtakZ4MmRTX3B1ZkpoaDRpOERmMF9ydWk?oc=5",
+  "title": "L'essayiste Natacha Polony explique les raisons de sa candidature à l'élection présidentielle",
+  "summary": "",
+  "published": "2026-10-14T09:00+02:00",
+  "mentions": [
+   "polony"
+  ]
+ },
+ {
+  "id": "641d676fcbe3bf19",
+  "outlet": "Gala",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOTjBiVVFRTGU5Z0pIYWhuSTBfZUZVNkFEQjRnS3Ywa2ZFXzJxNjNzWlZ2QWdIMEI4bm9yN1pQRnV0aGxTeVV2UkNDdHhEZ2tFNGVjYzJHbnFGOXE5Y082Q2RMcFc2TWNqRU9KMFNRYlRYT3RHSG1IU2lvQjVBWmFDZS1hRl83ZE90UlhZY1VGSlFCQlZ5VURQUlRsQmJjREN4TDJHd1hpRDB2RXVidzN6R3hHdW1raEd4VV9HY0U0UU5TcEowOF9NVDhGRE9ENENzYnJrVGs1Q0xzOFJNWkFNcmdSSmZPTmNXVFdvSHRFbENtR2U2MTZIMUVidUo0ODdVTW4zM2lwMEhzZjF6UUE?oc=5",
+  "title": "Natacha Polony candidate à la présidentielle de 2027 : Estelle Denis ironise sur son couple avec Périco Légasse, les internautes ne la ratent pas",
+  "summary": "",
+  "published": "2026-10-14T09:00+02:00",
+  "mentions": [
+   "polony"
+  ]
+ },
+ {
+  "id": "481c9bfefd2f33a0",
+  "outlet": "L'Indépendant",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNWjFINjdETmpkQlpFXzdLektWZ3psMmQyZnA1THhiMEticFZES2dobFl4TG5jeFpxRjBwUEwxbHZJaWhEMzRWZzNvb1pZem9kYzhCMlE2R3FXaGZhTUdtWHlzcmVOa0xLY1g1Uk1MdU5vZ1AwMnZyY05OeGtocDNrSVo3cFc0c0xkeVRkaE0wV2o4X3BIZkxhUzc2NWp1MmhnUG9lYnZpU3FjX1RRMGR0V2ZDMnBOaDh2Tkx6MXhmUXpxRG5qNmRfM3RXaHQzUDhoZHFseWk3TEtXcFV0UTNBQnhTNUpFUTRT?oc=5",
+  "title": "Présidentielle 2027 : \"la situation m'oblige\"... L'essayiste Natacha Polony annonce être candidate à l'élection",
+  "summary": "",
+  "published": "2026-10-14T09:00+02:00",
+  "mentions": [
+   "polony"
+  ]
+ },
+ {
+  "id": "08667030e0f0a329",
+  "outlet": "Ouest-France",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPdXhaOFU1VEZ3WUhjaGNsT1VXSXpfSjdsUXh1amRScmc5Tm1tN0w4UzMzZzFvcHp3RFVpNTZEWG1oWmd2ZGt2LV9fcjlsZnljZ2F0SXczWGhOWnBOemdLS0dPYTNzSEtoSEVma09scWxfWV82WktWM2M0Sks0cUUyWEhrY2ZKX2hsRTM2dkdiNGNyQVVIZFdrVmI3RFJTeVh3QjB6NjI4Si01RUxFNFphUXVBYUhHOVE5N0xxNGduTGZBWFZLTW1jYzFXVmx5MmJhbXhtOFk5WEZDNzdQYUN4Z1owcEZhTXFMbTBvbmJERUF3WnZidlJtbFNCMlp5eE9ucnlCSHdGTHF4OGJkbTQtQUJn?oc=5",
+  "title": "Natacha Polony candidate à l’élection présidentielle : « Elle devra faire campagne sur son seul nom »",
+  "summary": "",
+  "published": "2026-10-14T09:00+02:00",
+  "mentions": [
+   "polony"
+  ]
+ },
+ {
+  "id": "3fd90981a0262697",
+  "outlet": "RMC",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQa1pZR1lITllqMzZTNTV1RzlnWUNmWDNKOW1jYUZLMFFTMEo5ekJseWUzd2VoOVEyWEZfbEZ2aV9nZjBJM01CUDRjY3ZuaEhjUnNoa19iYnhGV0l4VmN3R2dSTVpMQ195cGZVSy01cXdiVnBmTlJnVkFWa25oMXJDUC10SlRna0x1cU5Za2lCMHVOZVpPakdla0ptSkNlSzRtWF9id0s3YnA5by1sQUhaMlJaQThKcXJiSWVGWmQxTk1JZjlKLTdDN1FtdnhFdDUtb01MemhjUFR6TjNKb0o5VlFnVk5QbllPdktSVjVnN0hPLXVOVE9yOWNYaEg0eXBhVHJzT2RORjN2Zw?oc=5",
+  "title": "Un auditeur déclare sa candidature à l'élection présidentielle après celle de Natacha Polony.",
+  "summary": "",
+  "published": "2026-10-14T09:00+02:00",
+  "mentions": [
+   "polony"
+  ]
+ },
+ {
+  "id": "87215aaaba73f512",
+  "outlet": "Actu.fr",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORWw0UnFMOEpXWnJtV1VYT0J1dGUzR29KWElmdkNXQ25VZnlxalBrQ01XdFYyV00yUHI1ZWtpd21JY2xyZ2pTaTYxY3dCQnh6ODY2ejlvS1JkMHpnTnFndWozYnMzNmF1bkppQlRDT0dEbWhFa3loQTEwemgzSmJUM21tTTJKRDRFMTJUSms2YU5LU1NBOXpoYzhlR1FEakJBNUtfQi1VUnZlV3FsaS1NUmdDT0p4Z25RUXdCZ2FjMEQ2TjdTaDdocTYyZjg?oc=5",
+  "title": "\"Nous sommes la France\" : Natacha Polony annonce sa candidature à l'élection présidentielle 2027",
+  "summary": "",
+  "published": "2026-10-14T09:00+02:00",
+  "mentions": [
+   "polony"
+  ]
+ },
+ {
+  "id": "011aa282919ddc01",
+  "outlet": "La Provence",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZE13OFEtbVo1aVl2WHZFRkRLUzlKZkVmallVbFFpZXhNN19hdjRqYmZfbHZ0UU10OTVCYy1fcGYzNDZueTdWVm8zUVZBNFREdGMxc3RxaGE2ajNpNlV0WWRKVnZfWlZtcVdLVnppSjc2ZlpDM1p2bDN1eExLb0RycmVOWDc2WmdnV3BPcy0zQk1MZXFrSEY4N0p2QmgxVVN4TXFucTFPaEZUNml2SEU3U0dnYVBPQXo0Vms0LW14NmU2bmFPRXJr?oc=5",
+  "title": "Natacha Polony : l'essayiste se lance déjà dans la course à l'Élysée 2027 pour 'rassembler les orphelins de la politique'",
+  "summary": "",
+  "published": "2026-10-14T09:00+02:00",
+  "mentions": [
+   "polony"
+  ]
+ },
+ {
+  "id": "388afd995d5d8511",
+  "outlet": "https://www.parlons-politique.fr/",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOdmRpRGRDM3o1RGwxTV9BYllUMTZBaE1TZnE5TnMxc3QtYndBS2lSaDlJUno2cmN1d1VDVlliRnRxMzV5eVh4encybFphN05fTFljY2VwWE93UTN1WWRhQS1xaFY5R3ZKNkhOMmNpdFV3TjRtbUtWWDQ1VExUNFRHT1ZfUVExcXpGQ1VNSWVReVpReUxjS1hoOEkyUm0taEo2dHBVakpYZTFaLVR1MG5BQXJFbzNwT3dHMlVVMXJpNm10R0RicHBLczZlb0dGWXFSSmw5M3ZRTFByMGVsaDkyeEpJUks5cHU5TW53djE0UXlKUTV1VVNOMjhMSThSMjdCV3Jmemgxd3Y?oc=5",
+  "title": "Candidature Natacha Polony : cap sur la production",
+  "summary": "",
+  "published": "2026-10-14T09:00+02:00",
+  "mentions": [
+   "polony"
+  ]
+ },
+ {
+  "id": "1efa1dfa7f23c90c",
+  "outlet": "Gala",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxNdk11M2xPSmN4NTJOZGpXcl94NDYzblZ0UXhTdGVsbFhWQmYxQUN3OXF2TmlNWUhXcmloeWd4S1cwTHlJQ2ROd3pFbzBhMmx0YXo0VFBXMEJVQzBuajZFUFk3TzhOM1dDRFp3SmZwNDJDaExIZWJac2RndXIxbXdENHJlMjloTFBHRklKa0NKaU9rdUdJdlBLbUlULUpCT2dJYjRMY0t2WXdYSjYwRDhwNkdlY3oybU1Ia2pBTzN0M3VtUGxWOXhNTzdDUjByMkVXR3BJSk5vVXJvT0djMjRJdjNGTjZfU3VpVHUta3BXNDJWRDFpc3dhTWlaRDZCQ3l2WUozZXQ2QVBJbEZ5V1pSektPSGFEZ1JHNzlNckwyUm1tUzFsS2VIN3RkeUpXZFJPY1hDbkZ2Y1BYZTkxVlE?oc=5",
+  "title": "Natacha Polony installée en Touraine avec son mari Périco Légasse : ils vivent dans ce village de 3 438 habitants, à deux pas de l’un des châteaux les plus emblématiques de la Loire",
+  "summary": "",
+  "published": "2026-10-14T09:00+02:00",
+  "mentions": [
+   "polony"
+  ]
+ },
+ {
+  "id": "eb18a1483dd1e74f",
+  "outlet": "Boulevard Voltaire",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQb25jcTVqTDVUY0o2b2I1bEZoTGk3VDY4YmdNZ0JLZWJXMlZHSzZwTFlzZno0Q01LbzNPblpJc2dYQlJUZHRvQmlFa0Z6djdHQnJ5SW5WMWN4LVZRNkVZdXp2TVZGNEh2TmVnUDY5Mk1LV3dBNWdteW43ZFZ1TDRWN3o0MUh6MnI3R0JyOEtvZTBWN2l3bE9aY1J3?oc=5",
+  "title": "[BRÈVE] Natacha Polony annonce sa candidature à la présidentielle 2027",
+  "summary": "",
+  "published": "2026-10-14T09:00+02:00",
+  "mentions": [
+   "polony"
+  ]
+ },
+ {
+  "id": "55674c40179495bc",
+  "outlet": "RFI",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPTFE2NE1HdHdNZlJYTjhBNXFhVWNqZ2JJaVJhQXpuRW9idmpPTV9IMjNUWEJUWWlmTjdCbnpEZmE0Q2xoYnFqT3dYWU1NUkpsYXZaNFNvV0UwMkJGTjBHcFV5aFc0TWtDSEtYSDFHN1hpc2xFQi1FTi1pYnZYbHFnOFlKMHJtMlF2azRUZmxRM3BZQXpmTzZuUTR4bDRRVDg1MVI1REdVRUtPLS1ZZWZmcncycEpqTVhkak1VVTJPX1JGSUtaS2xVWjllRnJ1WU41bDN6OUtIS0hEU28xekdPUUlLNHFZUFl4dmc?oc=5",
+  "title": "France: la journaliste et essayiste Natacha Polony annonce sa candidature à l'élection présidentielle",
+  "summary": "",
+  "published": "2026-10-14T09:00+02:00",
+  "mentions": [
+   "polony"
+  ]
+ },
+ {
+  "id": "35eaf68e02e80d96",
+  "outlet": "Le Dauphiné Libéré",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOc3BGWklFelNTMFh4Z0I3aUNBMS1FN291bXRDVDdkTENjdlc4blVONUpmd1d3dzhhdXBTTzF5NURvRnNsOVVPM2tOUHlYdXBUdk1MN0kzWnR4dHBrTE1sUmcydy1hNGxudHFEUUVGdklCbnRRd1ZtNi1EaUJaalJ6bjFSMTdvV2JnbmNaeHVTTU5xUi1VcVZZdno2OEJjd3dkM2c2V0NaWEh4Y2wtWFE?oc=5",
+  "title": "Présidentielle 2027. L'essayiste Natacha Polony se lance dans la course à l'Élysée",
+  "summary": "",
+  "published": "2026-10-14T09:00+02:00",
+  "mentions": [
+   "polony"
+  ]
+ },
+ {
+  "id": "20b61e37c150347d",
+  "outlet": "melty.fr",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQR0x3YzVBaUlxVmJkUWMzckhKSUtlS1ctb1IyTjJhZjRtYlRVMENfWElrczJYV0FnWjVCWHNHd0U5NlFGTTdwYVdHc3RYd1JiTk5CWGFRZlZ3X3AzR3lxcDV0VnAwYzlGY0NDYXBkWTM2bUhhX1pGRk9Iby0zcVNQMFdkWkJuZ0xSZllOaEcxaWVlaXJuV1hxM0xwMUF3SWk3UUhLZWJncWdTY0N4QWhIUW1ZbGU2bGVIVl9SZTRCRHhha00yYjdNUVB3?oc=5",
+  "title": "Natacha Polony (51 ans) et son \"côté SM\" : ces \"fantasmes de cuir\" moqués par un ex-collaborateur",
+  "summary": "",
+  "published": "2026-10-14T09:00+02:00",
+  "mentions": [
+   "polony"
+  ]
+ },
+ {
+  "id": "bc1a42863f86f709",
+  "outlet": "melty.fr",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQa21QZTVGUlRBb1BaRGhULXUwOEdCVm16bVVCblJtV3h1U1poUnU3c0hsME1JNlJfaGljVXhnamdKUTh4ZjNpVFJEMGszaElIcXNSX0prSHVrSDJ6UEFHNEM1bl82THhnRHh3cUp4NnFPeUNORWh3aVU3dmJIN2Z3cWdzZ0RqX0k5eUpKdUx0ckpybHVUb0ZldWRyZWU3Tk4tNGZlbUlpaHVnSVJfaVQ4b1dvUHJSNHBybEVTUWVXWHg5WEFKOV90WVNTSk5wbnJmcGVXemZzRWtrZldOdnJuQ1RabGJOWll6Q1YtYkY1ampnZG1CTWRZX2V3?oc=5",
+  "title": "16 ans plus jeune, Natacha Polony au pieu avec Périco Légasse : \"Je suis une femme soumise et j'aime ça\", son mari est \"un vrai macho\"",
+  "summary": "",
+  "published": "2026-10-14T09:00+02:00",
+  "mentions": [
+   "polony"
+  ]
+ },
+ {
+  "id": "173aaae9626f7812",
+  "outlet": "melty.fr",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOWjRDUDZKR25QTTFxd3pnUmdiaTdrakVEX0FQS1pKVEVZQVV4dEVEOUJ0QzJPcWFVU0hNRVhORldIaDJlcHhibFhmamM0U285b25sbmdDVDdpTnBCd3JUX3ZpSThPZXM3cEFVWXl4VGNtNENReUl1NEQwSVBUcmNsSjRlWTd6Vk9uQ08xNHVrbGVlZVRCaklaSUpWcTZoZlp0RkFzWmZVYk9kYUJ5V1RYc2dtRGFBdGk3U3JuRjFkRjhKeVFla09ManZlU24zdXdnLXdVZlA3MXBJRzdteUtjWHNLLUNUQnAtYkI2amtId3N1bGJvbGZ6Q1NQN25ZeE5jenA3Mm1NaUpmZw?oc=5",
+  "title": "\"Pas un pied dans la cuisine\" : Natacha Polony \"un peu coincée\", comment sa rencontre avec Périco Légasse, chef \"au-delà du macho\", a pimenté sa vie",
+  "summary": "",
+  "published": "2026-10-14T09:00+02:00",
+  "mentions": [
+   "polony"
+  ]
+ },
+ {
+  "id": "2fe60b06884c5837",
+  "outlet": "lejdd.fr",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMU05bW1ENWN1dS1sYkN4dzhHbEk3MHJNbERPaDVBLVYyeTd2dXVFSDd1d0xfbEo4cFRReTItSE1wN2NlaHBnN0JzRWxWdExQMXBsWGw1OGtiNVJoU0xsUjdfbU5KS0dQQzFkTmJZZmotaS1BeW1QTGNaQzlRU0N6LVVOS1dvb0kxVW1rOXozOG15ZzhUTnc3aW5fUQ?oc=5",
+  "title": "Présidentielle 2027 : Natacha Polony annonce sa candidature",
+  "summary": "",
+  "published": "2026-10-14T09:00+02:00",
+  "mentions": [
+   "polony"
+  ]
+ },
+ {
+  "id": "e310ba458fe0d436",
+  "outlet": "TV Magazine",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPRGdDaGlEQjVxZENyaFcyREhRX0xZQVVYNWRKWjZfSjNKQk9HbUdXNGlVMFZhSnQtUkFqWk5LR1NQRVRiSGlJcUlKOEhzMXlpTjFPR2JIa0owZU9ndXBWU3dqYk9fOWNnOGEyMXI1MXREYkFTcERZSUJPMy1qTFNLNHI4WFpoV2E1bEIzdmZsWUh3ZVpfQk9hU1ZFMGdDUnhWQzRyT21OeW9udHZMUTQ5YzhRNTFBbVpHd09FazdXOGVDU2R6VXhPUUdJLUFua1dWaEdlNzQ4ZjZJZ0dnU0tR?oc=5",
+  "title": "«La France apaisée, ça me dit quelque chose» : Sonia Mabrouk taquine Natacha Polony sur BFMTV",
+  "summary": "",
+  "published": "2026-10-14T09:00+02:00",
+  "mentions": [
+   "polony"
+  ]
+ },
+ {
+  "id": "b707e0f55bc2b9b5",
+  "outlet": "Le Journal de Montréal",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOZWRfenZ4d3VBclJiaW9kZmVOSHBzejVsS1I4TUhpZko5R05TQ3FxTmw2SFpjZTJZUXlOekZuM2pBeGFXcW5UU2w2VW9meWp1TE9tdDduWnl5a2ozeXYwMV9ZMmZiZElQOWJIdjRpX3hBMzItenV4Z2ZOWWFPX0ZGUERacWNJekVYcGtvUFlobm5mN3lyTUg0TlZHLVNuc2lZdW9oWUdKSHJ5Q2FUZEIyOG1qVkVfSDQwS3pGRWVqV1k1cDdrbXBMaFJqTXZUOEYySjl5cTdBMA?oc=5",
+  "title": "L'essayiste médiatique Natacha Polony se déclare candidate à la présidentielle française de 2027",
+  "summary": "",
+  "published": "2026-10-14T09:00+02:00",
+  "mentions": [
+   "polony"
+  ]
+ },
+ {
+  "id": "7021bc91f372bacf",
+  "outlet": "reinformation.tv",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBobzZUX3pZUklIN0NnaFhtMWxkeWRGRXNaNUdZY3BLQlRCck5HZFRoM3Z4NDdOZWl4M28zU3hEWWM0amtGZ2tiT3otWVJXVG9icVJ2Mzd0TEtUTVAzd0FFUWdZelFGUTZRalFORGpuQ1NHcDl4OFgybEF3?oc=5",
+  "title": "Natacha Polony candidate à la présidentielle",
+  "summary": "",
+  "published": "2026-10-14T09:00+02:00",
+  "mentions": [
+   "polony"
+  ]
  },
  {
   "id": "1c5331b5e5effd66",
