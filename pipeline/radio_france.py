@@ -8,6 +8,8 @@ import json
 import re
 from pathlib import Path
 
+from .model import canonical_outlet
+
 MONTHS = {"janv": 1, "févr": 2, "mars": 3, "avr": 4, "mai": 5, "juin": 6, "juil": 7, "août": 8,
           "sept": 9, "oct": 10, "nov": 11, "déc": 12}
 STATIONS = {"FI": "France Inter", "FC": "France Culture", "fi": "franceinfo", "franceinfo": "franceinfo"}
@@ -52,12 +54,27 @@ def station_of(emission):
 
 
 def parse_markdown(text, candidate):
-    """Lignes du tableau : une émission par ligne, dans l'ordre du fichier."""
+    """Lignes des tableaux : une entrée par ligne, dans l'ordre du fichier.
+
+    Tableau à 4 colonnes (date, émission, titre, sujet) : émission Radio France, station lue dans l'émission.
+    Tableau à 3 colonnes (date, titre, sujet) sous un titre « ## Média, … » : article d'un autre média.
+    """
     rows = []
+    media = ""
     for line in text.splitlines():
+        if line.startswith("## "):
+            media = canonical_outlet(re.split(r" \(|,", line[3:].strip())[0].strip()) or ""
+            continue
         if not line.startswith("|"):
             continue
         cells = [c.strip() for c in line.strip().strip("|").split("|")]
+        if len(cells) == 3 and media:
+            date, title, subject = parse_date(cells[0]), cells[1], SUBJECTS.get(cells[2])
+            if date is None or subject is None:
+                continue
+            rows.append({"candidate": candidate, "date": date, "emission": "", "station": media,
+                         "title": title, "subject": subject})
+            continue
         if len(cells) < 4:
             continue
         date = parse_date(cells[0])

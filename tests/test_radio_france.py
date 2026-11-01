@@ -34,5 +34,19 @@ class RadioFranceTest(unittest.TestCase):
         self.assertEqual(rows[0]["emission"], "L'édito politique")
 
 
+    def test_article_table_under_media_heading(self):
+        text = """# Dossier
+
+## BFMTV (rubrique présidentielle), relevé le 1er novembre 2026
+
+| Date | Titre | Ruffin au centre ? |
+|---|---|---|
+| 30 oct. 2026 | François Ruffin dénonce un « budget de provocation » | Oui |
+"""
+        rows = radio_france.parse_markdown(text, "ruffin")
+        self.assertEqual(rows, [{"candidate": "ruffin", "date": "2026-10-30", "emission": "", "station": "BFMTV",
+                                 "title": "François Ruffin dénonce un « budget de provocation »", "subject": "oui"}])
+
+
 if __name__ == "__main__":
     unittest.main()
