@@ -475,10 +475,10 @@ function buildPickers() {
     $(`pick-${chart}`).innerHTML = chartPicker(chart, options, isMain);
   };
   mount('pollChart', candidates, mainCandidate);
-  mount('monthChart', candidates, mainCandidate);
   mount('followersCandChart', candidates, mainCandidate);
   mount('followersPartyChart', parties, everything);
   mount('ytCandChart', candidates, mainCandidate);
+  mount('radioMonthChart', candidates, mainCandidate);
   mount('ytMediaTvChart', mediaOptions(['tv', 'radio']), everything);
   mount('ytMediaPresseChart', mediaOptions(['presse']), everything);
   mount('interviewChart', candidates, mainCandidate);
@@ -567,7 +567,7 @@ function wireChartControls() {
 function renderAll() {
   renderPlatformCharts();
   renderPollChart();
-  renderMonthChart();
+  renderRadioMonthChart();
   renderFollowers();
   renderYouTube();
   renderInterviews();
@@ -748,21 +748,34 @@ function renderPollChart() {
   });
 }
 
-/** Articles par mois et par candidat (titre sur le candidat, médias retenus), sous la matrice des médias. */
-function renderMonthChart() {
-  const mm = data.media_monthly || { months: [], candidates: {} };
-  const cands = data.candidates.filter(c => picked('monthChart').has(`cand:${c.id}`));
-  const labels = mm.months.map(m => {
+/** Émissions Radio France par mois et par candidat (candidat au moins un thème), sous la matrice. */
+function renderRadioMonthChart() {
+  const rf = data.radio_france || { rows: [] };
+  const rows = rf.rows.filter(r => r.subject !== 'non');
+  const months = [...new Set(rf.rows.map(r => r.date.slice(0, 7)))].sort();
+  /** @type {string[]} */
+  const range = [];
+  if (months.length) {
+    let [y, m] = [Number(months[0].slice(0, 4)), Number(months[0].slice(5, 7))];
+    const last = months[months.length - 1];
+    while (`${y}-${String(m).padStart(2, '0')}` <= last) {
+      range.push(`${y}-${String(m).padStart(2, '0')}`);
+      [y, m] = m === 12 ? [y + 1, 1] : [y, m + 1];
+    }
+  }
+  const labels = range.map(m => {
     const label = new Date(m + '-01T12:00:00').toLocaleDateString(LOCALES[lang], { month: 'short', year: 'numeric' });
     return label;
   });
+  const cands = data.candidates.filter(c => picked('radioMonthChart').has(`cand:${c.id}`));
   const datasets = cands.map(c => ({
-    label: c.name, data: mm.candidates[c.id] || mm.months.map(() => 0),
-    borderColor: c.color, backgroundColor: c.color, borderWidth: 2.5, pointRadius: mm.months.length < 10 ? 4 : 2,
+    label: c.name,
+    data: range.map(m => rows.filter(r => r.candidate === c.id && r.date.startsWith(m)).length),
+    borderColor: c.color, backgroundColor: c.color, borderWidth: 2.5, pointRadius: range.length < 10 ? 4 : 2,
     pointHoverRadius: 5, tension: 0.25,
   }));
-  if (charts.monthChart) charts.monthChart.destroy();
-  charts.monthChart = new Chart(canvas('monthChart'), {
+  if (charts.radioMonthChart) charts.radioMonthChart.destroy();
+  charts.radioMonthChart = new Chart(canvas('radioMonthChart'), {
     type: 'line', data: { labels, datasets },
     options: lineOptions('', { legend: true, tooltipLabel: (/** @type {any} */ item) => ` ${item.dataset.label} : ${item.parsed.y} ${t('unit.article', { n: item.parsed.y })}` }),
   });
