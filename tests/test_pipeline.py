@@ -85,6 +85,18 @@ class MediaModelTest(unittest.TestCase):
         self.assertEqual(sig["adjustment"], 0.0)
 
 
+class OutletMatrixTest(unittest.TestCase):
+    def test_counts_articles_whose_title_is_about_the_candidate(self):
+        cands = [{"id": "x", "name": "Gabriel Attal", "aliases": ["Attal"]}]
+        days = {"2026-10-27": [
+            {"outlet": "Le Monde", "title": "Attal annonce une mesure", "summary": ""},
+            {"outlet": "Le Monde", "title": "Les sondages du week-end", "summary": "Attal est cité"},
+            {"outlet": "Blog inconnu", "title": "Attal lance sa campagne", "summary": ""},
+        ]}
+        matrix = model.outlet_matrix(days, cands, date(2026, 10, 27), window=7)
+        self.assertEqual(matrix, {"Le Monde": {"x": 1}})
+
+
 class MentionTest(unittest.TestCase):
     def test_accent_insensitive_word_match(self):
         art = {"title": "Melenchon répond à Édouard Philippe", "summary": ""}

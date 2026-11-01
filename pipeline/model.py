@@ -97,7 +97,9 @@ def canonical_outlet(name):
 
 
 def outlet_matrix(days, candidates, on, window=MEDIA_RECENT):
-    """Nombre d'articles qui citent chaque candidat, par média retenu, sur la fenêtre récente."""
+    """Articles dont le sujet est un candidat (nom ou alias dans le titre), par média retenu, sur la fenêtre."""
+    from .news import tag_mentions
+
     start = on - timedelta(days=window - 1)
     acc = {}
     for day, articles in days.items():
@@ -107,7 +109,7 @@ def outlet_matrix(days, candidates, on, window=MEDIA_RECENT):
             media = canonical_outlet(a.get("outlet"))
             if media is None:
                 continue
-            for cid in a.get("mentions") or []:
+            for cid in tag_mentions({"title": a.get("title") or "", "summary": ""}, candidates):
                 acc.setdefault(media, {}).setdefault(cid, 0)
                 acc[media][cid] += 1
     return acc

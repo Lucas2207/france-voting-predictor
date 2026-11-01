@@ -10,7 +10,7 @@ import sys
 from datetime import date, datetime, timedelta
 from pathlib import Path
 
-from . import interview_titles, mediametrie, model, news, polls, social, youtube
+from . import interview_titles, mediametrie, model, news, polls, radio_france, social, youtube
 
 ROOT = Path(__file__).resolve().parent.parent
 DATA = Path("data")
@@ -284,6 +284,7 @@ def main():
         "polls": [p for p in poll_data["polls"] if p["end_date"] >= (today - timedelta(days=HISTORY_DAYS)).isoformat()],
         "media_daily": model.daily_media(days, candidates),
         "interviews_found": interview_titles.find_interviews(days, candidates),
+        "radio_france": _load(Path("data/radio_france_lepen.json"), {"candidate": "lepen", "rows": []}),
         "media_by_outlet": model.outlet_matrix(days, candidates, today, window=(today - START_DATE).days + 1),
         "events": all_events[:40],
         "followers": followers,

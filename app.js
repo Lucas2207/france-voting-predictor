@@ -25,7 +25,7 @@
  * @typedef {{ period: string, fetched: string, total_tv: number | null, shares: Record<string, number> }} TvWeek
  * @typedef {{ id: string, name: string, platforms: Record<string, number>, total: number }} PartyPage
  * @typedef {{ video_id: string, title: string, channel: string, published: string, candidates: string[], views: number, url: string }} OwnVideo
- * @typedef {{ last_updated: string, own_videos: OwnVideo[], party_pages: PartyPage[], tv_weekly: TvWeek | null, today: string, candidates: Candidate[], parties: Party[], influencers: Influencer[], youtube: YouTube, projection: Projection[], history: HistoryEntry[], polls: Poll[], media_daily: MediaDay[], media_by_outlet: Record<string, Record<string, number>>, events: CampaignEvent[], followers: Followers, interviews: Interview[], interview_summary: InterviewSummary, interviews_found: InterviewFound[], sources: Sources, parameters?: Record<string, number> }} LiveData
+ * @typedef {{ last_updated: string, own_videos: OwnVideo[], party_pages: PartyPage[], tv_weekly: TvWeek | null, today: string, candidates: Candidate[], parties: Party[], influencers: Influencer[], youtube: YouTube, projection: Projection[], history: HistoryEntry[], polls: Poll[], media_daily: MediaDay[], media_by_outlet: Record<string, Record<string, number>>, events: CampaignEvent[], followers: Followers, interviews: Interview[], interview_summary: InterviewSummary, interviews_found: InterviewFound[], radio_france: { candidate: string, rows: { date: string, emission: string, station: string, title: string, subject: 'oui' | 'partiellement' | 'non' }[] }, sources: Sources, parameters?: Record<string, number> }} LiveData
  */
 
 /** @type {LiveData} */
@@ -857,6 +857,50 @@ function renderInterviewsFound() {
   ], rows, { empty: t('found.none'), defaultKey: 'date', redraw: renderInterviewsFound });
 }
 
+/** Mois choisi dans le sélecteur de Radio France ('' = tous les mois). */
+let radioFranceMonth = '';
+
+/** Émissions de Radio France dont le sujet est Marine Le Pen : relevé manuel, classé par sujet. */
+function renderRadioFrance() {
+  const rf = data.radio_france || { rows: [] };
+  const monthLabel = (/** @type {string} */ d) => {
+    const label = new Date(d + 'T12:00:00').toLocaleDateString(LOCALES[lang], { month: 'long', year: 'numeric' });
+    return label.charAt(0).toUpperCase() + label.slice(1);
+  };
+  const months = [...new Set(rf.rows.map(r => r.date.slice(0, 7)))].sort().reverse();
+  const select = /** @type {HTMLSelectElement} */ ($('radioFranceMonthSelect'));
+  if (radioFranceMonth && !months.includes(radioFranceMonth)) radioFranceMonth = '';
+  select.innerHTML = `<option value="">${esc(t('radiofr.allMonths'))}</option>` + months.map(m =>
+    `<option value="${m}"${m === radioFranceMonth ? ' selected' : ''}>${esc(monthLabel(m + '-01'))}</option>`).join('');
+  select.onchange = () => {
+    radioFranceMonth = select.value;
+    renderRadioFrance();
+  };
+  const shown = rf.rows.filter(r => !radioFranceMonth || r.date.startsWith(radioFranceMonth));
+  const count = (/** @type {string} */ k) => shown.filter(r => r.subject === k).length;
+  $('radioFranceNote').textContent = shown.length
+    ? t('radiofr.note', { n: shown.length, yes: count('oui'), part: count('partiellement'), no: count('non') })
+    : t('radiofr.none');
+  const subjectLabel = (/** @type {string} */ k) => t('radiofr.subject.' + k);
+  const rows = shown.map(r => ({
+    sort: { date: r.date, month: r.date.slice(0, 7), emission: r.emission, station: r.station, title: r.title, subject: r.subject },
+    cells: [`<td class="px-2 py-1 whitespace-nowrap">${esc(shortDate(r.date))}</td>`,
+            `<td class="px-2 py-1 whitespace-nowrap">${esc(monthLabel(r.date))}</td>`,
+            `<td class="px-2 py-1 font-semibold whitespace-nowrap">${esc(r.emission)}</td>`,
+            `<td class="px-2 py-1 whitespace-nowrap">${esc(r.station)}</td>`,
+            `<td class="px-2 py-1">${esc(r.title)}</td>`,
+            `<td class="px-2 py-1 whitespace-nowrap">${esc(subjectLabel(r.subject))}</td>`],
+  }));
+  renderTable('radioFranceTable', [
+    { key: 'date', label: t('radiofr.th.date') },
+    { key: 'month', label: t('radiofr.th.month') },
+    { key: 'emission', label: t('radiofr.th.emission') },
+    { key: 'station', label: t('radiofr.th.station') },
+    { key: 'title', label: t('radiofr.th.title') },
+    { key: 'subject', label: t('radiofr.th.subject') },
+  ], rows, { empty: t('radiofr.none'), defaultKey: 'date', redraw: renderRadioFrance });
+}
+
 function renderInterviews() {
   const ids = new Set(data.candidates.filter(c => picked('interviewChart').has(`cand:${c.id}`)).map(c => c.id));
   const share = interviewMetric === 'share';
@@ -891,6 +935,7 @@ function renderInterviews() {
 
   renderInterviewSummary(ids);
   renderInterviewsFound();
+  renderRadioFrance();
 }
 
 /** @param {Set<string>} ids */
