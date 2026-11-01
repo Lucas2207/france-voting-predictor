@@ -17,14 +17,21 @@ SAMPLE = """| Date | Émission | Titre | Marine Le Pen au centre ? |
 
 class RadioFranceTest(unittest.TestCase):
     def test_parses_dates_stations_and_subjects(self):
-        rows = radio_france.parse_markdown(SAMPLE)
+        rows = radio_france.parse_markdown(SAMPLE, "lepen")
         self.assertEqual(len(rows), 3)
-        self.assertEqual(rows[0], {"date": "2026-07-08", "emission": "L'invité d'ICI matin, ICI Limousin",
-                                   "station": "ICI", "title": "Un délégué parle de Marine Le Pen", "subject": "oui"})
+        self.assertEqual(rows[0], {"candidate": "lepen", "date": "2026-07-08",
+                                   "emission": "L'invité d'ICI matin, ICI Limousin", "station": "ICI",
+                                   "title": "Un délégué parle de Marine Le Pen", "subject": "oui"})
         self.assertEqual(rows[1]["station"], "France Culture")
         self.assertEqual(rows[1]["emission"], "Journal de 18h")
         self.assertEqual(rows[2]["station"], "France Inter")
         self.assertEqual(rows[2]["subject"], "non")
+
+    def test_franceinfo_suffix_in_lowercase(self):
+        text = "| 1 juil. 2026 | L'édito politique (franceinfo) | Présidentielle 2027 | Oui |"
+        rows = radio_france.parse_markdown(text, "melenchon")
+        self.assertEqual(rows[0]["station"], "franceinfo")
+        self.assertEqual(rows[0]["emission"], "L'édito politique")
 
 
 if __name__ == "__main__":

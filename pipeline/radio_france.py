@@ -1,13 +1,22 @@
 """Émissions de Radio France dont le sujet est un candidat : relevé manuel (radiofrance.fr/personnes/…).
 
-Le relevé est un tableau Markdown : date, émission (avec la station entre parenthèses ou « ICI »), titre,
-et le sujet (« Oui », « Partiellement », « Non »). Le fichier source est converti en JSON dans data/.
+Chaque relevé est un tableau Markdown : date, émission (station entre parenthèses, ou « ICI », ou le nom de
+la station), titre, et le sujet (« Oui », « Partiellement », « Non »). Les relevés sont regroupés dans
+data/radio_france.json, un enregistrement par émission et par candidat.
 """
+import json
 import re
+from pathlib import Path
 
 MONTHS = {"janv": 1, "févr": 2, "mars": 3, "avr": 4, "mai": 5, "juin": 6, "juil": 7, "août": 8,
           "sept": 9, "oct": 10, "nov": 11, "déc": 12}
-STATIONS = {"FI": "France Inter", "FC": "France Culture", "fi": "franceinfo"}
+STATIONS = {"FI": "France Inter", "FC": "France Culture", "fi": "franceinfo", "franceinfo": "franceinfo"}
+# relevé source par candidat (fichiers Markdown à la racine du projet)
+SOURCES = {
+    "lepen": "radio-france-marine-le-pen-emissions.md",
+    "melenchon": "radio-france-jean-luc-melenchon-emissions.md",
+}
+OUTPUT = Path("data/radio_france.json")
 SUBJECTS = {"Oui": "oui", "Partiellement": "partiellement", "Non": "non"}
 
 
@@ -20,7 +29,7 @@ def parse_date(text):
 
 
 def station_of(emission):
-    m = re.search(r"\((FI|FC|fi)\)\s*$", emission)
+    m = re.search(r"\((FI|FC|fi|franceinfo)\)\s*$", emission)
     if m:
         return STATIONS[m.group(1)]
     for name in ("France Inter", "France Culture", "franceinfo"):
@@ -29,7 +38,7 @@ def station_of(emission):
     return "ICI" if re.search(r"\bICI\b", emission) else "Radio France"
 
 
-def parse_markdown(text):
+def parse_markdown(text, candidate):
     """Lignes du tableau : une émission par ligne, dans l'ordre du fichier."""
     rows = []
     for line in text.splitlines():
@@ -42,7 +51,21 @@ def parse_markdown(text):
         subject = SUBJECTS.get(cells[3])
         if date is None or subject is None:
             continue
-        emission = re.sub(r"\s*\((FI|FC|fi)\)\s*$", "", cells[1])
-        rows.append({"date": date, "emission": emission, "station": station_of(cells[1]),
+        emission = re.sub(r"\s*\((FI|FC|fi|franceinfo)\)\s*$", "", cells[1])
+        rows.append({"candidate": candidate, "date": date, "emission": emission, "station": station_of(cells[1]),
                      "title": cells[2], "subject": subject})
     return rows
+
+
+def build(root=Path(".")):
+    """Convertit les relevés Markdown en data/radio_france.json."""
+    rows = []
+    for candidate, name in SOURCES.items():
+        rows += parse_markdown((root / name).read_text(encoding="utf-8"), candidate)
+    OUTPUT.parent.mkdir(parents=True, exist_ok=True)
+    OUTPUT.write_text(json.dumps({"rows": rows}, ensure_ascii=False, indent=1), encoding="utf-8")
+    return rows
+
+
+if __name__ == "__main__":
+    print(f"{len(build())} émissions écrites dans {OUTPUT}")

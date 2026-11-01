@@ -25,7 +25,7 @@
  * @typedef {{ period: string, fetched: string, total_tv: number | null, shares: Record<string, number> }} TvWeek
  * @typedef {{ id: string, name: string, platforms: Record<string, number>, total: number }} PartyPage
  * @typedef {{ video_id: string, title: string, channel: string, published: string, candidates: string[], views: number, url: string }} OwnVideo
- * @typedef {{ last_updated: string, own_videos: OwnVideo[], party_pages: PartyPage[], tv_weekly: TvWeek | null, today: string, candidates: Candidate[], parties: Party[], influencers: Influencer[], youtube: YouTube, projection: Projection[], history: HistoryEntry[], polls: Poll[], media_daily: MediaDay[], media_by_outlet: Record<string, Record<string, number>>, events: CampaignEvent[], followers: Followers, interviews: Interview[], interview_summary: InterviewSummary, interviews_found: InterviewFound[], radio_france: { candidate: string, rows: { date: string, emission: string, station: string, title: string, subject: 'oui' | 'partiellement' | 'non' }[] }, sources: Sources, parameters?: Record<string, number> }} LiveData
+ * @typedef {{ last_updated: string, own_videos: OwnVideo[], party_pages: PartyPage[], tv_weekly: TvWeek | null, today: string, candidates: Candidate[], parties: Party[], influencers: Influencer[], youtube: YouTube, projection: Projection[], history: HistoryEntry[], polls: Poll[], media_daily: MediaDay[], media_by_outlet: Record<string, Record<string, number>>, events: CampaignEvent[], followers: Followers, interviews: Interview[], interview_summary: InterviewSummary, interviews_found: InterviewFound[], radio_france: { rows: { candidate: string, date: string, emission: string, station: string, title: string, subject: 'oui' | 'partiellement' | 'non' }[] }, sources: Sources, parameters?: Record<string, number> }} LiveData
  */
 
 /** @type {LiveData} */
@@ -860,7 +860,10 @@ function renderInterviewsFound() {
 /** Mois choisi dans le sélecteur de Radio France ('' = tous les mois). */
 let radioFranceMonth = '';
 
-/** Émissions de Radio France dont le sujet est Marine Le Pen : relevé manuel, classé par sujet. */
+/**
+ * Émissions de Radio France sur les candidats : matrice station × candidat (couleur selon le nombre
+ * d'émissions où le candidat est au moins un thème), puis liste détaillée. Relevé manuel.
+ */
 function renderRadioFrance() {
   const rf = data.radio_france || { rows: [] };
   const monthLabel = (/** @type {string} */ d) => {
@@ -881,24 +884,32 @@ function renderRadioFrance() {
   $('radioFranceNote').textContent = shown.length
     ? t('radiofr.note', { n: shown.length, yes: count('oui'), part: count('partiellement'), no: count('non') })
     : t('radiofr.none');
-  const subjectLabel = (/** @type {string} */ k) => t('radiofr.subject.' + k);
-  const rows = shown.map(r => ({
-    sort: { date: r.date, month: r.date.slice(0, 7), emission: r.emission, station: r.station, title: r.title, subject: r.subject },
-    cells: [`<td class="px-2 py-1 whitespace-nowrap">${esc(shortDate(r.date))}</td>`,
-            `<td class="px-2 py-1 whitespace-nowrap">${esc(monthLabel(r.date))}</td>`,
-            `<td class="px-2 py-1 font-semibold whitespace-nowrap">${esc(r.emission)}</td>`,
-            `<td class="px-2 py-1 whitespace-nowrap">${esc(r.station)}</td>`,
-            `<td class="px-2 py-1">${esc(r.title)}</td>`,
-            `<td class="px-2 py-1 whitespace-nowrap">${esc(subjectLabel(r.subject))}</td>`],
-  }));
-  renderTable('radioFranceTable', [
-    { key: 'date', label: t('radiofr.th.date') },
-    { key: 'month', label: t('radiofr.th.month') },
-    { key: 'emission', label: t('radiofr.th.emission') },
-    { key: 'station', label: t('radiofr.th.station') },
-    { key: 'title', label: t('radiofr.th.title') },
-    { key: 'subject', label: t('radiofr.th.subject') },
-  ], rows, { empty: t('radiofr.none'), defaultKey: 'date', redraw: renderRadioFrance });
+
+  // Matrice : une émission compte si le candidat est au moins un thème (sujet principal ou parmi d'autres)
+  /** @type {Record<string, Record<string, number>>} */
+  const matrix = {};
+  shown.filter(r => r.subject !== 'non').forEach(r => {
+    matrix[r.station] = matrix[r.station] || {};
+    matrix[r.station][r.candidate] = (matrix[r.station][r.candidate] || 0) + 1;
+  });
+  const totalOf = (/** @type {string} */ st) => Object.values(matrix[st]).reduce((x, y) => x + y, 0);
+  const stations = Object.keys(matrix).sort((x, y) => totalOf(y) - totalOf(x));
+  const cands = data.candidates.filter(c => rf.rows.some(r => r.candidate === c.id));
+  const max = Math.max(1, ...stations.flatMap(st => Object.values(matrix[st])));
+  $('radioFranceMatrix').innerHTML = `<thead><tr class="text-[10px] uppercase tracking-wider text-slate-500 border-b border-slate-200">
+      <th class="px-2 py-1 text-left">${t('radiofr.th.media')}</th>
+      ${cands.map(c => `<th class="px-2 py-1 text-right whitespace-nowrap" title="${esc(c.name)}">${esc(c.badge)}</th>`).join('')}
+      <th class="px-2 py-1 text-right">${t('exposure.th.total')}</th></tr></thead>
+    <tbody>${stations.map(st => `<tr class="border-b border-slate-100">
+      <td class="px-2 py-1 font-semibold whitespace-nowrap">${esc(st)}</td>
+      ${cands.map(c => {
+        const n = matrix[st][c.id] || 0;
+        return n
+          ? `<td class="px-2 py-1 text-right font-semibold text-slate-900" style="background:${heatColor(n / max)};color:#0F172A">${n}</td>`
+          : `<td class="px-2 py-1 text-right text-slate-300">—</td>`;
+      }).join('')}
+      <td class="px-2 py-1 text-right font-bold">${totalOf(st)}</td></tr>`).join('') || `<tr><td class="py-2 text-slate-400">${t('radiofr.none')}</td></tr>`}</tbody>`;
+
 }
 
 function renderInterviews() {
