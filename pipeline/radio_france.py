@@ -15,6 +15,7 @@ STATIONS = {"FI": "France Inter", "FC": "France Culture", "fi": "franceinfo", "f
 SOURCES = {
     "lepen": "radio-france-marine-le-pen-emissions.md",
     "melenchon": "radio-france-jean-luc-melenchon-emissions.md",
+    "philippe": "radio-france-edouard-philippe-emissions.md",
 }
 OUTPUT = Path("data/radio_france.json")
 SUBJECTS = {"Oui": "oui", "Partiellement": "partiellement", "Non": "non"}
@@ -32,7 +33,7 @@ def station_of(emission):
     m = re.search(r"\((FI|FC|fi|franceinfo)\)\s*$", emission)
     if m:
         return STATIONS[m.group(1)]
-    for name in ("France Inter", "France Culture", "franceinfo"):
+    for name in ("France Inter", "France Culture", "France Musique", "franceinfo"):
         if name in emission:
             return name
     return "ICI" if re.search(r"\bICI\b", emission) else "Radio France"
