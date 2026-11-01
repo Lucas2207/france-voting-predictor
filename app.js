@@ -531,6 +531,12 @@ function wireChartControls() {
   });
   document.addEventListener('click', (ev) => {
     const el = ev.target;
+    if (!(el instanceof HTMLElement) || !el.dataset.matrix) return;
+    matrixSort[el.dataset.matrix] = { axis: /** @type {'rows' | 'cols'} */ (el.dataset.axis), key: el.dataset.key || '', dir: /** @type {'asc' | 'desc'} */ (el.dataset.dir) };
+    if (tableRedraw[el.dataset.matrix]) tableRedraw[el.dataset.matrix]();
+  });
+  document.addEventListener('click', (ev) => {
+    const el = ev.target;
     if (!(el instanceof HTMLElement) || !el.dataset.sortTable) return;
     const id = el.dataset.sortTable;
     const key = el.dataset.sortKey || '';
@@ -892,24 +898,12 @@ function renderRadioFrance() {
     matrix[r.station] = matrix[r.station] || {};
     matrix[r.station][r.candidate] = (matrix[r.station][r.candidate] || 0) + 1;
   });
-  const totalOf = (/** @type {string} */ st) => Object.values(matrix[st]).reduce((x, y) => x + y, 0);
-  const stations = Object.keys(matrix).sort((x, y) => totalOf(y) - totalOf(x));
   const cands = data.candidates.filter(c => rf.rows.some(r => r.candidate === c.id));
-  const max = Math.max(1, ...stations.flatMap(st => Object.values(matrix[st])));
-  $('radioFranceMatrix').innerHTML = `<thead><tr class="text-[10px] uppercase tracking-wider text-slate-500 border-b border-slate-200">
-      <th class="px-2 py-1 text-left">${t('radiofr.th.media')}</th>
-      ${cands.map(c => `<th class="px-2 py-1 text-right whitespace-nowrap" title="${esc(c.name)}">${esc(c.name)}</th>`).join('')}
-      <th class="px-2 py-1 text-right">${t('exposure.th.total')}</th></tr></thead>
-    <tbody>${stations.map(st => `<tr class="border-b border-slate-100">
-      <td class="px-2 py-1 font-semibold whitespace-nowrap">${esc(st)}</td>
-      ${cands.map(c => {
-        const n = matrix[st][c.id] || 0;
-        return n
-          ? `<td class="px-2 py-1 text-right font-semibold text-slate-900" style="background:${heatColor(n / max)};color:#0F172A">${n}</td>`
-          : `<td class="px-2 py-1 text-right text-slate-300">—</td>`;
-      }).join('')}
-      <td class="px-2 py-1 text-right font-bold">${totalOf(st)}</td></tr>`).join('') || `<tr><td class="py-2 text-slate-400">${t('radiofr.none')}</td></tr>`}</tbody>`;
-
+  renderMatrix('radioFranceMatrix',
+    Object.keys(matrix).map(st => ({ key: st, label: st })),
+    cands.map(c => ({ key: c.id, head: candidateHead(c) })),
+    (st, c) => (matrix[st] && matrix[st][c]) || 0,
+    t('radiofr.none'), renderRadioFrance);
 }
 
 function renderInterviews() {
@@ -1035,40 +1029,93 @@ function focusSeries(chart, index) {
 // Diverging bleu <-> rouge, milieu gris neutre
 /** @param {number} t */
 
-/** Couleur d'une case : du bleu froid (peu d'articles) au rouge chaud (beaucoup). @param {number} t entre 0 et 1 */
+/** En-tête d'un candidat : prénom, nom, puis sigle du parti entre parenthèses. @param {Candidate} c */
+function candidateHead(c) {
+  const [first, ...rest] = c.name.split(' ');
+  const party = `<span class="block text-[10px] font-normal text-slate-500">(${esc(c.badge)})</span>`;
+  return rest.length
+    ? `<span class="block">${esc(first)}</span><span class="block">${esc(rest.join(' '))}</span>${party}`
+    : `<span class="block">${esc(first)}</span>${party}`;
+}
+
+/** Échelle de couleur des cases, du faible (bleu nuit) au fort (pêche), en passant par le violet et le bordeaux.
+ * @param {number} t entre 0 et 1 */
 function heatColor(t) {
-  const cold = [220, 233, 248];
-  const hot = [232, 85, 61];
-  const [r, g, b] = cold.map((v, i) => Math.round(v + (hot[i] - v) * t));
+  const stops = [[35, 42, 74], [26, 11, 46], [122, 26, 58], [182, 90, 78], [245, 168, 110]];
+  const x = Math.min(1, Math.max(0, t)) * (stops.length - 1);
+  const i = Math.min(stops.length - 2, Math.floor(x));
+  const f = x - i;
+  const [r, g, b] = stops[i].map((v, k) => Math.round(v + (stops[i + 1][k] - v) * f));
   return `rgb(${r}, ${g}, ${b})`;
 }
 
+/** Texte lisible sur la case : clair sur les teintes sombres, foncé sur les teintes chaudes. @param {number} t */
+const heatText = (/** @type {number} */ t) => t < 0.55 ? '#F8FAFC' : '#0F172A';
+
 /** Nombre d'articles de chaque média retenu qui citent chaque candidat (présence, sans tonalité). */
+/** Tri des matrices : axe (« rows » = lignes triées par une colonne, « cols » = colonnes triées par une ligne). */
+/** @type {Record<string, { axis: 'rows' | 'cols' | 'alpha', key: string, dir: 'asc' | 'desc' }>} */
+const matrixSort = {};
+
+/** Flèches de tri : ▲ croissant, ▼ décroissant. Mise en évidence de la flèche active.
+ * @param {string} id @param {'rows' | 'cols' | 'alpha'} axis @param {string} key */
+function sortArrows(id, axis, key) {
+  const st = matrixSort[id];
+  const active = (/** @type {string} */ dir) => st && st.axis === axis && st.key === key && st.dir === dir;
+  const arrow = (/** @type {string} */ dir, /** @type {string} */ glyph) =>
+    `<button type="button" data-matrix="${esc(id)}" data-axis="${axis}" data-key="${esc(key)}" data-dir="${dir}" aria-label="${dir}" class="px-0.5 leading-none ${active(dir) ? 'text-indigo-600 font-bold' : 'text-slate-400 hover:text-slate-900'}">${glyph}</button>`;
+  return `<span class="inline-flex flex-col items-center text-[9px] ml-1 align-middle">${arrow('asc', '▲')}${arrow('desc', '▼')}</span>`;
+}
+
+/**
+ * Matrice lignes × colonnes, cellules colorées selon le nombre d'articles (bleu froid → rouge chaud).
+ * @param {string} id
+ * @param {{ key: string, label: string }[]} rows
+ * @param {{ key: string, head: string }[]} cols head : html de l'en-tête (nom sur deux lignes, sigle)
+ * @param {(rowKey: string, colKey: string) => number} value
+ * @param {string} empty
+ * @param {() => void} redraw
+ */
+function renderMatrix(id, rows, cols, value, empty, redraw) {
+  tableRedraw[id] = redraw;
+  const st = matrixSort[id] || { axis: 'rows', key: '', dir: 'desc' };
+  const total = (/** @type {string} */ rk) => cols.reduce((x, c) => x + value(rk, c.key), 0);
+  const sign = st.dir === 'asc' ? 1 : -1;
+  const sortedRows = st.axis === 'alpha'
+    ? [...rows].sort((x, y) => sign * x.label.localeCompare(y.label, 'fr'))
+    : [...rows].sort((x, y) => {
+      const vx = st.axis === 'rows' && st.key ? value(x.key, st.key) : total(x.key);
+      const vy = st.axis === 'rows' && st.key ? value(y.key, st.key) : total(y.key);
+      return sign * (vx - vy);
+    });
+  const sortedCols = st.axis === 'cols' && st.key
+    ? [...cols].sort((x, y) => sign * (value(st.key, x.key) - value(st.key, y.key)))
+    : cols;
+  const max = Math.max(1, ...rows.flatMap(r => cols.map(c => value(r.key, c.key))));
+  const cell = (/** @type {number} */ n) => n
+    ? `<td class="px-2 py-1 text-right font-semibold" style="background:${heatColor(n / max)};color:${heatText(n / max)}">${n}</td>`
+    : `<td class="px-2 py-1 text-right text-slate-300">—</td>`;
+  $(id).innerHTML = `<thead><tr class="text-[10px] uppercase tracking-wider text-slate-500 border-b border-slate-200">
+      <th class="px-2 py-1 text-left align-bottom whitespace-nowrap">${t(id === 'radioFranceMatrix' ? 'radiofr.th.media' : 'exposure.th.media')}${sortArrows(id, 'alpha', '')}</th>
+      ${sortedCols.map(c => `<th class="px-2 py-1 text-right align-bottom leading-tight normal-case tracking-normal text-slate-700">${c.head}${sortArrows(id, 'rows', c.key)}</th>`).join('')}
+      <th class="px-2 py-1 text-right align-bottom">${t('exposure.th.total')}</th></tr></thead>
+    <tbody>${sortedRows.map(r => `<tr class="border-b border-slate-100">
+      <td class="px-2 py-1 font-semibold whitespace-nowrap">${esc(r.label)}${sortArrows(id, 'cols', r.key)}</td>
+      ${sortedCols.map(c => cell(value(r.key, c.key))).join('')}
+      <td class="px-2 py-1 text-right font-bold">${total(r.key)}</td></tr>`).join('') || `<tr><td class="py-2 text-slate-400">${esc(empty)}</td></tr>`}</tbody>`;
+}
+
+/** Couverture par média : articles dont le titre porte sur le candidat, par média retenu. */
 function renderOutlets() {
-  const table = $('outletTable');
   const matrix = data.media_by_outlet || {};
   const outlets = Object.keys(matrix);
-  if (!outlets.length) {
-    table.innerHTML = `<tr><td class="text-slate-400 py-2">${t('exposure.none')}</td></tr>`;
-    return;
-  }
-  const totalOf = (/** @type {string} */ o) => Object.values(matrix[o]).reduce((x, y) => x + y, 0);
-  outlets.sort((x, y) => totalOf(y) - totalOf(x));
-  const max = Math.max(1, ...outlets.flatMap(o => Object.values(matrix[o])));
-  table.innerHTML = `<thead><tr class="text-[10px] uppercase tracking-wider text-slate-500 border-b border-slate-200">
-      <th class="px-2 py-1 text-left">${t('exposure.th.media')}</th>
-      ${data.candidates.map(c => `<th class="px-2 py-1 text-right whitespace-nowrap" title="${esc(c.name)}">${esc(c.name)}</th>`).join('')}
-      <th class="px-2 py-1 text-right">${t('exposure.th.total')}</th></tr></thead>
-    <tbody>${outlets.map(o => `<tr class="border-b border-slate-100">
-      <td class="px-2 py-1 font-semibold whitespace-nowrap">${esc(o)}</td>
-      ${data.candidates.map(c => {
-        const n = matrix[o][c.id] || 0;
-        return n
-          ? `<td class="px-2 py-1 text-right font-semibold text-slate-900" style="background:${heatColor(n / max)};color:#0F172A">${n}</td>`
-          : `<td class="px-2 py-1 text-right text-slate-300">—</td>`;
-      }).join('')}
-      <td class="px-2 py-1 text-right font-bold">${totalOf(o)}</td></tr>`).join('')}</tbody>`;
+  renderMatrix('outletTable',
+    outlets.map(o => ({ key: o, label: o })),
+    data.candidates.map(c => ({ key: c.id, head: candidateHead(c) })),
+    (o, c) => matrix[o][c] || 0,
+    t('exposure.none'), renderOutlets);
 }
+
 
 function renderEvents() {
   const container = $('eventsContainer');
