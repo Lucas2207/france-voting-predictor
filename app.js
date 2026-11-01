@@ -898,7 +898,7 @@ function renderRadioFrance() {
   const max = Math.max(1, ...stations.flatMap(st => Object.values(matrix[st])));
   $('radioFranceMatrix').innerHTML = `<thead><tr class="text-[10px] uppercase tracking-wider text-slate-500 border-b border-slate-200">
       <th class="px-2 py-1 text-left">${t('radiofr.th.media')}</th>
-      ${cands.map(c => `<th class="px-2 py-1 text-right whitespace-nowrap" title="${esc(c.name)}">${esc(c.badge)}</th>`).join('')}
+      ${cands.map(c => `<th class="px-2 py-1 text-right whitespace-nowrap" title="${esc(c.name)}">${esc(c.name)}</th>`).join('')}
       <th class="px-2 py-1 text-right">${t('exposure.th.total')}</th></tr></thead>
     <tbody>${stations.map(st => `<tr class="border-b border-slate-100">
       <td class="px-2 py-1 font-semibold whitespace-nowrap">${esc(st)}</td>
@@ -1057,7 +1057,7 @@ function renderOutlets() {
   const max = Math.max(1, ...outlets.flatMap(o => Object.values(matrix[o])));
   table.innerHTML = `<thead><tr class="text-[10px] uppercase tracking-wider text-slate-500 border-b border-slate-200">
       <th class="px-2 py-1 text-left">${t('exposure.th.media')}</th>
-      ${data.candidates.map(c => `<th class="px-2 py-1 text-right whitespace-nowrap" title="${esc(c.name)}">${esc(c.badge)}</th>`).join('')}
+      ${data.candidates.map(c => `<th class="px-2 py-1 text-right whitespace-nowrap" title="${esc(c.name)}">${esc(c.name)}</th>`).join('')}
       <th class="px-2 py-1 text-right">${t('exposure.th.total')}</th></tr></thead>
     <tbody>${outlets.map(o => `<tr class="border-b border-slate-100">
       <td class="px-2 py-1 font-semibold whitespace-nowrap">${esc(o)}</td>
