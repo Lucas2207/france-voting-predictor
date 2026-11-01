@@ -59,8 +59,9 @@ def _subject(text):
 
 
 def _media_of_heading(line):
-    name = re.sub(r"^\d+\.\s*", "", line[3:].strip())
-    name = re.split(r" \(|,", name)[0].strip()
+    name = re.sub(r"^#+\s*", "", line).strip()
+    name = re.sub(r"^\d+\.\s*", "", name)
+    name = re.split(r" \(|,| :", name)[0].strip()
     if name.lower().startswith("radio france"):
         return ""
     return canonical_outlet(name) or name
@@ -81,7 +82,7 @@ def parse_markdown(text, candidate):
     media = _default_media(text)
     header = None
     for line in text.splitlines():
-        if line.startswith("## "):
+        if line.startswith("## ") or line.startswith("### "):
             media = _media_of_heading(line)
             header = None
             continue
