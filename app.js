@@ -25,7 +25,7 @@
  * @typedef {{ period: string, fetched: string, total_tv: number | null, shares: Record<string, number> }} TvWeek
  * @typedef {{ id: string, name: string, platforms: Record<string, number>, total: number }} PartyPage
  * @typedef {{ video_id: string, title: string, channel: string, published: string, candidates: string[], views: number, url: string }} OwnVideo
- * @typedef {{ last_updated: string, own_videos: OwnVideo[], party_pages: PartyPage[], tv_weekly: TvWeek | null, today: string, candidates: Candidate[], parties: Party[], influencers: Influencer[], youtube: YouTube, projection: Projection[], history: HistoryEntry[], polls: Poll[], media_daily: MediaDay[], media_by_outlet: Record<string, Record<string, number>>, events: CampaignEvent[], followers: Followers, interviews: Interview[], interview_summary: InterviewSummary, interviews_found: InterviewFound[], radio_france: { rows: { candidate: string, date: string, emission: string, station: string, title: string, subject: 'oui' | 'partiellement' | 'non' }[] }, sources: Sources, parameters?: Record<string, number> }} LiveData
+ * @typedef {{ last_updated: string, own_videos: OwnVideo[], party_pages: PartyPage[], tv_weekly: TvWeek | null, today: string, candidates: Candidate[], parties: Party[], influencers: Influencer[], youtube: YouTube, projection: Projection[], history: HistoryEntry[], polls: Poll[], media_daily: MediaDay[], media_by_outlet: Record<string, Record<string, number>>, events: CampaignEvent[], followers: Followers, interviews: Interview[], interview_summary: InterviewSummary, interviews_found: InterviewFound[], media_monthly: { months: string[], candidates: Record<string, number[]> }, radio_france: { rows: { candidate: string, date: string, emission: string, station: string, title: string, subject: 'oui' | 'partiellement' | 'non' }[] }, sources: Sources, parameters?: Record<string, number> }} LiveData
  */
 
 /** @type {LiveData} */
@@ -475,7 +475,7 @@ function buildPickers() {
     $(`pick-${chart}`).innerHTML = chartPicker(chart, options, isMain);
   };
   mount('pollChart', candidates, mainCandidate);
-  mount('mediaChart', candidates, mainCandidate);
+  mount('monthChart', candidates, mainCandidate);
   mount('followersCandChart', candidates, mainCandidate);
   mount('followersPartyChart', parties, everything);
   mount('ytCandChart', candidates, mainCandidate);
@@ -567,7 +567,7 @@ function wireChartControls() {
 function renderAll() {
   renderPlatformCharts();
   renderPollChart();
-  renderMediaChart();
+  renderMonthChart();
   renderFollowers();
   renderYouTube();
   renderInterviews();
@@ -748,20 +748,21 @@ function renderPollChart() {
   });
 }
 
-function renderMediaChart() {
-  const cands = data.candidates.filter(c => picked('mediaChart').has(`cand:${c.id}`));
-  const md = data.media_daily || [];
-  const labels = md.map(d => d.date);
+/** Articles par mois et par candidat (titre sur le candidat, médias retenus), sous la matrice des médias. */
+function renderMonthChart() {
+  const mm = data.media_monthly || { months: [], candidates: {} };
+  const cands = data.candidates.filter(c => picked('monthChart').has(`cand:${c.id}`));
+  const labels = mm.months.map(m => {
+    const label = new Date(m + '-01T12:00:00').toLocaleDateString(LOCALES[lang], { month: 'short', year: 'numeric' });
+    return label;
+  });
   const datasets = cands.map(c => ({
-    label: c.name, data: md.map(d => d.candidates[c.id]?.articles ?? 0),
-    borderColor: c.color, backgroundColor: c.color, borderWidth: 2.5, pointRadius: md.length < 10 ? 4 : 0,
+    label: c.name, data: mm.candidates[c.id] || mm.months.map(() => 0),
+    borderColor: c.color, backgroundColor: c.color, borderWidth: 2.5, pointRadius: mm.months.length < 10 ? 4 : 2,
     pointHoverRadius: 5, tension: 0.25,
   }));
-  $('mediaChartNote').textContent = md.length
-    ? t('media.since', { date: shortDate(md[0].date) })
-    : t('media.none');
-  if (charts.media) charts.media.destroy();
-  charts.media = new Chart(canvas('mediaChart'), {
+  if (charts.monthChart) charts.monthChart.destroy();
+  charts.monthChart = new Chart(canvas('monthChart'), {
     type: 'line', data: { labels, datasets },
     options: lineOptions('', { legend: true, tooltipLabel: (/** @type {any} */ item) => ` ${item.dataset.label} : ${item.parsed.y} ${t('unit.article', { n: item.parsed.y })}` }),
   });

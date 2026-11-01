@@ -122,7 +122,7 @@
 
     <div id="projection" class="scroll-mt-28"></div>
     <!-- Projection -->
-    <details open class="bg-white p-6 rounded-2xl shadow-sm border border-slate-200 space-y-3 group">
+    <details class="bg-white p-6 rounded-2xl shadow-sm border border-slate-200 space-y-3 group">
       <summary class="cursor-pointer list-none flex flex-wrap justify-between items-start gap-3 focus-visible:outline focus-visible:outline-2 focus-visible:outline-indigo-600 rounded-lg">
         <div class="flex flex-wrap items-baseline gap-2">
           <h2 class="text-base font-bold text-slate-900" data-i18n="proj.title">Projection du 1er tour</h2>
@@ -151,7 +151,7 @@
     <div id="charts" class="scroll-mt-28"></div>
     <!-- Graphiques -->
     <div class="grid grid-cols-1 gap-6">
-      <details open class="bg-white rounded-2xl p-6 shadow-sm border border-slate-200 space-y-4 group">
+      <details class="bg-white rounded-2xl p-6 shadow-sm border border-slate-200 space-y-4 group">
         <summary class="cursor-pointer list-none flex flex-wrap justify-between items-start gap-3 focus-visible:outline focus-visible:outline-2 focus-visible:outline-indigo-600 rounded-lg">
           <div>
             <h2 class="text-base font-bold text-slate-900" data-i18n="poll.title">Moyenne des sondages (%)</h2>
@@ -161,17 +161,6 @@
         </summary>
         <div id="pick-pollChart"></div>
         <div class="relative h-[420px] w-full"><canvas id="pollChart" role="img" data-i18n-attr="aria-label:chart.poll"></canvas></div>
-      </details>
-      <details open class="bg-white rounded-2xl p-6 shadow-sm border border-slate-200 space-y-4 group">
-        <summary class="cursor-pointer list-none flex flex-wrap justify-between items-start gap-3 focus-visible:outline focus-visible:outline-2 focus-visible:outline-indigo-600 rounded-lg">
-          <div>
-            <h2 class="text-base font-bold text-slate-900" data-i18n="media.title">Couverture médiatique (articles par jour)</h2>
-            <p class="text-[11px] text-slate-500" id="mediaChartNote" data-i18n="media.help">Articles des flux RSS qui traitent du candidat, selon l'analyse de Claude.</p>
-          </div>
-          <span class="text-xs font-bold text-indigo-600 transition group-open:rotate-180" aria-hidden="true">▼</span>
-        </summary>
-        <div id="pick-mediaChart"></div>
-        <div class="relative h-[420px] w-full"><canvas id="mediaChart" role="img" data-i18n-attr="aria-label:chart.media"></canvas></div>
       </details>
     </div>
 
@@ -184,6 +173,12 @@
       <div class="mt-4 space-y-4">
         <p class="text-[11px] text-slate-500" data-i18n="exposure.help">Nombre d'articles de chaque média retenu qui citent le candidat. Il s'agit d'une mesure de présence, sans notation de la tonalité.</p>
         <div class="overflow-x-auto"><table class="text-xs num" id="outletTable"></table></div>
+        <div class="space-y-2 pt-2">
+          <h3 class="text-sm font-bold text-slate-800" data-i18n="monthly.title">Articles par mois</h3>
+          <p class="text-[11px] text-slate-500" data-i18n="monthly.help">Nombre d'articles par mois dont le titre porte sur le candidat, dans les médias retenus.</p>
+          <div id="pick-monthChart"></div>
+          <div class="relative h-[320px] w-full"><canvas id="monthChart" role="img" data-i18n-attr="aria-label:chart.media"></canvas></div>
+        </div>
         <div class="flex items-center gap-2 text-[11px] text-slate-500" aria-hidden="true">
           <span data-i18n="exposure.low">Peu d'articles</span>
           <span class="h-3 w-40 rounded" style="background: linear-gradient(90deg, #232A4A, #1A0B2E, #7A1A3A, #B65A4E, #F5A86E)"></span>
@@ -216,7 +211,7 @@
 
     <div id="networks" class="scroll-mt-28"></div>
     <!-- Abonnés réseaux sociaux -->
-    <details open class="bg-white p-6 rounded-2xl shadow-sm border border-slate-200 space-y-4 group">
+    <details class="bg-white p-6 rounded-2xl shadow-sm border border-slate-200 space-y-4 group">
       <summary class="cursor-pointer list-none flex flex-wrap justify-between items-start gap-3 focus-visible:outline focus-visible:outline-2 focus-visible:outline-indigo-600 rounded-lg">
         <div>
           <h2 class="text-base font-bold text-slate-900" data-i18n="followers.title">Total cumulé tous réseaux (TikTok, Instagram, X, Facebook)</h2>
@@ -355,7 +350,7 @@
 
     <div id="events" class="scroll-mt-28"></div>
     <!-- Événements -->
-    <details open class="bg-white p-6 rounded-2xl shadow-sm border border-slate-200 space-y-4 group">
+    <details class="bg-white p-6 rounded-2xl shadow-sm border border-slate-200 space-y-4 group">
       <summary class="cursor-pointer list-none flex flex-wrap justify-between items-start gap-3 focus-visible:outline focus-visible:outline-2 focus-visible:outline-indigo-600 rounded-lg">
         <div>
           <h2 class="text-base font-bold text-slate-900" data-i18n="events.title">Événements marquants</h2>

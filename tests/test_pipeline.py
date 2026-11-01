@@ -97,6 +97,17 @@ class OutletMatrixTest(unittest.TestCase):
         self.assertEqual(matrix, {"Le Monde": {"x": 1}})
 
 
+class MonthlySubjectsTest(unittest.TestCase):
+    def test_counts_per_month_and_fills_gaps(self):
+        cands = [{"id": "x", "name": "Gabriel Attal", "aliases": ["Attal"]}]
+        days = {"2026-08-30": [{"outlet": "Le Monde", "title": "Attal annonce", "summary": ""}],
+                "2026-10-02": [{"outlet": "Le Monde", "title": "Attal relance", "summary": ""},
+                               {"outlet": "Blog inconnu", "title": "Attal lance", "summary": ""}]}
+        out = model.monthly_subjects(days, cands)
+        self.assertEqual(out["months"], ["2026-08", "2026-09", "2026-10"])
+        self.assertEqual(out["candidates"], {"x": [1, 0, 1]})
+
+
 class MentionTest(unittest.TestCase):
     def test_accent_insensitive_word_match(self):
         art = {"title": "Melenchon répond à Édouard Philippe", "summary": ""}

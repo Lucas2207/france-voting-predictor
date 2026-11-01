@@ -115,6 +115,30 @@ def outlet_matrix(days, candidates, on, window=MEDIA_RECENT):
     return acc
 
 
+def monthly_subjects(days, candidates):
+    """Articles dont le titre porte sur un candidat, par mois, pour les médias retenus (mêmes critères que la matrice)."""
+    from .news import tag_mentions
+
+    counts = {}
+    for day, articles in days.items():
+        for a in articles:
+            if canonical_outlet(a.get("outlet")) is None:
+                continue
+            for cid in tag_mentions({"title": a.get("title") or "", "summary": ""}, candidates):
+                month = day[:7]
+                counts.setdefault(cid, {}).setdefault(month, 0)
+                counts[cid][month] += 1
+    if not days:
+        return {"months": [], "candidates": {}}
+    first, last = min(days)[:7], max(days)[:7]
+    y, m = int(first[:4]), int(first[5:7])
+    months = []
+    while f"{y:04d}-{m:02d}" <= last:
+        months.append(f"{y:04d}-{m:02d}")
+        y, m = (y + 1, 1) if m == 12 else (y, m + 1)
+    return {"months": months, "candidates": {cid: [counts[cid].get(mo, 0) for mo in months] for cid in counts}}
+
+
 def daily_media(days, candidates):
     """Série quotidienne : nombre d'articles de médias retenus qui citent chaque candidat."""
     series = []

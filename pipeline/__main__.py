@@ -283,6 +283,7 @@ def main():
         "history": history,
         "polls": [p for p in poll_data["polls"] if p["end_date"] >= (today - timedelta(days=HISTORY_DAYS)).isoformat()],
         "media_daily": model.daily_media(days, candidates),
+        "media_monthly": model.monthly_subjects(days, candidates),
         "interviews_found": interview_titles.find_interviews(days, candidates),
         "radio_france": _load(Path("data/radio_france.json"), {"rows": []}),
         "media_by_outlet": model.outlet_matrix(days, candidates, today, window=(today - START_DATE).days + 1),
