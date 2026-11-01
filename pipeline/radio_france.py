@@ -22,6 +22,12 @@ SOURCES = {
     "retailleau": "radio-france-bruno-retailleau-emissions.md",
     "lisnard": "radio-france-david-lisnard-emissions.md",
     "roussel": "radio-france-fabien-roussel-emissions.md",
+    "arthaud": "radio-france-dossiers/nathalie-arthaud/README.md",
+    "ruffin": "radio-france-dossiers/francois-ruffin/README.md",
+}
+# relevés sans émission (dossier vide) : le candidat est tout de même compté comme relevé
+EMPTY_SURVEYS = {
+    "dupontaignan": "radio-france-dossiers/nicolas-dupont-aignan/README.md",
 }
 OUTPUT = Path("data/radio_france.json")
 SUBJECTS = {"Oui": "oui", "Partiellement": "partiellement", "Non": "non"}
@@ -69,8 +75,11 @@ def build(root=Path(".")):
     rows = []
     for candidate, name in SOURCES.items():
         rows += parse_markdown((root / name).read_text(encoding="utf-8"), candidate)
+    surveyed = list(SOURCES) + list(EMPTY_SURVEYS)
+    for candidate, name in EMPTY_SURVEYS.items():
+        rows += parse_markdown((root / name).read_text(encoding="utf-8"), candidate)
     OUTPUT.parent.mkdir(parents=True, exist_ok=True)
-    OUTPUT.write_text(json.dumps({"rows": rows}, ensure_ascii=False, indent=1), encoding="utf-8")
+    OUTPUT.write_text(json.dumps({"surveyed": surveyed, "rows": rows}, ensure_ascii=False, indent=1), encoding="utf-8")
     return rows
 
 

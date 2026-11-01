@@ -25,7 +25,7 @@
  * @typedef {{ period: string, fetched: string, total_tv: number | null, shares: Record<string, number> }} TvWeek
  * @typedef {{ id: string, name: string, platforms: Record<string, number>, total: number }} PartyPage
  * @typedef {{ video_id: string, title: string, channel: string, published: string, candidates: string[], views: number, url: string }} OwnVideo
- * @typedef {{ last_updated: string, own_videos: OwnVideo[], party_pages: PartyPage[], tv_weekly: TvWeek | null, today: string, candidates: Candidate[], parties: Party[], influencers: Influencer[], youtube: YouTube, projection: Projection[], history: HistoryEntry[], polls: Poll[], media_daily: MediaDay[], media_by_outlet: Record<string, Record<string, number>>, events: CampaignEvent[], followers: Followers, interviews: Interview[], interview_summary: InterviewSummary, interviews_found: InterviewFound[], media_monthly: { months: string[], candidates: Record<string, number[]> }, radio_france: { rows: { candidate: string, date: string, emission: string, station: string, title: string, subject: 'oui' | 'partiellement' | 'non' }[] }, sources: Sources, parameters?: Record<string, number> }} LiveData
+ * @typedef {{ last_updated: string, own_videos: OwnVideo[], party_pages: PartyPage[], tv_weekly: TvWeek | null, today: string, candidates: Candidate[], parties: Party[], influencers: Influencer[], youtube: YouTube, projection: Projection[], history: HistoryEntry[], polls: Poll[], media_daily: MediaDay[], media_by_outlet: Record<string, Record<string, number>>, events: CampaignEvent[], followers: Followers, interviews: Interview[], interview_summary: InterviewSummary, interviews_found: InterviewFound[], media_monthly: { months: string[], candidates: Record<string, number[]> }, radio_france: { surveyed?: string[], rows: { candidate: string, date: string, emission: string, station: string, title: string, subject: 'oui' | 'partiellement' | 'non' }[] }, sources: Sources, parameters?: Record<string, number> }} LiveData
  */
 
 /** @type {LiveData} */
@@ -899,7 +899,8 @@ function renderRadioFrance() {
     matrix[r.station] = matrix[r.station] || {};
     matrix[r.station][r.candidate] = (matrix[r.station][r.candidate] || 0) + 1;
   });
-  const cands = data.candidates.filter(c => rf.rows.some(r => r.candidate === c.id));
+  const surveyed = rf.surveyed || [...new Set(rf.rows.map(r => r.candidate))];
+  const cands = data.candidates.filter(c => surveyed.includes(c.id));
   renderMatrix('radioFranceMatrix',
     Object.keys(matrix).map(st => ({ key: st, label: st })),
     cands.map(c => ({ key: c.id, head: candidateHead(c) })),
