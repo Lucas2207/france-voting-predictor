@@ -1,5 +1,29 @@
 [
  {
+  "id": "fae91c580e67382d",
+  "outlet": "Linternaute.com",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZVN4S2Z0NFpEQ3RIV2YyaEFocFlVWVZmaV9nMEJuWW5HZUFPbU5HWXNfTVdGVWt3V3dUUk1kMWhvMWFoUU55TjZ2VlZ6MWg5QTNQcDQ2aFBoR21jWElHV0htOVhnenFzRVBQZ1l2cHN1Qml4Qm82S29sSE5KWS1VaERYVTRoY1hjTTJsV1JpQ3lEazNYSldFUHhVTWk0SEk?oc=5",
+  "title": "L'interview - Jean-Luc Mélenchon, à la tv",
+  "summary": "",
+  "published": "2026-10-10T00:31+02:00",
+  "mentions": [
+   "melenchon"
+  ]
+ },
+ {
+  "id": "ee46ba918e628c54",
+  "outlet": "maville.com",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQRHp4aXVZR1dRY1RyOUlicFkyM2FyYVdvNWs3Y3gzVENqRUQ5MnBrQkp3XzRRTk1SS21xZzRZQnl5ME5fYzBNU19qV190bVdaNnFJRkI1S0tfS05qSGQ5MEtESlZhZUJpYUlRcW5YVGpJdnZ6cHJhbzBySVd3bzBLN21zN0xPZUZ5cWxXTFZHTGY1QVhmczl6d1lXdlVnTDdyeE5BU2d3YzJRbEtLdVRDM3NLTDU5YUpzc2tzQ1ZKUDBvS0psbl85cFFGbGtDWXMybWRkZElTRFV2MU9PZmRSVTEtRUExRGNDa0xiTDRGOWdGT2lVLU9tc0o4UHhZdlhfLUVFSkxOQ0U?oc=5",
+  "title": "ENTRETIEN. Pour Bruno Retailleau, candidat à la présidentielle, « il faut une refonte complète du système éducatif",
+  "summary": "",
+  "published": "2026-10-10T08:01+02:00",
+  "mentions": [
+   "retailleau"
+  ]
+ },
+ {
   "id": "0a055a96c16f6ba0",
   "outlet": "franceinfo",
   "lean": "centre",
@@ -468,5 +492,124 @@
    }
   ],
   "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "1848803614c84f4f",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxPUV9qSlFrZkFSNEJfbTlaczJCLXZ3WFJjei1ZbmJxSjc0WVBaTkZoVkNWbnRDM2lXeGpkc0ZpMVJpS21wRDFNQ3A3TVNvNEhwSVpvc0pmVG01V2ZrX1dRY3dJQkwzSFF3b3FlZ2pQM3ZwMlRTSlc0NzZCdmlRcF9NTUZZcERITHJQUTdBOFVHcFNrQU9uR1UtS0pqSmhlS3UtVDdnQnBjY3N1UDVBdTYxdmtZbkVCR25BbF8tcF9QeTR0UTRsa1hYZGRQbzhGY3FVVUd4OXZxdGVkTmJEbjJfUHB0b3F4M3ZEVDRmM2YybHdrVnJQMktVRWJYQnRiZl9VSVVTVTVsUU1CeHlRc095YWF5ZHUtRk02a2hMclJ3?oc=5",
+  "title": "Richard Ferrand met en garde ceux qui, comme Marine Le Pen ou Bruno Retailleau, aimeraient faire du référendum une arme contre l’État de droit",
+  "summary": "",
+  "published": "2026-10-10T09:00+02:00",
+  "mentions": [
+   "lepen",
+   "retailleau"
+  ]
+ },
+ {
+  "id": "166a6e525f59a918",
+  "outlet": "L'insoumission",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5lanhmZW9jRWtlT1pvMDNyYklJLUJ2elhKT1VVOW4zQ2FRd2FOVGFVWjhOeW9tNTRYV3lCVHdOazhIbVhFRy15SWVkVS1fOXpkZldiZ1RoTVhERXB2X1lpVGpyUjNTOG02eGtqSEU1VGlhUXZaeFE?oc=5",
+  "title": "« Nous abolirons Parcoursup » – L’entretien de Jean-Luc Mélenchon au groupe EBRA",
+  "summary": "",
+  "published": "2026-10-10T09:00+02:00",
+  "mentions": [
+   "melenchon"
+  ]
+ },
+ {
+  "id": "ee8ba0700b3ef27a",
+  "outlet": "La Montagne",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNVDROR1ZmVS1qWUlBOHNvcHVSWkRHQTdobXlBTjdDWUdHNGFpYlZGZHdWZV8tcExncjg2VE9FWTF1YVRkS0ZQV3hJa0pQTEU2Zk9kZjUwR3VISzllUzVROThCRnp4OGw3ZENfdFRxSkhZZWNycFFRUHR3d203QVBFMDFmdE4tdG5NQ2lXVUFtMnFwUWJkS1R5aHJDNjJxaTYwNnpISkRiZ1U0NWdOa09VYU83cUZrMUM5S0F3Z1Bxb2E4UFg3blM0SnBXeExrNGcwc0VwcUNpVzJFTzl1RVdaNWEzX0ZVY3d6UlNsaXpB?oc=5",
+  "title": "Jean-Luc Mélenchon annonce un meeting \"fondateur\" ce dimanche au Zénith d'Auvergne : à quoi s'attendre",
+  "summary": "",
+  "published": "2026-10-10T09:00+02:00",
+  "mentions": [
+   "melenchon"
+  ]
+ },
+ {
+  "id": "ea29974e0ad6640f",
+  "outlet": "Libération",
+  "lean": "centre-gauche",
+  "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPdm9sbGYwNmhMUHlyOGhQWmM3Znllci1HdEZXSk82a3NBVC1KSjFvTVNlNzQtYnh1UWFGTWVIZmo0aDdsQThvcXJlR2ticUQ0MjIwT1hieUtIWjFNSDhWenZaZmh3ekJPQ2d5RlBxM1AxUHJhd2E4anN4YjBhQ01VUU9JSEVaR09hdU5xVVZTZHo3STFXMnpuRmdaSmxUVnhOWWRPWkN4WXRRMnlhRzFDQUt1enRrQ2JscnRnVmsxSm1nRVhBSGtRSG5MUUo5V0NfNEVYcmEzemt5ajlsUXh6elA0azhvUzA?oc=5",
+  "title": "Face à LFI, Gabriel Attal dégaine son «pacte pour la jeunesse» en meeting à Lyon",
+  "summary": "",
+  "published": "2026-10-10T09:00+02:00",
+  "mentions": [
+   "attal"
+  ]
+ },
+ {
+  "id": "720f1281741af08a",
+  "outlet": "TF1 Info",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONnRCbTl2empyMDNCWUJ5NGc4RzFsVU9DV0VZbDRzcTB2NENkZHB2SnBMTDE3Z3c1b2UxcHZ5SjVVdVJ1eEp4aDlwRlB4ZzFTZmlzM0VabmJFWHladnI5RTZIYXE4bU42S0RJVFVVMVZiSzBjeXpRRGQtRFNfV0ZHZDR5YXBUYmZiX1B2a2hIRHRmVGhiaDBWdFJaOTNlRERiLWJnV1FzT2FpX1JrNEdrM2REZHpfZHNGbkE?oc=5",
+  "title": "Dans les coulisses du meeting à Lyon de Gabriel Attal",
+  "summary": "",
+  "published": "2026-10-10T09:00+02:00",
+  "mentions": [
+   "attal"
+  ]
+ },
+ {
+  "id": "34cb487475cc558f",
+  "outlet": "Ouest-France",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOWFNrMUEwTUZ1VmVTc2E3ZFZHZnRYSmdoRVJ1UTZwTzZzR3U0SjhSZ1NtMmpwcGlMSEFtUGF5V2g2OVpkdnNMYXlfZlNFQndJRlVPVENkMHA5TkFPSFNBbnQwcGk0M3l2WlRlcHUyVEh5M1RtVEU5Z3dwc2Zzd1JZQkhBS2FKaXd3ZExWSG9fSkFyblpPNHRBV2FJUVYwNEVacGJoNVpPN2xGZVVzQVBSX3BFMlFMZjBZa2pQRmlaelJyZExnelZReGpxX194MjF3a3ZKZzdCSENYS2lXc2VMUkNJelpYdktYYnBFV2ZUSW5HMmR5S2N1TlRkalRJa1ZVejYxVGxjLUNINlBfSkNoY05BZ1dPSkFTNUtBYmNLNFp2REJtRTc1VA?oc=5",
+  "title": "ENTRETIEN. Pour Bruno Retailleau, candidat à la présidentielle, « il faut une refonte complète du système éducatif »",
+  "summary": "",
+  "published": "2026-10-10T09:00+02:00",
+  "mentions": [
+   "retailleau"
+  ]
+ },
+ {
+  "id": "e747b24fb3e73bac",
+  "outlet": "Yahoo Actualités",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNY3ZzM1dSMGxVODJXaUdXczR6VUF6NmlNRDlxVE9nMFQySUYtaTNBeEpadnNCXzRtclZWVWNRWjlYM2YtWkhrYmxtdUhEcjc5c2t2Z0w0RFQ4dWdGS2tUT0MxMXVGVXdURlUwdEFjV3FYMnhDSWRGaUJEMEZFTkZNZVZqWHFiOGNWSEQ0ZlRxQkpwX0R2WVE?oc=5",
+  "title": "Colère des lycéens: un sénateur LR souhaite \"supprimer Parcoursup\", déplorant une \"opacité inacceptable\"",
+  "summary": "",
+  "published": "2026-10-10T09:00+02:00",
+  "mentions": []
+ },
+ {
+  "id": "9010968db0995a19",
+  "outlet": "21News",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVWRoYmYyLXlwMHgwR1c5S3ZFbzl5VG9CZmhYZHpTME1DQ1ZxM0ZqVzNxbzNPdDFwSU1fQUZVTVZabVZwQzl1bXBGeFVlV0NHMzY0MlAxV0dKYXZLRlU5amNSaC1KMEYzRmJMY19udEpiNVE2ZHpnSXhWVkIyN0JmemgtcFhJOWZPRVd5ZjhLYXRwNWxzdzRGQkM5ZUpWWG5jSG9QTlF0QU8zOFo3ZWhKcHpZbldUZw?oc=5",
+  "title": "« Une droite républicaine, moderne, qui s'assume » : Michel Barnier voit en Retailleau l'homme de 2027",
+  "summary": "",
+  "published": "2026-10-10T09:00+02:00",
+  "mentions": [
+   "retailleau"
+  ]
+ },
+ {
+  "id": "6d8aaac540e16044",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUG50WkkyalA2RldfczZENE0tM08zb0F6U3NtcUdkWE1VVk8tVGZsbHdiSnRyYzNRMmdyc29Pc0FjbHJNTWlfMVktQnRvSnpfOTROSDQ0Y0owak9aSHBPVWJxU21EWFlVdjVFVF9Gbi16dU1qM1VCaXBXSENHR0NWWUNBMjc5d2pqNEhEZllTQXZlQ0tzVHRRTFFlbXdGSmg0NWp3MGx2RG9aVkExSmk0ODQ2eGhpM1ZOZDZz?oc=5",
+  "title": "David Lisnard invité de BFMTV - 10/10",
+  "summary": "",
+  "published": "2026-10-10T09:00+02:00",
+  "mentions": [
+   "lisnard"
+  ]
+ },
+ {
+  "id": "d8e73c32cb0c7a64",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQTUU2RHFHS2ZhM2w2MnhYVlM4Tm1NR21WVzlPZmptTy16SC1vWkV4U0NFRTZqMWZJVHk2cGNwQmp3bm9tRkhxVnJ3VFdFUklrLWYweUVDM043eWhiSFlOYTR6OGFKc2cxaHNBcFlzcEJpQ1Y3X0hNVkI2OUJkcGUxeHV1bzhBNzVkcFFOMVZYbmpnU185X3BPdnYxbXlZM3lfM2FORV9FOWxzRmJTZGNTeFpOdXUtX2lEZ1FvUVhoNGp3elJhSndDODA0UEo0MThtUG1FdnFYUkVVM21rMnBBZU1VS3Y2ZDdsOXFqNlRzRndZUGdXS1JGUE1DbUlET2V0RmU5eA?oc=5",
+  "title": "David Lisnard, candidat à la présidentielle, \"souhaite\" une primaire de la droite et du centre",
+  "summary": "",
+  "published": "2026-10-10T09:00+02:00",
+  "mentions": [
+   "lisnard"
+  ]
  }
 ]

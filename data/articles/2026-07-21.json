@@ -344,5 +344,27 @@
    }
   ],
   "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "4d81af4d06b1d641",
+  "outlet": "CNews",
+  "lean": "droite",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRmkwWS1Iem9hRkhkOE5ITjg4V3hiWmUzX3ZZN3EtQ3g3RHR0TmpGSFN1Szh4d3lHeEpENmZtLWZ0N2Y5LW1iczhSYU5DTm1UVFFxRWIzbmdGRkdHMVJoT2RGQ0tQRE1MMlYxd0Z2NG9CcFByaE9RSVlmR2ZpVmtmZ1hEb1ZSVGxZUUtzNGc2QjlVY0Q2Q1d3Y1RIeGhrMWRLdTRFc3EwTVE0WkZBd1HSAbMBQVVfeXFMUDlubzlwVWNaMnBOdEpwMGZ4a3dYWE5fQTdiN1dfN3dkU0dJaEpMR2tHQmQ3QnBTODk3WG9wY3RvS3NrZnZPVUpTZE1pd0RZT0hCRWNJWTcwbGYyNUJ4SGJSM25kVE5fLTNqeENfQnI3VHhTdmxwMHRZdmMtZlVkQko2dHNhemFZMmQzUUtZTWxLZWJvUlFhR2QyVFFCWE93a2Z6NnBQV1ZCckdqUlEwRFpLME0?oc=5",
+  "title": "Présidentielle 2027 : «Edouard Philippe est le candidat de la maîtrise de l'immigration et de la sécurité», assure Naïma Moutchou",
+  "summary": "",
+  "published": "2026-07-21T09:00+02:00",
+  "mentions": [
+   "philippe"
+  ]
+ },
+ {
+  "id": "3334db3c3f71860f",
+  "outlet": "l'Opinion",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNFNWeDhyOFd2UHQ2M3hWRThCaTUtUGM5MmNiM29uMGJhZWc0cGZycVRKeDVvZnVGb2NuZ05kbnlrbEh3U2tRdkpFSDZ1ZGpFOUVqMWtPVThwVHNoRFVBa1VYdjhZOHAzQTcxWlBpRWJDcU13M1hSRjNySy1zMGlqUHhlZHl0Z1R4NWdBWVZFcmQzcnI5S0NNUWJHR1ZzRHhlMllR?oc=5",
+  "title": "Sébastien Lecornu, le « moine soldat », prend la lumière dans Paris Match",
+  "summary": "",
+  "published": "2026-07-21T09:00+02:00",
+  "mentions": []
  }
 ]

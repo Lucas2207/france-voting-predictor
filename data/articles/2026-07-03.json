@@ -1,5 +1,15 @@
 [
  {
+  "id": "9ffa4fe2339ff358",
+  "outlet": "France Culture",
+  "lean": "non classé",
+  "url": "https://www.radiofrance.fr/franceculture/podcasts/l-info-culturelle-reportages-enquetes-analyses/demeure-a-pantin-une-exposition-d-art-d-autant-plus-inedite-dans-un-cimetiere-qu-il-s-agit-du-plus-grand-de-france-4642257",
+  "title": "'Demeure' à Pantin, une exposition d'art \"d’autant plus inédite\" dans un cimetière qu’il s’agit du plus grand de France",
+  "summary": "L'immense cimetière parisien de Pantin accueille pendant six mois des œuvres contemporaines, le long d'une de ses allées végétalisées. En entrant en dialogue avec les sépultures, l'exposition 'Demeure' permet de \"faire vivre le patrimoine funéraire\", selon l'historien de l'art Arnaud Schoonheere.",
+  "published": "2026-07-03T08:30+02:00",
+  "mentions": []
+ },
+ {
   "id": "015ab4e877085678",
   "outlet": "Valeurs actuelles",
   "lean": "droite",
@@ -1361,5 +1371,122 @@
    }
   ],
   "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "8b8c203b38590f15",
+  "outlet": "Mediapart",
+  "lean": "gauche",
+  "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQRFk4ZlVOMEpnMi15QW9rcDVYQ25pZHlvbkFFRDY4V3N0LVl3YllyMDJWbE1kYUk1RUhhWVhMdElrNi1xVzg3TE1Ycnh4dEJ1ZnJMekM2V3NLWFlscC01UzRRME5JSlpWLUhyNWc2VGNMeGFwaFBIOHNneWJIaXFWcWhSckN1X2tmaU1NWlpQS29WMUJjcDlackNFSy1VY3Z4bGZjNW9pQTZzSDhOejY0TGprdUt3MjAwUi11NTdXaEJIeG9MM3VvWmZhUlgxNUpVQ1dScnNXcmU2VEVCY01ma2NHZFpVVml4?oc=5",
+  "title": "Radio France livre les rushs d’une interview de Le Pen au RN et crée un nouveau malaise à France Culture",
+  "summary": "",
+  "published": "2026-07-03T09:00+02:00",
+  "mentions": [
+   "lepen"
+  ]
+ },
+ {
+  "id": "f2818fa72c844885",
+  "outlet": "www.lamarseillaise.fr",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMW03ZDZmYkpSU0U0Z2lrTzN5U0xuMXZUMzl5OEV5M0JvNzA4dWJGSXlrYU1kWC0zNnNLZGlwcl8yTmNVSHdKQ3JMLVB2bmQzNXNNMFRDdGtEVXd4UlZhTnJ4OWpZajh4VURZT0Z0elhFMWlsbkxKMFNBT0tCZ1BMZWlfWFBPNFhkenhGRVhLUXF3dnVpcE1KZVpSSkx4NV9oNjMxZm1vbHZuRXl6eER0MXMwTDJmMEJNT0NIS3F2bS1nR2g5QnFn?oc=5",
+  "title": "[Entretien] Jean-Marie Battini, NPA : « Jean-Luc Mélenchon est un réformiste radical »",
+  "summary": "",
+  "published": "2026-07-03T09:00+02:00",
+  "mentions": [
+   "melenchon"
+  ]
+ },
+ {
+  "id": "fdbbe69508e5096c",
+  "outlet": "mesinfos",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeFFoakl5NFJ4ckxKQjRBdDcxaUt5OXBSaFdzTkpwNEhWcVV0Y1c1Wm8yeDNFNmFUNWp3TEdXVUhsYzl0OFIyYjhGRDNRdk1KWWlTMG5iRnpYdnQ5VDFlRjQxdkgwVlBmUmxHNndZd0pmVUNLUWZBWnlwbHpUZ2laTndydXhzUWd5NktaRmFhdTk0WXlWNEZBWjJLd2tLOVhlVVJaWl85bzVLWFdLb2RSQmZiZ1RYQjN5?oc=5",
+  "title": "Présidentielle 2027 : le quasi ralliement de Wauquiez à Philippe suscite la controverse",
+  "summary": "",
+  "published": "2026-07-03T09:00+02:00",
+  "mentions": []
+ },
+ {
+  "id": "48b5062248d05ccb",
+  "outlet": "Le Figaro",
+  "lean": "droite",
+  "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNdHRiQ2xSMUpZVzlDazM2VXZCX0UxUnByaDJUM2pXVVkzLTNkU0pIT3ViMzhOem5VT2ZDRVZQZm1NeUhWRUY5STBLRHpOTlVzRTVyN2JuRllZS0x0NWkzZ2FKeFg4c2hoSUxQMWJGU3d3aHZNS1RLWjVlLXcyYVJCeVQtd2dlM0ExLWYxbkFGUzRZdzhqZGdnRHRWOFZNWTdMbFJMVWUxZVFicEpPbE00bjBWSmhBbkxBYXJpd3dBbGhWRkk3Skl6aThjOGNfUHFBcDVMZHpUUVpJUzZCZkMzOHVEZ1FKZ2pC?oc=5",
+  "title": "Présidentielle 2027 : Édouard Philippe toujours préféré à Gabriel Attal malgré une image dégradée dans l’opinion",
+  "summary": "",
+  "published": "2026-07-03T09:00+02:00",
+  "mentions": [
+   "philippe",
+   "attal"
+  ]
+ },
+ {
+  "id": "4b66c0f8fc5908b0",
+  "outlet": "attalpresident.fr",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTWh3dlliTTdqNkExT3poN19jbXZOS0JCSmxVWlhKSHVHZXJ1OU9wdkRuTDNrYkE0dTRmMzllYjFKbGxRcVRuWGdza3ZfQXJHaVhpU2ZndVl0Q21uZ3A4X0E1RTR3VlBTT21tS3p5TFlwaFVrWGZuODBGUmdlbkt5RU56dHd0X2ZwMU9JM20zR1NCNmg3ZWI5anlXeHg?oc=5",
+  "title": "Dans Le Parisien : Gabriel Attal vise le zéro déficit en 2037",
+  "summary": "",
+  "published": "2026-07-03T09:00+02:00",
+  "mentions": [
+   "attal"
+  ]
+ },
+ {
+  "id": "5a4e4d5122dc978f",
+  "outlet": "Gala",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOdEhQUHZkcm9CdkswZnpldF9uTzNSMWF0c1pJT0I0OXdSYWhmaF9lN0N3VTVkVXlTaWh0cTVKVXdfN3piR0E2S3ptTnRwT2loaVlsTUZqUy1rUVpPbVJSRnBTLTJGQkFuZDZBMWgwWC0wZ1p5SDFHOGdsZUFIalJjTkJLQTBJSzNCYWR6dlcxX2NYYUNPVTlLbXN1WWFwUlgtREt3YUlpVExHdkFsQVhWTm80MkNrSkNBaGNobkZ0akVuVjhPenE4UkZBdjM5RzZNWF81bGZwQkF4YjJFdl93OW5CcVotZw?oc=5",
+  "title": "Gabriel Attal encore marqué par sa nomination au poste de Premier ministre : “Je suis tombé de l’armoire”",
+  "summary": "",
+  "published": "2026-07-03T09:00+02:00",
+  "mentions": [
+   "attal"
+  ]
+ },
+ {
+  "id": "530328c56bc0ef65",
+  "outlet": "RMC",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOSlhKLUhYc0l3a2ZtOC1JUWJPaks0d1hWQ3FPUUoxaF93V1VMR1JVRTJHcmZ0SUZjMVZoS1dEektMeHBXOGZTcm12RXd1UzkzOWZQXzlMeG4tNENuem5RUjBsRC1fYVJfWGxCR1F4ZDZWb1Fia1hhZnR5dDdLZzZQUEM3V2xTc3F3Y0VueU1SakZSVFhtODZfaS1uRWlRQXNEbnhSaFh5eUZlQWRqSTBFV21fVnpaQ1ZmeWJMZGQzYzRESEM4cVFCOEc0S0V6eDNOcVJ6X1JfV2g0dE5lLXRzLTFzWEFCaUQ2V3p0SUJ1eTRMbGlVNmdTOFg1aHdqdWNhWHlGWVYxVkVQZlNIcHc?oc=5",
+  "title": "Fonctionnaires à la porte, retraites... En vue de 2027, Gabriel Attal dévoile ses mesures choc pour ramener le déficit à 0%",
+  "summary": "",
+  "published": "2026-07-03T09:00+02:00",
+  "mentions": [
+   "attal"
+  ]
+ },
+ {
+  "id": "8f943171c413ec80",
+  "outlet": "Acteurs Publics",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbWp0N3JUclNIU210ZG1UNzRnVUpxRVRMVHBpU2h1OXNGNXJHV001aldUdEZxajBabWo0XzdLNmVRUzF5LXVMRHRtbE80cVBtSElzbC12aU1OQ2pKX3BmbmpCSVpaWkdXaEYydXRVeVhsWmJMNWFkYzB2cEhaSmluQlktNmo0REJYbmVTdlNoMkVCQjFVdml5S2VfWVFpU2tqZmprUnQxMnpjZWQ1T3pIeVNiVks0UU1rUjZQWXplb2hCY253YjF5U0tzSzBEZk5hZzVB?oc=5",
+  "title": "Gabriel Attal propose 100 000 fonctionnaires en moins et l'impunité zéro pour les ministres dépensiers",
+  "summary": "",
+  "published": "2026-07-03T09:00+02:00",
+  "mentions": [
+   "attal"
+  ]
+ },
+ {
+  "id": "ace3ec98f69b5c59",
+  "outlet": "Femme Actuelle",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPM3NyTkhlWl9Wd0t4clFBMHlSeUpfY1B3WXByRWZlM3p1X0VKTGlpSURDaTdGSlBxLXE1QmNEa0p1ZV9ucXZ0QTBpZTZKTDJqQjRKRjNiRmpVMlAzaWVDRXN2dnRnUzhYMnRaOVJ5UWlYWU11Z0hVWVNpc2tIQm1sam9LUFFkakZycXJmZzVqM2gtN2dwamg2c3ktM0t3RmIwOXlMU2d3ZzE0Q1Q5cm1PUnFUUkxiMmR1N3RfbzhsWnp4LUh4LVFUclk4cENXaTF5X2NtcEI0UHFIMEZEUWxwWE5fQ0pRa05BcllKZDNR?oc=5",
+  "title": "\"Il ne répondait plus à mes appels\" : cette décision qu'Emmanuel Macron a délibérément cachée à Gabriel Attal",
+  "summary": "",
+  "published": "2026-07-03T09:00+02:00",
+  "mentions": [
+   "attal"
+  ]
+ },
+ {
+  "id": "8ccec75bac4ab692",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNR3dwcUlVeW9uQXllTTl6NFppcmFsRmkyOW1oWDRJc193d2prT0xQZkVZMHlKMmRsbWVKdlQtQm9yY2MySFRjT2Y1dXhQMmRmenowQkcwWG1kdlUwR09YNlN6VmpaTVJLUTZseEE1cWJQajVXcU9rSDRFUEMwOC1PSy13cUpiVE4xUGhSNG1LanVuZFNab3pTSHpOMFV6dXlBSW9hdjlPTE5uYU9i?oc=5",
+  "title": "PODCAST : Face à Face : Jean-François Copé - 03/07",
+  "summary": "",
+  "published": "2026-07-03T09:00+02:00",
+  "mentions": []
  }
 ]

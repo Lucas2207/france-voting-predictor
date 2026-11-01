@@ -1,5 +1,17 @@
 [
  {
+  "id": "9ecc054dbdda62b8",
+  "outlet": "TF1 Info",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1mZm5YSlFySUs2YnNyUjJrVkxyYk1XaEc3Rnl0OWs1VTljc09pdmhtNFpZNDhFRnNjemhuOUtiRzY2SmVrd0phYmRaUmpDcVZRYkk1WDlmN1RLVWRqbU9kVWQtdkVjMG1PeUtTdm9vYW41LXdJZ3c?oc=5",
+  "title": "Le Grand Entretien : Gabriel Attal invité de LCI",
+  "summary": "",
+  "published": "2026-07-02T00:35+02:00",
+  "mentions": [
+   "attal"
+  ]
+ },
+ {
   "id": "084ed5c9f7c59b5c",
   "outlet": "Marianne",
   "lean": "centre",
@@ -706,6 +718,147 @@
    }
   ],
   "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "3e8e3d83e5d4dacf",
+  "outlet": "Marianne",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOeWtGblFzd3BncVFBMU1ybVdJa2huM2FsblZuQW9KNHg1ZFhwanZvZWIyRkZraU1teW00SU1PaTkzMHppUjJVc28tQlpiN3BrdlVqdFNiV0ZOcEN3Nk15bkh5RjN4dU04MnJpQThHUGd5QTZTNDhlcmgxb2VmR1FHUzVyaEUzR1lRNlotT1Zjc2pwU3MyVF9CdzFPTXlTcjYzUXRhMEp1ZktUTGEtMG44V1QtQnBFcEdKTlhvYVZ3enVsTVo2WF8xaGd1dXRxc0xMRDJ4OHFyM2VqQ21sOFNQQXpR?oc=5",
+  "title": "\"Je ne crois plus au hasard\" : avant son jugement, Marine Le Pen clarifie sa position et met la pression sur les juges",
+  "summary": "",
+  "published": "2026-07-02T09:00+02:00",
+  "mentions": [
+   "lepen"
+  ]
+ },
+ {
+  "id": "6f2f318f06475f36",
+  "outlet": "lejdd.fr",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPanBqZWJzSjF0WGFJNzdaenRoS2NmblREMUc1U0Z6YzhnZXhTNjlHSFZRLVpnWEwtVWx6eV9NLWZmaTZlcjZ5M0tuR3hwSzFycUZQOFFVUDAyeWM3LUstc3hNa19zM2hXb0xDdmRYV3pEdHFUU0xPVWxSaVFRTkhrVnFqcGdXNTlaUExia3VIb09LYzhZNGgtRGY0bjdQd01TRU9rdURNM3hDSUhLTmJCcXhnNVRuLXBBVUpSRg?oc=5",
+  "title": "«Un fou furieux» : Arnaud Montebourg appelle à «neutraliser d’urgence» Jean-Luc Mélenchon",
+  "summary": "",
+  "published": "2026-07-02T09:00+02:00",
+  "mentions": [
+   "melenchon"
+  ]
+ },
+ {
+  "id": "5d7820584c594647",
+  "outlet": "Le Figaro",
+  "lean": "droite",
+  "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQOE5halVRQVpyc0ROczExaVJuU0lPMEl1OVpkUVNreUd5d0xCck1XZlJ0QmNfbUs0WWN5SnlKZ2x0aWpVdVVlM2pyYVl0cDlJOXRid3JuTjdUamM3WDFWVW9zZmQ3MlpudUNqc0puYnNjTW9CZzk5OC1fa0pRVXJ2eFpuUU1XbkhDdEhoaUx4S3FEalEwa1d1MVdwX2EzMzBVUi0xdDZxYkZuRjhZRGltTHdXZURGUS1qc2NyRnJQNmtZa2NDUWstekk3ZDVFRTlSUWRhVVE1QlRHb0Qtd1NpbHNYMTJBSjNvc3dLNTN3TjE?oc=5",
+  "title": "Présidentielle 2027 : «J’ai noté qu’il m’encourageait, je m’en réjouis», se félicite Philippe après le soutien de Wauquiez",
+  "summary": "",
+  "published": "2026-07-02T09:00+02:00",
+  "mentions": []
+ },
+ {
+  "id": "f0c708bb268274d6",
+  "outlet": "Europe 1",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNc3BZcGJhb004dmhfS1N6OFNLWXpvT1AwRnN5ajk4ZF9VTEZpTDQ0amhLblFyTHExaTNnLWNZTkpwN1Y1OXFMa2YyU0NTVXJrS3BHcC1tY0pyTmNoX1hqV0pwUGtXMFFvaUgwV1BpRUtsUzVqQ0w2M3J5T1ZudEM5VnNIOW1YUGs3aXdNdDZVdURnRHhJZEVQLWk2aU1VNEtvaUhRUG02c083dGlYUk9vNGF6dmNyLW5SSDdLRWtjU1dOX0p0VU5Kc2VvZVdESllSSTZZZtIB2gFBVV95cUxNSVN5ZUVEeng3RVVxZ2RfSlFuUDVLZUQxdW9qa0FObnNuZG9GejBZVWNQbTBUUDhmSTRBT0h0R21uTjhBeUJQQWhibFBrQmQtTElpSlZTRWstclVYTDBPNl9lX2RQWnV4REZmV2E0ZXRFQ1NaeTB4VmJmSWlOSXFleWF6VEVzaVZaOVZrNTZqQXJLcVlVTjk4QWNrdWJFZ0F1VkRxN3dvWGZaNUxMNzAzUi1uclhSNG5aRnUta0Q5aXRSVHVJdU9Qd2Jmc3FrTGN4M2s2WDlGQWd5dw?oc=5",
+  "title": "«Le parcours d’Edouard Philippe n’a pas commencé avec Emmanuel Macron», rappelle Jérémie Patrier-Leitus",
+  "summary": "",
+  "published": "2026-07-02T09:00+02:00",
+  "mentions": [
+   "philippe"
+  ]
+ },
+ {
+  "id": "a86955ce884dea46",
+  "outlet": "TIME France",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNlk4S3FhcUN4MHc2Ti1Tb0RvWnZRbmgxc0VIWEFTOVN2N0F3a0gwSjhfTWlBM1A4OWRvRUoxeXZLV3BEZDQ2azlqX1Nxd052dlVqb3R3a01UaVpmRWdpWWl6Z1VQcW1BX0ViRzVWN2FYNkxtckhaV0xtSmxXb0RLWU9udExrSDVWUTVzcjhyOElxejZQdDNjM3gxZ3cyaWpVa3BSMi1YbXFYU005VS1kWVNUNnBWWDVKSTQ1azVkWGp4WExReDlLUG9HbWJ5bThQX1E?oc=5",
+  "title": "Présidentielle 2027 : en rupture avec Retailleau, Wauquiez acte un rapprochement avec Édouard Philippe",
+  "summary": "",
+  "published": "2026-07-02T09:00+02:00",
+  "mentions": [
+   "philippe",
+   "retailleau"
+  ]
+ },
+ {
+  "id": "3b9a549e89a82924",
+  "outlet": "RMC",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRnJRMWpEV3I1SWZPMjhEV1JDWnMxVFJmT25aOG5Ub2ozbjlEMUFPWXVWT25LY2U5cVY0TVNJa2lubDdTRmNYdVU2R09HQ21yZG1ObmJudms0dnZVc25DLW9UdGRwd3Y1c1VSSVN4eWhEU2RYRHlBbzRyWXVsZ1VaRWk3QlI5VGdQWE5VOEJUVEpHa0U4VXdjNEtsUThEdEhKQTk2WGV4WFJlR2tzdzI2YkxiaFIxYnMxekpqNXBXVFY?oc=5",
+  "title": "La main tendue de Laurent Wauquiez à Édouard Philippe",
+  "summary": "",
+  "published": "2026-07-02T09:00+02:00",
+  "mentions": [
+   "philippe"
+  ]
+ },
+ {
+  "id": "a252166747524f2a",
+  "outlet": "Europe 1",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdnNyZzZqZVplcHZXenlFd3R4RjFnMG8wN2VZdUFEVGFTVVhvbTNWcjNLcFNvdEZQY1dkMUU3Tm12c0VmNVByR21UT182MzlSNHJvek9DemZMaHdyZWpzblNKM1FDWGhiVGFOLU96dTNPMEJyWUU1SWduQTdBTUhoUDBrU1E1R1ZsX2VGa001OFR3dnRnNEdYTkRhVjBYdFVXTzVySE9tWUh1Nk9SQk0wc2l5ZjVtTXdYcDc4bjV6b9IBxAFBVV95cUxNanV6UlNUWkszcFdSbW90TmZUWTFxLXFtb21XajZFV2Z5Sko2SGdDYWpBN2VYejhwZTg3emNycV92MUlGT0kyajQzOEFwODVIYWhuempDeGFRRk84d2E2eFM3R2o1a2YzT2Q1ZmhVV2FLdmk0YTJSZjRBQXpTbHpvRzhoVHJfUjdhNTBNcW1RSC1DYzRveUVCc2RXQ3RSTWYwWFVfWmszRTkteFVZUHZ4elVGWG4zbU5hVnJ6dWlrbDdwRm53?oc=5",
+  "title": "«Edouard Philippe ne fait pas la chasse au ralliement», assure Jérémie Patrier-Leitus",
+  "summary": "",
+  "published": "2026-07-02T09:00+02:00",
+  "mentions": [
+   "philippe"
+  ]
+ },
+ {
+  "id": "babb297a96d0c8cc",
+  "outlet": "Ouest-France",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxOemNLLVFDUjhwaDMzaFg2eHN6NjlxeFVORk9MWGUxeDJxaTB0eGo1UnFBQktsOUEwQlNRdUo3NzlwSTBiSXdrNlpKQTdxZW9VZ2RqWlVZaVIwbzJwdms3aklRd05WNzBsUm1GWVhKTVRUS0JjeExzbHcyc1YyVVBUVkZYOUVVQk9SYlJzSkVJb3p5OFdfZHFES2JWRy1FRlQtNHpzVldIMkdKYk5GMmhPMjlTVUI4d291XzZJUkRKaGRSVXVwUDFIdWp5OEptWWhJeFBOSlQyNm1KNXNFWHkzNndnQ05CLURBcV80c1BxSG9OUmpUeFFpSDAyajQ3VloyZVhFT1JEUEgtYTE3MmNYMndtRUxjVkRFWVAwWGxqb0dGcHo3UnRjSDYyNjE?oc=5",
+  "title": "Présidentielle 2027 : Gabriel Attal veut 100 000 départs volontaires de fonctionnaires et l’« impunité budgétaire zéro »",
+  "summary": "",
+  "published": "2026-07-02T09:00+02:00",
+  "mentions": [
+   "attal"
+  ]
+ },
+ {
+  "id": "733525e77024d8e0",
+  "outlet": "21News",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSUsybGJBT0VPLWlENkV3Mlh1QWExcDg1MXlJR3RoejRhTS1icVk0aXN2Z2N3a3F2aWtlX3pFSkFFcTJLVTJRTEVlMVNvbmJ6Q1BzR3p6TDBjVWZOLW5TcTNldl9tQlZvSFl3alpNQjg1Z3ZLbWliUndFNVZxSGtoWFA3aFZVMXhucnlIYW13UFNjMXRCSk1PaFlOX2hEYnBrS2plYU9qSzJYTWt2bUExMHFaVy01eGRWMWc0b21NcUczeThvY3pwa0hxTElVZw?oc=5",
+  "title": "20 h de France 2 : Jean-Baptiste Marteau prêt à remplacer Léa Salamé en cas de candidature de Raphaël Glucksmann",
+  "summary": "",
+  "published": "2026-07-02T09:00+02:00",
+  "mentions": [
+   "glucksmann"
+  ]
+ },
+ {
+  "id": "3c07e6e02eba3cca",
+  "outlet": "France 24",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPaFF5aXR2NVZpM0d4RFVDeWN4SGhKbEJSSzRHQjJFdUdvT2ZVLTZMMUxmRWJEeGs4UG56QU5pRjIzSE41UXVTQmFrS1FtSWp6bHFzWFJCekVOakNUenpReFNZbkdlemtiNEFDVGdSWnoxSVJPVGUxY2ZZQ2E0bnVTNGtHY0FUMHlybTRXWGFDN3lCalhlbE5iR1ZRVnlrd1ZwWVZYRi1tc3RjSjJOOHhCR3h1WmlwcGxFakRqZ3BoVlNkeHlPWHRwaVFoS3lSaDVVM0Z3?oc=5",
+  "title": "France : \"Le peuple se soulève quand il n'a pas de pain, mais aussi quand il est mauvais\"",
+  "summary": "",
+  "published": "2026-07-02T09:00+02:00",
+  "mentions": []
+ },
+ {
+  "id": "289773f63a7441fc",
+  "outlet": "TF1 Info",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdFBxV1ZwM1hqYW5KeC1DZDNPUDFKQldlQjhEd1FEZ0ctNXhYZXo5Mjg1V2xGMXo1Umd1TWt2TFBaZWcwcUJWVjFJN0c4QWpPOEhCM0FSTkh0V3l6T1l6Y19RWHNQckU0RU8zcmR1WUVpZEUxdV9EYlBhcEYtQ01CZ2hIQnFuODhNUFY3ZDdUbk96UnJZakkwN3kwb1VLVExOVGxFYlkzeXhCVlhFWjZ0OUR0OTBSVlhjMWRj?oc=5",
+  "title": "\"Les Dossiers\", épisode 2 : Gaspard G reçoit Gabriel Attal",
+  "summary": "",
+  "published": "2026-07-02T09:00+02:00",
+  "mentions": [
+   "attal"
+  ]
+ },
+ {
+  "id": "fa81d8830ec9148b",
+  "outlet": "Gala",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQSllyOUw4WjFHQmRZOC1TM0N4RGE4cmdOY3BLSVN0ekdiWTI2TmFNcFZ6cmwtZFJKcUQwTGgxWGNNeGdTZFNFclo5X1NOdUhiVzhFR25STENsa3RoQVc4VnpCZl9raGlBNnpKeHQ1VjdpM21iZi1iSWhTNFc2RFpmVlVIRWduenMtdXNBMmVxckNIcl9mbWpqOTAwTnRfMFk0eE96SURpRENzQjdLMi1uMmRDTEo4WHRMb0RHM180MXk1MWpQa3ZLbXk5TWw4eDhhOXBXTmhiQm5qeHRzMnN3U1pTamJJT1dJYkYyX2w0M3ptS29o?oc=5",
+  "title": "Gabriel Attal dévoile les coulisses de la dissolution : “Emmanuel Macron ne répond pas à mes messages et mes appels…”",
+  "summary": "",
+  "published": "2026-07-02T09:00+02:00",
+  "mentions": [
+   "attal"
+  ]
  },
  {
   "id": "b50480fef3bdad7f",
