@@ -16,6 +16,7 @@ SOURCES = {
     "lepen": "radio-france-marine-le-pen-emissions.md",
     "melenchon": "radio-france-jean-luc-melenchon-emissions.md",
     "philippe": "radio-france-edouard-philippe-emissions.md",
+    "glucksmann": "radio-france-raphael-glucksmann-emissions.md",
 }
 OUTPUT = Path("data/radio_france.json")
 SUBJECTS = {"Oui": "oui", "Partiellement": "partiellement", "Non": "non"}
@@ -36,7 +37,7 @@ def station_of(emission):
     for name in ("France Inter", "France Culture", "France Musique", "franceinfo"):
         if name in emission:
             return name
-    return "ICI" if re.search(r"\bICI\b", emission) else "Radio France"
+    return "ICI" if re.search(r"\bICI\b", emission, re.IGNORECASE) else "Radio France"
 
 
 def parse_markdown(text, candidate):
