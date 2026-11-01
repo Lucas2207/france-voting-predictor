@@ -18,6 +18,10 @@ SOURCES = {
     "philippe": "radio-france-edouard-philippe-emissions.md",
     "glucksmann": "radio-france-raphael-glucksmann-emissions.md",
     "attal": "radio-france-gabriel-attal-emissions.md",
+    "zemmour": "radio-france-eric-zemmour-emissions.md",
+    "retailleau": "radio-france-bruno-retailleau-emissions.md",
+    "lisnard": "radio-france-david-lisnard-emissions.md",
+    "roussel": "radio-france-fabien-roussel-emissions.md",
 }
 OUTPUT = Path("data/radio_france.json")
 SUBJECTS = {"Oui": "oui", "Partiellement": "partiellement", "Non": "non"}
