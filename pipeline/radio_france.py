@@ -27,6 +27,7 @@ DOSSIERS = {
     "glucksmann": "raphael-glucksmann", "attal": "gabriel-attal", "zemmour": "eric-zemmour",
     "retailleau": "bruno-retailleau", "lisnard": "david-lisnard", "roussel": "fabien-roussel",
     "arthaud": "nathalie-arthaud", "ruffin": "francois-ruffin", "dupontaignan": "nicolas-dupont-aignan",
+    "polony": "natacha-polony",
 }
 ROOT_SOURCES = {
     "lepen": "radio-france-marine-le-pen-emissions.md",
