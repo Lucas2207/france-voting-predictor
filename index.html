@@ -122,11 +122,14 @@
 
     <div id="projection" class="scroll-mt-28"></div>
     <!-- Projection -->
-    <section class="bg-white p-6 rounded-2xl shadow-sm border border-slate-200 space-y-3">
-      <div class="flex flex-wrap justify-between items-baseline gap-2">
-        <h2 class="text-base font-bold text-slate-900" data-i18n="proj.title">Projection du 1er tour</h2>
-        <span class="text-[11px] text-slate-500" id="mediaStatus"></span>
-      </div>
+    <details open class="bg-white p-6 rounded-2xl shadow-sm border border-slate-200 space-y-3 group">
+      <summary class="cursor-pointer list-none flex flex-wrap justify-between items-start gap-3 focus-visible:outline focus-visible:outline-2 focus-visible:outline-indigo-600 rounded-lg">
+        <div class="flex flex-wrap items-baseline gap-2">
+          <h2 class="text-base font-bold text-slate-900" data-i18n="proj.title">Projection du 1er tour</h2>
+          <span class="text-[11px] text-slate-500" id="mediaStatus"></span>
+        </div>
+        <span class="text-xs font-bold text-indigo-600 transition group-open:rotate-180" aria-hidden="true">▼</span>
+      </summary>
       <div class="overflow-x-auto">
         <table class="w-full text-sm num">
           <thead class="text-[11px] uppercase tracking-wider text-slate-500 border-b border-slate-200">
@@ -143,27 +146,33 @@
           <tbody id="projectionBody"></tbody>
         </table>
       </div>
-    </section>
+    </details>
 
     <div id="charts" class="scroll-mt-28"></div>
     <!-- Graphiques -->
     <div class="grid grid-cols-1 gap-6">
-      <div class="bg-white rounded-2xl p-6 shadow-sm border border-slate-200 space-y-4">
-        <div>
-          <h2 class="text-base font-bold text-slate-900" data-i18n="poll.title">Moyenne des sondages (%)</h2>
-          <p class="text-[11px] text-slate-500" data-i18n="poll.help">Moyenne pondérée des derniers sondages de chaque institut (30 jours glissants).</p>
-        </div>
+      <details open class="bg-white rounded-2xl p-6 shadow-sm border border-slate-200 space-y-4 group">
+        <summary class="cursor-pointer list-none flex flex-wrap justify-between items-start gap-3 focus-visible:outline focus-visible:outline-2 focus-visible:outline-indigo-600 rounded-lg">
+          <div>
+            <h2 class="text-base font-bold text-slate-900" data-i18n="poll.title">Moyenne des sondages (%)</h2>
+            <p class="text-[11px] text-slate-500" data-i18n="poll.help">Moyenne pondérée des derniers sondages de chaque institut (30 jours glissants).</p>
+          </div>
+          <span class="text-xs font-bold text-indigo-600 transition group-open:rotate-180" aria-hidden="true">▼</span>
+        </summary>
         <div id="pick-pollChart"></div>
         <div class="relative h-[420px] w-full"><canvas id="pollChart" role="img" data-i18n-attr="aria-label:chart.poll"></canvas></div>
-      </div>
-      <div class="bg-white rounded-2xl p-6 shadow-sm border border-slate-200 space-y-4">
-        <div>
-          <h2 class="text-base font-bold text-slate-900" data-i18n="media.title">Couverture médiatique (articles par jour)</h2>
-          <p class="text-[11px] text-slate-500" id="mediaChartNote" data-i18n="media.help">Articles des flux RSS qui traitent du candidat, selon l'analyse de Claude.</p>
-        </div>
+      </details>
+      <details open class="bg-white rounded-2xl p-6 shadow-sm border border-slate-200 space-y-4 group">
+        <summary class="cursor-pointer list-none flex flex-wrap justify-between items-start gap-3 focus-visible:outline focus-visible:outline-2 focus-visible:outline-indigo-600 rounded-lg">
+          <div>
+            <h2 class="text-base font-bold text-slate-900" data-i18n="media.title">Couverture médiatique (articles par jour)</h2>
+            <p class="text-[11px] text-slate-500" id="mediaChartNote" data-i18n="media.help">Articles des flux RSS qui traitent du candidat, selon l'analyse de Claude.</p>
+          </div>
+          <span class="text-xs font-bold text-indigo-600 transition group-open:rotate-180" aria-hidden="true">▼</span>
+        </summary>
         <div id="pick-mediaChart"></div>
         <div class="relative h-[420px] w-full"><canvas id="mediaChart" role="img" data-i18n-attr="aria-label:chart.media"></canvas></div>
-      </div>
+      </details>
     </div>
 
     <!-- Exposition médiatique : nombre d'articles par média et par candidat -->
@@ -207,18 +216,19 @@
 
     <div id="networks" class="scroll-mt-28"></div>
     <!-- Abonnés réseaux sociaux -->
-    <section class="bg-white p-6 rounded-2xl shadow-sm border border-slate-200 space-y-4">
-      <div class="flex flex-wrap justify-between items-start gap-3">
+    <details open class="bg-white p-6 rounded-2xl shadow-sm border border-slate-200 space-y-4 group">
+      <summary class="cursor-pointer list-none flex flex-wrap justify-between items-start gap-3 focus-visible:outline focus-visible:outline-2 focus-visible:outline-indigo-600 rounded-lg">
         <div>
           <h2 class="text-base font-bold text-slate-900" data-i18n="followers.title">Total cumulé tous réseaux (TikTok, Instagram, X, Facebook)</h2>
           <p class="text-[11px] text-slate-500" id="followersNote"></p>
         </div>
-        <div class="flex gap-2 text-xs">
+        <span class="text-xs font-bold text-indigo-600 transition group-open:rotate-180" aria-hidden="true">▼</span>
+      </summary>
+      <div class="flex gap-2 text-xs">
           <button data-toggle="followers:total" class="px-3 py-1.5 rounded-lg focus-visible:outline focus-visible:outline-2 focus-visible:outline-indigo-600 bg-indigo-600 text-white font-bold" data-i18n="followers.total">Abonnés cumulés</button>
           <button data-toggle="followers:week" class="px-3 py-1.5 rounded-lg focus-visible:outline focus-visible:outline-2 focus-visible:outline-indigo-600 bg-slate-100 text-slate-700 font-bold" data-i18n="followers.week">Gain cette semaine</button>
           <button data-toggle="followers:month" class="px-3 py-1.5 rounded-lg focus-visible:outline focus-visible:outline-2 focus-visible:outline-indigo-600 bg-slate-100 text-slate-700 font-bold" data-i18n="followers.month">Gain du mois</button>
         </div>
-      </div>
       <div class="grid grid-cols-1 lg:grid-cols-2 gap-6">
         <div class="space-y-2">
           <h3 class="text-sm font-bold text-slate-800" data-i18n="followers.candidates">Candidats</h3>
@@ -241,7 +251,7 @@
         <h3 class="text-sm font-bold text-slate-800" data-i18n="pages.title">Pages officielles des partis</h3>
         <div class="overflow-x-auto"><table class="w-full text-xs num" id="partyPagesTable"></table></div>
       </div>
-    </section>
+    </details>
 
     <!-- Chaînes YouTube -->
     <details class="bg-white p-6 rounded-2xl shadow-sm border border-slate-200 space-y-4 group">
@@ -345,13 +355,16 @@
 
     <div id="events" class="scroll-mt-28"></div>
     <!-- Événements -->
-    <section class="bg-white p-6 rounded-2xl shadow-sm border border-slate-200 space-y-4">
-      <div>
-        <h2 class="text-base font-bold text-slate-900" data-i18n="events.title">Événements marquants</h2>
-        <p class="text-[11px] text-slate-500" data-i18n="events.help">« Presse » : détecté par Claude dans les titres du jour, avec au moins deux médias. « Wikipédia » : annotation du tableau des sondages. Chaque carte renvoie à ses sources.</p>
-      </div>
+    <details open class="bg-white p-6 rounded-2xl shadow-sm border border-slate-200 space-y-4 group">
+      <summary class="cursor-pointer list-none flex flex-wrap justify-between items-start gap-3 focus-visible:outline focus-visible:outline-2 focus-visible:outline-indigo-600 rounded-lg">
+        <div>
+          <h2 class="text-base font-bold text-slate-900" data-i18n="events.title">Événements marquants</h2>
+          <p class="text-[11px] text-slate-500" data-i18n="events.help">« Presse » : détecté par Claude dans les titres du jour, avec au moins deux médias. « Wikipédia » : annotation du tableau des sondages. Chaque carte renvoie à ses sources.</p>
+        </div>
+        <span class="text-xs font-bold text-indigo-600 transition group-open:rotate-180" aria-hidden="true">▼</span>
+      </summary>
       <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4" id="eventsContainer"></div>
-    </section>
+    </details>
 
     <div id="method" class="scroll-mt-28"></div>
     <!-- Méthodologie (générée à partir des traductions) -->
