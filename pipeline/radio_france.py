@@ -1,7 +1,6 @@
 """Émissions et articles sur les candidats : relevés manuels, par personne.
 
-Source : dossiers-candidats/<nom>/README.md (un dossier par candidat), plus les anciens relevés Radio France
-à la racine (radio-france-<nom>-emissions.md) quand le dossier n'en contient pas. Chaque tableau donne une
+Source : dossiers-candidats/<nom>/README.md (un dossier par candidat). Chaque tableau donne une
 entrée par ligne :
 - 4 colonnes (date, émission, titre, sujet) : émission Radio France, station lue dans l'émission ;
 - 3 colonnes (date, titre, sujet) : article d'un autre média, nommé par le titre de section « ## Média » ou par
@@ -21,24 +20,13 @@ STATIONS = {"FI": "France Inter", "FC": "France Culture", "fi": "franceinfo", "f
 SUBJECTS = {"oui": "oui", "partiellement": "partiellement", "non": "non"}
 OUTPUT = Path("data/radio_france.json")
 
-# candidat -> dossier, et ancien relevé Radio France à la racine (lu aussi, sans doublon)
+# candidat -> dossier
 DOSSIERS = {
     "lepen": "marine-le-pen", "melenchon": "jean-luc-melenchon", "philippe": "edouard-philippe",
     "glucksmann": "raphael-glucksmann", "attal": "gabriel-attal", "zemmour": "eric-zemmour",
     "retailleau": "bruno-retailleau", "lisnard": "david-lisnard", "roussel": "fabien-roussel",
     "arthaud": "nathalie-arthaud", "ruffin": "francois-ruffin", "dupontaignan": "nicolas-dupont-aignan",
     "polony": "natacha-polony",
-}
-ROOT_SOURCES = {
-    "lepen": "radio-france-marine-le-pen-emissions.md",
-    "melenchon": "radio-france-jean-luc-melenchon-emissions.md",
-    "philippe": "radio-france-edouard-philippe-emissions.md",
-    "glucksmann": "radio-france-raphael-glucksmann-emissions.md",
-    "attal": "radio-france-gabriel-attal-emissions.md",
-    "zemmour": "radio-france-eric-zemmour-emissions.md",
-    "retailleau": "radio-france-bruno-retailleau-emissions.md",
-    "lisnard": "radio-france-david-lisnard-emissions.md",
-    "roussel": "radio-france-fabien-roussel-emissions.md",
 }
 
 
@@ -131,12 +119,10 @@ def parse_markdown(text, candidate):
 def _files():
     for candidate, folder in DOSSIERS.items():
         yield candidate, Path("dossiers-candidats") / folder / "README.md"
-    for candidate, name in ROOT_SOURCES.items():
-        yield candidate, Path(name)
 
 
 def build(root=Path(".")):
-    """Lit les dossiers et les anciens relevés, retire les doublons, écrit data/radio_france.json."""
+    """Lit les dossiers, retire les doublons, écrit data/radio_france.json."""
     rows, seen, surveyed = [], set(), []
     for candidate, rel in _files():
         path = root / rel
