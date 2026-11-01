@@ -1,41 +1,5 @@
 [
  {
-  "id": "a19babb17370ee9f",
-  "outlet": "Le Monde.fr",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNMHpYZUl2bVNiVDVrMVh5R1NNbDdhUlhKSmFCYmdkYU9MVWdWcGo3NmxLVGkyTXhwSGhmQ2lGUHdqMHBLSWJjclhhTGhQQ04yTFQtS0VhdTJsenc1dkhjZ2J1Y2gxQzJzVlhhbVBZV1JIWEI3cDBzZ3VucXZSOGQ1UjhqZVNuOHlIR19CQ1VpdmV3ZDlTQ3NLZUdHcmlwVFZ5ekN0Y1QtaTBSMmZESkZPSW9nUm1lYURuSXJyZ3VQbUZmSzJUOVpDSmh2Wk0xMGFtMHdBVWZpbVdxaV9zTHlXUDlVOF9tUnFRWXNoemt6YlZWRWtEOUNNM3BGNjZ6eWFBLUFyS2pQWDM0TE5kOUdCSUJRRHpzMEdpY2hMcmFWQ3ctSXhaZHJiQVJfaw?oc=5",
-  "title": "Marine Le Pen en campagne présidentielle au Porge, village sinistré par les incendies où « personne ne croit plus à la politique »",
-  "summary": "",
-  "published": "2026-09-18T09:00+02:00",
-  "mentions": [
-   "lepen"
-  ]
- },
- {
-  "id": "45ad234f4a9105de",
-  "outlet": "Le Monde.fr",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOSDFJdWF4amJoOGtaSmgwVG03b2I3ZjNmT2szYWpJSWhNYTFtbzJhVlpJcVB2Z3J1NXM0bGlfMGhYdE1QbW5wWGV4MmNCU0JqWWtSOGV5ZjRKUWJ5bUpMLXo4d2JXN3pDVHRnc201RGl0TnRTdVlLZkVERGVtcFBaZ2oxWUFhZ0VjOVBzUUJTU3ZvV2lPNXZac0RMZTVKRDdYOFF1dVFLRWNydXdVQTJNS2FxV3VMVlktdmJGSDJjdUx4VDJCcmtjYXhJa3NfWEd4bG5DTzBIcGZuc2l1RGRxY3ZBVGhGcTBhTjlmdzRXNHA4eENIc1dRbVp2aFc2N092Tk90N1p2MWRtWUxsV3NiSXBTUEY?oc=5",
-  "title": "Présidentielle 2027 : la politique étrangère, angle d’attaque des opposants à Marine Le Pen",
-  "summary": "",
-  "published": "2026-09-18T09:00+02:00",
-  "mentions": [
-   "lepen"
-  ]
- },
- {
-  "id": "77c840df779d508c",
-  "outlet": "Institut Montaigne",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdElEaFZVbFVYZ1M5QlRDandZT0VRVFJiT0o0UHdzUEJZcjJLcVNJcGh2QnBmVzFUeDNRSXl5b0dvWEFZVFZpY25OVHZNRzdnZHpEVVFiSHBhb24xYXE0ZDQ5MGVQbjFIbmRRVk9fR1pmcGNDaDlNWGVYOU9ZRElmQzhkTWVxc185U3hCdThRWmpucW5YTGxWVXFfZHBjUVJJamhuRzFQZWY4NnE0Q0otZlB0cjRnMGhkQlE0bXgwVGp4WTQ?oc=5",
-  "title": "[Paroles de Candidats] - Marine Le Pen et le logement : \"impossibilisme\" n’est pas français ?",
-  "summary": "",
-  "published": "2026-09-18T09:00+02:00",
-  "mentions": [
-   "lepen"
-  ]
- },
- {
   "id": "038c5d9fda29fcd4",
   "outlet": "Le HuffPost",
   "lean": "non classé",
@@ -45,79 +9,75 @@
   "published": "2026-09-18T09:00+02:00",
   "mentions": [
    "lepen"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": -1,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "797ad07260be673c",
-  "outlet": "Le HuffPost",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPaG1DRGZxNDgxNllqbUZvZDROQ2xqVk4zYTY4VWkyY3RmdEZCMnUtNUNfLWxZeU03b01BMThZTkk0TEI4LTlFdzVQbXBiSkEtVFgxNnp0RkpBMjV5NDlZaUNyYTFfZW41S292WURsaE4xa0ZXVmJjUENXNGlITzdNSUx2S3V6NFIwN2J0clRzUy1PN3EzUUozbXFaOGxxczZfRWt2V3JlVFhwaVRGNFhLQlJIY2V2OVQ0ZzJLZjR1bnRUbVBjbXJudk5iWEIzbWZkM1dCMHUwWko?oc=5",
-  "title": "L’ardoise à plus de 160 000 euros laissée par Marine Le Pen au Parlement européen",
+  "id": "0b4b855fbdb1ee9c",
+  "outlet": "Ouest-France",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNbFNNQXBTcl9JT0M2X29fYVRwcUFFTnp6b3dxaW1RTURobnE0b3pWajZaT0d1TkxiQ1d2RFhhaGY4bDlReXVrMzMyVERPRTZfbnp5RWYyeHNPQnYxcVljVTFiVGxJeWxDVjJnZ3R5b2NmTmN4U0F5T1RsSnBJV0ZzSGNkNk1fcDhSUEZxNkp1QTZPaDAyXzlWNDJpZ3o0eG9MOHo4MW50NGlsbDZPVnBnaS0zeFdNaWhrdnZfck96QjJTdkcwX0E0RWVWRjgyS2dTdWxvbnBfYjRFMlNQQ3ZWNXp0NlkwSVdrVUkxVzNiVi1BOEYxb0h1UW9zMDRyMFNmWjBEdWJ4aGphZ1dj?oc=5",
+  "title": "Engagés chez Horizon, ces élus vendéens se rangent derrière Bruno Retailleau aux sénatoriales",
   "summary": "",
   "published": "2026-09-18T09:00+02:00",
   "mentions": [
-   "lepen"
-  ]
+   "retailleau"
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": 0,
+    "frame": "sondage_dynamique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "b35a8b9631ad709b",
-  "outlet": "Vert Le média",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNUWZZdkxGVW5iX2t4YXBqY3A0dGpNSzd3WG51R0E3SE11UUNzZk9kQ3BpNmFkOHZEWElaeU85OXUwZlphcHB1OWttd2p0Z1E4ZHFTMnVBeGk4N2pjOVBMNVBGRENkS1daUHhwVV9Cem5pb1RMQklWNE9kbF9uTzczNXFCM0dvOC0tUWhrSTQ0RVlLaXBySnJMTDIzZ21KVm9FRjMycHRIQ3o1OUFmUWhwTjlYMnlvZ0tMYnFFTHk3OGVSM3p2dkFsVWNlNXNGMW9NOGtGME1PeUNZRDNMS1JaSF92YzR1X05aUEU4Q3lkRQ?oc=5",
-  "title": "«Je ne suis pas sûre que faire mieux permette d’éviter le réchauffement climatique» : en Gironde, Marine Le Pen prône l’inaction",
+  "id": "1110bf3e4b1e5cd8",
+  "outlet": "Marianne",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTmZJNEx1RUExc0dQbllZNTZ0MXVicGh1RDV1SzdFUEFDSFVpMU1VOWF5T3VLYWQ1S2pUdjZXcTVlSTBHV1B3b2VRQlVwT2VESXBBd3U0aW93OS1yR1lBRC02azBCZURDR3JGbUk0OGZQcEI2bEN0czRlZGNPRWpISnhfaUYyZmZkNmRKazN0eHRQY19aOHRMelZNd0E3SHFrZmRSWjlaMzBicWx5bVNNalh5ZFg0VTZacHl2SXdGV0JET3JjZUcwOEdYcTloOFdubzZxOA?oc=5",
+  "title": "États-Unis d’Europe : Gabriel Attal enfile la soutane pour tenter de ressusciter sa campagne",
   "summary": "",
   "published": "2026-09-18T09:00+02:00",
   "mentions": [
-   "lepen"
-  ]
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": -2,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "2c9ddaee74bc2802",
-  "outlet": "ladepeche.fr",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPM0dqRFFqTkdlYkltRTd1aVdDYlhPMWtJVnNDdVJlM0ZydjVUOUlfUHVPa2RkRjd6ZG16TXRaWVZKdENkT1lpbndsZjFlNkltU00yV2JKc193RWV3U2tDbW5zZmlNUFhBN0FwaUN4Ullsdkdra0hKNzZHOUtGUUVhbDhjajU0T2hOYWlxb0QxdHE1QmQyRFp6TXp5a0JwNnBnWC1mZi1ESE5oV0NwanFUemV0aG8xcjFUMXdLc1hiUVoyYzZTQTdNdTdGaTFMX1I5UkJadFl0eEJVS1dBWC03b1dJTVh1N3FK?oc=5",
-  "title": "Présidentielle 2027 : pourquoi Marine Le Pen a fait une visite surprise dans un restaurant à Castelnaudary",
+  "id": "12cb82365ff99ac7",
+  "outlet": "Valeurs actuelles",
+  "lean": "droite",
+  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTi1rYUpwelppWFc3NlRYZjRXTnozeUtoekZCZlRZS0lNdUQ5ZFdZWFU1RjFfVk5fTTVjcjB2eFhBOXBjbklMTVpRYTY5a3Npc0lxRkZHemU2NzdTd3ZrWTVzUlp3SXdnNzllVHBkU280ZF80UGFXdHd2R3daZ2dReVZUZWFNS2ZFUFY3ay1oajFoZnM1aGc?oc=5",
+  "title": "Présidentielle 2027 : le faux départ d’Éric Zemmour",
   "summary": "",
   "published": "2026-09-18T09:00+02:00",
   "mentions": [
-   "lepen"
-  ]
- },
- {
-  "id": "1ee5e28fb9d725b3",
-  "outlet": "TF1 Info",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxON08xMGs0YzF0SENmRzhWaUFhN0VYSW96S1lzT3RsYXZ6NHFHTGtLdWc0THBMQ3lGRlVkQmR6T0pYaHdwOEcyZmZXb0liTHZPZGRNMWpCVmhMNDk4ZnA5MTJ1eWhSa3plT0FYeXVFXzVmbFV3R3ptb3MyMGhrY05HTERja3BvZG94RGxQNGdzQUtEcnIzUURmOVQzUXE2VktiTGhUZFg3LVV2aldGbGtPUGFtU05lUm5qa2RqTl9lVDg1ZXZXY2tUN0kxRFN0NDdNRHdfVkZmSTFmM25GZVMySU5RZ0Z0SmlZMVdFb0g0Mk9Cc1RsQklWM0NHMUlTMlo4MVJhX2hiblRFSmdqcHFrRTFnVE1lODl5OXZ3ZlFJMXhJdHk0X1ZPSw?oc=5",
-  "title": "Prix du carburant : \"La seule possibilité, c'est de baisser les taxes\", martèle Marine Le Pen",
-  "summary": "",
-  "published": "2026-09-18T09:00+02:00",
-  "mentions": [
-   "lepen"
-  ]
- },
- {
-  "id": "b9bcf74c453a2324",
-  "outlet": "Rue89Bordeaux",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNU1pLVGFZSTU3T29qZVhoX2JodGg4ZERncmprdVdnQmN5Q0xkZ09meUUxVVRoMmVIdlgzZVFIUEEzekZjeVZDVkY0TEREU05CSFBkdEhqNVVNNnc5aC1zVWhvLUl0VDZkMVEtWmFuSHpXRDBfQ2tIQXBDbWRNS1dVRTVLSTRXUFpweGZ5NVNmNVREX1NvZFVlSV9VSVBBS0nSAaQBQVVfeXFMTUExSVY4UGNTOVFYLWRXYm5vNXUxNGNveXBPOGhtM2ZMT2llSjVxVEhYYjBkLXgtX3hDOV96WlVuZG5lbHJSZXY5YnYxVWczV3FUbkdWaU5QT3ZQa3pJMm9qRDVidFg0dGtWZWtrVGlrWHlyTU5DNnVRYkNVRk4wQ0lXTTJ1VGk1Q2I5ZkRSdU9qVlVWVWZhdi1GY2E5T1FlTExLa2Q?oc=5",
-  "title": "Après le mégafeu, Marine Le Pen au Porge sans idées étincelantes",
-  "summary": "",
-  "published": "2026-09-18T09:00+02:00",
-  "mentions": [
-   "lepen"
-  ]
- },
- {
-  "id": "b7f99ce5aa2fac63",
-  "outlet": "Mediapart",
-  "lean": "gauche",
-  "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdkdHNC1FNGgtZDg4RXpKdEExbVBkVEE1Y290VWNFenE5ekYzcUdHdmZCMU80c3UxM2l6b0dTSDVYdTQxWURxLTlsWk0yOEZYQ0NDbkM3RW5DVkVDbkwxR1FCblZRNHVHU193VW1VYXFWd3h6VmlvR2pWY0Nnb3dmOVFvZF9UMGh5eGE4RFEyRU5KcTZ1dmtuSVpnMWdHWjZ2bmJIZGRQX0VpUFRiWmlTVjdEYy1saXlnMzdfTk45ZHZKNTlIUVpWbGMzV1hRZEtmUHQw?oc=5",
-  "title": "Le Parlement européen réclame près de 170 000 euros à Marine Le Pen pour des dépenses indues",
-  "summary": "",
-  "published": "2026-09-18T09:00+02:00",
-  "mentions": [
-   "lepen"
-  ]
+   "zemmour"
+  ],
+  "analysis": [
+   {
+    "id": "zemmour",
+    "tone": -2,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "12fb35052bb357c6",
@@ -129,163 +89,35 @@
   "published": "2026-09-18T09:00+02:00",
   "mentions": [
    "lepen"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": 0,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "711670364268ddb6",
-  "outlet": "Public Sénat",
+  "id": "1ee5e28fb9d725b3",
+  "outlet": "TF1 Info",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVVBxRzI2bWY3UkV3OFAxLVNhbVNxRGR4NEJta1dpNHZIM0JmcktLempZVVExNlphcmwwQzZuOEp0SDhtRl9MNnctVk51M0NWaEhxbEp1QzNRbjJjRVF3cUUzLW5zbS0wVmdWS1hiVGlydGFMSE9iUDg1ZDZ4YkNJMmU2ZFRSb2VSOFYxWHdzR2NIOWxpQjZlWUtGTXVob2FnTnpOV2Z3aFNTTVh0eXl4TGlB?oc=5",
-  "title": "Éric Zemmour officialise sa candidature à la présidentielle 2027",
+  "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxON08xMGs0YzF0SENmRzhWaUFhN0VYSW96S1lzT3RsYXZ6NHFHTGtLdWc0THBMQ3lGRlVkQmR6T0pYaHdwOEcyZmZXb0liTHZPZGRNMWpCVmhMNDk4ZnA5MTJ1eWhSa3plT0FYeXVFXzVmbFV3R3ptb3MyMGhrY05HTERja3BvZG94RGxQNGdzQUtEcnIzUURmOVQzUXE2VktiTGhUZFg3LVV2aldGbGtPUGFtU05lUm5qa2RqTl9lVDg1ZXZXY2tUN0kxRFN0NDdNRHdfVkZmSTFmM25GZVMySU5RZ0Z0SmlZMVdFb0g0Mk9Cc1RsQklWM0NHMUlTMlo4MVJhX2hiblRFSmdqcHFrRTFnVE1lODl5OXZ3ZlFJMXhJdHk0X1ZPSw?oc=5",
+  "title": "Prix du carburant : \"La seule possibilité, c'est de baisser les taxes\", martèle Marine Le Pen",
   "summary": "",
   "published": "2026-09-18T09:00+02:00",
   "mentions": [
-   "zemmour"
-  ]
- },
- {
-  "id": "649332b3adc7157d",
-  "outlet": "Le Point",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQLVlwV0NjZnd6TGFjbkJWcmtIZWl6S2lBZDR2cHVzSzR5dm1LOVVFTVZHVlBCWlU2Nk1IWW91ek5TT2FrbEFsS2NIT2hQZ1ZOSXFCTnhyOXNwVjZtRUZ5Y1ZrMlBMNy03dkVsYmRISmhNTW1VUzlxTURRZEZhS0hLOFp2SklWT2VuWlhVdWNpdDQ3ZERENllwTmxSaTY2TmM3cXdPSzBPd0JDU0dIdDBNSFI3ekw3RlBIaXZ0dy1tMmNfNkpSWEljdzFTaEFsTFlMSmpTRVlmV3FNOGtZQmtB?oc=5",
-  "title": "« Il va être obligé de se radicaliser » : pour 2027, Éric Zemmour durcit (encore) son discours",
-  "summary": "",
-  "published": "2026-09-18T09:00+02:00",
-  "mentions": [
-   "zemmour"
-  ]
- },
- {
-  "id": "d8380276deb83543",
-  "outlet": "La Croix",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPb2FOY1BYRTdsbzVnSVhsTGloU2ppdDBMakRYMTB6R09Tb1NxbUtELW55Ynd2aUZnUVkyUUdGblFQNEVLYU02T3ZoMWFXSWdKVU1YV1FvbHF6MW5UeVdMNHR5Zk5BUFlxNnU3VDRyeXdmcWJYb3Q1U3FqU1F3T0FnRzR2RmNXdU1UaFRTV3dMdmtfTTA4U1RXbmVUeV9FWF9GVlgyT29tWWM?oc=5",
-  "title": "Présidentielle 2027 : Éric Zemmour confirme qu’il sera candidat",
-  "summary": "",
-  "published": "2026-09-18T09:00+02:00",
-  "mentions": [
-   "zemmour"
-  ]
- },
- {
-  "id": "29cc332cfc2391a7",
-  "outlet": "Le Devoir",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcGJCX0xpZGJmZDh3N29fOXJEd2lvU2xSQkxCeDAxU1hOa3ptOExJQ19OaVJseHN5LUlKZFVYTmxyZzFMa284YzZWcEF4MzNJUndPX1U5UGU5QVV2U0VCNGJDMkNZbVlTa0dLX0Z4NmRVXzEtbnZzbEhqWU45R0REcTNqal94eVhnRm5BdjJfTVN2dmFuajlnTFozazMtNDA?oc=5",
-  "title": "Éric Zemmour rejoint la course à la présidentielle française",
-  "summary": "",
-  "published": "2026-09-18T09:00+02:00",
-  "mentions": [
-   "zemmour"
-  ]
- },
- {
-  "id": "e6dbda8f3403c8d0",
-  "outlet": "Marianne",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOV9BZkdnVGdmV29qUmZ0dDlNdUN2ZVR6dEVBSi1saXhvLVh5c0lSVEFQYi1wRml1emFsVDlNUWtUSzRiUkU4NGswTGlBUHo4clFVb28yY0JaU2xrTTJSZXNVSzM2bEVrRXJxejVSbGJCQVQtZ2ZpRGlhU2xWQzQ2M0d4aVlkckpadjhqSHJmcFVlblU2UzVrRDdvMFpWdXNwX0JTZk85T1ppcE5reURmRUhCRW5WcHpYcmRHY3RVcWRHckFLckRraQ?oc=5",
-  "title": "Présidentielle : en plein direct à 22 h 47, Éric Zemmour annonce sa candidature sans faire exprès",
-  "summary": "",
-  "published": "2026-09-18T09:00+02:00",
-  "mentions": [
-   "zemmour"
-  ]
- },
- {
-  "id": "fe7b3ad0208d5756",
-  "outlet": "Le Monde.fr",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxOOFgweXEwOHJDS25QRjRZMlhvaUJVbXV0dko0Z0V6VDRVS0dZR3A3M0puMVNGZnAzTGFDVnFhYkVTeU9mMWR0bWk1UzRtUWg2ajM1QjNtLUdJczRnX25lU21rX2pQVDJmbXhNY3o3NURLa0dFNS1Cb1EzMVdlV2JzeDdETGczWDNQR1hNb1B4Vzc2a25ObnVDZzZBUWx1ZVBGVWRvN0xoTEZHeHIxWXNyYnFDTEJhTXZPMXgxMGRSY0lhUjdMUjdzR3dMOVoxWWFmdjNUZWxPNlVBZXNtenpDSFFTbzJJVFd1S2M5RmRVUXd3clZzT3pnZHZmNWtTUGxlc3VqVUFKbWJSdzV6aDg4SWZFaVpIMFZuX19GZGZTZ3o4SGwxMGZwbXlmVF9tWG5UR0I1TkVEanhzYWJC?oc=5",
-  "title": "Des propos d’Eric Zemmour sur Kylian Mbappé suscitent l’indignation à gauche : « Pendant combien de temps va-t-on laisser cet homme cracher sa haine ? »",
-  "summary": "",
-  "published": "2026-09-18T09:00+02:00",
-  "mentions": [
-   "zemmour"
-  ]
- },
- {
-  "id": "7292276e60c3b9e4",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPaHMySGJfRm91MktoUkFxeXRSM1VFUFlaaHE1ZUh1aHI0V0hNd3RTZ2dRZVI0dHN4WldOVGxVRzlLUWVYcHg3amVJU21OYlZVeDJzeFdjV21kTDlpY2hBUkJxYUs2ZmlrdWVGS25wbjU2V2k0UVVQbzgzdlVMT2lWNTFwcjJhZE14dTZBMUhmOXRqOE9Ea0ZiSGNBSDlZQ0xuNGI3N2JoNWtybzZzUlhucnZWcXhQdmZ4X3lkNUNJdWcxaUVXdC1lWHNxNHpZMzdfcG1fSUw1TUxlZU9LOUFTUXdLUHc5clJCbmNwMnk3dV9sU3ZuT0tkNWV3?oc=5",
-  "title": "\"Des robots à la place des immigrés\": Éric Zemmour évoque la robotique comme une solution à l'immigration",
-  "summary": "",
-  "published": "2026-09-18T09:00+02:00",
-  "mentions": [
-   "zemmour"
-  ]
- },
- {
-  "id": "ad7eb016cd3ee7cc",
-  "outlet": "Le Figaro",
-  "lean": "droite",
-  "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPQ2dCbGNOeS1QZnZONTVPcTVDVEVFeWVVanU1T3E0ZnpQemFUWjFkMFVQdnIyejRDb0ZhVFVZZGdpU1RsSUswcl9nRGR5WFAyS3lKSzlOMVROdTdzTlhZU3NaMXVQNExNTDdRTy1pbFhTTVhCMHVmT3NjTFo1YWpEbFpPaC01MEg2aUNXdVc0dElISlRzV2xNdWVlaTVONFZaZnltX1I4MjFIWF9MUGU5VFFhaW9HWDlMakRoTXNJc2o0eGFOUGdnM1NVSWFKLTVScmNSYlp0eEIzVkFacTZrVGtQd0cxVGVjUXJWcko3WFQzSVVvTzFsUg?oc=5",
-  "title": "Présidentielle 2027 : Éric Zemmour confirme qu'il sera candidat et durcit encore son discours sur l'immigration",
-  "summary": "",
-  "published": "2026-09-18T09:00+02:00",
-  "mentions": [
-   "zemmour"
-  ]
- },
- {
-  "id": "d4806beee6892988",
-  "outlet": "RTL",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOczlIaFFCSnRTR3hDVHlEVkc0UFFpU0oyMXJPRkR2aDl3MjlvVzB0RkdKUUJXZ0VoMG95cG5MeHZMN2NEV1pNTERxX3JKYUFZWnNKS0tlcUFaMlY2VEdRNXFVU2ZJdzhlVm1aVGVxVTlfX1J3WkJ4YUVxbzRKaks3akxCTGRWOTNTMDZ5MEdxWWVOaDFySEI3TmQ5cVhFY1l0MnYxM1hPRmVWR1hIV25UUjM1dEdYNnY3YXFXOEVLNG9nTHRhTk1mRmExWV9QS2tMNGx0VFZfZFNwb3R1cVpRUHp3?oc=5",
-  "title": "\"Je serai candidat\" : Éric Zemmour confirme qu'il se présentera à la présidentielle 2027 et donne les premières pistes de son programme",
-  "summary": "",
-  "published": "2026-09-18T09:00+02:00",
-  "mentions": [
-   "zemmour"
-  ]
- },
- {
-  "id": "cd9446fb8fe4b379",
-  "outlet": "Gala",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQYlREaEFCVEs4ckN0eHJZUDhFdEc0MUsweExrVS1nZDVkcXlzTHc4LXRPeEp1MWtieWE5M0tKMDZ5M3hXT05nbGVWSGh4RXNZdGcwZ3pnckh5QXl5VVBiUDc0OUlPcWVvX1I2XzRHUGFrQTFqNHNMSlJaNG02eUdmYW5nS2VnUzhDYXBIcllVVm5WdUR1OE5aVmpFRjFTUmhsWVRJQmlRR1pJOThYZlNqVENMdTg3aS1WbFMwQ2psdjJidXBTUXdERXM0TndjMEpRbmU2WGFoZ3NYY2x2Rk81RmdR?oc=5",
-  "title": "Sarah Knafo, une compagne et… concurrente ? Éric Zemmour met les choses au clair face aux rumeurs : “Pas de rivalité”",
-  "summary": "",
-  "published": "2026-09-18T09:00+02:00",
-  "mentions": [
-   "zemmour"
-  ]
- },
- {
-  "id": "bd4c08e9309f6cf2",
-  "outlet": "Le HuffPost",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNYzY2V19PUnROMkdjejRxb0I5WERHaDNnamg2NjNyaE1aXzFuTWpfR193eUJiRjVrZ3lTS3dJdUs4MTdWTWY4amNzYmJDNG9BNjdJUnNDVzJmMXl0MnNrNzRLd01idzM2d21yUEQ2MFcybUUtNEcwZFdnVmp6NFFMa3dxdkRqbnBHejRiU1pudzVVMGw5cElYY094dEM1S0xSQ0NzLWNIVVNTYnpFRVdIOEJoT1phMmUzdHhaZVF5THZIZi03UTdJd1VDVWtOanN4cloxWkVxMGRvOXNodDN2VEVNZTE5b251SFYw?oc=5",
-  "title": "Eric Zemmour confirme son choix pour l’élection présidentielle de 2027",
-  "summary": "",
-  "published": "2026-09-18T09:00+02:00",
-  "mentions": [
-   "zemmour"
-  ]
- },
- {
-  "id": "384baf0318e4c599",
-  "outlet": "Sud Ouest",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOaS1lZm8zSjI0ekN1a1p2RlJpZU5jc0hxTEFBTUNkUWtMRDVFazVvUnZoVVlBVlRKa1JyaUZTNXdUcDNKXzVwTjNkejVLRV91QUpRZm9LZ3AxMjJRWFpvdFlfdzBfTHR2dnFiY0xOM1N1QXI3a1pwODk5TXdKNUFfWFRURUJBMTJJX0c3YVNyV1laMmtpQ3o3TTBHX3BYM0FOZzU4dGdNX25aYThvTVJtYWlhR0N2bHc3aGFHSmllbkVDd0ZndjRvYjlHX3U5cWlBMHhwM05iTQ?oc=5",
-  "title": "Présidentielle 2027 : Éric Zemmour propose l’expulsion des étrangers au chômage de longue durée",
-  "summary": "",
-  "published": "2026-09-18T09:00+02:00",
-  "mentions": [
-   "zemmour"
-  ]
- },
- {
-  "id": "34ef9d9ae93fe885",
-  "outlet": "Yahoo Finance France",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPY2dSd1RYTjAyWUVGWXc1dDNGX0s1a1FqN1hBa3BQai1OYnNTN1Z1SUNDSU92TnhicVZkNi0yY2l2WlZncGp1U2gwWFRnckVTYmtIWjR2TENydVZvMTZoblB3NGx0bE1MT2lmaFd1dDNFbkk3N0k4czR1akJ3RmhsakpDb2JXQ3c?oc=5",
-  "title": "«L’État n'a pas un rond», David Lisnard le libéral pointe le poids de la dette",
-  "summary": "",
-  "published": "2026-09-18T09:00+02:00",
-  "mentions": [
-   "lisnard"
-  ]
+   "lepen"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": -1,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "2200f31dc6f5d961",
@@ -298,64 +130,44 @@
   "mentions": []
  },
  {
-  "id": "6ed48a3cd99feb3b",
-  "outlet": "Valeurs actuelles",
-  "lean": "droite",
-  "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeFVaU3V3S1Z4WHZSXzFVelZMRktqZGgxdHl2SmdNVXhUQjQ5VE5Uc0FleGdQbWdEVlBOSFNUcGxET2pRSzRYUGM3TlJibk5RcXZzVWJKVnNTOGQwa056SUNjRlZyNTVWT0pudUJyb2dhSXh4cmk0UThhdWxlUnJnVF9ITmYwaDg3TE5ERTZKVkRDRHBlNHJ3QXg0VHlKWHZyOUFyQ0pDTy1rYm5HLVIyM0ZWQ3NjWWJSTHpKd2VDaG56Vm8?oc=5",
-  "title": "Présidentielle 2027 : Nicolas Dupont-Aignan, cavalier seul à l’ombre du RN",
+  "id": "29cc332cfc2391a7",
+  "outlet": "Le Devoir",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcGJCX0xpZGJmZDh3N29fOXJEd2lvU2xSQkxCeDAxU1hOa3ptOExJQ19OaVJseHN5LUlKZFVYTmxyZzFMa284YzZWcEF4MzNJUndPX1U5UGU5QVV2U0VCNGJDMkNZbVlTa0dLX0Z4NmRVXzEtbnZzbEhqWU45R0REcTNqal94eVhnRm5BdjJfTVN2dmFuajlnTFozazMtNDA?oc=5",
+  "title": "Éric Zemmour rejoint la course à la présidentielle française",
   "summary": "",
   "published": "2026-09-18T09:00+02:00",
   "mentions": [
-   "dupontaignan"
-  ]
+   "zemmour"
+  ],
+  "analysis": [
+   {
+    "id": "zemmour",
+    "tone": 0,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "67052caddd10bcb5",
-  "outlet": "franceinfo",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcE9peUV6MzRHTmRibXY0TjFabHpNVzJxOEdBSnZLMlNONnZRRU5HWGRpMlM3a3czeGxhY1h3YWpFUTZHQWVieUdqM3JGR0hTaFNTTXJOSTJfT3ZrSy1oTElMR1l2dEJzNlJLMmRVYzlzNlBEUnZCZWQtU3dVaW1ka05NalotNDgweFVlZzlVY0hYU1VBc0JCbm5FVG9xVmN1eFJoNw?oc=5",
-  "title": "\"Franc-Jeu\". Avec Gabriel Attal",
-  "summary": "",
-  "published": "2026-09-18T09:00+02:00",
-  "mentions": [
-   "attal"
-  ]
- },
- {
-  "id": "1110bf3e4b1e5cd8",
-  "outlet": "Marianne",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTmZJNEx1RUExc0dQbllZNTZ0MXVicGh1RDV1SzdFUEFDSFVpMU1VOWF5T3VLYWQ1S2pUdjZXcTVlSTBHV1B3b2VRQlVwT2VESXBBd3U0aW93OS1yR1lBRC02azBCZURDR3JGbUk0OGZQcEI2bEN0czRlZGNPRWpISnhfaUYyZmZkNmRKazN0eHRQY19aOHRMelZNd0E3SHFrZmRSWjlaMzBicWx5bVNNalh5ZFg0VTZacHl2SXdGV0JET3JjZUcwOEdYcTloOFdubzZxOA?oc=5",
-  "title": "États-Unis d’Europe : Gabriel Attal enfile la soutane pour tenter de ressusciter sa campagne",
-  "summary": "",
-  "published": "2026-09-18T09:00+02:00",
-  "mentions": [
-   "attal"
-  ]
- },
- {
-  "id": "a7029bfebd2f3581",
+  "id": "2c9ddaee74bc2802",
   "outlet": "ladepeche.fr",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNeFJWTUptOGVRX2F1cmR6SW1wcWVJOTBkLTZiU1o0b0paMVpLdS1feGwzdFZ1MWIzcGpSb0QtdEF4M0E3Q0RTcDctMDZma1JFcFVDSnI0QnI3SnAxcmxQRy1oZ3RDNGVKTl9lSVpUVFFIVnlMTmhPd2o2T0picWRGT2s5Z2hGMk9BTEZoczJIWTFKdUEzWlRzNnloeUdkREtBQnFpdDlmSTlXYzItSUhYdlV2a3N1M05jY2lSaWNtY1dfbFdpaVhBcTRPQ3NBM3RiT0hYRVVGOHJPNlhqblZadVJjSGpHYTlJN1FUdzhWNW1WbjJiX3MyTTJoM0ZLVnhRa2tHOHJvcWxhVThGV0RYWDdZamQwdlJFYzM3RVBTckhOamF4SXc?oc=5",
-  "title": "REPORTAGE. Présidentielle 2027 : \"Il a fait plus en six mois que ses dix prédécesseurs en dix ans !\" L’opération \"1000 bistrots\" de Gabriel Attal a fait étape à Toulouse",
+  "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPM0dqRFFqTkdlYkltRTd1aVdDYlhPMWtJVnNDdVJlM0ZydjVUOUlfUHVPa2RkRjd6ZG16TXRaWVZKdENkT1lpbndsZjFlNkltU00yV2JKc193RWV3U2tDbW5zZmlNUFhBN0FwaUN4Ullsdkdra0hKNzZHOUtGUUVhbDhjajU0T2hOYWlxb0QxdHE1QmQyRFp6TXp5a0JwNnBnWC1mZi1ESE5oV0NwanFUemV0aG8xcjFUMXdLc1hiUVoyYzZTQTdNdTdGaTFMX1I5UkJadFl0eEJVS1dBWC03b1dJTVh1N3FK?oc=5",
+  "title": "Présidentielle 2027 : pourquoi Marine Le Pen a fait une visite surprise dans un restaurant à Castelnaudary",
   "summary": "",
   "published": "2026-09-18T09:00+02:00",
   "mentions": [
-   "attal"
-  ]
- },
- {
-  "id": "367278541fe0f9c9",
-  "outlet": "Sud Ouest",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPOE9JbDhKYUVsWnY3a3QycVcyT3RFVk9BdUFUaWZaNWcxZXV6Z0xEYnpvYlFHQXVYYWJOZ09ybVpPWmowTnRjZWhJWWdJbnFoUHVCMGw3RjVaUEIzQ1dfSTVVMDg0WlhhLUZHUXJHbDVPX0s1eHhIcE01ZGpWb0FxbkFvb0tyNkZXMEdQNVFvdHppWDBnUWZEdERRTmtlMlhGcE42elFhejA3U3NWVXpZbTJPZjNHWm8zeE9ZUFllTTQ0d0UzODd1N2ppekhTTDZOUC1rNU1xc2Q3d1NVUFcxc18waVFCaXNXdlptRGFYeWFtaURTelF6a0NCTGNudzRNV0p1bTNRMGxlcjZZ?oc=5",
-  "title": "Présidentielle 2027 : Gabriel Attal plaide pour des « États-Unis d’Europe » et juge que l’Europe des 27 a « atteint ses limites »",
-  "summary": "",
-  "published": "2026-09-18T09:00+02:00",
-  "mentions": [
-   "attal"
-  ]
+   "lepen"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": 0,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "2f2137414c2183ae",
@@ -367,116 +179,49 @@
   "published": "2026-09-18T09:00+02:00",
   "mentions": [
    "attal"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "df689248c50c3a5d",
-  "outlet": "BFM",
+  "id": "3311d51356f24fc5",
+  "outlet": "Nouvelle Énergie",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOYlN6Vk1pdE9oMHZ1dU5RMExhX2s3STRrRTJRTXFYQ0tkSzJtY043TFFsWHdMZkdpVDd6R3hGa3hGam5IRFlfSUkxam1TbHBFNGxHakpaNUtxMmI4bEY1S3BsaWg3MFZ4YVNsdlJqNWNSSEp0TkYzeTh0dFpiQ1U2bi1XdTF2aGRjR2cydU1lcUNscVBOVXlwNVRwN2IwRVRnQzh0R3pJS21vQ3ItbFJoMk1XekdSUHJ6NWtpRU0zYmhsbTdVbUNMR1NTYTIxMmRwbk1XNUlfcGJqTnpjUzA2WmlCMGlWdnpqME5WSkJySm9tazc0TGtiUG9UTjl3dnJVZkR5UWNRd0k2Nm5BWWJNa3hGM3c?oc=5",
-  "title": "Présidentielle, immigration, voile, Marine Le Pen... Ce qu'il faut retenir de l'interview d'Éric Zemmour sur BFMTV",
+  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUlQ3dnVfRDcxM1d2OEl5Q2trOFhNTkwzSGdKcGdXcG44NlJxSktzS1RGb0JYbGpyeVhjSXFaQXNrUDZTcjNOR18zRUYxU0h6cFFWZjhldmlUV3ZXZDJPZHlEaGpuYy1xVXoxWU9wMWtyZFR0OTNrbzlQN3Jwa2dybncwZzJubkZNUzBsY29GMVNULWJzM2JxNUJWeVN5VmRBTlRSZA?oc=5",
+  "title": "David Lisnard sur LCI : « On ne rafistole pas le Titanic, c’est le système qu’il faut revoir »",
   "summary": "",
   "published": "2026-09-18T09:00+02:00",
   "mentions": [
-   "lepen",
-   "zemmour"
-  ]
+   "lisnard"
+  ],
+  "analysis": [
+   {
+    "id": "lisnard",
+    "tone": 1,
+    "frame": "portrait"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "0b4b855fbdb1ee9c",
-  "outlet": "Ouest-France",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNbFNNQXBTcl9JT0M2X29fYVRwcUFFTnp6b3dxaW1RTURobnE0b3pWajZaT0d1TkxiQ1d2RFhhaGY4bDlReXVrMzMyVERPRTZfbnp5RWYyeHNPQnYxcVljVTFiVGxJeWxDVjJnZ3R5b2NmTmN4U0F5T1RsSnBJV0ZzSGNkNk1fcDhSUEZxNkp1QTZPaDAyXzlWNDJpZ3o0eG9MOHo4MW50NGlsbDZPVnBnaS0zeFdNaWhrdnZfck96QjJTdkcwX0E0RWVWRjgyS2dTdWxvbnBfYjRFMlNQQ3ZWNXp0NlkwSVdrVUkxVzNiVi1BOEYxb0h1UW9zMDRyMFNmWjBEdWJ4aGphZ1dj?oc=5",
-  "title": "Engagés chez Horizon, ces élus vendéens se rangent derrière Bruno Retailleau aux sénatoriales",
-  "summary": "",
-  "published": "2026-09-18T09:00+02:00",
-  "mentions": [
-   "retailleau"
-  ]
- },
- {
-  "id": "8309d40b0ea02b8b",
-  "outlet": "Le Nouvel Obs",
-  "lean": "centre-gauche",
-  "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPSEJISjF6c3V2UWRpaHprLURncUgybGxSUGpQajA4MTZVN1UyZk1HeXpVb09BTjZfWG90YzFlcTJzRWpLclRIdDBZenJwZU9LQWc1c29qY210N3ZnWUNSeVVrWk5oUkJ3RVlINTVVdHcyeDFPNGE3TUwxem8wUnYteUdZcW55VXdoU2tSMTZ0aG8xcjRmTlAxY2dPX2RjMFFvb01lZlB4VkxxOWhEeDN1MTE2YmdORXB3aThTY0tHdnRmMlYwc2FvUHVFbDZJRU5VdVFWSFloQXFCRldzdGJnZEV6MkVwcHlOQy1OSEZIS3FHZw?oc=5",
-  "title": "“Pays de tradition judéo-chrétienne”, “droit à la sécurité” : quand Bruno Retailleau raconte n’importe quoi",
-  "summary": "",
-  "published": "2026-09-18T09:00+02:00",
-  "mentions": [
-   "retailleau"
-  ]
- },
- {
-  "id": "cd923eb4c38334c8",
-  "outlet": "BFM",
+  "id": "34ef9d9ae93fe885",
+  "outlet": "Yahoo Finance France",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxNdXRabm83STBaZ0FIRlc3RVdpVzc3VjBlNE51Q2ktZ00yaWhhTXNnaTFBTXRSRGZ6SkNPRkFRWmR6WC10X3l4dVZhVEIxY2JjX0R6OVM5RXZJM21sbnFyZmZ4cEpmak9EMUh2d01SZUpXaC1FbHdoRllJNnZtdndGWDFDTnZha3JEWjZIMTBkeGNnYmVVYlJvZm1hbTd6cnBvLThuTDlOZXZHazNVMGIzcmFKN3JhdGNZLTNCLVRPSWhoVzBXSVFaMV8tdE5GNFJIdjdkLVluT2tnQ1JaVWpaVUxhZG5iV19lWVBJUGYyb0lLMzltS0tZWnNveXpPOTR1MFlFMERkRi1ZQjBQR2N5ZGZQUEtiT0otZ0FhWnJ5VWFWeS1RTUl3cnhxQ2NYMVotSjlocVJ3?oc=5",
-  "title": "Réunion à l'Élysée: \"On nous a prévenus que, notamment les conséquences énergétiques, seraient vraisemblablement durables\", déclare Bruno Retailleau (LR)",
+  "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPY2dSd1RYTjAyWUVGWXc1dDNGX0s1a1FqN1hBa3BQai1OYnNTN1Z1SUNDSU92TnhicVZkNi0yY2l2WlZncGp1U2gwWFRnckVTYmtIWjR2TENydVZvMTZoblB3NGx0bE1MT2lmaFd1dDNFbkk3N0k4czR1akJ3RmhsakpDb2JXQ3c?oc=5",
+  "title": "«L’État n'a pas un rond», David Lisnard le libéral pointe le poids de la dette",
   "summary": "",
   "published": "2026-09-18T09:00+02:00",
   "mentions": [
-   "retailleau"
-  ]
- },
- {
-  "id": "e40924abb41b4dde",
-  "outlet": "Anadolu Ajansı",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQbms2cXlSeFY2TFJxcHllbTY4YVRXNTVTYUlPc0pDTV9YdHAxVG5TYlZpYkdLajlocjF3emN3SUhSSG5fQWx4Ym16S1dCeWNuU0VERGtvMDRpSXZITTRBR19BeXVQMU1OLVRsMmZfTFRyRElyNGJYbGFzWGxHaENtUkJiNUdjNzdLQWprU0NsNjNFVUN5dVlkMDNWMHBRWkR3TzcyTmZ2N1R0ZFdNVEdoX1YyanUweGtJTnpjNF8zNGpqbURhSGwxRE02QWlaNER0M1NPTUFRVjdpZDIyZFE5LQ?oc=5",
-  "title": "France : Fabien Roussel appelle à une initiative diplomatique pour mettre fin à la guerre en Ukraine",
-  "summary": "",
-  "published": "2026-09-18T09:00+02:00",
-  "mentions": [
-   "roussel"
-  ]
- },
- {
-  "id": "12cb82365ff99ac7",
-  "outlet": "Valeurs actuelles",
-  "lean": "droite",
-  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTi1rYUpwelppWFc3NlRYZjRXTnozeUtoekZCZlRZS0lNdUQ5ZFdZWFU1RjFfVk5fTTVjcjB2eFhBOXBjbklMTVpRYTY5a3Npc0lxRkZHemU2NzdTd3ZrWTVzUlp3SXdnNzllVHBkU280ZF80UGFXdHd2R3daZ2dReVZUZWFNS2ZFUFY3ay1oajFoZnM1aGc?oc=5",
-  "title": "Présidentielle 2027 : le faux départ d’Éric Zemmour",
-  "summary": "",
-  "published": "2026-09-18T09:00+02:00",
-  "mentions": [
-   "zemmour"
-  ]
- },
- {
-  "id": "5ca235daf8ee0030",
-  "outlet": "Actu.fr",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxON3ZNalNBTnhSSFFVaUh3SEF4aFVqa3Bob3k1ZTBEWXNUYWhwd3QzUGhNUlhKSUtqR2x4b1RzZlRmNzh3S0VQZDJjRy0zejBDMml1cjdUcEE0R3p1OG1OcFAyTkROTDVpaWdveS1WR3BVM3dleURXZ2U5R0FVamdyeVdHTUlQdjBRWWN4STI1UGdCU3VBbjZjYXlRcF9qdE5zcjcxUkg2dUVLSFlleXBOZ0dRTjJLd2g1SHo3b3FoUENQcmZkcnRBNjBfZzVnOVpOZXhpRkRZOUt3bmFtZ3FqN2FpV0thNjIyV0JQUg?oc=5",
-  "title": "Immigration, aides sociales, chômage... Éric Zemmour est candidat pour 2027 et il a déjà ses premiers chevaux de bataille",
-  "summary": "",
-  "published": "2026-09-18T09:00+02:00",
-  "mentions": [
-   "zemmour"
-  ]
- },
- {
-  "id": "febd4d6916175318",
-  "outlet": "ici.fr",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQenRLMERwOTJiOVBkRzhucjREUTRyM19PZEZIUHA5WC12X3VyVU8tU3Z2NDRocFI3N1RldnBNaTBJM0VKY0wwZDJDTGUyUkZqNjFVR1B1SVpGdmJ6cnZnTXUtQjVhMVMyOElRS25Ba1pEZE42R1VLZ1Mtazc3T0NXMVhxM3JBODUtNURPR2N1cEhDT3JzNEt2dmZpejlTd09SekdMbFAxTDFHZnpB?oc=5",
-  "title": "Élection présidentielle : Éric Zemmour, président du parti d'extrême droite Reconquête, confirme qu'il sera candidat",
-  "summary": "",
-  "published": "2026-09-18T09:00+02:00",
-  "mentions": [
-   "zemmour"
-  ]
- },
- {
-  "id": "7a6c671a93395259",
-  "outlet": "20 Minutes",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQU1FfZFdEWWVOemdOazJ6YzlLLWZfZm1nbzNFTlZyTWZqNWhJMV80cGJxSF9Ocy03QzlUeml4alp5amszMC11WDFHejZZaUxMTEVHaWhabExWRkFDQ1NpQXY4eWMyb093cmNfdTF3WllJZWhFQl9YS1g2VjVaZkp1YUVrdS11amo4OUZrSUFvMmVyQTlBLU9OalV6bERiSWdWdG00cjJlcWg5YjBQOUVKdDlsUzVMeWtnUEIzb1RYV3EtU0FHUXhaaUxybk9PcEZWV09GNHRFczVvcllFanZ5UndtclY?oc=5",
-  "title": "Candidat pour 2027, Zemmour veut expulser tous les étrangers des prisons",
-  "summary": "",
-  "published": "2026-09-18T09:00+02:00",
-  "mentions": [
-   "zemmour"
-  ]
+   "lisnard"
+  ],
+  "analysis": [],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "35bf2bcdeacf7a8c",
@@ -488,43 +233,55 @@
   "published": "2026-09-18T09:00+02:00",
   "mentions": [
    "zemmour"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "zemmour",
+    "tone": 0,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "fa0cd5c80b8793a1",
-  "outlet": "Centre Presse Aveyron",
+  "id": "367278541fe0f9c9",
+  "outlet": "Sud Ouest",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOa0FhQUZhSDdzbGZpSkZ4RW9sM2RDMm03S3N1eVJpalBDWU5Kc1ZSS1NQbUJWVUxmTHV0b2d1UGIwdkxKQkxrMEJjTzVxM0JwX2paQ3NxeFBLNmVINWdxcEs0ZERNSTY0YkVkQVFIbGJmWWcydHJkZEpIVkFSX0M5TWFHczZlTGpkeEo5cVd4d2lHbWJSX2syQWVaQWVuTkxvekRyLUN5MWpWVHptMzZOd0dqUWNQSnlQcUk2QmZEYmMxTFdPU1dGTm9fNW0zOFl0YWk1RmppV05mWldBM1lmeC1YT3RrdFdWOVM1aURXVmtRUU9hZXBQNU5KZGk1WG1lV1E1ZFdnZVc?oc=5",
-  "title": "Présidentielle 2027 : Eric Zemmour annonce qu’il sera candidat au printemps prochain, cinq ans après sa première tentative",
+  "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPOE9JbDhKYUVsWnY3a3QycVcyT3RFVk9BdUFUaWZaNWcxZXV6Z0xEYnpvYlFHQXVYYWJOZ09ybVpPWmowTnRjZWhJWWdJbnFoUHVCMGw3RjVaUEIzQ1dfSTVVMDg0WlhhLUZHUXJHbDVPX0s1eHhIcE01ZGpWb0FxbkFvb0tyNkZXMEdQNVFvdHppWDBnUWZEdERRTmtlMlhGcE42elFhejA3U3NWVXpZbTJPZjNHWm8zeE9ZUFllTTQ0d0UzODd1N2ppekhTTDZOUC1rNU1xc2Q3d1NVUFcxc18waVFCaXNXdlptRGFYeWFtaURTelF6a0NCTGNudzRNV0p1bTNRMGxlcjZZ?oc=5",
+  "title": "Présidentielle 2027 : Gabriel Attal plaide pour des « États-Unis d’Europe » et juge que l’Europe des 27 a « atteint ses limites »",
+  "summary": "",
+  "published": "2026-09-18T09:00+02:00",
+  "mentions": [
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "384baf0318e4c599",
+  "outlet": "Sud Ouest",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOaS1lZm8zSjI0ekN1a1p2RlJpZU5jc0hxTEFBTUNkUWtMRDVFazVvUnZoVVlBVlRKa1JyaUZTNXdUcDNKXzVwTjNkejVLRV91QUpRZm9LZ3AxMjJRWFpvdFlfdzBfTHR2dnFiY0xOM1N1QXI3a1pwODk5TXdKNUFfWFRURUJBMTJJX0c3YVNyV1laMmtpQ3o3TTBHX3BYM0FOZzU4dGdNX25aYThvTVJtYWlhR0N2bHc3aGFHSmllbkVDd0ZndjRvYjlHX3U5cWlBMHhwM05iTQ?oc=5",
+  "title": "Présidentielle 2027 : Éric Zemmour propose l’expulsion des étrangers au chômage de longue durée",
   "summary": "",
   "published": "2026-09-18T09:00+02:00",
   "mentions": [
    "zemmour"
-  ]
- },
- {
-  "id": "5e2b423e1f4f858e",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQUW9pMFdsLWNTU3FzMzdfaUZUVHJHWTV2ejFiVTNnWkl3R0NZSG4yQ0hXT3ZJRVQ4ZWJrU1NlWnNoOWdVajRRT3lROWF1ZHIwUGRxV1ltMFZBNm1aaG9jcWJ4SnJXcmhUelNqc1pJZG5takxucEtEWHlZcTlsdVRfOUgzcTFXeFREa18ydjR5bHhfcDRFVUZmcXNybjJtaUxYZDlNTUxkUzJTR2huSFZLcDE5TFkzS2tTZzR4YWZ3cllMTUFtNm45WFQ3a2RhMkNyYzMyZ0p0ZF94Q25SU29zYTVBTE9CbF9yeE1EWDhhYmxGVU5nZ3lnd1lENVdUUENOQ2c5Q3oyQUZFdmFH?oc=5",
-  "title": "\"Je serai candidat\": Éric Zemmour annonce sur BFMTV qu'il se présentera à l'élection présidentielle",
-  "summary": "",
-  "published": "2026-09-18T09:00+02:00",
-  "mentions": [
-   "zemmour"
-  ]
- },
- {
-  "id": "b9be2e747188aed0",
-  "outlet": "TV Magazine",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMlRwV2w4REVJR25GZ0dNSXY3Q1RXN1NJVlBzd3VLdUYyZEw5MnBuNHdFREFodkN0cnBITTdjNHpkaXp4SDNRbHFFUTd5Sm91Vy1rbGtydHh5RVVMbThiakI5WFlYMld6ZUVBLW5qS2FQTmRxQnhkMlVac0JTemwyMzFEem4ybEk5TkFZbjZKR3dEalRqRE9HekgwdTU1WGE3d3Y5czIxR2lKUDJfcURJSWVueWN6VlZEU1hxLWt4anQyQVBEa3JtT0U5Wkt2VUxQemNQRWlsNGpWYWE3aE1tRQ?oc=5",
-  "title": "«Vous êtes spécialiste de l’économie ?» : Éric Zemmour pas tendre avec Laure Closier de BFMTV en direct",
-  "summary": "",
-  "published": "2026-09-18T09:00+02:00",
-  "mentions": [
-   "zemmour"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "zemmour",
+    "tone": -1,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "3b404ca4882ad27f",
@@ -537,6 +294,46 @@
   "mentions": []
  },
  {
+  "id": "3f9f61f07bb15192",
+  "outlet": "CNews",
+  "lean": "droite",
+  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaWlxNkI4UVIxNUJsUGZZS1V6WGItTjdCTXdMNGFrQ2lFTXBCY0VqdFZhRkRBTWdkaDhjbkdvdEUyQllyNkk2Wm5DMHBPd1VwVlJWQjNmOUlveGozalRDZ01JY1FDWW5kLXhwS0hSeVpKbjNtQmZRTlF3NFh6OHl4UWd0TVRaRUNFai04R0phMGxpampFNnZYUEdsRGtQZmlSU3ZaR2RramE4ckM0bzNPajNleVpMRzkwWXfSAb8BQVVfeXFMTWdIQkxxME5sVHVKcHRzQkh1RVdmX0hGXzBJNkJGRWhMcUVFSGVfRVZWbENaRVZrdjhNZ0RWQUc1bTFzallkUkxvUWhzWUZLdm9Da3RfaVRIUnVSa0ZDMWJ1bmFXQ2ROYjFVRjRlaWRram9aSHFBX3d3cWp3RWRlSjBjWHhQVnJWSXdDWlZLZnEyWXVlZF95OEpZWWN4N3FSU0otODhBSVgxYUo5VU8zYnJTY1BSeHp4LWFLeHFiVVU?oc=5",
+  "title": "«Des robots à la place des immigrés» : la proposition choc d'Éric Zemmour pour réduire l'immigration",
+  "summary": "",
+  "published": "2026-09-18T09:00+02:00",
+  "mentions": [
+   "zemmour"
+  ],
+  "analysis": [
+   {
+    "id": "zemmour",
+    "tone": -2,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "45ad234f4a9105de",
+  "outlet": "Le Monde.fr",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOSDFJdWF4amJoOGtaSmgwVG03b2I3ZjNmT2szYWpJSWhNYTFtbzJhVlpJcVB2Z3J1NXM0bGlfMGhYdE1QbW5wWGV4MmNCU0JqWWtSOGV5ZjRKUWJ5bUpMLXo4d2JXN3pDVHRnc201RGl0TnRTdVlLZkVERGVtcFBaZ2oxWUFhZ0VjOVBzUUJTU3ZvV2lPNXZac0RMZTVKRDdYOFF1dVFLRWNydXdVQTJNS2FxV3VMVlktdmJGSDJjdUx4VDJCcmtjYXhJa3NfWEd4bG5DTzBIcGZuc2l1RGRxY3ZBVGhGcTBhTjlmdzRXNHA4eENIc1dRbVp2aFc2N092Tk90N1p2MWRtWUxsV3NiSXBTUEY?oc=5",
+  "title": "Présidentielle 2027 : la politique étrangère, angle d’attaque des opposants à Marine Le Pen",
+  "summary": "",
+  "published": "2026-09-18T09:00+02:00",
+  "mentions": [
+   "lepen"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": -1,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
   "id": "490d1df166305078",
   "outlet": "RMC",
   "lean": "non classé",
@@ -546,19 +343,75 @@
   "published": "2026-09-18T09:00+02:00",
   "mentions": [
    "zemmour"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "zemmour",
+    "tone": 0,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "cf7c4b76b097f2be",
-  "outlet": "BFM",
+  "id": "5ca235daf8ee0030",
+  "outlet": "Actu.fr",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOVXVldkJ1Nmh1SGQwQlZkLThVbGY2dHE1Q1QyYXVYVV9SSHRmaUptVkplaTNhaUZaTkducVdSWUlNSVk3ZWRFMThHc0xxV3hmYk5wd3QycTF4NXJudFVRQTVMYzBsbWRxbVZWQm9tdEZITlVrSXN4RGhOYVo3R2lfUEh0TTQxS0UwZGFMYzdEN3BLZzRGUXdqTkxYYnM5Y1BweEFFUDRmMjRwOTlpMDdsWjlyeEY4NEdQUllFT3ByS1lVVUxveFRkVm85enJNYkF6WXJPbUdQdWdjLUUxRFAtSERwckFjeHNvUkNTUDRZeFlsTUQ2NVlDaGxpNFNpZzQ2eGQwbnY4bU05THZJYzVHeUlPcw?oc=5",
-  "title": "Le nombre d'immigrés légaux en France est-il passé de \"100.000 à 500.000\" par an, comme l'affirme Éric Zemmour?",
+  "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxON3ZNalNBTnhSSFFVaUh3SEF4aFVqa3Bob3k1ZTBEWXNUYWhwd3QzUGhNUlhKSUtqR2x4b1RzZlRmNzh3S0VQZDJjRy0zejBDMml1cjdUcEE0R3p1OG1OcFAyTkROTDVpaWdveS1WR3BVM3dleURXZ2U5R0FVamdyeVdHTUlQdjBRWWN4STI1UGdCU3VBbjZjYXlRcF9qdE5zcjcxUkg2dUVLSFlleXBOZ0dRTjJLd2g1SHo3b3FoUENQcmZkcnRBNjBfZzVnOVpOZXhpRkRZOUt3bmFtZ3FqN2FpV0thNjIyV0JQUg?oc=5",
+  "title": "Immigration, aides sociales, chômage... Éric Zemmour est candidat pour 2027 et il a déjà ses premiers chevaux de bataille",
   "summary": "",
   "published": "2026-09-18T09:00+02:00",
   "mentions": [
    "zemmour"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "zemmour",
+    "tone": 0,
+    "frame": "economie_social"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "5e2b423e1f4f858e",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQUW9pMFdsLWNTU3FzMzdfaUZUVHJHWTV2ejFiVTNnWkl3R0NZSG4yQ0hXT3ZJRVQ4ZWJrU1NlWnNoOWdVajRRT3lROWF1ZHIwUGRxV1ltMFZBNm1aaG9jcWJ4SnJXcmhUelNqc1pJZG5takxucEtEWHlZcTlsdVRfOUgzcTFXeFREa18ydjR5bHhfcDRFVUZmcXNybjJtaUxYZDlNTUxkUzJTR2huSFZLcDE5TFkzS2tTZzR4YWZ3cllMTUFtNm45WFQ3a2RhMkNyYzMyZ0p0ZF94Q25SU29zYTVBTE9CbF9yeE1EWDhhYmxGVU5nZ3lnd1lENVdUUENOQ2c5Q3oyQUZFdmFH?oc=5",
+  "title": "\"Je serai candidat\": Éric Zemmour annonce sur BFMTV qu'il se présentera à l'élection présidentielle",
+  "summary": "",
+  "published": "2026-09-18T09:00+02:00",
+  "mentions": [
+   "zemmour"
+  ],
+  "analysis": [
+   {
+    "id": "zemmour",
+    "tone": 0,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "649332b3adc7157d",
+  "outlet": "Le Point",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQLVlwV0NjZnd6TGFjbkJWcmtIZWl6S2lBZDR2cHVzSzR5dm1LOVVFTVZHVlBCWlU2Nk1IWW91ek5TT2FrbEFsS2NIT2hQZ1ZOSXFCTnhyOXNwVjZtRUZ5Y1ZrMlBMNy03dkVsYmRISmhNTW1VUzlxTURRZEZhS0hLOFp2SklWT2VuWlhVdWNpdDQ3ZERENllwTmxSaTY2TmM3cXdPSzBPd0JDU0dIdDBNSFI3ekw3RlBIaXZ0dy1tMmNfNkpSWEljdzFTaEFsTFlMSmpTRVlmV3FNOGtZQmtB?oc=5",
+  "title": "« Il va être obligé de se radicaliser » : pour 2027, Éric Zemmour durcit (encore) son discours",
+  "summary": "",
+  "published": "2026-09-18T09:00+02:00",
+  "mentions": [
+   "zemmour"
+  ],
+  "analysis": [
+   {
+    "id": "zemmour",
+    "tone": -1,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "6668e1f29aebb49b",
@@ -570,31 +423,169 @@
   "published": "2026-09-18T09:00+02:00",
   "mentions": [
    "zemmour"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "zemmour",
+    "tone": -2,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "3f9f61f07bb15192",
-  "outlet": "CNews",
+  "id": "67052caddd10bcb5",
+  "outlet": "franceinfo",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcE9peUV6MzRHTmRibXY0TjFabHpNVzJxOEdBSnZLMlNONnZRRU5HWGRpMlM3a3czeGxhY1h3YWpFUTZHQWVieUdqM3JGR0hTaFNTTXJOSTJfT3ZrSy1oTElMR1l2dEJzNlJLMmRVYzlzNlBEUnZCZWQtU3dVaW1ka05NalotNDgweFVlZzlVY0hYU1VBc0JCbm5FVG9xVmN1eFJoNw?oc=5",
+  "title": "\"Franc-Jeu\". Avec Gabriel Attal",
+  "summary": "",
+  "published": "2026-09-18T09:00+02:00",
+  "mentions": [
+   "attal"
+  ],
+  "analysis": [],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "6ed48a3cd99feb3b",
+  "outlet": "Valeurs actuelles",
   "lean": "droite",
-  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaWlxNkI4UVIxNUJsUGZZS1V6WGItTjdCTXdMNGFrQ2lFTXBCY0VqdFZhRkRBTWdkaDhjbkdvdEUyQllyNkk2Wm5DMHBPd1VwVlJWQjNmOUlveGozalRDZ01JY1FDWW5kLXhwS0hSeVpKbjNtQmZRTlF3NFh6OHl4UWd0TVRaRUNFai04R0phMGxpampFNnZYUEdsRGtQZmlSU3ZaR2RramE4ckM0bzNPajNleVpMRzkwWXfSAb8BQVVfeXFMTWdIQkxxME5sVHVKcHRzQkh1RVdmX0hGXzBJNkJGRWhMcUVFSGVfRVZWbENaRVZrdjhNZ0RWQUc1bTFzallkUkxvUWhzWUZLdm9Da3RfaVRIUnVSa0ZDMWJ1bmFXQ2ROYjFVRjRlaWRram9aSHFBX3d3cWp3RWRlSjBjWHhQVnJWSXdDWlZLZnEyWXVlZF95OEpZWWN4N3FSU0otODhBSVgxYUo5VU8zYnJTY1BSeHp4LWFLeHFiVVU?oc=5",
-  "title": "«Des robots à la place des immigrés» : la proposition choc d'Éric Zemmour pour réduire l'immigration",
+  "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeFVaU3V3S1Z4WHZSXzFVelZMRktqZGgxdHl2SmdNVXhUQjQ5VE5Uc0FleGdQbWdEVlBOSFNUcGxET2pRSzRYUGM3TlJibk5RcXZzVWJKVnNTOGQwa056SUNjRlZyNTVWT0pudUJyb2dhSXh4cmk0UThhdWxlUnJnVF9ITmYwaDg3TE5ERTZKVkRDRHBlNHJ3QXg0VHlKWHZyOUFyQ0pDTy1rYm5HLVIyM0ZWQ3NjWWJSTHpKd2VDaG56Vm8?oc=5",
+  "title": "Présidentielle 2027 : Nicolas Dupont-Aignan, cavalier seul à l’ombre du RN",
+  "summary": "",
+  "published": "2026-09-18T09:00+02:00",
+  "mentions": [
+   "dupontaignan"
+  ],
+  "analysis": [
+   {
+    "id": "dupontaignan",
+    "tone": -1,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "711670364268ddb6",
+  "outlet": "Public Sénat",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVVBxRzI2bWY3UkV3OFAxLVNhbVNxRGR4NEJta1dpNHZIM0JmcktLempZVVExNlphcmwwQzZuOEp0SDhtRl9MNnctVk51M0NWaEhxbEp1QzNRbjJjRVF3cUUzLW5zbS0wVmdWS1hiVGlydGFMSE9iUDg1ZDZ4YkNJMmU2ZFRSb2VSOFYxWHdzR2NIOWxpQjZlWUtGTXVob2FnTnpOV2Z3aFNTTVh0eXl4TGlB?oc=5",
+  "title": "Éric Zemmour officialise sa candidature à la présidentielle 2027",
   "summary": "",
   "published": "2026-09-18T09:00+02:00",
   "mentions": [
    "zemmour"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "zemmour",
+    "tone": 0,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "fda8126a6d649e84",
-  "outlet": "ici.fr",
+  "id": "7292276e60c3b9e4",
+  "outlet": "BFM",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNeGwzMUVTTktGMDR6Uy1QTnNkT243UjNpcGZvUFVXU2EyNl9HWTZ3V3k0eTZyRTRfWG5qWGZVZFl5dGNGVzlMYkVXOGljS0pOZl8ybUtuQ243Z3hZdzlwSmtvdThvd0d6QzZYNlhkQzBMR0YzMVhPdGxXaFJOUWdCSElnTE0zc3ZGdE5YeF9LcnlDbnRORkpweGRyNXhZVDhBVDZ1YXlldDc2N2VjcmM0cERvelh3U3Bxb1M3MEI2UERUei1MT1lac0p6WlNxNTVUcWxBRFd0cXEwV0ozaXdsRmRPUGo2eVplOElTWVp4dVU?oc=5",
-  "title": "\"Il y a eu des défaillances\" : Marine Le Pen en déplacement dans le village du Porge ravagé par l'incendie",
+  "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPaHMySGJfRm91MktoUkFxeXRSM1VFUFlaaHE1ZUh1aHI0V0hNd3RTZ2dRZVI0dHN4WldOVGxVRzlLUWVYcHg3amVJU21OYlZVeDJzeFdjV21kTDlpY2hBUkJxYUs2ZmlrdWVGS25wbjU2V2k0UVVQbzgzdlVMT2lWNTFwcjJhZE14dTZBMUhmOXRqOE9Ea0ZiSGNBSDlZQ0xuNGI3N2JoNWtybzZzUlhucnZWcXhQdmZ4X3lkNUNJdWcxaUVXdC1lWHNxNHpZMzdfcG1fSUw1TUxlZU9LOUFTUXdLUHc5clJCbmNwMnk3dV9sU3ZuT0tkNWV3?oc=5",
+  "title": "\"Des robots à la place des immigrés\": Éric Zemmour évoque la robotique comme une solution à l'immigration",
+  "summary": "",
+  "published": "2026-09-18T09:00+02:00",
+  "mentions": [
+   "zemmour"
+  ],
+  "analysis": [
+   {
+    "id": "zemmour",
+    "tone": -2,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "77c840df779d508c",
+  "outlet": "Institut Montaigne",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdElEaFZVbFVYZ1M5QlRDandZT0VRVFJiT0o0UHdzUEJZcjJLcVNJcGh2QnBmVzFUeDNRSXl5b0dvWEFZVFZpY25OVHZNRzdnZHpEVVFiSHBhb24xYXE0ZDQ5MGVQbjFIbmRRVk9fR1pmcGNDaDlNWGVYOU9ZRElmQzhkTWVxc185U3hCdThRWmpucW5YTGxWVXFfZHBjUVJJamhuRzFQZWY4NnE0Q0otZlB0cjRnMGhkQlE0bXgwVGp4WTQ?oc=5",
+  "title": "[Paroles de Candidats] - Marine Le Pen et le logement : \"impossibilisme\" n’est pas français ?",
   "summary": "",
   "published": "2026-09-18T09:00+02:00",
   "mentions": [
    "lepen"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": 0,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "797ad07260be673c",
+  "outlet": "Le HuffPost",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPaG1DRGZxNDgxNllqbUZvZDROQ2xqVk4zYTY4VWkyY3RmdEZCMnUtNUNfLWxZeU03b01BMThZTkk0TEI4LTlFdzVQbXBiSkEtVFgxNnp0RkpBMjV5NDlZaUNyYTFfZW41S292WURsaE4xa0ZXVmJjUENXNGlITzdNSUx2S3V6NFIwN2J0clRzUy1PN3EzUUozbXFaOGxxczZfRWt2V3JlVFhwaVRGNFhLQlJIY2V2OVQ0ZzJLZjR1bnRUbVBjbXJudk5iWEIzbWZkM1dCMHUwWko?oc=5",
+  "title": "L’ardoise à plus de 160 000 euros laissée par Marine Le Pen au Parlement européen",
+  "summary": "",
+  "published": "2026-09-18T09:00+02:00",
+  "mentions": [
+   "lepen"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": -2,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "7a6c671a93395259",
+  "outlet": "20 Minutes",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQU1FfZFdEWWVOemdOazJ6YzlLLWZfZm1nbzNFTlZyTWZqNWhJMV80cGJxSF9Ocy03QzlUeml4alp5amszMC11WDFHejZZaUxMTEVHaWhabExWRkFDQ1NpQXY4eWMyb093cmNfdTF3WllJZWhFQl9YS1g2VjVaZkp1YUVrdS11amo4OUZrSUFvMmVyQTlBLU9OalV6bERiSWdWdG00cjJlcWg5YjBQOUVKdDlsUzVMeWtnUEIzb1RYV3EtU0FHUXhaaUxybk9PcEZWV09GNHRFczVvcllFanZ5UndtclY?oc=5",
+  "title": "Candidat pour 2027, Zemmour veut expulser tous les étrangers des prisons",
+  "summary": "",
+  "published": "2026-09-18T09:00+02:00",
+  "mentions": [
+   "zemmour"
+  ],
+  "analysis": [
+   {
+    "id": "zemmour",
+    "tone": -2,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "8309d40b0ea02b8b",
+  "outlet": "Le Nouvel Obs",
+  "lean": "centre-gauche",
+  "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPSEJISjF6c3V2UWRpaHprLURncUgybGxSUGpQajA4MTZVN1UyZk1HeXpVb09BTjZfWG90YzFlcTJzRWpLclRIdDBZenJwZU9LQWc1c29qY210N3ZnWUNSeVVrWk5oUkJ3RVlINTVVdHcyeDFPNGE3TUwxem8wUnYteUdZcW55VXdoU2tSMTZ0aG8xcjRmTlAxY2dPX2RjMFFvb01lZlB4VkxxOWhEeDN1MTE2YmdORXB3aThTY0tHdnRmMlYwc2FvUHVFbDZJRU5VdVFWSFloQXFCRldzdGJnZEV6MkVwcHlOQy1OSEZIS3FHZw?oc=5",
+  "title": "“Pays de tradition judéo-chrétienne”, “droit à la sécurité” : quand Bruno Retailleau raconte n’importe quoi",
+  "summary": "",
+  "published": "2026-09-18T09:00+02:00",
+  "mentions": [
+   "retailleau"
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": -2,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "9dcc5f02cb6f7f45",
@@ -606,7 +597,35 @@
   "published": "2026-09-18T09:00+02:00",
   "mentions": [
    "philippe"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": 0,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "a19babb17370ee9f",
+  "outlet": "Le Monde.fr",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNMHpYZUl2bVNiVDVrMVh5R1NNbDdhUlhKSmFCYmdkYU9MVWdWcGo3NmxLVGkyTXhwSGhmQ2lGUHdqMHBLSWJjclhhTGhQQ04yTFQtS0VhdTJsenc1dkhjZ2J1Y2gxQzJzVlhhbVBZV1JIWEI3cDBzZ3VucXZSOGQ1UjhqZVNuOHlIR19CQ1VpdmV3ZDlTQ3NLZUdHcmlwVFZ5ekN0Y1QtaTBSMmZESkZPSW9nUm1lYURuSXJyZ3VQbUZmSzJUOVpDSmh2Wk0xMGFtMHdBVWZpbVdxaV9zTHlXUDlVOF9tUnFRWXNoemt6YlZWRWtEOUNNM3BGNjZ6eWFBLUFyS2pQWDM0TE5kOUdCSUJRRHpzMEdpY2hMcmFWQ3ctSXhaZHJiQVJfaw?oc=5",
+  "title": "Marine Le Pen en campagne présidentielle au Porge, village sinistré par les incendies où « personne ne croit plus à la politique »",
+  "summary": "",
+  "published": "2026-09-18T09:00+02:00",
+  "mentions": [
+   "lepen"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": -1,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "a4790fd6d07a83d5",
@@ -618,7 +637,215 @@
   "published": "2026-09-18T09:00+02:00",
   "mentions": [
    "ruffin"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "ruffin",
+    "tone": 0,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "a7029bfebd2f3581",
+  "outlet": "ladepeche.fr",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNeFJWTUptOGVRX2F1cmR6SW1wcWVJOTBkLTZiU1o0b0paMVpLdS1feGwzdFZ1MWIzcGpSb0QtdEF4M0E3Q0RTcDctMDZma1JFcFVDSnI0QnI3SnAxcmxQRy1oZ3RDNGVKTl9lSVpUVFFIVnlMTmhPd2o2T0picWRGT2s5Z2hGMk9BTEZoczJIWTFKdUEzWlRzNnloeUdkREtBQnFpdDlmSTlXYzItSUhYdlV2a3N1M05jY2lSaWNtY1dfbFdpaVhBcTRPQ3NBM3RiT0hYRVVGOHJPNlhqblZadVJjSGpHYTlJN1FUdzhWNW1WbjJiX3MyTTJoM0ZLVnhRa2tHOHJvcWxhVThGV0RYWDdZamQwdlJFYzM3RVBTckhOamF4SXc?oc=5",
+  "title": "REPORTAGE. Présidentielle 2027 : \"Il a fait plus en six mois que ses dix prédécesseurs en dix ans !\" L’opération \"1000 bistrots\" de Gabriel Attal a fait étape à Toulouse",
+  "summary": "",
+  "published": "2026-09-18T09:00+02:00",
+  "mentions": [
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "economie_social"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "ad7eb016cd3ee7cc",
+  "outlet": "Le Figaro",
+  "lean": "droite",
+  "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPQ2dCbGNOeS1QZnZONTVPcTVDVEVFeWVVanU1T3E0ZnpQemFUWjFkMFVQdnIyejRDb0ZhVFVZZGdpU1RsSUswcl9nRGR5WFAyS3lKSzlOMVROdTdzTlhZU3NaMXVQNExNTDdRTy1pbFhTTVhCMHVmT3NjTFo1YWpEbFpPaC01MEg2aUNXdVc0dElISlRzV2xNdWVlaTVONFZaZnltX1I4MjFIWF9MUGU5VFFhaW9HWDlMakRoTXNJc2o0eGFOUGdnM1NVSWFKLTVScmNSYlp0eEIzVkFacTZrVGtQd0cxVGVjUXJWcko3WFQzSVVvTzFsUg?oc=5",
+  "title": "Présidentielle 2027 : Éric Zemmour confirme qu'il sera candidat et durcit encore son discours sur l'immigration",
+  "summary": "",
+  "published": "2026-09-18T09:00+02:00",
+  "mentions": [
+   "zemmour"
+  ],
+  "analysis": [
+   {
+    "id": "zemmour",
+    "tone": -1,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "b35a8b9631ad709b",
+  "outlet": "Vert Le média",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNUWZZdkxGVW5iX2t4YXBqY3A0dGpNSzd3WG51R0E3SE11UUNzZk9kQ3BpNmFkOHZEWElaeU85OXUwZlphcHB1OWttd2p0Z1E4ZHFTMnVBeGk4N2pjOVBMNVBGRENkS1daUHhwVV9Cem5pb1RMQklWNE9kbF9uTzczNXFCM0dvOC0tUWhrSTQ0RVlLaXBySnJMTDIzZ21KVm9FRjMycHRIQ3o1OUFmUWhwTjlYMnlvZ0tMYnFFTHk3OGVSM3p2dkFsVWNlNXNGMW9NOGtGME1PeUNZRDNMS1JaSF92YzR1X05aUEU4Q3lkRQ?oc=5",
+  "title": "«Je ne suis pas sûre que faire mieux permette d’éviter le réchauffement climatique» : en Gironde, Marine Le Pen prône l’inaction",
+  "summary": "",
+  "published": "2026-09-18T09:00+02:00",
+  "mentions": [
+   "lepen"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": -1,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "b7f99ce5aa2fac63",
+  "outlet": "Mediapart",
+  "lean": "gauche",
+  "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdkdHNC1FNGgtZDg4RXpKdEExbVBkVEE1Y290VWNFenE5ekYzcUdHdmZCMU80c3UxM2l6b0dTSDVYdTQxWURxLTlsWk0yOEZYQ0NDbkM3RW5DVkVDbkwxR1FCblZRNHVHU193VW1VYXFWd3h6VmlvR2pWY0Nnb3dmOVFvZF9UMGh5eGE4RFEyRU5KcTZ1dmtuSVpnMWdHWjZ2bmJIZGRQX0VpUFRiWmlTVjdEYy1saXlnMzdfTk45ZHZKNTlIUVpWbGMzV1hRZEtmUHQw?oc=5",
+  "title": "Le Parlement européen réclame près de 170 000 euros à Marine Le Pen pour des dépenses indues",
+  "summary": "",
+  "published": "2026-09-18T09:00+02:00",
+  "mentions": [
+   "lepen"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": -2,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "b9bcf74c453a2324",
+  "outlet": "Rue89Bordeaux",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNU1pLVGFZSTU3T29qZVhoX2JodGg4ZERncmprdVdnQmN5Q0xkZ09meUUxVVRoMmVIdlgzZVFIUEEzekZjeVZDVkY0TEREU05CSFBkdEhqNVVNNnc5aC1zVWhvLUl0VDZkMVEtWmFuSHpXRDBfQ2tIQXBDbWRNS1dVRTVLSTRXUFpweGZ5NVNmNVREX1NvZFVlSV9VSVBBS0nSAaQBQVVfeXFMTUExSVY4UGNTOVFYLWRXYm5vNXUxNGNveXBPOGhtM2ZMT2llSjVxVEhYYjBkLXgtX3hDOV96WlVuZG5lbHJSZXY5YnYxVWczV3FUbkdWaU5QT3ZQa3pJMm9qRDVidFg0dGtWZWtrVGlrWHlyTU5DNnVRYkNVRk4wQ0lXTTJ1VGk1Q2I5ZkRSdU9qVlVWVWZhdi1GY2E5T1FlTExLa2Q?oc=5",
+  "title": "Après le mégafeu, Marine Le Pen au Porge sans idées étincelantes",
+  "summary": "",
+  "published": "2026-09-18T09:00+02:00",
+  "mentions": [
+   "lepen"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": -1,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "b9be2e747188aed0",
+  "outlet": "TV Magazine",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMlRwV2w4REVJR25GZ0dNSXY3Q1RXN1NJVlBzd3VLdUYyZEw5MnBuNHdFREFodkN0cnBITTdjNHpkaXp4SDNRbHFFUTd5Sm91Vy1rbGtydHh5RVVMbThiakI5WFlYMld6ZUVBLW5qS2FQTmRxQnhkMlVac0JTemwyMzFEem4ybEk5TkFZbjZKR3dEalRqRE9HekgwdTU1WGE3d3Y5czIxR2lKUDJfcURJSWVueWN6VlZEU1hxLWt4anQyQVBEa3JtT0U5Wkt2VUxQemNQRWlsNGpWYWE3aE1tRQ?oc=5",
+  "title": "«Vous êtes spécialiste de l’économie ?» : Éric Zemmour pas tendre avec Laure Closier de BFMTV en direct",
+  "summary": "",
+  "published": "2026-09-18T09:00+02:00",
+  "mentions": [
+   "zemmour"
+  ],
+  "analysis": [
+   {
+    "id": "zemmour",
+    "tone": -2,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "bd4c08e9309f6cf2",
+  "outlet": "Le HuffPost",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNYzY2V19PUnROMkdjejRxb0I5WERHaDNnamg2NjNyaE1aXzFuTWpfR193eUJiRjVrZ3lTS3dJdUs4MTdWTWY4amNzYmJDNG9BNjdJUnNDVzJmMXl0MnNrNzRLd01idzM2d21yUEQ2MFcybUUtNEcwZFdnVmp6NFFMa3dxdkRqbnBHejRiU1pudzVVMGw5cElYY094dEM1S0xSQ0NzLWNIVVNTYnpFRVdIOEJoT1phMmUzdHhaZVF5THZIZi03UTdJd1VDVWtOanN4cloxWkVxMGRvOXNodDN2VEVNZTE5b251SFYw?oc=5",
+  "title": "Eric Zemmour confirme son choix pour l’élection présidentielle de 2027",
+  "summary": "",
+  "published": "2026-09-18T09:00+02:00",
+  "mentions": [
+   "zemmour"
+  ],
+  "analysis": [
+   {
+    "id": "zemmour",
+    "tone": 0,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "cd923eb4c38334c8",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxNdXRabm83STBaZ0FIRlc3RVdpVzc3VjBlNE51Q2ktZ00yaWhhTXNnaTFBTXRSRGZ6SkNPRkFRWmR6WC10X3l4dVZhVEIxY2JjX0R6OVM5RXZJM21sbnFyZmZ4cEpmak9EMUh2d01SZUpXaC1FbHdoRllJNnZtdndGWDFDTnZha3JEWjZIMTBkeGNnYmVVYlJvZm1hbTd6cnBvLThuTDlOZXZHazNVMGIzcmFKN3JhdGNZLTNCLVRPSWhoVzBXSVFaMV8tdE5GNFJIdjdkLVluT2tnQ1JaVWpaVUxhZG5iV19lWVBJUGYyb0lLMzltS0tZWnNveXpPOTR1MFlFMERkRi1ZQjBQR2N5ZGZQUEtiT0otZ0FhWnJ5VWFWeS1RTUl3cnhxQ2NYMVotSjlocVJ3?oc=5",
+  "title": "Réunion à l'Élysée: \"On nous a prévenus que, notamment les conséquences énergétiques, seraient vraisemblablement durables\", déclare Bruno Retailleau (LR)",
+  "summary": "",
+  "published": "2026-09-18T09:00+02:00",
+  "mentions": [
+   "retailleau"
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": 0,
+    "frame": "economie_social"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "cd9446fb8fe4b379",
+  "outlet": "Gala",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQYlREaEFCVEs4ckN0eHJZUDhFdEc0MUsweExrVS1nZDVkcXlzTHc4LXRPeEp1MWtieWE5M0tKMDZ5M3hXT05nbGVWSGh4RXNZdGcwZ3pnckh5QXl5VVBiUDc0OUlPcWVvX1I2XzRHUGFrQTFqNHNMSlJaNG02eUdmYW5nS2VnUzhDYXBIcllVVm5WdUR1OE5aVmpFRjFTUmhsWVRJQmlRR1pJOThYZlNqVENMdTg3aS1WbFMwQ2psdjJidXBTUXdERXM0TndjMEpRbmU2WGFoZ3NYY2x2Rk81RmdR?oc=5",
+  "title": "Sarah Knafo, une compagne et… concurrente ? Éric Zemmour met les choses au clair face aux rumeurs : “Pas de rivalité”",
+  "summary": "",
+  "published": "2026-09-18T09:00+02:00",
+  "mentions": [
+   "zemmour"
+  ],
+  "analysis": [
+   {
+    "id": "zemmour",
+    "tone": 0,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "cf7c4b76b097f2be",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOVXVldkJ1Nmh1SGQwQlZkLThVbGY2dHE1Q1QyYXVYVV9SSHRmaUptVkplaTNhaUZaTkducVdSWUlNSVk3ZWRFMThHc0xxV3hmYk5wd3QycTF4NXJudFVRQTVMYzBsbWRxbVZWQm9tdEZITlVrSXN4RGhOYVo3R2lfUEh0TTQxS0UwZGFMYzdEN3BLZzRGUXdqTkxYYnM5Y1BweEFFUDRmMjRwOTlpMDdsWjlyeEY4NEdQUllFT3ByS1lVVUxveFRkVm85enJNYkF6WXJPbUdQdWdjLUUxRFAtSERwckFjeHNvUkNTUDRZeFlsTUQ2NVlDaGxpNFNpZzQ2eGQwbnY4bU05THZJYzVHeUlPcw?oc=5",
+  "title": "Le nombre d'immigrés légaux en France est-il passé de \"100.000 à 500.000\" par an, comme l'affirme Éric Zemmour?",
+  "summary": "",
+  "published": "2026-09-18T09:00+02:00",
+  "mentions": [
+   "zemmour"
+  ],
+  "analysis": [
+   {
+    "id": "zemmour",
+    "tone": -2,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "cff412afb8dc0617",
@@ -633,16 +860,185 @@
   ]
  },
  {
-  "id": "3311d51356f24fc5",
-  "outlet": "Nouvelle Énergie",
+  "id": "d4806beee6892988",
+  "outlet": "RTL",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUlQ3dnVfRDcxM1d2OEl5Q2trOFhNTkwzSGdKcGdXcG44NlJxSktzS1RGb0JYbGpyeVhjSXFaQXNrUDZTcjNOR18zRUYxU0h6cFFWZjhldmlUV3ZXZDJPZHlEaGpuYy1xVXoxWU9wMWtyZFR0OTNrbzlQN3Jwa2dybncwZzJubkZNUzBsY29GMVNULWJzM2JxNUJWeVN5VmRBTlRSZA?oc=5",
-  "title": "David Lisnard sur LCI : « On ne rafistole pas le Titanic, c’est le système qu’il faut revoir »",
+  "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOczlIaFFCSnRTR3hDVHlEVkc0UFFpU0oyMXJPRkR2aDl3MjlvVzB0RkdKUUJXZ0VoMG95cG5MeHZMN2NEV1pNTERxX3JKYUFZWnNKS0tlcUFaMlY2VEdRNXFVU2ZJdzhlVm1aVGVxVTlfX1J3WkJ4YUVxbzRKaks3akxCTGRWOTNTMDZ5MEdxWWVOaDFySEI3TmQ5cVhFY1l0MnYxM1hPRmVWR1hIV25UUjM1dEdYNnY3YXFXOEVLNG9nTHRhTk1mRmExWV9QS2tMNGx0VFZfZFNwb3R1cVpRUHp3?oc=5",
+  "title": "\"Je serai candidat\" : Éric Zemmour confirme qu'il se présentera à la présidentielle 2027 et donne les premières pistes de son programme",
   "summary": "",
   "published": "2026-09-18T09:00+02:00",
   "mentions": [
-   "lisnard"
-  ]
+   "zemmour"
+  ],
+  "analysis": [
+   {
+    "id": "zemmour",
+    "tone": 0,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "d8380276deb83543",
+  "outlet": "La Croix",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPb2FOY1BYRTdsbzVnSVhsTGloU2ppdDBMakRYMTB6R09Tb1NxbUtELW55Ynd2aUZnUVkyUUdGblFQNEVLYU02T3ZoMWFXSWdKVU1YV1FvbHF6MW5UeVdMNHR5Zk5BUFlxNnU3VDRyeXdmcWJYb3Q1U3FqU1F3T0FnRzR2RmNXdU1UaFRTV3dMdmtfTTA4U1RXbmVUeV9FWF9GVlgyT29tWWM?oc=5",
+  "title": "Présidentielle 2027 : Éric Zemmour confirme qu’il sera candidat",
+  "summary": "",
+  "published": "2026-09-18T09:00+02:00",
+  "mentions": [
+   "zemmour"
+  ],
+  "analysis": [
+   {
+    "id": "zemmour",
+    "tone": 0,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "df689248c50c3a5d",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOYlN6Vk1pdE9oMHZ1dU5RMExhX2s3STRrRTJRTXFYQ0tkSzJtY043TFFsWHdMZkdpVDd6R3hGa3hGam5IRFlfSUkxam1TbHBFNGxHakpaNUtxMmI4bEY1S3BsaWg3MFZ4YVNsdlJqNWNSSEp0TkYzeTh0dFpiQ1U2bi1XdTF2aGRjR2cydU1lcUNscVBOVXlwNVRwN2IwRVRnQzh0R3pJS21vQ3ItbFJoMk1XekdSUHJ6NWtpRU0zYmhsbTdVbUNMR1NTYTIxMmRwbk1XNUlfcGJqTnpjUzA2WmlCMGlWdnpqME5WSkJySm9tazc0TGtiUG9UTjl3dnJVZkR5UWNRd0k2Nm5BWWJNa3hGM3c?oc=5",
+  "title": "Présidentielle, immigration, voile, Marine Le Pen... Ce qu'il faut retenir de l'interview d'Éric Zemmour sur BFMTV",
+  "summary": "",
+  "published": "2026-09-18T09:00+02:00",
+  "mentions": [
+   "lepen",
+   "zemmour"
+  ],
+  "analysis": [
+   {
+    "id": "zemmour",
+    "tone": -1,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "e40924abb41b4dde",
+  "outlet": "Anadolu Ajansı",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQbms2cXlSeFY2TFJxcHllbTY4YVRXNTVTYUlPc0pDTV9YdHAxVG5TYlZpYkdLajlocjF3emN3SUhSSG5fQWx4Ym16S1dCeWNuU0VERGtvMDRpSXZITTRBR19BeXVQMU1OLVRsMmZfTFRyRElyNGJYbGFzWGxHaENtUkJiNUdjNzdLQWprU0NsNjNFVUN5dVlkMDNWMHBRWkR3TzcyTmZ2N1R0ZFdNVEdoX1YyanUweGtJTnpjNF8zNGpqbURhSGwxRE02QWlaNER0M1NPTUFRVjdpZDIyZFE5LQ?oc=5",
+  "title": "France : Fabien Roussel appelle à une initiative diplomatique pour mettre fin à la guerre en Ukraine",
+  "summary": "",
+  "published": "2026-09-18T09:00+02:00",
+  "mentions": [
+   "roussel"
+  ],
+  "analysis": [
+   {
+    "id": "roussel",
+    "tone": 0,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "e6dbda8f3403c8d0",
+  "outlet": "Marianne",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOV9BZkdnVGdmV29qUmZ0dDlNdUN2ZVR6dEVBSi1saXhvLVh5c0lSVEFQYi1wRml1emFsVDlNUWtUSzRiUkU4NGswTGlBUHo4clFVb28yY0JaU2xrTTJSZXNVSzM2bEVrRXJxejVSbGJCQVQtZ2ZpRGlhU2xWQzQ2M0d4aVlkckpadjhqSHJmcFVlblU2UzVrRDdvMFpWdXNwX0JTZk85T1ppcE5reURmRUhCRW5WcHpYcmRHY3RVcWRHckFLckRraQ?oc=5",
+  "title": "Présidentielle : en plein direct à 22 h 47, Éric Zemmour annonce sa candidature sans faire exprès",
+  "summary": "",
+  "published": "2026-09-18T09:00+02:00",
+  "mentions": [
+   "zemmour"
+  ],
+  "analysis": [
+   {
+    "id": "zemmour",
+    "tone": 0,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "fa0cd5c80b8793a1",
+  "outlet": "Centre Presse Aveyron",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOa0FhQUZhSDdzbGZpSkZ4RW9sM2RDMm03S3N1eVJpalBDWU5Kc1ZSS1NQbUJWVUxmTHV0b2d1UGIwdkxKQkxrMEJjTzVxM0JwX2paQ3NxeFBLNmVINWdxcEs0ZERNSTY0YkVkQVFIbGJmWWcydHJkZEpIVkFSX0M5TWFHczZlTGpkeEo5cVd4d2lHbWJSX2syQWVaQWVuTkxvekRyLUN5MWpWVHptMzZOd0dqUWNQSnlQcUk2QmZEYmMxTFdPU1dGTm9fNW0zOFl0YWk1RmppV05mWldBM1lmeC1YT3RrdFdWOVM1aURXVmtRUU9hZXBQNU5KZGk1WG1lV1E1ZFdnZVc?oc=5",
+  "title": "Présidentielle 2027 : Eric Zemmour annonce qu’il sera candidat au printemps prochain, cinq ans après sa première tentative",
+  "summary": "",
+  "published": "2026-09-18T09:00+02:00",
+  "mentions": [
+   "zemmour"
+  ],
+  "analysis": [
+   {
+    "id": "zemmour",
+    "tone": 0,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "fda8126a6d649e84",
+  "outlet": "ici.fr",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNeGwzMUVTTktGMDR6Uy1QTnNkT243UjNpcGZvUFVXU2EyNl9HWTZ3V3k0eTZyRTRfWG5qWGZVZFl5dGNGVzlMYkVXOGljS0pOZl8ybUtuQ243Z3hZdzlwSmtvdThvd0d6QzZYNlhkQzBMR0YzMVhPdGxXaFJOUWdCSElnTE0zc3ZGdE5YeF9LcnlDbnRORkpweGRyNXhZVDhBVDZ1YXlldDc2N2VjcmM0cERvelh3U3Bxb1M3MEI2UERUei1MT1lac0p6WlNxNTVUcWxBRFd0cXEwV0ozaXdsRmRPUGo2eVplOElTWVp4dVU?oc=5",
+  "title": "\"Il y a eu des défaillances\" : Marine Le Pen en déplacement dans le village du Porge ravagé par l'incendie",
+  "summary": "",
+  "published": "2026-09-18T09:00+02:00",
+  "mentions": [
+   "lepen"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": 0,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "fe7b3ad0208d5756",
+  "outlet": "Le Monde.fr",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxOOFgweXEwOHJDS25QRjRZMlhvaUJVbXV0dko0Z0V6VDRVS0dZR3A3M0puMVNGZnAzTGFDVnFhYkVTeU9mMWR0bWk1UzRtUWg2ajM1QjNtLUdJczRnX25lU21rX2pQVDJmbXhNY3o3NURLa0dFNS1Cb1EzMVdlV2JzeDdETGczWDNQR1hNb1B4Vzc2a25ObnVDZzZBUWx1ZVBGVWRvN0xoTEZHeHIxWXNyYnFDTEJhTXZPMXgxMGRSY0lhUjdMUjdzR3dMOVoxWWFmdjNUZWxPNlVBZXNtenpDSFFTbzJJVFd1S2M5RmRVUXd3clZzT3pnZHZmNWtTUGxlc3VqVUFKbWJSdzV6aDg4SWZFaVpIMFZuX19GZGZTZ3o4SGwxMGZwbXlmVF9tWG5UR0I1TkVEanhzYWJC?oc=5",
+  "title": "Des propos d’Eric Zemmour sur Kylian Mbappé suscitent l’indignation à gauche : « Pendant combien de temps va-t-on laisser cet homme cracher sa haine ? »",
+  "summary": "",
+  "published": "2026-09-18T09:00+02:00",
+  "mentions": [
+   "zemmour"
+  ],
+  "analysis": [
+   {
+    "id": "zemmour",
+    "tone": -2,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "febd4d6916175318",
+  "outlet": "ici.fr",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQenRLMERwOTJiOVBkRzhucjREUTRyM19PZEZIUHA5WC12X3VyVU8tU3Z2NDRocFI3N1RldnBNaTBJM0VKY0wwZDJDTGUyUkZqNjFVR1B1SVpGdmJ6cnZnTXUtQjVhMVMyOElRS25Ba1pEZE42R1VLZ1Mtazc3T0NXMVhxM3JBODUtNURPR2N1cEhDT3JzNEt2dmZpejlTd09SekdMbFAxTDFHZnpB?oc=5",
+  "title": "Élection présidentielle : Éric Zemmour, président du parti d'extrême droite Reconquête, confirme qu'il sera candidat",
+  "summary": "",
+  "published": "2026-09-18T09:00+02:00",
+  "mentions": [
+   "zemmour"
+  ],
+  "analysis": [
+   {
+    "id": "zemmour",
+    "tone": 0,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "626ed5a558db0496",

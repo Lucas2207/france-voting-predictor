@@ -1,15 +1,243 @@
 [
  {
-  "id": "82d87a9c646f3444",
-  "outlet": "Les Echos",
+  "id": "03dc9f3503397748",
+  "outlet": "www.lamarseillaise.fr",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQaE1QdjZZN1FQTFk1VmtDOEtmMUYySHBlMTh3aUpLd2RHTkdSdGRQaGtDZUFUdzBubERpcl84dVd5NmVOcTlLUmFTM05zc0RsLVpsTXdXOHNkQzJMWXc0d0d6LXFGblQ2bTFiSzYyajk1ZVRTak91dFFrcWZJUnBZZ0NCTGxsdzJmVjdmT19OTDFwMVlSZWFNeEpFS1ZhTi1kcFJvNGprYlFnSzFudmwtUkVDQlR2N0R2bm9IRUZrcTAxbDhPTTJGb1A3TlptME9KUzF3alhONUFhRlg2VmNLaVBHcmVCcDd0UzVZQlNiNkZyN3hRZ2thd292TWl5U3FNVVIxTEJB?oc=5",
-  "title": "Pianiste, énarque et ex-mélenchoniste : Ambroise de Rancourt, la plume de Marine Le Pen qui met en musique le programme RN",
+  "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWUtqd0p2cm00cDNMS2lKZzkxRm1tM19MQjVMMU9OajZEdS1CZnBDd1F2MXhCbWVMOFJOazNGRlB6eXVweGRCaHo1a0xGZG1LTHZuRTZ4anIyby1sUS1NVk9iRmM2SGs3MXhzZnhjU3QyVFROWVFRUmI1Wm1KZzA1M3QzZC1tRFJVZkJDcTNWTThZY09MSzRHQXNNNml3TG9IMnZNWURVRW1sdkk?oc=5",
+  "title": "[Tribune] Verdun ou Waterloo pour Fabien Roussel et le PCF ?",
   "summary": "",
   "published": "2026-08-21T09:00+02:00",
   "mentions": [
-   "lepen"
-  ]
+   "roussel"
+  ],
+  "analysis": [
+   {
+    "id": "roussel",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "05ebf67ad3ac781b",
+  "outlet": "TIME France",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRk9Db3NTRVRsR1JZX0FzTnMzWE5XMi1kWTVib1lxcEVkc0g1X1M5MjI0ZmdTMmJrOGduOVZ0RVc0ZFFVcTBlblpHYzZMZ1RSczItUmJmVXZEcTdCbEh0anlsZVl2TXY4TlBPYTFTMmxJNEQwVzd3VjA0OHZoTGlPeUFKS2FhTm53azlLSjkwcFBTLWFpTmNIRnVsOVNpaDVkU2Vjd1VCWnJjRUNWZHRaZGk3VTBYdXNmVlRKLUEyN2Fudw?oc=5",
+  "title": "Les visages des présidentielles 2027 : Gabriel Attal, l’héritier pressé qui joue la rupture",
+  "summary": "",
+  "published": "2026-08-21T09:00+02:00",
+  "mentions": [
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": -1,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "077be941d6cc48f1",
+  "outlet": "Le Parisien",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNamJPZEZ0bEQ5MDFzTXpYM0xEUHp2dEExZEI2dGlfQ0RSRFkwNjZhaWdIUU0wODREdktMVWhzLWtLeWREMlQ0RzYtOFhhZ0lSSUczUFhjQmc3NVdUR2VDbFJJMDUtZDVpZTFHVTFmV2llMkJjd0FNeVRNZnlkdzNhQzRFWlpxN3BiQ2Y5emJnaHVSLTNiaEdFQW5GT2NtZnlCNmdBLURXQnB3OWtkNGl1OERSa2RKbFhUb1BsZGJSdVNBT29hQ1JBQ0U3WjZfSS1hak8zUERBaEhRdDBCdHA5ME5MNTVpb0pRT3VUdi02X2kwQ05uWVZFSm9tNGhYVnZsSl9Bc0tGZllLR3U0bEFGcXZaQi0?oc=5",
+  "title": "Ingérences russes et présidentielle 2027 : Gabriel Attal visé par deux nouvelles opérations de déstabilisation",
+  "summary": "",
+  "published": "2026-08-21T09:00+02:00",
+  "mentions": [
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": -1,
+    "frame": "securite"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "139555d5f8b749c8",
+  "outlet": "ici.fr",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNS3lCVEN5M2hFdnlXbjlOOTlPOF9oUzRwS2phYlN1Y0tkdHhzWG9FYXZXWWhnSjJhaUlGclhCUnp5dDJhTFdZcDhwM2otRXlUZDlERHBKbGtPaWpsaGt5VURfbl9mY203OHdEN2MtQjNDQmRHWlhaTXktTWhZWTJTemNFMENfUUZTaGZ6dEZjX1lTbk0yejFPazdB?oc=5",
+  "title": "Présidentielle 2027 : qui sont les candidats déclarés ?",
+  "summary": "",
+  "published": "2026-08-21T09:00+02:00",
+  "mentions": []
+ },
+ {
+  "id": "179893dc0c7f3b3d",
+  "outlet": "Marianne",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRTZfNEFXcDBYYTdXX1ZnRHhEemZtcnA3RkRnbmxEOU5LUXJXOXNLenF0dHBZYzhoZ3JGeDc2MjVTZFJvaHBQN1JVWU1WRE9pNG43N0lGc0ViWnotS09PTmVEZU0yOFdRMzItMi03dzZucy0xQ1F5RTZJSGFBUjRtT29sOWk0czRoUzZIeTFzNTlWcGJfVlFkYkY3bm51cldkS1dSZjFfV3Q2M08zaE1WNVh4YzhHYWxCM2lERDRuNDNMV1U1VEo4?oc=5",
+  "title": "Présidentielle 2027 : Gabriel Attal ciblé par une nouvelle offensive de désinformation prorusse",
+  "summary": "",
+  "published": "2026-08-21T09:00+02:00",
+  "mentions": [
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": -1,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "187f1f123d52ac6a",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOaThDenpVemM1MGdLdmRhWEplZkxzdzMzNWxBcGREMjdIU3E5R3RfZXVKWGtrY05WR1UteEJxazZRV20ybUJqeXhnbW54Ri1RUjdaU2Mwb2xjYVhHbHFpQU1kS2MwSlI3SThueDJuM3pIQlVLdGYydGpRTnNmWXZld0VSeTUwZFZtajhFaWRjbmRDTWoxS3MxZ20yTm9ETG94MUZnQXNTR1BkYzhpU1E2MVhjQ3VuV2pJaVdTM0VsUmdIY0MzM3dBQ0RlNzh3ZWtTUlFtQUZtbVRVeVhmY0RLbTF5QlNRS0J2VWxBRXMxUnB5SzFsMlE2MzQycHQ2SXhLeVdz?oc=5",
+  "title": "INFO BFMTV. Gabriel Attal, candidat à la présidentielle, visé par deux nouvelles ingérences russes",
+  "summary": "",
+  "published": "2026-08-21T09:00+02:00",
+  "mentions": [
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": -1,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "1e6099b5cf147476",
+  "outlet": "Outre-mer La 1ère",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOT1VQZWpBc1ZDMUNMazRsNk54OUZaWEpwd21fUkI4bV90eGtzUDEwVnNiQ3NiSkQ3OUdOLWZtdDl2WmU2TDFiNXZ5RHhVeGk3RVg5aE9GZE5wYnRJWS1jVk1fN0tQRjJfeHM2a1BTSkQwT0Y1bVJleE5ua1lTckk5RE1iUVNPRC1DUGw5M2JOVENVMVZYRHpNS0lXTWF2T2NsS3NDdFI0dWpPM3Vtc0pVeXA0VG8tLVNLZkw3VWFyNmJHNHNMUUtzQ1VFM3RGNEJ0alVSaks2NEQxSVE?oc=5",
+  "title": "Immigration à Mayotte : Édouard Philippe veut installer un « centre de retour » en Afrique de l’Est",
+  "summary": "",
+  "published": "2026-08-21T09:00+02:00",
+  "mentions": [
+   "philippe"
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": -1,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "29ea7ad6d489ac82",
+  "outlet": "Ouest-France",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQb0xJdkZrbmxmcmd2V3N1VDlnQ2RXRmFNMW5HN083dGMyM0thZTVPNVh2a1prVG00SGVTbHZQZk10aVR2TGpPbV9DR1VZUlF6TEpVbFFrN2xzZmpNN1UydHFBWnkwY3lDRy16LVFxYzhNVVlnVEljbUlqRFFEVncxemhwS1liaW5NbzY1NzRiVEpOVVBXc2F5NF82a1p5LUxhY3pRTUE3U3dLS05ObkRYbklMV1hTUDAwaEVXejJKUFhlelktWS00LTRNQ0xTR0pOOThDU0l2VjBnZzBQTFgybEo2dlJ2S0tZYWc4U1JtdHVOdk9UR2JqUFlGQ0tPZERLZFhtT21QUkVYczhFVVY4N1VTOWkzUXRl?oc=5",
+  "title": "À Toulouse, les communistes se préparent à la candidature de Fabien Roussel pour la présidentielle",
+  "summary": "",
+  "published": "2026-08-21T09:00+02:00",
+  "mentions": [
+   "roussel"
+  ],
+  "analysis": [
+   {
+    "id": "roussel",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "2b316e1aa3ef8b21",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQU2lJUGtkemdVQ0ZxOGJZMm9WNDJLQ3ZRejZtY0ttdDZUbndFemgycDVzdVl4QUsxdEVoYzV1NmVNOHIxNkh5cFJRSUJqVUxpQnpjbXQ4d05IcjA0c0NhZl9zUVpIMDNXUHRpd0JaTW5vUlQ1b0djLUhNMG5DQzRQNUpXVWNrVUpWV043bFFRVkhOUmdBUjEtcHJDNmU2T2xzVDhDNHM2WkhwMjhkRjZsSWxiUVpGNThZU3k1YXlNOENKTndhNDBfTmZpakU?oc=5",
+  "title": "Mayotte: \"Ici, l'immigration est un problème évident\", assure Édouard Philippe",
+  "summary": "",
+  "published": "2026-08-21T09:00+02:00",
+  "mentions": [
+   "philippe"
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": -1,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "329f7019d2487321",
+  "outlet": "www.lamarseillaise.fr",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONU1QT0huYTMwdXMyeW44M1dCaU00cUhmWWZEeGtGWS13cGJjR0RNb3AxZkRZMEVvM25tTUQwVXFjblQ4b2hOY1pRdHhfcGtVTVhhZnU0ejJ4SWJrZW5yZDBvdE5JclBmX0ROM2NqTDNiLUlLQllyMlJhd0N6eTVJemlhOTE4SXNUaXgw?oc=5",
+  "title": "Le nouvel exécutif national du PCF",
+  "summary": "",
+  "published": "2026-08-21T09:00+02:00",
+  "mentions": []
+ },
+ {
+  "id": "35026e2c6a6a8f2f",
+  "outlet": "Libération",
+  "lean": "centre-gauche",
+  "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOaGxVQTRUNVhPY0hISk1aTFBPNU1zYWNkRzA1SThBcjFQdC1ybVRVTEZFYm1JV1FmOTMybmp1dVYzZ0hHdmlEZllfRndRVS1XcTVqQnBCQjk2VndfN3c5YmgwYnJKOGM3c2hRSURoUmc0d0NDTzYyalYyeVRzQS1Edzc0VldBLS1YYU5yaGRqN2VKRXVlNEpSN2psa2htQWJ1UGV4bzRmLW1wWUZqck9yRzdYcjNaeVFsNnBuZXFfZlRHS0VsVXhaNVNBVE1ZWkpnZlZQTVlIVXhIcHJTN0RTeTlQQQ?oc=5",
+  "title": "Présidentielle 2027 : clivant ou rassembleur, Jean-Luc Mélenchon sème le double",
+  "summary": "",
+  "published": "2026-08-21T09:00+02:00",
+  "mentions": [
+   "melenchon"
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "39ddf0be699481f3",
+  "outlet": "Le Figaro",
+  "lean": "droite",
+  "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZk10OFc3SlRWb1FkcWhoMFA4cTBQMXJpMmxCY2ZWUkxxT2RTdERhNmxvT0VjRmIzeTV6b01kQ1ZqLWZtazZrU2NhVVBvSUx6b2RfZE1ET2pjNW1mNGFYYXpEY2F1U3ZDXzEya2pyTUdVa0phRzZTOE9SVF9UWnlXSk9rQjFXZ1dNbUc1bW1NbURiSHVEM2YwaDBMY0MzR0Ixd09YVllhSXE1eWRVU19OV1RlSWtGenA2bDVfME03VnpmNnctTUtmTEltNWVrQXNfMUhfOWdLZ0VoSkdxX2hiZQ?oc=5",
+  "title": "L’éditorial d’Yves Thréard : « Jean-Luc Mélenchon ou l’art d’envoyer la France dans le mur en klaxonnant »",
+  "summary": "",
+  "published": "2026-08-21T09:00+02:00",
+  "mentions": [
+   "melenchon"
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": -2,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "3ad28d0784a78473",
+  "outlet": "TF1 Info",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNQm1xZnhueGVFdklZVjBfSGEwRURZRzEyaDNOc2tYYXdhcnNGeXhaOHVEMjM0T1h5Y1h4YzI1a1FzTVVIRDZ2VS1lcmNVVTE5YWVoenRUdGNZcS1ydEIwT1B2ZEtqeFY0WTViQmhvNUQyb3VGLU1QaExWaXNvQm8wczVRQTJpQVlWaXg4ZVVoZDhqZ2RPR212NTlqM0RTZzZyQWdSZEo3WDNRYVdERXU0aktWbTB5bGdNVm5XS3pCMHZHRUIyZ21ON0dfSVJRdHJ2Y1VwSXBOZWxTTm4xa0NtYTJxNA?oc=5",
+  "title": "Jean-Luc Mélenchon fait sa rentrée politique sur TF1 : le candidat LFI à la présidentielle est l'invité du 13H de TF1 samedi",
+  "summary": "",
+  "published": "2026-08-21T09:00+02:00",
+  "mentions": [
+   "melenchon"
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": 0,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "463186c0454062cf",
@@ -21,7 +249,383 @@
   "published": "2026-08-21T09:00+02:00",
   "mentions": [
    "lepen"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": 0,
+    "frame": "sondage_dynamique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "4b2afebe7e05c042",
+  "outlet": "Outre-mer La 1ère",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQX0JPQ2hpTHVEZVNOYTNrcnN6S05tWl9YYU5HZnpHTnlLTDRpQkdITHdWRUpxZmRESWxZQjM3QkNyQ2syNWxzcmFOTm1WaTctZXlqM2R1Sktxc3RMb0JMM3RYdWstYVF2TnZZRXBBOXllWWZrUXBYNmE1a1NQNUVFVEpUN2Roak1GS3NXc3dDX3I5QkRfRURBQjdmR3ROeWxrRHFUS1o4VDZUNjN5STdocVBLVEZzcl9PLVBYbk9PZ0lfcE5iUWJTUkZlY2hFQ2c?oc=5",
+  "title": "Édouard Philippe à Mayotte : des propositions fermes, mais des élus toujours sceptiques",
+  "summary": "",
+  "published": "2026-08-21T09:00+02:00",
+  "mentions": [
+   "philippe"
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "4d32a8134d49d8fb",
+  "outlet": "Radio France",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZUw5MDVLQlh1bVBSU2ZldHNqZGozOFdVRXZFR1VIMFJVYUhPN25FWHhoT01Xdk5ERU4xMW11WFpaV0RYaVdhWDZiNTVnMm5tZmZTeWJlamtzb1VvOFdyTkRNR2hOQk5ZWDlBeUZtbExlakNEbVRRRnFrR21BR3lSY0RwTmpzZXNjYmctZ2dvUk9wcHNqaFVGUHBuSmRkNFFESWRF?oc=5",
+  "title": "Présidentielle : Édouard Philippe fait sa rentrée politique à Mayotte sur le thème de l’immigration",
+  "summary": "",
+  "published": "2026-08-21T09:00+02:00",
+  "mentions": [
+   "philippe"
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": 1,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "5274c81226b9f58b",
+  "outlet": "L'Humanité",
+  "lean": "gauche",
+  "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQYkRRSUlydTBMRDhOUFJ5aENBdG5RTWxvODlWazhJUkxOZGhsN2lFbmxmRkhlNEVqTldUVTA0dzR3QjJaaFRHa0VEYzRlZ0I4NU1QRFpZSl90X2d2azNObVRHOTUzTmxXcVRfMW80ODRGM1BaZm51VldXNDVzVnlPUUM5V0VyNlpCYWJ3cXhqZ2JKazd0LWY3LUF6XzZ4MDRYYnROTC0zWDBJdUtsaDhYYXVFYjdqUmtKM2c0Y3Q4OEpIRUdLRkUxMnlPUlJBekljTml4bm9WbGZWZmZYd2ZKeU9iZGc?oc=5",
+  "title": "Après un été caniculaire, le PCF lance son université d’été pour démontrer que l’on « peut encore changer le monde",
+  "summary": "",
+  "published": "2026-08-21T09:00+02:00",
+  "mentions": []
+ },
+ {
+  "id": "5af24064a50d4e31",
+  "outlet": "Orange Actualités",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOOGk5d2hRaXUxSnFxN1drMzVRbHg1R21LdVd4QnhTWGc0blhBVV9zemF2bjV0WGIzVFZUNHF6UEFISFNlNEdOdVo1OXNHQ25YMWRRb1BLR09XYTRKV0oxT0RpZ293TU9VNmZLekg3cVdCOU5pSUEtcFl4OTlWVXVTZUtyTUpCV2JlbjNUT09BSDhpbTdmR0FVc0h5bU10MERyYVRfd2ZRVVdWY0lKdS1ZdTJiOVNrYXRtNTZVMF9IRFAxSmREZjZWMDl0TTJXMERpMFhiNWlmOG1RQ09BNEtYV1BITk02TG53djNrd3FlZ0h0UnItTTdCOExLUzZvUmEwU2FrZg?oc=5",
+  "title": "Présidentielle 2027 : les Écologistes divisés sur un éventuel ralliement à Jean-Luc Mélenchon ou à Raphaël Glucksmann",
+  "summary": "",
+  "published": "2026-08-21T09:00+02:00",
+  "mentions": [
+   "melenchon",
+   "glucksmann"
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   },
+   {
+    "id": "glucksmann",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "67295ae2a7bc61d4",
+  "outlet": "franceinfo",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQU3pPMkVxSTEzX1luejh0TTFiWnlBNm5uQ3hPdUE1eER4TmU1ZGNDV3k4V2pOZ1lMczdCLUdDNS1QNENIaThPTUJqYldDUzIwVkptOEt4REEwWVFOMVhieWFrN3A1OU9jeWJhQkw5YWZ4S3JYOER0ZXFBdF90T0hYek5haUM1alU0LTFNM0htT0pHNE9jNTNuUjFpZzZmVmhGcmxkMjN5TGlyS005V1ktUXJMZHVHdkxPZ01yLQ?oc=5",
+  "title": "EDITO. Jean-Luc Mélenchon fait sa rentrée politique",
+  "summary": "",
+  "published": "2026-08-21T09:00+02:00",
+  "mentions": [
+   "melenchon"
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": 1,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "6a56efcb30e0c9dd",
+  "outlet": "Sud Ouest",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPUy1RTWRIMTVZMTlpNGs5QkxZYjh1d0NSc2tJOUVfS1lwSFZxWld0a2kxcDF0ZzBWTUphcHpKa2ozMEJNMVNCMEZvNUlaeC1DSUVVRjdZXzZld2hYRGhVcDBwSng1cTRjak80MTViemZ0NUx1YjJXSzZoSlZidFpKY3paODQ5aXJsM0JaTE1VaDROSjV4SGVwUENRSEQ1VkROZjBEMllxLVhHcDNCYkJWUXkyd1VVLWVrM0JELTVOS2xzeE1GWVNza3hCYy15TVUzX1J2WWVmS29WNmdlSkxMeW5nc2Z2QQ?oc=5",
+  "title": "Présidentielle 2027 : Édouard Philippe veut mettre fin à l’« appel d’air » migratoire à Mayotte",
+  "summary": "",
+  "published": "2026-08-21T09:00+02:00",
+  "mentions": [
+   "philippe"
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": -1,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "6cada6cfcd43b04f",
+  "outlet": "20 Minutes",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQaloybWhmOUwwUTZUUGV3QnN2MS1rNVdBU3hkX0lDcjV2cjVBYjY2UlRtdlYwY1VJbDZrbGZrUjFRV1dVb09FN1hmSG9fRl9wQWo5eGo4X3lKOU5zdXN1VzR0VGxyeTlPSE02aXZTZTFXcUQ1d3NXQnlDdTZJaHFBbDRFMWpvcnV0aFB6X2E0bFh6LWNrSkNDLVJRSEdiZnZla3FtalVmUTIwNG5WUUp6azJKTXJqX0NrU1lzckZRTFpnbzZ2SDE4eGFOYw?oc=5",
+  "title": "Gabriel Attal encore ciblé par des opérations russes de désinformation",
+  "summary": "",
+  "published": "2026-08-21T09:00+02:00",
+  "mentions": [
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": -1,
+    "frame": "securite"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "72a6e100f9cc9004",
+  "outlet": "Orange Actualités",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNc0ZLU3lxeF9hZndEQ3l3LWZOWVVtSGt1NGlGZm5VNDFvMVVCNWZTSkRZbFJkN0kwc1dJekl5YWZleEdVMVpKRDRGeGtxSDktREVZNlktS2JqVjc5SzExd3NSMk5wNG5xc2VmaTBkU2h0TWoxcDMyLXlxenZra2VXVTRaaVF1ZjRfMjRnNE5VT1NiMFhXdzZHNVhYSmVxMkpzZG11ODJ0WEJ5ZU1sOW9SQWQ1NF9kWVVYSk5fTFdCZHNkVWNIdGswbDZia1g5Uk15Q2M2TDFoeW5kclBkNHc?oc=5",
+  "title": "Présidentielle 2027 : Gabriel Attal visé par deux nouvelles opérations d'ingérence russe",
+  "summary": "",
+  "published": "2026-08-21T09:00+02:00",
+  "mentions": [
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": -1,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "766e6fcd236acfa3",
+  "outlet": "Le Dauphiné Libéré",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNzkwU1I5ZEtJV1JSOHk5S0FySTkwYlpZMzRZOXN5bmQwdEFRYkxuUjBhLWIyczNJc3pkWTJSbTZ0QU5ndU1BZUF5cVczT2VVZEVuR2d3dVp1aFh3SnNNYkVwTUJhdmNfcFMzbTctaGl2dEZIMkVOUVJnZjJVS0JUbG5fSER4R210YWJxekVRZndCQ1RzR3hDOGVSaVJBX3VGbHJDbHN5Q1otQUN1RUtKaWxlbVU3RU9pcjlMYVV0UQ?oc=5",
+  "title": "Drôme. Jean-Luc Mélenchon est arrivé aux universités d'été de La France insoumise",
+  "summary": "",
+  "published": "2026-08-21T09:00+02:00",
+  "mentions": [
+   "melenchon"
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "7ccd1ac745fe8af0",
+  "outlet": "TF1 Info",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOYlF2Y0tsNkloRmlvYkU2alNEemgtQlNuMjRMOEltRDhnMElLSFBSQkhqRWJNa1J4MF9XVzlzbDk3ektIVldhaGdxQnNNbmhrZ1hNcXp1ZGsxZzdJRTd3bW95cENHUUF5MnQwblFNdTBMNEFiNzMtaVFMQzRpMTBMc1M2YVZjUlV1Qkh1ckFlZ2ZsalpZdVVrN1BZaDFnaW5xUjFxRTRhdDJyWFNFbkE5RWRrbmh5Q0FIdVVjeC1JLXY5SXNtMmtPN1NnMU5PTjJTNmZSZ1k5ZlFnbHlGbnk5TElNYw?oc=5",
+  "title": "Présidentielle 2027 : Gabriel Attal de nouveau ciblé par des opérations de désinformation russes",
+  "summary": "",
+  "published": "2026-08-21T09:00+02:00",
+  "mentions": [
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": -1,
+    "frame": "securite"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "80a518cb9021ddbc",
+  "outlet": "Valeurs actuelles",
+  "lean": "droite",
+  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdk9QczNna1N6XzFSTU5XUkVkRk9acy1IaFRCR1RLYnhBYm9tNzFPd2wzcWc5LTN5NTBmQlBSUXNsQ0NicEdIZGlvclZFWjlRRTJMX2R3bkNNZHo4cjZWamZ6T2xHZ2ZfbXJqNktkb240X3FzZ0hsUU5kNjdvbWVnRnAyNjlOdkR2UGJjcURaaVJzcGRWVjVNNmhaZjdEUnBBa1lEaEVwMzlmMU1ZeS1RX00yRQ?oc=5",
+  "title": "Présidentielle 2027 : qui sont les soutiens politiques d’Édouard Philippe ?",
+  "summary": "",
+  "published": "2026-08-21T09:00+02:00",
+  "mentions": [
+   "philippe"
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "82d87a9c646f3444",
+  "outlet": "Les Echos",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQaE1QdjZZN1FQTFk1VmtDOEtmMUYySHBlMTh3aUpLd2RHTkdSdGRQaGtDZUFUdzBubERpcl84dVd5NmVOcTlLUmFTM05zc0RsLVpsTXdXOHNkQzJMWXc0d0d6LXFGblQ2bTFiSzYyajk1ZVRTak91dFFrcWZJUnBZZ0NCTGxsdzJmVjdmT19OTDFwMVlSZWFNeEpFS1ZhTi1kcFJvNGprYlFnSzFudmwtUkVDQlR2N0R2bm9IRUZrcTAxbDhPTTJGb1A3TlptME9KUzF3alhONUFhRlg2VmNLaVBHcmVCcDd0UzVZQlNiNkZyN3hRZ2thd292TWl5U3FNVVIxTEJB?oc=5",
+  "title": "Pianiste, énarque et ex-mélenchoniste : Ambroise de Rancourt, la plume de Marine Le Pen qui met en musique le programme RN",
+  "summary": "",
+  "published": "2026-08-21T09:00+02:00",
+  "mentions": [
+   "lepen"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": 1,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "8b359755f787c4f1",
+  "outlet": "www.lamarseillaise.fr",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQT2hwU1hsVG91NXZjWktIcHdUb1RnWVdsSERMTDJORTVndzdpQ1NnZzFVWTktSlFYeEF0Z3RrU3hFaU9Ja0t3QXdGdVFUM3JYem5reGdCdF9yQm9pMkRybHBJVXY2eGN5NXExWFlfN250UEl6U3VHVFl1RWI1NkpFVEFJeTgyUk5Vbk1wM2tUNmxZZzlheHB4TGV6ZTMyTzkwb3k0QzFrYlVJSjBYX1lmVGZ1dVRLOVFTUWo2LVZXYThDRzQ?oc=5",
+  "title": "[Entretien] « L’Université d’été du PCF, pour aborder cette année avec ambition »",
+  "summary": "",
+  "published": "2026-08-21T09:00+02:00",
+  "mentions": []
+ },
+ {
+  "id": "9d0b0ea6f0837756",
+  "outlet": "franceinfo",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQXzFZX2U0UnNKdU9rRTNuai1RVmFPU2ZmNFQxQkFHb1lJTjU2Wlg2clJHWjU2ZjI2U0lTdEFkVWQyM1Y1blBhdWlobWJ0WVNGalJpS0lObHVoY2E0bGt4N1BpMnkzaTJYcDNHb0FkT1pKbDNYc0NEUHVRY19fVEtWQ1pneW9JNDRRWXhyTXJ5aS15cU9iRHdmenlqRS1iWUJyQlY4akN4S2xSbFdYR0VHWDlUYW5jaDdRZHMyRHNSclVzaG50NTg3OVU1aFlqVV96dXMteWtvUWliN1paYnRVU0ZWM25ZWjl6dlFweFpqdzJDS2NHWkE?oc=5",
+  "title": "Gabriel Attal de nouveau ciblé par des opérations de désinformation russes",
+  "summary": "",
+  "published": "2026-08-21T09:00+02:00",
+  "mentions": [
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": -1,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "a25d97a18490a154",
+  "outlet": "Midi Libre",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQXy16Rklyajl2UlpRQVpBcGtEcjdoZ0p3WVdSRjBhZmxDdFBYcEZ3dHl2cmZ1NzZreW5wWnJERVNVeHFaMDRKNkFPdGl0d0dUN1pzcHB0TjNlcXE4d3JETzYtZVhXM0ZTbW15bjFJa01ZT2IwYlZsMWk3dElYWEZkM2dfanBaVUNTUVZyRG5CRERuVlc5RzVtVlFXaE9faXp3RGxnbi1kUXlGS2VJNjJyODVNWUYyeTIxSVBJZnY4RVA1SmJkRkc1bllQNWZaazk2T3NhN0pLSHJtdXZTeDgwMk53bE90a2h0UmRSd21JNWlVUHZfbGhELXJIZk0?oc=5",
+  "title": "Présidentielle 2027 : le candidat Gabriel Attal de nouveau victime d’ingérence russe, la quatrième attaque en deux semaines",
+  "summary": "",
+  "published": "2026-08-21T09:00+02:00",
+  "mentions": [
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": -1,
+    "frame": "securite"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "aa1102371cc4070b",
+  "outlet": "Nouvelle Énergie",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMk1vMWs3dkMxd0tBMXZFZFZ1OTBLOFBzOHBlRTlWQU82U3R5Z0Nnc0tTSjdockNzSzg0b2V6MjY1VnNSQXFEQkxYcUtOMzNzQlNwTjhMd2c0c2RDTUpNQlhNYUt5c2RVMzl4ZFlXalpZUzlVTG5DZ1hKQlo1Sm91VGpBRDQ?oc=5",
+  "title": "La Gagne : le Campus d’été de Nouvelle Énergie 2026",
+  "summary": "",
+  "published": "2026-08-21T09:00+02:00",
+  "mentions": []
+ },
+ {
+  "id": "abb340834274bf97",
+  "outlet": "L'Express",
+  "lean": "centre-droit",
+  "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPcHVFWWdVaU1DS0p0ZC1ESnhlRjlzU1A3ZHVjUFkzdFZKUGtDQzc3SEpud3VXQW9NT2RrQmJuRjY5NFNURXlSTll6VlR5bXNkNkxnbVJfLWgtb2ZjanJhX09BdWxzc1htbUVvVm1ySFFxTjZvMFBrOXJiem82ZFg2Ry1lVHFoQzViM2xfNm1WeXJRcnlNMUU4SjVVbjloSkJPOXBoNGxaZEw0eUdIRWVhZG1FWk9KeVhhQzRld3JJeEdLRWFaUkJGTlloWVJWSzBwcjd4cWVkWlBvOUhwWVhaNkhhWF9hZm8?oc=5",
+  "title": "Le Conseil constitutionnel, ligne de fracture entre Gabriel Attal, Edouard Philippe et Bruno Retailleau",
+  "summary": "",
+  "published": "2026-08-21T09:00+02:00",
+  "mentions": [
+   "philippe",
+   "attal",
+   "retailleau"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   },
+   {
+    "id": "philippe",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   },
+   {
+    "id": "retailleau",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "ba4c9c58cbbf8e1a",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNWHdfRnE3VEExN3Q4SDR5U0xnbXRfRzNJek9zWWVjUmplYVN4bDRvS2dlMzJUOXVsOTlEeHNWTDlrUXhKQ2FnaDhGUlBHNm5vM1Q5R1BtZkZtbU1kb09FUDZSUEtaQlRpREttSHRrTnNjY25SVExMaVhzclFIVVA5SHdueFlyTzlub2phc3FzVEdRWW5sXzFGRHN2WDR3bmI5V0g2T1dYemJCOVJ0S2k3UXh4THhDME4xTGxJbUVPUXljV2V3bmlveU5QRWt5SVFTaDJ1bGF2Y3dRMjFFanc?oc=5",
+  "title": "Édouard Philippe: \"Je n'ai aucun adversaire au sein du bloc central, j'ai des concurrents\"",
+  "summary": "",
+  "published": "2026-08-21T09:00+02:00",
+  "mentions": [
+   "philippe"
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "bc98ee7f72d858fc",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWUVGeUhDd0xmZkh3aWRfWjF4Z2xRVzRlNTZRWHMwOEw3a1BCaHFTSUd5MWFLWm12QjkxeUNsam04X256NGIxc2pRQzZJNFNSRDFIM3JIb1daMFhRX3ZOeEhfb1FwUXktQ2hoQUhvSlZTWnlpQVozTDFsbmpwczlmVFZoU1d2azZWeTRuOExrZGx2alhxOFRwOXd3QXozZ1VWV296cWpTdWdVbFVaNEZydHBWSmxIRWZSUmFkUHhZUkZ6RF9QV0J6TEtmWlFENXJIeUNB?oc=5",
+  "title": "Présidentielle 2027 : Édouard Philippe durcit le ton - 21/08",
+  "summary": "",
+  "published": "2026-08-21T09:00+02:00",
+  "mentions": [
+   "philippe"
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "bfa91682882922b8",
@@ -29,6 +633,266 @@
   "lean": "centre",
   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNMmNYM3pxR0tWSzJfU214cl96aG1tTldydnpaWW1ITmVIdzktaWc3ck5VaC1xclFySm9QbXp5d283a2xxUWlDa0RIQ3ZBc0FyUHRlN0RYQTBEdF92VUVxSnNidXB0VTJzMnRONmZTR3pnN2pHdVdTWEFvX2VLYTlMWlpscFNnbFd0Y1RlUkM1MDM3dy1kdkdQUzVNUmFobU5aZW9LbWJrOW0wTmNPdHg1WE5vQ2lIbVRwN1FVU1YwMHBsbzlPMU53R3JQOEJOSmc?oc=5",
   "title": "Désormais incontournable, le RN entre présidentialisation et refus de l’État de droit (3/3)",
+  "summary": "",
+  "published": "2026-08-21T09:00+02:00",
+  "mentions": []
+ },
+ {
+  "id": "cd1042519e93de2c",
+  "outlet": "Nouvelle Énergie",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1TUFEwb05vZGc0em9rWVpXQVZJU0lOQ2RRYzBpcmNsdmJUTm9MbThZaE5pMXZkT2dIbTlHTHI5MjNMZDJzSGtYSENvSmdmTW5Ec0YwYmh0VkZnZnM3aFZpeVFB?oc=5",
+  "title": "Venez assister au discours de rentrée de David Lisnard",
+  "summary": "",
+  "published": "2026-08-21T09:00+02:00",
+  "mentions": [
+   "lisnard"
+  ],
+  "analysis": [
+   {
+    "id": "lisnard",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "ced6c5fe7e2e2ed1",
+  "outlet": "La Provence",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOU2UwSEg2V1NtX0liVVpIMXB2a0VqcWtROUZVbGhfYmlXMVdnVnlnMXh6ZkZ1eGc5c243NVM5QWNxeHdCdjNnSGcyQWlhY3JLelpIVU9IWGE2QXB2OU4xU1ZtVTVUYWluaU5CTFJHWE1EblRlQUctTXVLU3Nwc2dWbWtJaE00Wk5yUjdLcnl2aUItYm0ybDdZN3lBUGI3TDZKbk0tSUhiUko5NDFXQ1JzclpuOV9EVV9GZ0RWTmZ1RS1SS2lLUkM1dnY1QUIyWlQyemRoQl8xNDZqUQ?oc=5",
+  "title": "À Mayotte, Édouard Philippe promet de mettre fin à l'\"appel d’air\" de l’immigration",
+  "summary": "",
+  "published": "2026-08-21T09:00+02:00",
+  "mentions": [
+   "philippe"
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "cfc569f97cb2ba15",
+  "outlet": "CNews",
+  "lean": "droite",
+  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWTZxRi1fckxqd21ZbUNsam1VTUJ5MHlyMEZDbTF4M0hDVXg4dGhPSWRON1BPNWVNMkJacE9MR2NreUp0NEV6SzlQcVl6YUszV1ZicllKTnltcVdkZHpSM0lKTENueFVncTRISnFzbkNuUVEyeFFSRVFjc01SZ1ZyS0NoSlhKUW1SLW1Ed3hGYjI1dWJFRFVlcE5yVnhJRWVYbU9DVDc1YU9pcFJsd2F6dG1LWdIBuAFBVV95cUxOVERTR2ZraXd5aW82MHBWU2hTSjFpYXRVcnJLZExjWWU3eGQ3Uk1GQ3dtOThEbE5Ybk05bW1KNkNWLTRXSk1ucmZ1a0ltNlZXZENDQlBrVVNFcHVWYXV4aUVPWkRmcUVxLURNVUFfN2JmMTkzTzJaRzdzLUV6dEZZNVVhNzRKQURWYjdtRGh3N3dFTS0tdFl4a2JacnUtTVozVEM5QkZtNmxhX1NudDZHbm13bGk3NVpH?oc=5",
+  "title": "Le PCF fait sa rentrée politique avec ses Universités d’Été qui débutent ce vendredi",
+  "summary": "",
+  "published": "2026-08-21T09:00+02:00",
+  "mentions": []
+ },
+ {
+  "id": "df2cfc0d23746f87",
+  "outlet": "lanouvellerepublique.fr",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxONEJtZWY0MEJvLXFtbWpEVXNqemlBeUxPZy1NSUNhSGFJZlVoUmtCdkxqLVVwRzBkcXF4dFhLc1FObHVYTGNiSlpseFZsU2ozZllkRVIzOWxJQXNPX3d0akJLbUllNDBkNnE1Z0NyekJKcnpEYXVaaTFVaElldURVQ1ZBN2JIVWhCRFVDS0FsQjhiTjJhVm1ZcjIyNWNyZnVnUWpnbFlJQWF4Z1hDem5OeG5MLUF2RjVOYkJPcjN4eTExdWw4dE9oT2t6Vmh4bEdrT3VlQzVIcFVCVF9LZ3ZLcHd1d3NkM0xr?oc=5",
+  "title": "Présidentielle 2027 : Gabriel Attal de nouveau ciblé par des opérations de désinformation prorusses",
+  "summary": "",
+  "published": "2026-08-21T09:00+02:00",
+  "mentions": [
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": -1,
+    "frame": "securite"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "df8e3b0cbe536ebf",
+  "outlet": "LCP-Assemblée nationale",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOVpZNldIZHJERTc5aUxkeEc5NTdST2V5Wmw1Q1BaVTlTdW5aV2M0Y2xlNFNYbGlXZW5OSFR1NmFnTThiaGFjM2hMOHpkSzBoTG1Dc1NyMmZvSl9nNmYxOTlaQjlPZlpCMk1DMm50MnVmWW54YjkzRG5pbEl0dzJNamxOZ3VMa3NNS29OZVA1UV9LSnFBUHpNR1o5VmpYcnE3WVp1RzE0b3Q?oc=5",
+  "title": "Présidentielle 2027 et ingérences russes : Gabriel Attal de nouveau ciblé par des campagnes de désinformation",
+  "summary": "",
+  "published": "2026-08-21T09:00+02:00",
+  "mentions": [
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": -1,
+    "frame": "securite"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "dfd3cf59065ce418",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNOTRpdTdfVkl1NkI4TFFUWl9mZ2NaU0tWX2lJb3Y4c1lIaEwtN3ozV2VERjg0bXpHTEszMEdMOUw5Y0VzWTVTaHd3RHE3WWNGcTRvX3F3UnludlNWZWJRVVUwSURBbFhYLTZjY1NFMHhIN05HUk54bHZRVTRtaDhXSGlDTnJvc2hUUU5zM2FyVFFfODl2MlRDSXRDbEl2SlRIWm94MWRZYlV0UUdZZEl6a0Z6MVFOLXhLS2Z6Y0hYbXZ3cEk2cU5JTDZ3M3VUZkp1OWRmYkVNZVdmQUNYbFQzOF9GOElhMEJvOUYtbEY4ZDJtQXhrTjFCaw?oc=5",
+  "title": "\"Reprendre le contrôle\" de l'immigration: depuis Mayotte, Édouard Philippe donne ses \"priorités\" pour l'archipel",
+  "summary": "",
+  "published": "2026-08-21T09:00+02:00",
+  "mentions": [
+   "philippe"
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "e00eae24df182b6a",
+  "outlet": "Le Figaro",
+  "lean": "droite",
+  "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPYVNRd1Y5QUJjdE9tLTB1RmVWejVBMVZJZXZsTUFJNzNIbWJTeVpaZmpsR2tHV0JzX3NGUHB1X0NpN2lrOEUza1M1MmpTeEF1ZGk0QTRzenpQV2o4QnVEa3l3d0owY01lckdidTFqQVNHay1qMTVucDE3enlrOFZOX01kOU1sNFdSZmRaUlJNMVp5dnV2VFU5TFRvaGU2dzdfTlk2Z0xWZ2VqSENYdDdNeDlzZ0FuaUQxQmRqV3NOQ2dTR0Q4ZmhXN2RSSHJpeGtFOEs0?oc=5",
+  "title": "Présidentielle 2027 : à Mayotte, Édouard Philippe hausse le ton sur l’immigration",
+  "summary": "",
+  "published": "2026-08-21T09:00+02:00",
+  "mentions": [
+   "philippe"
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "ea494a717acc77b7",
+  "outlet": "Yahoo Finance France",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcDVkUmRTd0V3TlJ3c1phQzJaTEtSdWpEV0xJTDVZN3lwTEE0MURmNzd0N0xNZW9XM191cm02SFNUQnE5M3JLMGFVTEVtUHVjX2ZVTE9rUklJNEwzeUhTSE1OT2xzazQtN3dYbXhiVG9paWJGQldfV2ozeU1WZENRS1NkQVU5VnlCcXE0bzVuWldzcmxCTXVZVXl2NkxYQnlEOVZtZ1EzNUw4N2c?oc=5",
+  "title": "Facturation électronique : pourquoi David Lisnard et Sarah Knafo appellent à sa suspension",
+  "summary": "",
+  "published": "2026-08-21T09:00+02:00",
+  "mentions": [
+   "lisnard"
+  ],
+  "analysis": [
+   {
+    "id": "lisnard",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "ec43ab348275501e",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNSlcyMXhidXdWUTc5WGQ5a1kzT2lZbFpLVzBfR1RVVkljQ0o4MFVfTmR2VHFBaF9fTUszcmV5cWVKWi1kMzFmbGdUeklTQWJMZVBEMGVRMVJIZF9mRnVKems1UEI1Z2N0WFc0V2ZUcFQ4dURVQm83dlJEUFUzTGpRcUZ4MHlrMXN6eDlGUFV5TDJsT1NlSllQZ01VZEhEOXVuT2tsN0FCaTdKdTRIZFIwT3ZCSlFKYVhPanYyTzRQbHNCeGExazIxbjhqaWxHejB5NkcxNTZPZl9xa3Zac3c?oc=5",
+  "title": "Mayotte: Édouard Philippe appelle à une \"reprise en main\" de l'immigration sur l'archipel",
+  "summary": "",
+  "published": "2026-08-21T09:00+02:00",
+  "mentions": [
+   "philippe"
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "edb14c548fcaeaea",
+  "outlet": "Yahoo Finance France",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPV2hrWVNwdkJSdXFqUC1LelpYRjdKUHVIeVlncVZqcXc0bG5ZZjk4Z1hQQUlPc2h1Z196azU1a1V2NjAwcG1rbWVQN0ticVNTTHpMaXhMVmNEcnNCVEQ4aWstbE56Ri1pXzhKdU1PRGFRRU1FTUptdUJZM2diN0xka1hrdjdjbFkxZzZOSjY4ekNhcEtPRXc?oc=5",
+  "title": "Marine Le Pen promet d'assainir les finances publiques : passe d'armes avec Bruno Le Maire",
+  "summary": "",
+  "published": "2026-08-21T09:00+02:00",
+  "mentions": [
+   "lepen"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "f2ae7984fb964702",
+  "outlet": "Le Parisien",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNdFI0ZE01VThoTnJiYjBpeG4zSEVNNER4U0lYaGVqYkZManlkN1lrVnIyMkh0QUsyaVVUWGg1QzIwZ3gyQ3lpaUhBODl2aXpwM0o3bVdDZEp5bzdFZ1pfLUpDa2tjd0hqWE14YnlPSFVHX2dlRDNWSE5uNUl1dWxjTG5xR1dXTmlkcUwwSGxWeWZCYTdkWHllY1RWUy1WVGQ4OHV3aXIwYlR2TUZ6cHZSdVhhSkdzYVA4WmVNODhqdW1rbUExOVMwakxSRW5XOFE2YUtQWXR3YXJxa29pYmtYY21VY19zYjFYeW82RWlIYndwclA5QXdzUURSZDZNNnItck84VWtGeUo1R1Z3NDhGLUhtRVY?oc=5",
+  "title": "« Tout ce monde aura besoin de se retrouver » : Édouard Philippe et Xavier Bertrand, l’improbable duo",
+  "summary": "",
+  "published": "2026-08-21T09:00+02:00",
+  "mentions": [
+   "philippe"
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": 1,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "f988369094b0f018",
+  "outlet": "TF1 Info",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNOFkweldScWw2aUR2RHdnbjR0RTlTVkM3eVNaYjdTbnZ4MHAwaGJWRThLbUZweUUycVlmb1Q1QnNaNmM5czFTN3ZpOTlqb05LQjJJcXVwa25kaXdNY0pMZXp6RGJLVWwwNFBCSi1rb2M5TEZqb1g0Z3ktLTFmUHhteUxyWGJnQTdLMmJPWmk2YmJVM3ZETEZhRDY2bUZSakZHczRXV1hPWlVmZUdQajVwODFodnBzTzBMSVNzSjQyM2x0WDZiTl8xcGp1ZXlyRnZBOERsazJPN1lzMEg5UlNQNmxra2ZXYlp2Tm5zY1JGNlJXVHBib0NaczRtTlF6NmNLX2V3Zkk0dmx1RktvWVIwNkJyRFRpNFc5?oc=5",
+  "title": "Droit du sol, suspension des demandes d'asile... Depuis Mayotte, Édouard Philippe détaille ses pistes sur l'immigration",
+  "summary": "",
+  "published": "2026-08-21T09:00+02:00",
+  "mentions": [
+   "philippe"
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": 1,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "f99ea732f1bfe427",
+  "outlet": "ladepeche.fr",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOVWpNTjJKaGNNYUVRY0pILU1iOTNzaGV3Ujl0R0lmcFhZYWgxWV9RQ0ZUdkJMZno2YWlWQi1hYi00MXo0WVdxaGQtRlNTRll3am0zVDNlaENmdkRsdVdFMDVZUGdjSGVHR09yVFppRFlGbjdiNUI5djFuZlpfX0JiY0dmaC0yTWY0SUFSWGRNTWVrSEZGWWgxMWJpQWRfajNIUzJ2U3lfcURGS25tX0N3V0c1aVJzSnJvZVlMbkNaTDcwbWVEYm40TXYyNTZIYnoxVUx5Y2ZzMGY5d3JiSGF0dGRzemFya2hqYWk4UmRSWXJzTV9TVWt4UVNHcWI4Y3BhMnJvSWZQTTBBTHdfWTNOYnlzTmhfWFRRNzdMdw?oc=5",
+  "title": "\"Taxer les plus riches ne suffira pas\" : Fabien Roussel défend une candidature communiste autonome à la présentielle lors de sa rentrée politique à Toulouse et propose un plan de relance de 500 milliards d'euros",
+  "summary": "",
+  "published": "2026-08-21T09:00+02:00",
+  "mentions": [
+   "roussel"
+  ],
+  "analysis": [
+   {
+    "id": "roussel",
+    "tone": 1,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "f9c17f3b7056611a",
+  "outlet": "Europe 1",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSXVKeXlpaUdHbmhaX2tRZ3hBeC1QSkZURTZDcjN3MHhRR3pSZ1IxLXY3S01wV0I2cDJrTURvR2J3V2xOb2wwM0FEa2xvc2d2WHRFNVNWMTd3RlRlX3NaYXA5QkZCRTZpOEt4bDhqVlhUOVdnWWF4eGVYdl90b2VMSjA4UlUwOUNKRjlRd2NvRVpVeHEzQlFJbG5UYmhpOHZsQ3M5VHlfTXRTMmVvcHFneDFlREtLYlRsXzB1djZUR2fSAcYBQVVfeXFMT19Hb2lPbU5Ud1J1Nks0VVQ5VlFpR0o4bkpuYnFQRXVEczBJOE54aW9pcTFxRnZpanZVYmd4SkRLWVFSZzJnQ3hydk1QdkRIZ2hEMFlKLTJQWmh6eFBqSnZ2V1laZG95QnNOSFpSdHpPWEVBT01tOFV5OTJIZmRYOEdsUnJjejhzUWJzQ2FRSWR6RXhOaEJjZ0RfcENPakV1XzlvRDF5Mk5lc3NXcTJ1eWpsVVBDX2E5V0s4LVBRazF3aG9FX1Rn?oc=5",
+  "title": "«Je pense que c'est très dangereux» : la facture électronique, prochaine cible des hackers ?",
   "summary": "",
   "published": "2026-08-21T09:00+02:00",
   "mentions": []
@@ -43,535 +907,14 @@
   "published": "2026-08-21T09:00+02:00",
   "mentions": [
    "melenchon"
-  ]
- },
- {
-  "id": "67295ae2a7bc61d4",
-  "outlet": "franceinfo",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQU3pPMkVxSTEzX1luejh0TTFiWnlBNm5uQ3hPdUE1eER4TmU1ZGNDV3k4V2pOZ1lMczdCLUdDNS1QNENIaThPTUJqYldDUzIwVkptOEt4REEwWVFOMVhieWFrN3A1OU9jeWJhQkw5YWZ4S3JYOER0ZXFBdF90T0hYek5haUM1alU0LTFNM0htT0pHNE9jNTNuUjFpZzZmVmhGcmxkMjN5TGlyS005V1ktUXJMZHVHdkxPZ01yLQ?oc=5",
-  "title": "EDITO. Jean-Luc Mélenchon fait sa rentrée politique",
-  "summary": "",
-  "published": "2026-08-21T09:00+02:00",
-  "mentions": [
-   "melenchon"
-  ]
- },
- {
-  "id": "5af24064a50d4e31",
-  "outlet": "Orange Actualités",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOOGk5d2hRaXUxSnFxN1drMzVRbHg1R21LdVd4QnhTWGc0blhBVV9zemF2bjV0WGIzVFZUNHF6UEFISFNlNEdOdVo1OXNHQ25YMWRRb1BLR09XYTRKV0oxT0RpZ293TU9VNmZLekg3cVdCOU5pSUEtcFl4OTlWVXVTZUtyTUpCV2JlbjNUT09BSDhpbTdmR0FVc0h5bU10MERyYVRfd2ZRVVdWY0lKdS1ZdTJiOVNrYXRtNTZVMF9IRFAxSmREZjZWMDl0TTJXMERpMFhiNWlmOG1RQ09BNEtYV1BITk02TG53djNrd3FlZ0h0UnItTTdCOExLUzZvUmEwU2FrZg?oc=5",
-  "title": "Présidentielle 2027 : les Écologistes divisés sur un éventuel ralliement à Jean-Luc Mélenchon ou à Raphaël Glucksmann",
-  "summary": "",
-  "published": "2026-08-21T09:00+02:00",
-  "mentions": [
-   "melenchon",
-   "glucksmann"
-  ]
- },
- {
-  "id": "f988369094b0f018",
-  "outlet": "TF1 Info",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNOFkweldScWw2aUR2RHdnbjR0RTlTVkM3eVNaYjdTbnZ4MHAwaGJWRThLbUZweUUycVlmb1Q1QnNaNmM5czFTN3ZpOTlqb05LQjJJcXVwa25kaXdNY0pMZXp6RGJLVWwwNFBCSi1rb2M5TEZqb1g0Z3ktLTFmUHhteUxyWGJnQTdLMmJPWmk2YmJVM3ZETEZhRDY2bUZSakZHczRXV1hPWlVmZUdQajVwODFodnBzTzBMSVNzSjQyM2x0WDZiTl8xcGp1ZXlyRnZBOERsazJPN1lzMEg5UlNQNmxra2ZXYlp2Tm5zY1JGNlJXVHBib0NaczRtTlF6NmNLX2V3Zkk0dmx1RktvWVIwNkJyRFRpNFc5?oc=5",
-  "title": "Droit du sol, suspension des demandes d'asile... Depuis Mayotte, Édouard Philippe détaille ses pistes sur l'immigration",
-  "summary": "",
-  "published": "2026-08-21T09:00+02:00",
-  "mentions": [
-   "philippe"
-  ]
- },
- {
-  "id": "4d32a8134d49d8fb",
-  "outlet": "Radio France",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZUw5MDVLQlh1bVBSU2ZldHNqZGozOFdVRXZFR1VIMFJVYUhPN25FWHhoT01Xdk5ERU4xMW11WFpaV0RYaVdhWDZiNTVnMm5tZmZTeWJlamtzb1VvOFdyTkRNR2hOQk5ZWDlBeUZtbExlakNEbVRRRnFrR21BR3lSY0RwTmpzZXNjYmctZ2dvUk9wcHNqaFVGUHBuSmRkNFFESWRF?oc=5",
-  "title": "Présidentielle : Édouard Philippe fait sa rentrée politique à Mayotte sur le thème de l’immigration",
-  "summary": "",
-  "published": "2026-08-21T09:00+02:00",
-  "mentions": [
-   "philippe"
-  ]
- },
- {
-  "id": "bc98ee7f72d858fc",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWUVGeUhDd0xmZkh3aWRfWjF4Z2xRVzRlNTZRWHMwOEw3a1BCaHFTSUd5MWFLWm12QjkxeUNsam04X256NGIxc2pRQzZJNFNSRDFIM3JIb1daMFhRX3ZOeEhfb1FwUXktQ2hoQUhvSlZTWnlpQVozTDFsbmpwczlmVFZoU1d2azZWeTRuOExrZGx2alhxOFRwOXd3QXozZ1VWV296cWpTdWdVbFVaNEZydHBWSmxIRWZSUmFkUHhZUkZ6RF9QV0J6TEtmWlFENXJIeUNB?oc=5",
-  "title": "Présidentielle 2027 : Édouard Philippe durcit le ton - 21/08",
-  "summary": "",
-  "published": "2026-08-21T09:00+02:00",
-  "mentions": [
-   "philippe"
-  ]
- },
- {
-  "id": "e00eae24df182b6a",
-  "outlet": "Le Figaro",
-  "lean": "droite",
-  "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPYVNRd1Y5QUJjdE9tLTB1RmVWejVBMVZJZXZsTUFJNzNIbWJTeVpaZmpsR2tHV0JzX3NGUHB1X0NpN2lrOEUza1M1MmpTeEF1ZGk0QTRzenpQV2o4QnVEa3l3d0owY01lckdidTFqQVNHay1qMTVucDE3enlrOFZOX01kOU1sNFdSZmRaUlJNMVp5dnV2VFU5TFRvaGU2dzdfTlk2Z0xWZ2VqSENYdDdNeDlzZ0FuaUQxQmRqV3NOQ2dTR0Q4ZmhXN2RSSHJpeGtFOEs0?oc=5",
-  "title": "Présidentielle 2027 : à Mayotte, Édouard Philippe hausse le ton sur l’immigration",
-  "summary": "",
-  "published": "2026-08-21T09:00+02:00",
-  "mentions": [
-   "philippe"
-  ]
- },
- {
-  "id": "f2ae7984fb964702",
-  "outlet": "Le Parisien",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNdFI0ZE01VThoTnJiYjBpeG4zSEVNNER4U0lYaGVqYkZManlkN1lrVnIyMkh0QUsyaVVUWGg1QzIwZ3gyQ3lpaUhBODl2aXpwM0o3bVdDZEp5bzdFZ1pfLUpDa2tjd0hqWE14YnlPSFVHX2dlRDNWSE5uNUl1dWxjTG5xR1dXTmlkcUwwSGxWeWZCYTdkWHllY1RWUy1WVGQ4OHV3aXIwYlR2TUZ6cHZSdVhhSkdzYVA4WmVNODhqdW1rbUExOVMwakxSRW5XOFE2YUtQWXR3YXJxa29pYmtYY21VY19zYjFYeW82RWlIYndwclA5QXdzUURSZDZNNnItck84VWtGeUo1R1Z3NDhGLUhtRVY?oc=5",
-  "title": "« Tout ce monde aura besoin de se retrouver » : Édouard Philippe et Xavier Bertrand, l’improbable duo",
-  "summary": "",
-  "published": "2026-08-21T09:00+02:00",
-  "mentions": [
-   "philippe"
-  ]
- },
- {
-  "id": "4b2afebe7e05c042",
-  "outlet": "Outre-mer La 1ère",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQX0JPQ2hpTHVEZVNOYTNrcnN6S05tWl9YYU5HZnpHTnlLTDRpQkdITHdWRUpxZmRESWxZQjM3QkNyQ2syNWxzcmFOTm1WaTctZXlqM2R1Sktxc3RMb0JMM3RYdWstYVF2TnZZRXBBOXllWWZrUXBYNmE1a1NQNUVFVEpUN2Roak1GS3NXc3dDX3I5QkRfRURBQjdmR3ROeWxrRHFUS1o4VDZUNjN5STdocVBLVEZzcl9PLVBYbk9PZ0lfcE5iUWJTUkZlY2hFQ2c?oc=5",
-  "title": "Édouard Philippe à Mayotte : des propositions fermes, mais des élus toujours sceptiques",
-  "summary": "",
-  "published": "2026-08-21T09:00+02:00",
-  "mentions": [
-   "philippe"
-  ]
- },
- {
-  "id": "ba4c9c58cbbf8e1a",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNWHdfRnE3VEExN3Q4SDR5U0xnbXRfRzNJek9zWWVjUmplYVN4bDRvS2dlMzJUOXVsOTlEeHNWTDlrUXhKQ2FnaDhGUlBHNm5vM1Q5R1BtZkZtbU1kb09FUDZSUEtaQlRpREttSHRrTnNjY25SVExMaVhzclFIVVA5SHdueFlyTzlub2phc3FzVEdRWW5sXzFGRHN2WDR3bmI5V0g2T1dYemJCOVJ0S2k3UXh4THhDME4xTGxJbUVPUXljV2V3bmlveU5QRWt5SVFTaDJ1bGF2Y3dRMjFFanc?oc=5",
-  "title": "Édouard Philippe: \"Je n'ai aucun adversaire au sein du bloc central, j'ai des concurrents\"",
-  "summary": "",
-  "published": "2026-08-21T09:00+02:00",
-  "mentions": [
-   "philippe"
-  ]
- },
- {
-  "id": "dfd3cf59065ce418",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNOTRpdTdfVkl1NkI4TFFUWl9mZ2NaU0tWX2lJb3Y4c1lIaEwtN3ozV2VERjg0bXpHTEszMEdMOUw5Y0VzWTVTaHd3RHE3WWNGcTRvX3F3UnludlNWZWJRVVUwSURBbFhYLTZjY1NFMHhIN05HUk54bHZRVTRtaDhXSGlDTnJvc2hUUU5zM2FyVFFfODl2MlRDSXRDbEl2SlRIWm94MWRZYlV0UUdZZEl6a0Z6MVFOLXhLS2Z6Y0hYbXZ3cEk2cU5JTDZ3M3VUZkp1OWRmYkVNZVdmQUNYbFQzOF9GOElhMEJvOUYtbEY4ZDJtQXhrTjFCaw?oc=5",
-  "title": "\"Reprendre le contrôle\" de l'immigration: depuis Mayotte, Édouard Philippe donne ses \"priorités\" pour l'archipel",
-  "summary": "",
-  "published": "2026-08-21T09:00+02:00",
-  "mentions": [
-   "philippe"
-  ]
- },
- {
-  "id": "80a518cb9021ddbc",
-  "outlet": "Valeurs actuelles",
-  "lean": "droite",
-  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdk9QczNna1N6XzFSTU5XUkVkRk9acy1IaFRCR1RLYnhBYm9tNzFPd2wzcWc5LTN5NTBmQlBSUXNsQ0NicEdIZGlvclZFWjlRRTJMX2R3bkNNZHo4cjZWamZ6T2xHZ2ZfbXJqNktkb240X3FzZ0hsUU5kNjdvbWVnRnAyNjlOdkR2UGJjcURaaVJzcGRWVjVNNmhaZjdEUnBBa1lEaEVwMzlmMU1ZeS1RX00yRQ?oc=5",
-  "title": "Présidentielle 2027 : qui sont les soutiens politiques d’Édouard Philippe ?",
-  "summary": "",
-  "published": "2026-08-21T09:00+02:00",
-  "mentions": [
-   "philippe"
-  ]
- },
- {
-  "id": "ec43ab348275501e",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNSlcyMXhidXdWUTc5WGQ5a1kzT2lZbFpLVzBfR1RVVkljQ0o4MFVfTmR2VHFBaF9fTUszcmV5cWVKWi1kMzFmbGdUeklTQWJMZVBEMGVRMVJIZF9mRnVKems1UEI1Z2N0WFc0V2ZUcFQ4dURVQm83dlJEUFUzTGpRcUZ4MHlrMXN6eDlGUFV5TDJsT1NlSllQZ01VZEhEOXVuT2tsN0FCaTdKdTRIZFIwT3ZCSlFKYVhPanYyTzRQbHNCeGExazIxbjhqaWxHejB5NkcxNTZPZl9xa3Zac3c?oc=5",
-  "title": "Mayotte: Édouard Philippe appelle à une \"reprise en main\" de l'immigration sur l'archipel",
-  "summary": "",
-  "published": "2026-08-21T09:00+02:00",
-  "mentions": [
-   "philippe"
-  ]
- },
- {
-  "id": "ced6c5fe7e2e2ed1",
-  "outlet": "La Provence",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOU2UwSEg2V1NtX0liVVpIMXB2a0VqcWtROUZVbGhfYmlXMVdnVnlnMXh6ZkZ1eGc5c243NVM5QWNxeHdCdjNnSGcyQWlhY3JLelpIVU9IWGE2QXB2OU4xU1ZtVTVUYWluaU5CTFJHWE1EblRlQUctTXVLU3Nwc2dWbWtJaE00Wk5yUjdLcnl2aUItYm0ybDdZN3lBUGI3TDZKbk0tSUhiUko5NDFXQ1JzclpuOV9EVV9GZ0RWTmZ1RS1SS2lLUkM1dnY1QUIyWlQyemRoQl8xNDZqUQ?oc=5",
-  "title": "À Mayotte, Édouard Philippe promet de mettre fin à l'\"appel d’air\" de l’immigration",
-  "summary": "",
-  "published": "2026-08-21T09:00+02:00",
-  "mentions": [
-   "philippe"
-  ]
- },
- {
-  "id": "187f1f123d52ac6a",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOaThDenpVemM1MGdLdmRhWEplZkxzdzMzNWxBcGREMjdIU3E5R3RfZXVKWGtrY05WR1UteEJxazZRV20ybUJqeXhnbW54Ri1RUjdaU2Mwb2xjYVhHbHFpQU1kS2MwSlI3SThueDJuM3pIQlVLdGYydGpRTnNmWXZld0VSeTUwZFZtajhFaWRjbmRDTWoxS3MxZ20yTm9ETG94MUZnQXNTR1BkYzhpU1E2MVhjQ3VuV2pJaVdTM0VsUmdIY0MzM3dBQ0RlNzh3ZWtTUlFtQUZtbVRVeVhmY0RLbTF5QlNRS0J2VWxBRXMxUnB5SzFsMlE2MzQycHQ2SXhLeVdz?oc=5",
-  "title": "INFO BFMTV. Gabriel Attal, candidat à la présidentielle, visé par deux nouvelles ingérences russes",
-  "summary": "",
-  "published": "2026-08-21T09:00+02:00",
-  "mentions": [
-   "attal"
-  ]
- },
- {
-  "id": "9d0b0ea6f0837756",
-  "outlet": "franceinfo",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQXzFZX2U0UnNKdU9rRTNuai1RVmFPU2ZmNFQxQkFHb1lJTjU2Wlg2clJHWjU2ZjI2U0lTdEFkVWQyM1Y1blBhdWlobWJ0WVNGalJpS0lObHVoY2E0bGt4N1BpMnkzaTJYcDNHb0FkT1pKbDNYc0NEUHVRY19fVEtWQ1pneW9JNDRRWXhyTXJ5aS15cU9iRHdmenlqRS1iWUJyQlY4akN4S2xSbFdYR0VHWDlUYW5jaDdRZHMyRHNSclVzaG50NTg3OVU1aFlqVV96dXMteWtvUWliN1paYnRVU0ZWM25ZWjl6dlFweFpqdzJDS2NHWkE?oc=5",
-  "title": "Gabriel Attal de nouveau ciblé par des opérations de désinformation russes",
-  "summary": "",
-  "published": "2026-08-21T09:00+02:00",
-  "mentions": [
-   "attal"
-  ]
- },
- {
-  "id": "179893dc0c7f3b3d",
-  "outlet": "Marianne",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRTZfNEFXcDBYYTdXX1ZnRHhEemZtcnA3RkRnbmxEOU5LUXJXOXNLenF0dHBZYzhoZ3JGeDc2MjVTZFJvaHBQN1JVWU1WRE9pNG43N0lGc0ViWnotS09PTmVEZU0yOFdRMzItMi03dzZucy0xQ1F5RTZJSGFBUjRtT29sOWk0czRoUzZIeTFzNTlWcGJfVlFkYkY3bm51cldkS1dSZjFfV3Q2M08zaE1WNVh4YzhHYWxCM2lERDRuNDNMV1U1VEo4?oc=5",
-  "title": "Présidentielle 2027 : Gabriel Attal ciblé par une nouvelle offensive de désinformation prorusse",
-  "summary": "",
-  "published": "2026-08-21T09:00+02:00",
-  "mentions": [
-   "attal"
-  ]
- },
- {
-  "id": "72a6e100f9cc9004",
-  "outlet": "Orange Actualités",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNc0ZLU3lxeF9hZndEQ3l3LWZOWVVtSGt1NGlGZm5VNDFvMVVCNWZTSkRZbFJkN0kwc1dJekl5YWZleEdVMVpKRDRGeGtxSDktREVZNlktS2JqVjc5SzExd3NSMk5wNG5xc2VmaTBkU2h0TWoxcDMyLXlxenZra2VXVTRaaVF1ZjRfMjRnNE5VT1NiMFhXdzZHNVhYSmVxMkpzZG11ODJ0WEJ5ZU1sOW9SQWQ1NF9kWVVYSk5fTFdCZHNkVWNIdGswbDZia1g5Uk15Q2M2TDFoeW5kclBkNHc?oc=5",
-  "title": "Présidentielle 2027 : Gabriel Attal visé par deux nouvelles opérations d'ingérence russe",
-  "summary": "",
-  "published": "2026-08-21T09:00+02:00",
-  "mentions": [
-   "attal"
-  ]
- },
- {
-  "id": "cd1042519e93de2c",
-  "outlet": "Nouvelle Énergie",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1TUFEwb05vZGc0em9rWVpXQVZJU0lOQ2RRYzBpcmNsdmJUTm9MbThZaE5pMXZkT2dIbTlHTHI5MjNMZDJzSGtYSENvSmdmTW5Ec0YwYmh0VkZnZnM3aFZpeVFB?oc=5",
-  "title": "Venez assister au discours de rentrée de David Lisnard",
-  "summary": "",
-  "published": "2026-08-21T09:00+02:00",
-  "mentions": [
-   "lisnard"
-  ]
- },
- {
-  "id": "aa1102371cc4070b",
-  "outlet": "Nouvelle Énergie",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMk1vMWs3dkMxd0tBMXZFZFZ1OTBLOFBzOHBlRTlWQU82U3R5Z0Nnc0tTSjdockNzSzg0b2V6MjY1VnNSQXFEQkxYcUtOMzNzQlNwTjhMd2c0c2RDTUpNQlhNYUt5c2RVMzl4ZFlXalpZUzlVTG5DZ1hKQlo1Sm91VGpBRDQ?oc=5",
-  "title": "La Gagne : le Campus d’été de Nouvelle Énergie 2026",
-  "summary": "",
-  "published": "2026-08-21T09:00+02:00",
-  "mentions": []
- },
- {
-  "id": "ea494a717acc77b7",
-  "outlet": "Yahoo Finance France",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcDVkUmRTd0V3TlJ3c1phQzJaTEtSdWpEV0xJTDVZN3lwTEE0MURmNzd0N0xNZW9XM191cm02SFNUQnE5M3JLMGFVTEVtUHVjX2ZVTE9rUklJNEwzeUhTSE1OT2xzazQtN3dYbXhiVG9paWJGQldfV2ozeU1WZENRS1NkQVU5VnlCcXE0bzVuWldzcmxCTXVZVXl2NkxYQnlEOVZtZ1EzNUw4N2c?oc=5",
-  "title": "Facturation électronique : pourquoi David Lisnard et Sarah Knafo appellent à sa suspension",
-  "summary": "",
-  "published": "2026-08-21T09:00+02:00",
-  "mentions": [
-   "lisnard"
-  ]
- },
- {
-  "id": "29ea7ad6d489ac82",
-  "outlet": "Ouest-France",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQb0xJdkZrbmxmcmd2V3N1VDlnQ2RXRmFNMW5HN083dGMyM0thZTVPNVh2a1prVG00SGVTbHZQZk10aVR2TGpPbV9DR1VZUlF6TEpVbFFrN2xzZmpNN1UydHFBWnkwY3lDRy16LVFxYzhNVVlnVEljbUlqRFFEVncxemhwS1liaW5NbzY1NzRiVEpOVVBXc2F5NF82a1p5LUxhY3pRTUE3U3dLS05ObkRYbklMV1hTUDAwaEVXejJKUFhlelktWS00LTRNQ0xTR0pOOThDU0l2VjBnZzBQTFgybEo2dlJ2S0tZYWc4U1JtdHVOdk9UR2JqUFlGQ0tPZERLZFhtT21QUkVYczhFVVY4N1VTOWkzUXRl?oc=5",
-  "title": "À Toulouse, les communistes se préparent à la candidature de Fabien Roussel pour la présidentielle",
-  "summary": "",
-  "published": "2026-08-21T09:00+02:00",
-  "mentions": [
-   "roussel"
-  ]
- },
- {
-  "id": "03dc9f3503397748",
-  "outlet": "www.lamarseillaise.fr",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWUtqd0p2cm00cDNMS2lKZzkxRm1tM19MQjVMMU9OajZEdS1CZnBDd1F2MXhCbWVMOFJOazNGRlB6eXVweGRCaHo1a0xGZG1LTHZuRTZ4anIyby1sUS1NVk9iRmM2SGs3MXhzZnhjU3QyVFROWVFRUmI1Wm1KZzA1M3QzZC1tRFJVZkJDcTNWTThZY09MSzRHQXNNNml3TG9IMnZNWURVRW1sdkk?oc=5",
-  "title": "[Tribune] Verdun ou Waterloo pour Fabien Roussel et le PCF ?",
-  "summary": "",
-  "published": "2026-08-21T09:00+02:00",
-  "mentions": [
-   "roussel"
-  ]
- },
- {
-  "id": "139555d5f8b749c8",
-  "outlet": "ici.fr",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNS3lCVEN5M2hFdnlXbjlOOTlPOF9oUzRwS2phYlN1Y0tkdHhzWG9FYXZXWWhnSjJhaUlGclhCUnp5dDJhTFdZcDhwM2otRXlUZDlERHBKbGtPaWpsaGt5VURfbl9mY203OHdEN2MtQjNDQmRHWlhaTXktTWhZWTJTemNFMENfUUZTaGZ6dEZjX1lTbk0yejFPazdB?oc=5",
-  "title": "Présidentielle 2027 : qui sont les candidats déclarés ?",
-  "summary": "",
-  "published": "2026-08-21T09:00+02:00",
-  "mentions": []
- },
- {
-  "id": "f9c17f3b7056611a",
-  "outlet": "Europe 1",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSXVKeXlpaUdHbmhaX2tRZ3hBeC1QSkZURTZDcjN3MHhRR3pSZ1IxLXY3S01wV0I2cDJrTURvR2J3V2xOb2wwM0FEa2xvc2d2WHRFNVNWMTd3RlRlX3NaYXA5QkZCRTZpOEt4bDhqVlhUOVdnWWF4eGVYdl90b2VMSjA4UlUwOUNKRjlRd2NvRVpVeHEzQlFJbG5UYmhpOHZsQ3M5VHlfTXRTMmVvcHFneDFlREtLYlRsXzB1djZUR2fSAcYBQVVfeXFMT19Hb2lPbU5Ud1J1Nks0VVQ5VlFpR0o4bkpuYnFQRXVEczBJOE54aW9pcTFxRnZpanZVYmd4SkRLWVFSZzJnQ3hydk1QdkRIZ2hEMFlKLTJQWmh6eFBqSnZ2V1laZG95QnNOSFpSdHpPWEVBT01tOFV5OTJIZmRYOEdsUnJjejhzUWJzQ2FRSWR6RXhOaEJjZ0RfcENPakV1XzlvRDF5Mk5lc3NXcTJ1eWpsVVBDX2E5V0s4LVBRazF3aG9FX1Rn?oc=5",
-  "title": "«Je pense que c'est très dangereux» : la facture électronique, prochaine cible des hackers ?",
-  "summary": "",
-  "published": "2026-08-21T09:00+02:00",
-  "mentions": []
- },
- {
-  "id": "f99ea732f1bfe427",
-  "outlet": "ladepeche.fr",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOVWpNTjJKaGNNYUVRY0pILU1iOTNzaGV3Ujl0R0lmcFhZYWgxWV9RQ0ZUdkJMZno2YWlWQi1hYi00MXo0WVdxaGQtRlNTRll3am0zVDNlaENmdkRsdVdFMDVZUGdjSGVHR09yVFppRFlGbjdiNUI5djFuZlpfX0JiY0dmaC0yTWY0SUFSWGRNTWVrSEZGWWgxMWJpQWRfajNIUzJ2U3lfcURGS25tX0N3V0c1aVJzSnJvZVlMbkNaTDcwbWVEYm40TXYyNTZIYnoxVUx5Y2ZzMGY5d3JiSGF0dGRzemFya2hqYWk4UmRSWXJzTV9TVWt4UVNHcWI4Y3BhMnJvSWZQTTBBTHdfWTNOYnlzTmhfWFRRNzdMdw?oc=5",
-  "title": "\"Taxer les plus riches ne suffira pas\" : Fabien Roussel défend une candidature communiste autonome à la présentielle lors de sa rentrée politique à Toulouse et propose un plan de relance de 500 milliards d'euros",
-  "summary": "",
-  "published": "2026-08-21T09:00+02:00",
-  "mentions": [
-   "roussel"
-  ]
- },
- {
-  "id": "329f7019d2487321",
-  "outlet": "www.lamarseillaise.fr",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONU1QT0huYTMwdXMyeW44M1dCaU00cUhmWWZEeGtGWS13cGJjR0RNb3AxZkRZMEVvM25tTUQwVXFjblQ4b2hOY1pRdHhfcGtVTVhhZnU0ejJ4SWJrZW5yZDBvdE5JclBmX0ROM2NqTDNiLUlLQllyMlJhd0N6eTVJemlhOTE4SXNUaXgw?oc=5",
-  "title": "Le nouvel exécutif national du PCF",
-  "summary": "",
-  "published": "2026-08-21T09:00+02:00",
-  "mentions": []
- },
- {
-  "id": "cfc569f97cb2ba15",
-  "outlet": "CNews",
-  "lean": "droite",
-  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWTZxRi1fckxqd21ZbUNsam1VTUJ5MHlyMEZDbTF4M0hDVXg4dGhPSWRON1BPNWVNMkJacE9MR2NreUp0NEV6SzlQcVl6YUszV1ZicllKTnltcVdkZHpSM0lKTENueFVncTRISnFzbkNuUVEyeFFSRVFjc01SZ1ZyS0NoSlhKUW1SLW1Ed3hGYjI1dWJFRFVlcE5yVnhJRWVYbU9DVDc1YU9pcFJsd2F6dG1LWdIBuAFBVV95cUxOVERTR2ZraXd5aW82MHBWU2hTSjFpYXRVcnJLZExjWWU3eGQ3Uk1GQ3dtOThEbE5Ybk05bW1KNkNWLTRXSk1ucmZ1a0ltNlZXZENDQlBrVVNFcHVWYXV4aUVPWkRmcUVxLURNVUFfN2JmMTkzTzJaRzdzLUV6dEZZNVVhNzRKQURWYjdtRGh3N3dFTS0tdFl4a2JacnUtTVozVEM5QkZtNmxhX1NudDZHbm13bGk3NVpH?oc=5",
-  "title": "Le PCF fait sa rentrée politique avec ses Universités d’Été qui débutent ce vendredi",
-  "summary": "",
-  "published": "2026-08-21T09:00+02:00",
-  "mentions": []
- },
- {
-  "id": "5274c81226b9f58b",
-  "outlet": "L'Humanité",
-  "lean": "gauche",
-  "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQYkRRSUlydTBMRDhOUFJ5aENBdG5RTWxvODlWazhJUkxOZGhsN2lFbmxmRkhlNEVqTldUVTA0dzR3QjJaaFRHa0VEYzRlZ0I4NU1QRFpZSl90X2d2azNObVRHOTUzTmxXcVRfMW80ODRGM1BaZm51VldXNDVzVnlPUUM5V0VyNlpCYWJ3cXhqZ2JKazd0LWY3LUF6XzZ4MDRYYnROTC0zWDBJdUtsaDhYYXVFYjdqUmtKM2c0Y3Q4OEpIRUdLRkUxMnlPUlJBekljTml4bm9WbGZWZmZYd2ZKeU9iZGc?oc=5",
-  "title": "Après un été caniculaire, le PCF lance son université d’été pour démontrer que l’on « peut encore changer le monde",
-  "summary": "",
-  "published": "2026-08-21T09:00+02:00",
-  "mentions": []
- },
- {
-  "id": "8b359755f787c4f1",
-  "outlet": "www.lamarseillaise.fr",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQT2hwU1hsVG91NXZjWktIcHdUb1RnWVdsSERMTDJORTVndzdpQ1NnZzFVWTktSlFYeEF0Z3RrU3hFaU9Ja0t3QXdGdVFUM3JYem5reGdCdF9yQm9pMkRybHBJVXY2eGN5NXExWFlfN250UEl6U3VHVFl1RWI1NkpFVEFJeTgyUk5Vbk1wM2tUNmxZZzlheHB4TGV6ZTMyTzkwb3k0QzFrYlVJSjBYX1lmVGZ1dVRLOVFTUWo2LVZXYThDRzQ?oc=5",
-  "title": "[Entretien] « L’Université d’été du PCF, pour aborder cette année avec ambition »",
-  "summary": "",
-  "published": "2026-08-21T09:00+02:00",
-  "mentions": []
- },
- {
-  "id": "3ad28d0784a78473",
-  "outlet": "TF1 Info",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNQm1xZnhueGVFdklZVjBfSGEwRURZRzEyaDNOc2tYYXdhcnNGeXhaOHVEMjM0T1h5Y1h4YzI1a1FzTVVIRDZ2VS1lcmNVVTE5YWVoenRUdGNZcS1ydEIwT1B2ZEtqeFY0WTViQmhvNUQyb3VGLU1QaExWaXNvQm8wczVRQTJpQVlWaXg4ZVVoZDhqZ2RPR212NTlqM0RTZzZyQWdSZEo3WDNRYVdERXU0aktWbTB5bGdNVm5XS3pCMHZHRUIyZ21ON0dfSVJRdHJ2Y1VwSXBOZWxTTm4xa0NtYTJxNA?oc=5",
-  "title": "Jean-Luc Mélenchon fait sa rentrée politique sur TF1 : le candidat LFI à la présidentielle est l'invité du 13H de TF1 samedi",
-  "summary": "",
-  "published": "2026-08-21T09:00+02:00",
-  "mentions": [
-   "melenchon"
-  ]
- },
- {
-  "id": "39ddf0be699481f3",
-  "outlet": "Le Figaro",
-  "lean": "droite",
-  "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZk10OFc3SlRWb1FkcWhoMFA4cTBQMXJpMmxCY2ZWUkxxT2RTdERhNmxvT0VjRmIzeTV6b01kQ1ZqLWZtazZrU2NhVVBvSUx6b2RfZE1ET2pjNW1mNGFYYXpEY2F1U3ZDXzEya2pyTUdVa0phRzZTOE9SVF9UWnlXSk9rQjFXZ1dNbUc1bW1NbURiSHVEM2YwaDBMY0MzR0Ixd09YVllhSXE1eWRVU19OV1RlSWtGenA2bDVfME03VnpmNnctTUtmTEltNWVrQXNfMUhfOWdLZ0VoSkdxX2hiZQ?oc=5",
-  "title": "L’éditorial d’Yves Thréard : « Jean-Luc Mélenchon ou l’art d’envoyer la France dans le mur en klaxonnant »",
-  "summary": "",
-  "published": "2026-08-21T09:00+02:00",
-  "mentions": [
-   "melenchon"
-  ]
- },
- {
-  "id": "35026e2c6a6a8f2f",
-  "outlet": "Libération",
-  "lean": "centre-gauche",
-  "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOaGxVQTRUNVhPY0hISk1aTFBPNU1zYWNkRzA1SThBcjFQdC1ybVRVTEZFYm1JV1FmOTMybmp1dVYzZ0hHdmlEZllfRndRVS1XcTVqQnBCQjk2VndfN3c5YmgwYnJKOGM3c2hRSURoUmc0d0NDTzYyalYyeVRzQS1Edzc0VldBLS1YYU5yaGRqN2VKRXVlNEpSN2psa2htQWJ1UGV4bzRmLW1wWUZqck9yRzdYcjNaeVFsNnBuZXFfZlRHS0VsVXhaNVNBVE1ZWkpnZlZQTVlIVXhIcHJTN0RTeTlQQQ?oc=5",
-  "title": "Présidentielle 2027 : clivant ou rassembleur, Jean-Luc Mélenchon sème le double",
-  "summary": "",
-  "published": "2026-08-21T09:00+02:00",
-  "mentions": [
-   "melenchon"
-  ]
- },
- {
-  "id": "766e6fcd236acfa3",
-  "outlet": "Le Dauphiné Libéré",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNzkwU1I5ZEtJV1JSOHk5S0FySTkwYlpZMzRZOXN5bmQwdEFRYkxuUjBhLWIyczNJc3pkWTJSbTZ0QU5ndU1BZUF5cVczT2VVZEVuR2d3dVp1aFh3SnNNYkVwTUJhdmNfcFMzbTctaGl2dEZIMkVOUVJnZjJVS0JUbG5fSER4R210YWJxekVRZndCQ1RzR3hDOGVSaVJBX3VGbHJDbHN5Q1otQUN1RUtKaWxlbVU3RU9pcjlMYVV0UQ?oc=5",
-  "title": "Drôme. Jean-Luc Mélenchon est arrivé aux universités d'été de La France insoumise",
-  "summary": "",
-  "published": "2026-08-21T09:00+02:00",
-  "mentions": [
-   "melenchon"
-  ]
- },
- {
-  "id": "2b316e1aa3ef8b21",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQU2lJUGtkemdVQ0ZxOGJZMm9WNDJLQ3ZRejZtY0ttdDZUbndFemgycDVzdVl4QUsxdEVoYzV1NmVNOHIxNkh5cFJRSUJqVUxpQnpjbXQ4d05IcjA0c0NhZl9zUVpIMDNXUHRpd0JaTW5vUlQ1b0djLUhNMG5DQzRQNUpXVWNrVUpWV043bFFRVkhOUmdBUjEtcHJDNmU2T2xzVDhDNHM2WkhwMjhkRjZsSWxiUVpGNThZU3k1YXlNOENKTndhNDBfTmZpakU?oc=5",
-  "title": "Mayotte: \"Ici, l'immigration est un problème évident\", assure Édouard Philippe",
-  "summary": "",
-  "published": "2026-08-21T09:00+02:00",
-  "mentions": [
-   "philippe"
-  ]
- },
- {
-  "id": "05ebf67ad3ac781b",
-  "outlet": "TIME France",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRk9Db3NTRVRsR1JZX0FzTnMzWE5XMi1kWTVib1lxcEVkc0g1X1M5MjI0ZmdTMmJrOGduOVZ0RVc0ZFFVcTBlblpHYzZMZ1RSczItUmJmVXZEcTdCbEh0anlsZVl2TXY4TlBPYTFTMmxJNEQwVzd3VjA0OHZoTGlPeUFKS2FhTm53azlLSjkwcFBTLWFpTmNIRnVsOVNpaDVkU2Vjd1VCWnJjRUNWZHRaZGk3VTBYdXNmVlRKLUEyN2Fudw?oc=5",
-  "title": "Les visages des présidentielles 2027 : Gabriel Attal, l’héritier pressé qui joue la rupture",
-  "summary": "",
-  "published": "2026-08-21T09:00+02:00",
-  "mentions": [
-   "attal"
-  ]
- },
- {
-  "id": "6cada6cfcd43b04f",
-  "outlet": "20 Minutes",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQaloybWhmOUwwUTZUUGV3QnN2MS1rNVdBU3hkX0lDcjV2cjVBYjY2UlRtdlYwY1VJbDZrbGZrUjFRV1dVb09FN1hmSG9fRl9wQWo5eGo4X3lKOU5zdXN1VzR0VGxyeTlPSE02aXZTZTFXcUQ1d3NXQnlDdTZJaHFBbDRFMWpvcnV0aFB6X2E0bFh6LWNrSkNDLVJRSEdiZnZla3FtalVmUTIwNG5WUUp6azJKTXJqX0NrU1lzckZRTFpnbzZ2SDE4eGFOYw?oc=5",
-  "title": "Gabriel Attal encore ciblé par des opérations russes de désinformation",
-  "summary": "",
-  "published": "2026-08-21T09:00+02:00",
-  "mentions": [
-   "attal"
-  ]
- },
- {
-  "id": "df8e3b0cbe536ebf",
-  "outlet": "LCP-Assemblée nationale",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOVpZNldIZHJERTc5aUxkeEc5NTdST2V5Wmw1Q1BaVTlTdW5aV2M0Y2xlNFNYbGlXZW5OSFR1NmFnTThiaGFjM2hMOHpkSzBoTG1Dc1NyMmZvSl9nNmYxOTlaQjlPZlpCMk1DMm50MnVmWW54YjkzRG5pbEl0dzJNamxOZ3VMa3NNS29OZVA1UV9LSnFBUHpNR1o5VmpYcnE3WVp1RzE0b3Q?oc=5",
-  "title": "Présidentielle 2027 et ingérences russes : Gabriel Attal de nouveau ciblé par des campagnes de désinformation",
-  "summary": "",
-  "published": "2026-08-21T09:00+02:00",
-  "mentions": [
-   "attal"
-  ]
- },
- {
-  "id": "a25d97a18490a154",
-  "outlet": "Midi Libre",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQXy16Rklyajl2UlpRQVpBcGtEcjdoZ0p3WVdSRjBhZmxDdFBYcEZ3dHl2cmZ1NzZreW5wWnJERVNVeHFaMDRKNkFPdGl0d0dUN1pzcHB0TjNlcXE4d3JETzYtZVhXM0ZTbW15bjFJa01ZT2IwYlZsMWk3dElYWEZkM2dfanBaVUNTUVZyRG5CRERuVlc5RzVtVlFXaE9faXp3RGxnbi1kUXlGS2VJNjJyODVNWUYyeTIxSVBJZnY4RVA1SmJkRkc1bllQNWZaazk2T3NhN0pLSHJtdXZTeDgwMk53bE90a2h0UmRSd21JNWlVUHZfbGhELXJIZk0?oc=5",
-  "title": "Présidentielle 2027 : le candidat Gabriel Attal de nouveau victime d’ingérence russe, la quatrième attaque en deux semaines",
-  "summary": "",
-  "published": "2026-08-21T09:00+02:00",
-  "mentions": [
-   "attal"
-  ]
- },
- {
-  "id": "df2cfc0d23746f87",
-  "outlet": "lanouvellerepublique.fr",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxONEJtZWY0MEJvLXFtbWpEVXNqemlBeUxPZy1NSUNhSGFJZlVoUmtCdkxqLVVwRzBkcXF4dFhLc1FObHVYTGNiSlpseFZsU2ozZllkRVIzOWxJQXNPX3d0akJLbUllNDBkNnE1Z0NyekJKcnpEYXVaaTFVaElldURVQ1ZBN2JIVWhCRFVDS0FsQjhiTjJhVm1ZcjIyNWNyZnVnUWpnbFlJQWF4Z1hDem5OeG5MLUF2RjVOYkJPcjN4eTExdWw4dE9oT2t6Vmh4bEdrT3VlQzVIcFVCVF9LZ3ZLcHd1d3NkM0xr?oc=5",
-  "title": "Présidentielle 2027 : Gabriel Attal de nouveau ciblé par des opérations de désinformation prorusses",
-  "summary": "",
-  "published": "2026-08-21T09:00+02:00",
-  "mentions": [
-   "attal"
-  ]
- },
- {
-  "id": "7ccd1ac745fe8af0",
-  "outlet": "TF1 Info",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOYlF2Y0tsNkloRmlvYkU2alNEemgtQlNuMjRMOEltRDhnMElLSFBSQkhqRWJNa1J4MF9XVzlzbDk3ektIVldhaGdxQnNNbmhrZ1hNcXp1ZGsxZzdJRTd3bW95cENHUUF5MnQwblFNdTBMNEFiNzMtaVFMQzRpMTBMc1M2YVZjUlV1Qkh1ckFlZ2ZsalpZdVVrN1BZaDFnaW5xUjFxRTRhdDJyWFNFbkE5RWRrbmh5Q0FIdVVjeC1JLXY5SXNtMmtPN1NnMU5PTjJTNmZSZ1k5ZlFnbHlGbnk5TElNYw?oc=5",
-  "title": "Présidentielle 2027 : Gabriel Attal de nouveau ciblé par des opérations de désinformation russes",
-  "summary": "",
-  "published": "2026-08-21T09:00+02:00",
-  "mentions": [
-   "attal"
-  ]
- },
- {
-  "id": "077be941d6cc48f1",
-  "outlet": "Le Parisien",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNamJPZEZ0bEQ5MDFzTXpYM0xEUHp2dEExZEI2dGlfQ0RSRFkwNjZhaWdIUU0wODREdktMVWhzLWtLeWREMlQ0RzYtOFhhZ0lSSUczUFhjQmc3NVdUR2VDbFJJMDUtZDVpZTFHVTFmV2llMkJjd0FNeVRNZnlkdzNhQzRFWlpxN3BiQ2Y5emJnaHVSLTNiaEdFQW5GT2NtZnlCNmdBLURXQnB3OWtkNGl1OERSa2RKbFhUb1BsZGJSdVNBT29hQ1JBQ0U3WjZfSS1hak8zUERBaEhRdDBCdHA5ME5MNTVpb0pRT3VUdi02X2kwQ05uWVZFSm9tNGhYVnZsSl9Bc0tGZllLR3U0bEFGcXZaQi0?oc=5",
-  "title": "Ingérences russes et présidentielle 2027 : Gabriel Attal visé par deux nouvelles opérations de déstabilisation",
-  "summary": "",
-  "published": "2026-08-21T09:00+02:00",
-  "mentions": [
-   "attal"
-  ]
- },
- {
-  "id": "abb340834274bf97",
-  "outlet": "L'Express",
-  "lean": "centre-droit",
-  "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPcHVFWWdVaU1DS0p0ZC1ESnhlRjlzU1A3ZHVjUFkzdFZKUGtDQzc3SEpud3VXQW9NT2RrQmJuRjY5NFNURXlSTll6VlR5bXNkNkxnbVJfLWgtb2ZjanJhX09BdWxzc1htbUVvVm1ySFFxTjZvMFBrOXJiem82ZFg2Ry1lVHFoQzViM2xfNm1WeXJRcnlNMUU4SjVVbjloSkJPOXBoNGxaZEw0eUdIRWVhZG1FWk9KeVhhQzRld3JJeEdLRWFaUkJGTlloWVJWSzBwcjd4cWVkWlBvOUhwWVhaNkhhWF9hZm8?oc=5",
-  "title": "Le Conseil constitutionnel, ligne de fracture entre Gabriel Attal, Edouard Philippe et Bruno Retailleau",
-  "summary": "",
-  "published": "2026-08-21T09:00+02:00",
-  "mentions": [
-   "philippe",
-   "attal",
-   "retailleau"
-  ]
- },
- {
-  "id": "6a56efcb30e0c9dd",
-  "outlet": "Sud Ouest",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPUy1RTWRIMTVZMTlpNGs5QkxZYjh1d0NSc2tJOUVfS1lwSFZxWld0a2kxcDF0ZzBWTUphcHpKa2ozMEJNMVNCMEZvNUlaeC1DSUVVRjdZXzZld2hYRGhVcDBwSng1cTRjak80MTViemZ0NUx1YjJXSzZoSlZidFpKY3paODQ5aXJsM0JaTE1VaDROSjV4SGVwUENRSEQ1VkROZjBEMllxLVhHcDNCYkJWUXkyd1VVLWVrM0JELTVOS2xzeE1GWVNza3hCYy15TVUzX1J2WWVmS29WNmdlSkxMeW5nc2Z2QQ?oc=5",
-  "title": "Présidentielle 2027 : Édouard Philippe veut mettre fin à l’« appel d’air » migratoire à Mayotte",
-  "summary": "",
-  "published": "2026-08-21T09:00+02:00",
-  "mentions": [
-   "philippe"
-  ]
- },
- {
-  "id": "edb14c548fcaeaea",
-  "outlet": "Yahoo Finance France",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPV2hrWVNwdkJSdXFqUC1LelpYRjdKUHVIeVlncVZqcXc0bG5ZZjk4Z1hQQUlPc2h1Z196azU1a1V2NjAwcG1rbWVQN0ticVNTTHpMaXhMVmNEcnNCVEQ4aWstbE56Ri1pXzhKdU1PRGFRRU1FTUptdUJZM2diN0xka1hrdjdjbFkxZzZOSjY4ekNhcEtPRXc?oc=5",
-  "title": "Marine Le Pen promet d'assainir les finances publiques : passe d'armes avec Bruno Le Maire",
-  "summary": "",
-  "published": "2026-08-21T09:00+02:00",
-  "mentions": [
-   "lepen"
-  ]
- },
- {
-  "id": "1e6099b5cf147476",
-  "outlet": "Outre-mer La 1ère",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOT1VQZWpBc1ZDMUNMazRsNk54OUZaWEpwd21fUkI4bV90eGtzUDEwVnNiQ3NiSkQ3OUdOLWZtdDl2WmU2TDFiNXZ5RHhVeGk3RVg5aE9GZE5wYnRJWS1jVk1fN0tQRjJfeHM2a1BTSkQwT0Y1bVJleE5ua1lTckk5RE1iUVNPRC1DUGw5M2JOVENVMVZYRHpNS0lXTWF2T2NsS3NDdFI0dWpPM3Vtc0pVeXA0VG8tLVNLZkw3VWFyNmJHNHNMUUtzQ1VFM3RGNEJ0alVSaks2NEQxSVE?oc=5",
-  "title": "Immigration à Mayotte : Édouard Philippe veut installer un « centre de retour » en Afrique de l’Est",
-  "summary": "",
-  "published": "2026-08-21T09:00+02:00",
-  "mentions": [
-   "philippe"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  }
 ]

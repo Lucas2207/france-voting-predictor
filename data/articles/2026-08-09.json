@@ -9,19 +9,15 @@
   "published": "2026-08-09T09:00+02:00",
   "mentions": [
    "lepen"
-  ]
- },
- {
-  "id": "790b90877a4549f4",
-  "outlet": "Le Parisien",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNQmpiVVF6SWpKck1TRnAzQVJTeGx4YUkzMnlJQUc2N0R1dGNhLTdFVXd0SFgzTHNXWVJCQW80VDZnQm9IUzNlM3JIM29yOTVmanNBSGdfR0pNak5MMGgzMmpUbkNzdVluZ3U1Nk1PdW5GN2F6eF9EcmtGTUhFanc0VWFUR0pWMUdMdk1Fdm1ORVNWdHFFXzgtclNrZWhFTVV5UXZ5ZVdad3lLY0V5MG5vbGR6eFVOT01WSThhZ2wza0FNSlROQnBIRGdJLTN5VWF6M2dOV3A0RGRrUVBEb3pYMDkxcnlBRkFpdERUS2RyOHNIWm9SdXFaeXpKaExkX0dP?oc=5",
-  "title": "« La jeunesse emmerde le Front national » : Marine Le Pen conspuée pendant ses vacances en Bretagne",
-  "summary": "",
-  "published": "2026-08-09T09:00+02:00",
-  "mentions": [
-   "lepen"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": -1,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "23b2880ab436ce41",
@@ -33,19 +29,15 @@
   "published": "2026-08-09T09:00+02:00",
   "mentions": [
    "lepen"
-  ]
- },
- {
-  "id": "67d1fd5563a0bb4b",
-  "outlet": "Notre Temps",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUVdPSGo1TWUyZFRaYi1BZ3pLN29QVkR3MlpSRkFtTGVmM0wwM2JqbmZUUWV1aUg1UW1vVmFBaVlDblF1OV9DQmd5eXNZckI4eWtlV1dYem80bWZnMTFHcjZQaUQ1cVV0aG1rbjZ3dVVYTDRaaHktR21MQ1FjZFNua0hKM0NDakRzWTZOenp6Tzl4QzhHQnc?oc=5",
-  "title": "Marine Le Pen, un clan au-dessus des autres au RN",
-  "summary": "",
-  "published": "2026-08-09T09:00+02:00",
-  "mentions": [
-   "lepen"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": 0,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "279ae4ab5988f309",
@@ -57,19 +49,15 @@
   "published": "2026-08-09T09:00+02:00",
   "mentions": [
    "attal"
-  ]
- },
- {
-  "id": "2d74c925bb49f8dd",
-  "outlet": "La Tribune",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUDV3SjJQTXMwR0ZWTU40SG52Y1RRVWdYN2d3S2VOQ0YyRVlBNVVmeGFOQ1ZQT3ZUSkhGQlBrNWx3NjJ5X2FlcXhWcUJfUmYtUVl1Tjdsb3hlWXpFRk9rUlZERm9BN2tEd3JsdkxQOXd1UmV1dUJqTkVuZC12MmRiNmdRb3YxaGJURlMyUlBMVXFfWlZ6LUF0X1RMVFdEUG5rY3NRRGFwMC1ZQmItWGtfZXJ1Y1JHbjVL?oc=5",
-  "title": "Les tremplins d’été de Bruno Retailleau",
-  "summary": "",
-  "published": "2026-08-09T09:00+02:00",
-  "mentions": [
-   "retailleau"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "2ade2677a54ed70c",
@@ -81,43 +69,45 @@
   "published": "2026-08-09T09:00+02:00",
   "mentions": [
    "lisnard"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "lisnard",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "bc2b161f0c88cb48",
-  "outlet": "France 3 Régions",
+  "id": "2d74c925bb49f8dd",
+  "outlet": "La Tribune",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOTTZKTjVnYldHSEJNTTFKVFZ0cnVyRXlYNE9yVkVDWGNVT3F3aERBVm5qYVdpUkd6Y25zVldTeTJBR0hvQk9sYXV6b2lOalRiaE5uWmVUemVLcGxMcjRpdUlobHNFbmNLNFppZVJOVXoxRjBBaEc4Y0NOYko4Z1FaSGNQMXk2MDllZFJhY1lJWU8zY3J0RW9FR21BQ2ZwNktNaF85NkFGeFB2elp4RmU1NjBlSkt6TVQ0S3ZDNE54OFFJT2QyaDc0SEdHX0RZbG82U3MwQVFYQVRWc1JiQ2NkS05sUG9sMV90V3JITm5XVEVKTjV0VFJjeFc4V3E2SnRmY2ZZVmwzQm4wbFNw?oc=5",
-  "title": "\"L'État centralisateur ne fonctionne plus\" : autonomie, insularité, rôle des communes... Candidat à la présidentielle, David Lisnard livre sa vision pour la Corse",
+  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUDV3SjJQTXMwR0ZWTU40SG52Y1RRVWdYN2d3S2VOQ0YyRVlBNVVmeGFOQ1ZQT3ZUSkhGQlBrNWx3NjJ5X2FlcXhWcUJfUmYtUVl1Tjdsb3hlWXpFRk9rUlZERm9BN2tEd3JsdkxQOXd1UmV1dUJqTkVuZC12MmRiNmdRb3YxaGJURlMyUlBMVXFfWlZ6LUF0X1RMVFdEUG5rY3NRRGFwMC1ZQmItWGtfZXJ1Y1JHbjVL?oc=5",
+  "title": "Les tremplins d’été de Bruno Retailleau",
   "summary": "",
   "published": "2026-08-09T09:00+02:00",
   "mentions": [
-   "lisnard"
-  ]
+   "retailleau"
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "8fce6a71dce48bbb",
-  "outlet": "Ohmymag",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbHV4OUdheXVXUW1PdjlWaVVDX1FHTmRzdWVhRW1LRVdZeGhBc1YxbWdQWE1FNy1mMTV0QnZVa0UydDd4TzRBbWw5czNfQzFldzJ0OFNzRVZTbkdieWdpU1V6MXItVG4tNVVLMmc2TVZnWG9NTFM4c0wycUUtZ2dkTmc3akc2UmNzckdHY1lld3JIeG1zQlNiZ2V4NzJobEVmS3NrVU5XZ1VwY3hZOTNTcnNiUzNzOEIwWmV3N3RNWQ?oc=5",
-  "title": "Fabien Roussel : la force d’un père face au cancer de sa fille Nina",
+  "id": "430ca25ca763a43e",
+  "outlet": "Le Figaro",
+  "lean": "droite",
+  "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPeXFaVzBxdWdYaGh3em9DTjVmS3dBZHlvcWFNdjVsWVBMZmNGZXo0aGsxbllDeXhxZ0NYb1dDUW1xNFpzbU0wQzBOSDdLZElUVjZqQlBOc1lwUDg5Z2tDVmZGVkFDcEhzeDVWT2x3ZnVGQjlCakw2WmNsUEZrRS1jLXRxMVRibW5mTmFaWGxXOGVWckdRR3VJLVF3VmJrcnIxYXIwZTlCbmh5RjZZRl9IQzFLZzdSeXMzVGt2QnRxMDJ3dVctVERSLVhRZzI5QzlobDl5eTBBMjZEQ3Q5N0VaMzdMeXdmdlFiT2pjcWhmQTQ2UUc1eVRuUVJrNF9jM1J3REFiRVlDUkM2cDAwMldYdG1IWWVrLUc2VFBQekZWOXRrVFk?oc=5",
+  "title": "François Bayrou au Figaro : « Tous ceux qui rejettent les extrêmes doivent accepter d’organiser une compétition entre les candidats potentiels »",
   "summary": "",
   "published": "2026-08-09T09:00+02:00",
-  "mentions": [
-   "roussel"
-  ]
- },
- {
-  "id": "b239b22e2ba558c9",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPQ0NJNFI4RjNMOTdOTW9pRU1hZWhmWEVRMnFSOElGOVBoX2Z1WUh4WFVrZE85NlZlaEo0WDRnYkFObVdEVFFPTXgyb0RuMjE0V0hta0dsbHF1TERrUTVGYlRnRklZZ0Jzd0FoTnhQcllrTW9vTFBTNW1rd3JtdENzOU5WaFpVTUxXbjdncHUxZWhGWU5hWjZ3T1QtX1FHS0dqYzBSMTdxeXJ2SWIwWUN5dlRVbGVqZk9VeVUxSkF5OGxBQnVUN3JRajFYQWVkOU1xR1pTajBFYnAyLTFsYUZYOFd5LXlLTC1vVU5NS0ZydWRXMmdiaEdmVWl2V3d6RXUzVlBOX2JCNGl4WDZlVEd3?oc=5",
-  "title": "\"Récupérer 1.000 milliards de litres\": Gabriel Attal promet un plan \"massif\" sur l'eau s'il est élu président",
-  "summary": "",
-  "published": "2026-08-09T09:00+02:00",
-  "mentions": [
-   "attal"
-  ]
+  "mentions": []
  },
  {
   "id": "4c09d45d3bffa2d0",
@@ -129,31 +119,15 @@
   "published": "2026-08-09T09:00+02:00",
   "mentions": [
    "attal"
-  ]
- },
- {
-  "id": "bfacb25d83f3f67d",
-  "outlet": "CNews",
-  "lean": "droite",
-  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUngtRTdTbjF1bzI0SDZoT1pFa1F3R2w5ZnhxZG9sOW5EY2JINEZIazJiTEs5Yjh2bTJfbkJPRWZtS0VxRS1JMFZ1YjBtN0FtVFhzVk1aLUVJa0hhLUpSQ08wdFdrbjRBUTR3OXFoVHp2N3BTTjlTTW50S2xsMVZrUWJBS3dMenFxMnZEMDB0OFpDSW8wLXhvQ0JrTG5GZ2pNc2RkNkRLMUhfRnhnVjFMSmhMVlhwd9IBuwFBVV95cUxOM0ZtazliNVZWTDJiUG9iVFdWNGE5N2docEdheGdqMHE0cXc0d1BsTnhxZEZRUE1yOW45R1lYczc2Rmp0ZmNvRS1rS0ZreWc0NDFteXBuUVQ1SG02WDJzS05RQkxKY0Eza0NHdDVuTXJ0OXZHUWpGbkJhSkhGdmRBWDF1eS12UUJQeFJESDRFU1JzZ0drdDBlYkVid082bUE0THVkWjM3MjlGTWhRR1hTeDB3RGRwWU92clN3?oc=5",
-  "title": "Présidentielle 2027 : Gabriel Attal dans les Pyrénées-Orientales ce lundi pour présenter un plan «massif» sur l'eau",
-  "summary": "",
-  "published": "2026-08-09T09:00+02:00",
-  "mentions": [
-   "attal"
-  ]
- },
- {
-  "id": "5d2432cb53bafc4f",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOQU9NY2tsclJ2R1dRcFdVcGliMG01RGxZUm8yZkprcHJXT05wTUZGblNxZmNMWFpCR2Yxa2NyZXJZcEFXTkp2emNrMGNzTGNaWURIRFJHeTZNNFYwVm5zbDUxdHBzM294akcyTklyeHpGT2lhUFpaRnFhSVhLR2hfMF9pVTNLejAtWFQ2SkJGdF93eWJaT0t4akdEdTJ1NXZJbXBhWFRaMW9kSVk3YjJuUGdpMGlYa3ZsT2pkS0cxVm9PMzYzd3NIMHkxWUlBdDZRNDJMMDdIaklmZzVmSXFSTV85NEdnaldidTd1UHl6UVJTT0VFTnBIY1JOM2YxNFRMRkhnamJR?oc=5",
-  "title": "\"Adapter plutôt que punir\": Bruno Retailleau présente sa vision de l'écologie face au dérèglement climatique",
-  "summary": "",
-  "published": "2026-08-09T09:00+02:00",
-  "mentions": [
-   "retailleau"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "55dc84103d7168b5",
@@ -166,13 +140,143 @@
   "mentions": []
  },
  {
-  "id": "430ca25ca763a43e",
-  "outlet": "Le Figaro",
-  "lean": "droite",
-  "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPeXFaVzBxdWdYaGh3em9DTjVmS3dBZHlvcWFNdjVsWVBMZmNGZXo0aGsxbllDeXhxZ0NYb1dDUW1xNFpzbU0wQzBOSDdLZElUVjZqQlBOc1lwUDg5Z2tDVmZGVkFDcEhzeDVWT2x3ZnVGQjlCakw2WmNsUEZrRS1jLXRxMVRibW5mTmFaWGxXOGVWckdRR3VJLVF3VmJrcnIxYXIwZTlCbmh5RjZZRl9IQzFLZzdSeXMzVGt2QnRxMDJ3dVctVERSLVhRZzI5QzlobDl5eTBBMjZEQ3Q5N0VaMzdMeXdmdlFiT2pjcWhmQTQ2UUc1eVRuUVJrNF9jM1J3REFiRVlDUkM2cDAwMldYdG1IWWVrLUc2VFBQekZWOXRrVFk?oc=5",
-  "title": "François Bayrou au Figaro : « Tous ceux qui rejettent les extrêmes doivent accepter d’organiser une compétition entre les candidats potentiels »",
+  "id": "5d2432cb53bafc4f",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOQU9NY2tsclJ2R1dRcFdVcGliMG01RGxZUm8yZkprcHJXT05wTUZGblNxZmNMWFpCR2Yxa2NyZXJZcEFXTkp2emNrMGNzTGNaWURIRFJHeTZNNFYwVm5zbDUxdHBzM294akcyTklyeHpGT2lhUFpaRnFhSVhLR2hfMF9pVTNLejAtWFQ2SkJGdF93eWJaT0t4akdEdTJ1NXZJbXBhWFRaMW9kSVk3YjJuUGdpMGlYa3ZsT2pkS0cxVm9PMzYzd3NIMHkxWUlBdDZRNDJMMDdIaklmZzVmSXFSTV85NEdnaldidTd1UHl6UVJTT0VFTnBIY1JOM2YxNFRMRkhnamJR?oc=5",
+  "title": "\"Adapter plutôt que punir\": Bruno Retailleau présente sa vision de l'écologie face au dérèglement climatique",
   "summary": "",
   "published": "2026-08-09T09:00+02:00",
-  "mentions": []
+  "mentions": [
+   "retailleau"
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "67d1fd5563a0bb4b",
+  "outlet": "Notre Temps",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUVdPSGo1TWUyZFRaYi1BZ3pLN29QVkR3MlpSRkFtTGVmM0wwM2JqbmZUUWV1aUg1UW1vVmFBaVlDblF1OV9DQmd5eXNZckI4eWtlV1dYem80bWZnMTFHcjZQaUQ1cVV0aG1rbjZ3dVVYTDRaaHktR21MQ1FjZFNua0hKM0NDakRzWTZOenp6Tzl4QzhHQnc?oc=5",
+  "title": "Marine Le Pen, un clan au-dessus des autres au RN",
+  "summary": "",
+  "published": "2026-08-09T09:00+02:00",
+  "mentions": [
+   "lepen"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": -1,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "790b90877a4549f4",
+  "outlet": "Le Parisien",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNQmpiVVF6SWpKck1TRnAzQVJTeGx4YUkzMnlJQUc2N0R1dGNhLTdFVXd0SFgzTHNXWVJCQW80VDZnQm9IUzNlM3JIM29yOTVmanNBSGdfR0pNak5MMGgzMmpUbkNzdVluZ3U1Nk1PdW5GN2F6eF9EcmtGTUhFanc0VWFUR0pWMUdMdk1Fdm1ORVNWdHFFXzgtclNrZWhFTVV5UXZ5ZVdad3lLY0V5MG5vbGR6eFVOT01WSThhZ2wza0FNSlROQnBIRGdJLTN5VWF6M2dOV3A0RGRrUVBEb3pYMDkxcnlBRkFpdERUS2RyOHNIWm9SdXFaeXpKaExkX0dP?oc=5",
+  "title": "« La jeunesse emmerde le Front national » : Marine Le Pen conspuée pendant ses vacances en Bretagne",
+  "summary": "",
+  "published": "2026-08-09T09:00+02:00",
+  "mentions": [
+   "lepen"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": -2,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "8fce6a71dce48bbb",
+  "outlet": "Ohmymag",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbHV4OUdheXVXUW1PdjlWaVVDX1FHTmRzdWVhRW1LRVdZeGhBc1YxbWdQWE1FNy1mMTV0QnZVa0UydDd4TzRBbWw5czNfQzFldzJ0OFNzRVZTbkdieWdpU1V6MXItVG4tNVVLMmc2TVZnWG9NTFM4c0wycUUtZ2dkTmc3akc2UmNzckdHY1lld3JIeG1zQlNiZ2V4NzJobEVmS3NrVU5XZ1VwY3hZOTNTcnNiUzNzOEIwWmV3N3RNWQ?oc=5",
+  "title": "Fabien Roussel : la force d’un père face au cancer de sa fille Nina",
+  "summary": "",
+  "published": "2026-08-09T09:00+02:00",
+  "mentions": [
+   "roussel"
+  ],
+  "analysis": [
+   {
+    "id": "roussel",
+    "tone": 1,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "b239b22e2ba558c9",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPQ0NJNFI4RjNMOTdOTW9pRU1hZWhmWEVRMnFSOElGOVBoX2Z1WUh4WFVrZE85NlZlaEo0WDRnYkFObVdEVFFPTXgyb0RuMjE0V0hta0dsbHF1TERrUTVGYlRnRklZZ0Jzd0FoTnhQcllrTW9vTFBTNW1rd3JtdENzOU5WaFpVTUxXbjdncHUxZWhGWU5hWjZ3T1QtX1FHS0dqYzBSMTdxeXJ2SWIwWUN5dlRVbGVqZk9VeVUxSkF5OGxBQnVUN3JRajFYQWVkOU1xR1pTajBFYnAyLTFsYUZYOFd5LXlLTC1vVU5NS0ZydWRXMmdiaEdmVWl2V3d6RXUzVlBOX2JCNGl4WDZlVEd3?oc=5",
+  "title": "\"Récupérer 1.000 milliards de litres\": Gabriel Attal promet un plan \"massif\" sur l'eau s'il est élu président",
+  "summary": "",
+  "published": "2026-08-09T09:00+02:00",
+  "mentions": [
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "bc2b161f0c88cb48",
+  "outlet": "France 3 Régions",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOTTZKTjVnYldHSEJNTTFKVFZ0cnVyRXlYNE9yVkVDWGNVT3F3aERBVm5qYVdpUkd6Y25zVldTeTJBR0hvQk9sYXV6b2lOalRiaE5uWmVUemVLcGxMcjRpdUlobHNFbmNLNFppZVJOVXoxRjBBaEc4Y0NOYko4Z1FaSGNQMXk2MDllZFJhY1lJWU8zY3J0RW9FR21BQ2ZwNktNaF85NkFGeFB2elp4RmU1NjBlSkt6TVQ0S3ZDNE54OFFJT2QyaDc0SEdHX0RZbG82U3MwQVFYQVRWc1JiQ2NkS05sUG9sMV90V3JITm5XVEVKTjV0VFJjeFc4V3E2SnRmY2ZZVmwzQm4wbFNw?oc=5",
+  "title": "\"L'État centralisateur ne fonctionne plus\" : autonomie, insularité, rôle des communes... Candidat à la présidentielle, David Lisnard livre sa vision pour la Corse",
+  "summary": "",
+  "published": "2026-08-09T09:00+02:00",
+  "mentions": [
+   "lisnard"
+  ],
+  "analysis": [
+   {
+    "id": "lisnard",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "bfacb25d83f3f67d",
+  "outlet": "CNews",
+  "lean": "droite",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUngtRTdTbjF1bzI0SDZoT1pFa1F3R2w5ZnhxZG9sOW5EY2JINEZIazJiTEs5Yjh2bTJfbkJPRWZtS0VxRS1JMFZ1YjBtN0FtVFhzVk1aLUVJa0hhLUpSQ08wdFdrbjRBUTR3OXFoVHp2N3BTTjlTTW50S2xsMVZrUWJBS3dMenFxMnZEMDB0OFpDSW8wLXhvQ0JrTG5GZ2pNc2RkNkRLMUhfRnhnVjFMSmhMVlhwd9IBuwFBVV95cUxOM0ZtazliNVZWTDJiUG9iVFdWNGE5N2docEdheGdqMHE0cXc0d1BsTnhxZEZRUE1yOW45R1lYczc2Rmp0ZmNvRS1rS0ZreWc0NDFteXBuUVQ1SG02WDJzS05RQkxKY0Eza0NHdDVuTXJ0OXZHUWpGbkJhSkhGdmRBWDF1eS12UUJQeFJESDRFU1JzZ0drdDBlYkVid082bUE0THVkWjM3MjlGTWhRR1hTeDB3RGRwWU92clN3?oc=5",
+  "title": "Présidentielle 2027 : Gabriel Attal dans les Pyrénées-Orientales ce lundi pour présenter un plan «massif» sur l'eau",
+  "summary": "",
+  "published": "2026-08-09T09:00+02:00",
+  "mentions": [
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  }
 ]

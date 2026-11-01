@@ -1,71 +1,63 @@
 [
  {
-  "id": "9bac23e4066d5352",
-  "outlet": "Le Figaro",
-  "lean": "droite",
-  "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOUEtYbFpjUEtwWlh6b1huWUtub2t3ME40UWY3YlZBRi13a1h1c1JoLWt2QUlzdE5iQlRfT3E3QlRhWEhtT3BEdTdDNXY0RGRNd0RUZHBhU2F0NjU2VVNYdzlSVDFCTU16U095QjRNNWQ4NTExZVdjb3dJbnUwdTdPdGk1eHYxTGR2cl9ibmk4Y2s3bjJIU2x5MTNoanlFTDlqSTNDQWk0WkQ1MElxN19iZjNEQnR3blQ3RHBjLVZuOTI2ZndXYW5BZlRQTDZvTGtkdjQwS2RtOGw3M1U?oc=5",
-  "title": "Présidentielle 2027 : Gabriel Attal porte plainte après des soupçons d’ingérence russe",
-  "summary": "",
-  "published": "2026-08-08T09:00+02:00",
-  "mentions": [
-   "attal"
-  ]
- },
- {
-  "id": "621bbaa444df8018",
-  "outlet": "Le Monde.fr",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPUmNLTDVjSHRQUkE0M2dOelZyWVJmdS14cTZIZEh4Rkl5TU1adUZwZnBYWDhsTGdMMm5ZSWdQaVdpNzBsWDRTSzBmdVluNWFWdTk5RHJHYk5iOHN0bkgwMVpUbGJpb2pqU2RuNk9BWXJrLTJFNzBfbnlScmdzSEFjUk5haTdJQjJ1QjRpWHd0Qm5yelU3Q04ydkhIM1JKcE5EWC1Kd2lrQW5QMC1fSlJZQjdUUjFHaHFZaFp2emFUUEhHM0U3MFhRM01zdHRfQTV4MllyY3VBYlNHeldRRHdNOTZBQm43WTlLMjlMNlhreWNpR05HVFhueE5xeHZGUzQtQjk4ZlNTYUt3ZW5qREVNYnRnU0U?oc=5",
-  "title": "Présidentielle 2027 : Gabriel Attal porte plainte « pour une ingérence numérique extérieure » et « en provenance de Russie »",
-  "summary": "",
-  "published": "2026-08-08T09:00+02:00",
-  "mentions": [
-   "attal"
-  ]
- },
- {
-  "id": "dd7877977376064e",
-  "outlet": "RFI",
+  "id": "01c1149e08f3003c",
+  "outlet": "Le Parisien",
   "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQR0tOV2lxVk5BUk1OOXZZQmY0bGc2RUFWNXl3NzNLTDlFZ0FHWEs4T0JJUUhQZ3plbTFubzdSMHkxT3hYblZJTzU2aVlZYWhNSzh2NGt0ZVZ1cnpXajBYNHg1dGZjMFlUNXZibTNFSWd5VURqdkZkSkdlMkd2cmxhV2ZNWUxxc2ZwYmxoMUJHd3MyRm5xR24tdDRjTVF0eUZwVHd3d0FsVjlOOHBIZlNfNzBlS01GYjVTdi1kb1RzUzB4LVZUc1RKNXdmYWJjTmtTQWtRczFaYjE0SnJ4RXZlR19rV0lvYXF6OHVGMkdTeTU?oc=5",
-  "title": "Présidentielle en France: Gabriel Attal porte plainte pour «ingérence étrangère» en provenance de Russie",
+  "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQMGRaUWxFRFJKRXY5VklERlVvejhXbDVVd3lNbks4YU9WWHcyMjhmbDZZOUFUcjR3ZFZhLUpObGRxUkU4RVM1QmliWTBsRzRFbjBWWXJPaTQ5bnZKQzJTX0gxeFBNSEhwT1FkQ042ZDY0Y2NtZ3htNkx0TVA0M2JqQnp2M1lMek9mMEE4LTZKMU9VeTJwSWFqQVVrLXZBMmRlVFdFNW9KOUdtM29OS2ViSXdWcHhMckZoeVRTNUZza1E3OVNZRWkyaWNzdmZaUnpDbUlNNE8tcEVrSGtJblZfdFV5UE5oT2ZkQ0NGa0ZmYlpRa2ZRZDlKbENBN3k0dlRBWmFXQlRrQmg?oc=5",
+  "title": "Présidentielle 2027 : Gabriel Attal porte plainte pour « ingérence étrangère » en provenance de la Russie",
   "summary": "",
   "published": "2026-08-08T09:00+02:00",
   "mentions": [
    "attal"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "ac17762ac49bbc2e",
-  "outlet": "Orange Actualités",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOMjFOckhOV1lyb2VtcGg0MWQ4RUg0NWhsSHNHQnB3bS03YW1FaHRha1RUcjdxSUdIOUdlZTdTUTJFYlQyMEcwYlFyYzhGQURCcDlGQ1M3M185VFNpXzNIQXN5U2hXSmQ1VXZjZ0J6TVp2T2VXc1VGdkpKMHhhN29MTk9Cck5wREZUQlhzUFZUdU5xemtLZkx0NXRRYlN2MEJsU1pTUy02clVqeHVtQXMwcFZPSTNrMDctc3VWYWJnUTF2V3ZrU0U2bnRZbUlSRm9BM3pqQUNYdlI5SWFGcElrWEtWZmlua284bHRsZUZQS3NENU45bmhYbG14S3dMTkpjMFl1Rw?oc=5",
-  "title": "Présidentielle 2027 : Gabriel Attal porte plainte après une campagne de désinformation attribuée à des réseaux russes",
-  "summary": "",
-  "published": "2026-08-08T09:00+02:00",
-  "mentions": [
-   "attal"
-  ]
- },
- {
-  "id": "c86790304796010c",
-  "outlet": "Watson",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNXVoa0RkVmRzalNYWllQVkZRdlctcGFWdThRSnk0YUhYSnVVblUzS1BXSUJrY0E4MUtPcG5nQjd0V3c0OEp4WDJ0Y3ozbVk1azl1cTlJdTl6YWRqOWVyWkJZQk9MV2VLa01SUklhc09hZEZ5UjFBbklhY1JNWXA2azRodDNmM3I1YXNCaEpKbEVqUWhYeF80NlNTWlJvTUFYV1lpYXg1dDd1UUx6c2g3VTl6Tkl3MVUxb0pmcTBwZkxqdEE5LWZoeg?oc=5",
-  "title": "Un candidat à la présidentielle française visé par des réseaux russes",
-  "summary": "",
-  "published": "2026-08-08T09:00+02:00",
-  "mentions": []
- },
- {
-  "id": "f0fb3ba3a4364295",
-  "outlet": "Ouest-France",
+  "id": "0aea2e8ebb7e2a7e",
+  "outlet": "20 Minutes",
   "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNXy1WRjV4WDJBaHpFdG5EdUg1T21YdzhoaFc2MjJsTkVmQ0g3eGYtU1B3QlBmcHVXdXBqZ3YtQXVfdGMyREg0X3BQckRyTU1mM3FsQ0MyYmdELTgwUVVjZ1FTZkpfWk9yYWtIdEhtYk1SVFduYWZtVVFOM21QVE1ENUo3NGRwMlB4T2Q5TjhfZ1FEU2VOajl1cmFocUxLeWJVNVB2ZElnSzBFS3R3Zlc2WXhNUEFSdWVieHNpYldPc0tVRTNGcnFseFpkMmVmd0p2V2lXX1dKZjBrSjExSkZNUFRscm92TGZHQVVDM3lzWmVweURPYlVCSno5NGc0VG51TTJZWVM2SVExV3lpOXUxMXY5dktrM2hKV21v?oc=5",
-  "title": "Sénatoriales 2026. Déléguée départementale du parti Reconquête, Lilas Ndong va mener une liste en Vendée",
+  "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTnkwTkFZNlFLSk1nSi15ejRJeHdWRExKX3Q0cC1hQXk2YS1ISmhEdlcyUlNTZkxPYVZsdzZndVFlOXNQWC1zbktsaUswN2c4cWFyQzZMZTVIemtYaHJENDNXYlotU3lURi1ZSExSeTUwY0RyYndiSV9NdmFpbDdEcXFnT2NLMzdlQmJwZmt1X0ZLMVVSeDhzVU1qQnBQamZzYklaNFJtYWZ3UENIMFZuVDFMQkRYUmVYNTVQN2daQzg4WTlFdkFJS2c2Z2h1QQ?oc=5",
+  "title": "Gabriel Attal porte plainte après des soupçons d’ingérence russe",
   "summary": "",
   "published": "2026-08-08T09:00+02:00",
-  "mentions": []
+  "mentions": [
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "21a2487f5927ef5b",
+  "outlet": "franceinfo",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOR1Ayc2g5RGJTQ0hqbDVnVklybFBaWXFKWDJyX09rRTFrbnU4eG1QNndLSmZ2dTBQY0tTbkR2MUs5czBnS0E3aXRvU25uTkd1TEoyTTdVYkpSRUJxZkoxWWlnVExIcVRQWk9fVF9kUkEyRG01YUZLa1BqUUZOZlkyOFZKVFdBbktWUy1MZTFCX2JJRXFVcE5nOVN1R2ZKTWM2M3NkRE5pNWJxM0EyTUF1TUpVN0tNczg?oc=5",
+  "title": "Gabriel Attal porte plainte après des soupçons d'ingérence russe",
+  "summary": "",
+  "published": "2026-08-08T09:00+02:00",
+  "mentions": [
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "4e7710ba325e0c34",
@@ -78,11 +70,241 @@
   "mentions": []
  },
  {
+  "id": "599377713b6bf7d3",
+  "outlet": "France 24",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNZVdIYUJpMUlaM0R1VU9TRC1fZmNidnhJd2xQQlJlek9UcjcxWFhUZjJwbGw4UW91ZFBDY0tVXzkxSW5WZWx1ekRaWmdNNTdDSGhxNXhNb2FaZl95TnlXUWtLZk1ocml4a3BXcHE5Y2xlaWxzUXRWSlJmX0ZHNGdYTk9zUktiTHVwT1hjTG12LUc4anh2LXFYX1ZIUzNmVWhrN3UtWFJ2SlZqbjhtMlhnOG1ZVUFPVE53T2dmdUpyNlJ3RnZJX1dwbzRNWUc0RnNkZDdFMEpMdU5pamtvYlNRUFI0bUVtcnlmR3RPbTZpb29DeGpHUFlnblRya2l6akU?oc=5",
+  "title": "Candidat à la présidentielle, Gabriel Attal porte plainte pour \"ingérence étrangère\" en provenance de la Russie",
+  "summary": "",
+  "published": "2026-08-08T09:00+02:00",
+  "mentions": [
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "6116c0de85e48e6b",
+  "outlet": "Le HuffPost",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZ2NVbkQtRjI1R2x1VkhZRUJjRy1ULXI0MUF4MV9xcDFvV3U0SHluZ3FhamNzcU14QjhDOE94R0N3RHhaUjVjNWRQTVJCdFl4LXFseEh4bFA5dzF2YmRnUlhta2Z1M285M0RCblktVFIyN3JBZHdheGhTd195ekVBV0lwdFVxZWdDQmNlajlTSDJSeUIzVmViZTNTSkprbUNPREFISjNMWldpVGx3SzN0QVlJbXhUMjBQLTdPSW1pZTY2R21xRGR1M2o5ZE13VFdKMF8xSXhwRFFNMWJa?oc=5",
+  "title": "Gabriel Attal porte plainte pour ingérence étrangère « en provenance de réseaux russes »",
+  "summary": "",
+  "published": "2026-08-08T09:00+02:00",
+  "mentions": [
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "621bbaa444df8018",
+  "outlet": "Le Monde.fr",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPUmNLTDVjSHRQUkE0M2dOelZyWVJmdS14cTZIZEh4Rkl5TU1adUZwZnBYWDhsTGdMMm5ZSWdQaVdpNzBsWDRTSzBmdVluNWFWdTk5RHJHYk5iOHN0bkgwMVpUbGJpb2pqU2RuNk9BWXJrLTJFNzBfbnlScmdzSEFjUk5haTdJQjJ1QjRpWHd0Qm5yelU3Q04ydkhIM1JKcE5EWC1Kd2lrQW5QMC1fSlJZQjdUUjFHaHFZaFp2emFUUEhHM0U3MFhRM01zdHRfQTV4MllyY3VBYlNHeldRRHdNOTZBQm43WTlLMjlMNlhreWNpR05HVFhueE5xeHZGUzQtQjk4ZlNTYUt3ZW5qREVNYnRnU0U?oc=5",
+  "title": "Présidentielle 2027 : Gabriel Attal porte plainte « pour une ingérence numérique extérieure » et « en provenance de Russie »",
+  "summary": "",
+  "published": "2026-08-08T09:00+02:00",
+  "mentions": [
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "62ff44d49c94a473",
+  "outlet": "Libération",
+  "lean": "centre-gauche",
+  "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNWWxxVzV2cmVOY2ZYSWl0WkRwTDNWTGk2ZG5XSGxaTFZhcjV5b1F3YTYwWFNXT19RSjlnVGoyZ0dMcHNmek9zTGowanlRbjNrcUdBUlI3RU4wT1BVR0RtaDhrQkYwRU5BUkNzM1FLY3ZFZFRXOWs1cXo1dnRwMklGQ3ljTlVncWs1TUs2OFZwN0NQX3NvTUJMcFRWWWI2T0tydEhUOF9TcTZHMGZ0ZHhGa3plZnAxcEZPczVXYk5xVEFJY1BMb25CaFRkWFlrbU53ZDJXdW4tMVF2LXpJS1d5VFZiWDdwMEFHWnZTVkhWSHoxdnFXTnl4Q0FNb0Y0RzlPY0M0YWJzSUI0WW5JMGREWGFYNXU0TEE4YW5RN2lvclBJNlU?oc=5",
+  "title": "Deepfakes, faux reportages vidéo, fausses unes de journaux : Gabriel Attal porte plainte, dénonçant une ingérence russe",
+  "summary": "",
+  "published": "2026-08-08T09:00+02:00",
+  "mentions": [
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "69ff0c50c138b87a",
+  "outlet": "ici.fr",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOS215LURRbFVvWm9GUGVHUXRLd1RpejFKWWp6eEVCcWxSLVVYeDhmYzJPcEo0Z0djdERWUXVLVHF2T2VhdVZsbmtzU016WXFBMUwyVTJJMzlZcVk3Q3R5QkVFNUFBZDg3QjZaOXh4TmVacno4akFlU05DRkhrTFhYVGFHcHF2M2l3MmF0bnJzX2I5WkthWWRUU3pEUzRHRVU4ZHBiZzd0T3Z6TDdqT1cwMU9hM0U4anpwWXgtZjdSX1VpMlV2ZG1oUFJZUGZXak1Jd3ZwRy0zRy1RODAzVG9HNHVB?oc=5",
+  "title": "\"Je ne suis pas là pour flatter quiconque\" : en Corse, David Lisnard détaille son projet sur les collectivités",
+  "summary": "",
+  "published": "2026-08-08T09:00+02:00",
+  "mentions": [
+   "lisnard"
+  ],
+  "analysis": [
+   {
+    "id": "lisnard",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "916a1567ec27e06f",
+  "outlet": "Sud Ouest",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNOGNQSC1mZ1ZZY3dsdzU4WFFEQmgyMzB2ZWNmLWMwWHBkN1JUR2U3TFFmelB6Vkc3SlNkS05OX1gxZzVxOENrVGFQaW5TWU01U1h4V3ZGclp2bGthVlpFZ3Y2bTlEYWEzOEZ6bmhGNE8wbDJ2VEdfTjVQYkFRZXlRaDZhbS1iN1EtLW5rZGRQV2ZhekZJUURzUm5kYzllcS14aVZpNzQ0QVREYm1aRVlEMEhDa0t2UmJ4N2JYWlV2aGNqSV83TVY4cGZkVmFMMVlNWThfbg?oc=5",
+  "title": "Présidentielle 2027 : Gabriel Attal porte plainte, dénonçant une ingérence russe",
+  "summary": "",
+  "published": "2026-08-08T09:00+02:00",
+  "mentions": [
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "9bac23e4066d5352",
+  "outlet": "Le Figaro",
+  "lean": "droite",
+  "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOUEtYbFpjUEtwWlh6b1huWUtub2t3ME40UWY3YlZBRi13a1h1c1JoLWt2QUlzdE5iQlRfT3E3QlRhWEhtT3BEdTdDNXY0RGRNd0RUZHBhU2F0NjU2VVNYdzlSVDFCTU16U095QjRNNWQ4NTExZVdjb3dJbnUwdTdPdGk1eHYxTGR2cl9ibmk4Y2s3bjJIU2x5MTNoanlFTDlqSTNDQWk0WkQ1MElxN19iZjNEQnR3blQ3RHBjLVZuOTI2ZndXYW5BZlRQTDZvTGtkdjQwS2RtOGw3M1U?oc=5",
+  "title": "Présidentielle 2027 : Gabriel Attal porte plainte après des soupçons d’ingérence russe",
+  "summary": "",
+  "published": "2026-08-08T09:00+02:00",
+  "mentions": [
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "9d3ccb2193cfdb34",
+  "outlet": "Gala",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbjhWN05URVlQOUotZXhjdFlqS2FjU0JJS3REM1NOZHFhNW92SExjWm9xaXhYS3EtSHZXRm1MNEd0NDhyaVlDY3l3RzlWTXZ2RnFLZlZQd3lVcVZScjNqNU1NamRRZ1c4NlpGa05fSEl3ajNYUFZkdUxJV2EtaHZhR1dneVc1d09uWTQ4VFRFSngtQzhRTmRzT0k0dlNnbnZ3elZST3JFY002WnF3d1dCV1VLQzhBYjdDaWxaUGxhMlVyZw?oc=5",
+  "title": "Un cheeseburger et ça repart : le surprenant péché mignon de Gabriel Attal sur la route",
+  "summary": "",
+  "published": "2026-08-08T09:00+02:00",
+  "mentions": [
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": -1,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "a39d02a398eb5466",
+  "outlet": "Nouvelles d'Arménie en Ligne",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYmF4R09CRFF4MVZOTXdvSWlTTUszYlZnT21hMmJyYmNfOWdzNDJEWl82UEJyREFZQmJWaDZCTTNMeHpZRzhfWFllVmpXSU9Uc0dyYXE5bDNaZmt1RTMxU3VmeUI5ZEZqeXZtMzBIVGlTczg2OGt5MGRSMVdCekFCaUZtWWdrWFNxRHRxeEJsaXhqQWdhZ3FMY2pxRjhUT2xzTzZTcUF1aTJ4aVBfOE9MdDBMdzFVN3hydlRPVHNMMA?oc=5",
+  "title": "Nicolas Dupont-Aignan : En expulsant Xenia Fedorova on met en place le délit d’opinion",
+  "summary": "",
+  "published": "2026-08-08T09:00+02:00",
+  "mentions": [
+   "dupontaignan"
+  ],
+  "analysis": [
+   {
+    "id": "dupontaignan",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "ac17762ac49bbc2e",
+  "outlet": "Orange Actualités",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOMjFOckhOV1lyb2VtcGg0MWQ4RUg0NWhsSHNHQnB3bS03YW1FaHRha1RUcjdxSUdIOUdlZTdTUTJFYlQyMEcwYlFyYzhGQURCcDlGQ1M3M185VFNpXzNIQXN5U2hXSmQ1VXZjZ0J6TVp2T2VXc1VGdkpKMHhhN29MTk9Cck5wREZUQlhzUFZUdU5xemtLZkx0NXRRYlN2MEJsU1pTUy02clVqeHVtQXMwcFZPSTNrMDctc3VWYWJnUTF2V3ZrU0U2bnRZbUlSRm9BM3pqQUNYdlI5SWFGcElrWEtWZmlua284bHRsZUZQS3NENU45bmhYbG14S3dMTkpjMFl1Rw?oc=5",
+  "title": "Présidentielle 2027 : Gabriel Attal porte plainte après une campagne de désinformation attribuée à des réseaux russes",
+  "summary": "",
+  "published": "2026-08-08T09:00+02:00",
+  "mentions": [
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
   "id": "c5c14089fbafbce3",
   "outlet": "Gala",
   "lean": "non classé",
   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPNUppNVRZcHVDZjQ4cFJ3cWM1RGxTV05mWFllcC1ycHN5YWpnMzIzZEhrSTYxV2RhWjI0bjFWNFlBQko1VDVMamFLZk16eUZ2eFVhTHBGNWlZWTBXY0c1TmZ4dUlzZ25pMjlfYjc1SzBrXzRMZWFlUlJuNWVPUzVyREtjRVJFeXBwSE44RDlNSjU2YjJWVVpwTmV3TTFodEpMYjNQaDJmVzdnZXVvcWJ4Q3pjeUlVSzlpbVEyWG9Qa0M2SG00Z1ZmNEZXZkllOEdmR0ttZWViRDhyZUNScmZkYzQ2S3h3MEhYUzVlbktKRQ?oc=5",
   "title": "“Beaucoup de masques vont tomber” : Sarah Knafo prête à en découdre, ce projet qui va faire du bruit avant la présidentielle",
+  "summary": "",
+  "published": "2026-08-08T09:00+02:00",
+  "mentions": []
+ },
+ {
+  "id": "c6df2826b6356e90",
+  "outlet": "lejdd.fr",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNd0YzSVhOeDZMNzZPM3IwNFNBbWJFeHpSemMxXzRIaE5zX0I3ZlVPMFhKQzI3SkstRXprTGd5VFJNbmpLbWZrZFE1Wm03WWxKMWd5ODhLbWlnZUhNVmZEVjNJdWpGOHJXZEx0VXU0YTBrTUsxcXNDT0lHa3Aza05BbmZXZThQS3FDN0w4dEU1dm9HQQ?oc=5",
+  "title": "David Lisnard «Je veux être le candidat du pays réel »",
+  "summary": "",
+  "published": "2026-08-08T09:00+02:00",
+  "mentions": [
+   "lisnard"
+  ],
+  "analysis": [
+   {
+    "id": "lisnard",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "c86790304796010c",
+  "outlet": "Watson",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNXVoa0RkVmRzalNYWllQVkZRdlctcGFWdThRSnk0YUhYSnVVblUzS1BXSUJrY0E4MUtPcG5nQjd0V3c0OEp4WDJ0Y3ozbVk1azl1cTlJdTl6YWRqOWVyWkJZQk9MV2VLa01SUklhc09hZEZ5UjFBbklhY1JNWXA2azRodDNmM3I1YXNCaEpKbEVqUWhYeF80NlNTWlJvTUFYV1lpYXg1dDd1UUx6c2g3VTl6Tkl3MVUxb0pmcTBwZkxqdEE5LWZoeg?oc=5",
+  "title": "Un candidat à la présidentielle française visé par des réseaux russes",
   "summary": "",
   "published": "2026-08-08T09:00+02:00",
   "mentions": []
@@ -97,127 +319,35 @@
   "published": "2026-08-08T09:00+02:00",
   "mentions": [
    "lisnard"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "lisnard",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "69ff0c50c138b87a",
-  "outlet": "ici.fr",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOS215LURRbFVvWm9GUGVHUXRLd1RpejFKWWp6eEVCcWxSLVVYeDhmYzJPcEo0Z0djdERWUXVLVHF2T2VhdVZsbmtzU016WXFBMUwyVTJJMzlZcVk3Q3R5QkVFNUFBZDg3QjZaOXh4TmVacno4akFlU05DRkhrTFhYVGFHcHF2M2l3MmF0bnJzX2I5WkthWWRUU3pEUzRHRVU4ZHBiZzd0T3Z6TDdqT1cwMU9hM0U4anpwWXgtZjdSX1VpMlV2ZG1oUFJZUGZXak1Jd3ZwRy0zRy1RODAzVG9HNHVB?oc=5",
-  "title": "\"Je ne suis pas là pour flatter quiconque\" : en Corse, David Lisnard détaille son projet sur les collectivités",
-  "summary": "",
-  "published": "2026-08-08T09:00+02:00",
-  "mentions": [
-   "lisnard"
-  ]
- },
- {
-  "id": "c6df2826b6356e90",
-  "outlet": "lejdd.fr",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNd0YzSVhOeDZMNzZPM3IwNFNBbWJFeHpSemMxXzRIaE5zX0I3ZlVPMFhKQzI3SkstRXprTGd5VFJNbmpLbWZrZFE1Wm03WWxKMWd5ODhLbWlnZUhNVmZEVjNJdWpGOHJXZEx0VXU0YTBrTUsxcXNDT0lHa3Aza05BbmZXZThQS3FDN0w4dEU1dm9HQQ?oc=5",
-  "title": "David Lisnard «Je veux être le candidat du pays réel »",
-  "summary": "",
-  "published": "2026-08-08T09:00+02:00",
-  "mentions": [
-   "lisnard"
-  ]
- },
- {
-  "id": "a39d02a398eb5466",
-  "outlet": "Nouvelles d'Arménie en Ligne",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYmF4R09CRFF4MVZOTXdvSWlTTUszYlZnT21hMmJyYmNfOWdzNDJEWl82UEJyREFZQmJWaDZCTTNMeHpZRzhfWFllVmpXSU9Uc0dyYXE5bDNaZmt1RTMxU3VmeUI5ZEZqeXZtMzBIVGlTczg2OGt5MGRSMVdCekFCaUZtWWdrWFNxRHRxeEJsaXhqQWdhZ3FMY2pxRjhUT2xzTzZTcUF1aTJ4aVBfOE9MdDBMdzFVN3hydlRPVHNMMA?oc=5",
-  "title": "Nicolas Dupont-Aignan : En expulsant Xenia Fedorova on met en place le délit d’opinion",
-  "summary": "",
-  "published": "2026-08-08T09:00+02:00",
-  "mentions": [
-   "dupontaignan"
-  ]
- },
- {
-  "id": "9d3ccb2193cfdb34",
-  "outlet": "Gala",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbjhWN05URVlQOUotZXhjdFlqS2FjU0JJS3REM1NOZHFhNW92SExjWm9xaXhYS3EtSHZXRm1MNEd0NDhyaVlDY3l3RzlWTXZ2RnFLZlZQd3lVcVZScjNqNU1NamRRZ1c4NlpGa05fSEl3ajNYUFZkdUxJV2EtaHZhR1dneVc1d09uWTQ4VFRFSngtQzhRTmRzT0k0dlNnbnZ3elZST3JFY002WnF3d1dCV1VLQzhBYjdDaWxaUGxhMlVyZw?oc=5",
-  "title": "Un cheeseburger et ça repart : le surprenant péché mignon de Gabriel Attal sur la route",
-  "summary": "",
-  "published": "2026-08-08T09:00+02:00",
-  "mentions": [
-   "attal"
-  ]
- },
- {
-  "id": "01c1149e08f3003c",
-  "outlet": "Le Parisien",
+  "id": "dd7877977376064e",
+  "outlet": "RFI",
   "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQMGRaUWxFRFJKRXY5VklERlVvejhXbDVVd3lNbks4YU9WWHcyMjhmbDZZOUFUcjR3ZFZhLUpObGRxUkU4RVM1QmliWTBsRzRFbjBWWXJPaTQ5bnZKQzJTX0gxeFBNSEhwT1FkQ042ZDY0Y2NtZ3htNkx0TVA0M2JqQnp2M1lMek9mMEE4LTZKMU9VeTJwSWFqQVVrLXZBMmRlVFdFNW9KOUdtM29OS2ViSXdWcHhMckZoeVRTNUZza1E3OVNZRWkyaWNzdmZaUnpDbUlNNE8tcEVrSGtJblZfdFV5UE5oT2ZkQ0NGa0ZmYlpRa2ZRZDlKbENBN3k0dlRBWmFXQlRrQmg?oc=5",
-  "title": "Présidentielle 2027 : Gabriel Attal porte plainte pour « ingérence étrangère » en provenance de la Russie",
+  "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQR0tOV2lxVk5BUk1OOXZZQmY0bGc2RUFWNXl3NzNLTDlFZ0FHWEs4T0JJUUhQZ3plbTFubzdSMHkxT3hYblZJTzU2aVlZYWhNSzh2NGt0ZVZ1cnpXajBYNHg1dGZjMFlUNXZibTNFSWd5VURqdkZkSkdlMkd2cmxhV2ZNWUxxc2ZwYmxoMUJHd3MyRm5xR24tdDRjTVF0eUZwVHd3d0FsVjlOOHBIZlNfNzBlS01GYjVTdi1kb1RzUzB4LVZUc1RKNXdmYWJjTmtTQWtRczFaYjE0SnJ4RXZlR19rV0lvYXF6OHVGMkdTeTU?oc=5",
+  "title": "Présidentielle en France: Gabriel Attal porte plainte pour «ingérence étrangère» en provenance de Russie",
   "summary": "",
   "published": "2026-08-08T09:00+02:00",
   "mentions": [
    "attal"
-  ]
- },
- {
-  "id": "6116c0de85e48e6b",
-  "outlet": "Le HuffPost",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZ2NVbkQtRjI1R2x1VkhZRUJjRy1ULXI0MUF4MV9xcDFvV3U0SHluZ3FhamNzcU14QjhDOE94R0N3RHhaUjVjNWRQTVJCdFl4LXFseEh4bFA5dzF2YmRnUlhta2Z1M285M0RCblktVFIyN3JBZHdheGhTd195ekVBV0lwdFVxZWdDQmNlajlTSDJSeUIzVmViZTNTSkprbUNPREFISjNMWldpVGx3SzN0QVlJbXhUMjBQLTdPSW1pZTY2R21xRGR1M2o5ZE13VFdKMF8xSXhwRFFNMWJa?oc=5",
-  "title": "Gabriel Attal porte plainte pour ingérence étrangère « en provenance de réseaux russes »",
-  "summary": "",
-  "published": "2026-08-08T09:00+02:00",
-  "mentions": [
-   "attal"
-  ]
- },
- {
-  "id": "21a2487f5927ef5b",
-  "outlet": "franceinfo",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOR1Ayc2g5RGJTQ0hqbDVnVklybFBaWXFKWDJyX09rRTFrbnU4eG1QNndLSmZ2dTBQY0tTbkR2MUs5czBnS0E3aXRvU25uTkd1TEoyTTdVYkpSRUJxZkoxWWlnVExIcVRQWk9fVF9kUkEyRG01YUZLa1BqUUZOZlkyOFZKVFdBbktWUy1MZTFCX2JJRXFVcE5nOVN1R2ZKTWM2M3NkRE5pNWJxM0EyTUF1TUpVN0tNczg?oc=5",
-  "title": "Gabriel Attal porte plainte après des soupçons d'ingérence russe",
-  "summary": "",
-  "published": "2026-08-08T09:00+02:00",
-  "mentions": [
-   "attal"
-  ]
- },
- {
-  "id": "f1200039a456fe54",
-  "outlet": "TF1 Info",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPMGk3enRVVlkxWkdFekVfSnRzUW11RFU1UkRKbTVzQmxvVVh5M1dGeG5zYVpFd1NlaVA0UmFwRHowRVJYWWxVaVdDNDZmMVVMTVNnVms4TWt6UndwekhyNzVoNTR3alMtSWlBSnhDNk5PUE1GZk5xeFhSLTVDZEktNDItY29XVkNCb2tJTGJvWVQtYmtsVnZnQ3l1X0cwdFc0Y3dTQW1aMXFZX1JzWmFFdGN6dGl3QmkwN2NoVkFOaTVYZnRBMGlZdkxRSzA5NWVuZWdiMEhXNUFjcXZlVlQzRXRESUgtbEFQbDVDTWxRdDdDUndlbUtTOGVPaVZ6ZHRzQm5FZmo3d3c0ZHlOVDN6RTZHb3Z4OHM0ckZXUXlhcThEdGZFeS1z?oc=5",
-  "title": "Présidentielle : Gabriel Attal porte plainte après \"une nouvelle opération d'ingérence\" venant de Russie",
-  "summary": "",
-  "published": "2026-08-08T09:00+02:00",
-  "mentions": [
-   "attal"
-  ]
- },
- {
-  "id": "0aea2e8ebb7e2a7e",
-  "outlet": "20 Minutes",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTnkwTkFZNlFLSk1nSi15ejRJeHdWRExKX3Q0cC1hQXk2YS1ISmhEdlcyUlNTZkxPYVZsdzZndVFlOXNQWC1zbktsaUswN2c4cWFyQzZMZTVIemtYaHJENDNXYlotU3lURi1ZSExSeTUwY0RyYndiSV9NdmFpbDdEcXFnT2NLMzdlQmJwZmt1X0ZLMVVSeDhzVU1qQnBQamZzYklaNFJtYWZ3UENIMFZuVDFMQkRYUmVYNTVQN2daQzg4WTlFdkFJS2c2Z2h1QQ?oc=5",
-  "title": "Gabriel Attal porte plainte après des soupçons d’ingérence russe",
-  "summary": "",
-  "published": "2026-08-08T09:00+02:00",
-  "mentions": [
-   "attal"
-  ]
- },
- {
-  "id": "62ff44d49c94a473",
-  "outlet": "Libération",
-  "lean": "centre-gauche",
-  "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNWWxxVzV2cmVOY2ZYSWl0WkRwTDNWTGk2ZG5XSGxaTFZhcjV5b1F3YTYwWFNXT19RSjlnVGoyZ0dMcHNmek9zTGowanlRbjNrcUdBUlI3RU4wT1BVR0RtaDhrQkYwRU5BUkNzM1FLY3ZFZFRXOWs1cXo1dnRwMklGQ3ljTlVncWs1TUs2OFZwN0NQX3NvTUJMcFRWWWI2T0tydEhUOF9TcTZHMGZ0ZHhGa3plZnAxcEZPczVXYk5xVEFJY1BMb25CaFRkWFlrbU53ZDJXdW4tMVF2LXpJS1d5VFZiWDdwMEFHWnZTVkhWSHoxdnFXTnl4Q0FNb0Y0RzlPY0M0YWJzSUI0WW5JMGREWGFYNXU0TEE4YW5RN2lvclBJNlU?oc=5",
-  "title": "Deepfakes, faux reportages vidéo, fausses unes de journaux : Gabriel Attal porte plainte, dénonçant une ingérence russe",
-  "summary": "",
-  "published": "2026-08-08T09:00+02:00",
-  "mentions": [
-   "attal"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "e840ea2947595bd8",
@@ -229,30 +359,44 @@
   "published": "2026-08-08T09:00+02:00",
   "mentions": [
    "attal"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "916a1567ec27e06f",
-  "outlet": "Sud Ouest",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNOGNQSC1mZ1ZZY3dsdzU4WFFEQmgyMzB2ZWNmLWMwWHBkN1JUR2U3TFFmelB6Vkc3SlNkS05OX1gxZzVxOENrVGFQaW5TWU01U1h4V3ZGclp2bGthVlpFZ3Y2bTlEYWEzOEZ6bmhGNE8wbDJ2VEdfTjVQYkFRZXlRaDZhbS1iN1EtLW5rZGRQV2ZhekZJUURzUm5kYzllcS14aVZpNzQ0QVREYm1aRVlEMEhDa0t2UmJ4N2JYWlV2aGNqSV83TVY4cGZkVmFMMVlNWThfbg?oc=5",
-  "title": "Présidentielle 2027 : Gabriel Attal porte plainte, dénonçant une ingérence russe",
-  "summary": "",
-  "published": "2026-08-08T09:00+02:00",
-  "mentions": [
-   "attal"
-  ]
- },
- {
-  "id": "599377713b6bf7d3",
-  "outlet": "France 24",
+  "id": "f0fb3ba3a4364295",
+  "outlet": "Ouest-France",
   "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNZVdIYUJpMUlaM0R1VU9TRC1fZmNidnhJd2xQQlJlek9UcjcxWFhUZjJwbGw4UW91ZFBDY0tVXzkxSW5WZWx1ekRaWmdNNTdDSGhxNXhNb2FaZl95TnlXUWtLZk1ocml4a3BXcHE5Y2xlaWxzUXRWSlJmX0ZHNGdYTk9zUktiTHVwT1hjTG12LUc4anh2LXFYX1ZIUzNmVWhrN3UtWFJ2SlZqbjhtMlhnOG1ZVUFPVE53T2dmdUpyNlJ3RnZJX1dwbzRNWUc0RnNkZDdFMEpMdU5pamtvYlNRUFI0bUVtcnlmR3RPbTZpb29DeGpHUFlnblRya2l6akU?oc=5",
-  "title": "Candidat à la présidentielle, Gabriel Attal porte plainte pour \"ingérence étrangère\" en provenance de la Russie",
+  "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNXy1WRjV4WDJBaHpFdG5EdUg1T21YdzhoaFc2MjJsTkVmQ0g3eGYtU1B3QlBmcHVXdXBqZ3YtQXVfdGMyREg0X3BQckRyTU1mM3FsQ0MyYmdELTgwUVVjZ1FTZkpfWk9yYWtIdEhtYk1SVFduYWZtVVFOM21QVE1ENUo3NGRwMlB4T2Q5TjhfZ1FEU2VOajl1cmFocUxLeWJVNVB2ZElnSzBFS3R3Zlc2WXhNUEFSdWVieHNpYldPc0tVRTNGcnFseFpkMmVmd0p2V2lXX1dKZjBrSjExSkZNUFRscm92TGZHQVVDM3lzWmVweURPYlVCSno5NGc0VG51TTJZWVM2SVExV3lpOXUxMXY5dktrM2hKV21v?oc=5",
+  "title": "Sénatoriales 2026. Déléguée départementale du parti Reconquête, Lilas Ndong va mener une liste en Vendée",
+  "summary": "",
+  "published": "2026-08-08T09:00+02:00",
+  "mentions": []
+ },
+ {
+  "id": "f1200039a456fe54",
+  "outlet": "TF1 Info",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPMGk3enRVVlkxWkdFekVfSnRzUW11RFU1UkRKbTVzQmxvVVh5M1dGeG5zYVpFd1NlaVA0UmFwRHowRVJYWWxVaVdDNDZmMVVMTVNnVms4TWt6UndwekhyNzVoNTR3alMtSWlBSnhDNk5PUE1GZk5xeFhSLTVDZEktNDItY29XVkNCb2tJTGJvWVQtYmtsVnZnQ3l1X0cwdFc0Y3dTQW1aMXFZX1JzWmFFdGN6dGl3QmkwN2NoVkFOaTVYZnRBMGlZdkxRSzA5NWVuZWdiMEhXNUFjcXZlVlQzRXRESUgtbEFQbDVDTWxRdDdDUndlbUtTOGVPaVZ6ZHRzQm5FZmo3d3c0ZHlOVDN6RTZHb3Z4OHM0ckZXUXlhcThEdGZFeS1z?oc=5",
+  "title": "Présidentielle : Gabriel Attal porte plainte après \"une nouvelle opération d'ingérence\" venant de Russie",
   "summary": "",
   "published": "2026-08-08T09:00+02:00",
   "mentions": [
    "attal"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  }
 ]

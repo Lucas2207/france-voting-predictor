@@ -1,51 +1,43 @@
 [
  {
-  "id": "65d4cdb9db8c24a0",
-  "outlet": "l'Opinion",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUlNlWGRabmZmZnNyTEh5Um0wT2YxcHJoY09LYTZ5dVBLTlFQVExQUGxwR0EtaTIwd012aU5vT3RLaUZRRWZKSlFqZm5UMXZzcFBHU1lPVWV2cDJzNUJoSDJHRF9BY2tTX2JHQmpQRFV4eUFyYzVNVkFER2pTcWpUZzhpbjBxeVRRRXc2T3N1RC0wRFRNTHF3MFB4Ukc1LVl6VkVoTy03Z3dUaTdwaUE?oc=5",
-  "title": "La curieuse explication de Jean-Luc Mélenchon sur la menace russe en Europe",
+  "id": "003e5f746f0a739d",
+  "outlet": "Le Figaro",
+  "lean": "droite",
+  "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQNTl4UWJxN3JhbUpXS1ZkTW9LTzNTTW9QdThJeEkzOG4zQVpTZ1Vfa3o3Z3k5NkRGTUk1eGRUaFF1OHp2bWxyZmttX2pIc1RZRXlMejc0VjJXSVl6TW9hQ0k2WXE3VlBMZENyWk9FcEE1US1TYXMwY3Y3Y0tOQWVYeFM5NllkRmo2MDVheHdDX09sTEVEQ3Q1d3E2QVVuTl9qLVpZNklNVjlZZUxic2FhUkZXQ1NlelhvamF4ZWVEZ05FZkpDbFI5Y1RpeEdrVnZITmFCV3gydm1pYzRzTTJpZ2E5RVNVQQ?oc=5",
+  "title": "«La cocotte-minute bout très fort» : Jean-Luc Mélenchon se présente en porte-voix de l’«exaspération» des Français",
   "summary": "",
   "published": "2026-09-23T09:00+02:00",
   "mentions": [
    "melenchon"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": -1,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "dac8c3168cb866a9",
-  "outlet": "Le Monde.fr",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxPR3JyNlo3UU50bVVGd2c4MGxDV0hqNlFDQmxMamJrNEJreEFxZE9IRnFSV2pybjVEN2lLZE9jdm5PRFRWS0k2RFlsUmE3Rmk1TGpJc3VVVHJlaG1EYnZYNml0eTNQbmhtQ3pYa05fcG85ejZKWUVqb1k0eWY0dF9ILW12Vll2RGJIdkVuTkVMYThwb1h6NWtIaURMd012Nl9zcDRPWF9RN1h6WURPNG5Ja3FUckU5SXprNU5HZzNRYU5NY2l2ZkRWeE8wc0hUZThsaE91VEdSdU1KS1llNFVxak9WTGNQRE9UbFVlQm5XY0NBdmIzZ0ZPUE5SMHh3SnhvamY1TmhGeV9UeV9xczdHTXY5OUZqTU8xRG8zTF9oYnp0eWhrc2J0ZFRFTmg?oc=5",
-  "title": "Guerre en Ukraine : Jean-Luc Mélenchon établit un rapport entre la menace russe en Europe, qui « paraît plus grande », et les « tirs en profondeur » menés par Kiev",
+  "id": "0119dc9de7971d71",
+  "outlet": "Le Figaro",
+  "lean": "droite",
+  "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOY2EyMndGNU9fUHdUbDFoYW5oQ1U3WERVQ3pEX3Nfall3TFdsdkVtaWxxRVd1YS14VHlzMnNjZ3RMRHM2QVdwT2JDRGNsM2Zsa1lzMXA2dlJaaGhOQkd2bHVhS19UU0ZSTEZzWVhobXl6eVhkQkl6SjNwampCZ0pYb3ZkLVJiLXg2UExMbUJmOTVTVzUwaWEzNnRqcGRNVWRyMU9PX0JPRDZLN1VORkUwcERxSjNZMDRMNDloRFY5TTJnQlJWTlNwUlJvQQ?oc=5",
+  "title": "Budget : le plan de Gabriel Attal pour faire 150 milliards d’euros d’économies en cinq ans",
   "summary": "",
   "published": "2026-09-23T09:00+02:00",
   "mentions": [
-   "melenchon"
-  ]
- },
- {
-  "id": "6618ae943a9534d8",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQNmg1M1dRRkRIMTZLTVBOVFdCYUpKb2VfQW42YUpSZHNhNnJTZDJzbS1qSm5wcmhfREtpZTNwdEFESXZhbU55SllBR3lUTzJEbVQ4c2xGc29BMGYzTnAzZkp5TTlpTUxQWG14dThmaUZXSWdZNTdfQkVqbk1sYVUtaEZHYzlZOEdpMTY4RmNFdmRxS2JCQWU3cVd4Q2xzdXcwYnNiUXhBd1NySWNURGpSVVU1eG5rbk01VGF1UHlpaEE2QU8xUUZCSW9IN3VnOEJ0YnRxYVR3VjlrUW5QMzN5SVQyTDlPbTRoQk1MOE1YUTVNUEttcVQwVWdVS0NjSlF4YWRwSkcyTmFCZDZwQzBzM29DSEM2Y0V0Tmc?oc=5",
-  "title": "Menaces russes: Jean-Luc Mélenchon reconnaît que \"le risque s'accroît\" et appelle à la \"diplomatie et la discussion\"",
-  "summary": "",
-  "published": "2026-09-23T09:00+02:00",
-  "mentions": [
-   "melenchon"
-  ]
- },
- {
-  "id": "afbc0161a9168ff7",
-  "outlet": "Le Parisien",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQUTI2cVV1NHE2TnVrTDZFMHdNOGVQWlZJb2wyekNPSHNENm9rM3RBSUFxOWpJN2R2Y3Jud1NhZ2xab0JnMU81N1dGbXBpRzg5SVlDRGYtZ0xZcHlRNGNOSk01Q3hxVjZ5dXlVUlcwZW5lSEstMFFVZWpMUGZ2X3VOM3pDUjBXNjlGTUpEUVVQX2ZQZjVtMjdzYkx5a1RtNDlLMVVCOEtXVzdqX1o2aWhsNkk0a21vY3Rac1dRRFV4TDV6cldsTmNLdTZ1alltbFRuUkdEZ3F4aE9IaC1CcE1SWlhZYkxkOWFxU3NEaG05c1E0VEkxOVpiaEJlOVZtdUtDRTNLSWYwM05kZWpJZ1EyeFN6WlpPNUFhWEtIUWlLcDd5TDlZbFJ6OTNPbjc?oc=5",
-  "title": "Pour Jean-Luc Mélenchon, l’intensification des menaces russes est à mettre « en rapport » avec les frappes en profondeur de l’Ukraine",
-  "summary": "",
-  "published": "2026-09-23T09:00+02:00",
-  "mentions": [
-   "melenchon"
-  ]
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "027669b186b738db",
@@ -57,7 +49,464 @@
   "published": "2026-09-23T09:00+02:00",
   "mentions": [
    "melenchon"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": -1,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "0291680ddab63887",
+  "outlet": "Le Temps",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNUTJLVWgxU2hHMlVLVDBleVp0QVVUbXJIaUJ6MXRjNWlZeF90ZkFzZzI0SDh0RWRjUm9qLWh4eGdBczBDMFRqTGhvQ1hxWXZrRktQWUFoMTQ1X1Z0SVd0amtrYXlhZUdKUTBadjYwbVhUQnZaMTVrdG1sZGwxa3NiazVfcDNlR1VQVXNzeVFUVXd6Q2doSm5CbVFkd1IyLXdEcnlZNWhDT2w5TFBKckVUSnZOblJoYy1MazlwUFU4SEp6RWZVTVpuR2dHcl9HZnlFeWkyNWJoZ25udFdCOGxQeFROYTNPVzRRUU9WQ0NIZw?oc=5",
+  "title": "Au second tour de la présidentielle, le très clivant Jean-Luc Mélenchon pourrait-il l’emporter? Un stratège Insoumis explique pourquoi il y croit",
+  "summary": "",
+  "published": "2026-09-23T09:00+02:00",
+  "mentions": [
+   "melenchon"
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "0430a28d7a33d599",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPeWRtdlhoUFo2LWhaeEhkSjRtZ09FeF90NUphdjByS0ota19jOURBdFBNb19KY0dmQTNWOVlxNTZFM3V2YkVuY185WTVDT2ZpUzhSeVVJOHdMNHNxVkFsUWV4M0ZHNFhwM1NyLUNaWXJKc1dmMEJRenBkbVVoNTVubUxkT1B4VkZjZWNVbWhma1NvX1RvcV9pMmlKbnVLeExxTHBKUkg3cmc0X0twcjRqZXlCdmtGQlFfMjl2VTA0NUc5ZXAxOUlyZUtlQjJOWTg3czFBSXVFazJPZk45VklJd3Z6MlBDODJnYlg5WHVjbGZGVE9ZSEotOGdRZmNkR2M?oc=5",
+  "title": "Prix des carburants: \"Le gouvernement est dépassé par la situation\", dénonce Jean-Luc Mélenchon",
+  "summary": "",
+  "published": "2026-09-23T09:00+02:00",
+  "mentions": [
+   "melenchon"
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": -1,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "0bdc1e7880c48dc2",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQejBnckMtTEFvSTFYN0FZMDNLS2t4NzRPV0Nyd3pUMnJIZDVOekxTN2VEV1dGYnpOYW16ZHJ2VkZ0WnRZWEx5UWs5dWlJaG9nUEEwT3psZXkweEFjUUFkWkZXSEdocTdrelBzQlc5T3pCaWtVd25QRlNIZDg5VldvM1Byc1RvWklYVXJoZUdncnpQYlVNeVdKdzJHVEJrWkNFU1ZZQW9pNFlMM3p1c1JWbEVuNHdNTV9Tc2hVN0hOMHdjSTJCbkRlbGR5X0xTcnVuaWNrU0tEc0RmbmRiUmdxQUczZWNMYjB6ODlqMS12QnpVZXM4SXhpVk5Mb2hnZUF6ZFhrbzNjODJNY0RKUmVTaktpeU4zLTAxbnZuZ3NKd0RXd2V2cnlIOA?oc=5",
+  "title": "INFO BFM. Emmanuel Macron, Éric Zemmour, Marine Le Pen, Gabriel Attal... Quels politiques vont voir le pape Léon XIV lors de sa visite en France?",
+  "summary": "",
+  "published": "2026-09-23T09:00+02:00",
+  "mentions": [
+   "lepen",
+   "attal",
+   "zemmour"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": 0,
+    "frame": "polemique"
+   },
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "polemique"
+   },
+   {
+    "id": "philippe",
+    "tone": 0,
+    "frame": "polemique"
+   },
+   {
+    "id": "zemmour",
+    "tone": 0,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "0ea8783a182ba023",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOc09uS091akkzckFROHNDVU96TThjdUJfMFVpOW15N0lrc2JtNllycTJvbEZOMXRCdFFrLW93c0xucEt2VGFMeHNWQ0VOX3hJdExuOWQ2a0dqM3lFRllEX3BUb214aTJyM3BmQVdsc09kWTV5VkdOcnFHZmdlbnQ2Q1lTcFMyS0lzZEdRdExwdlhTR3hyMmpqT1ppaGdOYmZIWENYY001UEwyLXN4XzkzTWZ2U0lLdXg3elhCcHlzZVl0RmpNVGduVGY1Y0pya1VpZ2JRTEV2NkFFRnkwS1BzbnhwSnp4bDZvQU9DRGNXR1ByUW5Kb094eGNVYlgwMFc1WVFRX2lKd1pDTEJPY0tF?oc=5",
+  "title": "\"La France a des atouts considérables\", estime Gabriel Attal, candidat \"Renaissance\" à la présidentielle",
+  "summary": "",
+  "published": "2026-09-23T09:00+02:00",
+  "mentions": [
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "189d4ba9b888e752",
+  "outlet": "l'Opinion",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaWRBc0M3ekZ1Nm5KQnE1dnRTb3NaTnY2QlFiNTZxczJGMDlmR0hicm00WEdMWHdKU1o4MnZBQzZjQmRBYUQ3QjJDckpyNTRSeFlLN2FrbUl6cGZVczVpc3k1WG5STXI3U0VSWXFGU2FZR2lnbnRNaEJwTGp2bTB6ZlZhSDB6djF3bXlOUk53SWkwU25NMkVROEh0TFZvd2JXelVsdw?oc=5",
+  "title": "Retraites : le plan Retailleau pour imposer un âge d’équilibre à 65 ans",
+  "summary": "",
+  "published": "2026-09-23T09:00+02:00",
+  "mentions": [
+   "retailleau"
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": 0,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "1caf8e7b8993cf10",
+  "outlet": "Yahoo Finance France",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQeW9xUHIzWjl2Z05fZk5KM3FSdlJYQ3NHdDJaT0VFZnlPYWI0b2xwa0NLdmtYWkJQLUZtdnNNcTJoM2xlcUppTWhKVU1hMFZoel9RczFXMF9ka0NfOFduSzRkeGd2Wi1aMU1qSHFic3RPX2cxTXVCYnVTd1pPZkRNRE02MFNIeC1MWkpPYWVnSG1ZbktfblE?oc=5",
+  "title": "Les 35 heures seront-elles abrogées ? Bruno Retailleau appelle à travailler plus",
+  "summary": "",
+  "published": "2026-09-23T09:00+02:00",
+  "mentions": [
+   "retailleau"
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": 0,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "248d39b66388c964",
+  "outlet": "Boursorama",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPbEhyTXVGTThkN2hyZmp1SWZjOWc1Qm0tZHJQNlZBQTBoT1ZZWEg2N25EOXN0Tng0Z0NMMENoTENld2JkaVozV3VSVWtnYjRfQV9VWlFydGt4WEhVc0dFckFYOUI3VExteWFxVktYa2R2MW1JWS11LXFwOGJ5QkxUT1BGS0Z0T3VsRDN3Q3g2bExTaGkyblZxdVVIb19La21HSlNSNUIxNWsteElYbEhudzFWdjY3d28zVjhmNGd6Rk9Wd2g5S0hVMGJBU0RhNWtxUmtSRUFmSkI2NjM1ZndKUEpxTEFVbUlMY01DcVlOSFdreldOZVNteTh5Y1FUNUVnZkJUZXFxX2JRbUpRWTVxNTRsb0t6dlFCTEwxOTB6cXlwcG14RW9GYW0telItVXZhcUNRV3hmWXJhdEFlTlFMLW9TUkFWRFnSAcwCQVVfeXFMT1FQOE1NRFNWeXhIX0Zjc0l1LThQazBoNHhVS0ltdXlZT0dreU5hc3cyeDdrOFJyYk1oeFlidmRTZ2Z5UTRDRXZJVjk3Ymt1S3ZvbGJBcmxPbHZYTE9ReUp5RE5ubkpjZWhfYXFZNVlzVWJaZWRtZUZfaG1kQlZBZlRtSXRodW1TNThxdzFVYmtqQ2M3VUo2R3RHUWdlMTNRZ3dpUHJoNGhvTDdtM29TTW0tb3BNRlpGai1lUmRGVW9yQ080T1BfRGJIRE1Ca1VSQndweGUzYlRhTEcyWmd0REVGbklXcWUxU3dIbWwzV0psX0VjMmpPQll6bUxKbjNIWlpWSFVOXzZ2b2pCSGU5VGFCQ0JNanBMRHhnRkJfYWNGWTNIVVpVNlh4aGQ0UjNuN0NGNi0zaWlENldvUnFuODNpQ3VwTVdPMU9NUWs?oc=5",
+  "title": "Menace russe : Jean-Luc Mélenchon attribue la hausse des attaques hybrides en Europe aux attaques ukrainiennes",
+  "summary": "",
+  "published": "2026-09-23T09:00+02:00",
+  "mentions": [
+   "melenchon"
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": 0,
+    "frame": "justice_affaires"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "2eae1d18ed842dd0",
+  "outlet": "Europe 1",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMU5ZQ1ZaU0NoSXh2ZnJyaWJsQXgxYm9LQnV2aHR5LWlJYUtDaG40Z0dpVmtWaEhzU2M3NEo0UUE5dHBZSFRuTkhhdF9WY25JY3lDMlh1VVVDcU5hZzFJeWRCVUdlU2dZQlpESkN1VWlUd0NJN3BZZUlQZDg4dWx4a1JPdnJ6ZVUxRTlmWFg3Nm1KSFNNU2VZZWdOTVJNOHFOUzlfNG90bF9jU01KdVZ4RHdDWXdHZUZpNGh1TEVfWW1hY0nSAcgBQVVfeXFMTUlld0VtVHRKT08yUENCdmJuWjA4clRNNUM1VGhnV1o4aUZpclFNcUg4aXFmaTJhYVktcE10bnZubkRTVEluUHJvemtWWTI0NzZTampTak1McTVvcEw4MmdlUnQ3b29oSkxyRDUwbUtUVVQ2SW1QaEJ2cTV0TF9mQjQwWm12MGFFRmpiNTFxVVhwMENGSTVGZjJ1Q3FtV1J4NWdrRTB5cTJQOVlrOXRSUG9VSHVENWV0dmhpTnp0empoaHhONngza0M?oc=5",
+  "title": "Retraite : les propositions de Bruno Retailleau pour «sauver» le système par répartition",
+  "summary": "",
+  "published": "2026-09-23T09:00+02:00",
+  "mentions": [
+   "retailleau"
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "3101159d48b39bd1",
+  "outlet": "attalpresident.fr",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNi03REpobTZKeGJhNVI2SnpGUThaeW1NVEpVbDJ6aF9GbzlteWJ0UThrS29HaWNxMDFCWnRDakRadG10T2RWeUpGQ3FTR0tmR3VKb0FoaHpuUmMzczltek5mM1VGc0t3WkVzODAyYkRZcUpiZlVwOURyRExCSTJEV1Fac2JuT0JvYWxNTS1GZ0ZvdmxZRmlaZEdjbExzMFE4RG16QkFBQWNzblBXeHRSalBpVXRMZFUzZWRTSEpWdGxlV2xtV3g1QS10bTFOb1AyQk1aYTc3UXY?oc=5",
+  "title": "Gabriel Attal présente un plan de désendettement et un « Messmer II » pour sortir des dépendances françaises",
+  "summary": "",
+  "published": "2026-09-23T09:00+02:00",
+  "mentions": [
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "41bf0e94e5d85a0f",
+  "outlet": "l'Opinion",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWThaR1lFalVQd1RnWC1UZEtUSlNGRTBGZ1BTX09QbG9qRzgtNFlRSnJGWEx1YVFUblFjZ0xHNFBWT2ZPcndrTlNrZDZEWlpLRkRnVTJCV0xvcUdJWmdvRzFuODhpZTJUM1lPRWtRN3JPZ1BXM0xKcXNuOG45OHRjN1JCckNKOEFYZ0tBQmFkRkxNSnlfNnlGVjVtcEJJSU5EVlF5QTBUMURZSjRRTFU4RjZpWQ?oc=5",
+  "title": "Réforme des retraites : voici le projet de Bruno Retailleau",
+  "summary": "",
+  "published": "2026-09-23T09:00+02:00",
+  "mentions": [
+   "retailleau"
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "4affb89683ef5008",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOR2FsaGZldkoxTUIwOFB3NXNlOTUyZUMtT1RJUDZjNXYxWHJDcFc0WTBRVm11MzU5RGl4QzNrbUNZUVg4d3M4ZlU1aDg4eGVhQl9WdW9SNzQ3TG95VkhVUklzQ1BESlVFS250VnFzTW5xOHFWdUlBMlRhMWhZS2R0dzgxdTl1VmlnUlNlZFVZQkJidjJQUGc4Rm53QjI2RGtSODM2NTNZX3puWEpmU3ZvbHZadlBVazJ6WjVSQzI3QWxvdUFEWnBXRG1xQ1RWTERKT3g5cVJCWmktaWswRFY5WjNsTFNlTjJ6Q0tQTm1hOEQxYVNZOWo1YURSblVZT2E5NG9GTXFR?oc=5",
+  "title": "Situation sociale en France: \"La Cocotte-Minute bout très, très fort\", estime Jean-Luc Mélenchon",
+  "summary": "",
+  "published": "2026-09-23T09:00+02:00",
+  "mentions": [
+   "melenchon"
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": -1,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "4b3b547826bd3829",
+  "outlet": "20 Minutes",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSC04b1JJQWYwVGhveVhVMC1LRmd3RjBjY3lJc2h6OUxBQkt4Zk5mM0htblFiU1JncFBEbWdWdk53clJ4SUFxUGpFR001dG1YMWQ1aFJ5UjdvUk9KM3JIUmdScUtVSF80eEEtNkRseXJJSVVYX2NkUWF6d1BUVkJuY1p6eVF4Z1I1TXFfQmdmRGVTZS1Ebmp3ZUNaTWRRUlJCNEpjckxvRm5qYWhGeDJRanhuWjBxZXFuRHByUDU2SGxoR29yWWpOVA?oc=5",
+  "title": "L’opération « 1.000 bistrots » de Gabriel Attal n’est pas franchement un succès",
+  "summary": "",
+  "published": "2026-09-23T09:00+02:00",
+  "mentions": [
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": -1,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "4fa031d27e15eae4",
+  "outlet": "RMC",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQdVdNb1ktMjlxQVliako1QXVrWW9yR0gyWmtfRFIzbG12SElFUkhjVFlLRENFZ0RRV1pFQ0pfOTJnaE1rMDNwNFhFWXNRS2RmbnNSNGpUTTF1NzlSRXpzVVhaRDB0Y1JOckp4VVlwc2xSaDlXVGg0YV9pYzVGZThyUG9hTW5NTlMyQWx5dmpoZ0UzQzFvc0ZiaTlzN1R5VHJuTU51MElYUTd6Y0FVYm96ckR3ZG95WjBvS2U2Tkw1LWp6TGU2QTFxZ2Eyd1hmMVpSRHFhMXFvdHdSYjc3NGFxVnN1YnNYLWlqbWZoSGpwNnIwMmc3LU5neHZQWlFpVVFDdl9wN29pWFlicVl3NmJPbXRySmRUdw?oc=5",
+  "title": "[Podcasts] Damecour 2027 : Éric Zemmour et son idée de remplacer les immigrés par des robots - 23/09",
+  "summary": "",
+  "published": "2026-09-23T09:00+02:00",
+  "mentions": [
+   "zemmour"
+  ],
+  "analysis": [
+   {
+    "id": "zemmour",
+    "tone": -2,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "573e273bb8afe4e3",
+  "outlet": "La République du Centre",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxONUhQTHd5cUsxMUNMVDcybzJmS1VWSnpmOE9GVnVGcFZ1amRSdzRVeHd3T0Ytb0JLZjgxLTJ0V1dsQWsybmJqVWVqb1VqR0J0cWI2Z0FObUhpZXZRR1ppT1RJLU5GeGtzRDlxeXRxMENnVmxud1dZMG1NWXh0dThuN0hoLVJ2V2dCZEFSeWg3d0JvUFRIYTZQbGdTOWd0UzlNUEUwUV96WGxfWmFzLUNRZEp2QzgzMDkxT252YW5PZHZhSFMwTUVxNEJYalNINFdCZ3dFa1Zvb3VlSENyLTd1a2FSb2k0X2lRLUJpRHplVUFHNjVyZ3Jhd2g4OA?oc=5",
+  "title": "Glucksmann traité de \"stagiaire\" par Royal : le favori de la primaire socialiste sous pression avant le premier débat",
+  "summary": "",
+  "published": "2026-09-23T09:00+02:00",
+  "mentions": [
+   "glucksmann"
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": -1,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "58690673052f582e",
+  "outlet": "Les Echos",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNdmVSY3NMQVRLTjJkLVdKYmJDa3hKYWJIbW9pS0NZVjZKa0JTQ1cxUTg0aXhzREttdWhJREVzbGNZSnk1X1R0aUJ2Wk5DN1VBT1hteWFlMWg5ajNFamNXMUZ5YVZmdkNlSVdNZnZqWUpCOWNwOXBXWWlXd3p2Y05HS0VkM0sydFVvMzYwTVBuTEJHd0xBS0RRSHA1ZWh5b0JHY1NoVXJiY2dERUVkTm5JWHRxNGcxX1o4Z1BCZU41X1otQVNWZU1XNG9oajRJNGFHUm1Ed0t3ZzZ3OTZfUHYxem9HRnk4ay0wSGdOclduSDc0Wi01dElRNWFNMENhRDNJemFZWjRHLUZhSndIQW4waVJ6TQ?oc=5",
+  "title": "Présidentielle 2027 : comment Retailleau veut pousser les Français à travailler plus longtemps sans faire bondir l'âge légal",
+  "summary": "",
+  "published": "2026-09-23T09:00+02:00",
+  "mentions": [
+   "retailleau"
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": 0,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "5c54e16ea441e465",
+  "outlet": "TF1 Info",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOTUpDWTZ2cnJKZjdkMk9mcl93c3NmTTk2MVROTXk2a2RhVUR3SkNCWmJ3Vkh3UEsyeDVtVm1tZ3hPOWljM28zdWRrSGZNaXFNREFrRG5FVFY5VU1LelNWMGRQT2VGalVQOHJYZkNTN3RCMmpOOFJKTHdVdlIzQ1ZUQXFqQTNEM3hDRkVReUptbHZpMWZoMzF0Um9UUDBSYV9jYjVNMTFhaDlPZDROcjd6N0VlSWJFdy1VTmRKZDF5SXBfdlNCamlIa2NSRWthMVFENW1FTnVqOUJDWmNmTlN0RGRwOGkyRUV5elg0NGpYQTRBb2VwclhWak0tRl9JMWs?oc=5",
+  "title": "Marine Le Pen, Gabriel Attal, Édouard Philippe... La messe du pape Léon XIV attire les candidats à l'élection présidentielle",
+  "summary": "",
+  "published": "2026-09-23T09:00+02:00",
+  "mentions": [
+   "lepen",
+   "philippe",
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": 0,
+    "frame": "polemique"
+   },
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "polemique"
+   },
+   {
+    "id": "philippe",
+    "tone": 0,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "5ec5d53606208c1a",
+  "outlet": "RMC",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNdTJKeGgzWGpOTmU0TGxUNXdLR2J3V3FxT3RUeUlQN3EyVzF1U0VIY3FONEZuT2tzUHg1ODlwM2JiNXB2elZ6NnJTM3cwZlZJV0ZzUk1fZHJKTnZrR1BzM3hJTVJXT201dnRrbG12N3g3cE43STlfWlF6aDRjaWNUMEx2YkNPeGduU3Vfa1Nsc21uQ0lDVHF0MXRjbWRKWV96ZXZpMGkyZzEtVnozUzZTMU10VGgtNXQ3a2plZWpsTVpYRkp5WEU4dGJSZGFVWldqc3Y3TGVvN1cyc0g0YTkyYkxKTlB4SzVJQ3FkaVROX0hnaUlUb1hkSVNSaW1WaExBcFMxaDRsTURsaG1CMk1EMGZQV3F2UUgyTnB3cnFNYks?oc=5",
+  "title": "\"Votre rénovation énergétique peut bien attendre 3 mois\": pourquoi Bruno Retailleau veut supprimer les certificats d'économie d'énergie",
+  "summary": "",
+  "published": "2026-09-23T09:00+02:00",
+  "mentions": [
+   "retailleau"
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": 0,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "6220ef227a548845",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxOTjRBU0hCcXBkaU94ODdkNEFaUlAtZ0puZWVselBhYmdZdHk4WlhKSF9FZzFhRFRWUS1HdTkwcWEwbEFENVNNNHQ3ZVQzX0d6dHhhckVqQ2phMmRkTTlKS0NUbU9sLXdsb0tkS1ZDenVHaFMtamctQU5DeVZiYkNiNVhsdmFiS0J4OWpvT1RwMmhKQjlNVzA0OTFNcjgzNVYzcVpuaWgwMHJxazBuaTFhbEtGMG9wRzdfVGwxdFlLVkhON0xrNkdWZWdYTWt2RG5WS3ZHSkxyTDllWVVMdk5UaGVhd1NkbVZkdm9YeVk2cmtkdmVyZS1mRHNsMV9YSUNxalozRU9udjVXNHZON3hMTWhFQ29zTkgyYUVrTXF1WllsRUZWZ1VHUF9WWWJ0RmQxd0RfQzVCWWVkdmFWTmZWOFhlOXc3Vmdac0Vj?oc=5",
+  "title": "\"L'enjeu de cette élection présidentielle, c'est de cesser de courir après les crises\", juge Gabriel Attal, candidat Renaissance à la présidentielle",
+  "summary": "",
+  "published": "2026-09-23T09:00+02:00",
+  "mentions": [
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "63fea168b2658299",
+  "outlet": "Le Figaro",
+  "lean": "droite",
+  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVG9HbzBFS2o5Zmoyek5NVGk4elNZdm5USHE4dVpxOW53NURfVmF4ZDdhY0xkSVB3blJyY19TUHZXVTA0NmZ3blNLRERwNDU1NlNGVlo3RWVzUDJGcEpZNWJscnBZMldfck83U1NPT3dhdkF4SHZNdWlPNmdjeWQ0NEJaVTI3N016YW9WUnJHckdUQ25TSjdIZGU5NjVSMGx0b3Q2QnR6QmNmRGkyemVTZWZrdzFDcFdGVS1mTHMzd2cwdW5SOFM0?oc=5",
+  "title": "Retraites : avec la proposition de réforme de Bruno Retailleau, qui partirait à quel âge ?",
+  "summary": "",
+  "published": "2026-09-23T09:00+02:00",
+  "mentions": [
+   "retailleau"
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": 0,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "65d4cdb9db8c24a0",
+  "outlet": "l'Opinion",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUlNlWGRabmZmZnNyTEh5Um0wT2YxcHJoY09LYTZ5dVBLTlFQVExQUGxwR0EtaTIwd012aU5vT3RLaUZRRWZKSlFqZm5UMXZzcFBHU1lPVWV2cDJzNUJoSDJHRF9BY2tTX2JHQmpQRFV4eUFyYzVNVkFER2pTcWpUZzhpbjBxeVRRRXc2T3N1RC0wRFRNTHF3MFB4Ukc1LVl6VkVoTy03Z3dUaTdwaUE?oc=5",
+  "title": "La curieuse explication de Jean-Luc Mélenchon sur la menace russe en Europe",
+  "summary": "",
+  "published": "2026-09-23T09:00+02:00",
+  "mentions": [
+   "melenchon"
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "6618ae943a9534d8",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQNmg1M1dRRkRIMTZLTVBOVFdCYUpKb2VfQW42YUpSZHNhNnJTZDJzbS1qSm5wcmhfREtpZTNwdEFESXZhbU55SllBR3lUTzJEbVQ4c2xGc29BMGYzTnAzZkp5TTlpTUxQWG14dThmaUZXSWdZNTdfQkVqbk1sYVUtaEZHYzlZOEdpMTY4RmNFdmRxS2JCQWU3cVd4Q2xzdXcwYnNiUXhBd1NySWNURGpSVVU1eG5rbk01VGF1UHlpaEE2QU8xUUZCSW9IN3VnOEJ0YnRxYVR3VjlrUW5QMzN5SVQyTDlPbTRoQk1MOE1YUTVNUEttcVQwVWdVS0NjSlF4YWRwSkcyTmFCZDZwQzBzM29DSEM2Y0V0Tmc?oc=5",
+  "title": "Menaces russes: Jean-Luc Mélenchon reconnaît que \"le risque s'accroît\" et appelle à la \"diplomatie et la discussion\"",
+  "summary": "",
+  "published": "2026-09-23T09:00+02:00",
+  "mentions": [
+   "melenchon"
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "6d41ca281d443629",
@@ -70,50 +519,67 @@
   "mentions": [
    "philippe",
    "attal"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   },
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "ab123fba330fa87e",
-  "outlet": "Capital.fr",
+  "id": "6f20d5058f8fd53a",
+  "outlet": "BFM",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQZjg1RERLbW1ZNFZJZ2lQbDNsSFQ5Y1dKbTRxX3NtWFlLUXp4ZzczSEdtMHVSNXpvcm4takFoTVY3LTFMcEtFM3VRLXpPNDJmSDN3c2tFMHFHRnBOczU5eHJ3SDhBVElQejRaUFp3YXFmNzNkbXZLRVZjVC02M3IybUlMU3Q4RFo3ckdXOUhWbjN2WmpudHMyMEU1XzAtSEJkTDA5WGtIQXJqazRNb1JHT1YyekkySUV0aTJlMVFpRUV2Ti1kOXRQVHhpVmlaZlNfNTBhRW1wWThtdF9CdHpiaE02Y3h2c2lMWW56SW1jakRRSlhGWm9MbkJR?oc=5",
-  "title": "«Je ne suis pas d'accord avec Edouard Philippe» : Christelle Morançais, n°2 Horizons, prend ses distances avec son candidat",
+  "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNWWpPbjVadU5UMVVMRzlqQXZLRzJhcjlJcHNfeHkyMGlfVDZ1M2IzQ1BoUWpJWlkyRWFDUFNhV2IydUpuckhVUXh6T3RlOThBQjVDM1doSGNQY1h2RkxuLUU3Z2Nma0lWdDc0d2V6LUdrYXdlRlRBSnFVbDBLUkwyRjcwenpwMFNFVEZSMjhjYjk0a1dYU2JjUEFqdVJtOUlyX205dlI5amcxb29BQ2dZdGV3d2dOS0R6WndDSzZ5bERDc04zeEJhY2VVS0YyRGxKMEYtdTZUS1dicmdhMUpGRE1xOTI4T1N1NkNVV1g3WUxVLTNfMHlHbGFQaUQ4WkdsM2ZHeUV3SEI4NGtheGFfOWhHeXZrOVQzMzhocmMyWDkwSjA?oc=5",
+  "title": "\"Qu'on ne nous dise pas que Total s'écroulerait aussitôt\": Jean-Luc Mélenchon défend le blocage des marges des raffineurs",
   "summary": "",
   "published": "2026-09-23T09:00+02:00",
   "mentions": [
-   "philippe"
-  ]
+   "melenchon"
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "c16393ef0740bd22",
-  "outlet": "La Croix",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWnBjX1FvNkJsTGRLaENCUVNFZ09JMFJiVTUxOFgzVkpKdFBRX1dpNHgza0pUTGdjM1d5YkFuV09nZ0xuSzVHQkxXTmQ3eDVVdERoMnBVUnZrYjJxZldURFA2bWM0SHdZNmZEWWZtNFdFa0tGcXRKU1Rkb21Qa2JUTXdqNjlKNkctaUM0UXZVNTRFVTA?oc=5",
-  "title": "Raphaël Glucksmann, l’homme qui fait trop parisien",
-  "summary": "",
-  "published": "2026-09-23T09:00+02:00",
-  "mentions": [
-   "glucksmann"
-  ]
- },
- {
-  "id": "573e273bb8afe4e3",
-  "outlet": "La République du Centre",
+  "id": "701b25a7a4d7162d",
+  "outlet": "BFM",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxONUhQTHd5cUsxMUNMVDcybzJmS1VWSnpmOE9GVnVGcFZ1amRSdzRVeHd3T0Ytb0JLZjgxLTJ0V1dsQWsybmJqVWVqb1VqR0J0cWI2Z0FObUhpZXZRR1ppT1RJLU5GeGtzRDlxeXRxMENnVmxud1dZMG1NWXh0dThuN0hoLVJ2V2dCZEFSeWg3d0JvUFRIYTZQbGdTOWd0UzlNUEUwUV96WGxfWmFzLUNRZEp2QzgzMDkxT252YW5PZHZhSFMwTUVxNEJYalNINFdCZ3dFa1Zvb3VlSENyLTd1a2FSb2k0X2lRLUJpRHplVUFHNjVyZ3Jhd2g4OA?oc=5",
-  "title": "Glucksmann traité de \"stagiaire\" par Royal : le favori de la primaire socialiste sous pression avant le premier débat",
+  "url": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxOS3hrVDJ1TlJjRWxWZUc2aUZtTVJoVHA2V0piYmlsU0NnUnR1VmszME92S0M0UnJoZktTbjRhMndyblBub0Exenl6UFVyM0l6MVo4M3lQNWIxQVBmdzdkRUZFRGsyZDd0UnZid1kxZzJ5X0lYcklHZ3RDa2w0WkFzWnA0X1VOQm1kM29IQzRzNWZwU0lxUEt5T3dzdHhMczA2b3E4T1VXZEhyZG41Z0ZjeFdydkZCVzdWOVRibGdXNlFBd2p6SUhDUW1PdWFwY2g1OVpHQ3UxeHNxVzBmYlVXM3RQclFOV3k3MzY2M3lwZXFVbEt5OW9FLVg0cTdCUTFkQXMyTkF6VnVjWjljOEYxVm5NYW0zbkJJeFlaRjNkV2pqQ25UQXdJVExfOEUxTHhDWjAtOXZzM191emk1MkFJRWFFYUNxb2J2LVBNeDZXWkFBd2JoVEpvZWY2bHB0bDdXWWFr?oc=5",
+  "title": "Aides élargies aux \"gros rouleurs\": \"c'était nécessaire\", soutient Gabriel Attal, candidat Renaissance, qui veut porter \"en priorité\" les efforts vers \"ceux qui travaillent\"",
   "summary": "",
   "published": "2026-09-23T09:00+02:00",
   "mentions": [
-   "glucksmann"
-  ]
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "ccc524832861f604",
-  "outlet": "Ouest-France",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNdTN1X3JibnVNcEVuLVEzSFRGLVNoX0VTeGhDS0sxUnhPR2YxNGR5THNMVEJVdExheW4xQXRadHlvUDhCMmEzUHRNUVFSQlQzWjB2dmZweXJDNEtCQ3E1WTBiTk50RFBkWEFMcEJSa3BTV2xuVmFaQ2JPdTM3NkJvRHdMenVuNnd3SExsUVlHRDctQUZTZV8wM0I2MkRrYkVnMk9tY1lmUTctQzZfR2Zic2JrY1RZcW5HWHgyRDAzMXpOU3lWU2tDTjJZMktmOHFYRkt0YkZmQlNISi1sNUZmUDY1N01ER1ZMZmJncVpSZTFNb1VwNG84Z216cWV2WXNhTEFJQktUdXUwUkFIYmR0Z1dQR0owV3lST25KaTJaa2tJM3Vad0RETUVVVQ?oc=5",
-  "title": "À quoi va ressembler le premier débat de la primaire socialiste organisé ce mercredi 23 septembre ?",
+  "id": "72721d986006947f",
+  "outlet": "TF1 Info",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOY19uYzFzc2dpLWFGOGY0MV9uM1EyZEVlUFphdEk2X2lsSHQ1a3ByTU56VHdyTDdsY1VDQ3hCaDM3Y0o0MWZvNko2a2JXR1RMaWNCODhkVVRWTTlNOGNxSzdNUm93ZTJCenJHZW5WSnZ1aXVQZTc0S0RwYnhKdENsaWdMZVBZalk2REZRblZULTNHYjRXZmtObmZJTmYwNlZNTmtCSWwzcEJtZ0lweTJSODhkazlBMEVna0Y4bXRrYzFyU3AweEZ1NS16MzlmeUFZYmFuTk5JaEdleTg2TGVwR0UyMWpwVjgtSUVnNVBuVHc2ZVE?oc=5",
+  "title": "VÉRIF' - La France est-elle vraiment le \"seul pays européen à voir le chômage augmenter\" ?",
   "summary": "",
   "published": "2026-09-23T09:00+02:00",
   "mentions": []
@@ -128,116 +594,35 @@
   "published": "2026-09-23T09:00+02:00",
   "mentions": [
    "attal"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "0119dc9de7971d71",
-  "outlet": "Le Figaro",
-  "lean": "droite",
-  "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOY2EyMndGNU9fUHdUbDFoYW5oQ1U3WERVQ3pEX3Nfall3TFdsdkVtaWxxRVd1YS14VHlzMnNjZ3RMRHM2QVdwT2JDRGNsM2Zsa1lzMXA2dlJaaGhOQkd2bHVhS19UU0ZSTEZzWVhobXl6eVhkQkl6SjNwampCZ0pYb3ZkLVJiLXg2UExMbUJmOTVTVzUwaWEzNnRqcGRNVWRyMU9PX0JPRDZLN1VORkUwcERxSjNZMDRMNDloRFY5TTJnQlJWTlNwUlJvQQ?oc=5",
-  "title": "Budget : le plan de Gabriel Attal pour faire 150 milliards d’euros d’économies en cinq ans",
+  "id": "7649f8fd046e2c40",
+  "outlet": "Les Echos",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaGR3U2pxWkI2Z1JZa1RsRlNyWGxnMjJ5T010UC0yR0RybXg4ZENkQjM1MGF5MGNzdWplV1V1cHFpbjF3MDJHbUpESkplR0l2T2xFT2JtTzVyUWpwZC14WmFhQ3Z1bkNMa0JjZGRHLWJYeE5ETmFkZG82bWZxUkIzVmJobTRjcXM?oc=5",
+  "title": "Philippe-Attal, les cannibales",
   "summary": "",
   "published": "2026-09-23T09:00+02:00",
   "mentions": [
    "attal"
-  ]
- },
- {
-  "id": "701b25a7a4d7162d",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxOS3hrVDJ1TlJjRWxWZUc2aUZtTVJoVHA2V0piYmlsU0NnUnR1VmszME92S0M0UnJoZktTbjRhMndyblBub0Exenl6UFVyM0l6MVo4M3lQNWIxQVBmdzdkRUZFRGsyZDd0UnZid1kxZzJ5X0lYcklHZ3RDa2w0WkFzWnA0X1VOQm1kM29IQzRzNWZwU0lxUEt5T3dzdHhMczA2b3E4T1VXZEhyZG41Z0ZjeFdydkZCVzdWOVRibGdXNlFBd2p6SUhDUW1PdWFwY2g1OVpHQ3UxeHNxVzBmYlVXM3RQclFOV3k3MzY2M3lwZXFVbEt5OW9FLVg0cTdCUTFkQXMyTkF6VnVjWjljOEYxVm5NYW0zbkJJeFlaRjNkV2pqQ25UQXdJVExfOEUxTHhDWjAtOXZzM191emk1MkFJRWFFYUNxb2J2LVBNeDZXWkFBd2JoVEpvZWY2bHB0bDdXWWFr?oc=5",
-  "title": "Aides élargies aux \"gros rouleurs\": \"c'était nécessaire\", soutient Gabriel Attal, candidat Renaissance, qui veut porter \"en priorité\" les efforts vers \"ceux qui travaillent\"",
-  "summary": "",
-  "published": "2026-09-23T09:00+02:00",
-  "mentions": [
-   "attal"
-  ]
- },
- {
-  "id": "c2150c73872fdf1c",
-  "outlet": "Paris Match",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMHc3YTFtNkNFTDRSWlRjeUhMM0tNTDF4TlBLQjdtV2JEamIyLVN2RVFoU1VKVWpMUmM0bHBxZklpeEZwdVNwUjN0bFJkRzlobGhlZk1VcDBDZ3o0dXpvQy0zUzY1M1o2d3dUNTNXOXRVRlJqNWFjRjlpUTlXR0RvV1dXUlFYWG9mMlI4dnQtRUM0WGE1NjFacGZZS05pQ0hxQU9qNUVFTE5jaWotOUNz?oc=5",
-  "title": "Retailleau, Attal, Philippe sur un air de Morricone : « Le Bon, la Brute et le Truand »",
-  "summary": "",
-  "published": "2026-09-23T09:00+02:00",
-  "mentions": [
-   "attal",
-   "retailleau"
-  ]
- },
- {
-  "id": "a57f7ae706bcb8b3",
-  "outlet": "Le Monde.fr",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQa1VEemFLVUNVRDdkeF9ENTYyYV9Va292VmZzLXU4WEFyUmhWODByQWRma3Iybk1CZWZKXzVTNWlFLXl0Vk5WS1ZsR0FJSTgwZ2V0WGVvMDU2VGxVcHROQVNGX3JqdE05VHdiYnh0dzFxREpzUTFqajNHcklranpIeFVHS09wOE4tY0tIcjZUNGFfM0ZsbW9sd1h5WjdwaDQ4WHBvbUVsOU4yUUVkSzUtdHFfdDJfX2Y3ckVZUjlxYXhGZ1czN3NlZER1UUN2a3BRSmlTT0ZpNUs3UENsNm9GU0VSX1JtNTlEY2VsUTJMS09IYkhncV9POUM4VjhFeEFUSlliTXdzdHZuemIzR3NnaFc2aWVOTVo2Y0VWZDNvM0pfaE0?oc=5",
-  "title": "Présidentielle 2027 : Bruno Retailleau veut instaurer un âge minimal de départ à la retraite à 63 ans et un taux plein à 65 ans",
-  "summary": "",
-  "published": "2026-09-23T09:00+02:00",
-  "mentions": [
-   "retailleau"
-  ]
- },
- {
-  "id": "41bf0e94e5d85a0f",
-  "outlet": "l'Opinion",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWThaR1lFalVQd1RnWC1UZEtUSlNGRTBGZ1BTX09QbG9qRzgtNFlRSnJGWEx1YVFUblFjZ0xHNFBWT2ZPcndrTlNrZDZEWlpLRkRnVTJCV0xvcUdJWmdvRzFuODhpZTJUM1lPRWtRN3JPZ1BXM0xKcXNuOG45OHRjN1JCckNKOEFYZ0tBQmFkRkxNSnlfNnlGVjVtcEJJSU5EVlF5QTBUMURZSjRRTFU4RjZpWQ?oc=5",
-  "title": "Réforme des retraites : voici le projet de Bruno Retailleau",
-  "summary": "",
-  "published": "2026-09-23T09:00+02:00",
-  "mentions": [
-   "retailleau"
-  ]
- },
- {
-  "id": "b0728d096bd6ef53",
-  "outlet": "Yahoo Finance France",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRlR3ekRtdFlTb1RJRFJWTlRaOGZHdl9tMG9wUUJIUWtIa2NMX1VyMDlDNUs4djBWTWd3ZHdBQmdUaHA1TE9lcS1PUVZTbHh5M2FIX3hHcGh3OHp2b1RJUm9WOWVLV1IxU3pMamhHMklBUldSRmFPQzRBaVBTUUVUUUozNjZMOGVkZ1l2ME1BN3pxd1RVTEZURy1xc09jQQ?oc=5",
-  "title": "Bruno Retailleau vise 600 000 agents publics en moins sur dix ans",
-  "summary": "",
-  "published": "2026-09-23T09:00+02:00",
-  "mentions": [
-   "retailleau"
-  ]
- },
- {
-  "id": "2eae1d18ed842dd0",
-  "outlet": "Europe 1",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMU5ZQ1ZaU0NoSXh2ZnJyaWJsQXgxYm9LQnV2aHR5LWlJYUtDaG40Z0dpVmtWaEhzU2M3NEo0UUE5dHBZSFRuTkhhdF9WY25JY3lDMlh1VVVDcU5hZzFJeWRCVUdlU2dZQlpESkN1VWlUd0NJN3BZZUlQZDg4dWx4a1JPdnJ6ZVUxRTlmWFg3Nm1KSFNNU2VZZWdOTVJNOHFOUzlfNG90bF9jU01KdVZ4RHdDWXdHZUZpNGh1TEVfWW1hY0nSAcgBQVVfeXFMTUlld0VtVHRKT08yUENCdmJuWjA4clRNNUM1VGhnV1o4aUZpclFNcUg4aXFmaTJhYVktcE10bnZubkRTVEluUHJvemtWWTI0NzZTampTak1McTVvcEw4MmdlUnQ3b29oSkxyRDUwbUtUVVQ2SW1QaEJ2cTV0TF9mQjQwWm12MGFFRmpiNTFxVVhwMENGSTVGZjJ1Q3FtV1J4NWdrRTB5cTJQOVlrOXRSUG9VSHVENWV0dmhpTnp0empoaHhONngza0M?oc=5",
-  "title": "Retraite : les propositions de Bruno Retailleau pour «sauver» le système par répartition",
-  "summary": "",
-  "published": "2026-09-23T09:00+02:00",
-  "mentions": [
-   "retailleau"
-  ]
- },
- {
-  "id": "a806b14ac36be37b",
-  "outlet": "Marianne",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYUs2Q25pdFEtbzAxWmdndGFmSnlnRTZEVkFEdW5hU0JnNFhyVFdrOVBTcjZSbzRtMDE3N2JJbnFsTWU5VUVtV3RtZ0R3ZkI0TEc2MEJrQ1A2bkpQbklhUU1hQzVyV25ESUNvQTQwZXpyaEo5SHdhR2sxNlM3c3pIRnVOTVUwcWFQM1hnUW5HclZBdGEtd0lERDFMZ2JuaVh5a2NSTEp3T2JFX3M?oc=5",
-  "title": "David Lisnard, une ambition présidentielle en manque de visibilité",
-  "summary": "",
-  "published": "2026-09-23T09:00+02:00",
-  "mentions": [
-   "lisnard"
-  ]
- },
- {
-  "id": "c85b89a7013a6971",
-  "outlet": "Libération",
-  "lean": "centre-gauche",
-  "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOVmFMZnNCTFRmcTItMFZPeElpdFp0UGFleU1SUVJiOXRwemtrcHZKMjVyQTdpU24teVV2YnFCbGxrSkVOTlQzM3NYTGhtM3ZmYmU4WEMtMGpHMEhuUF9rRkNaOU1EdkVmMWlEVzBnNDlleXJ3aklUUWhNa1VSVjlfeUc4cVBaQVFJR0REeUcwclhtZHY2NFQ1ODJEWnFFNEJJeDJybGJ1NlIybC1yMTM4V2g5Zk5rVUFZRzk1RVZfVzVYeFRjY1NrWWFTV0M4d0JRZHNJMVhld1E4blhtVGJpcWpWa1V6dXpZejRJRk9fNWhsZEJTQ3AxNUQ0RlVjanFlbUtMSV9mZm84eHgyanN6Y191MV9rY1VS?oc=5",
-  "title": "« Ce qui se passe avec Trump et Milei a fini par en convaincre certains » : plongée dans les réseaux qui inspirent les libéraux conservateurs, de David Lisnard à Sarah Knafo",
-  "summary": "",
-  "published": "2026-09-23T09:00+02:00",
-  "mentions": [
-   "lisnard"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": -1,
+    "frame": "economie_social"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "8182a925e36fe75a",
@@ -250,208 +635,24 @@
   "mentions": []
  },
  {
-  "id": "d3d5806c68dcecfc",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQUjJvX1Qya1ZiQkN0em9udjJaU2FQNXQwZGo3MkVfaHp2bF9uZi1PYV92QWVVTGlRZlZpWE1XNUVFX0ZWLVJHQ21IS3FackVQUXRNVXR2cDBuaW80OUtVNWh0SUFoWF9KUWlPLTl3bDVXSktiV0NoaUdjSUR2TlQ3amNNNW03anpFd19fNlROcHp2Tk14RGNHcHFlLVFVcjgyUjhROEhWaU5tNWVvY3R0ZEZwSERxWjhaaG4wT3h3RVh6MlFRRDc3aHFfaVcyODZNZy1KRFllUU10TndiZnZxeXJ2cV9LTVo4MlhIU3RhcEZqNnlwZDRtb3RoenB6V29rUG00c0Mtdw?oc=5",
-  "title": "Jean-Luc Mélenchon estime que \"le gouvernement est dépassé\" face à la hausse des prix des carburants",
-  "summary": "",
-  "published": "2026-09-23T09:00+02:00",
-  "mentions": [
-   "melenchon"
-  ]
- },
- {
-  "id": "abab068c0ee6cc0e",
-  "outlet": "TF1 Info",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQb2R3RzZPdkxmWVB3MHp5TFRWdnE0eHNMVk5tUl8zWHRndmhqUlY1aHlqbzMwNGFUUnFmbnhDWXh1Rm9JZFk0WUZXYUlHa2VFQklkSlNnNXc0SDJXa3pyd09Cc3ItUnJXZXVUTkNPVkgydmo2WDhOS2dYc0kxTHI5dWs3RHVRUF92cUNhNlpfcmlUdXdkOTh6WWlEMTBybkowZjkxU1JnRm9TV1RJcVVQek1UajZfWTBTclNuQ29GYjVYa1ZldXJxOE90czFXQzJkRWJLNFN6UjVTal84eUZHTzlEVWhsSEdLclFVQVRRVlc3blVveU9zRlNYNF81UnBCZFE?oc=5",
-  "title": "\"Le gouvernement est dépassé par la situation\" : Jean-Luc Mélenchon étrille les aides annoncées face au prix des carburants",
-  "summary": "",
-  "published": "2026-09-23T09:00+02:00",
-  "mentions": [
-   "melenchon"
-  ]
- },
- {
-  "id": "003e5f746f0a739d",
-  "outlet": "Le Figaro",
-  "lean": "droite",
-  "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQNTl4UWJxN3JhbUpXS1ZkTW9LTzNTTW9QdThJeEkzOG4zQVpTZ1Vfa3o3Z3k5NkRGTUk1eGRUaFF1OHp2bWxyZmttX2pIc1RZRXlMejc0VjJXSVl6TW9hQ0k2WXE3VlBMZENyWk9FcEE1US1TYXMwY3Y3Y0tOQWVYeFM5NllkRmo2MDVheHdDX09sTEVEQ3Q1d3E2QVVuTl9qLVpZNklNVjlZZUxic2FhUkZXQ1NlelhvamF4ZWVEZ05FZkpDbFI5Y1RpeEdrVnZITmFCV3gydm1pYzRzTTJpZ2E5RVNVQQ?oc=5",
-  "title": "«La cocotte-minute bout très fort» : Jean-Luc Mélenchon se présente en porte-voix de l’«exaspération» des Français",
-  "summary": "",
-  "published": "2026-09-23T09:00+02:00",
-  "mentions": [
-   "melenchon"
-  ]
- },
- {
-  "id": "6f20d5058f8fd53a",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNWWpPbjVadU5UMVVMRzlqQXZLRzJhcjlJcHNfeHkyMGlfVDZ1M2IzQ1BoUWpJWlkyRWFDUFNhV2IydUpuckhVUXh6T3RlOThBQjVDM1doSGNQY1h2RkxuLUU3Z2Nma0lWdDc0d2V6LUdrYXdlRlRBSnFVbDBLUkwyRjcwenpwMFNFVEZSMjhjYjk0a1dYU2JjUEFqdVJtOUlyX205dlI5amcxb29BQ2dZdGV3d2dOS0R6WndDSzZ5bERDc04zeEJhY2VVS0YyRGxKMEYtdTZUS1dicmdhMUpGRE1xOTI4T1N1NkNVV1g3WUxVLTNfMHlHbGFQaUQ4WkdsM2ZHeUV3SEI4NGtheGFfOWhHeXZrOVQzMzhocmMyWDkwSjA?oc=5",
-  "title": "\"Qu'on ne nous dise pas que Total s'écroulerait aussitôt\": Jean-Luc Mélenchon défend le blocage des marges des raffineurs",
-  "summary": "",
-  "published": "2026-09-23T09:00+02:00",
-  "mentions": [
-   "melenchon"
-  ]
- },
- {
-  "id": "b51ac3b3df03270d",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUzZtbURHM3lET0pzQldWYzM4VzFZRXRzV2FxMk1RaS1aQ2YzRlNyRnRNeU9mZnh3UWhxM2JXVllOeFdBalBma3BtdmRwVE5qNURibWpGcVB4cjJMQkxRTnJiVTdDRUh3ajJ0dUlrVXhHRFQ0VDFmeUxpQXpGTGZRdldhdWdkY3hUUVN6ckRWVzdsVE1KZTZlYlFLZzBwbUZiOHRIRUpyYjZmbkUwV3lRbUQ2MWNVT0pTUTRtTUp5N0lESXdxWWd3YVlPV1FaakQ5?oc=5",
-  "title": "Prix des carburants: Jean-Luc Mélenchon demande \"le blocage des marges\" de Total",
-  "summary": "",
-  "published": "2026-09-23T09:00+02:00",
-  "mentions": [
-   "melenchon"
-  ]
- },
- {
-  "id": "0291680ddab63887",
-  "outlet": "Le Temps",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNUTJLVWgxU2hHMlVLVDBleVp0QVVUbXJIaUJ6MXRjNWlZeF90ZkFzZzI0SDh0RWRjUm9qLWh4eGdBczBDMFRqTGhvQ1hxWXZrRktQWUFoMTQ1X1Z0SVd0amtrYXlhZUdKUTBadjYwbVhUQnZaMTVrdG1sZGwxa3NiazVfcDNlR1VQVXNzeVFUVXd6Q2doSm5CbVFkd1IyLXdEcnlZNWhDT2w5TFBKckVUSnZOblJoYy1MazlwUFU4SEp6RWZVTVpuR2dHcl9HZnlFeWkyNWJoZ25udFdCOGxQeFROYTNPVzRRUU9WQ0NIZw?oc=5",
-  "title": "Au second tour de la présidentielle, le très clivant Jean-Luc Mélenchon pourrait-il l’emporter? Un stratège Insoumis explique pourquoi il y croit",
-  "summary": "",
-  "published": "2026-09-23T09:00+02:00",
-  "mentions": [
-   "melenchon"
-  ]
- },
- {
-  "id": "248d39b66388c964",
-  "outlet": "Boursorama",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPbEhyTXVGTThkN2hyZmp1SWZjOWc1Qm0tZHJQNlZBQTBoT1ZZWEg2N25EOXN0Tng0Z0NMMENoTENld2JkaVozV3VSVWtnYjRfQV9VWlFydGt4WEhVc0dFckFYOUI3VExteWFxVktYa2R2MW1JWS11LXFwOGJ5QkxUT1BGS0Z0T3VsRDN3Q3g2bExTaGkyblZxdVVIb19La21HSlNSNUIxNWsteElYbEhudzFWdjY3d28zVjhmNGd6Rk9Wd2g5S0hVMGJBU0RhNWtxUmtSRUFmSkI2NjM1ZndKUEpxTEFVbUlMY01DcVlOSFdreldOZVNteTh5Y1FUNUVnZkJUZXFxX2JRbUpRWTVxNTRsb0t6dlFCTEwxOTB6cXlwcG14RW9GYW0telItVXZhcUNRV3hmWXJhdEFlTlFMLW9TUkFWRFnSAcwCQVVfeXFMT1FQOE1NRFNWeXhIX0Zjc0l1LThQazBoNHhVS0ltdXlZT0dreU5hc3cyeDdrOFJyYk1oeFlidmRTZ2Z5UTRDRXZJVjk3Ymt1S3ZvbGJBcmxPbHZYTE9ReUp5RE5ubkpjZWhfYXFZNVlzVWJaZWRtZUZfaG1kQlZBZlRtSXRodW1TNThxdzFVYmtqQ2M3VUo2R3RHUWdlMTNRZ3dpUHJoNGhvTDdtM29TTW0tb3BNRlpGai1lUmRGVW9yQ080T1BfRGJIRE1Ca1VSQndweGUzYlRhTEcyWmd0REVGbklXcWUxU3dIbWwzV0psX0VjMmpPQll6bUxKbjNIWlpWSFVOXzZ2b2pCSGU5VGFCQ0JNanBMRHhnRkJfYWNGWTNIVVpVNlh4aGQ0UjNuN0NGNi0zaWlENldvUnFuODNpQ3VwTVdPMU9NUWs?oc=5",
-  "title": "Menace russe : Jean-Luc Mélenchon attribue la hausse des attaques hybrides en Europe aux attaques ukrainiennes",
-  "summary": "",
-  "published": "2026-09-23T09:00+02:00",
-  "mentions": [
-   "melenchon"
-  ]
- },
- {
-  "id": "0430a28d7a33d599",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPeWRtdlhoUFo2LWhaeEhkSjRtZ09FeF90NUphdjByS0ota19jOURBdFBNb19KY0dmQTNWOVlxNTZFM3V2YkVuY185WTVDT2ZpUzhSeVVJOHdMNHNxVkFsUWV4M0ZHNFhwM1NyLUNaWXJKc1dmMEJRenBkbVVoNTVubUxkT1B4VkZjZWNVbWhma1NvX1RvcV9pMmlKbnVLeExxTHBKUkg3cmc0X0twcjRqZXlCdmtGQlFfMjl2VTA0NUc5ZXAxOUlyZUtlQjJOWTg3czFBSXVFazJPZk45VklJd3Z6MlBDODJnYlg5WHVjbGZGVE9ZSEotOGdRZmNkR2M?oc=5",
-  "title": "Prix des carburants: \"Le gouvernement est dépassé par la situation\", dénonce Jean-Luc Mélenchon",
-  "summary": "",
-  "published": "2026-09-23T09:00+02:00",
-  "mentions": [
-   "melenchon"
-  ]
- },
- {
-  "id": "4affb89683ef5008",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOR2FsaGZldkoxTUIwOFB3NXNlOTUyZUMtT1RJUDZjNXYxWHJDcFc0WTBRVm11MzU5RGl4QzNrbUNZUVg4d3M4ZlU1aDg4eGVhQl9WdW9SNzQ3TG95VkhVUklzQ1BESlVFS250VnFzTW5xOHFWdUlBMlRhMWhZS2R0dzgxdTl1VmlnUlNlZFVZQkJidjJQUGc4Rm53QjI2RGtSODM2NTNZX3puWEpmU3ZvbHZadlBVazJ6WjVSQzI3QWxvdUFEWnBXRG1xQ1RWTERKT3g5cVJCWmktaWswRFY5WjNsTFNlTjJ6Q0tQTm1hOEQxYVNZOWo1YURSblVZT2E5NG9GTXFR?oc=5",
-  "title": "Situation sociale en France: \"La Cocotte-Minute bout très, très fort\", estime Jean-Luc Mélenchon",
-  "summary": "",
-  "published": "2026-09-23T09:00+02:00",
-  "mentions": [
-   "melenchon"
-  ]
- },
- {
-  "id": "d7f08e0526d3d3cf",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQcU5MWVNIc2lnanBQYWItNDlhdW9SVnF5NWZJQTF5MEJIZ2JXTjZkOWFldnpQWHhFSk91MVJvazBLN2VtMnk1MnZsTzlMZXFBTXdNTDVPV0g1dkFkRTJvTEhGS1lxejI2RkpDYVgzc1JQOWtqZ1NLUm5SVF9LSE8wY3o4dUpOMkdMenNTUXNWZTFwWE1ieFRBSWkyZC12LXZzd2lWU3Vsa0FoQ09DT05JUGdSLTduM3Bnd0dUUmJWLTBjbGpmdFYwdUM5UUdHdlJ5YW1BQVRQY2ZNOEtXN0tqY0hlZGRia2wxWk51SE5VXy1lUQ?oc=5",
-  "title": "L'EFFET GRABLY - Crise des carburants: TotalEnergies répond à Jean-Luc Mélenchon sur les réseaux sociaux",
-  "summary": "",
-  "published": "2026-09-23T09:00+02:00",
-  "mentions": [
-   "melenchon"
-  ]
- },
- {
-  "id": "e06e00e15938c4be",
-  "outlet": "Le Taurillon",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaWNIR3lKOEsxc0U1ei0wUTNOZ0J5bGFiS2c5NlE2LUY1NTVLRXVzemZobHlDaEVVdEtlclhmVTdGcDRmVnBud3Z6NFo0YU91NWd2YlRxLWk3TGtCd3JnZlJsYTkzNjRTSnQ0RUV2RUpvZVhLamlibXZpMzZDak9nb3dzS3BuLXhYT2dmRWdoZG9naEVhS2c?oc=5",
-  "title": "Yves Bertoncini : “Le fédéralisme de Gabriel Attal est bienvenu, mais hémiplégique”",
-  "summary": "",
-  "published": "2026-09-23T09:00+02:00",
-  "mentions": [
-   "attal"
-  ]
- },
- {
-  "id": "7649f8fd046e2c40",
-  "outlet": "Les Echos",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaGR3U2pxWkI2Z1JZa1RsRlNyWGxnMjJ5T010UC0yR0RybXg4ZENkQjM1MGF5MGNzdWplV1V1cHFpbjF3MDJHbUpESkplR0l2T2xFT2JtTzVyUWpwZC14WmFhQ3Z1bkNMa0JjZGRHLWJYeE5ETmFkZG82bWZxUkIzVmJobTRjcXM?oc=5",
-  "title": "Philippe-Attal, les cannibales",
-  "summary": "",
-  "published": "2026-09-23T09:00+02:00",
-  "mentions": [
-   "attal"
-  ]
- },
- {
-  "id": "4b3b547826bd3829",
-  "outlet": "20 Minutes",
+  "id": "91cf4aa9dea14456",
+  "outlet": "RFI",
   "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSC04b1JJQWYwVGhveVhVMC1LRmd3RjBjY3lJc2h6OUxBQkt4Zk5mM0htblFiU1JncFBEbWdWdk53clJ4SUFxUGpFR001dG1YMWQ1aFJ5UjdvUk9KM3JIUmdScUtVSF80eEEtNkRseXJJSVVYX2NkUWF6d1BUVkJuY1p6eVF4Z1I1TXFfQmdmRGVTZS1Ebmp3ZUNaTWRRUlJCNEpjckxvRm5qYWhGeDJRanhuWjBxZXFuRHByUDU2SGxoR29yWWpOVA?oc=5",
-  "title": "L’opération « 1.000 bistrots » de Gabriel Attal n’est pas franchement un succès",
+  "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZEpCd3NtSEk3cXdqQ3FTUnBrczlNclNWX0x4RGlzR05PVzhUNUI1UWxkNjZHMF9KYTJPMklNSVJGdDlsT19vRkltbmw0NTNoZDRUNnZ4NG1iVzhtUHRKOFNhN3k0TWR0bXNaOGlOSlNPcXFuS0FzaTlDZzBtY0phbllwQ0FhOXZUVmdlbzRHY2lOMGRLWW9FUmFKbS1uUEJBeU94VFJxVzZCaUc2QzZWVFU3NnFUa3NtMnItVXlydDV4akc0eDlQZFcyVHJaRVIta3pseXl4aGxINHA2OGFtM21RMmU?oc=5",
+  "title": "La fabrique du monde - France: Marine Le Pen et le Rassemblement national, sous l'œil de Moscou et Washington",
   "summary": "",
   "published": "2026-09-23T09:00+02:00",
   "mentions": [
-   "attal"
-  ]
- },
- {
-  "id": "6220ef227a548845",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxOTjRBU0hCcXBkaU94ODdkNEFaUlAtZ0puZWVselBhYmdZdHk4WlhKSF9FZzFhRFRWUS1HdTkwcWEwbEFENVNNNHQ3ZVQzX0d6dHhhckVqQ2phMmRkTTlKS0NUbU9sLXdsb0tkS1ZDenVHaFMtamctQU5DeVZiYkNiNVhsdmFiS0J4OWpvT1RwMmhKQjlNVzA0OTFNcjgzNVYzcVpuaWgwMHJxazBuaTFhbEtGMG9wRzdfVGwxdFlLVkhON0xrNkdWZWdYTWt2RG5WS3ZHSkxyTDllWVVMdk5UaGVhd1NkbVZkdm9YeVk2cmtkdmVyZS1mRHNsMV9YSUNxalozRU9udjVXNHZON3hMTWhFQ29zTkgyYUVrTXF1WllsRUZWZ1VHUF9WWWJ0RmQxd0RfQzVCWWVkdmFWTmZWOFhlOXc3Vmdac0Vj?oc=5",
-  "title": "\"L'enjeu de cette élection présidentielle, c'est de cesser de courir après les crises\", juge Gabriel Attal, candidat Renaissance à la présidentielle",
-  "summary": "",
-  "published": "2026-09-23T09:00+02:00",
-  "mentions": [
-   "attal"
-  ]
- },
- {
-  "id": "0ea8783a182ba023",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOc09uS091akkzckFROHNDVU96TThjdUJfMFVpOW15N0lrc2JtNllycTJvbEZOMXRCdFFrLW93c0xucEt2VGFMeHNWQ0VOX3hJdExuOWQ2a0dqM3lFRllEX3BUb214aTJyM3BmQVdsc09kWTV5VkdOcnFHZmdlbnQ2Q1lTcFMyS0lzZEdRdExwdlhTR3hyMmpqT1ppaGdOYmZIWENYY001UEwyLXN4XzkzTWZ2U0lLdXg3elhCcHlzZVl0RmpNVGduVGY1Y0pya1VpZ2JRTEV2NkFFRnkwS1BzbnhwSnp4bDZvQU9DRGNXR1ByUW5Kb094eGNVYlgwMFc1WVFRX2lKd1pDTEJPY0tF?oc=5",
-  "title": "\"La France a des atouts considérables\", estime Gabriel Attal, candidat \"Renaissance\" à la présidentielle",
-  "summary": "",
-  "published": "2026-09-23T09:00+02:00",
-  "mentions": [
-   "attal"
-  ]
- },
- {
-  "id": "dcfc79f41cee8d34",
-  "outlet": "LCP-Assemblée nationale",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWTMwMU9pU1hzdVdwNnB1OHhVLTVYa2ZuZ19hT20wOFotVFQyUVh4WlVqNzhuRWpFbWlfcDBoOC11LVlPdlpIem9JZS0xNDVsWjJKZTlzYmJHQjFVOTNOek1FeFJIMjNGRWJqQUoxZ2lmbFdneXpnMG8ybkxDS19wSkNTWjJ6V0YtbUpoUnA2YjJ3eDM4Vk8tako5WGhDR0xrQzhtVWlyZHVuaXcwWVc4am1KUQ?oc=5",
-  "title": "Retraites: Bruno Retailleau veut un âge minimal de départ à 63 ans et un taux plein à 65 ans",
-  "summary": "",
-  "published": "2026-09-23T09:00+02:00",
-  "mentions": [
-   "retailleau"
-  ]
- },
- {
-  "id": "58690673052f582e",
-  "outlet": "Les Echos",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNdmVSY3NMQVRLTjJkLVdKYmJDa3hKYWJIbW9pS0NZVjZKa0JTQ1cxUTg0aXhzREttdWhJREVzbGNZSnk1X1R0aUJ2Wk5DN1VBT1hteWFlMWg5ajNFamNXMUZ5YVZmdkNlSVdNZnZqWUpCOWNwOXBXWWlXd3p2Y05HS0VkM0sydFVvMzYwTVBuTEJHd0xBS0RRSHA1ZWh5b0JHY1NoVXJiY2dERUVkTm5JWHRxNGcxX1o4Z1BCZU41X1otQVNWZU1XNG9oajRJNGFHUm1Ed0t3ZzZ3OTZfUHYxem9HRnk4ay0wSGdOclduSDc0Wi01dElRNWFNMENhRDNJemFZWjRHLUZhSndIQW4waVJ6TQ?oc=5",
-  "title": "Présidentielle 2027 : comment Retailleau veut pousser les Français à travailler plus longtemps sans faire bondir l'âge légal",
-  "summary": "",
-  "published": "2026-09-23T09:00+02:00",
-  "mentions": [
-   "retailleau"
-  ]
+   "lepen"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": -1,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "95b9f70d1e8a4158",
@@ -463,81 +664,261 @@
   "published": "2026-09-23T09:00+02:00",
   "mentions": [
    "retailleau"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": 0,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "1caf8e7b8993cf10",
+  "id": "a57f7ae706bcb8b3",
+  "outlet": "Le Monde.fr",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQa1VEemFLVUNVRDdkeF9ENTYyYV9Va292VmZzLXU4WEFyUmhWODByQWRma3Iybk1CZWZKXzVTNWlFLXl0Vk5WS1ZsR0FJSTgwZ2V0WGVvMDU2VGxVcHROQVNGX3JqdE05VHdiYnh0dzFxREpzUTFqajNHcklranpIeFVHS09wOE4tY0tIcjZUNGFfM0ZsbW9sd1h5WjdwaDQ4WHBvbUVsOU4yUUVkSzUtdHFfdDJfX2Y3ckVZUjlxYXhGZ1czN3NlZER1UUN2a3BRSmlTT0ZpNUs3UENsNm9GU0VSX1JtNTlEY2VsUTJMS09IYkhncV9POUM4VjhFeEFUSlliTXdzdHZuemIzR3NnaFc2aWVOTVo2Y0VWZDNvM0pfaE0?oc=5",
+  "title": "Présidentielle 2027 : Bruno Retailleau veut instaurer un âge minimal de départ à la retraite à 63 ans et un taux plein à 65 ans",
+  "summary": "",
+  "published": "2026-09-23T09:00+02:00",
+  "mentions": [
+   "retailleau"
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "a806b14ac36be37b",
+  "outlet": "Marianne",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYUs2Q25pdFEtbzAxWmdndGFmSnlnRTZEVkFEdW5hU0JnNFhyVFdrOVBTcjZSbzRtMDE3N2JJbnFsTWU5VUVtV3RtZ0R3ZkI0TEc2MEJrQ1A2bkpQbklhUU1hQzVyV25ESUNvQTQwZXpyaEo5SHdhR2sxNlM3c3pIRnVOTVUwcWFQM1hnUW5HclZBdGEtd0lERDFMZ2JuaVh5a2NSTEp3T2JFX3M?oc=5",
+  "title": "David Lisnard, une ambition présidentielle en manque de visibilité",
+  "summary": "",
+  "published": "2026-09-23T09:00+02:00",
+  "mentions": [
+   "lisnard"
+  ],
+  "analysis": [
+   {
+    "id": "lisnard",
+    "tone": -1,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "ab123fba330fa87e",
+  "outlet": "Capital.fr",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQZjg1RERLbW1ZNFZJZ2lQbDNsSFQ5Y1dKbTRxX3NtWFlLUXp4ZzczSEdtMHVSNXpvcm4takFoTVY3LTFMcEtFM3VRLXpPNDJmSDN3c2tFMHFHRnBOczU5eHJ3SDhBVElQejRaUFp3YXFmNzNkbXZLRVZjVC02M3IybUlMU3Q4RFo3ckdXOUhWbjN2WmpudHMyMEU1XzAtSEJkTDA5WGtIQXJqazRNb1JHT1YyekkySUV0aTJlMVFpRUV2Ti1kOXRQVHhpVmlaZlNfNTBhRW1wWThtdF9CdHpiaE02Y3h2c2lMWW56SW1jakRRSlhGWm9MbkJR?oc=5",
+  "title": "«Je ne suis pas d'accord avec Edouard Philippe» : Christelle Morançais, n°2 Horizons, prend ses distances avec son candidat",
+  "summary": "",
+  "published": "2026-09-23T09:00+02:00",
+  "mentions": [
+   "philippe"
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": -1,
+    "frame": "polemique"
+   },
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "abab068c0ee6cc0e",
+  "outlet": "TF1 Info",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQb2R3RzZPdkxmWVB3MHp5TFRWdnE0eHNMVk5tUl8zWHRndmhqUlY1aHlqbzMwNGFUUnFmbnhDWXh1Rm9JZFk0WUZXYUlHa2VFQklkSlNnNXc0SDJXa3pyd09Cc3ItUnJXZXVUTkNPVkgydmo2WDhOS2dYc0kxTHI5dWs3RHVRUF92cUNhNlpfcmlUdXdkOTh6WWlEMTBybkowZjkxU1JnRm9TV1RJcVVQek1UajZfWTBTclNuQ29GYjVYa1ZldXJxOE90czFXQzJkRWJLNFN6UjVTal84eUZHTzlEVWhsSEdLclFVQVRRVlc3blVveU9zRlNYNF81UnBCZFE?oc=5",
+  "title": "\"Le gouvernement est dépassé par la situation\" : Jean-Luc Mélenchon étrille les aides annoncées face au prix des carburants",
+  "summary": "",
+  "published": "2026-09-23T09:00+02:00",
+  "mentions": [
+   "melenchon"
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": -1,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "afbc0161a9168ff7",
+  "outlet": "Le Parisien",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQUTI2cVV1NHE2TnVrTDZFMHdNOGVQWlZJb2wyekNPSHNENm9rM3RBSUFxOWpJN2R2Y3Jud1NhZ2xab0JnMU81N1dGbXBpRzg5SVlDRGYtZ0xZcHlRNGNOSk01Q3hxVjZ5dXlVUlcwZW5lSEstMFFVZWpMUGZ2X3VOM3pDUjBXNjlGTUpEUVVQX2ZQZjVtMjdzYkx5a1RtNDlLMVVCOEtXVzdqX1o2aWhsNkk0a21vY3Rac1dRRFV4TDV6cldsTmNLdTZ1alltbFRuUkdEZ3F4aE9IaC1CcE1SWlhZYkxkOWFxU3NEaG05c1E0VEkxOVpiaEJlOVZtdUtDRTNLSWYwM05kZWpJZ1EyeFN6WlpPNUFhWEtIUWlLcDd5TDlZbFJ6OTNPbjc?oc=5",
+  "title": "Pour Jean-Luc Mélenchon, l’intensification des menaces russes est à mettre « en rapport » avec les frappes en profondeur de l’Ukraine",
+  "summary": "",
+  "published": "2026-09-23T09:00+02:00",
+  "mentions": [
+   "melenchon"
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "b0728d096bd6ef53",
   "outlet": "Yahoo Finance France",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQeW9xUHIzWjl2Z05fZk5KM3FSdlJYQ3NHdDJaT0VFZnlPYWI0b2xwa0NLdmtYWkJQLUZtdnNNcTJoM2xlcUppTWhKVU1hMFZoel9RczFXMF9ka0NfOFduSzRkeGd2Wi1aMU1qSHFic3RPX2cxTXVCYnVTd1pPZkRNRE02MFNIeC1MWkpPYWVnSG1ZbktfblE?oc=5",
-  "title": "Les 35 heures seront-elles abrogées ? Bruno Retailleau appelle à travailler plus",
+  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRlR3ekRtdFlTb1RJRFJWTlRaOGZHdl9tMG9wUUJIUWtIa2NMX1VyMDlDNUs4djBWTWd3ZHdBQmdUaHA1TE9lcS1PUVZTbHh5M2FIX3hHcGh3OHp2b1RJUm9WOWVLV1IxU3pMamhHMklBUldSRmFPQzRBaVBTUUVUUUozNjZMOGVkZ1l2ME1BN3pxd1RVTEZURy1xc09jQQ?oc=5",
+  "title": "Bruno Retailleau vise 600 000 agents publics en moins sur dix ans",
   "summary": "",
   "published": "2026-09-23T09:00+02:00",
   "mentions": [
    "retailleau"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": -1,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "5ec5d53606208c1a",
-  "outlet": "RMC",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNdTJKeGgzWGpOTmU0TGxUNXdLR2J3V3FxT3RUeUlQN3EyVzF1U0VIY3FONEZuT2tzUHg1ODlwM2JiNXB2elZ6NnJTM3cwZlZJV0ZzUk1fZHJKTnZrR1BzM3hJTVJXT201dnRrbG12N3g3cE43STlfWlF6aDRjaWNUMEx2YkNPeGduU3Vfa1Nsc21uQ0lDVHF0MXRjbWRKWV96ZXZpMGkyZzEtVnozUzZTMU10VGgtNXQ3a2plZWpsTVpYRkp5WEU4dGJSZGFVWldqc3Y3TGVvN1cyc0g0YTkyYkxKTlB4SzVJQ3FkaVROX0hnaUlUb1hkSVNSaW1WaExBcFMxaDRsTURsaG1CMk1EMGZQV3F2UUgyTnB3cnFNYks?oc=5",
-  "title": "\"Votre rénovation énergétique peut bien attendre 3 mois\": pourquoi Bruno Retailleau veut supprimer les certificats d'économie d'énergie",
-  "summary": "",
-  "published": "2026-09-23T09:00+02:00",
-  "mentions": [
-   "retailleau"
-  ]
- },
- {
-  "id": "63fea168b2658299",
-  "outlet": "Le Figaro",
-  "lean": "droite",
-  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVG9HbzBFS2o5Zmoyek5NVGk4elNZdm5USHE4dVpxOW53NURfVmF4ZDdhY0xkSVB3blJyY19TUHZXVTA0NmZ3blNLRERwNDU1NlNGVlo3RWVzUDJGcEpZNWJscnBZMldfck83U1NPT3dhdkF4SHZNdWlPNmdjeWQ0NEJaVTI3N016YW9WUnJHckdUQ25TSjdIZGU5NjVSMGx0b3Q2QnR6QmNmRGkyemVTZWZrdzFDcFdGVS1mTHMzd2cwdW5SOFM0?oc=5",
-  "title": "Retraites : avec la proposition de réforme de Bruno Retailleau, qui partirait à quel âge ?",
-  "summary": "",
-  "published": "2026-09-23T09:00+02:00",
-  "mentions": [
-   "retailleau"
-  ]
- },
- {
-  "id": "189d4ba9b888e752",
-  "outlet": "l'Opinion",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaWRBc0M3ekZ1Nm5KQnE1dnRTb3NaTnY2QlFiNTZxczJGMDlmR0hicm00WEdMWHdKU1o4MnZBQzZjQmRBYUQ3QjJDckpyNTRSeFlLN2FrbUl6cGZVczVpc3k1WG5STXI3U0VSWXFGU2FZR2lnbnRNaEJwTGp2bTB6ZlZhSDB6djF3bXlOUk53SWkwU25NMkVROEh0TFZvd2JXelVsdw?oc=5",
-  "title": "Retraites : le plan Retailleau pour imposer un âge d’équilibre à 65 ans",
-  "summary": "",
-  "published": "2026-09-23T09:00+02:00",
-  "mentions": [
-   "retailleau"
-  ]
- },
- {
-  "id": "ff36a65cd24478ed",
-  "outlet": "Yahoo Actualités",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPa3dvZDhCdm55emg1dTRFd1k5MUFJdmlPbkRXYzYyNHh3ZzU1eGlMaTc4eGlyT1Z5bktTWG94bU1UUk1RelZDU3g5X1NOVVJkdVBUMTNrNWRFYVQ2cHFtdGZmdFhZa0JRN0dyc0cxSzRsV0J6QnF3X0RkeEVILWpTQllpcHdQai1LWkRTeXdzbUtHZXc?oc=5",
-  "title": "Secrets de candidats : l'europhilie inavouable de Nicolas Dupont-Aignan",
-  "summary": "",
-  "published": "2026-09-23T09:00+02:00",
-  "mentions": [
-   "dupontaignan"
-  ]
- },
- {
-  "id": "0bdc1e7880c48dc2",
+  "id": "b51ac3b3df03270d",
   "outlet": "BFM",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQejBnckMtTEFvSTFYN0FZMDNLS2t4NzRPV0Nyd3pUMnJIZDVOekxTN2VEV1dGYnpOYW16ZHJ2VkZ0WnRZWEx5UWs5dWlJaG9nUEEwT3psZXkweEFjUUFkWkZXSEdocTdrelBzQlc5T3pCaWtVd25QRlNIZDg5VldvM1Byc1RvWklYVXJoZUdncnpQYlVNeVdKdzJHVEJrWkNFU1ZZQW9pNFlMM3p1c1JWbEVuNHdNTV9Tc2hVN0hOMHdjSTJCbkRlbGR5X0xTcnVuaWNrU0tEc0RmbmRiUmdxQUczZWNMYjB6ODlqMS12QnpVZXM4SXhpVk5Mb2hnZUF6ZFhrbzNjODJNY0RKUmVTaktpeU4zLTAxbnZuZ3NKd0RXd2V2cnlIOA?oc=5",
-  "title": "INFO BFM. Emmanuel Macron, Éric Zemmour, Marine Le Pen, Gabriel Attal... Quels politiques vont voir le pape Léon XIV lors de sa visite en France?",
+  "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUzZtbURHM3lET0pzQldWYzM4VzFZRXRzV2FxMk1RaS1aQ2YzRlNyRnRNeU9mZnh3UWhxM2JXVllOeFdBalBma3BtdmRwVE5qNURibWpGcVB4cjJMQkxRTnJiVTdDRUh3ajJ0dUlrVXhHRFQ0VDFmeUxpQXpGTGZRdldhdWdkY3hUUVN6ckRWVzdsVE1KZTZlYlFLZzBwbUZiOHRIRUpyYjZmbkUwV3lRbUQ2MWNVT0pTUTRtTUp5N0lESXdxWWd3YVlPV1FaakQ5?oc=5",
+  "title": "Prix des carburants: Jean-Luc Mélenchon demande \"le blocage des marges\" de Total",
   "summary": "",
   "published": "2026-09-23T09:00+02:00",
   "mentions": [
-   "lepen",
+   "melenchon"
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "b9b741e17232505b",
+  "outlet": "https://www.parlons-politique.fr/",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPUGEtRTN2TVdXZk9QY1BHc1p4cGJkMzlLTVRvdmJSQVBnUXhqa2h2bEp1RWowUGJsa2VYT0lOZ2lOeE1VWDNOV2hWNXpSa01jYURjeXhaMzBobF9aNmY3TGhhcnFiVzRLZGMyMTVaMFIxRnh6MkxiMk1NUHFVSFhnSlZuangtWFFEUjlRRDlOekN1OWRmMGRHVjJSQVNvQUhLZDVfOGdKaVpOeGJ5OVp1Z1UyMVp3V1FZU1RKaTJsSlY1S1ZHQ3BQTG4yd3NMYl9UZnVoTVdLcF9IY1BMNHdoTk90XzcxZWM?oc=5",
+  "title": "Raphaël Glucksmann doit convaincre les électeurs qu’il porte un projet, pas seulement des refus à gauche",
+  "summary": "",
+  "published": "2026-09-23T09:00+02:00",
+  "mentions": [
+   "glucksmann"
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": -1,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "c16393ef0740bd22",
+  "outlet": "La Croix",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWnBjX1FvNkJsTGRLaENCUVNFZ09JMFJiVTUxOFgzVkpKdFBRX1dpNHgza0pUTGdjM1d5YkFuV09nZ0xuSzVHQkxXTmQ3eDVVdERoMnBVUnZrYjJxZldURFA2bWM0SHdZNmZEWWZtNFdFa0tGcXRKU1Rkb21Qa2JUTXdqNjlKNkctaUM0UXZVNTRFVTA?oc=5",
+  "title": "Raphaël Glucksmann, l’homme qui fait trop parisien",
+  "summary": "",
+  "published": "2026-09-23T09:00+02:00",
+  "mentions": [
+   "glucksmann"
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": -1,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "c2150c73872fdf1c",
+  "outlet": "Paris Match",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMHc3YTFtNkNFTDRSWlRjeUhMM0tNTDF4TlBLQjdtV2JEamIyLVN2RVFoU1VKVWpMUmM0bHBxZklpeEZwdVNwUjN0bFJkRzlobGhlZk1VcDBDZ3o0dXpvQy0zUzY1M1o2d3dUNTNXOXRVRlJqNWFjRjlpUTlXR0RvV1dXUlFYWG9mMlI4dnQtRUM0WGE1NjFacGZZS05pQ0hxQU9qNUVFTE5jaWotOUNz?oc=5",
+  "title": "Retailleau, Attal, Philippe sur un air de Morricone : « Le Bon, la Brute et le Truand »",
+  "summary": "",
+  "published": "2026-09-23T09:00+02:00",
+  "mentions": [
    "attal",
-   "zemmour"
-  ]
+   "retailleau"
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": 0,
+    "frame": "polemique"
+   },
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   },
+   {
+    "id": "philippe",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "c85b89a7013a6971",
+  "outlet": "Libération",
+  "lean": "centre-gauche",
+  "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOVmFMZnNCTFRmcTItMFZPeElpdFp0UGFleU1SUVJiOXRwemtrcHZKMjVyQTdpU24teVV2YnFCbGxrSkVOTlQzM3NYTGhtM3ZmYmU4WEMtMGpHMEhuUF9rRkNaOU1EdkVmMWlEVzBnNDlleXJ3aklUUWhNa1VSVjlfeUc4cVBaQVFJR0REeUcwclhtZHY2NFQ1ODJEWnFFNEJJeDJybGJ1NlIybC1yMTM4V2g5Zk5rVUFZRzk1RVZfVzVYeFRjY1NrWWFTV0M4d0JRZHNJMVhld1E4blhtVGJpcWpWa1V6dXpZejRJRk9fNWhsZEJTQ3AxNUQ0RlVjanFlbUtMSV9mZm84eHgyanN6Y191MV9rY1VS?oc=5",
+  "title": "« Ce qui se passe avec Trump et Milei a fini par en convaincre certains » : plongée dans les réseaux qui inspirent les libéraux conservateurs, de David Lisnard à Sarah Knafo",
+  "summary": "",
+  "published": "2026-09-23T09:00+02:00",
+  "mentions": [
+   "lisnard"
+  ],
+  "analysis": [
+   {
+    "id": "lisnard",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "ccc524832861f604",
+  "outlet": "Ouest-France",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNdTN1X3JibnVNcEVuLVEzSFRGLVNoX0VTeGhDS0sxUnhPR2YxNGR5THNMVEJVdExheW4xQXRadHlvUDhCMmEzUHRNUVFSQlQzWjB2dmZweXJDNEtCQ3E1WTBiTk50RFBkWEFMcEJSa3BTV2xuVmFaQ2JPdTM3NkJvRHdMenVuNnd3SExsUVlHRDctQUZTZV8wM0I2MkRrYkVnMk9tY1lmUTctQzZfR2Zic2JrY1RZcW5HWHgyRDAzMXpOU3lWU2tDTjJZMktmOHFYRkt0YkZmQlNISi1sNUZmUDY1N01ER1ZMZmJncVpSZTFNb1VwNG84Z216cWV2WXNhTEFJQktUdXUwUkFIYmR0Z1dQR0owV3lST25KaTJaa2tJM3Vad0RETUVVVQ?oc=5",
+  "title": "À quoi va ressembler le premier débat de la primaire socialiste organisé ce mercredi 23 septembre ?",
+  "summary": "",
+  "published": "2026-09-23T09:00+02:00",
+  "mentions": []
  },
  {
   "id": "cd1b83841bb1eac7",
@@ -549,7 +930,95 @@
   "published": "2026-09-23T09:00+02:00",
   "mentions": [
    "zemmour"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "zemmour",
+    "tone": -2,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "d3d5806c68dcecfc",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQUjJvX1Qya1ZiQkN0em9udjJaU2FQNXQwZGo3MkVfaHp2bF9uZi1PYV92QWVVTGlRZlZpWE1XNUVFX0ZWLVJHQ21IS3FackVQUXRNVXR2cDBuaW80OUtVNWh0SUFoWF9KUWlPLTl3bDVXSktiV0NoaUdjSUR2TlQ3amNNNW03anpFd19fNlROcHp2Tk14RGNHcHFlLVFVcjgyUjhROEhWaU5tNWVvY3R0ZEZwSERxWjhaaG4wT3h3RVh6MlFRRDc3aHFfaVcyODZNZy1KRFllUU10TndiZnZxeXJ2cV9LTVo4MlhIU3RhcEZqNnlwZDRtb3RoenB6V29rUG00c0Mtdw?oc=5",
+  "title": "Jean-Luc Mélenchon estime que \"le gouvernement est dépassé\" face à la hausse des prix des carburants",
+  "summary": "",
+  "published": "2026-09-23T09:00+02:00",
+  "mentions": [
+   "melenchon"
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": -1,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "d40bd2ea3d67fd8a",
+  "outlet": "RMC",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNUTBpYm1PMmMwa1NFQ2ZpWmd0X1Y0dUxPeHdBcUw1SXlMWHRZcEc0TU5ZYXpScEVreXQwVXJqZlRxM1VjcmFrY2UwUndvYVVjS0NGSnF4QzkycEFIVEpDSjcyYXUxc2ZCZTdzV2ZIaVp1WmkyazZ3ZWJoSG1PUXJrU191NzJHWDduY042M0hJRUZCbWdsTEJuQWRNbGRKdkVhakNOUDBkMkhEYnB4QkJwazhfeFVMemE5Wng0S2ktU0NTR2VCdXdqMnh3RlhEMm9sQnF6TUw2c3JxTzllc2tBN3NuZk40Q0hUbl9KMGxQbFhVS0I0RkNTS3BQOERBN0FmRDFEa1lpcUtOaVJR?oc=5",
+  "title": "\"Ce ne sera pas du sang et des larmes\", promet Christelle Morançais, soutien d'Edouard Philippe à la présidentielle 2027",
+  "summary": "",
+  "published": "2026-09-23T09:00+02:00",
+  "mentions": [
+   "philippe"
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": 0,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "d7f08e0526d3d3cf",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQcU5MWVNIc2lnanBQYWItNDlhdW9SVnF5NWZJQTF5MEJIZ2JXTjZkOWFldnpQWHhFSk91MVJvazBLN2VtMnk1MnZsTzlMZXFBTXdNTDVPV0g1dkFkRTJvTEhGS1lxejI2RkpDYVgzc1JQOWtqZ1NLUm5SVF9LSE8wY3o4dUpOMkdMenNTUXNWZTFwWE1ieFRBSWkyZC12LXZzd2lWU3Vsa0FoQ09DT05JUGdSLTduM3Bnd0dUUmJWLTBjbGpmdFYwdUM5UUdHdlJ5YW1BQVRQY2ZNOEtXN0tqY0hlZGRia2wxWk51SE5VXy1lUQ?oc=5",
+  "title": "L'EFFET GRABLY - Crise des carburants: TotalEnergies répond à Jean-Luc Mélenchon sur les réseaux sociaux",
+  "summary": "",
+  "published": "2026-09-23T09:00+02:00",
+  "mentions": [
+   "melenchon"
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": 0,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "dac8c3168cb866a9",
+  "outlet": "Le Monde.fr",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxPR3JyNlo3UU50bVVGd2c4MGxDV0hqNlFDQmxMamJrNEJreEFxZE9IRnFSV2pybjVEN2lLZE9jdm5PRFRWS0k2RFlsUmE3Rmk1TGpJc3VVVHJlaG1EYnZYNml0eTNQbmhtQ3pYa05fcG85ejZKWUVqb1k0eWY0dF9ILW12Vll2RGJIdkVuTkVMYThwb1h6NWtIaURMd012Nl9zcDRPWF9RN1h6WURPNG5Ja3FUckU5SXprNU5HZzNRYU5NY2l2ZkRWeE8wc0hUZThsaE91VEdSdU1KS1llNFVxak9WTGNQRE9UbFVlQm5XY0NBdmIzZ0ZPUE5SMHh3SnhvamY1TmhGeV9UeV9xczdHTXY5OUZqTU8xRG8zTF9oYnp0eWhrc2J0ZFRFTmg?oc=5",
+  "title": "Guerre en Ukraine : Jean-Luc Mélenchon établit un rapport entre la menace russe en Europe, qui « paraît plus grande », et les « tirs en profondeur » menés par Kiev",
+  "summary": "",
+  "published": "2026-09-23T09:00+02:00",
+  "mentions": [
+   "melenchon"
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "db07d66f14dc5e2a",
@@ -562,6 +1031,46 @@
   "mentions": []
  },
  {
+  "id": "dcfc79f41cee8d34",
+  "outlet": "LCP-Assemblée nationale",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWTMwMU9pU1hzdVdwNnB1OHhVLTVYa2ZuZ19hT20wOFotVFQyUVh4WlVqNzhuRWpFbWlfcDBoOC11LVlPdlpIem9JZS0xNDVsWjJKZTlzYmJHQjFVOTNOek1FeFJIMjNGRWJqQUoxZ2lmbFdneXpnMG8ybkxDS19wSkNTWjJ6V0YtbUpoUnA2YjJ3eDM4Vk8tako5WGhDR0xrQzhtVWlyZHVuaXcwWVc4am1KUQ?oc=5",
+  "title": "Retraites: Bruno Retailleau veut un âge minimal de départ à 63 ans et un taux plein à 65 ans",
+  "summary": "",
+  "published": "2026-09-23T09:00+02:00",
+  "mentions": [
+   "retailleau"
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": 0,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "e06e00e15938c4be",
+  "outlet": "Le Taurillon",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaWNIR3lKOEsxc0U1ei0wUTNOZ0J5bGFiS2c5NlE2LUY1NTVLRXVzemZobHlDaEVVdEtlclhmVTdGcDRmVnBud3Z6NFo0YU91NWd2YlRxLWk3TGtCd3JnZlJsYTkzNjRTSnQ0RUV2RUpvZVhLamlibXZpMzZDak9nb3dzS3BuLXhYT2dmRWdoZG9naEVhS2c?oc=5",
+  "title": "Yves Bertoncini : “Le fédéralisme de Gabriel Attal est bienvenu, mais hémiplégique”",
+  "summary": "",
+  "published": "2026-09-23T09:00+02:00",
+  "mentions": [
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": -1,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
   "id": "e16d08952524155e",
   "outlet": "BFM",
   "lean": "non classé",
@@ -571,33 +1080,35 @@
   "published": "2026-09-23T09:00+02:00",
   "mentions": [
    "ruffin"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "ruffin",
+    "tone": 0,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "5c54e16ea441e465",
-  "outlet": "TF1 Info",
+  "id": "eac83ac822e01571",
+  "outlet": "Site Internet du PCF",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOTUpDWTZ2cnJKZjdkMk9mcl93c3NmTTk2MVROTXk2a2RhVUR3SkNCWmJ3Vkh3UEsyeDVtVm1tZ3hPOWljM28zdWRrSGZNaXFNREFrRG5FVFY5VU1LelNWMGRQT2VGalVQOHJYZkNTN3RCMmpOOFJKTHdVdlIzQ1ZUQXFqQTNEM3hDRkVReUptbHZpMWZoMzF0Um9UUDBSYV9jYjVNMTFhaDlPZDROcjd6N0VlSWJFdy1VTmRKZDF5SXBfdlNCamlIa2NSRWthMVFENW1FTnVqOUJDWmNmTlN0RGRwOGkyRUV5elg0NGpYQTRBb2VwclhWak0tRl9JMWs?oc=5",
-  "title": "Marine Le Pen, Gabriel Attal, Édouard Philippe... La messe du pape Léon XIV attire les candidats à l'élection présidentielle",
+  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1PT0tIMHNibTlSY3FBeml5Z2Z4WllWS1h2QnZmUjJsWDlUZ0JlcFF0bXdDUERQamZPbEs3UmNqUFh2dkhRdWQxWXN2UzBCMUg3a2RfRHdRY1RSUlE?oc=5",
+  "title": "Roussel, un candidat en lutte",
   "summary": "",
   "published": "2026-09-23T09:00+02:00",
   "mentions": [
-   "lepen",
-   "philippe",
-   "attal"
-  ]
- },
- {
-  "id": "b9b741e17232505b",
-  "outlet": "https://www.parlons-politique.fr/",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPUGEtRTN2TVdXZk9QY1BHc1p4cGJkMzlLTVRvdmJSQVBnUXhqa2h2bEp1RWowUGJsa2VYT0lOZ2lOeE1VWDNOV2hWNXpSa01jYURjeXhaMzBobF9aNmY3TGhhcnFiVzRLZGMyMTVaMFIxRnh6MkxiMk1NUHFVSFhnSlZuangtWFFEUjlRRDlOekN1OWRmMGRHVjJSQVNvQUhLZDVfOGdKaVpOeGJ5OVp1Z1UyMVp3V1FZU1RKaTJsSlY1S1ZHQ3BQTG4yd3NMYl9UZnVoTVdLcF9IY1BMNHdoTk90XzcxZWM?oc=5",
-  "title": "Raphaël Glucksmann doit convaincre les électeurs qu’il porte un projet, pas seulement des refus à gauche",
-  "summary": "",
-  "published": "2026-09-23T09:00+02:00",
-  "mentions": [
-   "glucksmann"
-  ]
+   "roussel"
+  ],
+  "analysis": [
+   {
+    "id": "roussel",
+    "tone": 0,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "ebba35db9394d2ba",
@@ -610,76 +1121,6 @@
   "mentions": []
  },
  {
-  "id": "3101159d48b39bd1",
-  "outlet": "attalpresident.fr",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNi03REpobTZKeGJhNVI2SnpGUThaeW1NVEpVbDJ6aF9GbzlteWJ0UThrS29HaWNxMDFCWnRDakRadG10T2RWeUpGQ3FTR0tmR3VKb0FoaHpuUmMzczltek5mM1VGc0t3WkVzODAyYkRZcUpiZlVwOURyRExCSTJEV1Fac2JuT0JvYWxNTS1GZ0ZvdmxZRmlaZEdjbExzMFE4RG16QkFBQWNzblBXeHRSalBpVXRMZFUzZWRTSEpWdGxlV2xtV3g1QS10bTFOb1AyQk1aYTc3UXY?oc=5",
-  "title": "Gabriel Attal présente un plan de désendettement et un « Messmer II » pour sortir des dépendances françaises",
-  "summary": "",
-  "published": "2026-09-23T09:00+02:00",
-  "mentions": [
-   "attal"
-  ]
- },
- {
-  "id": "72721d986006947f",
-  "outlet": "TF1 Info",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOY19uYzFzc2dpLWFGOGY0MV9uM1EyZEVlUFphdEk2X2lsSHQ1a3ByTU56VHdyTDdsY1VDQ3hCaDM3Y0o0MWZvNko2a2JXR1RMaWNCODhkVVRWTTlNOGNxSzdNUm93ZTJCenJHZW5WSnZ1aXVQZTc0S0RwYnhKdENsaWdMZVBZalk2REZRblZULTNHYjRXZmtObmZJTmYwNlZNTmtCSWwzcEJtZ0lweTJSODhkazlBMEVna0Y4bXRrYzFyU3AweEZ1NS16MzlmeUFZYmFuTk5JaEdleTg2TGVwR0UyMWpwVjgtSUVnNVBuVHc2ZVE?oc=5",
-  "title": "VÉRIF' - La France est-elle vraiment le \"seul pays européen à voir le chômage augmenter\" ?",
-  "summary": "",
-  "published": "2026-09-23T09:00+02:00",
-  "mentions": []
- },
- {
-  "id": "eac83ac822e01571",
-  "outlet": "Site Internet du PCF",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1PT0tIMHNibTlSY3FBeml5Z2Z4WllWS1h2QnZmUjJsWDlUZ0JlcFF0bXdDUERQamZPbEs3UmNqUFh2dkhRdWQxWXN2UzBCMUg3a2RfRHdRY1RSUlE?oc=5",
-  "title": "Roussel, un candidat en lutte",
-  "summary": "",
-  "published": "2026-09-23T09:00+02:00",
-  "mentions": [
-   "roussel"
-  ]
- },
- {
-  "id": "d40bd2ea3d67fd8a",
-  "outlet": "RMC",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNUTBpYm1PMmMwa1NFQ2ZpWmd0X1Y0dUxPeHdBcUw1SXlMWHRZcEc0TU5ZYXpScEVreXQwVXJqZlRxM1VjcmFrY2UwUndvYVVjS0NGSnF4QzkycEFIVEpDSjcyYXUxc2ZCZTdzV2ZIaVp1WmkyazZ3ZWJoSG1PUXJrU191NzJHWDduY042M0hJRUZCbWdsTEJuQWRNbGRKdkVhakNOUDBkMkhEYnB4QkJwazhfeFVMemE5Wng0S2ktU0NTR2VCdXdqMnh3RlhEMm9sQnF6TUw2c3JxTzllc2tBN3NuZk40Q0hUbl9KMGxQbFhVS0I0RkNTS3BQOERBN0FmRDFEa1lpcUtOaVJR?oc=5",
-  "title": "\"Ce ne sera pas du sang et des larmes\", promet Christelle Morançais, soutien d'Edouard Philippe à la présidentielle 2027",
-  "summary": "",
-  "published": "2026-09-23T09:00+02:00",
-  "mentions": [
-   "philippe"
-  ]
- },
- {
-  "id": "91cf4aa9dea14456",
-  "outlet": "RFI",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZEpCd3NtSEk3cXdqQ3FTUnBrczlNclNWX0x4RGlzR05PVzhUNUI1UWxkNjZHMF9KYTJPMklNSVJGdDlsT19vRkltbmw0NTNoZDRUNnZ4NG1iVzhtUHRKOFNhN3k0TWR0bXNaOGlOSlNPcXFuS0FzaTlDZzBtY0phbllwQ0FhOXZUVmdlbzRHY2lOMGRLWW9FUmFKbS1uUEJBeU94VFJxVzZCaUc2QzZWVFU3NnFUa3NtMnItVXlydDV4akc0eDlQZFcyVHJaRVIta3pseXl4aGxINHA2OGFtM21RMmU?oc=5",
-  "title": "La fabrique du monde - France: Marine Le Pen et le Rassemblement national, sous l'œil de Moscou et Washington",
-  "summary": "",
-  "published": "2026-09-23T09:00+02:00",
-  "mentions": [
-   "lepen"
-  ]
- },
- {
-  "id": "4fa031d27e15eae4",
-  "outlet": "RMC",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQdVdNb1ktMjlxQVliako1QXVrWW9yR0gyWmtfRFIzbG12SElFUkhjVFlLRENFZ0RRV1pFQ0pfOTJnaE1rMDNwNFhFWXNRS2RmbnNSNGpUTTF1NzlSRXpzVVhaRDB0Y1JOckp4VVlwc2xSaDlXVGg0YV9pYzVGZThyUG9hTW5NTlMyQWx5dmpoZ0UzQzFvc0ZiaTlzN1R5VHJuTU51MElYUTd6Y0FVYm96ckR3ZG95WjBvS2U2Tkw1LWp6TGU2QTFxZ2Eyd1hmMVpSRHFhMXFvdHdSYjc3NGFxVnN1YnNYLWlqbWZoSGpwNnIwMmc3LU5neHZQWlFpVVFDdl9wN29pWFlicVl3NmJPbXRySmRUdw?oc=5",
-  "title": "[Podcasts] Damecour 2027 : Éric Zemmour et son idée de remplacer les immigrés par des robots - 23/09",
-  "summary": "",
-  "published": "2026-09-23T09:00+02:00",
-  "mentions": [
-   "zemmour"
-  ]
- },
- {
   "id": "fac66cfdca6086a3",
   "outlet": "AMF",
   "lean": "non classé",
@@ -688,6 +1129,26 @@
   "summary": "",
   "published": "2026-09-23T09:00+02:00",
   "mentions": []
+ },
+ {
+  "id": "ff36a65cd24478ed",
+  "outlet": "Yahoo Actualités",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPa3dvZDhCdm55emg1dTRFd1k5MUFJdmlPbkRXYzYyNHh3ZzU1eGlMaTc4eGlyT1Z5bktTWG94bU1UUk1RelZDU3g5X1NOVVJkdVBUMTNrNWRFYVQ2cHFtdGZmdFhZa0JRN0dyc0cxSzRsV0J6QnF3X0RkeEVILWpTQllpcHdQai1LWkRTeXdzbUtHZXc?oc=5",
+  "title": "Secrets de candidats : l'europhilie inavouable de Nicolas Dupont-Aignan",
+  "summary": "",
+  "published": "2026-09-23T09:00+02:00",
+  "mentions": [
+   "dupontaignan"
+  ],
+  "analysis": [
+   {
+    "id": "dupontaignan",
+    "tone": -2,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "ffd19441ce3cda49",
@@ -711,6 +1172,8 @@
   "published": "2026-09-23T16:43+02:00",
   "mentions": [
    "glucksmann"
-  ]
+  ],
+  "analysis": [],
+  "analysis_model": "ollama:qwen3.5:4b"
  }
 ]

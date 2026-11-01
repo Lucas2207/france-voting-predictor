@@ -1,27 +1,159 @@
 [
  {
-  "id": "c235d3fc9e67baba",
-  "outlet": "Le Parisien",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQcXRha3pjTVBBdVZEV3F1aUJNTUdRQkRkVlVsN2lTbFBFMGYycm9kZ1Y2SmJfZ1BmcV92aGRfRU14aDFtN3czdVFkWUZGYXpWdUJBby1Ca2JqU19MZldNQm5BNlROQ2F2Ym5zVXAtb25jNW5rNGdNSUQwd0dWVVJPaS1wcnRvZ1FWOXctbk5QTTlqWHc1UUFHMkxubEI5ZVVBSFQ3NTZEcWw1NGlwX280TXVsTGUwRGRBeEZkOHRhRlFsZDVmRU5sQ0lVUW4wa3drc1REQVNnRGRDRXFwQ25vTHBpWWs3Z3NVMUs1NkNQaWFFcEptQ1BJLTBn?oc=5",
-  "title": "Présidentielle : Jean-Luc Mélenchon et LFI « ne gouverneront jamais », estime Bernard Cazeneuve",
-  "summary": "",
-  "published": "2026-07-20T09:00+02:00",
-  "mentions": [
-   "melenchon"
-  ]
- },
- {
-  "id": "c1ac673e03fb24d6",
-  "outlet": "Le Parisien",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOWnIyTnZIZ3BqMGNJMkVzc1cwMnlrVWFtX0hhS3JiUHljbmdYMkdVeVh2a2hRbFd1NktvRzROUmFqTUZQUVNXMVlqcHZtS0dESTJLZ1pYdU5uRkI3ZXJXM1VxMVRJUDF3NnB2emZwRzhhWWotcGZzT29rYTVnR2taZkdCWFRSdFNBZXVvUTJFTldYYnFmZjBzR3VuWmE0LW1wZzhtM2FNT3p3cGVycjFwM0RTOUJCa0docHdfbFJtNXR4elVVbEdIclEzMnBnV0dpYkRYMGJWUkF3TXhsSHZMMGVPd2VmMDdtNDY3Z0FTSG92TXN2Y1AtSlB3aGROQXZyNnNlZjZnekgwOWticGEzTE9Ka1VLd0xBaUZUaF9iSmw5ZWFL?oc=5",
-  "title": "« On ne va pas faire un chifoumi ou un octogone » : Attal et Philippe condamnés à s’entendre plus vite que prévu ?",
+  "id": "023db4b4c6e61207",
+  "outlet": "Yahoo Actualités",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdGNiS0JPX2RNaU1kWUthLV94cFQ2Mmw1OWlnNlNGcnVkVEZRODA5UDE2OEs5SGx5ZmxXWndhcnJRUlBwcnRYd1NBTERIcHhtUEdHWkZ1OXJEQ0FvRER2ZlBwUXBKbDNIVUg0UXVkNUhGTWp2c0hVdXFCM2xVbHVrLQ?oc=5",
+  "title": "Joyce Jonathan au \"paradis des villages perchés\" : la chanteuse retrouve Gabriel Attal et profite avec sa fille",
   "summary": "",
   "published": "2026-07-20T09:00+02:00",
   "mentions": [
    "attal"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "1474e02ed957ee58",
+  "outlet": "https://www.parlons-politique.fr/",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPYXR3Tk5vTjJHNHNyOW1OWnpjMEJiUHpXLWc0SmoxcWtfRHdheHdZS2ZiNzZtdVhWN3dEdDdKVFRmMS1Tam1SelRDdGd1VXRycklydWx5cldsV2ZJMHRuWW5HQXFmbUkzdHFKWTBEZTlaYTNZRnJPdGd2WGJORXYxLXczNmhTdXNzMWFYdVhDejM0XzZpS2Q2c0g3WlBsSkJSN1JYeF9nVjl2TEw5aDdiWlFWam9VdDhSTGFXdWJ6ZnZ2Q0w5WXlOZk83MVl0MENxQUw5bHVtSlhqaTBWZDc0NFdya3lBWVF0TkpwT2x3Sm9RYjdiSENJS1Z6UDJuMDhZNWdoYTliWjN0UW8?oc=5",
+  "title": "Présidentielle 2027 : candidat social-démocrate en vue",
+  "summary": "",
+  "published": "2026-07-20T09:00+02:00",
+  "mentions": []
+ },
+ {
+  "id": "1505d72dbf48507f",
+  "outlet": "LCP-Assemblée nationale",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQm1iMTlIMlRYX29aWndFOWF5U1JWUGl1bWpZQ3B4ZkFjNnJtTU5qMkZmZmJkd01FX0dqUThjWU9WWFBMWm5qYm5CWmpSVUZzZ2JjZFB1MzJQS0ZfVjhxSW1zek1pRUl2MzZkaXVHX2VVTmNKb0k0UFZ0ZGFnMDB5WmIyajRpM0RkbE1SX1JNV0t6NzlqckZ6LUlvRnl1RWRpWjduNHNQNGt6LS1aRWoyeEY0Yw?oc=5",
+  "title": "Barbara Butch: l'ex-maire écologiste de Grenoble demande à Jean-Luc Mélenchon de prendre la parole",
+  "summary": "",
+  "published": "2026-07-20T09:00+02:00",
+  "mentions": [
+   "melenchon"
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": 0,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "175a2f55a90e4a5a",
+  "outlet": "Le Point",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPLUtLNkFfVlhocWJFZ01yUXNTb3pjQXh3dHBQcGhFdVR2X0lGWXVZSzc5WkgxcFdQcnpFTUJJOC1ZdjlqcUVJMjlYdnk4WjBfYnY0Ri15SThWT0RjZlZpMjU1TjNRSktBQzd4TXFJWTFtWjBoYUxUUkN6djQ1NWV1bFZvdEF2b2x5bm1CWXRVQThUQmtpMUg5djJRcGhuZVpqYWJQRGEzSmVHZVUtdndYYmNEck5GRW4zaHpkTGdxTmFsM0hLYUVnWURCdklSdjhlX2V6eW9FX3djUQ?oc=5",
+  "title": "Manuel Bompard, le bouclier de Jean-Luc Mélenchon",
+  "summary": "",
+  "published": "2026-07-20T09:00+02:00",
+  "mentions": [
+   "melenchon"
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "23fc02ce790f6f42",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPZDhFMFgtSktDUi0zTGU2WEdrZllUanN4WjNyQWlvSzdpemt5ZjIyLTQ4MTJ3SU9nRmF2SlhxNFF1ZXdZZk1QZXlLQVVsc1NMRGdvbGFrYWFlY1pTWGxnSDZvbUR1dUpkR243cjREYlY5MEx1c1pseE1oV2NjYUN2eFFhTWdsc2duWUZ6b0U0UndoNjhOY0xuckZFTlB6MHpvbHY1REZwQTNpSTZzOXBxX2NPLVhxYm1jRERVbXZ3MjlYX1RpdS1XcjRPMVh3ZTNWek1VSUhzY1NYMGhibDB5eUNWMHFXYU9LZElpOGV4cWdObzJLZFQ3ZC13dk5aV3phMUE?oc=5",
+  "title": "Mélenchon, Glucksmann, Bardella... Pourquoi les politiques de tous bords s'enflamment pour \"La Bataille De Gaulle\"",
+  "summary": "",
+  "published": "2026-07-20T09:00+02:00",
+  "mentions": [
+   "melenchon",
+   "glucksmann"
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   },
+   {
+    "id": "glucksmann",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "2953ed9c6c2f1a22",
+  "outlet": "Sud Ouest",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQWWNENTl2ZEIxbmkwLVNhU1ItYjZfRjJEXzhxVldfQkE5cTE4MWRWWGNuX2hqVGFHVnhDMWtMeUxmd0ZmLWVfNkhWYzZ4QlU5N3VvYUVmOFFnM19FdUhIT3k3Vm1NdkM2c25kbHBQVWZ4TndxY1BJZmEwTGdlWnJENkJrZnB1T1dyUzV6RVR6TS04M3JSMDhtcV96UDNLbnNqUW03UlU5bXR2VXQwVFAwQlBLd3FqdkpoaXE5dWpyYXZzMWVjMjFKZmdoUjhWejFqWHdJaFU2djVidFBBSFVMejd4Qi1Xa3JMNEFvQ0xsT1FHZ1hNenVwWXlmeVpFelRYZU5sc193?oc=5",
+  "title": "Sénatoriales en Gironde. Place publique lance un ultimatum à la « gauche réformiste » pour proposer une liste de rassemblement",
+  "summary": "",
+  "published": "2026-07-20T09:00+02:00",
+  "mentions": []
+ },
+ {
+  "id": "2c038418bd6a7a21",
+  "outlet": "Le Gorafi.fr Gorafi News Network",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQzIxX2NiaU5hNk9iS0JSektBOEVFOWJ5cEd1MEFRQk5ab3ZZU0k1UzVFT1NBSmh4NmZWYXRFRUtXcEpmSGtWclB0azJUb0JJaWdJd1JUMkNzTW9GV2FMb3pCVl82TEhFVzVtWFdLdUpUWnNhOEVLcUpkRTJ4c3Qyck5SbnRSWVVuaE9BOV9JLW5FOGxveC1GaVU5SER1ZkY4OE85aFN1ck1pVW84am5QanBINkRhZDRr0gHAAUFVX3lxTE1fN1VMN1A0TVNwSjM4NWxEOFZlaTZzNUFOM2VydlhkODc2RTBjNHZuM3BBcjlIN2FHOUZuRUFsRFJBVzgwWnAtbm5DQk1fZUlWV25qZzJ1VjV4YkYzSjNZRHFjdjY4Tmt0V2Y3aXQxa1ZHZ3h4aW5sNDV1RWw2MlNxZ285RnlsazhWVWgxeGNyeVRaVkg0N2pMVGJ1QXdzdWd5VEFfeFRzVkdXZ1dLTDd2Y2E4YXNJWVdzZTl1cU55Yw?oc=5",
+  "title": "Jean-Luc Mélenchon veut instaurer une finale pour la 3e place à la présidentielle",
+  "summary": "",
+  "published": "2026-07-20T09:00+02:00",
+  "mentions": [
+   "melenchon"
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "508e3e53bb2c9341",
+  "outlet": "l'Opinion",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQS05oTnhiNmFMa3JoU0EwcEFKN3hwc2dKeGU3MldXWUt3WV9YdGZKQkJab0RPbnltLTFUNWFTTXBaZFBFdXg3czZ5cEFPNF9HdDBFWi1nS2NGNDZxazdubEF2cldXaDdFREdoV2U2S0h4OFJDRmk4ZGd1QmoyeFNOa2lZMG5OQQ?oc=5",
+  "title": "Bruno Retailleau à la chasse aux électeurs RN",
+  "summary": "",
+  "published": "2026-07-20T09:00+02:00",
+  "mentions": [
+   "retailleau"
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "5277fc738faf3f2f",
+  "outlet": "CNews",
+  "lean": "droite",
+  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUHlGVWpnel93ZjE1dDZRejFieGJxaEt3WnZPTjhnbEpxamZpNHFXcnp2SXBHX1JJTG51XzRtWC1SX01yMUZ3SXVQNlhHc256Z3Q3SlgxYjhwc1VNcmN4WWlVTHM2eWxEZ0RWRnJjUXJtb09hWDRJRV9uT1hadTJJNzdMQTIxOHUxMlpad0dMVVVFTjhCcmZlLUJIOFh3bkQwc3VQZFhzZWU4VzlVdEpaZ9IBtgFBVV95cUxNM3FfaUlEZ2d6dnk3anZoU1VEZExhNDFiRHduc2FsUnhfdUhBZTVoX3R4YXE3ZERWRkk3SXFPTjFOTTBaZjJkcnJocy1kdzMxa09YNnlBcF9LdzhiM29vV1NBVlJVVEIydjZiSTJwRnFNbFpVODMxcVBCczNCWkNyc0d6MzZWSVlLTUcyd2RKVzJrTnl2aEF0Ym85MU1IUjBGNWFoYzFMWERlYnZQSVhjVUIyT0NHZw?oc=5",
+  "title": "«Honteux» : les réactions politiques s'accumulent après le rejet de la perpétuité pour les viols en série sur mineurs de moins de 15 ans",
+  "summary": "",
+  "published": "2026-07-20T09:00+02:00",
+  "mentions": []
  },
  {
   "id": "5a4dd2a4fd3724e1",
@@ -33,14 +165,87 @@
   "published": "2026-07-20T09:00+02:00",
   "mentions": [
    "glucksmann"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": 0,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "1474e02ed957ee58",
-  "outlet": "https://www.parlons-politique.fr/",
+  "id": "6b0c54c5d61a3f8a",
+  "outlet": "Sud Radio",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPYXR3Tk5vTjJHNHNyOW1OWnpjMEJiUHpXLWc0SmoxcWtfRHdheHdZS2ZiNzZtdVhWN3dEdDdKVFRmMS1Tam1SelRDdGd1VXRycklydWx5cldsV2ZJMHRuWW5HQXFmbUkzdHFKWTBEZTlaYTNZRnJPdGd2WGJORXYxLXczNmhTdXNzMWFYdVhDejM0XzZpS2Q2c0g3WlBsSkJSN1JYeF9nVjl2TEw5aDdiWlFWam9VdDhSTGFXdWJ6ZnZ2Q0w5WXlOZk83MVl0MENxQUw5bHVtSlhqaTBWZDc0NFdya3lBWVF0TkpwT2x3Sm9RYjdiSENJS1Z6UDJuMDhZNWdoYTliWjN0UW8?oc=5",
-  "title": "Présidentielle 2027 : candidat social-démocrate en vue",
+  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdXpsTUlTYTcxa1drS21LWkRXWF96Qjk5d1BJeE1XeElwRndkR2NuMUxBSjJzNHFuVW1PaXgwY1F2U08yV1VkZFFGZjR6RTJiZVktbmJQMGtDaWZfVFplQ2RIbl9vSV92alZua1YwX0xtanlqQnF6OFZ6dUh4ZXhqN2xSS2d2Nk9aMXZZaTJ3eWF6N2lIeUluakhSM2VlREEtV3c?oc=5",
+  "title": "Arthur Delaporte (PS) : \"Glucksmann pourrait venir\" à la primaire ouverte",
+  "summary": "",
+  "published": "2026-07-20T09:00+02:00",
+  "mentions": [
+   "glucksmann"
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "c1ac673e03fb24d6",
+  "outlet": "Le Parisien",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOWnIyTnZIZ3BqMGNJMkVzc1cwMnlrVWFtX0hhS3JiUHljbmdYMkdVeVh2a2hRbFd1NktvRzROUmFqTUZQUVNXMVlqcHZtS0dESTJLZ1pYdU5uRkI3ZXJXM1VxMVRJUDF3NnB2emZwRzhhWWotcGZzT29rYTVnR2taZkdCWFRSdFNBZXVvUTJFTldYYnFmZjBzR3VuWmE0LW1wZzhtM2FNT3p3cGVycjFwM0RTOUJCa0docHdfbFJtNXR4elVVbEdIclEzMnBnV0dpYkRYMGJWUkF3TXhsSHZMMGVPd2VmMDdtNDY3Z0FTSG92TXN2Y1AtSlB3aGROQXZyNnNlZjZnekgwOWticGEzTE9Ka1VLd0xBaUZUaF9iSmw5ZWFL?oc=5",
+  "title": "« On ne va pas faire un chifoumi ou un octogone » : Attal et Philippe condamnés à s’entendre plus vite que prévu ?",
+  "summary": "",
+  "published": "2026-07-20T09:00+02:00",
+  "mentions": [
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   },
+   {
+    "id": "philippe",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "c235d3fc9e67baba",
+  "outlet": "Le Parisien",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQcXRha3pjTVBBdVZEV3F1aUJNTUdRQkRkVlVsN2lTbFBFMGYycm9kZ1Y2SmJfZ1BmcV92aGRfRU14aDFtN3czdVFkWUZGYXpWdUJBby1Ca2JqU19MZldNQm5BNlROQ2F2Ym5zVXAtb25jNW5rNGdNSUQwd0dWVVJPaS1wcnRvZ1FWOXctbk5QTTlqWHc1UUFHMkxubEI5ZVVBSFQ3NTZEcWw1NGlwX280TXVsTGUwRGRBeEZkOHRhRlFsZDVmRU5sQ0lVUW4wa3drc1REQVNnRGRDRXFwQ25vTHBpWWs3Z3NVMUs1NkNQaWFFcEptQ1BJLTBn?oc=5",
+  "title": "Présidentielle : Jean-Luc Mélenchon et LFI « ne gouverneront jamais », estime Bernard Cazeneuve",
+  "summary": "",
+  "published": "2026-07-20T09:00+02:00",
+  "mentions": [
+   "melenchon"
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": -1,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "cad4a2387fdef7e3",
+  "outlet": "Place publique",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMTlxVW8zTUVnVFljdWtqUGxoSmMwNEo2N3E2bjNtaElrVDBmUC10QmFraEZidjczV2JpcGxRNndhRE5rcVk4LWQ2clhOQ25VdVV1N01xeWdTbEdxanZ0eDNqRW1xZVZWWVhaM290ZmM5WnJjVjFhc0xaZThFUzduRVNLdGRISkM1YXpIdFZ0LVdjYnBEYVprX1FXUEtKYmp4WExsRW5VbXNVcDNwalI3RWY3Zw?oc=5",
+  "title": "Culture en danger : Place publique appelle à un nouveau pacte",
   "summary": "",
   "published": "2026-07-20T09:00+02:00",
   "mentions": []
@@ -56,109 +261,6 @@
   "mentions": []
  },
  {
-  "id": "cad4a2387fdef7e3",
-  "outlet": "Place publique",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMTlxVW8zTUVnVFljdWtqUGxoSmMwNEo2N3E2bjNtaElrVDBmUC10QmFraEZidjczV2JpcGxRNndhRE5rcVk4LWQ2clhOQ25VdVV1N01xeWdTbEdxanZ0eDNqRW1xZVZWWVhaM290ZmM5WnJjVjFhc0xaZThFUzduRVNLdGRISkM1YXpIdFZ0LVdjYnBEYVprX1FXUEtKYmp4WExsRW5VbXNVcDNwalI3RWY3Zw?oc=5",
-  "title": "Culture en danger : Place publique appelle à un nouveau pacte",
-  "summary": "",
-  "published": "2026-07-20T09:00+02:00",
-  "mentions": []
- },
- {
-  "id": "23fc02ce790f6f42",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPZDhFMFgtSktDUi0zTGU2WEdrZllUanN4WjNyQWlvSzdpemt5ZjIyLTQ4MTJ3SU9nRmF2SlhxNFF1ZXdZZk1QZXlLQVVsc1NMRGdvbGFrYWFlY1pTWGxnSDZvbUR1dUpkR243cjREYlY5MEx1c1pseE1oV2NjYUN2eFFhTWdsc2duWUZ6b0U0UndoNjhOY0xuckZFTlB6MHpvbHY1REZwQTNpSTZzOXBxX2NPLVhxYm1jRERVbXZ3MjlYX1RpdS1XcjRPMVh3ZTNWek1VSUhzY1NYMGhibDB5eUNWMHFXYU9LZElpOGV4cWdObzJLZFQ3ZC13dk5aV3phMUE?oc=5",
-  "title": "Mélenchon, Glucksmann, Bardella... Pourquoi les politiques de tous bords s'enflamment pour \"La Bataille De Gaulle\"",
-  "summary": "",
-  "published": "2026-07-20T09:00+02:00",
-  "mentions": [
-   "melenchon",
-   "glucksmann"
-  ]
- },
- {
-  "id": "2953ed9c6c2f1a22",
-  "outlet": "Sud Ouest",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQWWNENTl2ZEIxbmkwLVNhU1ItYjZfRjJEXzhxVldfQkE5cTE4MWRWWGNuX2hqVGFHVnhDMWtMeUxmd0ZmLWVfNkhWYzZ4QlU5N3VvYUVmOFFnM19FdUhIT3k3Vm1NdkM2c25kbHBQVWZ4TndxY1BJZmEwTGdlWnJENkJrZnB1T1dyUzV6RVR6TS04M3JSMDhtcV96UDNLbnNqUW03UlU5bXR2VXQwVFAwQlBLd3FqdkpoaXE5dWpyYXZzMWVjMjFKZmdoUjhWejFqWHdJaFU2djVidFBBSFVMejd4Qi1Xa3JMNEFvQ0xsT1FHZ1hNenVwWXlmeVpFelRYZU5sc193?oc=5",
-  "title": "Sénatoriales en Gironde. Place publique lance un ultimatum à la « gauche réformiste » pour proposer une liste de rassemblement",
-  "summary": "",
-  "published": "2026-07-20T09:00+02:00",
-  "mentions": []
- },
- {
-  "id": "023db4b4c6e61207",
-  "outlet": "Yahoo Actualités",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdGNiS0JPX2RNaU1kWUthLV94cFQ2Mmw1OWlnNlNGcnVkVEZRODA5UDE2OEs5SGx5ZmxXWndhcnJRUlBwcnRYd1NBTERIcHhtUEdHWkZ1OXJEQ0FvRER2ZlBwUXBKbDNIVUg0UXVkNUhGTWp2c0hVdXFCM2xVbHVrLQ?oc=5",
-  "title": "Joyce Jonathan au \"paradis des villages perchés\" : la chanteuse retrouve Gabriel Attal et profite avec sa fille",
-  "summary": "",
-  "published": "2026-07-20T09:00+02:00",
-  "mentions": [
-   "attal"
-  ]
- },
- {
-  "id": "508e3e53bb2c9341",
-  "outlet": "l'Opinion",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQS05oTnhiNmFMa3JoU0EwcEFKN3hwc2dKeGU3MldXWUt3WV9YdGZKQkJab0RPbnltLTFUNWFTTXBaZFBFdXg3czZ5cEFPNF9HdDBFWi1nS2NGNDZxazdubEF2cldXaDdFREdoV2U2S0h4OFJDRmk4ZGd1QmoyeFNOa2lZMG5OQQ?oc=5",
-  "title": "Bruno Retailleau à la chasse aux électeurs RN",
-  "summary": "",
-  "published": "2026-07-20T09:00+02:00",
-  "mentions": [
-   "retailleau"
-  ]
- },
- {
-  "id": "1505d72dbf48507f",
-  "outlet": "LCP-Assemblée nationale",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQm1iMTlIMlRYX29aWndFOWF5U1JWUGl1bWpZQ3B4ZkFjNnJtTU5qMkZmZmJkd01FX0dqUThjWU9WWFBMWm5qYm5CWmpSVUZzZ2JjZFB1MzJQS0ZfVjhxSW1zek1pRUl2MzZkaXVHX2VVTmNKb0k0UFZ0ZGFnMDB5WmIyajRpM0RkbE1SX1JNV0t6NzlqckZ6LUlvRnl1RWRpWjduNHNQNGt6LS1aRWoyeEY0Yw?oc=5",
-  "title": "Barbara Butch: l'ex-maire écologiste de Grenoble demande à Jean-Luc Mélenchon de prendre la parole",
-  "summary": "",
-  "published": "2026-07-20T09:00+02:00",
-  "mentions": [
-   "melenchon"
-  ]
- },
- {
-  "id": "175a2f55a90e4a5a",
-  "outlet": "Le Point",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPLUtLNkFfVlhocWJFZ01yUXNTb3pjQXh3dHBQcGhFdVR2X0lGWXVZSzc5WkgxcFdQcnpFTUJJOC1ZdjlqcUVJMjlYdnk4WjBfYnY0Ri15SThWT0RjZlZpMjU1TjNRSktBQzd4TXFJWTFtWjBoYUxUUkN6djQ1NWV1bFZvdEF2b2x5bm1CWXRVQThUQmtpMUg5djJRcGhuZVpqYWJQRGEzSmVHZVUtdndYYmNEck5GRW4zaHpkTGdxTmFsM0hLYUVnWURCdklSdjhlX2V6eW9FX3djUQ?oc=5",
-  "title": "Manuel Bompard, le bouclier de Jean-Luc Mélenchon",
-  "summary": "",
-  "published": "2026-07-20T09:00+02:00",
-  "mentions": [
-   "melenchon"
-  ]
- },
- {
-  "id": "2c038418bd6a7a21",
-  "outlet": "Le Gorafi.fr Gorafi News Network",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQzIxX2NiaU5hNk9iS0JSektBOEVFOWJ5cEd1MEFRQk5ab3ZZU0k1UzVFT1NBSmh4NmZWYXRFRUtXcEpmSGtWclB0azJUb0JJaWdJd1JUMkNzTW9GV2FMb3pCVl82TEhFVzVtWFdLdUpUWnNhOEVLcUpkRTJ4c3Qyck5SbnRSWVVuaE9BOV9JLW5FOGxveC1GaVU5SER1ZkY4OE85aFN1ck1pVW84am5QanBINkRhZDRr0gHAAUFVX3lxTE1fN1VMN1A0TVNwSjM4NWxEOFZlaTZzNUFOM2VydlhkODc2RTBjNHZuM3BBcjlIN2FHOUZuRUFsRFJBVzgwWnAtbm5DQk1fZUlWV25qZzJ1VjV4YkYzSjNZRHFjdjY4Tmt0V2Y3aXQxa1ZHZ3h4aW5sNDV1RWw2MlNxZ285RnlsazhWVWgxeGNyeVRaVkg0N2pMVGJ1QXdzdWd5VEFfeFRzVkdXZ1dLTDd2Y2E4YXNJWVdzZTl1cU55Yw?oc=5",
-  "title": "Jean-Luc Mélenchon veut instaurer une finale pour la 3e place à la présidentielle",
-  "summary": "",
-  "published": "2026-07-20T09:00+02:00",
-  "mentions": [
-   "melenchon"
-  ]
- },
- {
-  "id": "5277fc738faf3f2f",
-  "outlet": "CNews",
-  "lean": "droite",
-  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUHlGVWpnel93ZjE1dDZRejFieGJxaEt3WnZPTjhnbEpxamZpNHFXcnp2SXBHX1JJTG51XzRtWC1SX01yMUZ3SXVQNlhHc256Z3Q3SlgxYjhwc1VNcmN4WWlVTHM2eWxEZ0RWRnJjUXJtb09hWDRJRV9uT1hadTJJNzdMQTIxOHUxMlpad0dMVVVFTjhCcmZlLUJIOFh3bkQwc3VQZFhzZWU4VzlVdEpaZ9IBtgFBVV95cUxNM3FfaUlEZ2d6dnk3anZoU1VEZExhNDFiRHduc2FsUnhfdUhBZTVoX3R4YXE3ZERWRkk3SXFPTjFOTTBaZjJkcnJocy1kdzMxa09YNnlBcF9LdzhiM29vV1NBVlJVVEIydjZiSTJwRnFNbFpVODMxcVBCczNCWkNyc0d6MzZWSVlLTUcyd2RKVzJrTnl2aEF0Ym85MU1IUjBGNWFoYzFMWERlYnZQSVhjVUIyT0NHZw?oc=5",
-  "title": "«Honteux» : les réactions politiques s'accumulent après le rejet de la perpétuité pour les viols en série sur mineurs de moins de 15 ans",
-  "summary": "",
-  "published": "2026-07-20T09:00+02:00",
-  "mentions": []
- },
- {
   "id": "e771103a91a3d7e2",
   "outlet": "made in perpignan",
   "lean": "non classé",
@@ -168,6 +270,14 @@
   "published": "2026-07-20T09:00+02:00",
   "mentions": [
    "ruffin"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "ruffin",
+    "tone": -1,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  }
 ]

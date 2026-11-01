@@ -9,7 +9,15 @@
   "published": "2026-10-19T02:22+02:00",
   "mentions": [
    "melenchon"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "420737c35c46faac",
@@ -21,7 +29,15 @@
   "published": "2026-10-19T03:44+02:00",
   "mentions": [
    "arthaud"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "arthaud",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "0f85d034c6098204",
@@ -33,7 +49,15 @@
   "published": "2026-10-19T06:00+02:00",
   "mentions": [
    "dupontaignan"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "dupontaignan",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "4d21226ccd45ac11",
@@ -45,7 +69,15 @@
   "published": "2026-10-19T07:14+02:00",
   "mentions": [
    "zemmour"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "zemmour",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "7b76692c9902bdb2",
@@ -57,80 +89,55 @@
   "published": "2026-10-19T08:01+02:00",
   "mentions": [
    "ruffin"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "ruffin",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "88682ddc04fa8176",
-  "outlet": "Libération",
-  "lean": "centre-gauche",
-  "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQcGJfamxtMzV3cFF5ckhfcHp1bW52VGZEV3dheXFFYi1QVFVveGV2ODRqaEhTb05NSTNoNDhUWVFDaThxOUY0bHI4ekM0NEJvWWN0WHFZWkd3UVBOcDRXUWpaNy1DeGF1MGU2Sm1uSzJERGdxUEVqWk8wVm1abjQ3VVhxUS02UUtOSlY3MDBtVk9KeUtkYVpBb1c2SjcwaTI3dEpuWklNd2FXdS1TV3phNzdlTmRRMDM1VkEzX3dycDFzZlplaEZnYVhHSkVDTmJtWlllZDNGSFRzX1N6c2w5NDgtai16ZkMzSXBFTTEwUThEVDFQ?oc=5",
-  "title": "17 octobre : comment Jean-Luc Mélenchon s’est retrouvé à porter le costume du coupable idéal",
+  "id": "06d3fa3b17efeec5",
+  "outlet": "Presse Agence",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTTg4dzNZR3ZiN3BmdV9rc2FnN1NHMmdnWlp1THZaMTVjVU5KbmxhVlNqektacjY4c2l3QXpYWXRLSWNEWmt4ME5zcHNmd3hnZUFYZ2hsbndOa0NBSDdPZzlkU01Qb2xKdnlOS1FUTVkxaEd3QXY2SjI4OGxVYzJ5Mm92bmc5ZmhS?oc=5",
+  "title": "PARIS : Eric ZEMMOUR sur LCI, BFM et CNews ce dimanche soir",
+  "summary": "",
+  "published": "2026-10-19T09:00+02:00",
+  "mentions": [
+   "zemmour"
+  ],
+  "analysis": [
+   {
+    "id": "zemmour",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "11012038426a4373",
+  "outlet": "L'Essentiel de l'Éco",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1wdE9qdzhjOTdaZVJHRXNpTUdlbGpKdnJCd2hEQnFqTkVVbGVBcG9adXRyVG1wOHJNUVN4MEk3MGVQS1dSTXEyWTg4cmc3aE9fWVkyenJES2RxenhDV1dVOXdCVjJ0eWVKc2d2bXViRzYwSUxs?oc=5",
+  "title": "Combien gagne Jean-Luc Mélenchon ?",
   "summary": "",
   "published": "2026-10-19T09:00+02:00",
   "mentions": [
    "melenchon"
-  ]
- },
- {
-  "id": "cdcf335bbd4c7902",
-  "outlet": "La Montagne",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNS1pEN1A2WXlPVHNJazFfR3ZqVnBCbGluc1d1SnVULTRUSU8tVXYwd0RYbGd4Vng1V3lqUnRicThBRUJHeThpVzROR0RuaEVUUUNmZEhTdndTWDVfVUhxZHZJMjFXckQwMWFab2ZGNkVRanlpVnFUVlhxV0hlWVBqU01xamx3WUZNcjdFZXBzNWwzV2hIWGVrblp5UnctQk9QTW5Qd2xNOEp0ZVNFM3BMTm1keEFwQzJwUy02WFU0Q1VweHRhSUp3?oc=5",
-  "title": "Que vient faire Jean-Luc Mélenchon en Creuse, le 11 novembre prochain ?",
-  "summary": "",
-  "published": "2026-10-19T09:00+02:00",
-  "mentions": [
-   "melenchon"
-  ]
- },
- {
-  "id": "a104205f15cb2a1c",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNQVpWTENCeklJYUJ5NjAyTnB0aTY3Y1Qwd0ZlLXdJWXBGZTZxRTJ1cFhaa1NFZ1lJWUQ2ZVNCaGo0SFZtVFdTS19ON2FNMlhHSU1JejhScldzMUZWcnYtTFJ5TVF3QWpKeDJwelo5RWRyQVRKeFNWZy05LUR1R1otVVdjTURqT0hkT1NWRlBwdEFTS3duZE1IT0hPd2NtWnpmRnJNR0FNM3kzWGRQOHBzX3AwUlBIQmZYN1NpSnBPSzdvR3Bta3ZPYmphM1ZVSzgycmVKSjg2OWpQLWhiSTRacU12SDRKaTljWU9aUzFiWDV1MGhJWkxDdE4xcF9DRTd0VWFVWA?oc=5",
-  "title": "Violences du 17 octobre: Raphaël Glucksmann appelle à une réponse \"extrêmement ferme\" des autorités",
-  "summary": "",
-  "published": "2026-10-19T09:00+02:00",
-  "mentions": [
-   "glucksmann"
-  ]
- },
- {
-  "id": "4970b8f3f901aea1",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxNOE8ydGJreE01MWdPTlBtLWlKSFo4M0RodXFsS1N5c0w4MkFOUVV0WWxIR0ZmaF9HWG9BVVVhWWcxZlFRVWtEOWdEXzg5clJTc05mWUhuVGhUamZfWVdQRy00Ni1Wb3psYm1fZlhKWUN1dGR3Z3NfbkZsOFRhaTV6X2h3V1hWemF4SEFtR0JQZGx0UGpqc3VqZTkxNVR2MWI5Zk9ydS02dU14Tnhxd1VVMFFIMzl3dWxBYWdrWVUxbWNOQjJ0cHg0T0VRdFBuVGJqaHlrSnZXMTVSMFFoZFVscjVDVko4WEZhaVlDcVFJc3oyaVBnbEVacEEyd25rekNaOGZEU2lDTWZQUk5DWnZ1X0p1Zi11N3lsaXpzUWlQczF4TWgyenItSkZ1b0NDS1JP?oc=5",
-  "title": "Raphaël Glucksmann, candidat PS-Place publique à l'élection présidentielle, appelle à \"traquer\" les casseurs et à des \"sanctions lourdes\"",
-  "summary": "",
-  "published": "2026-10-19T09:00+02:00",
-  "mentions": [
-   "glucksmann"
-  ]
- },
- {
-  "id": "44f34f708844cd17",
-  "outlet": "Le Parisien",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxNU3NIWjBpYmRPWkxRS0lldnpZWDdYQUk3OHJ2WGlTZ01qU0VfR3pCcXZWcUtjU0FLS214X0h1M3VlTENmVWJxZ3FZdXRnOE45V3EtQmpDMG5LMmc2dWlPd3lhS1FPQllvMzVkUmFvbHlqdkF0am9zYk1faDlvSmtmRU5kQzJRbUt4Q3pBbHpEMXpfal9SWlJvd3B3QlphbnQ0cEtTeUZ3alFMcTVidUhFVmlNajcxVmFseU9mVXg1SXp1MzB3Y3JJaFJiS19KNjZFdGpGSXQwcGJMS2JDazFaSVdRTmN3ZnliUG9OODBGNDdSb2pKMk9SYkd6b0d0cGhCS19Sa3NreHA5emFXanV0QnhXMm8xRDZDellyVDNDa2FmM29hanpKa2xMUzFnOElfcE1MNkgxWVgzdTBwaVE?oc=5",
-  "title": "Présidentielle 2027 : Glucksmann appelle à une réponse « extrêmement ferme » aux violences sinon Le Pen sera « bénéficiaire du chaos »",
-  "summary": "",
-  "published": "2026-10-19T09:00+02:00",
-  "mentions": [
-   "lepen",
-   "glucksmann"
-  ]
- },
- {
-  "id": "bb56ae35b7949a93",
-  "outlet": "Le Parisien",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQTmNXdkJBZkJqaWJKc0FOQUREU182RnFoUDA5RGZyM3RJTGp3dmJfS2pud3cwTnV6RW1EZDl5N3owdnlYRDQxOENQa2t6WE9tN2VCcF9qVExuYUJqbE1USVU4dFFIdERjYVV1d000V1lrNnZnTkVyb0ZPSlV5d1FrbnY1Sm15NGdfQ3lIY2lwWDJWc3FQX3M3MFJBWkI0VXoxTjVoUlRqY1BFeEt5N3Yxa1ZZdG1QYS1EWTl3eGZhRjJMaGoxMFV6ZFJCanpXRVFtaVA5X2VFbjE3cEtlcHhoT0czYUxWN1BzaWxsNGtKMWY0UmlFaG5hbk0zd0Q4QmdIMGNQYS1waVoxZ0tMMmpJLWFYeTdEMm8?oc=5",
-  "title": "Violences du 17 octobre : Gabriel Attal estime que « le gouvernement a failli » et appelle à décréter l’état d’urgence",
-  "summary": "",
-  "published": "2026-10-19T09:00+02:00",
-  "mentions": [
-   "attal"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": 0,
+    "frame": "economie_social"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "1106f8b904a6da9c",
@@ -143,583 +150,20 @@
   "mentions": [
    "philippe",
    "attal"
-  ]
- },
- {
-  "id": "298f4d2a3e0ad3c2",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPMnVFbkczNVlUdk9zUHNsSWNqdkhLSUIxalRpRUJMaWpUdk5vdlBxUnJPeUxwM1pLWmxsdFNjaFhReFdrR25RSXkwc0FCT2JLVWNleUI5SUhjaUVwcWJqV0IyUndCRGV2TVgtaHFtN05ydmtSR04xYXVQbjZJUVNKTGR2eFB3NXZCaUMtWEozMmpnODREYzBTVmswRVA4T2hZLUM3d3l6czBpdHBiNTZNUWFuQTlUMllIbFVXQ0k0NEFCam5uT25TU3RZVnpUamZhXy1UX1ZqYWFqX1FydXZ4amlpRWRXeHkwY3hvVW9WZHpYV0VlQmFEUXItQ1REWDA?oc=5",
-  "title": "Violences du 17 octobre: Gabriel Attal veut \"faire des exemples\" et plaide pour l'état d'urgence",
-  "summary": "",
-  "published": "2026-10-19T09:00+02:00",
-  "mentions": [
-   "attal"
-  ]
- },
- {
-  "id": "de51707c97c72eb0",
-  "outlet": "Le Figaro",
-  "lean": "droite",
-  "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNQ1BOQ05zLXNsS1RDZ09DV2kwN1pxU2l3X2pYNGJ2cmZhVjZIYzRYcklnanNPZWhmZTQ1TU9WLUJMcUI4T2VIdG80WWh2anJXb3JFeXRTcEU3bWFyWWRDbGVFcEhZU1g2RFdFLXRsNWItV3VuZ3lOVjVvY3lsT2F0Z3l6LVR2bTR3VlBqUlRkbEsxSWZxLTdRMlZ5Si1GVEdfNm9vd0NQOE5yQmp6THhXSmR4RC1TeWdmOGNLVTdfQk9HcVpFRkZXSXd6YlY2ZXJobkV2TmpWa3l5R2F4aDBWb3V0Q1ZqVUU?oc=5",
-  "title": "Violences du 17 octobre : Gabriel Attal plaide pour le recours aux forces armées «temporairement»",
-  "summary": "",
-  "published": "2026-10-19T09:00+02:00",
-  "mentions": [
-   "attal"
-  ]
- },
- {
-  "id": "c8b00e0600e6e129",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxQUkJsejg5UGJBUTdEZzd4c2dyUVhsdjk5ZDc1SHdPNTZiVVZRYkt1ZmdPd2pXOGpiUl9DdVFhUDJwTzcxM0JFV2JudG9PSnlKQVpfTmJ1ZHMtM3F0UmR0eTU4Wm1rczZjQ1EzTHFCRF9ScGZRQW9vTGN1cnRrWWcya2FaUTdwWkdBc2M3TGw2TGRxdXdwSkV2YkplczRRdDlZSGtDblBWc0VMMFMtOEtrQ01DYVBpclJ6ZV9iT0J1aGhwaEVvWElRYmcxb2doNzNLWFJMWW04czZDM01YTWs5d3JaLTVWcGdPSHgzVXc1N19wbjE2ejYwT0hnZzU0cXlpS3ZIaXh6WEQ0R1V3eGFrU0hkSnUza0NPcXN5WFg3bFBHX3JhVjZ3YXh6UXl0aUpPNVYwR2hQamJvbnBIYzEzVA?oc=5",
-  "title": "\"Bloquer temporairement et de manière ciblée\": pourquoi la proposition de Gabriel Attal d'interdire les réseaux sociaux est compliquée (voire illégale)",
-  "summary": "",
-  "published": "2026-10-19T09:00+02:00",
-  "mentions": [
-   "attal"
-  ]
- },
- {
-  "id": "ba7a3a6cf749a22f",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPRFJobHk3b1ppLVpyc0FlaUdjcVBIakVOWjdXZndZeHVjQ0pLVnB2Q1haX2JHUkpWME03WWV5N1dTU2ZGRVZnNDllZmV5YkRWX0ItRXNQTXljQUFZejlzc1pBVUxWOHlGd1lmUXRiREhSZ0hDWEpBSndGVFBiQ2hldzdFU3pfZE93OGtLVWxjMVRvd3hobW1uZkZCY2JGczFMRjBpYmVQZG5kNVBNN04waTFmbHJNZGFEdkVyZXloV2JuOG1uMlc0VVRERE9teGV1UkVOZkxSVUhsRVh0OUQtemgyaERubFJYRW4zRkVERTd1MENNajNHWWlrRDgyTHloWFpQY0FKMlRSOVBRWVg0UHRiUWI5QnR6MFR4YVBiS2N2TkliR0VEb1hNY0gzSWV5ZEZKVnBYejBKSEJJcG9uWEdaT1NxdENzenotTQ?oc=5",
-  "title": "\"Les Français ne toléreront pas que des prédateurs s'enrichissent\": Attal et Bardella demandent à Vinted et Leboncoin d'aider l'Etat à retrouver les voleurs",
-  "summary": "",
-  "published": "2026-10-19T09:00+02:00",
-  "mentions": [
-   "attal"
-  ]
- },
- {
-  "id": "ee781758bf4f8f09",
-  "outlet": "Yahoo Finance France",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUko4TWxiVTVpOE5HcXh4WEl1VUJLcnBiNExjYmFmVGVRek5hazBtUFN1dDc1cmdOUjFkcWpMMWM1b1NOZDVnT29MRjFLWkNwNFRTLVhrVmRqUFZGemNFVlpTMktNRkI3YlplV0JhUTJ3YVFzOGxIcXFfV0tlWkQ1NzhoUVVIM2VMNGRVdmhDV2w0SjQ?oc=5",
-  "title": "Gabriel Attal veut pouvoir bloquer les réseaux sociaux là où ont lieu les émeutes",
-  "summary": "",
-  "published": "2026-10-19T09:00+02:00",
-  "mentions": [
-   "attal"
-  ]
- },
- {
-  "id": "1ddff3fef2436faa",
-  "outlet": "Orange Actualités",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQUGFNb2RkRzZPalU5Yi0yeks0WXRfd0xhTWVBZGMybXJFLTVpZGxUNGl2aXNDSHVpaVhoYzFZUEEzRVMxb2J6d2k1QUVySGhFRXZSaGVOMkppNzRDbDMwZmJWN1AyTXhxYU55b2FjcWNYcEQ1Zm1MY2VQamlka010UnRfeGJ4bTU5a0NhUnRWQ0xtTE1uVjN5bS1UR0NsZzNmb0d3dldKck5YeVNVeHNJaVdRWDdneWdTaUVwWnNCcnpIQzRQU3FJUzBsOWdOVDRZUWhFMXdhWnU3VXNiaW9yT1IzbVpwdFNCMlcxeUJCUkszdw?oc=5",
-  "title": "Après les violences du 17 octobre, Gabriel Attal propose de couper les réseaux sociaux",
-  "summary": "",
-  "published": "2026-10-19T09:00+02:00",
-  "mentions": [
-   "attal"
-  ]
- },
- {
-  "id": "c5ccfff446370b1f",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPcTA1dml6OC1aemEtN1NENzRlTnZfVWtmT1RxN1ZjRElYR1ZZZmd6MUtFUlREWlVPMkhzYjJMVy05Nm9hMEJVYkZYSnR3QTBzdWg1Z3ZUVnM3cHprQ2FVTTJQOXdzdlRfQzRpcUFQbE5BbzNUdEtGSkViZ29DcU85Mm5CQzBhYWRqa1JyWnh0ZUJMY1N0cXBVY25fOTVMMG1EVzlsMmVUOG4za0dFSk1UU0JDTWpSMlN3bXpuMnBWUVN2T1hGUlVEX1JsYVFnRUQxUExjcGpzUUQ1TmRmTVhRWUUwV1ZqOC0xY043ZXlsU2U?oc=5",
-  "title": "Violences du 17 octobre: peut-on bloquer les réseaux sociaux, comme le demande Gabriel Attal ?",
-  "summary": "",
-  "published": "2026-10-19T09:00+02:00",
-  "mentions": [
-   "attal"
-  ]
- },
- {
-  "id": "3f9ee9444272685e",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPSGhvVS1WTW9XaktjRE1jemUwTUN2c1JGaTFuT3N6dXB3R3U3TnpoQXRvRkFoMV9LOGZMeWZsZjgxc3JVNjg5d1M4VWdUWlBEc0tFUzFEa192eTNPSTV0YjNSbTlacFRPRHJKVVMzeDFKcXJHbTZFeWZVVFdtMXJDdGhNOE1aQlUwQ0pYd01CSXBLNzJmakw0UTFlVnZ2dWJLNmxxSzlweEN6empTVlVUeW84NGRIRUJfRWh0Zkd2dVZRSGpoMjVxZVI3QlhRRDhSNV9qcG9QTTFJWGYyWGVDOUVVeUkyckFSYWkxQUpLanozN0FXTWc3bENLYk5Kem9telFkV1poZ0pnX25y?oc=5",
-  "title": "Interdiction des réseaux sociaux: \"C'est possible de le faire\", estime Gabriel Attal, candidat Renaissance à la présidentielle",
-  "summary": "",
-  "published": "2026-10-19T09:00+02:00",
-  "mentions": [
-   "attal"
-  ]
- },
- {
-  "id": "ece8f6118f86b454",
-  "outlet": "20 Minutes",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaWdDNEhQOFpEXzI5aDlHWERhWTFBVXA5TDZqY2lMXzd1aW9fOFI1a1YxZkVxNUtlaks3dnJKOXdRaDM3aXBIclIyY0NPdENHRWJ4ZnV1R21fTFV6VkZVTW5MblFEckc0Sjl2VThnQmJmcWl6TGVWa09XOEdyem1OQzZ2VVlfMkg1VF94bjRlLWNzMUt1QkM3OVRLWWZSZHpXUEFtMDM5aENLS3hJb1RTeVNPODNXeE1UdWdJVzFXM0dIdmc?oc=5",
-  "title": "Sonia Mabrouk remet Éric Zemmour en place sur l’origine des prénoms",
-  "summary": "",
-  "published": "2026-10-19T09:00+02:00",
-  "mentions": [
-   "zemmour"
-  ]
- },
- {
-  "id": "729dd3fe3a94e954",
-  "outlet": "Gala",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxObEczd3duYVlVbFkwUjBwSk1CRjBHUnpJbFlpUzllNm8yRi1ZaWtDWGoxdTk1MWxTSnE2TGhGejczV1E1QWs4VVFXVVpuRUw2LVc1eVFPblBqT0V6WHNRUzZqb1dlOHdYU0E1VGFGQ2R0NEl5QmlYM1dwRFZHc1F1dDFCVTU3Qkd0NDhPSmEwMVZXVUM4dklpZlcwX2JFMzVZUDRDYVBMZGtRR0RJcjJ1M0pjMWZuZDhCX2lZcDVBQk1PWFJVV3QzLTNCcUhNRFg2b2RDWU9wYklUV1NTUmFBa0p4UktzRG9TOXNrTlBnRHZ6LXJjeWVyNWZDSDVlZXM?oc=5",
-  "title": "Sonia Mabrouk maman de Soraya et Ismaël : heurtée par Éric Zemmour sur le prénom de ses enfants, elle l’interpelle en direct sur BFMTV",
-  "summary": "",
-  "published": "2026-10-19T09:00+02:00",
-  "mentions": [
-   "zemmour"
-  ]
- },
- {
-  "id": "f6ab8f14b3d73910",
-  "outlet": "TV Magazine",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQYTRqSWZZbnowSXRaWnVoOGpQSVMxbmpMMm9Na1MwdHJiOHNzeGtYNjB6aGpzRTFtNDBBQlFZNXFGUVo4ZGpsOFpuMkN1WUdmWFoyWFlUYkZpRXViS3poRTREeUhZOWVjZmkyU1ctZTBISjdOd3FvQlhhakZPekRXNVFBTmpvdUhqaHpjMDA2cVFOZDNGTFhqUmVrY0tzRjdTbl83OXNtZ0pZQ3NiNjNIQnh0Z1ZPemNBalJERW1oejB5eFljRXUzZ1RSOER2RE1ic2cydThsZGZEbUZDQ3I2ZjM5Rjc4T210Q2Fz?oc=5",
-  "title": "«Hordes de barbares maghrébins et africains» : l’Arcom saisie après les propos d’Éric Zemmour sur LCI",
-  "summary": "",
-  "published": "2026-10-19T09:00+02:00",
-  "mentions": [
-   "zemmour"
-  ]
- },
- {
-  "id": "a5b0a3ee3c08a85d",
-  "outlet": "TF1+",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPQjRXdnRsdFJQNDIzRW16SWl3MmNpWGJDRzVKUktOR2ZiQml2dm85b1RRanlMenNCUTV0TlgycUdVVGFUMzI3TGdRNXM1VXIzX2FBaG80QTVJcThYRlM4bmh1RGpnb0p1RzVIRmVEdTIwVGxaRjVHQUxHRjZ4djdWaU9yeUJxSmFQMEFhWENOV1UyRFNIYjJCQlhiWjVRYjA2SEpBMFFaeGpHSXBpUlI5WWpDMDN5RkkwU3ppdXRmWFdHcDZvZGZ4cHNGM0RfQ09wdGI0QW92b2RRNGZxWTJWdXlNSmtvbmRHamZ0ajVSUkZZM1BQ?oc=5",
-  "title": "20h50 Médias - 17 octobre : Marine Le Pen, Éric Zemmour et Jordan Bardella surfent sur le chaos",
-  "summary": "",
-  "published": "2026-10-19T09:00+02:00",
-  "mentions": [
-   "lepen",
-   "zemmour"
-  ]
- },
- {
-  "id": "1fc8341c7fbc9db1",
-  "outlet": "Arrêt sur images",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRXVXNHU3bFExSlJvNkprX2kzSkI4R2Fibk5ELWxlRTlURnRHdmUzQmU4a084MWdrYWF4OTNkejFxNXlIUUFGQmo3YU1pcVRGWGdQN29XTm9PUVNLbmpTVF8yNUx0UmlKSWRBOWZTUmdtUHVRUVMwbDVtbHBaZUNKU29JS3FXZWtUUG82b08tVlk4VEhjVHprd18zYnFhcHdia2JLV2NHMHU2SXRyM2o5OGpXZUliWHRLeWF4YmxOWDU?oc=5",
-  "title": "18 octobre sur les chaînes d'info : Zemmour partout, journalisme nulle part - Par Robin Andraca",
-  "summary": "",
-  "published": "2026-10-19T09:00+02:00",
-  "mentions": [
-   "zemmour"
-  ]
- },
- {
-  "id": "7af4521eb2f422ff",
-  "outlet": "Le Parisien",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOSVhGaVBKWW9VX19uZV9tTUFKV3FwRGg2WE5YM3NaZVN2SHF2UHdRUHdoS2YtY21uZkg0QWp0UC1RNU5YWnJLYzZ6U01MQjhxZTNxLUlsbHBuRF9vZzhSREJFQkh1Vl8tZmRnVTlpSUNBb0RieW8wUTROUkY3LWxtTk5oRDFHdVdmVzdwZEJZYlpJbE1xY1ZqS2d0cE9vZXFlaVBwNzd6N3NJQ2xzYUtwZjFQWTBQaXMzTGF6MkhSSnRUaDZ0SWVFczZKOFhDYThQbzFrRnhvYzdnbHMwRUl2QzdSX3cyb3kwbFZSaUxsMWg?oc=5",
-  "title": "« Je m’en fous » : David Lisnard s’agace après avoir été interrogé sur le 17 octobre 1961",
-  "summary": "",
-  "published": "2026-10-19T09:00+02:00",
-  "mentions": [
-   "lisnard"
-  ]
- },
- {
-  "id": "56c11f3ca69ac07c",
-  "outlet": "Valeurs actuelles",
-  "lean": "droite",
-  "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWXR0X3dYMmM1eGY2OHBwdVhyN3Vlc1F4TmxJQ2RTWUpyODNUZHhDUTBiN2xVUGxCMGRLT3hjWEhDWE5qWVEwRmNqNlJURVZQSzIxXzJRQ2hFUkFXLUJjenhRWm5ienlENXB0Um1oZGVEaTlySVdOYXhmMnp6aXVhbjA5ZWpoTVBQeFZpQ3JnV2ZEX0gzM3BJUkVPNE1EMEQ4WjBKQ2QydmhNLWNMZGxMUGE0dHdVVHh6Vk1mSkxELVBYY1U1RmlKNFhnX2ItTXJicTJFbw?oc=5",
-  "title": "Présidentielle 2027 : David Lisnard fait jeu égal avec Bruno Retailleau",
-  "summary": "",
-  "published": "2026-10-19T09:00+02:00",
-  "mentions": [
-   "retailleau",
-   "lisnard"
-  ]
- },
- {
-  "id": "e796cb78f0f7eb68",
-  "outlet": "TF1 Info",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOW55QWNwRndUQkpDeDlzd194bFdiQWJWaUhuVldpa1ZpVnVqaWF2bEtSZHZUYV9QMUVHd3NxTm9PZEM1dnNWZ0pJRjZ4N1FSVFZwdWlLYjBEVS0welBDclFFRDluWExCT3BrU04zekhNTG9YZE1yeFVKZzFNdUk2WnJvU1g4bnIxVndJaXl2bW42ZUI4REJMbXlnTDJuZmxHOEdoUU4wUEpoOUszNE4xcUJsWFM3U3VnX1dRM3NvWHpLa01zZmFj?oc=5",
-  "title": "Violences urbaines en France : David Lisnard, invité du 20H de TF1",
-  "summary": "",
-  "published": "2026-10-19T09:00+02:00",
-  "mentions": [
-   "lisnard"
-  ]
- },
- {
-  "id": "cb1fc61508c2a71b",
-  "outlet": "Le Monde.fr",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOT0FJTEcxWGNSbXAzUVJhdG4yUGRDYk9vWktqNmV6blE1dW5qME1Ueklrb3NVbkJEWm5YYXhZdW8taTFhSHBid3V4N2hXNUdkQ0lFNlpUM1QwTXNtemNGSVRVb0pyNlM0T3ppQUJ6WUgwaWVDV2lyNm5RTXltZ2dJVmUzMVZqMkdjQW9fUXpvVno0dTN5UERKdnhvSW9LM2NpZDB2M2p0clFSU2RFVC1KLURNek5TeEJuSENXU2IzYWUwb3RQelEwWFlFclBVaEhYSXBBRW41bmtlU1FaN2NRMFRmaW5fTzdVTmp2eGNtc1FBWm9qMTMxYjZsaU81Sl9XNG1vNlNha1h6MERNT19WZkRB?oc=5",
-  "title": "Présidentielle 2027 : Nathalie Arthaud, candidate à une élection dont « il ne faut pas tout attendre », a démarré sa tournée des régions près de Toulouse",
-  "summary": "",
-  "published": "2026-10-19T09:00+02:00",
-  "mentions": [
-   "arthaud"
-  ]
- },
- {
-  "id": "79f8baac4dacd7f2",
-  "outlet": "Le Monde.fr",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQMmx1a3JSNFI4QUJRLWJ6TWhyN1NWeHFyV2JmMzZuTGdaSG5wS0FnV0pfZGZPTE5zdHlmR1pFajF1c0VzbmNuLUk2MlJGQXFaSlJ5YklWWlpwTzdCbHg0alZwdUxyREtmdXJhdjVsM0lGeVdza2I2MFJSS1QzYlM2YTVVZndHbGZiUm5LZkxDd3JjNlRoTWN6a1VtbmNQRGVUMmtfM3Z0MEg3QWN0dTl1ZHdPUk1zbTRxdjQxZGIzY19XS0F0clAydHRkeFowQktDWDFvRTdOUEpUQjUwZlQzT09NTHhscmR6bVlLTWZMUTl2eEZDc2l1ZWJvQXdJdUpEampXMmYzOEZ4WmZhcFZhUFRpbkZXeEctSVVvS2VLVzQxT29wU3Q5cWRMMElwLUc1SVF2ZXd4dlBHWXMxU21jMDdDcw?oc=5",
-  "title": "Mobilisation du 17 octobre : au centre des critiques, LFI dénonce le « pourrissement » de la situation et assume le clivage avec le reste du monde politique",
-  "summary": "",
-  "published": "2026-10-19T09:00+02:00",
-  "mentions": []
- },
- {
-  "id": "589185aa3fde93da",
-  "outlet": "TF1 Info",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPU25XRFN0VFdvOVNiU0pzRVlGZmJPR3pBRkstZXJ1SEN2WUcwVXR1cWZZWlVLNFhIakJOUnN1LWdDY1FNblg3SmpFSHJHaWJkV2JFM09qcXczS3dtTkNsdHBBNzUwMHdZT0REZzdTWmw3eEJNeE5PWjIzcEJfeUMzaEFVNDAwOEo0U1BfMEpaVUpidTZxYVkxNlNlVEYxOENxQmtUZVU2Vmp5OUhRUExncy02YXU3TVBpd3lZLWZLQnFtMDFrYUZHc1JKdnJhU3l3cE1iTTR0MldNSFJkSmJ2RUhmcEtVbGpvZGlRNHI4Ym1Pa2s4RnhiRld4OWZXdEJIMjZiaQ?oc=5",
-  "title": "Violences des 17 et 18 octobre : \"Jean-Luc Mélenchon veut-il vraiment défendre la République ?\", s'interroge Christophe Barbier sur LCI",
-  "summary": "",
-  "published": "2026-10-19T09:00+02:00",
-  "mentions": [
-   "melenchon"
-  ]
- },
- {
-  "id": "11012038426a4373",
-  "outlet": "L'Essentiel de l'Éco",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1wdE9qdzhjOTdaZVJHRXNpTUdlbGpKdnJCd2hEQnFqTkVVbGVBcG9adXRyVG1wOHJNUVN4MEk3MGVQS1dSTXEyWTg4cmc3aE9fWVkyenJES2RxenhDV1dVOXdCVjJ0eWVKc2d2bXViRzYwSUxs?oc=5",
-  "title": "Combien gagne Jean-Luc Mélenchon ?",
-  "summary": "",
-  "published": "2026-10-19T09:00+02:00",
-  "mentions": [
-   "melenchon"
-  ]
- },
- {
-  "id": "929d82d2a2aa7916",
-  "outlet": "ici.fr",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZ3Vnc2lmX2ZNcWhhYThJZHhiNzlSOTF6M25rTEN4dl9vQjRKM2VIVW56VGtsZFJvZHN5VDduNlkyRE5uVFRsNkpBSjV3Nk5ucVdNdWF1Unh0a25GdDhPb0pmTmdsSmxkMnE3Y3lwcWJqaVliakFadkJlR3JZS2NzREJTOFh5Z2dxbnpCTXhmSjhXbnphdmhERzFiTE5BTHJudU9mX3FkWGxndXRNTWRaNUJUSVpUVHpyUVFLWmczSFpEdFNzNFE?oc=5",
-  "title": "Jean-Luc Mélenchon attendu en Creuse le 11 novembre",
-  "summary": "",
-  "published": "2026-10-19T09:00+02:00",
-  "mentions": [
-   "melenchon"
-  ]
- },
- {
-  "id": "df02ebadc772d747",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOS2RodUpSYWprd2l5U1g3Y0w1SE9hQ2xSbDFYZklJczlDeVlxeWJQemppbGljY3dpSHZhR2xOSjU5NHpUOWs3UUFrN2hOUWRqVVNwVkNnZDgtbHdwWndZbEhpNC13aGYyNmw2YW1nbm9RWEJuM0JhMTVIb1VqTGN3ckhDYVdzVGtWUlpoLUJVT0dORWRneUtGeXJBcnRsa01SdXIwZklZLVkwYlpkNHNpSUVBVGxTQkRIUmVmRXMwdHJQU1hmSnZyMmN0bndWUm9MdnNKTlQ5TGZUT1FRZ3JJQ0tlNEctbi1Jdnd5MmFQMUU1WF8xd0JiWDFZT1c4QTFpaEpUaVln?oc=5",
-  "title": "La porte-parole du gouvernement affirme que Jean-Luc Mélenchon prône \"une forme de sédition avec la République\"",
-  "summary": "",
-  "published": "2026-10-19T09:00+02:00",
-  "mentions": [
-   "melenchon"
-  ]
- },
- {
-  "id": "abff91f3eef34613",
-  "outlet": "CNews",
-  "lean": "droite",
-  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTVRIWTJxd1NwbjVqeDhHNFZNenFxX2hFcTVVZzBobnY4ME9ESW1XLXcwUktoMVVROU9RZ3lnUnhPVVRBSUZydndIaXpieGJ4and5WFV2NDJzckVvRkZLUnZxa2xFb1A3M3RYYXdGVW82YzR2LWE0ZXFMOWw2ZVN5UERoR25xZ0xXTDdlRlczS2dyZm4tOUJrWWpVWC0wQ0xEZEkyZWtqQVVlUGp2R001VTU0MDFhQzBTNGfSAb8BQVVfeXFMUFJLUURGNFZXTGFGTjZaaGxySTREWjJQV08zdjNZeVdSd2habk5zTGpNQVpoVW1YLU9nWURBejdyRTdTQjdTWm0ydXdqZnBydFYwdlJXZ2xJRkY0ZkoyTVVMNjliZ2lpVFpEbVdSSENhejFtWmFNak90RU5sWkRBZHpxb3ZRT0xRM0NEQjFKQ09xdGdCSEJHY2RqbEhKLU5Pbnd3VjIzRG1jbmVJWm01Sm1TN0lXYlhXajQxc2xkck0?oc=5",
-  "title": "Violences urbaines : «Jean-Luc Mélenchon se pavane et se satisfait de cette situation», charge Karim Bouamrane",
-  "summary": "",
-  "published": "2026-10-19T09:00+02:00",
-  "mentions": [
-   "melenchon"
-  ]
- },
- {
-  "id": "1c495dd11a343647",
-  "outlet": "Le Parisien",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxPV2prN1VOUFI0aVdEV3lNa19WdTMwaHNFQzJvOWx2cjRNUUVJb1RyUG1WM2Y4VVBuRDJJVDJjaDZNR2ItbEFxcFdmQTZZaFprQWMtRUtOd0g4RU5hRG1qb3haX0VKSTVPeE5Vd3lZN2JhQ1FON3JUak9vZTZXeGI2bTgxdjAxanVIcDUwSzM0b2VyOVpzRW9FRUxsYkF0M1hTSUItSUVjZzRTV21BN1BXZTRrY3F6d0I4Vkxna1NkeWNGd245MlpYTk82Q1ZJWjZaMVBMVHFxS1NkVEdPTWFkLTRIbU9EUEVteExwTUNNa2d2R3ZRS1hzSGJ4czJrSHU5VXl3Ty1ZTzdPd3BSR2JaSmRsSmRUZmVZMVBOemR1OFNpTkF4TDBCWmFzNk4xTDRBTTB6dlRR?oc=5",
-  "title": "Présidentielle 2027 : Édouard Philippe, Raphaël Glucksmann et Jean-Luc Mélenchon au coude à coude dans un nouveau sondage",
-  "summary": "",
-  "published": "2026-10-19T09:00+02:00",
-  "mentions": [
-   "melenchon",
-   "philippe",
-   "glucksmann"
-  ]
- },
- {
-  "id": "6a6779557d9a071d",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOV1NPT0dBaXBidElZNG56Y2drUzRlUkJxUEh3aXhySUhzb1VQNzUtSEphVmdZeWVPT0lvci1pX2EyV0pTMy1wM1lGLTl3dkg3cmZ1UEdFZnVYS2Q3clRnbkI1YVdBVXVycWQ5MGlUS3NtVDVTUk15M0NkVnF5djdDeEFWYjd5V0xwU0s5RklHcnlrcEZxSExQTTlOUjlRNGRBNUQ1cXFuaXNyUlpkbWFYMnc1SVlTVGwxQXJhcWVZZDRYdmQ4N0VwYW5PbXlwT0RWalREZ0ZfSHZYRVVtMXlJNmdSbEM2ZzZRc0h2ZlNB?oc=5",
-  "title": "Violences et pillages: Raphaël Glucksmann appelle l'État à \"sortir de l'impuissance\"",
-  "summary": "",
-  "published": "2026-10-19T09:00+02:00",
-  "mentions": [
-   "glucksmann"
-  ]
- },
- {
-  "id": "3d50308777b4ad95",
-  "outlet": "l'Opinion",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPcHdoM3BsamVXNWpMRU1UZWRxSlZvU0tVWVBBRlB5ejBZLVJNM1RlYW9sZ3hHM0lEOEdoLThBeVE1NlVIVUtmUnlDZUVGVTRZeEY3bnVETFFJMWRFQ3dLOXNRem5IeU1RZGtDNHQ5Tk9JRmFBaTkwMGlRTEVZVTZMVHQ3NU9pbEtKQ0x3ZGZKeTIydzk3eVQ1Y3gtYUtwa3VvYnRQQnFnLXdWT21sVGxyWVd1azhHVHA0X0d3UVdGT3VpaEhnS1dNSVVuS2xBNVRYaHc0UkkyQVVQMEpNMzlablF4b1M2ZGVpaXZuTDJDYlFQdU9GbFVBVG1Ka2U?oc=5",
-  "title": "« Une convergence entre l‘extrême gauche et les racailles »: Bruno Retailleau fait le lien entre l’immigration et les violences du 17 octobre",
-  "summary": "",
-  "published": "2026-10-19T09:00+02:00",
-  "mentions": [
-   "retailleau"
-  ]
- },
- {
-  "id": "a855d76d8f454634",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxOdGdkU2ZPSkRXakFnaW1qVW5ad1laNXBVeFJ3Q3RLODJRem42SVRXMUtJTWFPa0JGbTFBR1hGY2RfbkgwYjEzZmR4eVFBZUJidDYxQ0N3amk2VUdMMzlEOWk4WktZaDBBUERQdVBWRnU5eGxzMkNZV2FpYnUtVTlkanMzdVU2SG5xbVJyWXhHal96cEg1QXJjRFRkc05vdXN4SndGUkc2eVRrbEV3b1lCVTZIX000UnBNejZjYXREV2Q5T2l1bDFVMFZnempGLUQ5cXJNcmd6b2JJa0ZaRmRnUGpBVE5XbUZVQmE3eFpzOVRhUHdkM1lNWkZCNWwzbW94a1ItMVFHWDJVR1UyckFVRUkyQ00yTGpvQk5rVEU5a2ZMdl90MUlfZEdSZV83NFZWbXJxNG00OFRTdHJhcEdwOXlNWGNKMlF1SUQ0ZThvTFNhMUZ3emNHWU54aW9XMWxQYkJMZjM0WlBrRGxvZVE?oc=5",
-  "title": "\"C'est une mauvaise date\": Bruno Retailleau, candidat Les Républicains à la présidentielle, appelle à changer le jour du second tour de l'élection qui aura lieu le 2 mai 2027",
-  "summary": "",
-  "published": "2026-10-19T09:00+02:00",
-  "mentions": [
-   "retailleau"
-  ]
- },
- {
-  "id": "32b0706398142791",
-  "outlet": "Le Figaro",
-  "lean": "droite",
-  "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNa2ZScWpMVnFVeGliZ3hpNzZUUFhlUU01aXZKYU55QTZ4MktZQWhEVFJvdFo3TzczRF9wV1RUVEdQMFBCby1JYXpmbDgzaUI3eDhJYkZDMFdVSXBPTlhTQXNsemJzZnRVa1EwQmtXYUd1SnNFQW80djVLODN3UzlQMzUyNEJGc3VpaEd1cW1VZll0OGwtX3FpcnlZbG9URi1VbmQxMnVnSzZqbGh3UmgyOV9KbmRhQmhEQnZ4ekhXTnlqRjFGT0hTT3FFT1J3VDhocXIwcDhmT3U2ZFQtU19XdzhESnB2bWdrUkEzRlR3YlVZTF9JYmNfNkRUaWk2eGtDSlFXM3o4Mkp4TlBvVjhLcmh4X25fV29yajRKWWtTUjJ4NzVFb3RBOWROUWdwdFZTbl80?oc=5",
-  "title": "Violences du 17 octobre : Retailleau demande à l’exécutif de changer la date du second tour de la présidentielle, fixée au lendemain du 1er-Mai",
-  "summary": "",
-  "published": "2026-10-19T09:00+02:00",
-  "mentions": [
-   "retailleau"
-  ]
- },
- {
-  "id": "b65b942bfc91d4a0",
-  "outlet": "Yahoo Finance France",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMWlxR2Y3eng0am5TSGQ0YjN1Rk5QSWx0Z1J3V0dfVHFMaU9ZZXNxSDJETTNaMnFXYTI4dnhBdDRsR2d4bGNBU3NFSFdXTm41X1kzWGpzSEZXek1vanRNeHU3dTNZM29NRXFrMFJnY01wZGpJanFIaWppMXR3SElqdnhSOUdkQ0RuMFQ1LUZHZEdwTnBTNm9DQlBPUEZHTV9FOWFWRHM1QQ?oc=5",
-  "title": "Bruno Retailleau réclame l'état d'urgence et juge le risque sur les taux français déjà consommé",
-  "summary": "",
-  "published": "2026-10-19T09:00+02:00",
-  "mentions": [
-   "retailleau"
-  ]
- },
- {
-  "id": "6539fc7b216b5724",
-  "outlet": "Boursorama",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNZHhkVUU3eHF2WVJSOVVEZS1WcXU0cWZvTTNidWw3bkFKcHp0VkNERWVNMjc5NXY0RllhQW0zdkNBWWhmSnFmbVJYSXFGaGxOR0ZJd3ZMQ3A0d0gtWjJWZ09VcmJ1SmlPVEJ1Q2hvcFU1LU03M1B0VERyRDd1RzZXeFNFY2tqeUlHUElZR2RVeXN0RFh4eUZWMEhkVGgzcm9ON0xJdV9ZS0NMbWZYQlVhdVl2SkotUlFJZmFYWG5TUUpYWUJvdk5PQy1wd3NwbkprbXN0cExZR3RpVHZnX2VyOC1lZUJpUkY5bDZZUnJqWWhuV2hXcFhGQVRjc01lWmdUN2VGQmp5YnJmTktnOEcxWmphQ3XSAZoCQVVfeXFMUG03d1RQWXpZRkI1ZVEzRUNGRG94U2RoWkxnT29ia18yYVBqMnVIMVlNLVJYMnFGdjhDY1hGSUttanQ3YWJaQkNjX3l0MUxrMVdRWnRQWE04TjNXMmR0YWlzYzBySWQ2blEzVGFwZE9IbVoxcmdOYXNHenZQSzdRc1hLUEIxS2FJalJqVUMtSlBoVTJkQVVpaEFwTzNxU0tuS09xY05aWVBXQUVGS0VxME5SendQamJTNVNucUdnczd6clhFYjUxbG03a0xDOVRJY2gtRG9FMEdUeXExNXJpR181YkpIck84TS1Sd1ZIUm5RWTJlYnp1UUxnN1YwYWZkVEsyTVZpUFRxYVNmVFF1T2U2VGNmRVU5OWZR?oc=5",
-  "title": "Violences et pillages : une \"convergence entre extrême gauche\" et \"racailles\", selon Bruno Retailleau",
-  "summary": "",
-  "published": "2026-10-19T09:00+02:00",
-  "mentions": [
-   "retailleau"
-  ]
- },
- {
-  "id": "ccf8da38b9e6e82c",
-  "outlet": "Le Nouvel Obs",
-  "lean": "centre-gauche",
-  "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPTjVvc0lBcFhPV2E4QXJoNUllVWc4VVhSbW9hbDF6dDlHZXVvblZJdVlyUHRZd3ZyRllXQkhRWHgydklFN0lYUFE5bGVTRTM3OWZLSG8zREpDcEd6bUxIQllZMy11SE1YdlRBdUNWQ01Zc3F2VHVaaTFkcms4aDRDQjlGSmtmOHY5bjdjNmRNYW4xUDBhUW5LODROVmQ0c3YzUE9IUDJBTVZlUXhvTFVQNTR2MF84UFprQ0lLZFcwZ2tJYjgtTGlYTzB0bTNmNjhIMzk3OWdickVyaVpjREE?oc=5",
-  "title": "A Raphaël Glucksmann de démontrer qu’il entend faire une place aux classes populaires",
-  "summary": "",
-  "published": "2026-10-19T09:00+02:00",
-  "mentions": [
-   "glucksmann"
-  ]
- },
- {
-  "id": "6528aa971da71755",
-  "outlet": "Le Club de Mediapart",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE00VGc1UEFNR1A2S2NtSFBval9uaGdQcTU2aEdLMHRTSGtvVE9tT3JGY2lPZ05CeWRKVGEtanV6bFRMbTA3RkhfM1FfVDFrSzdqQlZwU19kc1JnbkI1YmNFZ2FFaDR3bE0yeEE2NndJNzFjOHZoYVRzQw?oc=5",
-  "title": "RAPHAËL GLUCKSMANN.",
-  "summary": "",
-  "published": "2026-10-19T09:00+02:00",
-  "mentions": [
-   "glucksmann"
-  ]
- },
- {
-  "id": "feacb928c3af30c5",
-  "outlet": "Orange Actualités",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPN3owYUUxMGFKbWRiN2xPN2FGTUY4ei12cmYwTFh2RzBhLVRKa0Rqd1RsTlh4Tmo3b2F5QVczbE1NLXMxOWFtVlFVeVBRRXFWZ3lRa1lEX1lMcHlxdy1pY2lPMVJsT0Q1Z0lXcXRnYlpraXIwOENfTi1IM2FaWVUxV1YyRGpjaXpQMzRONEx3TWdtZFF1dHMwenhFUzByNlltMTJhRm9VWDdNQi1FZ3RUbTI2LWpiR25ZYlNKT2w5T0RqUFRKRUpwaUpmMEJSZ3p1ZkxKN1FQV0J5V2Z6MEFmUkprMXVHaHZxWkFwbExSMjF2Zw?oc=5",
-  "title": "17 octobre : Gabriel Attal propose de faire intervenir les forces armées temporairement si nécessaire",
-  "summary": "",
-  "published": "2026-10-19T09:00+02:00",
-  "mentions": [
-   "attal"
-  ]
- },
- {
-  "id": "5577ce242437b83c",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNUVdJWlV2aXFvbGU1YVpzekpLQ0dYM1FoamptNGU5UmNhZExBdTg3anc0NVprOFFPdjBDeHNBYTN2ZzRXY18tT2sxWV82Q2ZXTzhKOFFYVnVIRXdoT256QWxMc21lUnF3T3BQN3VUazdremg1RTZhejN1ZTJEY0FpQVMxQzh4emRsSndnUTZBeElTTG55RldfcDlnLUdhckpYZUllUU4wRXFyMld1VzFnUXJmWExBa0h3OXZ5SzVTd0owRkxkcnc4RUlpVENsTVJHclVwenQtY3h4YVBKSG94RGZNUUZXTTVTUlM1akU3ZUhFS18zVWVWcmIzYVZra19IeXA1TkZKNTM?oc=5",
-  "title": "Pillages, casseurs: \"C'est le RN qui récolte les fruits de cette situation\", déplore Gabriel Attal",
-  "summary": "",
-  "published": "2026-10-19T09:00+02:00",
-  "mentions": [
-   "attal"
-  ]
- },
- {
-  "id": "9142813c683e00d6",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPOV83ODRpeGpUT2FCeXozNVNIYU56dXpoRnRWaHpfSEhNYUlxRm9qYWhtam0wVmtqR3c3RkJ4b1FvRS1pWGxTQWswbHQ1MGd5MjVJQ1NGTC0xby1hLUEtdDJ3eTBpdG9VNXBzYUJsUzM2NDFWbllZc2hramtPX19OamZUdWNBZ3Q5M3hfb2FfR0NGZHhORkRIc1BsRk9JMEJMZFlHNkhSaGg5UkFiNVIzZUk5aXJFV2NDdWpfRG44QURraTdYMUpZa3Q2Z2ViVlMwQ3JOUGlzNS1CRUhfcElya2RLb0F2cEFUby00ekM4WFVLNkxuU2FFdjVEZnlIb21hWl83ekJ6dw?oc=5",
-  "title": "Pillages, casseurs: \"C'est 30 ans de lâcheté et de laxisme\", estime Gabriel Attal, candidat Renaissance à la présidentielle",
-  "summary": "",
-  "published": "2026-10-19T09:00+02:00",
-  "mentions": [
-   "attal"
-  ]
- },
- {
-  "id": "37bed569d6941657",
-  "outlet": "Closer",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQREhvazI5WkJwLVV2X0RYVXBpN2JXQjlLenUwMERHQXZlNnRnOThTaGItc2xiQUdWM0JKMWtpc0VuRmdqRjhOTmljZjctZGMzNjkzbGhHaWpmdmVYdWt3WDNMbGZzVDg0Umx0ZHhtVmlKcVhTUE91UVFnSkZodFVpNng0bGRLYTVpSGctWXItM1lWTGo0RjF2Y2dLVkEzNVdzWUFuZERYdU8xUkxJNExnVFg4QXlDYmxTb3Y4cjBENWhQZDNXd1FCRVNnNzVoMkQxOGtkUnlyZ0pRMFhKeXhHQWVaQWVKVWVWTVE?oc=5",
-  "title": "Éric Zemmour s'en prend aux prénoms des enfants de Sonia Mabrouk sur BFMTV : \"on fait une offense à la France ?\"",
-  "summary": "",
-  "published": "2026-10-19T09:00+02:00",
-  "mentions": [
-   "zemmour"
-  ]
- },
- {
-  "id": "4f6f9b99cb5d67fb",
-  "outlet": "Presse Agence",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdmF2ZmZRZHZwZnU4LU4yYkw3MlRKQ0puaEg4V3puVmRTdTRvZkE4RklLaURpNWZSV21DZ040Q25FMEhJQVZ3TGMxUVUzUF9EMEYtcEVESjlOZFJqWWtBc3FNWjc4dkpCVXQzc0pvTERWaGoybDVLM2k3ZGNOTlE2MmNVanR4Nk9tbVJxam1FZ1pQZw?oc=5",
-  "title": "Éric Zemmour : son plan face aux émeutes divise et rassemble",
-  "summary": "",
-  "published": "2026-10-19T09:00+02:00",
-  "mentions": [
-   "zemmour"
-  ]
- },
- {
-  "id": "954063de079f2f63",
-  "outlet": "Le Parisien",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPa3dFd1ZMVTVaWU9YaGpHY3NkR0l1dzRsa1NHT3l5M0V3dkJiblRBZGZ6cjB6SU1EdTl2UjM0TTc4YnpMdG0yWC1tNnFZQVdVeVBnSldtVENKR2RpWERRRTk2S3JfQi1DWXhRYXAxLV9COWdKRUdyQ212dkpYdHJFZHNQaGg4X1A4enp5dmxBTjBEeHVyMl9Sc1BUNXE3UVduZC0wVUJsNW16U282RFdRTXNlQ1BtZUQyYjZKejZ4YTFncnE0TUZGUWtyMnlNa01RSERDYS1nQThUWVJ4WjhEWC1LRHN1WmE5ZDVKQy1uNU4wVkhZN2xGVmNDR2luMmFqVzdfdnFiemNNTnk5WGhDdHUxWXNZZDJzQVFzOWFXOW9pZGkwY0E?oc=5",
-  "title": "« Horde de barbares maghrébins et africains » : le député LFI Antoine Léaument saisit la justice après des propos d’Éric Zemmour",
-  "summary": "",
-  "published": "2026-10-19T09:00+02:00",
-  "mentions": [
-   "zemmour"
-  ]
- },
- {
-  "id": "06d3fa3b17efeec5",
-  "outlet": "Presse Agence",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTTg4dzNZR3ZiN3BmdV9rc2FnN1NHMmdnWlp1THZaMTVjVU5KbmxhVlNqektacjY4c2l3QXpYWXRLSWNEWmt4ME5zcHNmd3hnZUFYZ2hsbndOa0NBSDdPZzlkU01Qb2xKdnlOS1FUTVkxaEd3QXY2SjI4OGxVYzJ5Mm92bmc5ZmhS?oc=5",
-  "title": "PARIS : Eric ZEMMOUR sur LCI, BFM et CNews ce dimanche soir",
-  "summary": "",
-  "published": "2026-10-19T09:00+02:00",
-  "mentions": [
-   "zemmour"
-  ]
- },
- {
-  "id": "5a3e6199f4ac9c5b",
-  "outlet": "lejdd.fr",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNTFoTHFnMW9qQkhjTlByeE9obTE5MnNjRTNGZjBnaVVJeVlPTzVrM2F3al8zZ0hOb1NaeXdjb0JucnpaemliaV91VlRVUHZTRjFqbHVCUmEwbVpnQ1hqZ19MQVhRS29pZzhCUFJHcEdORmNpQllKcjNkVEVhRmozSjNoaFhSb2xwVUtMT0JBbkZVSUxwS041OEk2d2NTeXlQWkVhcXYzUzE5dmptY1NHQ204cnVucGZGYXRHSUgxOW4wVFdiVEdFY25ZSHBQLWNWeERTV2NGTQ?oc=5",
-  "title": "Violences urbaines : «Il n'y aura pas de retour à la paix sociale sans la remigration», martèle Éric Zemmour",
-  "summary": "",
-  "published": "2026-10-19T09:00+02:00",
-  "mentions": [
-   "zemmour"
-  ]
- },
- {
-  "id": "617655a3d491410d",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxPYW95eHJSYVp6WC1sQlJKZTJhcU9IVzJMbmc1bW1pV1VISFo4MXhxdEMwQTctV1MyWS1rSmtHMGV0ZFZULTRNdDBjenVCbHBoQ0g0d09hMzgzdVF5dmxmbmV2SnB0a0ZEYzhrcDlXMVJFME5XaUJTYkpfUDR2cjFkemJfQW9mZnBaQ1ZpS2xyMm1EMVhRakhQM0ROQld6YzIwQmtkcUhTWmVaZ2FCbTJod0p4Z2l2bGZ0cW5tVUhNa3BKU2hpSi1URVlDTFl5LXotQUlPZlItc3ZtMDF5Y3M2dVYwc0NSOEs0QTRPckcxZVNoQkIyTGN5ek0zWmFucUhiV3I0NnV1cUlBZTdiQ0RBdVVKdVBhenNoSTdaeElDdE9mdzJ2NEhVMjAxdC16LUVoN1kyNkgwMG1tSjNld3VwVTk2SXRORU5NanlRSlZCbF8?oc=5",
-  "title": "17 octobre: \"Les propos du président de la République ont désarmé nos forces de l'ordre\", estime Bruno Retailleau, candidat Les Républicains à la présidentielle",
-  "summary": "",
-  "published": "2026-10-19T09:00+02:00",
-  "mentions": [
-   "retailleau"
-  ]
- },
- {
-  "id": "5a077664fe8e4c38",
-  "outlet": "TF1+",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNzRvWlFqSmdCWnN0UVdUekI4TEV4RjF6ekdDNlNKV1Z2VTlnZng3eXFqRFZTMmhIRlJTdDZOLWNnbERjM0RJNDhIN2xsX09seUJyVFlmcS1DcmpmZ1ZkbU5yMTBvUk5PWEdRUjduSjF1bnZWV09VSnRlNmlpcmZMcFhqMXpleklSUkltcUU4WHpYamJMMEpIZHdlSDBVSmpVUU9WSA?oc=5",
-  "title": "Face à Alba Ventura : Fabien Roussel",
-  "summary": "",
-  "published": "2026-10-19T09:00+02:00",
-  "mentions": [
-   "roussel"
-  ]
- },
- {
-  "id": "1c17b10660a60e73",
-  "outlet": "Gala",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQdkxlMjAyVWVzLUFoME1SUGliVHZvZi1aTlBZOG51MVExZ3lPUjlOYV9na2Z2bDJWLUp5ZDVRR1RSZ3lNMW9tcFZJRm5LdGl3UFpYdUFTRnh2TC1YbnUxM1lUTzF3WVhudm1TMzBqSzhYRTRldU9KdW80cFlpTE51eS1DYXdEQUgwbjJaaXU1YnFOVnNFMk1RSEFodEQ5ZlBtVWRPWW5XZ0pUY040NnljRDhFMzhKN3lxRTVRVmt1THVIc1Y4TVZTMTMwaVhLcnoxWms1eEpJeFpDZkFveUpxay1sMjFVOFVjb2xSN05YSFlXUUloVnNZM0ZQVW5QaHI2ckNyYlFoanJlS1hwcGhRcXh3?oc=5",
-  "title": "Pas convaincu par l’allocution d’Emmanuel Macron, Édouard Philippe répond sans détour au président : “J’aurais préféré, comme des millions de Français…”",
-  "summary": "",
-  "published": "2026-10-19T09:00+02:00",
-  "mentions": [
-   "philippe"
-  ]
- },
- {
-  "id": "2ba292d2685d243d",
-  "outlet": "Touteleurope.eu",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxOYlJucnBnbkd4OXJQRk55UkFJUGEwMlA1R3Z4al92a0tJeUhMV0RocVJ4LW4yNFFhRy0tdzhFcHV5SWctdi1SS1RLbnFqRXlOTHdYcmJEVWxwbVpLNm5rckRwTHd5clBKbVFWUzFQMmhmVTZTcXROWml4ei0wb1ZaRWowaS1EZTVXenZLbmdCUTI0cERzSXg1QTJseXVBQVFfU2MyZVZyMDdLZEN2eVV4Vk5KUEVJaVVhQXZaS0psNUhZdUlfVkJoNXl3Z0xTWmFyeG1JRTBPUEhScVNBOFgyS0txU1JyT0Z3bFU2T3FjSmtlS0VDRWQxYmh0QnNSQ0pkTVZBOGEtdndOcGRGaTFWQXJ4SUhMNFR6Tm5ySG9Ydjl6UklCZkRuNm4zdXVTcW54Q0FXclFibFE?oc=5",
-  "title": "Présidentielle 2027 : une bataille entre quatre candidats se dessine au premier tour selon les sondages",
-  "summary": "",
-  "published": "2026-10-19T09:00+02:00",
-  "mentions": []
- },
- {
-  "id": "ab8c8d75cb659f29",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPUVJHQ3MzRUVwcElvZG1RckxpSFMyQ09qYy1MdlVMbVlydDJUYWpRN0V2N0JvaE5SdEpUYUUzMzFMQmN2ajdUSTVTd1p4Tmdfc25teURLNjdjTFdscU5ORjBEWWNuVWp6ZWR0LWVfUmpiUEJZbXZqZFN1SkV4d2pvRXRDWWZOM0ZuQU1yVmhHUHZ4MkZwaUs4YUIyRjNnZHpRZXUtYjZ0a2JZRWMzQzE3SFRWZUxodkxERGM1UmtfSk9jTGRRa21RWTZSMHFKN1RHYkdTVDdNYXkxNnBSSkpTTGhpY1M2bGJZSVBzU2xGOA?oc=5",
-  "title": "17 octobre: un rassemblement autour du maire du Havre, Édouard Philippe, perturbé par des manifestants",
-  "summary": "",
-  "published": "2026-10-19T09:00+02:00",
-  "mentions": [
-   "philippe"
-  ]
- },
- {
-  "id": "9f1203848039e0c0",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPcUMtM1hUZ1RmLWxReEFfelhESTJCRzYwSXQ5MXBjb3VpMnEzS2ZDZ1hYWnkxUkdneXl0dnRLY01pdnBPSXV4Z0M3bExuOU5sSHBkUnFKeUpueHRkN0J4YTRlNUNrT3lWTS03c0lzendEbkxqVjk3SFVXSVN2cm5RVHhuZnZ3bTlaQnoweU1LcGFnVXhSU1pDZmo3QmJydVdFNDFpSl9YTU1Za0hCV3dUZ2hRMkRYM185My1FYWhTUlliR1p1VS1rY2NJbnZxSHdaWGtJYlRGRXJyeWR6OXIxeEVkYUNfdEE?oc=5",
-  "title": "Violences du 17 octobre: Édouard Philippe affirme qu'il est \"indispensable que l'ordre revienne\"",
-  "summary": "",
-  "published": "2026-10-19T09:00+02:00",
-  "mentions": [
-   "philippe"
-  ]
- },
- {
-  "id": "a7f49aa268fab9ce",
-  "outlet": "TSA - Tout Sur l'Algérie",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOODh5S0tfaVZjbXBxN1JTbFFwRmxNaUdtRzN6V3VveGY0UjVKMVJJSUVlNXA0WWJmSFNIUEo2cUFWdGJwZ1ljQndQSjhVSzdXdkFPTWpmbWhNMEZJN1NmNnJtWFZpRlMxcmJ4bEFHLU9XS3N4cTVOQ1hPeW0xNERJLXZQUVVzU0FIMGJiUjNKM09DR09nZ2FSVmlNdXh5elB0N2txa2kydDZ5bVNZLXpUZ2hWTFY4ZDEtLTNTdGNGUGpZWVl2b1oycF9B?oc=5",
-  "title": "« Ni Français, ni Algérien » : Karim Zéribi fustige Éric Zemmour après ses propos haineux sur les Maghrébins",
-  "summary": "",
-  "published": "2026-10-19T09:00+02:00",
-  "mentions": [
-   "zemmour"
-  ]
- },
- {
-  "id": "9a40fff16d70cbc9",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxPLWJmMGVuWHVCMjJ1aV9PLUEtWDBxZkZleC1oenZJRUI1bWFIY21KMjd4T1dtRHlHME00ZGY1OEh1TW1uN3FaLTBucjFFWDE1SFB2TlJZWEVCRld2cTZZVVo2bGJaOW9Mc3k0dmV4SHkwZ2d0a3cyd040S19EeGp2WVZ0VklRbWdxSnhLUXVEYmkzeHIzaGxRZ3ZVbVpROTBBMEZhQnFmUkdDYjJkQllZYkdheUl0LTBubjk3TEo3VXBBTnBxV3MyYll6VTlNbVpPZHEwNGtlSi10WUtZQk1lcDJFNjYwWlI4alhJRnFsVUxhRF9NbHFaSG1TOEU5M0xMMlY5STRHXzlPdFZPSThMTVJ5X0hXWTNiOTExenpHMzA3WUZnS05lWlh3dDVOaUV4VkhFcndBVUtoLXJyOWI0WDNob2Y?oc=5",
-  "title": "Pillages, casseurs: \"Le président de la République n'assume pas l'ordre public\", déclare Bruno Retailleau, candidat Les Républicains à la présidentielle",
-  "summary": "",
-  "published": "2026-10-19T09:00+02:00",
-  "mentions": [
-   "retailleau"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": 0,
+    "frame": "economie_social"
+   },
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "economie_social"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "11e09286a3bbcaec",
@@ -733,7 +177,463 @@
    "lepen",
    "melenchon",
    "glucksmann"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": 0,
+    "frame": "programme"
+   },
+   {
+    "id": "melenchon",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "1c17b10660a60e73",
+  "outlet": "Gala",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQdkxlMjAyVWVzLUFoME1SUGliVHZvZi1aTlBZOG51MVExZ3lPUjlOYV9na2Z2bDJWLUp5ZDVRR1RSZ3lNMW9tcFZJRm5LdGl3UFpYdUFTRnh2TC1YbnUxM1lUTzF3WVhudm1TMzBqSzhYRTRldU9KdW80cFlpTE51eS1DYXdEQUgwbjJaaXU1YnFOVnNFMk1RSEFodEQ5ZlBtVWRPWW5XZ0pUY040NnljRDhFMzhKN3lxRTVRVmt1THVIc1Y4TVZTMTMwaVhLcnoxWms1eEpJeFpDZkFveUpxay1sMjFVOFVjb2xSN05YSFlXUUloVnNZM0ZQVW5QaHI2ckNyYlFoanJlS1hwcGhRcXh3?oc=5",
+  "title": "Pas convaincu par l’allocution d’Emmanuel Macron, Édouard Philippe répond sans détour au président : “J’aurais préféré, comme des millions de Français…”",
+  "summary": "",
+  "published": "2026-10-19T09:00+02:00",
+  "mentions": [
+   "philippe"
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "1c495dd11a343647",
+  "outlet": "Le Parisien",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxPV2prN1VOUFI0aVdEV3lNa19WdTMwaHNFQzJvOWx2cjRNUUVJb1RyUG1WM2Y4VVBuRDJJVDJjaDZNR2ItbEFxcFdmQTZZaFprQWMtRUtOd0g4RU5hRG1qb3haX0VKSTVPeE5Vd3lZN2JhQ1FON3JUak9vZTZXeGI2bTgxdjAxanVIcDUwSzM0b2VyOVpzRW9FRUxsYkF0M1hTSUItSUVjZzRTV21BN1BXZTRrY3F6d0I4Vkxna1NkeWNGd245MlpYTk82Q1ZJWjZaMVBMVHFxS1NkVEdPTWFkLTRIbU9EUEVteExwTUNNa2d2R3ZRS1hzSGJ4czJrSHU5VXl3Ty1ZTzdPd3BSR2JaSmRsSmRUZmVZMVBOemR1OFNpTkF4TDBCWmFzNk4xTDRBTTB6dlRR?oc=5",
+  "title": "Présidentielle 2027 : Édouard Philippe, Raphaël Glucksmann et Jean-Luc Mélenchon au coude à coude dans un nouveau sondage",
+  "summary": "",
+  "published": "2026-10-19T09:00+02:00",
+  "mentions": [
+   "melenchon",
+   "philippe",
+   "glucksmann"
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": 0,
+    "frame": "sondage_dynamique"
+   },
+   {
+    "id": "glucksmann",
+    "tone": 0,
+    "frame": "sondage_dynamique"
+   },
+   {
+    "id": "melenchon",
+    "tone": 0,
+    "frame": "sondage_dynamique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "1ddff3fef2436faa",
+  "outlet": "Orange Actualités",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQUGFNb2RkRzZPalU5Yi0yeks0WXRfd0xhTWVBZGMybXJFLTVpZGxUNGl2aXNDSHVpaVhoYzFZUEEzRVMxb2J6d2k1QUVySGhFRXZSaGVOMkppNzRDbDMwZmJWN1AyTXhxYU55b2FjcWNYcEQ1Zm1MY2VQamlka010UnRfeGJ4bTU5a0NhUnRWQ0xtTE1uVjN5bS1UR0NsZzNmb0d3dldKck5YeVNVeHNJaVdRWDdneWdTaUVwWnNCcnpIQzRQU3FJUzBsOWdOVDRZUWhFMXdhWnU3VXNiaW9yT1IzbVpwdFNCMlcxeUJCUkszdw?oc=5",
+  "title": "Après les violences du 17 octobre, Gabriel Attal propose de couper les réseaux sociaux",
+  "summary": "",
+  "published": "2026-10-19T09:00+02:00",
+  "mentions": [
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "1fc8341c7fbc9db1",
+  "outlet": "Arrêt sur images",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRXVXNHU3bFExSlJvNkprX2kzSkI4R2Fibk5ELWxlRTlURnRHdmUzQmU4a084MWdrYWF4OTNkejFxNXlIUUFGQmo3YU1pcVRGWGdQN29XTm9PUVNLbmpTVF8yNUx0UmlKSWRBOWZTUmdtUHVRUVMwbDVtbHBaZUNKU29JS3FXZWtUUG82b08tVlk4VEhjVHprd18zYnFhcHdia2JLV2NHMHU2SXRyM2o5OGpXZUliWHRLeWF4YmxOWDU?oc=5",
+  "title": "18 octobre sur les chaînes d'info : Zemmour partout, journalisme nulle part - Par Robin Andraca",
+  "summary": "",
+  "published": "2026-10-19T09:00+02:00",
+  "mentions": [
+   "zemmour"
+  ],
+  "analysis": [
+   {
+    "id": "zemmour",
+    "tone": -1,
+    "frame": "economie_social"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "298f4d2a3e0ad3c2",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPMnVFbkczNVlUdk9zUHNsSWNqdkhLSUIxalRpRUJMaWpUdk5vdlBxUnJPeUxwM1pLWmxsdFNjaFhReFdrR25RSXkwc0FCT2JLVWNleUI5SUhjaUVwcWJqV0IyUndCRGV2TVgtaHFtN05ydmtSR04xYXVQbjZJUVNKTGR2eFB3NXZCaUMtWEozMmpnODREYzBTVmswRVA4T2hZLUM3d3l6czBpdHBiNTZNUWFuQTlUMllIbFVXQ0k0NEFCam5uT25TU3RZVnpUamZhXy1UX1ZqYWFqX1FydXZ4amlpRWRXeHkwY3hvVW9WZHpYV0VlQmFEUXItQ1REWDA?oc=5",
+  "title": "Violences du 17 octobre: Gabriel Attal veut \"faire des exemples\" et plaide pour l'état d'urgence",
+  "summary": "",
+  "published": "2026-10-19T09:00+02:00",
+  "mentions": [
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "2ba292d2685d243d",
+  "outlet": "Touteleurope.eu",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxOYlJucnBnbkd4OXJQRk55UkFJUGEwMlA1R3Z4al92a0tJeUhMV0RocVJ4LW4yNFFhRy0tdzhFcHV5SWctdi1SS1RLbnFqRXlOTHdYcmJEVWxwbVpLNm5rckRwTHd5clBKbVFWUzFQMmhmVTZTcXROWml4ei0wb1ZaRWowaS1EZTVXenZLbmdCUTI0cERzSXg1QTJseXVBQVFfU2MyZVZyMDdLZEN2eVV4Vk5KUEVJaVVhQXZaS0psNUhZdUlfVkJoNXl3Z0xTWmFyeG1JRTBPUEhScVNBOFgyS0txU1JyT0Z3bFU2T3FjSmtlS0VDRWQxYmh0QnNSQ0pkTVZBOGEtdndOcGRGaTFWQXJ4SUhMNFR6Tm5ySG9Ydjl6UklCZkRuNm4zdXVTcW54Q0FXclFibFE?oc=5",
+  "title": "Présidentielle 2027 : une bataille entre quatre candidats se dessine au premier tour selon les sondages",
+  "summary": "",
+  "published": "2026-10-19T09:00+02:00",
+  "mentions": []
+ },
+ {
+  "id": "32b0706398142791",
+  "outlet": "Le Figaro",
+  "lean": "droite",
+  "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNa2ZScWpMVnFVeGliZ3hpNzZUUFhlUU01aXZKYU55QTZ4MktZQWhEVFJvdFo3TzczRF9wV1RUVEdQMFBCby1JYXpmbDgzaUI3eDhJYkZDMFdVSXBPTlhTQXNsemJzZnRVa1EwQmtXYUd1SnNFQW80djVLODN3UzlQMzUyNEJGc3VpaEd1cW1VZll0OGwtX3FpcnlZbG9URi1VbmQxMnVnSzZqbGh3UmgyOV9KbmRhQmhEQnZ4ekhXTnlqRjFGT0hTT3FFT1J3VDhocXIwcDhmT3U2ZFQtU19XdzhESnB2bWdrUkEzRlR3YlVZTF9JYmNfNkRUaWk2eGtDSlFXM3o4Mkp4TlBvVjhLcmh4X25fV29yajRKWWtTUjJ4NzVFb3RBOWROUWdwdFZTbl80?oc=5",
+  "title": "Violences du 17 octobre : Retailleau demande à l’exécutif de changer la date du second tour de la présidentielle, fixée au lendemain du 1er-Mai",
+  "summary": "",
+  "published": "2026-10-19T09:00+02:00",
+  "mentions": [
+   "retailleau"
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "37bed569d6941657",
+  "outlet": "Closer",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQREhvazI5WkJwLVV2X0RYVXBpN2JXQjlLenUwMERHQXZlNnRnOThTaGItc2xiQUdWM0JKMWtpc0VuRmdqRjhOTmljZjctZGMzNjkzbGhHaWpmdmVYdWt3WDNMbGZzVDg0Umx0ZHhtVmlKcVhTUE91UVFnSkZodFVpNng0bGRLYTVpSGctWXItM1lWTGo0RjF2Y2dLVkEzNVdzWUFuZERYdU8xUkxJNExnVFg4QXlDYmxTb3Y4cjBENWhQZDNXd1FCRVNnNzVoMkQxOGtkUnlyZ0pRMFhKeXhHQWVaQWVKVWVWTVE?oc=5",
+  "title": "Éric Zemmour s'en prend aux prénoms des enfants de Sonia Mabrouk sur BFMTV : \"on fait une offense à la France ?\"",
+  "summary": "",
+  "published": "2026-10-19T09:00+02:00",
+  "mentions": [
+   "zemmour"
+  ],
+  "analysis": [
+   {
+    "id": "zemmour",
+    "tone": -2,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "3d50308777b4ad95",
+  "outlet": "l'Opinion",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPcHdoM3BsamVXNWpMRU1UZWRxSlZvU0tVWVBBRlB5ejBZLVJNM1RlYW9sZ3hHM0lEOEdoLThBeVE1NlVIVUtmUnlDZUVGVTRZeEY3bnVETFFJMWRFQ3dLOXNRem5IeU1RZGtDNHQ5Tk9JRmFBaTkwMGlRTEVZVTZMVHQ3NU9pbEtKQ0x3ZGZKeTIydzk3eVQ1Y3gtYUtwa3VvYnRQQnFnLXdWT21sVGxyWVd1azhHVHA0X0d3UVdGT3VpaEhnS1dNSVVuS2xBNVRYaHc0UkkyQVVQMEpNMzlablF4b1M2ZGVpaXZuTDJDYlFQdU9GbFVBVG1Ka2U?oc=5",
+  "title": "« Une convergence entre l‘extrême gauche et les racailles »: Bruno Retailleau fait le lien entre l’immigration et les violences du 17 octobre",
+  "summary": "",
+  "published": "2026-10-19T09:00+02:00",
+  "mentions": [
+   "retailleau"
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": -2,
+    "frame": "securite"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "3f9ee9444272685e",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPSGhvVS1WTW9XaktjRE1jemUwTUN2c1JGaTFuT3N6dXB3R3U3TnpoQXRvRkFoMV9LOGZMeWZsZjgxc3JVNjg5d1M4VWdUWlBEc0tFUzFEa192eTNPSTV0YjNSbTlacFRPRHJKVVMzeDFKcXJHbTZFeWZVVFdtMXJDdGhNOE1aQlUwQ0pYd01CSXBLNzJmakw0UTFlVnZ2dWJLNmxxSzlweEN6empTVlVUeW84NGRIRUJfRWh0Zkd2dVZRSGpoMjVxZVI3QlhRRDhSNV9qcG9QTTFJWGYyWGVDOUVVeUkyckFSYWkxQUpLanozN0FXTWc3bENLYk5Kem9telFkV1poZ0pnX25y?oc=5",
+  "title": "Interdiction des réseaux sociaux: \"C'est possible de le faire\", estime Gabriel Attal, candidat Renaissance à la présidentielle",
+  "summary": "",
+  "published": "2026-10-19T09:00+02:00",
+  "mentions": [
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "44f34f708844cd17",
+  "outlet": "Le Parisien",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxNU3NIWjBpYmRPWkxRS0lldnpZWDdYQUk3OHJ2WGlTZ01qU0VfR3pCcXZWcUtjU0FLS214X0h1M3VlTENmVWJxZ3FZdXRnOE45V3EtQmpDMG5LMmc2dWlPd3lhS1FPQllvMzVkUmFvbHlqdkF0am9zYk1faDlvSmtmRU5kQzJRbUt4Q3pBbHpEMXpfal9SWlJvd3B3QlphbnQ0cEtTeUZ3alFMcTVidUhFVmlNajcxVmFseU9mVXg1SXp1MzB3Y3JJaFJiS19KNjZFdGpGSXQwcGJMS2JDazFaSVdRTmN3ZnliUG9OODBGNDdSb2pKMk9SYkd6b0d0cGhCS19Sa3NreHA5emFXanV0QnhXMm8xRDZDellyVDNDa2FmM29hanpKa2xMUzFnOElfcE1MNkgxWVgzdTBwaVE?oc=5",
+  "title": "Présidentielle 2027 : Glucksmann appelle à une réponse « extrêmement ferme » aux violences sinon Le Pen sera « bénéficiaire du chaos »",
+  "summary": "",
+  "published": "2026-10-19T09:00+02:00",
+  "mentions": [
+   "lepen",
+   "glucksmann"
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": -1,
+    "frame": "economie_social"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "4970b8f3f901aea1",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxNOE8ydGJreE01MWdPTlBtLWlKSFo4M0RodXFsS1N5c0w4MkFOUVV0WWxIR0ZmaF9HWG9BVVVhWWcxZlFRVWtEOWdEXzg5clJTc05mWUhuVGhUamZfWVdQRy00Ni1Wb3psYm1fZlhKWUN1dGR3Z3NfbkZsOFRhaTV6X2h3V1hWemF4SEFtR0JQZGx0UGpqc3VqZTkxNVR2MWI5Zk9ydS02dU14Tnhxd1VVMFFIMzl3dWxBYWdrWVUxbWNOQjJ0cHg0T0VRdFBuVGJqaHlrSnZXMTVSMFFoZFVscjVDVko4WEZhaVlDcVFJc3oyaVBnbEVacEEyd25rekNaOGZEU2lDTWZQUk5DWnZ1X0p1Zi11N3lsaXpzUWlQczF4TWgyenItSkZ1b0NDS1JP?oc=5",
+  "title": "Raphaël Glucksmann, candidat PS-Place publique à l'élection présidentielle, appelle à \"traquer\" les casseurs et à des \"sanctions lourdes\"",
+  "summary": "",
+  "published": "2026-10-19T09:00+02:00",
+  "mentions": [
+   "glucksmann"
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "4f6f9b99cb5d67fb",
+  "outlet": "Presse Agence",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdmF2ZmZRZHZwZnU4LU4yYkw3MlRKQ0puaEg4V3puVmRTdTRvZkE4RklLaURpNWZSV21DZ040Q25FMEhJQVZ3TGMxUVUzUF9EMEYtcEVESjlOZFJqWWtBc3FNWjc4dkpCVXQzc0pvTERWaGoybDVLM2k3ZGNOTlE2MmNVanR4Nk9tbVJxam1FZ1pQZw?oc=5",
+  "title": "Éric Zemmour : son plan face aux émeutes divise et rassemble",
+  "summary": "",
+  "published": "2026-10-19T09:00+02:00",
+  "mentions": [
+   "zemmour"
+  ],
+  "analysis": [
+   {
+    "id": "zemmour",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "5577ce242437b83c",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNUVdJWlV2aXFvbGU1YVpzekpLQ0dYM1FoamptNGU5UmNhZExBdTg3anc0NVprOFFPdjBDeHNBYTN2ZzRXY18tT2sxWV82Q2ZXTzhKOFFYVnVIRXdoT256QWxMc21lUnF3T3BQN3VUazdremg1RTZhejN1ZTJEY0FpQVMxQzh4emRsSndnUTZBeElTTG55RldfcDlnLUdhckpYZUllUU4wRXFyMld1VzFnUXJmWExBa0h3OXZ5SzVTd0owRkxkcnc4RUlpVENsTVJHclVwenQtY3h4YVBKSG94RGZNUUZXTTVTUlM1akU3ZUhFS18zVWVWcmIzYVZra19IeXA1TkZKNTM?oc=5",
+  "title": "Pillages, casseurs: \"C'est le RN qui récolte les fruits de cette situation\", déplore Gabriel Attal",
+  "summary": "",
+  "published": "2026-10-19T09:00+02:00",
+  "mentions": [
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": -2,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "56c11f3ca69ac07c",
+  "outlet": "Valeurs actuelles",
+  "lean": "droite",
+  "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWXR0X3dYMmM1eGY2OHBwdVhyN3Vlc1F4TmxJQ2RTWUpyODNUZHhDUTBiN2xVUGxCMGRLT3hjWEhDWE5qWVEwRmNqNlJURVZQSzIxXzJRQ2hFUkFXLUJjenhRWm5ienlENXB0Um1oZGVEaTlySVdOYXhmMnp6aXVhbjA5ZWpoTVBQeFZpQ3JnV2ZEX0gzM3BJUkVPNE1EMEQ4WjBKQ2QydmhNLWNMZGxMUGE0dHdVVHh6Vk1mSkxELVBYY1U1RmlKNFhnX2ItTXJicTJFbw?oc=5",
+  "title": "Présidentielle 2027 : David Lisnard fait jeu égal avec Bruno Retailleau",
+  "summary": "",
+  "published": "2026-10-19T09:00+02:00",
+  "mentions": [
+   "retailleau",
+   "lisnard"
+  ],
+  "analysis": [
+   {
+    "id": "lisnard",
+    "tone": 0,
+    "frame": "justice_affaires"
+   },
+   {
+    "id": "retailleau",
+    "tone": 0,
+    "frame": "justice_affaires"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "589185aa3fde93da",
+  "outlet": "TF1 Info",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPU25XRFN0VFdvOVNiU0pzRVlGZmJPR3pBRkstZXJ1SEN2WUcwVXR1cWZZWlVLNFhIakJOUnN1LWdDY1FNblg3SmpFSHJHaWJkV2JFM09qcXczS3dtTkNsdHBBNzUwMHdZT0REZzdTWmw3eEJNeE5PWjIzcEJfeUMzaEFVNDAwOEo0U1BfMEpaVUpidTZxYVkxNlNlVEYxOENxQmtUZVU2Vmp5OUhRUExncy02YXU3TVBpd3lZLWZLQnFtMDFrYUZHc1JKdnJhU3l3cE1iTTR0MldNSFJkSmJ2RUhmcEtVbGpvZGlRNHI4Ym1Pa2s4RnhiRld4OWZXdEJIMjZiaQ?oc=5",
+  "title": "Violences des 17 et 18 octobre : \"Jean-Luc Mélenchon veut-il vraiment défendre la République ?\", s'interroge Christophe Barbier sur LCI",
+  "summary": "",
+  "published": "2026-10-19T09:00+02:00",
+  "mentions": [
+   "melenchon"
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": -2,
+    "frame": "securite"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "5a077664fe8e4c38",
+  "outlet": "TF1+",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNzRvWlFqSmdCWnN0UVdUekI4TEV4RjF6ekdDNlNKV1Z2VTlnZng3eXFqRFZTMmhIRlJTdDZOLWNnbERjM0RJNDhIN2xsX09seUJyVFlmcS1DcmpmZ1ZkbU5yMTBvUk5PWEdRUjduSjF1bnZWV09VSnRlNmlpcmZMcFhqMXpleklSUkltcUU4WHpYamJMMEpIZHdlSDBVSmpVUU9WSA?oc=5",
+  "title": "Face à Alba Ventura : Fabien Roussel",
+  "summary": "",
+  "published": "2026-10-19T09:00+02:00",
+  "mentions": [
+   "roussel"
+  ],
+  "analysis": [],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "5a3e6199f4ac9c5b",
+  "outlet": "lejdd.fr",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNTFoTHFnMW9qQkhjTlByeE9obTE5MnNjRTNGZjBnaVVJeVlPTzVrM2F3al8zZ0hOb1NaeXdjb0JucnpaemliaV91VlRVUHZTRjFqbHVCUmEwbVpnQ1hqZ19MQVhRS29pZzhCUFJHcEdORmNpQllKcjNkVEVhRmozSjNoaFhSb2xwVUtMT0JBbkZVSUxwS041OEk2d2NTeXlQWkVhcXYzUzE5dmptY1NHQ204cnVucGZGYXRHSUgxOW4wVFdiVEdFY25ZSHBQLWNWeERTV2NGTQ?oc=5",
+  "title": "Violences urbaines : «Il n'y aura pas de retour à la paix sociale sans la remigration», martèle Éric Zemmour",
+  "summary": "",
+  "published": "2026-10-19T09:00+02:00",
+  "mentions": [
+   "zemmour"
+  ],
+  "analysis": [
+   {
+    "id": "zemmour",
+    "tone": -2,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "617655a3d491410d",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxPYW95eHJSYVp6WC1sQlJKZTJhcU9IVzJMbmc1bW1pV1VISFo4MXhxdEMwQTctV1MyWS1rSmtHMGV0ZFZULTRNdDBjenVCbHBoQ0g0d09hMzgzdVF5dmxmbmV2SnB0a0ZEYzhrcDlXMVJFME5XaUJTYkpfUDR2cjFkemJfQW9mZnBaQ1ZpS2xyMm1EMVhRakhQM0ROQld6YzIwQmtkcUhTWmVaZ2FCbTJod0p4Z2l2bGZ0cW5tVUhNa3BKU2hpSi1URVlDTFl5LXotQUlPZlItc3ZtMDF5Y3M2dVYwc0NSOEs0QTRPckcxZVNoQkIyTGN5ek0zWmFucUhiV3I0NnV1cUlBZTdiQ0RBdVVKdVBhenNoSTdaeElDdE9mdzJ2NEhVMjAxdC16LUVoN1kyNkgwMG1tSjNld3VwVTk2SXRORU5NanlRSlZCbF8?oc=5",
+  "title": "17 octobre: \"Les propos du président de la République ont désarmé nos forces de l'ordre\", estime Bruno Retailleau, candidat Les Républicains à la présidentielle",
+  "summary": "",
+  "published": "2026-10-19T09:00+02:00",
+  "mentions": [
+   "retailleau"
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "6528aa971da71755",
+  "outlet": "Le Club de Mediapart",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE00VGc1UEFNR1A2S2NtSFBval9uaGdQcTU2aEdLMHRTSGtvVE9tT3JGY2lPZ05CeWRKVGEtanV6bFRMbTA3RkhfM1FfVDFrSzdqQlZwU19kc1JnbkI1YmNFZ2FFaDR3bE0yeEE2NndJNzFjOHZoYVRzQw?oc=5",
+  "title": "RAPHAËL GLUCKSMANN.",
+  "summary": "",
+  "published": "2026-10-19T09:00+02:00",
+  "mentions": [
+   "glucksmann"
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "6539fc7b216b5724",
+  "outlet": "Boursorama",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNZHhkVUU3eHF2WVJSOVVEZS1WcXU0cWZvTTNidWw3bkFKcHp0VkNERWVNMjc5NXY0RllhQW0zdkNBWWhmSnFmbVJYSXFGaGxOR0ZJd3ZMQ3A0d0gtWjJWZ09VcmJ1SmlPVEJ1Q2hvcFU1LU03M1B0VERyRDd1RzZXeFNFY2tqeUlHUElZR2RVeXN0RFh4eUZWMEhkVGgzcm9ON0xJdV9ZS0NMbWZYQlVhdVl2SkotUlFJZmFYWG5TUUpYWUJvdk5PQy1wd3NwbkprbXN0cExZR3RpVHZnX2VyOC1lZUJpUkY5bDZZUnJqWWhuV2hXcFhGQVRjc01lWmdUN2VGQmp5YnJmTktnOEcxWmphQ3XSAZoCQVVfeXFMUG03d1RQWXpZRkI1ZVEzRUNGRG94U2RoWkxnT29ia18yYVBqMnVIMVlNLVJYMnFGdjhDY1hGSUttanQ3YWJaQkNjX3l0MUxrMVdRWnRQWE04TjNXMmR0YWlzYzBySWQ2blEzVGFwZE9IbVoxcmdOYXNHenZQSzdRc1hLUEIxS2FJalJqVUMtSlBoVTJkQVVpaEFwTzNxU0tuS09xY05aWVBXQUVGS0VxME5SendQamJTNVNucUdnczd6clhFYjUxbG03a0xDOVRJY2gtRG9FMEdUeXExNXJpR181YkpIck84TS1Sd1ZIUm5RWTJlYnp1UUxnN1YwYWZkVEsyTVZpUFRxYVNmVFF1T2U2VGNmRVU5OWZR?oc=5",
+  "title": "Violences et pillages : une \"convergence entre extrême gauche\" et \"racailles\", selon Bruno Retailleau",
+  "summary": "",
+  "published": "2026-10-19T09:00+02:00",
+  "mentions": [
+   "retailleau"
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": -2,
+    "frame": "securite"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "6a6779557d9a071d",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOV1NPT0dBaXBidElZNG56Y2drUzRlUkJxUEh3aXhySUhzb1VQNzUtSEphVmdZeWVPT0lvci1pX2EyV0pTMy1wM1lGLTl3dkg3cmZ1UEdFZnVYS2Q3clRnbkI1YVdBVXVycWQ5MGlUS3NtVDVTUk15M0NkVnF5djdDeEFWYjd5V0xwU0s5RklHcnlrcEZxSExQTTlOUjlRNGRBNUQ1cXFuaXNyUlpkbWFYMnc1SVlTVGwxQXJhcWVZZDRYdmQ4N0VwYW5PbXlwT0RWalREZ0ZfSHZYRVVtMXlJNmdSbEM2ZzZRc0h2ZlNB?oc=5",
+  "title": "Violences et pillages: Raphaël Glucksmann appelle l'État à \"sortir de l'impuissance\"",
+  "summary": "",
+  "published": "2026-10-19T09:00+02:00",
+  "mentions": [
+   "glucksmann"
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": 0,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "6ea9467540604ef5",
@@ -745,19 +645,79 @@
   "published": "2026-10-19T09:00+02:00",
   "mentions": [
    "lepen"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "dca1ae509193b518",
-  "outlet": "Libération",
-  "lean": "centre-gauche",
-  "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPUWtEQ3ExeV9aQ2JDVW5aWThHN09KMV9PU3FJSGpReGY1SWE3TEtYUmFfb3Q0RjlXT1ZVcDhlWnc4c1llMzhFYVJzSWJGZElIaGxnTUNYZFN2bHM2WDZDV3A3YmRBNnh4c01hek5KRzBlaUVxQ1dUcVZzU3QzUTJScHEtR2xlWEg0NzB0ZkstRVdvQ19Pd25hVlBQTDNyM3FxdXZqNmdtVWJzbklvZTZvR1NSLUZUbTVXZUVGS2ZIOE9pa3Z4WGR0SFp2R0dWNkY0QzJTMU0wejFIeG5hTU5fSDEtdldUZ09zMkdYLUxYMzNvaU0?oc=5",
-  "title": "Chers casseurs, vous êtes les meilleurs agents électoraux de Marine Le Pen",
+  "id": "729dd3fe3a94e954",
+  "outlet": "Gala",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxObEczd3duYVlVbFkwUjBwSk1CRjBHUnpJbFlpUzllNm8yRi1ZaWtDWGoxdTk1MWxTSnE2TGhGejczV1E1QWs4VVFXVVpuRUw2LVc1eVFPblBqT0V6WHNRUzZqb1dlOHdYU0E1VGFGQ2R0NEl5QmlYM1dwRFZHc1F1dDFCVTU3Qkd0NDhPSmEwMVZXVUM4dklpZlcwX2JFMzVZUDRDYVBMZGtRR0RJcjJ1M0pjMWZuZDhCX2lZcDVBQk1PWFJVV3QzLTNCcUhNRFg2b2RDWU9wYklUV1NTUmFBa0p4UktzRG9TOXNrTlBnRHZ6LXJjeWVyNWZDSDVlZXM?oc=5",
+  "title": "Sonia Mabrouk maman de Soraya et Ismaël : heurtée par Éric Zemmour sur le prénom de ses enfants, elle l’interpelle en direct sur BFMTV",
   "summary": "",
   "published": "2026-10-19T09:00+02:00",
   "mentions": [
-   "lepen"
-  ]
+   "zemmour"
+  ],
+  "analysis": [
+   {
+    "id": "zemmour",
+    "tone": -1,
+    "frame": "economie_social"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "79f8baac4dacd7f2",
+  "outlet": "Le Monde.fr",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQMmx1a3JSNFI4QUJRLWJ6TWhyN1NWeHFyV2JmMzZuTGdaSG5wS0FnV0pfZGZPTE5zdHlmR1pFajF1c0VzbmNuLUk2MlJGQXFaSlJ5YklWWlpwTzdCbHg0alZwdUxyREtmdXJhdjVsM0lGeVdza2I2MFJSS1QzYlM2YTVVZndHbGZiUm5LZkxDd3JjNlRoTWN6a1VtbmNQRGVUMmtfM3Z0MEg3QWN0dTl1ZHdPUk1zbTRxdjQxZGIzY19XS0F0clAydHRkeFowQktDWDFvRTdOUEpUQjUwZlQzT09NTHhscmR6bVlLTWZMUTl2eEZDc2l1ZWJvQXdJdUpEampXMmYzOEZ4WmZhcFZhUFRpbkZXeEctSVVvS2VLVzQxT29wU3Q5cWRMMElwLUc1SVF2ZXd4dlBHWXMxU21jMDdDcw?oc=5",
+  "title": "Mobilisation du 17 octobre : au centre des critiques, LFI dénonce le « pourrissement » de la situation et assume le clivage avec le reste du monde politique",
+  "summary": "",
+  "published": "2026-10-19T09:00+02:00",
+  "mentions": []
+ },
+ {
+  "id": "7af4521eb2f422ff",
+  "outlet": "Le Parisien",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOSVhGaVBKWW9VX19uZV9tTUFKV3FwRGg2WE5YM3NaZVN2SHF2UHdRUHdoS2YtY21uZkg0QWp0UC1RNU5YWnJLYzZ6U01MQjhxZTNxLUlsbHBuRF9vZzhSREJFQkh1Vl8tZmRnVTlpSUNBb0RieW8wUTROUkY3LWxtTk5oRDFHdVdmVzdwZEJZYlpJbE1xY1ZqS2d0cE9vZXFlaVBwNzd6N3NJQ2xzYUtwZjFQWTBQaXMzTGF6MkhSSnRUaDZ0SWVFczZKOFhDYThQbzFrRnhvYzdnbHMwRUl2QzdSX3cyb3kwbFZSaUxsMWg?oc=5",
+  "title": "« Je m’en fous » : David Lisnard s’agace après avoir été interrogé sur le 17 octobre 1961",
+  "summary": "",
+  "published": "2026-10-19T09:00+02:00",
+  "mentions": [
+   "lisnard"
+  ],
+  "analysis": [],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "88682ddc04fa8176",
+  "outlet": "Libération",
+  "lean": "centre-gauche",
+  "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQcGJfamxtMzV3cFF5ckhfcHp1bW52VGZEV3dheXFFYi1QVFVveGV2ODRqaEhTb05NSTNoNDhUWVFDaThxOUY0bHI4ekM0NEJvWWN0WHFZWkd3UVBOcDRXUWpaNy1DeGF1MGU2Sm1uSzJERGdxUEVqWk8wVm1abjQ3VVhxUS02UUtOSlY3MDBtVk9KeUtkYVpBb1c2SjcwaTI3dEpuWklNd2FXdS1TV3phNzdlTmRRMDM1VkEzX3dycDFzZlplaEZnYVhHSkVDTmJtWlllZDNGSFRzX1N6c2w5NDgtai16ZkMzSXBFTTEwUThEVDFQ?oc=5",
+  "title": "17 octobre : comment Jean-Luc Mélenchon s’est retrouvé à porter le costume du coupable idéal",
+  "summary": "",
+  "published": "2026-10-19T09:00+02:00",
+  "mentions": [
+   "melenchon"
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": -1,
+    "frame": "economie_social"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "8f5e67d30a729183",
@@ -769,7 +729,561 @@
   "published": "2026-10-19T09:00+02:00",
   "mentions": [
    "retailleau"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "9142813c683e00d6",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPOV83ODRpeGpUT2FCeXozNVNIYU56dXpoRnRWaHpfSEhNYUlxRm9qYWhtam0wVmtqR3c3RkJ4b1FvRS1pWGxTQWswbHQ1MGd5MjVJQ1NGTC0xby1hLUEtdDJ3eTBpdG9VNXBzYUJsUzM2NDFWbllZc2hramtPX19OamZUdWNBZ3Q5M3hfb2FfR0NGZHhORkRIc1BsRk9JMEJMZFlHNkhSaGg5UkFiNVIzZUk5aXJFV2NDdWpfRG44QURraTdYMUpZa3Q2Z2ViVlMwQ3JOUGlzNS1CRUhfcElya2RLb0F2cEFUby00ekM4WFVLNkxuU2FFdjVEZnlIb21hWl83ekJ6dw?oc=5",
+  "title": "Pillages, casseurs: \"C'est 30 ans de lâcheté et de laxisme\", estime Gabriel Attal, candidat Renaissance à la présidentielle",
+  "summary": "",
+  "published": "2026-10-19T09:00+02:00",
+  "mentions": [
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": -1,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "929d82d2a2aa7916",
+  "outlet": "ici.fr",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZ3Vnc2lmX2ZNcWhhYThJZHhiNzlSOTF6M25rTEN4dl9vQjRKM2VIVW56VGtsZFJvZHN5VDduNlkyRE5uVFRsNkpBSjV3Nk5ucVdNdWF1Unh0a25GdDhPb0pmTmdsSmxkMnE3Y3lwcWJqaVliakFadkJlR3JZS2NzREJTOFh5Z2dxbnpCTXhmSjhXbnphdmhERzFiTE5BTHJudU9mX3FkWGxndXRNTWRaNUJUSVpUVHpyUVFLWmczSFpEdFNzNFE?oc=5",
+  "title": "Jean-Luc Mélenchon attendu en Creuse le 11 novembre",
+  "summary": "",
+  "published": "2026-10-19T09:00+02:00",
+  "mentions": [
+   "melenchon"
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "954063de079f2f63",
+  "outlet": "Le Parisien",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPa3dFd1ZMVTVaWU9YaGpHY3NkR0l1dzRsa1NHT3l5M0V3dkJiblRBZGZ6cjB6SU1EdTl2UjM0TTc4YnpMdG0yWC1tNnFZQVdVeVBnSldtVENKR2RpWERRRTk2S3JfQi1DWXhRYXAxLV9COWdKRUdyQ212dkpYdHJFZHNQaGg4X1A4enp5dmxBTjBEeHVyMl9Sc1BUNXE3UVduZC0wVUJsNW16U282RFdRTXNlQ1BtZUQyYjZKejZ4YTFncnE0TUZGUWtyMnlNa01RSERDYS1nQThUWVJ4WjhEWC1LRHN1WmE5ZDVKQy1uNU4wVkhZN2xGVmNDR2luMmFqVzdfdnFiemNNTnk5WGhDdHUxWXNZZDJzQVFzOWFXOW9pZGkwY0E?oc=5",
+  "title": "« Horde de barbares maghrébins et africains » : le député LFI Antoine Léaument saisit la justice après des propos d’Éric Zemmour",
+  "summary": "",
+  "published": "2026-10-19T09:00+02:00",
+  "mentions": [
+   "zemmour"
+  ],
+  "analysis": [
+   {
+    "id": "zemmour",
+    "tone": -2,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "9a40fff16d70cbc9",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxPLWJmMGVuWHVCMjJ1aV9PLUEtWDBxZkZleC1oenZJRUI1bWFIY21KMjd4T1dtRHlHME00ZGY1OEh1TW1uN3FaLTBucjFFWDE1SFB2TlJZWEVCRld2cTZZVVo2bGJaOW9Mc3k0dmV4SHkwZ2d0a3cyd040S19EeGp2WVZ0VklRbWdxSnhLUXVEYmkzeHIzaGxRZ3ZVbVpROTBBMEZhQnFmUkdDYjJkQllZYkdheUl0LTBubjk3TEo3VXBBTnBxV3MyYll6VTlNbVpPZHEwNGtlSi10WUtZQk1lcDJFNjYwWlI4alhJRnFsVUxhRF9NbHFaSG1TOEU5M0xMMlY5STRHXzlPdFZPSThMTVJ5X0hXWTNiOTExenpHMzA3WUZnS05lWlh3dDVOaUV4VkhFcndBVUtoLXJyOWI0WDNob2Y?oc=5",
+  "title": "Pillages, casseurs: \"Le président de la République n'assume pas l'ordre public\", déclare Bruno Retailleau, candidat Les Républicains à la présidentielle",
+  "summary": "",
+  "published": "2026-10-19T09:00+02:00",
+  "mentions": [
+   "retailleau"
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "9f1203848039e0c0",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPcUMtM1hUZ1RmLWxReEFfelhESTJCRzYwSXQ5MXBjb3VpMnEzS2ZDZ1hYWnkxUkdneXl0dnRLY01pdnBPSXV4Z0M3bExuOU5sSHBkUnFKeUpueHRkN0J4YTRlNUNrT3lWTS03c0lzendEbkxqVjk3SFVXSVN2cm5RVHhuZnZ3bTlaQnoweU1LcGFnVXhSU1pDZmo3QmJydVdFNDFpSl9YTU1Za0hCV3dUZ2hRMkRYM185My1FYWhTUlliR1p1VS1rY2NJbnZxSHdaWGtJYlRGRXJyeWR6OXIxeEVkYUNfdEE?oc=5",
+  "title": "Violences du 17 octobre: Édouard Philippe affirme qu'il est \"indispensable que l'ordre revienne\"",
+  "summary": "",
+  "published": "2026-10-19T09:00+02:00",
+  "mentions": [
+   "philippe"
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "a104205f15cb2a1c",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNQVpWTENCeklJYUJ5NjAyTnB0aTY3Y1Qwd0ZlLXdJWXBGZTZxRTJ1cFhaa1NFZ1lJWUQ2ZVNCaGo0SFZtVFdTS19ON2FNMlhHSU1JejhScldzMUZWcnYtTFJ5TVF3QWpKeDJwelo5RWRyQVRKeFNWZy05LUR1R1otVVdjTURqT0hkT1NWRlBwdEFTS3duZE1IT0hPd2NtWnpmRnJNR0FNM3kzWGRQOHBzX3AwUlBIQmZYN1NpSnBPSzdvR3Bta3ZPYmphM1ZVSzgycmVKSjg2OWpQLWhiSTRacU12SDRKaTljWU9aUzFiWDV1MGhJWkxDdE4xcF9DRTd0VWFVWA?oc=5",
+  "title": "Violences du 17 octobre: Raphaël Glucksmann appelle à une réponse \"extrêmement ferme\" des autorités",
+  "summary": "",
+  "published": "2026-10-19T09:00+02:00",
+  "mentions": [
+   "glucksmann"
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "a5b0a3ee3c08a85d",
+  "outlet": "TF1+",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPQjRXdnRsdFJQNDIzRW16SWl3MmNpWGJDRzVKUktOR2ZiQml2dm85b1RRanlMenNCUTV0TlgycUdVVGFUMzI3TGdRNXM1VXIzX2FBaG80QTVJcThYRlM4bmh1RGpnb0p1RzVIRmVEdTIwVGxaRjVHQUxHRjZ4djdWaU9yeUJxSmFQMEFhWENOV1UyRFNIYjJCQlhiWjVRYjA2SEpBMFFaeGpHSXBpUlI5WWpDMDN5RkkwU3ppdXRmWFdHcDZvZGZ4cHNGM0RfQ09wdGI0QW92b2RRNGZxWTJWdXlNSmtvbmRHamZ0ajVSUkZZM1BQ?oc=5",
+  "title": "20h50 Médias - 17 octobre : Marine Le Pen, Éric Zemmour et Jordan Bardella surfent sur le chaos",
+  "summary": "",
+  "published": "2026-10-19T09:00+02:00",
+  "mentions": [
+   "lepen",
+   "zemmour"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   },
+   {
+    "id": "zemmour",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "a7f49aa268fab9ce",
+  "outlet": "TSA - Tout Sur l'Algérie",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOODh5S0tfaVZjbXBxN1JTbFFwRmxNaUdtRzN6V3VveGY0UjVKMVJJSUVlNXA0WWJmSFNIUEo2cUFWdGJwZ1ljQndQSjhVSzdXdkFPTWpmbWhNMEZJN1NmNnJtWFZpRlMxcmJ4bEFHLU9XS3N4cTVOQ1hPeW0xNERJLXZQUVVzU0FIMGJiUjNKM09DR09nZ2FSVmlNdXh5elB0N2txa2kydDZ5bVNZLXpUZ2hWTFY4ZDEtLTNTdGNGUGpZWVl2b1oycF9B?oc=5",
+  "title": "« Ni Français, ni Algérien » : Karim Zéribi fustige Éric Zemmour après ses propos haineux sur les Maghrébins",
+  "summary": "",
+  "published": "2026-10-19T09:00+02:00",
+  "mentions": [
+   "zemmour"
+  ],
+  "analysis": [
+   {
+    "id": "zemmour",
+    "tone": -2,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "a855d76d8f454634",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxOdGdkU2ZPSkRXakFnaW1qVW5ad1laNXBVeFJ3Q3RLODJRem42SVRXMUtJTWFPa0JGbTFBR1hGY2RfbkgwYjEzZmR4eVFBZUJidDYxQ0N3amk2VUdMMzlEOWk4WktZaDBBUERQdVBWRnU5eGxzMkNZV2FpYnUtVTlkanMzdVU2SG5xbVJyWXhHal96cEg1QXJjRFRkc05vdXN4SndGUkc2eVRrbEV3b1lCVTZIX000UnBNejZjYXREV2Q5T2l1bDFVMFZnempGLUQ5cXJNcmd6b2JJa0ZaRmRnUGpBVE5XbUZVQmE3eFpzOVRhUHdkM1lNWkZCNWwzbW94a1ItMVFHWDJVR1UyckFVRUkyQ00yTGpvQk5rVEU5a2ZMdl90MUlfZEdSZV83NFZWbXJxNG00OFRTdHJhcEdwOXlNWGNKMlF1SUQ0ZThvTFNhMUZ3emNHWU54aW9XMWxQYkJMZjM0WlBrRGxvZVE?oc=5",
+  "title": "\"C'est une mauvaise date\": Bruno Retailleau, candidat Les Républicains à la présidentielle, appelle à changer le jour du second tour de l'élection qui aura lieu le 2 mai 2027",
+  "summary": "",
+  "published": "2026-10-19T09:00+02:00",
+  "mentions": [
+   "retailleau"
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "ab8c8d75cb659f29",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPUVJHQ3MzRUVwcElvZG1RckxpSFMyQ09qYy1MdlVMbVlydDJUYWpRN0V2N0JvaE5SdEpUYUUzMzFMQmN2ajdUSTVTd1p4Tmdfc25teURLNjdjTFdscU5ORjBEWWNuVWp6ZWR0LWVfUmpiUEJZbXZqZFN1SkV4d2pvRXRDWWZOM0ZuQU1yVmhHUHZ4MkZwaUs4YUIyRjNnZHpRZXUtYjZ0a2JZRWMzQzE3SFRWZUxodkxERGM1UmtfSk9jTGRRa21RWTZSMHFKN1RHYkdTVDdNYXkxNnBSSkpTTGhpY1M2bGJZSVBzU2xGOA?oc=5",
+  "title": "17 octobre: un rassemblement autour du maire du Havre, Édouard Philippe, perturbé par des manifestants",
+  "summary": "",
+  "published": "2026-10-19T09:00+02:00",
+  "mentions": [
+   "philippe"
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": -1,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "abff91f3eef34613",
+  "outlet": "CNews",
+  "lean": "droite",
+  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTVRIWTJxd1NwbjVqeDhHNFZNenFxX2hFcTVVZzBobnY4ME9ESW1XLXcwUktoMVVROU9RZ3lnUnhPVVRBSUZydndIaXpieGJ4and5WFV2NDJzckVvRkZLUnZxa2xFb1A3M3RYYXdGVW82YzR2LWE0ZXFMOWw2ZVN5UERoR25xZ0xXTDdlRlczS2dyZm4tOUJrWWpVWC0wQ0xEZEkyZWtqQVVlUGp2R001VTU0MDFhQzBTNGfSAb8BQVVfeXFMUFJLUURGNFZXTGFGTjZaaGxySTREWjJQV08zdjNZeVdSd2habk5zTGpNQVpoVW1YLU9nWURBejdyRTdTQjdTWm0ydXdqZnBydFYwdlJXZ2xJRkY0ZkoyTVVMNjliZ2lpVFpEbVdSSENhejFtWmFNak90RU5sWkRBZHpxb3ZRT0xRM0NEQjFKQ09xdGdCSEJHY2RqbEhKLU5Pbnd3VjIzRG1jbmVJWm01Sm1TN0lXYlhXajQxc2xkck0?oc=5",
+  "title": "Violences urbaines : «Jean-Luc Mélenchon se pavane et se satisfait de cette situation», charge Karim Bouamrane",
+  "summary": "",
+  "published": "2026-10-19T09:00+02:00",
+  "mentions": [
+   "melenchon"
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": -1,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "b65b942bfc91d4a0",
+  "outlet": "Yahoo Finance France",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMWlxR2Y3eng0am5TSGQ0YjN1Rk5QSWx0Z1J3V0dfVHFMaU9ZZXNxSDJETTNaMnFXYTI4dnhBdDRsR2d4bGNBU3NFSFdXTm41X1kzWGpzSEZXek1vanRNeHU3dTNZM29NRXFrMFJnY01wZGpJanFIaWppMXR3SElqdnhSOUdkQ0RuMFQ1LUZHZEdwTnBTNm9DQlBPUEZHTV9FOWFWRHM1QQ?oc=5",
+  "title": "Bruno Retailleau réclame l'état d'urgence et juge le risque sur les taux français déjà consommé",
+  "summary": "",
+  "published": "2026-10-19T09:00+02:00",
+  "mentions": [
+   "retailleau"
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": 0,
+    "frame": "economie_social"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "ba7a3a6cf749a22f",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPRFJobHk3b1ppLVpyc0FlaUdjcVBIakVOWjdXZndZeHVjQ0pLVnB2Q1haX2JHUkpWME03WWV5N1dTU2ZGRVZnNDllZmV5YkRWX0ItRXNQTXljQUFZejlzc1pBVUxWOHlGd1lmUXRiREhSZ0hDWEpBSndGVFBiQ2hldzdFU3pfZE93OGtLVWxjMVRvd3hobW1uZkZCY2JGczFMRjBpYmVQZG5kNVBNN04waTFmbHJNZGFEdkVyZXloV2JuOG1uMlc0VVRERE9teGV1UkVOZkxSVUhsRVh0OUQtemgyaERubFJYRW4zRkVERTd1MENNajNHWWlrRDgyTHloWFpQY0FKMlRSOVBRWVg0UHRiUWI5QnR6MFR4YVBiS2N2TkliR0VEb1hNY0gzSWV5ZEZKVnBYejBKSEJJcG9uWEdaT1NxdENzenotTQ?oc=5",
+  "title": "\"Les Français ne toléreront pas que des prédateurs s'enrichissent\": Attal et Bardella demandent à Vinted et Leboncoin d'aider l'Etat à retrouver les voleurs",
+  "summary": "",
+  "published": "2026-10-19T09:00+02:00",
+  "mentions": [
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "economie_social"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "bb56ae35b7949a93",
+  "outlet": "Le Parisien",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQTmNXdkJBZkJqaWJKc0FOQUREU182RnFoUDA5RGZyM3RJTGp3dmJfS2pud3cwTnV6RW1EZDl5N3owdnlYRDQxOENQa2t6WE9tN2VCcF9qVExuYUJqbE1USVU4dFFIdERjYVV1d000V1lrNnZnTkVyb0ZPSlV5d1FrbnY1Sm15NGdfQ3lIY2lwWDJWc3FQX3M3MFJBWkI0VXoxTjVoUlRqY1BFeEt5N3Yxa1ZZdG1QYS1EWTl3eGZhRjJMaGoxMFV6ZFJCanpXRVFtaVA5X2VFbjE3cEtlcHhoT0czYUxWN1BzaWxsNGtKMWY0UmlFaG5hbk0zd0Q4QmdIMGNQYS1waVoxZ0tMMmpJLWFYeTdEMm8?oc=5",
+  "title": "Violences du 17 octobre : Gabriel Attal estime que « le gouvernement a failli » et appelle à décréter l’état d’urgence",
+  "summary": "",
+  "published": "2026-10-19T09:00+02:00",
+  "mentions": [
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "c5ccfff446370b1f",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPcTA1dml6OC1aemEtN1NENzRlTnZfVWtmT1RxN1ZjRElYR1ZZZmd6MUtFUlREWlVPMkhzYjJMVy05Nm9hMEJVYkZYSnR3QTBzdWg1Z3ZUVnM3cHprQ2FVTTJQOXdzdlRfQzRpcUFQbE5BbzNUdEtGSkViZ29DcU85Mm5CQzBhYWRqa1JyWnh0ZUJMY1N0cXBVY25fOTVMMG1EVzlsMmVUOG4za0dFSk1UU0JDTWpSMlN3bXpuMnBWUVN2T1hGUlVEX1JsYVFnRUQxUExjcGpzUUQ1TmRmTVhRWUUwV1ZqOC0xY043ZXlsU2U?oc=5",
+  "title": "Violences du 17 octobre: peut-on bloquer les réseaux sociaux, comme le demande Gabriel Attal ?",
+  "summary": "",
+  "published": "2026-10-19T09:00+02:00",
+  "mentions": [
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "c8b00e0600e6e129",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxQUkJsejg5UGJBUTdEZzd4c2dyUVhsdjk5ZDc1SHdPNTZiVVZRYkt1ZmdPd2pXOGpiUl9DdVFhUDJwTzcxM0JFV2JudG9PSnlKQVpfTmJ1ZHMtM3F0UmR0eTU4Wm1rczZjQ1EzTHFCRF9ScGZRQW9vTGN1cnRrWWcya2FaUTdwWkdBc2M3TGw2TGRxdXdwSkV2YkplczRRdDlZSGtDblBWc0VMMFMtOEtrQ01DYVBpclJ6ZV9iT0J1aGhwaEVvWElRYmcxb2doNzNLWFJMWW04czZDM01YTWs5d3JaLTVWcGdPSHgzVXc1N19wbjE2ejYwT0hnZzU0cXlpS3ZIaXh6WEQ0R1V3eGFrU0hkSnUza0NPcXN5WFg3bFBHX3JhVjZ3YXh6UXl0aUpPNVYwR2hQamJvbnBIYzEzVA?oc=5",
+  "title": "\"Bloquer temporairement et de manière ciblée\": pourquoi la proposition de Gabriel Attal d'interdire les réseaux sociaux est compliquée (voire illégale)",
+  "summary": "",
+  "published": "2026-10-19T09:00+02:00",
+  "mentions": [
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "cb1fc61508c2a71b",
+  "outlet": "Le Monde.fr",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOT0FJTEcxWGNSbXAzUVJhdG4yUGRDYk9vWktqNmV6blE1dW5qME1Ueklrb3NVbkJEWm5YYXhZdW8taTFhSHBid3V4N2hXNUdkQ0lFNlpUM1QwTXNtemNGSVRVb0pyNlM0T3ppQUJ6WUgwaWVDV2lyNm5RTXltZ2dJVmUzMVZqMkdjQW9fUXpvVno0dTN5UERKdnhvSW9LM2NpZDB2M2p0clFSU2RFVC1KLURNek5TeEJuSENXU2IzYWUwb3RQelEwWFlFclBVaEhYSXBBRW41bmtlU1FaN2NRMFRmaW5fTzdVTmp2eGNtc1FBWm9qMTMxYjZsaU81Sl9XNG1vNlNha1h6MERNT19WZkRB?oc=5",
+  "title": "Présidentielle 2027 : Nathalie Arthaud, candidate à une élection dont « il ne faut pas tout attendre », a démarré sa tournée des régions près de Toulouse",
+  "summary": "",
+  "published": "2026-10-19T09:00+02:00",
+  "mentions": [
+   "arthaud"
+  ],
+  "analysis": [
+   {
+    "id": "arthaud",
+    "tone": -1,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "ccf8da38b9e6e82c",
+  "outlet": "Le Nouvel Obs",
+  "lean": "centre-gauche",
+  "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPTjVvc0lBcFhPV2E4QXJoNUllVWc4VVhSbW9hbDF6dDlHZXVvblZJdVlyUHRZd3ZyRllXQkhRWHgydklFN0lYUFE5bGVTRTM3OWZLSG8zREpDcEd6bUxIQllZMy11SE1YdlRBdUNWQ01Zc3F2VHVaaTFkcms4aDRDQjlGSmtmOHY5bjdjNmRNYW4xUDBhUW5LODROVmQ0c3YzUE9IUDJBTVZlUXhvTFVQNTR2MF84UFprQ0lLZFcwZ2tJYjgtTGlYTzB0bTNmNjhIMzk3OWdickVyaVpjREE?oc=5",
+  "title": "A Raphaël Glucksmann de démontrer qu’il entend faire une place aux classes populaires",
+  "summary": "",
+  "published": "2026-10-19T09:00+02:00",
+  "mentions": [
+   "glucksmann"
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": 0,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "cdcf335bbd4c7902",
+  "outlet": "La Montagne",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNS1pEN1A2WXlPVHNJazFfR3ZqVnBCbGluc1d1SnVULTRUSU8tVXYwd0RYbGd4Vng1V3lqUnRicThBRUJHeThpVzROR0RuaEVUUUNmZEhTdndTWDVfVUhxZHZJMjFXckQwMWFab2ZGNkVRanlpVnFUVlhxV0hlWVBqU01xamx3WUZNcjdFZXBzNWwzV2hIWGVrblp5UnctQk9QTW5Qd2xNOEp0ZVNFM3BMTm1keEFwQzJwUy02WFU0Q1VweHRhSUp3?oc=5",
+  "title": "Que vient faire Jean-Luc Mélenchon en Creuse, le 11 novembre prochain ?",
+  "summary": "",
+  "published": "2026-10-19T09:00+02:00",
+  "mentions": [
+   "melenchon"
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "dca1ae509193b518",
+  "outlet": "Libération",
+  "lean": "centre-gauche",
+  "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPUWtEQ3ExeV9aQ2JDVW5aWThHN09KMV9PU3FJSGpReGY1SWE3TEtYUmFfb3Q0RjlXT1ZVcDhlWnc4c1llMzhFYVJzSWJGZElIaGxnTUNYZFN2bHM2WDZDV3A3YmRBNnh4c01hek5KRzBlaUVxQ1dUcVZzU3QzUTJScHEtR2xlWEg0NzB0ZkstRVdvQ19Pd25hVlBQTDNyM3FxdXZqNmdtVWJzbklvZTZvR1NSLUZUbTVXZUVGS2ZIOE9pa3Z4WGR0SFp2R0dWNkY0QzJTMU0wejFIeG5hTU5fSDEtdldUZ09zMkdYLUxYMzNvaU0?oc=5",
+  "title": "Chers casseurs, vous êtes les meilleurs agents électoraux de Marine Le Pen",
+  "summary": "",
+  "published": "2026-10-19T09:00+02:00",
+  "mentions": [
+   "lepen"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": -2,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "de51707c97c72eb0",
+  "outlet": "Le Figaro",
+  "lean": "droite",
+  "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNQ1BOQ05zLXNsS1RDZ09DV2kwN1pxU2l3X2pYNGJ2cmZhVjZIYzRYcklnanNPZWhmZTQ1TU9WLUJMcUI4T2VIdG80WWh2anJXb3JFeXRTcEU3bWFyWWRDbGVFcEhZU1g2RFdFLXRsNWItV3VuZ3lOVjVvY3lsT2F0Z3l6LVR2bTR3VlBqUlRkbEsxSWZxLTdRMlZ5Si1GVEdfNm9vd0NQOE5yQmp6THhXSmR4RC1TeWdmOGNLVTdfQk9HcVpFRkZXSXd6YlY2ZXJobkV2TmpWa3l5R2F4aDBWb3V0Q1ZqVUU?oc=5",
+  "title": "Violences du 17 octobre : Gabriel Attal plaide pour le recours aux forces armées «temporairement»",
+  "summary": "",
+  "published": "2026-10-19T09:00+02:00",
+  "mentions": [
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "df02ebadc772d747",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOS2RodUpSYWprd2l5U1g3Y0w1SE9hQ2xSbDFYZklJczlDeVlxeWJQemppbGljY3dpSHZhR2xOSjU5NHpUOWs3UUFrN2hOUWRqVVNwVkNnZDgtbHdwWndZbEhpNC13aGYyNmw2YW1nbm9RWEJuM0JhMTVIb1VqTGN3ckhDYVdzVGtWUlpoLUJVT0dORWRneUtGeXJBcnRsa01SdXIwZklZLVkwYlpkNHNpSUVBVGxTQkRIUmVmRXMwdHJQU1hmSnZyMmN0bndWUm9MdnNKTlQ5TGZUT1FRZ3JJQ0tlNEctbi1Jdnd5MmFQMUU1WF8xd0JiWDFZT1c4QTFpaEpUaVln?oc=5",
+  "title": "La porte-parole du gouvernement affirme que Jean-Luc Mélenchon prône \"une forme de sédition avec la République\"",
+  "summary": "",
+  "published": "2026-10-19T09:00+02:00",
+  "mentions": [
+   "melenchon"
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": -2,
+    "frame": "securite"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "e796cb78f0f7eb68",
+  "outlet": "TF1 Info",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOW55QWNwRndUQkpDeDlzd194bFdiQWJWaUhuVldpa1ZpVnVqaWF2bEtSZHZUYV9QMUVHd3NxTm9PZEM1dnNWZ0pJRjZ4N1FSVFZwdWlLYjBEVS0welBDclFFRDluWExCT3BrU04zekhNTG9YZE1yeFVKZzFNdUk2WnJvU1g4bnIxVndJaXl2bW42ZUI4REJMbXlnTDJuZmxHOEdoUU4wUEpoOUszNE4xcUJsWFM3U3VnX1dRM3NvWHpLa01zZmFj?oc=5",
+  "title": "Violences urbaines en France : David Lisnard, invité du 20H de TF1",
+  "summary": "",
+  "published": "2026-10-19T09:00+02:00",
+  "mentions": [
+   "lisnard"
+  ],
+  "analysis": [
+   {
+    "id": "lisnard",
+    "tone": 0,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "ece8f6118f86b454",
+  "outlet": "20 Minutes",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaWdDNEhQOFpEXzI5aDlHWERhWTFBVXA5TDZqY2lMXzd1aW9fOFI1a1YxZkVxNUtlaks3dnJKOXdRaDM3aXBIclIyY0NPdENHRWJ4ZnV1R21fTFV6VkZVTW5MblFEckc0Sjl2VThnQmJmcWl6TGVWa09XOEdyem1OQzZ2VVlfMkg1VF94bjRlLWNzMUt1QkM3OVRLWWZSZHpXUEFtMDM5aENLS3hJb1RTeVNPODNXeE1UdWdJVzFXM0dIdmc?oc=5",
+  "title": "Sonia Mabrouk remet Éric Zemmour en place sur l’origine des prénoms",
+  "summary": "",
+  "published": "2026-10-19T09:00+02:00",
+  "mentions": [
+   "zemmour"
+  ],
+  "analysis": [
+   {
+    "id": "zemmour",
+    "tone": -1,
+    "frame": "economie_social"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "ee781758bf4f8f09",
+  "outlet": "Yahoo Finance France",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUko4TWxiVTVpOE5HcXh4WEl1VUJLcnBiNExjYmFmVGVRek5hazBtUFN1dDc1cmdOUjFkcWpMMWM1b1NOZDVnT29MRjFLWkNwNFRTLVhrVmRqUFZGemNFVlpTMktNRkI3YlplV0JhUTJ3YVFzOGxIcXFfV0tlWkQ1NzhoUVVIM2VMNGRVdmhDV2w0SjQ?oc=5",
+  "title": "Gabriel Attal veut pouvoir bloquer les réseaux sociaux là où ont lieu les émeutes",
+  "summary": "",
+  "published": "2026-10-19T09:00+02:00",
+  "mentions": [
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "f6ab8f14b3d73910",
+  "outlet": "TV Magazine",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQYTRqSWZZbnowSXRaWnVoOGpQSVMxbmpMMm9Na1MwdHJiOHNzeGtYNjB6aGpzRTFtNDBBQlFZNXFGUVo4ZGpsOFpuMkN1WUdmWFoyWFlUYkZpRXViS3poRTREeUhZOWVjZmkyU1ctZTBISjdOd3FvQlhhakZPekRXNVFBTmpvdUhqaHpjMDA2cVFOZDNGTFhqUmVrY0tzRjdTbl83OXNtZ0pZQ3NiNjNIQnh0Z1ZPemNBalJERW1oejB5eFljRXUzZ1RSOER2RE1ic2cydThsZGZEbUZDQ3I2ZjM5Rjc4T210Q2Fz?oc=5",
+  "title": "«Hordes de barbares maghrébins et africains» : l’Arcom saisie après les propos d’Éric Zemmour sur LCI",
+  "summary": "",
+  "published": "2026-10-19T09:00+02:00",
+  "mentions": [
+   "zemmour"
+  ],
+  "analysis": [
+   {
+    "id": "zemmour",
+    "tone": -2,
+    "frame": "economie_social"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "feacb928c3af30c5",
+  "outlet": "Orange Actualités",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPN3owYUUxMGFKbWRiN2xPN2FGTUY4ei12cmYwTFh2RzBhLVRKa0Rqd1RsTlh4Tmo3b2F5QVczbE1NLXMxOWFtVlFVeVBRRXFWZ3lRa1lEX1lMcHlxdy1pY2lPMVJsT0Q1Z0lXcXRnYlpraXIwOENfTi1IM2FaWVUxV1YyRGpjaXpQMzRONEx3TWdtZFF1dHMwenhFUzByNlltMTJhRm9VWDdNQi1FZ3RUbTI2LWpiR25ZYlNKT2w5T0RqUFRKRUpwaUpmMEJSZ3p1ZkxKN1FQV0J5V2Z6MEFmUkprMXVHaHZxWkFwbExSMjF2Zw?oc=5",
+  "title": "17 octobre : Gabriel Attal propose de faire intervenir les forces armées temporairement si nécessaire",
+  "summary": "",
+  "published": "2026-10-19T09:00+02:00",
+  "mentions": [
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "0ae61897003fa141",
@@ -791,7 +1305,15 @@
   "published": "2026-10-19T14:00+02:00",
   "mentions": [
    "attal"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "8570c01b30fd8d23",
@@ -803,7 +1325,15 @@
   "published": "2026-10-19T14:00+02:00",
   "mentions": [
    "attal"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "da2a6c629c546d3f",
@@ -815,7 +1345,15 @@
   "published": "2026-10-19T14:20+02:00",
   "mentions": [
    "ruffin"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "ruffin",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "73b882fd26f27705",
@@ -827,7 +1365,15 @@
   "published": "2026-10-19T15:15+02:00",
   "mentions": [
    "attal"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "a0cf0d93f42e21c6",
@@ -839,7 +1385,15 @@
   "published": "2026-10-19T16:58+02:00",
   "mentions": [
    "roussel"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "roussel",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "fe593e305ba7fc9e",
@@ -851,7 +1405,15 @@
   "published": "2026-10-19T17:15+02:00",
   "mentions": [
    "lepen"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": -1,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "0b9753386ca34767",
@@ -863,7 +1425,15 @@
   "published": "2026-10-19T18:56+02:00",
   "mentions": [
    "lisnard"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "lisnard",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "4441906e66d915c5",
@@ -875,7 +1445,15 @@
   "published": "2026-10-19T19:45+02:00",
   "mentions": [
    "attal"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "c7f6202fb7a4a599",
@@ -887,7 +1465,15 @@
   "published": "2026-10-19T20:33+02:00",
   "mentions": [
    "retailleau"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "c472437a877f3a67",
@@ -900,7 +1486,20 @@
   "mentions": [
    "melenchon",
    "dupontaignan"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "dupontaignan",
+    "tone": 0,
+    "frame": "programme"
+   },
+   {
+    "id": "melenchon",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "4190366292f01111",
@@ -912,7 +1511,15 @@
   "published": "2026-10-19T20:58+02:00",
   "mentions": [
    "retailleau"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "78e4b854591cdb55",
@@ -934,7 +1541,15 @@
   "published": "2026-10-19T22:08+02:00",
   "mentions": [
    "ruffin"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "ruffin",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "6cf9143b8518bf50",
@@ -946,6 +1561,14 @@
   "published": "2026-10-19T22:58+02:00",
   "mentions": [
    "glucksmann"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": -1,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  }
 ]

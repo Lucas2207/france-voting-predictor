@@ -1,39 +1,23 @@
 [
  {
-  "id": "1be7687b997bf79f",
-  "outlet": "TF1 Info",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxON0x5ekdOZkRFakp0NGl5bU83RmRaTF9FSVhhNGwzRlRFS1podExaRWhxQ2FNbTZhSUYzWU8tVEFkUGJ2amp0UmE5bm5jTnQ5RVZST2U1TG1nRjNKM184eFlyQ0JIMjdqVXFZQ2phSGx2T2xCN1ZncnV3UDlydXQxOGdQLWp5dkhub1J3WWZzMnRjUlpOWkIzcTJhOHk2ODNMVC1mVGx6bllIWWZ5anVtdTNkNEJ5djFVTkI2UTNEbHJNZFlsQkxlc0l2YWppNTQ?oc=5",
-  "title": "Marine Le Pen inéligible en 2027 ? Le RN retient son souffle",
+  "id": "043bfb9b90123d84",
+  "outlet": "Ouest-France",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNd0RSaGtOSUtHZ2FCSEJ1c3FOX1h3N2tkaGV2a2tmUzJ3NDROWWZZbEMydU04Wl9rcFE5NkhZNGlTcDdzSjZLbkxmTDlZUkpTMDExemJQS3Y4Mm1hckh0aHNjZ25kVXo5d3hUbXNzUi16ZEFzQ3pnSHppTWQ4anVSLXhhWnhJanlRak1vS2tkdW9HTUY2V2hmaWpJSExta3VLNHpJM1pOdFEzRnJ1NVFzdzJ0c1MwWVJ3ekQ1UlZwOUVVOVRVX0NJZ044Y2VDcWplYjdwYXJTUDBLOE12X0VlRUE5OG1KQ0dORGU3SWF0QmhIei1JNmN0M2hQNnBJUW15?oc=5",
+  "title": "François Ruffin annonce le dépôt d’un texte pour mettre fin aux « privilèges » des anciens présidents",
   "summary": "",
   "published": "2026-07-06T09:00+02:00",
   "mentions": [
-   "lepen"
-  ]
- },
- {
-  "id": "84e15689e2a6d82b",
-  "outlet": "TF1 Info",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNU1dlemI5bkVxMEJnNWg4aWFERVNMdW9IclVGYUFrT0U2bEM5X0VHZGtSYmFiS2xQYXVJb2VvbWlkNmRpRUhuNTNRR1ZmV2U0SzNpVFpFRzR4SHV4NVRuZFBneVYzUGhZcksyTmZnQ25aRmNKcUFmM1YzVGwxU1F2OUs2bXUta1BENDBicElLLXZzTjgwRE1vNl9lclBzanVEei16TERWUEI0Yi1sXzJyaU9VcmF0el9FUXhDTXUtTGVEQ3JOd3Y2TnFXcmNidw?oc=5",
-  "title": "L'édito de David Revault d'Allonnes : Les 7 travaux d'Édouard Philippe",
-  "summary": "",
-  "published": "2026-07-06T09:00+02:00",
-  "mentions": [
-   "philippe"
-  ]
- },
- {
-  "id": "f6811bd492c2c7e9",
-  "outlet": "Presse Agence",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOR1RFeUJRbGUxLXZmZXpaT2g4enpUa1pNWmJteDBmeGNwTFFPbnlqM1p4NktnM2M1REJ0VFc3YnRONzRiREtkZjdSUWtyQU5udXUyNlByTW5GWm5TUWoxTmFDSTVUM3ZHcnNpalFLV3JnZGRVT1kyRGlBakpwbERTVUE3M01wdmM4bU9seA?oc=5",
-  "title": "Éric Zemmour : « Le responsable c’est vous, Monsieur Bayrou »",
-  "summary": "",
-  "published": "2026-07-06T09:00+02:00",
-  "mentions": [
-   "zemmour"
-  ]
+   "ruffin"
+  ],
+  "analysis": [
+   {
+    "id": "ruffin",
+    "tone": 0,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "0e6edae300284aff",
@@ -45,7 +29,135 @@
   "published": "2026-07-06T09:00+02:00",
   "mentions": [
    "lisnard"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "lisnard",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "19a68d6ed2a434fd",
+  "outlet": "Le Parisien",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOZjdzZFpDVy0xRTlVNmlSMzJHcnc2R1FWTmlYZl9MX2xwdUxHQ0VsZnNFRUo0c0ZWWnM5RFgyN3RKanVlWDlrWS12ajVwdnlrSFBrOFpMN0FyaWhFTjJsQjk3a0VfZHdpVHo5SExPUnctTGZ0WENiQnpBOE5HNG92NkkwaWpkMmNZaU4zcUR1SWl5bFlyd1VoZS1SMWQ4U1RrMWJkczRpUThTZkhhcXA0SXlhZF94aUJZMnlhU1E3VzJ5THBkTGJHYU00OW90a1lDWktSUjBtNF9kVkp3ak42d2pFZDBkT1pCWllVZTcxc0tScUk4UmZkNGs4alZ6VzZjd09hMXVqdmt5S2tnS042RnVrZ0pqYXZ4bXNXckFuU3o3eDJB?oc=5",
+  "title": "« Macron pourrait nous coûter des dizaines de millions d’euros » : Ruffin veut mettre fin aux « privilèges » des anciens présidents",
+  "summary": "",
+  "published": "2026-07-06T09:00+02:00",
+  "mentions": [
+   "ruffin"
+  ],
+  "analysis": [
+   {
+    "id": "ruffin",
+    "tone": 0,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "1be7687b997bf79f",
+  "outlet": "TF1 Info",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxON0x5ekdOZkRFakp0NGl5bU83RmRaTF9FSVhhNGwzRlRFS1podExaRWhxQ2FNbTZhSUYzWU8tVEFkUGJ2amp0UmE5bm5jTnQ5RVZST2U1TG1nRjNKM184eFlyQ0JIMjdqVXFZQ2phSGx2T2xCN1ZncnV3UDlydXQxOGdQLWp5dkhub1J3WWZzMnRjUlpOWkIzcTJhOHk2ODNMVC1mVGx6bllIWWZ5anVtdTNkNEJ5djFVTkI2UTNEbHJNZFlsQkxlc0l2YWppNTQ?oc=5",
+  "title": "Marine Le Pen inéligible en 2027 ? Le RN retient son souffle",
+  "summary": "",
+  "published": "2026-07-06T09:00+02:00",
+  "mentions": [
+   "lepen"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": -1,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "294bd7d6f9fd1f5d",
+  "outlet": "Le Monde.fr",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQc2dXUTUteTg3OXU2U0NVU3ZOZGE5UExMeFV3aGpkZ2xvNFZhZlpQbTllb3VFdjhmcEZkbEFfa1FvczFkemRJN1FaUGtmcndDbGlKelA5cXMxVlZmek1ia3RRczd2TGNxeWhiLU9KYk5rYWNTV19aUnVWWXF6OE5wOEhfSW8xeXAtejhMR3pXUS0yQjdPRHQxSkFqUEVjTDlsb0Z6cWljcnMzNlN2UkZIUGJKZVNHTnNveUdfYXFPYXVYcHZ0YnZrLWQ0N2V3Z1lXYjBCWjRhb3VFZXlmSm12dVFHQngxRmJSbXhyNg?oc=5",
+  "title": "Au sein de LR, le cas du général Gomart, révélateur des ambiguïtés de Bruno Retailleau",
+  "summary": "",
+  "published": "2026-07-06T09:00+02:00",
+  "mentions": [
+   "retailleau"
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": -1,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "3d24bb1116a41327",
+  "outlet": "franceinfo",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQOW1OQlVvU01leU5RMXJIYnVsNmRKdmtFd3JkakVWZVVkUFhhekpQcGozbXpxalA0VzlNbDhxZjVwZ1hwcVJlMEpROUc5QllPSDRtZ2E3QnlfXzh1MW1wdGJiamdtY1dydThTMWtnY1pnc1NGaE9iVGFWZDRycXJHd3dVWms2NDZheTJQM016RlllQkRXeHVaa0dvYk1DcjBneEFyTEJjMVdvWEQtSzhQUVc4cGZ6NlVkWG05eXN0MjltWDZxUXdicHJyZHRoSjNQdzMwNG15OV9BcVdGR0kzeHVwWWtWLU5ZeTFscmxPY1pkY2JCd0RwRzVTOVNOazVVbnM2bWloUXZsOTN4ZHE0ajlhSms1NVpDeFJQSG9CeFBZNHFCSWh6b0F5bDNwdWk2M2c?oc=5",
+  "title": "Édito. Pour son entrée en campagne présidentielle Édouard Philippe promet la vérité, mais reste très discret sur le contenu de son programme",
+  "summary": "",
+  "published": "2026-07-06T09:00+02:00",
+  "mentions": [
+   "philippe"
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "43cbbde6d305e4f7",
+  "outlet": "Corse Matin",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNYjA3WnNxT3pnWGNpbnMzQnY2TjJpR0l3VWdVNXFPdnlHT0Y0cVdvQzBJbnJVWG1MZmFxTVN4S3lDRWQyVFFrVFVaTGg5UTNIRTAwcFl2T08wTkg5OE1lSm1EbmdjMHFWaTdmMHA2RmJGZzVrRDkxUENveDdGMThsNVVrdEhmOTRKcVhyTERJMkl5UjN1N0VUM1pnTjctTWt2ZkF2X0hueUo1ZEFMcGg0RDBvRmNwZER5VnZKaWhZRzRnemU5NXQ3djRmUlVLOU9idHAtQ3dLWUNKS2FPS0xUc19id3lIUGJ4dFE?oc=5",
+  "title": "Fabien Roussel, reconduit à la tête du PCF et \"à 85%\" candidat à la présidentielle",
+  "summary": "",
+  "published": "2026-07-06T09:00+02:00",
+  "mentions": [
+   "roussel"
+  ],
+  "analysis": [
+   {
+    "id": "roussel",
+    "tone": 0,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "4515b4271c4ffe6b",
+  "outlet": "La Lettre de l'Expansion",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbDA1UTZSUnFYd1hqUzVzS2JlNXlOcTh6VEVqUlhTY2pXUWNpWjNyc0tjcmxUU2R4YU96X1J1bUxqSHh6TFh1aGpXUXBsamFtUkNVaE5sanNIeklHdFk0YnVOYTdwSDdLSGJ3S0Q0dWFVNzNNZzhzLWRwX3BMLXRRNXhLT1JEMFZTaHFEOHdkUWc0a3BlLWk5LWs2a2pxREtwbENmdEUtbkZCQTROa2RoUjN6elN6dw?oc=5",
+  "title": "David Lisnard recrute un préfet pour la direction de sa campagne",
+  "summary": "",
+  "published": "2026-07-06T09:00+02:00",
+  "mentions": [
+   "lisnard"
+  ],
+  "analysis": [
+   {
+    "id": "lisnard",
+    "tone": 0,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "72c97211e8de9049",
@@ -57,7 +169,95 @@
   "published": "2026-07-06T09:00+02:00",
   "mentions": [
    "lisnard"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "lisnard",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "739d7fefd1fcd4d7",
+  "outlet": "franceinfo",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPSlk0aEFwLWZ4WlMwNUxXVlZPM3NiMmNKZGRkMm5CV21nR2h1cHZoU2tlcEhXelpsbG9YaTNENEZHcjE2ZExGbExoUE4wczlETGdRekdMQWlBRnZLc0pFZ1lGR25JZnVFYnh0dDRJWjNmNThQSjB0SXVuMXhzRE5nRWRaZW1ROFV0ZXdUZzFzY0RlVUhlUTYyVnJTYzZBcnVGSEZqR1NCc3hkNm1OYVVEaUFKZk8wVk9uTHdramxvdXBnNkZwUElXTXl1MTY0MnJENUg2OGV6Xzg4Uk0xMVpMME00ZWNhUHdaMDVpQnh4QmhydGxPM3h1Z0t1R0hEbHNY?oc=5",
+  "title": "Le député François Ruffin annonce le dépôt d'un texte pour mettre fin aux \"privilèges\" des anciens présidents",
+  "summary": "",
+  "published": "2026-07-06T09:00+02:00",
+  "mentions": [
+   "ruffin"
+  ],
+  "analysis": [
+   {
+    "id": "ruffin",
+    "tone": 0,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "754c1c3f5b554a4c",
+  "outlet": "L'Est Républicain",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQm1uYnhtQkgzQU5DNmdfcGh6c1RuWTY3RUZJeFVtd2ppMkdoZEVXZ0dReE1jdGw0WDVuaGdlbUJOdU5FVVdXS2t2OGtxbVcxSWJFcGs4NUJCbHFrRVU0OTVDeHhQNk5VVUN0TmpwaXRJVWp4VmtrSUg5OUIxb2JKQzZseldleXZscEpRdWs5S1NraVhQNE9aLW9MQXlwc09UdW1EZg?oc=5",
+  "title": "Vesoul. Nicolas Dupont-Aignan en dédicace mercredi à Vesoul",
+  "summary": "",
+  "published": "2026-07-06T09:00+02:00",
+  "mentions": [
+   "dupontaignan"
+  ],
+  "analysis": [
+   {
+    "id": "dupontaignan",
+    "tone": 0,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "7812df61b092007f",
+  "outlet": "Radio Classique",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSlp1LWNSVVR1ZnFxbExvdEtENXNMeVBuWUxwZFVhb2tUa2FEWEM0UXloQ0xGRUJucFMyZmIzZGZFNEVlVVlLS3JzcGxrUFY2amRyQXJ1ZHh5NVgtbmJsR3BwMVk3bkx3UUJLNjlIcTI4SmFPZnEzNThWZlFsUzRrMFBVa3hNZGItX1FlN2o3aHZWejdlT05TZDQ3eE5jNWR1UGJxZ0JtZ1VFWTlGcUU4cExyb0dRdw?oc=5",
+  "title": "Présidentielle 2027 : un lancement de campagne réussi pour Édouard Philippe ?",
+  "summary": "",
+  "published": "2026-07-06T09:00+02:00",
+  "mentions": [
+   "philippe"
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": 0,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "84e15689e2a6d82b",
+  "outlet": "TF1 Info",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNU1dlemI5bkVxMEJnNWg4aWFERVNMdW9IclVGYUFrT0U2bEM5X0VHZGtSYmFiS2xQYXVJb2VvbWlkNmRpRUhuNTNRR1ZmV2U0SzNpVFpFRzR4SHV4NVRuZFBneVYzUGhZcksyTmZnQ25aRmNKcUFmM1YzVGwxU1F2OUs2bXUta1BENDBicElLLXZzTjgwRE1vNl9lclBzanVEei16TERWUEI0Yi1sXzJyaU9VcmF0el9FUXhDTXUtTGVEQ3JOd3Y2TnFXcmNidw?oc=5",
+  "title": "L'édito de David Revault d'Allonnes : Les 7 travaux d'Édouard Philippe",
+  "summary": "",
+  "published": "2026-07-06T09:00+02:00",
+  "mentions": [
+   "philippe"
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "89aca9376b952369",
@@ -70,31 +270,20 @@
   "mentions": [
    "philippe",
    "roussel"
-  ]
- },
- {
-  "id": "754c1c3f5b554a4c",
-  "outlet": "L'Est Républicain",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQm1uYnhtQkgzQU5DNmdfcGh6c1RuWTY3RUZJeFVtd2ppMkdoZEVXZ0dReE1jdGw0WDVuaGdlbUJOdU5FVVdXS2t2OGtxbVcxSWJFcGs4NUJCbHFrRVU0OTVDeHhQNk5VVUN0TmpwaXRJVWp4VmtrSUg5OUIxb2JKQzZseldleXZscEpRdWs5S1NraVhQNE9aLW9MQXlwc09UdW1EZg?oc=5",
-  "title": "Vesoul. Nicolas Dupont-Aignan en dédicace mercredi à Vesoul",
-  "summary": "",
-  "published": "2026-07-06T09:00+02:00",
-  "mentions": [
-   "dupontaignan"
-  ]
- },
- {
-  "id": "f1c9583b1c3209c5",
-  "outlet": "Orange Actualités",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQYUNjWmhNbU9qMmNVeDl6UnR6b2Vmb1NFYm1naGZJSEpqRU1fa1E5NDVKV1VaWnhFZG1qdEg1ei1KS2Z6SGxnQUZuQi1mQVFFRnktX3ZyWFdwTlBQMktodnpGaVVfcURXaDZwWVJXOXoxR0lKZlNrQnlTQWY4UGxJOVctX0NfUXRoR2hIVUxrTm9vbk1xLVBoQ1NiRkVrNm5YMTFHWE1PM1p0UWV5cnFIdHpBV1ljcnBMcWNkMnRTRWZOaWVTSktFZWZNWkFvQ3piUk1od1JxR0g4cUdPZ1hRaEJDa1VMemZQd0Jz?oc=5",
-  "title": "Présidentielle : Marine Tondelier et Raphaël Glucksmann s’écharpent sur leurs visions de la gauche",
-  "summary": "",
-  "published": "2026-07-06T09:00+02:00",
-  "mentions": [
-   "glucksmann"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": 0,
+    "frame": "international"
+   },
+   {
+    "id": "roussel",
+    "tone": 0,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "9da94a3369bf3ed1",
@@ -106,7 +295,35 @@
   "published": "2026-07-06T09:00+02:00",
   "mentions": [
    "glucksmann"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": -1,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "a6a0ee8afe953fa2",
+  "outlet": "Le Télégramme",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxQd2ZMZDh4NmNrOUlCQlhDdW45alZWWk1nNDF5SzlGWUtJX0dpNlNHM2kwRGRnS20zbThBQlVfZE0xZ1dNTi1XSnRQbzhkNFRZTlI4RHUteVAzYzk3MXhZcjZrVEUtS0FLdEVHNi1NeEFTSS1yWTJqN2dqdk16a0Y5STBGYUgxQlhoVTY3cjB2ZU9NSUQ4WTAtM1RXaW5nbnV5SWt0TTZtVlJCSXBsWXVZNktXazE2WEp1eTkyQUhOa3g1dTZGNmMyZHdyRk5mbkVMbUpzVnhzUlFySnk5eG9ma2drdUVOVENsSDlKZ2RBTGdnT21BbjhXU1I3aDZteHM2YklJSnFMU0VuaWpvdmstcXZadVpaMFlHa0dpaXJ0ejR3V2pxNExaR1AtNV8tOXhOaTlGZlBiRQ?oc=5",
+  "title": "« Nicolas Sarkozy et François Hollande coûtent aux Français plus de quatre millions d’euros par an » : François Ruffin veut mettre fin aux « privilèges » des anciens présidents",
+  "summary": "",
+  "published": "2026-07-06T09:00+02:00",
+  "mentions": [
+   "ruffin"
+  ],
+  "analysis": [
+   {
+    "id": "ruffin",
+    "tone": 0,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "a72c0c389060f50d",
@@ -118,7 +335,15 @@
   "published": "2026-07-06T09:00+02:00",
   "mentions": [
    "glucksmann"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "aa07c4c75cb6e16f",
@@ -140,31 +365,55 @@
   "published": "2026-07-06T09:00+02:00",
   "mentions": [
    "roussel"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "roussel",
+    "tone": 0,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "3d24bb1116a41327",
-  "outlet": "franceinfo",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQOW1OQlVvU01leU5RMXJIYnVsNmRKdmtFd3JkakVWZVVkUFhhekpQcGozbXpxalA0VzlNbDhxZjVwZ1hwcVJlMEpROUc5QllPSDRtZ2E3QnlfXzh1MW1wdGJiamdtY1dydThTMWtnY1pnc1NGaE9iVGFWZDRycXJHd3dVWms2NDZheTJQM016RlllQkRXeHVaa0dvYk1DcjBneEFyTEJjMVdvWEQtSzhQUVc4cGZ6NlVkWG05eXN0MjltWDZxUXdicHJyZHRoSjNQdzMwNG15OV9BcVdGR0kzeHVwWWtWLU5ZeTFscmxPY1pkY2JCd0RwRzVTOVNOazVVbnM2bWloUXZsOTN4ZHE0ajlhSms1NVpDeFJQSG9CeFBZNHFCSWh6b0F5bDNwdWk2M2c?oc=5",
-  "title": "Édito. Pour son entrée en campagne présidentielle Édouard Philippe promet la vérité, mais reste très discret sur le contenu de son programme",
-  "summary": "",
-  "published": "2026-07-06T09:00+02:00",
-  "mentions": [
-   "philippe"
-  ]
- },
- {
-  "id": "7812df61b092007f",
-  "outlet": "Radio Classique",
+  "id": "f1c9583b1c3209c5",
+  "outlet": "Orange Actualités",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSlp1LWNSVVR1ZnFxbExvdEtENXNMeVBuWUxwZFVhb2tUa2FEWEM0UXloQ0xGRUJucFMyZmIzZGZFNEVlVVlLS3JzcGxrUFY2amRyQXJ1ZHh5NVgtbmJsR3BwMVk3bkx3UUJLNjlIcTI4SmFPZnEzNThWZlFsUzRrMFBVa3hNZGItX1FlN2o3aHZWejdlT05TZDQ3eE5jNWR1UGJxZ0JtZ1VFWTlGcUU4cExyb0dRdw?oc=5",
-  "title": "Présidentielle 2027 : un lancement de campagne réussi pour Édouard Philippe ?",
+  "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQYUNjWmhNbU9qMmNVeDl6UnR6b2Vmb1NFYm1naGZJSEpqRU1fa1E5NDVKV1VaWnhFZG1qdEg1ei1KS2Z6SGxnQUZuQi1mQVFFRnktX3ZyWFdwTlBQMktodnpGaVVfcURXaDZwWVJXOXoxR0lKZlNrQnlTQWY4UGxJOVctX0NfUXRoR2hIVUxrTm9vbk1xLVBoQ1NiRkVrNm5YMTFHWE1PM1p0UWV5cnFIdHpBV1ljcnBMcWNkMnRTRWZOaWVTSktFZWZNWkFvQ3piUk1od1JxR0g4cUdPZ1hRaEJDa1VMemZQd0Jz?oc=5",
+  "title": "Présidentielle : Marine Tondelier et Raphaël Glucksmann s’écharpent sur leurs visions de la gauche",
   "summary": "",
   "published": "2026-07-06T09:00+02:00",
   "mentions": [
-   "philippe"
-  ]
+   "glucksmann"
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "f6811bd492c2c7e9",
+  "outlet": "Presse Agence",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOR1RFeUJRbGUxLXZmZXpaT2g4enpUa1pNWmJteDBmeGNwTFFPbnlqM1p4NktnM2M1REJ0VFc3YnRONzRiREtkZjdSUWtyQU5udXUyNlByTW5GWm5TUWoxTmFDSTVUM3ZHcnNpalFLV3JnZGRVT1kyRGlBakpwbERTVUE3M01wdmM4bU9seA?oc=5",
+  "title": "Éric Zemmour : « Le responsable c’est vous, Monsieur Bayrou »",
+  "summary": "",
+  "published": "2026-07-06T09:00+02:00",
+  "mentions": [
+   "zemmour"
+  ],
+  "analysis": [
+   {
+    "id": "zemmour",
+    "tone": 0,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "fca1d0c81c0cad49",
@@ -176,90 +425,14 @@
   "published": "2026-07-06T09:00+02:00",
   "mentions": [
    "philippe"
-  ]
- },
- {
-  "id": "294bd7d6f9fd1f5d",
-  "outlet": "Le Monde.fr",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQc2dXUTUteTg3OXU2U0NVU3ZOZGE5UExMeFV3aGpkZ2xvNFZhZlpQbTllb3VFdjhmcEZkbEFfa1FvczFkemRJN1FaUGtmcndDbGlKelA5cXMxVlZmek1ia3RRczd2TGNxeWhiLU9KYk5rYWNTV19aUnVWWXF6OE5wOEhfSW8xeXAtejhMR3pXUS0yQjdPRHQxSkFqUEVjTDlsb0Z6cWljcnMzNlN2UkZIUGJKZVNHTnNveUdfYXFPYXVYcHZ0YnZrLWQ0N2V3Z1lXYjBCWjRhb3VFZXlmSm12dVFHQngxRmJSbXhyNg?oc=5",
-  "title": "Au sein de LR, le cas du général Gomart, révélateur des ambiguïtés de Bruno Retailleau",
-  "summary": "",
-  "published": "2026-07-06T09:00+02:00",
-  "mentions": [
-   "retailleau"
-  ]
- },
- {
-  "id": "4515b4271c4ffe6b",
-  "outlet": "La Lettre de l'Expansion",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbDA1UTZSUnFYd1hqUzVzS2JlNXlOcTh6VEVqUlhTY2pXUWNpWjNyc0tjcmxUU2R4YU96X1J1bUxqSHh6TFh1aGpXUXBsamFtUkNVaE5sanNIeklHdFk0YnVOYTdwSDdLSGJ3S0Q0dWFVNzNNZzhzLWRwX3BMLXRRNXhLT1JEMFZTaHFEOHdkUWc0a3BlLWk5LWs2a2pxREtwbENmdEUtbkZCQTROa2RoUjN6elN6dw?oc=5",
-  "title": "David Lisnard recrute un préfet pour la direction de sa campagne",
-  "summary": "",
-  "published": "2026-07-06T09:00+02:00",
-  "mentions": [
-   "lisnard"
-  ]
- },
- {
-  "id": "739d7fefd1fcd4d7",
-  "outlet": "franceinfo",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPSlk0aEFwLWZ4WlMwNUxXVlZPM3NiMmNKZGRkMm5CV21nR2h1cHZoU2tlcEhXelpsbG9YaTNENEZHcjE2ZExGbExoUE4wczlETGdRekdMQWlBRnZLc0pFZ1lGR25JZnVFYnh0dDRJWjNmNThQSjB0SXVuMXhzRE5nRWRaZW1ROFV0ZXdUZzFzY0RlVUhlUTYyVnJTYzZBcnVGSEZqR1NCc3hkNm1OYVVEaUFKZk8wVk9uTHdramxvdXBnNkZwUElXTXl1MTY0MnJENUg2OGV6Xzg4Uk0xMVpMME00ZWNhUHdaMDVpQnh4QmhydGxPM3h1Z0t1R0hEbHNY?oc=5",
-  "title": "Le député François Ruffin annonce le dépôt d'un texte pour mettre fin aux \"privilèges\" des anciens présidents",
-  "summary": "",
-  "published": "2026-07-06T09:00+02:00",
-  "mentions": [
-   "ruffin"
-  ]
- },
- {
-  "id": "043bfb9b90123d84",
-  "outlet": "Ouest-France",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNd0RSaGtOSUtHZ2FCSEJ1c3FOX1h3N2tkaGV2a2tmUzJ3NDROWWZZbEMydU04Wl9rcFE5NkhZNGlTcDdzSjZLbkxmTDlZUkpTMDExemJQS3Y4Mm1hckh0aHNjZ25kVXo5d3hUbXNzUi16ZEFzQ3pnSHppTWQ4anVSLXhhWnhJanlRak1vS2tkdW9HTUY2V2hmaWpJSExta3VLNHpJM1pOdFEzRnJ1NVFzdzJ0c1MwWVJ3ekQ1UlZwOUVVOVRVX0NJZ044Y2VDcWplYjdwYXJTUDBLOE12X0VlRUE5OG1KQ0dORGU3SWF0QmhIei1JNmN0M2hQNnBJUW15?oc=5",
-  "title": "François Ruffin annonce le dépôt d’un texte pour mettre fin aux « privilèges » des anciens présidents",
-  "summary": "",
-  "published": "2026-07-06T09:00+02:00",
-  "mentions": [
-   "ruffin"
-  ]
- },
- {
-  "id": "a6a0ee8afe953fa2",
-  "outlet": "Le Télégramme",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxQd2ZMZDh4NmNrOUlCQlhDdW45alZWWk1nNDF5SzlGWUtJX0dpNlNHM2kwRGRnS20zbThBQlVfZE0xZ1dNTi1XSnRQbzhkNFRZTlI4RHUteVAzYzk3MXhZcjZrVEUtS0FLdEVHNi1NeEFTSS1yWTJqN2dqdk16a0Y5STBGYUgxQlhoVTY3cjB2ZU9NSUQ4WTAtM1RXaW5nbnV5SWt0TTZtVlJCSXBsWXVZNktXazE2WEp1eTkyQUhOa3g1dTZGNmMyZHdyRk5mbkVMbUpzVnhzUlFySnk5eG9ma2drdUVOVENsSDlKZ2RBTGdnT21BbjhXU1I3aDZteHM2YklJSnFMU0VuaWpvdmstcXZadVpaMFlHa0dpaXJ0ejR3V2pxNExaR1AtNV8tOXhOaTlGZlBiRQ?oc=5",
-  "title": "« Nicolas Sarkozy et François Hollande coûtent aux Français plus de quatre millions d’euros par an » : François Ruffin veut mettre fin aux « privilèges » des anciens présidents",
-  "summary": "",
-  "published": "2026-07-06T09:00+02:00",
-  "mentions": [
-   "ruffin"
-  ]
- },
- {
-  "id": "43cbbde6d305e4f7",
-  "outlet": "Corse Matin",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNYjA3WnNxT3pnWGNpbnMzQnY2TjJpR0l3VWdVNXFPdnlHT0Y0cVdvQzBJbnJVWG1MZmFxTVN4S3lDRWQyVFFrVFVaTGg5UTNIRTAwcFl2T08wTkg5OE1lSm1EbmdjMHFWaTdmMHA2RmJGZzVrRDkxUENveDdGMThsNVVrdEhmOTRKcVhyTERJMkl5UjN1N0VUM1pnTjctTWt2ZkF2X0hueUo1ZEFMcGg0RDBvRmNwZER5VnZKaWhZRzRnemU5NXQ3djRmUlVLOU9idHAtQ3dLWUNKS2FPS0xUc19id3lIUGJ4dFE?oc=5",
-  "title": "Fabien Roussel, reconduit à la tête du PCF et \"à 85%\" candidat à la présidentielle",
-  "summary": "",
-  "published": "2026-07-06T09:00+02:00",
-  "mentions": [
-   "roussel"
-  ]
- },
- {
-  "id": "19a68d6ed2a434fd",
-  "outlet": "Le Parisien",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOZjdzZFpDVy0xRTlVNmlSMzJHcnc2R1FWTmlYZl9MX2xwdUxHQ0VsZnNFRUo0c0ZWWnM5RFgyN3RKanVlWDlrWS12ajVwdnlrSFBrOFpMN0FyaWhFTjJsQjk3a0VfZHdpVHo5SExPUnctTGZ0WENiQnpBOE5HNG92NkkwaWpkMmNZaU4zcUR1SWl5bFlyd1VoZS1SMWQ4U1RrMWJkczRpUThTZkhhcXA0SXlhZF94aUJZMnlhU1E3VzJ5THBkTGJHYU00OW90a1lDWktSUjBtNF9kVkp3ak42d2pFZDBkT1pCWllVZTcxc0tScUk4UmZkNGs4alZ6VzZjd09hMXVqdmt5S2tnS042RnVrZ0pqYXZ4bXNXckFuU3o3eDJB?oc=5",
-  "title": "« Macron pourrait nous coûter des dizaines de millions d’euros » : Ruffin veut mettre fin aux « privilèges » des anciens présidents",
-  "summary": "",
-  "published": "2026-07-06T09:00+02:00",
-  "mentions": [
-   "ruffin"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": 0,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  }
 ]

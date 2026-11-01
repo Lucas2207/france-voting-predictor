@@ -1,27 +1,119 @@
 [
  {
-  "id": "ffe00654f83dcc80",
-  "outlet": "Gala",
+  "id": "18901e4cba6dc13f",
+  "outlet": "ici.fr",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxQTzQ5VFRiT2NKS2xDc2stSVNZQmE2RVpOeFlUWWFRbFo1Mjlldm1kbnpMVEhnUVQtcVVDNUFZTllhUTM3SnowdDdFNEVweldQYWpJQjVTdk9YZzBBZU90aGlRZUVDclY1R2ZSQzdYcl9iaEZkSEprazB0SFJHZUtpWHg3TGd0bGd5YTQ4TnNWOExTVkF4enJka3BFQ282YW9MZ1c2eTF0TWdUcGFWRlUydGxURGxwdjZ0ZjUyTklGOGhmOG1IbUhaWnRtNmZVdXloTmoxWDJhSTFHUzE3ZzN3eVlUaWZsQ29TeTZXY2ZLVjFTZnhvLXhtR1NaalZSTXhmX3JHU3ZaZmd2MWVUV0cyeWw5eFRDT3pIYXczaDBB?oc=5",
-  "title": "Édouard Philippe et sa femme Édith amoureux de l’Italie : entre villages typiques et eaux turquoise, ce coin de paradis devenu leur refuge estival en famille",
+  "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOMndhREVaS19laFJhdmpKd3VKWHBVNTJfLTZPbGNVU2FwNG9Mc3BUUllnUFJlb1VrZmxlTHBwZ0MtUW1XV1Q2dUtwcy1nQ0xzN2NNTmlwblJzZmYyRG15TGFtMmVJSk1WSy13eElhS2xtOVpFTzZOY0pPcVZlZUVvVXFsUERfYklmQXBoUUZ4YVNva0hvUTBuT3pNTEdweFhMZVdaa2I2T1pMbVdPR1gxRDF1NlJNeHRwNW5PbjMyN1NEeUdxZXZkcVhPVFY2a0JfRnJkTWRlb3NJUDlwX21DYmFzeGhpOE1idzZiUmZaaUVMNXc?oc=5",
+  "title": "Présidentielle 2027 : Gabriel Attal fait campagne à Annecy aux côtés du maire Antoine Armand",
   "summary": "",
   "published": "2026-07-27T09:00+02:00",
   "mentions": [
-   "philippe"
-  ]
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "8cf5bc392d4dd420",
-  "outlet": "Ouest-France",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQM0tIRGdvWkZGZW9pZkxVUmRwZnlkQmdubmlHZkQxWGY4aTlwRmxjS1lTb1dSUUdzNWszTFJ5cjN5Z3RKLWVTMXBfa0xVYnNfSW85N1VJc0I5QUFodnNlMXNFaTZiaTlwN0Vhd2pqZ01BSEZybEFnSWo4T0dYM19Kc3djODlRQjc5VlZkdXVZR3RfZlMxMU9fWTJ2M0xVNmlXeDFRbDRuV2Z4a2IxMmw1a1ZWMHN4M2VCbmhTTjdhdzl0UGFRdERpWDk4cDRpdUJKeGJ6MGl1Vlc1Vk1yMXRiRFZlSllmMFZqRS1TbDRNLU9LZk51VDFqNmx1NHNPX24zWTNhc0NJdjlfaFpZTTBHVlBPMGo2SWVaWm9kVi1PTllEbUpHc08tUQ?oc=5",
-  "title": "Qui est Jessica Coisgaud, la plus jeune élue de Loireauxence nommée à la tête des Jeunes avec Édouard Philippe ?",
+  "id": "194aa93d13c0bbfe",
+  "outlet": "AMF",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUklNazdBNGsxeUZFanN2MXlVZHM0ZkZkRE9iakJlSDhBMmhsOHBaSFFZSVBnY2pqcHV4SEJwTjJhRl9ueFB6ZTlTQ0NmRHl0WlFPakdRenY0WDc3dzl3MGVGeG5pc1dhWmJ4Ukk3b1MtYWh5Z2NPRmhWYkpDRGt2djJ3dHpveGdIN0RYbmplYVlKT0xQcjhIU084VWY1M2xSUDR6VUlGN0prVmtNemRVdllLc3hFc21IbWNVanlmenJWeWROcnl6bUxn?oc=5",
+  "title": "Incendies : l’AMF lance la mobilisation générale des maires pour soutenir les communes sinistrées",
+  "summary": "",
+  "published": "2026-07-27T09:00+02:00",
+  "mentions": []
+ },
+ {
+  "id": "1c7894fe18aa175b",
+  "outlet": "La Lettre",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNRS16VVprbTNCd1E1T3J2WDFwR3VaQ2RIcTlWUlVmMERDNzJaTWVaVTRiSGtVY1RpT0xZVkVvTy01TGtvSGlELVM5Qm9HLXR1MkFZRm96cWN4bkJ6MXFvS3FVdzdrLTl5cU9oRWVha0NMeklyUGNjLVU2eEh5Mno2MnlGMFZhcmEwLWJfQUc3aWx2NlFJTmJGY1U0dFNvYUlmazNxdlhfYVZka0FQclAtUjlsNUdVUlNfdm92c2M3cTlkdHVoLXQ4QnZmaDY2U0YzU0tJU1VyX1haaXg4TVA3MXNR?oc=5",
+  "title": "Fanny Anor quitte son rôle de préfète de l'Aisne pour retrouver Gabriel Attal",
   "summary": "",
   "published": "2026-07-27T09:00+02:00",
   "mentions": [
-   "philippe"
-  ]
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "1cfab2a377b696fc",
+  "outlet": "CNews",
+  "lean": "droite",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMzhQa1NMelJacnZhdUVkWmJsRGp5aXdCbmp0bHFVZUpkRm5ncUZwWHFjc2YzSzdRR1FyNjdSVjY1VXB6SDZoQWhfZ3JjZDlKNzB0MkRqM2FDdHREaVg0ZnRMWlBmeFp3MGdBOXBSNnNnbEdqT2w1amctX3QySS1NT0QyUHFCOTRqb0wzZHh2R3owZEFvcV9KSnY0YWoxR0laelI4WFBTT2FGX3Y5VXRNclBIR0lrQdIBuwFBVV95cUxPRTlqOHRPZmF1ank3Nl9lRFZ1WmVPazFsbjVsWm15QWFXQjN0eEo0R3l3OWx5cl92emFNZ1VHT1ZqTDcxTnFFZjhNR3FvSXpSNDExWmdzSUNpekhNZlA3dEQzWXppY1J1R2xxMU1ZSkRLVTRYNXJRODBMVjl2SWVxYWRFNHdyVVFGVlRCTEt4M1dPc0F1cjFfVWR0WElJUmtzTWl2ekxGMDRBTmpwX0I4WHU1WnhjWmV6Z3A0?oc=5",
+  "title": "Incendies en France : «Les maires, souvent bénévoles, font un travail remarquable auprès de leur population et des pompiers», salue David Lisnard",
+  "summary": "",
+  "published": "2026-07-27T09:00+02:00",
+  "mentions": [
+   "lisnard"
+  ],
+  "analysis": [
+   {
+    "id": "lisnard",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "2cf7621fec9aebed",
+  "outlet": "Le Télégramme",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNOVpiT2c4aTN0RzRCbE03ZC1UVlNZd29Na0Z0ZFluYlFrUGxrdGxZQTJZaFlPNVhISVJ6cEg1U21yZnlPclFTZU56YjR6bmVlUnAtbXFlMkx6OF9MOEJiUW4zSnUydTRILXBYekRud0Rvc0VOeFV2OGhCdmF2UUFOMzE5MFBVQk01bkhvSGJyVldQTDFrR05QeVNZcng2SFFWVGhMUWE5Z1lXT0NjajNSY2gzQzRwQzgzbXZDTnJQemNQcXowc3psYTI5Qm94ZEJWdWlYS1V2YVNpSkZPSEtGOW1XaGZQSHdUOFBGbDFR?oc=5",
+  "title": "L’Alréenne Françoise Charpentier référente de François Ruffin, candidat à l’élection présidentielle",
+  "summary": "",
+  "published": "2026-07-27T09:00+02:00",
+  "mentions": [
+   "ruffin"
+  ],
+  "analysis": [
+   {
+    "id": "ruffin",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "2e9a11d3f70ed6cb",
+  "outlet": "Gala",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTmlCcVRNTHNzNGhIN3psaDVEYllydXZsMS0ySWwzNnpiakRKMzNLMXlWTVZSeVhhQ1VFU2UxUklrVDcwd3RaWVhvbkpJM1JHS0FmdDgydXJPMVFyRXlNalctNmZmMzhLOW1PWFdsZHRLR01LVHFUZjh6Zk5IN2FFdlFEWnI0UVg1LUlLQjhzVnlValhFTlZYZmhJYlEwdTRRUGF1R25PS1QtYjRPSDQ2SldENVZfRm5wcms2cldSemVIQWZKbmNobUZEWjUyWUxRc1ZtSjd3WXJSNHdnbFREMQ?oc=5",
+  "title": "Gabriel Attal, Marine Le Pen… À quoi vont ressembler les vacances d’été des candidats à la présidentielle 2027 ?",
+  "summary": "",
+  "published": "2026-07-27T09:00+02:00",
+  "mentions": [
+   "lepen",
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "programme"
+   },
+   {
+    "id": "lepen",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "3486f719a11d2b35",
@@ -35,30 +127,55 @@
    "lepen",
    "glucksmann",
    "retailleau"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": 0,
+    "frame": "programme"
+   },
+   {
+    "id": "retailleau",
+    "tone": 0,
+    "frame": "programme"
+   },
+   {
+    "id": "glucksmann",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "702a3df7c96f31e5",
-  "outlet": "attalpresident.fr",
+  "id": "34da5b546067f359",
+  "outlet": "Orange Actualités",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZFd2VmZsemFHVVVwLVZCZHlERmU0SUdZalkwUG9EX2lVdmxYUnVESmY3Z2h4U2luNndmeUZudkdBYnBiOW5FZHB0WmprMFFyQjR2Qi1BeDVTZUgyc2hlZnp4TEFTRldDcWljTWVFM3U1UnRUbkRydTJrRTBOdXZqOWZha29HQmUxS2NRSUhyeGQ5bExXLTk5dUlrazk1RUk?oc=5",
-  "title": "Gabriel Attal à Annecy aux côtés des Français qui travaillent.",
+  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcGRmdFlYRnc5TlMtYkJ0bWxBZEY0ZDNRckFUZFRmWWdKMWg5SFhTRDRmZUw1aDEwdjFwZUFvQWxmNWgtb2lSYVIzX09EaUdWNVRIWS01Tjc4YXFUVDVQajU3NVV5R3BxQy11SFFXR0QxUDdQb2o1bVgxVnR1VmN3QWV0QlNYOWVxak50ak9mdkJiMTE2Mk5VYThDMHF3ek5KTWVCUzBLWVEwY1RTcHZNUVp3?oc=5",
+  "title": "Comment les Français perçoivent-ils Edouard Philippe ?",
   "summary": "",
   "published": "2026-07-27T09:00+02:00",
   "mentions": [
-   "attal"
-  ]
+   "philippe"
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "2e9a11d3f70ed6cb",
-  "outlet": "Gala",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTmlCcVRNTHNzNGhIN3psaDVEYllydXZsMS0ySWwzNnpiakRKMzNLMXlWTVZSeVhhQ1VFU2UxUklrVDcwd3RaWVhvbkpJM1JHS0FmdDgydXJPMVFyRXlNalctNmZmMzhLOW1PWFdsZHRLR01LVHFUZjh6Zk5IN2FFdlFEWnI0UVg1LUlLQjhzVnlValhFTlZYZmhJYlEwdTRRUGF1R25PS1QtYjRPSDQ2SldENVZfRm5wcms2cldSemVIQWZKbmNobUZEWjUyWUxRc1ZtSjd3WXJSNHdnbFREMQ?oc=5",
-  "title": "Gabriel Attal, Marine Le Pen… À quoi vont ressembler les vacances d’été des candidats à la présidentielle 2027 ?",
+  "id": "4d43d6df0fa1757e",
+  "outlet": "CNews",
+  "lean": "droite",
+  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeWxnbFIzeXU1OWtBYzlEVUFlS2UwWFE2eGd5b3ZmNVk2ZWY2V0R4dHFoNjd3MzlDSDEyQWlGeXlOcnRiTEw1cWd4V0o5Qi04YTN5Y3pMSkpHZURTLUM3OUpORzhoNW9GS28yOEFlQVdCVG1DVE9DOXZLd2ozb0k4VEdVWVZpRTBpd0NrckpMa01XSXdUaVl0R1dHc3JOZkp5Zkd0U2VrSUMzQVJ1LU1tMWpOZUlFd2lUaHlF0gHAAUFVX3lxTE5pWmV5bW5vdmdMdjJNUkNKZEFYcEk0VjkwRXRvOG02T1ZTSHp0U1BHQnJiUnNfOGNhVExMdjJZRmhIZTB0a3YySHk1V1g5VWNHcUFDeVFKc1dIZnpjLUZKUEkwTG11bU1KU1VxdGNoVEF0cWhXZmc0TG5GQUNVRUZXanZrbWt5VWtvYUZCdm1YNEdDeVpmQklnZkRBZWRWN3VaeTF3dTVDVzJOTTRwQkxYMHBkS3FCQjk4YTJycXUzUg?oc=5",
+  "title": "Usage du terme «Renaissance» : le parti de Gabriel Attal et le RN devant le tribunal ce lundi",
   "summary": "",
   "published": "2026-07-27T09:00+02:00",
   "mentions": [
-   "lepen",
    "attal"
   ]
  },
@@ -72,113 +189,49 @@
   "published": "2026-07-27T09:00+02:00",
   "mentions": [
    "attal"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "18901e4cba6dc13f",
-  "outlet": "ici.fr",
+  "id": "702a3df7c96f31e5",
+  "outlet": "attalpresident.fr",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOMndhREVaS19laFJhdmpKd3VKWHBVNTJfLTZPbGNVU2FwNG9Mc3BUUllnUFJlb1VrZmxlTHBwZ0MtUW1XV1Q2dUtwcy1nQ0xzN2NNTmlwblJzZmYyRG15TGFtMmVJSk1WSy13eElhS2xtOVpFTzZOY0pPcVZlZUVvVXFsUERfYklmQXBoUUZ4YVNva0hvUTBuT3pNTEdweFhMZVdaa2I2T1pMbVdPR1gxRDF1NlJNeHRwNW5PbjMyN1NEeUdxZXZkcVhPVFY2a0JfRnJkTWRlb3NJUDlwX21DYmFzeGhpOE1idzZiUmZaaUVMNXc?oc=5",
-  "title": "Présidentielle 2027 : Gabriel Attal fait campagne à Annecy aux côtés du maire Antoine Armand",
+  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZFd2VmZsemFHVVVwLVZCZHlERmU0SUdZalkwUG9EX2lVdmxYUnVESmY3Z2h4U2luNndmeUZudkdBYnBiOW5FZHB0WmprMFFyQjR2Qi1BeDVTZUgyc2hlZnp4TEFTRldDcWljTWVFM3U1UnRUbkRydTJrRTBOdXZqOWZha29HQmUxS2NRSUhyeGQ5bExXLTk5dUlrazk1RUk?oc=5",
+  "title": "Gabriel Attal à Annecy aux côtés des Français qui travaillent.",
   "summary": "",
   "published": "2026-07-27T09:00+02:00",
   "mentions": [
    "attal"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "ec05a3acd6fa58e5",
-  "outlet": "ODS Radio",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYUhYMm1XQ1JpcTB2VWlYQV96cUpVci1zdEc5aWNnVkZBU2VyRTUxd3NqZll4aV9MbGRDMTVkZVJsSkFMZFh1Zlp5elJySkJuTGRoSFZ1dzkycldzV1B4d3JYN1ZaNVNmS2F6bXJhQldwX3A2VU16N0Fqb2hzYk9iNlI3WjZ1SzB4VmpoMXJNcktMQmR6cjlmSDdXaHkxQUlFc1NsajU3NFVwN19NZjRCcjlqSG9QRnhKLWVCNG5UTnFIYWc2ZURRdnBUUQ?oc=5",
-  "title": "Gabriel Attal attendu à Annecy lundi pour une journée consacrée aux enjeux climatiques",
-  "summary": "",
-  "published": "2026-07-27T09:00+02:00",
-  "mentions": [
-   "attal"
-  ]
- },
- {
-  "id": "1c7894fe18aa175b",
-  "outlet": "La Lettre",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNRS16VVprbTNCd1E1T3J2WDFwR3VaQ2RIcTlWUlVmMERDNzJaTWVaVTRiSGtVY1RpT0xZVkVvTy01TGtvSGlELVM5Qm9HLXR1MkFZRm96cWN4bkJ6MXFvS3FVdzdrLTl5cU9oRWVha0NMeklyUGNjLVU2eEh5Mno2MnlGMFZhcmEwLWJfQUc3aWx2NlFJTmJGY1U0dFNvYUlmazNxdlhfYVZka0FQclAtUjlsNUdVUlNfdm92c2M3cTlkdHVoLXQ4QnZmaDY2U0YzU0tJU1VyX1haaXg4TVA3MXNR?oc=5",
-  "title": "Fanny Anor quitte son rôle de préfète de l'Aisne pour retrouver Gabriel Attal",
-  "summary": "",
-  "published": "2026-07-27T09:00+02:00",
-  "mentions": [
-   "attal"
-  ]
- },
- {
-  "id": "9738b157535d5024",
-  "outlet": "Le Dauphiné Libéré",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSXJmRFI2bk5CMUZsR1Q3ejlJNWxUdHBpZEM4dWliajU2QXlvU1dubTVKQkFXWWRWcmcyT2g4MXNNamFnbXJodHF4QlgyZjVVSHdvVlRlMWZ1dnh5RUtMeW05Z2pYR3gzN1kxZi1DTHRZQzlyRHBSWU9FWDd1ZjB5NlRQM2ZYYW41LW11N3lneGdET3cyTzNjVWpIcVNrY3BSRFBfWnlKSWJsU2NPcXZEZUUwTmdZWXdvVHVGei1DX29ldw?oc=5",
-  "title": "Politique. Présidentielle 2027 : à Annecy, Gabriel Attal promet le retour de la visibilité",
-  "summary": "",
-  "published": "2026-07-27T09:00+02:00",
-  "mentions": [
-   "attal"
-  ]
- },
- {
-  "id": "99fdd39a04a53f13",
-  "outlet": "Gala",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOVlVwa1BFRHYtb2NnTm9zdDNoLWNZbDE4U3l5b2hnTU5qZk4tWHAtaThlVUw0Z1M5MmRjZXVTZHRSMHlEUUZnVko1eDdDLTRqR095MFdaUmNFSmZwN1BnZDAtOGZHanVWZ1dQZFdOZU04UGU0dk5NNkV3dVFvLU90dExNVTQyZGRCQTV6U2JxcklzMm9GWkhuSklBNzZvR0pVcDVKZkhuQ1ltcDdZMmN1cnVYeWNXOGhPdWtUZUFza2tacWJQdE5RdGdxNkhKUXFRaEFEOTl0NEN1ODhDczNkMEw5M3Z5X3htTEE?oc=5",
-  "title": "Jean-Luc Mélenchon, son célèbre gendre dans le viseur des critiques : il sort du silence avec un message lourd de sens",
-  "summary": "",
-  "published": "2026-07-27T09:00+02:00",
-  "mentions": [
-   "melenchon"
-  ]
- },
- {
-  "id": "d1bf8feb83a25acb",
-  "outlet": "Le Gorafi.fr Gorafi News Network",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUFlPOGgyVDlXNzM4QzdSMnBReFg5R3otN0xPeE8yYzNiTkVjTjJjaDVBMy04Umd1ZlVyUFRLYVJHd3o4VEZoRWtuTmxsOUNpRGtPX0dtYXZ5dmpvdThiS1RFSjloV2M2OXhfQXo1OVI0aDdMOGx6cGpqaDRETW1raFFEZjdxakxaS0E0WkdZZC0zVFNLTURVbnFIR3lOVWZDcE8td3V3TnZOU2JSQmlZT20wNl9qYi1xUWtV0gHDAUFVX3lxTE9RV2g5Vk0zb2pPTUpMN1dBamwxOWNWamJla3JuNTRneEtzZHhaeUNTeDE0VHdEVEY2MzlNaEJVeWRmYnJWN0ItdEMtcmRCNXdLMjVXT0M1WC1mcHJYalg0dklYQ2NSclQzVWlPc29wU3NZU1N4ODhPQkJLcjJFU1p2RENnX0NhazBkOGFIc19jeFd1NHlnWExtaWV6b0pGUEpsRk1HQ1IzcDlKa01TMVAyeUh6aWtPUno2LTFVYlhDTzBDNA?oc=5",
-  "title": "À court d’idées, Le Point décide de consacrer un 789 ème article à Jean-Luc Mélenchon",
-  "summary": "",
-  "published": "2026-07-27T09:00+02:00",
-  "mentions": [
-   "melenchon"
-  ]
- },
- {
-  "id": "34da5b546067f359",
-  "outlet": "Orange Actualités",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcGRmdFlYRnc5TlMtYkJ0bWxBZEY0ZDNRckFUZFRmWWdKMWg5SFhTRDRmZUw1aDEwdjFwZUFvQWxmNWgtb2lSYVIzX09EaUdWNVRIWS01Tjc4YXFUVDVQajU3NVV5R3BxQy11SFFXR0QxUDdQb2o1bVgxVnR1VmN3QWV0QlNYOWVxak50ak9mdkJiMTE2Mk5VYThDMHF3ek5KTWVCUzBLWVEwY1RTcHZNUVp3?oc=5",
-  "title": "Comment les Français perçoivent-ils Edouard Philippe ?",
+  "id": "8cf5bc392d4dd420",
+  "outlet": "Ouest-France",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQM0tIRGdvWkZGZW9pZkxVUmRwZnlkQmdubmlHZkQxWGY4aTlwRmxjS1lTb1dSUUdzNWszTFJ5cjN5Z3RKLWVTMXBfa0xVYnNfSW85N1VJc0I5QUFodnNlMXNFaTZiaTlwN0Vhd2pqZ01BSEZybEFnSWo4T0dYM19Kc3djODlRQjc5VlZkdXVZR3RfZlMxMU9fWTJ2M0xVNmlXeDFRbDRuV2Z4a2IxMmw1a1ZWMHN4M2VCbmhTTjdhdzl0UGFRdERpWDk4cDRpdUJKeGJ6MGl1Vlc1Vk1yMXRiRFZlSllmMFZqRS1TbDRNLU9LZk51VDFqNmx1NHNPX24zWTNhc0NJdjlfaFpZTTBHVlBPMGo2SWVaWm9kVi1PTllEbUpHc08tUQ?oc=5",
+  "title": "Qui est Jessica Coisgaud, la plus jeune élue de Loireauxence nommée à la tête des Jeunes avec Édouard Philippe ?",
   "summary": "",
   "published": "2026-07-27T09:00+02:00",
   "mentions": [
    "philippe"
-  ]
- },
- {
-  "id": "194aa93d13c0bbfe",
-  "outlet": "AMF",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUklNazdBNGsxeUZFanN2MXlVZHM0ZkZkRE9iakJlSDhBMmhsOHBaSFFZSVBnY2pqcHV4SEJwTjJhRl9ueFB6ZTlTQ0NmRHl0WlFPakdRenY0WDc3dzl3MGVGeG5pc1dhWmJ4Ukk3b1MtYWh5Z2NPRmhWYkpDRGt2djJ3dHpveGdIN0RYbmplYVlKT0xQcjhIU084VWY1M2xSUDR6VUlGN0prVmtNemRVdllLc3hFc21IbWNVanlmenJWeWROcnl6bUxn?oc=5",
-  "title": "Incendies : l’AMF lance la mobilisation générale des maires pour soutenir les communes sinistrées",
-  "summary": "",
-  "published": "2026-07-27T09:00+02:00",
-  "mentions": []
- },
- {
-  "id": "1cfab2a377b696fc",
-  "outlet": "CNews",
-  "lean": "droite",
-  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMzhQa1NMelJacnZhdUVkWmJsRGp5aXdCbmp0bHFVZUpkRm5ncUZwWHFjc2YzSzdRR1FyNjdSVjY1VXB6SDZoQWhfZ3JjZDlKNzB0MkRqM2FDdHREaVg0ZnRMWlBmeFp3MGdBOXBSNnNnbEdqT2w1amctX3QySS1NT0QyUHFCOTRqb0wzZHh2R3owZEFvcV9KSnY0YWoxR0laelI4WFBTT2FGX3Y5VXRNclBIR0lrQdIBuwFBVV95cUxPRTlqOHRPZmF1ank3Nl9lRFZ1WmVPazFsbjVsWm15QWFXQjN0eEo0R3l3OWx5cl92emFNZ1VHT1ZqTDcxTnFFZjhNR3FvSXpSNDExWmdzSUNpekhNZlA3dEQzWXppY1J1R2xxMU1ZSkRLVTRYNXJRODBMVjl2SWVxYWRFNHdyVVFGVlRCTEt4M1dPc0F1cjFfVWR0WElJUmtzTWl2ekxGMDRBTmpwX0I4WHU1WnhjWmV6Z3A0?oc=5",
-  "title": "Incendies en France : «Les maires, souvent bénévoles, font un travail remarquable auprès de leur population et des pompiers», salue David Lisnard",
-  "summary": "",
-  "published": "2026-07-27T09:00+02:00",
-  "mentions": [
-   "lisnard"
-  ]
+  ],
+  "analysis": [],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "92d95c15286e2cc9",
@@ -191,16 +244,44 @@
   "mentions": []
  },
  {
-  "id": "2cf7621fec9aebed",
-  "outlet": "Le Télégramme",
+  "id": "9738b157535d5024",
+  "outlet": "Le Dauphiné Libéré",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNOVpiT2c4aTN0RzRCbE03ZC1UVlNZd29Na0Z0ZFluYlFrUGxrdGxZQTJZaFlPNVhISVJ6cEg1U21yZnlPclFTZU56YjR6bmVlUnAtbXFlMkx6OF9MOEJiUW4zSnUydTRILXBYekRud0Rvc0VOeFV2OGhCdmF2UUFOMzE5MFBVQk01bkhvSGJyVldQTDFrR05QeVNZcng2SFFWVGhMUWE5Z1lXT0NjajNSY2gzQzRwQzgzbXZDTnJQemNQcXowc3psYTI5Qm94ZEJWdWlYS1V2YVNpSkZPSEtGOW1XaGZQSHdUOFBGbDFR?oc=5",
-  "title": "L’Alréenne Françoise Charpentier référente de François Ruffin, candidat à l’élection présidentielle",
+  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSXJmRFI2bk5CMUZsR1Q3ejlJNWxUdHBpZEM4dWliajU2QXlvU1dubTVKQkFXWWRWcmcyT2g4MXNNamFnbXJodHF4QlgyZjVVSHdvVlRlMWZ1dnh5RUtMeW05Z2pYR3gzN1kxZi1DTHRZQzlyRHBSWU9FWDd1ZjB5NlRQM2ZYYW41LW11N3lneGdET3cyTzNjVWpIcVNrY3BSRFBfWnlKSWJsU2NPcXZEZUUwTmdZWXdvVHVGei1DX29ldw?oc=5",
+  "title": "Politique. Présidentielle 2027 : à Annecy, Gabriel Attal promet le retour de la visibilité",
   "summary": "",
   "published": "2026-07-27T09:00+02:00",
   "mentions": [
-   "ruffin"
-  ]
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "99fdd39a04a53f13",
+  "outlet": "Gala",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOVlVwa1BFRHYtb2NnTm9zdDNoLWNZbDE4U3l5b2hnTU5qZk4tWHAtaThlVUw0Z1M5MmRjZXVTZHRSMHlEUUZnVko1eDdDLTRqR095MFdaUmNFSmZwN1BnZDAtOGZHanVWZ1dQZFdOZU04UGU0dk5NNkV3dVFvLU90dExNVTQyZGRCQTV6U2JxcklzMm9GWkhuSklBNzZvR0pVcDVKZkhuQ1ltcDdZMmN1cnVYeWNXOGhPdWtUZUFza2tacWJQdE5RdGdxNkhKUXFRaEFEOTl0NEN1ODhDczNkMEw5M3Z5X3htTEE?oc=5",
+  "title": "Jean-Luc Mélenchon, son célèbre gendre dans le viseur des critiques : il sort du silence avec un message lourd de sens",
+  "summary": "",
+  "published": "2026-07-27T09:00+02:00",
+  "mentions": [
+   "melenchon"
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": -1,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "b4f247ff61c9740c",
@@ -213,15 +294,57 @@
   "mentions": []
  },
  {
-  "id": "4d43d6df0fa1757e",
-  "outlet": "CNews",
-  "lean": "droite",
-  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeWxnbFIzeXU1OWtBYzlEVUFlS2UwWFE2eGd5b3ZmNVk2ZWY2V0R4dHFoNjd3MzlDSDEyQWlGeXlOcnRiTEw1cWd4V0o5Qi04YTN5Y3pMSkpHZURTLUM3OUpORzhoNW9GS28yOEFlQVdCVG1DVE9DOXZLd2ozb0k4VEdVWVZpRTBpd0NrckpMa01XSXdUaVl0R1dHc3JOZkp5Zkd0U2VrSUMzQVJ1LU1tMWpOZUlFd2lUaHlF0gHAAUFVX3lxTE5pWmV5bW5vdmdMdjJNUkNKZEFYcEk0VjkwRXRvOG02T1ZTSHp0U1BHQnJiUnNfOGNhVExMdjJZRmhIZTB0a3YySHk1V1g5VWNHcUFDeVFKc1dIZnpjLUZKUEkwTG11bU1KU1VxdGNoVEF0cWhXZmc0TG5GQUNVRUZXanZrbWt5VWtvYUZCdm1YNEdDeVpmQklnZkRBZWRWN3VaeTF3dTVDVzJOTTRwQkxYMHBkS3FCQjk4YTJycXUzUg?oc=5",
-  "title": "Usage du terme «Renaissance» : le parti de Gabriel Attal et le RN devant le tribunal ce lundi",
+  "id": "d1bf8feb83a25acb",
+  "outlet": "Le Gorafi.fr Gorafi News Network",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUFlPOGgyVDlXNzM4QzdSMnBReFg5R3otN0xPeE8yYzNiTkVjTjJjaDVBMy04Umd1ZlVyUFRLYVJHd3o4VEZoRWtuTmxsOUNpRGtPX0dtYXZ5dmpvdThiS1RFSjloV2M2OXhfQXo1OVI0aDdMOGx6cGpqaDRETW1raFFEZjdxakxaS0E0WkdZZC0zVFNLTURVbnFIR3lOVWZDcE8td3V3TnZOU2JSQmlZT20wNl9qYi1xUWtV0gHDAUFVX3lxTE9RV2g5Vk0zb2pPTUpMN1dBamwxOWNWamJla3JuNTRneEtzZHhaeUNTeDE0VHdEVEY2MzlNaEJVeWRmYnJWN0ItdEMtcmRCNXdLMjVXT0M1WC1mcHJYalg0dklYQ2NSclQzVWlPc29wU3NZU1N4ODhPQkJLcjJFU1p2RENnX0NhazBkOGFIc19jeFd1NHlnWExtaWV6b0pGUEpsRk1HQ1IzcDlKa01TMVAyeUh6aWtPUno2LTFVYlhDTzBDNA?oc=5",
+  "title": "À court d’idées, Le Point décide de consacrer un 789 ème article à Jean-Luc Mélenchon",
+  "summary": "",
+  "published": "2026-07-27T09:00+02:00",
+  "mentions": [
+   "melenchon"
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": -1,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "ec05a3acd6fa58e5",
+  "outlet": "ODS Radio",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYUhYMm1XQ1JpcTB2VWlYQV96cUpVci1zdEc5aWNnVkZBU2VyRTUxd3NqZll4aV9MbGRDMTVkZVJsSkFMZFh1Zlp5elJySkJuTGRoSFZ1dzkycldzV1B4d3JYN1ZaNVNmS2F6bXJhQldwX3A2VU16N0Fqb2hzYk9iNlI3WjZ1SzB4VmpoMXJNcktMQmR6cjlmSDdXaHkxQUlFc1NsajU3NFVwN19NZjRCcjlqSG9QRnhKLWVCNG5UTnFIYWc2ZURRdnBUUQ?oc=5",
+  "title": "Gabriel Attal attendu à Annecy lundi pour une journée consacrée aux enjeux climatiques",
   "summary": "",
   "published": "2026-07-27T09:00+02:00",
   "mentions": [
    "attal"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "ffe00654f83dcc80",
+  "outlet": "Gala",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxQTzQ5VFRiT2NKS2xDc2stSVNZQmE2RVpOeFlUWWFRbFo1Mjlldm1kbnpMVEhnUVQtcVVDNUFZTllhUTM3SnowdDdFNEVweldQYWpJQjVTdk9YZzBBZU90aGlRZUVDclY1R2ZSQzdYcl9iaEZkSEprazB0SFJHZUtpWHg3TGd0bGd5YTQ4TnNWOExTVkF4enJka3BFQ282YW9MZ1c2eTF0TWdUcGFWRlUydGxURGxwdjZ0ZjUyTklGOGhmOG1IbUhaWnRtNmZVdXloTmoxWDJhSTFHUzE3ZzN3eVlUaWZsQ29TeTZXY2ZLVjFTZnhvLXhtR1NaalZSTXhmX3JHU3ZaZmd2MWVUV0cyeWw5eFRDT3pIYXczaDBB?oc=5",
+  "title": "Édouard Philippe et sa femme Édith amoureux de l’Italie : entre villages typiques et eaux turquoise, ce coin de paradis devenu leur refuge estival en famille",
+  "summary": "",
+  "published": "2026-07-27T09:00+02:00",
+  "mentions": [
+   "philippe"
+  ],
+  "analysis": [],
+  "analysis_model": "ollama:qwen3.5:4b"
  }
 ]

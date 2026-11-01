@@ -1,17 +1,5 @@
 [
  {
-  "id": "29085747d9f0430d",
-  "outlet": "Le Monde.fr",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxPV3czMkxCNE1jcDROM0pmR1ZSd2pBWlM4clQ4VWNuZG9sSXg4NU5nRWt4Yll1c1FaNUNxem4ya1d6Z3k3VGkxSVZMZ2RKWXF4VHdYOUlFdlVnVUZPOVU3Y3dLajEyR2ZBUWtNQ1ZGcllJQm9rOWdhbmNMVTVCWXhtelVEeHJNTWRLN2hGMU1pZWdVdjRsU3ZYV3QwSVFDUEhZZ3ppM3d3U2pDS2haUExxcXdTcl8zb2gwZU9MMG4yV0wxamZtWk1JelhmaDNHM1N5V3Z2dWZ1aXV6Y0E4MnQxOVFaOVpqQUtFNDBmSHQ5TzlrZXN6b0hMYUNfYnhTSUNfcXNlNGZBdFFRUjdUWG56ZFdzZXQyNGV4RjdTc3RCUXdPalpDU1RjQ2NfNHlxWjJjRXpmWi12Ny1LNnY4RlhaelhwNjVRcmo5Q3FlWjNB?oc=5",
-  "title": "Présidentielle 2027 : Marine Le Pen réaffirme sa confiance en Jordan Bardella malgré les accusations d’antisémitisme révélées par « Mediapart »",
-  "summary": "",
-  "published": "2026-10-03T09:00+02:00",
-  "mentions": [
-   "lepen"
-  ]
- },
- {
   "id": "06c6751da9fda122",
   "outlet": "franceinfo",
   "lean": "centre",
@@ -21,7 +9,149 @@
   "published": "2026-10-03T09:00+02:00",
   "mentions": [
    "melenchon"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "0e0419ee4aefd8c6",
+  "outlet": "La Tribune",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxNWUktVEtGeFRhZkxESk9NUVMtdHhSMFpSaFdVR1J2dnJ4cVhSeDhVMU00UF9GcmIyMFF1X3NwVC1HS09CMWJfTGJyLUpvY2tibkt0ZzRnSU90ekY1UlBZTkxFcFZGZUdEcHJjaXdqdm1VOENEdWVJOWRsdU5yU0paSnRXS1RkN3hybEFhMlRqYk9CZExJTUdoUndVd0dGOGliWE40OHVHYlFsQnZuX2JFc2hCcGp6cW10VElCMlR4RHpaTWM1XzBaY3dDbkxyQkxfMmQtNGtuUHl3Z09YUXRGb0VSQ1VnYWdxRG04b0tUZVRRYVlEWTJNUFZTQ21XbEpMV1lwX0ZjdFpfRUxlbEhqWjlDdHVRQjl1cnFTQW0zQ1hxeVZZWXRUM296b21DYXV4dFUyVTNxUQ?oc=5",
+  "title": "« J’ai totalement confiance en Jordan » : Marine Le Pen réaffirme son soutien à Bardella après le deuxième volet de l’enquête de Mediapart",
+  "summary": "",
+  "published": "2026-10-03T09:00+02:00",
+  "mentions": [
+   "lepen"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "0f74115d5d2f26aa",
+  "outlet": "franceinfo",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQUmFZZHJ3VWRlR25FcHUyWDdIbEd1U2dPQlVVV0JmT0dqaU91R3o5a2VWOVhyNXRHbXpYRGU5ejNfMEhYd1pldm5DMS00cmlfV0E0V2FFdnJFRk5OdWdObi11ZzlpQmFBZm4wV2JZLVBFRXdwaWZnZG1td1kwYjJYLThVU1F0aktCS3NDUmVIZkp2cXdlaF9NWHNMTFhua0RhZnpLT21tWWlrZUNDdzFrZmtka3k5MnpmRFk3QkJPWkFVTC1TdE02a0NDWXBmTVRGcjI3aW5BNGwyVGY0MFpmOFNHdGFWZW1kNXNBRG54cy1pWEpoM1hKb3ExWDdLWHBvRzRVV0UzRjBJdw?oc=5",
+  "title": "Marine Le Pen maintient \"totalement\" sa \"confiance\" à Jordan Bardella, à qui Mediapart attribue des écrits antisémites",
+  "summary": "",
+  "published": "2026-10-03T09:00+02:00",
+  "mentions": [
+   "lepen"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "1b96326eec726020",
+  "outlet": "Le Figaro",
+  "lean": "droite",
+  "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNNzhldkl4WGRDMnVfUDhmem5sNUNwU01tVXVSSkF5c1RwTW96Nm9TaWtjVUtXdGtOTUJQMW13bnlTek1pYVdwSE5RSDBjZGw4MlNUcnJTN0VISnFTMDZaeHNoR3RmVW9JdElxZzhJNFBKbkZzOC13bDJzYUNheHFTSG1jSGhfbDh4YkFGdmlnOVJvUlg3enF3WTRCT2d2Y0MzYmNxWUZjaGY3aEc5VDZiNmxqamFuOE9KR1h2X1RMd2F3UXV3US1CQUJrd05PRzRnc0taZXJOYktiMDViUHVkalNSd2d4UW8zRVZYRkQ2bWZOVUpnclVKZ3JDT1ljTzZRR21TOWJQNDUwdUhaZHJxU1RlNzFmeko4djJ6MA?oc=5",
+  "title": "Présidentielle 2027 : Gabriel Attal plaide pour un candidat unique rassemblant gauche social-démocrate et droite républicaine",
+  "summary": "",
+  "published": "2026-10-03T09:00+02:00",
+  "mentions": [
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "23035898f4358332",
+  "outlet": "CNews",
+  "lean": "droite",
+  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMkdMd2lONWVFRlB2XzN2Z292cHRXVG03ckpIN01YZThrMEhNWUxlSTFrTlFVYnNXS3ZjZGU5MFcwUWREcVJFLXY3TXZ0U0JJVThlVjlTYlkyOFlZS3dOdjJ6cFhhekg1MXJMQkNsN3FVNmdUaGlCRnVyRWtnSDJxUGFxTVlDTnFnSnlSOEhGNm0yRHBqLUFaWkJKY3Z5VlN6YlZsVHVXdk9DWFBhOUhCYWM5YzJuNDTSAbwBQVVfeXFMTTVNZ05sX0dTYTB4Z1duY2Fvcl82aEVCcTZUQ1REM2NBYklxSUQ2SThkMEdtWGdFZWR4WW5oTnFOZnZQektYSTR0N196cGlzQ3p4MkZnbUxmTjVXYWhXVVh5ZWw0M3ZMZkpoOGtmdS12V3NFQjVfVWdWcHdCR0s2T1NUa29hS3dLdFI5VHM5cVNtT1Z2ZUtKRFZKMUVNeXJ5UG5mdzZWdldmSFcwVmVKQnNWeFdZUzhmdHBNYnQ?oc=5",
+  "title": "Présidentielle 2027 : Gabriel Attal appelle à une coalition de la gauche et de la droite pour faire barrage au RN",
+  "summary": "",
+  "published": "2026-10-03T09:00+02:00",
+  "mentions": [
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "29085747d9f0430d",
+  "outlet": "Le Monde.fr",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxPV3czMkxCNE1jcDROM0pmR1ZSd2pBWlM4clQ4VWNuZG9sSXg4NU5nRWt4Yll1c1FaNUNxem4ya1d6Z3k3VGkxSVZMZ2RKWXF4VHdYOUlFdlVnVUZPOVU3Y3dLajEyR2ZBUWtNQ1ZGcllJQm9rOWdhbmNMVTVCWXhtelVEeHJNTWRLN2hGMU1pZWdVdjRsU3ZYV3QwSVFDUEhZZ3ppM3d3U2pDS2haUExxcXdTcl8zb2gwZU9MMG4yV0wxamZtWk1JelhmaDNHM1N5V3Z2dWZ1aXV6Y0E4MnQxOVFaOVpqQUtFNDBmSHQ5TzlrZXN6b0hMYUNfYnhTSUNfcXNlNGZBdFFRUjdUWG56ZFdzZXQyNGV4RjdTc3RCUXdPalpDU1RjQ2NfNHlxWjJjRXpmWi12Ny1LNnY4RlhaelhwNjVRcmo5Q3FlWjNB?oc=5",
+  "title": "Présidentielle 2027 : Marine Le Pen réaffirme sa confiance en Jordan Bardella malgré les accusations d’antisémitisme révélées par « Mediapart »",
+  "summary": "",
+  "published": "2026-10-03T09:00+02:00",
+  "mentions": [
+   "lepen"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "3edf60b9c2ff24e8",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxPc1ZaZXRaVUhzVWt5d2xSamxZc3dJUkVMcHRxLUtmRzhNbmJOVnBZR1prRldRX1pIY1dUUzVDWmJFTFJpM21ieDZNQlJIOUVvWEhMYWVGWk45M3M4QTNhY0oxRjJfRk5mdVpUTzdSQ3FPRnFzcmJRd01yZHBid0hBelNWRHo4bTlwMTlZUjBDWjdrS3lvNWN3M2toaWpfcHc2LS1za1BOeXV3VElqZHZpM2szXzUyMVNjcmZJLUl4a3lrajhTQUs0dENveGxEVHZPbkl6aXRRaE5Vc2QyX0RENUFTWVNFVnQwUEUtemh5SEtlMEJDeHlfel9ZSWc5RmRPS0wtTTg2VWY4MU8wQ0RWUUFDMmdweDdsenBBZ3VYTkJRdGZzUFpPSVppQkJ6QWZOWEVzZVhGNDA4VTJsRDdOWnpCZjhoRWxWTG5VUnBmVEstNWc?oc=5",
+  "title": "Colère lycéenne: \"La police municipale dans ma commune a interpellé 23 individus\", détaille David Lisnard, maire de Cannes et candidat \"Nouvelle Énergie\" à l'élection présidentielle",
+  "summary": "",
+  "published": "2026-10-03T09:00+02:00",
+  "mentions": [
+   "lisnard"
+  ],
+  "analysis": [
+   {
+    "id": "lisnard",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "41eb58107b2368bc",
+  "outlet": "France TV",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNVnpMajJXeVdCNjJEZ0c4RjVqY0VhZ2NwdjlPNzNodEpVZERGanpYYjd0YS1tWDZmOXJIeERlS2Q2dG0yQVlFYklqVFlMNWI0YVQ0a29wdFJZQkFiMmNGVkotLVFFR0NkcGlVYUtqbEZuSmxRNkJLaUxxMEhBaE5HSXN0eG4wWS10R0F3Nl9rWnh0X2xlT1dqLXZ5MWJXa2pxT3FUSUhaR1hab1ZqZXQ1TDl5QlJmaEZMTmVQZVNPZlRsMWdKTlZoVjlUZW5FVWo2RFQwUXBmOEU2RkFSdXpzMXdTby1Pdzd4anN2R1FlT3Z2ajNIUmZKVG9HRTFVeXhsUnc?oc=5",
+  "title": "Nathalie Arthaud, Arthow ou Jimmy Deux Fois ? - Le Meilleur pour la fin d’Andrea Bruche",
+  "summary": "",
+  "published": "2026-10-03T09:00+02:00",
+  "mentions": [
+   "arthaud"
+  ],
+  "analysis": [],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "4aad40b6087bfdd5",
@@ -33,20 +163,55 @@
   "published": "2026-10-03T09:00+02:00",
   "mentions": [
    "melenchon"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "9226ce1832d45b66",
-  "outlet": "Le Figaro",
-  "lean": "droite",
-  "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOdzlhR1h6dnJtZ3hUYnBmWFBkUFVIY3lnRVFZdjRrU3Q1Szlzak5ZbDJRTnNoNTJNdU5Tdm5qT3ZvTEJFckRvSXJoVEFLYnoxcXl2N0E5Z0lvT1NfSU5acHN3ZFhkNXlQTDBVVS1jMU8zS3BOcy01THIyYzBwaU5MRjhXZ1pNdVNEQlJpeWM4RVljOVpLdm1EbVRMT2RLSzd1OGlvaFVlRktRUXltQVBsN1U1anR1ajVpUzVOOU1MekZtcXptS2hWMnVvaXZ5enE5YlVoMV9iZXZIUGJWbTRiM041dzI1T3VyUS05dFU4TDBEMkh5SF9TXw?oc=5",
-  "title": "«Sexisme consternant», «contre-vérité» : des propos privés de Raphaël Glucksmann font bondir Jean-Luc Mélenchon et Ségolène Royal",
+  "id": "5c42710e6e362ed5",
+  "outlet": "Ouest-France",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOSmpha242TDZiOE9aMGdlUm5fdEUxenVrUFhMUTllb1Q0UF8xTE0xNWZ2cVFYTjJ1U2tNSEFSNi1FR1BXNXE2Y2hXWnJpTUhKeEFpYnpYdTdiZDZBbTg4SVQxX2NKTVFrdHJHTlpZZE10Rlk2QUVDR1dGR21DOFhBMy01MFF6V0liSEtoUTM2WmFYLVFlb3NadThubHltWVJpNnVONlVuNDYxRUxya2tOdUNXUF9mRGk2aWxPaldNcXBxNVRRem1VSlVNZXFlSmw4NEZGOXAySFpKM2J5aG1Ud0lQcVhzVFR4M3RWMGt5a3ZGUlU3bzkxXzdVem1QbGRIRUNLTkhGVFhaSEV5S0xZbnZWNmhkNi0yaXUtaDRGWDg5STRmdnNJ?oc=5",
+  "title": "Présidentielle : Gabriel Attal rêve d’un candidat « à la tête d’une grande coalition » et ne dit pas non à une primaire",
   "summary": "",
   "published": "2026-10-03T09:00+02:00",
   "mentions": [
-   "melenchon",
-   "glucksmann"
-  ]
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "79480485a4c88a8b",
+  "outlet": "Presse Agence",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMXZjWm0xZDg4MkpvUk9Sby0wUTFuZlo3RE1pVVhJRTFCZG80NTM5V3ludjd5SEFadG43b1lXUE9kVHBuX0l5VWo0NmtjTWtCODZJUm9pX3JKNzBJaXQ5ZnFXUjVGQWw4Y184dU45STdpRExNbFRDRzljdDZRQTllTmZyU0RtYlJpQlVMeldxSEktX28wbXJiVS1CMFg5TWN3bE5iQjRYc1VPam5zcGFuVVZDQUpnNDZkbjJXcQ?oc=5",
+  "title": "MARSEILLE : François RUFFIN présente son plan pour « faire sauter le verrou » de la crise du logement",
+  "summary": "",
+  "published": "2026-10-03T09:00+02:00",
+  "mentions": [
+   "ruffin"
+  ],
+  "analysis": [
+   {
+    "id": "ruffin",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "868516482f626502",
@@ -59,105 +224,41 @@
   "mentions": [
    "lepen",
    "attal"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "d1f20a08e27ead1e",
-  "outlet": "Le Parisien",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxONnFmRFRWTnRyc1Y2ZzEwS0FVNkNta0J1TnVpb1RabG1ORm1ONWZSZnY0TEFBWkVXbTIyUVpEbG1aWkpKY2xhcUd2ZkFpeVF4bHR0Snhuamx5MzlKVTgzQ0JIRmN4X1U1Q1V2RTdvX2hmZDJlMTNjZVhSX0NNbmJCWl82NnJraGVLSzRISW10dTd3WDk1SmZpa1JERTVTVUJTTFFuemh0bERCVV9KbjBkc3NpWV9kN0FNaU42TFF6aXZZVVc2QUUwSVlsMm01ZW83OTJoanpMUWJsb3VpVC01VEZNQ3VCTFhES0tHZS1fVFNqSFp1ZmNhd3JuQWhuZ1FWaHZiNGh4RFkxWHljZFVabnlkbTY3Vk1XZzg3VE5aSEtQbHhwZzJIVkJhTlQ2RU1q?oc=5",
-  "title": "Gabriel Attal : « Il faut une coalition qui aille des électeurs de Raphaël Glucksmann à ceux de la droite républicaine",
-  "summary": "",
-  "published": "2026-10-03T09:00+02:00",
-  "mentions": [
-   "glucksmann",
-   "attal"
-  ]
- },
- {
-  "id": "1b96326eec726020",
+  "id": "9226ce1832d45b66",
   "outlet": "Le Figaro",
   "lean": "droite",
-  "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNNzhldkl4WGRDMnVfUDhmem5sNUNwU01tVXVSSkF5c1RwTW96Nm9TaWtjVUtXdGtOTUJQMW13bnlTek1pYVdwSE5RSDBjZGw4MlNUcnJTN0VISnFTMDZaeHNoR3RmVW9JdElxZzhJNFBKbkZzOC13bDJzYUNheHFTSG1jSGhfbDh4YkFGdmlnOVJvUlg3enF3WTRCT2d2Y0MzYmNxWUZjaGY3aEc5VDZiNmxqamFuOE9KR1h2X1RMd2F3UXV3US1CQUJrd05PRzRnc0taZXJOYktiMDViUHVkalNSd2d4UW8zRVZYRkQ2bWZOVUpnclVKZ3JDT1ljTzZRR21TOWJQNDUwdUhaZHJxU1RlNzFmeko4djJ6MA?oc=5",
-  "title": "Présidentielle 2027 : Gabriel Attal plaide pour un candidat unique rassemblant gauche social-démocrate et droite républicaine",
-  "summary": "",
-  "published": "2026-10-03T09:00+02:00",
-  "mentions": [
-   "attal"
-  ]
- },
- {
-  "id": "d281a5b7443736cb",
-  "outlet": "Le Dauphiné Libéré",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaDYzZ21vSFR1NWJtVUlLREc1T0ZXX1N1anBuUEp5SGVHcHI0UU92M1RUTURMU3J4ZmpGcDI4eTg5UGlXOGJ2eGpjWnJWLThaVUdYaGxZQkN1YTBsVnJkZUNmZGpnbFM5aXJYTzRSNi1XcFpOMmRZalBDUGlDTzhZNEd5OEFhTjNNc2R5RlUxYllyQU04TFpuSXNR?oc=5",
-  "title": "Billet. Comment Bruno Retailleau peut accéder à l’Élysée",
-  "summary": "",
-  "published": "2026-10-03T09:00+02:00",
-  "mentions": [
-   "retailleau"
-  ]
- },
- {
-  "id": "41eb58107b2368bc",
-  "outlet": "France TV",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNVnpMajJXeVdCNjJEZ0c4RjVqY0VhZ2NwdjlPNzNodEpVZERGanpYYjd0YS1tWDZmOXJIeERlS2Q2dG0yQVlFYklqVFlMNWI0YVQ0a29wdFJZQkFiMmNGVkotLVFFR0NkcGlVYUtqbEZuSmxRNkJLaUxxMEhBaE5HSXN0eG4wWS10R0F3Nl9rWnh0X2xlT1dqLXZ5MWJXa2pxT3FUSUhaR1hab1ZqZXQ1TDl5QlJmaEZMTmVQZVNPZlRsMWdKTlZoVjlUZW5FVWo2RFQwUXBmOEU2RkFSdXpzMXdTby1Pdzd4anN2R1FlT3Z2ajNIUmZKVG9HRTFVeXhsUnc?oc=5",
-  "title": "Nathalie Arthaud, Arthow ou Jimmy Deux Fois ? - Le Meilleur pour la fin d’Andrea Bruche",
-  "summary": "",
-  "published": "2026-10-03T09:00+02:00",
-  "mentions": [
-   "arthaud"
-  ]
- },
- {
-  "id": "dec781e530b1afe4",
-  "outlet": "20 Minutes",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQV19lVW9Mc2FlaTNYWUVfckJNZUNldEtQVlZFQjR5VXNtaDBhcWF5UjhtcTFMX2VBRndpMzJDUTNzcGlhM0ZWN1pkRG9uZU5fUENwNlJQX3BXTVZ4V09kSFplX0Vkd0FXcWhXaGxvS1hIRHVtMTVwVWloYWI5MHdlZHkybEFDN0NRQV9JaENnMVNXUEJLUzJrcDA1RjRxb2lCU3kyRGVSUHN4aHpHYlB4SEpzVHRocjd3bkNwNEtlYUFCVFZfbE42Z01FSjhDM3lsZXJZSk41bnk?oc=5",
-  "title": "Des propos privés de Raphaël Glucksmann font réagir Mélenchon et Royal",
+  "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOdzlhR1h6dnJtZ3hUYnBmWFBkUFVIY3lnRVFZdjRrU3Q1Szlzak5ZbDJRTnNoNTJNdU5Tdm5qT3ZvTEJFckRvSXJoVEFLYnoxcXl2N0E5Z0lvT1NfSU5acHN3ZFhkNXlQTDBVVS1jMU8zS3BOcy01THIyYzBwaU5MRjhXZ1pNdVNEQlJpeWM4RVljOVpLdm1EbVRMT2RLSzd1OGlvaFVlRktRUXltQVBsN1U1anR1ajVpUzVOOU1MekZtcXptS2hWMnVvaXZ5enE5YlVoMV9iZXZIUGJWbTRiM041dzI1T3VyUS05dFU4TDBEMkh5SF9TXw?oc=5",
+  "title": "«Sexisme consternant», «contre-vérité» : des propos privés de Raphaël Glucksmann font bondir Jean-Luc Mélenchon et Ségolène Royal",
   "summary": "",
   "published": "2026-10-03T09:00+02:00",
   "mentions": [
    "melenchon",
    "glucksmann"
-  ]
- },
- {
-  "id": "23035898f4358332",
-  "outlet": "CNews",
-  "lean": "droite",
-  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMkdMd2lONWVFRlB2XzN2Z292cHRXVG03ckpIN01YZThrMEhNWUxlSTFrTlFVYnNXS3ZjZGU5MFcwUWREcVJFLXY3TXZ0U0JJVThlVjlTYlkyOFlZS3dOdjJ6cFhhekg1MXJMQkNsN3FVNmdUaGlCRnVyRWtnSDJxUGFxTVlDTnFnSnlSOEhGNm0yRHBqLUFaWkJKY3Z5VlN6YlZsVHVXdk9DWFBhOUhCYWM5YzJuNDTSAbwBQVVfeXFMTTVNZ05sX0dTYTB4Z1duY2Fvcl82aEVCcTZUQ1REM2NBYklxSUQ2SThkMEdtWGdFZWR4WW5oTnFOZnZQektYSTR0N196cGlzQ3p4MkZnbUxmTjVXYWhXVVh5ZWw0M3ZMZkpoOGtmdS12V3NFQjVfVWdWcHdCR0s2T1NUa29hS3dLdFI5VHM5cVNtT1Z2ZUtKRFZKMUVNeXJ5UG5mdzZWdldmSFcwVmVKQnNWeFdZUzhmdHBNYnQ?oc=5",
-  "title": "Présidentielle 2027 : Gabriel Attal appelle à une coalition de la gauche et de la droite pour faire barrage au RN",
-  "summary": "",
-  "published": "2026-10-03T09:00+02:00",
-  "mentions": [
-   "attal"
-  ]
- },
- {
-  "id": "5c42710e6e362ed5",
-  "outlet": "Ouest-France",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOSmpha242TDZiOE9aMGdlUm5fdEUxenVrUFhMUTllb1Q0UF8xTE0xNWZ2cVFYTjJ1U2tNSEFSNi1FR1BXNXE2Y2hXWnJpTUhKeEFpYnpYdTdiZDZBbTg4SVQxX2NKTVFrdHJHTlpZZE10Rlk2QUVDR1dGR21DOFhBMy01MFF6V0liSEtoUTM2WmFYLVFlb3NadThubHltWVJpNnVONlVuNDYxRUxya2tOdUNXUF9mRGk2aWxPaldNcXBxNVRRem1VSlVNZXFlSmw4NEZGOXAySFpKM2J5aG1Ud0lQcVhzVFR4M3RWMGt5a3ZGUlU3bzkxXzdVem1QbGRIRUNLTkhGVFhaSEV5S0xZbnZWNmhkNi0yaXUtaDRGWDg5STRmdnNJ?oc=5",
-  "title": "Présidentielle : Gabriel Attal rêve d’un candidat « à la tête d’une grande coalition » et ne dit pas non à une primaire",
-  "summary": "",
-  "published": "2026-10-03T09:00+02:00",
-  "mentions": [
-   "attal"
-  ]
- },
- {
-  "id": "3edf60b9c2ff24e8",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxPc1ZaZXRaVUhzVWt5d2xSamxZc3dJUkVMcHRxLUtmRzhNbmJOVnBZR1prRldRX1pIY1dUUzVDWmJFTFJpM21ieDZNQlJIOUVvWEhMYWVGWk45M3M4QTNhY0oxRjJfRk5mdVpUTzdSQ3FPRnFzcmJRd01yZHBid0hBelNWRHo4bTlwMTlZUjBDWjdrS3lvNWN3M2toaWpfcHc2LS1za1BOeXV3VElqZHZpM2szXzUyMVNjcmZJLUl4a3lrajhTQUs0dENveGxEVHZPbkl6aXRRaE5Vc2QyX0RENUFTWVNFVnQwUEUtemh5SEtlMEJDeHlfel9ZSWc5RmRPS0wtTTg2VWY4MU8wQ0RWUUFDMmdweDdsenBBZ3VYTkJRdGZzUFpPSVppQkJ6QWZOWEVzZVhGNDA4VTJsRDdOWnpCZjhoRWxWTG5VUnBmVEstNWc?oc=5",
-  "title": "Colère lycéenne: \"La police municipale dans ma commune a interpellé 23 individus\", détaille David Lisnard, maire de Cannes et candidat \"Nouvelle Énergie\" à l'élection présidentielle",
-  "summary": "",
-  "published": "2026-10-03T09:00+02:00",
-  "mentions": [
-   "lisnard"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": -1,
+    "frame": "programme"
+   },
+   {
+    "id": "melenchon",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "9f0241d2f79b999f",
@@ -169,43 +270,15 @@
   "published": "2026-10-03T09:00+02:00",
   "mentions": [
    "melenchon"
-  ]
- },
- {
-  "id": "0e0419ee4aefd8c6",
-  "outlet": "La Tribune",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxNWUktVEtGeFRhZkxESk9NUVMtdHhSMFpSaFdVR1J2dnJ4cVhSeDhVMU00UF9GcmIyMFF1X3NwVC1HS09CMWJfTGJyLUpvY2tibkt0ZzRnSU90ekY1UlBZTkxFcFZGZUdEcHJjaXdqdm1VOENEdWVJOWRsdU5yU0paSnRXS1RkN3hybEFhMlRqYk9CZExJTUdoUndVd0dGOGliWE40OHVHYlFsQnZuX2JFc2hCcGp6cW10VElCMlR4RHpaTWM1XzBaY3dDbkxyQkxfMmQtNGtuUHl3Z09YUXRGb0VSQ1VnYWdxRG04b0tUZVRRYVlEWTJNUFZTQ21XbEpMV1lwX0ZjdFpfRUxlbEhqWjlDdHVRQjl1cnFTQW0zQ1hxeVZZWXRUM296b21DYXV4dFUyVTNxUQ?oc=5",
-  "title": "« J’ai totalement confiance en Jordan » : Marine Le Pen réaffirme son soutien à Bardella après le deuxième volet de l’enquête de Mediapart",
-  "summary": "",
-  "published": "2026-10-03T09:00+02:00",
-  "mentions": [
-   "lepen"
-  ]
- },
- {
-  "id": "0f74115d5d2f26aa",
-  "outlet": "franceinfo",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQUmFZZHJ3VWRlR25FcHUyWDdIbEd1U2dPQlVVV0JmT0dqaU91R3o5a2VWOVhyNXRHbXpYRGU5ejNfMEhYd1pldm5DMS00cmlfV0E0V2FFdnJFRk5OdWdObi11ZzlpQmFBZm4wV2JZLVBFRXdwaWZnZG1td1kwYjJYLThVU1F0aktCS3NDUmVIZkp2cXdlaF9NWHNMTFhua0RhZnpLT21tWWlrZUNDdzFrZmtka3k5MnpmRFk3QkJPWkFVTC1TdE02a0NDWXBmTVRGcjI3aW5BNGwyVGY0MFpmOFNHdGFWZW1kNXNBRG54cy1pWEpoM1hKb3ExWDdLWHBvRzRVV0UzRjBJdw?oc=5",
-  "title": "Marine Le Pen maintient \"totalement\" sa \"confiance\" à Jordan Bardella, à qui Mediapart attribue des écrits antisémites",
-  "summary": "",
-  "published": "2026-10-03T09:00+02:00",
-  "mentions": [
-   "lepen"
-  ]
- },
- {
-  "id": "79480485a4c88a8b",
-  "outlet": "Presse Agence",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMXZjWm0xZDg4MkpvUk9Sby0wUTFuZlo3RE1pVVhJRTFCZG80NTM5V3ludjd5SEFadG43b1lXUE9kVHBuX0l5VWo0NmtjTWtCODZJUm9pX3JKNzBJaXQ5ZnFXUjVGQWw4Y184dU45STdpRExNbFRDRzljdDZRQTllTmZyU0RtYlJpQlVMeldxSEktX28wbXJiVS1CMFg5TWN3bE5iQjRYc1VPam5zcGFuVVZDQUpnNDZkbjJXcQ?oc=5",
-  "title": "MARSEILLE : François RUFFIN présente son plan pour « faire sauter le verrou » de la crise du logement",
-  "summary": "",
-  "published": "2026-10-03T09:00+02:00",
-  "mentions": [
-   "ruffin"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "bbf2307126ea2142",
@@ -219,7 +292,97 @@
    "lepen",
    "melenchon",
    "glucksmann"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   },
+   {
+    "id": "melenchon",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   },
+   {
+    "id": "lepen",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "d1f20a08e27ead1e",
+  "outlet": "Le Parisien",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxONnFmRFRWTnRyc1Y2ZzEwS0FVNkNta0J1TnVpb1RabG1ORm1ONWZSZnY0TEFBWkVXbTIyUVpEbG1aWkpKY2xhcUd2ZkFpeVF4bHR0Snhuamx5MzlKVTgzQ0JIRmN4X1U1Q1V2RTdvX2hmZDJlMTNjZVhSX0NNbmJCWl82NnJraGVLSzRISW10dTd3WDk1SmZpa1JERTVTVUJTTFFuemh0bERCVV9KbjBkc3NpWV9kN0FNaU42TFF6aXZZVVc2QUUwSVlsMm01ZW83OTJoanpMUWJsb3VpVC01VEZNQ3VCTFhES0tHZS1fVFNqSFp1ZmNhd3JuQWhuZ1FWaHZiNGh4RFkxWHljZFVabnlkbTY3Vk1XZzg3VE5aSEtQbHhwZzJIVkJhTlQ2RU1q?oc=5",
+  "title": "Gabriel Attal : « Il faut une coalition qui aille des électeurs de Raphaël Glucksmann à ceux de la droite républicaine",
+  "summary": "",
+  "published": "2026-10-03T09:00+02:00",
+  "mentions": [
+   "glucksmann",
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   },
+   {
+    "id": "glucksmann",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "d281a5b7443736cb",
+  "outlet": "Le Dauphiné Libéré",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaDYzZ21vSFR1NWJtVUlLREc1T0ZXX1N1anBuUEp5SGVHcHI0UU92M1RUTURMU3J4ZmpGcDI4eTg5UGlXOGJ2eGpjWnJWLThaVUdYaGxZQkN1YTBsVnJkZUNmZGpnbFM5aXJYTzRSNi1XcFpOMmRZalBDUGlDTzhZNEd5OEFhTjNNc2R5RlUxYllyQU04TFpuSXNR?oc=5",
+  "title": "Billet. Comment Bruno Retailleau peut accéder à l’Élysée",
+  "summary": "",
+  "published": "2026-10-03T09:00+02:00",
+  "mentions": [
+   "retailleau"
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "dec781e530b1afe4",
+  "outlet": "20 Minutes",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQV19lVW9Mc2FlaTNYWUVfckJNZUNldEtQVlZFQjR5VXNtaDBhcWF5UjhtcTFMX2VBRndpMzJDUTNzcGlhM0ZWN1pkRG9uZU5fUENwNlJQX3BXTVZ4V09kSFplX0Vkd0FXcWhXaGxvS1hIRHVtMTVwVWloYWI5MHdlZHkybEFDN0NRQV9JaENnMVNXUEJLUzJrcDA1RjRxb2lCU3kyRGVSUHN4aHpHYlB4SEpzVHRocjd3bkNwNEtlYUFCVFZfbE42Z01FSjhDM3lsZXJZSk41bnk?oc=5",
+  "title": "Des propos privés de Raphaël Glucksmann font réagir Mélenchon et Royal",
+  "summary": "",
+  "published": "2026-10-03T09:00+02:00",
+  "mentions": [
+   "melenchon",
+   "glucksmann"
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": -1,
+    "frame": "programme"
+   },
+   {
+    "id": "melenchon",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "5ac656a2795a777f",
@@ -241,7 +404,15 @@
   "published": "2026-10-03T12:29+02:00",
   "mentions": [
    "philippe"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "294f46da9d5058cf",

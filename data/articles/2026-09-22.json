@@ -10,38 +10,44 @@
   "mentions": []
  },
  {
-  "id": "db3c058eddcddf9e",
-  "outlet": "Journal de l'Agence",
+  "id": "0068e4240034df52",
+  "outlet": "BFM",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNT3A4d0VFTnFNUzNqa1U0TDJLcmtaUlBwZUs1VEFVSFMxZGVkTW1lU25mbjJWcVJxbkwtQjNaVEw1VDVVWkZTRVpRZGctLV9CdHhTUndGNU5XeWR6Vmg3bzNjdmo4MUw2em04V1dTc0c1Q1ZydTJGNDFtQVBvZlN3WDdmVWFXc0RjNVd6VklJN0lKMHhyLW5seTdWN1hfNjNwRTMwT3BXeFd6bk5ZNTlrNXdUM1pubjhxUlc5U2FyZG4?oc=5",
-  "title": "Présidentielle 2027 : quelles sont les propositions de Marine Le Pen sur le logement ?",
+  "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQRjNIVmM4eUtJMnp0VGRPYjZJTi1iZEVoWVh1bi1Gd1FBZnN5NzJaZTU5N0IwWGN6YnFTTXBaUXhkZUttOVN3YXZRV2E0aXhjejMwU2tzNU5jYW1DYm4xZ0RYdnAxdHNVbExzMU5WX1ptcU1nT2ZoVk85SWFnZFdiWF9oWnctRFZUOC10NzZVcnNTdmZ0OWQxT2dnM25FeGtSTWxkampQeV9iRWljc2hxMmxIOXZpaEhIdElwR0VVNWt3UlVHWnh5ZHUzLUN0VnlOak5XbXJkeUpIRFREeHM3bjlTdkM?oc=5",
+  "title": "Crise des carburants: Fabien Roussel (PCF) appelle à une \"nationalisation sanction\" contre Total",
   "summary": "",
   "published": "2026-09-22T09:00+02:00",
   "mentions": [
-   "lepen"
-  ]
+   "roussel"
+  ],
+  "analysis": [
+   {
+    "id": "roussel",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "cd6b171a0571c00e",
-  "outlet": "Le Figaro",
-  "lean": "droite",
-  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWWpQVFNjZ0dHUV9sZ1M3LTRydl9rVDNkVkJEblE0VFdRb3hzZW9nZWRGR1hxeWF4Q01uSWI1eDhhT1ljdjVvSmlJb29faVlYSFZYaFZBSGU4NVVneHRfZ09tVUN5TGp0MC1YTURlcUN0N3NfWEh5VWhJc2d3bEEtRFhwZ1BtRTY0LXF6Zi1JOWtsaW41QmFSZFJ1RkE4eG5vWDVadk5kYWxjY0ZWYU16X1FUay1jcTlEOHk4YkNUak5QSm5ZVngw?oc=5",
-  "title": "Premier bras de fer entre les avocats de Marine Le Pen et la Cour de cassation",
+  "id": "07fe4bf29f107c9e",
+  "outlet": "TF1 Info",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxONlM2VmozQXpPLTZWZ3dkaVVQaUppbnZvRTVRcmhRckUzYkhCSk5UYjc3Q0hrWjJtYXJxWHJGWEFhSDB1VmR1WTVzeWwxQU5EV0JnaWE3bmc1ZHZFWUxsX2VHamhRZmVReUZDbWlYTmJobm1CZl81VFZxZ1lKQkFJLVlURnNTMGFLVWJoNnVLLUFhSU4ybEpGNEVUclJNZFVTMWdZaUdDMllONlo4dENSY0I4VDFzVjExelRMUVplX2VndGN4VUIxQjU0aUdoa2ZIc29ORUJOZUlKQXoyMlE2Mlo5anRScGFIUERzWVI0MW5ScXRXcTAtbFlQMjVQQUpMNUxhaV9zR2h4V2FXNUstbkRnSkhtdw?oc=5",
+  "title": "Âge minimal de départ à 63 ans, à taux plein à 65 ans... Bruno Retailleau dévoile sur LCI ses propositions pour les retraites",
   "summary": "",
   "published": "2026-09-22T09:00+02:00",
   "mentions": [
-   "lepen"
-  ]
- },
- {
-  "id": "9429613cf5918ea9",
-  "outlet": "Le Monde.fr",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxOVWU2UW1welFMblZnMk9CYUpqbnhnTm5SWUV2d01uTzNxRUNreGY2Vm5ZcDZIbW5NR2dqN1A4UmRpalRWa2NMalAteUc5MzVfd01kUmNtdWlIa2xmSGF0aFNMSFBDSXhSY250OWhzbWxQcmtURjUxZUFUMTA3UmZTdTVhQmNpQ0xpNFY1Q0xrT0VlUDFoN2VBdkNtTkJXcUVMalJiV3NlLWpZYllxVng1LXVqdDlHcnVvNnd3cXZsZHh2SnJZYk9kSUU0VVNyREpGb0JNbHVXUHh3dUFsZFNWNnhIYl9VZTJseEdzZDFrYUktNHZSZGxCcHp0V3VnV3hkcmJTZUl1S09OUkswTG04amFHY3VOX1N4ME43VVR3Rmt5NE43M0VkTFRJckdQbURWV2hsNUVmbTNyNnVjVlhqV0h1aWtKYmd2X29iZlc1Yw?oc=5",
-  "title": "Le RN prend ses distances avec la Russie sans clarifier sa position sur l’Ukraine, un exercice d’équilibriste à l’approche de l’élection présidentielle de 2027",
-  "summary": "",
-  "published": "2026-09-22T09:00+02:00",
-  "mentions": []
+   "retailleau"
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "12e974c64a4c6476",
@@ -53,32 +59,35 @@
   "published": "2026-09-22T09:00+02:00",
   "mentions": [
    "lepen"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "dd71120ad5b4ff9a",
-  "outlet": "Fondation Jean-Jaurès",
+  "id": "1512606075d4ca0f",
+  "outlet": "BFM",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQ3JXWkF6MG44d29HVDBiSi1MeURpRXZlUUFFRkNHNnl3ckRVT0FPcVgxYjIzZ1NPX2JoY2VLOXJNaGhKeG5nNWgxYmszbllEX1c5QTVnVFNmVzUwbEJnNjBONHJvb01oM1VYT1NzelpBakI0RHZzVkd5a2dqRGVoN2xjamM0UXltU1lVMVN6cHFhV09WVXlN?oc=5",
-  "title": "Attal-Philippe : l’union ferait-elle vraiment la force ?",
+  "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPbGtROWlGanNuajZDX1hFdzhMVlRqVENlMWY3U3BDeng0Y0thX3JJUmRlTlVpQmktUzJkbk44bEJ5WVgzYWhiOE0tRTZGdkhybWN4a3BOSFljUV9TSzlyX3hNa1kydDBUaWU3Qy1sSnRFdlljQXFaZnUxY0t4el9raGxQcTdkTGVINlF6ZktKNWE5YTdqdE9SMEVOVWhlbXZpQW96S29QLXV1YzBrSXlqWDVoZHk4dWN4Z0pOdnhFdzhLZHN2U2Z6RmN5RDdMaWxSY0NSdkxnaF9VRGJ1U2I5NXhlLWlOVFU1dDJoY1NEUV8?oc=5",
+  "title": "Refus de célébrer le mariage d'un OQTF: Bruno Retailleau cité à comparaître au procès de Robert Ménard",
   "summary": "",
   "published": "2026-09-22T09:00+02:00",
   "mentions": [
-   "attal"
-  ]
- },
- {
-  "id": "439427019c54005a",
-  "outlet": "Le HuffPost",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQT1M3OGY2ZVlvRlZLQ0hSTk94U295SlI4dGI0RWZWV1NwU3dvRlo1aWYzbS1yWUpnQXFlNThkOVNxWm9teV91RlV1UTU0bWN2bldmZnVtTmRTdnVzaEU5S1REN19Bd1UzRHk2eGdaQXJzaWVLb3JhajdkaFpXU3JQN2IwTEZIRjZXdEpVd21oZXUyT3dVX0FtLXEyOGZfTVlBRDhGUFhQRlQwZzNPbF83NU1XdW5mZk9UWklRMXdGQnZ5VXdqZTlxR2ZHNThrNmc?oc=5",
-  "title": "Édouard Philippe étrille le « très, très immature » Gabriel Attal dans un livre",
-  "summary": "",
-  "published": "2026-09-22T09:00+02:00",
-  "mentions": [
-   "philippe",
-   "attal"
-  ]
+   "retailleau"
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": -1,
+    "frame": "economie_social"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "1ef2a1f8e83cc488",
@@ -91,202 +100,20 @@
   "mentions": [
    "philippe",
    "attal"
-  ]
- },
- {
-  "id": "cf522c49c32137e1",
-  "outlet": "Midi Libre",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxOMGQ5UWpSd0VGYXBpbEhlWVh5MExxbGtyeGk1RXVWeGh6MEhMSFp3VUs5V0RZSGQtWVAtNzBiUm1yMi1QUF9DQWR2ejZMZWRMb3ZQbEJzd3Iwbllsa0tteHg3R1BKQ2xGajdUeHdkM3pZSlE0c0lydVhYRTdqZFd1YnNDZmYzZXVaMXhQVE4wb3VLVVF3ZlhoeWQ3NGlSMXJodzU2ZktHb2Y2djgxVTQ5eHVhV0REdEJ5Vnc0Umk5aENLbUJ0S3dxQ05jT281bDcxSXMyZUU1TXJEdllSOHBuQzhZcHZUODFiUVRNXzExVHdIclM2ZGk4bVdCUV8yRGVJQWNETDRHMUNjLXRodE1HTDhocWxfN0JZZ05TR2JR?oc=5",
-  "title": "Présidentielle 2027 : \"Je suis meilleur en campagne\", \"Il est très immature\"… Edouard Philippe et Gabriel Attal se livrent à un véritable \"combat de coqs\"",
-  "summary": "",
-  "published": "2026-09-22T09:00+02:00",
-  "mentions": [
-   "philippe",
-   "attal"
-  ]
- },
- {
-  "id": "fc13bd7d8186d55f",
-  "outlet": "Paris Match",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOOWxlamVwVmhfelFidHFRaFFLRzZDekZNNlI5MVcyQ2RNaF9tZmpneE9OQzdtQ1VfMDJBLWZYb05RUUJ6QTFRSUM3TklHdTF1WllWQmVvMDFWNnNtbG1lcXk5cVU0YUZMYnZybGwtUWU3LVctUVZzdGcxQ3EtQ29SZG1ybEpiRHZfcFdyR1YwN0p0a05ReG9rYlhnOU1GZFpfZUYyOGVoZUwxSWg4RVZRSkt2SFdhVWRGLVN3LQ?oc=5",
-  "title": "Édouard Philippe vs Gabriel Attal : match (presque) nul, selon notre sondage",
-  "summary": "",
-  "published": "2026-09-22T09:00+02:00",
-  "mentions": [
-   "philippe",
-   "attal"
-  ]
- },
- {
-  "id": "65634f0142de3802",
-  "outlet": "20 Minutes",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOWFua2RZMW1lOHFMS0l1Y01zN3BURDdhOWxNX1k0SHJab1cxME5Ra1pWbm52bnJIbDNZYmRoaUR3blVmR0wxQ25aYXhiTHBjVTE4Z2pEZ2FGZUg1ekFSalY1cjR0elNaNkZRbGxuTEpreUlWdHJCeTdPN1lNampxTC1UTU8zcG5OamVMV2pGRTViTGZtSVpBX3FGVkxyTUFsb3RVVW9uY05NSVpBMnZobEJEMzZ0UklCRzJicG5mMXJqMVhlM2g4?oc=5",
-  "title": "Édouard Philippe se lâche sur Gabriel Attal dans un livre à paraître",
-  "summary": "",
-  "published": "2026-09-22T09:00+02:00",
-  "mentions": [
-   "philippe",
-   "attal"
-  ]
- },
- {
-  "id": "591bb12164c95e43",
-  "outlet": "l'Opinion",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNVhCb0ZrUjEyQ3VLVktkNlpvdC1wUllETDRuUnRTcUY0UnoyeFN2MGhrS2RDNkUydHdGNGFSaHdjRlctNE8xdURONlpqc3pfbTJXRDgwdXN3dmZrR0NTMHJIYlE0bkQtNVZIbVZxSFlKT1NKUTB0d2ZwTnN6RDZubndqOW1rWGloYjN4QTQ1ZVBaUkd1TUNiZGZ6V1pwaWVmY2t1NTl0YmtzVEVQX2FaTkNhbllkaVFCRERqYg?oc=5",
-  "title": "Primaire : Raphaël Glucksmann en passe de doubler le nombre d’adhérents de Place publique",
-  "summary": "",
-  "published": "2026-09-22T09:00+02:00",
-  "mentions": [
-   "glucksmann"
-  ]
- },
- {
-  "id": "66bf8861940f1d4e",
-  "outlet": "Le Point",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPc2Z4VHdQcFhQZnVpdUgzNjNGNThkQmMtdDRpaVpCclFqUjE0YXpGNE40aXhNU1hZQWkzU0x2SlJ0NFNXaGZyamV1cGZHVGFiME9CQ2pOR01OVWxicVVzbW1YV2JLY1ljazl6REV4WmtkWFVEMXlNYldnR1dtQnppekVVclZHck5WM1JkanJYa25qakQ5Yk9OVTFIWGl5VmdGNkIwRGlJWk9JOGJxaU5tbg?oc=5",
-  "title": "Pourquoi Ségolène Royal devrait lire Glucksmann (André)",
-  "summary": "",
-  "published": "2026-09-22T09:00+02:00",
-  "mentions": [
-   "glucksmann"
-  ]
- },
- {
-  "id": "2e6ab5a43bb10f5b",
-  "outlet": "Le Point",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOG82eER3OVdKQU9ZQ3dBWU0wNWx5MTJRRE14VTd2SXd2RE9CSmxXdDBGUU9Hak1SdlB1dnBadWxNdUIwV2RwR3Z5S0x5UE5tbEJoN1ZwcXdUTmx2YjlqSWMxR1dFN3pGN3lOeXFqc0ZwMHU1T0UxTXZjZHY2WGxaaURILUtsZkF6V01QNmQ1a3djTm5lNWc?oc=5",
-  "title": "Comment la gauche creuse sa tombe",
-  "summary": "",
-  "published": "2026-09-22T09:00+02:00",
-  "mentions": []
- },
- {
-  "id": "f4fad856cd66f623",
-  "outlet": "TF1+",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOSVQ5aHdsR0U2WWwxOUhwTHJVU0Vjdk1pWl94Z0RMVVBMSlVQZ1hoZ3VTbVZMMGFYTDRManVtWEUxdlg1a1U3NFFmU3p4YkZEOGZQS0tHLWJJQVliUmZnSXdyTVNCMTZWOEpUYmxidXFyOWxXMDYwdkZsalM4NkJGR2Z2UHlQWWU1RnhZUmFRNVl3a0VtRkE3clRJX2I5SmRiYjhmME1qQUNOSkM2MHhsSmZqcHFGTlRvSkUzZ2ZlODhtQWhZR2xDMy1TRzRYdUN0eUJEQlFtYXU2enhDRFhNdHpBSVBuaENH?oc=5",
-  "title": "La minute nécessaire - Ségolène Royal vs Raphaël Glucksmann : le choc des générations",
-  "summary": "",
-  "published": "2026-09-22T09:00+02:00",
-  "mentions": [
-   "glucksmann"
-  ]
- },
- {
-  "id": "713d48b5a4041b56",
-  "outlet": "Le Figaro",
-  "lean": "droite",
-  "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNOFVwaVVrVjZ4bnVWeDZXc3NTY1FVTmwzN21JOHVCVUFHV1pWZ0t6RENoMk13d1dPVV9tU2JZcUQxdkJvc1dnZEJoclZiandQNmRHYmZQbWJUNDVfbVpsalZjc2FTcVNQU1lQWDRLbHdINHJTUGZXZS1JLWhrWms4bXBrRmdHd3hNaU9oQ2lQZzdxb0NmeWxRQXFqcHJBN0lOUm1sR3Q2ZG9jajk4dWxCYWsxc0M0Qmc5U2l1T1FsNjRRT0dZM0xfckJ1TkN0bmRHeG5MbGFpajc5eUl3cnliRlk1XzQ4VjBzSVlPT25TZmZkVXBzQ0NmbkM1TQ?oc=5",
-  "title": "Primaire socialiste : «Il faut que ça cesse», exhorte Boris Vallaud, après les attaques de Royal contre Glucksmann",
-  "summary": "",
-  "published": "2026-09-22T09:00+02:00",
-  "mentions": [
-   "glucksmann"
-  ]
- },
- {
-  "id": "dec6fa39d49b2a4a",
-  "outlet": "Le HuffPost",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQUlY3ZENFUldTMTJTM0NzbVc0UHBMdDJuYTlyNVFnTU9VQmpXbmE1NFM2MFlhZ2pfMnZrV19NWkFlWTVFVG5tQmxMb2F6Q1R0WENlZXVReG1za1lJNmdzaGZLUmI3TWx1dXpPc0tndEtjQWF1WDk4U2ZkTEFFdVZUZjlhMEItd3N3WmRJWS1aVERLcjZhampQcWRvRXZMQTNuZDUtYkFQQ1o2cGQyWEdybV91ZDk2Yk9kaDBNVnpObjVESy1iWVR0ZFVzTGJqZlFFdVR6Tl9DbUJWd1Y2QWduc3JleGEzUmpQdEdIZDlSS0VWQQ?oc=5",
-  "title": "Présidentielle 2027 : l’opération de com’ de Gabriel Attal dans les bistrots rate complètement sa cible",
-  "summary": "",
-  "published": "2026-09-22T09:00+02:00",
-  "mentions": [
-   "attal"
-  ]
- },
- {
-  "id": "9c2cb1b613cbe1ba",
-  "outlet": "Le Monde.fr",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQOFhtb3lKNXR0MnpYRU94LXBLWDVnam1SS1JfdkhvWjRWc3lhRDhObnB0SHhtU0EtckpHcGsxTHJUcThFbG1vQ3hiWVdHQWpsb0VoUFA2MXpYNG9NdkFrS3l0dmNGVFBUMG5WLV8wM3ZmQU16WUx5TVlZdzRUSWZ3c3NTYkFXSF9CaWdtdEk5Z2UyQzl6RFZpX0lVdkw4eXpBWFRfY3JSNmlnbm9fb2FZRWJsV3M0NU16eEZybGp3d0NMRWpKLVBIMWt5V0tVNDBFQ1lDSUJsR1pPR0h2WHE5bGhKaXNWeS0yNWFZejhzZ2xfblR5bm9DTWdWRU1tMDBIbG1mc3FXWURERzF6SVc3elE2NUFoRXNfdW5EZklwVjluUQ?oc=5",
-  "title": "« Amusant, mais aussi très, très immature » : les répliques cinglantes d’Edouard Philippe sur Gabriel Attal dans le livre « Le Crépuscule des princes »",
-  "summary": "",
-  "published": "2026-09-22T09:00+02:00",
-  "mentions": [
-   "philippe",
-   "attal"
-  ]
- },
- {
-  "id": "552c7cc4ad3a9b3e",
-  "outlet": "CNews",
-  "lean": "droite",
-  "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaDkyeEdSYjU3QWdvZ0VBTVFaQkVNSEFDX2w4YjhZa3A4Q3ZzYnJQdWR5Vy1NQk9fdTBYS1g0R01JNlRaMGkwU29oYVhTeVE4WWI3ajMtSHRqQl81N3Q0cEtKczBTc09sN2UxY2xzVW5VNlNaU3ZkTWdFRGJHeFgxVEZ2ejR5Nmp3dUNWSmVvbkhQZGIxS2ZCRlZlX1F1TzlQUzN5UktLYW5KY242Ti1xSW42M21VVm9TZEZEU9IBwgFBVV95cUxNMnRLeWNCblE2UUQ0U3pkMnJZejhaendhZThObzFocXJhellmbU40YS1lVVNhTnkyY0pEMmp2V29RRlE1R0dWb0ZlX1VJN3QzZEVSNms4UFhHZ3JtVUtIZUxuUEQxckFsLTZ6LWZTc3ZPTEhFNkhQVkg5LXNfckd0cm5aeGhVU3BCaFo0UXg4emYxWDBjQnpmbzFvekhKQ0I3TURIdmktVlVnT3Jyd1d2bExWODJ4WnJvN2tlQVM5WUN3Zw?oc=5",
-  "title": "«Amusant mais aussi très immature» : Edouard Philippe charge lourdement Gabriel Attal",
-  "summary": "",
-  "published": "2026-09-22T09:00+02:00",
-  "mentions": [
-   "philippe",
-   "attal"
-  ]
- },
- {
-  "id": "3ae41dc2de9b7913",
-  "outlet": "Le Monde.fr",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQMjdxc0dsNGRodzFXUXBIeW1QRG5jeVdCVDJ5c2xMYjVaQ0stMDdFd2UtTjIxSkZHM3Z3eHNVVXhaMFFuSmZrcW43MkdjTE1BRlgzTXdFbmFlQ0tVNUJiRXJlc2ZHWG1kNnBxVWtMNTE1dWU0bXptV05xd2Z5TE9NS3p5UWRabTJ1OGpHVnZFMHhfVm1aY252SnpiMkx3TmRpMHk1VDJCdjVZZDROM2VrVWJkTFk0Vi0tOC1fU3lQdHU1ZW5ZUUE1THVuMHhsUzBXTmYzTzFDZmg4U2xveC1zWEMxTTE0SXNnaVlNbU4zLTdBNktjOHBucTV5YlkzMmNMMDlyTVVibGhrTVhDT0Q0eFZlYm84WmZtMTV2WA?oc=5",
-  "title": "Eric Zemmour veut expulser les étrangers en se basant sur une loi de 1945, une approximation historique et juridique",
-  "summary": "",
-  "published": "2026-09-22T09:00+02:00",
-  "mentions": [
-   "zemmour"
-  ]
- },
- {
-  "id": "3b1d80ef6255b7c9",
-  "outlet": "CNews",
-  "lean": "droite",
-  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeHJnS2VDVmJkZlNyWFhacUY1S3UzUl9VMnBVMG50aHpZNDY4UnFSdVpGNnAxbEtmdXJJbElIckRVNjJub2VTWUNTQmtYU0Q3c1h6NmhscmdDbkE1ZHh0SG1MZm5CREFYMU04WmJCRkx3WXFzSTZLMEk4Z0ZZcG01eko2OGtFV3pFSjdaWklodGxqM3Z5MDZWU2F5aHdMYmxlaDNZOWNXeE45N0NGWDN4b2otcGhoS0daTVJz0gHAAUFVX3lxTE5rSzZyQURveGRFeExpYVNudHoxMGhqTHlZd0FfMm9Hd3hvaExwT0VXeTJrcVFMQXM2R2FiSmRFMFhiYmFvTDRGdFd4STRiSEpCNlNmZVQwTVVXZVhXUlVUVFEtN1RmXzNZODU3VS1lLVl2X0lFdkU2WDJOVVIyQkg5bnBYQm50ZE53UkNHSHlaRjJWTUVaUDhsTk85eFFCUDhqX2RDVmxCUnpiOG5WMnAwUlluRF9pbHdoTWt3eUZlRQ?oc=5",
-  "title": "Âge de départ, capitalisation, décote… Bruno Retailleau donne les grandes lignes de sa réforme des retraites",
-  "summary": "",
-  "published": "2026-09-22T09:00+02:00",
-  "mentions": [
-   "retailleau"
-  ]
- },
- {
-  "id": "a06c6047123a4d7d",
-  "outlet": "franceinfo",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNNHJDdWhtejBqY2tCd1dkbVlhQjZLcUR6UmVRclJMLXAxOHk0X3J3UE5YbnB4LTlubmRpUjR3ajFLRmhXbmRfSGVoWjVpVDAzblJ3bUFJV1djMEhrZnE2U3I0TzlLdWI5VG9TUjhIWV92MU53NW43b0VHc2JNdTRZaFl1NzhKcVhaVGd3X19URU82RUlCcXluSUNqT2lHdzc1bDJsZGtqQUU3XzV1aUJEM1BRREoyc3J3eVZfMENNVmRPd0stek1fNTBCTDdrMGE5QXdQak1hODFrY0dlc2hKanI4M291RV94cGpUWTdFZVZ4eVhveFpBZFZPamU5ZXpXMTRCbDZFR0M?oc=5",
-  "title": "S'il est élu, Bruno Retailleau veut instaurer un âge minimal de départ à la retraite à 63 ans, et le taux plein à 65 ans",
-  "summary": "",
-  "published": "2026-09-22T09:00+02:00",
-  "mentions": [
-   "retailleau"
-  ]
- },
- {
-  "id": "e9289fc5d6689cb8",
-  "outlet": "Capital.fr",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVEtNdl9YRWpoa2ZwZ1dFQ0NSdGNGMHd0M3VBR2NwU2xPOW9HR3hqTlZZM3JvMFZkU0FNS1Bsc05BcGQxZEdYWTZjT3l3NmhsX1EzOE5QMmdxMDZrd3d2OHJ6anowMEtNQzhZYlpyT0xWdW9nZk1HaU10bUlNV1VvUW9hUFRTOHE1XzhTZDlxVlZGcTZscEwxeTBBM2taVkF2Mm1oNFJLUkJCVDdTZkg4YWpNWnhKeGVFSTJKdE5UM21hVzU2NzRpb1pjWWRHcFc1RlE?oc=5",
-  "title": "«Je veux sauver les retraites», Bruno Retailleau défend un âge minimal de départ à 63 ans",
-  "summary": "",
-  "published": "2026-09-22T09:00+02:00",
-  "mentions": [
-   "retailleau"
-  ]
- },
- {
-  "id": "24dff8858924a49c",
-  "outlet": "Nouvelle Énergie",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbzVBekQzaDZLMDByM3VIWUp4T3gxaTRmSUFkQS1GVlF2MENTVEwzNTRReWJPNE1xVVJ3Y0xVTEhub254YUhtNDJJdlpKVTB4aHZMeGhyV1RadzlUdEdGYVM2Ym9VY1JCVzl2MUFwMVZpd3k4WXM1R2ppWXRMLVMydENjbHNOSGU3bHZJVjdsUk9uUXVOYTZ3Y3BLTXljYzE1Q0hjcU1vQWJ5Y2NDVkE?oc=5",
-  "title": "David Lisnard aux côtés des pêcheurs cannois contre l’excès de bureaucratie",
-  "summary": "",
-  "published": "2026-09-22T09:00+02:00",
-  "mentions": [
-   "lisnard"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": -1,
+    "frame": "polemique"
+   },
+   {
+    "id": "attal",
+    "tone": -1,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "2361bc460cd5d372",
@@ -298,111 +125,35 @@
   "published": "2026-09-22T09:00+02:00",
   "mentions": [
    "lisnard"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "lisnard",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "9c8139f88b3ac4f6",
-  "outlet": "Banque des Territoires",
+  "id": "24dff8858924a49c",
+  "outlet": "Nouvelle Énergie",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdnJON2lTN3d6WWZIdHdnS2M4UzgtRmlsMDZzRWhSa0VYT1ZNdE1rQkNGZFFNaV92R2ZQSE9SUWV6dGNZM2pXd2hxeGFORmxkSjVxOGNkaDlveVBobzFUbVlEZHYtOWxzQ0EyNXdUUUtXbFVjcFNpZzRjbjdsczNRS0Rvdmg5UlRlOTNEU2lKenRMRkxja2ZLalJON0djRndKTnl0Z0ZYczdkSURGdUE?oc=5",
-  "title": "Budget 2027 : \"On nous présentera la facture après les sénatoriales\", s'agace l'AMF",
-  "summary": "",
-  "published": "2026-09-22T09:00+02:00",
-  "mentions": []
- },
- {
-  "id": "6704a8e8a9996cd9",
-  "outlet": "L'Humanité",
-  "lean": "gauche",
-  "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQSnlVdEYxajRabFltVTVXaWpKTTBSQ1MzUWtMM2NCTzNaQkZlRGRYalJwUGFRMjJxcWIwNUdkLXVJR0VYc2NtamdSejlZMWhsWE1BaEh1SWtfSTdfNzdfUUZ1ZVhXeEoxYnRCWl9hUnJfVzQ4UnJkcjVWb1JMbVNScG9PTXl5aG9BZXlFMEoxejFmbVpFci1JVk9FWFZxaEJVQlJ0bGQ3eU9qanZwWlpiMW1ILXpXUlNTTUlmTWJLaEtmLVpqZWV4SEV6UEVpcVo2VnFZY3hrVkVwMzlQQk5fRkR5NXI2a2IyQkdIaFR3WjVxd0lFZnd3?oc=5",
-  "title": "Présidentielle 2027 : « l'opération carburant » de Fabien Roussel pour faire baisser la TVA et les marges de TotalEnergies",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbzVBekQzaDZLMDByM3VIWUp4T3gxaTRmSUFkQS1GVlF2MENTVEwzNTRReWJPNE1xVVJ3Y0xVTEhub254YUhtNDJJdlpKVTB4aHZMeGhyV1RadzlUdEdGYVM2Ym9VY1JCVzl2MUFwMVZpd3k4WXM1R2ppWXRMLVMydENjbHNOSGU3bHZJVjdsUk9uUXVOYTZ3Y3BLTXljYzE1Q0hjcU1vQWJ5Y2NDVkE?oc=5",
+  "title": "David Lisnard aux côtés des pêcheurs cannois contre l’excès de bureaucratie",
   "summary": "",
   "published": "2026-09-22T09:00+02:00",
   "mentions": [
-   "roussel"
-  ]
- },
- {
-  "id": "93ad444664053d69",
-  "outlet": "Presse Évasion",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQT05SdlNCVDN2aXhsc2djYi1KR2dWeHlVUVc1dDNoeWdPYzNRWXNRUnNmRkZtanE0WHRHR3RrNUhEMGttNENFc1pMcF80STMwRzM1MFVvVVd2QWhLdVlGSVFUcHdoWlMyUHktUHNtYWRTWXJlU0RRNkhGVUVhSXd3eFBGYnVvLWVxcEgzeDlpU2dPSEJwY0Q1Mm0xZnAyZzVFRm9NZEpUZzRVVm1Qc3NWcjhKSGZQcVhhUHc?oc=5",
-  "title": "Nicolas Dupont-Aignan dans l’Yonne le 23 septembre : le double objectif d’un candidat en campagne…",
-  "summary": "",
-  "published": "2026-09-22T09:00+02:00",
-  "mentions": [
-   "dupontaignan"
-  ]
- },
- {
-  "id": "fce0d08d9e6fc9a7",
-  "outlet": "Gentside",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNQ3RZdWs1MkE0SVp5cElNM0V6QU5VLWlkS3BzSE56QVdDVGlCMV9ZZ0JjVkd0RGYwMF9OQS02X2gwbGJVUS1vSktfZnRTZDZ0VUR2clBMdDlSWlEtU0g4R2ZhZFg1aUhhRUF0SXBrUzF5cFRHR0E3TUF6V0VJYkpycWs5ZkljMTE2UGZTUDQ3eHliMkdaSDh0Rzgzck5HSTBrRHNVcDNEVDh2VWl0MGM3QnZyZ3A1eGtlX3VFazI2VHpFSnlfR1BILWFKMElsTk5BdkhQVDBPdlY?oc=5",
-  "title": "«Donner l’argent des Français aux Français» Nicolas Dupont-Aignan veut arrêter toute aide financière à l’Ukraine s'il est élu",
-  "summary": "",
-  "published": "2026-09-22T09:00+02:00",
-  "mentions": [
-   "dupontaignan"
-  ]
- },
- {
-  "id": "47ab783348932d72",
-  "outlet": "NVO",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTFBVWGJUYjJlNXdFbGN0VHJ1ZmlzQkhCYzAxSXV4ZVJqbEMwV0V6LU56Q0NMaVpJOTVuWlE?oc=5",
-  "title": "« Ça ne fait que commencer » : à Sodexo, la bataille s'engage contre les licenciements boursiers",
-  "summary": "",
-  "published": "2026-09-22T09:00+02:00",
-  "mentions": []
- },
- {
-  "id": "d1468e73de32b7f0",
-  "outlet": "Le Figaro",
-  "lean": "droite",
-  "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQVHZ2VVRwR2I2UnVkLXhzZFJSLVJKcVo4aC05eGJVanQta1NKVm1pSU9Ed2NEVjBZbk5EN0ZOdHdJSHY2a3YzV2J5cFo0cVBNRENYeXRETVZYUlhxVUljeXJjbFBWVmpoZzdjZV8tNXNxc3lLZDZ1SmxuWHpxb2xHblB5TUxSQmswYTI1NjYyci0zbnV3SmxTQnNGV2NpcURYU3dpVHlYdlFrZUJYNHVWZmFabUdZSl9uVWwxaXBIa20wSE1Hd2E0OEZXLTlpNVBOUWFEMUZKM1NWTmdvei1VVUJjTlFjU1NMelNwSzNlRGRzWUsxNkk3RkxnRQ?oc=5",
-  "title": "«Un rouleau compresseur» : de gauche à droite, fascination et inquiétude face à la campagne de Jean-Luc Mélenchon",
-  "summary": "",
-  "published": "2026-09-22T09:00+02:00",
-  "mentions": [
-   "melenchon"
-  ]
- },
- {
-  "id": "a6ea281513fd7cc1",
-  "outlet": "Sud Ouest",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNRTdEZWdEUTJaNHVoeWw2QmhTVmtkdUJObUl6R2JMaE9rcDV3RTZYdi1fc1EwTjNtc0NkX01rYVFLcGNTc20zYzN4bW9GXzFnbWVZM1NTSWpnemlyem02X2JjRUFqUHJteklMNkxPdmMyOEUxbDZzMTd6cXBvc3dDMEN3QU1QRURtdnQyVm5wRGpCZ0N1QVdwM0I3aW1GZ0ZFcW5zSmZCektBRzRKUUN5WjNFZ3BHTmtTMkdDaEkzTXZic3hmMkZnMk56WnB3UjNBcC1YTjNocFFPdy1iX2VDa3RiaHA4Si1idFY1MmQ1V3cydw?oc=5",
-  "title": "Présidentielle 2027 : Jean-Luc Mélenchon adopte une stratégie de campagne discrète mais efficace",
-  "summary": "",
-  "published": "2026-09-22T09:00+02:00",
-  "mentions": [
-   "melenchon"
-  ]
- },
- {
-  "id": "962fabe4dc9349a5",
-  "outlet": "lanouvellerepublique.fr",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQZjRRRUh0ZjlDNVRGT0VDYmpOeXVrWXBmQjFKUGViSERLbDdvMVFUQVdxODBTeUdsbks5UnRTRXVPZlh3UkZReEJNckVHNVFVUEJibVM5Uk5HTHFnS0J0WDZqclhtcVdIVWhBNVhWLS1qUlotNkY3Zk1ERWlIQ3pDOWQ0YkxyTzlFZXRoTEJJT3I3VENwWmlReUp6SFVLcS1GLWhucjFlWEJkZVp6Z2ZIQU9MMHdzZFVRX1psVWg2bDdjNFd4MnlPNTZxa1lQVzVWa3d5ejRGX0p3bWpYd2lMeFEzTG1ZUUFib2pmMlZnWXJWdTVHRGFRTnlsODNmWlFQSWVwdnltbGxFWDQ?oc=5",
-  "title": "\"Il n’a pas besoin de s’agiter à chaque foire à la saucisse\" : Jean-Luc Mélenchon, une campagne discrète mais jusqu’ici efficace",
-  "summary": "",
-  "published": "2026-09-22T09:00+02:00",
-  "mentions": [
-   "melenchon"
-  ]
- },
- {
-  "id": "f0ef77fe64605e62",
-  "outlet": "Midi Libre",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPb19xMHpZYURzSHMxSjhwX1NvM2s4cER5c2YwNHJVOUNWNTh2S3FUMElkZ3lsd2ZKZ3NGYXR4ZXhxRXFuRXc5SENaajJQNGhsNEM4eExublFXclE1WGctUEh4aUxaenNPMXdFVzNrRXlMdTVSOWJPSExQU0dQcEJIU0JFVjVnYlpOOWtjMkJhaXF1ZGhsV25CYmJCbU1IeWJhSGFGNTF6aDdmam5QMnZCRHM0MWNPU2t4anQxdlBuOFpCZTdFR1NHamtHelczcmRla1FBMG9NV3ZKRkhSQVFtYmI3LXZiQlVxVzBMMHcwX01hYmVTcFNMaGpMaUh5eFBsaHlYZWRQXzkwYWNKQUljME9PLWdlOWc?oc=5",
-  "title": "DÉCRYPTAGE Présidentielle 2027 : \"Il s’agit de ne pas l’épuiser\"… pourquoi Jean-Luc Mélenchon fait le pari de moins se montrer que ses adversaires",
-  "summary": "",
-  "published": "2026-09-22T09:00+02:00",
-  "mentions": [
-   "melenchon"
-  ]
+   "lisnard"
+  ],
+  "analysis": [
+   {
+    "id": "lisnard",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "28d24e3dac066300",
@@ -414,105 +165,15 @@
   "published": "2026-09-22T09:00+02:00",
   "mentions": [
    "melenchon"
-  ]
- },
- {
-  "id": "d30798602214a88d",
-  "outlet": "L'Echo de la baie",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPMllaZGl4UkVpcXRIRjQ0ZFc5WkRyU1JTZjFIcHhzeExSaXgzUzlIX2RtOHRpVHJYQmdxUWQ0S1pNVXEwMkE3YkZxTXVOaHFva1F1MWh0RzBIT0dwM0RuNXBfMWR6a0RYS1lucTJGZzE4TmhTejJ0RUNlSTZFOU1BR3kzX05MWEtnQlR1SHZOc08zeS1WcEM0R0R3RkZ1SVlCZlJhZ0YtNFRuVjBxc0VnYVJiRzU5N1JmdDJqcTdMVExjVERYOVJWVkVoaGJzaHhmRlhpZmxnUEtfUWVtR1dEZXNKRVBZWjJ6aVc3OQ?oc=5",
-  "title": "Gabriel Attal, Marine Le Pen et Jean-Luc Mélenchon participeront au Grand Oral Politique de Paris Builders Show 2026",
-  "summary": "",
-  "published": "2026-09-22T09:00+02:00",
-  "mentions": [
-   "lepen",
-   "melenchon",
-   "attal"
-  ]
- },
- {
-  "id": "7dc957a685230853",
-  "outlet": "Orange Actualités",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNeHlpcjV3SjVpdXE2ZHY0ZWU1V0lXZndtTkxJT3hPRkRKajd5SDFJQi1PckVKTHRCZWtFUzJkSWVZUndSRWtIWU03Q3ZTWUZMVjhvMFNlclcybklJRkpsaTJiVjQzVjdzc0ZHd1dOaF9Fd1VocE9fZnhGZ0JtTHp1MXVnSFZOYlRuQW5FbC1QbFRTcFhxS1pReDdfT052MVBkbUZPM3czZ1ZLTnY5anE4UjQ4T3BEMHBneVR1cHVZZ3dPUV9TY0hfQ1lmRGtwYUowUk4tc2lDTVRTXzlhUllOcVA2QWMwVF9kR1ZvWWVpNWFyZ0xlR2pzQ01lckpwbHhjQzBHUkZaWngtNnVoaFpSRGVPWF8?oc=5",
-  "title": "Primaire socialiste : Ségolène Royal recadrée par la commission d'organisation après avoir traité Raphaël Glucksmann de \"stagiaire\"",
-  "summary": "",
-  "published": "2026-09-22T09:00+02:00",
-  "mentions": [
-   "glucksmann"
-  ]
- },
- {
-  "id": "95bcc6b6e3d2083c",
-  "outlet": "Le Canard enchaîné",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaTlQLWdUanhOc25ER1VmY19hb0hxLXhLYlpSeUxwdFVhSEx5WmdwalNHWXNNUmxDNkhUdTR4NEd0YjN6V2k1a0FjUzQ4TTB5Z0lCcjl2RE5tRDRKWHF6SlItTHczY2d3X3lWZmlIeFBNenNCd2NDS2I5ejdFbERQVWdhcERsMnJQ?oc=5",
-  "title": "Présidentielle 2027 : Gabriel Attal en retrait anticipé",
-  "summary": "",
-  "published": "2026-09-22T09:00+02:00",
-  "mentions": [
-   "attal"
-  ]
- },
- {
-  "id": "796666f46473a69a",
-  "outlet": "Le réveil de midi",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQc01GQmNFNzVZWHBHWjI2SWEwTmVFRVJ1V0stV3E5OXJCSXh6eXlMSFRDREVqdjRVUVZBZWhPNlpuMTZMdmthdW9kVTVrZFhVSkhOTmNlNldtSEN0blJhb3A1WWNyX0lUWW93dzVMcEc0SFhHWjJ2N0dyNFpVNFRCWnNFRVJxMXB2cmNpRjcyc1duTEdQTXVsR0Q1cC05Q1k4cmpud1JYOXNyQlVLYzU5em9QWmc0Nm0xVGtLUWhteHZ4T1AxNXBNbEJzNTYzdzJWYlQxNHNQa0EtbmJGTEdrX2tB?oc=5",
-  "title": "Anne Genetet et Valérie Rouverand lancent la campagne présidentielle de Gabriel Attal dans le Gard",
-  "summary": "",
-  "published": "2026-09-22T09:00+02:00",
-  "mentions": [
-   "attal"
-  ]
- },
- {
-  "id": "f1f0d14b684f04be",
-  "outlet": "Le Point",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeFFqYUVGaHczeDBaekdYcmZLNHR1SGl2OTlVdGYtS1pjSUJWa1R4MHdKcVBCdTdRMmlzOTRzVTRTTFlsXzJMWElaR3RoWXR4V0hPZ2R1dmJlRW1VTTlkcGVCU3FRWkdpaWpranctZElhLXdzQkt6RWk2TmtmVVVSMnZHZVZSSGJfejBQcGIzZzZRRVZiRUYzNC1BZDJuT0NSbjd2UENRdlVJeW8wOGJpSA?oc=5",
-  "title": "Céline Géraud, l’ex-judokate et animatrice télé sur laquelle mise Gabriel Attal",
-  "summary": "",
-  "published": "2026-09-22T09:00+02:00",
-  "mentions": [
-   "attal"
-  ]
- },
- {
-  "id": "71d46b2abe1731a4",
-  "outlet": "Objectif Gard",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOWXdFZTFHUDRybm1hR05UZG1uVll6bFlJRHMwSW1kcjk2QWpTMmxiU2tQTlFnR0lIMnVvakdYMkZHSEU4XzMxN25LaTlUZmp1NFFyMzR2MEdfMUVKTG1MVUNUT1hDN25qam1RTW9TOF9fbXY3ak45aXpFWXhHYXRERjZiUGh4RGhUNEVWb21yLVFFMmc2VlNHa25LblF0YkdqeWZYNmZPQkhnVl9FbXl3aklhVERHMkd2aExuUnNmUU5WVjM4YXQxWnNMQlh3WHg1aGVnQ3hmR2FNdXdvT1VB?oc=5",
-  "title": "PRÉSIDENTIELLE Les « 1000 Bistrots de Gabriel Attal » : une cinquantaine de personnes à La Grande Bourse",
-  "summary": "",
-  "published": "2026-09-22T09:00+02:00",
-  "mentions": [
-   "attal"
-  ]
- },
- {
-  "id": "4bdd7d7337ba4800",
-  "outlet": "Atlantico",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQaTMtNHVhMkxkbF9KMXRIVjNlYXF4TlRtTzNVaVRDMmVRZlNoQW41Nzh0VHFITWd2czRicENpLVhia2pVVzlzWGRtcmNWc3lUbDhqQUI5TmoxQkpCaDZmVWowYzgyNHk3T29fSmFwZ3dka0lnYUExcXFyaUZKQjV5TktUbGlFZklQZDJxQ0wwTnBRRTZEUS1nT2lFN1hjSEl5WGtIaDBpdUtzSFNKZ2NwYlJYRDBlemJoTGMyc1I1aEJ0cFkxMkFnRmdYMXF6akx6Rk9iX0Z0b09ad2ZWNXFZVXJBbzRtS3VaYzVrQWhzUkFrbWJhdTlxX3dEc1NsMXR2b3lkeDRTa0ZwSFJ5LXBSUlN6aTI1OTRRc3lBZmZaMW42cVE?oc=5",
-  "title": "Attal, Pannier-Runacher, Midy : le vrai visage du macronisme",
-  "summary": "",
-  "published": "2026-09-22T09:00+02:00",
-  "mentions": [
-   "attal"
-  ]
- },
- {
-  "id": "3251722537de68aa",
-  "outlet": "TF1+",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNUFzVVFfMnJXdFFFTGsta3haUUpGY1owVjhUUUo5bHBSX2VZdzBoSEQ5bzc4RjlBd0tPVV81SUpvVXk5d0w0aXl1WU83Sk0yZ0h5VS1reE5kX3IxQTBmd1hQMTRpS3E2dl9DbkQzVmppTnY3bjI5VlEwRzI3QUV2N1Rhb2c5dDBqeE9XOEVESVZjbmxsZTNOTzlsT2x6bDNRSnhzU3NlZE1wSzJSX3k0WWhCYVNsYzg2MEl2TnozTkRGZm5aMV9QbDBPam11UU5WeWhvOTN3UjRQdw?oc=5",
-  "title": "Morning Glory : entre BDE de Gabriel Attal, cassoulet et candidat mystère - Quotidien",
-  "summary": "",
-  "published": "2026-09-22T09:00+02:00",
-  "mentions": [
-   "attal"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "293f6da945fd39e0",
@@ -525,92 +186,166 @@
   "mentions": [
    "philippe",
    "attal"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   },
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "07fe4bf29f107c9e",
-  "outlet": "TF1 Info",
+  "id": "2e6ab5a43bb10f5b",
+  "outlet": "Le Point",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxONlM2VmozQXpPLTZWZ3dkaVVQaUppbnZvRTVRcmhRckUzYkhCSk5UYjc3Q0hrWjJtYXJxWHJGWEFhSDB1VmR1WTVzeWwxQU5EV0JnaWE3bmc1ZHZFWUxsX2VHamhRZmVReUZDbWlYTmJobm1CZl81VFZxZ1lKQkFJLVlURnNTMGFLVWJoNnVLLUFhSU4ybEpGNEVUclJNZFVTMWdZaUdDMllONlo4dENSY0I4VDFzVjExelRMUVplX2VndGN4VUIxQjU0aUdoa2ZIc29ORUJOZUlKQXoyMlE2Mlo5anRScGFIUERzWVI0MW5ScXRXcTAtbFlQMjVQQUpMNUxhaV9zR2h4V2FXNUstbkRnSkhtdw?oc=5",
-  "title": "Âge minimal de départ à 63 ans, à taux plein à 65 ans... Bruno Retailleau dévoile sur LCI ses propositions pour les retraites",
+  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOG82eER3OVdKQU9ZQ3dBWU0wNWx5MTJRRE14VTd2SXd2RE9CSmxXdDBGUU9Hak1SdlB1dnBadWxNdUIwV2RwR3Z5S0x5UE5tbEJoN1ZwcXdUTmx2YjlqSWMxR1dFN3pGN3lOeXFqc0ZwMHU1T0UxTXZjZHY2WGxaaURILUtsZkF6V01QNmQ1a3djTm5lNWc?oc=5",
+  "title": "Comment la gauche creuse sa tombe",
   "summary": "",
   "published": "2026-09-22T09:00+02:00",
-  "mentions": [
-   "retailleau"
-  ]
+  "mentions": []
  },
  {
-  "id": "1512606075d4ca0f",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPbGtROWlGanNuajZDX1hFdzhMVlRqVENlMWY3U3BDeng0Y0thX3JJUmRlTlVpQmktUzJkbk44bEJ5WVgzYWhiOE0tRTZGdkhybWN4a3BOSFljUV9TSzlyX3hNa1kydDBUaWU3Qy1sSnRFdlljQXFaZnUxY0t4el9raGxQcTdkTGVINlF6ZktKNWE5YTdqdE9SMEVOVWhlbXZpQW96S29QLXV1YzBrSXlqWDVoZHk4dWN4Z0pOdnhFdzhLZHN2U2Z6RmN5RDdMaWxSY0NSdkxnaF9VRGJ1U2I5NXhlLWlOVFU1dDJoY1NEUV8?oc=5",
-  "title": "Refus de célébrer le mariage d'un OQTF: Bruno Retailleau cité à comparaître au procès de Robert Ménard",
-  "summary": "",
-  "published": "2026-09-22T09:00+02:00",
-  "mentions": [
-   "retailleau"
-  ]
- },
- {
-  "id": "d5dcc75dd4cb0d52",
-  "outlet": "Le Figaro",
-  "lean": "droite",
-  "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPZmRNbGdvUnB2U2RELXFZRXpBWkttc0RyZ01Zc3ZCSUJPb2pUZ3ZLZTU4WXhVVmFNVldiSldCU1daNXBWNkpiVkYyWmZ0UzBnYjdMRE9kVHRNWHotSnZGMExCel9EQ09SclQwQTNCNVF6aXVSeDhmc1pFUkIyV3ZTLUZXODZJT2JCbGVrR3d0ZmNLWHVaLS1ZdTlQSXdxNjZ2Qm0yVTMzdEtkQlNxLVppNjBLOXdwalBHUlZBMV9RbFVweTBhcWo3QXdMclZSb0tfVmtpemktRkRTaFRsaHRUdXRkbjM3VVBwTmZNelloNjdIOWxKZ2NqTXlTMmx0MzRwRk5yUXFOdDYzTFFKa3JsZE4zbWFmSEtL?oc=5",
-  "title": "«Je veux sauver le régime de retraite» : départ entre 63 et 65 ans, décote, capitalisation… Bruno Retailleau dévoile sa réforme",
-  "summary": "",
-  "published": "2026-09-22T09:00+02:00",
-  "mentions": [
-   "retailleau"
-  ]
- },
- {
-  "id": "dd9fe5a49da74587",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxOZnQ1cmFldWZabFg3aThGOHhRLWlJbTZoUzNmVlhOdGpDUWYzUHgydHlNakVWMkU4eG54aG5vMzFubUMtenRGQXhNdWVIY3hzNXZqbVQzNHFkZ3FzdnR3LUkyNFhrWFBUMXdYSGxBQi1waUFnSEVTNjlXUkZLZ2MzcDhmT1hBMm1XcmZMNTRhUVZod05YNmtZRnN1cktVTzFRYlkwUmVGWlNNYmdlZnY4UWcxbFA4RXFMaW9tQjc5U2dhR0JsMFN4UFdzRFJpTDZjNDltelRiVTdfYnlvTV9JYmdzejlzTE5XOEVYSmh5c1dLV2dpZmxqTElqbVZHWE5kSEtQZW1iSVVkSTRGNTNaQ0piMmEydDdGUHRwZ3BvNkZ6SllEaVV4dUYxTTM?oc=5",
-  "title": "Crise des carburants: \"La situation n'est plus tenable\", juge Antoine Vermorel-Marques, député Droite républicaine et porte-parole de Bruno Retailleau",
-  "summary": "",
-  "published": "2026-09-22T09:00+02:00",
-  "mentions": [
-   "retailleau"
-  ]
- },
- {
-  "id": "0068e4240034df52",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQRjNIVmM4eUtJMnp0VGRPYjZJTi1iZEVoWVh1bi1Gd1FBZnN5NzJaZTU5N0IwWGN6YnFTTXBaUXhkZUttOVN3YXZRV2E0aXhjejMwU2tzNU5jYW1DYm4xZ0RYdnAxdHNVbExzMU5WX1ptcU1nT2ZoVk85SWFnZFdiWF9oWnctRFZUOC10NzZVcnNTdmZ0OWQxT2dnM25FeGtSTWxkampQeV9iRWljc2hxMmxIOXZpaEhIdElwR0VVNWt3UlVHWnh5ZHUzLUN0VnlOak5XbXJkeUpIRFREeHM3bjlTdkM?oc=5",
-  "title": "Crise des carburants: Fabien Roussel (PCF) appelle à une \"nationalisation sanction\" contre Total",
-  "summary": "",
-  "published": "2026-09-22T09:00+02:00",
-  "mentions": [
-   "roussel"
-  ]
- },
- {
-  "id": "cd649d38ed2c2443",
+  "id": "3251722537de68aa",
   "outlet": "TF1+",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZzRjZ05INFNYS3dxVkhFcEN5WnhfbjFhdzUzQmlPcGdSOTdrUjI5RVMxUmdqaXY2YVFGOEpVM0lEQ1M2eXkxMTduejBEemlIaWJGclFIOXJzYlZkMnByZmVOUHpRZlNSX2tTRVBrMTlrZm5jVlJCWm9TMm5QOHMyVkp3X3FuSDNQUGpUQ05iVHpCc1kzWEhWc0RjclhoYWN4RHFzUWlKZnBIazdDSHVMb28wVUkwREhaT01JVHdScEV3aUdPQVVrbzFpNDJuY09H?oc=5",
-  "title": "Colère du carburant : Fabien Roussel tente de surfer sur la vague - Quotidien",
+  "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNUFzVVFfMnJXdFFFTGsta3haUUpGY1owVjhUUUo5bHBSX2VZdzBoSEQ5bzc4RjlBd0tPVV81SUpvVXk5d0w0aXl1WU83Sk0yZ0h5VS1reE5kX3IxQTBmd1hQMTRpS3E2dl9DbkQzVmppTnY3bjI5VlEwRzI3QUV2N1Rhb2c5dDBqeE9XOEVESVZjbmxsZTNOTzlsT2x6bDNRSnhzU3NlZE1wSzJSX3k0WWhCYVNsYzg2MEl2TnozTkRGZm5aMV9QbDBPam11UU5WeWhvOTN3UjRQdw?oc=5",
+  "title": "Morning Glory : entre BDE de Gabriel Attal, cassoulet et candidat mystère - Quotidien",
   "summary": "",
   "published": "2026-09-22T09:00+02:00",
   "mentions": [
-   "roussel"
-  ]
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "sondage_dynamique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "b693cf043659b444",
-  "outlet": "CNews",
-  "lean": "droite",
-  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbkVkV2VnSGdTWVBMaUkwcE8weDZqVWRTR1hOaWRjOGJsX3puNHpXSzNYRkxtX3cwRGxodUtmZHcyWElrM3JsVXI3Y3Bkd3JjUjhaZlAwY1E2anVQZXZ2VWpoei1VM1ZidVdsbmY3bzB0UDZNZGZjMDZXUTlYYXJYMjdtWHpQX3RRT19DNWdKSEZzRHNtaG1uVmFtTWJWeDNEREx0ZVJMcHpvRE5vOWJXRDc5c2t6VWNwTVRr0gHAAUFVX3lxTE9wMjllVWotZWJoTHcwajRHaTg3XzJsa2JLNG9YTWk1eDl3QllnU0t0eGVSX3VTZEdUQkRzekYxUmJvam12eE5CQm1JQjhBNFhZcng1WWhRYUJkcnN0bkd4VXNZekpEdEtqYkhEUFIzd1pwai14Z01XSmxVMlhJeDk3eTdxclZnbjQ1YWxaTWFwLTdVRFlVWTdLRGJUUWplUDBfOTZicUJ0T05pS3N5UUlmaDBWandKb2JKNE42Z05tXw?oc=5",
-  "title": "Marine Le Pen tacle Gabriel Attal qui ne souhaite pas baisser les taxes sur les carburants",
+  "id": "3ae41dc2de9b7913",
+  "outlet": "Le Monde.fr",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQMjdxc0dsNGRodzFXUXBIeW1QRG5jeVdCVDJ5c2xMYjVaQ0stMDdFd2UtTjIxSkZHM3Z3eHNVVXhaMFFuSmZrcW43MkdjTE1BRlgzTXdFbmFlQ0tVNUJiRXJlc2ZHWG1kNnBxVWtMNTE1dWU0bXptV05xd2Z5TE9NS3p5UWRabTJ1OGpHVnZFMHhfVm1aY252SnpiMkx3TmRpMHk1VDJCdjVZZDROM2VrVWJkTFk0Vi0tOC1fU3lQdHU1ZW5ZUUE1THVuMHhsUzBXTmYzTzFDZmg4U2xveC1zWEMxTTE0SXNnaVlNbU4zLTdBNktjOHBucTV5YlkzMmNMMDlyTVVibGhrTVhDT0Q0eFZlYm84WmZtMTV2WA?oc=5",
+  "title": "Eric Zemmour veut expulser les étrangers en se basant sur une loi de 1945, une approximation historique et juridique",
   "summary": "",
   "published": "2026-09-22T09:00+02:00",
   "mentions": [
-   "lepen",
+   "zemmour"
+  ],
+  "analysis": [
+   {
+    "id": "zemmour",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "3b1d80ef6255b7c9",
+  "outlet": "CNews",
+  "lean": "droite",
+  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeHJnS2VDVmJkZlNyWFhacUY1S3UzUl9VMnBVMG50aHpZNDY4UnFSdVpGNnAxbEtmdXJJbElIckRVNjJub2VTWUNTQmtYU0Q3c1h6NmhscmdDbkE1ZHh0SG1MZm5CREFYMU04WmJCRkx3WXFzSTZLMEk4Z0ZZcG01eko2OGtFV3pFSjdaWklodGxqM3Z5MDZWU2F5aHdMYmxlaDNZOWNXeE45N0NGWDN4b2otcGhoS0daTVJz0gHAAUFVX3lxTE5rSzZyQURveGRFeExpYVNudHoxMGhqTHlZd0FfMm9Hd3hvaExwT0VXeTJrcVFMQXM2R2FiSmRFMFhiYmFvTDRGdFd4STRiSEpCNlNmZVQwTVVXZVhXUlVUVFEtN1RmXzNZODU3VS1lLVl2X0lFdkU2WDJOVVIyQkg5bnBYQm50ZE53UkNHSHlaRjJWTUVaUDhsTk85eFFCUDhqX2RDVmxCUnpiOG5WMnAwUlluRF9pbHdoTWt3eUZlRQ?oc=5",
+  "title": "Âge de départ, capitalisation, décote… Bruno Retailleau donne les grandes lignes de sa réforme des retraites",
+  "summary": "",
+  "published": "2026-09-22T09:00+02:00",
+  "mentions": [
+   "retailleau"
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "439427019c54005a",
+  "outlet": "Le HuffPost",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQT1M3OGY2ZVlvRlZLQ0hSTk94U295SlI4dGI0RWZWV1NwU3dvRlo1aWYzbS1yWUpnQXFlNThkOVNxWm9teV91RlV1UTU0bWN2bldmZnVtTmRTdnVzaEU5S1REN19Bd1UzRHk2eGdaQXJzaWVLb3JhajdkaFpXU3JQN2IwTEZIRjZXdEpVd21oZXUyT3dVX0FtLXEyOGZfTVlBRDhGUFhQRlQwZzNPbF83NU1XdW5mZk9UWklRMXdGQnZ5VXdqZTlxR2ZHNThrNmc?oc=5",
+  "title": "Édouard Philippe étrille le « très, très immature » Gabriel Attal dans un livre",
+  "summary": "",
+  "published": "2026-09-22T09:00+02:00",
+  "mentions": [
+   "philippe",
    "attal"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": -1,
+    "frame": "polemique"
+   },
+   {
+    "id": "attal",
+    "tone": -1,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "43c58a22cd831df8",
+  "outlet": "RTL",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPeElzbE1uYW5LQjNnckotWlF2c1lCaTBhMVBmNzVvNE5ablRMbVNUbkFrc0FPSkM2WDZRUkJoQ1dZNl9SSVhsOXRBal9hVk9CT1NkYUg1ZzUxSWdrX1FRYTBNb0R3ZGdpa1BZTVRoYTlKX2pBNWRWdVVoOFFNMlZoZ2J4TmswMEFFT2RxMG1EbWVucy1XTFF6MU5PSjRDS1lXc1U3elVXY2RwZjhUTzZWNHB4YXk2R19iSmpsdi1hVDBVRWxDdEc1YWp0YnNKNlZTdkJhMnFFMUgwVjQzNlNnMTg3NmhUclpFVy1relBwOEZfRHlFNmJGNjk0dW42YTM2ZkJF?oc=5",
+  "title": "16 inscrits à Lorient et Nîmes, 10 dans le VIe arrondissement de Paris : l'opération \"1.000 bistrots\" lancée par Gabriel Attal patine",
+  "summary": "",
+  "published": "2026-09-22T09:00+02:00",
+  "mentions": [
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "sondage_dynamique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "47ab783348932d72",
+  "outlet": "NVO",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTFBVWGJUYjJlNXdFbGN0VHJ1ZmlzQkhCYzAxSXV4ZVJqbEMwV0V6LU56Q0NMaVpJOTVuWlE?oc=5",
+  "title": "« Ça ne fait que commencer » : à Sodexo, la bataille s'engage contre les licenciements boursiers",
+  "summary": "",
+  "published": "2026-09-22T09:00+02:00",
+  "mentions": []
+ },
+ {
+  "id": "4bdd7d7337ba4800",
+  "outlet": "Atlantico",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQaTMtNHVhMkxkbF9KMXRIVjNlYXF4TlRtTzNVaVRDMmVRZlNoQW41Nzh0VHFITWd2czRicENpLVhia2pVVzlzWGRtcmNWc3lUbDhqQUI5TmoxQkpCaDZmVWowYzgyNHk3T29fSmFwZ3dka0lnYUExcXFyaUZKQjV5TktUbGlFZklQZDJxQ0wwTnBRRTZEUS1nT2lFN1hjSEl5WGtIaDBpdUtzSFNKZ2NwYlJYRDBlemJoTGMyc1I1aEJ0cFkxMkFnRmdYMXF6akx6Rk9iX0Z0b09ad2ZWNXFZVXJBbzRtS3VaYzVrQWhzUkFrbWJhdTlxX3dEc1NsMXR2b3lkeDRTa0ZwSFJ5LXBSUlN6aTI1OTRRc3lBZmZaMW42cVE?oc=5",
+  "title": "Attal, Pannier-Runacher, Midy : le vrai visage du macronisme",
+  "summary": "",
+  "published": "2026-09-22T09:00+02:00",
+  "mentions": [
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "53df30499223d46f",
@@ -623,40 +358,176 @@
   "mentions": []
  },
  {
-  "id": "43c58a22cd831df8",
-  "outlet": "RTL",
+  "id": "552c7cc4ad3a9b3e",
+  "outlet": "CNews",
+  "lean": "droite",
+  "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaDkyeEdSYjU3QWdvZ0VBTVFaQkVNSEFDX2w4YjhZa3A4Q3ZzYnJQdWR5Vy1NQk9fdTBYS1g0R01JNlRaMGkwU29oYVhTeVE4WWI3ajMtSHRqQl81N3Q0cEtKczBTc09sN2UxY2xzVW5VNlNaU3ZkTWdFRGJHeFgxVEZ2ejR5Nmp3dUNWSmVvbkhQZGIxS2ZCRlZlX1F1TzlQUzN5UktLYW5KY242Ti1xSW42M21VVm9TZEZEU9IBwgFBVV95cUxNMnRLeWNCblE2UUQ0U3pkMnJZejhaendhZThObzFocXJhellmbU40YS1lVVNhTnkyY0pEMmp2V29RRlE1R0dWb0ZlX1VJN3QzZEVSNms4UFhHZ3JtVUtIZUxuUEQxckFsLTZ6LWZTc3ZPTEhFNkhQVkg5LXNfckd0cm5aeGhVU3BCaFo0UXg4emYxWDBjQnpmbzFvekhKQ0I3TURIdmktVlVnT3Jyd1d2bExWODJ4WnJvN2tlQVM5WUN3Zw?oc=5",
+  "title": "«Amusant mais aussi très immature» : Edouard Philippe charge lourdement Gabriel Attal",
+  "summary": "",
+  "published": "2026-09-22T09:00+02:00",
+  "mentions": [
+   "philippe",
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": -1,
+    "frame": "polemique"
+   },
+   {
+    "id": "attal",
+    "tone": -1,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "591bb12164c95e43",
+  "outlet": "l'Opinion",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPeElzbE1uYW5LQjNnckotWlF2c1lCaTBhMVBmNzVvNE5ablRMbVNUbkFrc0FPSkM2WDZRUkJoQ1dZNl9SSVhsOXRBal9hVk9CT1NkYUg1ZzUxSWdrX1FRYTBNb0R3ZGdpa1BZTVRoYTlKX2pBNWRWdVVoOFFNMlZoZ2J4TmswMEFFT2RxMG1EbWVucy1XTFF6MU5PSjRDS1lXc1U3elVXY2RwZjhUTzZWNHB4YXk2R19iSmpsdi1hVDBVRWxDdEc1YWp0YnNKNlZTdkJhMnFFMUgwVjQzNlNnMTg3NmhUclpFVy1relBwOEZfRHlFNmJGNjk0dW42YTM2ZkJF?oc=5",
-  "title": "16 inscrits à Lorient et Nîmes, 10 dans le VIe arrondissement de Paris : l'opération \"1.000 bistrots\" lancée par Gabriel Attal patine",
+  "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNVhCb0ZrUjEyQ3VLVktkNlpvdC1wUllETDRuUnRTcUY0UnoyeFN2MGhrS2RDNkUydHdGNGFSaHdjRlctNE8xdURONlpqc3pfbTJXRDgwdXN3dmZrR0NTMHJIYlE0bkQtNVZIbVZxSFlKT1NKUTB0d2ZwTnN6RDZubndqOW1rWGloYjN4QTQ1ZVBaUkd1TUNiZGZ6V1pwaWVmY2t1NTl0YmtzVEVQX2FaTkNhbllkaVFCRERqYg?oc=5",
+  "title": "Primaire : Raphaël Glucksmann en passe de doubler le nombre d’adhérents de Place publique",
+  "summary": "",
+  "published": "2026-09-22T09:00+02:00",
+  "mentions": [
+   "glucksmann"
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "65634f0142de3802",
+  "outlet": "20 Minutes",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOWFua2RZMW1lOHFMS0l1Y01zN3BURDdhOWxNX1k0SHJab1cxME5Ra1pWbm52bnJIbDNZYmRoaUR3blVmR0wxQ25aYXhiTHBjVTE4Z2pEZ2FGZUg1ekFSalY1cjR0elNaNkZRbGxuTEpreUlWdHJCeTdPN1lNampxTC1UTU8zcG5OamVMV2pGRTViTGZtSVpBX3FGVkxyTUFsb3RVVW9uY05NSVpBMnZobEJEMzZ0UklCRzJicG5mMXJqMVhlM2g4?oc=5",
+  "title": "Édouard Philippe se lâche sur Gabriel Attal dans un livre à paraître",
+  "summary": "",
+  "published": "2026-09-22T09:00+02:00",
+  "mentions": [
+   "philippe",
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": -1,
+    "frame": "polemique"
+   },
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "66bf8861940f1d4e",
+  "outlet": "Le Point",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPc2Z4VHdQcFhQZnVpdUgzNjNGNThkQmMtdDRpaVpCclFqUjE0YXpGNE40aXhNU1hZQWkzU0x2SlJ0NFNXaGZyamV1cGZHVGFiME9CQ2pOR01OVWxicVVzbW1YV2JLY1ljazl6REV4WmtkWFVEMXlNYldnR1dtQnppekVVclZHck5WM1JkanJYa25qakQ5Yk9OVTFIWGl5VmdGNkIwRGlJWk9JOGJxaU5tbg?oc=5",
+  "title": "Pourquoi Ségolène Royal devrait lire Glucksmann (André)",
+  "summary": "",
+  "published": "2026-09-22T09:00+02:00",
+  "mentions": [
+   "glucksmann"
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": 0,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "6704a8e8a9996cd9",
+  "outlet": "L'Humanité",
+  "lean": "gauche",
+  "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQSnlVdEYxajRabFltVTVXaWpKTTBSQ1MzUWtMM2NCTzNaQkZlRGRYalJwUGFRMjJxcWIwNUdkLXVJR0VYc2NtamdSejlZMWhsWE1BaEh1SWtfSTdfNzdfUUZ1ZVhXeEoxYnRCWl9hUnJfVzQ4UnJkcjVWb1JMbVNScG9PTXl5aG9BZXlFMEoxejFmbVpFci1JVk9FWFZxaEJVQlJ0bGQ3eU9qanZwWlpiMW1ILXpXUlNTTUlmTWJLaEtmLVpqZWV4SEV6UEVpcVo2VnFZY3hrVkVwMzlQQk5fRkR5NXI2a2IyQkdIaFR3WjVxd0lFZnd3?oc=5",
+  "title": "Présidentielle 2027 : « l'opération carburant » de Fabien Roussel pour faire baisser la TVA et les marges de TotalEnergies",
+  "summary": "",
+  "published": "2026-09-22T09:00+02:00",
+  "mentions": [
+   "roussel"
+  ],
+  "analysis": [
+   {
+    "id": "roussel",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "713d48b5a4041b56",
+  "outlet": "Le Figaro",
+  "lean": "droite",
+  "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNOFVwaVVrVjZ4bnVWeDZXc3NTY1FVTmwzN21JOHVCVUFHV1pWZ0t6RENoMk13d1dPVV9tU2JZcUQxdkJvc1dnZEJoclZiandQNmRHYmZQbWJUNDVfbVpsalZjc2FTcVNQU1lQWDRLbHdINHJTUGZXZS1JLWhrWms4bXBrRmdHd3hNaU9oQ2lQZzdxb0NmeWxRQXFqcHJBN0lOUm1sR3Q2ZG9jajk4dWxCYWsxc0M0Qmc5U2l1T1FsNjRRT0dZM0xfckJ1TkN0bmRHeG5MbGFpajc5eUl3cnliRlk1XzQ4VjBzSVlPT25TZmZkVXBzQ0NmbkM1TQ?oc=5",
+  "title": "Primaire socialiste : «Il faut que ça cesse», exhorte Boris Vallaud, après les attaques de Royal contre Glucksmann",
+  "summary": "",
+  "published": "2026-09-22T09:00+02:00",
+  "mentions": [
+   "glucksmann"
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": -1,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "71d46b2abe1731a4",
+  "outlet": "Objectif Gard",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOWXdFZTFHUDRybm1hR05UZG1uVll6bFlJRHMwSW1kcjk2QWpTMmxiU2tQTlFnR0lIMnVvakdYMkZHSEU4XzMxN25LaTlUZmp1NFFyMzR2MEdfMUVKTG1MVUNUT1hDN25qam1RTW9TOF9fbXY3ak45aXpFWXhHYXRERjZiUGh4RGhUNEVWb21yLVFFMmc2VlNHa25LblF0YkdqeWZYNmZPQkhnVl9FbXl3aklhVERHMkd2aExuUnNmUU5WVjM4YXQxWnNMQlh3WHg1aGVnQ3hmR2FNdXdvT1VB?oc=5",
+  "title": "PRÉSIDENTIELLE Les « 1000 Bistrots de Gabriel Attal » : une cinquantaine de personnes à La Grande Bourse",
   "summary": "",
   "published": "2026-09-22T09:00+02:00",
   "mentions": [
    "attal"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "sondage_dynamique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "7fd107b8d249ddb4",
-  "outlet": "Outre-mer La 1ère",
+  "id": "796666f46473a69a",
+  "outlet": "Le réveil de midi",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxONjZYOWl2cHFIaUl6NWdoTU1FcFZkUUU3cVF1M1hrT2tfZzZWMGpyeHRpRkRVRmlCUHVId0Q3Vi0taDBhdTBRMjBNMnYwQlBHQU1oYVZaNUJ5MU9EYTNhbk5SWjdCc00wVklVRmNmNVlSbmFJN2NHMDN1N0JwNXV6dUNvTVJ5STE2SEo5dHhqTmVZejZab21KTWZ4OEs4U0pYam42WmJkbEx0OUpzel9mM1p5dXI5aFJ6VU9pVWVKQ1JTVWNGZDBsRTh4VHI0dENJNFc2TzNabXp2aVBDTk9qVzZYSXNoenR6VExhZGNaQjdrNHNnUWpkWUNpcnVXYnQ3cW9PZHJZU1NzTWFoOEE?oc=5",
-  "title": "\"Les questions d’indépendance ne doivent pas masquer la question de l’égalité\", François Ruffin détaille sa vision des territoires d'Outre-mer",
+  "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQc01GQmNFNzVZWHBHWjI2SWEwTmVFRVJ1V0stV3E5OXJCSXh6eXlMSFRDREVqdjRVUVZBZWhPNlpuMTZMdmthdW9kVTVrZFhVSkhOTmNlNldtSEN0blJhb3A1WWNyX0lUWW93dzVMcEc0SFhHWjJ2N0dyNFpVNFRCWnNFRVJxMXB2cmNpRjcyc1duTEdQTXVsR0Q1cC05Q1k4cmpud1JYOXNyQlVLYzU5em9QWmc0Nm0xVGtLUWhteHZ4T1AxNXBNbEJzNTYzdzJWYlQxNHNQa0EtbmJGTEdrX2tB?oc=5",
+  "title": "Anne Genetet et Valérie Rouverand lancent la campagne présidentielle de Gabriel Attal dans le Gard",
   "summary": "",
   "published": "2026-09-22T09:00+02:00",
   "mentions": [
-   "ruffin"
-  ]
- },
- {
-  "id": "bbcdf6ae7d02f007",
-  "outlet": "Outre-mer La 1ère",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxPWURLVy15b2lFQ1ZMdW1qeE9jWkRvQzdwdjAxeml1SHFHMEMzZjBDRVFGRUtQeHRBUy1sSndBdHlFQVp0dFdSMkZiTGlQNlVEZzJ0TkdodGhUUmFQTWJFVk5aZlVVWFJBTm1QbmRMZjNXM0ZrdU0wUmh0dGlUTjRqUF94MmI2T29lRmVzY2hPc2U0WVVrTWxGbEtWNGR0T3lBUGh4RFZTcmZJYjZ6Y0FXSi16aHdTTHgxRVFXa3hPQlgxekhBN3lFbzNLcmdrMGluS0JhZ1g2bGdCSFo4bjA1Q2VINld5cDJGMl9ldWxaU2J0SlAyNHhhWjM1Y0VxbFNGTm9PaTdLbkp6VHZhMEZ4OTRhX2pKWEJDUzE1cU1DVnA1T2hrYzVSYnV1UQ?oc=5",
-  "title": "François Ruffin, député de la Somme et candidat à l'élection présidentielle 2027 à (ré)écouter sur Guadeloupe La 1ère.",
-  "summary": "",
-  "published": "2026-09-22T09:00+02:00",
-  "mentions": [
-   "ruffin"
-  ]
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "sondage_dynamique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "79bb0b540381ac14",
@@ -669,7 +540,40 @@
   "mentions": [
    "philippe",
    "attal"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": -1,
+    "frame": "economie_social"
+   },
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "7dc957a685230853",
+  "outlet": "Orange Actualités",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNeHlpcjV3SjVpdXE2ZHY0ZWU1V0lXZndtTkxJT3hPRkRKajd5SDFJQi1PckVKTHRCZWtFUzJkSWVZUndSRWtIWU03Q3ZTWUZMVjhvMFNlclcybklJRkpsaTJiVjQzVjdzc0ZHd1dOaF9Fd1VocE9fZnhGZ0JtTHp1MXVnSFZOYlRuQW5FbC1QbFRTcFhxS1pReDdfT052MVBkbUZPM3czZ1ZLTnY5anE4UjQ4T3BEMHBneVR1cHVZZ3dPUV9TY0hfQ1lmRGtwYUowUk4tc2lDTVRTXzlhUllOcVA2QWMwVF9kR1ZvWWVpNWFyZ0xlR2pzQ01lckpwbHhjQzBHUkZaWngtNnVoaFpSRGVPWF8?oc=5",
+  "title": "Primaire socialiste : Ségolène Royal recadrée par la commission d'organisation après avoir traité Raphaël Glucksmann de \"stagiaire\"",
+  "summary": "",
+  "published": "2026-09-22T09:00+02:00",
+  "mentions": [
+   "glucksmann"
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": -1,
+    "frame": "economie_social"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "7f6646bda7e095b7",
@@ -681,19 +585,237 @@
   "published": "2026-09-22T09:00+02:00",
   "mentions": [
    "attal"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "e6daaca773811a80",
-  "outlet": "Yahoo Actualités",
+  "id": "7fd107b8d249ddb4",
+  "outlet": "Outre-mer La 1ère",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSFRTUlRtemNxcW1PbXByaTFCenZEWHRISHBtTUNiYXdyUFZkVlJURGt3YkRSclRKakVqRTNpMS05U3Q2NEloc2Rka3NjUzNRSU5sZEc3RlZvLU5mbkdOY3MzVkVkLTM2a0tRUk9HcC05VFZLU1ppZ0pQanp4X2N0SERwQTY1U1ZxUDlaMDVndXNUd0pL?oc=5",
-  "title": "\"Elle en rêve\" : Une nouvelle vie pour Léa Salamé, loin du 20 heures et bien plus proche de son compagnon Raphaël Glucksmann",
+  "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxONjZYOWl2cHFIaUl6NWdoTU1FcFZkUUU3cVF1M1hrT2tfZzZWMGpyeHRpRkRVRmlCUHVId0Q3Vi0taDBhdTBRMjBNMnYwQlBHQU1oYVZaNUJ5MU9EYTNhbk5SWjdCc00wVklVRmNmNVlSbmFJN2NHMDN1N0JwNXV6dUNvTVJ5STE2SEo5dHhqTmVZejZab21KTWZ4OEs4U0pYam42WmJkbEx0OUpzel9mM1p5dXI5aFJ6VU9pVWVKQ1JTVWNGZDBsRTh4VHI0dENJNFc2TzNabXp2aVBDTk9qVzZYSXNoenR6VExhZGNaQjdrNHNnUWpkWUNpcnVXYnQ3cW9PZHJZU1NzTWFoOEE?oc=5",
+  "title": "\"Les questions d’indépendance ne doivent pas masquer la question de l’égalité\", François Ruffin détaille sa vision des territoires d'Outre-mer",
   "summary": "",
   "published": "2026-09-22T09:00+02:00",
   "mentions": [
-   "glucksmann"
-  ]
+   "ruffin"
+  ],
+  "analysis": [
+   {
+    "id": "ruffin",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "8339afcef41e7dd6",
+  "outlet": "Le Figaro",
+  "lean": "droite",
+  "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxObVNXdHJFX2lvMWI4dzF6LUhFTExHRENDN1hyYkpjN1ZFVUhMRTV6MUU3a0o1Q2s5TTNhbUhueHVTeEJaemhZdDJ6anB6aU4xVHR3Z2RWbE9hcVY0T2pQT0phWGlyT1Nwd2NJempIeWNDdmhJUUtBejdObVliMlJEdkt6eDVYQUUyM0JZZWVnUFNyTEFRRjVNNjRpNzltVWgtczhuX1pZcklDSDJ5SXpmdlRmQkNwclZpV2VUdnREUWd1c1ZRX2xxcWRkZXRkYm9HMVNrQ0lQaG02LUE3T3ktdElxSzR6MGVIZ0RlcW9obG1BNmM?oc=5",
+  "title": "«Décennie de la décadence…» : sans attendre le contenu du budget 2027, les maires de France sonnent l’alarme",
+  "summary": "",
+  "published": "2026-09-22T09:00+02:00",
+  "mentions": []
+ },
+ {
+  "id": "93ad444664053d69",
+  "outlet": "Presse Évasion",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQT05SdlNCVDN2aXhsc2djYi1KR2dWeHlVUVc1dDNoeWdPYzNRWXNRUnNmRkZtanE0WHRHR3RrNUhEMGttNENFc1pMcF80STMwRzM1MFVvVVd2QWhLdVlGSVFUcHdoWlMyUHktUHNtYWRTWXJlU0RRNkhGVUVhSXd3eFBGYnVvLWVxcEgzeDlpU2dPSEJwY0Q1Mm0xZnAyZzVFRm9NZEpUZzRVVm1Qc3NWcjhKSGZQcVhhUHc?oc=5",
+  "title": "Nicolas Dupont-Aignan dans l’Yonne le 23 septembre : le double objectif d’un candidat en campagne…",
+  "summary": "",
+  "published": "2026-09-22T09:00+02:00",
+  "mentions": [
+   "dupontaignan"
+  ],
+  "analysis": [
+   {
+    "id": "dupontaignan",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "9429613cf5918ea9",
+  "outlet": "Le Monde.fr",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxOVWU2UW1welFMblZnMk9CYUpqbnhnTm5SWUV2d01uTzNxRUNreGY2Vm5ZcDZIbW5NR2dqN1A4UmRpalRWa2NMalAteUc5MzVfd01kUmNtdWlIa2xmSGF0aFNMSFBDSXhSY250OWhzbWxQcmtURjUxZUFUMTA3UmZTdTVhQmNpQ0xpNFY1Q0xrT0VlUDFoN2VBdkNtTkJXcUVMalJiV3NlLWpZYllxVng1LXVqdDlHcnVvNnd3cXZsZHh2SnJZYk9kSUU0VVNyREpGb0JNbHVXUHh3dUFsZFNWNnhIYl9VZTJseEdzZDFrYUktNHZSZGxCcHp0V3VnV3hkcmJTZUl1S09OUkswTG04amFHY3VOX1N4ME43VVR3Rmt5NE43M0VkTFRJckdQbURWV2hsNUVmbTNyNnVjVlhqV0h1aWtKYmd2X29iZlc1Yw?oc=5",
+  "title": "Le RN prend ses distances avec la Russie sans clarifier sa position sur l’Ukraine, un exercice d’équilibriste à l’approche de l’élection présidentielle de 2027",
+  "summary": "",
+  "published": "2026-09-22T09:00+02:00",
+  "mentions": []
+ },
+ {
+  "id": "95bcc6b6e3d2083c",
+  "outlet": "Le Canard enchaîné",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaTlQLWdUanhOc25ER1VmY19hb0hxLXhLYlpSeUxwdFVhSEx5WmdwalNHWXNNUmxDNkhUdTR4NEd0YjN6V2k1a0FjUzQ4TTB5Z0lCcjl2RE5tRDRKWHF6SlItTHczY2d3X3lWZmlIeFBNenNCd2NDS2I5ejdFbERQVWdhcERsMnJQ?oc=5",
+  "title": "Présidentielle 2027 : Gabriel Attal en retrait anticipé",
+  "summary": "",
+  "published": "2026-09-22T09:00+02:00",
+  "mentions": [
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": -1,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "962fabe4dc9349a5",
+  "outlet": "lanouvellerepublique.fr",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQZjRRRUh0ZjlDNVRGT0VDYmpOeXVrWXBmQjFKUGViSERLbDdvMVFUQVdxODBTeUdsbks5UnRTRXVPZlh3UkZReEJNckVHNVFVUEJibVM5Uk5HTHFnS0J0WDZqclhtcVdIVWhBNVhWLS1qUlotNkY3Zk1ERWlIQ3pDOWQ0YkxyTzlFZXRoTEJJT3I3VENwWmlReUp6SFVLcS1GLWhucjFlWEJkZVp6Z2ZIQU9MMHdzZFVRX1psVWg2bDdjNFd4MnlPNTZxa1lQVzVWa3d5ejRGX0p3bWpYd2lMeFEzTG1ZUUFib2pmMlZnWXJWdTVHRGFRTnlsODNmWlFQSWVwdnltbGxFWDQ?oc=5",
+  "title": "\"Il n’a pas besoin de s’agiter à chaque foire à la saucisse\" : Jean-Luc Mélenchon, une campagne discrète mais jusqu’ici efficace",
+  "summary": "",
+  "published": "2026-09-22T09:00+02:00",
+  "mentions": [
+   "melenchon"
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "9c2cb1b613cbe1ba",
+  "outlet": "Le Monde.fr",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQOFhtb3lKNXR0MnpYRU94LXBLWDVnam1SS1JfdkhvWjRWc3lhRDhObnB0SHhtU0EtckpHcGsxTHJUcThFbG1vQ3hiWVdHQWpsb0VoUFA2MXpYNG9NdkFrS3l0dmNGVFBUMG5WLV8wM3ZmQU16WUx5TVlZdzRUSWZ3c3NTYkFXSF9CaWdtdEk5Z2UyQzl6RFZpX0lVdkw4eXpBWFRfY3JSNmlnbm9fb2FZRWJsV3M0NU16eEZybGp3d0NMRWpKLVBIMWt5V0tVNDBFQ1lDSUJsR1pPR0h2WHE5bGhKaXNWeS0yNWFZejhzZ2xfblR5bm9DTWdWRU1tMDBIbG1mc3FXWURERzF6SVc3elE2NUFoRXNfdW5EZklwVjluUQ?oc=5",
+  "title": "« Amusant, mais aussi très, très immature » : les répliques cinglantes d’Edouard Philippe sur Gabriel Attal dans le livre « Le Crépuscule des princes »",
+  "summary": "",
+  "published": "2026-09-22T09:00+02:00",
+  "mentions": [
+   "philippe",
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": -1,
+    "frame": "polemique"
+   },
+   {
+    "id": "attal",
+    "tone": -1,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "9c8139f88b3ac4f6",
+  "outlet": "Banque des Territoires",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdnJON2lTN3d6WWZIdHdnS2M4UzgtRmlsMDZzRWhSa0VYT1ZNdE1rQkNGZFFNaV92R2ZQSE9SUWV6dGNZM2pXd2hxeGFORmxkSjVxOGNkaDlveVBobzFUbVlEZHYtOWxzQ0EyNXdUUUtXbFVjcFNpZzRjbjdsczNRS0Rvdmg5UlRlOTNEU2lKenRMRkxja2ZLalJON0djRndKTnl0Z0ZYczdkSURGdUE?oc=5",
+  "title": "Budget 2027 : \"On nous présentera la facture après les sénatoriales\", s'agace l'AMF",
+  "summary": "",
+  "published": "2026-09-22T09:00+02:00",
+  "mentions": []
+ },
+ {
+  "id": "a06c6047123a4d7d",
+  "outlet": "franceinfo",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNNHJDdWhtejBqY2tCd1dkbVlhQjZLcUR6UmVRclJMLXAxOHk0X3J3UE5YbnB4LTlubmRpUjR3ajFLRmhXbmRfSGVoWjVpVDAzblJ3bUFJV1djMEhrZnE2U3I0TzlLdWI5VG9TUjhIWV92MU53NW43b0VHc2JNdTRZaFl1NzhKcVhaVGd3X19URU82RUlCcXluSUNqT2lHdzc1bDJsZGtqQUU3XzV1aUJEM1BRREoyc3J3eVZfMENNVmRPd0stek1fNTBCTDdrMGE5QXdQak1hODFrY0dlc2hKanI4M291RV94cGpUWTdFZVZ4eVhveFpBZFZPamU5ZXpXMTRCbDZFR0M?oc=5",
+  "title": "S'il est élu, Bruno Retailleau veut instaurer un âge minimal de départ à la retraite à 63 ans, et le taux plein à 65 ans",
+  "summary": "",
+  "published": "2026-09-22T09:00+02:00",
+  "mentions": [
+   "retailleau"
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "a6ea281513fd7cc1",
+  "outlet": "Sud Ouest",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNRTdEZWdEUTJaNHVoeWw2QmhTVmtkdUJObUl6R2JMaE9rcDV3RTZYdi1fc1EwTjNtc0NkX01rYVFLcGNTc20zYzN4bW9GXzFnbWVZM1NTSWpnemlyem02X2JjRUFqUHJteklMNkxPdmMyOEUxbDZzMTd6cXBvc3dDMEN3QU1QRURtdnQyVm5wRGpCZ0N1QVdwM0I3aW1GZ0ZFcW5zSmZCektBRzRKUUN5WjNFZ3BHTmtTMkdDaEkzTXZic3hmMkZnMk56WnB3UjNBcC1YTjNocFFPdy1iX2VDa3RiaHA4Si1idFY1MmQ1V3cydw?oc=5",
+  "title": "Présidentielle 2027 : Jean-Luc Mélenchon adopte une stratégie de campagne discrète mais efficace",
+  "summary": "",
+  "published": "2026-09-22T09:00+02:00",
+  "mentions": [
+   "melenchon"
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "b693cf043659b444",
+  "outlet": "CNews",
+  "lean": "droite",
+  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbkVkV2VnSGdTWVBMaUkwcE8weDZqVWRTR1hOaWRjOGJsX3puNHpXSzNYRkxtX3cwRGxodUtmZHcyWElrM3JsVXI3Y3Bkd3JjUjhaZlAwY1E2anVQZXZ2VWpoei1VM1ZidVdsbmY3bzB0UDZNZGZjMDZXUTlYYXJYMjdtWHpQX3RRT19DNWdKSEZzRHNtaG1uVmFtTWJWeDNEREx0ZVJMcHpvRE5vOWJXRDc5c2t6VWNwTVRr0gHAAUFVX3lxTE9wMjllVWotZWJoTHcwajRHaTg3XzJsa2JLNG9YTWk1eDl3QllnU0t0eGVSX3VTZEdUQkRzekYxUmJvam12eE5CQm1JQjhBNFhZcng1WWhRYUJkcnN0bkd4VXNZekpEdEtqYkhEUFIzd1pwai14Z01XSmxVMlhJeDk3eTdxclZnbjQ1YWxaTWFwLTdVRFlVWTdLRGJUUWplUDBfOTZicUJ0T05pS3N5UUlmaDBWandKb2JKNE42Z05tXw?oc=5",
+  "title": "Marine Le Pen tacle Gabriel Attal qui ne souhaite pas baisser les taxes sur les carburants",
+  "summary": "",
+  "published": "2026-09-22T09:00+02:00",
+  "mentions": [
+   "lepen",
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   },
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "bbcdf6ae7d02f007",
+  "outlet": "Outre-mer La 1ère",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxPWURLVy15b2lFQ1ZMdW1qeE9jWkRvQzdwdjAxeml1SHFHMEMzZjBDRVFGRUtQeHRBUy1sSndBdHlFQVp0dFdSMkZiTGlQNlVEZzJ0TkdodGhUUmFQTWJFVk5aZlVVWFJBTm1QbmRMZjNXM0ZrdU0wUmh0dGlUTjRqUF94MmI2T29lRmVzY2hPc2U0WVVrTWxGbEtWNGR0T3lBUGh4RFZTcmZJYjZ6Y0FXSi16aHdTTHgxRVFXa3hPQlgxekhBN3lFbzNLcmdrMGluS0JhZ1g2bGdCSFo4bjA1Q2VINld5cDJGMl9ldWxaU2J0SlAyNHhhWjM1Y0VxbFNGTm9PaTdLbkp6VHZhMEZ4OTRhX2pKWEJDUzE1cU1DVnA1T2hrYzVSYnV1UQ?oc=5",
+  "title": "François Ruffin, député de la Somme et candidat à l'élection présidentielle 2027 à (ré)écouter sur Guadeloupe La 1ère.",
+  "summary": "",
+  "published": "2026-09-22T09:00+02:00",
+  "mentions": [
+   "ruffin"
+  ],
+  "analysis": [
+   {
+    "id": "ruffin",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "c75de19c9a26ff70",
@@ -706,14 +828,44 @@
   "mentions": []
  },
  {
-  "id": "8339afcef41e7dd6",
-  "outlet": "Le Figaro",
-  "lean": "droite",
-  "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxObVNXdHJFX2lvMWI4dzF6LUhFTExHRENDN1hyYkpjN1ZFVUhMRTV6MUU3a0o1Q2s5TTNhbUhueHVTeEJaemhZdDJ6anB6aU4xVHR3Z2RWbE9hcVY0T2pQT0phWGlyT1Nwd2NJempIeWNDdmhJUUtBejdObVliMlJEdkt6eDVYQUUyM0JZZWVnUFNyTEFRRjVNNjRpNzltVWgtczhuX1pZcklDSDJ5SXpmdlRmQkNwclZpV2VUdnREUWd1c1ZRX2xxcWRkZXRkYm9HMVNrQ0lQaG02LUE3T3ktdElxSzR6MGVIZ0RlcW9obG1BNmM?oc=5",
-  "title": "«Décennie de la décadence…» : sans attendre le contenu du budget 2027, les maires de France sonnent l’alarme",
+  "id": "cd649d38ed2c2443",
+  "outlet": "TF1+",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZzRjZ05INFNYS3dxVkhFcEN5WnhfbjFhdzUzQmlPcGdSOTdrUjI5RVMxUmdqaXY2YVFGOEpVM0lEQ1M2eXkxMTduejBEemlIaWJGclFIOXJzYlZkMnByZmVOUHpRZlNSX2tTRVBrMTlrZm5jVlJCWm9TMm5QOHMyVkp3X3FuSDNQUGpUQ05iVHpCc1kzWEhWc0RjclhoYWN4RHFzUWlKZnBIazdDSHVMb28wVUkwREhaT01JVHdScEV3aUdPQVVrbzFpNDJuY09H?oc=5",
+  "title": "Colère du carburant : Fabien Roussel tente de surfer sur la vague - Quotidien",
   "summary": "",
   "published": "2026-09-22T09:00+02:00",
-  "mentions": []
+  "mentions": [
+   "roussel"
+  ],
+  "analysis": [
+   {
+    "id": "roussel",
+    "tone": -1,
+    "frame": "economie_social"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "cd6b171a0571c00e",
+  "outlet": "Le Figaro",
+  "lean": "droite",
+  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWWpQVFNjZ0dHUV9sZ1M3LTRydl9rVDNkVkJEblE0VFdRb3hzZW9nZWRGR1hxeWF4Q01uSWI1eDhhT1ljdjVvSmlJb29faVlYSFZYaFZBSGU4NVVneHRfZ09tVUN5TGp0MC1YTURlcUN0N3NfWEh5VWhJc2d3bEEtRFhwZ1BtRTY0LXF6Zi1JOWtsaW41QmFSZFJ1RkE4eG5vWDVadk5kYWxjY0ZWYU16X1FUay1jcTlEOHk4YkNUak5QSm5ZVngw?oc=5",
+  "title": "Premier bras de fer entre les avocats de Marine Le Pen et la Cour de cassation",
+  "summary": "",
+  "published": "2026-09-22T09:00+02:00",
+  "mentions": [
+   "lepen"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": 0,
+    "frame": "justice_affaires"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "ce2790acd85429cc",
@@ -728,6 +880,335 @@
    "melenchon",
    "lisnard"
   ]
+ },
+ {
+  "id": "cf522c49c32137e1",
+  "outlet": "Midi Libre",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxOMGQ5UWpSd0VGYXBpbEhlWVh5MExxbGtyeGk1RXVWeGh6MEhMSFp3VUs5V0RZSGQtWVAtNzBiUm1yMi1QUF9DQWR2ejZMZWRMb3ZQbEJzd3Iwbllsa0tteHg3R1BKQ2xGajdUeHdkM3pZSlE0c0lydVhYRTdqZFd1YnNDZmYzZXVaMXhQVE4wb3VLVVF3ZlhoeWQ3NGlSMXJodzU2ZktHb2Y2djgxVTQ5eHVhV0REdEJ5Vnc0Umk5aENLbUJ0S3dxQ05jT281bDcxSXMyZUU1TXJEdllSOHBuQzhZcHZUODFiUVRNXzExVHdIclM2ZGk4bVdCUV8yRGVJQWNETDRHMUNjLXRodE1HTDhocWxfN0JZZ05TR2JR?oc=5",
+  "title": "Présidentielle 2027 : \"Je suis meilleur en campagne\", \"Il est très immature\"… Edouard Philippe et Gabriel Attal se livrent à un véritable \"combat de coqs\"",
+  "summary": "",
+  "published": "2026-09-22T09:00+02:00",
+  "mentions": [
+   "philippe",
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": 0,
+    "frame": "polemique"
+   },
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "d1468e73de32b7f0",
+  "outlet": "Le Figaro",
+  "lean": "droite",
+  "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQVHZ2VVRwR2I2UnVkLXhzZFJSLVJKcVo4aC05eGJVanQta1NKVm1pSU9Ed2NEVjBZbk5EN0ZOdHdJSHY2a3YzV2J5cFo0cVBNRENYeXRETVZYUlhxVUljeXJjbFBWVmpoZzdjZV8tNXNxc3lLZDZ1SmxuWHpxb2xHblB5TUxSQmswYTI1NjYyci0zbnV3SmxTQnNGV2NpcURYU3dpVHlYdlFrZUJYNHVWZmFabUdZSl9uVWwxaXBIa20wSE1Hd2E0OEZXLTlpNVBOUWFEMUZKM1NWTmdvei1VVUJjTlFjU1NMelNwSzNlRGRzWUsxNkk3RkxnRQ?oc=5",
+  "title": "«Un rouleau compresseur» : de gauche à droite, fascination et inquiétude face à la campagne de Jean-Luc Mélenchon",
+  "summary": "",
+  "published": "2026-09-22T09:00+02:00",
+  "mentions": [
+   "melenchon"
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "d30798602214a88d",
+  "outlet": "L'Echo de la baie",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPMllaZGl4UkVpcXRIRjQ0ZFc5WkRyU1JTZjFIcHhzeExSaXgzUzlIX2RtOHRpVHJYQmdxUWQ0S1pNVXEwMkE3YkZxTXVOaHFva1F1MWh0RzBIT0dwM0RuNXBfMWR6a0RYS1lucTJGZzE4TmhTejJ0RUNlSTZFOU1BR3kzX05MWEtnQlR1SHZOc08zeS1WcEM0R0R3RkZ1SVlCZlJhZ0YtNFRuVjBxc0VnYVJiRzU5N1JmdDJqcTdMVExjVERYOVJWVkVoaGJzaHhmRlhpZmxnUEtfUWVtR1dEZXNKRVBZWjJ6aVc3OQ?oc=5",
+  "title": "Gabriel Attal, Marine Le Pen et Jean-Luc Mélenchon participeront au Grand Oral Politique de Paris Builders Show 2026",
+  "summary": "",
+  "published": "2026-09-22T09:00+02:00",
+  "mentions": [
+   "lepen",
+   "melenchon",
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "sondage_dynamique"
+   },
+   {
+    "id": "lepen",
+    "tone": 0,
+    "frame": "sondage_dynamique"
+   },
+   {
+    "id": "melenchon",
+    "tone": 0,
+    "frame": "sondage_dynamique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "d5dcc75dd4cb0d52",
+  "outlet": "Le Figaro",
+  "lean": "droite",
+  "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPZmRNbGdvUnB2U2RELXFZRXpBWkttc0RyZ01Zc3ZCSUJPb2pUZ3ZLZTU4WXhVVmFNVldiSldCU1daNXBWNkpiVkYyWmZ0UzBnYjdMRE9kVHRNWHotSnZGMExCel9EQ09SclQwQTNCNVF6aXVSeDhmc1pFUkIyV3ZTLUZXODZJT2JCbGVrR3d0ZmNLWHVaLS1ZdTlQSXdxNjZ2Qm0yVTMzdEtkQlNxLVppNjBLOXdwalBHUlZBMV9RbFVweTBhcWo3QXdMclZSb0tfVmtpemktRkRTaFRsaHRUdXRkbjM3VVBwTmZNelloNjdIOWxKZ2NqTXlTMmx0MzRwRk5yUXFOdDYzTFFKa3JsZE4zbWFmSEtL?oc=5",
+  "title": "«Je veux sauver le régime de retraite» : départ entre 63 et 65 ans, décote, capitalisation… Bruno Retailleau dévoile sa réforme",
+  "summary": "",
+  "published": "2026-09-22T09:00+02:00",
+  "mentions": [
+   "retailleau"
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "db3c058eddcddf9e",
+  "outlet": "Journal de l'Agence",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNT3A4d0VFTnFNUzNqa1U0TDJLcmtaUlBwZUs1VEFVSFMxZGVkTW1lU25mbjJWcVJxbkwtQjNaVEw1VDVVWkZTRVpRZGctLV9CdHhTUndGNU5XeWR6Vmg3bzNjdmo4MUw2em04V1dTc0c1Q1ZydTJGNDFtQVBvZlN3WDdmVWFXc0RjNVd6VklJN0lKMHhyLW5seTdWN1hfNjNwRTMwT3BXeFd6bk5ZNTlrNXdUM1pubjhxUlc5U2FyZG4?oc=5",
+  "title": "Présidentielle 2027 : quelles sont les propositions de Marine Le Pen sur le logement ?",
+  "summary": "",
+  "published": "2026-09-22T09:00+02:00",
+  "mentions": [
+   "lepen"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "dd71120ad5b4ff9a",
+  "outlet": "Fondation Jean-Jaurès",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQ3JXWkF6MG44d29HVDBiSi1MeURpRXZlUUFFRkNHNnl3ckRVT0FPcVgxYjIzZ1NPX2JoY2VLOXJNaGhKeG5nNWgxYmszbllEX1c5QTVnVFNmVzUwbEJnNjBONHJvb01oM1VYT1NzelpBakI0RHZzVkd5a2dqRGVoN2xjamM0UXltU1lVMVN6cHFhV09WVXlN?oc=5",
+  "title": "Attal-Philippe : l’union ferait-elle vraiment la force ?",
+  "summary": "",
+  "published": "2026-09-22T09:00+02:00",
+  "mentions": [
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   },
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "dd9fe5a49da74587",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxOZnQ1cmFldWZabFg3aThGOHhRLWlJbTZoUzNmVlhOdGpDUWYzUHgydHlNakVWMkU4eG54aG5vMzFubUMtenRGQXhNdWVIY3hzNXZqbVQzNHFkZ3FzdnR3LUkyNFhrWFBUMXdYSGxBQi1waUFnSEVTNjlXUkZLZ2MzcDhmT1hBMm1XcmZMNTRhUVZod05YNmtZRnN1cktVTzFRYlkwUmVGWlNNYmdlZnY4UWcxbFA4RXFMaW9tQjc5U2dhR0JsMFN4UFdzRFJpTDZjNDltelRiVTdfYnlvTV9JYmdzejlzTE5XOEVYSmh5c1dLV2dpZmxqTElqbVZHWE5kSEtQZW1iSVVkSTRGNTNaQ0piMmEydDdGUHRwZ3BvNkZ6SllEaVV4dUYxTTM?oc=5",
+  "title": "Crise des carburants: \"La situation n'est plus tenable\", juge Antoine Vermorel-Marques, député Droite républicaine et porte-parole de Bruno Retailleau",
+  "summary": "",
+  "published": "2026-09-22T09:00+02:00",
+  "mentions": [
+   "retailleau"
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": 0,
+    "frame": "economie_social"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "dec6fa39d49b2a4a",
+  "outlet": "Le HuffPost",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQUlY3ZENFUldTMTJTM0NzbVc0UHBMdDJuYTlyNVFnTU9VQmpXbmE1NFM2MFlhZ2pfMnZrV19NWkFlWTVFVG5tQmxMb2F6Q1R0WENlZXVReG1za1lJNmdzaGZLUmI3TWx1dXpPc0tndEtjQWF1WDk4U2ZkTEFFdVZUZjlhMEItd3N3WmRJWS1aVERLcjZhampQcWRvRXZMQTNuZDUtYkFQQ1o2cGQyWEdybV91ZDk2Yk9kaDBNVnpObjVESy1iWVR0ZFVzTGJqZlFFdVR6Tl9DbUJWd1Y2QWduc3JleGEzUmpQdEdIZDlSS0VWQQ?oc=5",
+  "title": "Présidentielle 2027 : l’opération de com’ de Gabriel Attal dans les bistrots rate complètement sa cible",
+  "summary": "",
+  "published": "2026-09-22T09:00+02:00",
+  "mentions": [
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": -1,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "e6daaca773811a80",
+  "outlet": "Yahoo Actualités",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSFRTUlRtemNxcW1PbXByaTFCenZEWHRISHBtTUNiYXdyUFZkVlJURGt3YkRSclRKakVqRTNpMS05U3Q2NEloc2Rka3NjUzNRSU5sZEc3RlZvLU5mbkdOY3MzVkVkLTM2a0tRUk9HcC05VFZLU1ppZ0pQanp4X2N0SERwQTY1U1ZxUDlaMDVndXNUd0pL?oc=5",
+  "title": "\"Elle en rêve\" : Une nouvelle vie pour Léa Salamé, loin du 20 heures et bien plus proche de son compagnon Raphaël Glucksmann",
+  "summary": "",
+  "published": "2026-09-22T09:00+02:00",
+  "mentions": [
+   "glucksmann"
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": 0,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "e9289fc5d6689cb8",
+  "outlet": "Capital.fr",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVEtNdl9YRWpoa2ZwZ1dFQ0NSdGNGMHd0M3VBR2NwU2xPOW9HR3hqTlZZM3JvMFZkU0FNS1Bsc05BcGQxZEdYWTZjT3l3NmhsX1EzOE5QMmdxMDZrd3d2OHJ6anowMEtNQzhZYlpyT0xWdW9nZk1HaU10bUlNV1VvUW9hUFRTOHE1XzhTZDlxVlZGcTZscEwxeTBBM2taVkF2Mm1oNFJLUkJCVDdTZkg4YWpNWnhKeGVFSTJKdE5UM21hVzU2NzRpb1pjWWRHcFc1RlE?oc=5",
+  "title": "«Je veux sauver les retraites», Bruno Retailleau défend un âge minimal de départ à 63 ans",
+  "summary": "",
+  "published": "2026-09-22T09:00+02:00",
+  "mentions": [
+   "retailleau"
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "f0ef77fe64605e62",
+  "outlet": "Midi Libre",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPb19xMHpZYURzSHMxSjhwX1NvM2s4cER5c2YwNHJVOUNWNTh2S3FUMElkZ3lsd2ZKZ3NGYXR4ZXhxRXFuRXc5SENaajJQNGhsNEM4eExublFXclE1WGctUEh4aUxaenNPMXdFVzNrRXlMdTVSOWJPSExQU0dQcEJIU0JFVjVnYlpOOWtjMkJhaXF1ZGhsV25CYmJCbU1IeWJhSGFGNTF6aDdmam5QMnZCRHM0MWNPU2t4anQxdlBuOFpCZTdFR1NHamtHelczcmRla1FBMG9NV3ZKRkhSQVFtYmI3LXZiQlVxVzBMMHcwX01hYmVTcFNMaGpMaUh5eFBsaHlYZWRQXzkwYWNKQUljME9PLWdlOWc?oc=5",
+  "title": "DÉCRYPTAGE Présidentielle 2027 : \"Il s’agit de ne pas l’épuiser\"… pourquoi Jean-Luc Mélenchon fait le pari de moins se montrer que ses adversaires",
+  "summary": "",
+  "published": "2026-09-22T09:00+02:00",
+  "mentions": [
+   "melenchon"
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "f1f0d14b684f04be",
+  "outlet": "Le Point",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeFFqYUVGaHczeDBaekdYcmZLNHR1SGl2OTlVdGYtS1pjSUJWa1R4MHdKcVBCdTdRMmlzOTRzVTRTTFlsXzJMWElaR3RoWXR4V0hPZ2R1dmJlRW1VTTlkcGVCU3FRWkdpaWpranctZElhLXdzQkt6RWk2TmtmVVVSMnZHZVZSSGJfejBQcGIzZzZRRVZiRUYzNC1BZDJuT0NSbjd2UENRdlVJeW8wOGJpSA?oc=5",
+  "title": "Céline Géraud, l’ex-judokate et animatrice télé sur laquelle mise Gabriel Attal",
+  "summary": "",
+  "published": "2026-09-22T09:00+02:00",
+  "mentions": [
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "sondage_dynamique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "f4fad856cd66f623",
+  "outlet": "TF1+",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOSVQ5aHdsR0U2WWwxOUhwTHJVU0Vjdk1pWl94Z0RMVVBMSlVQZ1hoZ3VTbVZMMGFYTDRManVtWEUxdlg1a1U3NFFmU3p4YkZEOGZQS0tHLWJJQVliUmZnSXdyTVNCMTZWOEpUYmxidXFyOWxXMDYwdkZsalM4NkJGR2Z2UHlQWWU1RnhZUmFRNVl3a0VtRkE3clRJX2I5SmRiYjhmME1qQUNOSkM2MHhsSmZqcHFGTlRvSkUzZ2ZlODhtQWhZR2xDMy1TRzRYdUN0eUJEQlFtYXU2enhDRFhNdHpBSVBuaENH?oc=5",
+  "title": "La minute nécessaire - Ségolène Royal vs Raphaël Glucksmann : le choc des générations",
+  "summary": "",
+  "published": "2026-09-22T09:00+02:00",
+  "mentions": [
+   "glucksmann"
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": 0,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "fc13bd7d8186d55f",
+  "outlet": "Paris Match",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOOWxlamVwVmhfelFidHFRaFFLRzZDekZNNlI5MVcyQ2RNaF9tZmpneE9OQzdtQ1VfMDJBLWZYb05RUUJ6QTFRSUM3TklHdTF1WllWQmVvMDFWNnNtbG1lcXk5cVU0YUZMYnZybGwtUWU3LVctUVZzdGcxQ3EtQ29SZG1ybEpiRHZfcFdyR1YwN0p0a05ReG9rYlhnOU1GZFpfZUYyOGVoZUwxSWg4RVZRSkt2SFdhVWRGLVN3LQ?oc=5",
+  "title": "Édouard Philippe vs Gabriel Attal : match (presque) nul, selon notre sondage",
+  "summary": "",
+  "published": "2026-09-22T09:00+02:00",
+  "mentions": [
+   "philippe",
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": 0,
+    "frame": "sondage_dynamique"
+   },
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "sondage_dynamique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "fce0d08d9e6fc9a7",
+  "outlet": "Gentside",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNQ3RZdWs1MkE0SVp5cElNM0V6QU5VLWlkS3BzSE56QVdDVGlCMV9ZZ0JjVkd0RGYwMF9OQS02X2gwbGJVUS1vSktfZnRTZDZ0VUR2clBMdDlSWlEtU0g4R2ZhZFg1aUhhRUF0SXBrUzF5cFRHR0E3TUF6V0VJYkpycWs5ZkljMTE2UGZTUDQ3eHliMkdaSDh0Rzgzck5HSTBrRHNVcDNEVDh2VWl0MGM3QnZyZ3A1eGtlX3VFazI2VHpFSnlfR1BILWFKMElsTk5BdkhQVDBPdlY?oc=5",
+  "title": "«Donner l’argent des Français aux Français» Nicolas Dupont-Aignan veut arrêter toute aide financière à l’Ukraine s'il est élu",
+  "summary": "",
+  "published": "2026-09-22T09:00+02:00",
+  "mentions": [
+   "dupontaignan"
+  ],
+  "analysis": [
+   {
+    "id": "dupontaignan",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "9ba49b19897ad793",
@@ -759,6 +1240,8 @@
   "published": "2026-09-22T20:57+02:00",
   "mentions": [
    "roussel"
-  ]
+  ],
+  "analysis": [],
+  "analysis_model": "ollama:qwen3.5:4b"
  }
 ]

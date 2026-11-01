@@ -1,17 +1,5 @@
 [
  {
-  "id": "0e7294855fe5c57a",
-  "outlet": "Tribune de Genève",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNVU1M3RCdGs4UDB3MXBEWGN2S0dlbkx4RHpSTmRuemcxekE2QW1TWlAwLTNxUHdPLU1aWjNXQ0ZBR0hhZDZiZ1VPNm5BY3NCQXZjMUNYYkxobDB0dVVjMjhZQ3hld2thVE8xYVY1M0JRam9TRE0yN3cxSUJFRU8xWWE2M3QxUmFJTmh0UG5BTllxbXht?oc=5",
-  "title": "Pourquoi la candidature de Marine Le Pen change tout à la présidentielle",
-  "summary": "",
-  "published": "2026-07-14T09:00+02:00",
-  "mentions": [
-   "lepen"
-  ]
- },
- {
   "id": "0d3b8a671d412050",
   "outlet": "franceinfo",
   "lean": "centre",
@@ -21,20 +9,35 @@
   "published": "2026-07-14T09:00+02:00",
   "mentions": [
    "melenchon"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": 0,
+    "frame": "sondage_dynamique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "4b2bca7a3f1a48b5",
-  "outlet": "Le Figaro",
-  "lean": "droite",
-  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZ0hKYkIyM2JMeVlENW4xdlhCYlZVT3N1U3VjMFVrdks5WDhuNzNham5aVUdKMkI2MWRGRk9nOVlaN29pQjFnWktCbllycFZsS0VVY0FFM2lOUldGanZDSEFXTzZCMFRRRnkxcWs3UmdTY3lVVGdJcWh1VEV1U1BnLU1kU250Q3l6X1c2RXlOQ1dEQWxpMTh6ZF9LN3BlRzhWS1pBTWoxeDdyb1o0WHhxenlWbXNiNVhFWjFnUlNfOGU?oc=5",
-  "title": "« Tu vas rentrer chez toi ! » : en Bretagne, Jean-Luc Mélenchon charge Édouard Philippe et son projet « néolibéral »",
+  "id": "0e7294855fe5c57a",
+  "outlet": "Tribune de Genève",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNVU1M3RCdGs4UDB3MXBEWGN2S0dlbkx4RHpSTmRuemcxekE2QW1TWlAwLTNxUHdPLU1aWjNXQ0ZBR0hhZDZiZ1VPNm5BY3NCQXZjMUNYYkxobDB0dVVjMjhZQ3hld2thVE8xYVY1M0JRam9TRE0yN3cxSUJFRU8xWWE2M3QxUmFJTmh0UG5BTllxbXht?oc=5",
+  "title": "Pourquoi la candidature de Marine Le Pen change tout à la présidentielle",
   "summary": "",
   "published": "2026-07-14T09:00+02:00",
   "mentions": [
-   "melenchon",
-   "philippe"
-  ]
+   "lepen"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": 1,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "1c1c5812b3f0d619",
@@ -47,186 +50,20 @@
   "mentions": [
    "melenchon",
    "philippe"
-  ]
- },
- {
-  "id": "419fd8a886d1dc5f",
-  "outlet": "franceinfo",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQd3VPZFd3ekx0a2w2OEkycC0wVWFuNVhoMGtkUTg1LXhpdUlLczdUWDRpY09pT1lVanBFeXUxbHdSeXJreXBVYTRuUFdvWEROa0FiZWFNOGc1V2tRVXlHTDVTZWpaMHA4ZDlDUU4tY1pZdVUwMHVNQWNYWVFsWU5GZlNRcFZfVkQxdmtHVUdSeTlRNnQ4MklNN2pzVmNDallxaWc1dzFhcWhVSVAwTmh0RWxTekRSNTJHMloyWHhIaURBdFBnNHZV?oc=5",
-  "title": "Présidentielle 2027 : \"Je comprends l'impatience\" lance Aurore Lalucq, députée européenne, à propos de la candidature de Raphaël Glucksmann",
-  "summary": "",
-  "published": "2026-07-14T09:00+02:00",
-  "mentions": [
-   "glucksmann"
-  ]
- },
- {
-  "id": "70e574aebb358abc",
-  "outlet": "parismatch.com",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPcTl0WHVPOW93MUJxWm1sWHdlSXJlYzZ3bVZlZnRPVkxpTXFuVFpSeHlmV2NrVEJwT3ZQaWoxcU42b09XTzlVWHZFZk8wRXhfQVBzSzBDb2VocFoyb2gyOUN0azJvRS1IVk9CWFUwNXh5VTZrUEI5b21RemhGbUVxdmJWeDZwUHM3bEh4YVRrR2V1eXhDdEdQOXBXZGkwcWVITGtBZFc5ZHlEMG91SzhsZ3pjaktRMlRaTHM1S1Q1RTl0LTd1TkZSemN6RXNma1dqSVdXaUpsaW9CZnBTd0ZCem5R?oc=5",
-  "title": "Le bond de la « tortue » Hollande et du « lièvre » Mélenchon, la chute de Glucksmann... Les leçons du baromètre",
-  "summary": "",
-  "published": "2026-07-14T09:00+02:00",
-  "mentions": [
-   "melenchon",
-   "glucksmann"
-  ]
- },
- {
-  "id": "6072be6e9b35864c",
-  "outlet": "franceinfo",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQeF93cnpKN0xiTDRLVHV1LWJqXzdTNXpMVFdPekhuNGlUeFYwOHNMM01uVzBtMi0waDZBbFpwSXF6cTJJSGo5SG9pZkhLM1lJc1MzWlo0dU5UREZpMGlnSi0zVEhTWmlObkdIYi00eV8xbVRSQUJzT3FEb3hHalhMaHRuU1gxN1RFMDhFT0dzc3daS0F5OWZqUDZaQjUtb2NUYVFNTzltbWM1RXZMY1kxNjJJdTlWUXRYSko1YnlMTnZkeGdfbGtFZVZBOWRHNzhlakc1R3pfejVKVGVQamJzQ3R1cXhCRFNVM3YyNFdEV2xkSGV5VTNMQ1QtcnNzUUw0Xzl3STlreUpCbUZ6RzhtMWtaTV95MEhYclVaVFJIZWZUMEVGd2U4NUxLSWNTNXFLb2c?oc=5",
-  "title": "VRAI OU FAUX. Le gouvernement Attal a-t-il coupé dans le budget de la sécurité civile, entraînant l'annulation de la commande de deux Canadair",
-  "summary": "",
-  "published": "2026-07-14T09:00+02:00",
-  "mentions": [
-   "attal"
-  ]
- },
- {
-  "id": "ab5dffa9fa0c3b0a",
-  "outlet": "Presse Agence",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRHgxSlVjZ0tEbmhoN25nMmdLQTdFQ01wUHNYeDRmYldVV1BfNW1FcjdxRFI3ZDJIcW0zTUkxeDZFYUlaZjVCZXFHZ0hVdEo5Yng5TlNyM2pNUTE2WU45VEdYRVhtUjkzbE5QTDVWcURqVnh4dWxlMENHUnFBMFR1aDFwNDdhQnk0RVpkTnFzdHpKWGNRaVBxNnVSdE1xVVlaeEVJYkxSaXpwLWp2ODdR?oc=5",
-  "title": "Gabriel Attal attendu à Nevers pour le Tour de France",
-  "summary": "",
-  "published": "2026-07-14T09:00+02:00",
-  "mentions": [
-   "attal"
-  ]
- },
- {
-  "id": "b2a244061e59e0fb",
-  "outlet": "Le HuffPost",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVjQxTGFJWkFZeHV0dzA2Q1JCdXZNTkx2ODlybjdsVEZuaWJVTGdYTFB6bXAwVHl0VFVyZ1ZKOFdRRzktZ1NaMGdJay1jOUtjSkRUOUVnenhaNnpTcEt2Vll2S0NiOW9HbDl0alhQczZHYU5Ec0RrZS1KbXZsRWxvcWFtOFRoOWJLMHVLR19mR3Z0d29CVklXaEtZMDF6MllWbjktb19ZT2RGSEJTMXBnRFZ2ckZ0V3dVNnh5U0pKM3VtTmxoeENMWUl1S0xWLXRTWmRZ?oc=5",
-  "title": "Le manque de Canadair vire à la bataille politique entre Gabriel Attal et LFI",
-  "summary": "",
-  "published": "2026-07-14T09:00+02:00",
-  "mentions": [
-   "attal"
-  ]
- },
- {
-  "id": "f6848423a9d8cf6a",
-  "outlet": "Ouest-France",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSEJZaDc0WUwyeFpQNElJQTZheXJ6V0pleHJDNndmMmJ6cXJvdWtuRGtEbTZBWll4aEpkczBMbVVHMEQ1Z182ck5ydXMxTHhBem85RW1lZFRzUk9LN2RwVzhtclhGZ0czSTdETE5rY1l3Q2xQVVA4ei0tQTFCS3U4bDZKamd2c1JnUzV0Zno3U3NRXzVYY1dvYUE3bDlnVjZnODFMOFhjMVh6UXZZZEdORnBXdDVBd2hBbEh1blNqZl9UYTlYcElJaFl3Sk45SDNaanE4V3JJS00?oc=5",
-  "title": "VIDÉO. Jean-Luc Mélenchon était en meeting en Bretagne ce 14 juillet",
-  "summary": "",
-  "published": "2026-07-14T09:00+02:00",
-  "mentions": [
-   "melenchon"
-  ]
- },
- {
-  "id": "9d826f5e3656839e",
-  "outlet": "Le HuffPost",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPMlZHT1VUQnlCUnUxV3BwSlQ0NVBYcVgtdmFCa1hXZTR1cGFGMVVQZGNpNkFEWUNRS3JEaXFtTWFkdFotZ1FXRjlxRUdZLWt6a2JpdkFWRl9PTEFMWXQ4dU4taWgyV2ZRNTVyQUNvb05Ha05sakhhLU1INFZfNjdIamtLWXZWZHB4OGZ5S3h5cnhjbnUxdjBPZ0VUcnlaMmlHZXY5bnlRQldaZGV6dno5bTRKQXVQYkkwckFZTTNhcThfSW9DTmZUeFRLNVE5Uml3TGRwQWUzX3FrY2d6cUZZbGhfdGdNbWNGSFE?oc=5",
-  "title": "Le titre du livre de Jérôme Guedj, député PS et ex-proche de Jean-Luc Mélenchon, risque de ne pas plaire à LFI",
-  "summary": "",
-  "published": "2026-07-14T09:00+02:00",
-  "mentions": [
-   "melenchon"
-  ]
- },
- {
-  "id": "6605c45279319768",
-  "outlet": "Valeurs actuelles",
-  "lean": "droite",
-  "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZHlOY2VxbkZ6QXY0dzlqUmFjMFotalJuMkJvejhBTWtkNjJ6MlpibTJBWEVDU0k3Q1U1SHdLMHd1Skplb3Q1emtrd1hnLWZGbTcycHJUeDZqckRBVXZhcTltRzdTU1V4ZEFLdmFnTzl0eTFIekZKRXpWaTFqenNpNGhPei05bU4xc2NicjRsMVFJMFZDNkFzSlpzb3dIZ195VVBEcmU4Zl9kSEt5SXJCNHVCNFV1dTNSYUlYVXcxQWtLUUdzTWdhYmViajBCcHR5YXZZU05WZFBWLTFab2cxTw?oc=5",
-  "title": "Incendies : Jean-Luc Mélenchon fustige « la stupidité du capitalisme »",
-  "summary": "",
-  "published": "2026-07-14T09:00+02:00",
-  "mentions": [
-   "melenchon"
-  ]
- },
- {
-  "id": "92a1c6f725090615",
-  "outlet": "La Gazette France",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPY28yQW1WM0EzdHZLSUJPdUo5cHc2YlRvcnZHMkRHQjNlbFo2Q3ExVTlMYXRsQXdWSGw4UFBsdVR5NTJjR0tncGFqbTZJZUJSM29BWU15ZnprdUZVX2ZhNnlHSGkwLVVqN3EwWE03SEJBSVVMX1JSWTM1cjc1QjVXSG5yNFBsdm9wVl8wYjFNakFud2lkd2FySTJvbjFzS29ZRnRVUUktdUw4WlEwTTJfTndmMzZEekRRRFNZ?oc=5",
-  "title": "Pour Mélenchon, les incendies sont une conséquence de \"la stupidité du capitalisme\"",
-  "summary": "",
-  "published": "2026-07-14T09:00+02:00",
-  "mentions": [
-   "melenchon"
-  ]
- },
- {
-  "id": "e5574ada99585c53",
-  "outlet": "Ouest-France",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOYkxxVlZiekJaOFBqdlpXdTA5b3lMeHV4bDZvUEU5c05YNVJVbXh4T241Wkt0UTZkN1hvbEZqeGhFeWZzUUJzWmxEd25ZQ2tWMDgzUllsemZkd2tUTW5IT2dBLWhUdnBBeXQxMWs3Y1kzQzJLU1d5endJbU10R1pnckotZGNlbmU4UFFPcjk1aW1Ta2VwTG1GbXNEWkI5SWFBOS1VNGhLeEpzX2pWREJUS0RzSmZkT0NuVzdBdmx2ODA3NWdJT3BMOHlTTGl0VFQ2eHhLT1BmNkY3Z25SVXJHc0ZlX0hmeV8yNXlQNEtEWlh5ZXBVcC1r?oc=5",
-  "title": "Fête nationale : Bruno Retailleau à Saint-Gilles-Croix-de-Vie, une présence aux allures de campagne électorale",
-  "summary": "",
-  "published": "2026-07-14T09:00+02:00",
-  "mentions": [
-   "retailleau"
-  ]
- },
- {
-  "id": "e3ec29068ab76441",
-  "outlet": "franceinfo",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQNEZlcFQ5NnVXdFVwR2p2dDhfWWk4UFZfMEYzTzBMV3hhSGY5cWNwX0x3S0lUX1VpaFYxSVc0ZS1kZ1ctWHFBUFpjWkdQbFdXV3FjUzFfNi12UmV1YTBIbElaaVlxLWF3VXN3eVFHUUoyMzZ6V1JwdWVCZHh4a3p2NHRuQkxEcGpZYkpqbEpxMFR6ZV9lcy1JYzI3Q3V6MXZ3dGpPaVNmSFhVeVdiYVM4Si1wdXkyU3FuN1lZWjNYSVB4SHg2bWd2RlBxYXBHYzF5MWhaU2Q4cW1tdzRGV0Zpd3kwZFcxM2tEV2c?oc=5",
-  "title": "Édito. Comment les candidats à la présidentielle occupent le terrain en ce 14-Juillet",
-  "summary": "",
-  "published": "2026-07-14T09:00+02:00",
-  "mentions": []
- },
- {
-  "id": "9103dd4def068853",
-  "outlet": "Actu.fr",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOYk9iWnhUc3g5NEtYWVZBb1JXcnc4S25ENHdmN19ObVhwenl2NENRTy1QeExNT19XaHlRQllvY3B4VWljSXVpaUlVTjJMYUViZTVyQm1jQlIxSHFkS2k2d0tMa0VIRk1mb2pRNUdjdjYwQ2NndW5RV2txQU04YmItVzZwdzY4ZmY0MVpwZHY1Z0xfQzRrbVF3OFFoRGZNNkxYNzFYNjVmVnRSdlFPOGNuR0RBTjdFcmFfazkweTFlaGZwOWlidTd1emVULUt3ZGJMTDJieDJyN2ZnbDhWYWpwdGJhMjE1dw?oc=5",
-  "title": "Près de Nantes, François Ruffin anime une rencontre... dans une étable : « c'est ma première fois »",
-  "summary": "",
-  "published": "2026-07-14T09:00+02:00",
-  "mentions": [
-   "ruffin"
-  ]
- },
- {
-  "id": "e23869fc9e642984",
-  "outlet": "La Croix",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxObGN1SFhxc2dOdzMwdV9zN1l1cFlwUjdjczJjOWZ6M0RTb19zU01vMWpDSnpLYU0zUTk2ZGxycC11blBLY2JoWFNNcFViU3l0ZUNiZzBuUlN0UDlMalIxdWdqQ0twc0tBemFjbjVEVWd6NmlIeDh3eW9zUWpDRi0yR1dCXzBEb0pNN3l2a2RSdldITmY2VGc5TTlod3VzWFBxMFhoR0pzd09nY2RzTGFCdUhTdDh6NTdfOVZYSldaNDlBQ1dNWXk5Q051aXBzdXFkaXc?oc=5",
-  "title": "Présidentielle 2027 : François Ruffin veut tracer sa voie entre « les trop mous et les trop fous »",
-  "summary": "",
-  "published": "2026-07-14T09:00+02:00",
-  "mentions": [
-   "ruffin"
-  ]
- },
- {
-  "id": "b49fc29502fe8ec8",
-  "outlet": "Le Temps",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaHhRM1pCSHZ3eVhDcVY0OWtjUkw3TU5LRlhpdmk4bFlyRkhKWF9DS1Q4bWpla2tKSWhCUDlxbXZyc2tvc2tPZi1tUVphVURXaEU3eUZ6RXl1czVadGlMSGdDRGpiNVVBVjQwV3R5VFI3SjFPVWVjMUkwb0RjdmhSWjItTW1VTmRoZHZoUGZIaFBPN2JQelNWaENocmpwbG9tRGNieUQyZzZYaEJBQlIwNzZORV9fZWdSLXNjSFFxOG9UVzQ?oc=5",
-  "title": "François Ruffin: «Le Tour de France, c’est Pogačar et Seixas, mais aussi Rémi, Alain et Nadine",
-  "summary": "",
-  "published": "2026-07-14T09:00+02:00",
-  "mentions": [
-   "ruffin"
-  ]
- },
- {
-  "id": "973cbc4f4eadd85d",
-  "outlet": "lamanchelibre.fr",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPU0ZTZXZTNmZlZUhJLU5LX3VDWDBqUE15WTJOWWdkM0pBa2gtdjZISHBCRXg3d3hRc1BLV2NIdDkwSnc5dXd3OGhpYXdFTEtYV1BYVU5mVWc4eFA1V2VRTGtFeV8yMWx5UDVWTWd1Rml5OTFaOV8wVm00dV85bERHajJZY3NzZHJ0VnJwV25fS0tYWkM2S29HTGRJeU5jNFhQQmYycE1kRGZRMVFtSkhMaQ?oc=5",
-  "title": "Manche. François Ruffin fait un entretien d'embauche sur la plage",
-  "summary": "",
-  "published": "2026-07-14T09:00+02:00",
-  "mentions": [
-   "ruffin"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": 1,
+    "frame": "programme"
+   },
+   {
+    "id": "philippe",
+    "tone": -2,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "2dd420d49c55420a",
@@ -239,5 +76,327 @@
   "mentions": [
    "ruffin"
   ]
+ },
+ {
+  "id": "419fd8a886d1dc5f",
+  "outlet": "franceinfo",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQd3VPZFd3ekx0a2w2OEkycC0wVWFuNVhoMGtkUTg1LXhpdUlLczdUWDRpY09pT1lVanBFeXUxbHdSeXJreXBVYTRuUFdvWEROa0FiZWFNOGc1V2tRVXlHTDVTZWpaMHA4ZDlDUU4tY1pZdVUwMHVNQWNYWVFsWU5GZlNRcFZfVkQxdmtHVUdSeTlRNnQ4MklNN2pzVmNDallxaWc1dzFhcWhVSVAwTmh0RWxTekRSNTJHMloyWHhIaURBdFBnNHZV?oc=5",
+  "title": "Présidentielle 2027 : \"Je comprends l'impatience\" lance Aurore Lalucq, députée européenne, à propos de la candidature de Raphaël Glucksmann",
+  "summary": "",
+  "published": "2026-07-14T09:00+02:00",
+  "mentions": [
+   "glucksmann"
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "4b2bca7a3f1a48b5",
+  "outlet": "Le Figaro",
+  "lean": "droite",
+  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZ0hKYkIyM2JMeVlENW4xdlhCYlZVT3N1U3VjMFVrdks5WDhuNzNham5aVUdKMkI2MWRGRk9nOVlaN29pQjFnWktCbllycFZsS0VVY0FFM2lOUldGanZDSEFXTzZCMFRRRnkxcWs3UmdTY3lVVGdJcWh1VEV1U1BnLU1kU250Q3l6X1c2RXlOQ1dEQWxpMTh6ZF9LN3BlRzhWS1pBTWoxeDdyb1o0WHhxenlWbXNiNVhFWjFnUlNfOGU?oc=5",
+  "title": "« Tu vas rentrer chez toi ! » : en Bretagne, Jean-Luc Mélenchon charge Édouard Philippe et son projet « néolibéral »",
+  "summary": "",
+  "published": "2026-07-14T09:00+02:00",
+  "mentions": [
+   "melenchon",
+   "philippe"
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": 1,
+    "frame": "programme"
+   },
+   {
+    "id": "philippe",
+    "tone": -1,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "6072be6e9b35864c",
+  "outlet": "franceinfo",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQeF93cnpKN0xiTDRLVHV1LWJqXzdTNXpMVFdPekhuNGlUeFYwOHNMM01uVzBtMi0waDZBbFpwSXF6cTJJSGo5SG9pZkhLM1lJc1MzWlo0dU5UREZpMGlnSi0zVEhTWmlObkdIYi00eV8xbVRSQUJzT3FEb3hHalhMaHRuU1gxN1RFMDhFT0dzc3daS0F5OWZqUDZaQjUtb2NUYVFNTzltbWM1RXZMY1kxNjJJdTlWUXRYSko1YnlMTnZkeGdfbGtFZVZBOWRHNzhlakc1R3pfejVKVGVQamJzQ3R1cXhCRFNVM3YyNFdEV2xkSGV5VTNMQ1QtcnNzUUw0Xzl3STlreUpCbUZ6RzhtMWtaTV95MEhYclVaVFJIZWZUMEVGd2U4NUxLSWNTNXFLb2c?oc=5",
+  "title": "VRAI OU FAUX. Le gouvernement Attal a-t-il coupé dans le budget de la sécurité civile, entraînant l'annulation de la commande de deux Canadair",
+  "summary": "",
+  "published": "2026-07-14T09:00+02:00",
+  "mentions": [
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "6605c45279319768",
+  "outlet": "Valeurs actuelles",
+  "lean": "droite",
+  "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZHlOY2VxbkZ6QXY0dzlqUmFjMFotalJuMkJvejhBTWtkNjJ6MlpibTJBWEVDU0k3Q1U1SHdLMHd1Skplb3Q1emtrd1hnLWZGbTcycHJUeDZqckRBVXZhcTltRzdTU1V4ZEFLdmFnTzl0eTFIekZKRXpWaTFqenNpNGhPei05bU4xc2NicjRsMVFJMFZDNkFzSlpzb3dIZ195VVBEcmU4Zl9kSEt5SXJCNHVCNFV1dTNSYUlYVXcxQWtLUUdzTWdhYmViajBCcHR5YXZZU05WZFBWLTFab2cxTw?oc=5",
+  "title": "Incendies : Jean-Luc Mélenchon fustige « la stupidité du capitalisme »",
+  "summary": "",
+  "published": "2026-07-14T09:00+02:00",
+  "mentions": [
+   "melenchon"
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": 1,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "70e574aebb358abc",
+  "outlet": "parismatch.com",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPcTl0WHVPOW93MUJxWm1sWHdlSXJlYzZ3bVZlZnRPVkxpTXFuVFpSeHlmV2NrVEJwT3ZQaWoxcU42b09XTzlVWHZFZk8wRXhfQVBzSzBDb2VocFoyb2gyOUN0azJvRS1IVk9CWFUwNXh5VTZrUEI5b21RemhGbUVxdmJWeDZwUHM3bEh4YVRrR2V1eXhDdEdQOXBXZGkwcWVITGtBZFc5ZHlEMG91SzhsZ3pjaktRMlRaTHM1S1Q1RTl0LTd1TkZSemN6RXNma1dqSVdXaUpsaW9CZnBTd0ZCem5R?oc=5",
+  "title": "Le bond de la « tortue » Hollande et du « lièvre » Mélenchon, la chute de Glucksmann... Les leçons du baromètre",
+  "summary": "",
+  "published": "2026-07-14T09:00+02:00",
+  "mentions": [
+   "melenchon",
+   "glucksmann"
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": 0,
+    "frame": "sondage_dynamique"
+   },
+   {
+    "id": "glucksmann",
+    "tone": -1,
+    "frame": "sondage_dynamique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "9103dd4def068853",
+  "outlet": "Actu.fr",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOYk9iWnhUc3g5NEtYWVZBb1JXcnc4S25ENHdmN19ObVhwenl2NENRTy1QeExNT19XaHlRQllvY3B4VWljSXVpaUlVTjJMYUViZTVyQm1jQlIxSHFkS2k2d0tMa0VIRk1mb2pRNUdjdjYwQ2NndW5RV2txQU04YmItVzZwdzY4ZmY0MVpwZHY1Z0xfQzRrbVF3OFFoRGZNNkxYNzFYNjVmVnRSdlFPOGNuR0RBTjdFcmFfazkweTFlaGZwOWlidTd1emVULUt3ZGJMTDJieDJyN2ZnbDhWYWpwdGJhMjE1dw?oc=5",
+  "title": "Près de Nantes, François Ruffin anime une rencontre... dans une étable : « c'est ma première fois »",
+  "summary": "",
+  "published": "2026-07-14T09:00+02:00",
+  "mentions": [
+   "ruffin"
+  ],
+  "analysis": [
+   {
+    "id": "ruffin",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "92a1c6f725090615",
+  "outlet": "La Gazette France",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPY28yQW1WM0EzdHZLSUJPdUo5cHc2YlRvcnZHMkRHQjNlbFo2Q3ExVTlMYXRsQXdWSGw4UFBsdVR5NTJjR0tncGFqbTZJZUJSM29BWU15ZnprdUZVX2ZhNnlHSGkwLVVqN3EwWE03SEJBSVVMX1JSWTM1cjc1QjVXSG5yNFBsdm9wVl8wYjFNakFud2lkd2FySTJvbjFzS29ZRnRVUUktdUw4WlEwTTJfTndmMzZEekRRRFNZ?oc=5",
+  "title": "Pour Mélenchon, les incendies sont une conséquence de \"la stupidité du capitalisme\"",
+  "summary": "",
+  "published": "2026-07-14T09:00+02:00",
+  "mentions": [
+   "melenchon"
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": 1,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "973cbc4f4eadd85d",
+  "outlet": "lamanchelibre.fr",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPU0ZTZXZTNmZlZUhJLU5LX3VDWDBqUE15WTJOWWdkM0pBa2gtdjZISHBCRXg3d3hRc1BLV2NIdDkwSnc5dXd3OGhpYXdFTEtYV1BYVU5mVWc4eFA1V2VRTGtFeV8yMWx5UDVWTWd1Rml5OTFaOV8wVm00dV85bERHajJZY3NzZHJ0VnJwV25fS0tYWkM2S29HTGRJeU5jNFhQQmYycE1kRGZRMVFtSkhMaQ?oc=5",
+  "title": "Manche. François Ruffin fait un entretien d'embauche sur la plage",
+  "summary": "",
+  "published": "2026-07-14T09:00+02:00",
+  "mentions": [
+   "ruffin"
+  ],
+  "analysis": [
+   {
+    "id": "ruffin",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "9d826f5e3656839e",
+  "outlet": "Le HuffPost",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPMlZHT1VUQnlCUnUxV3BwSlQ0NVBYcVgtdmFCa1hXZTR1cGFGMVVQZGNpNkFEWUNRS3JEaXFtTWFkdFotZ1FXRjlxRUdZLWt6a2JpdkFWRl9PTEFMWXQ4dU4taWgyV2ZRNTVyQUNvb05Ha05sakhhLU1INFZfNjdIamtLWXZWZHB4OGZ5S3h5cnhjbnUxdjBPZ0VUcnlaMmlHZXY5bnlRQldaZGV6dno5bTRKQXVQYkkwckFZTTNhcThfSW9DTmZUeFRLNVE5Uml3TGRwQWUzX3FrY2d6cUZZbGhfdGdNbWNGSFE?oc=5",
+  "title": "Le titre du livre de Jérôme Guedj, député PS et ex-proche de Jean-Luc Mélenchon, risque de ne pas plaire à LFI",
+  "summary": "",
+  "published": "2026-07-14T09:00+02:00",
+  "mentions": [
+   "melenchon"
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": 0,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "ab5dffa9fa0c3b0a",
+  "outlet": "Presse Agence",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRHgxSlVjZ0tEbmhoN25nMmdLQTdFQ01wUHNYeDRmYldVV1BfNW1FcjdxRFI3ZDJIcW0zTUkxeDZFYUlaZjVCZXFHZ0hVdEo5Yng5TlNyM2pNUTE2WU45VEdYRVhtUjkzbE5QTDVWcURqVnh4dWxlMENHUnFBMFR1aDFwNDdhQnk0RVpkTnFzdHpKWGNRaVBxNnVSdE1xVVlaeEVJYkxSaXpwLWp2ODdR?oc=5",
+  "title": "Gabriel Attal attendu à Nevers pour le Tour de France",
+  "summary": "",
+  "published": "2026-07-14T09:00+02:00",
+  "mentions": [
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "b2a244061e59e0fb",
+  "outlet": "Le HuffPost",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVjQxTGFJWkFZeHV0dzA2Q1JCdXZNTkx2ODlybjdsVEZuaWJVTGdYTFB6bXAwVHl0VFVyZ1ZKOFdRRzktZ1NaMGdJay1jOUtjSkRUOUVnenhaNnpTcEt2Vll2S0NiOW9HbDl0alhQczZHYU5Ec0RrZS1KbXZsRWxvcWFtOFRoOWJLMHVLR19mR3Z0d29CVklXaEtZMDF6MllWbjktb19ZT2RGSEJTMXBnRFZ2ckZ0V3dVNnh5U0pKM3VtTmxoeENMWUl1S0xWLXRTWmRZ?oc=5",
+  "title": "Le manque de Canadair vire à la bataille politique entre Gabriel Attal et LFI",
+  "summary": "",
+  "published": "2026-07-14T09:00+02:00",
+  "mentions": [
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": -1,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "b49fc29502fe8ec8",
+  "outlet": "Le Temps",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaHhRM1pCSHZ3eVhDcVY0OWtjUkw3TU5LRlhpdmk4bFlyRkhKWF9DS1Q4bWpla2tKSWhCUDlxbXZyc2tvc2tPZi1tUVphVURXaEU3eUZ6RXl1czVadGlMSGdDRGpiNVVBVjQwV3R5VFI3SjFPVWVjMUkwb0RjdmhSWjItTW1VTmRoZHZoUGZIaFBPN2JQelNWaENocmpwbG9tRGNieUQyZzZYaEJBQlIwNzZORV9fZWdSLXNjSFFxOG9UVzQ?oc=5",
+  "title": "François Ruffin: «Le Tour de France, c’est Pogačar et Seixas, mais aussi Rémi, Alain et Nadine",
+  "summary": "",
+  "published": "2026-07-14T09:00+02:00",
+  "mentions": [
+   "ruffin"
+  ],
+  "analysis": [
+   {
+    "id": "ruffin",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "e23869fc9e642984",
+  "outlet": "La Croix",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxObGN1SFhxc2dOdzMwdV9zN1l1cFlwUjdjczJjOWZ6M0RTb19zU01vMWpDSnpLYU0zUTk2ZGxycC11blBLY2JoWFNNcFViU3l0ZUNiZzBuUlN0UDlMalIxdWdqQ0twc0tBemFjbjVEVWd6NmlIeDh3eW9zUWpDRi0yR1dCXzBEb0pNN3l2a2RSdldITmY2VGc5TTlod3VzWFBxMFhoR0pzd09nY2RzTGFCdUhTdDh6NTdfOVZYSldaNDlBQ1dNWXk5Q051aXBzdXFkaXc?oc=5",
+  "title": "Présidentielle 2027 : François Ruffin veut tracer sa voie entre « les trop mous et les trop fous »",
+  "summary": "",
+  "published": "2026-07-14T09:00+02:00",
+  "mentions": [
+   "ruffin"
+  ],
+  "analysis": [
+   {
+    "id": "ruffin",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "e3ec29068ab76441",
+  "outlet": "franceinfo",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQNEZlcFQ5NnVXdFVwR2p2dDhfWWk4UFZfMEYzTzBMV3hhSGY5cWNwX0x3S0lUX1VpaFYxSVc0ZS1kZ1ctWHFBUFpjWkdQbFdXV3FjUzFfNi12UmV1YTBIbElaaVlxLWF3VXN3eVFHUUoyMzZ6V1JwdWVCZHh4a3p2NHRuQkxEcGpZYkpqbEpxMFR6ZV9lcy1JYzI3Q3V6MXZ3dGpPaVNmSFhVeVdiYVM4Si1wdXkyU3FuN1lZWjNYSVB4SHg2bWd2RlBxYXBHYzF5MWhaU2Q4cW1tdzRGV0Zpd3kwZFcxM2tEV2c?oc=5",
+  "title": "Édito. Comment les candidats à la présidentielle occupent le terrain en ce 14-Juillet",
+  "summary": "",
+  "published": "2026-07-14T09:00+02:00",
+  "mentions": []
+ },
+ {
+  "id": "e5574ada99585c53",
+  "outlet": "Ouest-France",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOYkxxVlZiekJaOFBqdlpXdTA5b3lMeHV4bDZvUEU5c05YNVJVbXh4T241Wkt0UTZkN1hvbEZqeGhFeWZzUUJzWmxEd25ZQ2tWMDgzUllsemZkd2tUTW5IT2dBLWhUdnBBeXQxMWs3Y1kzQzJLU1d5endJbU10R1pnckotZGNlbmU4UFFPcjk1aW1Ta2VwTG1GbXNEWkI5SWFBOS1VNGhLeEpzX2pWREJUS0RzSmZkT0NuVzdBdmx2ODA3NWdJT3BMOHlTTGl0VFQ2eHhLT1BmNkY3Z25SVXJHc0ZlX0hmeV8yNXlQNEtEWlh5ZXBVcC1r?oc=5",
+  "title": "Fête nationale : Bruno Retailleau à Saint-Gilles-Croix-de-Vie, une présence aux allures de campagne électorale",
+  "summary": "",
+  "published": "2026-07-14T09:00+02:00",
+  "mentions": [
+   "retailleau"
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "f6848423a9d8cf6a",
+  "outlet": "Ouest-France",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSEJZaDc0WUwyeFpQNElJQTZheXJ6V0pleHJDNndmMmJ6cXJvdWtuRGtEbTZBWll4aEpkczBMbVVHMEQ1Z182ck5ydXMxTHhBem85RW1lZFRzUk9LN2RwVzhtclhGZ0czSTdETE5rY1l3Q2xQVVA4ei0tQTFCS3U4bDZKamd2c1JnUzV0Zno3U3NRXzVYY1dvYUE3bDlnVjZnODFMOFhjMVh6UXZZZEdORnBXdDVBd2hBbEh1blNqZl9UYTlYcElJaFl3Sk45SDNaanE4V3JJS00?oc=5",
+  "title": "VIDÉO. Jean-Luc Mélenchon était en meeting en Bretagne ce 14 juillet",
+  "summary": "",
+  "published": "2026-07-14T09:00+02:00",
+  "mentions": [
+   "melenchon"
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  }
 ]

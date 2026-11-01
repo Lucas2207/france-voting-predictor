@@ -17,6 +17,7 @@ ARTICLES_DIR = Path("data/articles")
 USER_AGENT = "Mozilla/5.0 (compatible; france-elections-predictor/1.0)"
 SUMMARY_MAX = 600
 SEARCH_URL = "https://news.google.com/rss/search"
+INTERVIEW_TERMS = '(interview OR invité OR entretien)'
 
 
 def month_windows(start, today):
@@ -89,13 +90,15 @@ def lean_by_outlet(feeds):
 def fetch_candidate_search(candidates, leans, start, today):
     """Articles qui citent chaque candidat depuis `start`, via Google Actualités (couvre les sites sans flux RSS).
 
-    Une requête par candidat et par mois. Le média d'origine est lu dans la source de chaque article.
+    Par candidat et par mois : une requête sur le nom seul, et une requête élargie aux interviews
+    (« interview », « invité », « entretien »). Le média d'origine est lu dans la source de chaque article.
     Retourne (articles, état).
     """
     now = datetime.now(PARIS)
     articles, errors, total = [], 0, 0
-    queries = [(c, f'"{c["name"]}" after:{a.isoformat()} before:{b.isoformat()}')
-               for c in candidates for a, b in month_windows(start, today)]
+    queries = [(c, f'"{c["name"]}"{extra} after:{a.isoformat()} before:{b.isoformat()}')
+               for c in candidates for a, b in month_windows(start, today)
+               for extra in ("", f" {INTERVIEW_TERMS}")]
     for c, query in queries:
         total += 1
         url = f"{SEARCH_URL}?q={quote(query)}&hl=fr&gl=FR&ceid=FR:fr"

@@ -1,39 +1,63 @@
 [
  {
-  "id": "8e652ca66af9bdc8",
-  "outlet": "TF1 Info",
+  "id": "02c738937b82165b",
+  "outlet": "Le HuffPost",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPSmdTdlJsVnpSZF9Pb0ZqMXQzdnpTc08yZFVxWHZPdnlYazFHQkI4YjVIaUN5U1NSSU5NcXpSTWxJWVkzN0tQZTM1MDlVX1V4T0VpS2twUC0zVjhaQllOUk4ySzJyaWFjM1lWdEVFcmltak4wTmQ4ZFFFdmVySFVNMVBZRk5OcmJhQW5oRG1XTVhpSzVTUldZZ1ViSWF0QUxudGlIcDNHVmttUUI3Rnk3SGdxTzNtckJlb2x4am93dnZJc3loenc5WHlPdHpENXMzS3lUTkdkV0NnSG9KcF9odg?oc=5",
-  "title": "Présidentielle 2027 : \"Route Nationale\" avec Édouard Philippe",
+  "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQWHEtMHBGVDZJQjdzVFp4X0Q1eF83RjRPNDh2S0UxSjcyMld6QUdIc29GVkhyYUp1ZXNmQ2ZIWmlheVJIUUFTNDItaEMzQnRSQWtwUnVXdVA2MnB3cmVJTFdRek9ZSWNZMnZLZUh2R1huNlJiX280VWx1SjFBSU5JWU9oeXhJZHRPT25acjNWSHc0RHVZUHBpY05rblRhb3RlaEl0bmZjS3FzLVBPNW1OTG5uc3dIeHBETjhfVUVUT2MzSG56TjV1N3J4MlFUTDJmbUxCc2dFUWtOT3lJTHJSbTVDSDNVQlUtWDdoUWo2RQ?oc=5",
+  "title": "L’appel de Gabriel Attal à une large coalition fait déjà pschitt (à droite comme à gauche)",
   "summary": "",
   "published": "2026-10-04T09:00+02:00",
   "mentions": [
-   "philippe"
-  ]
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": -1,
+    "frame": "sondage_dynamique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "49c774c54dc704e7",
+  "id": "03551eeb969c6d91",
   "outlet": "Sud Ouest",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZld6SmQtZWluNThDMzFXT2RmeTdkMEIwSkhQSVloUW1OV1hBMWlnUFViTk9XRHB4bC1oR3RLM1B0aWwza2dmXzVQdEQ3YnVWS1MyWms3QVBWWEVrMlk4NktmQWJMZWlBckxQb0NVUDhGVS0tbnpwVUxmbDNpOENrWUxEc0pPNlhxbEowOVZ4dHlaZ1U3eVpVZHd4dmotNlBCR0U1QlRFT3ctV2JjRXBpUHA3ZHhLa2hrZld0VXpCNElVaGp5TWFRUG9Ob2wtZ093U0Uw?oc=5",
-  "title": "Présidentielle 2027 : Édouard Philippe, l’homme qui ne voulait pas « faire rêver »",
+  "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQR1pMY1hvQUhTLXNoS01tRVlrUE1xV1l5eThWSmhaOXhPazlNcWZMUlJiWEdpYUI4cENOMzhSSHVjMTBvTTlqOXpIbnhWY1hZd18wMU02eGdUNmRxbHUyTERJcl9KWGZPdDhvc2VpcGxfRFZzSHUxZXl3NWdLbWFQQkhUbWJWY2xudUJGWVp0S2lNM1JqU3hjS1l0eV8yRVBPMHdqcGxyemRJZHF0ZWRXMEl3Y29Yd3JoMXpBYlE3NmVzOXpqX2pzZWNoa1JFMzZQR3ktb3duLVdTUQ?oc=5",
+  "title": "Mobilisation des lycéens : Fabien Roussel appelle à soutenir les jeunes pour éviter les violences",
   "summary": "",
   "published": "2026-10-04T09:00+02:00",
   "mentions": [
-   "philippe"
-  ]
+   "roussel"
+  ],
+  "analysis": [
+   {
+    "id": "roussel",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "299c8459f723d0ea",
-  "outlet": "lejdd.fr",
+  "id": "0d18313dd2dfe119",
+  "outlet": "BFM",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcTBEQmlLMXNJMVl0cXVpTTFFTDY5MUdGZHo3WUNPVUMyUVNIcDRsc0IyVjVQQzZqTHFnd0daYnd5WVByc3BFRE5idDNzZmZoS1hBbWhWSW0tVmpCckR6RldnRWdBS3o5YU43Ry1uaEozUXhwR3BqTklPeG8yWFpXZ1M3allwLU1WaFN1NEt1R1BDMWZxWTUyTEVB?oc=5",
-  "title": "Édouard Philippe : une pâle campagne qui instille le doute",
+  "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxQakhldklteXYyX3dMRHZmQlhtX0FpRW1LcWxYNXRhZHpyOXFPR1BIOS04ZXl1YTVIeEJCZ1FUeVZBeTRsMzVDNEQ5RkdPeDAxYnBobFV4bndleWdqSXNEUUVoeVJBLWtGZ21WcmNsd25sRFkwOHNUS2JxS0l3MDZSQThEb25idGtTaHVTa3BOSFdaQU9qbjdLaVRGNlNzQS01OFFlc3hoR0ozZWxfWFk4cnZJemZxODB3OWRCWDI5Z3FpcjZVaDRhT0ZMNXZSUmlINHNlWklsQWxSamdaM0RfRXRQZjRJZ1ByZEUwRUVBTkFia0lPaWVTbzU2bVVMSXdkczNBRmJqUWppdjY0bVI3UnZ1a1VzYTdDR1FHYnhPQi1UajlNVktGeXlRdWhaa0hxeExkVnJTODRSNHlXTnllRlROT0JpTFlkSmVrRlB6VW1CZXNkc0p1Vk01eHVsY2xYczlOQ1VqQTlVLWtETUdtWTFSSVA2cmlQNDRwTG9IT1Q?oc=5",
+  "title": "Violences en marge des mobilisations lycéennes: \"On devrait avoir une politique de maintien de l'ordre qui protège notre jeunesse\", affirme Fabien Roussel, candidat PCF à la présidentielle",
   "summary": "",
   "published": "2026-10-04T09:00+02:00",
   "mentions": [
-   "philippe"
-  ]
+   "roussel"
+  ],
+  "analysis": [
+   {
+    "id": "roussel",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "0da76e9792c9216c",
@@ -47,116 +71,15 @@
    "lepen",
    "melenchon",
    "glucksmann"
-  ]
- },
- {
-  "id": "89fead5765d47e33",
-  "outlet": "franceinfo",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNLTY5LXJ5blpqUzdIbnZ5YUR6dmQ4eWdob09hWmdlbnktTjV4SHBlRVdjZVNSMEY3bFE3TFJmTTVieWZBUFBRVklULTd0UVloSDVIRnRVd09FVl9Tbi1FdW1mVk40aWE4dHlISGVaS3R4anNFc2FDcF9leGZvaUwwSEZrZG45akN4b1BUZGl2Z2MyV0R0V0d1MFpFbk5JWGh6S3U3T3pmeFh5c3FXSFByVjEtTTAtNWNDMmpaRlBTeGJtdk83eEdxcXE5VHJ2TjM3ZHlhQ3hRbXlmQzdVV2FDd3cxRFdNQQ?oc=5",
-  "title": "\"Même pas en rêve\" : le camp de Raphaël Glucksmann rejette la main tendue par Gabriel Attal",
-  "summary": "",
-  "published": "2026-10-04T09:00+02:00",
-  "mentions": [
-   "glucksmann",
-   "attal"
-  ]
- },
- {
-  "id": "ce73fe68f558185e",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQb3Y4UHFvSzcwX3hoMjdIWUNQN00tcUQ4LVZKbGgzMTI4V0prUjNZVFdwVzhHazhSZlUyM0RjY3I4dFNRTnVtZDhuYWNOZlpON0UtMVJnc04zM0s4b0JrbGI3cXBrY1lYd2tGQkVuVFlvTTUwc1hLTWx3b3FRa25MU3dhczZOTU90Y3pNaDZWMmY0M1J2eU5KT2h0OWU1dUhvc3BwZlFDc1lLaVhCNG5ycExCZXBuSFBTQzM0ZkZIRnl5c3ZSVklsd29CQ0RRRDdkNElacmdrQ1lLYkRPMFFVWGc3QW84VW81dGlYSXFkZWdPOHZlUUZCbEtISjA2VmxQeG9R?oc=5",
-  "title": "Fabien Roussel, candidat PCF à la présidentielle, s'exprime sur les mobilisations lycéennes",
-  "summary": "",
-  "published": "2026-10-04T09:00+02:00",
-  "mentions": [
-   "roussel"
-  ]
- },
- {
-  "id": "5edb8b2e6f7aa182",
-  "outlet": "Orange Actualités",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPM0ZfZU96WG9Tc3FoNDlNU0VkNi1iN0RTQ3VfV3dkTk9RY2x4VnVJS1Npc0Z3aUtiSE1SSGc3RHZFQVEyRk00WkZaM3BJUGZYNVVRb0t1Um5iUHRHdFg1SWFuRm5PUkxuU09kMDU3ZW5sRHVzWldQSGFvbW1xQklCRFZQalE4dmszSmtndzBJMmJGdloteWl5RmRFNVUxY013RzNGTm9vZ2dVeldvZERZQm9KLThYLTUzOFR2QW5NcWV4Nlp3NDFrUmQya1JVTXc0Zk12S1VYZUJXUWhHMkZtWFRSVnFsRmRtVmtlNlZxamhfQS1CWTlJMUJ6WUNsa0NFVUQ4RkIwa3VVdlZoTUFITWFmMmpndExM?oc=5",
-  "title": "Présidentielle 2027 : Fabien Roussel assure qu'il ne se désistera \"jamais\" et mise malgré tout sur une gauche qualifiée au second tour",
-  "summary": "",
-  "published": "2026-10-04T09:00+02:00",
-  "mentions": [
-   "roussel"
-  ]
- },
- {
-  "id": "206eff48bd915a2d",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxOMTBLYUZKVXItWW1hRzBtM0hiV0EycmNOc2hhejVqUWZoby1SV0tqUUJJTENkSEp2dDdZa3NjTWlwV2NHSjFjOWFNdk5ocW5Sd2NPZWtjQ29YQ24tZENYNUg0SGRYOVQ0SUdvVGNTSG1JUTRMN2FaZVFyckpqNzJRbW1lRmpYWjlFREhxZDZRT1ZJbUlxLUFRMU1qWFU3VkRfODlMSU03RWw2TWtobHEyUUFwbVhqWnc4bGFZX0FocWlINFdtSnU2WUJOSDVGaEQ2WE9Da1VjMldGa3hFdVpvUzlBVVQycE9qb1VXVUFCRzRVMnZ3U0N3RGgwZkZsaEpfTDE3TkJZejc3QW5kYlNwVXBQMnIyMmJrRmZTaTJKUE9ybzFuUVpMVTg5N0xQTzVtR3hmZ3BFTW9UTDdoUl84bmdUd1k1NkY5?oc=5",
-  "title": "Colère des lycéens: Fabien Roussel soutient qu'\"aucune violence n'est légitime\" et dénonce \"une politique de maintien de l'ordre qui n'est pas adaptée\"",
-  "summary": "",
-  "published": "2026-10-04T09:00+02:00",
-  "mentions": [
-   "roussel"
-  ]
- },
- {
-  "id": "5c99331b797eee7c",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPV0RWdUV4T0dPMDQycHYteHdFc2tJSWdqNG1aSVBHaC1mV0lIVkc3QlRTWnViSDAzWGdoSEpNcU9MT3prMEhEOGNZRzdzbE9YSUp1b2V0MWpDZzlJY0hRTEJHVEJrTnZLUHFqNldkdVBSUXg0U2l6VEtpS0I2bVBsbjVHc0dnOHlCTUJ3Sm4wVnBlbEUzNzl2Zkg4bWMtZUJuWjBSSllfZzNBd2lJYjk4d2hXazV3MXJacEpUeVpTSWJhN0U0RzZ2UThTVzFQN0VqYl9uN21keHlYQm5udXhEeWtWZ25jQWNBLXMwNjNMVE14U0dCWFBlZF9SbTk5WjhhU2FFUnJwa1FFUlJ1b2QtT0dJNDV0WmNHS3c?oc=5",
-  "title": "Présidentielle 2027: Fabien Roussel déclare que \"jamais\" il ne se retirera au profit d'une autre formation politique",
-  "summary": "",
-  "published": "2026-10-04T09:00+02:00",
-  "mentions": [
-   "roussel"
-  ]
- },
- {
-  "id": "8b11b217f825cd46",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxQbEFSeXFaSGRxNl93N1p0UE1zOE1MajlScHhoZmtIM09vakk4T21yTUVuNlVpenlWZjJZMlFRbXVYSHRPVnpwWmZYcjBqb3dpNjZVdWxZTVNpclZDby1STjZoNjZRcGNXdHhUdDF1dk81WFNqbVFnSjNYWU1lTGFZei1JQW1YSE1FdV9lRDBQN3BWanJJd2NQRW9OMlJLQVNWTUh0aE93cGZKYUF3SkJPQXByY1M0WW1SZFhtbmdiU0Exbl9LMXVkRERHeTVfM3ptR0g2NXMwMVhOanhIc2ctcXpGRjdYcW45X0hXSm1rZEJQT21senlSNFlxV1ZlVm1IdFlZWlhLV2FaY2E4YldlLVc5X0k5SVZYRkdmOUhKa0xtSHZvcElqcXQ2Rkx2ZDFPUm5ZdGJ2QlBwb0R2Uk4wVEQ1S3Z2eTFlbXptTXJKT19WQlJf?oc=5",
-  "title": "Colère des lycéens: Fabien Roussel, candidat PCF à la présidentielle, appelle les jeunes à remplir \"des cahiers de doléances\" et le gouvernement à \"entendre\"",
-  "summary": "",
-  "published": "2026-10-04T09:00+02:00",
-  "mentions": [
-   "roussel"
-  ]
- },
- {
-  "id": "2b6481ebbc28840a",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQUZuT1F3X3F4Y3lkY3RKaDFrWGlxa3RVMVFnRVpveWVnTElUQ3hNaEhtalR1c25NMkRrMF92U1JGbFV4UGc5MjYySUlwUU9ZT0hXMVBDdEZaZVZyMG1sRTVLTkdwWDJVU0ZmSVdQNkxmNWM1MEZCdXNqM283X3doaUdPOXBwNGxucU93NjhTZDB2aHlHeDhONG9MTllIS284TFVV?oc=5",
-  "title": "Invité : Fabien Roussel",
-  "summary": "",
-  "published": "2026-10-04T09:00+02:00",
-  "mentions": [
-   "roussel"
-  ]
- },
- {
-  "id": "4e2826b343cdbc2b",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxPcGVILWRwcVZ4YmtjQmdHV1IyTjRHZ1ZfbnZaSGlrajVKVEpqNzZYT1pqQ2Z3WXRrdzZHR0tIVW0xTk04Z2p5YWlMbmFVV2F6RnBsZWRBZk9XaUZSQTlmYk1ZOGNIRUd5RUZzck9nZnAxYTdmbm1BRkloTlVGR3VKdXEzQTl6RVFTMzNhVVlsZzItemhTSTVxdlFlYXEtQjJKZkpfTDdVODJPcW1TU2JVRUZUWDRKUHd1RUZUdmR2WndVMUdvNjFyVTRoY2czanVCUWhxc0VDRlI5b2gzRG80UzhNU1AyekpjaGtkQVNuVEcxNmNLQUJNSWM5M3V3RGFxaFgtQmVMQVBZWXhqRnZlNl9PYmI3NzdOWndFWDFxMURjQktHSmFNLW1INVh1d3FRa3Iya1RsNV9IRGNTWTFjb1I5Z3dvMVBCdjZwUE1aT09URFZ3V3NneQ?oc=5",
-  "title": "LA MINUTE PRÉSIDENTIELLE - S'il était élu président, Fabien Roussel appellerait \"en premier le chancelier allemand pour échanger du travail à faire en commun\"",
-  "summary": "",
-  "published": "2026-10-04T09:00+02:00",
-  "mentions": [
-   "roussel"
-  ]
- },
- {
-  "id": "698463f003086f40",
-  "outlet": "Libération",
-  "lean": "centre-gauche",
-  "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxON2NxZUQ1ZEpGSndEU2pyYTdCTktGamdzc09YWnExblpiRVhMcHFzelRaQWFEdXlKTGx1RmxGRUt6eTFaUnY0X3M4TXZ4eDdySHFjSGNpOTYxXzMwMWsybUM0dHg4ZGVUbGkyRWZZakw5VklUZjdHaS1Bd3lqdGFicWl0Z0szZWNLOVNQczdLaFFTeGx1djloSzg4TVdKeWltS3l3RTh1eV93UFhrdHZRTXFoLVNpbUVPekgyYmFubW9BT1h5ZXFPVjRocERvbDFnV1dZUkNyRnNkS215YmE4VTB5TWxLS0w4b3habjZpbWYyNlRUS2VyRXhrSWNYTTJ0Z2c?oc=5",
-  "title": "Mobilisation lycéenne : Fabien Roussel appelle les organisations de jeunesse à «sécuriser les parcours",
-  "summary": "",
-  "published": "2026-10-04T09:00+02:00",
-  "mentions": [
-   "roussel"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": 0,
+    "frame": "justice_affaires"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "142375727e77bad8",
@@ -168,103 +91,175 @@
   "published": "2026-10-04T09:00+02:00",
   "mentions": [
    "roussel"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "roussel",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "03551eeb969c6d91",
-  "outlet": "Sud Ouest",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQR1pMY1hvQUhTLXNoS01tRVlrUE1xV1l5eThWSmhaOXhPazlNcWZMUlJiWEdpYUI4cENOMzhSSHVjMTBvTTlqOXpIbnhWY1hZd18wMU02eGdUNmRxbHUyTERJcl9KWGZPdDhvc2VpcGxfRFZzSHUxZXl3NWdLbWFQQkhUbWJWY2xudUJGWVp0S2lNM1JqU3hjS1l0eV8yRVBPMHdqcGxyemRJZHF0ZWRXMEl3Y29Yd3JoMXpBYlE3NmVzOXpqX2pzZWNoa1JFMzZQR3ktb3duLVdTUQ?oc=5",
-  "title": "Mobilisation des lycéens : Fabien Roussel appelle à soutenir les jeunes pour éviter les violences",
-  "summary": "",
-  "published": "2026-10-04T09:00+02:00",
-  "mentions": [
-   "roussel"
-  ]
- },
- {
-  "id": "61b873f502fe5663",
+  "id": "148dd4ce57588faf",
   "outlet": "BFM",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNTVpsQVVTSE9wUHBURDZSNXNiX1VtVmZjSno5bXhTMVFSWUM2U19rbEd0Tmp6ZlRkbk5keXZMVGhxTmFwbE15UWlGRHZRajJidk5yc1FtRkJWUzVLSHFrZzBmZ2l2WTRjUkZJbjNBa0hudm1aT1ROM0gtQTAwUmpEZGJzcWV5M2dkYW1aSG5KSXZOMnNWOHhBbS1JUnNvTS1yanpYOWMzdF9uckVITUhvRjhZMkgxRVBLRUJCT0JBMWZ3TGlSNG5CRmNqcnFwNzlhb2kzbU9YQjZpUTdjYlRvdk13czhNdFUwdENCR1Z0TGhVVWtreGs0ZFNsdFROZ09CVGI3NGdJMVpNaWdLVGNWM0ZMSTVBb0U5?oc=5",
-  "title": "Primaire socialiste: \"Ils ont des débats, c'est sain\", affirme Fabien Roussel, candidat PCF à la présidentielle",
+  "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxOelVGZGltSXdiQWppQmZHNmdrZm0wMndaNHR0ZDhVOHZ2T3I0NHRranFGSk9sYXd4YUI2NEdyMXpZX1NJb3ZKRW1nUklzQ1FUOHR6NGJabXctRVZKcVRLeUtUQW42UzFDRnNpZTAySzljNTI2SVhGcERBbko2cWJ0dmlMMjJadnNBd3pCMl9JZ1dRbzZOMXlkb0VzazFNck43VURSTTFzZ1AxNDFvaFRLRjZYOHlzbHZSVmdEX2V4MG4tZUlGZnk4QXhOYWZUNGI5Zmprc3BYRkJ6WFJMcG1hZTdrenZtZUpnclYtMUM5TUJmZjM2d3dEYUxBZzZqZ3ZuVlBrQk1wcDRuWFV6OEVvbnlITzktek10b1E5Zk9aUE0yN2xuWW1Gb0pmN1ZBTGFUaFJlbDVPQmZ4QTNvdzhBb2VxN2lzb25LWDdZZko5Zkg5X08wUGNNcEI5LTlQVlF0Qm9SSUUwWVhCaFFxSldGS2tLOUtITHRRTGF0S0Y4Z2ZhOXM?oc=5",
+  "title": "Propos antisémites attribués à Jordan Bardella: Fabien Roussel, candidat PCF à la présidentielle, demande à ce que les \"élus soient rendus inéligibles\" quand de \"tels propos ont été prononcés\"",
   "summary": "",
   "published": "2026-10-04T09:00+02:00",
   "mentions": [
    "roussel"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "roussel",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "61fda58e983e6c90",
+  "id": "176cedeb11c9ea02",
+  "outlet": "Sud Radio",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQVJtZ3UtNkRxa2J4WXZJWEdqaWxHbzM3bGlmTGw2bW54X2doa3dyOFJYNWVVcGVSTUx1c0pvb05NNnZfQm5TRkJuWGV0ME4wZkJhT0VLanQyNFJDM1VBYUdBRHdocW5KVlNRUkZXM3Z3VkZzSHJHLVRHZm5ocnpCU0pRVEpwaXFaWXlwaGJsRVZqTlRLVjVuYnNGbw?oc=5",
+  "title": "Fabien Roussel appelle à soutenir les lycéens en mobilisation",
+  "summary": "",
+  "published": "2026-10-04T09:00+02:00",
+  "mentions": [
+   "roussel"
+  ],
+  "analysis": [
+   {
+    "id": "roussel",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "206eff48bd915a2d",
   "outlet": "BFM",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxQa2ZtUlFBVlYxOW5DeW5OenN0Q1FqaWZQRXlLOEpVWlU1TllhZkI1ZDg1Rk1seTc1QlkxbWJiN2t4bzJqQkdvczRRVXdrdURmb3ByRnhfT2diMGxDaGhpMVVuS3lSbnMzQVZ1U0ZhQ0dnX3d6TWNYLXVsRGNQUGVIZjZMYVZzeDlieGlaRWw0ZGE2SkNLUUVuWjJKUXowS0ZaSkpfSVBfOENYcFBGek5MZ21ZclJRSVdmOUNKWlZlZVRqQVZCYnBtSzFQRElCSFJJYkdHeTkxRm81ZUY5THFXWl9KWjJJZWRMeVBWNGpIN3FWQzJKZlRYMHU4dEFmamotbUJKckh1eFo1MmtQU3BoVVF4Z1dZdW5fNXI2ZFFHelpOOWd5WmlNRWg5bmJXc2dlWF9yLVN3NWpuNXRIOUVNb0tTLXc2aGFSRzhKVHpqOGg3R044dWxUeXBwcVFMMXpRZTVv?oc=5",
-  "title": "Mobilisations lycéennes: \"Ceux qui sont à l'initiative de ces mouvements sont des organisations de jeunesse\", déclare Fabien Roussel, candidat PCF à la présidentielle",
+  "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxOMTBLYUZKVXItWW1hRzBtM0hiV0EycmNOc2hhejVqUWZoby1SV0tqUUJJTENkSEp2dDdZa3NjTWlwV2NHSjFjOWFNdk5ocW5Sd2NPZWtjQ29YQ24tZENYNUg0SGRYOVQ0SUdvVGNTSG1JUTRMN2FaZVFyckpqNzJRbW1lRmpYWjlFREhxZDZRT1ZJbUlxLUFRMU1qWFU3VkRfODlMSU03RWw2TWtobHEyUUFwbVhqWnc4bGFZX0FocWlINFdtSnU2WUJOSDVGaEQ2WE9Da1VjMldGa3hFdVpvUzlBVVQycE9qb1VXVUFCRzRVMnZ3U0N3RGgwZkZsaEpfTDE3TkJZejc3QW5kYlNwVXBQMnIyMmJrRmZTaTJKUE9ybzFuUVpMVTg5N0xQTzVtR3hmZ3BFTW9UTDdoUl84bmdUd1k1NkY5?oc=5",
+  "title": "Colère des lycéens: Fabien Roussel soutient qu'\"aucune violence n'est légitime\" et dénonce \"une politique de maintien de l'ordre qui n'est pas adaptée\"",
   "summary": "",
   "published": "2026-10-04T09:00+02:00",
   "mentions": [
    "roussel"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "roussel",
+    "tone": -1,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "80b73c49269e3c6f",
+  "id": "299c8459f723d0ea",
+  "outlet": "lejdd.fr",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcTBEQmlLMXNJMVl0cXVpTTFFTDY5MUdGZHo3WUNPVUMyUVNIcDRsc0IyVjVQQzZqTHFnd0daYnd5WVByc3BFRE5idDNzZmZoS1hBbWhWSW0tVmpCckR6RldnRWdBS3o5YU43Ry1uaEozUXhwR3BqTklPeG8yWFpXZ1M3allwLU1WaFN1NEt1R1BDMWZxWTUyTEVB?oc=5",
+  "title": "Édouard Philippe : une pâle campagne qui instille le doute",
+  "summary": "",
+  "published": "2026-10-04T09:00+02:00",
+  "mentions": [
+   "philippe"
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": -1,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "2b6481ebbc28840a",
   "outlet": "BFM",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxQSUM5dzlXVGZXOWgySDBrQ0dpMy1CZFY0akFLcnJWODZGeFZOejJkVWlHek01N1p0UExRMGt3YlZKZ3M1Vkk2cHdNU013WGRPRng5cDNiSlBLaGJMbDZ5d0VwMDYydGc1cDA3cXBPbDBVOHpnV3RBa0dHZzdaUkdKVzhqNU91dXRLWF91SE94UEM2NEE1SVFkY1U4VWtWZDlVcjdldFBPdzJOdUNOWVdsWVZ0bkZUc3p5UzZHa1hUY09WUjZMNWJwd0VfdU4zUkRyNHRVdC1UNGR1Z3ZUMW5FWVlsTEI2SjZya05WQ0kzSnBoa3kzTkN3cHpPTTZsVnpfd2pybDBnUHVKeGtvNWFNUFFxVFpULW02d3IwZ1NlRW9PSHpRdkN4RFJrTkRscHNjemZTWGxXYXlTUHduc05ocVR6dGZjRW1hdUE?oc=5",
-  "title": "Présidentielle: \"Jamais je ne me retirerai\" au profit d'une autre force à gauche, affirme Fabien Roussel, secrétaire national du PCF et candidat à l’élection présidentielle",
+  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQUZuT1F3X3F4Y3lkY3RKaDFrWGlxa3RVMVFnRVpveWVnTElUQ3hNaEhtalR1c25NMkRrMF92U1JGbFV4UGc5MjYySUlwUU9ZT0hXMVBDdEZaZVZyMG1sRTVLTkdwWDJVU0ZmSVdQNkxmNWM1MEZCdXNqM283X3doaUdPOXBwNGxucU93NjhTZDB2aHlHeDhONG9MTllIS284TFVV?oc=5",
+  "title": "Invité : Fabien Roussel",
   "summary": "",
   "published": "2026-10-04T09:00+02:00",
   "mentions": [
    "roussel"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "roussel",
+    "tone": 0,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "75a190659da99bf3",
+  "id": "2d1f296d1cc00f6b",
+  "outlet": "https://www.parlons-politique.fr/",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQTU94NVhRSVJRQ2g3bUNQUzV0dVpCOGJHSUZJZTdSVVlJRGYxMUpOOXgzUURBZ0E4WDVBblQ1d3picGJtT1JuLTc3S28yQ1BmSjZmbzRhNU9CcEdSM0g0ekVxY25iT000VVdVOFNndGlDN2xTbjVNcWhLMUpCeDhfLW9WcVVkUVVkR0NnY292RGJLMXAtamVBX2NWYWdxVFl0dVhXR3YyS0h3bnBmbHd6VzMxdlZGRFM5QS1tMjVrTS1mVEtXOXNITWN0Z3Rxbmh6bmhJbl9TRG5icTll?oc=5",
+  "title": "Présidentielle 2027 : le choix de Fabien Roussel peut-il redessiner le rapport de force à gauche ?",
+  "summary": "",
+  "published": "2026-10-04T09:00+02:00",
+  "mentions": [
+   "roussel"
+  ],
+  "analysis": [
+   {
+    "id": "roussel",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "3191cb5253e56c93",
+  "outlet": "Le Berry Républicain",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQcE5RNnBIbm1Ub0NLYkozemhUYl9WelNJRUNXOWRjZnpHMzU4blprZEdKZHdmZHljbDNUQ1lxMUtjREtBVDBRNUtfWU5fYnVZV0FWekU3YUJOd0Y4YURONVQzUVdjTURYTUtSZGZLbWtYUEw2bDBvYlpnVkVyMW11d3JVSVl6Yy11MjVlSmNaZGF3eGtWY2U0S3N5RkxtSF9RVUthanJ1dXBoNGdMcTBuQzE0NkgwY3ZrNnZMRktod3M3a1hsVUpXQldBaGVfdw?oc=5",
+  "title": "Gabriel Attal réunit 200 personnes à la brasserie Bos, ce dimanche à Bourges",
+  "summary": "",
+  "published": "2026-10-04T09:00+02:00",
+  "mentions": [
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "36a271a95cb05a6e",
   "outlet": "BFM",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPejEyVmdJYjNIV19sOVNWODRPTDZIUU9UWkM1dF9uUjhWakZpYURuaF9fOFVsQVhRREUtc1paLUc4TGh1VjE0VnNiM1VRWk16bndlX253MUZ3TEctS21OMk5zdktpUG9vWlpCeE9vUDczV3FDdy00bHVrNnJsUXh2OFlJaUZzdUp4NUlEZV9qOEQtVlU3YlVJcGpIVVRNaXQ0eWt0TWlLTy1ndmJGc0hYWFNnQ2dQRDVrNF9lbnJaQ0JYN0ZHbzRDM3ZjU2RRUHBQZi1uOG4zODFYYVo0UGNTTDgwX1kyT080d3hwUV85VGF2YjZYZkJYdEdBejRnRkZEczk1SXVzVVdma3NPdElSUm5ITjNhSHBLMkxKNXUxdE93LTBpYWMwaVJLeDkwT2pZWlE?oc=5",
-  "title": "Fabien Roussel, candidat PCF à la présidentielle: \"J'ai des différences avec le Parti socialiste comme avec La France insoumise\"",
+  "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxQSFJldUJSb0tpb3BuWlhfMGxkWlZWXzlCdjVkMXBHOU84Y3hWRDhkdlpDSFUzRm4xVU1hdGtkMVBtdF8yX1lkdml5dGFSN1hyWHRVUGRTMmt2NkRmX1lCR05VMlhRN0FHVTNTUnBaY294UUx3bUx3eTRzaVpWWFU4d21YR0tDcXZidmFyMHNqRnRydVdNNlk5VlZNc0ZRbUt6UXJuUVJiVXBGQTdRajdEbkJWNVJ0b3h4VjFud0oyc0FkSVFSRHJvUklwUlk4d3FYSXkzZlF2eUhOSEc5c0hGRnpYY19VaUNkTmRwekJGSUw4WnpyNmZVUnJYeUJGamdnQjlwWnN3bDVLWUQzNzdITkdUenNyUDhlc2tkZDdUcmgzWG51SWFHVDFWbFhaUlJtZU9GRlFSaVlMNzlEZUFENllLajZqdHp4eE1BSlpRRlYxcnNFSTcxTEVB?oc=5",
+  "title": "Prix des carburants: “On va laisser Total nous faire les poches”, déplore Fabien Roussel, candidat PCF à l’élection présidentielle, qui plaide pour une nationalisation de TotalEnergies.",
   "summary": "",
   "published": "2026-10-04T09:00+02:00",
   "mentions": [
    "roussel"
-  ]
- },
- {
-  "id": "599add81cccdf88d",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMimANBVV95cUxOUkZRaWNXU2Y3UUpaOHRfZTJDTkFGNUw4Z3ZZaHg2ck9IVWpxN1h1U0FDQ2tpSDNfNm52LUFmTS1wM2VGZU81TTcxd3VzM3FTeHR5b0t0aF91NEVrcTNXdlI3dHZxWE1mRlpQMDFyeGNjemNBNWtkYUk1OHhQNHIzNHNCVHk0QXhJdHNROXdienFFdXFWVzdPMEhzODIwa01nSElNWFdkSUV0UXlOcWlCeHZ3WVF4U3J5T2JTcjNpa0duaEUtaHI2NnVOZmwySmVXUWFKY1Jxbl9aYy1TYmIzUHF0RHZfMWJRN29YQUFRYUhrTWVkM1dITGh1aXdxcG5pMzFrWXptZVBOODJLTVVkbUM0a2xzQjhjNHJ3TTU3X0J3TGZ1SWF4NWpzWnkxN1BkRzZ2R2tOblNXbTVIY3djNmJwSUVNN1BLbEMtRElJYTZqMHlybHFnQXVpU21GekNZZUlMYWJnbTZLanFMeUlmcWxUSU56ZG5Lal84TWRNQkZGcWQtVTJGSFM0Qi1oMUpIdmh5WURYVC0?oc=5",
-  "title": "“Je mets en cause ses propos”, déclare Fabien Roussel, candidat PCF à la présidentielle, en réponse à Laurent Nuñez qui estime qu'il n'y a “pas d’interventions disproportionnées des forces de l’ordre” lors des mobilisations lycéennes",
-  "summary": "",
-  "published": "2026-10-04T09:00+02:00",
-  "mentions": [
-   "roussel"
-  ]
- },
- {
-  "id": "803ca62c708a99b8",
-  "outlet": "Le Dauphiné Libéré",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcHplQjZpS2hNbFJQYXlDRGJFR3Bsdm5pQjJOTFhLNXVzbDFlVExiWmJadGhzZFlHTnNCczY3OEMtTGVjbGh1Wm1ybEFYYVRPLTExUjZsUjdESERDU3pGNHppXy1pZEZvN2VnVUYwcnRJSVZSTFh3dHlHWDNMNzlzMmJrWHF2bGI3Y25EZll5LVhPU1BNcHBlejFuc3B6bzZYdWw2RXM1N2Z6eUNBcXNRVUVpYUNKR2dxOFZfbS1vRnItRWctZ3NVOWhBQUhaZ01MMmc?oc=5",
-  "title": "Élection présidentielle. Nicolas Dupont-Aignan, candidat à la présidentielle, attendu à Valence vendredi 16 octobre",
-  "summary": "",
-  "published": "2026-10-04T09:00+02:00",
-  "mentions": [
-   "dupontaignan"
-  ]
- },
- {
-  "id": "f3d415793884be1d",
-  "outlet": "Le Monde.fr",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQUGY3bEwxXy14N015VUlRQ01JQUVKTHdaRjk5aXBzbjlmQTh1Yl9ERkZPc2YyYld6N0RYVXZ6MUtUUUdTakxET1dwOWpCR1FUQkpwamprSzZHR25wVDlWU3d0VVFMQnl6ZXMtaUo3NTZ0T0lXM252TVlBeEtlempFWFBvb1p6YVNEZE1SZlIxVUp3UUdyZmVBRGs5RkU3U3Z2bXhnUDg0QmtCbVVjelB3d0RxclIzT3hBM1pWbEtJQkREcWtBLXRacklic0JVeG1OYV94ZmVzUk1FcmNINkFySk8weHlmS3ZfMGRGd1ptckFHUWtidE01Y2JXaUlJTUNkS1lR?oc=5",
-  "title": "Primaire de la gauche : Raphaël Glucksmann se dit « désolé » après ses propos « inélégants » sur Ségolène Royal",
-  "summary": "",
-  "published": "2026-10-04T09:00+02:00",
-  "mentions": [
-   "glucksmann"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "roussel",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "399e379dc6bb15ec",
@@ -276,7 +271,15 @@
   "published": "2026-10-04T09:00+02:00",
   "mentions": [
    "glucksmann"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "39c3c0775143afac",
@@ -290,43 +293,280 @@
    "lepen",
    "melenchon",
    "glucksmann"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": -1,
+    "frame": "polemique"
+   },
+   {
+    "id": "lepen",
+    "tone": -1,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "94baed024b8ab5c8",
-  "outlet": "Les Echos",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNT2wxYzJZbERyQ2F4YUlhUTN5eDJmQVl1R0dKN29xN0NrN1o3aWVnYmIzeXlhTDNneW80X3dVa1F0X0hoZHczXzVYeWkzNUEzdlh6RHFOLWRNNzgtbVkwbjUyeWNYaTVoaVdqelloWFNaZlY0YVhSN1dXVllvajBfc2xyVmpIU1VzdXY2TEFFTE1oNTZMVF9Zck1Fa25VYUJ6NXFXZmZlZzcxc0JiT2JGNmdMOVZCZTR2cV9DS1FBV0h0b09JYmhkeW1tVW5zbG0wY1pBd04xX2NGNjJmVlkzOWNVNA?oc=5",
-  "title": "Présidentielle 2027 : Gabriel Attal tente de reprendre la main en poussant l'idée d'une primaire",
+  "id": "4276a2f534ad419e",
+  "outlet": "Libération",
+  "lean": "centre-gauche",
+  "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNcVUxR0htenN3bmZ3WVVPTnFxUFRZODRRTzhoWDRFVTVKcDhXNXBLS2hfSDZFMzRnMVJDVFBiX0hEazBySmtBZG0zYjVjNVBUWWxHNzlOenMyWGxqVVNOazlvNlF2c1pYNWJsNzNCT3dndVZKeUpROUN2bjhvWUI5ZHV6eFh0MERmeGM0MFNhS1BBTFBCZ1BsZVA1ZHBrZjU1d0pERHAwS0VXelpqeWk2WjJ4TXZudEpiYnk4Z0JVUnA0ZXhDanRnZmctT0JMbXRDZzlpUVNpY21Ic0tjdHRVLTlwcUo?oc=5",
+  "title": "Bardella accusé d’antisémitisme : Marine Le Pen réaffirme «sa confiance en Jordan»",
   "summary": "",
   "published": "2026-10-04T09:00+02:00",
   "mentions": [
-   "attal"
-  ]
+   "lepen"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "02c738937b82165b",
-  "outlet": "Le HuffPost",
+  "id": "49c774c54dc704e7",
+  "outlet": "Sud Ouest",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQWHEtMHBGVDZJQjdzVFp4X0Q1eF83RjRPNDh2S0UxSjcyMld6QUdIc29GVkhyYUp1ZXNmQ2ZIWmlheVJIUUFTNDItaEMzQnRSQWtwUnVXdVA2MnB3cmVJTFdRek9ZSWNZMnZLZUh2R1huNlJiX280VWx1SjFBSU5JWU9oeXhJZHRPT25acjNWSHc0RHVZUHBpY05rblRhb3RlaEl0bmZjS3FzLVBPNW1OTG5uc3dIeHBETjhfVUVUT2MzSG56TjV1N3J4MlFUTDJmbUxCc2dFUWtOT3lJTHJSbTVDSDNVQlUtWDdoUWo2RQ?oc=5",
-  "title": "L’appel de Gabriel Attal à une large coalition fait déjà pschitt (à droite comme à gauche)",
+  "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZld6SmQtZWluNThDMzFXT2RmeTdkMEIwSkhQSVloUW1OV1hBMWlnUFViTk9XRHB4bC1oR3RLM1B0aWwza2dmXzVQdEQ3YnVWS1MyWms3QVBWWEVrMlk4NktmQWJMZWlBckxQb0NVUDhGVS0tbnpwVUxmbDNpOENrWUxEc0pPNlhxbEowOVZ4dHlaZ1U3eVpVZHd4dmotNlBCR0U1QlRFT3ctV2JjRXBpUHA3ZHhLa2hrZld0VXpCNElVaGp5TWFRUG9Ob2wtZ093U0Uw?oc=5",
+  "title": "Présidentielle 2027 : Édouard Philippe, l’homme qui ne voulait pas « faire rêver »",
   "summary": "",
   "published": "2026-10-04T09:00+02:00",
   "mentions": [
-   "attal"
-  ]
+   "philippe"
+  ],
+  "analysis": [],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "3191cb5253e56c93",
-  "outlet": "Le Berry Républicain",
+  "id": "4e2826b343cdbc2b",
+  "outlet": "BFM",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQcE5RNnBIbm1Ub0NLYkozemhUYl9WelNJRUNXOWRjZnpHMzU4blprZEdKZHdmZHljbDNUQ1lxMUtjREtBVDBRNUtfWU5fYnVZV0FWekU3YUJOd0Y4YURONVQzUVdjTURYTUtSZGZLbWtYUEw2bDBvYlpnVkVyMW11d3JVSVl6Yy11MjVlSmNaZGF3eGtWY2U0S3N5RkxtSF9RVUthanJ1dXBoNGdMcTBuQzE0NkgwY3ZrNnZMRktod3M3a1hsVUpXQldBaGVfdw?oc=5",
-  "title": "Gabriel Attal réunit 200 personnes à la brasserie Bos, ce dimanche à Bourges",
+  "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxPcGVILWRwcVZ4YmtjQmdHV1IyTjRHZ1ZfbnZaSGlrajVKVEpqNzZYT1pqQ2Z3WXRrdzZHR0tIVW0xTk04Z2p5YWlMbmFVV2F6RnBsZWRBZk9XaUZSQTlmYk1ZOGNIRUd5RUZzck9nZnAxYTdmbm1BRkloTlVGR3VKdXEzQTl6RVFTMzNhVVlsZzItemhTSTVxdlFlYXEtQjJKZkpfTDdVODJPcW1TU2JVRUZUWDRKUHd1RUZUdmR2WndVMUdvNjFyVTRoY2czanVCUWhxc0VDRlI5b2gzRG80UzhNU1AyekpjaGtkQVNuVEcxNmNLQUJNSWM5M3V3RGFxaFgtQmVMQVBZWXhqRnZlNl9PYmI3NzdOWndFWDFxMURjQktHSmFNLW1INVh1d3FRa3Iya1RsNV9IRGNTWTFjb1I5Z3dvMVBCdjZwUE1aT09URFZ3V3NneQ?oc=5",
+  "title": "LA MINUTE PRÉSIDENTIELLE - S'il était élu président, Fabien Roussel appellerait \"en premier le chancelier allemand pour échanger du travail à faire en commun\"",
   "summary": "",
   "published": "2026-10-04T09:00+02:00",
   "mentions": [
-   "attal"
-  ]
+   "roussel"
+  ],
+  "analysis": [
+   {
+    "id": "roussel",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "4ef362aee2e00794",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMilwNBVV95cUxQSmdrajFhMk1pbk9Vd280ZHBsUllwS0wwMGVFMUdjbl93Sl9WOGJ0ZmJabkg1TzNSbGlVZksyR19sVmJ3SjRZWDNreEdEVWVfdnNYN2pXQXZWbmtyemhNUHh0cmUyNnRuX0JfUzJlTE9kalN4Y2htMzBpLXg3cmZRMEFGMk41SUNfQ1RGbUVmY1M1S04ybEJxTEp3aGV6eEZwWjVmelc0YmJPbHNxc3ctNnNyeFdXM2RYbi1hR2ItY3JHQ29lbnBKaGxIWFNkRVV1RWZfTW9FRXcyNUYyNWpIUW1naXZRVld5UnRMZHc3RkN5TFVYZWpUSnpuTTlNODVnc2ItZHFOZFcxMGpNaDVfdmRPenhTallSVVg0ZEdfTG83WGc2QlhaVllWR0dBNGY3TTNuempCUEx2S0NSUzJoU2pEel9BdkVHeUp5WXpkeksxYTlIcGZrYkItRFEyMTNLU1dHZnlWbjRHekktd3VtRTZ3d3k1X3Q1ZmNWZDczWDB1WkM1b0UxUmVqQTB5Ni1vaVhmRVVKdw?oc=5",
+  "title": "Policier frappé à Belfort et conditions d'interpellation d'un mineur: \"Ce qui est grave, c'est qu'un commissaire de police agisse comme ça; il a cherché à terroriser ce jeune\", assure Nathalie Arthaud, porte-parole de Lutte Ouvrière",
+  "summary": "",
+  "published": "2026-10-04T09:00+02:00",
+  "mentions": [
+   "arthaud"
+  ],
+  "analysis": [
+   {
+    "id": "arthaud",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "5122ec6594bcd35e",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxOYUJtajk5OWdYWHB0RGlXMmdNQU9oQ1RwRldrMkZjX2VXdEl4cWR4azhfRktwTHdScEFJamdHWTdRbmdSMFlYeUV2cDI5aW1hOWktRnBWTnphOFlfNEIxZ3dUdld4bGsycmZOUUI0YnFUWld0S0dWb0ZOWEVsUU8zeWZ0RXlkQXZPWnREbFMzZ1ZTRTYtNG5IVWl3b1oza01ucFBnY2dRMlZSSWN5a284RWx6ZS03ZzFIZDdGS19pZFlCbFdQNUdENVFxbWtNaUdaMHpWZHVMdi1VNExiMW5VZFVDMkNraEtZd3MzYWxhM2dMRHVkWmdjbnhUWW1mS0xNeWhHZHZZcWVxb0QyTElkajR4ZG1Ua3Z2MHZodDZmQk9tenNDZFlrSl9DMFFTeURkOENGU2M3SE11cFJ5dXh2NEM0d2RqVXJtUkhNM0J2RC1DeHQtRzhFaXFpRHU1VW5tbDM4QUIwcjh3UkhaOHZlZHNuRFlJbkJPcXJ1QWV2cVZmdw?oc=5",
+  "title": "\"L'interdiction des partis sont le symbole des régimes dictatoriaux\", estime Fabien Roussel, candidat PCF à l’élection présidentielle, qui réagit à la proposition de Bruno Retailleau d'interdire La France insoumise",
+  "summary": "",
+  "published": "2026-10-04T09:00+02:00",
+  "mentions": [
+   "retailleau",
+   "roussel"
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   },
+   {
+    "id": "roussel",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "55cc3e4f2916b372",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxNdnVNdUZwODR6QUVLMUhZYTg5anB4TW9OQTNkcDRkZm5SSkNJQmJGandkVi1zaENLLTNlVjJBRmdkVXZJQ2M5RzhRczFZMnJONS1mSFliUGk4RHNadnM5dU5scTd0b1FSSjVrc2RaeEdDbEg5S1JzTzdkTlQxQlJfT05Hb1FpQnQ2MEhpdjk2WGpfWXN5eEx3RFJqX00zR3B5YjBBeTh5SUtuYVRpY2FnVXR2NUdicEVYN3dqbU5PVWJUWm9XRUJaWXd6dU9kVmhNeVY1QVpzTDFTaU5sUWwycXhDZHJNeVB3SXNRNTdReDRCVE9GTVNUZDlMeHR6Vm1hOFhzMTQ4TUhoTFd0d0JmU1pQd1pMNFM1THRoeHE5d1hPdHJJekU1Y1hlajBBaHNoRlFPMWZ4bHg5RGo4NElN?oc=5",
+  "title": "Présidentielle: l’objectif pour la gauche est de “gagner le second tour”, déclare Fabien Roussel, secrétaire national du PCF et candidat à l’élection présidentielle",
+  "summary": "",
+  "published": "2026-10-04T09:00+02:00",
+  "mentions": [
+   "roussel"
+  ],
+  "analysis": [
+   {
+    "id": "roussel",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "599add81cccdf88d",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMimANBVV95cUxOUkZRaWNXU2Y3UUpaOHRfZTJDTkFGNUw4Z3ZZaHg2ck9IVWpxN1h1U0FDQ2tpSDNfNm52LUFmTS1wM2VGZU81TTcxd3VzM3FTeHR5b0t0aF91NEVrcTNXdlI3dHZxWE1mRlpQMDFyeGNjemNBNWtkYUk1OHhQNHIzNHNCVHk0QXhJdHNROXdienFFdXFWVzdPMEhzODIwa01nSElNWFdkSUV0UXlOcWlCeHZ3WVF4U3J5T2JTcjNpa0duaEUtaHI2NnVOZmwySmVXUWFKY1Jxbl9aYy1TYmIzUHF0RHZfMWJRN29YQUFRYUhrTWVkM1dITGh1aXdxcG5pMzFrWXptZVBOODJLTVVkbUM0a2xzQjhjNHJ3TTU3X0J3TGZ1SWF4NWpzWnkxN1BkRzZ2R2tOblNXbTVIY3djNmJwSUVNN1BLbEMtRElJYTZqMHlybHFnQXVpU21GekNZZUlMYWJnbTZLanFMeUlmcWxUSU56ZG5Lal84TWRNQkZGcWQtVTJGSFM0Qi1oMUpIdmh5WURYVC0?oc=5",
+  "title": "“Je mets en cause ses propos”, déclare Fabien Roussel, candidat PCF à la présidentielle, en réponse à Laurent Nuñez qui estime qu'il n'y a “pas d’interventions disproportionnées des forces de l’ordre” lors des mobilisations lycéennes",
+  "summary": "",
+  "published": "2026-10-04T09:00+02:00",
+  "mentions": [
+   "roussel"
+  ],
+  "analysis": [
+   {
+    "id": "roussel",
+    "tone": -1,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "5c99331b797eee7c",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPV0RWdUV4T0dPMDQycHYteHdFc2tJSWdqNG1aSVBHaC1mV0lIVkc3QlRTWnViSDAzWGdoSEpNcU9MT3prMEhEOGNZRzdzbE9YSUp1b2V0MWpDZzlJY0hRTEJHVEJrTnZLUHFqNldkdVBSUXg0U2l6VEtpS0I2bVBsbjVHc0dnOHlCTUJ3Sm4wVnBlbEUzNzl2Zkg4bWMtZUJuWjBSSllfZzNBd2lJYjk4d2hXazV3MXJacEpUeVpTSWJhN0U0RzZ2UThTVzFQN0VqYl9uN21keHlYQm5udXhEeWtWZ25jQWNBLXMwNjNMVE14U0dCWFBlZF9SbTk5WjhhU2FFUnJwa1FFUlJ1b2QtT0dJNDV0WmNHS3c?oc=5",
+  "title": "Présidentielle 2027: Fabien Roussel déclare que \"jamais\" il ne se retirera au profit d'une autre formation politique",
+  "summary": "",
+  "published": "2026-10-04T09:00+02:00",
+  "mentions": [
+   "roussel"
+  ],
+  "analysis": [
+   {
+    "id": "roussel",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "5e0366e7fdfee1a6",
+  "outlet": "CANAL+",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBEOG52MjlXNzl1Z2xTZGU2R3RpYmMyblJJUWZTU1M5TmlENS1sQW9hQ0d4TGZPMklPQUR6bDVyTlBXVEhsblBBbThoYlZJM0JXTFlDTWZ6TDl0M2I5NUh2dHViTUNmOHhwSXd5WDNybmt6YUR0aUE?oc=5",
+  "title": "BFM Politique : Emission du 04 oct. 2026 - Invité : Fabien Roussel",
+  "summary": "",
+  "published": "2026-10-04T09:00+02:00",
+  "mentions": [
+   "roussel"
+  ],
+  "analysis": [
+   {
+    "id": "roussel",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "5edb8b2e6f7aa182",
+  "outlet": "Orange Actualités",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPM0ZfZU96WG9Tc3FoNDlNU0VkNi1iN0RTQ3VfV3dkTk9RY2x4VnVJS1Npc0Z3aUtiSE1SSGc3RHZFQVEyRk00WkZaM3BJUGZYNVVRb0t1Um5iUHRHdFg1SWFuRm5PUkxuU09kMDU3ZW5sRHVzWldQSGFvbW1xQklCRFZQalE4dmszSmtndzBJMmJGdloteWl5RmRFNVUxY013RzNGTm9vZ2dVeldvZERZQm9KLThYLTUzOFR2QW5NcWV4Nlp3NDFrUmQya1JVTXc0Zk12S1VYZUJXUWhHMkZtWFRSVnFsRmRtVmtlNlZxamhfQS1CWTlJMUJ6WUNsa0NFVUQ4RkIwa3VVdlZoTUFITWFmMmpndExM?oc=5",
+  "title": "Présidentielle 2027 : Fabien Roussel assure qu'il ne se désistera \"jamais\" et mise malgré tout sur une gauche qualifiée au second tour",
+  "summary": "",
+  "published": "2026-10-04T09:00+02:00",
+  "mentions": [
+   "roussel"
+  ],
+  "analysis": [
+   {
+    "id": "roussel",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "61b873f502fe5663",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNTVpsQVVTSE9wUHBURDZSNXNiX1VtVmZjSno5bXhTMVFSWUM2U19rbEd0Tmp6ZlRkbk5keXZMVGhxTmFwbE15UWlGRHZRajJidk5yc1FtRkJWUzVLSHFrZzBmZ2l2WTRjUkZJbjNBa0hudm1aT1ROM0gtQTAwUmpEZGJzcWV5M2dkYW1aSG5KSXZOMnNWOHhBbS1JUnNvTS1yanpYOWMzdF9uckVITUhvRjhZMkgxRVBLRUJCT0JBMWZ3TGlSNG5CRmNqcnFwNzlhb2kzbU9YQjZpUTdjYlRvdk13czhNdFUwdENCR1Z0TGhVVWtreGs0ZFNsdFROZ09CVGI3NGdJMVpNaWdLVGNWM0ZMSTVBb0U5?oc=5",
+  "title": "Primaire socialiste: \"Ils ont des débats, c'est sain\", affirme Fabien Roussel, candidat PCF à la présidentielle",
+  "summary": "",
+  "published": "2026-10-04T09:00+02:00",
+  "mentions": [
+   "roussel"
+  ],
+  "analysis": [
+   {
+    "id": "roussel",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "61fda58e983e6c90",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxQa2ZtUlFBVlYxOW5DeW5OenN0Q1FqaWZQRXlLOEpVWlU1TllhZkI1ZDg1Rk1seTc1QlkxbWJiN2t4bzJqQkdvczRRVXdrdURmb3ByRnhfT2diMGxDaGhpMVVuS3lSbnMzQVZ1U0ZhQ0dnX3d6TWNYLXVsRGNQUGVIZjZMYVZzeDlieGlaRWw0ZGE2SkNLUUVuWjJKUXowS0ZaSkpfSVBfOENYcFBGek5MZ21ZclJRSVdmOUNKWlZlZVRqQVZCYnBtSzFQRElCSFJJYkdHeTkxRm81ZUY5THFXWl9KWjJJZWRMeVBWNGpIN3FWQzJKZlRYMHU4dEFmamotbUJKckh1eFo1MmtQU3BoVVF4Z1dZdW5fNXI2ZFFHelpOOWd5WmlNRWg5bmJXc2dlWF9yLVN3NWpuNXRIOUVNb0tTLXc2aGFSRzhKVHpqOGg3R044dWxUeXBwcVFMMXpRZTVv?oc=5",
+  "title": "Mobilisations lycéennes: \"Ceux qui sont à l'initiative de ces mouvements sont des organisations de jeunesse\", déclare Fabien Roussel, candidat PCF à la présidentielle",
+  "summary": "",
+  "published": "2026-10-04T09:00+02:00",
+  "mentions": [
+   "roussel"
+  ],
+  "analysis": [
+   {
+    "id": "roussel",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "62e1d3e70cf1c8c6",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNQnptcDVTMEVBbm9UeDVrSlE3bm5MU29KNmVJSW11ZVV4NGZCdkR0cUw5WUYwWExtbjg0MXNTejlrN3ZHblBHWk5uSENhSHk2ZmVHUi1kLVdla3FncjVZTnBFdkdvbnJ5VThqcEhKN3p2UGtYWkQwMnBZekVCeXpOaDdZaVFDcVR2VFl2eXdzYlFsMTk5ZGhXTy1LbWxDeE1OcTJKaXVKYWRpS1RmZUZpY1pxTWdRcVJQTnhuODZnSXU4b19RSUFCdzViWWh6b2d1RTRwYnpMUV8wcVpfNFN0aEhVcnByN1lnYzFBVTdMaWRCNzlHRW5IYnJGSzQ3Wmh0UEJxMnB0Y1ZGZld0OGJjc3FISV9uUWRaQVpjUk1fU3VUMzVxTEpadnFlbDZXVkZzZHZ4SGZqOUs?oc=5",
+  "title": "Manifestations lycéennes du 6 octobre: \"Oui je serai à leurs côtés\", déclare Fabien Roussel, secrétaire national du PCF et candidat à l’élection présidentielle",
+  "summary": "",
+  "published": "2026-10-04T09:00+02:00",
+  "mentions": [
+   "roussel"
+  ],
+  "analysis": [
+   {
+    "id": "roussel",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "6443422d594f7f78",
@@ -338,19 +578,35 @@
   "published": "2026-10-04T09:00+02:00",
   "mentions": [
    "zemmour"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "zemmour",
+    "tone": -1,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "176cedeb11c9ea02",
-  "outlet": "Sud Radio",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQVJtZ3UtNkRxa2J4WXZJWEdqaWxHbzM3bGlmTGw2bW54X2doa3dyOFJYNWVVcGVSTUx1c0pvb05NNnZfQm5TRkJuWGV0ME4wZkJhT0VLanQyNFJDM1VBYUdBRHdocW5KVlNRUkZXM3Z3VkZzSHJHLVRHZm5ocnpCU0pRVEpwaXFaWXlwaGJsRVZqTlRLVjVuYnNGbw?oc=5",
-  "title": "Fabien Roussel appelle à soutenir les lycéens en mobilisation",
+  "id": "698463f003086f40",
+  "outlet": "Libération",
+  "lean": "centre-gauche",
+  "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxON2NxZUQ1ZEpGSndEU2pyYTdCTktGamdzc09YWnExblpiRVhMcHFzelRaQWFEdXlKTGx1RmxGRUt6eTFaUnY0X3M4TXZ4eDdySHFjSGNpOTYxXzMwMWsybUM0dHg4ZGVUbGkyRWZZakw5VklUZjdHaS1Bd3lqdGFicWl0Z0szZWNLOVNQczdLaFFTeGx1djloSzg4TVdKeWltS3l3RTh1eV93UFhrdHZRTXFoLVNpbUVPekgyYmFubW9BT1h5ZXFPVjRocERvbDFnV1dZUkNyRnNkS215YmE4VTB5TWxLS0w4b3habjZpbWYyNlRUS2VyRXhrSWNYTTJ0Z2c?oc=5",
+  "title": "Mobilisation lycéenne : Fabien Roussel appelle les organisations de jeunesse à «sécuriser les parcours",
   "summary": "",
   "published": "2026-10-04T09:00+02:00",
   "mentions": [
    "roussel"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "roussel",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "70e9fc4f6754209e",
@@ -364,55 +620,165 @@
    "lepen",
    "attal",
    "roussel"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "programme"
+   },
+   {
+    "id": "melenchon",
+    "tone": 0,
+    "frame": "programme"
+   },
+   {
+    "id": "philippe",
+    "tone": 0,
+    "frame": "programme"
+   },
+   {
+    "id": "retailleau",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "2d1f296d1cc00f6b",
-  "outlet": "https://www.parlons-politique.fr/",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQTU94NVhRSVJRQ2g3bUNQUzV0dVpCOGJHSUZJZTdSVVlJRGYxMUpOOXgzUURBZ0E4WDVBblQ1d3picGJtT1JuLTc3S28yQ1BmSjZmbzRhNU9CcEdSM0g0ekVxY25iT000VVdVOFNndGlDN2xTbjVNcWhLMUpCeDhfLW9WcVVkUVVkR0NnY292RGJLMXAtamVBX2NWYWdxVFl0dVhXR3YyS0h3bnBmbHd6VzMxdlZGRFM5QS1tMjVrTS1mVEtXOXNITWN0Z3Rxbmh6bmhJbl9TRG5icTll?oc=5",
-  "title": "Présidentielle 2027 : le choix de Fabien Roussel peut-il redessiner le rapport de force à gauche ?",
-  "summary": "",
-  "published": "2026-10-04T09:00+02:00",
-  "mentions": [
-   "roussel"
-  ]
- },
- {
-  "id": "0d18313dd2dfe119",
+  "id": "75a190659da99bf3",
   "outlet": "BFM",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxQakhldklteXYyX3dMRHZmQlhtX0FpRW1LcWxYNXRhZHpyOXFPR1BIOS04ZXl1YTVIeEJCZ1FUeVZBeTRsMzVDNEQ5RkdPeDAxYnBobFV4bndleWdqSXNEUUVoeVJBLWtGZ21WcmNsd25sRFkwOHNUS2JxS0l3MDZSQThEb25idGtTaHVTa3BOSFdaQU9qbjdLaVRGNlNzQS01OFFlc3hoR0ozZWxfWFk4cnZJemZxODB3OWRCWDI5Z3FpcjZVaDRhT0ZMNXZSUmlINHNlWklsQWxSamdaM0RfRXRQZjRJZ1ByZEUwRUVBTkFia0lPaWVTbzU2bVVMSXdkczNBRmJqUWppdjY0bVI3UnZ1a1VzYTdDR1FHYnhPQi1UajlNVktGeXlRdWhaa0hxeExkVnJTODRSNHlXTnllRlROT0JpTFlkSmVrRlB6VW1CZXNkc0p1Vk01eHVsY2xYczlOQ1VqQTlVLWtETUdtWTFSSVA2cmlQNDRwTG9IT1Q?oc=5",
-  "title": "Violences en marge des mobilisations lycéennes: \"On devrait avoir une politique de maintien de l'ordre qui protège notre jeunesse\", affirme Fabien Roussel, candidat PCF à la présidentielle",
+  "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPejEyVmdJYjNIV19sOVNWODRPTDZIUU9UWkM1dF9uUjhWakZpYURuaF9fOFVsQVhRREUtc1paLUc4TGh1VjE0VnNiM1VRWk16bndlX253MUZ3TEctS21OMk5zdktpUG9vWlpCeE9vUDczV3FDdy00bHVrNnJsUXh2OFlJaUZzdUp4NUlEZV9qOEQtVlU3YlVJcGpIVVRNaXQ0eWt0TWlLTy1ndmJGc0hYWFNnQ2dQRDVrNF9lbnJaQ0JYN0ZHbzRDM3ZjU2RRUHBQZi1uOG4zODFYYVo0UGNTTDgwX1kyT080d3hwUV85VGF2YjZYZkJYdEdBejRnRkZEczk1SXVzVVdma3NPdElSUm5ITjNhSHBLMkxKNXUxdE93LTBpYWMwaVJLeDkwT2pZWlE?oc=5",
+  "title": "Fabien Roussel, candidat PCF à la présidentielle: \"J'ai des différences avec le Parti socialiste comme avec La France insoumise\"",
   "summary": "",
   "published": "2026-10-04T09:00+02:00",
   "mentions": [
    "roussel"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "roussel",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "55cc3e4f2916b372",
-  "outlet": "BFM",
+  "id": "803ca62c708a99b8",
+  "outlet": "Le Dauphiné Libéré",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxNdnVNdUZwODR6QUVLMUhZYTg5anB4TW9OQTNkcDRkZm5SSkNJQmJGandkVi1zaENLLTNlVjJBRmdkVXZJQ2M5RzhRczFZMnJONS1mSFliUGk4RHNadnM5dU5scTd0b1FSSjVrc2RaeEdDbEg5S1JzTzdkTlQxQlJfT05Hb1FpQnQ2MEhpdjk2WGpfWXN5eEx3RFJqX00zR3B5YjBBeTh5SUtuYVRpY2FnVXR2NUdicEVYN3dqbU5PVWJUWm9XRUJaWXd6dU9kVmhNeVY1QVpzTDFTaU5sUWwycXhDZHJNeVB3SXNRNTdReDRCVE9GTVNUZDlMeHR6Vm1hOFhzMTQ4TUhoTFd0d0JmU1pQd1pMNFM1THRoeHE5d1hPdHJJekU1Y1hlajBBaHNoRlFPMWZ4bHg5RGo4NElN?oc=5",
-  "title": "Présidentielle: l’objectif pour la gauche est de “gagner le second tour”, déclare Fabien Roussel, secrétaire national du PCF et candidat à l’élection présidentielle",
+  "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcHplQjZpS2hNbFJQYXlDRGJFR3Bsdm5pQjJOTFhLNXVzbDFlVExiWmJadGhzZFlHTnNCczY3OEMtTGVjbGh1Wm1ybEFYYVRPLTExUjZsUjdESERDU3pGNHppXy1pZEZvN2VnVUYwcnRJSVZSTFh3dHlHWDNMNzlzMmJrWHF2bGI3Y25EZll5LVhPU1BNcHBlejFuc3B6bzZYdWw2RXM1N2Z6eUNBcXNRVUVpYUNKR2dxOFZfbS1vRnItRWctZ3NVOWhBQUhaZ01MMmc?oc=5",
+  "title": "Élection présidentielle. Nicolas Dupont-Aignan, candidat à la présidentielle, attendu à Valence vendredi 16 octobre",
   "summary": "",
   "published": "2026-10-04T09:00+02:00",
   "mentions": [
-   "roussel"
-  ]
+   "dupontaignan"
+  ],
+  "analysis": [
+   {
+    "id": "dupontaignan",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "36a271a95cb05a6e",
+  "id": "80b73c49269e3c6f",
   "outlet": "BFM",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxQSFJldUJSb0tpb3BuWlhfMGxkWlZWXzlCdjVkMXBHOU84Y3hWRDhkdlpDSFUzRm4xVU1hdGtkMVBtdF8yX1lkdml5dGFSN1hyWHRVUGRTMmt2NkRmX1lCR05VMlhRN0FHVTNTUnBaY294UUx3bUx3eTRzaVpWWFU4d21YR0tDcXZidmFyMHNqRnRydVdNNlk5VlZNc0ZRbUt6UXJuUVJiVXBGQTdRajdEbkJWNVJ0b3h4VjFud0oyc0FkSVFSRHJvUklwUlk4d3FYSXkzZlF2eUhOSEc5c0hGRnpYY19VaUNkTmRwekJGSUw4WnpyNmZVUnJYeUJGamdnQjlwWnN3bDVLWUQzNzdITkdUenNyUDhlc2tkZDdUcmgzWG51SWFHVDFWbFhaUlJtZU9GRlFSaVlMNzlEZUFENllLajZqdHp4eE1BSlpRRlYxcnNFSTcxTEVB?oc=5",
-  "title": "Prix des carburants: “On va laisser Total nous faire les poches”, déplore Fabien Roussel, candidat PCF à l’élection présidentielle, qui plaide pour une nationalisation de TotalEnergies.",
+  "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxQSUM5dzlXVGZXOWgySDBrQ0dpMy1CZFY0akFLcnJWODZGeFZOejJkVWlHek01N1p0UExRMGt3YlZKZ3M1Vkk2cHdNU013WGRPRng5cDNiSlBLaGJMbDZ5d0VwMDYydGc1cDA3cXBPbDBVOHpnV3RBa0dHZzdaUkdKVzhqNU91dXRLWF91SE94UEM2NEE1SVFkY1U4VWtWZDlVcjdldFBPdzJOdUNOWVdsWVZ0bkZUc3p5UzZHa1hUY09WUjZMNWJwd0VfdU4zUkRyNHRVdC1UNGR1Z3ZUMW5FWVlsTEI2SjZya05WQ0kzSnBoa3kzTkN3cHpPTTZsVnpfd2pybDBnUHVKeGtvNWFNUFFxVFpULW02d3IwZ1NlRW9PSHpRdkN4RFJrTkRscHNjemZTWGxXYXlTUHduc05ocVR6dGZjRW1hdUE?oc=5",
+  "title": "Présidentielle: \"Jamais je ne me retirerai\" au profit d'une autre force à gauche, affirme Fabien Roussel, secrétaire national du PCF et candidat à l’élection présidentielle",
   "summary": "",
   "published": "2026-10-04T09:00+02:00",
   "mentions": [
    "roussel"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "roussel",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "89fead5765d47e33",
+  "outlet": "franceinfo",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNLTY5LXJ5blpqUzdIbnZ5YUR6dmQ4eWdob09hWmdlbnktTjV4SHBlRVdjZVNSMEY3bFE3TFJmTTVieWZBUFBRVklULTd0UVloSDVIRnRVd09FVl9Tbi1FdW1mVk40aWE4dHlISGVaS3R4anNFc2FDcF9leGZvaUwwSEZrZG45akN4b1BUZGl2Z2MyV0R0V0d1MFpFbk5JWGh6S3U3T3pmeFh5c3FXSFByVjEtTTAtNWNDMmpaRlBTeGJtdk83eEdxcXE5VHJ2TjM3ZHlhQ3hRbXlmQzdVV2FDd3cxRFdNQQ?oc=5",
+  "title": "\"Même pas en rêve\" : le camp de Raphaël Glucksmann rejette la main tendue par Gabriel Attal",
+  "summary": "",
+  "published": "2026-10-04T09:00+02:00",
+  "mentions": [
+   "glucksmann",
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": -1,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "8b11b217f825cd46",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxQbEFSeXFaSGRxNl93N1p0UE1zOE1MajlScHhoZmtIM09vakk4T21yTUVuNlVpenlWZjJZMlFRbXVYSHRPVnpwWmZYcjBqb3dpNjZVdWxZTVNpclZDby1STjZoNjZRcGNXdHhUdDF1dk81WFNqbVFnSjNYWU1lTGFZei1JQW1YSE1FdV9lRDBQN3BWanJJd2NQRW9OMlJLQVNWTUh0aE93cGZKYUF3SkJPQXByY1M0WW1SZFhtbmdiU0Exbl9LMXVkRERHeTVfM3ptR0g2NXMwMVhOanhIc2ctcXpGRjdYcW45X0hXSm1rZEJQT21senlSNFlxV1ZlVm1IdFlZWlhLV2FaY2E4YldlLVc5X0k5SVZYRkdmOUhKa0xtSHZvcElqcXQ2Rkx2ZDFPUm5ZdGJ2QlBwb0R2Uk4wVEQ1S3Z2eTFlbXptTXJKT19WQlJf?oc=5",
+  "title": "Colère des lycéens: Fabien Roussel, candidat PCF à la présidentielle, appelle les jeunes à remplir \"des cahiers de doléances\" et le gouvernement à \"entendre\"",
+  "summary": "",
+  "published": "2026-10-04T09:00+02:00",
+  "mentions": [
+   "roussel"
+  ],
+  "analysis": [
+   {
+    "id": "roussel",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "8e652ca66af9bdc8",
+  "outlet": "TF1 Info",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPSmdTdlJsVnpSZF9Pb0ZqMXQzdnpTc08yZFVxWHZPdnlYazFHQkI4YjVIaUN5U1NSSU5NcXpSTWxJWVkzN0tQZTM1MDlVX1V4T0VpS2twUC0zVjhaQllOUk4ySzJyaWFjM1lWdEVFcmltak4wTmQ4ZFFFdmVySFVNMVBZRk5OcmJhQW5oRG1XTVhpSzVTUldZZ1ViSWF0QUxudGlIcDNHVmttUUI3Rnk3SGdxTzNtckJlb2x4am93dnZJc3loenc5WHlPdHpENXMzS3lUTkdkV0NnSG9KcF9odg?oc=5",
+  "title": "Présidentielle 2027 : \"Route Nationale\" avec Édouard Philippe",
+  "summary": "",
+  "published": "2026-10-04T09:00+02:00",
+  "mentions": [
+   "philippe"
+  ],
+  "analysis": [],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "94baed024b8ab5c8",
+  "outlet": "Les Echos",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNT2wxYzJZbERyQ2F4YUlhUTN5eDJmQVl1R0dKN29xN0NrN1o3aWVnYmIzeXlhTDNneW80X3dVa1F0X0hoZHczXzVYeWkzNUEzdlh6RHFOLWRNNzgtbVkwbjUyeWNYaTVoaVdqelloWFNaZlY0YVhSN1dXVllvajBfc2xyVmpIU1VzdXY2TEFFTE1oNTZMVF9Zck1Fa25VYUJ6NXFXZmZlZzcxc0JiT2JGNmdMOVZCZTR2cV9DS1FBV0h0b09JYmhkeW1tVW5zbG0wY1pBd04xX2NGNjJmVlkzOWNVNA?oc=5",
+  "title": "Présidentielle 2027 : Gabriel Attal tente de reprendre la main en poussant l'idée d'une primaire",
+  "summary": "",
+  "published": "2026-10-04T09:00+02:00",
+  "mentions": [
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "9cf8cc73fdce9f61",
@@ -424,68 +790,15 @@
   "published": "2026-10-04T09:00+02:00",
   "mentions": [
    "roussel"
-  ]
- },
- {
-  "id": "62e1d3e70cf1c8c6",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNQnptcDVTMEVBbm9UeDVrSlE3bm5MU29KNmVJSW11ZVV4NGZCdkR0cUw5WUYwWExtbjg0MXNTejlrN3ZHblBHWk5uSENhSHk2ZmVHUi1kLVdla3FncjVZTnBFdkdvbnJ5VThqcEhKN3p2UGtYWkQwMnBZekVCeXpOaDdZaVFDcVR2VFl2eXdzYlFsMTk5ZGhXTy1LbWxDeE1OcTJKaXVKYWRpS1RmZUZpY1pxTWdRcVJQTnhuODZnSXU4b19RSUFCdzViWWh6b2d1RTRwYnpMUV8wcVpfNFN0aEhVcnByN1lnYzFBVTdMaWRCNzlHRW5IYnJGSzQ3Wmh0UEJxMnB0Y1ZGZld0OGJjc3FISV9uUWRaQVpjUk1fU3VUMzVxTEpadnFlbDZXVkZzZHZ4SGZqOUs?oc=5",
-  "title": "Manifestations lycéennes du 6 octobre: \"Oui je serai à leurs côtés\", déclare Fabien Roussel, secrétaire national du PCF et candidat à l’élection présidentielle",
-  "summary": "",
-  "published": "2026-10-04T09:00+02:00",
-  "mentions": [
-   "roussel"
-  ]
- },
- {
-  "id": "148dd4ce57588faf",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxOelVGZGltSXdiQWppQmZHNmdrZm0wMndaNHR0ZDhVOHZ2T3I0NHRranFGSk9sYXd4YUI2NEdyMXpZX1NJb3ZKRW1nUklzQ1FUOHR6NGJabXctRVZKcVRLeUtUQW42UzFDRnNpZTAySzljNTI2SVhGcERBbko2cWJ0dmlMMjJadnNBd3pCMl9JZ1dRbzZOMXlkb0VzazFNck43VURSTTFzZ1AxNDFvaFRLRjZYOHlzbHZSVmdEX2V4MG4tZUlGZnk4QXhOYWZUNGI5Zmprc3BYRkJ6WFJMcG1hZTdrenZtZUpnclYtMUM5TUJmZjM2d3dEYUxBZzZqZ3ZuVlBrQk1wcDRuWFV6OEVvbnlITzktek10b1E5Zk9aUE0yN2xuWW1Gb0pmN1ZBTGFUaFJlbDVPQmZ4QTNvdzhBb2VxN2lzb25LWDdZZko5Zkg5X08wUGNNcEI5LTlQVlF0Qm9SSUUwWVhCaFFxSldGS2tLOUtITHRRTGF0S0Y4Z2ZhOXM?oc=5",
-  "title": "Propos antisémites attribués à Jordan Bardella: Fabien Roussel, candidat PCF à la présidentielle, demande à ce que les \"élus soient rendus inéligibles\" quand de \"tels propos ont été prononcés\"",
-  "summary": "",
-  "published": "2026-10-04T09:00+02:00",
-  "mentions": [
-   "roussel"
-  ]
- },
- {
-  "id": "5e0366e7fdfee1a6",
-  "outlet": "CANAL+",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBEOG52MjlXNzl1Z2xTZGU2R3RpYmMyblJJUWZTU1M5TmlENS1sQW9hQ0d4TGZPMklPQUR6bDVyTlBXVEhsblBBbThoYlZJM0JXTFlDTWZ6TDl0M2I5NUh2dHViTUNmOHhwSXd5WDNybmt6YUR0aUE?oc=5",
-  "title": "BFM Politique : Emission du 04 oct. 2026 - Invité : Fabien Roussel",
-  "summary": "",
-  "published": "2026-10-04T09:00+02:00",
-  "mentions": [
-   "roussel"
-  ]
- },
- {
-  "id": "5122ec6594bcd35e",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxOYUJtajk5OWdYWHB0RGlXMmdNQU9oQ1RwRldrMkZjX2VXdEl4cWR4azhfRktwTHdScEFJamdHWTdRbmdSMFlYeUV2cDI5aW1hOWktRnBWTnphOFlfNEIxZ3dUdld4bGsycmZOUUI0YnFUWld0S0dWb0ZOWEVsUU8zeWZ0RXlkQXZPWnREbFMzZ1ZTRTYtNG5IVWl3b1oza01ucFBnY2dRMlZSSWN5a284RWx6ZS03ZzFIZDdGS19pZFlCbFdQNUdENVFxbWtNaUdaMHpWZHVMdi1VNExiMW5VZFVDMkNraEtZd3MzYWxhM2dMRHVkWmdjbnhUWW1mS0xNeWhHZHZZcWVxb0QyTElkajR4ZG1Ua3Z2MHZodDZmQk9tenNDZFlrSl9DMFFTeURkOENGU2M3SE11cFJ5dXh2NEM0d2RqVXJtUkhNM0J2RC1DeHQtRzhFaXFpRHU1VW5tbDM4QUIwcjh3UkhaOHZlZHNuRFlJbkJPcXJ1QWV2cVZmdw?oc=5",
-  "title": "\"L'interdiction des partis sont le symbole des régimes dictatoriaux\", estime Fabien Roussel, candidat PCF à l’élection présidentielle, qui réagit à la proposition de Bruno Retailleau d'interdire La France insoumise",
-  "summary": "",
-  "published": "2026-10-04T09:00+02:00",
-  "mentions": [
-   "retailleau",
-   "roussel"
-  ]
- },
- {
-  "id": "4ef362aee2e00794",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMilwNBVV95cUxQSmdrajFhMk1pbk9Vd280ZHBsUllwS0wwMGVFMUdjbl93Sl9WOGJ0ZmJabkg1TzNSbGlVZksyR19sVmJ3SjRZWDNreEdEVWVfdnNYN2pXQXZWbmtyemhNUHh0cmUyNnRuX0JfUzJlTE9kalN4Y2htMzBpLXg3cmZRMEFGMk41SUNfQ1RGbUVmY1M1S04ybEJxTEp3aGV6eEZwWjVmelc0YmJPbHNxc3ctNnNyeFdXM2RYbi1hR2ItY3JHQ29lbnBKaGxIWFNkRVV1RWZfTW9FRXcyNUYyNWpIUW1naXZRVld5UnRMZHc3RkN5TFVYZWpUSnpuTTlNODVnc2ItZHFOZFcxMGpNaDVfdmRPenhTallSVVg0ZEdfTG83WGc2QlhaVllWR0dBNGY3TTNuempCUEx2S0NSUzJoU2pEel9BdkVHeUp5WXpkeksxYTlIcGZrYkItRFEyMTNLU1dHZnlWbjRHekktd3VtRTZ3d3k1X3Q1ZmNWZDczWDB1WkM1b0UxUmVqQTB5Ni1vaVhmRVVKdw?oc=5",
-  "title": "Policier frappé à Belfort et conditions d'interpellation d'un mineur: \"Ce qui est grave, c'est qu'un commissaire de police agisse comme ça; il a cherché à terroriser ce jeune\", assure Nathalie Arthaud, porte-parole de Lutte Ouvrière",
-  "summary": "",
-  "published": "2026-10-04T09:00+02:00",
-  "mentions": [
-   "arthaud"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "roussel",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "c0eb08f322db2f6e",
@@ -497,19 +810,55 @@
   "published": "2026-10-04T09:00+02:00",
   "mentions": [
    "lepen"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": -1,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "4276a2f534ad419e",
-  "outlet": "Libération",
-  "lean": "centre-gauche",
-  "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNcVUxR0htenN3bmZ3WVVPTnFxUFRZODRRTzhoWDRFVTVKcDhXNXBLS2hfSDZFMzRnMVJDVFBiX0hEazBySmtBZG0zYjVjNVBUWWxHNzlOenMyWGxqVVNOazlvNlF2c1pYNWJsNzNCT3dndVZKeUpROUN2bjhvWUI5ZHV6eFh0MERmeGM0MFNhS1BBTFBCZ1BsZVA1ZHBrZjU1d0pERHAwS0VXelpqeWk2WjJ4TXZudEpiYnk4Z0JVUnA0ZXhDanRnZmctT0JMbXRDZzlpUVNpY21Ic0tjdHRVLTlwcUo?oc=5",
-  "title": "Bardella accusé d’antisémitisme : Marine Le Pen réaffirme «sa confiance en Jordan»",
+  "id": "ce73fe68f558185e",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQb3Y4UHFvSzcwX3hoMjdIWUNQN00tcUQ4LVZKbGgzMTI4V0prUjNZVFdwVzhHazhSZlUyM0RjY3I4dFNRTnVtZDhuYWNOZlpON0UtMVJnc04zM0s4b0JrbGI3cXBrY1lYd2tGQkVuVFlvTTUwc1hLTWx3b3FRa25MU3dhczZOTU90Y3pNaDZWMmY0M1J2eU5KT2h0OWU1dUhvc3BwZlFDc1lLaVhCNG5ycExCZXBuSFBTQzM0ZkZIRnl5c3ZSVklsd29CQ0RRRDdkNElacmdrQ1lLYkRPMFFVWGc3QW84VW81dGlYSXFkZWdPOHZlUUZCbEtISjA2VmxQeG9R?oc=5",
+  "title": "Fabien Roussel, candidat PCF à la présidentielle, s'exprime sur les mobilisations lycéennes",
   "summary": "",
   "published": "2026-10-04T09:00+02:00",
   "mentions": [
-   "lepen"
-  ]
+   "roussel"
+  ],
+  "analysis": [
+   {
+    "id": "roussel",
+    "tone": 0,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "f3d415793884be1d",
+  "outlet": "Le Monde.fr",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQUGY3bEwxXy14N015VUlRQ01JQUVKTHdaRjk5aXBzbjlmQTh1Yl9ERkZPc2YyYld6N0RYVXZ6MUtUUUdTakxET1dwOWpCR1FUQkpwamprSzZHR25wVDlWU3d0VVFMQnl6ZXMtaUo3NTZ0T0lXM252TVlBeEtlempFWFBvb1p6YVNEZE1SZlIxVUp3UUdyZmVBRGs5RkU3U3Z2bXhnUDg0QmtCbVVjelB3d0RxclIzT3hBM1pWbEtJQkREcWtBLXRacklic0JVeG1OYV94ZmVzUk1FcmNINkFySk8weHlmS3ZfMGRGd1ptckFHUWtidE01Y2JXaUlJTUNkS1lR?oc=5",
+  "title": "Primaire de la gauche : Raphaël Glucksmann se dit « désolé » après ses propos « inélégants » sur Ségolène Royal",
+  "summary": "",
+  "published": "2026-10-04T09:00+02:00",
+  "mentions": [
+   "glucksmann"
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": -1,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "ff908cc293984af9",
@@ -521,6 +870,14 @@
   "published": "2026-10-04T09:00+02:00",
   "mentions": [
    "attal"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": -1,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  }
 ]

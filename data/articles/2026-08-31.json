@@ -1,39 +1,247 @@
 [
  {
-  "id": "e091d834665e31b9",
-  "outlet": "Le Grand Continent",
+  "id": "0b9ff7bd2f4d03b0",
+  "outlet": "Les Echos",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQclBiWkpGVGZpTVhBR1I2TTFYUWd5WFZWMEI0QjhTdXNQYm1qUndUamFnbTEwcHVRYW9OLTJxWVBtWVhWNHZJeFp1RTZmc0gwNDRPUElmUVpsMzJiY1BWU3ZMa0tMZFJ5R0tCNWY2a1NJaUJhM3NXT3RvMEV3elFVeC1xY3JfS3hFYlNyQ0Jfbk5GclhGN1QwcmpJX2haRHRpZVkzWDNlbkM?oc=5",
-  "title": "Marine Le Pen peut-elle encore perdre l’élection présidentielle ?",
+  "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNdzJLQjI1WmR6dFpwdFMxZlBZVTZNSlRnUTVab2FLbU9XcWxzS0gtdU1pMlpIZUZpbG53T3FMc3F6b2x4RE5ncGYxcEVsNWx2YXQ1Y2NKc1k0d2pkSjl5a1ZYNjEySEFIeHdJUnR0aU1aZXdoZm1xX0M1SHdPcFdabUdtSURiUEN3dVY5NkJzR0ZhUGZiNng3Q1RWQ21PeVl1RzdSOW5PcmN6RERsY09vU2ZxbFMxVTBJOXh2Vmt3ZWtkODBnN2locFBWVFg1MzE3RGhVeDIxUTNpOW5UZVE?oc=5",
+  "title": "Présidentielle 2027 : la rentrée compliquée de Bruno Retailleau, sous pression des sondages",
   "summary": "",
   "published": "2026-08-31T09:00+02:00",
   "mentions": [
-   "lepen"
-  ]
+   "retailleau"
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": -1,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "6b68e2446ada359a",
-  "outlet": "Yahoo Actualités",
+  "id": "0df411602107de45",
+  "outlet": "Public Sénat",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTUw2RGlzdFB6Y2JwTm5XWmM4elhTLUJkUTFkN0dBV1hmU1ludXNJV2FzcUlZay10cjhzVjUzTHVZSVVjTjdvV2ZYaWUwQXZtMWtyMFBsREM5cWY1VFU0a3pSQkVpd3hIWERzb0hNNDJaWTZiUmJfVkc3aHgwUjVYc0t1M21NQ3FOdmhURGdR?oc=5",
-  "title": "Présidentielle 2027 : pourquoi Marine Le Pen bénéficie d'un électorat plus stable que ses rivaux",
+  "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQYVRVTHlIM3VaTlBPUnRZZzhsQjhkaXpIX0ZUdEJuREJMRTFiN3o5NGl6QmFCZzdjZHBSa0pwS3cwWE9ya0lUekV6TjNad0cyT0xzbU9KWmtONUlPWDQ2czNTbDlnNFNaOWNQNkIzSzRzNGFkMlFwbXA5a2VOVmtDZF80dW1ZRkd0S2VZT1IxYUp2cXJJWDhzUHU3N2hfN1hsNWRzMnNnU0hPNS1PNVJKTGVUZHN5MnN0cTl5OVBzdmZhcU5UcVNOVlFJdXluOWFVR3ZLYg?oc=5",
+  "title": "Présidentielle 2027 : Bruno Retailleau veut « refonder l’école » autour de quatre axes principaux",
   "summary": "",
   "published": "2026-08-31T09:00+02:00",
   "mentions": [
-   "lepen"
-  ]
+   "retailleau"
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "8987d53bc438cae2",
+  "id": "1140cd51e3a79ab2",
   "outlet": "BFM",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNdU56OEkzUjUwazR4cUNzX21IU3ZEcFRtaHk5NF8tcFBmU2ktTEJYMFJLT1c4a0VvekZyRGFDQ2gySll6UWFlLTZIZlZzZVdsd1Jqd21JWjBCUG5ZNEQ0VHdpM0NQcFhqQ2hFc2xDWncxNXhMeGhzMnh6ZTJEMjYtakxkbTlnRkhLUEY5OUl4MzF2SUdCckt1ZFdOSy1taEdaNzJpaE5FcUw2MWNtSU1KeGMzVnJKMkNzeEwtU2V1NmQ2QndrU29XV19TM0tUaW1VTnBxeHcxRzVuUDIxV25zbW9uVmlnVFc5RVU2RHE2YnRyenhrS1lxVXNELU94dmkxVVNwY1d2dldUVk5GQ2wxNHN2YlIzd0YtajdHVXd0YndZN25F?oc=5",
-  "title": "Présidentielle 2027: Marine Le Pen confirme vouloir soumettre au référendum \"la pénalisation du voile islamiste dans l’espace public\"",
+  "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNdjN6Z29PaWdWTDd1SURhbmEzYUtFNWRlc01TQjhVYURBSlNnN3d1WmhHYlJsdkNhNmVBa1llcDFWcFBMMDM1SFNGWE95dFp3cFV5UHNuWUh6QUdVenBIdTM3cVpoMHV5ZFdtV0VuYVhpQ3B3T3RPT3pJRHY1R1FDOFFRLWdXMS1kaElETEFmWDMyUFhvekF1Z1NPaE1sWVRrcG5DNzc1NXZNQTZfVzhyNUFFOHhrbGdoVFV5dnYtN2libWN0V1NORjlubjR3dDdlLWtCM05uVDU4bF9VUjNHcVJQQk5TVFFaQWZEb19qc29WM1VYeUR2NmYyNHlVUHBDTGk1cDZib3lIeUY0UUI5SmljOXEwcGhvSG9oUFlFSDZNcDFDMmxNdnQ3am1SWmdsZ2hubG05Nl8?oc=5",
+  "title": "\"Il n'y a pas match\": pour Maud Bregeon, Édouard Philippe est le seul du bloc central à pouvoir accéder au second tour de la présidentielle",
   "summary": "",
   "published": "2026-08-31T09:00+02:00",
   "mentions": [
-   "lepen"
-  ]
+   "philippe"
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "1247e59389c6bacd",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxQWENpbFBPa3dfdmtRdHBVUFBMdFpvSnppVWhyV2p4VWJWaEhpbVB0TjNhVVVCYUpJTDJJSTd3LWJVa3ZydGhZTVpDSkpSbEtsVFhwM3ZncTJsTE1JYm1Vb0FKcXJCbENmbFJhTGR4UVV3b2xsWG5CMWdpWFp5RmtXdmhrSEQzLXFreW10QlhJQ1lIT3lpVWF5QlZaRGk3Y3FSNi1nQXdRWUd3bXNsRlVobGhqRVBSaWJTN1JQaGNrOXF4UW9GY3ZXSGhHN0poUDZLU2ItNmxyX1VBTGRXLUF3azM5azByX0w0dDBuZzV2VDV3QkFEY29vNnFGbzdxdGlGRXd0dERKcEl6NnF5a3IxWWFGam9wZi1MYnBDZEg4d1JPT1BSb1JsWjVkU3VETDkxZThjVnR0MVFpWVY0RTBGU2V3OU5wZUtIWmdhYnNhUmRic0hoalJpU2xaNGV1Rk9ibU52SnRnRG5RTWFVUy16VjVR?oc=5",
+  "title": "Le PDG des tricots Saint James, le fondateur de Lunettes pour tous... À 8 mois de l'élection présidentielle, Gabriel Attal s'entoure d'un \"conseil de patrons\" pour affiner son programme économique",
+  "summary": "",
+  "published": "2026-08-31T09:00+02:00",
+  "mentions": [
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "1c6dc29a907deae5",
+  "outlet": "Yahoo Finance France",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOV0M4OWJhZE1rZkFneF9jUkRuOGZHUXpHVFVNYldLYTM3YnNoaUNZSmpPbVBtTDZkbXhFc3UyOVFpYlpxWGsyRVNGcG5DaHlKQjJURENBNzJOWk1vc3JBSGRhbFpGbFdpcU0xeUM0ZGNndDk3MmRkTzFsb0tPNUZHNjdkV3BIT005OFJXZGJpYw?oc=5",
+  "title": "Gabriel Attal s’entoure de patrons pour sa campagne : qui sont-ils ?",
+  "summary": "",
+  "published": "2026-08-31T09:00+02:00",
+  "mentions": [
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "2228a83d7e104e53",
+  "outlet": "LCP-Assemblée nationale",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOGNxTWFuSmViSC05Mmo1U1RYMHBTdWVBcldXVDBzcDV5a0cxcVdUT2h4RDRBVy00eE1IMERmVU84YTBVSElCOUI1NXhUVU5YUVpCakNuRGFtREN1MHZBNk1td3phbWNmUUJyUWl1bDBNRzViakt5OTdmRXJ0dERINUtmU045Q004SExqSjY4eTFQVHloaDNUU19PQXAxQkZKdVM4aVdxeTNGRVpORElqaU53?oc=5",
+  "title": "\"Nouveau parti\", \"bannière commune\", candidats uniques… comment Édouard Philippe prépare déjà la bataille des législatives",
+  "summary": "",
+  "published": "2026-08-31T09:00+02:00",
+  "mentions": [
+   "philippe"
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "30bc96d473e02759",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQdGlJVlJENmc0a1dfWkVSWlVONlRXWnBTbXJOZGZLcFB5QXJ6OEd6UlZvbGszdzY5a1owRzBBNTNlV09XX0xaRlM4dDczZ01od2VVQ3VCNWhZMUZhTDQtcTkwdHBDSmU0Ul8yMTNIOHpiRGJDSkxxQWhGeDE2YTJ5dlBseXJQNThPbnphMWxqcUxma1lXa3k4NzM0bllMNThJUGdORE9LSHAxX1JMN3k5eFV3alZrQWZzS3UxWkMydTk0WGxsd3pWaXVyNnFDSXhyR1RUNW5hZGhsdTd4b01rbHFTSFVFaHNjR3hoZUhBb0hCeHFzYmZoSVhHUXMtZEdldWkyOXI5VGRZY1VUZTdKRVdIN2tRU2JCRlE4LXIyN1BOY3hYZzZqSA?oc=5",
+  "title": "Proposition du RN d'interdire le voile dans l'espace public: \"Nos policiers ont autre chose à faire\", déclare Bruno Retailleau",
+  "summary": "",
+  "published": "2026-08-31T09:00+02:00",
+  "mentions": [
+   "retailleau"
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": -1,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "38427a63cf95cda2",
+  "outlet": "Le HuffPost",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNVmZHVVdVcHdVOHd6NEpvM2F3eXI3Ry11VDk0NFBkMXRHMVpPRnRYV1hWcDE2RFhPSWFpbmhIVXNwSVRfVEpwOVFmdmdoaXBzU25rdkU2dUNBaTZjeFJrSEdEQXo0aktVckVBbXQxaGhHd2h4eFdLNk1jUDd1Y0ZWU2VGdFNNb2JrS2N3b1kyM1lkRTEyQWc0VUg1TXk0dFhKLWp4dnJ1VGprREE3YTJUd2EzRjVZZ3ZkVnBfYXpmcmdIUFZWZV9xV0puSTJWOXhkOFJVMlRxTktMRmxfLVI5eXRrVTRwQzlLeVhibE5XMVQ?oc=5",
+  "title": "Écartée avant l’été et de retour (par les sondages), l’idée d’une primaire revient hanter Philippe",
+  "summary": "",
+  "published": "2026-08-31T09:00+02:00",
+  "mentions": []
+ },
+ {
+  "id": "39c2a0781f8b6670",
+  "outlet": "Europe 1",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORVhtMFhIazFuc1BQajFZRERFakV5Q3Nhem9yZnA4dFB1TEs3ek1HVWJBaDAzYUhtcEJYR3RzZ2pCcllYVWJBUjJvUVBiZmF0VU04OU9JUHNaTTlCSXpRaXc4b2VxenJfSk5hbmJhcm5DOHU2VzVLWFlkRDdYZlRBR2MxNU5Ccm41VElKRXZiMzBVakRyZGZMbFIwTDh3ZzhHc3A3dTlfMW9ldUZHUzFyX01RQTRnWV9SZXQtUEhvUUpCM3BGU0RLVlBEamxyZ3lPOXc?oc=5",
+  "title": "2027 : «David Lisnard est en train de réussir son coup», souligne Olivier De Lagarde",
+  "summary": "",
+  "published": "2026-08-31T09:00+02:00",
+  "mentions": [
+   "lisnard"
+  ],
+  "analysis": [],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "427ffd5cc34b6fb7",
+  "outlet": "Ouest-France",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQTnczWnNnb2ZNbVA5ZkZ4ZTVjN2hyTWdHS0xNcnVTNW1XMGxfa09Oa0hfd2RGQ0pUTFByaFJKeWZXVEl2NFRlQXBWUXI1aERhRU5xV3pkQ09PeW1XSUZhLVY0VE56MTlmak5xZktWZFhmVHdXZm0yeDMxcDBMdjhsd1dpMGRVV0t5T3pJX3A0QzFHaWZ6alJ5WTlsSUhUSmM2NDJudVgwakczTUd1eVJ2cG9kQWZ6TE5iZWdyVmNSd2RmQ2V2Q0NPZXQtaHlhcEx1NE5Sbl94R0RhVUF6RE43OUdVUFVTNS1NMUlJUG5pNDRhYVpYb1dheEROM181aEJlY1hIVUxRYXlJN29CMjQ1OV9peDU1T0lLWmVXWVhVWQ?oc=5",
+  "title": "Présidentielles 2027. « Acceptons l’idée qu’il faut stocker l’eau », dit Édouard Philippe auprès des agriculteurs",
+  "summary": "",
+  "published": "2026-08-31T09:00+02:00",
+  "mentions": [
+   "philippe"
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "459df47c1dd9dd0b",
+  "outlet": "Le Monde.fr",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxQaEpUTEZhbWhXRVR6ZHVnd21EZWRzY1BLVnVfcTlwN01kY2JiQXZ1SHJIVFZFOHZTanRwcjA2ZXN1TWdmTGZBanQ4RktkVWdtN0ZBV0RPYWhKckZ2V3QwUGNvRVhzbEhQVThyWGZ4bHh0VDgxTERYRUZoRlZLUTdQN2llU2ZEZjBwUUJTd3p0NXllOW0yWG5RQWxsSldCbFpBV2o3cm05YTZFQnNySGlWc2JiWUppX09PS3FTZFAwS1dTYXBYa0dyajdBbjY2RjFXT3V3OUFFTXp6SE90VGhNQ2RfNTFWMnV3WEFVbXV3eTRiWktLcXVBU0ExbWxQR2ZITFlxdkg2eFo2a3NnWGxFaDRwRzJHbm5YWEJyMVVsbXRxRVBEN19fMk16aTdmSE5UY1M1N2NQbGNmbmdOS3h4WVZR?oc=5",
+  "title": "Présidentielle 2027 : Laurent Wauquiez charge Jean-Luc Mélenchon pour mieux défendre l’idée d’une primaire à droite",
+  "summary": "",
+  "published": "2026-08-31T09:00+02:00",
+  "mentions": [
+   "melenchon"
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": -1,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "465c21012c7b4bee",
+  "outlet": "Libération",
+  "lean": "centre-gauche",
+  "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNMDVmU3NVQmlDejlPX3NHREJuczIyQkFnWEJIWjNrSEpfbEhKTHZvTm1Uekdua0h4TUlfSElYbVRWNGh6T192aFJldzJaUlZ1VzVWeXY4S3hkZ0VZM0h5N2RnZEVOWTNNMWRFaEprdTZWN2V3aFU4X0VESE9hdlNLWDBkT0RPZGlNSUtWUERzb2lvcWdxd3U2dFZab3BXb0F3STVOSzVGS3B5aE44ZmZBc1NwbVdIbDg0NWxMOWJ4X2hWS1VtMGF2c2VfTG53dXhtNnZyeEM1ZmRSZmsyT19sUll5WENXZnhHSTBUUHFhcUQzSWU5czJ3?oc=5",
+  "title": "Monsieur Retailleau, je quitte Les Républicains et vous n’y êtes pas pour rien",
+  "summary": "",
+  "published": "2026-08-31T09:00+02:00",
+  "mentions": [
+   "retailleau"
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": -1,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "47691df1988a07ef",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNamd5OGFfTDZ1bEtyUktLN005d09GVkJlVTZ3OXkzNDBZVmVCNDNFR0J6YUJlc2p3bktEcVoxaTAySThCSTZXdm1aYThtVWNGZDNVdEZnN3N3UWhhN2s0T1d3b0xvcTN2Uy1GT3FMOVZkUHpqdXQ4V3E1T0JrMFFrVnFDc3FEdzZ0dVdKUERPc3JNQUxoWUVlcnhoQ05jbmpkS1JDUzRSRmFrOVhmZERYMF9qeVhFbGxCNVVDSFdQUTJNdDhTM291Ry0tc210YlVGbFZabTRTcHV1eVFyNWVhOWZTLXZqb0xlcm9EUWoxTmdKbEkzOEV1QUFodEJZOERab1QwSjBfU0c2V3o2Y1ZWYUJPWThvWTBSeDRaUWRmeGhqaTVGZVNuNg?oc=5",
+  "title": "\"C'est une épreuve pour lui\": pourquoi l'entrée en campagne d'Olivier Faure dans la primaire pourrait contrarier les plans de Raphaël Glucksmann",
+  "summary": "",
+  "published": "2026-08-31T09:00+02:00",
+  "mentions": [
+   "glucksmann"
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": -1,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "4a7e912954b6ca14",
@@ -46,53 +254,65 @@
   "mentions": [
    "lepen",
    "melenchon"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": -1,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "7d4317b3f7c7d291",
-  "outlet": "RMC",
+  "id": "4ad2daaad93b6b10",
+  "outlet": "TF1 Info",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOVlpzOEJxdFFaeVY5VHlEb1pjODNrNjRJQkhmYmVXX2E2R0J0bjFhaWJTaGt6SHBwakFocHg5STFRbTB0eFkwQnJ5VTl5enUyREhpQUFlREUtWHNzQTJLVTczeFN0SUoybXNieFVRcEdkQy05aHFmSVFSTjVGdEdOSTZVYmRCbzZHNkNlMlhaSElEbC0weHZ1WGVsUGE4U0tuOEN4YWEtWEZNcWZQeW1VaThOVXp5Q2xtU3lZX1ctbHVOZzJycUVGT0RMZjlVc3lHSnBEanExVFNTcllic2FMY1M4VGp1TjJscVNnOA?oc=5",
-  "title": "\"Ça va braquer\": Marine Le Pen veut une \"amende\" pour port du voile, et ça divise en interne au RN",
+  "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQZ2FkbjYtSFphZ0l1WU16Y2FXTWxpdnBCYUs3bnZhZlNoYWNIWnBzZGJ1VXVzUENlc2RQeHpjZVJaUHZQeWlNa2dsQWs5SlJoWEJaRVVHVGNwMEVtSUZyczNuRkVDbS04cXBwa2VXZ3g1NFFNaHA4UFBvZmhTeDdXWjZWWjVFa2tGZzhIOFpZdWhMam9nTGZ6MFZhN21tdXBoSW9ReWh2VmQ2a0YwRVNmSTNUMU5pdEJnRDB1c1NvSklEZk9weHVPbkdLSUs3bUd0UHJUVTkzaFQxNlN4YzU3Q1VDVQ?oc=5",
+  "title": "EN IMAGES - Chantal Ladesou, Marianne James, David Lisnard... Il ont rendu un dernier hommage à Philippe Bouvard",
   "summary": "",
   "published": "2026-08-31T09:00+02:00",
   "mentions": [
-   "lepen"
-  ]
+   "lisnard"
+  ],
+  "analysis": [
+   {
+    "id": "lisnard",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "94fa80e24beb3b50",
-  "outlet": "Les Echos",
+  "id": "4e6b16f8e42ca560",
+  "outlet": "l'Opinion",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQUpRaVFwdTkxVXNmTlVqU2Jkd2puZFZXbU1SV0hlZ1hudXBnTFlvTmUzWURjbV8wOENtUWZsZ3ZXV1hWQ1NkdGZySFN5UlJRdmdUU1lKM3F6WDFRVEE5UmJYWkxFeTc4alI1dVB1S0tjU1hLNkVZZHRtVEpWYV9NX2NxblY0UU1Na1JtSlVNN192aW16NnA5VA?oc=5",
-  "title": "Le Pen-Bardella : calages et décalages",
-  "summary": "",
-  "published": "2026-08-31T09:00+02:00",
-  "mentions": [
-   "lepen"
-  ]
- },
- {
-  "id": "c1c291fca4a0db12",
-  "outlet": "Le Point",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRF9oVFFmWmtveEw5emlqdm1BT3RuYmxSQTBHTzcwVndWQWJBcExLN0Y1Z1BoVlY2Z05DNTVFeWZLTVl0UTZBOWJWdWstQ210dHU0Ynh2dDJfOUVfenZucnJvLWotMUZuU0FVZXNGeVlWclNha2dlb2tkeW9TVngzSm1xSnJmOW0zMDJnUFhncWZHM3hHdzlMR29DdDE?oc=5",
-  "title": "Le Pen-Bardella, de l’eau dans le gaz ?",
-  "summary": "",
-  "published": "2026-08-31T09:00+02:00",
-  "mentions": [
-   "lepen"
-  ]
- },
- {
-  "id": "d45aca06f7f62055",
-  "outlet": "Public Sénat",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNZ3QtX3lSTUhVY0NSblJvcjcwTGFuNXVWUnpyODBjQ3d1REJ3aC1CcUNmdUlkSWxvRElfY3cwa1RmRXNKOE9tTHRKTVdJQlJYZ0RPNUhNRTZrb2NnR21xZ2JnSVdUQ3VxdXkxMXVhcHl1U1RyVFZxV3dPV2pGaEw1WlozWTdmdHFuZVR3aDE2S2l5QkNPU05GRlRra0h6d2JkbjJmQ0RSb3c4NzdhU1F6aTEzQVJVWUVLZ0V2UXY2Y0tPV09jZS1VVkk2S3FsN0RUNlRLV0VmY2N1YVlSbEpneFk5TWxyblA3NjhB?oc=5",
-  "title": "Sanctionner le port du voile par une amende : le RN maintient sa proposition polémique et inconstitutionnelle",
+  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNXpTNnBsNHpwT2I3RkNLNnh2VnNmeHN3TTd6MkdxVzB4Q2ZCZEIxaDk1a0Y3UFBvOE1mQ05TUWxfM1hZUGhlSGNEYzRyMWt1dm5uSnF5c2t5QVFzU0ZBNXZxc0Rlemt1dWJfTlMxVDhIajRLVDh4TnBxYnR1SGZ4Wkg1cTd2d0NSTnlPUEJSaHFxZGhPVWxwQ1RrN2o1RkdycjNsTUtXWjFYVlRZWHRQb0pkVDN2V01CYU9xTEtiUFJWNU9oZ2I0?oc=5",
+  "title": "« La dispersion est mortelle » : Hervé Morin défend son idée d'une primaire de la droite et du centre",
   "summary": "",
   "published": "2026-08-31T09:00+02:00",
   "mentions": []
+ },
+ {
+  "id": "4ece520fd91b10bc",
+  "outlet": "Capital.fr",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQX1pCblZaUlZhOGhsbUZrTktXN0l5cXlmVU1mZXdSWjVLd3hMZVVHeXMyQmcyVDI0QWl6Y0FOV3BlTWYyVHczWHdSSXhwbzZ0eWlnaUp0RFc3dHdUbGY2d2xaalZYRVF3RldQSEZDNlc0dzFmbjJ0ZWtrNUxjbVA2TjZ4b0ZFQ3BmU0p6M0o1M0Q0NHUwQzFhVy1SRElwWVhraEFSVmtxNnVLMVlSZzcwWXVsWFI3VDJTeHZueW5UMjZ3bmVZVVNHMlY4VFloaXVUOXBwNkQ0cUUydExaNURDZGdQdw?oc=5",
+  "title": "«Open bar» sur les arrêts de travail, Edouard Philippe s'explique après ses propos qui ont fait réagir",
+  "summary": "",
+  "published": "2026-08-31T09:00+02:00",
+  "mentions": [
+   "philippe"
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "50a6f1924c233314",
@@ -105,30 +325,6 @@
   "mentions": []
  },
  {
-  "id": "459df47c1dd9dd0b",
-  "outlet": "Le Monde.fr",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxQaEpUTEZhbWhXRVR6ZHVnd21EZWRzY1BLVnVfcTlwN01kY2JiQXZ1SHJIVFZFOHZTanRwcjA2ZXN1TWdmTGZBanQ4RktkVWdtN0ZBV0RPYWhKckZ2V3QwUGNvRVhzbEhQVThyWGZ4bHh0VDgxTERYRUZoRlZLUTdQN2llU2ZEZjBwUUJTd3p0NXllOW0yWG5RQWxsSldCbFpBV2o3cm05YTZFQnNySGlWc2JiWUppX09PS3FTZFAwS1dTYXBYa0dyajdBbjY2RjFXT3V3OUFFTXp6SE90VGhNQ2RfNTFWMnV3WEFVbXV3eTRiWktLcXVBU0ExbWxQR2ZITFlxdkg2eFo2a3NnWGxFaDRwRzJHbm5YWEJyMVVsbXRxRVBEN19fMk16aTdmSE5UY1M1N2NQbGNmbmdOS3h4WVZR?oc=5",
-  "title": "Présidentielle 2027 : Laurent Wauquiez charge Jean-Luc Mélenchon pour mieux défendre l’idée d’une primaire à droite",
-  "summary": "",
-  "published": "2026-08-31T09:00+02:00",
-  "mentions": [
-   "melenchon"
-  ]
- },
- {
-  "id": "bf3b88e5b30a1812",
-  "outlet": "Watson",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZ2t4Um14X0Ixa3NPM2VTRmE0eUNQWjRzRGd5OVBXb25tUE5qMlRGOFMyZlR2ZS1JMWFSMkg5cFhTYVZkRmdoR3FyY21pTHlPUmE4eWUxZnQ2NVJJTi1VQ0FqNG1BY3hJSjFUVEdGUUdDZlBtbXo5eXJ0azh1dzExeHpIRjVrYTZ3bmNqWWVQcjBDWXFGSnJtVjFVcXdVSkNMWUVkd2x4d1ByV3Z4bEdxc3dJQzVBcEJEYkI4WW1qd3JhQQ?oc=5",
-  "title": "La Jeunesse socialiste suisse a été se former auprès de Mélenchon",
-  "summary": "",
-  "published": "2026-08-31T09:00+02:00",
-  "mentions": [
-   "melenchon"
-  ]
- },
- {
   "id": "52dade02333151ce",
   "outlet": "BFM",
   "lean": "non classé",
@@ -138,31 +334,117 @@
   "published": "2026-08-31T09:00+02:00",
   "mentions": [
    "philippe"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "2228a83d7e104e53",
-  "outlet": "LCP-Assemblée nationale",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOGNxTWFuSmViSC05Mmo1U1RYMHBTdWVBcldXVDBzcDV5a0cxcVdUT2h4RDRBVy00eE1IMERmVU84YTBVSElCOUI1NXhUVU5YUVpCakNuRGFtREN1MHZBNk1td3phbWNmUUJyUWl1bDBNRzViakt5OTdmRXJ0dERINUtmU045Q004SExqSjY4eTFQVHloaDNUU19PQXAxQkZKdVM4aVdxeTNGRVpORElqaU53?oc=5",
-  "title": "\"Nouveau parti\", \"bannière commune\", candidats uniques… comment Édouard Philippe prépare déjà la bataille des législatives",
-  "summary": "",
-  "published": "2026-08-31T09:00+02:00",
-  "mentions": [
-   "philippe"
-  ]
- },
- {
-  "id": "1140cd51e3a79ab2",
+  "id": "62180e752333053f",
   "outlet": "BFM",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNdjN6Z29PaWdWTDd1SURhbmEzYUtFNWRlc01TQjhVYURBSlNnN3d1WmhHYlJsdkNhNmVBa1llcDFWcFBMMDM1SFNGWE95dFp3cFV5UHNuWUh6QUdVenBIdTM3cVpoMHV5ZFdtV0VuYVhpQ3B3T3RPT3pJRHY1R1FDOFFRLWdXMS1kaElETEFmWDMyUFhvekF1Z1NPaE1sWVRrcG5DNzc1NXZNQTZfVzhyNUFFOHhrbGdoVFV5dnYtN2libWN0V1NORjlubjR3dDdlLWtCM05uVDU4bF9VUjNHcVJQQk5TVFFaQWZEb19qc29WM1VYeUR2NmYyNHlVUHBDTGk1cDZib3lIeUY0UUI5SmljOXEwcGhvSG9oUFlFSDZNcDFDMmxNdnQ3am1SWmdsZ2hubG05Nl8?oc=5",
-  "title": "\"Il n'y a pas match\": pour Maud Bregeon, Édouard Philippe est le seul du bloc central à pouvoir accéder au second tour de la présidentielle",
+  "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQMTItSTFMT2U5bHR3SGM4dXRLRmVYc1ZyRW5iZnRRT05CV3RBSVVRdG5rcXA4Nk5PZE15a0pXdDZTaXJuVmY5TThNcm9sUTQwREZaMWJ3MHpycmRsZTNQSHVqdU1tNHV2OTI2RGcxY1oySEFVNVhzQ0NuejFXdF9pWUVtU3o4bjF2aTdrZS0wRGlsV1VJazUzUkp4Ullzb1BXV1hvaFliLUVxbFQ4M0k0MnE5S0RPcHlJOVhwck1BSEs5Z3E5RkhZTWxleDFWV0hMdXZkOEVNdGVmWXhoWHNTNm05ZU1wUlBqcE9FbFc3TzBiV0JibUJ5TlpyRDZyakFPZFE?oc=5",
+  "title": "Port du voile: Édouard Philippe juge \"pas nécessaire d’aller plus loin\" que la loi actuelle",
   "summary": "",
   "published": "2026-08-31T09:00+02:00",
   "mentions": [
    "philippe"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "62de6ce1d07ba50c",
+  "outlet": "La Lettre de l'Expansion",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYlA2Y0V6MnN3U3JudE9pMGUzVGFNcGhkUi1TMDhFWmhZMHZmWk1sRmE4Vy1kZTZTWEJQNXczYTZBYjFXbXRBUTF2b19YT183Y2JRR1FaNmg0TmdVaXlWLVAxMkRma0Njc0dMREJBUk1SSjNIaDZoUWthYUpaVHE5NDhSYk5TZ3JjLTY3bS1feTk1Slg4YUNtbGY1ZHliUVU?oc=5",
+  "title": "PCF : Fabien Roussel attend le vote des militants",
+  "summary": "",
+  "published": "2026-08-31T09:00+02:00",
+  "mentions": [
+   "roussel"
+  ],
+  "analysis": [
+   {
+    "id": "roussel",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "645a16e1de964987",
+  "outlet": "franceinfo",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNYTlya0pQd2diRlJkR2UwSjNWclVPZEVWWEM4ODZ1VlBHSlE3OGQ0ejNYVW9wb3h5X0FLWEVrMlRtMDJjTVk5MnB4ZnI2NDNQVXQxdlJncUpYTGVLellNUTBzQVo5WHdYbUpMdy10RVBfODh2S2dKYzVNYXN3dWNPZXVTUlplV09KSC1TLWJ5d05pUTVnbWZhbzh4X2tCQ2lFYmk1UTRqQVRXdzRSTGd3elhPbVp2Z3VEVDlDSTcyeEpQc0hXNjhxX2QyZG9mdi16bVBkR1hrX2JJMWhoR3dxazlLTkFXX1NsRVNPNTFB?oc=5",
+  "title": "Présidentielle 2027 : Édouard Philippe et Gérald Darmanin affichent leur unité",
+  "summary": "",
+  "published": "2026-08-31T09:00+02:00",
+  "mentions": [
+   "philippe"
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "6b68e2446ada359a",
+  "outlet": "Yahoo Actualités",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTUw2RGlzdFB6Y2JwTm5XWmM4elhTLUJkUTFkN0dBV1hmU1ludXNJV2FzcUlZay10cjhzVjUzTHVZSVVjTjdvV2ZYaWUwQXZtMWtyMFBsREM5cWY1VFU0a3pSQkVpd3hIWERzb0hNNDJaWTZiUmJfVkc3aHgwUjVYc0t1M21NQ3FOdmhURGdR?oc=5",
+  "title": "Présidentielle 2027 : pourquoi Marine Le Pen bénéficie d'un électorat plus stable que ses rivaux",
+  "summary": "",
+  "published": "2026-08-31T09:00+02:00",
+  "mentions": [
+   "lepen"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "72076fb56ecd9030",
+  "outlet": "TF1+",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPVEk1WkM5N1FNN21fSVhRYzhVdUVObnpJd1RlRVJaYllFZzRIYng0LUdFS1ZFRkJ6VnFMNjB4ZC1vY0xYWEdudVNFU2k4Rko5UjVDeTdkNDBubEYzd05jMFUyZW9fUjU4RUNUMXZqb25xYkJWb3R6Ujl6SjFLMkNNMXJLRWpEYXVLWDB6NzJLbUtYdGtaQk83Z0t3d19CRkZtTTk1NF9FVFBfVmJjQ0U3Skhzekw4VzN6ZmZEU2VzRE0zalVvdm5kY3A1ak93cXIyNDBjcW9nM1FVcURMLWE2Vk1MR2tyQXhkcHZKYll3?oc=5",
+  "title": "20h30 Médias - David Lisnard, Édouard Philippe, Raphaël Glucksmann : la bataille des images - Quotidien",
+  "summary": "",
+  "published": "2026-08-31T09:00+02:00",
+  "mentions": [
+   "philippe",
+   "glucksmann",
+   "lisnard"
+  ],
+  "analysis": [
+   {
+    "id": "lisnard",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "75fe94b6cac449b6",
@@ -174,7 +456,203 @@
   "published": "2026-08-31T09:00+02:00",
   "mentions": [
    "philippe"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "7d4317b3f7c7d291",
+  "outlet": "RMC",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOVlpzOEJxdFFaeVY5VHlEb1pjODNrNjRJQkhmYmVXX2E2R0J0bjFhaWJTaGt6SHBwakFocHg5STFRbTB0eFkwQnJ5VTl5enUyREhpQUFlREUtWHNzQTJLVTczeFN0SUoybXNieFVRcEdkQy05aHFmSVFSTjVGdEdOSTZVYmRCbzZHNkNlMlhaSElEbC0weHZ1WGVsUGE4U0tuOEN4YWEtWEZNcWZQeW1VaThOVXp5Q2xtU3lZX1ctbHVOZzJycUVGT0RMZjlVc3lHSnBEanExVFNTcllic2FMY1M4VGp1TjJscVNnOA?oc=5",
+  "title": "\"Ça va braquer\": Marine Le Pen veut une \"amende\" pour port du voile, et ça divise en interne au RN",
+  "summary": "",
+  "published": "2026-08-31T09:00+02:00",
+  "mentions": [
+   "lepen"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "86bc40068a77c0f9",
+  "outlet": "TF1 Info",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZG9WeGE3M1RIN1I2MDFpVTBGdUpXWUltSERZUGFsdEZldFdmYVhFZldpNXFSdUc4X2ljOW12bnhfczBzYnl6RXV4bmMxR3ZLZ05fbktpaC1jVFJya2VZZFJLR2VFcXN0UE1lUjMyYmdPYUlRXzlFRUhkTWRPRnhmb1dYTmN5TkgzdnhVVWY5Q1Zqa2hwQ2tGNkFiT043UFpqSGJGclNoMkVQTXF2?oc=5",
+  "title": "Gaspard G - Les dossiers - François Ruffin face à ses dossiers",
+  "summary": "",
+  "published": "2026-08-31T09:00+02:00",
+  "mentions": [
+   "ruffin"
+  ],
+  "analysis": [
+   {
+    "id": "ruffin",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "8987d53bc438cae2",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNdU56OEkzUjUwazR4cUNzX21IU3ZEcFRtaHk5NF8tcFBmU2ktTEJYMFJLT1c4a0VvekZyRGFDQ2gySll6UWFlLTZIZlZzZVdsd1Jqd21JWjBCUG5ZNEQ0VHdpM0NQcFhqQ2hFc2xDWncxNXhMeGhzMnh6ZTJEMjYtakxkbTlnRkhLUEY5OUl4MzF2SUdCckt1ZFdOSy1taEdaNzJpaE5FcUw2MWNtSU1KeGMzVnJKMkNzeEwtU2V1NmQ2QndrU29XV19TM0tUaW1VTnBxeHcxRzVuUDIxV25zbW9uVmlnVFc5RVU2RHE2YnRyenhrS1lxVXNELU94dmkxVVNwY1d2dldUVk5GQ2wxNHN2YlIzd0YtajdHVXd0YndZN25F?oc=5",
+  "title": "Présidentielle 2027: Marine Le Pen confirme vouloir soumettre au référendum \"la pénalisation du voile islamiste dans l’espace public\"",
+  "summary": "",
+  "published": "2026-08-31T09:00+02:00",
+  "mentions": [
+   "lepen"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "94fa80e24beb3b50",
+  "outlet": "Les Echos",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQUpRaVFwdTkxVXNmTlVqU2Jkd2puZFZXbU1SV0hlZ1hudXBnTFlvTmUzWURjbV8wOENtUWZsZ3ZXV1hWQ1NkdGZySFN5UlJRdmdUU1lKM3F6WDFRVEE5UmJYWkxFeTc4alI1dVB1S0tjU1hLNkVZZHRtVEpWYV9NX2NxblY0UU1Na1JtSlVNN192aW16NnA5VA?oc=5",
+  "title": "Le Pen-Bardella : calages et décalages",
+  "summary": "",
+  "published": "2026-08-31T09:00+02:00",
+  "mentions": [
+   "lepen"
+  ],
+  "analysis": [],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "9680862be6ab0f42",
+  "outlet": "Le Figaro",
+  "lean": "droite",
+  "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQY3k1MGZFeG9STmZ2V3pkdTV3NzJLeHE3SnJFTG50RGs3SG9GQllYYmt1S3FPSC1IdE1veFFQQlJ3dEh2U1dqaUxMMmMyS1FLem1saDg4ZEFlMjdhMVRnMlVVN0pZV3RRcnJoYTZ3cDBnQ0Rnei1lQ3cxOFBBOHBxaU5TTWxCX3FfeDhPSzgyMmFzd0E1cmhpUHJsVTEwY0NjZXdCYjBnMXp0R3l3d1daYVlRakEyWWhRa2N0cmRobUFqMXA1aVJQSmFHNGJaNlRzSXdMUmJfRUtHNnI3TVgzamQ3QmhwLXBUNlk4ZXIyTkQzdXpSemVmaW5lVWR5a3lXYk5xV0IyNWF6bmc?oc=5",
+  "title": "«Je propose une véritable révolution culturelle pour l’école» : Bruno Retailleau dévoile son projet de rupture",
+  "summary": "",
+  "published": "2026-08-31T09:00+02:00",
+  "mentions": [
+   "retailleau"
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": 1,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "9a8893679ef4babc",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQR1lWUmVBN1dQR1BZci1NV0h4eEpmWXRDamExM1NtXzB1UmkyMUIwdU9QSV9DZTZSdWFWMTBfSVRJNGhmR0F3VkhFNUduV2hqWktxVF94TmdnVnpqMkR5WFE2aFlPalZid1lXbnlSUFVFZW94NXpkNm8taGotRTJVWkhzajR0WEp5Q3JXb3JSN184T05ubEJVeXZGWGFseDNKX2RNN1B4ZGducDNtM1JodnpjRklkUWFxRW5BVHhzTklGZw?oc=5",
+  "title": "Édouard Philippe, un homme en campagne - 31/08",
+  "summary": "",
+  "published": "2026-08-31T09:00+02:00",
+  "mentions": [
+   "philippe"
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "9b3fb8d9f2d13c1a",
+  "outlet": "StarMag",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQM0ZXbU1DSldUdUM2VTEtR2ZyZ3h4NG9UMnNxTy1OanREVW9VdmUybzdKWk4ySklxNHZDM1ZEYVltaTYxanBtRko2bTVGdldKRUMweFM4ek54ZDl6alNtUTNiZ2xkTUlaRmdwN0FSazBlbFlJR240aDdVWDlhQ2hsM2NNaWpWbGtjSWtlNmVNeXVVNjFqLWo5YXItSVJJNVdBTm85aExLNnFjUXpZZWtkam14QzZsSWZPbEpyZVJSYWlSWkR6ejFVeDRaV0VkVmVOWmZNNG9n0gHbAUFVX3lxTE5QVHpLSktBYS1DLVc2c1ZnMkxZMy1NU0ZTb3BobnhCdkhZOHdPbnNxNlRtczg5RGRQV1ZON2tMVWZyeGpFbFhJWW1Gc3E3eHBXXzNaRkF0RHExcDN2R1hHaVVuMi1nRmJsWWN3TDd4SHlwQ0J3eTFnd2ZUUm9WbVJ5UkVlUWFfelJuaEQyWTliRm1PZnE4UEZOQmJ0bmJyXzF6eGZXMndoaDRqdlAwQ0JtOEZVLUZua3I3bkpCd1FWOUo3RG42THhKUmtTNGttVVRXWHBKQkNDT3hmcw?oc=5",
+  "title": "Sarah Knafo : son message pour l'anniversaire d'Eric Zemmour fait réagir la Toile",
+  "summary": "",
+  "published": "2026-08-31T09:00+02:00",
+  "mentions": [
+   "zemmour"
+  ],
+  "analysis": [
+   {
+    "id": "zemmour",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "a2ebad392b8193e2",
+  "outlet": "Ouest-France",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNaGo4X3IxbS1FVnh4b0tBSzhOaFFpLWV0RG1kZ20zT0dzT19GRlFaV3RWWUJ0Y0wxaGE4Q2ZBWmVoR3BYblQzMjJvSjRCcEUxY01TLTh6YmtqalIteFdiMm9idE1CalRVc25QLXlmZk1tLUR4ZVJjb3pwWXNlSm9qSm40Z2xKZE1lbVZhdmdNeWZocG9wMVloZkZGRFV2TTQ0dm9KWldFWmlwdUltRml6SGtFakRzeXBRam9nTFNKaDBFajRabHlZeENUYWo1bURBaW4zaDQzOFFfQnZKNjFibG5OQ1poamUzazdOYzh5emhsd0lwc3RkTWstVXdENkVrV0RJRWFueW1WeGdfejNYRkplVm1xRWI1aEE?oc=5",
+  "title": "Présidentielle : David Lappartient soutiendra Bruno Retailleau, et entretient le flou sur son avenir politique",
+  "summary": "",
+  "published": "2026-08-31T09:00+02:00",
+  "mentions": [
+   "retailleau"
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "b24f2b73c9d7f54c",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNX21laFRJa0J5LV9Mdk1EaU5ubVFkbzZ6Unh3MC1WWlVjWDVGeDVfRV9IaGtZRDFaZjYwdl9Xdy1URGN4M0RoVW9IclZ5TFBtaG9pS0hsZm9OTUFxX2JyQnVDM2FXLTd4LTFUNmp4VHg0bklndXp2WENxS1ozT09JZFVPUEZGSlFRNzI2REVwV3lGMTBLbmdDRmYwVVRFeWFGblpQQUhkZWNZYUhNa29fQ0tHMHFUY1NDMVhhaWtDNHpzYzdMaFdKNUI2aG1ZQVRTN29LdDAzLWsxS19XbThDSUVOZU1FcjBBaVBBRHdCTjBCbWU1OFRnbWJLVGtpWkFG?oc=5",
+  "title": "Obsèques de Philippe Bouvard: le maire de Cannes, David Lisnard, présent pour rendre un dernier hommage au journaliste",
+  "summary": "",
+  "published": "2026-08-31T09:00+02:00",
+  "mentions": [
+   "lisnard"
+  ],
+  "analysis": [],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "bd5948a13a0bf5f8",
+  "outlet": "l'Opinion",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZHZsVkpqNHRFa3dhbTVadW1GYWcwaFZ0T2NJY3VrMmFhS3V1LU9Ubm4tenBNR3M5RXlwRS1rdC1HTTBlcE1ZQnhJWm5oS0ZBTWRjWGRQQjN0ME51LUl6TnozOU13WXo0MFdNOEtYMG92UU5NSmEyOGg5cktpMWlVeWh2WTVwMllhZTZZ?oc=5",
+  "title": "Bruno Retailleau veut dynamiter le collège unique",
+  "summary": "",
+  "published": "2026-08-31T09:00+02:00",
+  "mentions": [
+   "retailleau"
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "be30ccab41bc2189",
@@ -186,14 +664,146 @@
   "published": "2026-08-31T09:00+02:00",
   "mentions": [
    "philippe"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "38427a63cf95cda2",
-  "outlet": "Le HuffPost",
+  "id": "bf3b88e5b30a1812",
+  "outlet": "Watson",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNVmZHVVdVcHdVOHd6NEpvM2F3eXI3Ry11VDk0NFBkMXRHMVpPRnRYV1hWcDE2RFhPSWFpbmhIVXNwSVRfVEpwOVFmdmdoaXBzU25rdkU2dUNBaTZjeFJrSEdEQXo0aktVckVBbXQxaGhHd2h4eFdLNk1jUDd1Y0ZWU2VGdFNNb2JrS2N3b1kyM1lkRTEyQWc0VUg1TXk0dFhKLWp4dnJ1VGprREE3YTJUd2EzRjVZZ3ZkVnBfYXpmcmdIUFZWZV9xV0puSTJWOXhkOFJVMlRxTktMRmxfLVI5eXRrVTRwQzlLeVhibE5XMVQ?oc=5",
-  "title": "Écartée avant l’été et de retour (par les sondages), l’idée d’une primaire revient hanter Philippe",
+  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZ2t4Um14X0Ixa3NPM2VTRmE0eUNQWjRzRGd5OVBXb25tUE5qMlRGOFMyZlR2ZS1JMWFSMkg5cFhTYVZkRmdoR3FyY21pTHlPUmE4eWUxZnQ2NVJJTi1VQ0FqNG1BY3hJSjFUVEdGUUdDZlBtbXo5eXJ0azh1dzExeHpIRjVrYTZ3bmNqWWVQcjBDWXFGSnJtVjFVcXdVSkNMWUVkd2x4d1ByV3Z4bEdxc3dJQzVBcEJEYkI4WW1qd3JhQQ?oc=5",
+  "title": "La Jeunesse socialiste suisse a été se former auprès de Mélenchon",
+  "summary": "",
+  "published": "2026-08-31T09:00+02:00",
+  "mentions": [
+   "melenchon"
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "bf706f53da40b876",
+  "outlet": "Le Parisien",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPT1FfcURpZnJ6cmN3RDc2QkFsR1BJckdvT1p6eTUyeXo1aDl5SS1nSnJ4NUJBWVJFbkp5N1JsSGI5LVl3dHJ6all1YmVYZkU3TkVFRG42SG5LV2dkYktGZEktMm1wb3g0UEpQSVVvMEY4RWxEZGlJaUtFRjBrQXNFSXM3UGU1ZDlsMGlsYVBnakVydFhjc0NiandXRHUwRWh1eVpabkJpbjRSTGVyYjJtbEJqMU9rLVlUcktmMTNxdGxFMGJ0QU9hVXc3YWpPZVBqcTJ2NTc3d2dXUVRFWnhPTDlrLVRfekgtVUZsc1NpbmJqNllfbHlYbWlhbFJaMFFtWVkta3NOMGdoaWEyaDdJcTFtMl9zQ3pHRGdmRWRCSQ?oc=5",
+  "title": "« 67 ans, c’est trop dans un premier temps » : les retraites, la réforme qui colle à la peau d’Édouard Philippe",
+  "summary": "",
+  "published": "2026-08-31T09:00+02:00",
+  "mentions": [
+   "philippe"
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "c1c291fca4a0db12",
+  "outlet": "Le Point",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRF9oVFFmWmtveEw5emlqdm1BT3RuYmxSQTBHTzcwVndWQWJBcExLN0Y1Z1BoVlY2Z05DNTVFeWZLTVl0UTZBOWJWdWstQ210dHU0Ynh2dDJfOUVfenZucnJvLWotMUZuU0FVZXNGeVlWclNha2dlb2tkeW9TVngzSm1xSnJmOW0zMDJnUFhncWZHM3hHdzlMR29DdDE?oc=5",
+  "title": "Le Pen-Bardella, de l’eau dans le gaz ?",
+  "summary": "",
+  "published": "2026-08-31T09:00+02:00",
+  "mentions": [
+   "lepen"
+  ],
+  "analysis": [],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "cd2e89b5fb5987f6",
+  "outlet": "Regards",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBfVWNrWGVKS1NVN0d4dHZJYldfS2xvVzd6UUQ5WTZJTzNiRHFfaGRQajdZZ0x4dTlXR1YxTHlUZExYWjFOWnpSRVpYVkdLMDBBOERUb3N3dF9td0phNUhKTkNHMU1sNjlKV2pSQ2JURVZnZw?oc=5",
+  "title": "Primaire socialiste : Mélenchon n’est plus seul",
+  "summary": "",
+  "published": "2026-08-31T09:00+02:00",
+  "mentions": [
+   "melenchon"
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "cf3a3044977be262",
+  "outlet": "TF1+",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSG5aRmtzRmJTek4wSjI0SnZ0MEd3SnU3bHZ6TmdURUhnaWJqN0VjcDZyV2xWRmZPVWRtazNvaTNja0dVX0g2bDB2V1l5MGVJMVdoM3d0NXI1UmhIRVJnRk1TRkRoWlJUMFE2YktGNEJMcm1wWEpJamczRXBnenpndW4yTVdJRDFDR3J1amloVHRoWTJMOUNyWVp4cm9GV0lPRmxWNHRkVWV4dXFGNENBQWJVcHIyaHlQeTZHQ21tTElXRHRITm5R?oc=5",
+  "title": "GuiHome reçoit un appel improbable de Raphaël Glucksmann",
+  "summary": "",
+  "published": "2026-08-31T09:00+02:00",
+  "mentions": [
+   "glucksmann"
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "d45aca06f7f62055",
+  "outlet": "Public Sénat",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNZ3QtX3lSTUhVY0NSblJvcjcwTGFuNXVWUnpyODBjQ3d1REJ3aC1CcUNmdUlkSWxvRElfY3cwa1RmRXNKOE9tTHRKTVdJQlJYZ0RPNUhNRTZrb2NnR21xZ2JnSVdUQ3VxdXkxMXVhcHl1U1RyVFZxV3dPV2pGaEw1WlozWTdmdHFuZVR3aDE2S2l5QkNPU05GRlRra0h6d2JkbjJmQ0RSb3c4NzdhU1F6aTEzQVJVWUVLZ0V2UXY2Y0tPV09jZS1VVkk2S3FsN0RUNlRLV0VmY2N1YVlSbEpneFk5TWxyblA3NjhB?oc=5",
+  "title": "Sanctionner le port du voile par une amende : le RN maintient sa proposition polémique et inconstitutionnelle",
+  "summary": "",
+  "published": "2026-08-31T09:00+02:00",
+  "mentions": []
+ },
+ {
+  "id": "e091d834665e31b9",
+  "outlet": "Le Grand Continent",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQclBiWkpGVGZpTVhBR1I2TTFYUWd5WFZWMEI0QjhTdXNQYm1qUndUamFnbTEwcHVRYW9OLTJxWVBtWVhWNHZJeFp1RTZmc0gwNDRPUElmUVpsMzJiY1BWU3ZMa0tMZFJ5R0tCNWY2a1NJaUJhM3NXT3RvMEV3elFVeC1xY3JfS3hFYlNyQ0Jfbk5GclhGN1QwcmpJX2haRHRpZVkzWDNlbkM?oc=5",
+  "title": "Marine Le Pen peut-elle encore perdre l’élection présidentielle ?",
+  "summary": "",
+  "published": "2026-08-31T09:00+02:00",
+  "mentions": [
+   "lepen"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "e472f73a681a5c8b",
+  "outlet": "7sur7.be",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZ3FCMDE4bE9WaU1LUXMyM28wMWlfT2dWTnRpRHBTMnAzWHBCeUVGY1R1dnlQUXVVMU1IODB0Z0NNR3IxWEpnbzRLQlJDcWhvTTdTTU03bktuenlHUlJtUVQzbXB4ZUUyaGxNaWZiTFJsSkZyYWhBSFZlSXlRTjBQVkN1aWRMNVNPVGVjejZVSXBKZTZOdmtoRGxCbW9pTVllcm5ucmw2Qmc1dXhmX2Nqb3lFQU1XcnBQOGNtbg?oc=5",
+  "title": "Natacha Polony se lance en politique et pourrait être candidate à la présidentielle",
   "summary": "",
   "published": "2026-08-31T09:00+02:00",
   "mentions": []
@@ -209,67 +819,20 @@
   "mentions": [
    "philippe",
    "attal"
-  ]
- },
- {
-  "id": "4ece520fd91b10bc",
-  "outlet": "Capital.fr",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQX1pCblZaUlZhOGhsbUZrTktXN0l5cXlmVU1mZXdSWjVLd3hMZVVHeXMyQmcyVDI0QWl6Y0FOV3BlTWYyVHczWHdSSXhwbzZ0eWlnaUp0RFc3dHdUbGY2d2xaalZYRVF3RldQSEZDNlc0dzFmbjJ0ZWtrNUxjbVA2TjZ4b0ZFQ3BmU0p6M0o1M0Q0NHUwQzFhVy1SRElwWVhraEFSVmtxNnVLMVlSZzcwWXVsWFI3VDJTeHZueW5UMjZ3bmVZVVNHMlY4VFloaXVUOXBwNkQ0cUUydExaNURDZGdQdw?oc=5",
-  "title": "«Open bar» sur les arrêts de travail, Edouard Philippe s'explique après ses propos qui ont fait réagir",
-  "summary": "",
-  "published": "2026-08-31T09:00+02:00",
-  "mentions": [
-   "philippe"
-  ]
- },
- {
-  "id": "427ffd5cc34b6fb7",
-  "outlet": "Ouest-France",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQTnczWnNnb2ZNbVA5ZkZ4ZTVjN2hyTWdHS0xNcnVTNW1XMGxfa09Oa0hfd2RGQ0pUTFByaFJKeWZXVEl2NFRlQXBWUXI1aERhRU5xV3pkQ09PeW1XSUZhLVY0VE56MTlmak5xZktWZFhmVHdXZm0yeDMxcDBMdjhsd1dpMGRVV0t5T3pJX3A0QzFHaWZ6alJ5WTlsSUhUSmM2NDJudVgwakczTUd1eVJ2cG9kQWZ6TE5iZWdyVmNSd2RmQ2V2Q0NPZXQtaHlhcEx1NE5Sbl94R0RhVUF6RE43OUdVUFVTNS1NMUlJUG5pNDRhYVpYb1dheEROM181aEJlY1hIVUxRYXlJN29CMjQ1OV9peDU1T0lLWmVXWVhVWQ?oc=5",
-  "title": "Présidentielles 2027. « Acceptons l’idée qu’il faut stocker l’eau », dit Édouard Philippe auprès des agriculteurs",
-  "summary": "",
-  "published": "2026-08-31T09:00+02:00",
-  "mentions": [
-   "philippe"
-  ]
- },
- {
-  "id": "62180e752333053f",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQMTItSTFMT2U5bHR3SGM4dXRLRmVYc1ZyRW5iZnRRT05CV3RBSVVRdG5rcXA4Nk5PZE15a0pXdDZTaXJuVmY5TThNcm9sUTQwREZaMWJ3MHpycmRsZTNQSHVqdU1tNHV2OTI2RGcxY1oySEFVNVhzQ0NuejFXdF9pWUVtU3o4bjF2aTdrZS0wRGlsV1VJazUzUkp4Ullzb1BXV1hvaFliLUVxbFQ4M0k0MnE5S0RPcHlJOVhwck1BSEs5Z3E5RkhZTWxleDFWV0hMdXZkOEVNdGVmWXhoWHNTNm05ZU1wUlBqcE9FbFc3TzBiV0JibUJ5TlpyRDZyakFPZFE?oc=5",
-  "title": "Port du voile: Édouard Philippe juge \"pas nécessaire d’aller plus loin\" que la loi actuelle",
-  "summary": "",
-  "published": "2026-08-31T09:00+02:00",
-  "mentions": [
-   "philippe"
-  ]
- },
- {
-  "id": "9a8893679ef4babc",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQR1lWUmVBN1dQR1BZci1NV0h4eEpmWXRDamExM1NtXzB1UmkyMUIwdU9QSV9DZTZSdWFWMTBfSVRJNGhmR0F3VkhFNUduV2hqWktxVF94TmdnVnpqMkR5WFE2aFlPalZid1lXbnlSUFVFZW94NXpkNm8taGotRTJVWkhzajR0WEp5Q3JXb3JSN184T05ubEJVeXZGWGFseDNKX2RNN1B4ZGducDNtM1JodnpjRklkUWFxRW5BVHhzTklGZw?oc=5",
-  "title": "Édouard Philippe, un homme en campagne - 31/08",
-  "summary": "",
-  "published": "2026-08-31T09:00+02:00",
-  "mentions": [
-   "philippe"
-  ]
- },
- {
-  "id": "645a16e1de964987",
-  "outlet": "franceinfo",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNYTlya0pQd2diRlJkR2UwSjNWclVPZEVWWEM4ODZ1VlBHSlE3OGQ0ejNYVW9wb3h5X0FLWEVrMlRtMDJjTVk5MnB4ZnI2NDNQVXQxdlJncUpYTGVLellNUTBzQVo5WHdYbUpMdy10RVBfODh2S2dKYzVNYXN3dWNPZXVTUlplV09KSC1TLWJ5d05pUTVnbWZhbzh4X2tCQ2lFYmk1UTRqQVRXdzRSTGd3elhPbVp2Z3VEVDlDSTcyeEpQc0hXNjhxX2QyZG9mdi16bVBkR1hrX2JJMWhoR3dxazlLTkFXX1NsRVNPNTFB?oc=5",
-  "title": "Présidentielle 2027 : Édouard Philippe et Gérald Darmanin affichent leur unité",
-  "summary": "",
-  "published": "2026-08-31T09:00+02:00",
-  "mentions": [
-   "philippe"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   },
+   {
+    "id": "philippe",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "ffd78e8ac1dd7593",
@@ -281,268 +844,14 @@
   "published": "2026-08-31T09:00+02:00",
   "mentions": [
    "philippe"
-  ]
- },
- {
-  "id": "47691df1988a07ef",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNamd5OGFfTDZ1bEtyUktLN005d09GVkJlVTZ3OXkzNDBZVmVCNDNFR0J6YUJlc2p3bktEcVoxaTAySThCSTZXdm1aYThtVWNGZDNVdEZnN3N3UWhhN2s0T1d3b0xvcTN2Uy1GT3FMOVZkUHpqdXQ4V3E1T0JrMFFrVnFDc3FEdzZ0dVdKUERPc3JNQUxoWUVlcnhoQ05jbmpkS1JDUzRSRmFrOVhmZERYMF9qeVhFbGxCNVVDSFdQUTJNdDhTM291Ry0tc210YlVGbFZabTRTcHV1eVFyNWVhOWZTLXZqb0xlcm9EUWoxTmdKbEkzOEV1QUFodEJZOERab1QwSjBfU0c2V3o2Y1ZWYUJPWThvWTBSeDRaUWRmeGhqaTVGZVNuNg?oc=5",
-  "title": "\"C'est une épreuve pour lui\": pourquoi l'entrée en campagne d'Olivier Faure dans la primaire pourrait contrarier les plans de Raphaël Glucksmann",
-  "summary": "",
-  "published": "2026-08-31T09:00+02:00",
-  "mentions": [
-   "glucksmann"
-  ]
- },
- {
-  "id": "1c6dc29a907deae5",
-  "outlet": "Yahoo Finance France",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOV0M4OWJhZE1rZkFneF9jUkRuOGZHUXpHVFVNYldLYTM3YnNoaUNZSmpPbVBtTDZkbXhFc3UyOVFpYlpxWGsyRVNGcG5DaHlKQjJURENBNzJOWk1vc3JBSGRhbFpGbFdpcU0xeUM0ZGNndDk3MmRkTzFsb0tPNUZHNjdkV3BIT005OFJXZGJpYw?oc=5",
-  "title": "Gabriel Attal s’entoure de patrons pour sa campagne : qui sont-ils ?",
-  "summary": "",
-  "published": "2026-08-31T09:00+02:00",
-  "mentions": [
-   "attal"
-  ]
- },
- {
-  "id": "9b3fb8d9f2d13c1a",
-  "outlet": "StarMag",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQM0ZXbU1DSldUdUM2VTEtR2ZyZ3h4NG9UMnNxTy1OanREVW9VdmUybzdKWk4ySklxNHZDM1ZEYVltaTYxanBtRko2bTVGdldKRUMweFM4ek54ZDl6alNtUTNiZ2xkTUlaRmdwN0FSazBlbFlJR240aDdVWDlhQ2hsM2NNaWpWbGtjSWtlNmVNeXVVNjFqLWo5YXItSVJJNVdBTm85aExLNnFjUXpZZWtkam14QzZsSWZPbEpyZVJSYWlSWkR6ejFVeDRaV0VkVmVOWmZNNG9n0gHbAUFVX3lxTE5QVHpLSktBYS1DLVc2c1ZnMkxZMy1NU0ZTb3BobnhCdkhZOHdPbnNxNlRtczg5RGRQV1ZON2tMVWZyeGpFbFhJWW1Gc3E3eHBXXzNaRkF0RHExcDN2R1hHaVVuMi1nRmJsWWN3TDd4SHlwQ0J3eTFnd2ZUUm9WbVJ5UkVlUWFfelJuaEQyWTliRm1PZnE4UEZOQmJ0bmJyXzF6eGZXMndoaDRqdlAwQ0JtOEZVLUZua3I3bkpCd1FWOUo3RG42THhKUmtTNGttVVRXWHBKQkNDT3hmcw?oc=5",
-  "title": "Sarah Knafo : son message pour l'anniversaire d'Eric Zemmour fait réagir la Toile",
-  "summary": "",
-  "published": "2026-08-31T09:00+02:00",
-  "mentions": [
-   "zemmour"
-  ]
- },
- {
-  "id": "0df411602107de45",
-  "outlet": "Public Sénat",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQYVRVTHlIM3VaTlBPUnRZZzhsQjhkaXpIX0ZUdEJuREJMRTFiN3o5NGl6QmFCZzdjZHBSa0pwS3cwWE9ya0lUekV6TjNad0cyT0xzbU9KWmtONUlPWDQ2czNTbDlnNFNaOWNQNkIzSzRzNGFkMlFwbXA5a2VOVmtDZF80dW1ZRkd0S2VZT1IxYUp2cXJJWDhzUHU3N2hfN1hsNWRzMnNnU0hPNS1PNVJKTGVUZHN5MnN0cTl5OVBzdmZhcU5UcVNOVlFJdXluOWFVR3ZLYg?oc=5",
-  "title": "Présidentielle 2027 : Bruno Retailleau veut « refonder l’école » autour de quatre axes principaux",
-  "summary": "",
-  "published": "2026-08-31T09:00+02:00",
-  "mentions": [
-   "retailleau"
-  ]
- },
- {
-  "id": "39c2a0781f8b6670",
-  "outlet": "Europe 1",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORVhtMFhIazFuc1BQajFZRERFakV5Q3Nhem9yZnA4dFB1TEs3ek1HVWJBaDAzYUhtcEJYR3RzZ2pCcllYVWJBUjJvUVBiZmF0VU04OU9JUHNaTTlCSXpRaXc4b2VxenJfSk5hbmJhcm5DOHU2VzVLWFlkRDdYZlRBR2MxNU5Ccm41VElKRXZiMzBVakRyZGZMbFIwTDh3ZzhHc3A3dTlfMW9ldUZHUzFyX01RQTRnWV9SZXQtUEhvUUpCM3BGU0RLVlBEamxyZ3lPOXc?oc=5",
-  "title": "2027 : «David Lisnard est en train de réussir son coup», souligne Olivier De Lagarde",
-  "summary": "",
-  "published": "2026-08-31T09:00+02:00",
-  "mentions": [
-   "lisnard"
-  ]
- },
- {
-  "id": "b24f2b73c9d7f54c",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNX21laFRJa0J5LV9Mdk1EaU5ubVFkbzZ6Unh3MC1WWlVjWDVGeDVfRV9IaGtZRDFaZjYwdl9Xdy1URGN4M0RoVW9IclZ5TFBtaG9pS0hsZm9OTUFxX2JyQnVDM2FXLTd4LTFUNmp4VHg0bklndXp2WENxS1ozT09JZFVPUEZGSlFRNzI2REVwV3lGMTBLbmdDRmYwVVRFeWFGblpQQUhkZWNZYUhNa29fQ0tHMHFUY1NDMVhhaWtDNHpzYzdMaFdKNUI2aG1ZQVRTN29LdDAzLWsxS19XbThDSUVOZU1FcjBBaVBBRHdCTjBCbWU1OFRnbWJLVGtpWkFG?oc=5",
-  "title": "Obsèques de Philippe Bouvard: le maire de Cannes, David Lisnard, présent pour rendre un dernier hommage au journaliste",
-  "summary": "",
-  "published": "2026-08-31T09:00+02:00",
-  "mentions": [
-   "lisnard"
-  ]
- },
- {
-  "id": "72076fb56ecd9030",
-  "outlet": "TF1+",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPVEk1WkM5N1FNN21fSVhRYzhVdUVObnpJd1RlRVJaYllFZzRIYng0LUdFS1ZFRkJ6VnFMNjB4ZC1vY0xYWEdudVNFU2k4Rko5UjVDeTdkNDBubEYzd05jMFUyZW9fUjU4RUNUMXZqb25xYkJWb3R6Ujl6SjFLMkNNMXJLRWpEYXVLWDB6NzJLbUtYdGtaQk83Z0t3d19CRkZtTTk1NF9FVFBfVmJjQ0U3Skhzekw4VzN6ZmZEU2VzRE0zalVvdm5kY3A1ak93cXIyNDBjcW9nM1FVcURMLWE2Vk1MR2tyQXhkcHZKYll3?oc=5",
-  "title": "20h30 Médias - David Lisnard, Édouard Philippe, Raphaël Glucksmann : la bataille des images - Quotidien",
-  "summary": "",
-  "published": "2026-08-31T09:00+02:00",
-  "mentions": [
-   "philippe",
-   "glucksmann",
-   "lisnard"
-  ]
- },
- {
-  "id": "4ad2daaad93b6b10",
-  "outlet": "TF1 Info",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQZ2FkbjYtSFphZ0l1WU16Y2FXTWxpdnBCYUs3bnZhZlNoYWNIWnBzZGJ1VXVzUENlc2RQeHpjZVJaUHZQeWlNa2dsQWs5SlJoWEJaRVVHVGNwMEVtSUZyczNuRkVDbS04cXBwa2VXZ3g1NFFNaHA4UFBvZmhTeDdXWjZWWjVFa2tGZzhIOFpZdWhMam9nTGZ6MFZhN21tdXBoSW9ReWh2VmQ2a0YwRVNmSTNUMU5pdEJnRDB1c1NvSklEZk9weHVPbkdLSUs3bUd0UHJUVTkzaFQxNlN4YzU3Q1VDVQ?oc=5",
-  "title": "EN IMAGES - Chantal Ladesou, Marianne James, David Lisnard... Il ont rendu un dernier hommage à Philippe Bouvard",
-  "summary": "",
-  "published": "2026-08-31T09:00+02:00",
-  "mentions": [
-   "lisnard"
-  ]
- },
- {
-  "id": "4e6b16f8e42ca560",
-  "outlet": "l'Opinion",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNXpTNnBsNHpwT2I3RkNLNnh2VnNmeHN3TTd6MkdxVzB4Q2ZCZEIxaDk1a0Y3UFBvOE1mQ05TUWxfM1hZUGhlSGNEYzRyMWt1dm5uSnF5c2t5QVFzU0ZBNXZxc0Rlemt1dWJfTlMxVDhIajRLVDh4TnBxYnR1SGZ4Wkg1cTd2d0NSTnlPUEJSaHFxZGhPVWxwQ1RrN2o1RkdycjNsTUtXWjFYVlRZWHRQb0pkVDN2V01CYU9xTEtiUFJWNU9oZ2I0?oc=5",
-  "title": "« La dispersion est mortelle » : Hervé Morin défend son idée d'une primaire de la droite et du centre",
-  "summary": "",
-  "published": "2026-08-31T09:00+02:00",
-  "mentions": []
- },
- {
-  "id": "e472f73a681a5c8b",
-  "outlet": "7sur7.be",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZ3FCMDE4bE9WaU1LUXMyM28wMWlfT2dWTnRpRHBTMnAzWHBCeUVGY1R1dnlQUXVVMU1IODB0Z0NNR3IxWEpnbzRLQlJDcWhvTTdTTU03bktuenlHUlJtUVQzbXB4ZUUyaGxNaWZiTFJsSkZyYWhBSFZlSXlRTjBQVkN1aWRMNVNPVGVjejZVSXBKZTZOdmtoRGxCbW9pTVllcm5ucmw2Qmc1dXhmX2Nqb3lFQU1XcnBQOGNtbg?oc=5",
-  "title": "Natacha Polony se lance en politique et pourrait être candidate à la présidentielle",
-  "summary": "",
-  "published": "2026-08-31T09:00+02:00",
-  "mentions": []
- },
- {
-  "id": "62de6ce1d07ba50c",
-  "outlet": "La Lettre de l'Expansion",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYlA2Y0V6MnN3U3JudE9pMGUzVGFNcGhkUi1TMDhFWmhZMHZmWk1sRmE4Vy1kZTZTWEJQNXczYTZBYjFXbXRBUTF2b19YT183Y2JRR1FaNmg0TmdVaXlWLVAxMkRma0Njc0dMREJBUk1SSjNIaDZoUWthYUpaVHE5NDhSYk5TZ3JjLTY3bS1feTk1Slg4YUNtbGY1ZHliUVU?oc=5",
-  "title": "PCF : Fabien Roussel attend le vote des militants",
-  "summary": "",
-  "published": "2026-08-31T09:00+02:00",
-  "mentions": [
-   "roussel"
-  ]
- },
- {
-  "id": "cd2e89b5fb5987f6",
-  "outlet": "Regards",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBfVWNrWGVKS1NVN0d4dHZJYldfS2xvVzd6UUQ5WTZJTzNiRHFfaGRQajdZZ0x4dTlXR1YxTHlUZExYWjFOWnpSRVpYVkdLMDBBOERUb3N3dF9td0phNUhKTkNHMU1sNjlKV2pSQ2JURVZnZw?oc=5",
-  "title": "Primaire socialiste : Mélenchon n’est plus seul",
-  "summary": "",
-  "published": "2026-08-31T09:00+02:00",
-  "mentions": [
-   "melenchon"
-  ]
- },
- {
-  "id": "1247e59389c6bacd",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxQWENpbFBPa3dfdmtRdHBVUFBMdFpvSnppVWhyV2p4VWJWaEhpbVB0TjNhVVVCYUpJTDJJSTd3LWJVa3ZydGhZTVpDSkpSbEtsVFhwM3ZncTJsTE1JYm1Vb0FKcXJCbENmbFJhTGR4UVV3b2xsWG5CMWdpWFp5RmtXdmhrSEQzLXFreW10QlhJQ1lIT3lpVWF5QlZaRGk3Y3FSNi1nQXdRWUd3bXNsRlVobGhqRVBSaWJTN1JQaGNrOXF4UW9GY3ZXSGhHN0poUDZLU2ItNmxyX1VBTGRXLUF3azM5azByX0w0dDBuZzV2VDV3QkFEY29vNnFGbzdxdGlGRXd0dERKcEl6NnF5a3IxWWFGam9wZi1MYnBDZEg4d1JPT1BSb1JsWjVkU3VETDkxZThjVnR0MVFpWVY0RTBGU2V3OU5wZUtIWmdhYnNhUmRic0hoalJpU2xaNGV1Rk9ibU52SnRnRG5RTWFVUy16VjVR?oc=5",
-  "title": "Le PDG des tricots Saint James, le fondateur de Lunettes pour tous... À 8 mois de l'élection présidentielle, Gabriel Attal s'entoure d'un \"conseil de patrons\" pour affiner son programme économique",
-  "summary": "",
-  "published": "2026-08-31T09:00+02:00",
-  "mentions": [
-   "attal"
-  ]
- },
- {
-  "id": "9680862be6ab0f42",
-  "outlet": "Le Figaro",
-  "lean": "droite",
-  "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQY3k1MGZFeG9STmZ2V3pkdTV3NzJLeHE3SnJFTG50RGs3SG9GQllYYmt1S3FPSC1IdE1veFFQQlJ3dEh2U1dqaUxMMmMyS1FLem1saDg4ZEFlMjdhMVRnMlVVN0pZV3RRcnJoYTZ3cDBnQ0Rnei1lQ3cxOFBBOHBxaU5TTWxCX3FfeDhPSzgyMmFzd0E1cmhpUHJsVTEwY0NjZXdCYjBnMXp0R3l3d1daYVlRakEyWWhRa2N0cmRobUFqMXA1aVJQSmFHNGJaNlRzSXdMUmJfRUtHNnI3TVgzamQ3QmhwLXBUNlk4ZXIyTkQzdXpSemVmaW5lVWR5a3lXYk5xV0IyNWF6bmc?oc=5",
-  "title": "«Je propose une véritable révolution culturelle pour l’école» : Bruno Retailleau dévoile son projet de rupture",
-  "summary": "",
-  "published": "2026-08-31T09:00+02:00",
-  "mentions": [
-   "retailleau"
-  ]
- },
- {
-  "id": "bd5948a13a0bf5f8",
-  "outlet": "l'Opinion",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZHZsVkpqNHRFa3dhbTVadW1GYWcwaFZ0T2NJY3VrMmFhS3V1LU9Ubm4tenBNR3M5RXlwRS1rdC1HTTBlcE1ZQnhJWm5oS0ZBTWRjWGRQQjN0ME51LUl6TnozOU13WXo0MFdNOEtYMG92UU5NSmEyOGg5cktpMWlVeWh2WTVwMllhZTZZ?oc=5",
-  "title": "Bruno Retailleau veut dynamiter le collège unique",
-  "summary": "",
-  "published": "2026-08-31T09:00+02:00",
-  "mentions": [
-   "retailleau"
-  ]
- },
- {
-  "id": "465c21012c7b4bee",
-  "outlet": "Libération",
-  "lean": "centre-gauche",
-  "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNMDVmU3NVQmlDejlPX3NHREJuczIyQkFnWEJIWjNrSEpfbEhKTHZvTm1Uekdua0h4TUlfSElYbVRWNGh6T192aFJldzJaUlZ1VzVWeXY4S3hkZ0VZM0h5N2RnZEVOWTNNMWRFaEprdTZWN2V3aFU4X0VESE9hdlNLWDBkT0RPZGlNSUtWUERzb2lvcWdxd3U2dFZab3BXb0F3STVOSzVGS3B5aE44ZmZBc1NwbVdIbDg0NWxMOWJ4X2hWS1VtMGF2c2VfTG53dXhtNnZyeEM1ZmRSZmsyT19sUll5WENXZnhHSTBUUHFhcUQzSWU5czJ3?oc=5",
-  "title": "Monsieur Retailleau, je quitte Les Républicains et vous n’y êtes pas pour rien",
-  "summary": "",
-  "published": "2026-08-31T09:00+02:00",
-  "mentions": [
-   "retailleau"
-  ]
- },
- {
-  "id": "a2ebad392b8193e2",
-  "outlet": "Ouest-France",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNaGo4X3IxbS1FVnh4b0tBSzhOaFFpLWV0RG1kZ20zT0dzT19GRlFaV3RWWUJ0Y0wxaGE4Q2ZBWmVoR3BYblQzMjJvSjRCcEUxY01TLTh6YmtqalIteFdiMm9idE1CalRVc25QLXlmZk1tLUR4ZVJjb3pwWXNlSm9qSm40Z2xKZE1lbVZhdmdNeWZocG9wMVloZkZGRFV2TTQ0dm9KWldFWmlwdUltRml6SGtFakRzeXBRam9nTFNKaDBFajRabHlZeENUYWo1bURBaW4zaDQzOFFfQnZKNjFibG5OQ1poamUzazdOYzh5emhsd0lwc3RkTWstVXdENkVrV0RJRWFueW1WeGdfejNYRkplVm1xRWI1aEE?oc=5",
-  "title": "Présidentielle : David Lappartient soutiendra Bruno Retailleau, et entretient le flou sur son avenir politique",
-  "summary": "",
-  "published": "2026-08-31T09:00+02:00",
-  "mentions": [
-   "retailleau"
-  ]
- },
- {
-  "id": "30bc96d473e02759",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQdGlJVlJENmc0a1dfWkVSWlVONlRXWnBTbXJOZGZLcFB5QXJ6OEd6UlZvbGszdzY5a1owRzBBNTNlV09XX0xaRlM4dDczZ01od2VVQ3VCNWhZMUZhTDQtcTkwdHBDSmU0Ul8yMTNIOHpiRGJDSkxxQWhGeDE2YTJ5dlBseXJQNThPbnphMWxqcUxma1lXa3k4NzM0bllMNThJUGdORE9LSHAxX1JMN3k5eFV3alZrQWZzS3UxWkMydTk0WGxsd3pWaXVyNnFDSXhyR1RUNW5hZGhsdTd4b01rbHFTSFVFaHNjR3hoZUhBb0hCeHFzYmZoSVhHUXMtZEdldWkyOXI5VGRZY1VUZTdKRVdIN2tRU2JCRlE4LXIyN1BOY3hYZzZqSA?oc=5",
-  "title": "Proposition du RN d'interdire le voile dans l'espace public: \"Nos policiers ont autre chose à faire\", déclare Bruno Retailleau",
-  "summary": "",
-  "published": "2026-08-31T09:00+02:00",
-  "mentions": [
-   "retailleau"
-  ]
- },
- {
-  "id": "0b9ff7bd2f4d03b0",
-  "outlet": "Les Echos",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNdzJLQjI1WmR6dFpwdFMxZlBZVTZNSlRnUTVab2FLbU9XcWxzS0gtdU1pMlpIZUZpbG53T3FMc3F6b2x4RE5ncGYxcEVsNWx2YXQ1Y2NKc1k0d2pkSjl5a1ZYNjEySEFIeHdJUnR0aU1aZXdoZm1xX0M1SHdPcFdabUdtSURiUEN3dVY5NkJzR0ZhUGZiNng3Q1RWQ21PeVl1RzdSOW5PcmN6RERsY09vU2ZxbFMxVTBJOXh2Vmt3ZWtkODBnN2locFBWVFg1MzE3RGhVeDIxUTNpOW5UZVE?oc=5",
-  "title": "Présidentielle 2027 : la rentrée compliquée de Bruno Retailleau, sous pression des sondages",
-  "summary": "",
-  "published": "2026-08-31T09:00+02:00",
-  "mentions": [
-   "retailleau"
-  ]
- },
- {
-  "id": "86bc40068a77c0f9",
-  "outlet": "TF1 Info",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZG9WeGE3M1RIN1I2MDFpVTBGdUpXWUltSERZUGFsdEZldFdmYVhFZldpNXFSdUc4X2ljOW12bnhfczBzYnl6RXV4bmMxR3ZLZ05fbktpaC1jVFJya2VZZFJLR2VFcXN0UE1lUjMyYmdPYUlRXzlFRUhkTWRPRnhmb1dYTmN5TkgzdnhVVWY5Q1Zqa2hwQ2tGNkFiT043UFpqSGJGclNoMkVQTXF2?oc=5",
-  "title": "Gaspard G - Les dossiers - François Ruffin face à ses dossiers",
-  "summary": "",
-  "published": "2026-08-31T09:00+02:00",
-  "mentions": [
-   "ruffin"
-  ]
- },
- {
-  "id": "cf3a3044977be262",
-  "outlet": "TF1+",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSG5aRmtzRmJTek4wSjI0SnZ0MEd3SnU3bHZ6TmdURUhnaWJqN0VjcDZyV2xWRmZPVWRtazNvaTNja0dVX0g2bDB2V1l5MGVJMVdoM3d0NXI1UmhIRVJnRk1TRkRoWlJUMFE2YktGNEJMcm1wWEpJamczRXBnenpndW4yTVdJRDFDR3J1amloVHRoWTJMOUNyWVp4cm9GV0lPRmxWNHRkVWV4dXFGNENBQWJVcHIyaHlQeTZHQ21tTElXRHRITm5R?oc=5",
-  "title": "GuiHome reçoit un appel improbable de Raphaël Glucksmann",
-  "summary": "",
-  "published": "2026-08-31T09:00+02:00",
-  "mentions": [
-   "glucksmann"
-  ]
- },
- {
-  "id": "bf706f53da40b876",
-  "outlet": "Le Parisien",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPT1FfcURpZnJ6cmN3RDc2QkFsR1BJckdvT1p6eTUyeXo1aDl5SS1nSnJ4NUJBWVJFbkp5N1JsSGI5LVl3dHJ6all1YmVYZkU3TkVFRG42SG5LV2dkYktGZEktMm1wb3g0UEpQSVVvMEY4RWxEZGlJaUtFRjBrQXNFSXM3UGU1ZDlsMGlsYVBnakVydFhjc0NiandXRHUwRWh1eVpabkJpbjRSTGVyYjJtbEJqMU9rLVlUcktmMTNxdGxFMGJ0QU9hVXc3YWpPZVBqcTJ2NTc3d2dXUVRFWnhPTDlrLVRfekgtVUZsc1NpbmJqNllfbHlYbWlhbFJaMFFtWVkta3NOMGdoaWEyaDdJcTFtMl9zQ3pHRGdmRWRCSQ?oc=5",
-  "title": "« 67 ans, c’est trop dans un premier temps » : les retraites, la réforme qui colle à la peau d’Édouard Philippe",
-  "summary": "",
-  "published": "2026-08-31T09:00+02:00",
-  "mentions": [
-   "philippe"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  }
 ]

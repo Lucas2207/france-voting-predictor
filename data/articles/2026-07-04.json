@@ -1,5 +1,187 @@
 [
  {
+  "id": "06905a69fd24a114",
+  "outlet": "Zinfos974",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOLVhoYldOcEhRM2Y1bmM4VlplZXM4SUZKS0hkY252Y21SX0FpQmhoaWNxUVFObngxRVJtWFBvVDhxVlNMS083cXRkZnQ0OHJIRDBUOHVYSk9hTzk2cThYTjg4NU9PdkQ4ODV0WUFTa1AxVHpZRXlndW5XY0dMc1hWQzBGZDRVcGpoYVROV3BqM0FTY05vWV9MTkhXN2hTakFPRVJPcVdQTEdXRFBBTWNkRDF2c2NDWUg3WFRqX3RmWG1HT0h6b3ZyaUZqTQ?oc=5",
+  "title": "Et s'il ressortait de sa boîte ? François Hollande crée la surprise et s'impose chez les électeurs de gauche",
+  "summary": "",
+  "published": "2026-07-04T09:00+02:00",
+  "mentions": []
+ },
+ {
+  "id": "21e33bd897bd517d",
+  "outlet": "ladepeche.fr",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbUxPQW10clk5QUxlcllBUlQyWFJFWGlFb0lITHR1NjRFUEhmNy02UjVQRHBMZGxiZGlWRU1OZ0ZuTThLN09NYlk2c0p2OW5FQVc4c3U5S0dYcTBmQXhraktITFo4TXY1UVdpTDhuaWY3WnpHSlVpMnMwWWdQOE1IWW95cEtlZVc0ZHdheVk1bl9KWUtsbGlWV004NVJFbnMzMzgyWnJJdGQ2ZHQtcDFNZFMyWkZNeUREOWo5dV9oVzRBUnNXZFZsTDBNb0c4Z0RZd3c?oc=5",
+  "title": "DÉCRYPTAGE. Présidentielle 2027 : face à Édouard Philippe, le pari libéral de Gabriel Attal",
+  "summary": "",
+  "published": "2026-07-04T09:00+02:00",
+  "mentions": [
+   "philippe",
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "2b680c62995a4af5",
+  "outlet": "IsraelValley",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPY1ZTUVJha01vRGI3eU04VnFiU3A5aktqOXltYmFOR3M2cFkzaDJWSTM4NS1jTGRCNUU5WFh6aDhWbmVEdGtTaTZ2dWdMSzMwZmRvYzlPYjd1cDM4MFZXS28zcjB5VHNTT3FoUXJydlhUVV9ybWV0Q2RpRDlZRVoySk1DbUtFQ210N1lvMDZ1emt4ZXdyWmh2TVlvTGRtZVh0SEZUTFJibXd4bmpqb3pxdlBTU1RkZXl0QUpXNzlVeWh5QWtjUU1OVlY1ZktWYnQ2RWw5SmNLTkVod2VvaDZHQUl3SE9WNERaOEFkb1R1NzFmSXRMRjQxT1ZUM09aLTNqM0JzcUZPeDc2N2c?oc=5",
+  "title": "Présidentielle 2027. David Lisnard, très apprécié en Israël. Cannes: le Savoir-faire israélien pour renforcer les dispositifs de sécurité. Anti-LFI.",
+  "summary": "",
+  "published": "2026-07-04T09:00+02:00",
+  "mentions": [
+   "lisnard"
+  ],
+  "analysis": [
+   {
+    "id": "lisnard",
+    "tone": 0,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "333786a9a095894a",
+  "outlet": "Gentside",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxObTBRaDlpNE02WFctY2lmbDloX1BzWUVRdkVwV21iQk4tMDdnX3BGbmNRNmhReUdPbVZEb1NwemlxVHB3NFFOTXl4OVBUd0M4c2xCR0ZvZXYyT3BITy1wbEdmdzlqd19mc1NqZzJZWnVDTV9IMl96d2xGSTdKaWlzMU5OZUJIQXBBTGxkZVdzbGVZd2hEc1A0R0pTZ2JMM3JqUDV0OXhMLWFkMmYxZmk2TV9haUhVbzZWcEttdG5xMWxQUmN4V1dETXExS0RURjNVVkkxc0ZFSVRCNm0wTzRvM1dZMzVzQ0JIU3NWcHFzMTk5akVva3VfOV9Vb0p3eVpvUE05eDhB?oc=5",
+  "title": "« Jean-Luc Mélenchon est certainement le pire candidat de second tour » : Fabien Roussel rejette sèchement l'alliance avec LFI pour 2027",
+  "summary": "",
+  "published": "2026-07-04T09:00+02:00",
+  "mentions": [
+   "melenchon",
+   "roussel"
+  ],
+  "analysis": [
+   {
+    "id": "roussel",
+    "tone": -2,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "3807fab436156e05",
+  "outlet": "Marianne",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcjNCMDFxeURIdW56R0MzT1NJLUNneTEyMHhrY3Nlc0QtTHF6WGVuM3NvZlhGY0tpUDZRc3pGZmhta2l1Mi1kN3NnRDBxSDRvUUVZQ0VubXFIRndPWlY4a29HQWg2ZllPVGp6NjVWYnVOcy1seDRWLU5CdHl1ZTRrNzNjOU1SLW5haDFkRmc0VklSN2w4MjNlZ19jYVlabjY1WllOSG9aRUZHZkw5LVEyWnBn?oc=5",
+  "title": "Présidentielle : Hollande, le vieux lion qui guette la gazelle Glucksmann",
+  "summary": "",
+  "published": "2026-07-04T09:00+02:00",
+  "mentions": [
+   "glucksmann"
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": -2,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "3a70372e94b0ddb5",
+  "outlet": "Vietnam.vn",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQU1dLdTFZZkJNRXp5a1ZEemI1bFl1aTdWc2FQUU5tUkJ6c2FIMzVWSkp3enEtWUgxWFpERHFseGdrV2pybHRkUkh1WFZoTjNGNW94bURha1FzMmxuR0NvU3F4OGxqWk5qdkU1ZGZESXY1bk50ang1MzRLSkd1Zmwzalhmdm1RNkIyMy0wRTNn?oc=5",
+  "title": "40e Congrès du PCF : Vision stratégique et engagement envers l'innovation",
+  "summary": "",
+  "published": "2026-07-04T09:00+02:00",
+  "mentions": []
+ },
+ {
+  "id": "3dce8dac266216b5",
+  "outlet": "L'Essentiel de l'Éco",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMnBvLXFBb3VhckROQXJkZkhIa2hqT2lOcHJhQ1BwcmFOalFLdkxmdVRDNmxDZjZ5M2pWbzVLdTREVGVlOVVBZzlzajR4YzRzVmc2bVFuekpKbEctbDVjencwTFBTOEZhTlBiY0phX19pdEhUa1NMQnFEYXZzUUN0TGRCa0FTZw?oc=5",
+  "title": "Wauquiez-Retailleau : récit d’une haine sans fin",
+  "summary": "",
+  "published": "2026-07-04T09:00+02:00",
+  "mentions": [
+   "retailleau"
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": -1,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "4467dcbe2df0bb3d",
+  "outlet": "Le Figaro",
+  "lean": "droite",
+  "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNWkJRc2xUUHhxUnZocEdLTkVkUVVnSkY4bTE5MXVuMTVWaTJvbjk4WlJJNm5zQUpnczZ5VS04SnhJOTE5dEJCTDJESEtndWRTT090MXQwSzVTZWdyenJGaGxFdnIyYTYwODhUcVZvMWRmRVRtWE41bXB0LUxhNHROVWhPUmNvVi01Q3B3Y2JVMUpXUE1XeXFWVjA4TVNFdTFZLUtBd2haMG5WRGtQOWotZzdLbzY1WkhNTzYySkJJZW9kcG53Q0VuSnVkNjB6blpMVG5IYkJ1czFfb2hJYnR6REVsSUF2ZWxEZmc0RmlXcTBXbDdR?oc=5",
+  "title": "Présidentielle 2027 : Jordan Bardella et Marine Le Pen affichent leur soutien mutuel",
+  "summary": "",
+  "published": "2026-07-04T09:00+02:00",
+  "mentions": [
+   "lepen"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "4475b648b9f0f1f1",
+  "outlet": "CNews",
+  "lean": "droite",
+  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRFIwSllrN1BPcmt3bC1ISHRqMGpOcGt3ZXZzd0FkcDZ3Tm9zemY5b0xYSFVLblRHNEl0aXNQS29lMGt3TWVTV3JsdVktZXhrSDhCU3Ric3dhRFhyc05nVUVPc25zTzllT19YNlpYM3NseHpaYkNaZW9xU3hqYXFUSFJYMW54M2ltSnQ5Uk1XNUhidjRnNjd3NkZlZjlWTFhuUm9vcFo4QUktSzN5ZVZXQVRQRHJadV91Ykpz0gHAAUFVX3lxTE1yTElpQWZob01yWjZ6Z3dyMzhfeHBKR1ltaHU0SzlRYVN2c29fRXZ4dUdRbjNVcjF6MXJMbTZKT3BmSV9XNl85OFFaMjlRcUpkazhucllEc3Z1TTFPRktPOUVYTzd5V3JKRFRTaGpkNDdrQ2ZfLVlOVzQ0UW5xSHROQ0MwczRMX21yT1hGbVBiSVFTRmJSMDVHdDlrNWNyY0xCUGZlNjdQU3dBR3JwTFUzdTFYSmZ1ZFJEQUxFWFpXTQ?oc=5",
+  "title": "Présidentielle 2027 : David Lisnard dénonce «une caste prête à tout» pour se maintenir au pouvoir",
+  "summary": "",
+  "published": "2026-07-04T09:00+02:00",
+  "mentions": [
+   "lisnard"
+  ],
+  "analysis": [
+   {
+    "id": "lisnard",
+    "tone": 0,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "471595ff61f59bea",
+  "outlet": "Gala",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONU1FNWxfcnA5dzZMSmNfdERYVXE0X2d5TVJrVUVmdF85SEROWWNKYTJGRXdqRlBPbVpGWmFfeEFCS05kV1VfVDNSWXRYTllqUklPcDluQ3huMWo1UFF5N0RUMGNvT0RvRWVwLS1oZW1KQThVdFdiNGJaOTFlNXN0V1lac3VMaXFrVWR6bS03NWk4X0VRMHMxWElaajRBYlR4ZUFqTnpiVmZUMDFQUnBzb0REUk9qT2plbWo3b0hfU3dZNk4tanE4?oc=5",
+  "title": "Le torchon brûle entre Bruno Retailleau et Laurent Wauquiez : “Il était carrément hystérique !”",
+  "summary": "",
+  "published": "2026-07-04T09:00+02:00",
+  "mentions": [
+   "retailleau"
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": -2,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
   "id": "4f63f62a953cd524",
   "outlet": "Le Monde.fr",
   "lean": "non classé",
@@ -9,19 +191,175 @@
   "published": "2026-07-04T09:00+02:00",
   "mentions": [
    "melenchon"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": -1,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "e21dc32d077b9db3",
-  "outlet": "Le Figaro",
-  "lean": "droite",
-  "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWTdMdUxnTGxQMGl5Z095WnBfT3dxQnhGTThhSzk0NWl3QVdDb29sNlZlZjhpVTd1elRoUW5WWGNqT1J3VDF3SmJOZTV1QkhWRUtIVnZmVHY5OGJhVlRqMmFTZlZGalQ3aVRmMzdtaFBnZXFfMjJUdFpBWFJOTjMyZlJiZUZjOE1xOXdzX3Bzdmo0OHlEMGdWNF9hVUtpZDMtaG9wdlVLQWxRMUxoX29DdWhRd1paQlIxVkc4ZkRLd0IxU2t6MXRvX1V2NFg?oc=5",
-  "title": "Jean-Luc Mélenchon appelle à éviter la matinale de France Culture, Radio France lui répond",
+  "id": "6c07ccb6e7328445",
+  "outlet": "La Provence",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTTFSZHJTUEpzWXROYk5OOUtyNTVUTmRJWmZZaWJXQkFBVGR2SXFVSnFwSC0zVFZnYWxJOGJIcHRsanR2bFVHMkZqTDZGZUZmaUVubUtoQm5nd0YteXdibHRBUFBvUmNvU0FIX2V4Yzk0TG5UTjJjbnl1YUEyOWFFb2RsTHRaT09taEg3MHJrOUFja3dxalVmbk5ZZ0pFd2FXWXp4Y21jNG0weFY1Rm0wSGItSExBdHhhS3YxUnh2NFZ6LWxJeUQ1UTA1czdSQQ?oc=5",
+  "title": "Présidentielle 2027 : \"Ma campagne va s’accélérer\", annonce Édouard Philippe",
   "summary": "",
   "published": "2026-07-04T09:00+02:00",
   "mentions": [
-   "melenchon"
-  ]
+   "philippe"
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": 0,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "77545f9e8ef4d9cd",
+  "outlet": "Valeurs actuelles",
+  "lean": "droite",
+  "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxObzFYWGlyZTVpQmFISC0za2NDX0V3MjRQaV9zQU1yMGV0VFV4UUprZDdEc1BPODFSaTAxSUpkOHVUNlluT0ZkcVI2bjVhT1NHVm53NkFEdDgwTE5hdDU0bHBEQjF5M0FEVTJOOC1EVGZSTnhSd0lQUDFnV1FBQVc4SURKQVAzMWExNEJUdUVBbUIxbGJHZlc5Z0lEMV9LUmlBdDJHd3gxZHlPaGJhQ3FSWG5Ib3hPOW10RS1QMjVsNmJjUEZ6eloxWW1QMWxBNEVYcU1HTWI5SUkxbjlCa0UxNWtNeUVqSWx5Qkk5ZmZXQTV1ZHB0M1hwQThpLVROOExpRVhLVHJaOU1kZXpMVXZRRXZR?oc=5",
+  "title": "Présidentielle 2027 : David Lisnard, le candidat anti conformiste, lance sa campagne",
+  "summary": "",
+  "published": "2026-07-04T09:00+02:00",
+  "mentions": [
+   "lisnard"
+  ],
+  "analysis": [
+   {
+    "id": "lisnard",
+    "tone": 0,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "775b8377522844b8",
+  "outlet": "mesinfos",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNQ1NPYWhTcThIeE5nUUtfQWlXY3NyTERDLWNFcGxWWC01QjF1bS1EWGt6VEotTHc1blVYcHlNcUFkSDJjNUxuZEt1YnMwVnlUcEF5RHFfVmc1NFZNbXEwY2RJSElld2xuTHczd1RwR3pMOGVuTHV2b3dEMldiejR5MGp4bWM4SkJZUE1Jbjd0WS1lWWJEUUhXbGhOQThwZHpCdHRZRDlOMnB1OVh6MkRSRzJGMnB1X2k3U2R1SERhZVBGYWlKMG5KSGpsaFR1LXpTZUlvNU5vVmJ2NjI2T3dV?oc=5",
+  "title": "Le mouvement de François Ruffin met un pied dans le territoire avec Beaujolais Debout !",
+  "summary": "",
+  "published": "2026-07-04T09:00+02:00",
+  "mentions": [
+   "ruffin"
+  ],
+  "analysis": [
+   {
+    "id": "ruffin",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "80bcc714f6e3e62b",
+  "outlet": "www.lamarseillaise.fr",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOa2phR0ZONnRCMmFfLW5mSFVkcEFaTnBlWWFzdGJmTGQ4bUd0TXNFNE1heU9DX19RMTBqbUtQanNJYjBlRktqVTZ3VjZqRTk0YU1TNTdDc2QtaXlQaWhNQzYzSU9FdS1XRG9KQkV4amJUR0NDNVU5RzBSclVhdTZ1aFJMNFVlcTBmMEhGTUlHX1h5M0VTZGctZmhqOEI0ZHFubDRJTlNR?oc=5",
+  "title": "[Congrès] Le PCF au défi de la menace d’extrême droite",
+  "summary": "",
+  "published": "2026-07-04T09:00+02:00",
+  "mentions": []
+ },
+ {
+  "id": "8254e8dd0ecfd67d",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxOMjI4bGVxblFUdElmVzhxbjNnSHY3QlBxeHU1dUl6VllITGg4TTJjY1VOVmtTUXFISjQzbWpCQUFqdkNHaE5yMXk0WWhfWm9JNXN1eVB5ZkVaTkNNTFpYZFlVOWI1SE9IRzBpMjZTb2FxTC1GNGtWZ3YtTlhVb1d6SFdxNjdLOURzQngtZHozTllkemM0cDhVMUlHa1Q4VmJYVnRudlFsNDM5TXBCamtfV0lVc2cyQW9LQUkyQVEtQVNzUXJUdzhsN3FYclk3ZHBuVmFSWDdYSVI2bkVsS1UwR3pLRWk4ZVZCcDlyMHkyUkZzMFd5eFhWa3dXYklqNV9vWkp4c21Ya2ZyZUpHT3FXUklrUjNmVDFobU5hM3R1STNsSTNUclN0d05ELUE?oc=5",
+  "title": "Présidentielle 2027: Édouard Philippe est impopulaire et mal placé pour incarner la rupture avec le macronisme, selon un sondage",
+  "summary": "",
+  "published": "2026-07-04T09:00+02:00",
+  "mentions": [
+   "philippe"
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": -1,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "936f025b82377537",
+  "outlet": "Europe 1",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOLVNINEY1ZDJma3c3ZDN1Qy1laFYxQV9BdzE4UXFXaW9fbGhpX2Jram5MLWQyUldObWtYVUZSN3hDNFpOVjhQYTU4YmUtZ0k3Qm5FcXFZZ1Z3Y1NabW15b1NUZUlEUW1sdDM3a2g0a2V3cEgyTU00LUhZY1dJNkk1YVhpdVNxWi13U2RnVTVCaFNaNUx0dzltWXE2WGdEZnBVdFJ1dkt6dnRDaFHSAbABQVVfeXFMUDU5UzhFM3BOQktJWVRlYzduUTBvVDFVanNVRFNYc0JQRU5Ib016aXN4TnJqY0Q0YmE3R0NvWk0yOVp4a3ZrUUtBaHdCOEY2WHFzaHZhSWtLZEhNT2wyVnBNR0Jfc3lCUzYxV2hPY2hUYzZ6ZjlCdjR2bGp4Y0V6XzEyVnV4X0FuajljR2o1aFdtd2JaQkNIRHc5ZnRaaVNBMHFsWEZtYjJYakhZZmR3Wnk?oc=5",
+  "title": "Présidentielle 2027 : David Lisnard lance sa campagne à Saint-Raphaël",
+  "summary": "",
+  "published": "2026-07-04T09:00+02:00",
+  "mentions": [
+   "lisnard"
+  ],
+  "analysis": [
+   {
+    "id": "lisnard",
+    "tone": 0,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "9bdd5c956ae0eea1",
+  "outlet": "https://www.parlons-politique.fr/",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPRTJHbzhfRjRNRVp3Y3pZRzRaUUl1UFlOSERhWUFpOHR0czFwcDV6YThxRWFIWGM1Qm94V083bWRjcDNoWFJiOHIwZ1piQ3Niem9ubGdYN0RQdUpjbGtGeGVXck1ZWWpnUDhpNU9qRFE1UGZHQjRuX2ltb2FwMnotcTRJa180TklkUVpWMmVOcERSRlIzSXpJOUNrM3g2eUI4NS12dEl1bDU1dENlZDdlZy0zSERBZTZGRnNadEd0WW12Yy0xVl9pZGdacVZSZ19DQUNJOEdUdkEwUGo1cUlFWVBQcnkxazQ?oc=5",
+  "title": "Primaire ouverte à droite : pourquoi Lisnard veut imposer une méthode pour éviter l’éparpillement en 2027",
+  "summary": "",
+  "published": "2026-07-04T09:00+02:00",
+  "mentions": [
+   "lisnard"
+  ],
+  "analysis": [
+   {
+    "id": "lisnard",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "9efb93522dfdc413",
+  "outlet": "Marianne",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZWVTVEk4WTZLNURhS1FCcU44Q25NY3dOSVNxd3p4Q2dBRXB0cFYtcWVQVnB0LVdEbjkyaTBwWXZWdl9FY2Y2cVRrRHBVMkJFYkRQV1cxMDNyajQ0V21fbzJYY2ZfSHdWWmxOd2lHdEFTSFBkTjVOa2ZsczhNOHIzQ1JrcmxGendZVGgxeEd2Xy1NVHZ1VlVRa1NEMWJ5T0JjbnZrM2p3?oc=5",
+  "title": "Russie : quand Bruno Retailleau se détache de la droite Bolloré",
+  "summary": "",
+  "published": "2026-07-04T09:00+02:00",
+  "mentions": [
+   "retailleau"
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": 0,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "9f709420ffa7b221",
+  "outlet": "Le Point",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbDZYa0dwNE9SZnFYM1dqRGcxT2xNZkpCdW9HLUlNR3Fmcl82MS1WNjllenBOTERrWjJ1MkhqVHdMcDRWOXY5X3BvbGNfa2Y0dFl6bkhQd1ZBV2g3V2RtQS1ocDFLanVCOTdiUnVTNXFVcF8zUHpZWXJVOGhMSGhUb3EyOWhwM1lYdjJ3TWxBY0U1Ql8zS2NjT3ZnZ0F1UVhNdU5CcXhzNzY0cVBVZl8yeTAwUExIYUU?oc=5",
+  "title": "Comment clouer le bec à un Insoumis devant France-Paraguay",
+  "summary": "",
+  "published": "2026-07-04T09:00+02:00",
+  "mentions": []
  },
  {
   "id": "9f7e6f5d1f9463e2",
@@ -33,14 +371,32 @@
   "published": "2026-07-04T09:00+02:00",
   "mentions": [
    "melenchon"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": -1,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "9f709420ffa7b221",
-  "outlet": "Le Point",
+  "id": "b2aab80affb54449",
+  "outlet": "lecourrier.vn",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbDZYa0dwNE9SZnFYM1dqRGcxT2xNZkpCdW9HLUlNR3Fmcl82MS1WNjllenBOTERrWjJ1MkhqVHdMcDRWOXY5X3BvbGNfa2Y0dFl6bkhQd1ZBV2g3V2RtQS1ocDFLanVCOTdiUnVTNXFVcF8zUHpZWXJVOGhMSGhUb3EyOWhwM1lYdjJ3TWxBY0U1Ql8zS2NjT3ZnZ0F1UVhNdU5CcXhzNzY0cVBVZl8yeTAwUExIYUU?oc=5",
-  "title": "Comment clouer le bec à un Insoumis devant France-Paraguay",
+  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNV0pGa1dETEdDRDE2TEM1VDdTZHFTWXRiTjNwUXo5VGJuZ1R6NXhuV3pSV0R1a0NjMVV0RWV2WDM2VFhSNDBoN2Z1eFo0OURpVTB1Ylk3NVlfT05uZTVLcTJtbURGdG9abF91aTNUZGhNU0tJd0JuRkRVQzY4RW5yNVRDQVNYOW9VX0psX3hFQTF0d1VfMHpZNEtCWk54ZEdKUTZUa2dxdzQ3WVNF?oc=5",
+  "title": "Une délégation du PCV au 40e Congrès du Parti communiste français à Lille",
+  "summary": "",
+  "published": "2026-07-04T09:00+02:00",
+  "mentions": []
+ },
+ {
+  "id": "c1132d2d4b9a3d53",
+  "outlet": "Le Monde.fr",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWExzaldsODdISXhVTTZCRnQzdno1eGJYby03SFJYS05kekNfSVcxcDBlR2ZyTEY4Zk5yYzFGejlpM2RxM3lGNGUxQWxjVHZsZElkMkd3YXJ0Z2hQQVF2SGtlM3Y4NEpwOG90ZThrRWthYkFfX0hMT2Z4MDU5RFBodV9MczZmRDlxYmRFTjdKajA4bzQ2M1BFek1vZmVIbnI3S29OVTN6R2pBX1RMNS1UYXJrcnZxd3pQWXpUZEV5OF9hbXF3ZjNqcFJfOHdoYzhZVTZWMlZB?oc=5",
+  "title": "A droite, l’impasse stratégique d’un alignement sur les propositions du RN",
   "summary": "",
   "published": "2026-07-04T09:00+02:00",
   "mentions": []
@@ -55,197 +411,15 @@
   "published": "2026-07-04T09:00+02:00",
   "mentions": [
    "retailleau"
-  ]
- },
- {
-  "id": "4475b648b9f0f1f1",
-  "outlet": "CNews",
-  "lean": "droite",
-  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRFIwSllrN1BPcmt3bC1ISHRqMGpOcGt3ZXZzd0FkcDZ3Tm9zemY5b0xYSFVLblRHNEl0aXNQS29lMGt3TWVTV3JsdVktZXhrSDhCU3Ric3dhRFhyc05nVUVPc25zTzllT19YNlpYM3NseHpaYkNaZW9xU3hqYXFUSFJYMW54M2ltSnQ5Uk1XNUhidjRnNjd3NkZlZjlWTFhuUm9vcFo4QUktSzN5ZVZXQVRQRHJadV91Ykpz0gHAAUFVX3lxTE1yTElpQWZob01yWjZ6Z3dyMzhfeHBKR1ltaHU0SzlRYVN2c29fRXZ4dUdRbjNVcjF6MXJMbTZKT3BmSV9XNl85OFFaMjlRcUpkazhucllEc3Z1TTFPRktPOUVYTzd5V3JKRFRTaGpkNDdrQ2ZfLVlOVzQ0UW5xSHROQ0MwczRMX21yT1hGbVBiSVFTRmJSMDVHdDlrNWNyY0xCUGZlNjdQU3dBR3JwTFUzdTFYSmZ1ZFJEQUxFWFpXTQ?oc=5",
-  "title": "Présidentielle 2027 : David Lisnard dénonce «une caste prête à tout» pour se maintenir au pouvoir",
-  "summary": "",
-  "published": "2026-07-04T09:00+02:00",
-  "mentions": [
-   "lisnard"
-  ]
- },
- {
-  "id": "936f025b82377537",
-  "outlet": "Europe 1",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOLVNINEY1ZDJma3c3ZDN1Qy1laFYxQV9BdzE4UXFXaW9fbGhpX2Jram5MLWQyUldObWtYVUZSN3hDNFpOVjhQYTU4YmUtZ0k3Qm5FcXFZZ1Z3Y1NabW15b1NUZUlEUW1sdDM3a2g0a2V3cEgyTU00LUhZY1dJNkk1YVhpdVNxWi13U2RnVTVCaFNaNUx0dzltWXE2WGdEZnBVdFJ1dkt6dnRDaFHSAbABQVVfeXFMUDU5UzhFM3BOQktJWVRlYzduUTBvVDFVanNVRFNYc0JQRU5Ib016aXN4TnJqY0Q0YmE3R0NvWk0yOVp4a3ZrUUtBaHdCOEY2WHFzaHZhSWtLZEhNT2wyVnBNR0Jfc3lCUzYxV2hPY2hUYzZ6ZjlCdjR2bGp4Y0V6XzEyVnV4X0FuajljR2o1aFdtd2JaQkNIRHc5ZnRaaVNBMHFsWEZtYjJYakhZZmR3Wnk?oc=5",
-  "title": "Présidentielle 2027 : David Lisnard lance sa campagne à Saint-Raphaël",
-  "summary": "",
-  "published": "2026-07-04T09:00+02:00",
-  "mentions": [
-   "lisnard"
-  ]
- },
- {
-  "id": "2b680c62995a4af5",
-  "outlet": "IsraelValley",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPY1ZTUVJha01vRGI3eU04VnFiU3A5aktqOXltYmFOR3M2cFkzaDJWSTM4NS1jTGRCNUU5WFh6aDhWbmVEdGtTaTZ2dWdMSzMwZmRvYzlPYjd1cDM4MFZXS28zcjB5VHNTT3FoUXJydlhUVV9ybWV0Q2RpRDlZRVoySk1DbUtFQ210N1lvMDZ1emt4ZXdyWmh2TVlvTGRtZVh0SEZUTFJibXd4bmpqb3pxdlBTU1RkZXl0QUpXNzlVeWh5QWtjUU1OVlY1ZktWYnQ2RWw5SmNLTkVod2VvaDZHQUl3SE9WNERaOEFkb1R1NzFmSXRMRjQxT1ZUM09aLTNqM0JzcUZPeDc2N2c?oc=5",
-  "title": "Présidentielle 2027. David Lisnard, très apprécié en Israël. Cannes: le Savoir-faire israélien pour renforcer les dispositifs de sécurité. Anti-LFI.",
-  "summary": "",
-  "published": "2026-07-04T09:00+02:00",
-  "mentions": [
-   "lisnard"
-  ]
- },
- {
-  "id": "77545f9e8ef4d9cd",
-  "outlet": "Valeurs actuelles",
-  "lean": "droite",
-  "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxObzFYWGlyZTVpQmFISC0za2NDX0V3MjRQaV9zQU1yMGV0VFV4UUprZDdEc1BPODFSaTAxSUpkOHVUNlluT0ZkcVI2bjVhT1NHVm53NkFEdDgwTE5hdDU0bHBEQjF5M0FEVTJOOC1EVGZSTnhSd0lQUDFnV1FBQVc4SURKQVAzMWExNEJUdUVBbUIxbGJHZlc5Z0lEMV9LUmlBdDJHd3gxZHlPaGJhQ3FSWG5Ib3hPOW10RS1QMjVsNmJjUEZ6eloxWW1QMWxBNEVYcU1HTWI5SUkxbjlCa0UxNWtNeUVqSWx5Qkk5ZmZXQTV1ZHB0M1hwQThpLVROOExpRVhLVHJaOU1kZXpMVXZRRXZR?oc=5",
-  "title": "Présidentielle 2027 : David Lisnard, le candidat anti conformiste, lance sa campagne",
-  "summary": "",
-  "published": "2026-07-04T09:00+02:00",
-  "mentions": [
-   "lisnard"
-  ]
- },
- {
-  "id": "9bdd5c956ae0eea1",
-  "outlet": "https://www.parlons-politique.fr/",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPRTJHbzhfRjRNRVp3Y3pZRzRaUUl1UFlOSERhWUFpOHR0czFwcDV6YThxRWFIWGM1Qm94V083bWRjcDNoWFJiOHIwZ1piQ3Niem9ubGdYN0RQdUpjbGtGeGVXck1ZWWpnUDhpNU9qRFE1UGZHQjRuX2ltb2FwMnotcTRJa180TklkUVpWMmVOcERSRlIzSXpJOUNrM3g2eUI4NS12dEl1bDU1dENlZDdlZy0zSERBZTZGRnNadEd0WW12Yy0xVl9pZGdacVZSZ19DQUNJOEdUdkEwUGo1cUlFWVBQcnkxazQ?oc=5",
-  "title": "Primaire ouverte à droite : pourquoi Lisnard veut imposer une méthode pour éviter l’éparpillement en 2027",
-  "summary": "",
-  "published": "2026-07-04T09:00+02:00",
-  "mentions": [
-   "lisnard"
-  ]
- },
- {
-  "id": "daabdffa76f195f9",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNVHZCblhQSTUxTWF2ZV9QOEd0ejZ6YWViSWduWGxsaXBQZFNQOWRLWEdudnZHYS1YWWtGc1JOY3BuNHc5N3c5MVROQVVvSVE3aXpHdm1OVFFST2NHZW10Y0cxeGpiTWFIdG42SDc1dkFEcTJQNTZ4Zzh1eFp3aFQ5ZVVnN0RWa0FCRGhGV3Zsb09mMFJrZDdJSkpWaFpLeElEMGN2enJlVDJDQTliM3NocTFjb1Foa0FmX0hzTkZKNGFjRHB1b2R5bm5TTURudHh3dkROZGdYYUpvVldoX19XbDhqd2ZkWUhuV1RvOXBzVUpUTU0yWVRnYjlHWE1FOXJkRkh4RlZpMnNsRlVW?oc=5",
-  "title": "\"Faire émerger une nouvelle offre politique\": pourquoi Fabien Roussel devrait à nouveau briguer l'Élysée",
-  "summary": "",
-  "published": "2026-07-04T09:00+02:00",
-  "mentions": [
-   "roussel"
-  ]
- },
- {
-  "id": "fad85053f20e09eb",
-  "outlet": "Ouest-France",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPVUtOTmJ0a3hBMFo4NzZ4cGptUHhkZC1LcjRYVEtrcVZ6R0RHcHFBZXZXa0lvcHYwV0FJNjFyUkhnMkFvYnUxbVFKWlNDUk1mcm5MeUg3cDdDTjFqNkxlLXpuUGdMaEdFUXA3ME5Jd3BxcVg0NGYzUFgyelEzWFJjVTUyMzlqYnF2RS1DVEhTY1hrWFgxLTgtNWNKU0VYTndtQzI2cjlLQ21iTTBmQW01TWVhblNZU01KT1pZLUk0MjNEQ1BDZE05eVN5elhzZU12MTFQWW9nakg2RFB4dXJPRE1seF9xdk5UY0E0QnVaTS1vX29wLW5oa2IzWWhiYkRmZG1XRERBUnNNNjhpN2puc1IyNThlRXBreHM3Z0FLaUdzWmdHU29uV2x2eV91UQ?oc=5",
-  "title": "Présidentielle. L’ancien maire de Cholet interviendra dans une réunion de Debout la France avec Nicolas Dupont-Aignan",
-  "summary": "",
-  "published": "2026-07-04T09:00+02:00",
-  "mentions": [
-   "dupontaignan"
-  ]
- },
- {
-  "id": "3807fab436156e05",
-  "outlet": "Marianne",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcjNCMDFxeURIdW56R0MzT1NJLUNneTEyMHhrY3Nlc0QtTHF6WGVuM3NvZlhGY0tpUDZRc3pGZmhta2l1Mi1kN3NnRDBxSDRvUUVZQ0VubXFIRndPWlY4a29HQWg2ZllPVGp6NjVWYnVOcy1seDRWLU5CdHl1ZTRrNzNjOU1SLW5haDFkRmc0VklSN2w4MjNlZ19jYVlabjY1WllOSG9aRUZHZkw5LVEyWnBn?oc=5",
-  "title": "Présidentielle : Hollande, le vieux lion qui guette la gazelle Glucksmann",
-  "summary": "",
-  "published": "2026-07-04T09:00+02:00",
-  "mentions": [
-   "glucksmann"
-  ]
- },
- {
-  "id": "cc60046da4025476",
-  "outlet": "Libération",
-  "lean": "centre-gauche",
-  "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxObmsxN1haQkdCb1k1VnBTWU1JS0hpdDhiXzdadDRhWDYyVEN5TTRYWmxNU1hyV0pRWW1KaEhHenh5REs1M1Z0XzVlQkZES1JHaWdialdObWhYSkRUUGowWlIyanIxVzhXOHFoV1BrUTNWd29PcTBwVmZFdnY4UGxYc0JoODVpWWJveE5nd0twcnRWWWthZzNLOEtTNVJKYWVRWWlSN3lwZ2IwdnYzalQ3NnF1d21rYUhpRTF0d1dsak13SUlfTUVidDJzZXdyVDNnbzlNTFVsU241NllVTzlzbENTb0kwVzA5RWdHclRfa1NoT0FtY0RtdA?oc=5",
-  "title": "Au congrès de Lille, les communistes encore loin de la réconciliation avec Jean-Luc Mélenchon",
-  "summary": "",
-  "published": "2026-07-04T09:00+02:00",
-  "mentions": [
-   "melenchon"
-  ]
- },
- {
-  "id": "333786a9a095894a",
-  "outlet": "Gentside",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxObTBRaDlpNE02WFctY2lmbDloX1BzWUVRdkVwV21iQk4tMDdnX3BGbmNRNmhReUdPbVZEb1NwemlxVHB3NFFOTXl4OVBUd0M4c2xCR0ZvZXYyT3BITy1wbEdmdzlqd19mc1NqZzJZWnVDTV9IMl96d2xGSTdKaWlzMU5OZUJIQXBBTGxkZVdzbGVZd2hEc1A0R0pTZ2JMM3JqUDV0OXhMLWFkMmYxZmk2TV9haUhVbzZWcEttdG5xMWxQUmN4V1dETXExS0RURjNVVkkxc0ZFSVRCNm0wTzRvM1dZMzVzQ0JIU3NWcHFzMTk5akVva3VfOV9Vb0p3eVpvUE05eDhB?oc=5",
-  "title": "« Jean-Luc Mélenchon est certainement le pire candidat de second tour » : Fabien Roussel rejette sèchement l'alliance avec LFI pour 2027",
-  "summary": "",
-  "published": "2026-07-04T09:00+02:00",
-  "mentions": [
-   "melenchon",
-   "roussel"
-  ]
- },
- {
-  "id": "80bcc714f6e3e62b",
-  "outlet": "www.lamarseillaise.fr",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOa2phR0ZONnRCMmFfLW5mSFVkcEFaTnBlWWFzdGJmTGQ4bUd0TXNFNE1heU9DX19RMTBqbUtQanNJYjBlRktqVTZ3VjZqRTk0YU1TNTdDc2QtaXlQaWhNQzYzSU9FdS1XRG9KQkV4amJUR0NDNVU5RzBSclVhdTZ1aFJMNFVlcTBmMEhGTUlHX1h5M0VTZGctZmhqOEI0ZHFubDRJTlNR?oc=5",
-  "title": "[Congrès] Le PCF au défi de la menace d’extrême droite",
-  "summary": "",
-  "published": "2026-07-04T09:00+02:00",
-  "mentions": []
- },
- {
-  "id": "3a70372e94b0ddb5",
-  "outlet": "Vietnam.vn",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQU1dLdTFZZkJNRXp5a1ZEemI1bFl1aTdWc2FQUU5tUkJ6c2FIMzVWSkp3enEtWUgxWFpERHFseGdrV2pybHRkUkh1WFZoTjNGNW94bURha1FzMmxuR0NvU3F4OGxqWk5qdkU1ZGZESXY1bk50ang1MzRLSkd1Zmwzalhmdm1RNkIyMy0wRTNn?oc=5",
-  "title": "40e Congrès du PCF : Vision stratégique et engagement envers l'innovation",
-  "summary": "",
-  "published": "2026-07-04T09:00+02:00",
-  "mentions": []
- },
- {
-  "id": "c7070ea5cf438024",
-  "outlet": "Le Monde.fr",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNVnNsYXFyZ19QaXlzM3N4NmZVZGFzcTk4bjBNbjZOLW5WYlVUMGdVd2pCenQ2LS1IQi1yRGM4Mzk5RkpxZ0FabW8tWGJzdC1ZMEY0RUd4bE42dVpPUWYtU1NQOTlrVjJLZ09tV3dDd0xZU1cyTXNIOFFpUl9PU0hEQzM3ME5WRW5GM2F6ZFdlbEtfQldma2x6OGJBS2daMkxQc19UZUF0aDU4VlVpMHVmdWowWUprSG1pYWJhRGRaSHpGOVNtNmp4dzB5UHd2bl8xSTFsT3lyVFpPYVZKbWp4YklwTmNqcFVvYkdrc1FEelYzc0ZwWXpvendpam9zZWxlU1lqNjcxeWlJZ3pKMjhQQW42aXJYUDRad0JHenNtVm9PSzVRZmpILUNn?oc=5",
-  "title": "Marine Le Pen et Jordan Bardella affichent leur unité à Liévin, avant la décision dans l’affaire des assistants d’eurodéputés du FN",
-  "summary": "",
-  "published": "2026-07-04T09:00+02:00",
-  "mentions": [
-   "lepen"
-  ]
- },
- {
-  "id": "6c07ccb6e7328445",
-  "outlet": "La Provence",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTTFSZHJTUEpzWXROYk5OOUtyNTVUTmRJWmZZaWJXQkFBVGR2SXFVSnFwSC0zVFZnYWxJOGJIcHRsanR2bFVHMkZqTDZGZUZmaUVubUtoQm5nd0YteXdibHRBUFBvUmNvU0FIX2V4Yzk0TG5UTjJjbnl1YUEyOWFFb2RsTHRaT09taEg3MHJrOUFja3dxalVmbk5ZZ0pFd2FXWXp4Y21jNG0weFY1Rm0wSGItSExBdHhhS3YxUnh2NFZ6LWxJeUQ1UTA1czdSQQ?oc=5",
-  "title": "Présidentielle 2027 : \"Ma campagne va s’accélérer\", annonce Édouard Philippe",
-  "summary": "",
-  "published": "2026-07-04T09:00+02:00",
-  "mentions": [
-   "philippe"
-  ]
- },
- {
-  "id": "21e33bd897bd517d",
-  "outlet": "ladepeche.fr",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbUxPQW10clk5QUxlcllBUlQyWFJFWGlFb0lITHR1NjRFUEhmNy02UjVQRHBMZGxiZGlWRU1OZ0ZuTThLN09NYlk2c0p2OW5FQVc4c3U5S0dYcTBmQXhraktITFo4TXY1UVdpTDhuaWY3WnpHSlVpMnMwWWdQOE1IWW95cEtlZVc0ZHdheVk1bl9KWUtsbGlWV004NVJFbnMzMzgyWnJJdGQ2ZHQtcDFNZFMyWkZNeUREOWo5dV9oVzRBUnNXZFZsTDBNb0c4Z0RZd3c?oc=5",
-  "title": "DÉCRYPTAGE. Présidentielle 2027 : face à Édouard Philippe, le pari libéral de Gabriel Attal",
-  "summary": "",
-  "published": "2026-07-04T09:00+02:00",
-  "mentions": [
-   "philippe",
-   "attal"
-  ]
- },
- {
-  "id": "9efb93522dfdc413",
-  "outlet": "Marianne",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZWVTVEk4WTZLNURhS1FCcU44Q25NY3dOSVNxd3p4Q2dBRXB0cFYtcWVQVnB0LVdEbjkyaTBwWXZWdl9FY2Y2cVRrRHBVMkJFYkRQV1cxMDNyajQ0V21fbzJYY2ZfSHdWWmxOd2lHdEFTSFBkTjVOa2ZsczhNOHIzQ1JrcmxGendZVGgxeEd2Xy1NVHZ1VlVRa1NEMWJ5T0JjbnZrM2p3?oc=5",
-  "title": "Russie : quand Bruno Retailleau se détache de la droite Bolloré",
-  "summary": "",
-  "published": "2026-07-04T09:00+02:00",
-  "mentions": [
-   "retailleau"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": -2,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "c6f8c4ba704f6840",
@@ -257,53 +431,60 @@
   "published": "2026-07-04T09:00+02:00",
   "mentions": [
    "retailleau"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": -1,
+    "frame": "polemique"
+   },
+   {
+    "id": "philippe",
+    "tone": -1,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "471595ff61f59bea",
-  "outlet": "Gala",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONU1FNWxfcnA5dzZMSmNfdERYVXE0X2d5TVJrVUVmdF85SEROWWNKYTJGRXdqRlBPbVpGWmFfeEFCS05kV1VfVDNSWXRYTllqUklPcDluQ3huMWo1UFF5N0RUMGNvT0RvRWVwLS1oZW1KQThVdFdiNGJaOTFlNXN0V1lac3VMaXFrVWR6bS03NWk4X0VRMHMxWElaajRBYlR4ZUFqTnpiVmZUMDFQUnBzb0REUk9qT2plbWo3b0hfU3dZNk4tanE4?oc=5",
-  "title": "Le torchon brûle entre Bruno Retailleau et Laurent Wauquiez : “Il était carrément hystérique !”",
-  "summary": "",
-  "published": "2026-07-04T09:00+02:00",
-  "mentions": [
-   "retailleau"
-  ]
- },
- {
-  "id": "c1132d2d4b9a3d53",
+  "id": "c7070ea5cf438024",
   "outlet": "Le Monde.fr",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWExzaldsODdISXhVTTZCRnQzdno1eGJYby03SFJYS05kekNfSVcxcDBlR2ZyTEY4Zk5yYzFGejlpM2RxM3lGNGUxQWxjVHZsZElkMkd3YXJ0Z2hQQVF2SGtlM3Y4NEpwOG90ZThrRWthYkFfX0hMT2Z4MDU5RFBodV9MczZmRDlxYmRFTjdKajA4bzQ2M1BFek1vZmVIbnI3S29OVTN6R2pBX1RMNS1UYXJrcnZxd3pQWXpUZEV5OF9hbXF3ZjNqcFJfOHdoYzhZVTZWMlZB?oc=5",
-  "title": "A droite, l’impasse stratégique d’un alignement sur les propositions du RN",
-  "summary": "",
-  "published": "2026-07-04T09:00+02:00",
-  "mentions": []
- },
- {
-  "id": "775b8377522844b8",
-  "outlet": "mesinfos",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNQ1NPYWhTcThIeE5nUUtfQWlXY3NyTERDLWNFcGxWWC01QjF1bS1EWGt6VEotTHc1blVYcHlNcUFkSDJjNUxuZEt1YnMwVnlUcEF5RHFfVmc1NFZNbXEwY2RJSElld2xuTHczd1RwR3pMOGVuTHV2b3dEMldiejR5MGp4bWM4SkJZUE1Jbjd0WS1lWWJEUUhXbGhOQThwZHpCdHRZRDlOMnB1OVh6MkRSRzJGMnB1X2k3U2R1SERhZVBGYWlKMG5KSGpsaFR1LXpTZUlvNU5vVmJ2NjI2T3dV?oc=5",
-  "title": "Le mouvement de François Ruffin met un pied dans le territoire avec Beaujolais Debout !",
+  "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNVnNsYXFyZ19QaXlzM3N4NmZVZGFzcTk4bjBNbjZOLW5WYlVUMGdVd2pCenQ2LS1IQi1yRGM4Mzk5RkpxZ0FabW8tWGJzdC1ZMEY0RUd4bE42dVpPUWYtU1NQOTlrVjJLZ09tV3dDd0xZU1cyTXNIOFFpUl9PU0hEQzM3ME5WRW5GM2F6ZFdlbEtfQldma2x6OGJBS2daMkxQc19UZUF0aDU4VlVpMHVmdWowWUprSG1pYWJhRGRaSHpGOVNtNmp4dzB5UHd2bl8xSTFsT3lyVFpPYVZKbWp4YklwTmNqcFVvYkdrc1FEelYzc0ZwWXpvendpam9zZWxlU1lqNjcxeWlJZ3pKMjhQQW42aXJYUDRad0JHenNtVm9PSzVRZmpILUNn?oc=5",
+  "title": "Marine Le Pen et Jordan Bardella affichent leur unité à Liévin, avant la décision dans l’affaire des assistants d’eurodéputés du FN",
   "summary": "",
   "published": "2026-07-04T09:00+02:00",
   "mentions": [
-   "ruffin"
-  ]
+   "lepen"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "8254e8dd0ecfd67d",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxOMjI4bGVxblFUdElmVzhxbjNnSHY3QlBxeHU1dUl6VllITGg4TTJjY1VOVmtTUXFISjQzbWpCQUFqdkNHaE5yMXk0WWhfWm9JNXN1eVB5ZkVaTkNNTFpYZFlVOWI1SE9IRzBpMjZTb2FxTC1GNGtWZ3YtTlhVb1d6SFdxNjdLOURzQngtZHozTllkemM0cDhVMUlHa1Q4VmJYVnRudlFsNDM5TXBCamtfV0lVc2cyQW9LQUkyQVEtQVNzUXJUdzhsN3FYclk3ZHBuVmFSWDdYSVI2bkVsS1UwR3pLRWk4ZVZCcDlyMHkyUkZzMFd5eFhWa3dXYklqNV9vWkp4c21Ya2ZyZUpHT3FXUklrUjNmVDFobU5hM3R1STNsSTNUclN0d05ELUE?oc=5",
-  "title": "Présidentielle 2027: Édouard Philippe est impopulaire et mal placé pour incarner la rupture avec le macronisme, selon un sondage",
+  "id": "cc60046da4025476",
+  "outlet": "Libération",
+  "lean": "centre-gauche",
+  "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxObmsxN1haQkdCb1k1VnBTWU1JS0hpdDhiXzdadDRhWDYyVEN5TTRYWmxNU1hyV0pRWW1KaEhHenh5REs1M1Z0XzVlQkZES1JHaWdialdObWhYSkRUUGowWlIyanIxVzhXOHFoV1BrUTNWd29PcTBwVmZFdnY4UGxYc0JoODVpWWJveE5nd0twcnRWWWthZzNLOEtTNVJKYWVRWWlSN3lwZ2IwdnYzalQ3NnF1d21rYUhpRTF0d1dsak13SUlfTUVidDJzZXdyVDNnbzlNTFVsU241NllVTzlzbENTb0kwVzA5RWdHclRfa1NoT0FtY0RtdA?oc=5",
+  "title": "Au congrès de Lille, les communistes encore loin de la réconciliation avec Jean-Luc Mélenchon",
   "summary": "",
   "published": "2026-07-04T09:00+02:00",
   "mentions": [
-   "philippe"
-  ]
+   "melenchon"
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": -1,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "cda6234a04d821ea",
@@ -316,35 +497,63 @@
   "mentions": []
  },
  {
-  "id": "06905a69fd24a114",
-  "outlet": "Zinfos974",
+  "id": "daabdffa76f195f9",
+  "outlet": "BFM",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOLVhoYldOcEhRM2Y1bmM4VlplZXM4SUZKS0hkY252Y21SX0FpQmhoaWNxUVFObngxRVJtWFBvVDhxVlNMS083cXRkZnQ0OHJIRDBUOHVYSk9hTzk2cThYTjg4NU9PdkQ4ODV0WUFTa1AxVHpZRXlndW5XY0dMc1hWQzBGZDRVcGpoYVROV3BqM0FTY05vWV9MTkhXN2hTakFPRVJPcVdQTEdXRFBBTWNkRDF2c2NDWUg3WFRqX3RmWG1HT0h6b3ZyaUZqTQ?oc=5",
-  "title": "Et s'il ressortait de sa boîte ? François Hollande crée la surprise et s'impose chez les électeurs de gauche",
-  "summary": "",
-  "published": "2026-07-04T09:00+02:00",
-  "mentions": []
- },
- {
-  "id": "b2aab80affb54449",
-  "outlet": "lecourrier.vn",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNV0pGa1dETEdDRDE2TEM1VDdTZHFTWXRiTjNwUXo5VGJuZ1R6NXhuV3pSV0R1a0NjMVV0RWV2WDM2VFhSNDBoN2Z1eFo0OURpVTB1Ylk3NVlfT05uZTVLcTJtbURGdG9abF91aTNUZGhNU0tJd0JuRkRVQzY4RW5yNVRDQVNYOW9VX0psX3hFQTF0d1VfMHpZNEtCWk54ZEdKUTZUa2dxdzQ3WVNF?oc=5",
-  "title": "Une délégation du PCV au 40e Congrès du Parti communiste français à Lille",
-  "summary": "",
-  "published": "2026-07-04T09:00+02:00",
-  "mentions": []
- },
- {
-  "id": "4467dcbe2df0bb3d",
-  "outlet": "Le Figaro",
-  "lean": "droite",
-  "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNWkJRc2xUUHhxUnZocEdLTkVkUVVnSkY4bTE5MXVuMTVWaTJvbjk4WlJJNm5zQUpnczZ5VS04SnhJOTE5dEJCTDJESEtndWRTT090MXQwSzVTZWdyenJGaGxFdnIyYTYwODhUcVZvMWRmRVRtWE41bXB0LUxhNHROVWhPUmNvVi01Q3B3Y2JVMUpXUE1XeXFWVjA4TVNFdTFZLUtBd2haMG5WRGtQOWotZzdLbzY1WkhNTzYySkJJZW9kcG53Q0VuSnVkNjB6blpMVG5IYkJ1czFfb2hJYnR6REVsSUF2ZWxEZmc0RmlXcTBXbDdR?oc=5",
-  "title": "Présidentielle 2027 : Jordan Bardella et Marine Le Pen affichent leur soutien mutuel",
+  "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNVHZCblhQSTUxTWF2ZV9QOEd0ejZ6YWViSWduWGxsaXBQZFNQOWRLWEdudnZHYS1YWWtGc1JOY3BuNHc5N3c5MVROQVVvSVE3aXpHdm1OVFFST2NHZW10Y0cxeGpiTWFIdG42SDc1dkFEcTJQNTZ4Zzh1eFp3aFQ5ZVVnN0RWa0FCRGhGV3Zsb09mMFJrZDdJSkpWaFpLeElEMGN2enJlVDJDQTliM3NocTFjb1Foa0FmX0hzTkZKNGFjRHB1b2R5bm5TTURudHh3dkROZGdYYUpvVldoX19XbDhqd2ZkWUhuV1RvOXBzVUpUTU0yWVRnYjlHWE1FOXJkRkh4RlZpMnNsRlVW?oc=5",
+  "title": "\"Faire émerger une nouvelle offre politique\": pourquoi Fabien Roussel devrait à nouveau briguer l'Élysée",
   "summary": "",
   "published": "2026-07-04T09:00+02:00",
   "mentions": [
-   "lepen"
-  ]
+   "roussel"
+  ],
+  "analysis": [
+   {
+    "id": "roussel",
+    "tone": 0,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "e21dc32d077b9db3",
+  "outlet": "Le Figaro",
+  "lean": "droite",
+  "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWTdMdUxnTGxQMGl5Z095WnBfT3dxQnhGTThhSzk0NWl3QVdDb29sNlZlZjhpVTd1elRoUW5WWGNqT1J3VDF3SmJOZTV1QkhWRUtIVnZmVHY5OGJhVlRqMmFTZlZGalQ3aVRmMzdtaFBnZXFfMjJUdFpBWFJOTjMyZlJiZUZjOE1xOXdzX3Bzdmo0OHlEMGdWNF9hVUtpZDMtaG9wdlVLQWxRMUxoX29DdWhRd1paQlIxVkc4ZkRLd0IxU2t6MXRvX1V2NFg?oc=5",
+  "title": "Jean-Luc Mélenchon appelle à éviter la matinale de France Culture, Radio France lui répond",
+  "summary": "",
+  "published": "2026-07-04T09:00+02:00",
+  "mentions": [
+   "melenchon"
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": -1,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "fad85053f20e09eb",
+  "outlet": "Ouest-France",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPVUtOTmJ0a3hBMFo4NzZ4cGptUHhkZC1LcjRYVEtrcVZ6R0RHcHFBZXZXa0lvcHYwV0FJNjFyUkhnMkFvYnUxbVFKWlNDUk1mcm5MeUg3cDdDTjFqNkxlLXpuUGdMaEdFUXA3ME5Jd3BxcVg0NGYzUFgyelEzWFJjVTUyMzlqYnF2RS1DVEhTY1hrWFgxLTgtNWNKU0VYTndtQzI2cjlLQ21iTTBmQW01TWVhblNZU01KT1pZLUk0MjNEQ1BDZE05eVN5elhzZU12MTFQWW9nakg2RFB4dXJPRE1seF9xdk5UY0E0QnVaTS1vX29wLW5oa2IzWWhiYkRmZG1XRERBUnNNNjhpN2puc1IyNThlRXBreHM3Z0FLaUdzWmdHU29uV2x2eV91UQ?oc=5",
+  "title": "Présidentielle. L’ancien maire de Cholet interviendra dans une réunion de Debout la France avec Nicolas Dupont-Aignan",
+  "summary": "",
+  "published": "2026-07-04T09:00+02:00",
+  "mentions": [
+   "dupontaignan"
+  ],
+  "analysis": [
+   {
+    "id": "dupontaignan",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  }
 ]

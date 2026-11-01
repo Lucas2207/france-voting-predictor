@@ -1,5 +1,155 @@
 [
  {
+  "id": "097cda210394ed95",
+  "outlet": "Revolution Permanente",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOM3MwSVBPSGstbzE4a3lwM2syWG0zendTT01TMlpjbHpjbmRPVEJWclE1NmZiRlMzQ2JPNE45eGhmX0pYR1lLSWd3ZVBRbTZnTWIwTHBZTzBXX0pmemNpSUU0aFI2S0V3aXQ5VHVBTGQ5djZSanZaYUVnSFJOaGJSRjBhY1poU3o0SkJBa0NkWmIxQm9KemNvTjJIbDJTaTBWOTNVVWlqODUwVHZNcDVpN1JMc9IBuwFBVV95cUxNdkx2U1NzeWlVSHBUNXVROTk4bEFZYk5qcnl4S0loZ3BzdHZSTzlyNlp0T2ZwOGZzU010b2ZBX1dyY3M2bHllV2dQVjYzOWFtMHJDUUxZRW84cXY0M3RCMWlteUdGY1c1ZlM2M29OTERMazRFMXY0R2w5ejZ5bkFwVExaUUNpT0JuVjI3bHdkME92bzVfOEFkUHQwLWg5MTlCcjM3OHhrYmVZbEpqVDdfQkk5LV9KaHlXeFZN?oc=5",
+  "title": "Marche contre l'islamophobie : après le « j'ai foot », Ruffin invoque la loi de 1905",
+  "summary": "",
+  "published": "2026-09-02T09:00+02:00",
+  "mentions": [
+   "ruffin"
+  ],
+  "analysis": [
+   {
+    "id": "ruffin",
+    "tone": 0,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "0f970dcaaef68957",
+  "outlet": "Le Parisien",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxNdVpQbkdtNUJiYmhUcEstQjJTWHp3a25Pb2ZWdm9PVUEtQlV5X242S2hNWEtzR3F5dm9nd0tuTFd1cHVSYkY1QnJsNl9nVGVyX1BfbjN4UUZ2LW5vdm9sWTNfZ2FVVXlDVmI3VGxLdHZhQlVCdHFrWWdZWVNHWjhTSUZlbllrTlNkTzd0WEpKeDhpc1NFWWhkQkZjcUNrQnhTMXlzeDJCWEd0dnl3RzRFbTNVUUJBSjl1UEZ6c3hWamhQdV9iUk9ac3R2eTR6OE5pQjdmd0NxSTNjM19yVmhSZVI3bGlZX1pwSV9HcmdfMFI2V3ZnemZac2w1cmo3eFdCcEZhRnQwbTNnSXNudjJvaVI0X0lYaUdIazk0S3YyY0VkYzJEOHU3aC1JQ1lHMEZzX2JHR0NrZGNVdWtWTlE?oc=5",
+  "title": "Présidentielle 2027 : « Premier rendez-vous Tinder » entre François Ruffin et Dominique de Villepin, qui testent leurs convergences",
+  "summary": "",
+  "published": "2026-09-02T09:00+02:00",
+  "mentions": [
+   "ruffin"
+  ],
+  "analysis": [
+   {
+    "id": "ruffin",
+    "tone": 0,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "11deb6fe1a8ee784",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQMy1RbnRnTGl1TU5VeXFqX0lnbS1UVWQ4U1VXUFNiTXQxaDR1WDAtckxxUmM4ZlpUbldvUHloLWlETnhxVTVoYUF5LXFhQjN1c24tVk5JekpKQW84R2FIaV9WZlZ4UmE1Mk5leXJqTHJjZGlNZ0dzUmRicVpwZmlqMkdVcDNoT2JjeV9OZktKQnl4T2RtUkxxTHhGYkNOOFhfM3ZRRVNsT2M4eHpvQXU5Ukw3Vjh5NElOaUVOWGV1a0tXSWJMQUFNTkhvbnd0Ty1ZV1BWSk5qSWo0a3NxdjBCQ3E5U3dwUE9JX1lhdzNtc2xQU2EwX3kwWA?oc=5",
+  "title": "\"C'était un premier rendez-vous Tinder\": François Ruffin et Dominique de Villepin réagissent après leur débat",
+  "summary": "",
+  "published": "2026-09-02T09:00+02:00",
+  "mentions": [
+   "ruffin"
+  ],
+  "analysis": [
+   {
+    "id": "ruffin",
+    "tone": 0,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "1216defd8b197acb",
+  "outlet": "RCF",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeU9ORXJNWUdlZEoyYlB1enpEQkkyY3pBZGRpTnU4bzBjWDRyNHpvUWpVcWloaVBqaFdHSE5WOHZnZXpiWnVYUWg2VFFkVzcxODhMZExkZnEwczF5N1M4d3k5UnQ1cnR2RnRjb1JIRnd5cFVONkFEUkNPeWwzcU9wQjBIQ2hid0NRSEM1bXRMZkowZlpHanBLcHZxaTVpWExRZmJ3b3ZnaUlRLUhZR3BldWJtSUtaODBB?oc=5",
+  "title": "David Lisnard assure avoir déjà recueilli 500 promesses de parrainages en vue de la présidentielle de 2027",
+  "summary": "",
+  "published": "2026-09-02T09:00+02:00",
+  "mentions": [
+   "lisnard"
+  ],
+  "analysis": [
+   {
+    "id": "lisnard",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "13b670af14a5674d",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOWlFxUnRGZ0MzQjZvU0JNMWtVYXZkaXZfTkNYUVIxdks4N1FGUk5fUHR4NVdYaEhUMFgxUjJnNlYxS25uazBTaWxuTi1MVDNsQXRXWWRFbEFTM0NCVTg0YThiQXM0U3dLcXF2d0tZaGxZdDRpRE5Wc1JlNGtzNGpQNUVqcXFxV0x4X3pkb0wyMV9hejhkb2NUQWotamZDcldfRmJIenh3SnYxV1QtQzNDT184N3hkY0I5djJ6MjhJd1RBNzUxX2FMNU9yVTY2Tl85OEJMRVN6Nk9YZXFVekRDZHVYZWIyU1ZLX0JISlpJazB6R2NKVnFPaUdxU2tkaThFcWE0WmhvZC1ITnBzTXpaR05nUTdlSVpLZU5JejUyTER0Zw?oc=5",
+  "title": "RN, international, fiscalité... Tout ce qu'il faut retenir du débat entre François Ruffin et de Dominique de Villepin",
+  "summary": "",
+  "published": "2026-09-02T09:00+02:00",
+  "mentions": [
+   "ruffin"
+  ],
+  "analysis": [
+   {
+    "id": "ruffin",
+    "tone": 0,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "152cbd84f8c961ed",
+  "outlet": "Public Sénat",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxQa3pBNE1oOEpGV2xZd2ZBRHBEY0FaTFBSbDJ1UXNZRi1nRWx5RXZyaENGcENuLVUxc3RvSXJsSnF3c0ROazk1UmtkWXdLcExmSF94MnhuWmxGMTZhSEo5emtMUk9zQjN3MkpoWnRESk1LNGVmNXRobmgwWk5COTdndmJVcnljcnRuV3FsLVg5WlRrb204ZlR4QmthNE54TExkMHJsa0V6SWgxNkpQdTJ5SkZRdy1tcVFGWENxRXpJbmhoa21IN2gyNUctcmdfV1lKbXpUSU9oNWxZVDRZRUhVUDB5TDNhRUx2Unh2QWhpVEFscC1lU1ZZaTdYemhTLS1fdHFzcmJxRUxkeVZMMHk3cEYwQWU0QWU1bEp0dDhSd2VNaXB2ZkJGSXE4dW94blBE?oc=5",
+  "title": "« Si Raphaël Glucksmann veut jouer la finale de la Ligue des champions, il ne peut pas avoir peur des barrages » : tensions autour de l’organisation des débats de la primaire PS",
+  "summary": "",
+  "published": "2026-09-02T09:00+02:00",
+  "mentions": [
+   "glucksmann"
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": -2,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "1ab20a61c69dc6e9",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPd29ELXNsaVJSNG81ZzBXUEl1dnJmSHlxZjgyT1YyQ0dBYUc0NUxIQmtjWGFoaE11V19NS0ZWZk80VE9JOWZPWkJVY2tPdTV5NTZobUt1bkg3eHFnMm4xQ3lYbjZLc0Z3OXhDNUxlMWd5NUxIQlN4Z2Rya3M1YVNieC0tVXFkSTdxSmM0MVJNOVhKX1ZDS0dESXRrUkdOQ0J3bW5NXzItVTRZLU54VU5TTWI1akhDd0JnRlRMWTRYVGhubjBYb1NXTkNvZ3VxUG8yMVNtdUgxVkVDa0VreXdwaUZDcTN2dGZzeFJaeWhfclQ3dGVpM2dYbHllOGJKYXlOV0NIb2dpS0RlVVZ2Ym1xRkM5WjRTM1Ja?oc=5",
+  "title": "\"Il y aura même un strapontin pour Bernard Arnault\": François Ruffin veut des \"États généraux de la fiscalité\"",
+  "summary": "",
+  "published": "2026-09-02T09:00+02:00",
+  "mentions": [
+   "ruffin"
+  ],
+  "analysis": [
+   {
+    "id": "ruffin",
+    "tone": 0,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "1f11395b69e29afd",
+  "outlet": "Lor'FM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5JLS1GVXVLd21ncUlGdWE3QjdTWjNGLUZCX2JSelhWc1FpVHVsOEJiWmNCcmJhNFVDT05FSE9hT3pPYUR0bmZ4cTFKZnBjX2tDTURJOVdMTF9vdi1fMG5kVUt4SXJISDNiYmxfU25CZ2Iydw?oc=5",
+  "title": "LOR'FM, La radio Lorraine",
+  "summary": "",
+  "published": "2026-09-02T09:00+02:00",
+  "mentions": []
+ },
+ {
   "id": "1faa706a5cf3a6cc",
   "outlet": "franceinfo",
   "lean": "centre",
@@ -9,7 +159,103 @@
   "published": "2026-09-02T09:00+02:00",
   "mentions": [
    "melenchon"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": -1,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "2605524eec9a175c",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPMkhobUVUU3RQOFJjYklLWnZNQjVpLXBybG45MHJ1S1Zsa2s0bkJkbWFPM3E4alQtdGxJUkVwLTdnRVI1NGRsTV9SVU0wNjhDS29mUEFEZTd0TTllZzhsZnFLWjFMMkFjNUNUR3JtSnNxVVhTdDYtbk1nMEJkT2JEZ3BSdl9nQmd3WlRPQ1A2RlJIWldYT0lDS1VCV0Z1Mk10b2tUZVVBZWNWSXAtRDdIUEd6X3hUdEt1N1p2SGIzdjB2QV9MaUpQTnI0Q2Q4QURQSThRUnNib3dIVHljMHQzWUxnRThkQzhNV2h0elhMYlI?oc=5",
+  "title": "Présidentielle 2027: le débat entre François Ruffin et Dominique de Villepin",
+  "summary": "",
+  "published": "2026-09-02T09:00+02:00",
+  "mentions": [
+   "ruffin"
+  ],
+  "analysis": [
+   {
+    "id": "ruffin",
+    "tone": 0,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "2dc217aa77d14a0a",
+  "outlet": "Orange Actualités",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQbzd0dEJ1Q0lYWWp1d2d4UGZrbjNhZWtkd21JUHNXdU5YNjlNZTJhaVFUakVBVzcwdzFnS0VwUldOTXpCVGRqV1U0QjNGSG5OakFvd3IxdWx5Z1A2bXN3QWY3QWdLTHJZWGd4dGhGWXR4cjB1TmdGdGZiY1hlNGJLUXBpRnFQSGpuWDZqdjd6R2gyUG5CbHhUeTg0S3d3cXJjNFFremc3QWtiUUIyTF9rS1huc2xnTGJ5NkNoekhWOWJsQmt1TGJaeC1heERxR2xxNjlKUms4T1lNN3hQUVZHV0NINjFiWlpsVjFBMXNJOHRzUm5jblRIdURpanBvc3RMMnRmNHUxdlFYdXlLU0JJQ1VvSQ?oc=5",
+  "title": "\"Il ne parle pas pour moi\" : Xavier Bertrand réagit à l’hypothèse d’une alliance avec Édouard Philippe évoquée par Gérald Darmanin",
+  "summary": "",
+  "published": "2026-09-02T09:00+02:00",
+  "mentions": [
+   "philippe"
+  ],
+  "analysis": [],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "32e335e3c4f02f7b",
+  "outlet": "Libération",
+  "lean": "centre-gauche",
+  "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQak01c3Nna28xdWt6WUdoM3J2Q0dKNDlsWVNQV01yaHc5Q3pXM1h0UjN2Y09TUlpJZDYtUFVCN3lmNlpKamRVNV9tN3lkZl96bmFSc2JFQ29xVG85bHZzUGg0X1Fta0xHakNLYVNLenY3dWl2Y19lekVNLTBhMDhZbnZmTV9JWUxJYjR5Z09yTk5tbVNocnAzdkE4UG5DNUFYUW5sWHZCUFhJU2VySVRTOW9Ra0NyTDlLeS02dElLVnFkVW9RMmI5NzlzelR3S3c1VUttVEh3?oc=5",
+  "title": "Débat Ruffin-Villepin : taxe carbone, géopolitique, rapprochement… Les 5 moments marquants de la rencontre organisée par Libé",
+  "summary": "",
+  "published": "2026-09-02T09:00+02:00",
+  "mentions": [
+   "ruffin"
+  ],
+  "analysis": [],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "32ff4dd7d1f1650c",
+  "outlet": "RMC",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQYnc0SzNsY01DUmZaOWxDNnM0aUJaMFYwRmNPMTR0V3ZpLS1aSkQ5SmZsbjhMeVhxLXdNbl9XY0Y3aE1SMHB1MUZJcXNhZzRKcWN3cVdzSmNwb0x1VjFWM1hKMlFaSmhaRjcxaG9SZW1FRURxUm5PS1VHcFhSS2oxRWRnYlc5dzhGbnlpR2RRWUdqaDVrODdSNnN3YTVEeGFJdE1OcGNTTjBDblBoSi1lRWdsWUpZeGVaVUlscW9qdEZ5eUxNSEtGUzFzaGxWb2hMY3dzVGx4MEY2RmV4Y2ZULQ?oc=5",
+  "title": "Comment Eric Zemmour compte sur Sarah Knafo pour booster sa campagne présidentielle",
+  "summary": "",
+  "published": "2026-09-02T09:00+02:00",
+  "mentions": [
+   "zemmour"
+  ],
+  "analysis": [
+   {
+    "id": "zemmour",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "3baa04b03cba4ad6",
+  "outlet": "L'Union",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNLXJhRXhsTzV6T2s2SFI2RERRNktuWkxlS0lPcDFYR1BRYjJnei1jNkNyLVJZTW81QVRGUjk4WkEyWVBtODZwMDh2TE85M294Zk54OWN0YmxnRElFV29XRl9CcHFtdFBPMWQ3SGdNY2NVbnRtazNKaU0tYUYxbFMwdWZVQ1lXVnIwYnVKZjZVX29JZDR5ZDhiZ0JKR3dCR3Zobm1OaGxKMGNqejRXVDBZRVFLYjJmRWhTYWFPYW9xV3Z3ODA?oc=5",
+  "title": "« Je ne veux pas que la France soit une colonie de madame von der Leyen », lâche Nicolas Dupont-Aignan",
+  "summary": "",
+  "published": "2026-09-02T09:00+02:00",
+  "mentions": [
+   "dupontaignan"
+  ],
+  "analysis": [
+   {
+    "id": "dupontaignan",
+    "tone": 0,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "3ef8dbdbfcbd8962",
@@ -21,31 +267,469 @@
   "published": "2026-09-02T09:00+02:00",
   "mentions": [
    "melenchon"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": -1,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "e3b89256aaeff6a8",
+  "id": "43f0ba877a4fb6cb",
+  "outlet": "Vosges Matin",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeTZyYlhnU1pmTGRGU3NXMkRmYlhZMm80RzBtaG1ybUp2bnl4ZGVTbkh3ZEJuUUxZRjgtNy01NXU5b1F2b2dQbEJvU0tKdDlkQVM1RGh4TzY5NS1mbFcwTVlqR2gwTkRxeU4zZWItcDIxVWhpSThMeF91OFU0b0hMTkpmRVVQcW9UWWtTSVp1TzBlLUI5VDRoS0p3b25UMVdWQVZ4OE1hQ2todEUzUmcyNGw3UWVaNGVjck9zV3pDVmZabEpzSzVWMnZB?oc=5",
+  "title": "Vosges. Dupont-Aignan à Épinal : « 2027 doit être un vrai référendum sur la sortie de l’Europe »",
+  "summary": "",
+  "published": "2026-09-02T09:00+02:00",
+  "mentions": [
+   "dupontaignan"
+  ],
+  "analysis": [
+   {
+    "id": "dupontaignan",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "449a49bed9cc382b",
+  "outlet": "Ouest-France",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNLTFiSXY0V0VvZkhabS1TOEpGNUV3RG1VUkx4X2RSa3pTYTdwMGhOczQxcVVhS3hjQkhvVWpOcHdKSVNYZTdrZ29aXy1PQy1MN3IyTFo2TC10YnZUVEN0SFpvU0o5eUxzWHhjeWdJM2ZjZDBuS1liMUFrQXJNaVkxMXdfWkFFaUlVZUJILWdCN1pmY0l0OWFGVjE3TUxMLXIzb1VWS2l6bkxieGpKM3l3QkN1cFVtNkFIN2RKVFJGel9jMmpwUFRwWW5tUnBJVGpEVWwzVFViRWcwOXgyNW9vT3p1ZHlzeF9lYV9TRGVBUzNmWXZHdWQ4WVNTOWk5U1AyNm1jbGxPNGg1cW1IOVRPUF9QSXRjRXJFTU84?oc=5",
+  "title": "Présidentielle 2027. En attendant qu’Eric Zemmour se prononce, Sarah Knafo continue d’écrire son histoire",
+  "summary": "",
+  "published": "2026-09-02T09:00+02:00",
+  "mentions": [
+   "zemmour"
+  ],
+  "analysis": [
+   {
+    "id": "zemmour",
+    "tone": -1,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "49e123b1954272b6",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQSHBzTTNBM1JNenNIYnd2eWdpWkJfMlJrWFN5N1FTTEs5ZFRmUFdSeGFnY215WDRlbGFCMDlXNTAtYzdoNnZKQ3F4X2l6RWdmTHZJZmxKNHFLRmtZbDJOM2NHclc5VmxNbnJkVks0OGJiUXlXc1VDZE5PVEMyQWFfZTRDTFJlX3dOTDVFWUNMa3dxZmJCUENoRmgzT29VYTVKRnYzUEp6cDQzWDBFc203RDhqZjM2QXRkM2hwMjFCMHFsVm9OVV9XY1NDYnRHcHRzWUhEdFBMaUJnVk5Mck5JSURuSDMxV2RKZDNZa2d4eVptNWM?oc=5",
+  "title": "2027: François Ruffin et Dominique de Villepin n'excluent pas un rapprochement",
+  "summary": "",
+  "published": "2026-09-02T09:00+02:00",
+  "mentions": [
+   "ruffin"
+  ],
+  "analysis": [
+   {
+    "id": "ruffin",
+    "tone": 0,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "54b59dc9a9b11e4c",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOVzlCWER3MzhjSEYyOGl5MWVyTmlZbUl0dkV1Q1FCV0h6c21hd1N6dmZuUWJoaFlScUowanNxTzNFekk1UC1SSTFtRFc3Z1I1WF9TbGhjWlQwOGVqNDZ3RXZJV1JBNUY4QXd2dU50Y2h5bzZQVDc3ellibjRYWS1JVUV4b1BTeDJIVEpjVGFmMVVNaF9iX0xqYnBRLTVDZ1JZRzhrT1BWVFROc0RTZnYwOTNzUmRZU1NuSTY5alY2OHlRR0xhZlN3WV9kZzVhakZDWmQxZlo2UExGQTVSNWxTcU9USF9MWkh4ZHhSQ2YwNWt0U1hMSGVkLWVDLTl6MUJNbHctSXU0SFZzb05EaUVhaXV2MFFJamFZ?oc=5",
+  "title": "Débat avec Dominique de Villepin: \"Quand je passe au péage, je pense un peu à vous, lui lance François Ruffin",
+  "summary": "",
+  "published": "2026-09-02T09:00+02:00",
+  "mentions": [
+   "ruffin"
+  ],
+  "analysis": [
+   {
+    "id": "ruffin",
+    "tone": 0,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "6129623b235aa30b",
+  "outlet": "Le Figaro",
+  "lean": "droite",
+  "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQeTJjTHVkV0ZBSnRSTnpWSm1BLWJSdlJLR3YxS1c3V2RGTlIycFlNOVUzb21QeWRFN1NadDZZOUY5X3pERHVKOTlRU3ZwSWdSYjQ3MEp5eUFiMk16ZUNDSDJWMjl6TlhUQ1NVaFBJaU94QnZpYi1nUEdwS3FKQXMxdlVleTJCUmU3eUo0cmk2dHJDal9uQTVVTHp2cDRpeGh1REwtZDRCTHNzb01nQmZJWEVJRTk1eUdSbHFXNUJNaEt3RDZ2U3Q4OGFEQ3NNN0QxRnhQVW5aUlVFWUtfUVI1dzR5c1dOUHM2S0xCRGJucjZ3VG5WNzNCRGtIVUNVOWFibVRINE9B?oc=5",
+  "title": "Bruno Retailleau au Figaro : « En France, la seule cour suprême, c’est le peuple. Je lui donnerai le dernier mot »",
+  "summary": "",
+  "published": "2026-09-02T09:00+02:00",
+  "mentions": [
+   "retailleau"
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "63e09644e436bd8a",
+  "outlet": "Le Parisien",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxOR0xQTXcxUGF0WGJvRU1xdWgxNm9LN210NlhiXzhGamZHcHpnNnVWdnhnMHk0NlRYdFFkeFU5RzVTTVVjNVFxa2cyRFBXQnM0VGc5ZjlVMTlBQi16MWNsSXNqdFlZLVBSdWNpazVINHpqNUJsSmgxR3dBMFd1VnItSjk5a1pYOFVlNTJyV1hGT0tEcE9Tank5SXIyMXBIanF5eTQtclM1YlpvWWdCOUhBa1lFVldMSmV6UnAwTUxadDRjdDZZVTV1MnRJTlZHSHBhcGNsUERzWGdBMXNKbm53M01jVlZ4NDNLZjc1WDUybEhKZ2pWVklmSlhTMzJQU0gwYnBNLTBUbkpWWFd4SEZaU3EwZVB4TXRoRV9yUG9zQkFfNXZFcXc3UFo1NzVSLXc?oc=5",
+  "title": "Présidentielle 2027 : le maire de Cannes David Lisnard assure avoir déjà recueilli les 500 promesses de parrainages",
+  "summary": "",
+  "published": "2026-09-02T09:00+02:00",
+  "mentions": [
+   "lisnard"
+  ],
+  "analysis": [
+   {
+    "id": "lisnard",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "6f4fd8cc88ba0de5",
+  "outlet": "Le HuffPost",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQQ1BIXzRlX1duc2haTEVROGZTTzlkMnp0UWp4RTJza1MzT3EwT0FhREdRUUo4YnQ0ZWptTkQxQ01ROFI3UG1lVXBFMWV5Q1NmYmEzb3BrV3o3OW5FRFpXdEpMRWw3Z2tOVndTUThOZkRqRnpHMHZpOGVTWURkRDhsZGlWWmlabkIyeTlQRVZ0WlhscjYzbS04NjloOFlObjJ4MEhuTFFYMC0yM3Yza0VfTHJkTU5XdDR3TUptd0p4bkpFWGI5VXlKUXVBbEZwdVBOWjVTeHUxMk9fMUZxZ0tuSWhmSVRTNVFzVEpZ?oc=5",
+  "title": "Présidentielle 2027 : Raphaël Glucksmann accusé de fuir les débats télévisés de la primaire du PS",
+  "summary": "",
+  "published": "2026-09-02T09:00+02:00",
+  "mentions": [
+   "glucksmann"
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": -1,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "70f62320160e4e7d",
   "outlet": "Le Monde.fr",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxQWGFSclgzbENXZTVJUGhnS3NYVTFxU09XeV9TVFA2X1I5MmFRM1Yyb1dPRkFNU0dGeGZFS3NnNU1zSGRFNVVNUUVvUFV1WUI2bzV4eUNTcHE5Wm9ub3h1Sy1HUFhkcERIWS1IRVBuemM3cldKR2oxTjZIRmZNMUxRU1BJeHplWnF0a0RQQVcyWTlzYTdZcldCdnJ6bHRydkp0c3JNdDhnS2tZTlJjSHlVVUFJd0V5VWUxNGhZWnllb0RyWllhcV9ySTd1VUo1QVN2RnNTd0lidUNJS0JOQ0ZYRlUyS1lKTG5NbTNDYjAyamJOLWF4bmNEclFkWFh0YUFaS3U4R3BLaDBsT0lrakU4cVB0d2FuV1g5UElacEw3M2JlRFcwZlljRVNGSzRodTd3WXBZZDVn?oc=5",
-  "title": "Une idée « interdite par les traités européens » : le président de la Bundesbank s’oppose à l’annulation de la dette proposée par Jean-Luc Mélenchon",
+  "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOb1pjNVd4WUFvbEtJTk1IVkxYaF8ySm5XZk16MWpVMTBIMm1yNzdPZjI1eEJuUWJkVVY4dUstQXYzdkdIYUFQMDE1X1dVWXc4VWZiUV9WNE9vUGdSVnh3Qnc4V0RTSUlCZ3UyNG9LLW10NGhOQmthVE9WUkNZVm5sUlktZWZ1MnhLQlVKSXBHN2YtMzlrbm1GMXRTSGhaN1NoSFR0ODVKMk9tR3RnUC1vQ09uLURSbDFuRk0zMWozZk82UXB1RDZhZWJ3MFdvYnVIZURGX3I2TThxTzFteFctdFptMF9mN05xeFBXSG1hOXJja1F4VlBaUjBiSEROeUczZm1mVElDRjlxV0xHZkdV?oc=5",
+  "title": "Jordan Bardella mal à l’aise pour défendre le programme présidentiel de Marine Le Pen sur le voile et les retraites",
   "summary": "",
   "published": "2026-09-02T09:00+02:00",
   "mentions": [
-   "melenchon"
-  ]
+   "lepen"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": 0,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "efb3a98f2ce0c6eb",
-  "outlet": "ladepeche.fr",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNQUhhbi1QRUNKb1hzLWc1bk5keV9fTWsyOENNX0U4bjBSeEtxV2RqVkFxN3VFVXlQR0RicUo2dUZVTWtCYWNjUkZ0X3RDS0x6aWZwU1FKUDFDR251bUE5ZGlySUFpQTdiSGVJTnR6Q3piZzdFakRyV2lCcmRHXzl5NTJNMll2YldhNFNvY3daOXNWendRUEJXcDZGMmdXTEllcDMzUDJFMzVmaksxUWNfZzNaak54aTJSTnZXLXFEVGRSeGpLN2g5bjR0ZEU3b3IwbzFzMWREVElLTlI4RmxhQzRNT1J5aG1OM0NXckZSUkVPXzJ0bWlOck5RSFhaLWRSUVY1aUdwUUVQYVRqSW1pMl80ZkdKeHNmLU9iY2todzU?oc=5",
-  "title": "Gabriel Attal attendu à Toulouse samedi 5 septembre : le candidat à l'élection présidentielle rencontrera les Toulousains en centre-ville avant de se rendre à un événement populaire",
+  "id": "7391dd354cc0bd12",
+  "outlet": "20 Minutes",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQmRJM1VaU2phV2J1UW5sTFp0U3ZFSUFINkVSc1NlaW5lRHluaXppUzMycWh5NXVmbG9IRUUzSU1US2NzTHRpMWQ1TDhNcTZsWjVRdlA2MExhU2xTOVRtN1BOZE0xQ3NFRlhUVGdOOGt4cGxENG04Q29IUnBQbTRyRVJZRnhQckFRQWtXNXJwRlJNQVlxcHBhQ09BNldjc1MxMG1LLTdmZHlIY0FYeGQ3SXVwUzVQMGJBaE00NzJkazFFaDFheWdGYms3dy1VU00?oc=5",
+  "title": "David Lisnard assure avoir déjà recueilli 500 promesses de parrainages",
   "summary": "",
   "published": "2026-09-02T09:00+02:00",
   "mentions": [
-   "attal"
-  ]
+   "lisnard"
+  ],
+  "analysis": [
+   {
+    "id": "lisnard",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "7946bed7e6d6517e",
+  "outlet": "La Provence",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNa0VWTFhMLUt4Z1I3Si1rQTlsblZQRER2LWl5ajVNc3UtZk9GOTNHUlRWbEJzQTMwOFUtejgzLUlqZU9wOGhTZ01FZmFzM3U0SDFfU2htM2hIa0dDRkw2U25MMVlPd0pIRzVjOU9Ca2I4XzBsaDJCWjFicWdqbnRHbzNuSE1UUTFWS2kyTDljT1ZvUHN2eVVfVVZLMkI5aDhJNEhCNGVlM29YNXBIYXNDanJLV2ZrbHp4Vnk2UWZvdExDSy1udGUyclQ3SGV1RVNSOU1YSjZvWS1fMEl6eFoySE1hM1pla2s?oc=5",
+  "title": "Présidentielle 2027 : David Lisnard assure avoir déjà recueilli 500 promesses de parrainages",
+  "summary": "",
+  "published": "2026-09-02T09:00+02:00",
+  "mentions": [
+   "lisnard"
+  ],
+  "analysis": [
+   {
+    "id": "lisnard",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "7a51007555ff5435",
+  "outlet": "Radio France",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPV0xOdGlkcjZWQlBBLXNDc3NzbkJhaFlkdWlkaXNKNkdYNlNjbzdBcUVsRXU5cDVpSllLWjk4em5qdUlmUFhOcGdmVzZBQllHUnExaHNmcnJPZV91b1NhdXNGalZGWE1GcTcydkR5eVZkMlc0NjMtZFZNTGlqbmdqcWhQSmRUOXJfX0Z2V1ZrTjE0clRvbXlXT1Q3Zk1OME12ZmppcGhOc0ktZzU3a0pNZHpOeTUzU1k5TU9fN1ln?oc=5",
+  "title": "Marine Le Pen à nouveau les pieds dans le voile",
+  "summary": "",
+  "published": "2026-09-02T09:00+02:00",
+  "mentions": [
+   "lepen"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": -2,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "8227d3abad0ff078",
+  "outlet": "Libération",
+  "lean": "centre-gauche",
+  "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPVmlINzVZOG1adTVJVlA1eEgtOUo4UWcwdHoxQ2VXSmdCelVHSHRleW81Ul80bEh3U1g1SjRJMHpLVHNoZW1RTllIb0xtczlCZjhUaFo2UUU0Y2h0eHV5ekx3M1Y2cDZfZHBfaTQyUDZCbENvSUNPVnhCXzl0ajVBdnNuT3l1Q1NvQnNieFNWRnI3VDROU1J5MHBtUHluVjNQWHJBNFNpeEVzb21ULVhWSFh1dF9fQ01GY2VYNm1kZUN0bnhXYk9qOVFFTXdVcWFjWktpdGtGZy1vS1VjLUtuTklxWVBRR2xva2ZxaGw2bWN5bV9iUzViQUNKQQ?oc=5",
+  "title": "«Mais pour qui il se prend, ce type ?» : le comportement de David Lisnard exaspère le patron du Medef",
+  "summary": "",
+  "published": "2026-09-02T09:00+02:00",
+  "mentions": [
+   "lisnard"
+  ],
+  "analysis": [
+   {
+    "id": "lisnard",
+    "tone": -2,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "8328725050d39594",
+  "outlet": "lejdd.fr",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQangwVGhINVVKam1oaWZtdmxuQ2pqc2xqbW5SNkRkanNSV25yWG5La1RHNlhVR1lWbkNOQlJkTkxjLUdtSV84MkNoYVBpTWh5VDhSVkgzckFmcm5WT0NDU21mTVIxaGRGS05NU0JXTXl5SDhlanhRcTk3LXNrSGtvZ214WkM5OHc4QjE3Zi1FcTBndlpXamoxckN6UWx5QlRRYTRTUjF6NEtqcW1PZEJicWpjdUVSbEpJWnhB?oc=5",
+  "title": "Présidentielle 2027 : David Lisnard a réuni 500 promesses de parrainage",
+  "summary": "",
+  "published": "2026-09-02T09:00+02:00",
+  "mentions": [
+   "lisnard"
+  ],
+  "analysis": [
+   {
+    "id": "lisnard",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "86d23d32fc782bd7",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOeXp3dWxjVkpiQzBBNi1PWmZtQUx5Y3BMU3pkbV9mV1ZfWjlzUXFZM3Zjem1Ya0EtaHI4QjZIVWF1al9yTzFLSWN6S3E1OHFtV3FzT3Jtc2dDQkNZNjUxbllkeDg5Tk5qZE5KVlRLMld4VGtDR2RSaFU3eEoxLWFzUHp2a1dHWFRHS0lRX0pEcmRQdllqd0ZrNlVBRnRqTXFJX00tQWRSNW5tNTFKTm5iWDdiNld2dGQ5ZGNsRE5DdThFVnJWc1RhR1ZZaUM1STJTS1ZDa3czemRGUDRRczBNckJGd2VOdzI5c0pzbUxkQnAxdXFFdVVFOG9RcFc3b2tySk15Y1F4OWpVUWs?oc=5",
+  "title": "François Ruffin: \"Il faut une France qui combatte à Bruxelles contre les accords de libre-échange\"",
+  "summary": "",
+  "published": "2026-09-02T09:00+02:00",
+  "mentions": [
+   "ruffin"
+  ],
+  "analysis": [
+   {
+    "id": "ruffin",
+    "tone": 0,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "8a6259ba51e30f8a",
+  "outlet": "franceinfo",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNWndXRTRRUllSUGNySURHOGpsSm5uVWZCTmtoT0wyY1Z5ZmVmSjdtRDlfbDBtWllGYUdQaGNuSUpvbVBhWm5SUFhBaVRIaE0wZmRsQUJONEtnYmpHYzN6UkF3SEpHYWNsMlZhNG9DV2dWX0kzS2tIUHZEaFJ0TXZGMXFlVkNGYlVEMkJaOUFCX1NyaEhFc1JZTXVnOUxybmlCQmgtQUdNSm9ieWxUYXExQmJZQ05RMHlla2VqaEpfS3lCWE85MUFzTEJyNXEyV3ZzeVNrOTlLcGp0aTNnZHUteFdXbnJTOWVqSnh1YkluSVNYLUVpSS1Va09CUEVCbHdBRndlM0c2azZEMjBvOTJQQnBPdUxqSmRlc2tmSXU1THV5Njc2enBqYw?oc=5",
+  "title": "\"Après des mois de normalisation, Marine Le Pen réactive un marqueur\" : pourquoi le RN replace la question du voile dans le débat présidentiel",
+  "summary": "",
+  "published": "2026-09-02T09:00+02:00",
+  "mentions": [
+   "lepen"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": 1,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "90faf916c533fbbd",
+  "outlet": "https://www.parlons-politique.fr/",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOMHBnc2JqbXB0T1R0Vzh6MVB2VExVYjlEWUpyYUJ0QnNYYzZ0MmV1d0NCTi04MDkxT0MzaFBNNXZwZnh0UHFUOURXTnFQRWlSenpPVHJhb1QySWV0V0RYX0FQUjBNbUYwTU94dllQOUk0OFVKMEY0NTBUV2lpTE0yOV9vYTJIa0VIOTJhUnhpMVNvWjZpT0o2WEx4cU9EcG9jOU15Nnpza3o2aWVVMVNTTTZIVDg0T2l6WlFndXY4UVpCYkM2NWlKMERRQldtLVE0Q3JZeUtfcktwRVNqRnFEWFp3UEM1cUx2TlUtZw?oc=5",
+  "title": "Ruffin et Villepin face aux mêmes urgences : ce que leur rapprochement changerait pour les électeurs en 2027",
+  "summary": "",
+  "published": "2026-09-02T09:00+02:00",
+  "mentions": [
+   "ruffin"
+  ],
+  "analysis": [],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "a067dfdbe9843df2",
+  "outlet": "Valeurs actuelles",
+  "lean": "droite",
+  "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQYWl5RGtaNDVJTUtYZHdoM1E1SWc3NXRaMzRlem1zcUhCLXRNYjJqQ0JwdE9vRzhGRnFBcFRKQW9xYll5TkVDdVRmaEVLeWRwSzNUZ0N6clpGajRpbmZpVXRpUldZRDlDTG9MVFdKd2FHX1Z1QVl6cUZIemNCX2pfUHUzUHpLWUt4Ql9hcFFFckJjUlhzWkJXY1lkSkkzVnhJZHVVT0hQYURDUElJZVo3aHNmTTllU3JkNUZ3S01WdDdNQl9aeVZWdTFrSHVIcnlJTnFLSFhvMy16RlFrMWJvLU1vNA?oc=5",
+  "title": "Présidentielle : David Lisnard affirme avoir déjà réuni ses 500 parrainages",
+  "summary": "",
+  "published": "2026-09-02T09:00+02:00",
+  "mentions": [
+   "lisnard"
+  ],
+  "analysis": [
+   {
+    "id": "lisnard",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "a464b10fba4c99da",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNTVVwZmNmdVp2Rkl3OUxBS3BkNGRaWkhPSC1DN3VqVlhSeE5TX2tWbGV5eEtXSUoxamRQOG1YaE52ZGJNT0xSRFg4LWZ3R0Vmc1ZQUlh0SHI2Q2pUUzROaUFrRmkwb0xFMWZMcDNJUnJIdGxZUXEta3ZnaWFtQlduZXA0NWR0ZjhiTmYyME84VF9OWnMwT3Vyb3NFT0otdGVacmRsYXFoSDBUM1l2Zy02ZjA4WkdMSVBTVm5iVDdvN0FYY0laREE2dzNFSmU3VC1yd0w1RXhrMHYtM2VaQ3lSQ1oyV1ViYkhf?oc=5",
+  "title": "\"On se renifle\": François Ruffin et Dominique de Villepin ouvrent la porte à un rapprochement politique",
+  "summary": "",
+  "published": "2026-09-02T09:00+02:00",
+  "mentions": [
+   "ruffin"
+  ],
+  "analysis": [
+   {
+    "id": "ruffin",
+    "tone": 0,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "ad4c1a9a64c91fe8",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPa0FjWXBZc3RmZ0JfcnozVUFVV2VJR0p3amdJSXozcjhDZ0RneGFPVFNTRk5MQ21MdUw4SmFvdWMzai1aYUhOYWV0RG9UOWlkY0t6V3NMTzBfSUIzUkl1R2EtQW9fb1BMUFdhSE9XU25IUkg0NnkzeERQUzhSSkJqLXA1TDJNcFk5QS1BWlZoMzF0czdQQjFMVEFMaTMwUkxZbGppNVd6N092WHV4OEdtYWp2TjN0NjdyQ3phb1FtQTdjTE5WV2tsY3J5TjM0dHlINzRKamRQaUhzaHRHRlVrU2p0NldWYldFUVE1ckt0WGs5cFFDRjg3VFZiaW9KTzQ?oc=5",
+  "title": "Présidentielle 2027: les enjeux du débat entre François Ruffin et Dominique de Villepin",
+  "summary": "",
+  "published": "2026-09-02T09:00+02:00",
+  "mentions": [
+   "ruffin"
+  ],
+  "analysis": [
+   {
+    "id": "ruffin",
+    "tone": 0,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "b60fc20f86a691e0",
+  "outlet": "https://www.parlons-politique.fr/",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxONVR1N1o1elVXOENxV2lGaDFSMkFvZFduRHVUbDkzZ3RZRDhGUlBlMWgtTzJuZDZWY09aY1dSRU9vY3V4TlFUUVZPTHhiSmpqNjFTUGtkWGJTWm5fY2lxVXdoUWFKU2NkTWJzUUFNN1dOQjg1WWdQcmRGdkxyVzY4aVI4VUkybi1QMkhNY2NWWDdzQ3A0dUs4aGFiZ2p1Nkkwc0RtMWhaZjViYlRfSGxYWDhPWlE4NmFBMGxfazExR29Nd1pfZEVrVWVNU2p0WDFCUk9LZ1F1U05FNC1BQ29sUGxRd1lQREIycWczY1d5RzM5UQ?oc=5",
+  "title": "Présidentielle 2027 : David Lisnard sécurise ses parrainages, mais doit encore convaincre les électeurs de droite",
+  "summary": "",
+  "published": "2026-09-02T09:00+02:00",
+  "mentions": [
+   "lisnard"
+  ],
+  "analysis": [
+   {
+    "id": "lisnard",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "be0ff2a4c3d7e258",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNMkYxLUpIZDREbzlJQWo3Q2J1TC0xdFdJS3d5X3dwaUhzNUgwb3pvMHJsMUNmQzE1STFvWkJmYjRMNEJ5QWs4LU1TcWRjN1ZHTzd6WnpnVEwwQW1PcVd1UXEtN2pOWVluTHd3bDlFbDJSWHFxVDItS1I2VnFrdXdFZzBmNl9lWE1RLUpPYlRicDMxOGROaTVLaEFlTHFYQkY5OVJaMVBOQzdWWW91NHN6R0xxSm10WTdkN1h0VHkzdjc0YXBmcVowcEpYUmdGeks4Q0RjWUNmbUdwcmRJVC1QWlp5Y2dXNW9VQnhUT3hjYjg1dDRIc0JXb19UTTJyZVJRbkxuZGtkQnJ0akdwMmhSb2pHYkxWRFMzTktMYTZJdWFLOU80VEg5N0pjNXJWaXEtLVNZUw?oc=5",
+  "title": "\"Notre maison brûle et le président fait du jet-ski\": François Ruffin et Dominique de Villepin attaquent Emmanuel Macron sur l'écologie",
+  "summary": "",
+  "published": "2026-09-02T09:00+02:00",
+  "mentions": [
+   "ruffin"
+  ],
+  "analysis": [
+   {
+    "id": "ruffin",
+    "tone": 0,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "c09490fc264baaa7",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNVlBXWmhPcEFvTW1WNjREdVNZeV9GelM3N2JCNzlyN0dXbWZpQ2RDUHFRMkxVWkFwTWpRZThIYkIydml1Sy1hcENxUFlZeXJGcjZCdU1ueS1KQkdqZ2hIU1lvMFpDMXpzWEIzUVV5QkctczhqTEZZQ2FXUGZhZkg4VnZNQm53ZG9mNWFXZ2JVMFBWLXNrZHBNSmhRZTd6V19QTko5dVU0LVl2ZFU2Z1o4VmVfZ2phWEZVUTVkQU1uYjZjZEdaam1fZS1LS00xUGJqazd0enBnSURjUV9tYi1VYmVRREZjNGs3RFBxdXNKbFZyeE16QmJWcUpDVXdVOWIwbU0taTFHLVl1R3hjUEZGaTJjamlYbHFfM3c?oc=5",
+  "title": "François Ruffin souhaite que \"toutes les personnes sur le territoire français puissent accéder à un travail\"",
+  "summary": "",
+  "published": "2026-09-02T09:00+02:00",
+  "mentions": [
+   "ruffin"
+  ],
+  "analysis": [
+   {
+    "id": "ruffin",
+    "tone": 0,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "c7b1ce3c48b9d07d",
+  "outlet": "Le Monde.fr",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxPazI2S0M3bXpRRUdtazRRbFduNERscUdmQlRrbWFoRVZwb0lXWlJISnRvaFNYWUlBZW1oN0tnTEI2eVNfLXlSTWx5WVpjYjVDcTRUblZvajZ5RUNyTlpQZmxITWxsb2hQUVlaMS1nUnUxQkt2cml5UEhXalcyV0tUczJNSUlaN2w5Yk5TNllNZDgtd2lLcGtsQ0lkUFk4dW5RMjRzMk51b3dWd0ZFWFZNUVYwWU9qbVFtWUdyUkptNkRvaGJkaDFGM0xndE40czE1VEU5VV95dDJBN3NEMVdhZXdyd1M3YjFyRzhQZVlNdWFKTDg2bS1XRjBaZ1FXTGFRTFZUdkFlSURvc1pDYS0ydmZNS1Q2WE05YV9hZVpJVW5nd3ppRDFucjNENC03cmxqQ3lOblZn?oc=5",
+  "title": "Présidentielle 2027 : Bruno Retailleau, une approche très libérale du dérèglement climatique",
+  "summary": "",
+  "published": "2026-09-02T09:00+02:00",
+  "mentions": [
+   "retailleau"
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "d1b83204858f594c",
@@ -58,235 +742,15 @@
   "mentions": [
    "lepen",
    "zemmour"
-  ]
- },
- {
-  "id": "32ff4dd7d1f1650c",
-  "outlet": "RMC",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQYnc0SzNsY01DUmZaOWxDNnM0aUJaMFYwRmNPMTR0V3ZpLS1aSkQ5SmZsbjhMeVhxLXdNbl9XY0Y3aE1SMHB1MUZJcXNhZzRKcWN3cVdzSmNwb0x1VjFWM1hKMlFaSmhaRjcxaG9SZW1FRURxUm5PS1VHcFhSS2oxRWRnYlc5dzhGbnlpR2RRWUdqaDVrODdSNnN3YTVEeGFJdE1OcGNTTjBDblBoSi1lRWdsWUpZeGVaVUlscW9qdEZ5eUxNSEtGUzFzaGxWb2hMY3dzVGx4MEY2RmV4Y2ZULQ?oc=5",
-  "title": "Comment Eric Zemmour compte sur Sarah Knafo pour booster sa campagne présidentielle",
-  "summary": "",
-  "published": "2026-09-02T09:00+02:00",
-  "mentions": [
-   "zemmour"
-  ]
- },
- {
-  "id": "449a49bed9cc382b",
-  "outlet": "Ouest-France",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNLTFiSXY0V0VvZkhabS1TOEpGNUV3RG1VUkx4X2RSa3pTYTdwMGhOczQxcVVhS3hjQkhvVWpOcHdKSVNYZTdrZ29aXy1PQy1MN3IyTFo2TC10YnZUVEN0SFpvU0o5eUxzWHhjeWdJM2ZjZDBuS1liMUFrQXJNaVkxMXdfWkFFaUlVZUJILWdCN1pmY0l0OWFGVjE3TUxMLXIzb1VWS2l6bkxieGpKM3l3QkN1cFVtNkFIN2RKVFJGel9jMmpwUFRwWW5tUnBJVGpEVWwzVFViRWcwOXgyNW9vT3p1ZHlzeF9lYV9TRGVBUzNmWXZHdWQ4WVNTOWk5U1AyNm1jbGxPNGg1cW1IOVRPUF9QSXRjRXJFTU84?oc=5",
-  "title": "Présidentielle 2027. En attendant qu’Eric Zemmour se prononce, Sarah Knafo continue d’écrire son histoire",
-  "summary": "",
-  "published": "2026-09-02T09:00+02:00",
-  "mentions": [
-   "zemmour"
-  ]
- },
- {
-  "id": "f4ad4b688247ae46",
-  "outlet": "Le Figaro",
-  "lean": "droite",
-  "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQdVpIOEFFNWRYYlp0S2QwMTVJbFdGT0VRMzRmVExzUWQ5N3RQci1mci1PM1pLSjFqdldRU2JTc0E1Q3huLXNBQXB2R0pkZlp0Q1BQWC0xcUItQnVVakxFQmZVb0dudzhpLXZNa3dXNmFWT1Buby1PX0FhLXNrUksyTU5OVE1tT3l3eENVZmJ3UnI1aHdSSkFwdWs4czVITlNzeUthVXZqYTZndEVFdF9jY29jaEEtcEdsTHVaZUZGUVdqNnp2cDNoRkE0VDIwTVZmc1lUQVBRRDNaeV80bW1OS19yMWs1NnBGUmkyWmVldmE3NklKSktVWGY5LTBWdFBXdjdZdnVUQ3lONm5GZGZ1UQ?oc=5",
-  "title": "« On la craint plus que lui » : en pleine promotion pour son livre, Sarah Knafo fait-elle de l’ombre à la candidature présidentielle d’Éric Zemmour ?",
-  "summary": "",
-  "published": "2026-09-02T09:00+02:00",
-  "mentions": [
-   "zemmour"
-  ]
- },
- {
-  "id": "d45d5bb438d321ce",
-  "outlet": "Le Monde.fr",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxQOUZ1Z243bU5KeHdBMURhVWUxbzV4eG1PR25RaUpDSU9VT2N0akNpeTVCV25HNjV3MXA3TmIyYzZCRG9GNV9RUl91ZjJJQ1ZGbHZRVnU1UU1fSUpsTjUzU2lkaURmbm9WOVZNcHRmUWdWRG1MRHUybmJoZzZROHhWZFhaT0JhT1M0TjVXQzVnSlBSMk5WSVROQ09STk1oRnQ1ZHdLdWNkcENKZU12YXhYZGdIUHhoODlNNXdaUzhuNm9rRTJQR0tJbnpzR3duNkFsOVpkZm5TX3pHWWFDVXp1d2JYV1VkNzdTcWZMUDNhd2UxeTZyNm9PN0dwdkpHWm9kMVc0RGQ5Y3lIVVN5UmpmaVhIZGk3c052S2dEaEZINk8wWHEwSy1iVm53akZDc3dwbHQzcDh3?oc=5",
-  "title": "Présidentielle 2027 : Bruno Retailleau promet une réforme constitutionnelle pour donner « le dernier mot » au « peuple français » sur certains sujets",
-  "summary": "",
-  "published": "2026-09-02T09:00+02:00",
-  "mentions": [
-   "retailleau"
-  ]
- },
- {
-  "id": "c7b1ce3c48b9d07d",
-  "outlet": "Le Monde.fr",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxPazI2S0M3bXpRRUdtazRRbFduNERscUdmQlRrbWFoRVZwb0lXWlJISnRvaFNYWUlBZW1oN0tnTEI2eVNfLXlSTWx5WVpjYjVDcTRUblZvajZ5RUNyTlpQZmxITWxsb2hQUVlaMS1nUnUxQkt2cml5UEhXalcyV0tUczJNSUlaN2w5Yk5TNllNZDgtd2lLcGtsQ0lkUFk4dW5RMjRzMk51b3dWd0ZFWFZNUVYwWU9qbVFtWUdyUkptNkRvaGJkaDFGM0xndE40czE1VEU5VV95dDJBN3NEMVdhZXdyd1M3YjFyRzhQZVlNdWFKTDg2bS1XRjBaZ1FXTGFRTFZUdkFlSURvc1pDYS0ydmZNS1Q2WE05YV9hZVpJVW5nd3ppRDFucjNENC03cmxqQ3lOblZn?oc=5",
-  "title": "Présidentielle 2027 : Bruno Retailleau, une approche très libérale du dérèglement climatique",
-  "summary": "",
-  "published": "2026-09-02T09:00+02:00",
-  "mentions": [
-   "retailleau"
-  ]
- },
- {
-  "id": "6129623b235aa30b",
-  "outlet": "Le Figaro",
-  "lean": "droite",
-  "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQeTJjTHVkV0ZBSnRSTnpWSm1BLWJSdlJLR3YxS1c3V2RGTlIycFlNOVUzb21QeWRFN1NadDZZOUY5X3pERHVKOTlRU3ZwSWdSYjQ3MEp5eUFiMk16ZUNDSDJWMjl6TlhUQ1NVaFBJaU94QnZpYi1nUEdwS3FKQXMxdlVleTJCUmU3eUo0cmk2dHJDal9uQTVVTHp2cDRpeGh1REwtZDRCTHNzb01nQmZJWEVJRTk1eUdSbHFXNUJNaEt3RDZ2U3Q4OGFEQ3NNN0QxRnhQVW5aUlVFWUtfUVI1dzR5c1dOUHM2S0xCRGJucjZ3VG5WNzNCRGtIVUNVOWFibVRINE9B?oc=5",
-  "title": "Bruno Retailleau au Figaro : « En France, la seule cour suprême, c’est le peuple. Je lui donnerai le dernier mot »",
-  "summary": "",
-  "published": "2026-09-02T09:00+02:00",
-  "mentions": [
-   "retailleau"
-  ]
- },
- {
-  "id": "e9f6eebdfeabfdd4",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPSFUzM2tyT2p6VkVSV2pJdHUwT0tWMnFDVm03SUVPSVljLWNUV2lheFgxZGxVZlYxMHVsWkdmLWp3Z2RJcDhDa3RLMGpGR2p3UF81ZE5CQ2daRkczMWQxZTc2anlSV25ydUVPNHgtT0QwLVF2eVFFMXY0MkxjQkZMNTNRM1NKdlpSSnJoVEhVbTFoZnU5YVpEaV9xTVYtZHBQaTM2alBkWFVpdUVPT00zNHJPRnkxVkdWREk0ZXlCNENzVTRIcTFvTDg0b0tqYXIwQVRGM3ZaUzVFYVNBQ3FaQmpKeDFsejZNN2pvamdLSERCVU5zVFNjaDZ6U3NBNDQzb0pNS21TSjRxQmZnLUFsTVRsb1UtXzlCQjFzUg?oc=5",
-  "title": "Présidentielle 2027: pour \"donner le dernier mot aux Français\", Bruno Retailleau défend une révision constitutionnelle",
-  "summary": "",
-  "published": "2026-09-02T09:00+02:00",
-  "mentions": [
-   "retailleau"
-  ]
- },
- {
-  "id": "63e09644e436bd8a",
-  "outlet": "Le Parisien",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxOR0xQTXcxUGF0WGJvRU1xdWgxNm9LN210NlhiXzhGamZHcHpnNnVWdnhnMHk0NlRYdFFkeFU5RzVTTVVjNVFxa2cyRFBXQnM0VGc5ZjlVMTlBQi16MWNsSXNqdFlZLVBSdWNpazVINHpqNUJsSmgxR3dBMFd1VnItSjk5a1pYOFVlNTJyV1hGT0tEcE9Tank5SXIyMXBIanF5eTQtclM1YlpvWWdCOUhBa1lFVldMSmV6UnAwTUxadDRjdDZZVTV1MnRJTlZHSHBhcGNsUERzWGdBMXNKbm53M01jVlZ4NDNLZjc1WDUybEhKZ2pWVklmSlhTMzJQU0gwYnBNLTBUbkpWWFd4SEZaU3EwZVB4TXRoRV9yUG9zQkFfNXZFcXc3UFo1NzVSLXc?oc=5",
-  "title": "Présidentielle 2027 : le maire de Cannes David Lisnard assure avoir déjà recueilli les 500 promesses de parrainages",
-  "summary": "",
-  "published": "2026-09-02T09:00+02:00",
-  "mentions": [
-   "lisnard"
-  ]
- },
- {
-  "id": "1216defd8b197acb",
-  "outlet": "RCF",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeU9ORXJNWUdlZEoyYlB1enpEQkkyY3pBZGRpTnU4bzBjWDRyNHpvUWpVcWloaVBqaFdHSE5WOHZnZXpiWnVYUWg2VFFkVzcxODhMZExkZnEwczF5N1M4d3k5UnQ1cnR2RnRjb1JIRnd5cFVONkFEUkNPeWwzcU9wQjBIQ2hid0NRSEM1bXRMZkowZlpHanBLcHZxaTVpWExRZmJ3b3ZnaUlRLUhZR3BldWJtSUtaODBB?oc=5",
-  "title": "David Lisnard assure avoir déjà recueilli 500 promesses de parrainages en vue de la présidentielle de 2027",
-  "summary": "",
-  "published": "2026-09-02T09:00+02:00",
-  "mentions": [
-   "lisnard"
-  ]
- },
- {
-  "id": "8227d3abad0ff078",
-  "outlet": "Libération",
-  "lean": "centre-gauche",
-  "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPVmlINzVZOG1adTVJVlA1eEgtOUo4UWcwdHoxQ2VXSmdCelVHSHRleW81Ul80bEh3U1g1SjRJMHpLVHNoZW1RTllIb0xtczlCZjhUaFo2UUU0Y2h0eHV5ekx3M1Y2cDZfZHBfaTQyUDZCbENvSUNPVnhCXzl0ajVBdnNuT3l1Q1NvQnNieFNWRnI3VDROU1J5MHBtUHluVjNQWHJBNFNpeEVzb21ULVhWSFh1dF9fQ01GY2VYNm1kZUN0bnhXYk9qOVFFTXdVcWFjWktpdGtGZy1vS1VjLUtuTklxWVBRR2xva2ZxaGw2bWN5bV9iUzViQUNKQQ?oc=5",
-  "title": "«Mais pour qui il se prend, ce type ?» : le comportement de David Lisnard exaspère le patron du Medef",
-  "summary": "",
-  "published": "2026-09-02T09:00+02:00",
-  "mentions": [
-   "lisnard"
-  ]
- },
- {
-  "id": "7946bed7e6d6517e",
-  "outlet": "La Provence",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNa0VWTFhMLUt4Z1I3Si1rQTlsblZQRER2LWl5ajVNc3UtZk9GOTNHUlRWbEJzQTMwOFUtejgzLUlqZU9wOGhTZ01FZmFzM3U0SDFfU2htM2hIa0dDRkw2U25MMVlPd0pIRzVjOU9Ca2I4XzBsaDJCWjFicWdqbnRHbzNuSE1UUTFWS2kyTDljT1ZvUHN2eVVfVVZLMkI5aDhJNEhCNGVlM29YNXBIYXNDanJLV2ZrbHp4Vnk2UWZvdExDSy1udGUyclQ3SGV1RVNSOU1YSjZvWS1fMEl6eFoySE1hM1pla2s?oc=5",
-  "title": "Présidentielle 2027 : David Lisnard assure avoir déjà recueilli 500 promesses de parrainages",
-  "summary": "",
-  "published": "2026-09-02T09:00+02:00",
-  "mentions": [
-   "lisnard"
-  ]
- },
- {
-  "id": "7391dd354cc0bd12",
-  "outlet": "20 Minutes",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQmRJM1VaU2phV2J1UW5sTFp0U3ZFSUFINkVSc1NlaW5lRHluaXppUzMycWh5NXVmbG9IRUUzSU1US2NzTHRpMWQ1TDhNcTZsWjVRdlA2MExhU2xTOVRtN1BOZE0xQ3NFRlhUVGdOOGt4cGxENG04Q29IUnBQbTRyRVJZRnhQckFRQWtXNXJwRlJNQVlxcHBhQ09BNldjc1MxMG1LLTdmZHlIY0FYeGQ3SXVwUzVQMGJBaE00NzJkazFFaDFheWdGYms3dy1VU00?oc=5",
-  "title": "David Lisnard assure avoir déjà recueilli 500 promesses de parrainages",
-  "summary": "",
-  "published": "2026-09-02T09:00+02:00",
-  "mentions": [
-   "lisnard"
-  ]
- },
- {
-  "id": "8328725050d39594",
-  "outlet": "lejdd.fr",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQangwVGhINVVKam1oaWZtdmxuQ2pqc2xqbW5SNkRkanNSV25yWG5La1RHNlhVR1lWbkNOQlJkTkxjLUdtSV84MkNoYVBpTWh5VDhSVkgzckFmcm5WT0NDU21mTVIxaGRGS05NU0JXTXl5SDhlanhRcTk3LXNrSGtvZ214WkM5OHc4QjE3Zi1FcTBndlpXamoxckN6UWx5QlRRYTRTUjF6NEtqcW1PZEJicWpjdUVSbEpJWnhB?oc=5",
-  "title": "Présidentielle 2027 : David Lisnard a réuni 500 promesses de parrainage",
-  "summary": "",
-  "published": "2026-09-02T09:00+02:00",
-  "mentions": [
-   "lisnard"
-  ]
- },
- {
-  "id": "edd6ae0685381e00",
-  "outlet": "L'Union",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOTd2bzN3R1B4T0F2eS1DbTVkampmQ1A3MVVWR0czTFB1RXlNWGhMX1lXTUFfMVRUUkNrMXl3N2lOYTQwQnNpQnZMem5ESGZ3ZnN3eVNVVzd1VkRMWm1zbGpLSDBTLUF0dkVXNG5NYm9TR01fSG9JM2J2bFZrSktPaHdkeFRVSUtUMmZmaGZSM3VhUFJhWE0tcnlmQTg?oc=5",
-  "title": "David Lisnard se rêve en candidat du « pays réel »",
-  "summary": "",
-  "published": "2026-09-02T09:00+02:00",
-  "mentions": [
-   "lisnard"
-  ]
- },
- {
-  "id": "a067dfdbe9843df2",
-  "outlet": "Valeurs actuelles",
-  "lean": "droite",
-  "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQYWl5RGtaNDVJTUtYZHdoM1E1SWc3NXRaMzRlem1zcUhCLXRNYjJqQ0JwdE9vRzhGRnFBcFRKQW9xYll5TkVDdVRmaEVLeWRwSzNUZ0N6clpGajRpbmZpVXRpUldZRDlDTG9MVFdKd2FHX1Z1QVl6cUZIemNCX2pfUHUzUHpLWUt4Ql9hcFFFckJjUlhzWkJXY1lkSkkzVnhJZHVVT0hQYURDUElJZVo3aHNmTTllU3JkNUZ3S01WdDdNQl9aeVZWdTFrSHVIcnlJTnFLSFhvMy16RlFrMWJvLU1vNA?oc=5",
-  "title": "Présidentielle : David Lisnard affirme avoir déjà réuni ses 500 parrainages",
-  "summary": "",
-  "published": "2026-09-02T09:00+02:00",
-  "mentions": [
-   "lisnard"
-  ]
- },
- {
-  "id": "dd939880918b0cad",
-  "outlet": "Epoch Times",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMmgyTkZ3MlB2UC0tV0k4aXZKcTVmNE5YcHNoZW1XMmo5RVR5SEVxeXBoX1NSR2lxc2lLZzVHSW9zYnYyZHI5cjhPOFlpRkxBSTBHUm1WMGhIZ2NwRWZjRTBBY1RQMWlJem1NTzl0QzJHLWgwLXdIRDQ3ejRBOGVXSzZYaHVUOEZvQ1VqTGJWQWUzejZ1TG12U212bG1PN0VrdmlQNGV5eFJ6a05zblZ4aGlVRnB0M2xGVG9mMGd4VEZKZHlZTlFFc0p3?oc=5",
-  "title": "Présidentielle : David Lisnard affiche 500 promesses de parrainages et vise plus de notoriété",
-  "summary": "",
-  "published": "2026-09-02T09:00+02:00",
-  "mentions": [
-   "lisnard"
-  ]
- },
- {
-  "id": "b60fc20f86a691e0",
-  "outlet": "https://www.parlons-politique.fr/",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxONVR1N1o1elVXOENxV2lGaDFSMkFvZFduRHVUbDkzZ3RZRDhGUlBlMWgtTzJuZDZWY09aY1dSRU9vY3V4TlFUUVZPTHhiSmpqNjFTUGtkWGJTWm5fY2lxVXdoUWFKU2NkTWJzUUFNN1dOQjg1WWdQcmRGdkxyVzY4aVI4VUkybi1QMkhNY2NWWDdzQ3A0dUs4aGFiZ2p1Nkkwc0RtMWhaZjViYlRfSGxYWDhPWlE4NmFBMGxfazExR29Nd1pfZEVrVWVNU2p0WDFCUk9LZ1F1U05FNC1BQ29sUGxRd1lQREIycWczY1d5RzM5UQ?oc=5",
-  "title": "Présidentielle 2027 : David Lisnard sécurise ses parrainages, mais doit encore convaincre les électeurs de droite",
-  "summary": "",
-  "published": "2026-09-02T09:00+02:00",
-  "mentions": [
-   "lisnard"
-  ]
- },
- {
-  "id": "43f0ba877a4fb6cb",
-  "outlet": "Vosges Matin",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeTZyYlhnU1pmTGRGU3NXMkRmYlhZMm80RzBtaG1ybUp2bnl4ZGVTbkh3ZEJuUUxZRjgtNy01NXU5b1F2b2dQbEJvU0tKdDlkQVM1RGh4TzY5NS1mbFcwTVlqR2gwTkRxeU4zZWItcDIxVWhpSThMeF91OFU0b0hMTkpmRVVQcW9UWWtTSVp1TzBlLUI5VDRoS0p3b25UMVdWQVZ4OE1hQ2todEUzUmcyNGw3UWVaNGVjck9zV3pDVmZabEpzSzVWMnZB?oc=5",
-  "title": "Vosges. Dupont-Aignan à Épinal : « 2027 doit être un vrai référendum sur la sortie de l’Europe »",
-  "summary": "",
-  "published": "2026-09-02T09:00+02:00",
-  "mentions": [
-   "dupontaignan"
-  ]
- },
- {
-  "id": "3baa04b03cba4ad6",
-  "outlet": "L'Union",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNLXJhRXhsTzV6T2s2SFI2RERRNktuWkxlS0lPcDFYR1BRYjJnei1jNkNyLVJZTW81QVRGUjk4WkEyWVBtODZwMDh2TE85M294Zk54OWN0YmxnRElFV29XRl9CcHFtdFBPMWQ3SGdNY2NVbnRtazNKaU0tYUYxbFMwdWZVQ1lXVnIwYnVKZjZVX29JZDR5ZDhiZ0JKR3dCR3Zobm1OaGxKMGNqejRXVDBZRVFLYjJmRWhTYWFPYW9xV3Z3ODA?oc=5",
-  "title": "« Je ne veux pas que la France soit une colonie de madame von der Leyen », lâche Nicolas Dupont-Aignan",
-  "summary": "",
-  "published": "2026-09-02T09:00+02:00",
-  "mentions": [
-   "dupontaignan"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "zemmour",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "d42c3541d0134d08",
@@ -298,103 +762,35 @@
   "published": "2026-09-02T09:00+02:00",
   "mentions": [
    "lepen"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": -1,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "2dc217aa77d14a0a",
-  "outlet": "Orange Actualités",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQbzd0dEJ1Q0lYWWp1d2d4UGZrbjNhZWtkd21JUHNXdU5YNjlNZTJhaVFUakVBVzcwdzFnS0VwUldOTXpCVGRqV1U0QjNGSG5OakFvd3IxdWx5Z1A2bXN3QWY3QWdLTHJZWGd4dGhGWXR4cjB1TmdGdGZiY1hlNGJLUXBpRnFQSGpuWDZqdjd6R2gyUG5CbHhUeTg0S3d3cXJjNFFremc3QWtiUUIyTF9rS1huc2xnTGJ5NkNoekhWOWJsQmt1TGJaeC1heERxR2xxNjlKUms4T1lNN3hQUVZHV0NINjFiWlpsVjFBMXNJOHRzUm5jblRIdURpanBvc3RMMnRmNHUxdlFYdXlLU0JJQ1VvSQ?oc=5",
-  "title": "\"Il ne parle pas pour moi\" : Xavier Bertrand réagit à l’hypothèse d’une alliance avec Édouard Philippe évoquée par Gérald Darmanin",
-  "summary": "",
-  "published": "2026-09-02T09:00+02:00",
-  "mentions": [
-   "philippe"
-  ]
- },
- {
-  "id": "152cbd84f8c961ed",
-  "outlet": "Public Sénat",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxQa3pBNE1oOEpGV2xZd2ZBRHBEY0FaTFBSbDJ1UXNZRi1nRWx5RXZyaENGcENuLVUxc3RvSXJsSnF3c0ROazk1UmtkWXdLcExmSF94MnhuWmxGMTZhSEo5emtMUk9zQjN3MkpoWnRESk1LNGVmNXRobmgwWk5COTdndmJVcnljcnRuV3FsLVg5WlRrb204ZlR4QmthNE54TExkMHJsa0V6SWgxNkpQdTJ5SkZRdy1tcVFGWENxRXpJbmhoa21IN2gyNUctcmdfV1lKbXpUSU9oNWxZVDRZRUhVUDB5TDNhRUx2Unh2QWhpVEFscC1lU1ZZaTdYemhTLS1fdHFzcmJxRUxkeVZMMHk3cEYwQWU0QWU1bEp0dDhSd2VNaXB2ZkJGSXE4dW94blBE?oc=5",
-  "title": "« Si Raphaël Glucksmann veut jouer la finale de la Ligue des champions, il ne peut pas avoir peur des barrages » : tensions autour de l’organisation des débats de la primaire PS",
-  "summary": "",
-  "published": "2026-09-02T09:00+02:00",
-  "mentions": [
-   "glucksmann"
-  ]
- },
- {
-  "id": "6f4fd8cc88ba0de5",
-  "outlet": "Le HuffPost",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQQ1BIXzRlX1duc2haTEVROGZTTzlkMnp0UWp4RTJza1MzT3EwT0FhREdRUUo4YnQ0ZWptTkQxQ01ROFI3UG1lVXBFMWV5Q1NmYmEzb3BrV3o3OW5FRFpXdEpMRWw3Z2tOVndTUThOZkRqRnpHMHZpOGVTWURkRDhsZGlWWmlabkIyeTlQRVZ0WlhscjYzbS04NjloOFlObjJ4MEhuTFFYMC0yM3Yza0VfTHJkTU5XdDR3TUptd0p4bkpFWGI5VXlKUXVBbEZwdVBOWjVTeHUxMk9fMUZxZ0tuSWhmSVRTNVFzVEpZ?oc=5",
-  "title": "Présidentielle 2027 : Raphaël Glucksmann accusé de fuir les débats télévisés de la primaire du PS",
-  "summary": "",
-  "published": "2026-09-02T09:00+02:00",
-  "mentions": [
-   "glucksmann"
-  ]
- },
- {
-  "id": "fe423a015b970f8a",
-  "outlet": "Le Figaro",
-  "lean": "droite",
-  "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxNeTI1Wk5wb1Q2NlhUSFNNa3FkVXZNVjVEWFplWGhZLXVBckoxX3Bsdm9wMHdfa3JkSkdRdWR3b2ZWcHF2NkJySWRsbXdKVU5XYUJFNGdfV2VkZWprVGJrcS1SSXVlczhRRFVKYzdOUUVneHhKVFJENHhIeVdMdW1BOVZoTXQ5VUROUVR6bC1aNzdSVjNmVk9hN1lLQ0dadHE5djlDQTlWQnp6TnY1TFlZM3ZaTjZEdWplOE5lOWNiM0wwSEhGYXpCU1pCb0lxS2tuWDRlVmtrcTVTdEhiWmtFOU1GNDBORkhLUUNPSEZiWWRpeEhveDdaYnFCUGZNU0w2Zm1JN0dlaXZHVWVQZkh5bkxGdXA4LXpRbXp5aDd4WlJwS3dsRVBmV0pPWl83TldC?oc=5",
-  "title": "«De ce point de vue là, on est tranquille» : David Lisnard assure avoir déjà recueilli 500 promesses de parrainages pour la présidentielle 2027",
-  "summary": "",
-  "published": "2026-09-02T09:00+02:00",
-  "mentions": [
-   "lisnard"
-  ]
- },
- {
-  "id": "fb86ca9c2b828eeb",
-  "outlet": "franceinfo",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWkNPY3B4TTJZOGJUQWdnMHN5Zmh4b251TXQ3SHk2ajJRazB6VWRsR1Bfa1FwblRUNnRjSVVXY3Y1VldUclhDVGFSSHdwZ1JjbzRQNVRPQjMzNVVNcmd0bEZlVFJ6RjBVdWxHZnZOREp3bW9jdEUzMFJlMmtEcHpwLUd6UUw1ZGtlN2IwYy1DQzNaZUVjS0JQbnR0dHFNM2lvMHN2WTRNVUk1YXk2MllERTFVLXBXRW5yQkJGOXN4cHdzTGRHdWYw?oc=5",
-  "title": "Édito. Au RN, Marine Le Pen reprend la main et durcit le ton",
-  "summary": "",
-  "published": "2026-09-02T09:00+02:00",
-  "mentions": [
-   "lepen"
-  ]
- },
- {
-  "id": "7a51007555ff5435",
-  "outlet": "Radio France",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPV0xOdGlkcjZWQlBBLXNDc3NzbkJhaFlkdWlkaXNKNkdYNlNjbzdBcUVsRXU5cDVpSllLWjk4em5qdUlmUFhOcGdmVzZBQllHUnExaHNmcnJPZV91b1NhdXNGalZGWE1GcTcydkR5eVZkMlc0NjMtZFZNTGlqbmdqcWhQSmRUOXJfX0Z2V1ZrTjE0clRvbXlXT1Q3Zk1OME12ZmppcGhOc0ktZzU3a0pNZHpOeTUzU1k5TU9fN1ln?oc=5",
-  "title": "Marine Le Pen à nouveau les pieds dans le voile",
-  "summary": "",
-  "published": "2026-09-02T09:00+02:00",
-  "mentions": [
-   "lepen"
-  ]
- },
- {
-  "id": "70f62320160e4e7d",
+  "id": "d45d5bb438d321ce",
   "outlet": "Le Monde.fr",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOb1pjNVd4WUFvbEtJTk1IVkxYaF8ySm5XZk16MWpVMTBIMm1yNzdPZjI1eEJuUWJkVVY4dUstQXYzdkdIYUFQMDE1X1dVWXc4VWZiUV9WNE9vUGdSVnh3Qnc4V0RTSUlCZ3UyNG9LLW10NGhOQmthVE9WUkNZVm5sUlktZWZ1MnhLQlVKSXBHN2YtMzlrbm1GMXRTSGhaN1NoSFR0ODVKMk9tR3RnUC1vQ09uLURSbDFuRk0zMWozZk82UXB1RDZhZWJ3MFdvYnVIZURGX3I2TThxTzFteFctdFptMF9mN05xeFBXSG1hOXJja1F4VlBaUjBiSEROeUczZm1mVElDRjlxV0xHZkdV?oc=5",
-  "title": "Jordan Bardella mal à l’aise pour défendre le programme présidentiel de Marine Le Pen sur le voile et les retraites",
+  "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxQOUZ1Z243bU5KeHdBMURhVWUxbzV4eG1PR25RaUpDSU9VT2N0akNpeTVCV25HNjV3MXA3TmIyYzZCRG9GNV9RUl91ZjJJQ1ZGbHZRVnU1UU1fSUpsTjUzU2lkaURmbm9WOVZNcHRmUWdWRG1MRHUybmJoZzZROHhWZFhaT0JhT1M0TjVXQzVnSlBSMk5WSVROQ09STk1oRnQ1ZHdLdWNkcENKZU12YXhYZGdIUHhoODlNNXdaUzhuNm9rRTJQR0tJbnpzR3duNkFsOVpkZm5TX3pHWWFDVXp1d2JYV1VkNzdTcWZMUDNhd2UxeTZyNm9PN0dwdkpHWm9kMVc0RGQ5Y3lIVVN5UmpmaVhIZGk3c052S2dEaEZINk8wWHEwSy1iVm53akZDc3dwbHQzcDh3?oc=5",
+  "title": "Présidentielle 2027 : Bruno Retailleau promet une réforme constitutionnelle pour donner « le dernier mot » au « peuple français » sur certains sujets",
   "summary": "",
   "published": "2026-09-02T09:00+02:00",
   "mentions": [
-   "lepen"
-  ]
- },
- {
-  "id": "8a6259ba51e30f8a",
-  "outlet": "franceinfo",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNWndXRTRRUllSUGNySURHOGpsSm5uVWZCTmtoT0wyY1Z5ZmVmSjdtRDlfbDBtWllGYUdQaGNuSUpvbVBhWm5SUFhBaVRIaE0wZmRsQUJONEtnYmpHYzN6UkF3SEpHYWNsMlZhNG9DV2dWX0kzS2tIUHZEaFJ0TXZGMXFlVkNGYlVEMkJaOUFCX1NyaEhFc1JZTXVnOUxybmlCQmgtQUdNSm9ieWxUYXExQmJZQ05RMHlla2VqaEpfS3lCWE85MUFzTEJyNXEyV3ZzeVNrOTlLcGp0aTNnZHUteFdXbnJTOWVqSnh1YkluSVNYLUVpSS1Va09CUEVCbHdBRndlM0c2azZEMjBvOTJQQnBPdUxqSmRlc2tmSXU1THV5Njc2enBqYw?oc=5",
-  "title": "\"Après des mois de normalisation, Marine Le Pen réactive un marqueur\" : pourquoi le RN replace la question du voile dans le débat présidentiel",
-  "summary": "",
-  "published": "2026-09-02T09:00+02:00",
-  "mentions": [
-   "lepen"
-  ]
+   "retailleau"
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "d5a9b0a71b460c09",
@@ -406,67 +802,55 @@
   "published": "2026-09-02T09:00+02:00",
   "mentions": [
    "lisnard"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "lisnard",
+    "tone": -2,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "2605524eec9a175c",
-  "outlet": "BFM",
+  "id": "dd939880918b0cad",
+  "outlet": "Epoch Times",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPMkhobUVUU3RQOFJjYklLWnZNQjVpLXBybG45MHJ1S1Zsa2s0bkJkbWFPM3E4alQtdGxJUkVwLTdnRVI1NGRsTV9SVU0wNjhDS29mUEFEZTd0TTllZzhsZnFLWjFMMkFjNUNUR3JtSnNxVVhTdDYtbk1nMEJkT2JEZ3BSdl9nQmd3WlRPQ1A2RlJIWldYT0lDS1VCV0Z1Mk10b2tUZVVBZWNWSXAtRDdIUEd6X3hUdEt1N1p2SGIzdjB2QV9MaUpQTnI0Q2Q4QURQSThRUnNib3dIVHljMHQzWUxnRThkQzhNV2h0elhMYlI?oc=5",
-  "title": "Présidentielle 2027: le débat entre François Ruffin et Dominique de Villepin",
+  "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMmgyTkZ3MlB2UC0tV0k4aXZKcTVmNE5YcHNoZW1XMmo5RVR5SEVxeXBoX1NSR2lxc2lLZzVHSW9zYnYyZHI5cjhPOFlpRkxBSTBHUm1WMGhIZ2NwRWZjRTBBY1RQMWlJem1NTzl0QzJHLWgwLXdIRDQ3ejRBOGVXSzZYaHVUOEZvQ1VqTGJWQWUzejZ1TG12U212bG1PN0VrdmlQNGV5eFJ6a05zblZ4aGlVRnB0M2xGVG9mMGd4VEZKZHlZTlFFc0p3?oc=5",
+  "title": "Présidentielle : David Lisnard affiche 500 promesses de parrainages et vise plus de notoriété",
   "summary": "",
   "published": "2026-09-02T09:00+02:00",
   "mentions": [
-   "ruffin"
-  ]
+   "lisnard"
+  ],
+  "analysis": [
+   {
+    "id": "lisnard",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "a464b10fba4c99da",
-  "outlet": "BFM",
+  "id": "e3b89256aaeff6a8",
+  "outlet": "Le Monde.fr",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNTVVwZmNmdVp2Rkl3OUxBS3BkNGRaWkhPSC1DN3VqVlhSeE5TX2tWbGV5eEtXSUoxamRQOG1YaE52ZGJNT0xSRFg4LWZ3R0Vmc1ZQUlh0SHI2Q2pUUzROaUFrRmkwb0xFMWZMcDNJUnJIdGxZUXEta3ZnaWFtQlduZXA0NWR0ZjhiTmYyME84VF9OWnMwT3Vyb3NFT0otdGVacmRsYXFoSDBUM1l2Zy02ZjA4WkdMSVBTVm5iVDdvN0FYY0laREE2dzNFSmU3VC1yd0w1RXhrMHYtM2VaQ3lSQ1oyV1ViYkhf?oc=5",
-  "title": "\"On se renifle\": François Ruffin et Dominique de Villepin ouvrent la porte à un rapprochement politique",
+  "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxQWGFSclgzbENXZTVJUGhnS3NYVTFxU09XeV9TVFA2X1I5MmFRM1Yyb1dPRkFNU0dGeGZFS3NnNU1zSGRFNVVNUUVvUFV1WUI2bzV4eUNTcHE5Wm9ub3h1Sy1HUFhkcERIWS1IRVBuemM3cldKR2oxTjZIRmZNMUxRU1BJeHplWnF0a0RQQVcyWTlzYTdZcldCdnJ6bHRydkp0c3JNdDhnS2tZTlJjSHlVVUFJd0V5VWUxNGhZWnllb0RyWllhcV9ySTd1VUo1QVN2RnNTd0lidUNJS0JOQ0ZYRlUyS1lKTG5NbTNDYjAyamJOLWF4bmNEclFkWFh0YUFaS3U4R3BLaDBsT0lrakU4cVB0d2FuV1g5UElacEw3M2JlRFcwZlljRVNGSzRodTd3WXBZZDVn?oc=5",
+  "title": "Une idée « interdite par les traités européens » : le président de la Bundesbank s’oppose à l’annulation de la dette proposée par Jean-Luc Mélenchon",
   "summary": "",
   "published": "2026-09-02T09:00+02:00",
   "mentions": [
-   "ruffin"
-  ]
- },
- {
-  "id": "86d23d32fc782bd7",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOeXp3dWxjVkpiQzBBNi1PWmZtQUx5Y3BMU3pkbV9mV1ZfWjlzUXFZM3Zjem1Ya0EtaHI4QjZIVWF1al9yTzFLSWN6S3E1OHFtV3FzT3Jtc2dDQkNZNjUxbllkeDg5Tk5qZE5KVlRLMld4VGtDR2RSaFU3eEoxLWFzUHp2a1dHWFRHS0lRX0pEcmRQdllqd0ZrNlVBRnRqTXFJX00tQWRSNW5tNTFKTm5iWDdiNld2dGQ5ZGNsRE5DdThFVnJWc1RhR1ZZaUM1STJTS1ZDa3czemRGUDRRczBNckJGd2VOdzI5c0pzbUxkQnAxdXFFdVVFOG9RcFc3b2tySk15Y1F4OWpVUWs?oc=5",
-  "title": "François Ruffin: \"Il faut une France qui combatte à Bruxelles contre les accords de libre-échange\"",
-  "summary": "",
-  "published": "2026-09-02T09:00+02:00",
-  "mentions": [
-   "ruffin"
-  ]
- },
- {
-  "id": "be0ff2a4c3d7e258",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNMkYxLUpIZDREbzlJQWo3Q2J1TC0xdFdJS3d5X3dwaUhzNUgwb3pvMHJsMUNmQzE1STFvWkJmYjRMNEJ5QWs4LU1TcWRjN1ZHTzd6WnpnVEwwQW1PcVd1UXEtN2pOWVluTHd3bDlFbDJSWHFxVDItS1I2VnFrdXdFZzBmNl9lWE1RLUpPYlRicDMxOGROaTVLaEFlTHFYQkY5OVJaMVBOQzdWWW91NHN6R0xxSm10WTdkN1h0VHkzdjc0YXBmcVowcEpYUmdGeks4Q0RjWUNmbUdwcmRJVC1QWlp5Y2dXNW9VQnhUT3hjYjg1dDRIc0JXb19UTTJyZVJRbkxuZGtkQnJ0akdwMmhSb2pHYkxWRFMzTktMYTZJdWFLOU80VEg5N0pjNXJWaXEtLVNZUw?oc=5",
-  "title": "\"Notre maison brûle et le président fait du jet-ski\": François Ruffin et Dominique de Villepin attaquent Emmanuel Macron sur l'écologie",
-  "summary": "",
-  "published": "2026-09-02T09:00+02:00",
-  "mentions": [
-   "ruffin"
-  ]
- },
- {
-  "id": "c09490fc264baaa7",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNVlBXWmhPcEFvTW1WNjREdVNZeV9GelM3N2JCNzlyN0dXbWZpQ2RDUHFRMkxVWkFwTWpRZThIYkIydml1Sy1hcENxUFlZeXJGcjZCdU1ueS1KQkdqZ2hIU1lvMFpDMXpzWEIzUVV5QkctczhqTEZZQ2FXUGZhZkg4VnZNQm53ZG9mNWFXZ2JVMFBWLXNrZHBNSmhRZTd6V19QTko5dVU0LVl2ZFU2Z1o4VmVfZ2phWEZVUTVkQU1uYjZjZEdaam1fZS1LS00xUGJqazd0enBnSURjUV9tYi1VYmVRREZjNGs3RFBxdXNKbFZyeE16QmJWcUpDVXdVOWIwbU0taTFHLVl1R3hjUEZGaTJjamlYbHFfM3c?oc=5",
-  "title": "François Ruffin souhaite que \"toutes les personnes sur le territoire français puissent accéder à un travail\"",
-  "summary": "",
-  "published": "2026-09-02T09:00+02:00",
-  "mentions": [
-   "ruffin"
-  ]
+   "melenchon"
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": 0,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "e4af8172a4e62b5e",
@@ -478,7 +862,95 @@
   "published": "2026-09-02T09:00+02:00",
   "mentions": [
    "ruffin"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "ruffin",
+    "tone": 0,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "e9f6eebdfeabfdd4",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPSFUzM2tyT2p6VkVSV2pJdHUwT0tWMnFDVm03SUVPSVljLWNUV2lheFgxZGxVZlYxMHVsWkdmLWp3Z2RJcDhDa3RLMGpGR2p3UF81ZE5CQ2daRkczMWQxZTc2anlSV25ydUVPNHgtT0QwLVF2eVFFMXY0MkxjQkZMNTNRM1NKdlpSSnJoVEhVbTFoZnU5YVpEaV9xTVYtZHBQaTM2alBkWFVpdUVPT00zNHJPRnkxVkdWREk0ZXlCNENzVTRIcTFvTDg0b0tqYXIwQVRGM3ZaUzVFYVNBQ3FaQmpKeDFsejZNN2pvamdLSERCVU5zVFNjaDZ6U3NBNDQzb0pNS21TSjRxQmZnLUFsTVRsb1UtXzlCQjFzUg?oc=5",
+  "title": "Présidentielle 2027: pour \"donner le dernier mot aux Français\", Bruno Retailleau défend une révision constitutionnelle",
+  "summary": "",
+  "published": "2026-09-02T09:00+02:00",
+  "mentions": [
+   "retailleau"
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "edd6ae0685381e00",
+  "outlet": "L'Union",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOTd2bzN3R1B4T0F2eS1DbTVkampmQ1A3MVVWR0czTFB1RXlNWGhMX1lXTUFfMVRUUkNrMXl3N2lOYTQwQnNpQnZMem5ESGZ3ZnN3eVNVVzd1VkRMWm1zbGpLSDBTLUF0dkVXNG5NYm9TR01fSG9JM2J2bFZrSktPaHdkeFRVSUtUMmZmaGZSM3VhUFJhWE0tcnlmQTg?oc=5",
+  "title": "David Lisnard se rêve en candidat du « pays réel »",
+  "summary": "",
+  "published": "2026-09-02T09:00+02:00",
+  "mentions": [
+   "lisnard"
+  ],
+  "analysis": [
+   {
+    "id": "lisnard",
+    "tone": -1,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "efb3a98f2ce0c6eb",
+  "outlet": "ladepeche.fr",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNQUhhbi1QRUNKb1hzLWc1bk5keV9fTWsyOENNX0U4bjBSeEtxV2RqVkFxN3VFVXlQR0RicUo2dUZVTWtCYWNjUkZ0X3RDS0x6aWZwU1FKUDFDR251bUE5ZGlySUFpQTdiSGVJTnR6Q3piZzdFakRyV2lCcmRHXzl5NTJNMll2YldhNFNvY3daOXNWendRUEJXcDZGMmdXTEllcDMzUDJFMzVmaksxUWNfZzNaak54aTJSTnZXLXFEVGRSeGpLN2g5bjR0ZEU3b3IwbzFzMWREVElLTlI4RmxhQzRNT1J5aG1OM0NXckZSUkVPXzJ0bWlOck5RSFhaLWRSUVY1aUdwUUVQYVRqSW1pMl80ZkdKeHNmLU9iY2todzU?oc=5",
+  "title": "Gabriel Attal attendu à Toulouse samedi 5 septembre : le candidat à l'élection présidentielle rencontrera les Toulousains en centre-ville avant de se rendre à un événement populaire",
+  "summary": "",
+  "published": "2026-09-02T09:00+02:00",
+  "mentions": [
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "f4ad4b688247ae46",
+  "outlet": "Le Figaro",
+  "lean": "droite",
+  "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQdVpIOEFFNWRYYlp0S2QwMTVJbFdGT0VRMzRmVExzUWQ5N3RQci1mci1PM1pLSjFqdldRU2JTc0E1Q3huLXNBQXB2R0pkZlp0Q1BQWC0xcUItQnVVakxFQmZVb0dudzhpLXZNa3dXNmFWT1Buby1PX0FhLXNrUksyTU5OVE1tT3l3eENVZmJ3UnI1aHdSSkFwdWs4czVITlNzeUthVXZqYTZndEVFdF9jY29jaEEtcEdsTHVaZUZGUVdqNnp2cDNoRkE0VDIwTVZmc1lUQVBRRDNaeV80bW1OS19yMWs1NnBGUmkyWmVldmE3NklKSktVWGY5LTBWdFBXdjdZdnVUQ3lONm5GZGZ1UQ?oc=5",
+  "title": "« On la craint plus que lui » : en pleine promotion pour son livre, Sarah Knafo fait-elle de l’ombre à la candidature présidentielle d’Éric Zemmour ?",
+  "summary": "",
+  "published": "2026-09-02T09:00+02:00",
+  "mentions": [
+   "zemmour"
+  ],
+  "analysis": [
+   {
+    "id": "zemmour",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "f797cdc96d7bfd50",
@@ -490,91 +962,15 @@
   "published": "2026-09-02T09:00+02:00",
   "mentions": [
    "ruffin"
-  ]
- },
- {
-  "id": "13b670af14a5674d",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOWlFxUnRGZ0MzQjZvU0JNMWtVYXZkaXZfTkNYUVIxdks4N1FGUk5fUHR4NVdYaEhUMFgxUjJnNlYxS25uazBTaWxuTi1MVDNsQXRXWWRFbEFTM0NCVTg0YThiQXM0U3dLcXF2d0tZaGxZdDRpRE5Wc1JlNGtzNGpQNUVqcXFxV0x4X3pkb0wyMV9hejhkb2NUQWotamZDcldfRmJIenh3SnYxV1QtQzNDT184N3hkY0I5djJ6MjhJd1RBNzUxX2FMNU9yVTY2Tl85OEJMRVN6Nk9YZXFVekRDZHVYZWIyU1ZLX0JISlpJazB6R2NKVnFPaUdxU2tkaThFcWE0WmhvZC1ITnBzTXpaR05nUTdlSVpLZU5JejUyTER0Zw?oc=5",
-  "title": "RN, international, fiscalité... Tout ce qu'il faut retenir du débat entre François Ruffin et de Dominique de Villepin",
-  "summary": "",
-  "published": "2026-09-02T09:00+02:00",
-  "mentions": [
-   "ruffin"
-  ]
- },
- {
-  "id": "1ab20a61c69dc6e9",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPd29ELXNsaVJSNG81ZzBXUEl1dnJmSHlxZjgyT1YyQ0dBYUc0NUxIQmtjWGFoaE11V19NS0ZWZk80VE9JOWZPWkJVY2tPdTV5NTZobUt1bkg3eHFnMm4xQ3lYbjZLc0Z3OXhDNUxlMWd5NUxIQlN4Z2Rya3M1YVNieC0tVXFkSTdxSmM0MVJNOVhKX1ZDS0dESXRrUkdOQ0J3bW5NXzItVTRZLU54VU5TTWI1akhDd0JnRlRMWTRYVGhubjBYb1NXTkNvZ3VxUG8yMVNtdUgxVkVDa0VreXdwaUZDcTN2dGZzeFJaeWhfclQ3dGVpM2dYbHllOGJKYXlOV0NIb2dpS0RlVVZ2Ym1xRkM5WjRTM1Ja?oc=5",
-  "title": "\"Il y aura même un strapontin pour Bernard Arnault\": François Ruffin veut des \"États généraux de la fiscalité\"",
-  "summary": "",
-  "published": "2026-09-02T09:00+02:00",
-  "mentions": [
-   "ruffin"
-  ]
- },
- {
-  "id": "ad4c1a9a64c91fe8",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPa0FjWXBZc3RmZ0JfcnozVUFVV2VJR0p3amdJSXozcjhDZ0RneGFPVFNTRk5MQ21MdUw4SmFvdWMzai1aYUhOYWV0RG9UOWlkY0t6V3NMTzBfSUIzUkl1R2EtQW9fb1BMUFdhSE9XU25IUkg0NnkzeERQUzhSSkJqLXA1TDJNcFk5QS1BWlZoMzF0czdQQjFMVEFMaTMwUkxZbGppNVd6N092WHV4OEdtYWp2TjN0NjdyQ3phb1FtQTdjTE5WV2tsY3J5TjM0dHlINzRKamRQaUhzaHRHRlVrU2p0NldWYldFUVE1ckt0WGs5cFFDRjg3VFZiaW9KTzQ?oc=5",
-  "title": "Présidentielle 2027: les enjeux du débat entre François Ruffin et Dominique de Villepin",
-  "summary": "",
-  "published": "2026-09-02T09:00+02:00",
-  "mentions": [
-   "ruffin"
-  ]
- },
- {
-  "id": "49e123b1954272b6",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQSHBzTTNBM1JNenNIYnd2eWdpWkJfMlJrWFN5N1FTTEs5ZFRmUFdSeGFnY215WDRlbGFCMDlXNTAtYzdoNnZKQ3F4X2l6RWdmTHZJZmxKNHFLRmtZbDJOM2NHclc5VmxNbnJkVks0OGJiUXlXc1VDZE5PVEMyQWFfZTRDTFJlX3dOTDVFWUNMa3dxZmJCUENoRmgzT29VYTVKRnYzUEp6cDQzWDBFc203RDhqZjM2QXRkM2hwMjFCMHFsVm9OVV9XY1NDYnRHcHRzWUhEdFBMaUJnVk5Mck5JSURuSDMxV2RKZDNZa2d4eVptNWM?oc=5",
-  "title": "2027: François Ruffin et Dominique de Villepin n'excluent pas un rapprochement",
-  "summary": "",
-  "published": "2026-09-02T09:00+02:00",
-  "mentions": [
-   "ruffin"
-  ]
- },
- {
-  "id": "11deb6fe1a8ee784",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQMy1RbnRnTGl1TU5VeXFqX0lnbS1UVWQ4U1VXUFNiTXQxaDR1WDAtckxxUmM4ZlpUbldvUHloLWlETnhxVTVoYUF5LXFhQjN1c24tVk5JekpKQW84R2FIaV9WZlZ4UmE1Mk5leXJqTHJjZGlNZ0dzUmRicVpwZmlqMkdVcDNoT2JjeV9OZktKQnl4T2RtUkxxTHhGYkNOOFhfM3ZRRVNsT2M4eHpvQXU5Ukw3Vjh5NElOaUVOWGV1a0tXSWJMQUFNTkhvbnd0Ty1ZV1BWSk5qSWo0a3NxdjBCQ3E5U3dwUE9JX1lhdzNtc2xQU2EwX3kwWA?oc=5",
-  "title": "\"C'était un premier rendez-vous Tinder\": François Ruffin et Dominique de Villepin réagissent après leur débat",
-  "summary": "",
-  "published": "2026-09-02T09:00+02:00",
-  "mentions": [
-   "ruffin"
-  ]
- },
- {
-  "id": "54b59dc9a9b11e4c",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOVzlCWER3MzhjSEYyOGl5MWVyTmlZbUl0dkV1Q1FCV0h6c21hd1N6dmZuUWJoaFlScUowanNxTzNFekk1UC1SSTFtRFc3Z1I1WF9TbGhjWlQwOGVqNDZ3RXZJV1JBNUY4QXd2dU50Y2h5bzZQVDc3ellibjRYWS1JVUV4b1BTeDJIVEpjVGFmMVVNaF9iX0xqYnBRLTVDZ1JZRzhrT1BWVFROc0RTZnYwOTNzUmRZU1NuSTY5alY2OHlRR0xhZlN3WV9kZzVhakZDWmQxZlo2UExGQTVSNWxTcU9USF9MWkh4ZHhSQ2YwNWt0U1hMSGVkLWVDLTl6MUJNbHctSXU0SFZzb05EaUVhaXV2MFFJamFZ?oc=5",
-  "title": "Débat avec Dominique de Villepin: \"Quand je passe au péage, je pense un peu à vous, lui lance François Ruffin",
-  "summary": "",
-  "published": "2026-09-02T09:00+02:00",
-  "mentions": [
-   "ruffin"
-  ]
- },
- {
-  "id": "0f970dcaaef68957",
-  "outlet": "Le Parisien",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxNdVpQbkdtNUJiYmhUcEstQjJTWHp3a25Pb2ZWdm9PVUEtQlV5X242S2hNWEtzR3F5dm9nd0tuTFd1cHVSYkY1QnJsNl9nVGVyX1BfbjN4UUZ2LW5vdm9sWTNfZ2FVVXlDVmI3VGxLdHZhQlVCdHFrWWdZWVNHWjhTSUZlbllrTlNkTzd0WEpKeDhpc1NFWWhkQkZjcUNrQnhTMXlzeDJCWEd0dnl3RzRFbTNVUUJBSjl1UEZ6c3hWamhQdV9iUk9ac3R2eTR6OE5pQjdmd0NxSTNjM19yVmhSZVI3bGlZX1pwSV9HcmdfMFI2V3ZnemZac2w1cmo3eFdCcEZhRnQwbTNnSXNudjJvaVI0X0lYaUdIazk0S3YyY0VkYzJEOHU3aC1JQ1lHMEZzX2JHR0NrZGNVdWtWTlE?oc=5",
-  "title": "Présidentielle 2027 : « Premier rendez-vous Tinder » entre François Ruffin et Dominique de Villepin, qui testent leurs convergences",
-  "summary": "",
-  "published": "2026-09-02T09:00+02:00",
-  "mentions": [
-   "ruffin"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "ruffin",
+    "tone": 0,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "f7a0512f583ad02e",
@@ -586,52 +982,54 @@
   "published": "2026-09-02T09:00+02:00",
   "mentions": [
    "ruffin"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "ruffin",
+    "tone": -1,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "097cda210394ed95",
-  "outlet": "Revolution Permanente",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOM3MwSVBPSGstbzE4a3lwM2syWG0zendTT01TMlpjbHpjbmRPVEJWclE1NmZiRlMzQ2JPNE45eGhmX0pYR1lLSWd3ZVBRbTZnTWIwTHBZTzBXX0pmemNpSUU0aFI2S0V3aXQ5VHVBTGQ5djZSanZaYUVnSFJOaGJSRjBhY1poU3o0SkJBa0NkWmIxQm9KemNvTjJIbDJTaTBWOTNVVWlqODUwVHZNcDVpN1JMc9IBuwFBVV95cUxNdkx2U1NzeWlVSHBUNXVROTk4bEFZYk5qcnl4S0loZ3BzdHZSTzlyNlp0T2ZwOGZzU010b2ZBX1dyY3M2bHllV2dQVjYzOWFtMHJDUUxZRW84cXY0M3RCMWlteUdGY1c1ZlM2M29OTERMazRFMXY0R2w5ejZ5bkFwVExaUUNpT0JuVjI3bHdkME92bzVfOEFkUHQwLWg5MTlCcjM3OHhrYmVZbEpqVDdfQkk5LV9KaHlXeFZN?oc=5",
-  "title": "Marche contre l'islamophobie : après le « j'ai foot », Ruffin invoque la loi de 1905",
+  "id": "fb86ca9c2b828eeb",
+  "outlet": "franceinfo",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWkNPY3B4TTJZOGJUQWdnMHN5Zmh4b251TXQ3SHk2ajJRazB6VWRsR1Bfa1FwblRUNnRjSVVXY3Y1VldUclhDVGFSSHdwZ1JjbzRQNVRPQjMzNVVNcmd0bEZlVFJ6RjBVdWxHZnZOREp3bW9jdEUzMFJlMmtEcHpwLUd6UUw1ZGtlN2IwYy1DQzNaZUVjS0JQbnR0dHFNM2lvMHN2WTRNVUk1YXk2MllERTFVLXBXRW5yQkJGOXN4cHdzTGRHdWYw?oc=5",
+  "title": "Édito. Au RN, Marine Le Pen reprend la main et durcit le ton",
   "summary": "",
   "published": "2026-09-02T09:00+02:00",
   "mentions": [
-   "ruffin"
-  ]
+   "lepen"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": 1,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "32e335e3c4f02f7b",
-  "outlet": "Libération",
-  "lean": "centre-gauche",
-  "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQak01c3Nna28xdWt6WUdoM3J2Q0dKNDlsWVNQV01yaHc5Q3pXM1h0UjN2Y09TUlpJZDYtUFVCN3lmNlpKamRVNV9tN3lkZl96bmFSc2JFQ29xVG85bHZzUGg0X1Fta0xHakNLYVNLenY3dWl2Y19lekVNLTBhMDhZbnZmTV9JWUxJYjR5Z09yTk5tbVNocnAzdkE4UG5DNUFYUW5sWHZCUFhJU2VySVRTOW9Ra0NyTDlLeS02dElLVnFkVW9RMmI5NzlzelR3S3c1VUttVEh3?oc=5",
-  "title": "Débat Ruffin-Villepin : taxe carbone, géopolitique, rapprochement… Les 5 moments marquants de la rencontre organisée par Libé",
+  "id": "fe423a015b970f8a",
+  "outlet": "Le Figaro",
+  "lean": "droite",
+  "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxNeTI1Wk5wb1Q2NlhUSFNNa3FkVXZNVjVEWFplWGhZLXVBckoxX3Bsdm9wMHdfa3JkSkdRdWR3b2ZWcHF2NkJySWRsbXdKVU5XYUJFNGdfV2VkZWprVGJrcS1SSXVlczhRRFVKYzdOUUVneHhKVFJENHhIeVdMdW1BOVZoTXQ5VUROUVR6bC1aNzdSVjNmVk9hN1lLQ0dadHE5djlDQTlWQnp6TnY1TFlZM3ZaTjZEdWplOE5lOWNiM0wwSEhGYXpCU1pCb0lxS2tuWDRlVmtrcTVTdEhiWmtFOU1GNDBORkhLUUNPSEZiWWRpeEhveDdaYnFCUGZNU0w2Zm1JN0dlaXZHVWVQZkh5bkxGdXA4LXpRbXp5aDd4WlJwS3dsRVBmV0pPWl83TldC?oc=5",
+  "title": "«De ce point de vue là, on est tranquille» : David Lisnard assure avoir déjà recueilli 500 promesses de parrainages pour la présidentielle 2027",
   "summary": "",
   "published": "2026-09-02T09:00+02:00",
   "mentions": [
-   "ruffin"
-  ]
- },
- {
-  "id": "90faf916c533fbbd",
-  "outlet": "https://www.parlons-politique.fr/",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOMHBnc2JqbXB0T1R0Vzh6MVB2VExVYjlEWUpyYUJ0QnNYYzZ0MmV1d0NCTi04MDkxT0MzaFBNNXZwZnh0UHFUOURXTnFQRWlSenpPVHJhb1QySWV0V0RYX0FQUjBNbUYwTU94dllQOUk0OFVKMEY0NTBUV2lpTE0yOV9vYTJIa0VIOTJhUnhpMVNvWjZpT0o2WEx4cU9EcG9jOU15Nnpza3o2aWVVMVNTTTZIVDg0T2l6WlFndXY4UVpCYkM2NWlKMERRQldtLVE0Q3JZeUtfcktwRVNqRnFEWFp3UEM1cUx2TlUtZw?oc=5",
-  "title": "Ruffin et Villepin face aux mêmes urgences : ce que leur rapprochement changerait pour les électeurs en 2027",
-  "summary": "",
-  "published": "2026-09-02T09:00+02:00",
-  "mentions": [
-   "ruffin"
-  ]
- },
- {
-  "id": "1f11395b69e29afd",
-  "outlet": "Lor'FM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5JLS1GVXVLd21ncUlGdWE3QjdTWjNGLUZCX2JSelhWc1FpVHVsOEJiWmNCcmJhNFVDT05FSE9hT3pPYUR0bmZ4cTFKZnBjX2tDTURJOVdMTF9vdi1fMG5kVUt4SXJISDNiYmxfU25CZ2Iydw?oc=5",
-  "title": "LOR'FM, La radio Lorraine",
-  "summary": "",
-  "published": "2026-09-02T09:00+02:00",
-  "mentions": []
+   "lisnard"
+  ],
+  "analysis": [
+   {
+    "id": "lisnard",
+    "tone": 0,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  }
 ]

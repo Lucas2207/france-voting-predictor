@@ -18,13 +18,14 @@
  * @typedef {{ dates: string[], platforms: string[], candidates: PersonSeries[], parties: PartySeries[], influencers: PersonSeries[], by_platform: Record<string, { candidates: NetworkSeries[], influencers: NetworkSeries[] }> }} Followers
  * @typedef {{ date: string, candidate: string, channel: string, show: string | null, audience_viewers: number | null, audience_share: number | null, source: SourceLink }} Interview
  * @typedef {Record<string, { count: number, avg_viewers: number | null, avg_share: number | null }>} InterviewSummary
+ * @typedef {{ date: string, candidates: string[], channel: string, title: string, url: string }} InterviewFound
  * @typedef {{ id: string, name: string, color: string | null, group?: string | null, views: (number | null)[], change: (number | null)[], subscribers: (number | null)[], latest: { date: string, views: number, subscribers: number | null, videos: number, title: string } | null }} YouTubeSeries
  * @typedef {{ dates: string[], candidates: YouTubeSeries[], media: YouTubeSeries[], influencers: YouTubeSeries[] }} YouTube
  * @typedef {{ id: string, name: string, party: string, statut: 'non_candidat' | 'a_verifier', note: string, followers: number | null, youtube_views: number | null, youtube_subscribers: number | null, youtube_subs_gain_7d: number | null }} Influencer
  * @typedef {{ period: string, fetched: string, total_tv: number | null, shares: Record<string, number> }} TvWeek
  * @typedef {{ id: string, name: string, platforms: Record<string, number>, total: number }} PartyPage
  * @typedef {{ video_id: string, title: string, channel: string, published: string, candidates: string[], views: number, url: string }} OwnVideo
- * @typedef {{ last_updated: string, own_videos: OwnVideo[], party_pages: PartyPage[], tv_weekly: TvWeek | null, today: string, candidates: Candidate[], parties: Party[], influencers: Influencer[], youtube: YouTube, projection: Projection[], history: HistoryEntry[], polls: Poll[], media_daily: MediaDay[], media_by_outlet: Record<string, Record<string, { tone: number, n: number }>>, events: CampaignEvent[], followers: Followers, interviews: Interview[], interview_summary: InterviewSummary, sources: Sources, parameters?: Record<string, number> }} LiveData
+ * @typedef {{ last_updated: string, own_videos: OwnVideo[], party_pages: PartyPage[], tv_weekly: TvWeek | null, today: string, candidates: Candidate[], parties: Party[], influencers: Influencer[], youtube: YouTube, projection: Projection[], history: HistoryEntry[], polls: Poll[], media_daily: MediaDay[], media_by_outlet: Record<string, Record<string, { tone: number, n: number }>>, events: CampaignEvent[], followers: Followers, interviews: Interview[], interview_summary: InterviewSummary, interviews_found: InterviewFound[], sources: Sources, parameters?: Record<string, number> }} LiveData
  */
 
 /** @type {LiveData} */
@@ -850,6 +851,27 @@ function renderFollowersTable() {
   ], rows, { empty: t('followers.noneChecked'), defaultKey: 'total', redraw: renderFollowersTable });
 }
 
+/** Entretiens repérés dans les titres des médias retenus : date, candidat, média, lien (sans audience). */
+function renderInterviewsFound() {
+  const nameOf = (/** @type {string} */ id) => (candById[id] ? candById[id].name : id);
+  const rows = (data.interviews_found || []).map(e => {
+    const who = e.candidates.map(nameOf).join(', ');
+    return {
+      sort: { date: e.date, candidate: who, channel: e.channel, title: e.title },
+      cells: [`<td class="px-2 py-1 whitespace-nowrap">${esc(shortDate(e.date))}</td>`,
+              `<td class="px-2 py-1 font-semibold whitespace-nowrap">${esc(who)}</td>`,
+              `<td class="px-2 py-1 whitespace-nowrap">${esc(e.channel)}</td>`,
+              `<td class="px-2 py-1"><a class="text-indigo-700 underline" href="${esc(safeUrl(e.url))}" target="_blank" rel="noopener noreferrer">${esc(e.title)}</a></td>`],
+    };
+  });
+  renderTable('interviewsFoundTable', [
+    { key: 'date', label: t('found.th.date') },
+    { key: 'candidate', label: t('found.th.candidate') },
+    { key: 'channel', label: t('found.th.channel') },
+    { key: 'title', label: t('found.th.title') },
+  ], rows, { empty: t('found.none'), defaultKey: 'date', redraw: renderInterviewsFound });
+}
+
 function renderInterviews() {
   const ids = new Set(data.candidates.filter(c => picked('interviewChart').has(`cand:${c.id}`)).map(c => c.id));
   const share = interviewMetric === 'share';
@@ -883,6 +905,7 @@ function renderInterviews() {
   charts.interview = new Chart(canvas('interviewChart'), { type: 'scatter', data: { datasets }, options: opts });
 
   renderInterviewSummary(ids);
+  renderInterviewsFound();
 }
 
 /** @param {Set<string>} ids */

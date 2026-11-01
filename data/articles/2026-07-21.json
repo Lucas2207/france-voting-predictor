@@ -1,39 +1,23 @@
 [
  {
-  "id": "c1018871aac7c7bd",
-  "outlet": "l'Opinion",
+  "id": "1c21267b05a02550",
+  "outlet": "Decideurs Magazine",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNX3V0U3UxcWliNFBGXzRmS1haT2pNVEFMR0dyWUUwejM5aHdBWGxzcE9lbEU0WFUtUi1tZ0lXNVk3TEVaUjljZVoxbTNoU1BheVdkNDBWQkl4SkpINFUwWVpoZHdid3ZEalBOTURrRUQ5M2l2TUZUQUxvRHBnM1Z0dTdGbFgzUUVvQ0c1M1pDMlJEY2UwWkRHVUh2WVh2emtOZW4wTEtsVjdyNGxXZUFsVVZyMEgwUWJBNWpZRU9DMWxxZ3oy?oc=5",
-  "title": "« Demain le voile sera interdit » : comment Marine Le Pen a fait évoluer sa position en quinze ans",
+  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQY2M4ODBHcnFoRlh0M3ZLQ2E3MFF6M1BMeWlTWFlURUdfV2xsckxzTGZqZWNvcWtnTHZOeV9ibkdubTB5RDhqUkN6UWt5dllfVkdGSG9EZHhBajBvcXc3RFE1dkZRTjRQbUp1QXJVU1JrUHZ1cXhjUEFxb202T1dzLThoaTFnWjdQYkJSX1BSRnl0bzlRaFVNUHV4NFo1NlRTU2xreFIzclY2bVEzNFJEV3l3?oc=5",
+  "title": "Sarah Knafo : prête à \"grand remplacer\" Éric Zemmour ?",
   "summary": "",
   "published": "2026-07-21T09:00+02:00",
   "mentions": [
-   "lepen"
-  ]
- },
- {
-  "id": "8fe6d483240cc3bd",
-  "outlet": "RTL",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNLXF6LXM4RFRUSC1JNllHTncxNU9kTXkyRjdZOThYSTRtcklELUpXRE1VaUV0RmdLLWc3MU5sMERYb3ZJT0tKd1dlNV9JQ1ExWGhtVS02Q0x5T3gyd0ZRV2huLUlDNkdXVTZPRTBwNnoteHdFSk5mejB1MmtXTXhHS0trdXhFWVpFZC01V2N2YUVJbzNMWXBaVVhfQVZWVnREQ2hZVHVNT2dsR2VqUmRJcXF2dmNsRXBDbDZrRGt1MF9KS2V6OWo1MWNWSzd5dWI0dDh5MG9oOVNhMHpf?oc=5",
-  "title": "Procès en appel du RN : tous les condamnés, dont Marine Le Pen, se sont pourvus en cassation",
-  "summary": "",
-  "published": "2026-07-21T09:00+02:00",
-  "mentions": [
-   "lepen"
-  ]
- },
- {
-  "id": "b63ad97e0df3c0d9",
-  "outlet": "Le Monde.fr",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQbTJGN1RtQ05JQ3FxaDNPY3JrcnFGZ3FMNVplb1JqMjdfbkc1WndhYXNQalU3aTYyQVUxRnc3c3ZoQ0EyTzJKRGVZODhHYjRzN2t2Y1hVNm10M1JFR1F0Mlo5aVhEeG4tNHRkOVk3aXg0dGtiLXBuRDZlZkZuak5SY2pWbWIzS2dBTHhlZUxaSVRoZ1NNNjFhSnN6cVZlTi1SdmFESGY2TTVzdmw2eGppUzBGdzRYOVR0X2RHYThBSWVyOW84REwxUXJSc0EwNVpIMWljbWRXTmg0VExjMlVONVBldWVJUjdCRElUTk5FS1d3bVBFOHhBQTFLb0ZxZlJaTXhrWU1QMGxsMDFtYlJESFNOOA?oc=5",
-  "title": "Procès des assistants parlementaires du FN : Marine Le Pen et tous les autres prévenus se sont pourvus en cassation",
-  "summary": "",
-  "published": "2026-07-21T09:00+02:00",
-  "mentions": [
-   "lepen"
-  ]
+   "zemmour"
+  ],
+  "analysis": [
+   {
+    "id": "zemmour",
+    "tone": 0,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "201af43b1a987762",
@@ -45,20 +29,15 @@
   "published": "2026-07-21T09:00+02:00",
   "mentions": [
    "philippe"
-  ]
- },
- {
-  "id": "ecb5b1a7a952906c",
-  "outlet": "l'Informé",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNTWFMazd4TVdUSEEzRkNzVU1OZm1zQ25kSGphZS1oYTV4ajd5QlplcHJWOUw3YkR2RVl0SVNMVklMR3k4MV81ZEdOWGhublpfMmFxX2Q0RDlvMy14aWNXalRJQ21ISzJGYXVQQ2ViT3BsbGloRTNEQ2hnaWhZZ0hQeERxaGVieHFJd3NWZ0VzdTJvM3VUYWdzaVl1QUlmZ3RkNmlsY0o4TFpWZ2RxY0pIcUZrQ2lkV0I0NElfQmw2QkQ2Sk9wVXBPZjNVaXdUMjZOdC1WaU5YZTFBejNRR09JTw?oc=5",
-  "title": "Les experts choisis par Édouard Philippe et Gabriel Attal pour leur programme sur le logement",
-  "summary": "",
-  "published": "2026-07-21T09:00+02:00",
-  "mentions": [
-   "philippe",
-   "attal"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": 0,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "26e757a4dbc06d8b",
@@ -70,19 +49,15 @@
   "published": "2026-07-21T09:00+02:00",
   "mentions": [
    "glucksmann"
-  ]
- },
- {
-  "id": "a63408d14f345533",
-  "outlet": "Actu.fr",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOYjdWbjlqbVJtbjB6aWJQUG1KdjVJSEg1alA3TlRFVHNHbFZ4aGo5WFNXUk52Q2xJZGVlcU13clQxc1dneVJQY3c4M00tWEh1SE1JN252eHZmQ0d5Q2U1Q2xtdEwyMHBCYXF6UzhOWU5zN053UlFfXzJaZmZtRWY3WUdhTEF0XzNSaGk0TWNRNkZPQWFJZXdxbjVNZkRjT3FaWTFOeDlWMFQ5a1NPVGNpeVVpbzdZR3VUUk4tOHhyNm0xdF9TLVRnZlo2dDhVU3JybmhMNkNjVHE?oc=5",
-  "title": "Présidentielle 2027 : que vient faire Gabriel Attal en Bretagne pendant trois jours ?",
-  "summary": "",
-  "published": "2026-07-21T09:00+02:00",
-  "mentions": [
-   "attal"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": 0,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "2e478051088c7b15",
@@ -94,67 +69,15 @@
   "published": "2026-07-21T09:00+02:00",
   "mentions": [
    "attal"
-  ]
- },
- {
-  "id": "1c21267b05a02550",
-  "outlet": "Decideurs Magazine",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQY2M4ODBHcnFoRlh0M3ZLQ2E3MFF6M1BMeWlTWFlURUdfV2xsckxzTGZqZWNvcWtnTHZOeV9ibkdubTB5RDhqUkN6UWt5dllfVkdGSG9EZHhBajBvcXc3RFE1dkZRTjRQbUp1QXJVU1JrUHZ1cXhjUEFxb202T1dzLThoaTFnWjdQYkJSX1BSRnl0bzlRaFVNUHV4NFo1NlRTU2xreFIzclY2bVEzNFJEV3l3?oc=5",
-  "title": "Sarah Knafo : prête à \"grand remplacer\" Éric Zemmour ?",
-  "summary": "",
-  "published": "2026-07-21T09:00+02:00",
-  "mentions": [
-   "zemmour"
-  ]
- },
- {
-  "id": "4cbfbd7ab0120db4",
-  "outlet": "mesinfos",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQ2JsOHZKRENGaVBiNmtTbF9YUkVtWHRMMmtad1RObi05QWdYVFdZZ253cTE2UEtKbGpxNG5CeFR2Ukk5V0h2U1U5RG1FQjhnek9mZmlXWDdIQy1EUjJqM3lNM0lYUzd0V2RaMXdHRUZ3QS1GSFUtUVRUSEhmcmRLWVVsaW80dDFzODNhVE1KVW03dGJOU0t2UWIxaWk?oc=5",
-  "title": "Libéralisme : Sarah Knafo et David Lisnard duo ou duel ?",
-  "summary": "",
-  "published": "2026-07-21T09:00+02:00",
-  "mentions": [
-   "lisnard"
-  ]
- },
- {
-  "id": "4dc12fbf7b2d3b8f",
-  "outlet": "Nouvelle Énergie",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOVB4UVFybHlDeWhRSDZwUFBTMld2dnJUMWh1ZHgxT1UwNkI4ODlSZHdFZ3JvZ3NOc2x6Mk0xd3p5X3BYdm9vaEd1OU1LeWZuTzRHRENKa3hGU01uUVd3NTVVS01IX21zZ211TkdERVE5aFpiek41T1dwMGJZUlB1TUVaNDZTOUQ0SmF4TnR4WjBUSG1weHBlWHhrbVc3WkFyWncyQkxxMERMUWR6cjdsdk10TkdLT3M?oc=5",
-  "title": "« La France doit redevenir une fête » : le discours de David Lisnard pour le 14 Juillet",
-  "summary": "",
-  "published": "2026-07-21T09:00+02:00",
-  "mentions": [
-   "lisnard"
-  ]
- },
- {
-  "id": "8da4ff02f8a8936d",
-  "outlet": "Valeurs actuelles",
-  "lean": "droite",
-  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWF9mZ1M4RC1ZYS1KQ1hDLWcwaFV5SnVqcW9UNV90d0hWdDg3VnRyZkw3RWRMVlQwOUVvcDZJSWI5NVF4bkNJUno4MnNGZVZNMVRWUEhUaEkwTFFLOUJ3QWxxMS13bHVlWVZOblVxWElRTFJUUlhLYWNhZXJjY3ZCWnpjV2RVWkw4NkJFMXQ3aGI0WHRzdHFTbXRvdmlrVThja0IteQ?oc=5",
-  "title": "[TRIBUNE] Quand Mélenchon se prend les pieds dans les racines",
-  "summary": "",
-  "published": "2026-07-21T09:00+02:00",
-  "mentions": [
-   "melenchon"
-  ]
- },
- {
-  "id": "7b60e672b4683349",
-  "outlet": "Le Canard enchaîné",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPT2JNUWJtSk5ubDl2dV9uWXBHaEJxaVV3N2JqYUIwTUVCWHhONGNncnBKUkg3MERVbGRMZXRkN184UVN3bDBvNE5Ud0tCM2Q3aWE4cnNSM01NYl9iVFA0Wnh0UG5uZElaU1FuWmZZWVRwZHlhaFZULUphU2Izc3Z5VVNJQXI?oc=5",
-  "title": "Concert de Barbara Butch interrompu : Jean-Luc Mélenchon fait le çon",
-  "summary": "",
-  "published": "2026-07-21T09:00+02:00",
-  "mentions": [
-   "melenchon"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "3995b211374ba2ad",
@@ -166,27 +89,55 @@
   "published": "2026-07-21T09:00+02:00",
   "mentions": [
    "melenchon"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": 0,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "68131bfb3597eb7b",
-  "outlet": "AMF",
+  "id": "4cbfbd7ab0120db4",
+  "outlet": "mesinfos",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPY3plY213M1dIMG5NTHZyRWdVek1LdWg5Qk5meVY0U2lJT29WWURETW9Ld25iSW9NMVlGWFMtU205b0wySldWREpCUmJITmpmVVM2UmY5TFcxa0dKT0M3aHp0VXVoWTNNUzE0dTRtUjl3b2dOTzdMeUo0QnBhTDhsakxGbDVjblBSemMwTk4teTVpOUZCYlBIaEZpeUx3X0Y5ekJiQU1nVmVxeklqZmFjeXg4YkFmTkM2SHQ4NVRfTVVraWpiRU9zRERBanlHSnFDblFHTG1zcFBRSjlYcXFMWVYwTXhLbmtJeGQweG5qbmpNUUtQNDJqbWhvWlZUX2tack5Hdg?oc=5",
-  "title": "Menaces au Maire d’Alès : les narcotrafiquants s’attaquent aux fondements de l’Etat et de la sécurité des citoyens, les combattre est la priorité absolue",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQ2JsOHZKRENGaVBiNmtTbF9YUkVtWHRMMmtad1RObi05QWdYVFdZZ253cTE2UEtKbGpxNG5CeFR2Ukk5V0h2U1U5RG1FQjhnek9mZmlXWDdIQy1EUjJqM3lNM0lYUzd0V2RaMXdHRUZ3QS1GSFUtUVRUSEhmcmRLWVVsaW80dDFzODNhVE1KVW03dGJOU0t2UWIxaWk?oc=5",
+  "title": "Libéralisme : Sarah Knafo et David Lisnard duo ou duel ?",
   "summary": "",
   "published": "2026-07-21T09:00+02:00",
-  "mentions": []
+  "mentions": [
+   "lisnard"
+  ],
+  "analysis": [
+   {
+    "id": "lisnard",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "903ccce3696cf2d4",
+  "id": "4dc12fbf7b2d3b8f",
   "outlet": "Nouvelle Énergie",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMmhnOTV5Z2tGWEFsdWhYLWlfWXRMUC11eF9BQzhyempTbm42OFlQZDNYZDRMYUZyUDVuTTUxRWcyN3pwZzZ4clY5eFBlZDRLUWx4aEtaTnc0cUQxQ1lHZGtmWVZ5dkhldEhyaUpvM3daX0hnUjdsRkJUa0N4U1pmd2VFZXdxQktNRy1qc21ldDFHU21LTVZnMlJETGZIWVVHeVJ3UFhibw?oc=5",
-  "title": "Commémoration de la rafle du Vel’ d’Hiv : ne jamais céder face à la haine",
+  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOVB4UVFybHlDeWhRSDZwUFBTMld2dnJUMWh1ZHgxT1UwNkI4ODlSZHdFZ3JvZ3NOc2x6Mk0xd3p5X3BYdm9vaEd1OU1LeWZuTzRHRENKa3hGU01uUVd3NTVVS01IX21zZ211TkdERVE5aFpiek41T1dwMGJZUlB1TUVaNDZTOUQ0SmF4TnR4WjBUSG1weHBlWHhrbVc3WkFyWncyQkxxMERMUWR6cjdsdk10TkdLT3M?oc=5",
+  "title": "« La France doit redevenir une fête » : le discours de David Lisnard pour le 14 Juillet",
   "summary": "",
   "published": "2026-07-21T09:00+02:00",
-  "mentions": []
+  "mentions": [
+   "lisnard"
+  ],
+  "analysis": [
+   {
+    "id": "lisnard",
+    "tone": 0,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "4dc37a45cff56961",
@@ -209,6 +160,172 @@
   "mentions": []
  },
  {
+  "id": "68131bfb3597eb7b",
+  "outlet": "AMF",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPY3plY213M1dIMG5NTHZyRWdVek1LdWg5Qk5meVY0U2lJT29WWURETW9Ld25iSW9NMVlGWFMtU205b0wySldWREpCUmJITmpmVVM2UmY5TFcxa0dKT0M3aHp0VXVoWTNNUzE0dTRtUjl3b2dOTzdMeUo0QnBhTDhsakxGbDVjblBSemMwTk4teTVpOUZCYlBIaEZpeUx3X0Y5ekJiQU1nVmVxeklqZmFjeXg4YkFmTkM2SHQ4NVRfTVVraWpiRU9zRERBanlHSnFDblFHTG1zcFBRSjlYcXFMWVYwTXhLbmtJeGQweG5qbmpNUUtQNDJqbWhvWlZUX2tack5Hdg?oc=5",
+  "title": "Menaces au Maire d’Alès : les narcotrafiquants s’attaquent aux fondements de l’Etat et de la sécurité des citoyens, les combattre est la priorité absolue",
+  "summary": "",
+  "published": "2026-07-21T09:00+02:00",
+  "mentions": []
+ },
+ {
+  "id": "7b60e672b4683349",
+  "outlet": "Le Canard enchaîné",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPT2JNUWJtSk5ubDl2dV9uWXBHaEJxaVV3N2JqYUIwTUVCWHhONGNncnBKUkg3MERVbGRMZXRkN184UVN3bDBvNE5Ud0tCM2Q3aWE4cnNSM01NYl9iVFA0Wnh0UG5uZElaU1FuWmZZWVRwZHlhaFZULUphU2Izc3Z5VVNJQXI?oc=5",
+  "title": "Concert de Barbara Butch interrompu : Jean-Luc Mélenchon fait le çon",
+  "summary": "",
+  "published": "2026-07-21T09:00+02:00",
+  "mentions": [
+   "melenchon"
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": 0,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "8da4ff02f8a8936d",
+  "outlet": "Valeurs actuelles",
+  "lean": "droite",
+  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWF9mZ1M4RC1ZYS1KQ1hDLWcwaFV5SnVqcW9UNV90d0hWdDg3VnRyZkw3RWRMVlQwOUVvcDZJSWI5NVF4bkNJUno4MnNGZVZNMVRWUEhUaEkwTFFLOUJ3QWxxMS13bHVlWVZOblVxWElRTFJUUlhLYWNhZXJjY3ZCWnpjV2RVWkw4NkJFMXQ3aGI0WHRzdHFTbXRvdmlrVThja0IteQ?oc=5",
+  "title": "[TRIBUNE] Quand Mélenchon se prend les pieds dans les racines",
+  "summary": "",
+  "published": "2026-07-21T09:00+02:00",
+  "mentions": [
+   "melenchon"
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": 0,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "8fe6d483240cc3bd",
+  "outlet": "RTL",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNLXF6LXM4RFRUSC1JNllHTncxNU9kTXkyRjdZOThYSTRtcklELUpXRE1VaUV0RmdLLWc3MU5sMERYb3ZJT0tKd1dlNV9JQ1ExWGhtVS02Q0x5T3gyd0ZRV2huLUlDNkdXVTZPRTBwNnoteHdFSk5mejB1MmtXTXhHS0trdXhFWVpFZC01V2N2YUVJbzNMWXBaVVhfQVZWVnREQ2hZVHVNT2dsR2VqUmRJcXF2dmNsRXBDbDZrRGt1MF9KS2V6OWo1MWNWSzd5dWI0dDh5MG9oOVNhMHpf?oc=5",
+  "title": "Procès en appel du RN : tous les condamnés, dont Marine Le Pen, se sont pourvus en cassation",
+  "summary": "",
+  "published": "2026-07-21T09:00+02:00",
+  "mentions": [
+   "lepen"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "903ccce3696cf2d4",
+  "outlet": "Nouvelle Énergie",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMmhnOTV5Z2tGWEFsdWhYLWlfWXRMUC11eF9BQzhyempTbm42OFlQZDNYZDRMYUZyUDVuTTUxRWcyN3pwZzZ4clY5eFBlZDRLUWx4aEtaTnc0cUQxQ1lHZGtmWVZ5dkhldEhyaUpvM3daX0hnUjdsRkJUa0N4U1pmd2VFZXdxQktNRy1qc21ldDFHU21LTVZnMlJETGZIWVVHeVJ3UFhibw?oc=5",
+  "title": "Commémoration de la rafle du Vel’ d’Hiv : ne jamais céder face à la haine",
+  "summary": "",
+  "published": "2026-07-21T09:00+02:00",
+  "mentions": []
+ },
+ {
+  "id": "a63408d14f345533",
+  "outlet": "Actu.fr",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOYjdWbjlqbVJtbjB6aWJQUG1KdjVJSEg1alA3TlRFVHNHbFZ4aGo5WFNXUk52Q2xJZGVlcU13clQxc1dneVJQY3c4M00tWEh1SE1JN252eHZmQ0d5Q2U1Q2xtdEwyMHBCYXF6UzhOWU5zN053UlFfXzJaZmZtRWY3WUdhTEF0XzNSaGk0TWNRNkZPQWFJZXdxbjVNZkRjT3FaWTFOeDlWMFQ5a1NPVGNpeVVpbzdZR3VUUk4tOHhyNm0xdF9TLVRnZlo2dDhVU3JybmhMNkNjVHE?oc=5",
+  "title": "Présidentielle 2027 : que vient faire Gabriel Attal en Bretagne pendant trois jours ?",
+  "summary": "",
+  "published": "2026-07-21T09:00+02:00",
+  "mentions": [
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "b63ad97e0df3c0d9",
+  "outlet": "Le Monde.fr",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQbTJGN1RtQ05JQ3FxaDNPY3JrcnFGZ3FMNVplb1JqMjdfbkc1WndhYXNQalU3aTYyQVUxRnc3c3ZoQ0EyTzJKRGVZODhHYjRzN2t2Y1hVNm10M1JFR1F0Mlo5aVhEeG4tNHRkOVk3aXg0dGtiLXBuRDZlZkZuak5SY2pWbWIzS2dBTHhlZUxaSVRoZ1NNNjFhSnN6cVZlTi1SdmFESGY2TTVzdmw2eGppUzBGdzRYOVR0X2RHYThBSWVyOW84REwxUXJSc0EwNVpIMWljbWRXTmg0VExjMlVONVBldWVJUjdCRElUTk5FS1d3bVBFOHhBQTFLb0ZxZlJaTXhrWU1QMGxsMDFtYlJESFNOOA?oc=5",
+  "title": "Procès des assistants parlementaires du FN : Marine Le Pen et tous les autres prévenus se sont pourvus en cassation",
+  "summary": "",
+  "published": "2026-07-21T09:00+02:00",
+  "mentions": [
+   "lepen"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "c1018871aac7c7bd",
+  "outlet": "l'Opinion",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNX3V0U3UxcWliNFBGXzRmS1haT2pNVEFMR0dyWUUwejM5aHdBWGxzcE9lbEU0WFUtUi1tZ0lXNVk3TEVaUjljZVoxbTNoU1BheVdkNDBWQkl4SkpINFUwWVpoZHdid3ZEalBOTURrRUQ5M2l2TUZUQUxvRHBnM1Z0dTdGbFgzUUVvQ0c1M1pDMlJEY2UwWkRHVUh2WVh2emtOZW4wTEtsVjdyNGxXZUFsVVZyMEgwUWJBNWpZRU9DMWxxZ3oy?oc=5",
+  "title": "« Demain le voile sera interdit » : comment Marine Le Pen a fait évoluer sa position en quinze ans",
+  "summary": "",
+  "published": "2026-07-21T09:00+02:00",
+  "mentions": [
+   "lepen"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": 0,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "ecb5b1a7a952906c",
+  "outlet": "l'Informé",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNTWFMazd4TVdUSEEzRkNzVU1OZm1zQ25kSGphZS1oYTV4ajd5QlplcHJWOUw3YkR2RVl0SVNMVklMR3k4MV81ZEdOWGhublpfMmFxX2Q0RDlvMy14aWNXalRJQ21ISzJGYXVQQ2ViT3BsbGloRTNEQ2hnaWhZZ0hQeERxaGVieHFJd3NWZ0VzdTJvM3VUYWdzaVl1QUlmZ3RkNmlsY0o4TFpWZ2RxY0pIcUZrQ2lkV0I0NElfQmw2QkQ2Sk9wVXBPZjNVaXdUMjZOdC1WaU5YZTFBejNRR09JTw?oc=5",
+  "title": "Les experts choisis par Édouard Philippe et Gabriel Attal pour leur programme sur le logement",
+  "summary": "",
+  "published": "2026-07-21T09:00+02:00",
+  "mentions": [
+   "philippe",
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": 0,
+    "frame": "programme"
+   },
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
   "id": "f676ad2e0f142142",
   "outlet": "Closer",
   "lean": "non classé",
@@ -218,6 +335,14 @@
   "published": "2026-07-21T09:00+02:00",
   "mentions": [
    "ruffin"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "ruffin",
+    "tone": 0,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  }
 ]

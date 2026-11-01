@@ -1,5 +1,85 @@
 [
  {
+  "id": "0542bf0c5832c86e",
+  "outlet": "20 Minutes",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcXVaSUJsTFRXemotUHM1b2MzTFpHYWYtdzY1MjFXa2d5YXZ3VS1pVXVjNzBkeXF0Z0lwcGZRTmRCRFQtYzFqaDQzS3ZwRWFSZXZYc1ZPNGhPSmVWaDFxTU4xdlhwNzBiWW1mRFY2Wnh5NkVmbV81WXZmQnFUMGJyQzNUUHdMMzJuZWxvd19UZ3pMWU93TEhvNEpGdUZTQkRrNTZvcXRidGw1MTJUQms4SEVxSXAtTkNYWHJFZXVnVEkwbGRRMFlfWEhYNWpQckF6Z1J4cENrVGhwMEdG?oc=5",
+  "title": "Attal débouté sur l’utilisation du slogan « renaissance » par le RN",
+  "summary": "",
+  "published": "2026-07-30T09:00+02:00",
+  "mentions": [
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": -1,
+    "frame": "justice_affaires"
+   },
+   {
+    "id": "lepen",
+    "tone": 0,
+    "frame": "justice_affaires"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "1a13905ea5a2af0e",
+  "outlet": "Marianne",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcXVxVG40MWVvOGxGdXNURnRRYm5xdWpuT0JpSTRRQ3RqeDFadlRxcG1EeHdsV3I3MThNZFEtZndlNFhJMnI2QVI2djlyY05hTHdpNXlva0ZjbWxMdGx3SURLSFNzdDgzX0o3N2xxdk53R1ltcE92NGxzSkNNNkg1MjRuNFpUb1BqUE9QeU5pZlJibVJ5WGhNTFo0TlhxaXAtNG52b29EcXQ5YU1HcUlYY01VUlhuQQ?oc=5",
+  "title": "La \"remigration\", le fantasme de la droite dure aux antipodes de la \"nouvelle France\"",
+  "summary": "",
+  "published": "2026-07-30T09:00+02:00",
+  "mentions": []
+ },
+ {
+  "id": "272a6fed2e6d3944",
+  "outlet": "Nhu Bretagne",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBmbHcwWnhBM3dfLU9JZ2RZTW50YTJpNFA3R3NycXJpMkVnZlNTelctNG1zaWw4a0s2T1V6UklBUEcxZTJtWjltNjVRdk95amRNSEZ6bFViVTdMdDQ1WWhIbE5TX04?oc=5",
+  "title": "Lettre ouverte à Jean-Luc Mélenchon : changer la politique",
+  "summary": "",
+  "published": "2026-07-30T09:00+02:00",
+  "mentions": [
+   "melenchon"
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "30bdcdbfd6472710",
+  "outlet": "Le Monde.fr",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxPcDdXRTNPS19ZVGlrZDJ6Q0x6MGhWcTRTbTRIOW8zNnA2c1hJT1Z0NzhzS2RTT1FfdmpBQjlwS0o3OGRORTJaWU1wNl9jZXJGNkdDLVlDRjhHaWxCSXhWejg1VUVNX0RxZEpvamFRWksyM2lPNFhkak9rTVV0SVhENU1QQjMxandIVGVqUEVtR3REQTJ0LUlzN0J4RUdrTkx4NWhtc3REY1VlcmZ4OENIQ2U0SFdXVzVtVE9EYTFqVkdJN096V01CUzZmOWN2aVNTTWtNSFVoZDJYR1VCVndab2RuU3ZXN3lTZEI2Uk5TdEd0S3hVZ3M5akxDejNDU3hhb2Q0YW9YOENZenNaZHU1S0J6c3VWOWo2VzRYM0pDejBpd2hEUnRfM0hnNA?oc=5",
+  "title": "Le tribunal de Paris rejette la demande de Gabriel Attal visant à interdire au RN d’utiliser le terme « renaissance » pendant la campagne présidentielle",
+  "summary": "",
+  "published": "2026-07-30T09:00+02:00",
+  "mentions": [
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": -1,
+    "frame": "justice_affaires"
+   },
+   {
+    "id": "lepen",
+    "tone": 0,
+    "frame": "justice_affaires"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
   "id": "345bd1e4910c5cc0",
   "outlet": "Consultor",
   "lean": "non classé",
@@ -9,43 +89,9 @@
   "published": "2026-07-30T09:00+02:00",
   "mentions": [
    "philippe"
-  ]
- },
- {
-  "id": "466f866637dc70d6",
-  "outlet": "Programme TV Ouest-France",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxPOTVYVExHTEIxT0p3NWJ5eTZCenQ0c3hXMUNTUzdScElScEUteGt1T3hwekV2TFN6VFZFMzNaNkFYZGxyV3NlUExYUmhZaVJncWx0OW1zYzdQVWFLaHNWNTdJZjZISkFxb2MybnZGY3NHY25ERndSOEZocWVuTTZ5UlNUSk5hOC0zZHIwSFMyRVozS3BwTk4zTVJMbnFITG1jY2VmbXhtX3ZqZGNDeUN1Ymd6WHdQd0oyNjd4RGFsRzhPQno5aG9Xc210SlFMSlkxaGFfZTJDV1dYc0x0bnNjOUJSWW9qU0tEQ0dLcWMzOUE5X2NoUDFvUlJxN0VkaUNNM2s5M0ZsT19wTVdTMHVSTzFWaTIyTkRvajVvRG9LZGhUM3JuTXV2VDBZMFcxZU1GMkZRdUd1bjhBUzVN?oc=5",
-  "title": "Léa Salamé sera bien présente à la rentrée sur France 2, malgré le premier débat de Raphaël Glucksmann fin août sur LCI",
-  "summary": "",
-  "published": "2026-07-30T09:00+02:00",
-  "mentions": [
-   "glucksmann"
-  ]
- },
- {
-  "id": "55a7bc0a2c60912c",
-  "outlet": "NextPlz",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOcERnNkVlWXYzM05kdlB4SHUtYjlvaXlfNnFwQjV3MVhZZmhLRkRIQjZhNEYxdEEwZ3k0aXVmSTJEYzFtRnVjTjVCei1iMDlIUngyeThQbms5OWx2bXVNYVhfcEdtbGIyMmtmX2o0ZVVYVDR4ZkUyN1FranJCeTh3czBWWmI5Vmtxa0sxSV9Janh6YVBFYkEtV2VuekpCVkV1S3ZTV2FiOUFZdUcxR0RHQk5UdTVodmhUR0Z5dHU3b2RnLUZWNnJqMjlyR0xHMktCQ05sZ3o2aWZTeW02VVVYd1RMWnktb1FIRTMxcXNR?oc=5",
-  "title": "Léa Salamé va-t-elle quitter le 20 heures de France 2 ? Son compagnon, Raphaël Glucksmann, lui met des bâtons dans les roues",
-  "summary": "",
-  "published": "2026-07-30T09:00+02:00",
-  "mentions": [
-   "glucksmann"
-  ]
- },
- {
-  "id": "48838d35e981677c",
-  "outlet": "Closer",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNUE1VeVJoUlZMMkxpUnV3NXFZT21sNHNSZUV1ZWthOU1HS0ktMGFzZlZnQmdBTGJDdGJkSFF5dVhVTFdWSXRfcGUxUndZanNiZ25HRGo2OWxsOE1BcU4wMVhpV3dFOTFMOXllTUVZd0lvb2ZkVGVCZUxoemh5Njh2Z0VhdnZaUDVMbzRuanJTOEM4dXlJS2ppUjlvMEh5SUExdnlkX1EyekoxUUVjWnJ5eTlWVFB0YktfMHRIZmhFejJTZlFqeTNsTk1RTUYxQ0J5ZGZyYml6MFVhNzI4cXhuZjZQYjFHRENjcVZEUWFaSTZJS2ozRVZ1RVRiTXNRRnp0N1dj?oc=5",
-  "title": "Léa Salamé sur la sellette au JT de 20h ? Son compagnon Raphaël Glucksmann lui complique la tâche, France Télévisions a tranché",
-  "summary": "",
-  "published": "2026-07-30T09:00+02:00",
-  "mentions": [
-   "glucksmann"
-  ]
+  ],
+  "analysis": [],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "34f1422eb90905ab",
@@ -58,69 +104,104 @@
   "mentions": [
    "lepen",
    "attal"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "justice_affaires"
+   },
+   {
+    "id": "lepen",
+    "tone": 0,
+    "frame": "justice_affaires"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "9d2d71cc4fa540a2",
-  "outlet": "l'Opinion",
+  "id": "40fe6a4b563d2916",
+  "outlet": "Le Figaro",
+  "lean": "droite",
+  "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNWHlTSHlfRWdjY09GUFN4YVRVUGpUZ2RsZEc1SHR5eEMzMUU2U0N5eExWOHg3cDhrczVBMFRfUUEzdWRpQmtiYnRkMXJyVHVkd2hyMjh2eVJqLUYzeTk1OUlrZEJNbjg4T2NMRWFtQUp4TG9RSXJqa0xTcWxoSHJlZHJkMFFlQlpLSjBJaXRVbVMwNTVSYXFrNGFHellQdzY5dmluX1pneEh5R0xlUEZqUEdoOG9FMmhyYk9zZEktaVZodG9WSlVjTVdvNDBXdUdSNDYzQzU5X2ZPSWo0RkthckRBTVdCU3djWDhWY3F5QW44aXRXVXhkdi0zX1o?oc=5",
+  "title": "« C’est une manière de servir mon pays » : Franck Robine, le préfet devenu directeur de campagne de Bruno Retailleau",
+  "summary": "",
+  "published": "2026-07-30T09:00+02:00",
+  "mentions": [
+   "retailleau"
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "466f866637dc70d6",
+  "outlet": "Programme TV Ouest-France",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWGFPeW9RdFVmdFdaY0RwdUk0MWpYVWFNaUkyOW8wUnlHUWJHelRsU215bmVCNlc5TGJ2b0xvSXZnSFdFUlhUTlZYZTUwYkl2TGJzVXEwWjk0eDdzS0MySS1WVG9NUlFzREswXzRwLTg3VUxjQlJYUHJXY2UzNE05MS1EQmlaMGNOb0NiZ281VjRZd29kM1hVOTRLMUpkT0dZUnVXV3Q2TF9pSVdqYmt4QjFxcUNLLWF0dTU1NlNjNGtsR1MtTTlUekhR?oc=5",
-  "title": "Utilisation du mot « renaissance » : le parti de Gabriel Attal devra indemniser Marine Le Pen et le RN",
+  "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxPOTVYVExHTEIxT0p3NWJ5eTZCenQ0c3hXMUNTUzdScElScEUteGt1T3hwekV2TFN6VFZFMzNaNkFYZGxyV3NlUExYUmhZaVJncWx0OW1zYzdQVWFLaHNWNTdJZjZISkFxb2MybnZGY3NHY25ERndSOEZocWVuTTZ5UlNUSk5hOC0zZHIwSFMyRVozS3BwTk4zTVJMbnFITG1jY2VmbXhtX3ZqZGNDeUN1Ymd6WHdQd0oyNjd4RGFsRzhPQno5aG9Xc210SlFMSlkxaGFfZTJDV1dYc0x0bnNjOUJSWW9qU0tEQ0dLcWMzOUE5X2NoUDFvUlJxN0VkaUNNM2s5M0ZsT19wTVdTMHVSTzFWaTIyTkRvajVvRG9LZGhUM3JuTXV2VDBZMFcxZU1GMkZRdUd1bjhBUzVN?oc=5",
+  "title": "Léa Salamé sera bien présente à la rentrée sur France 2, malgré le premier débat de Raphaël Glucksmann fin août sur LCI",
   "summary": "",
   "published": "2026-07-30T09:00+02:00",
   "mentions": [
-   "lepen",
-   "attal"
-  ]
+   "glucksmann"
+  ],
+  "analysis": [],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "30bdcdbfd6472710",
-  "outlet": "Le Monde.fr",
+  "id": "48838d35e981677c",
+  "outlet": "Closer",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxPcDdXRTNPS19ZVGlrZDJ6Q0x6MGhWcTRTbTRIOW8zNnA2c1hJT1Z0NzhzS2RTT1FfdmpBQjlwS0o3OGRORTJaWU1wNl9jZXJGNkdDLVlDRjhHaWxCSXhWejg1VUVNX0RxZEpvamFRWksyM2lPNFhkak9rTVV0SVhENU1QQjMxandIVGVqUEVtR3REQTJ0LUlzN0J4RUdrTkx4NWhtc3REY1VlcmZ4OENIQ2U0SFdXVzVtVE9EYTFqVkdJN096V01CUzZmOWN2aVNTTWtNSFVoZDJYR1VCVndab2RuU3ZXN3lTZEI2Uk5TdEd0S3hVZ3M5akxDejNDU3hhb2Q0YW9YOENZenNaZHU1S0J6c3VWOWo2VzRYM0pDejBpd2hEUnRfM0hnNA?oc=5",
-  "title": "Le tribunal de Paris rejette la demande de Gabriel Attal visant à interdire au RN d’utiliser le terme « renaissance » pendant la campagne présidentielle",
+  "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNUE1VeVJoUlZMMkxpUnV3NXFZT21sNHNSZUV1ZWthOU1HS0ktMGFzZlZnQmdBTGJDdGJkSFF5dVhVTFdWSXRfcGUxUndZanNiZ25HRGo2OWxsOE1BcU4wMVhpV3dFOTFMOXllTUVZd0lvb2ZkVGVCZUxoemh5Njh2Z0VhdnZaUDVMbzRuanJTOEM4dXlJS2ppUjlvMEh5SUExdnlkX1EyekoxUUVjWnJ5eTlWVFB0YktfMHRIZmhFejJTZlFqeTNsTk1RTUYxQ0J5ZGZyYml6MFVhNzI4cXhuZjZQYjFHRENjcVZEUWFaSTZJS2ozRVZ1RVRiTXNRRnp0N1dj?oc=5",
+  "title": "Léa Salamé sur la sellette au JT de 20h ? Son compagnon Raphaël Glucksmann lui complique la tâche, France Télévisions a tranché",
   "summary": "",
   "published": "2026-07-30T09:00+02:00",
   "mentions": [
-   "attal"
-  ]
+   "glucksmann"
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": -1,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "c0529c046b27d14f",
-  "outlet": "l'Opinion",
+  "id": "52a62df51106a654",
+  "outlet": "azərtac",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOWNpcDZIZUpXdXdSbDlYWHlmQ0hEVjZPb2hPT2FCZWo0NVhjOUZJU0lma3BfQmtWTTY3a1lvZTdVUWlQNDNaQXhzaVN0MWlKWkJ4OTFZbWNlVm03MGh0YmVTV0dmNmpoN0JOUURaNDBIRXhSZEloLTRRYmwxMmlMM3YtYjdWTnUxZmk3ZVd0UTM4YlA4UnJ4dFhVNmlsRGhnbFQtYVBWcW9sVzkwYTNrTA?oc=5",
-  "title": "Sébastien Lecornu et Gabriel Attal soignent au même moment chiens comme chats",
+  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTGtwNWFOcEh2WU9falJSbEFQUW5rUWpmakZwMXFFTTBXSXUyallsUVNidWY2SW16dWhwSVpxTlBGVldObWExNGp0cVloZ0ZnTktQQmV3VG5GaERjLWF5ZTUtNFQyNkxPdkxtNlE5UFFFMUdOeXFlcEdDRUtDZFZYR2F2M21lTUhjcXdYaW5mUzFNOTN6R1lGQzJnNnFVWHVtQjA3M1JIbWJKQQ?oc=5",
+  "title": "L’Arcom inflige une amende de 200 000 euros à la chaîne française CNews",
   "summary": "",
   "published": "2026-07-30T09:00+02:00",
-  "mentions": [
-   "attal"
-  ]
+  "mentions": []
  },
  {
-  "id": "9bb5f03dd7ee2c6c",
-  "outlet": "BFM",
+  "id": "55a7bc0a2c60912c",
+  "outlet": "NextPlz",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPRHJReWRqOGhUeDVqQXdhazF5OFhpTmJwQTQ4NUJDZ2tOck9rWE5TUE1PMUU1NWxSbHhCVWhmQnVGd2ZfSlBKVXcwand1R1piMDVZeDJwSXc4RFNPRVZTcFI3NGo2WFVySTc1bHNtOTFtcElRR1V1WHNZSklueTlXckQ0T0xpLVR6dEtDamVzendyd2x3WTRVSm94QlJqTlVIMEJ1QUZNd2pacGgyeXNIcGFZUm1hNk9mbTVkdlYyMllBOWNJck9ONDlwcXFWVkZlVV9rUkpFWUdaRjFNcGkxMjEtM251b1dXdEZOM3dtQUFtOFZnN1ptUFJkbTdzczRZZjEtb3VDX093eXR4Z2xJelJzdHFzZw?oc=5",
-  "title": "Renaissance et Gabriel Attal déboutés par la justice, Marine Le Pen pourra bien continuer à utiliser son slogan",
+  "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOcERnNkVlWXYzM05kdlB4SHUtYjlvaXlfNnFwQjV3MVhZZmhLRkRIQjZhNEYxdEEwZ3k0aXVmSTJEYzFtRnVjTjVCei1iMDlIUngyeThQbms5OWx2bXVNYVhfcEdtbGIyMmtmX2o0ZVVYVDR4ZkUyN1FranJCeTh3czBWWmI5Vmtxa0sxSV9Janh6YVBFYkEtV2VuekpCVkV1S3ZTV2FiOUFZdUcxR0RHQk5UdTVodmhUR0Z5dHU3b2RnLUZWNnJqMjlyR0xHMktCQ05sZ3o2aWZTeW02VVVYd1RMWnktb1FIRTMxcXNR?oc=5",
+  "title": "Léa Salamé va-t-elle quitter le 20 heures de France 2 ? Son compagnon, Raphaël Glucksmann, lui met des bâtons dans les roues",
   "summary": "",
   "published": "2026-07-30T09:00+02:00",
   "mentions": [
-   "lepen",
-   "attal"
-  ]
- },
- {
-  "id": "0542bf0c5832c86e",
-  "outlet": "20 Minutes",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcXVaSUJsTFRXemotUHM1b2MzTFpHYWYtdzY1MjFXa2d5YXZ3VS1pVXVjNzBkeXF0Z0lwcGZRTmRCRFQtYzFqaDQzS3ZwRWFSZXZYc1ZPNGhPSmVWaDFxTU4xdlhwNzBiWW1mRFY2Wnh5NkVmbV81WXZmQnFUMGJyQzNUUHdMMzJuZWxvd19UZ3pMWU93TEhvNEpGdUZTQkRrNTZvcXRidGw1MTJUQms4SEVxSXAtTkNYWHJFZXVnVEkwbGRRMFlfWEhYNWpQckF6Z1J4cENrVGhwMEdG?oc=5",
-  "title": "Attal débouté sur l’utilisation du slogan « renaissance » par le RN",
-  "summary": "",
-  "published": "2026-07-30T09:00+02:00",
-  "mentions": [
-   "attal"
-  ]
+   "glucksmann"
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": -1,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "5a897f929bf71869",
@@ -133,32 +214,20 @@
   "mentions": [
    "lepen",
    "attal"
-  ]
- },
- {
-  "id": "a7a53d8de87c8dc8",
-  "outlet": "Ouest-France",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNVm9JUDd5MmstS3YxVk5XMVlRM0tIckJ2MjRYNXlPeF9DajE1Vk9kRHR2ek41WjFQVklXSEZ6aG9GOHJMMWk2VWlZaGxlQzFlS2VOc3NxQkdBckVxaE5JbWVHa05pZmdoc0g0aDR4ejcyZlJKRU16cXE3cndMSmxLLTNGVlFFLWxyc2Q1a0NWZUU2QnFZZWNpR0xvQjNWSXl3bHJGQ2thNmtLcDVXa1U2YzFzc0dramFuR0pkdG1Ubk9WWlJsdEdQN1NkZldDdjIzcTZybG5PdDlHUTFlbTBSdDZNRnZCbG1vVU1SS0FmTXZiMFEyandtVlZFaDV0WjZVMktNU0N2eUMwVGdjYVpwVll0VUdkUFpVOWIwMFBmZ3ZIRGJKZXc?oc=5",
-  "title": "La justice rejette la demande de Gabriel Attal d’interdire au RN l’utilisation du mot « renaissance » pour sa campagne",
-  "summary": "",
-  "published": "2026-07-30T09:00+02:00",
-  "mentions": [
-   "attal"
-  ]
- },
- {
-  "id": "f989ac4513c72b4d",
-  "outlet": "ladepeche.fr",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOZDVSY2E5RmdrUjk2ZkZyT1ZtRzFPUm8zTjdsS2F1Tmt2TTNxTmtRZ0lyaWRtZTUtUVVETmxwR3owUDR6SFdtRWtZMG5zZlJhWVBUUmZvbG95VUQ3Y0Z1N0g5LTRDcnRucWR6Q3FQRm9DZlNuU0Raa0JRc3liemVJUF96aEZhaW5tSjkwOHlLdi1paTNXdnZkQWFOUDhYUDJWV3NHcUcwUGRRdmhvMVJVcWxmMFpVUFNFdWlaUkpXUHZBOGd0NkZYbGNzVkc4b1Q4bVpqdmJLeFc5amhVazU2ZHM1em5VbFU4ampydXhUNjlneXQzUWZCTWtoTUpzd1d3Nm4wd1ctbVdGYXUzU0Y5UUZrY0h6aURmaE5j?oc=5",
-  "title": "Présidentielle 2027 : la justice donne raison à Marine Le Pen contre Gabriel Attal, la candidate du Rassemblement national pourra utiliser le mot \"Renaissance\" dans son slogan de campagne",
-  "summary": "",
-  "published": "2026-07-30T09:00+02:00",
-  "mentions": [
-   "lepen",
-   "attal"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": -1,
+    "frame": "justice_affaires"
+   },
+   {
+    "id": "lepen",
+    "tone": 0,
+    "frame": "justice_affaires"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "7ecbc9db1f0ce929",
@@ -170,17 +239,103 @@
   "published": "2026-07-30T09:00+02:00",
   "mentions": [
    "attal"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": -2,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "ff453ed8b02debb3",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOMWs3Y3pJa3Rod3VwMGJDU0tTUk1peUc3aThITWwyWXUydXhFSmpsZHVoY2ZDQ1MtUG1jWDBSaG1NR19jRjBlSDJTVkh3ZzcwWDdpREF3UGwya0N6MU5kQmlucWE0d1ZQM1QzZzhOd0hBQUItaEtzbUFOeFBwN0ZTcmFOTjdKdzRRTDBCTHdMb0s5T3k3akVRZm1NWFJHWGFTckNxcFVDOXR5TnY0ZzYwM2EycFdtQnA5ejQ5N2FNd3d4UWZDSTFwbFljaGQtT2NoR0FwVjNDZWN3WU9ELV8wT3BINjAxRFg2YjNLcy12ZEZzRmstS3JubDExSHF6bXd5c25taXZWWWVZN2lGcGhEb3ZyZEplWFB0ZEtzR0RhakQ?oc=5",
-  "title": "\"Il défend la liberté d'expression\": pourquoi Sarah Knafo invite le streameur controversé Sardoche aux universités d'été de Reconquête",
+  "id": "94bc919430debd6d",
+  "outlet": "Le Parisien",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQRGtQblpoSHVfNEpYWmxhQ3UtNjBkXzkxT3h5UDFjZWp6NVdMMnlLNWRQNUxCRVYtNXYzUDVMeGxKWnJ3TDBVLV9oZzIzanFmOTBIUFlabzVQWm5QODlhM0p5YW1HTnlwZDhoN0pkbVZuU2VQbjd0anJrUkQ0eHhlQUNFSTJrMVBYRHo1YUFGcDBicmxYTHRKeEx0RjdNaTNVSWpudzBEZzBIdVY5X1lva1Zya09Bb0VKejNWYmV6QXJ0dFNxZ0dFWEo0blR5NUZOMmYzLThtTGFFdHNBbHhHVEFPd1hIYjdWTmRRWExaS2dSQnFTY3hpMnJTbkRwNzVoQWc5MG9xcXI?oc=5",
+  "title": "Le streamer Sardoche présent à l’université d’été de Reconquête pour une table ronde avec Sarah Knafo",
   "summary": "",
   "published": "2026-07-30T09:00+02:00",
   "mentions": []
+ },
+ {
+  "id": "9bb5f03dd7ee2c6c",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPRHJReWRqOGhUeDVqQXdhazF5OFhpTmJwQTQ4NUJDZ2tOck9rWE5TUE1PMUU1NWxSbHhCVWhmQnVGd2ZfSlBKVXcwand1R1piMDVZeDJwSXc4RFNPRVZTcFI3NGo2WFVySTc1bHNtOTFtcElRR1V1WHNZSklueTlXckQ0T0xpLVR6dEtDamVzendyd2x3WTRVSm94QlJqTlVIMEJ1QUZNd2pacGgyeXNIcGFZUm1hNk9mbTVkdlYyMllBOWNJck9ONDlwcXFWVkZlVV9rUkpFWUdaRjFNcGkxMjEtM251b1dXdEZOM3dtQUFtOFZnN1ptUFJkbTdzczRZZjEtb3VDX093eXR4Z2xJelJzdHFzZw?oc=5",
+  "title": "Renaissance et Gabriel Attal déboutés par la justice, Marine Le Pen pourra bien continuer à utiliser son slogan",
+  "summary": "",
+  "published": "2026-07-30T09:00+02:00",
+  "mentions": [
+   "lepen",
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": -1,
+    "frame": "justice_affaires"
+   },
+   {
+    "id": "lepen",
+    "tone": 0,
+    "frame": "justice_affaires"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "9cb60f6e2c2ed432",
+  "outlet": "Europe 1",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNS1kxaDAwRjZ1ZnBwM0ZmbDZ0Q190VjM5SmtKUFdma1Q5ekZqNUNPLXU4dW5yem1mS0I2RTQwbW4xb0UzMUI2dnlsQlZ5X3JXMWpwX0RlSUlHV3k4aVVUbEppUWlZTjhPVHJxakVEY2lLMWZLRDNSdHM0bEJ0eV9rQk5JZklDbENwNEE1LXdVUDAzN0RqRlFCSF94UExSVTgwa3ZTalZRRHZ1SWhfVUJtWUtTX1BsaFhlTWFrSlBZdnRnb2x6ZVNHZTI0N1dqRzM2QlE00gHYAUFVX3lxTE1JeFZpRzhXZ2lqc0N4ekQwQndoS2Q5ZmpBbjIyNTVUUGp2bTJZMkhKVGdNVTQ0TXpWcWtzdjM3aW10Y1IyOGlqbEg2bTNhQ3prcC1jLWVyT2wtLXRESlJhOGhjZXhMcjVZbi1TakRkbWtab2RmUVVTR2JBYW8wc1FSX1JzTVVyUzRjM2pKNUdBSHhRQjRXVkNIbWdtTkhNN3QxZnVRSjFpaW5wR2V5MGRtR0Yxd1dKdWxZRkVJcHNuQzJEcUNUX1Rnck5qcVhBa2NmeEJqclVraQ?oc=5",
+  "title": "Présidentielle 2027 : pendant l'été, Gabriel Attal et Bruno Retailleau continuent d'occuper le terrain",
+  "summary": "",
+  "published": "2026-07-30T09:00+02:00",
+  "mentions": [
+   "attal",
+   "retailleau"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "programme"
+   },
+   {
+    "id": "retailleau",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "9d2d71cc4fa540a2",
+  "outlet": "l'Opinion",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWGFPeW9RdFVmdFdaY0RwdUk0MWpYVWFNaUkyOW8wUnlHUWJHelRsU215bmVCNlc5TGJ2b0xvSXZnSFdFUlhUTlZYZTUwYkl2TGJzVXEwWjk0eDdzS0MySS1WVG9NUlFzREswXzRwLTg3VUxjQlJYUHJXY2UzNE05MS1EQmlaMGNOb0NiZ281VjRZd29kM1hVOTRLMUpkT0dZUnVXV3Q2TF9pSVdqYmt4QjFxcUNLLWF0dTU1NlNjNGtsR1MtTTlUekhR?oc=5",
+  "title": "Utilisation du mot « renaissance » : le parti de Gabriel Attal devra indemniser Marine Le Pen et le RN",
+  "summary": "",
+  "published": "2026-07-30T09:00+02:00",
+  "mentions": [
+   "lepen",
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": -1,
+    "frame": "justice_affaires"
+   },
+   {
+    "id": "lepen",
+    "tone": 0,
+    "frame": "justice_affaires"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "a6fc54e91c03efce",
@@ -192,17 +347,91 @@
   "published": "2026-07-30T09:00+02:00",
   "mentions": [
    "zemmour"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "zemmour",
+    "tone": 0,
+    "frame": "justice_affaires"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "94bc919430debd6d",
-  "outlet": "Le Parisien",
+  "id": "a7a53d8de87c8dc8",
+  "outlet": "Ouest-France",
   "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQRGtQblpoSHVfNEpYWmxhQ3UtNjBkXzkxT3h5UDFjZWp6NVdMMnlLNWRQNUxCRVYtNXYzUDVMeGxKWnJ3TDBVLV9oZzIzanFmOTBIUFlabzVQWm5QODlhM0p5YW1HTnlwZDhoN0pkbVZuU2VQbjd0anJrUkQ0eHhlQUNFSTJrMVBYRHo1YUFGcDBicmxYTHRKeEx0RjdNaTNVSWpudzBEZzBIdVY5X1lva1Zya09Bb0VKejNWYmV6QXJ0dFNxZ0dFWEo0blR5NUZOMmYzLThtTGFFdHNBbHhHVEFPd1hIYjdWTmRRWExaS2dSQnFTY3hpMnJTbkRwNzVoQWc5MG9xcXI?oc=5",
-  "title": "Le streamer Sardoche présent à l’université d’été de Reconquête pour une table ronde avec Sarah Knafo",
+  "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNVm9JUDd5MmstS3YxVk5XMVlRM0tIckJ2MjRYNXlPeF9DajE1Vk9kRHR2ek41WjFQVklXSEZ6aG9GOHJMMWk2VWlZaGxlQzFlS2VOc3NxQkdBckVxaE5JbWVHa05pZmdoc0g0aDR4ejcyZlJKRU16cXE3cndMSmxLLTNGVlFFLWxyc2Q1a0NWZUU2QnFZZWNpR0xvQjNWSXl3bHJGQ2thNmtLcDVXa1U2YzFzc0dramFuR0pkdG1Ubk9WWlJsdEdQN1NkZldDdjIzcTZybG5PdDlHUTFlbTBSdDZNRnZCbG1vVU1SS0FmTXZiMFEyandtVlZFaDV0WjZVMktNU0N2eUMwVGdjYVpwVll0VUdkUFpVOWIwMFBmZ3ZIRGJKZXc?oc=5",
+  "title": "La justice rejette la demande de Gabriel Attal d’interdire au RN l’utilisation du mot « renaissance » pour sa campagne",
   "summary": "",
   "published": "2026-07-30T09:00+02:00",
-  "mentions": []
+  "mentions": [
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": -1,
+    "frame": "justice_affaires"
+   },
+   {
+    "id": "lepen",
+    "tone": 0,
+    "frame": "justice_affaires"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "b728e5f5c5d9017d",
+  "outlet": "Le Figaro",
+  "lean": "droite",
+  "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQalFEdXBINVI5TWVHOGRyZnVjZUJGWHlKTXUyekQxNmtrbjlfZVV2bkVoa2lESHdyMDBqYkRoQ1F5Njg5Wk5peFlVTll0cm1wMnRMb1g4OGh1c2EzWkR3V0wycVFWV3RpY1h3c3AzSTFJRllEM0twMDB4bEZqU1Y2cDZ5b2tGWVQzMXJVTXBid2R4SmJQRU5ydFpoZVpaeHdaVW5PWnQtNDF3Zi1vSVBybkdkdi1OUFl3bVlKYkhkaXlZZTd4MDg2Q2hGbERVcGNfU01MVWRXbGNtVWRFM3J3NGFrTTdHVVhpNF9GQQ?oc=5",
+  "title": "La justice donne raison à Marine Le Pen face à Gabriel Attal sur l’utilisation du mot «renaissance»",
+  "summary": "",
+  "published": "2026-07-30T09:00+02:00",
+  "mentions": [
+   "lepen",
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": -1,
+    "frame": "justice_affaires"
+   },
+   {
+    "id": "lepen",
+    "tone": 0,
+    "frame": "justice_affaires"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "c0529c046b27d14f",
+  "outlet": "l'Opinion",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOWNpcDZIZUpXdXdSbDlYWHlmQ0hEVjZPb2hPT2FCZWo0NVhjOUZJU0lma3BfQmtWTTY3a1lvZTdVUWlQNDNaQXhzaVN0MWlKWkJ4OTFZbWNlVm03MGh0YmVTV0dmNmpoN0JOUURaNDBIRXhSZEloLTRRYmwxMmlMM3YtYjdWTnUxZmk3ZVd0UTM4YlA4UnJ4dFhVNmlsRGhnbFQtYVBWcW9sVzkwYTNrTA?oc=5",
+  "title": "Sébastien Lecornu et Gabriel Attal soignent au même moment chiens comme chats",
+  "summary": "",
+  "published": "2026-07-30T09:00+02:00",
+  "mentions": [
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": -1,
+    "frame": "polemique"
+   },
+   {
+    "id": "lepen",
+    "tone": 0,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "c35f2c81d31ac005",
@@ -225,39 +454,30 @@
   "mentions": []
  },
  {
-  "id": "272a6fed2e6d3944",
-  "outlet": "Nhu Bretagne",
+  "id": "f989ac4513c72b4d",
+  "outlet": "ladepeche.fr",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBmbHcwWnhBM3dfLU9JZ2RZTW50YTJpNFA3R3NycXJpMkVnZlNTelctNG1zaWw4a0s2T1V6UklBUEcxZTJtWjltNjVRdk95amRNSEZ6bFViVTdMdDQ1WWhIbE5TX04?oc=5",
-  "title": "Lettre ouverte à Jean-Luc Mélenchon : changer la politique",
-  "summary": "",
-  "published": "2026-07-30T09:00+02:00",
-  "mentions": [
-   "melenchon"
-  ]
- },
- {
-  "id": "b728e5f5c5d9017d",
-  "outlet": "Le Figaro",
-  "lean": "droite",
-  "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQalFEdXBINVI5TWVHOGRyZnVjZUJGWHlKTXUyekQxNmtrbjlfZVV2bkVoa2lESHdyMDBqYkRoQ1F5Njg5Wk5peFlVTll0cm1wMnRMb1g4OGh1c2EzWkR3V0wycVFWV3RpY1h3c3AzSTFJRllEM0twMDB4bEZqU1Y2cDZ5b2tGWVQzMXJVTXBid2R4SmJQRU5ydFpoZVpaeHdaVW5PWnQtNDF3Zi1vSVBybkdkdi1OUFl3bVlKYkhkaXlZZTd4MDg2Q2hGbERVcGNfU01MVWRXbGNtVWRFM3J3NGFrTTdHVVhpNF9GQQ?oc=5",
-  "title": "La justice donne raison à Marine Le Pen face à Gabriel Attal sur l’utilisation du mot «renaissance»",
+  "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOZDVSY2E5RmdrUjk2ZkZyT1ZtRzFPUm8zTjdsS2F1Tmt2TTNxTmtRZ0lyaWRtZTUtUVVETmxwR3owUDR6SFdtRWtZMG5zZlJhWVBUUmZvbG95VUQ3Y0Z1N0g5LTRDcnRucWR6Q3FQRm9DZlNuU0Raa0JRc3liemVJUF96aEZhaW5tSjkwOHlLdi1paTNXdnZkQWFOUDhYUDJWV3NHcUcwUGRRdmhvMVJVcWxmMFpVUFNFdWlaUkpXUHZBOGd0NkZYbGNzVkc4b1Q4bVpqdmJLeFc5amhVazU2ZHM1em5VbFU4ampydXhUNjlneXQzUWZCTWtoTUpzd1d3Nm4wd1ctbVdGYXUzU0Y5UUZrY0h6aURmaE5j?oc=5",
+  "title": "Présidentielle 2027 : la justice donne raison à Marine Le Pen contre Gabriel Attal, la candidate du Rassemblement national pourra utiliser le mot \"Renaissance\" dans son slogan de campagne",
   "summary": "",
   "published": "2026-07-30T09:00+02:00",
   "mentions": [
    "lepen",
    "attal"
-  ]
- },
- {
-  "id": "52a62df51106a654",
-  "outlet": "azərtac",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTGtwNWFOcEh2WU9falJSbEFQUW5rUWpmakZwMXFFTTBXSXUyallsUVNidWY2SW16dWhwSVpxTlBGVldObWExNGp0cVloZ0ZnTktQQmV3VG5GaERjLWF5ZTUtNFQyNkxPdkxtNlE5UFFFMUdOeXFlcEdDRUtDZFZYR2F2M21lTUhjcXdYaW5mUzFNOTN6R1lGQzJnNnFVWHVtQjA3M1JIbWJKQQ?oc=5",
-  "title": "L’Arcom inflige une amende de 200 000 euros à la chaîne française CNews",
-  "summary": "",
-  "published": "2026-07-30T09:00+02:00",
-  "mentions": []
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": -1,
+    "frame": "justice_affaires"
+   },
+   {
+    "id": "lepen",
+    "tone": 0,
+    "frame": "justice_affaires"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "fbccaf3de4527fec",
@@ -269,39 +489,22 @@
   "published": "2026-07-30T09:00+02:00",
   "mentions": [
    "retailleau"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "9cb60f6e2c2ed432",
-  "outlet": "Europe 1",
+  "id": "ff453ed8b02debb3",
+  "outlet": "BFM",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNS1kxaDAwRjZ1ZnBwM0ZmbDZ0Q190VjM5SmtKUFdma1Q5ekZqNUNPLXU4dW5yem1mS0I2RTQwbW4xb0UzMUI2dnlsQlZ5X3JXMWpwX0RlSUlHV3k4aVVUbEppUWlZTjhPVHJxakVEY2lLMWZLRDNSdHM0bEJ0eV9rQk5JZklDbENwNEE1LXdVUDAzN0RqRlFCSF94UExSVTgwa3ZTalZRRHZ1SWhfVUJtWUtTX1BsaFhlTWFrSlBZdnRnb2x6ZVNHZTI0N1dqRzM2QlE00gHYAUFVX3lxTE1JeFZpRzhXZ2lqc0N4ekQwQndoS2Q5ZmpBbjIyNTVUUGp2bTJZMkhKVGdNVTQ0TXpWcWtzdjM3aW10Y1IyOGlqbEg2bTNhQ3prcC1jLWVyT2wtLXRESlJhOGhjZXhMcjVZbi1TakRkbWtab2RmUVVTR2JBYW8wc1FSX1JzTVVyUzRjM2pKNUdBSHhRQjRXVkNIbWdtTkhNN3QxZnVRSjFpaW5wR2V5MGRtR0Yxd1dKdWxZRkVJcHNuQzJEcUNUX1Rnck5qcVhBa2NmeEJqclVraQ?oc=5",
-  "title": "Présidentielle 2027 : pendant l'été, Gabriel Attal et Bruno Retailleau continuent d'occuper le terrain",
-  "summary": "",
-  "published": "2026-07-30T09:00+02:00",
-  "mentions": [
-   "attal",
-   "retailleau"
-  ]
- },
- {
-  "id": "40fe6a4b563d2916",
-  "outlet": "Le Figaro",
-  "lean": "droite",
-  "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNWHlTSHlfRWdjY09GUFN4YVRVUGpUZ2RsZEc1SHR5eEMzMUU2U0N5eExWOHg3cDhrczVBMFRfUUEzdWRpQmtiYnRkMXJyVHVkd2hyMjh2eVJqLUYzeTk1OUlrZEJNbjg4T2NMRWFtQUp4TG9RSXJqa0xTcWxoSHJlZHJkMFFlQlpLSjBJaXRVbVMwNTVSYXFrNGFHellQdzY5dmluX1pneEh5R0xlUEZqUEdoOG9FMmhyYk9zZEktaVZodG9WSlVjTVdvNDBXdUdSNDYzQzU5X2ZPSWo0RkthckRBTVdCU3djWDhWY3F5QW44aXRXVXhkdi0zX1o?oc=5",
-  "title": "« C’est une manière de servir mon pays » : Franck Robine, le préfet devenu directeur de campagne de Bruno Retailleau",
-  "summary": "",
-  "published": "2026-07-30T09:00+02:00",
-  "mentions": [
-   "retailleau"
-  ]
- },
- {
-  "id": "1a13905ea5a2af0e",
-  "outlet": "Marianne",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcXVxVG40MWVvOGxGdXNURnRRYm5xdWpuT0JpSTRRQ3RqeDFadlRxcG1EeHdsV3I3MThNZFEtZndlNFhJMnI2QVI2djlyY05hTHdpNXlva0ZjbWxMdGx3SURLSFNzdDgzX0o3N2xxdk53R1ltcE92NGxzSkNNNkg1MjRuNFpUb1BqUE9QeU5pZlJibVJ5WGhNTFo0TlhxaXAtNG52b29EcXQ5YU1HcUlYY01VUlhuQQ?oc=5",
-  "title": "La \"remigration\", le fantasme de la droite dure aux antipodes de la \"nouvelle France\"",
+  "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOMWs3Y3pJa3Rod3VwMGJDU0tTUk1peUc3aThITWwyWXUydXhFSmpsZHVoY2ZDQ1MtUG1jWDBSaG1NR19jRjBlSDJTVkh3ZzcwWDdpREF3UGwya0N6MU5kQmlucWE0d1ZQM1QzZzhOd0hBQUItaEtzbUFOeFBwN0ZTcmFOTjdKdzRRTDBCTHdMb0s5T3k3akVRZm1NWFJHWGFTckNxcFVDOXR5TnY0ZzYwM2EycFdtQnA5ejQ5N2FNd3d4UWZDSTFwbFljaGQtT2NoR0FwVjNDZWN3WU9ELV8wT3BINjAxRFg2YjNLcy12ZEZzRmstS3JubDExSHF6bXd5c25taXZWWWVZN2lGcGhEb3ZyZEplWFB0ZEtzR0RhakQ?oc=5",
+  "title": "\"Il défend la liberté d'expression\": pourquoi Sarah Knafo invite le streameur controversé Sardoche aux universités d'été de Reconquête",
   "summary": "",
   "published": "2026-07-30T09:00+02:00",
   "mentions": []

@@ -1,15 +1,29 @@
 [
  {
-  "id": "a465e25a328419c4",
-  "outlet": "Orange Actualités",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObXhjQjVqdmE4ZzhfazloTHNiVGxjazVXNXZBSjJzTy05Sm9QTzNyMjV3cTlVeEQwQlpwVUtHTnhwTDA2cUVXUTF4VUJOQmkxcnAzNWdydXNrN0pqY2RmMFhURGh1ekdRZzFnRm4tWXctWm9kMS03VnB2LUZYZGt0bENPOGJmWU9HS1lfbjdGSUZoMVZpLVAydmNiaWJPTTE0YmctR29pN1FMODJiOWxKMkJYR0tjNW9CNkF5SFZjLXV3U25WUm8yQXJ4NmE?oc=5",
-  "title": "Présidentielle 2027 : Edouard Philippe “honoré” du soutien de Gérald Darmanin",
+  "id": "326c875f8b1a0daf",
+  "outlet": "Le Parisien",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQQnRXNWd4VjF3RnZVRHhta2VjQkJKWGk5TnA4RHZmWGp5c1pnRWVRdWdidG9fM01SM1BmNHZJVmQxZm1mSExURVo1SHhmbzk4R2g2VDllMXlpbjh6R1VGN1RmZVhRdjFCR0h6ZklwOXQ3RUVza3J1WlZERGYxc1BsYVFXMWY3cnFWcERXcHdmRUVuVXQwQmVDWEhCaVY4WkVsUUVNU1VMZ1BLZWxpWDBwUGt1S1h4OGpYVlN3YkEzNWQtbzVHM3BsUkRkaGx5SmpXaEtYMkE2OUNxNnVPSGl2REY1ZVVtdkRqRVByanpQbkYtNnVnX09mZVZNaVFzeDBiUWZXb0M4UDlDU1VkbVJZb0hzdEJJMVVuV1E?oc=5",
+  "title": "Le parquet de Paris annonce enquêter sur les soupçons d’ingérence russe ciblant Édouard Philippe et Gabriel Attal",
   "summary": "",
   "published": "2026-08-18T09:00+02:00",
   "mentions": [
-   "philippe"
-  ]
+   "philippe",
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": -1,
+    "frame": "sondage_dynamique"
+   },
+   {
+    "id": "attal",
+    "tone": -1,
+    "frame": "sondage_dynamique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "339a546b89afd14f",
@@ -21,31 +35,35 @@
   "published": "2026-08-18T09:00+02:00",
   "mentions": [
    "glucksmann"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "997b98bdd772b8bf",
-  "outlet": "l'Opinion",
+  "id": "56d03bdd28d2e04b",
+  "outlet": "Le Point",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNR2xDZHVYVGdnWC1wZVp0NEdnaWVub1JTR0pNcllWemlQc0I4WXBONmtqNHc2SzB5clVWRmtRQ0JGOUozb0tXb0JERWNuNWJheWNNVnhYQnZCSHZBTlV4a3ExWDhiQXhMcjdFUWt3RG1zb1hoWXZHNF82cUlGVTRTTzdkOUZZMXozZXF0SjFxWDRiZ3RPcHNHX3NjNA?oc=5",
-  "title": "Emmanuel Macron et Gabriel Attal : histoire d’une double rupture",
+  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVmIzdDFqUmF3WEZRTzg2dVJ4WDZFY2pCbmpveXlRSm1jaDdSaEFlX1JKZ2NQYkV5SV9Fdkd5ODR3ZTV2TlFMRm5xUDFlZEhScWZUV1VMcmtEN1Q3LTVNTGpkUm4zYzZuQ0JlWnhlZGhpb1NOUGl3Y0JrYWtLcEMwdks3VkpsM0txY2dpYWFxcS1ITVBLNWxlVEhtNGhsRkJORGlZQmtyZ2RiSloxV28tSlphRWEyeVViZVVqek5CXzg?oc=5",
+  "title": "François Ruffin dans les sables mouvants de la gauche radicale",
   "summary": "",
   "published": "2026-08-18T09:00+02:00",
   "mentions": [
-   "attal"
-  ]
- },
- {
-  "id": "89c47eb801ef94c0",
-  "outlet": "Libération",
-  "lean": "centre-gauche",
-  "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNcG15VjVpV3BpSk9QcWtxSlJCRUZqRDlHYmdDdmc4OWdCQWpxSTJnZzZUalJrai1YQlBybktBS2VGUHM2bmdUd1VQY3hJQzV2ZEpNb2dFYVh5Z2V5TDJtWEVMM3FTcUZyVmIwMWthM0pnU1Z5cm9OcklzaHpXdGs0OHgxUWtYY3dDMklESVNXcGMyaFJPRkR4aGppbjJaQzd6eHQ3bGJ2dFZhbEFlZDdsTjlSblVSSDVGVGpqcTYtbVFLQnBtbFJrdWNRRjRDUmVEdHlMTUc4V0FVVFhUTHcyZ2N1YWNRMnczZWxNQUh6RVdIQ05iMW9LY2JfS2RUejh4UEVKcTN5LTloMkF1Vmh4M3JfeTg5UQ?oc=5",
-  "title": "Présidentielle : Raphaël Glucksmann devrait déclarer sa candidature dans les prochains jours, selon plusieurs médias",
-  "summary": "",
-  "published": "2026-08-18T09:00+02:00",
-  "mentions": [
-   "glucksmann"
-  ]
+   "ruffin"
+  ],
+  "analysis": [
+   {
+    "id": "ruffin",
+    "tone": -2,
+    "frame": "sondage_dynamique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "58bb0795655e867a",
@@ -58,19 +76,20 @@
   "mentions": [
    "philippe",
    "attal"
-  ]
- },
- {
-  "id": "d24f211bd0df192a",
-  "outlet": "Euronews.com",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbDZmcEluUDEyWmZkN0dBVldFNmhrUS05MTYxVTR1S3JYeklRXzBPWXpGa01fb0pXWjNSSTd6TjFxM1hGMjJGX2pGQ01TQm1BMC1kWU1pU2NTNHJjdW9reDJmSFpEQUUyeVVRSk5NT1IwQmxvUW9RZjJTQnRPZy03d25CN2lSOU5OLWxEZWEtd203WXBuWkdxeWhLdTBJenJSaWRsWVlCdDhlb1h0OWN3VEItaWFtdkFvcW9ydEhPM1lvQQ?oc=5",
-  "title": "Soupçons d'ingérence russe visant Attal et Philippe : le parquet de Paris ouvre une enquête",
-  "summary": "",
-  "published": "2026-08-18T09:00+02:00",
-  "mentions": [
-   "attal"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": -1,
+    "frame": "sondage_dynamique"
+   },
+   {
+    "id": "attal",
+    "tone": -1,
+    "frame": "sondage_dynamique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "84f7d4eeec7c0319",
@@ -83,20 +102,85 @@
   "mentions": [
    "philippe",
    "attal"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": -1,
+    "frame": "sondage_dynamique"
+   },
+   {
+    "id": "philippe",
+    "tone": -1,
+    "frame": "sondage_dynamique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "326c875f8b1a0daf",
-  "outlet": "Le Parisien",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQQnRXNWd4VjF3RnZVRHhta2VjQkJKWGk5TnA4RHZmWGp5c1pnRWVRdWdidG9fM01SM1BmNHZJVmQxZm1mSExURVo1SHhmbzk4R2g2VDllMXlpbjh6R1VGN1RmZVhRdjFCR0h6ZklwOXQ3RUVza3J1WlZERGYxc1BsYVFXMWY3cnFWcERXcHdmRUVuVXQwQmVDWEhCaVY4WkVsUUVNU1VMZ1BLZWxpWDBwUGt1S1h4OGpYVlN3YkEzNWQtbzVHM3BsUkRkaGx5SmpXaEtYMkE2OUNxNnVPSGl2REY1ZVVtdkRqRVByanpQbkYtNnVnX09mZVZNaVFzeDBiUWZXb0M4UDlDU1VkbVJZb0hzdEJJMVVuV1E?oc=5",
-  "title": "Le parquet de Paris annonce enquêter sur les soupçons d’ingérence russe ciblant Édouard Philippe et Gabriel Attal",
+  "id": "89c47eb801ef94c0",
+  "outlet": "Libération",
+  "lean": "centre-gauche",
+  "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNcG15VjVpV3BpSk9QcWtxSlJCRUZqRDlHYmdDdmc4OWdCQWpxSTJnZzZUalJrai1YQlBybktBS2VGUHM2bmdUd1VQY3hJQzV2ZEpNb2dFYVh5Z2V5TDJtWEVMM3FTcUZyVmIwMWthM0pnU1Z5cm9OcklzaHpXdGs0OHgxUWtYY3dDMklESVNXcGMyaFJPRkR4aGppbjJaQzd6eHQ3bGJ2dFZhbEFlZDdsTjlSblVSSDVGVGpqcTYtbVFLQnBtbFJrdWNRRjRDUmVEdHlMTUc4V0FVVFhUTHcyZ2N1YWNRMnczZWxNQUh6RVdIQ05iMW9LY2JfS2RUejh4UEVKcTN5LTloMkF1Vmh4M3JfeTg5UQ?oc=5",
+  "title": "Présidentielle : Raphaël Glucksmann devrait déclarer sa candidature dans les prochains jours, selon plusieurs médias",
   "summary": "",
   "published": "2026-08-18T09:00+02:00",
   "mentions": [
-   "philippe",
+   "glucksmann"
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "997b98bdd772b8bf",
+  "outlet": "l'Opinion",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNR2xDZHVYVGdnWC1wZVp0NEdnaWVub1JTR0pNcllWemlQc0I4WXBONmtqNHc2SzB5clVWRmtRQ0JGOUozb0tXb0JERWNuNWJheWNNVnhYQnZCSHZBTlV4a3ExWDhiQXhMcjdFUWt3RG1zb1hoWXZHNF82cUlGVTRTTzdkOUZZMXozZXF0SjFxWDRiZ3RPcHNHX3NjNA?oc=5",
+  "title": "Emmanuel Macron et Gabriel Attal : histoire d’une double rupture",
+  "summary": "",
+  "published": "2026-08-18T09:00+02:00",
+  "mentions": [
    "attal"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "programme"
+   },
+   {
+    "id": "philippe",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "a465e25a328419c4",
+  "outlet": "Orange Actualités",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObXhjQjVqdmE4ZzhfazloTHNiVGxjazVXNXZBSjJzTy05Sm9QTzNyMjV3cTlVeEQwQlpwVUtHTnhwTDA2cUVXUTF4VUJOQmkxcnAzNWdydXNrN0pqY2RmMFhURGh1ekdRZzFnRm4tWXctWm9kMS03VnB2LUZYZGt0bENPOGJmWU9HS1lfbjdGSUZoMVZpLVAydmNiaWJPTTE0YmctR29pN1FMODJiOWxKMkJYR0tjNW9CNkF5SFZjLXV3U25WUm8yQXJ4NmE?oc=5",
+  "title": "Présidentielle 2027 : Edouard Philippe “honoré” du soutien de Gérald Darmanin",
+  "summary": "",
+  "published": "2026-08-18T09:00+02:00",
+  "mentions": [
+   "philippe"
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": 0,
+    "frame": "sondage_dynamique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "c70bd71f74aee719",
@@ -108,7 +192,15 @@
   "published": "2026-08-18T09:00+02:00",
   "mentions": [
    "zemmour"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "zemmour",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "c962d75966f8611a",
@@ -120,29 +212,20 @@
   "published": "2026-08-18T09:00+02:00",
   "mentions": [
    "retailleau"
-  ]
- },
- {
-  "id": "f42ca9dd60e747c8",
-  "outlet": "Le Figaro",
-  "lean": "droite",
-  "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPSUtFT0gtWVRGd0FYcWNxbnlLUWF4RTdXT2hRdkxiRklueGNMMjJUU1NGbXU4VTVBMUptX095UzdiOW1ISUFpb2JpMVdmYWFhazZ1U1FnLTBDTWM4VHJXa0VfR2F1NEtVYmN0NHZfZUQ1MWFjNEdvejBDa0hUcThua3J2UFp6T00xczlRWnRmQWN0YkZCT1ZRZlhaLUYyVXRhd0NMR0ZPNFBmenhRRnNfTUJXU0I2eERmdGxFbVQ4eEE3N1Y1TVFocklLZ2doTFJ3S1FzcWxjMzRBYkl6WGpSWE9nOFRVeTRwTWJwcWZpWDF4eXRhV1YzdVBRZ3RVNklZSkJyZmF5cEtNWWJxVVBpLWdPVUp4RUMtZks3Q0RVUERaUQ?oc=5",
-  "title": "« Ras le bol du temps de parole bouffé par les dissidents… » : chez Les Républicains, le rêve de jouer collectif à l’horizon de la présidentielle",
-  "summary": "",
-  "published": "2026-08-18T09:00+02:00",
-  "mentions": []
- },
- {
-  "id": "56d03bdd28d2e04b",
-  "outlet": "Le Point",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVmIzdDFqUmF3WEZRTzg2dVJ4WDZFY2pCbmpveXlRSm1jaDdSaEFlX1JKZ2NQYkV5SV9Fdkd5ODR3ZTV2TlFMRm5xUDFlZEhScWZUV1VMcmtEN1Q3LTVNTGpkUm4zYzZuQ0JlWnhlZGhpb1NOUGl3Y0JrYWtLcEMwdks3VkpsM0txY2dpYWFxcS1ITVBLNWxlVEhtNGhsRkJORGlZQmtyZ2RiSloxV28tSlphRWEyeVViZVVqek5CXzg?oc=5",
-  "title": "François Ruffin dans les sables mouvants de la gauche radicale",
-  "summary": "",
-  "published": "2026-08-18T09:00+02:00",
-  "mentions": [
-   "ruffin"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": 0,
+    "frame": "programme"
+   },
+   {
+    "id": "philippe",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "cbbef518473a687d",
@@ -150,6 +233,41 @@
   "lean": "centre-gauche",
   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQVFVsT3BTOGdpUmpDYXhlaVpuZ2tBeERfUGRweFNpOUFjWHhqRzgwd1FuVFoxdFRvZXRTaTY1aTVXUzIyci00bm9SXzZkSG9STFBvMEpQZXc1SkZ2NlBCRDVBaFRMbWpqc191bEcxMFJnMTR5ZWZRdUZ0U3JaY1hVX0p5dk1wS0ZPVkFyOGt0UFZfN2ZPblFXWC1rZHhJUkhiSzJoemR0WHU3eFJoUW1lLV96QUEtZk9xZzhfLWdDZ0Ftd3V6cXpReWphN2lQU0FrZk5pMmt5SnZuQUFUNTJGdDJDWHBoaVBKS2Nwc2lHeDlDLXpnRGc?oc=5",
   "title": "Présidentielle 2027 : «Faire une croix sur cette élection serait impardonnable pour la gauche",
+  "summary": "",
+  "published": "2026-08-18T09:00+02:00",
+  "mentions": []
+ },
+ {
+  "id": "d24f211bd0df192a",
+  "outlet": "Euronews.com",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbDZmcEluUDEyWmZkN0dBVldFNmhrUS05MTYxVTR1S3JYeklRXzBPWXpGa01fb0pXWjNSSTd6TjFxM1hGMjJGX2pGQ01TQm1BMC1kWU1pU2NTNHJjdW9reDJmSFpEQUUyeVVRSk5NT1IwQmxvUW9RZjJTQnRPZy03d25CN2lSOU5OLWxEZWEtd203WXBuWkdxeWhLdTBJenJSaWRsWVlCdDhlb1h0OWN3VEItaWFtdkFvcW9ydEhPM1lvQQ?oc=5",
+  "title": "Soupçons d'ingérence russe visant Attal et Philippe : le parquet de Paris ouvre une enquête",
+  "summary": "",
+  "published": "2026-08-18T09:00+02:00",
+  "mentions": [
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": -1,
+    "frame": "sondage_dynamique"
+   },
+   {
+    "id": "philippe",
+    "tone": -1,
+    "frame": "sondage_dynamique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "f42ca9dd60e747c8",
+  "outlet": "Le Figaro",
+  "lean": "droite",
+  "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPSUtFT0gtWVRGd0FYcWNxbnlLUWF4RTdXT2hRdkxiRklueGNMMjJUU1NGbXU4VTVBMUptX095UzdiOW1ISUFpb2JpMVdmYWFhazZ1U1FnLTBDTWM4VHJXa0VfR2F1NEtVYmN0NHZfZUQ1MWFjNEdvejBDa0hUcThua3J2UFp6T00xczlRWnRmQWN0YkZCT1ZRZlhaLUYyVXRhd0NMR0ZPNFBmenhRRnNfTUJXU0I2eERmdGxFbVQ4eEE3N1Y1TVFocklLZ2doTFJ3S1FzcWxjMzRBYkl6WGpSWE9nOFRVeTRwTWJwcWZpWDF4eXRhV1YzdVBRZ3RVNklZSkJyZmF5cEtNWWJxVVBpLWdPVUp4RUMtZks3Q0RVUERaUQ?oc=5",
+  "title": "« Ras le bol du temps de parole bouffé par les dissidents… » : chez Les Républicains, le rêve de jouer collectif à l’horizon de la présidentielle",
   "summary": "",
   "published": "2026-08-18T09:00+02:00",
   "mentions": []

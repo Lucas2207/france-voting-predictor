@@ -1,39 +1,5 @@
 [
  {
-  "id": "2f661eb930ed176f",
-  "outlet": "France 24",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZnR5Tll4MWZ4S2tkRTFDTFZqN2RucndpNm9kdGZ0VmFwNFJ5VE83Qm5lSlpxelZ2NlM0Ungxamtwa2JvYXBXdUxVN2VaOE5ZOWdwX2c3M3lsczgzanhLNG1WWmxBY1Y2dkE2S2FMR3hLSUc1V3hMZmFIMmtCZFRxN2ZuUUp4V2VXbTR2UEFuMjg0S3JiNEp1VUZTMVVyMDVieDdTRHMxbHlrb2NKZkRLRHZ6NjMzTjhkX05CYkM2XzJ3V0JrTnlheTl3ZnV2c3lkbGRFWkhvcnIyekpod0tpeQ?oc=5",
-  "title": "De Jean-Marie à Marine Le Pen : la métamorphose du Front national (1/3)",
-  "summary": "",
-  "published": "2026-08-14T09:00+02:00",
-  "mentions": [
-   "lepen"
-  ]
- },
- {
-  "id": "a4d8f008d743bd8a",
-  "outlet": "l'Opinion",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcHkzcm9TdFVRQ2FEazQ4N0p6cFdEYlViNGpOTDJ6S3RBMHdWSjdIczZYODM1NFBraVRScUtnOHdrdy0zSzFKRTZ4ZDlmdU5Ub1hkVzFzUld0SE9NaWdqRnh2d2NVNlBMMjBKekpjQW5KZjUwajRod0RmTW91dDJGLTNaeGRxc2RfUGljTFN6czJaRllmLU8xQ3Z3bTRiMnpCM1JF?oc=5",
-  "title": "« C’est la clé de la victoire » : le plan du RN pour le second tour",
-  "summary": "",
-  "published": "2026-08-14T09:00+02:00",
-  "mentions": []
- },
- {
-  "id": "463275d786da0c4e",
-  "outlet": "Contre Attaque",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOa2UwRENCcC1jR3FEZDlRaHluVWxIN005c1EzMHVFcGZzUDBNVkd5UExJR3dFZXNGVk9xZUxnTjEwYkF0R3Nra1c5aHBBc3Awb29ja3BFTUQwTnVKclRNUlVZZDR3YjVFNm0yTkk3Yk1YU0dUNmxJWG5na2lDRjl2N19ma3g3NG4zMmExMGg1MGpvQnJ2bGNHQXpuZFRuR2tCSkVIWjFaSzFJelBDN0E?oc=5",
-  "title": "Après «Frontières», Marine Le Pen passe de mauvaises vacances en Bretagne",
-  "summary": "",
-  "published": "2026-08-14T09:00+02:00",
-  "mentions": [
-   "lepen"
-  ]
- },
- {
   "id": "05e60e1f6bb0aa94",
   "outlet": "CNews",
   "lean": "droite",
@@ -43,17 +9,29 @@
   "published": "2026-08-14T09:00+02:00",
   "mentions": [
    "lisnard"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "lisnard",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "83e51758354ae927",
-  "outlet": "Marianne",
+  "id": "2f661eb930ed176f",
+  "outlet": "France 24",
   "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPLUFxbjdyTUU5b0JOVHgtTXdCS0ZGQmtLSzA4dEtYUGRqTk0zT3Y0dDVEUWppYkxNU3k1YUlxM3FBNWtBd3FYWS1hZVFzMFRzM3d6b2w0X3ZDbjdzYXhsczRSQTY4TDM2ckNZNDc3LWw1LVRTVlJSb2JQVVlXUW1zSHdjLXlOSTN2WG1lTFpXUV8yVC0yMk9US0VMQlBBR3V4eVRGck5Gdks?oc=5",
-  "title": "\"C'est une armée sans guerre\" : Lutte ouvrière ou l'échec permanent",
+  "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZnR5Tll4MWZ4S2tkRTFDTFZqN2RucndpNm9kdGZ0VmFwNFJ5VE83Qm5lSlpxelZ2NlM0Ungxamtwa2JvYXBXdUxVN2VaOE5ZOWdwX2c3M3lsczgzanhLNG1WWmxBY1Y2dkE2S2FMR3hLSUc1V3hMZmFIMmtCZFRxN2ZuUUp4V2VXbTR2UEFuMjg0S3JiNEp1VUZTMVVyMDVieDdTRHMxbHlrb2NKZkRLRHZ6NjMzTjhkX05CYkM2XzJ3V0JrTnlheTl3ZnV2c3lkbGRFWkhvcnIyekpod0tpeQ?oc=5",
+  "title": "De Jean-Marie à Marine Le Pen : la métamorphose du Front national (1/3)",
   "summary": "",
   "published": "2026-08-14T09:00+02:00",
-  "mentions": []
+  "mentions": [
+   "lepen"
+  ],
+  "analysis": [],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "3ac2086751862597",
@@ -65,7 +43,35 @@
   "published": "2026-08-14T09:00+02:00",
   "mentions": [
    "glucksmann"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "463275d786da0c4e",
+  "outlet": "Contre Attaque",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOa2UwRENCcC1jR3FEZDlRaHluVWxIN005c1EzMHVFcGZzUDBNVkd5UExJR3dFZXNGVk9xZUxnTjEwYkF0R3Nra1c5aHBBc3Awb29ja3BFTUQwTnVKclRNUlVZZDR3YjVFNm0yTkk3Yk1YU0dUNmxJWG5na2lDRjl2N19ma3g3NG4zMmExMGg1MGpvQnJ2bGNHQXpuZFRuR2tCSkVIWjFaSzFJelBDN0E?oc=5",
+  "title": "Après «Frontières», Marine Le Pen passe de mauvaises vacances en Bretagne",
+  "summary": "",
+  "published": "2026-08-14T09:00+02:00",
+  "mentions": [
+   "lepen"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": 0,
+    "frame": "sondage_dynamique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "4d7a52d07adcbe11",
@@ -77,7 +83,15 @@
   "published": "2026-08-14T09:00+02:00",
   "mentions": [
    "attal"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "55ffb0221718630c",
@@ -90,7 +104,25 @@
   "mentions": [
    "attal",
    "retailleau"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   },
+   {
+    "id": "philippe",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   },
+   {
+    "id": "retailleau",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "75e8c035b58b375a",
@@ -102,6 +134,54 @@
   "published": "2026-08-14T09:00+02:00",
   "mentions": [
    "glucksmann"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "83e51758354ae927",
+  "outlet": "Marianne",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPLUFxbjdyTUU5b0JOVHgtTXdCS0ZGQmtLSzA4dEtYUGRqTk0zT3Y0dDVEUWppYkxNU3k1YUlxM3FBNWtBd3FYWS1hZVFzMFRzM3d6b2w0X3ZDbjdzYXhsczRSQTY4TDM2ckNZNDc3LWw1LVRTVlJSb2JQVVlXUW1zSHdjLXlOSTN2WG1lTFpXUV8yVC0yMk9US0VMQlBBR3V4eVRGck5Gdks?oc=5",
+  "title": "\"C'est une armée sans guerre\" : Lutte ouvrière ou l'échec permanent",
+  "summary": "",
+  "published": "2026-08-14T09:00+02:00",
+  "mentions": []
+ },
+ {
+  "id": "a4d8f008d743bd8a",
+  "outlet": "l'Opinion",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcHkzcm9TdFVRQ2FEazQ4N0p6cFdEYlViNGpOTDJ6S3RBMHdWSjdIczZYODM1NFBraVRScUtnOHdrdy0zSzFKRTZ4ZDlmdU5Ub1hkVzFzUld0SE9NaWdqRnh2d2NVNlBMMjBKekpjQW5KZjUwajRod0RmTW91dDJGLTNaeGRxc2RfUGljTFN6czJaRllmLU8xQ3Z3bTRiMnpCM1JF?oc=5",
+  "title": "« C’est la clé de la victoire » : le plan du RN pour le second tour",
+  "summary": "",
+  "published": "2026-08-14T09:00+02:00",
+  "mentions": []
+ },
+ {
+  "id": "ad7bace2f3047d53",
+  "outlet": "Le Nouvel Obs",
+  "lean": "centre-gauche",
+  "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWGxrSnpJdzIySm5GczFWTUtDcHFWTFVjYWRJbzgzV3VaOEw2VDBSMFU1ZmtEc2RocWo1UGVtaUw0dmw1SS1YTGkwNDN1Wml1Qkxod3ExeTR3YU9naFVZU3A2RVlZMnJjYllUVzgwQmR2YjhxeFlGTVJSM0d0S0dkUC0zVVlxY2o4YmVRR19FWUtJZHJ0R09BbDRPWm5uRlRFOWZnS1A5bncwdXRNUG1GQWN1RUkydHRTbzlTZ0lrcTMxUjFmZFBwS3RyeFl6YjJDcVdXdi1n?oc=5",
+  "title": "Comment Gabriel Attal se métamorphose, de technocrate parisien à cow-boy tout terrain",
+  "summary": "",
+  "published": "2026-08-14T09:00+02:00",
+  "mentions": [
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "portrait"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  }
 ]

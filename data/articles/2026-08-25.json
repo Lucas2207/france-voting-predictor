@@ -1,102 +1,63 @@
 [
  {
-  "id": "9086f32d6ad22070",
-  "outlet": "Libération",
-  "lean": "centre-gauche",
-  "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPS0wzSVhyZ0hKRXJzZ2RhejY5ajlhZXZSaWJqYTFxV1JTY2hzVzd1NFZtV3Q5SFdWWnBjeVdiaXJLS0tldDBOdVJsaHcwOERncHczNUViVlVSWlEweFNuSTE2QUhyTmtEbkxEMGthVXVzLV9TdE1JU2tENjQ1TGJiZmwtTHNrRnVIZ1BpTGRvNWhkYVM5VlgxYkdNcjktLXgwV3FmWkdxT2xPdnNKM3lqWlJwcW9tbWhMU1FPd2ZHZUhsN0tSZHFMb3oyNE9mejV4UWhtMVJ5ellDMGxoTUdvTHl1NlpBSHdHbmtKOGdQbw?oc=5",
-  "title": "Jean-Luc Mélenchon, le candidat assiégé prêt à transformer sa survie en victoire",
+  "id": "06ed2c7d9b4a693d",
+  "outlet": "Ouest-France",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNZUhQT3h5U2F5Y25IRnMtNGhzWGVWa1AwWmY0NUE5RWI0QzNyWkJEU0RlX2tYMkpfUU5jMXpfVnhibndhZTROYzhfeUxXVmhkVFN3VGJLNk9pQmwySmdfY1pfOHJ4S0E1ZUtYOVppLUh4MmZqSFBqejlsbEJxVFQ2UHJ1a3FHWVZxQUpuVHlrcHo5cnQyQTZJS25EYVREQmVhSW1PNHlIb3VsR28wOUdzaGtOaEZER0s4T0l0bDAzbVRlZWVoSUtlRnNTTnlmMlVMcXdsQVluUzhLQlUwSmt0bVBsX3Bac2NGdDRyc25vSnd1TkNRSk9pOEVwMDI2bXR5MFdHRmpGZE8?oc=5",
+  "title": "Présidentielle 2027: David Lisnard relance l’idée d’une primaire de la droite et du centre",
   "summary": "",
   "published": "2026-08-25T09:00+02:00",
   "mentions": [
-   "melenchon"
-  ]
+   "lisnard"
+  ],
+  "analysis": [
+   {
+    "id": "lisnard",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "4aa46dc59aea4c56",
-  "outlet": "Radio France",
+  "id": "08b5377af5538359",
+  "outlet": "BFM",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZUlfM051TjZxanJuQTNUOEVIOXJLZTJPS2xTZEllMXQtM3d6OVhEOHBXRDRlVENGOWFfVmtoMmlmel9kN3R6ZkhBMmZSVEgtc3R3UjRfU084eDJZUW9QaEJYQXFLOFhYVWxEQzNkLWhseVItcVdzakxULUlVYndEeUs2WjRUTmlOX1VJZXYxR3pQUDF3VDhYakdxZnNpSEZUbmtN?oc=5",
-  "title": "Présidentielle 2027 : Édouard Philippe et Gabriel Attal rivalisent de propositions pour séduire les enseignants",
+  "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNazdvSTFRVmFPWFQyaUlMQV9HYTFudEpQRTZ3ZFZCZTkxaTZLU1JxSG1aMGZRaHF4LS1scEpaSnJkc3czWXFEREpPSWppT1VFenJVbEF4dldqampER0ItVVBxMnVwNC02WTRELW1GT2FLR1JRV2EtNlp3c3FzR3VnRmt1QjQ4a1dYby1uTXBaZ2RkV0pSWUhCVDFjMnVBNzZTTXlTbEJWcjhpc1lIQWw5NDFXLTY2N0JkVVBGVXFwMHZHUE9HdlhTWjBNRWpIS051OTd3dThEb3JtUmxIWHB4Wlk5TzRvU3NBSGZnQWFMMlM4dmxaN21tMzNuNGExYkdnVDdTY29zMkpqYXRvbUEwRGNvT2NuZWRMVm1Ia0hldUROYlUwdFllVEV5cm1HbFRKQTE3SE05all3WDltSVpjZA?oc=5",
+  "title": "\"Éviter la division qui fait perdre les élections\": David Lisnard relance l'idée d'une primaire de la droite et du centre pour la présidentielle",
   "summary": "",
   "published": "2026-08-25T09:00+02:00",
   "mentions": [
-   "philippe",
+   "lisnard"
+  ],
+  "analysis": [
+   {
+    "id": "lisnard",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "0d2919b8f5f52489",
+  "outlet": "Le Parisien",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPTHJLV1NxUHNjLW5JNFQyR3M0QnhPYmlGMjRkaVI4OUQ4Wm83bEVENHFuUnRzUTRaZ1JERUN2OUZiT2pWbFBLd09fVVNtRzdYNmdDVEtuXzdvcXpFcWVuOXNQdVQyejNKdEtwMmdEdEo1eUhFWndybXBZeFJzcFZweGV0YzdqbXVBajNJdTZZbjVlcE5NS1k4enQ4VnZqZG9sWnpDUVZTOWl5VGNCSUxjcmNnZHVybHFCUkVGb3k2aWRqaG1pbE9kQmNKYmhFT1BsanJmZ2hDQ0Jnc05vTXYyYjJCNlF2SzV3UHg3T1M1Ni1Ua3ZORkJfRG1KYUZqNG5KeHh3TmJHa1lGY0M2RU9OLV9QbjFhMS1EaHZ3NHo1aDlXQjg?oc=5",
+  "title": "Présidentielle : Gabriel Attal veut un ministre de l’Éducation pour 5 ans et rétablir le certificat d’études",
+  "summary": "",
+  "published": "2026-08-25T09:00+02:00",
+  "mentions": [
    "attal"
-  ]
- },
- {
-  "id": "65f860234b395df1",
-  "outlet": "Public Sénat",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPR2xZcS1jVHpTakxIQnV4UC1qXy1nTXprbHdScXlzeUUxMEs4Tkd3Rk1vTGoxRUlPVFF3MXlhWUNFNmdvSFZkNGZNbHY5Q1NfV1JwcVJLbFBkNmMzcXdhc3huNkdSTFA4X0JrZG9MZ2JlcWJyMGV1Y2hGZnduWFlSTWtzQjlnT1B5aEZoVExGQTBNY0xCejNTeW5keWVlcGl3MEV6WHN1UFVDZTJiR3drTEZwXzRlck9nUmdmU2pNYndVQjdZVDNVWDhDWDBLcW1OM3YtNmhEc1RnaWZtQzVWSUVlU1VnQndteDJoZkI2eFlyNzJLVGVlbk0waw?oc=5",
-  "title": "Présidentielle 2027 : Philippe et Attal font de l’école un nouveau terrain de bataille, au risque d’éreinter le bilan Macron",
-  "summary": "",
-  "published": "2026-08-25T09:00+02:00",
-  "mentions": [
-   "attal"
-  ]
- },
- {
-  "id": "dc2781ee41772b37",
-  "outlet": "Le Café pédagogique",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNazZUVnhHS3FDa3k1d2NkbFZHZjR1MFhGQnBuYklXcTRTWnRBX2ZkWFFwWmVxRjROS2FiR0lVbDFsaXN5dllqVFhmS1VxNFJmdkprWFlHcG1jbnNXSUNyZWZ5Q2EzOU5fa3lJT25TT0VtQUc3Q3QxWHFLR0dJdnVTckN2SDEtR2RZUDFDQkY5bXlJOHFCeVI0aFE5czNDN08yRWVaMVZDaXluZGpOUWtIbVVWUmlfdw?oc=5",
-  "title": "Raphaël Glucksmann et Édouard Philippe se tournent vers les enseignants",
-  "summary": "",
-  "published": "2026-08-25T09:00+02:00",
-  "mentions": [
-   "philippe",
-   "glucksmann"
-  ]
- },
- {
-  "id": "9068aa3891843af1",
-  "outlet": "lejdd.fr",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSFhCTmdEUWg0aEtLYkY2Q1pfU1psSk9ETTUzNldVSlNKakZNNG9RNVB4dGVEeVZIMkhscGozaDNMTjFKUl9TLW9zZ3laNERJS2w0UnoxaEVBUExpdmQ2ZWEtR1cyMUM0cWJuVVE4WHVNV2NuTWo1dlRDWnZDR09tVFJ0b29zcjFSSDR4WEk4VmdYbEkyb24yX0RWbURHMnJNaUJqTThCQ3gyVTN1bVllMGpDdkJVLU1hT1Jz?oc=5",
-  "title": "Présidentielle : Édouard Philippe compte augmenter de 20 % le salaire des enseignants",
-  "summary": "",
-  "published": "2026-08-25T09:00+02:00",
-  "mentions": [
-   "philippe"
-  ]
- },
- {
-  "id": "476332f2f3741d89",
-  "outlet": "ladepeche.fr",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZTByRzR5amZXc3NmWlU1aXJrcFBYUXdyM3FaNDFfNE9nRldrcDdkc3dVNEIxTWRJV24xSFlCSFRhSFZQTHpBYmloM0pYSWF4UTU0c2xQalowOHd2cFAwX2ZldC1haEtodFRZcTVXOVpRYlFIblAyVDBESC1VSEFJeFlJcGV4OWMtMEVJbmNxQkVFLXNHWDdWMU1CcU1wRENkeHYwbUtfcmFDMFlqM0tSMHQ5RC1DSlRzdHpvRzBUaHdRbXRWaUlwRHc3OGJueGJKOThsRm1pVUd1QQ?oc=5",
-  "title": "Présidentielle : Édouard Philippe et Gabriel Attal dévoilent deux projets rivaux sur l'Education",
-  "summary": "",
-  "published": "2026-08-25T09:00+02:00",
-  "mentions": [
-   "philippe",
-   "attal"
-  ]
- },
- {
-  "id": "4dbd4d3fd365b6cf",
-  "outlet": "Outre-mer La 1ère",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOOGNuLWd2b0lZZ2tMTFpiR3p2eWhJeEhQMTgxR1BjUkVlNmh0VTVGZG5nTnFMZHVwWVFlWnBSdVk5Q2ZXVnpLR3dfbVcxM0lqUXQwRUl3V2x4cElvbWEwUlprTWFNVDA0ZkZuNGJjZjRaWm14SlpNYXE0WDNHa0trbXFJLXpqamFZSU45ejNSVUprZ1UwVWpoLTZFaW5UZGF2Ym56REFHZUtXLTVQNE1JNmdPQnE0cUNGaGV1dmViX3FMbjdCWGVwbEcyUUtXQTB1YkpyZXVyQQ?oc=5",
-  "title": "À Bras-Panon, Édouard Philippe prend le pouls de la filière canne et prône le rassemblement",
-  "summary": "",
-  "published": "2026-08-25T09:00+02:00",
-  "mentions": [
-   "philippe"
-  ]
- },
- {
-  "id": "b2f8ed5858d9851a",
-  "outlet": "Le Canard enchaîné",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbDFHUUZiS0dlWHR3T2taVHl2RzBqaU1tdG5jdktqMGRJbXdvWndDTHc0TXprM1lHS2QxTUN5dmNmTm05THpLWi1TaE1sRC14R1U1NkNTSUhTOW1lRXhqeHJIdGdhcHJzWENXbGZMdzVwZW8yZ1hpOVROamVuUmY2V0xGdWJYQlBkZlo4b042Ynh6ZU1NSWVPdQ?oc=5",
-  "title": "Présidentielle 2027 : Raphaël Glucksmann, candidat socialo-dépendant",
-  "summary": "",
-  "published": "2026-08-25T09:00+02:00",
-  "mentions": [
-   "glucksmann"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "12560537943cd9ba",
@@ -108,68 +69,65 @@
   "published": "2026-08-25T09:00+02:00",
   "mentions": [
    "glucksmann"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "f4053af44373abee",
-  "outlet": "Le Monde.fr",
+  "id": "195d651608297a49",
+  "outlet": "attalpresident.fr",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQNHN2Q0ZIYkFweWxBOHlXREJRV2pmenROTWhuZGd1cW9Xb0pNa1dwLWtJMHBPbUJDWjRLaTRfbm9JSXBTQUtmU04tRFpxbmtqZGpiaFhOaFVDUmliczd6QjJhRXdILVk0ZG5WNFM2SUJrUFNnWU5RZEdhc2dVbzVuajJkOW9ubDJsTnVqNG1KRFlqSFFzRHhtWWFjWURocndjMDhUTzU5elNoQUhQSURSSVl0TVExZ1JpaS1PcURSWHF6aUNKSy1HeHlucjNXb3drY3JuaG9xSkI1ZlJIanlVdFVSN3MwMjBKUk55UDc2QUVJbi1sSG5IcVZpSWdKMzFKMG5HcFVQaVBzbFc5RmdMcEFtb2V3YlVCY3dONTc0Q0YwTGc?oc=5",
-  "title": "Raphaël Glucksmann promet une « révolution écologique » en cent jours s’il est élu président de la République",
+  "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNzA5dVE1QUo2OEFKM2VWaUhZa0plYl9IZEtnYmI5MlVBTHRwaWEySGgtSUVuTldOWEhLbVJPUjNURlBnOVFXenZOWC0zRlBsZU9GRVFwX1FuRHhaMnFTVEdXaDBJVjNBSDBvYkY3ZlQxWVlfbTBJZ05Nb0RtUEpVMmhkckQtNG9hZ3JfRGRCcW1XQnVYMmtGeldvS1BjYXdCQnFvallHU0llaWlYVm1UdG9pOWR6MXRfTDlwRlFn?oc=5",
+  "title": "LCI : Gabriel Attal défend un projet de rupture pour répondre aux grands défis du pays",
   "summary": "",
   "published": "2026-08-25T09:00+02:00",
   "mentions": [
-   "glucksmann"
-  ]
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "ef850d15fc852b78",
-  "outlet": "Place publique",
+  "id": "203a09f767609969",
+  "outlet": "François Ruffin",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMmhkTzk2a1F1cnJSOHVJUjV3VFBsUGExLVpQZ0V2TDJ3WlBnal95cWVjRWZjVTRDbXlWZVNIU3J6WDdTU3poV2JoU3ZjVzd1ZHdiQWVxSUpqbG5Ha0ZKd1k2d3pTUFJIbG42MnFnVVpkZ3hmUXl0ZFFpVmNQVEdObVh1WnhhNHJvZ0NxNkxuM0tGR1pNTENTYXliRVI?oc=5",
-  "title": "Raphaël Glucksmann - Sa lettre aux Français",
+  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQmlBaTREdjVESlU1U1BEOVd5RDdfdW1fbDZCb2V0UGFzdUNSVTEzc21SQU1wa0VYVjdnOEN3amZXLUk3YkxJNHkyaEhnUm5vZTd4U2xUQjFvMFR6cmk3dHhJYWQ4ZjNnR09yUkt6Y1ExTnFnNFpmQ25NaF9BTk5ta1g5bzdVTUstZmhTbGVLcmNscmRURmJ1VkU3TE5rZ0RZdmtnNkVKMVN4cVlEM0hFXw?oc=5",
+  "title": "Randstad Digital : Les informaticiens vont-ils connaître le même sort que les ouvriers ?",
   "summary": "",
   "published": "2026-08-25T09:00+02:00",
-  "mentions": [
-   "glucksmann"
-  ]
+  "mentions": []
  },
  {
-  "id": "fc6b3aa10a9fbfd7",
-  "outlet": "TF1 Info",
+  "id": "289b4ec455cd4274",
+  "outlet": "Public Sénat",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOeUVNeVE4ZUt1VVAyT2lUdzNtZ3hXRVAycEJNY0NEMnYwRHM4ZFVJT0pRbGs5LXhOUjlZSmhIbWF4ZnNDQnllUFQwVmNmb2xsNXdiLU5teTFDenNVWDJwQjk1UFpjUFBQc0htcjVRaTNHYlViaXgzUGNwLXRlOGJxSFZhNlNlaUVxVmhBWDM0b1JwTzNvc2Y1VENaZklzdVFhNFY3TWU3U1VJbE1TTHkyM01sZG5YbVl5MlJ1aGNHVVlscWs3dzBqN2trQWFJXzg3WTV1VFJkWUtCUzE4V1hweTc0TUd4Y3dQa0t2djJrUW0?oc=5",
-  "title": "\"Je n'ai pas peur, j'ai hâte d’être tout en haut\" : Raphaël Glucksmann lance sa campagne présidentielle dans les airs",
+  "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNTUJrZG1tRUI1cmlNN2pOS3VHdUt4Y1VfeDQ4QzJOS0xmRTJlY2tJQ2pqcXBPdTYyUUNlRUtXeGRDYkdEcF9mRWZQQnZyUEtqWlF6aTFabnEzaFF2Sl9xZlMyQjZuMFRpZHhUZzFtRWtVRUVWWHhhM2dabmpQVkJ5SmtwczgtdkhZT3ZKbWtHaHJITFZHV1k0eUl1c0h5c245c0tNMUVTV20tQTIxdFVRZEVLa094NlZvaXBKOERkeXhqTkd6WG5OcXJjWC03b0Z6VVZMUFdxR09jUVZCUDBMUDRpaDdybFp0Y2FUbVVtZWF0VmpSbjB2bEN3VQ?oc=5",
+  "title": "Dette publique : la piste d’une annulation partielle, défendue par Jean-Luc Mélenchon, se heurte à de nombreuses difficultés",
   "summary": "",
   "published": "2026-08-25T09:00+02:00",
   "mentions": [
-   "glucksmann"
-  ]
- },
- {
-  "id": "6c531f2f44dc45c3",
-  "outlet": "franceinfo",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPemNyTmhRS0VtSWJCcmpMRFRwSmtpd2NhMnhkbTF6aWJtNVlBZGZoc1dJdWNueVFZeFl1bF9WRjBqLWtvazdId1VTSHB5eTVIRDVnZEZsRFo5RWpxMVJfTTJ0dTFqX2pNcFJKZTYwdmNmWmh6R1R6dXY5RkJudmtReEppazJVM3puek1VQTJVUWplTEs4VHdpaGNBd085V1BORTNrb1M1WkpXTXQ4QmRqVWlHOVU3SDVKS0tIMFRHMnRWOG9sVG4xTzhENHFDQ3Y1X2o4LTJ2dnMyS0dtc1F2M0lJOTllM21wVHBxTUtMVFpXNWEwakpyUkxiM2k3T3FmS0o3OWU0NnFvdGc?oc=5",
-  "title": "Augmenter les salaires en taxant les plus gros héritages, la proposition de Raphaël Glucksmann est-elle réaliste",
-  "summary": "",
-  "published": "2026-08-25T09:00+02:00",
-  "mentions": [
-   "glucksmann"
-  ]
- },
- {
-  "id": "d5ab6d29186fd71f",
-  "outlet": "CNews",
-  "lean": "droite",
-  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZGFkR1o4c1V1SXBaQVZJZko0RFczVXI3dk1lSmNMUVVQOFowMDFfc3ZETWU2Z1I0MWl5VndWdElSS0pLRnRCdmVob3JMdEZHYUp6blV0X1lDYTFfT2RNNXRsbmJRX2lkaGN4SDA0dldMTllYNl9FM0dUMlpDVTY4MkhlUkNzSjN2V0xqaThzbkx5VV8wazRKOG9UWUFxazdKRjdDNVZ4S05fOEFmdFHSAbMBQVVfeXFMUHE3bEMyZ25BcmVsTHFhcExFMTBjVDZIS250Y0hIOXpicldoaHNkQUtSbFBOWGRhaGI0T3laeXJtdWgtdVVBSEVfd0w1VUwzWlNEeTlIbkRta0s4aGp5QUlzYTN5OGhOVFA5QXFTMFFpZWM0MTA4MXZiTGtKS1pZNWtacFd5LUtDVHhhQVV2WkR3OGtZYTE5WGRDenJ0UExmSExZWmk2MU9OaFFXYnhpTjNZbFk?oc=5",
-  "title": "Présidentielle 2027 : entre Raphaël Glucksmann et Jean-Luc Mélenchon, les Écologistes plus que jamais divisés",
-  "summary": "",
-  "published": "2026-08-25T09:00+02:00",
-  "mentions": [
-   "melenchon",
-   "glucksmann"
-  ]
+   "melenchon"
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "295a5673effd5c51",
@@ -181,98 +139,22 @@
   "published": "2026-08-25T09:00+02:00",
   "mentions": [
    "glucksmann"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "a62e28c63544e8be",
-  "outlet": "ici.fr",
+  "id": "2c89c5b5b0a41edb",
+  "outlet": "Nouvelle Énergie",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQcy1pSm5rYTFuVXhBV2hmd201UFRuNm1RWTdqWDBWRTY0bVdwX3hrMmJTWnYzNFEyZFg4M210YWU0enh4NGhwUk4xMFA5WVFFTTNSMFFTdGRXSE9YLVcwb2NnZ21SNnNHaDlwQ2t3MTVpNzM5YUd6QmpQZVlRU29WU3JpbXFPUHUwNXhRS0VZdjB6V21UcnJhRjh1c05MU3hVbF9oQ1FBZTI1N0N1OGdvbDEwNzBqbDRDUnQ5dlNOR1RJZVNhcXZDREkySTlNdzZJc2tGenhTcTZHZ0ZHLVBpZEFZeDM5LUVoUFFGNE53QlZQNlJsMWdfTEJvY1NFYXk0elE?oc=5",
-  "title": "Présidentielle 2027 : Raphaël Glucksmann lance sa campagne en Charente-Maritime sous le signe de l'écologie",
-  "summary": "",
-  "published": "2026-08-25T09:00+02:00",
-  "mentions": [
-   "glucksmann"
-  ]
- },
- {
-  "id": "81b6f0263a4efb76",
-  "outlet": "RTL",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOckVaanB0aEdhVmlGelBrMEpCcDdWWHBSeDRLZ3RhYnN0ZHBuVEFQZkcyN1cxZUllYzBNb2FtUHFrazQyUzhJM1NXNGZhT1d5SUVVOUlfdnF0aXdSUjJLLVRFUnN3RzBZclpieThHc2VZangyNGR3N3hFUm5IWUZ3NFJNRGFwZ1ZYU0Nxc05yellPN0piQnVXM0d2VmNJYXdlVm5iMWpBRXdSa2x4SmlFTW9hNkR0UzZEUUh1S1UwQ0NJb0c5SkVFcU9oZUZfLWRidUhR?oc=5",
-  "title": "Glucksmann favori, 4 candidats, vote payant... Ce qui se prépare pour la primaire du PS pour 2027",
-  "summary": "",
-  "published": "2026-08-25T09:00+02:00",
-  "mentions": [
-   "glucksmann"
-  ]
- },
- {
-  "id": "8bc990dc57568ca7",
-  "outlet": "franceinfo",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQRTdPZXJPNndxcnBJdEIzRWNpamJOQTlkMW1nUnAzN28wNUFUemRBVk8zUXZtenpSLW9aV29FTjhBcjQ4UUF3NFZzaGVybXZvaHdQUElqUHpaSnlyYnVvQno4RDJzdU9mdEhudlRhY0w4UGRPclBFeUtHeVJPV3pDQVVLMDFCSHNCR3NaMnY3OEplX0VPNEZwLURZcTVrRHBuNWNrWnExbV9xMXpVZnhLaTRRU2NBQ2kyd0UwRE9vQ1JrbmtqZkdRWXVxT0tJLTZrVjRwUFdtOTMwYW9EUVk2bmJ2MXh1bm00NXkyYlh6eUs4OWQtcUtSR3IxTnBsem5Gb3BWallEOThtWGI3cng1ODQ3bFFCenpmT3pF?oc=5",
-  "title": "\"Il doit nous donner envie\" : comment les élus socialistes accueillent-ils la candidature à la présidentielle de Raphaël Glucksmann",
-  "summary": "",
-  "published": "2026-08-25T09:00+02:00",
-  "mentions": [
-   "glucksmann"
-  ]
- },
- {
-  "id": "dae0da9674d71c63",
-  "outlet": "Le Monde.fr",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQVnpqQTM3QlJJQ2oxaHBzM0hRVldVNUQ5Q2FXemJ2dUk3SGVVTmdfbVdLTndIbGdZNEM5WEFsQkM4M2pxcEhsV0FkOFViN2Y4eXA3S0ZLOFhqZld4VXBGb2pyYzhKWVBTX29ZZlNENVVfbGFQS2dhd09URi1EUFVnRjBQNHRLV0FuTnh5b2tPTDhDa2c2NzZUT1phVDJlRHg3VU9WemlIZlNqaFRqNzV2ekRNLWJ3NmdrajFDZlZZN0VwQ2J2X0MzQ19vUUVDNTEyWDJEODhMSzNzWWpsQzBHczAxLU1keVVSUmYxVXFFbEE4dkI1ZzNPM1NSZTVDejFN?oc=5",
-  "title": "Présidentielle 2027 : le duo Raphaël Glucksmann-Yannick Jadot se pose en défenseur de l’écologie lors d’un déplacement en Charente-Maritime",
-  "summary": "",
-  "published": "2026-08-25T09:00+02:00",
-  "mentions": [
-   "glucksmann"
-  ]
- },
- {
-  "id": "8108cb69b4e197c0",
-  "outlet": "Le Monde.fr",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNM1paM2FRQ0NPTlRMRTRsbm9HY1NDU29VREhKZ3c5YnRoUktWYzd1RVBLSldub0J5WklwLTEyb1I4Q1ZYck5qN1VYV1htdm5BUEVhRDhheExtSVZqZ3lGWHlqbzZ0NWJMLURjWXEwWU40Rjc5RlNEbTlpVlZmTk5wYjlhMGlwY1padDFzckxVWnpUV0FwUklCa3VZNzI3WWgwQTRVd1lFYW93enFGa0RRUTN3RjlVSUltejg1ZFM3TFZEbktnLWhCMlpxUFpvWGFnSi1rTk9ZcHJzUUdPZGt1V0hHTUx0RlMybEQ1bS1xYWxldm1xNURTcG1MbWxCcUlsdTJVNC0yRWotMm1CcUw4eEoxRzBvOFBIMWY0?oc=5",
-  "title": "Gabriel Attal : « Je souhaite une loi de programmation pour l’école et un ministre de l’éducation qui restera en poste cinq ans »",
-  "summary": "",
-  "published": "2026-08-25T09:00+02:00",
-  "mentions": [
-   "attal"
-  ]
- },
- {
-  "id": "aa0e71ca4718a1b2",
-  "outlet": "franceinfo",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNMXBxMzFKNEx5NE45Z3ZTT3RqWjR4Y294V1dtdVVMU050M3p5TGJEcVF3RGlhMGpVemktWG9YcnJNcmdSQ1NxUXlQOWx2RWpJa09Gbm0xQkhBTFUwYlZCQy05TG9nM1FpRWFEMThKRGxPNWpqWWo5ZXZoR3dkbXotWC1PbVdYN3ByNGwzbWU1cE1FRTViaDhVZEJEN041OXpkempZSXNTbUpESDVxcHNFYTlYeERoZnhpZ0l6ZHdoakxPT01ZQ3ViV00xcTA2YVZXMWgwS2xkWDNLLUFjSS1QcFZCRDNzcjI4SXBPZFFJV2R6N3Byd1c4Q3dfeUpKSFVjYXJfZzI0eVBKQlVyMzY0b2NOaDJ5QWs?oc=5",
-  "title": "Gabriel Attal veut un ministre de l'Education \"qui restera en poste cinq ans\" et souhaite le rétablissement du certificat d'études",
-  "summary": "",
-  "published": "2026-08-25T09:00+02:00",
-  "mentions": [
-   "attal"
-  ]
- },
- {
-  "id": "e2c44bbb5d1ab92d",
-  "outlet": "l'Opinion",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSUk4WDJrYnU3WGJyMFV4dlEzLU9zZ3huY2lObnRJTjE0cU5jUHZqZ1JzQWt2Y1lDNWxYTWp5YzlGaGtSd2FZRjZocUlnM2YyVXRhSm1icVZTTk9sbWd0R3RzUFpnMXU5Vk5YZ2NWbXhYaVpheVJRbWhWcTZtZkRfR1NZN1IyTjNwYWMtdWhhenhVY3dqaTlZQjFVenJ3TmtEZ3VRaXpWWUpXSTl6ODNEMQ?oc=5",
-  "title": "A Cannes, David Lisnard réunit la galaxie libérale et tend la main à sa droite",
-  "summary": "",
-  "published": "2026-08-25T09:00+02:00",
-  "mentions": [
-   "lisnard"
-  ]
- },
- {
-  "id": "581736901c82c574",
-  "outlet": "Les Jours",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMG00UTBIWWFISWpyYTNzTDVvUVRIT1h5algzSkR6UXFiOFp5UFZmNExWdjdXeFo4ZXJNMjVZcDZpdGZCcTZ3dmNUX2JqRXNHeVBDdzROalFtY3JqTWhGbDFyQjM4RFVkVkJmUHZpS05ob0g4Vm41SzZjWnItSnhULXF2NVd5MUVva0VmbWtQRkE?oc=5",
-  "title": "Tommy Robinson, à nous le petit Anglais néofasciste",
+  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdDQtOFl6cXpydV9TU0daUTdaV2wyd0JnQWc4ZFBxcWxYNmo4dkExTUtBdTkxZmsxcFJ2TEhpUVVKQlBmNXF5d2gzT1BlVFZ3Z3NhVFdqZjhkeTE1S2Z5ejdOeFNfWUtTbXJqampsdzJFMjd1cVJwSGJuWDRSZVBpSFlGVUpVb0ptUi0yd1pWRkh5SURYT2J6ZnJKRXk2Y0JTZUdKcF9lSk83NjJsQ01yX2EtdGpvZnJ1VUJfeVpvdjdveElHZHc?oc=5",
+  "title": "« La liberté ne demande pas d’où l’on vient ; elle demande ce que l’on est prêt à risquer pour elle »",
   "summary": "",
   "published": "2026-08-25T09:00+02:00",
   "mentions": []
@@ -288,346 +170,24 @@
   "mentions": []
  },
  {
-  "id": "531b34a2ff4d520e",
-  "outlet": "Le Monde.fr",
+  "id": "33c49749d1857f9f",
+  "outlet": "Sud Ouest",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOSDB1N2J2bjFibU5EZk5wTVlCWlc5dEhvRnF3SUxzTnB1VFVLT1FBVWdDQU1ucjdzZldZYXA2clUtSG1CY3d6dzVGaDVRNG9hYWNUc19ScmhEa0I4U1U5TGJhb3ZPMkFzZ2lxRy1yaWZwMl8xc3MwZU9ZNWI3NXc3QVNDdkhxcC13ZXdGZk5sblR0RG1FNHF6V29odXRwTGxWR3VTOVFVYlJPWHNIblNOYWRvZXRPLXg0Skx6aWhSS0FQbS10RDVZWmVoMWk4d251VHNtSXFScjRuMVZhNy04XzF5YmNBRnJXT2NkZW5DYktINFZZUVdBbXpCRGc4ZGgyNTluZXhaTEk5bDVNYVVLNjJUVlRfS19ja3JBcHpFYVF6UEJBb0JXZEk5U1FlVmhPNlE?oc=5",
-  "title": "David Lisnard, président du parti Nouvelle Energie : « Sans une grande primaire ouverte à tous, la droite et le centre ne seront pas en mesure de l’emporter »",
+  "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPbHFsSXZfbUdBcGRlWTZVdFY0cjk3UWF1U3FQSnViQ0RfR25IUzJrNW95STNzZ1hyRVU5MDQySEVMNE5QeGtxRlV1QVE2TGxDcWhRdlR1MUE2TjNxdk1XTVRuYV83Tkx5VU5vVWQ3ck5ROF9wUm5LVXM2TDU5a3kwN0pLQWs3bkwyMUFPX0J3c0FfSEVsSGtlck9PTk0tR1NVU3lxRm00NVpsT0RnQUtJdGNhR0ZRT3lVblVsMXlLVzQxY0JuWHpRd1FfRHhBZl9EMnlCd2NSeE5SOUdCbDlJbV9tMnE3SlNEcmh4OWNIRW9vMUZUcXpmZ2ViZzF3bm5kYXFrNm95SG9SazQtTTZrTkIyWldiMEZVQ1E?oc=5",
+  "title": "Raphaël Glucksmann en Charente-Maritime : « dès la prise du pouvoir, nous organiserons les cent jours de la révolution écologique »",
   "summary": "",
   "published": "2026-08-25T09:00+02:00",
   "mentions": [
-   "lisnard"
-  ]
- },
- {
-  "id": "5de47f9750a2b93b",
-  "outlet": "franceinfo",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNQ01fS0trWm1mVUl5ZjFrVHl3VnAxQWlhYzZMbkZGdllRbGZNclVSZFNyZWZVdk9fNHR3dV95SlU4M1ZNVEJnU1NWUnQtai1fek5FQUIwWFY0cmgyNTdqNWdqdVJLaG5wUm16Qkk4bDVrY0xhaVFMUG1qLXFfT2hBLTdfN3R5T2hEMERIQm9GOHpxSno2OW83Z3E1QXhDZG11c2RpVEJua2ZSOHl1cGlKSHYyVDFJN1lqd2tNZkVnOXphQlgyTHNNSnVnUDhmWUUwS1pVQm5iY3VnRXFzblBzb2EzWkZfR194anJ5akhjRmxuLUpsYXZ3?oc=5",
-  "title": "David Lisnard, candidat à la présidentielle, relance l'idée d'une primaire ouverte de la droite et du centre pour 2027",
-  "summary": "",
-  "published": "2026-08-25T09:00+02:00",
-  "mentions": [
-   "lisnard"
-  ]
- },
- {
-  "id": "06ed2c7d9b4a693d",
-  "outlet": "Ouest-France",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNZUhQT3h5U2F5Y25IRnMtNGhzWGVWa1AwWmY0NUE5RWI0QzNyWkJEU0RlX2tYMkpfUU5jMXpfVnhibndhZTROYzhfeUxXVmhkVFN3VGJLNk9pQmwySmdfY1pfOHJ4S0E1ZUtYOVppLUh4MmZqSFBqejlsbEJxVFQ2UHJ1a3FHWVZxQUpuVHlrcHo5cnQyQTZJS25EYVREQmVhSW1PNHlIb3VsR28wOUdzaGtOaEZER0s4T0l0bDAzbVRlZWVoSUtlRnNTTnlmMlVMcXdsQVluUzhLQlUwSmt0bVBsX3Bac2NGdDRyc25vSnd1TkNRSk9pOEVwMDI2bXR5MFdHRmpGZE8?oc=5",
-  "title": "Présidentielle 2027: David Lisnard relance l’idée d’une primaire de la droite et du centre",
-  "summary": "",
-  "published": "2026-08-25T09:00+02:00",
-  "mentions": [
-   "lisnard"
-  ]
- },
- {
-  "id": "6d55977a8eb033e5",
-  "outlet": "Le Figaro",
-  "lean": "droite",
-  "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNYkNBbXYzT2JDVDVuX09IaTM5TVVOSjl6STVlUHQxblpTZE83UUI5cTY5dU1nTGdpM3Q2b3FXblVoYzlQbjB4cmFDRTl1LWZOUkVJSFZrWWNMUy1iMmlZNXUxQmpnakFjR0NKcEdTV3FpN0Q1U2RtVHBtNDFaNE5lb0lnZERMRjZDdHpTbGhTTXExY3AtSlZ5YWtyclhnWkxxT0xiTGI0M3hzNURxelJKTi1teVZ0dFN0bUVSNkZoVTdhalBnYWN5XzBnYXhjZFJETnVlWTVsYU9UWjhWRTJNTDZkT25LREJxbldCYXlZcU0tTDJ3aGhTQ1k0ODlpWEVUTzd3UDBvOUZQOThWMmRkUVdZV2VveUNqVUlfUg?oc=5",
-  "title": "Présidentielle 2027 : David Lisnard relance l’idée d’une primaire, rappelant qu’«aucun candidat naturel ne s’impose à droite et au centre»",
-  "summary": "",
-  "published": "2026-08-25T09:00+02:00",
-  "mentions": [
-   "lisnard"
-  ]
- },
- {
-  "id": "4923996f435e244a",
-  "outlet": "CNews",
-  "lean": "droite",
-  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUVlRZVZ3YXFIMEVuQXRuSk95a1VYRC05ZjBNZzhnSGQ5RGlJSGdpVm9uWFJScDdXMThPc1hPTjNjYjBacW1WT1NvQWZGQ25IM2FjVVVKVG1fTlpRY2JSTS1sTUR6dTFwR3QzVVJuQnRzODcyNnBRdEEtdHRkSHRSbzduZjhVYTVSeVZkbFB6OUZrSGpOT19YZXdXZHVVWnl1cGNfdC1SeGlSdTZza1RabnF5S0N5cUVMbXNn0gHAAUFVX3lxTE0zeFU1c2NKMjZRWENfMlNNZGJoelE3UXpyVUdDWVpXUXl0OVlkLXpxSWlBLWxRMWNJa0tYaENOSFUwZXlNWk1aQUFDSm4yS1Qyd0Z3Mm13S2tiWlhZZVBIdERyWmpXV1RGeU82aVRwTS13V0hJZnZESGZrVGlXWDBURldPZ0xIekRXSzgxT1VLY21rclJBdWE3b3hlTGxhZ1R3cWZ1dS1VeXcwRko0SUpqbERDRXo1WXJNUG54WVo5aw?oc=5",
-  "title": "Présidentielle 2027 : pour éviter la «division qui conduirait inévitablement à l’échec», David Lisnard appelle à une primaire de la droite et du centre",
-  "summary": "",
-  "published": "2026-08-25T09:00+02:00",
-  "mentions": [
-   "lisnard"
-  ]
- },
- {
-  "id": "9014479bc6818736",
-  "outlet": "lejdd.fr",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWm9VOXdzbi16eUs4X1loZ1Z6SGJIT2wtT1BOeUhBWmZ4bW5nRGJYcHd2MUhOR1FkQ0hURER6eW1BOVdGczVQdkxpNEJSM2tOMkFHVDVBdXkyMjQyY1BzZGgzYmhqSFBXSWpTYjRJdGdqcXRPdnpRRmF6NGtJZFNSSGpDdGhhYUpIaWRDYlo5S3RYdXNyd2xLWkNzc2NWVmFEY0xyeHFnOGdUNUJOb2RlZTVJdnFBS2pmRklWQjk5d01FVTdmTV9CUWNZMHRMT3pCNS1tRlpTazMwY1ZuQVFB?oc=5",
-  "title": "«Aucun candidat naturel ne s'impose» : David Lisnard relance l'idée d'une grande primaire du centre et de la droite",
-  "summary": "",
-  "published": "2026-08-25T09:00+02:00",
-  "mentions": [
-   "lisnard"
-  ]
- },
- {
-  "id": "2c89c5b5b0a41edb",
-  "outlet": "Nouvelle Énergie",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdDQtOFl6cXpydV9TU0daUTdaV2wyd0JnQWc4ZFBxcWxYNmo4dkExTUtBdTkxZmsxcFJ2TEhpUVVKQlBmNXF5d2gzT1BlVFZ3Z3NhVFdqZjhkeTE1S2Z5ejdOeFNfWUtTbXJqampsdzJFMjd1cVJwSGJuWDRSZVBpSFlGVUpVb0ptUi0yd1pWRkh5SURYT2J6ZnJKRXk2Y0JTZUdKcF9lSk83NjJsQ01yX2EtdGpvZnJ1VUJfeVpvdjdveElHZHc?oc=5",
-  "title": "« La liberté ne demande pas d’où l’on vient ; elle demande ce que l’on est prêt à risquer pour elle »",
-  "summary": "",
-  "published": "2026-08-25T09:00+02:00",
-  "mentions": []
- },
- {
-  "id": "d81059d3f323d189",
-  "outlet": "Nice-Matin",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQdUZhNzAwS3NJejlzZzlzRDFDT2pDZW9QSVlwZG5jejFJelpteFcxbTJlNklOOC10MjMyTnc1dGlyY01maFIxVkxpcXB4S3dlcEdDaEhydW1zaEY2bEVVU0oxYjhZLTdJbEF4TWdZU3U1M0xqcmtVRkx2dlVOVzZBMGVMRUpHVVAyQUNveW5pRE5wcUpqUVJaQTE2WHlldWlVdmZibUZXbzVxTU81cFFobFBjX3RRcnh3R1J1cmtMVGJET2dHajB3TExvcVRsZ1pkajNveFFRLVItTHRDcF9GWTJWWHM0d1pLdWtmMXVPRmEwQVRrUG5Jdm52bEZTMTVVVkl6UENIYjlLSXNtS0Vudnl3?oc=5",
-  "title": "Présidentielle 2027 : le maire de Cannes et candidat à l’Élysée David Lisnard appelle à une « grande primaire » de la droite et du centre",
-  "summary": "",
-  "published": "2026-08-25T09:00+02:00",
-  "mentions": [
-   "lisnard"
-  ]
- },
- {
-  "id": "e3d7333d2b988544",
-  "outlet": "Nouvelle Énergie",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMmNGSW5mWmQ4MDVabzJsaWFyUldNMWtxOHlSVnFEYVllRnNYT2N4c1pmaUZxbHRXMGxqb3pjS1RUV3haakN0eF9wNUEwMmJRQm9FSDBkTFo2RUdZOXBSUm0wdXdsUEtScjdzcTlzY09RazdyVkRwY09DRkZWWkVHeXBnWFN2dzZ6SlVpUC1IOGJyeTh4QXlGZXJtdkhxMzR0NDVzUjNpeHVVTVdvVHRPMV9HdFc2MDh5czV3V0pGR21ySGs?oc=5",
-  "title": "Disparition de Philippe Bouvard : David Lisnard salue une figure majeure de l’esprit français",
-  "summary": "",
-  "published": "2026-08-25T09:00+02:00",
-  "mentions": [
-   "lisnard"
-  ]
- },
- {
-  "id": "526cfce0554346b3",
-  "outlet": "Europe 1",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPNFVpQWUxeXdQdWhQSm1lNHNhU0lENGQtUDFxQm9aRzdMVEEtX1Zja01WVExURG5RZ3NuZUllYmlPRFlieWM0WDRxUllWQlNvbU9wODlFVDMzc2YyVmU3ZTR3bTdOY3VtZUcxaXNwMHhrX1VndFdIVVVfY0VoUU96Q1pvMlZ1VHNYaTYxQnlodWlTNjYyNVplT2RsTzJnLXBzNFNrb0dudWJpZkFIdzFMWG5vX3NMLWZGTlU4alNOMTduSC1NTjhPeEh0REZMLXpYWU4zU0NOMTZGZ0R3MEs1cUVFWnRiZ9IB6wFBVV95cUxNOEhxbEQ4Nzd3Y3hoQ0NZRjYtQlhiaC1BZHMyazl6RzhFbS1STENPY0ctbTQ4VlByWEFSSkRVejIzTjRPazd5c3FjNkt1a2otbEF4R3VCY2Q0S2VlekxVdE00d0l2alhWQnN1MHpOUVFFbXBYSlp4T1Bkem00MVhQaUluYzF6VWJSaWVPMGxXbXBVUkVwT2d4VFpFV0xiYUc4MUxHRTByckt4N2k1RGhHUGswWm10VjBrWmNIRktrSWp3VkN0SnNXdnZtU0Exd0NHMllEQXlxc05JQU9yNGN5ZEZySW94elZyOGRJ?oc=5",
-  "title": "«Aucun candidat naturel ne s'impose» : David Lisnard relance son appel à une primaire ouverte à droite et au centre",
-  "summary": "",
-  "published": "2026-08-25T09:00+02:00",
-  "mentions": [
-   "lisnard"
-  ]
- },
- {
-  "id": "772c1023c55860be",
-  "outlet": "https://www.parlons-politique.fr/",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQYkliNzNJQWpjRHdTUDNDT20wYlV1c2IyaThGRmF6S2Q1NFdlYTRCVS1jWm5Ed2pkcGdKVEhoaWcxajBldU8xY1lQS0lUbUI4UEhFUno3Q1pxNjY1Y043aWRBUDhyaTRiOE1ETWx0cWU4Q3lfSHJlc2NQMVJVMWQ5YXRtcVZGOFFZY3VIUzZueTVoZnJwOUZ3OGVQV3lBQ3R5enlmOUtVWkxNeU5OQ3RZbVloaF9MV1kzYUtJdEp2NW9LbmU0U0pMMzdhTkFkTFdlZWoyb2l1ZkkxSzBva0V1cTV3UWZpeGxqUUNpMVpVenJqUQ?oc=5",
-  "title": "Présidentielle 2027 : les électeurs pourraient-ils départager la droite et le centre avant la bataille nationale ?",
-  "summary": "",
-  "published": "2026-08-25T09:00+02:00",
-  "mentions": []
- },
- {
-  "id": "ea785537c9185c51",
-  "outlet": "L'Humanité",
-  "lean": "gauche",
-  "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPWnRIclgyZGpJN3lvVEttNllaZTh0UkZJVklkOVJKVGxvZjNGVmV4QzJjeE9FVlFGeGtPTURlZ3hhSU0ydkhTQXUxV1RqdDF3Y1lKMi1oQ21RemJESTF2cTdXb3l2Nmh2YlF1OVlvS3lxUE9aS29pOFJaRGJpUHV6RGFxSGMybDRxZ0lPOU5RcVFjS2pxVWxrclFoSzVNRXprUU9GeFlCLWVCWFNCNkNvWmFTeVFzQ0MxZXhiNUJKcGFfdVhwbTBVNGVqeEt5SXh1S2tnLWlxZlVoNGxNak9jVC1B?oc=5",
-  "title": "Cannes veut dépister le protoxyde d’azote au volant : le dispositif controversé de David Lisnard",
-  "summary": "",
-  "published": "2026-08-25T09:00+02:00",
-  "mentions": [
-   "lisnard"
-  ]
- },
- {
-  "id": "68bdf406991400c8",
-  "outlet": "Corse Matin",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNRDNseElvcnhIRnJuOXNiMnhqeFJ5WlNGVmkwQUViSkQydVdlOVJOSHZqRER4Mk92clFxTnNjdFF1dlE3bm9sU2o3Z0E2YkdQeWRSRU1fekhIV3B0dVVkTDJwWjdvYU1TZ3VrMTdLSTZIYW93dC1IcnpHWmhDblFtM0xEZHdsMm9FTlpWM085QkFqZlJSb1FaMEVzZ3JNUDdpdmpkT1FHRVRtZDFiaENPMnFSVHNxQWc0bktSbHFjZDN4bmw3RTVodUV4WlZtQ3NtSTlmd1pMb0ZzWHpsRnYwbTdaa0VyYUhacmt3bnBGWUVuSDdqYkt2TVhrZndZZw?oc=5",
-  "title": "Présidentielle 2027 : le maire de Cannes David Lisnard remet sur la table la primaire de la droite et du centre",
-  "summary": "",
-  "published": "2026-08-25T09:00+02:00",
-  "mentions": [
-   "lisnard"
-  ]
- },
- {
-  "id": "8ea585bce89aced5",
-  "outlet": "lejdd.fr",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbVpIY3V2RXRKNFFkNkRGT21qWF90cFU5ZVZkRk9sU3ZiZ1pYSGNlYk5qZFNMeDVRVzdzMDdYV2RvZW5lZEVlbjg2NUQ2NHI0M25lS1IyZTdJTHZRNElVQTFjRkllYW5pcXkzU0dOM2ZpbzRLcFduWldMbEhqYk1FazFZYWk2VjJsR3JQUnVkZkpER1FEbDhDRkVwQTlsSzR4X21kUWxRWGV6dDlpRFhtcWZZdE5EVWNMZWVJRHJyVE9zajh4LXdEVXgyeE9vdw?oc=5",
-  "title": "«Roue de secours du macronisme» : Marine Le Pen fustige la CFDT après son refus de rencontrer le RN",
-  "summary": "",
-  "published": "2026-08-25T09:00+02:00",
-  "mentions": [
-   "lepen"
-  ]
- },
- {
-  "id": "fa8d8b16abca50a5",
-  "outlet": "Les Surligneurs",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOY05HTmdXeEhscEpGSVJLTHI5ZG9pUDhIWmFPQ1FwTTVKdFdoR3A3RG1rM3VUbUpBYU41dTlpeUlHXzhadFZqX2JFSW9rUkFtZXJXd1otdnlOdjR6c01qRUhwczA2by03Sk9QYlJoUUZpa2h0eGREVVB5bW1rR2VfWVl6b0JfQTc1MGh6dTFrcU5LZ2x0VzBvUHRHdTE4aVpudWwzX3h4dGQtTmRfcjZIQmpPczk5dmhkZjYwOXlR?oc=5",
-  "title": "Une loi autorise-t-elle vraiment les avortements \"jusqu’au jour de la naissance\" au Massachusetts",
-  "summary": "",
-  "published": "2026-08-25T09:00+02:00",
-  "mentions": []
- },
- {
-  "id": "8fc9c8dd55d05374",
-  "outlet": "France 24",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQRG9UdVRJaXN3c05jSG81R2VUX0tRMkg4Sk9hN2xmQ2xSYWNRcGV3TG1IUGRDV1gtMldKZmJSVzhVOVhtRjQ0QzQ3bG5uLVZIdm1fWWIxUElpUjZSS21EOG45elctdHEyc1VsQ0tYZHJzNmVjaS1GUVVzYVo3ZXZENTN0SVY1RjNzcTVzVXVTSXMxR2ZVeTVRWV9FcHQ4c0tKUlItNDlTTjA5MkN1ZzBkT1FQbzBKWVpJMElmdE9NbDF6dmstWDdHbEQ1d0FJZmptTjBYY3hUWHFNXzVBTGc?oc=5",
-  "title": "Mélenchon, Glucksmann, Tondelier et les autres : combien de candidats à la présidentielle à gauche",
-  "summary": "",
-  "published": "2026-08-25T09:00+02:00",
-  "mentions": [
-   "melenchon",
    "glucksmann"
-  ]
- },
- {
-  "id": "507cce9fb3c5295a",
-  "outlet": "Gala",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYi1BbXY0MVAxZ3BQQ1ZFTkhReVk1d05WUjllZ2liQmZULWhtb1lVdkJtTzZGNzlYZHhSWkhhblkyRHUzcnBWN1NCWFpVYTRSaHVEYnZzNWRBeXB5VVQ5d0tjdzRzQVUwXy1sVGxxN0VLbHJOVWQ5d2Z6NnVEcGhNZ2RzcHUxVlZhYlRuN25VQ0Y2YXVPNzhIWlp1d2lfWWpreXA5clJzVmVIYmROakdPLUhXazI3Sk8xZEpxZ0RjOXJidw?oc=5",
-  "title": "Fabien Roussel : son fils Kevin Oumar, 33 ans, un brillant boxeur qui rend coup pour coup !",
-  "summary": "",
-  "published": "2026-08-25T09:00+02:00",
-  "mentions": [
-   "roussel"
-  ]
- },
- {
-  "id": "289b4ec455cd4274",
-  "outlet": "Public Sénat",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNTUJrZG1tRUI1cmlNN2pOS3VHdUt4Y1VfeDQ4QzJOS0xmRTJlY2tJQ2pqcXBPdTYyUUNlRUtXeGRDYkdEcF9mRWZQQnZyUEtqWlF6aTFabnEzaFF2Sl9xZlMyQjZuMFRpZHhUZzFtRWtVRUVWWHhhM2dabmpQVkJ5SmtwczgtdkhZT3ZKbWtHaHJITFZHV1k0eUl1c0h5c245c0tNMUVTV20tQTIxdFVRZEVLa094NlZvaXBKOERkeXhqTkd6WG5OcXJjWC03b0Z6VVZMUFdxR09jUVZCUDBMUDRpaDdybFp0Y2FUbVVtZWF0VmpSbjB2bEN3VQ?oc=5",
-  "title": "Dette publique : la piste d’une annulation partielle, défendue par Jean-Luc Mélenchon, se heurte à de nombreuses difficultés",
-  "summary": "",
-  "published": "2026-08-25T09:00+02:00",
-  "mentions": [
-   "melenchon"
-  ]
- },
- {
-  "id": "0d2919b8f5f52489",
-  "outlet": "Le Parisien",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPTHJLV1NxUHNjLW5JNFQyR3M0QnhPYmlGMjRkaVI4OUQ4Wm83bEVENHFuUnRzUTRaZ1JERUN2OUZiT2pWbFBLd09fVVNtRzdYNmdDVEtuXzdvcXpFcWVuOXNQdVQyejNKdEtwMmdEdEo1eUhFWndybXBZeFJzcFZweGV0YzdqbXVBajNJdTZZbjVlcE5NS1k4enQ4VnZqZG9sWnpDUVZTOWl5VGNCSUxjcmNnZHVybHFCUkVGb3k2aWRqaG1pbE9kQmNKYmhFT1BsanJmZ2hDQ0Jnc05vTXYyYjJCNlF2SzV3UHg3T1M1Ni1Ua3ZORkJfRG1KYUZqNG5KeHh3TmJHa1lGY0M2RU9OLV9QbjFhMS1EaHZ3NHo1aDlXQjg?oc=5",
-  "title": "Présidentielle : Gabriel Attal veut un ministre de l’Éducation pour 5 ans et rétablir le certificat d’études",
-  "summary": "",
-  "published": "2026-08-25T09:00+02:00",
-  "mentions": [
-   "attal"
-  ]
- },
- {
-  "id": "195d651608297a49",
-  "outlet": "attalpresident.fr",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNzA5dVE1QUo2OEFKM2VWaUhZa0plYl9IZEtnYmI5MlVBTHRwaWEySGgtSUVuTldOWEhLbVJPUjNURlBnOVFXenZOWC0zRlBsZU9GRVFwX1FuRHhaMnFTVEdXaDBJVjNBSDBvYkY3ZlQxWVlfbTBJZ05Nb0RtUEpVMmhkckQtNG9hZ3JfRGRCcW1XQnVYMmtGeldvS1BjYXdCQnFvallHU0llaWlYVm1UdG9pOWR6MXRfTDlwRlFn?oc=5",
-  "title": "LCI : Gabriel Attal défend un projet de rupture pour répondre aux grands défis du pays",
-  "summary": "",
-  "published": "2026-08-25T09:00+02:00",
-  "mentions": [
-   "attal"
-  ]
- },
- {
-  "id": "6fa59b11b3106d3c",
-  "outlet": "LCP-Assemblée nationale",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQc3ljSHZQNDJ3SUxzaFMwa1p4cTVodDhOR1ctVndRcE5FWkNSamFHeGZBQjRsME1raGJHY3htbGUyTEtGdy05VUMzOWV5MDJkZzllY0tZaThlZndUSngxSVJwb2R3TlBRQmhhR1JMbE9CVzZxeVRycTRhbWdXTVh5eWZWU2dhZzNmcEk3a1pDWDhGdUwwbnlYOWVvSVlmRm5RSFhPNHBnd2VUZnByZWkwQXQ1Yw?oc=5",
-  "title": "Présidentielle: retour du certificat d'études, revalorisation des salaires… Ce que propose Gabriel Attal pour l'école",
-  "summary": "",
-  "published": "2026-08-25T09:00+02:00",
-  "mentions": [
-   "attal"
-  ]
- },
- {
-  "id": "6c9fe47d914b764a",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQY0dYYnVXUFI2TmdQVXh3UmJJWjVwcy1Vdi1zSUpVMUdPS2RfVEd1eGg2ZXpxR2xJV05iVXJPeE9TektkVzJReFhZcG04c2hvMG1pTFA0Tll2UGx4RTh6WGVEd0lmQ2MwbWU4dHJxVEFaNWtyU05OeXRCWWFFekY2Tkt5c2FLXzNNVGR1YVlNMXh4b0d2ekZzWEcydnU4M0NlSFpYQmFqMnhkeWhLdGRiMDNmd3dOZHJrbXpCVTVoZGQ0dVEySXVaTVptSi1GYnlOTE85bW5GNDVKa1QwY2VSXzVTSGpUUmVFYUpLWFFlLU0zRERHWGdzWHhCeXJTY3oyZGo4djNmQmJ3R0szM29KdU5yTzdTQjFtbHFRQUNteXpSUQ?oc=5",
-  "title": "Salaires des enseignants, ministre pour cinq ans, certificats d'études... Gabriel Attal dévoile ses mesures pour l'Éducation",
-  "summary": "",
-  "published": "2026-08-25T09:00+02:00",
-  "mentions": [
-   "attal"
-  ]
- },
- {
-  "id": "cb805ed16b132270",
-  "outlet": "TF1 Info",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPaFpkYng5Umo1Y0NNaE9DZENDOVA2bjJpLWFyWWstdFZyd19WU1RNMlpfbWR3NGxwek5aajRrQXI3MmpvUjIwc2VET1d1RXhwcFM5WGMxVl83N1BEVnpZREF4djVlYUVlcUZmNUJTdlZsbzFZajJxaHhJVkprclZnUGl6V3E2Ymw3Z1V4TnNESUlvc1FmU3czY0tITGV0Z2ZaQzMxSnB3WTdKMjNpdkZfZzZXeV9sN05Pd3FjR0V3cUlVMXI0aExpbzdGc0hQNUtRR0VnRVNLci10TnhUZzFTTGUzZmFoTkIwenc?oc=5",
-  "title": "\"Il faut un électrochoc\" : sur LCI, le candidat Gabriel Attal déroule ses propositions pour l'Éducation nationale",
-  "summary": "",
-  "published": "2026-08-25T09:00+02:00",
-  "mentions": [
-   "attal"
-  ]
- },
- {
-  "id": "b21e9633e5457d45",
-  "outlet": "Le Figaro",
-  "lean": "droite",
-  "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQSUhNdXhmT0VlLTVPbVN2dDZ1SGhyY21OU0hJc3F0d3hkcktHT3JNU2taTVBIX2xlcWt1eHN2R2F3T1drc3pOR0hZbGRkSkpKOHNJTkJXQ3Z0V3JxM3AwSGdCYUxpX2JxbGUwVTdOR3lOUTd3RTM0SHdaNVRKbHZ2d09yMFU5RE5LdmRYTEpyUmgyemdTdmx5SVpTdXlOQkl0bWtNNnl6R1JEeTdzTFppeTREMHhCSkhmMmtlYUJRLXFfVlNXb2c3bmZKVEM0ZWZXYkk2Z1NFSVhKRWJ0aExlTF9yV3B1emRBdlB1QUg4b0ltMTJUbG5tdzBjczNjV1FBSE5yTWV6YlhmczRjempWMG50MGFnMHZtejlKUFVhUW1fcVJBUC03Y2Z3?oc=5",
-  "title": "«Il y a un problème de niveau» : Gabriel Attal, candidat à la présidentielle, veut un ministre de l’Éducation pour cinq ans et rétablir le certificat d’études",
-  "summary": "",
-  "published": "2026-08-25T09:00+02:00",
-  "mentions": [
-   "attal"
-  ]
- },
- {
-  "id": "76e64240bdedc5e3",
-  "outlet": "Ouest-France",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOLTZzMjg5YkZrekYtUk5BQXJlbFBaRDFaMUpvN3I1Q2FkUV9PbWN0aEJldzQzU2Q0N2RjNGdYSmd4RWRmOXVHOHJZZTB1bmdBTGgydkRqUThlb1hxSVN1aWxmN2FEQjlKbkZUYmd6d2hEQXZyYWhYa3p5dmVEUU9zVjlvY3FON2lnOWNEUmtlZkFTRlVsZEVOOWdQUEVsVFZEZDY1aUhwWHh3QUliZkRQcE43anlQWUpTSHVScDhaV1FMeHdTbWhn?oc=5",
-  "title": "Gabriel Attal en déplacement en Mayenne",
-  "summary": "",
-  "published": "2026-08-25T09:00+02:00",
-  "mentions": [
-   "attal"
-  ]
- },
- {
-  "id": "a0c42fec68489f63",
-  "outlet": "Midi Libre",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOOEwyWVFRUldBVWdabU1uZUxFMXByM0FsSzl4dlhrbHNnOXFZQ040aEtNdHBIaGtaTWtIVE11V3dITE0xLVBLaFlFejc4cjFieTNsYmZNLU90MWpHSXl2ekJ6bERfUUs2QWxEb0JQWTc4UzdqODRuMlpwVWJpeEV3M2VwVndHRlQyLXRxdFprLXBaQmV6M0M1NWZwSFlIR0dxUTdfWFY1VEVYRElrdU9VWldiYlBveU9TMTZjTTVmM1NEZVRZSGswVEFtelkyaW52TUkzYy1YZ1pRdVF3T0dEaU1oWU9KOHk5MDljWDBNeDRzcnd4dzRBVVBESkE5UVBGQTA4em5PcV9mdw?oc=5",
-  "title": "Présidentielle 2027 : passe d’armes entre Édouard Philippe et Gabriel Attal sur l’éducation, que proposent vraiment les deux candidats",
-  "summary": "",
-  "published": "2026-08-25T09:00+02:00",
-  "mentions": [
-   "philippe",
-   "attal"
-  ]
- },
- {
-  "id": "eb07e0ca7d2597cc",
-  "outlet": "Le Parisien",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPVDY0NXJ0TURtNkZ2U2p3R01SQzVFOV80anpMVVpsMWV3bzhwQU9zLUg4STk3V2wtdTVobmNDZjV5WmNYbkpNWWt1V2dySjgzb04wQkE1N0s4RlFiN1ZQVDNKdnJiNGhlZTR3TXhCQ0hxVE5YZ0ZzSjdrMDlObzdTbWtHZDhod1dMWEJhaFc0SGFJNENUcG9ldU1mNkw3anFFeUxrRUc2dWNHYURFY1FVU2x2MWRNUmNiVElYR25zekVwU1ZjdVpVRjVUYV9scnNMcTNLcHVTVmZqQVVXX1BleVpPMXd4NFpIdHMzRHpGdW9kSFk?oc=5",
-  "title": "« C’est maintenant que ça commence » : Retailleau, une rentrée à haut risque",
-  "summary": "",
-  "published": "2026-08-25T09:00+02:00",
-  "mentions": [
-   "retailleau"
-  ]
- },
- {
-  "id": "203a09f767609969",
-  "outlet": "François Ruffin",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQmlBaTREdjVESlU1U1BEOVd5RDdfdW1fbDZCb2V0UGFzdUNSVTEzc21SQU1wa0VYVjdnOEN3amZXLUk3YkxJNHkyaEhnUm5vZTd4U2xUQjFvMFR6cmk3dHhJYWQ4ZjNnR09yUkt6Y1ExTnFnNFpmQ25NaF9BTk5ta1g5bzdVTUstZmhTbGVLcmNscmRURmJ1VkU3TE5rZ0RZdmtnNkVKMVN4cVlEM0hFXw?oc=5",
-  "title": "Randstad Digital : Les informaticiens vont-ils connaître le même sort que les ouvriers ?",
-  "summary": "",
-  "published": "2026-08-25T09:00+02:00",
-  "mentions": []
- },
- {
-  "id": "cf5ff17ae6e8e55d",
-  "outlet": "RMC",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQMU90a01NV3BZX0ZBS1NFbkpYOU5PSElvRV9QRzc1TmxhbXlPTjljRU9MY21xMGZTc2s2b3g5UjIwWjhReV9XMG1JNG9TekpNRkhlOFRZaTNRdFVpWWRkcFEtaVBxWWJuSjBjOENOZFM0bGtLdFFoOE1IZ3VpU0NveTlZX0FFQkh0YXp5ekpQV1ZsT2VhQW1fcFdQdTk3TXpZYTZ2WkY5RU5iLU5NQkpuanZldUNlbDRCaXVNSmYwclcwOTIxbW1UVnpLRnBlZXJSNXpub1gyVXJWcWtkUzZkSHJDMzFBS09nOXhXSS1QeUZ0a0FjdTB0NDE0T1VyNWF4X2lLVTlwRVU3eHNUcTcwTENqNkNxMnY1M0pfcg?oc=5",
-  "title": "Damecour 2027 - Pour une campagne plus proche des gens, François Ruffin fait du stop au péage de Saint-Arnoult - 25/08",
-  "summary": "",
-  "published": "2026-08-25T09:00+02:00",
-  "mentions": [
-   "ruffin"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "37dee04701932ffe",
@@ -640,50 +200,156 @@
   "mentions": []
  },
  {
-  "id": "9f3b534ee9e9f4a3",
-  "outlet": "L'Hebdo du Vendredi",
+  "id": "476332f2f3741d89",
+  "outlet": "ladepeche.fr",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNX01KR3NfaG5RTlVnS3lJMUR3TmRFdmQ0Y3FPei1DY2RFaFMwMGc3NVl6VXg4NGwyWUI1cWJLb0JFSkoxR1B6aHZqS0ZOU3BaUWJUT2pFOXNZYnVBTWZWRUpGSGJ4RXJwUFRvYkg1WjBBQlpvaC1OSXl6STlZbmhyT3NLVThFblRVSHA2WGZpZVUxQnprbFhSaHVzaTBDdHg2Qms4cGZvY09xMUMwT0MwMlBYNA?oc=5",
-  "title": "Une nouvelle grève pressentie à la cimenterie Calcia, dans la Marne",
-  "summary": "",
-  "published": "2026-08-25T09:00+02:00",
-  "mentions": []
- },
- {
-  "id": "69f4c1b8207f7487",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxQdW5lTFZzcGlUakotc29ObFFYUWxMelMzR3IyVF9RcHlXTG5oOXlqUzV2Nll1eW1JWEpxem9NMmQ2bFd2TldfMnMyWndEaTBuOUhtd0FhTk5NdWJLZmhsbVQxeGJ4MTJWUDQwQkVFWEU0aFVWbGNDNEZHbzRwaEt1eUp4V2xTaTFPcXB1U2ttMENHTl9KdHdXUlJVX0JNX05fVTRhVTRpWVc0b1ZDTDM5VEQzRWdMVi1IQVZoSXBMMENkMk9YM3NiRzJXelFyeWotQmVfSGkxTVZFUjgydS1tTU9lMno3cC0zYno4dzdxVERaOGhpU0RFdkpGRmdHWERfdWlMMU83SVZpQ2ZpelBBcjRCSlRGUG9VaGhGOTFTM2JnajkyVWVPbTBZU1hfaVBsSG9DX3RBWlBCcEpVVEdVTVln?oc=5",
-  "title": "Présidentielle 2027: \"Nous serons capables de proposer une dynamique\", assure Raphaël Glucksmann, lors de son premier déplacement de campagne",
+  "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZTByRzR5amZXc3NmWlU1aXJrcFBYUXdyM3FaNDFfNE9nRldrcDdkc3dVNEIxTWRJV24xSFlCSFRhSFZQTHpBYmloM0pYSWF4UTU0c2xQalowOHd2cFAwX2ZldC1haEtodFRZcTVXOVpRYlFIblAyVDBESC1VSEFJeFlJcGV4OWMtMEVJbmNxQkVFLXNHWDdWMU1CcU1wRENkeHYwbUtfcmFDMFlqM0tSMHQ5RC1DSlRzdHpvRzBUaHdRbXRWaUlwRHc3OGJueGJKOThsRm1pVUd1QQ?oc=5",
+  "title": "Présidentielle : Édouard Philippe et Gabriel Attal dévoilent deux projets rivaux sur l'Education",
   "summary": "",
   "published": "2026-08-25T09:00+02:00",
   "mentions": [
-   "glucksmann"
-  ]
+   "philippe",
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": 0,
+    "frame": "programme"
+   },
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "f4c526270f091ba3",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQY2JSaWJuV2c4RGdweXVXTUhQYVZudjhEMmtZamtBSjJ2aGIzZnBpNGlwMWFrd19MNExrTTZGWEFfZmdpOHdUQ3BacDVDVWRfR2phNk9zNUhlY1ZZOU91NkpENnN6a2xOMzR2VUt3d2R2N2JaekdVSF9Ua01GTEp2b0JqMDJVdFNlV215dWJPMWUtNGlvTGtQTndjWTVhMEVrTmVMLTk2NHh0bzF1REcxREh3RkFRTjluWklHNmx6bTdoQkxQYmIyZmk3d2VaYnNCdVNmZGxJbkozSzVNV3E4?oc=5",
-  "title": "Raphaël Glucksmann: \"Il faut porter une réforme profonde de la politique agricole commune\"",
+  "id": "4923996f435e244a",
+  "outlet": "CNews",
+  "lean": "droite",
+  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUVlRZVZ3YXFIMEVuQXRuSk95a1VYRC05ZjBNZzhnSGQ5RGlJSGdpVm9uWFJScDdXMThPc1hPTjNjYjBacW1WT1NvQWZGQ25IM2FjVVVKVG1fTlpRY2JSTS1sTUR6dTFwR3QzVVJuQnRzODcyNnBRdEEtdHRkSHRSbzduZjhVYTVSeVZkbFB6OUZrSGpOT19YZXdXZHVVWnl1cGNfdC1SeGlSdTZza1RabnF5S0N5cUVMbXNn0gHAAUFVX3lxTE0zeFU1c2NKMjZRWENfMlNNZGJoelE3UXpyVUdDWVpXUXl0OVlkLXpxSWlBLWxRMWNJa0tYaENOSFUwZXlNWk1aQUFDSm4yS1Qyd0Z3Mm13S2tiWlhZZVBIdERyWmpXV1RGeU82aVRwTS13V0hJZnZESGZrVGlXWDBURldPZ0xIekRXSzgxT1VLY21rclJBdWE3b3hlTGxhZ1R3cWZ1dS1VeXcwRko0SUpqbERDRXo1WXJNUG54WVo5aw?oc=5",
+  "title": "Présidentielle 2027 : pour éviter la «division qui conduirait inévitablement à l’échec», David Lisnard appelle à une primaire de la droite et du centre",
   "summary": "",
   "published": "2026-08-25T09:00+02:00",
   "mentions": [
-   "glucksmann"
-  ]
+   "lisnard"
+  ],
+  "analysis": [
+   {
+    "id": "lisnard",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "33c49749d1857f9f",
-  "outlet": "Sud Ouest",
+  "id": "4aa46dc59aea4c56",
+  "outlet": "Radio France",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPbHFsSXZfbUdBcGRlWTZVdFY0cjk3UWF1U3FQSnViQ0RfR25IUzJrNW95STNzZ1hyRVU5MDQySEVMNE5QeGtxRlV1QVE2TGxDcWhRdlR1MUE2TjNxdk1XTVRuYV83Tkx5VU5vVWQ3ck5ROF9wUm5LVXM2TDU5a3kwN0pLQWs3bkwyMUFPX0J3c0FfSEVsSGtlck9PTk0tR1NVU3lxRm00NVpsT0RnQUtJdGNhR0ZRT3lVblVsMXlLVzQxY0JuWHpRd1FfRHhBZl9EMnlCd2NSeE5SOUdCbDlJbV9tMnE3SlNEcmh4OWNIRW9vMUZUcXpmZ2ViZzF3bm5kYXFrNm95SG9SazQtTTZrTkIyWldiMEZVQ1E?oc=5",
-  "title": "Raphaël Glucksmann en Charente-Maritime : « dès la prise du pouvoir, nous organiserons les cent jours de la révolution écologique »",
+  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZUlfM051TjZxanJuQTNUOEVIOXJLZTJPS2xTZEllMXQtM3d6OVhEOHBXRDRlVENGOWFfVmtoMmlmel9kN3R6ZkhBMmZSVEgtc3R3UjRfU084eDJZUW9QaEJYQXFLOFhYVWxEQzNkLWhseVItcVdzakxULUlVYndEeUs2WjRUTmlOX1VJZXYxR3pQUDF3VDhYakdxZnNpSEZUbmtN?oc=5",
+  "title": "Présidentielle 2027 : Édouard Philippe et Gabriel Attal rivalisent de propositions pour séduire les enseignants",
   "summary": "",
   "published": "2026-08-25T09:00+02:00",
   "mentions": [
-   "glucksmann"
-  ]
+   "philippe",
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": 0,
+    "frame": "programme"
+   },
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "4dbd4d3fd365b6cf",
+  "outlet": "Outre-mer La 1ère",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOOGNuLWd2b0lZZ2tMTFpiR3p2eWhJeEhQMTgxR1BjUkVlNmh0VTVGZG5nTnFMZHVwWVFlWnBSdVk5Q2ZXVnpLR3dfbVcxM0lqUXQwRUl3V2x4cElvbWEwUlprTWFNVDA0ZkZuNGJjZjRaWm14SlpNYXE0WDNHa0trbXFJLXpqamFZSU45ejNSVUprZ1UwVWpoLTZFaW5UZGF2Ym56REFHZUtXLTVQNE1JNmdPQnE0cUNGaGV1dmViX3FMbjdCWGVwbEcyUUtXQTB1YkpyZXVyQQ?oc=5",
+  "title": "À Bras-Panon, Édouard Philippe prend le pouls de la filière canne et prône le rassemblement",
+  "summary": "",
+  "published": "2026-08-25T09:00+02:00",
+  "mentions": [
+   "philippe"
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": 1,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "507cce9fb3c5295a",
+  "outlet": "Gala",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYi1BbXY0MVAxZ3BQQ1ZFTkhReVk1d05WUjllZ2liQmZULWhtb1lVdkJtTzZGNzlYZHhSWkhhblkyRHUzcnBWN1NCWFpVYTRSaHVEYnZzNWRBeXB5VVQ5d0tjdzRzQVUwXy1sVGxxN0VLbHJOVWQ5d2Z6NnVEcGhNZ2RzcHUxVlZhYlRuN25VQ0Y2YXVPNzhIWlp1d2lfWWpreXA5clJzVmVIYmROakdPLUhXazI3Sk8xZEpxZ0RjOXJidw?oc=5",
+  "title": "Fabien Roussel : son fils Kevin Oumar, 33 ans, un brillant boxeur qui rend coup pour coup !",
+  "summary": "",
+  "published": "2026-08-25T09:00+02:00",
+  "mentions": [
+   "roussel"
+  ],
+  "analysis": [
+   {
+    "id": "roussel",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "526cfce0554346b3",
+  "outlet": "Europe 1",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPNFVpQWUxeXdQdWhQSm1lNHNhU0lENGQtUDFxQm9aRzdMVEEtX1Zja01WVExURG5RZ3NuZUllYmlPRFlieWM0WDRxUllWQlNvbU9wODlFVDMzc2YyVmU3ZTR3bTdOY3VtZUcxaXNwMHhrX1VndFdIVVVfY0VoUU96Q1pvMlZ1VHNYaTYxQnlodWlTNjYyNVplT2RsTzJnLXBzNFNrb0dudWJpZkFIdzFMWG5vX3NMLWZGTlU4alNOMTduSC1NTjhPeEh0REZMLXpYWU4zU0NOMTZGZ0R3MEs1cUVFWnRiZ9IB6wFBVV95cUxNOEhxbEQ4Nzd3Y3hoQ0NZRjYtQlhiaC1BZHMyazl6RzhFbS1STENPY0ctbTQ4VlByWEFSSkRVejIzTjRPazd5c3FjNkt1a2otbEF4R3VCY2Q0S2VlekxVdE00d0l2alhWQnN1MHpOUVFFbXBYSlp4T1Bkem00MVhQaUluYzF6VWJSaWVPMGxXbXBVUkVwT2d4VFpFV0xiYUc4MUxHRTByckt4N2k1RGhHUGswWm10VjBrWmNIRktrSWp3VkN0SnNXdnZtU0Exd0NHMllEQXlxc05JQU9yNGN5ZEZySW94elZyOGRJ?oc=5",
+  "title": "«Aucun candidat naturel ne s'impose» : David Lisnard relance son appel à une primaire ouverte à droite et au centre",
+  "summary": "",
+  "published": "2026-08-25T09:00+02:00",
+  "mentions": [
+   "lisnard"
+  ],
+  "analysis": [
+   {
+    "id": "lisnard",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "531b34a2ff4d520e",
+  "outlet": "Le Monde.fr",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOSDB1N2J2bjFibU5EZk5wTVlCWlc5dEhvRnF3SUxzTnB1VFVLT1FBVWdDQU1ucjdzZldZYXA2clUtSG1CY3d6dzVGaDVRNG9hYWNUc19ScmhEa0I4U1U5TGJhb3ZPMkFzZ2lxRy1yaWZwMl8xc3MwZU9ZNWI3NXc3QVNDdkhxcC13ZXdGZk5sblR0RG1FNHF6V29odXRwTGxWR3VTOVFVYlJPWHNIblNOYWRvZXRPLXg0Skx6aWhSS0FQbS10RDVZWmVoMWk4d251VHNtSXFScjRuMVZhNy04XzF5YmNBRnJXT2NkZW5DYktINFZZUVdBbXpCRGc4ZGgyNTluZXhaTEk5bDVNYVVLNjJUVlRfS19ja3JBcHpFYVF6UEJBb0JXZEk5U1FlVmhPNlE?oc=5",
+  "title": "David Lisnard, président du parti Nouvelle Energie : « Sans une grande primaire ouverte à tous, la droite et le centre ne seront pas en mesure de l’emporter »",
+  "summary": "",
+  "published": "2026-08-25T09:00+02:00",
+  "mentions": [
+   "lisnard"
+  ],
+  "analysis": [
+   {
+    "id": "lisnard",
+    "tone": 1,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "576c073e45471f88",
@@ -695,7 +361,254 @@
   "published": "2026-08-25T09:00+02:00",
   "mentions": [
    "retailleau"
-  ]
+  ],
+  "analysis": [],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "581736901c82c574",
+  "outlet": "Les Jours",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMG00UTBIWWFISWpyYTNzTDVvUVRIT1h5algzSkR6UXFiOFp5UFZmNExWdjdXeFo4ZXJNMjVZcDZpdGZCcTZ3dmNUX2JqRXNHeVBDdzROalFtY3JqTWhGbDFyQjM4RFVkVkJmUHZpS05ob0g4Vm41SzZjWnItSnhULXF2NVd5MUVva0VmbWtQRkE?oc=5",
+  "title": "Tommy Robinson, à nous le petit Anglais néofasciste",
+  "summary": "",
+  "published": "2026-08-25T09:00+02:00",
+  "mentions": []
+ },
+ {
+  "id": "5de47f9750a2b93b",
+  "outlet": "franceinfo",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNQ01fS0trWm1mVUl5ZjFrVHl3VnAxQWlhYzZMbkZGdllRbGZNclVSZFNyZWZVdk9fNHR3dV95SlU4M1ZNVEJnU1NWUnQtai1fek5FQUIwWFY0cmgyNTdqNWdqdVJLaG5wUm16Qkk4bDVrY0xhaVFMUG1qLXFfT2hBLTdfN3R5T2hEMERIQm9GOHpxSno2OW83Z3E1QXhDZG11c2RpVEJua2ZSOHl1cGlKSHYyVDFJN1lqd2tNZkVnOXphQlgyTHNNSnVnUDhmWUUwS1pVQm5iY3VnRXFzblBzb2EzWkZfR194anJ5akhjRmxuLUpsYXZ3?oc=5",
+  "title": "David Lisnard, candidat à la présidentielle, relance l'idée d'une primaire ouverte de la droite et du centre pour 2027",
+  "summary": "",
+  "published": "2026-08-25T09:00+02:00",
+  "mentions": [
+   "lisnard"
+  ],
+  "analysis": [
+   {
+    "id": "lisnard",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "65f860234b395df1",
+  "outlet": "Public Sénat",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPR2xZcS1jVHpTakxIQnV4UC1qXy1nTXprbHdScXlzeUUxMEs4Tkd3Rk1vTGoxRUlPVFF3MXlhWUNFNmdvSFZkNGZNbHY5Q1NfV1JwcVJLbFBkNmMzcXdhc3huNkdSTFA4X0JrZG9MZ2JlcWJyMGV1Y2hGZnduWFlSTWtzQjlnT1B5aEZoVExGQTBNY0xCejNTeW5keWVlcGl3MEV6WHN1UFVDZTJiR3drTEZwXzRlck9nUmdmU2pNYndVQjdZVDNVWDhDWDBLcW1OM3YtNmhEc1RnaWZtQzVWSUVlU1VnQndteDJoZkI2eFlyNzJLVGVlbk0waw?oc=5",
+  "title": "Présidentielle 2027 : Philippe et Attal font de l’école un nouveau terrain de bataille, au risque d’éreinter le bilan Macron",
+  "summary": "",
+  "published": "2026-08-25T09:00+02:00",
+  "mentions": [
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": -1,
+    "frame": "polemique"
+   },
+   {
+    "id": "attal",
+    "tone": -1,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "68bdf406991400c8",
+  "outlet": "Corse Matin",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNRDNseElvcnhIRnJuOXNiMnhqeFJ5WlNGVmkwQUViSkQydVdlOVJOSHZqRER4Mk92clFxTnNjdFF1dlE3bm9sU2o3Z0E2YkdQeWRSRU1fekhIV3B0dVVkTDJwWjdvYU1TZ3VrMTdLSTZIYW93dC1IcnpHWmhDblFtM0xEZHdsMm9FTlpWM085QkFqZlJSb1FaMEVzZ3JNUDdpdmpkT1FHRVRtZDFiaENPMnFSVHNxQWc0bktSbHFjZDN4bmw3RTVodUV4WlZtQ3NtSTlmd1pMb0ZzWHpsRnYwbTdaa0VyYUhacmt3bnBGWUVuSDdqYkt2TVhrZndZZw?oc=5",
+  "title": "Présidentielle 2027 : le maire de Cannes David Lisnard remet sur la table la primaire de la droite et du centre",
+  "summary": "",
+  "published": "2026-08-25T09:00+02:00",
+  "mentions": [
+   "lisnard"
+  ],
+  "analysis": [
+   {
+    "id": "lisnard",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "69f4c1b8207f7487",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxQdW5lTFZzcGlUakotc29ObFFYUWxMelMzR3IyVF9RcHlXTG5oOXlqUzV2Nll1eW1JWEpxem9NMmQ2bFd2TldfMnMyWndEaTBuOUhtd0FhTk5NdWJLZmhsbVQxeGJ4MTJWUDQwQkVFWEU0aFVWbGNDNEZHbzRwaEt1eUp4V2xTaTFPcXB1U2ttMENHTl9KdHdXUlJVX0JNX05fVTRhVTRpWVc0b1ZDTDM5VEQzRWdMVi1IQVZoSXBMMENkMk9YM3NiRzJXelFyeWotQmVfSGkxTVZFUjgydS1tTU9lMno3cC0zYno4dzdxVERaOGhpU0RFdkpGRmdHWERfdWlMMU83SVZpQ2ZpelBBcjRCSlRGUG9VaGhGOTFTM2JnajkyVWVPbTBZU1hfaVBsSG9DX3RBWlBCcEpVVEdVTVln?oc=5",
+  "title": "Présidentielle 2027: \"Nous serons capables de proposer une dynamique\", assure Raphaël Glucksmann, lors de son premier déplacement de campagne",
+  "summary": "",
+  "published": "2026-08-25T09:00+02:00",
+  "mentions": [
+   "glucksmann"
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "6c531f2f44dc45c3",
+  "outlet": "franceinfo",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPemNyTmhRS0VtSWJCcmpMRFRwSmtpd2NhMnhkbTF6aWJtNVlBZGZoc1dJdWNueVFZeFl1bF9WRjBqLWtvazdId1VTSHB5eTVIRDVnZEZsRFo5RWpxMVJfTTJ0dTFqX2pNcFJKZTYwdmNmWmh6R1R6dXY5RkJudmtReEppazJVM3puek1VQTJVUWplTEs4VHdpaGNBd085V1BORTNrb1M1WkpXTXQ4QmRqVWlHOVU3SDVKS0tIMFRHMnRWOG9sVG4xTzhENHFDQ3Y1X2o4LTJ2dnMyS0dtc1F2M0lJOTllM21wVHBxTUtMVFpXNWEwakpyUkxiM2k3T3FmS0o3OWU0NnFvdGc?oc=5",
+  "title": "Augmenter les salaires en taxant les plus gros héritages, la proposition de Raphaël Glucksmann est-elle réaliste",
+  "summary": "",
+  "published": "2026-08-25T09:00+02:00",
+  "mentions": [
+   "glucksmann"
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "6c9fe47d914b764a",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQY0dYYnVXUFI2TmdQVXh3UmJJWjVwcy1Vdi1zSUpVMUdPS2RfVEd1eGg2ZXpxR2xJV05iVXJPeE9TektkVzJReFhZcG04c2hvMG1pTFA0Tll2UGx4RTh6WGVEd0lmQ2MwbWU4dHJxVEFaNWtyU05OeXRCWWFFekY2Tkt5c2FLXzNNVGR1YVlNMXh4b0d2ekZzWEcydnU4M0NlSFpYQmFqMnhkeWhLdGRiMDNmd3dOZHJrbXpCVTVoZGQ0dVEySXVaTVptSi1GYnlOTE85bW5GNDVKa1QwY2VSXzVTSGpUUmVFYUpLWFFlLU0zRERHWGdzWHhCeXJTY3oyZGo4djNmQmJ3R0szM29KdU5yTzdTQjFtbHFRQUNteXpSUQ?oc=5",
+  "title": "Salaires des enseignants, ministre pour cinq ans, certificats d'études... Gabriel Attal dévoile ses mesures pour l'Éducation",
+  "summary": "",
+  "published": "2026-08-25T09:00+02:00",
+  "mentions": [
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "6d55977a8eb033e5",
+  "outlet": "Le Figaro",
+  "lean": "droite",
+  "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNYkNBbXYzT2JDVDVuX09IaTM5TVVOSjl6STVlUHQxblpTZE83UUI5cTY5dU1nTGdpM3Q2b3FXblVoYzlQbjB4cmFDRTl1LWZOUkVJSFZrWWNMUy1iMmlZNXUxQmpnakFjR0NKcEdTV3FpN0Q1U2RtVHBtNDFaNE5lb0lnZERMRjZDdHpTbGhTTXExY3AtSlZ5YWtyclhnWkxxT0xiTGI0M3hzNURxelJKTi1teVZ0dFN0bUVSNkZoVTdhalBnYWN5XzBnYXhjZFJETnVlWTVsYU9UWjhWRTJNTDZkT25LREJxbldCYXlZcU0tTDJ3aGhTQ1k0ODlpWEVUTzd3UDBvOUZQOThWMmRkUVdZV2VveUNqVUlfUg?oc=5",
+  "title": "Présidentielle 2027 : David Lisnard relance l’idée d’une primaire, rappelant qu’«aucun candidat naturel ne s’impose à droite et au centre»",
+  "summary": "",
+  "published": "2026-08-25T09:00+02:00",
+  "mentions": [
+   "lisnard"
+  ],
+  "analysis": [
+   {
+    "id": "lisnard",
+    "tone": 1,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "6fa59b11b3106d3c",
+  "outlet": "LCP-Assemblée nationale",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQc3ljSHZQNDJ3SUxzaFMwa1p4cTVodDhOR1ctVndRcE5FWkNSamFHeGZBQjRsME1raGJHY3htbGUyTEtGdy05VUMzOWV5MDJkZzllY0tZaThlZndUSngxSVJwb2R3TlBRQmhhR1JMbE9CVzZxeVRycTRhbWdXTVh5eWZWU2dhZzNmcEk3a1pDWDhGdUwwbnlYOWVvSVlmRm5RSFhPNHBnd2VUZnByZWkwQXQ1Yw?oc=5",
+  "title": "Présidentielle: retour du certificat d'études, revalorisation des salaires… Ce que propose Gabriel Attal pour l'école",
+  "summary": "",
+  "published": "2026-08-25T09:00+02:00",
+  "mentions": [
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "76e64240bdedc5e3",
+  "outlet": "Ouest-France",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOLTZzMjg5YkZrekYtUk5BQXJlbFBaRDFaMUpvN3I1Q2FkUV9PbWN0aEJldzQzU2Q0N2RjNGdYSmd4RWRmOXVHOHJZZTB1bmdBTGgydkRqUThlb1hxSVN1aWxmN2FEQjlKbkZUYmd6d2hEQXZyYWhYa3p5dmVEUU9zVjlvY3FON2lnOWNEUmtlZkFTRlVsZEVOOWdQUEVsVFZEZDY1aUhwWHh3QUliZkRQcE43anlQWUpTSHVScDhaV1FMeHdTbWhn?oc=5",
+  "title": "Gabriel Attal en déplacement en Mayenne",
+  "summary": "",
+  "published": "2026-08-25T09:00+02:00",
+  "mentions": [
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "772c1023c55860be",
+  "outlet": "https://www.parlons-politique.fr/",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQYkliNzNJQWpjRHdTUDNDT20wYlV1c2IyaThGRmF6S2Q1NFdlYTRCVS1jWm5Ed2pkcGdKVEhoaWcxajBldU8xY1lQS0lUbUI4UEhFUno3Q1pxNjY1Y043aWRBUDhyaTRiOE1ETWx0cWU4Q3lfSHJlc2NQMVJVMWQ5YXRtcVZGOFFZY3VIUzZueTVoZnJwOUZ3OGVQV3lBQ3R5enlmOUtVWkxNeU5OQ3RZbVloaF9MV1kzYUtJdEp2NW9LbmU0U0pMMzdhTkFkTFdlZWoyb2l1ZkkxSzBva0V1cTV3UWZpeGxqUUNpMVpVenJqUQ?oc=5",
+  "title": "Présidentielle 2027 : les électeurs pourraient-ils départager la droite et le centre avant la bataille nationale ?",
+  "summary": "",
+  "published": "2026-08-25T09:00+02:00",
+  "mentions": []
+ },
+ {
+  "id": "8108cb69b4e197c0",
+  "outlet": "Le Monde.fr",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNM1paM2FRQ0NPTlRMRTRsbm9HY1NDU29VREhKZ3c5YnRoUktWYzd1RVBLSldub0J5WklwLTEyb1I4Q1ZYck5qN1VYV1htdm5BUEVhRDhheExtSVZqZ3lGWHlqbzZ0NWJMLURjWXEwWU40Rjc5RlNEbTlpVlZmTk5wYjlhMGlwY1padDFzckxVWnpUV0FwUklCa3VZNzI3WWgwQTRVd1lFYW93enFGa0RRUTN3RjlVSUltejg1ZFM3TFZEbktnLWhCMlpxUFpvWGFnSi1rTk9ZcHJzUUdPZGt1V0hHTUx0RlMybEQ1bS1xYWxldm1xNURTcG1MbWxCcUlsdTJVNC0yRWotMm1CcUw4eEoxRzBvOFBIMWY0?oc=5",
+  "title": "Gabriel Attal : « Je souhaite une loi de programmation pour l’école et un ministre de l’éducation qui restera en poste cinq ans »",
+  "summary": "",
+  "published": "2026-08-25T09:00+02:00",
+  "mentions": [
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "81b6f0263a4efb76",
+  "outlet": "RTL",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOckVaanB0aEdhVmlGelBrMEpCcDdWWHBSeDRLZ3RhYnN0ZHBuVEFQZkcyN1cxZUllYzBNb2FtUHFrazQyUzhJM1NXNGZhT1d5SUVVOUlfdnF0aXdSUjJLLVRFUnN3RzBZclpieThHc2VZangyNGR3N3hFUm5IWUZ3NFJNRGFwZ1ZYU0Nxc05yellPN0piQnVXM0d2VmNJYXdlVm5iMWpBRXdSa2x4SmlFTW9hNkR0UzZEUUh1S1UwQ0NJb0c5SkVFcU9oZUZfLWRidUhR?oc=5",
+  "title": "Glucksmann favori, 4 candidats, vote payant... Ce qui se prépare pour la primaire du PS pour 2027",
+  "summary": "",
+  "published": "2026-08-25T09:00+02:00",
+  "mentions": [
+   "glucksmann"
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": 1,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "89613558452937ba",
@@ -710,6 +623,248 @@
   ]
  },
  {
+  "id": "8bc990dc57568ca7",
+  "outlet": "franceinfo",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQRTdPZXJPNndxcnBJdEIzRWNpamJOQTlkMW1nUnAzN28wNUFUemRBVk8zUXZtenpSLW9aV29FTjhBcjQ4UUF3NFZzaGVybXZvaHdQUElqUHpaSnlyYnVvQno4RDJzdU9mdEhudlRhY0w4UGRPclBFeUtHeVJPV3pDQVVLMDFCSHNCR3NaMnY3OEplX0VPNEZwLURZcTVrRHBuNWNrWnExbV9xMXpVZnhLaTRRU2NBQ2kyd0UwRE9vQ1JrbmtqZkdRWXVxT0tJLTZrVjRwUFdtOTMwYW9EUVk2bmJ2MXh1bm00NXkyYlh6eUs4OWQtcUtSR3IxTnBsem5Gb3BWallEOThtWGI3cng1ODQ3bFFCenpmT3pF?oc=5",
+  "title": "\"Il doit nous donner envie\" : comment les élus socialistes accueillent-ils la candidature à la présidentielle de Raphaël Glucksmann",
+  "summary": "",
+  "published": "2026-08-25T09:00+02:00",
+  "mentions": [
+   "glucksmann"
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "8ea585bce89aced5",
+  "outlet": "lejdd.fr",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbVpIY3V2RXRKNFFkNkRGT21qWF90cFU5ZVZkRk9sU3ZiZ1pYSGNlYk5qZFNMeDVRVzdzMDdYV2RvZW5lZEVlbjg2NUQ2NHI0M25lS1IyZTdJTHZRNElVQTFjRkllYW5pcXkzU0dOM2ZpbzRLcFduWldMbEhqYk1FazFZYWk2VjJsR3JQUnVkZkpER1FEbDhDRkVwQTlsSzR4X21kUWxRWGV6dDlpRFhtcWZZdE5EVWNMZWVJRHJyVE9zajh4LXdEVXgyeE9vdw?oc=5",
+  "title": "«Roue de secours du macronisme» : Marine Le Pen fustige la CFDT après son refus de rencontrer le RN",
+  "summary": "",
+  "published": "2026-08-25T09:00+02:00",
+  "mentions": [
+   "lepen"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": -1,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "8fc9c8dd55d05374",
+  "outlet": "France 24",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQRG9UdVRJaXN3c05jSG81R2VUX0tRMkg4Sk9hN2xmQ2xSYWNRcGV3TG1IUGRDV1gtMldKZmJSVzhVOVhtRjQ0QzQ3bG5uLVZIdm1fWWIxUElpUjZSS21EOG45elctdHEyc1VsQ0tYZHJzNmVjaS1GUVVzYVo3ZXZENTN0SVY1RjNzcTVzVXVTSXMxR2ZVeTVRWV9FcHQ4c0tKUlItNDlTTjA5MkN1ZzBkT1FQbzBKWVpJMElmdE9NbDF6dmstWDdHbEQ1d0FJZmptTjBYY3hUWHFNXzVBTGc?oc=5",
+  "title": "Mélenchon, Glucksmann, Tondelier et les autres : combien de candidats à la présidentielle à gauche",
+  "summary": "",
+  "published": "2026-08-25T09:00+02:00",
+  "mentions": [
+   "melenchon",
+   "glucksmann"
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   },
+   {
+    "id": "glucksmann",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "9014479bc6818736",
+  "outlet": "lejdd.fr",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWm9VOXdzbi16eUs4X1loZ1Z6SGJIT2wtT1BOeUhBWmZ4bW5nRGJYcHd2MUhOR1FkQ0hURER6eW1BOVdGczVQdkxpNEJSM2tOMkFHVDVBdXkyMjQyY1BzZGgzYmhqSFBXSWpTYjRJdGdqcXRPdnpRRmF6NGtJZFNSSGpDdGhhYUpIaWRDYlo5S3RYdXNyd2xLWkNzc2NWVmFEY0xyeHFnOGdUNUJOb2RlZTVJdnFBS2pmRklWQjk5d01FVTdmTV9CUWNZMHRMT3pCNS1tRlpTazMwY1ZuQVFB?oc=5",
+  "title": "«Aucun candidat naturel ne s'impose» : David Lisnard relance l'idée d'une grande primaire du centre et de la droite",
+  "summary": "",
+  "published": "2026-08-25T09:00+02:00",
+  "mentions": [
+   "lisnard"
+  ],
+  "analysis": [
+   {
+    "id": "lisnard",
+    "tone": 1,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "9068aa3891843af1",
+  "outlet": "lejdd.fr",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSFhCTmdEUWg0aEtLYkY2Q1pfU1psSk9ETTUzNldVSlNKakZNNG9RNVB4dGVEeVZIMkhscGozaDNMTjFKUl9TLW9zZ3laNERJS2w0UnoxaEVBUExpdmQ2ZWEtR1cyMUM0cWJuVVE4WHVNV2NuTWo1dlRDWnZDR09tVFJ0b29zcjFSSDR4WEk4VmdYbEkyb24yX0RWbURHMnJNaUJqTThCQ3gyVTN1bVllMGpDdkJVLU1hT1Jz?oc=5",
+  "title": "Présidentielle : Édouard Philippe compte augmenter de 20 % le salaire des enseignants",
+  "summary": "",
+  "published": "2026-08-25T09:00+02:00",
+  "mentions": [
+   "philippe"
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": 1,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "9086f32d6ad22070",
+  "outlet": "Libération",
+  "lean": "centre-gauche",
+  "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPS0wzSVhyZ0hKRXJzZ2RhejY5ajlhZXZSaWJqYTFxV1JTY2hzVzd1NFZtV3Q5SFdWWnBjeVdiaXJLS0tldDBOdVJsaHcwOERncHczNUViVlVSWlEweFNuSTE2QUhyTmtEbkxEMGthVXVzLV9TdE1JU2tENjQ1TGJiZmwtTHNrRnVIZ1BpTGRvNWhkYVM5VlgxYkdNcjktLXgwV3FmWkdxT2xPdnNKM3lqWlJwcW9tbWhMU1FPd2ZHZUhsN0tSZHFMb3oyNE9mejV4UWhtMVJ5ellDMGxoTUdvTHl1NlpBSHdHbmtKOGdQbw?oc=5",
+  "title": "Jean-Luc Mélenchon, le candidat assiégé prêt à transformer sa survie en victoire",
+  "summary": "",
+  "published": "2026-08-25T09:00+02:00",
+  "mentions": [
+   "melenchon"
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": 1,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "9f3b534ee9e9f4a3",
+  "outlet": "L'Hebdo du Vendredi",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNX01KR3NfaG5RTlVnS3lJMUR3TmRFdmQ0Y3FPei1DY2RFaFMwMGc3NVl6VXg4NGwyWUI1cWJLb0JFSkoxR1B6aHZqS0ZOU3BaUWJUT2pFOXNZYnVBTWZWRUpGSGJ4RXJwUFRvYkg1WjBBQlpvaC1OSXl6STlZbmhyT3NLVThFblRVSHA2WGZpZVUxQnprbFhSaHVzaTBDdHg2Qms4cGZvY09xMUMwT0MwMlBYNA?oc=5",
+  "title": "Une nouvelle grève pressentie à la cimenterie Calcia, dans la Marne",
+  "summary": "",
+  "published": "2026-08-25T09:00+02:00",
+  "mentions": []
+ },
+ {
+  "id": "a0c42fec68489f63",
+  "outlet": "Midi Libre",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOOEwyWVFRUldBVWdabU1uZUxFMXByM0FsSzl4dlhrbHNnOXFZQ040aEtNdHBIaGtaTWtIVE11V3dITE0xLVBLaFlFejc4cjFieTNsYmZNLU90MWpHSXl2ekJ6bERfUUs2QWxEb0JQWTc4UzdqODRuMlpwVWJpeEV3M2VwVndHRlQyLXRxdFprLXBaQmV6M0M1NWZwSFlIR0dxUTdfWFY1VEVYRElrdU9VWldiYlBveU9TMTZjTTVmM1NEZVRZSGswVEFtelkyaW52TUkzYy1YZ1pRdVF3T0dEaU1oWU9KOHk5MDljWDBNeDRzcnd4dzRBVVBESkE5UVBGQTA4em5PcV9mdw?oc=5",
+  "title": "Présidentielle 2027 : passe d’armes entre Édouard Philippe et Gabriel Attal sur l’éducation, que proposent vraiment les deux candidats",
+  "summary": "",
+  "published": "2026-08-25T09:00+02:00",
+  "mentions": [
+   "philippe",
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": 0,
+    "frame": "programme"
+   },
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "a62e28c63544e8be",
+  "outlet": "ici.fr",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQcy1pSm5rYTFuVXhBV2hmd201UFRuNm1RWTdqWDBWRTY0bVdwX3hrMmJTWnYzNFEyZFg4M210YWU0enh4NGhwUk4xMFA5WVFFTTNSMFFTdGRXSE9YLVcwb2NnZ21SNnNHaDlwQ2t3MTVpNzM5YUd6QmpQZVlRU29WU3JpbXFPUHUwNXhRS0VZdjB6V21UcnJhRjh1c05MU3hVbF9oQ1FBZTI1N0N1OGdvbDEwNzBqbDRDUnQ5dlNOR1RJZVNhcXZDREkySTlNdzZJc2tGenhTcTZHZ0ZHLVBpZEFZeDM5LUVoUFFGNE53QlZQNlJsMWdfTEJvY1NFYXk0elE?oc=5",
+  "title": "Présidentielle 2027 : Raphaël Glucksmann lance sa campagne en Charente-Maritime sous le signe de l'écologie",
+  "summary": "",
+  "published": "2026-08-25T09:00+02:00",
+  "mentions": [
+   "glucksmann"
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "aa0e71ca4718a1b2",
+  "outlet": "franceinfo",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNMXBxMzFKNEx5NE45Z3ZTT3RqWjR4Y294V1dtdVVMU050M3p5TGJEcVF3RGlhMGpVemktWG9YcnJNcmdSQ1NxUXlQOWx2RWpJa09Gbm0xQkhBTFUwYlZCQy05TG9nM1FpRWFEMThKRGxPNWpqWWo5ZXZoR3dkbXotWC1PbVdYN3ByNGwzbWU1cE1FRTViaDhVZEJEN041OXpkempZSXNTbUpESDVxcHNFYTlYeERoZnhpZ0l6ZHdoakxPT01ZQ3ViV00xcTA2YVZXMWgwS2xkWDNLLUFjSS1QcFZCRDNzcjI4SXBPZFFJV2R6N3Byd1c4Q3dfeUpKSFVjYXJfZzI0eVBKQlVyMzY0b2NOaDJ5QWs?oc=5",
+  "title": "Gabriel Attal veut un ministre de l'Education \"qui restera en poste cinq ans\" et souhaite le rétablissement du certificat d'études",
+  "summary": "",
+  "published": "2026-08-25T09:00+02:00",
+  "mentions": [
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "b21e9633e5457d45",
+  "outlet": "Le Figaro",
+  "lean": "droite",
+  "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQSUhNdXhmT0VlLTVPbVN2dDZ1SGhyY21OU0hJc3F0d3hkcktHT3JNU2taTVBIX2xlcWt1eHN2R2F3T1drc3pOR0hZbGRkSkpKOHNJTkJXQ3Z0V3JxM3AwSGdCYUxpX2JxbGUwVTdOR3lOUTd3RTM0SHdaNVRKbHZ2d09yMFU5RE5LdmRYTEpyUmgyemdTdmx5SVpTdXlOQkl0bWtNNnl6R1JEeTdzTFppeTREMHhCSkhmMmtlYUJRLXFfVlNXb2c3bmZKVEM0ZWZXYkk2Z1NFSVhKRWJ0aExlTF9yV3B1emRBdlB1QUg4b0ltMTJUbG5tdzBjczNjV1FBSE5yTWV6YlhmczRjempWMG50MGFnMHZtejlKUFVhUW1fcVJBUC03Y2Z3?oc=5",
+  "title": "«Il y a un problème de niveau» : Gabriel Attal, candidat à la présidentielle, veut un ministre de l’Éducation pour cinq ans et rétablir le certificat d’études",
+  "summary": "",
+  "published": "2026-08-25T09:00+02:00",
+  "mentions": [
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "b2f8ed5858d9851a",
+  "outlet": "Le Canard enchaîné",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbDFHUUZiS0dlWHR3T2taVHl2RzBqaU1tdG5jdktqMGRJbXdvWndDTHc0TXprM1lHS2QxTUN5dmNmTm05THpLWi1TaE1sRC14R1U1NkNTSUhTOW1lRXhqeHJIdGdhcHJzWENXbGZMdzVwZW8yZ1hpOVROamVuUmY2V0xGdWJYQlBkZlo4b042Ynh6ZU1NSWVPdQ?oc=5",
+  "title": "Présidentielle 2027 : Raphaël Glucksmann, candidat socialo-dépendant",
+  "summary": "",
+  "published": "2026-08-25T09:00+02:00",
+  "mentions": [
+   "glucksmann"
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": -2,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
   "id": "b830b050a655e94e",
   "outlet": "attalpresident.fr",
   "lean": "non classé",
@@ -719,6 +874,316 @@
   "published": "2026-08-25T09:00+02:00",
   "mentions": [
    "attal"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 2,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "cb805ed16b132270",
+  "outlet": "TF1 Info",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPaFpkYng5Umo1Y0NNaE9DZENDOVA2bjJpLWFyWWstdFZyd19WU1RNMlpfbWR3NGxwek5aajRrQXI3MmpvUjIwc2VET1d1RXhwcFM5WGMxVl83N1BEVnpZREF4djVlYUVlcUZmNUJTdlZsbzFZajJxaHhJVkprclZnUGl6V3E2Ymw3Z1V4TnNESUlvc1FmU3czY0tITGV0Z2ZaQzMxSnB3WTdKMjNpdkZfZzZXeV9sN05Pd3FjR0V3cUlVMXI0aExpbzdGc0hQNUtRR0VnRVNLci10TnhUZzFTTGUzZmFoTkIwenc?oc=5",
+  "title": "\"Il faut un électrochoc\" : sur LCI, le candidat Gabriel Attal déroule ses propositions pour l'Éducation nationale",
+  "summary": "",
+  "published": "2026-08-25T09:00+02:00",
+  "mentions": [
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "cf5ff17ae6e8e55d",
+  "outlet": "RMC",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQMU90a01NV3BZX0ZBS1NFbkpYOU5PSElvRV9QRzc1TmxhbXlPTjljRU9MY21xMGZTc2s2b3g5UjIwWjhReV9XMG1JNG9TekpNRkhlOFRZaTNRdFVpWWRkcFEtaVBxWWJuSjBjOENOZFM0bGtLdFFoOE1IZ3VpU0NveTlZX0FFQkh0YXp5ekpQV1ZsT2VhQW1fcFdQdTk3TXpZYTZ2WkY5RU5iLU5NQkpuanZldUNlbDRCaXVNSmYwclcwOTIxbW1UVnpLRnBlZXJSNXpub1gyVXJWcWtkUzZkSHJDMzFBS09nOXhXSS1QeUZ0a0FjdTB0NDE0T1VyNWF4X2lLVTlwRVU3eHNUcTcwTENqNkNxMnY1M0pfcg?oc=5",
+  "title": "Damecour 2027 - Pour une campagne plus proche des gens, François Ruffin fait du stop au péage de Saint-Arnoult - 25/08",
+  "summary": "",
+  "published": "2026-08-25T09:00+02:00",
+  "mentions": [
+   "ruffin"
+  ],
+  "analysis": [
+   {
+    "id": "ruffin",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "d5ab6d29186fd71f",
+  "outlet": "CNews",
+  "lean": "droite",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZGFkR1o4c1V1SXBaQVZJZko0RFczVXI3dk1lSmNMUVVQOFowMDFfc3ZETWU2Z1I0MWl5VndWdElSS0pLRnRCdmVob3JMdEZHYUp6blV0X1lDYTFfT2RNNXRsbmJRX2lkaGN4SDA0dldMTllYNl9FM0dUMlpDVTY4MkhlUkNzSjN2V0xqaThzbkx5VV8wazRKOG9UWUFxazdKRjdDNVZ4S05fOEFmdFHSAbMBQVVfeXFMUHE3bEMyZ25BcmVsTHFhcExFMTBjVDZIS250Y0hIOXpicldoaHNkQUtSbFBOWGRhaGI0T3laeXJtdWgtdVVBSEVfd0w1VUwzWlNEeTlIbkRta0s4aGp5QUlzYTN5OGhOVFA5QXFTMFFpZWM0MTA4MXZiTGtKS1pZNWtacFd5LUtDVHhhQVV2WkR3OGtZYTE5WGRDenJ0UExmSExZWmk2MU9OaFFXYnhpTjNZbFk?oc=5",
+  "title": "Présidentielle 2027 : entre Raphaël Glucksmann et Jean-Luc Mélenchon, les Écologistes plus que jamais divisés",
+  "summary": "",
+  "published": "2026-08-25T09:00+02:00",
+  "mentions": [
+   "melenchon",
+   "glucksmann"
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   },
+   {
+    "id": "melenchon",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "d81059d3f323d189",
+  "outlet": "Nice-Matin",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQdUZhNzAwS3NJejlzZzlzRDFDT2pDZW9QSVlwZG5jejFJelpteFcxbTJlNklOOC10MjMyTnc1dGlyY01maFIxVkxpcXB4S3dlcEdDaEhydW1zaEY2bEVVU0oxYjhZLTdJbEF4TWdZU3U1M0xqcmtVRkx2dlVOVzZBMGVMRUpHVVAyQUNveW5pRE5wcUpqUVJaQTE2WHlldWlVdmZibUZXbzVxTU81cFFobFBjX3RRcnh3R1J1cmtMVGJET2dHajB3TExvcVRsZ1pkajNveFFRLVItTHRDcF9GWTJWWHM0d1pLdWtmMXVPRmEwQVRrUG5Jdm52bEZTMTVVVkl6UENIYjlLSXNtS0Vudnl3?oc=5",
+  "title": "Présidentielle 2027 : le maire de Cannes et candidat à l’Élysée David Lisnard appelle à une « grande primaire » de la droite et du centre",
+  "summary": "",
+  "published": "2026-08-25T09:00+02:00",
+  "mentions": [
+   "lisnard"
+  ],
+  "analysis": [
+   {
+    "id": "lisnard",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "dae0da9674d71c63",
+  "outlet": "Le Monde.fr",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQVnpqQTM3QlJJQ2oxaHBzM0hRVldVNUQ5Q2FXemJ2dUk3SGVVTmdfbVdLTndIbGdZNEM5WEFsQkM4M2pxcEhsV0FkOFViN2Y4eXA3S0ZLOFhqZld4VXBGb2pyYzhKWVBTX29ZZlNENVVfbGFQS2dhd09URi1EUFVnRjBQNHRLV0FuTnh5b2tPTDhDa2c2NzZUT1phVDJlRHg3VU9WemlIZlNqaFRqNzV2ekRNLWJ3NmdrajFDZlZZN0VwQ2J2X0MzQ19vUUVDNTEyWDJEODhMSzNzWWpsQzBHczAxLU1keVVSUmYxVXFFbEE4dkI1ZzNPM1NSZTVDejFN?oc=5",
+  "title": "Présidentielle 2027 : le duo Raphaël Glucksmann-Yannick Jadot se pose en défenseur de l’écologie lors d’un déplacement en Charente-Maritime",
+  "summary": "",
+  "published": "2026-08-25T09:00+02:00",
+  "mentions": [
+   "glucksmann"
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "dc2781ee41772b37",
+  "outlet": "Le Café pédagogique",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNazZUVnhHS3FDa3k1d2NkbFZHZjR1MFhGQnBuYklXcTRTWnRBX2ZkWFFwWmVxRjROS2FiR0lVbDFsaXN5dllqVFhmS1VxNFJmdkprWFlHcG1jbnNXSUNyZWZ5Q2EzOU5fa3lJT25TT0VtQUc3Q3QxWHFLR0dJdnVTckN2SDEtR2RZUDFDQkY5bXlJOHFCeVI0aFE5czNDN08yRWVaMVZDaXluZGpOUWtIbVVWUmlfdw?oc=5",
+  "title": "Raphaël Glucksmann et Édouard Philippe se tournent vers les enseignants",
+  "summary": "",
+  "published": "2026-08-25T09:00+02:00",
+  "mentions": [
+   "philippe",
+   "glucksmann"
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   },
+   {
+    "id": "philippe",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "e2c44bbb5d1ab92d",
+  "outlet": "l'Opinion",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSUk4WDJrYnU3WGJyMFV4dlEzLU9zZ3huY2lObnRJTjE0cU5jUHZqZ1JzQWt2Y1lDNWxYTWp5YzlGaGtSd2FZRjZocUlnM2YyVXRhSm1icVZTTk9sbWd0R3RzUFpnMXU5Vk5YZ2NWbXhYaVpheVJRbWhWcTZtZkRfR1NZN1IyTjNwYWMtdWhhenhVY3dqaTlZQjFVenJ3TmtEZ3VRaXpWWUpXSTl6ODNEMQ?oc=5",
+  "title": "A Cannes, David Lisnard réunit la galaxie libérale et tend la main à sa droite",
+  "summary": "",
+  "published": "2026-08-25T09:00+02:00",
+  "mentions": [
+   "lisnard"
+  ],
+  "analysis": [
+   {
+    "id": "lisnard",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "e3d7333d2b988544",
+  "outlet": "Nouvelle Énergie",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMmNGSW5mWmQ4MDVabzJsaWFyUldNMWtxOHlSVnFEYVllRnNYT2N4c1pmaUZxbHRXMGxqb3pjS1RUV3haakN0eF9wNUEwMmJRQm9FSDBkTFo2RUdZOXBSUm0wdXdsUEtScjdzcTlzY09RazdyVkRwY09DRkZWWkVHeXBnWFN2dzZ6SlVpUC1IOGJyeTh4QXlGZXJtdkhxMzR0NDVzUjNpeHVVTVdvVHRPMV9HdFc2MDh5czV3V0pGR21ySGs?oc=5",
+  "title": "Disparition de Philippe Bouvard : David Lisnard salue une figure majeure de l’esprit français",
+  "summary": "",
+  "published": "2026-08-25T09:00+02:00",
+  "mentions": [
+   "lisnard"
+  ],
+  "analysis": [
+   {
+    "id": "lisnard",
+    "tone": 1,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "ea785537c9185c51",
+  "outlet": "L'Humanité",
+  "lean": "gauche",
+  "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPWnRIclgyZGpJN3lvVEttNllaZTh0UkZJVklkOVJKVGxvZjNGVmV4QzJjeE9FVlFGeGtPTURlZ3hhSU0ydkhTQXUxV1RqdDF3Y1lKMi1oQ21RemJESTF2cTdXb3l2Nmh2YlF1OVlvS3lxUE9aS29pOFJaRGJpUHV6RGFxSGMybDRxZ0lPOU5RcVFjS2pxVWxrclFoSzVNRXprUU9GeFlCLWVCWFNCNkNvWmFTeVFzQ0MxZXhiNUJKcGFfdVhwbTBVNGVqeEt5SXh1S2tnLWlxZlVoNGxNak9jVC1B?oc=5",
+  "title": "Cannes veut dépister le protoxyde d’azote au volant : le dispositif controversé de David Lisnard",
+  "summary": "",
+  "published": "2026-08-25T09:00+02:00",
+  "mentions": [
+   "lisnard"
+  ],
+  "analysis": [
+   {
+    "id": "lisnard",
+    "tone": -1,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "eb07e0ca7d2597cc",
+  "outlet": "Le Parisien",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPVDY0NXJ0TURtNkZ2U2p3R01SQzVFOV80anpMVVpsMWV3bzhwQU9zLUg4STk3V2wtdTVobmNDZjV5WmNYbkpNWWt1V2dySjgzb04wQkE1N0s4RlFiN1ZQVDNKdnJiNGhlZTR3TXhCQ0hxVE5YZ0ZzSjdrMDlObzdTbWtHZDhod1dMWEJhaFc0SGFJNENUcG9ldU1mNkw3anFFeUxrRUc2dWNHYURFY1FVU2x2MWRNUmNiVElYR25zekVwU1ZjdVpVRjVUYV9scnNMcTNLcHVTVmZqQVVXX1BleVpPMXd4NFpIdHMzRHpGdW9kSFk?oc=5",
+  "title": "« C’est maintenant que ça commence » : Retailleau, une rentrée à haut risque",
+  "summary": "",
+  "published": "2026-08-25T09:00+02:00",
+  "mentions": [
+   "retailleau"
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": -1,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "ef850d15fc852b78",
+  "outlet": "Place publique",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMmhkTzk2a1F1cnJSOHVJUjV3VFBsUGExLVpQZ0V2TDJ3WlBnal95cWVjRWZjVTRDbXlWZVNIU3J6WDdTU3poV2JoU3ZjVzd1ZHdiQWVxSUpqbG5Ha0ZKd1k2d3pTUFJIbG42MnFnVVpkZ3hmUXl0ZFFpVmNQVEdObVh1WnhhNHJvZ0NxNkxuM0tGR1pNTENTYXliRVI?oc=5",
+  "title": "Raphaël Glucksmann - Sa lettre aux Français",
+  "summary": "",
+  "published": "2026-08-25T09:00+02:00",
+  "mentions": [
+   "glucksmann"
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "f4053af44373abee",
+  "outlet": "Le Monde.fr",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQNHN2Q0ZIYkFweWxBOHlXREJRV2pmenROTWhuZGd1cW9Xb0pNa1dwLWtJMHBPbUJDWjRLaTRfbm9JSXBTQUtmU04tRFpxbmtqZGpiaFhOaFVDUmliczd6QjJhRXdILVk0ZG5WNFM2SUJrUFNnWU5RZEdhc2dVbzVuajJkOW9ubDJsTnVqNG1KRFlqSFFzRHhtWWFjWURocndjMDhUTzU5elNoQUhQSURSSVl0TVExZ1JpaS1PcURSWHF6aUNKSy1HeHlucjNXb3drY3JuaG9xSkI1ZlJIanlVdFVSN3MwMjBKUk55UDc2QUVJbi1sSG5IcVZpSWdKMzFKMG5HcFVQaVBzbFc5RmdMcEFtb2V3YlVCY3dONTc0Q0YwTGc?oc=5",
+  "title": "Raphaël Glucksmann promet une « révolution écologique » en cent jours s’il est élu président de la République",
+  "summary": "",
+  "published": "2026-08-25T09:00+02:00",
+  "mentions": [
+   "glucksmann"
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": 1,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "f4c526270f091ba3",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQY2JSaWJuV2c4RGdweXVXTUhQYVZudjhEMmtZamtBSjJ2aGIzZnBpNGlwMWFrd19MNExrTTZGWEFfZmdpOHdUQ3BacDVDVWRfR2phNk9zNUhlY1ZZOU91NkpENnN6a2xOMzR2VUt3d2R2N2JaekdVSF9Ua01GTEp2b0JqMDJVdFNlV215dWJPMWUtNGlvTGtQTndjWTVhMEVrTmVMLTk2NHh0bzF1REcxREh3RkFRTjluWklHNmx6bTdoQkxQYmIyZmk3d2VaYnNCdVNmZGxJbkozSzVNV3E4?oc=5",
+  "title": "Raphaël Glucksmann: \"Il faut porter une réforme profonde de la politique agricole commune\"",
+  "summary": "",
+  "published": "2026-08-25T09:00+02:00",
+  "mentions": [
+   "glucksmann"
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "fa8d8b16abca50a5",
+  "outlet": "Les Surligneurs",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOY05HTmdXeEhscEpGSVJLTHI5ZG9pUDhIWmFPQ1FwTTVKdFdoR3A3RG1rM3VUbUpBYU41dTlpeUlHXzhadFZqX2JFSW9rUkFtZXJXd1otdnlOdjR6c01qRUhwczA2by03Sk9QYlJoUUZpa2h0eGREVVB5bW1rR2VfWVl6b0JfQTc1MGh6dTFrcU5LZ2x0VzBvUHRHdTE4aVpudWwzX3h4dGQtTmRfcjZIQmpPczk5dmhkZjYwOXlR?oc=5",
+  "title": "Une loi autorise-t-elle vraiment les avortements \"jusqu’au jour de la naissance\" au Massachusetts",
+  "summary": "",
+  "published": "2026-08-25T09:00+02:00",
+  "mentions": []
+ },
+ {
+  "id": "fc6b3aa10a9fbfd7",
+  "outlet": "TF1 Info",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOeUVNeVE4ZUt1VVAyT2lUdzNtZ3hXRVAycEJNY0NEMnYwRHM4ZFVJT0pRbGs5LXhOUjlZSmhIbWF4ZnNDQnllUFQwVmNmb2xsNXdiLU5teTFDenNVWDJwQjk1UFpjUFBQc0htcjVRaTNHYlViaXgzUGNwLXRlOGJxSFZhNlNlaUVxVmhBWDM0b1JwTzNvc2Y1VENaZklzdVFhNFY3TWU3U1VJbE1TTHkyM01sZG5YbVl5MlJ1aGNHVVlscWs3dzBqN2trQWFJXzg3WTV1VFJkWUtCUzE4V1hweTc0TUd4Y3dQa0t2djJrUW0?oc=5",
+  "title": "\"Je n'ai pas peur, j'ai hâte d’être tout en haut\" : Raphaël Glucksmann lance sa campagne présidentielle dans les airs",
+  "summary": "",
+  "published": "2026-08-25T09:00+02:00",
+  "mentions": [
+   "glucksmann"
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": 1,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  }
 ]

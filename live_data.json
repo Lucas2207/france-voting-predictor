@@ -1,6 +1,6 @@
 {
- "last_updated": "2026-10-31 11:42",
- "today": "2026-10-31",
+ "last_updated": "2026-11-01 09:23",
+ "today": "2026-11-01",
  "candidates": [
   {
    "id": "lepen",
@@ -122,7 +122,7 @@
    "wiki": "Fabien Roussel",
    "party": "Parti communiste français",
    "badge": "PCF",
-   "color": "#B3261E",
+   "color": "#b3461e",
    "main": false,
    "aliases": [
     "Fabien Roussel",
@@ -185,16 +185,16 @@
    "n_polls": 8,
    "change_7d": 0.0,
    "media": {
-    "articles_7d": 47,
-    "share_7d": 0.346,
+    "articles_7d": 40,
+    "share_7d": 0.331,
     "tone_7d": -0.29,
-    "tone_baseline": 0.25,
-    "adjustment": 0.0,
-    "status": "calibrage"
+    "tone_baseline": -0.21,
+    "adjustment": -0.1,
+    "status": "ok"
    },
-   "projected": 34.2,
-   "projected_lo": 30.7,
-   "projected_hi": 37.7
+   "projected": 34.1,
+   "projected_lo": 30.6,
+   "projected_hi": 37.6
   },
   {
    "id": "melenchon",
@@ -204,16 +204,16 @@
    "n_polls": 8,
    "change_7d": 0.0,
    "media": {
-    "articles_7d": 25,
-    "share_7d": 0.184,
-    "tone_7d": -0.23,
-    "tone_baseline": null,
-    "adjustment": 0.0,
-    "status": "calibrage"
+    "articles_7d": 23,
+    "share_7d": 0.19,
+    "tone_7d": -0.36,
+    "tone_baseline": -0.22,
+    "adjustment": -0.2,
+    "status": "ok"
    },
-   "projected": 16.9,
-   "projected_lo": 13.8,
-   "projected_hi": 20.0
+   "projected": 16.7,
+   "projected_lo": 13.6,
+   "projected_hi": 19.8
   },
   {
    "id": "philippe",
@@ -223,16 +223,16 @@
    "n_polls": 8,
    "change_7d": 0.0,
    "media": {
-    "articles_7d": 9,
+    "articles_7d": 8,
     "share_7d": 0.066,
-    "tone_7d": -0.72,
-    "tone_baseline": null,
-    "adjustment": 0.0,
-    "status": "calibrage"
+    "tone_7d": -0.67,
+    "tone_baseline": -0.35,
+    "adjustment": -0.5,
+    "status": "ok"
    },
-   "projected": 14.1,
-   "projected_lo": 9.6,
-   "projected_hi": 18.6
+   "projected": 13.6,
+   "projected_lo": 9.1,
+   "projected_hi": 18.1
   },
   {
    "id": "glucksmann",
@@ -242,16 +242,16 @@
    "n_polls": 8,
    "change_7d": 0.0,
    "media": {
-    "articles_7d": 18,
+    "articles_7d": 16,
     "share_7d": 0.132,
-    "tone_7d": -0.18,
-    "tone_baseline": null,
-    "adjustment": 0.0,
-    "status": "calibrage"
+    "tone_7d": -0.02,
+    "tone_baseline": -0.11,
+    "adjustment": 0.1,
+    "status": "ok"
    },
-   "projected": 13.1,
-   "projected_lo": 10.3,
-   "projected_hi": 15.9
+   "projected": 13.2,
+   "projected_lo": 10.4,
+   "projected_hi": 16.0
   },
   {
    "id": "attal",
@@ -262,11 +262,11 @@
    "change_7d": 0.0,
    "media": {
     "articles_7d": 3,
-    "share_7d": 0.022,
+    "share_7d": 0.025,
     "tone_7d": -1.0,
-    "tone_baseline": null,
+    "tone_baseline": -0.22,
     "adjustment": 0.0,
-    "status": "calibrage"
+    "status": "trop_peu_articles"
    },
    "projected": 8.0,
    "projected_lo": 2.6,
@@ -281,11 +281,11 @@
    "change_7d": 0.0,
    "media": {
     "articles_7d": 4,
-    "share_7d": 0.029,
+    "share_7d": 0.033,
     "tone_7d": -0.17,
-    "tone_baseline": null,
+    "tone_baseline": -0.28,
     "adjustment": 0.0,
-    "status": "calibrage"
+    "status": "trop_peu_articles"
    },
    "projected": 7.0,
    "projected_lo": 4.7,
@@ -299,12 +299,12 @@
    "n_polls": 7,
    "change_7d": 0.0,
    "media": {
-    "articles_7d": 6,
-    "share_7d": 0.044,
-    "tone_7d": 0.4,
-    "tone_baseline": null,
+    "articles_7d": 5,
+    "share_7d": 0.041,
+    "tone_7d": 0.25,
+    "tone_baseline": -0.37,
     "adjustment": 0.0,
-    "status": "calibrage"
+    "status": "trop_peu_articles"
    },
    "projected": 6.6,
    "projected_lo": 4.4,
@@ -319,11 +319,11 @@
    "change_7d": 0.0,
    "media": {
     "articles_7d": 2,
-    "share_7d": 0.015,
+    "share_7d": 0.017,
     "tone_7d": 0.0,
-    "tone_baseline": null,
+    "tone_baseline": -0.71,
     "adjustment": 0.0,
-    "status": "calibrage"
+    "status": "trop_peu_articles"
    },
    "projected": 4.1,
    "projected_lo": 2.7,
@@ -338,11 +338,11 @@
    "change_7d": 0.0,
    "media": {
     "articles_7d": 1,
-    "share_7d": 0.007,
+    "share_7d": 0.008,
     "tone_7d": 1.0,
-    "tone_baseline": null,
+    "tone_baseline": -0.09,
     "adjustment": 0.0,
-    "status": "calibrage"
+    "status": "trop_peu_articles"
    },
    "projected": 2.1,
    "projected_lo": 0.8,
@@ -359,9 +359,9 @@
     "articles_7d": 0,
     "share_7d": 0.0,
     "tone_7d": null,
-    "tone_baseline": null,
+    "tone_baseline": -0.28,
     "adjustment": 0.0,
-    "status": "calibrage"
+    "status": "trop_peu_articles"
    },
    "projected": 1.9,
    "projected_lo": 0.9,
@@ -378,9 +378,9 @@
     "articles_7d": 0,
     "share_7d": 0.0,
     "tone_7d": null,
-    "tone_baseline": null,
+    "tone_baseline": -0.14,
     "adjustment": 0.0,
-    "status": "calibrage"
+    "status": "trop_peu_articles"
    },
    "projected": 0.6,
    "projected_lo": 0,
@@ -388,71 +388,6 @@
   }
  ],
  "history": [
-  {
-   "date": "2026-05-04",
-   "polls": {
-    "lepen": {
-     "mean": 32.5,
-     "lo": 30.3,
-     "hi": 34.7,
-     "n_polls": 1
-    },
-    "melenchon": {
-     "mean": 12.2,
-     "lo": 10.7,
-     "hi": 13.8,
-     "n_polls": 1
-    },
-    "philippe": {
-     "mean": 19.0,
-     "lo": 17.1,
-     "hi": 20.9,
-     "n_polls": 1
-    },
-    "glucksmann": {
-     "mean": 11.5,
-     "lo": 10.0,
-     "hi": 13.0,
-     "n_polls": 1
-    },
-    "attal": {
-     "mean": 14.0,
-     "lo": 12.4,
-     "hi": 15.6,
-     "n_polls": 1
-    },
-    "zemmour": {
-     "mean": 5.2,
-     "lo": 4.2,
-     "hi": 6.3,
-     "n_polls": 1
-    },
-    "retailleau": {
-     "mean": 11.0,
-     "lo": 9.5,
-     "hi": 12.5,
-     "n_polls": 1
-    },
-    "roussel": {
-     "mean": 3.7,
-     "lo": 2.7,
-     "hi": 4.8,
-     "n_polls": 1
-    },
-    "dupontaignan": {
-     "mean": 1.2,
-     "lo": 0.2,
-     "hi": 2.2,
-     "n_polls": 1
-    },
-    "arthaud": {
-     "mean": 1.0,
-     "lo": 0,
-     "hi": 2.0,
-     "n_polls": 1
-    }
-   }
-  },
   {
    "date": "2026-05-05",
    "polls": {
@@ -12260,6 +12195,77 @@
      "n_polls": 8
     }
    }
+  },
+  {
+   "date": "2026-11-01",
+   "polls": {
+    "lepen": {
+     "mean": 34.2,
+     "lo": 30.7,
+     "hi": 37.7,
+     "n_polls": 8
+    },
+    "melenchon": {
+     "mean": 16.9,
+     "lo": 13.8,
+     "hi": 20.0,
+     "n_polls": 8
+    },
+    "philippe": {
+     "mean": 14.1,
+     "lo": 9.6,
+     "hi": 18.6,
+     "n_polls": 8
+    },
+    "glucksmann": {
+     "mean": 13.1,
+     "lo": 10.3,
+     "hi": 15.9,
+     "n_polls": 8
+    },
+    "attal": {
+     "mean": 8.0,
+     "lo": 2.6,
+     "hi": 13.3,
+     "n_polls": 8
+    },
+    "zemmour": {
+     "mean": 4.1,
+     "lo": 2.7,
+     "hi": 5.5,
+     "n_polls": 8
+    },
+    "retailleau": {
+     "mean": 7.0,
+     "lo": 4.7,
+     "hi": 9.3,
+     "n_polls": 8
+    },
+    "lisnard": {
+     "mean": 6.6,
+     "lo": 4.4,
+     "hi": 8.8,
+     "n_polls": 7
+    },
+    "roussel": {
+     "mean": 1.9,
+     "lo": 0.9,
+     "hi": 2.9,
+     "n_polls": 8
+    },
+    "dupontaignan": {
+     "mean": 2.1,
+     "lo": 0.8,
+     "hi": 3.4,
+     "n_polls": 8
+    },
+    "arthaud": {
+     "mean": 0.6,
+     "lo": 0,
+     "hi": 1.6,
+     "n_polls": 8
+    }
+   }
   }
  ],
  "polls": [
@@ -13141,214 +13147,214 @@
   {
    "date": "2026-07-01",
    "candidates": {
-    "lepen": {
-     "articles": 1,
-     "tone": null
-    },
-    "melenchon": {
-     "articles": 6,
-     "tone": null
-    },
-    "retailleau": {
-     "articles": 13,
-     "tone": null
+    "lisnard": {
+     "articles": 12,
+     "tone": 0.0
     },
     "philippe": {
      "articles": 8,
-     "tone": null
+     "tone": 0.62
+    },
+    "retailleau": {
+     "articles": 13,
+     "tone": -0.77
     },
     "attal": {
      "articles": 4,
-     "tone": null
+     "tone": -0.25
     },
-    "lisnard": {
-     "articles": 12,
-     "tone": null
-    },
-    "dupontaignan": {
-     "articles": 1,
-     "tone": null
+    "melenchon": {
+     "articles": 6,
+     "tone": 0.0
     },
     "ruffin": {
      "articles": 1,
-     "tone": null
+     "tone": 0.0
+    },
+    "lepen": {
+     "articles": 1,
+     "tone": 0.0
+    },
+    "dupontaignan": {
+     "articles": 1,
+     "tone": 0.0
     }
    }
   },
   {
    "date": "2026-07-02",
    "candidates": {
-    "melenchon": {
-     "articles": 3,
-     "tone": null
-    },
-    "philippe": {
-     "articles": 3,
-     "tone": null
-    },
     "attal": {
      "articles": 4,
-     "tone": null
-    },
-    "zemmour": {
-     "articles": 1,
-     "tone": null
-    },
-    "retailleau": {
-     "articles": 4,
-     "tone": null
-    },
-    "roussel": {
-     "articles": 1,
-     "tone": null
-    },
-    "glucksmann": {
-     "articles": 1,
-     "tone": null
+     "tone": 0.0
     },
     "ruffin": {
      "articles": 2,
-     "tone": null
+     "tone": 1.0
+    },
+    "philippe": {
+     "articles": 3,
+     "tone": 0.0
+    },
+    "roussel": {
+     "articles": 1,
+     "tone": 0.0
+    },
+    "retailleau": {
+     "articles": 4,
+     "tone": 0.0
+    },
+    "melenchon": {
+     "articles": 3,
+     "tone": 0.0
+    },
+    "glucksmann": {
+     "articles": 1,
+     "tone": 0.0
+    },
+    "zemmour": {
+     "articles": 1,
+     "tone": 0.0
     }
    }
   },
   {
    "date": "2026-07-03",
    "candidates": {
-    "melenchon": {
-     "articles": 5,
-     "tone": null
-    },
     "philippe": {
      "articles": 9,
-     "tone": null
-    },
-    "retailleau": {
-     "articles": 16,
-     "tone": null
-    },
-    "lisnard": {
-     "articles": 10,
-     "tone": null
-    },
-    "roussel": {
-     "articles": 4,
-     "tone": null
-    },
-    "dupontaignan": {
-     "articles": 5,
-     "tone": null
-    },
-    "lepen": {
-     "articles": 1,
-     "tone": null
+     "tone": -0.83
     },
     "attal": {
      "articles": 4,
-     "tone": null
+     "tone": 0.0
+    },
+    "retailleau": {
+     "articles": 16,
+     "tone": -0.38
+    },
+    "lisnard": {
+     "articles": 10,
+     "tone": 0.0
+    },
+    "melenchon": {
+     "articles": 5,
+     "tone": -0.25
+    },
+    "dupontaignan": {
+     "articles": 5,
+     "tone": -1.2
+    },
+    "roussel": {
+     "articles": 4,
+     "tone": 0.0
+    },
+    "lepen": {
+     "articles": 1,
+     "tone": 0.0
     }
    }
   },
   {
    "date": "2026-07-04",
    "candidates": {
-    "melenchon": {
-     "articles": 3,
-     "tone": null
-    },
-    "retailleau": {
-     "articles": 1,
-     "tone": null
-    },
-    "lisnard": {
-     "articles": 2,
-     "tone": null
-    },
-    "roussel": {
-     "articles": 1,
-     "tone": null
-    },
-    "dupontaignan": {
-     "articles": 1,
-     "tone": null
-    },
-    "lepen": {
-     "articles": 2,
-     "tone": null
-    },
     "philippe": {
      "articles": 3,
-     "tone": null
+     "tone": -0.5
     },
     "attal": {
      "articles": 1,
-     "tone": null
+     "tone": 0.0
+    },
+    "lepen": {
+     "articles": 2,
+     "tone": 0.0
+    },
+    "lisnard": {
+     "articles": 2,
+     "tone": 0.0
+    },
+    "melenchon": {
+     "articles": 3,
+     "tone": -1.0
+    },
+    "retailleau": {
+     "articles": 1,
+     "tone": -2.0
+    },
+    "roussel": {
+     "articles": 1,
+     "tone": 0.0
+    },
+    "dupontaignan": {
+     "articles": 1,
+     "tone": 0.0
     }
    }
   },
   {
    "date": "2026-07-05",
    "candidates": {
-    "lepen": {
-     "articles": 2,
-     "tone": null
-    },
-    "melenchon": {
-     "articles": 8,
-     "tone": null
-    },
-    "philippe": {
-     "articles": 12,
-     "tone": null
-    },
     "zemmour": {
      "articles": 4,
-     "tone": null
-    },
-    "lisnard": {
-     "articles": 1,
-     "tone": null
+     "tone": 0.0
     },
     "roussel": {
      "articles": 23,
-     "tone": null
+     "tone": 0.22
     },
-    "dupontaignan": {
+    "lepen": {
+     "articles": 2,
+     "tone": -1.0
+    },
+    "philippe": {
+     "articles": 12,
+     "tone": 0.0
+    },
+    "melenchon": {
+     "articles": 8,
+     "tone": -0.12
+    },
+    "lisnard": {
      "articles": 1,
-     "tone": null
+     "tone": -1.0
     },
     "glucksmann": {
      "articles": 1,
-     "tone": null
+     "tone": -1.0
+    },
+    "dupontaignan": {
+     "articles": 1,
+     "tone": 0.0
     }
    }
   },
   {
    "date": "2026-07-06",
    "candidates": {
+    "ruffin": {
+     "articles": 4,
+     "tone": 0.0
+    },
     "lepen": {
      "articles": 1,
-     "tone": null
-    },
-    "philippe": {
-     "articles": 3,
-     "tone": null
-    },
-    "dupontaignan": {
-     "articles": 1,
-     "tone": null
-    },
-    "glucksmann": {
-     "articles": 2,
-     "tone": null
+     "tone": -1.0
     },
     "retailleau": {
      "articles": 1,
-     "tone": null
+     "tone": -1.0
     },
-    "ruffin": {
-     "articles": 4,
-     "tone": null
+    "philippe": {
+     "articles": 3,
+     "tone": 0.0
+    },
+    "dupontaignan": {
+     "articles": 1,
+     "tone": 0.0
+    },
+    "glucksmann": {
+     "articles": 2,
+     "tone": -0.5
     }
    }
   },
@@ -13357,39 +13363,39 @@
    "candidates": {
     "lepen": {
      "articles": 34,
-     "tone": null
-    },
-    "melenchon": {
-     "articles": 1,
-     "tone": null
+     "tone": -0.57
     },
     "zemmour": {
      "articles": 1,
-     "tone": null
+     "tone": -1.0
     },
     "retailleau": {
      "articles": 20,
-     "tone": null
-    },
-    "philippe": {
-     "articles": 2,
-     "tone": null
-    },
-    "dupontaignan": {
-     "articles": 1,
-     "tone": null
-    },
-    "attal": {
-     "articles": 3,
-     "tone": null
+     "tone": -0.15
     },
     "ruffin": {
      "articles": 10,
-     "tone": null
+     "tone": 0.0
+    },
+    "attal": {
+     "articles": 3,
+     "tone": 0.0
+    },
+    "philippe": {
+     "articles": 2,
+     "tone": 0.0
+    },
+    "melenchon": {
+     "articles": 1,
+     "tone": -1.0
+    },
+    "dupontaignan": {
+     "articles": 1,
+     "tone": 0.0
     },
     "glucksmann": {
      "articles": 1,
-     "tone": null
+     "tone": 0.0
     }
    }
   },
@@ -13398,23 +13404,23 @@
    "candidates": {
     "lepen": {
      "articles": 26,
-     "tone": null
-    },
-    "philippe": {
-     "articles": 4,
-     "tone": null
-    },
-    "retailleau": {
-     "articles": 1,
-     "tone": null
-    },
-    "dupontaignan": {
-     "articles": 1,
-     "tone": null
+     "tone": -0.54
     },
     "ruffin": {
      "articles": 4,
-     "tone": null
+     "tone": 0.0
+    },
+    "dupontaignan": {
+     "articles": 1,
+     "tone": 0.0
+    },
+    "philippe": {
+     "articles": 4,
+     "tone": 0.25
+    },
+    "retailleau": {
+     "articles": 1,
+     "tone": 0.0
     }
    }
   },
@@ -13423,27 +13429,27 @@
    "candidates": {
     "lepen": {
      "articles": 24,
-     "tone": null
+     "tone": -0.3
+    },
+    "ruffin": {
+     "articles": 2,
+     "tone": -1.0
     },
     "retailleau": {
      "articles": 7,
-     "tone": null
+     "tone": -0.33
+    },
+    "philippe": {
+     "articles": 3,
+     "tone": -1.0
     },
     "attal": {
      "articles": 1,
      "tone": null
     },
-    "philippe": {
-     "articles": 3,
-     "tone": null
-    },
     "melenchon": {
      "articles": 1,
-     "tone": null
-    },
-    "ruffin": {
-     "articles": 2,
-     "tone": null
+     "tone": -1.0
     }
    }
   },
@@ -13452,68 +13458,68 @@
    "candidates": {
     "lepen": {
      "articles": 6,
-     "tone": null
-    },
-    "philippe": {
-     "articles": 5,
-     "tone": null
-    },
-    "attal": {
-     "articles": 5,
-     "tone": null
+     "tone": -1.0
     },
     "glucksmann": {
      "articles": 7,
-     "tone": null
-    },
-    "retailleau": {
-     "articles": 1,
-     "tone": null
-    },
-    "lisnard": {
-     "articles": 1,
-     "tone": null
-    },
-    "ruffin": {
-     "articles": 1,
-     "tone": null
+     "tone": 0.14
     },
     "melenchon": {
      "articles": 1,
-     "tone": null
+     "tone": -1.0
+    },
+    "philippe": {
+     "articles": 5,
+     "tone": 0.0
+    },
+    "attal": {
+     "articles": 5,
+     "tone": 0.0
+    },
+    "ruffin": {
+     "articles": 1,
+     "tone": 0.0
+    },
+    "retailleau": {
+     "articles": 1,
+     "tone": 0.0
+    },
+    "lisnard": {
+     "articles": 1,
+     "tone": 0.0
     }
    }
   },
   {
    "date": "2026-07-11",
    "candidates": {
-    "melenchon": {
-     "articles": 6,
-     "tone": null
+    "glucksmann": {
+     "articles": 2,
+     "tone": 0.0
     },
     "philippe": {
      "articles": 3,
-     "tone": null
+     "tone": -0.33
+    },
+    "melenchon": {
+     "articles": 6,
+     "tone": 0.17
     },
     "attal": {
      "articles": 2,
-     "tone": null
+     "tone": 0.5
     },
     "lepen": {
      "articles": 5,
-     "tone": null
+     "tone": 0.0
     },
     "retailleau": {
      "articles": 1,
-     "tone": null
-    },
-    "glucksmann": {
-     "articles": 2,
-     "tone": null
+     "tone": 0.0
     },
     "ruffin": {
      "articles": 1,
-     "tone": null
+     "tone": 0.0
     }
    }
   },
@@ -13522,27 +13528,27 @@
    "candidates": {
     "lepen": {
      "articles": 8,
-     "tone": null
-    },
-    "melenchon": {
-     "articles": 4,
-     "tone": null
+     "tone": -0.83
     },
     "glucksmann": {
      "articles": 15,
-     "tone": null
+     "tone": -0.07
     },
-    "philippe": {
-     "articles": 1,
-     "tone": null
-    },
-    "attal": {
+    "melenchon": {
      "articles": 4,
-     "tone": null
+     "tone": -0.5
     },
     "ruffin": {
      "articles": 4,
-     "tone": null
+     "tone": 0.0
+    },
+    "philippe": {
+     "articles": 1,
+     "tone": 0.0
+    },
+    "attal": {
+     "articles": 4,
+     "tone": 0.25
     },
     "retailleau": {
      "articles": 1,
@@ -13553,13 +13559,13 @@
   {
    "date": "2026-07-13",
    "candidates": {
+    "ruffin": {
+     "articles": 2,
+     "tone": 0.0
+    },
     "philippe": {
      "articles": 2,
-     "tone": null
-    },
-    "glucksmann": {
-     "articles": 1,
-     "tone": null
+     "tone": 0.0
     },
     "lepen": {
      "articles": 1,
@@ -13567,15 +13573,15 @@
     },
     "melenchon": {
      "articles": 1,
-     "tone": null
+     "tone": 1.0
+    },
+    "glucksmann": {
+     "articles": 1,
+     "tone": 1.0
     },
     "retailleau": {
      "articles": 1,
-     "tone": null
-    },
-    "ruffin": {
-     "articles": 2,
-     "tone": null
+     "tone": 0.0
     }
    }
   },
@@ -13584,85 +13590,85 @@
    "candidates": {
     "melenchon": {
      "articles": 4,
-     "tone": null
+     "tone": 0.5
     },
     "philippe": {
      "articles": 2,
-     "tone": null
+     "tone": -1.5
     },
     "glucksmann": {
      "articles": 1,
-     "tone": null
+     "tone": 0.0
     },
     "attal": {
      "articles": 1,
-     "tone": null
-    },
-    "retailleau": {
-     "articles": 1,
-     "tone": null
+     "tone": 0.0
     },
     "ruffin": {
      "articles": 1,
-     "tone": null
+     "tone": 0.0
+    },
+    "retailleau": {
+     "articles": 1,
+     "tone": 0.0
     }
    }
   },
   {
    "date": "2026-07-15",
    "candidates": {
-    "lepen": {
-     "articles": 10,
-     "tone": null
-    },
-    "retailleau": {
-     "articles": 8,
-     "tone": null
-    },
     "melenchon": {
      "articles": 6,
-     "tone": null
+     "tone": -0.67
     },
     "philippe": {
      "articles": 2,
-     "tone": null
+     "tone": -1.0
     },
-    "glucksmann": {
-     "articles": 2,
-     "tone": null
+    "retailleau": {
+     "articles": 9,
+     "tone": -0.22
     },
     "attal": {
      "articles": 13,
-     "tone": null
+     "tone": -0.15
+    },
+    "lepen": {
+     "articles": 10,
+     "tone": -0.89
+    },
+    "glucksmann": {
+     "articles": 2,
+     "tone": 0.0
     }
    }
   },
   {
    "date": "2026-07-16",
    "candidates": {
-    "lepen": {
-     "articles": 2,
-     "tone": null
-    },
-    "philippe": {
-     "articles": 2,
-     "tone": null
-    },
     "attal": {
      "articles": 5,
-     "tone": null
+     "tone": -0.6
     },
-    "glucksmann": {
-     "articles": 1,
-     "tone": null
-    },
-    "melenchon": {
-     "articles": 4,
-     "tone": null
+    "lepen": {
+     "articles": 2,
+     "tone": 0.0
     },
     "retailleau": {
      "articles": 1,
-     "tone": null
+     "tone": 0.0
+    },
+    "glucksmann": {
+     "articles": 1,
+     "tone": 0.0
+    },
+    "philippe": {
+     "articles": 2,
+     "tone": -0.5
+    },
+    "melenchon": {
+     "articles": 4,
+     "tone": -0.25
     }
    }
   },
@@ -13671,63 +13677,63 @@
    "candidates": {
     "melenchon": {
      "articles": 3,
-     "tone": null
-    },
-    "philippe": {
-     "articles": 2,
-     "tone": null
+     "tone": 0.0
     },
     "glucksmann": {
      "articles": 1,
-     "tone": null
+     "tone": 0.0
     },
     "retailleau": {
      "articles": 2,
-     "tone": null
-    },
-    "attal": {
-     "articles": 2,
-     "tone": null
+     "tone": 0.0
     },
     "ruffin": {
      "articles": 2,
-     "tone": null
+     "tone": -0.5
+    },
+    "philippe": {
+     "articles": 2,
+     "tone": 0.0
+    },
+    "attal": {
+     "articles": 2,
+     "tone": 0.5
     }
    }
   },
   {
    "date": "2026-07-18",
    "candidates": {
+    "ruffin": {
+     "articles": 5,
+     "tone": 0.0
+    },
     "philippe": {
      "articles": 6,
-     "tone": null
+     "tone": 0.0
     },
-    "lepen": {
+    "lisnard": {
      "articles": 1,
-     "tone": null
+     "tone": 0.0
+    },
+    "retailleau": {
+     "articles": 1,
+     "tone": 0.0
     },
     "melenchon": {
      "articles": 2,
-     "tone": null
+     "tone": 0.0
     },
     "glucksmann": {
      "articles": 1,
-     "tone": null
+     "tone": 0.0
     },
     "attal": {
      "articles": 1,
      "tone": null
     },
-    "lisnard": {
+    "lepen": {
      "articles": 1,
-     "tone": null
-    },
-    "retailleau": {
-     "articles": 1,
-     "tone": null
-    },
-    "ruffin": {
-     "articles": 5,
      "tone": null
     }
    }
@@ -13737,23 +13743,23 @@
    "candidates": {
     "philippe": {
      "articles": 3,
-     "tone": null
+     "tone": -0.33
     },
     "attal": {
      "articles": 1,
-     "tone": null
+     "tone": 0.0
     },
     "retailleau": {
      "articles": 3,
-     "tone": null
-    },
-    "glucksmann": {
-     "articles": 1,
-     "tone": null
+     "tone": -0.67
     },
     "melenchon": {
      "articles": 2,
-     "tone": null
+     "tone": -0.5
+    },
+    "glucksmann": {
+     "articles": 1,
+     "tone": 0.0
     }
    }
   },
@@ -13762,15 +13768,15 @@
    "candidates": {
     "melenchon": {
      "articles": 2,
-     "tone": null
-    },
-    "attal": {
-     "articles": 1,
-     "tone": null
+     "tone": -0.5
     },
     "glucksmann": {
      "articles": 1,
-     "tone": null
+     "tone": 0.0
+    },
+    "attal": {
+     "articles": 1,
+     "tone": 0.0
     }
    }
   },
@@ -13779,7 +13785,7 @@
    "candidates": {
     "lepen": {
      "articles": 2,
-     "tone": null
+     "tone": 0.0
     }
    }
   },
@@ -13788,27 +13794,27 @@
    "candidates": {
     "melenchon": {
      "articles": 6,
-     "tone": null
-    },
-    "philippe": {
-     "articles": 1,
-     "tone": null
-    },
-    "attal": {
-     "articles": 3,
-     "tone": null
+     "tone": -0.17
     },
     "retailleau": {
      "articles": 1,
-     "tone": null
+     "tone": 0.0
+    },
+    "attal": {
+     "articles": 3,
+     "tone": 0.0
     },
     "lisnard": {
      "articles": 3,
-     "tone": null
+     "tone": 0.0
     },
     "dupontaignan": {
      "articles": 2,
-     "tone": null
+     "tone": 0.0
+    },
+    "philippe": {
+     "articles": 1,
+     "tone": -1.0
     }
    }
   },
@@ -13817,69 +13823,69 @@
    "candidates": {
     "melenchon": {
      "articles": 4,
-     "tone": null
+     "tone": -0.25
     },
     "philippe": {
      "articles": 4,
-     "tone": null
+     "tone": -0.25
     },
     "attal": {
      "articles": 8,
-     "tone": null
+     "tone": 0.14
     }
    }
   },
   {
    "date": "2026-07-24",
    "candidates": {
-    "melenchon": {
-     "articles": 2,
-     "tone": null
+    "attal": {
+     "articles": 3,
+     "tone": 0.0
     },
     "philippe": {
      "articles": 10,
-     "tone": null
-    },
-    "attal": {
-     "articles": 3,
-     "tone": null
+     "tone": -0.9
     },
     "retailleau": {
      "articles": 1,
-     "tone": null
+     "tone": 0.0
     },
     "lisnard": {
      "articles": 1,
-     "tone": null
+     "tone": -1.0
+    },
+    "melenchon": {
+     "articles": 2,
+     "tone": 0.0
     },
     "roussel": {
      "articles": 1,
-     "tone": null
+     "tone": 0.0
     }
    }
   },
   {
    "date": "2026-07-25",
    "candidates": {
-    "philippe": {
-     "articles": 1,
-     "tone": null
-    },
-    "attal": {
-     "articles": 1,
-     "tone": null
-    },
-    "lisnard": {
-     "articles": 1,
-     "tone": null
-    },
     "melenchon": {
      "articles": 3,
-     "tone": null
+     "tone": -0.33
     },
     "ruffin": {
      "articles": 1,
-     "tone": null
+     "tone": 0.0
+    },
+    "attal": {
+     "articles": 1,
+     "tone": 0.0
+    },
+    "philippe": {
+     "articles": 1,
+     "tone": -1.0
+    },
+    "lisnard": {
+     "articles": 1,
+     "tone": 0.0
     }
    }
   },
@@ -13888,7 +13894,7 @@
    "candidates": {
     "attal": {
      "articles": 1,
-     "tone": null
+     "tone": 0.0
     },
     "retailleau": {
      "articles": 1,
@@ -13899,19 +13905,19 @@
   {
    "date": "2026-07-27",
    "candidates": {
-    "philippe": {
+    "lisnard": {
      "articles": 1,
-     "tone": null
+     "tone": 0.0
+    },
+    "ruffin": {
+     "articles": 1,
+     "tone": 0.0
     },
     "attal": {
      "articles": 3,
-     "tone": null
+     "tone": 0.0
     },
-    "lisnard": {
-     "articles": 1,
-     "tone": null
-    },
-    "ruffin": {
+    "philippe": {
      "articles": 1,
      "tone": null
     }
@@ -13920,46 +13926,46 @@
   {
    "date": "2026-07-28",
    "candidates": {
-    "philippe": {
+    "retailleau": {
      "articles": 1,
-     "tone": null
-    },
-    "attal": {
-     "articles": 4,
-     "tone": null
-    },
-    "melenchon": {
-     "articles": 2,
-     "tone": null
-    },
-    "lepen": {
-     "articles": 1,
-     "tone": null
+     "tone": 0.0
     },
     "lisnard": {
      "articles": 2,
-     "tone": null
+     "tone": 0.5
     },
-    "retailleau": {
+    "melenchon": {
+     "articles": 2,
+     "tone": -1.0
+    },
+    "lepen": {
      "articles": 1,
-     "tone": null
+     "tone": 0.0
+    },
+    "attal": {
+     "articles": 4,
+     "tone": -0.67
+    },
+    "philippe": {
+     "articles": 1,
+     "tone": 1.0
     }
    }
   },
   {
    "date": "2026-07-29",
    "candidates": {
-    "philippe": {
-     "articles": 1,
-     "tone": null
+    "melenchon": {
+     "articles": 2,
+     "tone": -1.0
     },
     "zemmour": {
      "articles": 1,
-     "tone": null
+     "tone": 0.0
     },
-    "melenchon": {
-     "articles": 2,
-     "tone": null
+    "philippe": {
+     "articles": 1,
+     "tone": 1.0
     }
    }
   },
@@ -13968,49 +13974,49 @@
    "candidates": {
     "attal": {
      "articles": 7,
-     "tone": null
-    },
-    "lepen": {
-     "articles": 4,
-     "tone": null
+     "tone": -0.86
     },
     "retailleau": {
      "articles": 3,
-     "tone": null
+     "tone": 0.0
+    },
+    "lepen": {
+     "articles": 4,
+     "tone": 0.0
     }
    }
   },
   {
    "date": "2026-07-31",
    "candidates": {
+    "lisnard": {
+     "articles": 1,
+     "tone": 0.0
+    },
     "philippe": {
      "articles": 1,
-     "tone": null
+     "tone": 0.0
     },
     "attal": {
      "articles": 1,
-     "tone": null
-    },
-    "lisnard": {
-     "articles": 1,
-     "tone": null
+     "tone": 0.0
     }
    }
   },
   {
    "date": "2026-08-01",
    "candidates": {
+    "attal": {
+     "articles": 2,
+     "tone": 0.0
+    },
     "lepen": {
      "articles": 1,
-     "tone": null
+     "tone": 0.0
     },
     "philippe": {
      "articles": 1,
-     "tone": null
-    },
-    "attal": {
-     "articles": 2,
-     "tone": null
+     "tone": -1.0
     }
    }
   },
@@ -14019,116 +14025,116 @@
    "candidates": {
     "lisnard": {
      "articles": 2,
-     "tone": null
+     "tone": 0.0
     }
    }
   },
   {
    "date": "2026-08-03",
    "candidates": {
-    "lepen": {
-     "articles": 1,
-     "tone": null
-    },
     "glucksmann": {
      "articles": 1,
-     "tone": null
+     "tone": -1.0
     },
     "attal": {
      "articles": 5,
-     "tone": null
+     "tone": -0.6
     },
     "lisnard": {
      "articles": 3,
-     "tone": null
+     "tone": -1.0
     },
     "retailleau": {
      "articles": 1,
-     "tone": null
+     "tone": 0.0
+    },
+    "lepen": {
+     "articles": 1,
+     "tone": 0.0
     }
    }
   },
   {
    "date": "2026-08-04",
    "candidates": {
+    "retailleau": {
+     "articles": 1,
+     "tone": 0.0
+    },
     "lepen": {
      "articles": 3,
-     "tone": null
-    },
-    "glucksmann": {
-     "articles": 2,
-     "tone": null
+     "tone": 0.0
     },
     "attal": {
      "articles": 1,
-     "tone": null
+     "tone": 0.0
     },
-    "retailleau": {
-     "articles": 1,
-     "tone": null
+    "glucksmann": {
+     "articles": 2,
+     "tone": -1.0
     }
    }
   },
   {
    "date": "2026-08-05",
    "candidates": {
-    "lepen": {
+    "glucksmann": {
      "articles": 1,
-     "tone": null
-    },
-    "attal": {
-     "articles": 3,
-     "tone": null
+     "tone": -2.0
     },
     "retailleau": {
      "articles": 1,
-     "tone": null
+     "tone": 0.0
     },
     "lisnard": {
      "articles": 1,
-     "tone": null
+     "tone": 0.0
     },
-    "glucksmann": {
+    "attal": {
+     "articles": 3,
+     "tone": -1.67
+    },
+    "lepen": {
      "articles": 1,
-     "tone": null
+     "tone": -1.0
     }
    }
   },
   {
    "date": "2026-08-06",
    "candidates": {
-    "glucksmann": {
+    "attal": {
      "articles": 1,
-     "tone": null
+     "tone": -1.0
     },
     "lisnard": {
      "articles": 1,
-     "tone": null
+     "tone": 0.0
     },
     "roussel": {
      "articles": 1,
-     "tone": null
+     "tone": 0.0
     },
-    "attal": {
+    "glucksmann": {
      "articles": 1,
-     "tone": null
+     "tone": -1.0
     }
    }
   },
   {
    "date": "2026-08-07",
    "candidates": {
+    "retailleau": {
+     "articles": 3,
+     "tone": 0.0
+    },
     "philippe": {
      "articles": 2,
-     "tone": null
+     "tone": -0.5
     },
     "attal": {
      "articles": 2,
-     "tone": null
-    },
-    "retailleau": {
-     "articles": 3,
-     "tone": null
+     "tone": 0.5
     }
    }
   },
@@ -14137,62 +14143,62 @@
    "candidates": {
     "attal": {
      "articles": 8,
-     "tone": null
+     "tone": 0.0
     }
    }
   },
   {
    "date": "2026-08-09",
    "candidates": {
-    "lepen": {
-     "articles": 1,
-     "tone": null
-    },
     "attal": {
      "articles": 3,
-     "tone": null
+     "tone": 0.0
     },
     "lisnard": {
      "articles": 2,
-     "tone": null
+     "tone": 0.0
     },
     "retailleau": {
      "articles": 1,
-     "tone": null
+     "tone": 0.0
+    },
+    "lepen": {
+     "articles": 1,
+     "tone": -2.0
     }
    }
   },
   {
    "date": "2026-08-10",
    "candidates": {
-    "lepen": {
-     "articles": 1,
-     "tone": null
-    },
     "glucksmann": {
      "articles": 1,
-     "tone": null
+     "tone": 0.0
     },
     "attal": {
      "articles": 3,
-     "tone": null
+     "tone": -1.33
+    },
+    "lepen": {
+     "articles": 1,
+     "tone": 0.0
     }
    }
   },
   {
    "date": "2026-08-11",
    "candidates": {
-    "lepen": {
-     "articles": 1,
-     "tone": null
-    },
     "retailleau": {
      "articles": 1,
-     "tone": null
+     "tone": 0.0
     },
     "arthaud": {
      "articles": 1,
-     "tone": null
+     "tone": 1.0
+    },
+    "lepen": {
+     "articles": 1,
+     "tone": 1.0
     }
    }
   },
@@ -14201,11 +14207,11 @@
    "candidates": {
     "lepen": {
      "articles": 2,
-     "tone": null
+     "tone": -1.0
     },
     "melenchon": {
      "articles": 1,
-     "tone": null
+     "tone": -1.0
     }
    }
   },
@@ -14214,7 +14220,7 @@
    "candidates": {
     "attal": {
      "articles": 1,
-     "tone": null
+     "tone": 0.0
     }
    }
   },
@@ -14223,11 +14229,11 @@
    "candidates": {
     "lisnard": {
      "articles": 1,
-     "tone": null
+     "tone": 0.0
     },
     "attal": {
      "articles": 1,
-     "tone": null
+     "tone": 0.0
     }
    }
   },
@@ -14236,15 +14242,15 @@
    "candidates": {
     "lepen": {
      "articles": 1,
-     "tone": null
+     "tone": -2.0
     },
     "zemmour": {
      "articles": 1,
-     "tone": null
+     "tone": -1.0
     },
     "attal": {
      "articles": 1,
-     "tone": null
+     "tone": 0.0
     }
    }
   },
@@ -14253,112 +14259,112 @@
    "candidates": {
     "attal": {
      "articles": 2,
-     "tone": null
+     "tone": 0.0
     }
    }
   },
   {
    "date": "2026-08-17",
    "candidates": {
+    "philippe": {
+     "articles": 1,
+     "tone": 1.0
+    },
     "lepen": {
      "articles": 2,
-     "tone": null
+     "tone": 1.0
     },
     "melenchon": {
      "articles": 1,
-     "tone": null
-    },
-    "philippe": {
-     "articles": 1,
-     "tone": null
+     "tone": 1.0
     }
    }
   },
   {
    "date": "2026-08-18",
    "candidates": {
-    "glucksmann": {
-     "articles": 2,
-     "tone": null
-    },
     "philippe": {
      "articles": 2,
-     "tone": null
+     "tone": -1.0
     },
     "attal": {
      "articles": 2,
-     "tone": null
+     "tone": -1.0
+    },
+    "glucksmann": {
+     "articles": 2,
+     "tone": 0.0
     },
     "retailleau": {
      "articles": 1,
-     "tone": null
+     "tone": 0.0
     }
    }
   },
   {
    "date": "2026-08-19",
    "candidates": {
-    "glucksmann": {
-     "articles": 3,
-     "tone": null
-    },
     "melenchon": {
      "articles": 1,
-     "tone": null
+     "tone": 0.0
+    },
+    "glucksmann": {
+     "articles": 3,
+     "tone": 0.33
     }
    }
   },
   {
    "date": "2026-08-20",
    "candidates": {
-    "lepen": {
-     "articles": 2,
-     "tone": null
-    },
-    "melenchon": {
-     "articles": 6,
-     "tone": null
-    },
-    "glucksmann": {
-     "articles": 1,
-     "tone": null
-    },
     "philippe": {
      "articles": 2,
-     "tone": null
+     "tone": -0.5
     },
     "attal": {
      "articles": 3,
-     "tone": null
+     "tone": 0.0
+    },
+    "melenchon": {
+     "articles": 6,
+     "tone": 0.0
     },
     "ruffin": {
      "articles": 1,
-     "tone": null
+     "tone": -1.0
+    },
+    "lepen": {
+     "articles": 2,
+     "tone": -1.0
+    },
+    "glucksmann": {
+     "articles": 1,
+     "tone": 0.0
     }
    }
   },
   {
    "date": "2026-08-21",
    "candidates": {
-    "lepen": {
-     "articles": 2,
-     "tone": null
-    },
-    "melenchon": {
-     "articles": 6,
-     "tone": null
-    },
-    "philippe": {
-     "articles": 10,
-     "tone": null
-    },
     "attal": {
      "articles": 6,
-     "tone": null
+     "tone": -1.0
     },
     "roussel": {
      "articles": 2,
-     "tone": null
+     "tone": 0.5
+    },
+    "philippe": {
+     "articles": 10,
+     "tone": 0.0
+    },
+    "melenchon": {
+     "articles": 6,
+     "tone": -0.17
+    },
+    "lepen": {
+     "articles": 2,
+     "tone": 0.5
     }
    }
   },
@@ -14367,23 +14373,23 @@
    "candidates": {
     "melenchon": {
      "articles": 12,
-     "tone": null
+     "tone": -0.17
     },
     "philippe": {
      "articles": 13,
-     "tone": null
-    },
-    "attal": {
-     "articles": 2,
-     "tone": null
+     "tone": -0.08
     },
     "roussel": {
      "articles": 6,
-     "tone": null
+     "tone": -0.5
     },
     "glucksmann": {
      "articles": 3,
-     "tone": null
+     "tone": 0.0
+    },
+    "attal": {
+     "articles": 2,
+     "tone": 0.0
     }
    }
   },
@@ -14392,32 +14398,36 @@
    "candidates": {
     "melenchon": {
      "articles": 28,
-     "tone": null
-    },
-    "philippe": {
-     "articles": 4,
-     "tone": null
+     "tone": 0.04
     },
     "glucksmann": {
      "articles": 12,
-     "tone": null
-    },
-    "lisnard": {
-     "articles": 1,
-     "tone": null
+     "tone": 0.17
     },
     "roussel": {
      "articles": 3,
-     "tone": null
+     "tone": -0.33
+    },
+    "philippe": {
+     "articles": 4,
+     "tone": 0.0
+    },
+    "lisnard": {
+     "articles": 1,
+     "tone": 0.0
     }
    }
   },
   {
    "date": "2026-08-24",
    "candidates": {
+    "glucksmann": {
+     "articles": 22,
+     "tone": -0.36
+    },
     "philippe": {
      "articles": 6,
-     "tone": null
+     "tone": -0.17
     },
     "lepen": {
      "articles": 1,
@@ -14425,438 +14435,434 @@
     },
     "melenchon": {
      "articles": 13,
-     "tone": null
-    },
-    "glucksmann": {
-     "articles": 22,
-     "tone": null
+     "tone": -0.25
     },
     "zemmour": {
      "articles": 1,
-     "tone": null
+     "tone": 0.0
     },
     "lisnard": {
      "articles": 1,
-     "tone": null
-    },
-    "arthaud": {
-     "articles": 1,
-     "tone": null
+     "tone": 0.0
     },
     "attal": {
      "articles": 1,
-     "tone": null
+     "tone": -1.0
+    },
+    "arthaud": {
+     "articles": 1,
+     "tone": 0.0
     }
    }
   },
   {
    "date": "2026-08-25",
    "candidates": {
-    "melenchon": {
-     "articles": 3,
-     "tone": null
-    },
-    "philippe": {
-     "articles": 2,
-     "tone": null
+    "lisnard": {
+     "articles": 9,
+     "tone": 0.11
     },
     "attal": {
      "articles": 9,
-     "tone": null
+     "tone": 0.0
     },
     "glucksmann": {
      "articles": 10,
-     "tone": null
+     "tone": 0.3
     },
-    "lisnard": {
-     "articles": 8,
-     "tone": null
+    "philippe": {
+     "articles": 2,
+     "tone": 0.0
     },
-    "retailleau": {
-     "articles": 1,
-     "tone": null
+    "melenchon": {
+     "articles": 3,
+     "tone": 0.5
     },
     "ruffin": {
      "articles": 1,
-     "tone": null
+     "tone": 0.0
+    },
+    "retailleau": {
+     "articles": 1,
+     "tone": -1.0
     }
    }
   },
   {
    "date": "2026-08-26",
    "candidates": {
-    "lepen": {
-     "articles": 4,
-     "tone": null
-    },
     "philippe": {
      "articles": 6,
-     "tone": null
-    },
-    "glucksmann": {
-     "articles": 6,
-     "tone": null
-    },
-    "attal": {
-     "articles": 8,
-     "tone": null
+     "tone": -0.17
     },
     "retailleau": {
      "articles": 16,
-     "tone": null
+     "tone": -0.67
+    },
+    "attal": {
+     "articles": 8,
+     "tone": -0.25
+    },
+    "glucksmann": {
+     "articles": 6,
+     "tone": -0.33
     },
     "melenchon": {
      "articles": 2,
-     "tone": null
+     "tone": 0.0
     },
     "ruffin": {
      "articles": 1,
-     "tone": null
+     "tone": 0.0
+    },
+    "lepen": {
+     "articles": 4,
+     "tone": 0.67
     }
    }
   },
   {
    "date": "2026-08-27",
    "candidates": {
-    "lepen": {
-     "articles": 17,
-     "tone": null
-    },
-    "melenchon": {
-     "articles": 5,
-     "tone": null
-    },
-    "philippe": {
-     "articles": 9,
-     "tone": null
-    },
-    "retailleau": {
-     "articles": 8,
-     "tone": null
+    "attal": {
+     "articles": 12,
+     "tone": -0.27
     },
     "glucksmann": {
      "articles": 7,
-     "tone": null
+     "tone": 0.86
     },
-    "attal": {
-     "articles": 12,
-     "tone": null
+    "philippe": {
+     "articles": 9,
+     "tone": 0.0
     },
-    "zemmour": {
-     "articles": 1,
-     "tone": null
+    "retailleau": {
+     "articles": 8,
+     "tone": -0.25
     },
     "lisnard": {
      "articles": 1,
-     "tone": null
+     "tone": -1.0
     },
     "roussel": {
      "articles": 1,
-     "tone": null
+     "tone": 0.0
     },
-    "arthaud": {
+    "lepen": {
+     "articles": 17,
+     "tone": -0.06
+    },
+    "melenchon": {
+     "articles": 5,
+     "tone": 0.0
+    },
+    "zemmour": {
      "articles": 1,
-     "tone": null
+     "tone": 0.0
     },
     "ruffin": {
      "articles": 1,
-     "tone": null
+     "tone": 0.0
+    },
+    "arthaud": {
+     "articles": 1,
+     "tone": 0.0
     }
    }
   },
   {
    "date": "2026-08-28",
    "candidates": {
-    "lepen": {
-     "articles": 7,
-     "tone": null
-    },
-    "melenchon": {
-     "articles": 2,
-     "tone": null
-    },
-    "philippe": {
-     "articles": 5,
-     "tone": null
-    },
     "glucksmann": {
      "articles": 6,
-     "tone": null
+     "tone": 0.0
     },
     "retailleau": {
      "articles": 15,
-     "tone": null
+     "tone": 0.13
+    },
+    "philippe": {
+     "articles": 5,
+     "tone": -0.33
+    },
+    "lisnard": {
+     "articles": 13,
+     "tone": 0.0
+    },
+    "lepen": {
+     "articles": 7,
+     "tone": -0.57
+    },
+    "melenchon": {
+     "articles": 2,
+     "tone": -0.5
     },
     "attal": {
      "articles": 2,
      "tone": null
     },
-    "lisnard": {
-     "articles": 13,
-     "tone": null
-    },
     "zemmour": {
      "articles": 1,
-     "tone": null
+     "tone": -1.0
     }
    }
   },
   {
    "date": "2026-08-29",
    "candidates": {
-    "lepen": {
-     "articles": 10,
-     "tone": null
-    },
-    "glucksmann": {
-     "articles": 8,
-     "tone": null
+    "ruffin": {
+     "articles": 5,
+     "tone": 0.0
     },
     "philippe": {
      "articles": 5,
-     "tone": null
-    },
-    "melenchon": {
-     "articles": 3,
-     "tone": null
+     "tone": 0.0
     },
     "lisnard": {
      "articles": 8,
-     "tone": null
+     "tone": 0.0
+    },
+    "lepen": {
+     "articles": 10,
+     "tone": 0.0
+    },
+    "melenchon": {
+     "articles": 3,
+     "tone": -0.67
+    },
+    "glucksmann": {
+     "articles": 8,
+     "tone": 0.17
     },
     "retailleau": {
      "articles": 2,
-     "tone": null
-    },
-    "ruffin": {
-     "articles": 5,
-     "tone": null
+     "tone": -2.0
     }
    }
   },
   {
    "date": "2026-08-30",
    "candidates": {
-    "lepen": {
-     "articles": 6,
-     "tone": null
-    },
-    "melenchon": {
-     "articles": 1,
-     "tone": null
+    "lisnard": {
+     "articles": 2,
+     "tone": 0.0
     },
     "philippe": {
      "articles": 25,
-     "tone": null
+     "tone": -0.04
     },
     "attal": {
      "articles": 4,
-     "tone": null
+     "tone": -0.67
     },
-    "glucksmann": {
-     "articles": 3,
-     "tone": null
+    "lepen": {
+     "articles": 6,
+     "tone": -0.67
+    },
+    "melenchon": {
+     "articles": 1,
+     "tone": -2.0
     },
     "retailleau": {
      "articles": 1,
-     "tone": null
+     "tone": 0.0
     },
-    "lisnard": {
-     "articles": 2,
-     "tone": null
+    "glucksmann": {
+     "articles": 3,
+     "tone": -0.33
     }
    }
   },
   {
    "date": "2026-08-31",
    "candidates": {
-    "lepen": {
-     "articles": 3,
-     "tone": null
-    },
-    "melenchon": {
-     "articles": 1,
-     "tone": null
+    "retailleau": {
+     "articles": 5,
+     "tone": -0.4
     },
     "philippe": {
      "articles": 9,
-     "tone": null
+     "tone": 0.0
     },
     "attal": {
      "articles": 2,
-     "tone": null
-    },
-    "glucksmann": {
-     "articles": 3,
-     "tone": null
+     "tone": 0.0
     },
     "lisnard": {
      "articles": 4,
-     "tone": null
+     "tone": 0.0
     },
-    "retailleau": {
-     "articles": 5,
-     "tone": null
+    "melenchon": {
+     "articles": 1,
+     "tone": -1.0
+    },
+    "glucksmann": {
+     "articles": 3,
+     "tone": -0.5
+    },
+    "lepen": {
+     "articles": 3,
+     "tone": 0.0
     },
     "ruffin": {
      "articles": 1,
-     "tone": null
+     "tone": 0.0
     }
    }
   },
   {
    "date": "2026-09-01",
    "candidates": {
-    "lepen": {
-     "articles": 3,
-     "tone": null
-    },
-    "philippe": {
-     "articles": 4,
-     "tone": null
-    },
     "attal": {
      "articles": 8,
-     "tone": null
+     "tone": -0.38
     },
     "glucksmann": {
      "articles": 1,
-     "tone": null
-    },
-    "zemmour": {
-     "articles": 1,
-     "tone": null
-    },
-    "retailleau": {
-     "articles": 7,
-     "tone": null
-    },
-    "lisnard": {
-     "articles": 1,
-     "tone": null
+     "tone": 0.0
     },
     "ruffin": {
      "articles": 2,
-     "tone": null
+     "tone": 0.5
+    },
+    "zemmour": {
+     "articles": 1,
+     "tone": 0.0
+    },
+    "retailleau": {
+     "articles": 7,
+     "tone": 0.14
+    },
+    "philippe": {
+     "articles": 4,
+     "tone": 0.0
+    },
+    "lepen": {
+     "articles": 3,
+     "tone": 0.0
+    },
+    "lisnard": {
+     "articles": 1,
+     "tone": 1.0
     }
    }
   },
   {
    "date": "2026-09-02",
    "candidates": {
+    "ruffin": {
+     "articles": 16,
+     "tone": -0.07
+    },
     "melenchon": {
      "articles": 3,
-     "tone": null
-    },
-    "attal": {
-     "articles": 1,
-     "tone": null
+     "tone": -0.67
     },
     "zemmour": {
      "articles": 3,
-     "tone": null
-    },
-    "retailleau": {
-     "articles": 4,
-     "tone": null
-    },
-    "lisnard": {
-     "articles": 6,
-     "tone": null
+     "tone": -0.33
     },
     "dupontaignan": {
      "articles": 1,
-     "tone": null
+     "tone": 0.0
+    },
+    "retailleau": {
+     "articles": 4,
+     "tone": 0.0
+    },
+    "lisnard": {
+     "articles": 6,
+     "tone": -0.83
     },
     "lepen": {
      "articles": 4,
-     "tone": null
+     "tone": 0.25
     },
-    "ruffin": {
-     "articles": 16,
-     "tone": null
+    "attal": {
+     "articles": 1,
+     "tone": 0.0
     }
    }
   },
   {
    "date": "2026-09-03",
    "candidates": {
-    "melenchon": {
-     "articles": 6,
-     "tone": null
-    },
-    "lepen": {
-     "articles": 2,
-     "tone": null
-    },
-    "glucksmann": {
-     "articles": 1,
-     "tone": null
-    },
-    "attal": {
-     "articles": 3,
-     "tone": null
-    },
     "zemmour": {
      "articles": 11,
-     "tone": null
+     "tone": -0.18
     },
-    "retailleau": {
-     "articles": 2,
-     "tone": null
+    "ruffin": {
+     "articles": 11,
+     "tone": 0.0
     },
     "lisnard": {
      "articles": 8,
-     "tone": null
+     "tone": -0.75
+    },
+    "melenchon": {
+     "articles": 6,
+     "tone": -0.8
+    },
+    "roussel": {
+     "articles": 1,
+     "tone": 0.0
+    },
+    "attal": {
+     "articles": 3,
+     "tone": 0.0
+    },
+    "lepen": {
+     "articles": 2,
+     "tone": 0.0
     },
     "philippe": {
      "articles": 1,
      "tone": null
     },
-    "roussel": {
+    "retailleau": {
+     "articles": 2,
+     "tone": -0.5
+    },
+    "glucksmann": {
      "articles": 1,
-     "tone": null
+     "tone": 0.0
     },
     "arthaud": {
      "articles": 1,
-     "tone": null
-    },
-    "ruffin": {
-     "articles": 11,
-     "tone": null
+     "tone": 0.0
     }
    }
   },
   {
    "date": "2026-09-04",
    "candidates": {
+    "glucksmann": {
+     "articles": 9,
+     "tone": 0.0
+    },
     "lepen": {
      "articles": 4,
-     "tone": null
+     "tone": 0.0
     },
     "melenchon": {
      "articles": 3,
-     "tone": null
-    },
-    "attal": {
-     "articles": 2,
-     "tone": null
-    },
-    "glucksmann": {
-     "articles": 9,
-     "tone": null
+     "tone": 0.0
     },
     "philippe": {
      "articles": 4,
-     "tone": null
+     "tone": 0.0
     },
     "zemmour": {
      "articles": 1,
-     "tone": null
+     "tone": 0.0
+    },
+    "attal": {
+     "articles": 2,
+     "tone": 0.0
     },
     "ruffin": {
      "articles": 1,
-     "tone": null
+     "tone": 0.0
     }
    }
   },
@@ -14865,329 +14871,329 @@
    "candidates": {
     "lepen": {
      "articles": 5,
-     "tone": null
+     "tone": 0.2
     },
     "melenchon": {
      "articles": 5,
-     "tone": null
+     "tone": 0.2
     },
     "glucksmann": {
      "articles": 1,
-     "tone": null
+     "tone": -2.0
     }
    }
   },
   {
    "date": "2026-09-06",
    "candidates": {
-    "lepen": {
-     "articles": 2,
-     "tone": null
-    },
-    "melenchon": {
-     "articles": 1,
-     "tone": null
-    },
     "philippe": {
      "articles": 2,
-     "tone": null
+     "tone": 0.0
     },
     "attal": {
      "articles": 3,
-     "tone": null
+     "tone": -0.5
     },
     "retailleau": {
      "articles": 4,
-     "tone": null
+     "tone": 0.0
     },
     "roussel": {
      "articles": 7,
-     "tone": null
+     "tone": 0.0
+    },
+    "lepen": {
+     "articles": 2,
+     "tone": 0.0
+    },
+    "melenchon": {
+     "articles": 1,
+     "tone": 0.0
     }
    }
   },
   {
    "date": "2026-09-07",
    "candidates": {
-    "attal": {
-     "articles": 2,
-     "tone": null
-    },
-    "melenchon": {
-     "articles": 2,
-     "tone": null
-    },
-    "roussel": {
-     "articles": 2,
-     "tone": null
-    },
     "lepen": {
      "articles": 2,
-     "tone": null
+     "tone": 0.0
     },
     "dupontaignan": {
      "articles": 1,
-     "tone": null
-    },
-    "philippe": {
-     "articles": 2,
-     "tone": null
+     "tone": 0.0
     },
     "glucksmann": {
      "articles": 2,
-     "tone": null
+     "tone": -1.0
+    },
+    "attal": {
+     "articles": 2,
+     "tone": 0.0
+    },
+    "philippe": {
+     "articles": 2,
+     "tone": 0.0
+    },
+    "melenchon": {
+     "articles": 2,
+     "tone": -1.5
+    },
+    "roussel": {
+     "articles": 2,
+     "tone": -1.0
     }
    }
   },
   {
    "date": "2026-09-08",
    "candidates": {
+    "lisnard": {
+     "articles": 13,
+     "tone": 0.0
+    },
     "philippe": {
      "articles": 6,
-     "tone": null
-    },
-    "attal": {
-     "articles": 2,
-     "tone": null
+     "tone": -0.17
     },
     "retailleau": {
      "articles": 6,
-     "tone": null
+     "tone": 0.0
     },
-    "lisnard": {
-     "articles": 13,
+    "glucksmann": {
+     "articles": 6,
+     "tone": -0.83
+    },
+    "ruffin": {
+     "articles": 3,
+     "tone": -0.67
+    },
+    "dupontaignan": {
+     "articles": 4,
+     "tone": 0.0
+    },
+    "zemmour": {
+     "articles": 1,
+     "tone": 0.0
+    },
+    "melenchon": {
+     "articles": 2,
      "tone": null
     },
     "lepen": {
      "articles": 1,
      "tone": null
     },
-    "melenchon": {
-     "articles": 2,
-     "tone": null
-    },
-    "dupontaignan": {
-     "articles": 4,
-     "tone": null
-    },
-    "glucksmann": {
-     "articles": 6,
-     "tone": null
+    "attal": {
+     "articles": 3,
+     "tone": -0.67
     },
     "roussel": {
      "articles": 2,
-     "tone": null
-    },
-    "zemmour": {
-     "articles": 1,
-     "tone": null
-    },
-    "ruffin": {
-     "articles": 3,
-     "tone": null
+     "tone": 0.0
     }
    }
   },
   {
    "date": "2026-09-09",
    "candidates": {
-    "glucksmann": {
-     "articles": 11,
-     "tone": null
+    "philippe": {
+     "articles": 5,
+     "tone": -0.6
     },
     "attal": {
      "articles": 4,
-     "tone": null
-    },
-    "philippe": {
-     "articles": 5,
-     "tone": null
+     "tone": -1.25
     },
     "retailleau": {
      "articles": 4,
-     "tone": null
+     "tone": -0.5
     },
-    "lisnard": {
-     "articles": 2,
-     "tone": null
+    "glucksmann": {
+     "articles": 11,
+     "tone": -0.55
     },
     "roussel": {
      "articles": 2,
-     "tone": null
+     "tone": -1.5
     },
     "ruffin": {
      "articles": 11,
-     "tone": null
+     "tone": -0.1
+    },
+    "lisnard": {
+     "articles": 2,
+     "tone": 0.0
     }
    }
   },
   {
    "date": "2026-09-10",
    "candidates": {
-    "lepen": {
-     "articles": 3,
-     "tone": null
-    },
-    "melenchon": {
-     "articles": 2,
-     "tone": null
-    },
-    "philippe": {
-     "articles": 1,
-     "tone": null
-    },
     "lisnard": {
      "articles": 5,
-     "tone": null
+     "tone": 0.0
     },
     "roussel": {
      "articles": 2,
-     "tone": null
+     "tone": 0.0
     },
-    "ruffin": {
-     "articles": 3,
-     "tone": null
-    },
-    "glucksmann": {
-     "articles": 3,
-     "tone": null
+    "philippe": {
+     "articles": 1,
+     "tone": -1.0
     },
     "attal": {
      "articles": 1,
-     "tone": null
+     "tone": -1.0
+    },
+    "glucksmann": {
+     "articles": 3,
+     "tone": 0.0
+    },
+    "ruffin": {
+     "articles": 3,
+     "tone": -0.67
+    },
+    "lepen": {
+     "articles": 3,
+     "tone": 0.0
+    },
+    "melenchon": {
+     "articles": 2,
+     "tone": 0.0
     }
    }
   },
   {
    "date": "2026-09-11",
    "candidates": {
-    "melenchon": {
-     "articles": 4,
-     "tone": null
-    },
-    "roussel": {
-     "articles": 11,
-     "tone": null
-    },
-    "lepen": {
-     "articles": 2,
-     "tone": null
-    },
     "philippe": {
      "articles": 8,
-     "tone": null
-    },
-    "attal": {
-     "articles": 2,
-     "tone": null
+     "tone": -0.75
     },
     "retailleau": {
      "articles": 2,
-     "tone": null
+     "tone": 0.0
+    },
+    "roussel": {
+     "articles": 11,
+     "tone": 0.0
     },
     "lisnard": {
      "articles": 3,
-     "tone": null
+     "tone": 0.0
+    },
+    "melenchon": {
+     "articles": 4,
+     "tone": 0.0
+    },
+    "attal": {
+     "articles": 2,
+     "tone": -0.5
+    },
+    "lepen": {
+     "articles": 2,
+     "tone": 0.0
     },
     "dupontaignan": {
      "articles": 1,
-     "tone": null
+     "tone": 0.0
     }
    }
   },
   {
    "date": "2026-09-12",
    "candidates": {
-    "lepen": {
-     "articles": 2,
-     "tone": null
+    "roussel": {
+     "articles": 17,
+     "tone": -0.12
     },
     "melenchon": {
      "articles": 7,
-     "tone": null
-    },
-    "zemmour": {
-     "articles": 1,
-     "tone": null
+     "tone": -0.14
     },
     "retailleau": {
      "articles": 4,
-     "tone": null
+     "tone": -0.25
     },
-    "roussel": {
-     "articles": 17,
-     "tone": null
+    "lepen": {
+     "articles": 2,
+     "tone": 0.0
     },
-    "ruffin": {
+    "zemmour": {
      "articles": 1,
-     "tone": null
+     "tone": 0.0
     },
     "lisnard": {
      "articles": 1,
      "tone": null
+    },
+    "ruffin": {
+     "articles": 1,
+     "tone": 0.0
     }
    }
   },
   {
    "date": "2026-09-13",
    "candidates": {
+    "zemmour": {
+     "articles": 11,
+     "tone": 0.55
+    },
     "lepen": {
      "articles": 8,
-     "tone": null
+     "tone": 0.14
     },
     "melenchon": {
      "articles": 4,
-     "tone": null
-    },
-    "zemmour": {
-     "articles": 11,
-     "tone": null
+     "tone": -0.5
     },
     "ruffin": {
      "articles": 2,
-     "tone": null
+     "tone": 0.0
     }
    }
   },
   {
    "date": "2026-09-14",
    "candidates": {
-    "lepen": {
-     "articles": 5,
-     "tone": null
-    },
-    "melenchon": {
-     "articles": 4,
-     "tone": null
-    },
-    "philippe": {
-     "articles": 1,
-     "tone": null
+    "roussel": {
+     "articles": 2,
+     "tone": -0.5
     },
     "zemmour": {
      "articles": 4,
-     "tone": null
+     "tone": -0.25
     },
     "lisnard": {
      "articles": 1,
-     "tone": null
+     "tone": 0.0
     },
-    "roussel": {
-     "articles": 2,
-     "tone": null
+    "lepen": {
+     "articles": 5,
+     "tone": -0.6
+    },
+    "melenchon": {
+     "articles": 4,
+     "tone": 0.0
+    },
+    "philippe": {
+     "articles": 1,
+     "tone": 0.0
     }
    }
   },
   {
    "date": "2026-09-15",
    "candidates": {
-    "lepen": {
-     "articles": 1,
-     "tone": null
-    },
     "ruffin": {
      "articles": 1,
-     "tone": null
+     "tone": 0.0
+    },
+    "lepen": {
+     "articles": 1,
+     "tone": 0.0
     }
    }
   },
@@ -15196,93 +15202,93 @@
    "candidates": {
     "lepen": {
      "articles": 5,
-     "tone": null
-    },
-    "lisnard": {
-     "articles": 1,
-     "tone": null
-    },
-    "roussel": {
-     "articles": 11,
-     "tone": null
+     "tone": 0.2
     },
     "dupontaignan": {
      "articles": 9,
-     "tone": null
+     "tone": 0.0
     },
     "arthaud": {
      "articles": 1,
-     "tone": null
+     "tone": 0.0
+    },
+    "roussel": {
+     "articles": 11,
+     "tone": 0.0
+    },
+    "lisnard": {
+     "articles": 1,
+     "tone": 0.0
     },
     "ruffin": {
      "articles": 1,
-     "tone": null
+     "tone": -1.0
     }
    }
   },
   {
    "date": "2026-09-17",
    "candidates": {
-    "lepen": {
-     "articles": 4,
+    "zemmour": {
+     "articles": 22,
+     "tone": -0.19
+    },
+    "ruffin": {
+     "articles": 1,
      "tone": null
     },
     "philippe": {
      "articles": 1,
      "tone": null
     },
-    "zemmour": {
-     "articles": 22,
-     "tone": null
-    },
-    "lisnard": {
-     "articles": 1,
-     "tone": null
-    },
-    "dupontaignan": {
-     "articles": 2,
-     "tone": null
-    },
     "attal": {
      "articles": 5,
-     "tone": null
+     "tone": 0.8
     },
     "melenchon": {
      "articles": 2,
-     "tone": null
+     "tone": -1.0
+    },
+    "lepen": {
+     "articles": 4,
+     "tone": -1.33
+    },
+    "dupontaignan": {
+     "articles": 2,
+     "tone": 0.0
     },
     "retailleau": {
      "articles": 1,
-     "tone": null
+     "tone": 1.0
     },
-    "ruffin": {
+    "lisnard": {
      "articles": 1,
-     "tone": null
+     "tone": 0.0
     }
    }
   },
   {
    "date": "2026-09-18",
    "candidates": {
+    "retailleau": {
+     "articles": 2,
+     "tone": 0.0
+    },
     "lepen": {
      "articles": 6,
-     "tone": null
-    },
-    "zemmour": {
-     "articles": 12,
-     "tone": null
+     "tone": -0.75
     },
     "attal": {
      "articles": 4,
-     "tone": null
+     "tone": 0.0
     },
-    "retailleau": {
-     "articles": 2,
-     "tone": null
+    "zemmour": {
+     "articles": 12,
+     "tone": -0.92
     },
     "philippe": {
      "articles": 1,
-     "tone": null
+     "tone": 0.0
     }
    }
   },
@@ -15291,150 +15297,150 @@
    "candidates": {
     "lepen": {
      "articles": 2,
-     "tone": null
-    },
-    "roussel": {
-     "articles": 5,
-     "tone": null
+     "tone": -0.5
     },
     "dupontaignan": {
      "articles": 9,
-     "tone": null
+     "tone": -0.22
     },
     "arthaud": {
      "articles": 2,
-     "tone": null
+     "tone": 0.0
     },
-    "glucksmann": {
-     "articles": 1,
-     "tone": null
+    "roussel": {
+     "articles": 5,
+     "tone": -0.6
     },
     "zemmour": {
      "articles": 2,
-     "tone": null
+     "tone": -0.5
+    },
+    "glucksmann": {
+     "articles": 1,
+     "tone": 0.0
     }
    }
   },
   {
    "date": "2026-09-20",
    "candidates": {
-    "lepen": {
-     "articles": 4,
-     "tone": null
-    },
-    "philippe": {
-     "articles": 1,
-     "tone": null
-    },
-    "glucksmann": {
-     "articles": 3,
-     "tone": null
-    },
     "retailleau": {
      "articles": 4,
-     "tone": null
+     "tone": -0.75
     },
     "lisnard": {
      "articles": 1,
-     "tone": null
-    },
-    "dupontaignan": {
-     "articles": 2,
-     "tone": null
-    },
-    "attal": {
-     "articles": 1,
-     "tone": null
-    },
-    "zemmour": {
-     "articles": 2,
-     "tone": null
+     "tone": 1.0
     },
     "ruffin": {
      "articles": 1,
-     "tone": null
+     "tone": -2.0
+    },
+    "lepen": {
+     "articles": 4,
+     "tone": 0.25
+    },
+    "zemmour": {
+     "articles": 2,
+     "tone": -0.5
     },
     "melenchon": {
      "articles": 1,
      "tone": null
+    },
+    "philippe": {
+     "articles": 1,
+     "tone": -1.0
+    },
+    "glucksmann": {
+     "articles": 3,
+     "tone": -1.33
+    },
+    "dupontaignan": {
+     "articles": 2,
+     "tone": -1.0
+    },
+    "attal": {
+     "articles": 1,
+     "tone": 0.0
     }
    }
   },
   {
    "date": "2026-09-21",
    "candidates": {
-    "melenchon": {
-     "articles": 1,
-     "tone": null
-    },
-    "philippe": {
-     "articles": 2,
-     "tone": null
-    },
     "glucksmann": {
      "articles": 20,
-     "tone": null
-    },
-    "attal": {
-     "articles": 8,
-     "tone": null
-    },
-    "zemmour": {
-     "articles": 1,
-     "tone": null
-    },
-    "lisnard": {
-     "articles": 1,
-     "tone": null
+     "tone": -0.53
     },
     "roussel": {
      "articles": 1,
-     "tone": null
+     "tone": -2.0
+    },
+    "attal": {
+     "articles": 8,
+     "tone": 0.0
+    },
+    "philippe": {
+     "articles": 2,
+     "tone": 0.0
+    },
+    "lisnard": {
+     "articles": 1,
+     "tone": 0.0
     },
     "dupontaignan": {
      "articles": 2,
-     "tone": null
+     "tone": -1.0
+    },
+    "melenchon": {
+     "articles": 1,
+     "tone": 0.0
+    },
+    "zemmour": {
+     "articles": 1,
+     "tone": -2.0
     }
    }
   },
   {
    "date": "2026-09-22",
    "candidates": {
-    "lepen": {
+    "roussel": {
      "articles": 3,
-     "tone": null
-    },
-    "philippe": {
-     "articles": 5,
-     "tone": null
-    },
-    "attal": {
-     "articles": 9,
-     "tone": null
-    },
-    "glucksmann": {
-     "articles": 2,
-     "tone": null
-    },
-    "zemmour": {
-     "articles": 1,
-     "tone": null
+     "tone": -0.33
     },
     "retailleau": {
      "articles": 6,
-     "tone": null
+     "tone": -0.17
+    },
+    "lepen": {
+     "articles": 3,
+     "tone": 0.0
+    },
+    "philippe": {
+     "articles": 5,
+     "tone": -0.6
+    },
+    "attal": {
+     "articles": 9,
+     "tone": -0.33
     },
     "lisnard": {
      "articles": 1,
-     "tone": null
+     "tone": 0.0
     },
-    "roussel": {
-     "articles": 3,
-     "tone": null
+    "zemmour": {
+     "articles": 1,
+     "tone": 0.0
+    },
+    "glucksmann": {
+     "articles": 2,
+     "tone": -0.5
     },
     "melenchon": {
      "articles": 4,
-     "tone": null
+     "tone": 0.0
     }
    }
   },
@@ -15443,68 +15449,68 @@
    "candidates": {
     "melenchon": {
      "articles": 11,
-     "tone": null
-    },
-    "glucksmann": {
-     "articles": 1,
-     "tone": null
+     "tone": -0.45
     },
     "attal": {
      "articles": 8,
-     "tone": null
-    },
-    "retailleau": {
-     "articles": 5,
-     "tone": null
-    },
-    "lisnard": {
-     "articles": 1,
-     "tone": null
+     "tone": -0.12
     },
     "lepen": {
      "articles": 2,
-     "tone": null
+     "tone": 0.0
     },
     "zemmour": {
      "articles": 3,
-     "tone": null
+     "tone": -1.33
     },
-    "ruffin": {
-     "articles": 1,
-     "tone": null
+    "retailleau": {
+     "articles": 5,
+     "tone": 0.0
     },
     "philippe": {
      "articles": 2,
-     "tone": null
+     "tone": 0.0
+    },
+    "glucksmann": {
+     "articles": 1,
+     "tone": -1.0
+    },
+    "lisnard": {
+     "articles": 1,
+     "tone": 0.0
+    },
+    "ruffin": {
+     "articles": 1,
+     "tone": 0.0
     }
    }
   },
   {
    "date": "2026-09-24",
    "candidates": {
-    "lepen": {
-     "articles": 6,
-     "tone": null
-    },
     "melenchon": {
      "articles": 8,
-     "tone": null
+     "tone": -0.43
     },
     "philippe": {
      "articles": 4,
-     "tone": null
+     "tone": 0.0
     },
     "attal": {
      "articles": 6,
-     "tone": null
+     "tone": 0.0
     },
     "retailleau": {
      "articles": 2,
-     "tone": null
+     "tone": 0.0
+    },
+    "lepen": {
+     "articles": 6,
+     "tone": -0.4
     },
     "glucksmann": {
      "articles": 3,
-     "tone": null
+     "tone": 0.0
     },
     "zemmour": {
      "articles": 1,
@@ -15515,70 +15521,70 @@
   {
    "date": "2026-09-25",
    "candidates": {
-    "lepen": {
-     "articles": 1,
-     "tone": null
-    },
     "glucksmann": {
      "articles": 18,
-     "tone": null
-    },
-    "lisnard": {
-     "articles": 1,
-     "tone": null
-    },
-    "melenchon": {
-     "articles": 3,
-     "tone": null
-    },
-    "philippe": {
-     "articles": 1,
-     "tone": null
-    },
-    "attal": {
-     "articles": 1,
-     "tone": null
-    },
-    "retailleau": {
-     "articles": 2,
-     "tone": null
+     "tone": 0.06
     },
     "ruffin": {
      "articles": 1,
-     "tone": null
+     "tone": 0.0
+    },
+    "lisnard": {
+     "articles": 1,
+     "tone": 0.0
+    },
+    "attal": {
+     "articles": 1,
+     "tone": 0.0
+    },
+    "melenchon": {
+     "articles": 3,
+     "tone": -0.67
+    },
+    "retailleau": {
+     "articles": 2,
+     "tone": 0.0
+    },
+    "lepen": {
+     "articles": 1,
+     "tone": 2.0
+    },
+    "philippe": {
+     "articles": 1,
+     "tone": 0.0
     }
    }
   },
   {
    "date": "2026-09-26",
    "candidates": {
-    "lepen": {
-     "articles": 2,
-     "tone": null
-    },
-    "attal": {
-     "articles": 2,
-     "tone": null
-    },
-    "retailleau": {
-     "articles": 2,
-     "tone": null
-    },
     "melenchon": {
      "articles": 7,
-     "tone": null
-    },
-    "philippe": {
-     "articles": 1,
-     "tone": null
+     "tone": -0.29
     },
     "lisnard": {
      "articles": 2,
-     "tone": null
+     "tone": 0.0
+    },
+    "lepen": {
+     "articles": 2,
+     "tone": 0.0
+    },
+    "attal": {
+     "articles": 2,
+     "tone": 0.0
+    },
+    "retailleau": {
+     "articles": 2,
+     "tone": -0.5
     },
     "arthaud": {
      "articles": 1,
-     "tone": null
+     "tone": 0.0
+    },
+    "philippe": {
+     "articles": 1,
+     "tone": 0.0
     }
    }
   },
@@ -15587,104 +15593,104 @@
    "candidates": {
     "lepen": {
      "articles": 5,
-     "tone": null
-    },
-    "glucksmann": {
-     "articles": 2,
-     "tone": null
+     "tone": 1.0
     },
     "retailleau": {
      "articles": 10,
-     "tone": null
+     "tone": 0.2
+    },
+    "glucksmann": {
+     "articles": 2,
+     "tone": 1.0
     },
     "arthaud": {
      "articles": 1,
-     "tone": null
+     "tone": 0.0
     },
     "melenchon": {
      "articles": 3,
-     "tone": null
+     "tone": 0.0
     }
    }
   },
   {
    "date": "2026-09-28",
    "candidates": {
-    "lepen": {
-     "articles": 9,
-     "tone": null
-    },
-    "melenchon": {
-     "articles": 13,
-     "tone": null
-    },
     "philippe": {
      "articles": 6,
-     "tone": null
+     "tone": 0.0
     },
     "attal": {
      "articles": 3,
-     "tone": null
-    },
-    "zemmour": {
-     "articles": 3,
-     "tone": null
+     "tone": -0.67
     },
     "retailleau": {
      "articles": 5,
-     "tone": null
+     "tone": 0.2
     },
-    "lisnard": {
-     "articles": 1,
-     "tone": null
+    "melenchon": {
+     "articles": 13,
+     "tone": -0.15
     },
-    "roussel": {
-     "articles": 1,
-     "tone": null
+    "zemmour": {
+     "articles": 3,
+     "tone": 0.33
+    },
+    "lepen": {
+     "articles": 9,
+     "tone": 0.0
     },
     "ruffin": {
      "articles": 1,
-     "tone": null
+     "tone": 0.0
+    },
+    "roussel": {
+     "articles": 1,
+     "tone": 0.0
+    },
+    "lisnard": {
+     "articles": 1,
+     "tone": 0.0
     }
    }
   },
   {
    "date": "2026-09-29",
    "candidates": {
-    "lepen": {
-     "articles": 6,
-     "tone": null
-    },
-    "melenchon": {
-     "articles": 6,
-     "tone": null
+    "ruffin": {
+     "articles": 5,
+     "tone": -0.2
     },
     "philippe": {
      "articles": 19,
-     "tone": null
+     "tone": -0.32
     },
-    "attal": {
-     "articles": 3,
-     "tone": null
+    "lepen": {
+     "articles": 6,
+     "tone": -1.0
+    },
+    "melenchon": {
+     "articles": 6,
+     "tone": -0.5
     },
     "retailleau": {
      "articles": 4,
-     "tone": null
-    },
-    "glucksmann": {
-     "articles": 2,
-     "tone": null
+     "tone": -0.25
     },
     "roussel": {
      "articles": 2,
-     "tone": null
+     "tone": 0.5
+    },
+    "glucksmann": {
+     "articles": 2,
+     "tone": 0.5
+    },
+    "attal": {
+     "articles": 3,
+     "tone": 0.0
     },
     "arthaud": {
      "articles": 1,
-     "tone": null
-    },
-    "ruffin": {
-     "articles": 5,
      "tone": null
     }
    }
@@ -15692,235 +15698,235 @@
   {
    "date": "2026-09-30",
    "candidates": {
-    "lepen": {
-     "articles": 2,
-     "tone": null
-    },
     "philippe": {
      "articles": 12,
-     "tone": null
-    },
-    "retailleau": {
-     "articles": 8,
-     "tone": null
-    },
-    "glucksmann": {
-     "articles": 14,
-     "tone": null
+     "tone": -0.58
     },
     "attal": {
      "articles": 9,
-     "tone": null
+     "tone": -0.88
+    },
+    "glucksmann": {
+     "articles": 14,
+     "tone": -0.23
+    },
+    "retailleau": {
+     "articles": 8,
+     "tone": -0.25
+    },
+    "lepen": {
+     "articles": 2,
+     "tone": -0.5
     },
     "lisnard": {
      "articles": 2,
-     "tone": null
+     "tone": 0.0
     },
     "ruffin": {
      "articles": 1,
-     "tone": null
+     "tone": -2.0
     }
    }
   },
   {
    "date": "2026-10-01",
    "candidates": {
-    "lepen": {
-     "articles": 7,
-     "tone": null
-    },
-    "melenchon": {
-     "articles": 13,
-     "tone": null
-    },
     "retailleau": {
      "articles": 24,
-     "tone": null
-    },
-    "attal": {
-     "articles": 3,
-     "tone": null
-    },
-    "philippe": {
-     "articles": 17,
-     "tone": null
-    },
-    "glucksmann": {
-     "articles": 2,
-     "tone": null
-    },
-    "lisnard": {
-     "articles": 3,
-     "tone": null
+     "tone": -0.12
     },
     "roussel": {
      "articles": 2,
-     "tone": null
+     "tone": 0.0
     },
-    "dupontaignan": {
-     "articles": 1,
-     "tone": null
+    "lisnard": {
+     "articles": 3,
+     "tone": 0.67
     },
     "ruffin": {
      "articles": 3,
-     "tone": null
+     "tone": 1.0
+    },
+    "philippe": {
+     "articles": 17,
+     "tone": -0.31
+    },
+    "melenchon": {
+     "articles": 13,
+     "tone": -1.15
+    },
+    "lepen": {
+     "articles": 7,
+     "tone": -0.5
+    },
+    "dupontaignan": {
+     "articles": 1,
+     "tone": 0.0
+    },
+    "glucksmann": {
+     "articles": 2,
+     "tone": 0.0
+    },
+    "attal": {
+     "articles": 3,
+     "tone": -0.33
     }
    }
   },
   {
    "date": "2026-10-02",
    "candidates": {
-    "lepen": {
-     "articles": 6,
-     "tone": null
-    },
-    "philippe": {
-     "articles": 3,
-     "tone": null
-    },
-    "melenchon": {
-     "articles": 2,
-     "tone": null
-    },
     "retailleau": {
      "articles": 3,
-     "tone": null
-    },
-    "roussel": {
-     "articles": 1,
-     "tone": null
-    },
-    "arthaud": {
-     "articles": 1,
-     "tone": null
-    },
-    "glucksmann": {
-     "articles": 2,
-     "tone": null
-    },
-    "attal": {
-     "articles": 3,
-     "tone": null
+     "tone": -1.0
     },
     "ruffin": {
      "articles": 1,
-     "tone": null
+     "tone": -1.0
+    },
+    "lepen": {
+     "articles": 6,
+     "tone": -1.0
+    },
+    "philippe": {
+     "articles": 3,
+     "tone": -0.33
+    },
+    "melenchon": {
+     "articles": 2,
+     "tone": -0.5
+    },
+    "attal": {
+     "articles": 3,
+     "tone": -0.33
+    },
+    "roussel": {
+     "articles": 1,
+     "tone": 0.0
+    },
+    "glucksmann": {
+     "articles": 2,
+     "tone": -1.0
+    },
+    "arthaud": {
+     "articles": 1,
+     "tone": 0.0
     }
    }
   },
   {
    "date": "2026-10-03",
    "candidates": {
-    "lepen": {
-     "articles": 4,
-     "tone": null
-    },
     "melenchon": {
      "articles": 5,
-     "tone": null
+     "tone": 0.0
     },
-    "glucksmann": {
-     "articles": 3,
-     "tone": null
+    "lepen": {
+     "articles": 4,
+     "tone": 0.0
     },
     "attal": {
      "articles": 5,
-     "tone": null
-    },
-    "retailleau": {
-     "articles": 1,
-     "tone": null
+     "tone": 0.0
     },
     "lisnard": {
      "articles": 1,
-     "tone": null
+     "tone": 0.0
+    },
+    "glucksmann": {
+     "articles": 3,
+     "tone": -0.33
+    },
+    "retailleau": {
+     "articles": 1,
+     "tone": 0.0
     }
    }
   },
   {
    "date": "2026-10-04",
    "candidates": {
+    "roussel": {
+     "articles": 23,
+     "tone": -0.09
+    },
+    "lepen": {
+     "articles": 5,
+     "tone": -0.67
+    },
+    "melenchon": {
+     "articles": 2,
+     "tone": -1.0
+    },
+    "glucksmann": {
+     "articles": 5,
+     "tone": -0.5
+    },
     "philippe": {
      "articles": 2,
      "tone": null
     },
-    "lepen": {
-     "articles": 5,
-     "tone": null
-    },
-    "melenchon": {
-     "articles": 2,
-     "tone": null
-    },
-    "glucksmann": {
-     "articles": 5,
-     "tone": null
-    },
-    "attal": {
-     "articles": 3,
-     "tone": null
-    },
-    "roussel": {
-     "articles": 23,
-     "tone": null
-    },
-    "dupontaignan": {
+    "arthaud": {
      "articles": 1,
-     "tone": null
+     "tone": 0.0
     },
     "retailleau": {
      "articles": 1,
-     "tone": null
+     "tone": 0.0
     },
-    "arthaud": {
+    "attal": {
+     "articles": 3,
+     "tone": 0.0
+    },
+    "dupontaignan": {
      "articles": 1,
-     "tone": null
+     "tone": 0.0
     }
    }
   },
   {
    "date": "2026-10-05",
    "candidates": {
-    "glucksmann": {
-     "articles": 2,
-     "tone": null
-    },
     "ruffin": {
      "articles": 7,
-     "tone": null
+     "tone": 0.0
     },
     "lepen": {
      "articles": 1,
      "tone": null
+    },
+    "glucksmann": {
+     "articles": 2,
+     "tone": -0.5
     }
    }
   },
   {
    "date": "2026-10-06",
    "candidates": {
+    "roussel": {
+     "articles": 2,
+     "tone": 0.0
+    },
     "lepen": {
      "articles": 3,
-     "tone": null
+     "tone": 0.33
     },
-    "melenchon": {
+    "ruffin": {
      "articles": 1,
-     "tone": null
+     "tone": 1.0
+    },
+    "attal": {
+     "articles": 1,
+     "tone": -1.0
     },
     "philippe": {
      "articles": 1,
      "tone": null
     },
-    "roussel": {
-     "articles": 2,
-     "tone": null
-    },
-    "attal": {
+    "melenchon": {
      "articles": 1,
-     "tone": null
-    },
-    "ruffin": {
-     "articles": 1,
-     "tone": null
+     "tone": -1.0
     }
    }
   },
@@ -15929,122 +15935,122 @@
    "candidates": {
     "lepen": {
      "articles": 6,
-     "tone": null
-    },
-    "melenchon": {
-     "articles": 1,
-     "tone": null
-    },
-    "philippe": {
-     "articles": 1,
-     "tone": null
+     "tone": -0.17
     },
     "zemmour": {
      "articles": 5,
-     "tone": null
-    },
-    "roussel": {
-     "articles": 8,
-     "tone": null
-    },
-    "attal": {
-     "articles": 2,
-     "tone": null
+     "tone": 0.0
     },
     "dupontaignan": {
      "articles": 1,
-     "tone": null
+     "tone": 0.0
     },
-    "ruffin": {
-     "articles": 1,
-     "tone": null
+    "roussel": {
+     "articles": 8,
+     "tone": -0.38
     },
     "lisnard": {
      "articles": 1,
-     "tone": null
+     "tone": 0.0
+    },
+    "philippe": {
+     "articles": 1,
+     "tone": -1.0
+    },
+    "melenchon": {
+     "articles": 1,
+     "tone": 0.0
+    },
+    "attal": {
+     "articles": 2,
+     "tone": -1.5
+    },
+    "ruffin": {
+     "articles": 1,
+     "tone": 0.0
     }
    }
   },
   {
    "date": "2026-10-08",
    "candidates": {
-    "lepen": {
-     "articles": 4,
-     "tone": null
+    "roussel": {
+     "articles": 5,
+     "tone": -0.8
     },
     "philippe": {
      "articles": 5,
-     "tone": null
+     "tone": 0.4
     },
-    "roussel": {
-     "articles": 5,
-     "tone": null
+    "lepen": {
+     "articles": 4,
+     "tone": -1.0
     },
     "lisnard": {
      "articles": 1,
-     "tone": null
+     "tone": 0.0
     }
    }
   },
   {
    "date": "2026-10-09",
    "candidates": {
-    "lepen": {
+    "attal": {
      "articles": 2,
-     "tone": null
-    },
-    "philippe": {
-     "articles": 4,
-     "tone": null
-    },
-    "melenchon": {
-     "articles": 1,
-     "tone": null
+     "tone": 0.0
     },
     "retailleau": {
      "articles": 6,
-     "tone": null
+     "tone": -0.17
     },
-    "attal": {
-     "articles": 2,
-     "tone": null
+    "philippe": {
+     "articles": 4,
+     "tone": -0.5
     },
     "lisnard": {
      "articles": 3,
-     "tone": null
+     "tone": -0.33
     },
     "ruffin": {
      "articles": 3,
-     "tone": null
+     "tone": -0.67
+    },
+    "lepen": {
+     "articles": 2,
+     "tone": -0.5
+    },
+    "melenchon": {
+     "articles": 1,
+     "tone": -1.0
     }
    }
   },
   {
    "date": "2026-10-10",
    "candidates": {
+    "attal": {
+     "articles": 9,
+     "tone": 0.11
+    },
     "melenchon": {
      "articles": 3,
-     "tone": null
+     "tone": 0.33
     },
     "philippe": {
      "articles": 3,
-     "tone": null
-    },
-    "attal": {
-     "articles": 9,
-     "tone": null
-    },
-    "arthaud": {
-     "articles": 1,
-     "tone": null
-    },
-    "lisnard": {
-     "articles": 1,
-     "tone": null
+     "tone": 0.0
     },
     "ruffin": {
      "articles": 3,
-     "tone": null
+     "tone": 0.0
+    },
+    "arthaud": {
+     "articles": 1,
+     "tone": 0.0
+    },
+    "lisnard": {
+     "articles": 1,
+     "tone": 1.0
     }
    }
   },
@@ -16053,31 +16059,31 @@
    "candidates": {
     "melenchon": {
      "articles": 9,
-     "tone": null
-    },
-    "philippe": {
-     "articles": 4,
-     "tone": null
-    },
-    "attal": {
-     "articles": 10,
-     "tone": null
-    },
-    "glucksmann": {
-     "articles": 10,
-     "tone": null
+     "tone": 0.11
     },
     "dupontaignan": {
      "articles": 9,
-     "tone": null
+     "tone": 0.0
     },
-    "arthaud": {
-     "articles": 1,
-     "tone": null
+    "glucksmann": {
+     "articles": 10,
+     "tone": 0.3
+    },
+    "attal": {
+     "articles": 10,
+     "tone": 0.0
+    },
+    "philippe": {
+     "articles": 4,
+     "tone": 0.0
     },
     "lepen": {
      "articles": 1,
-     "tone": null
+     "tone": 0.0
+    },
+    "arthaud": {
+     "articles": 1,
+     "tone": 0.0
     }
    }
   },
@@ -16086,68 +16092,68 @@
    "candidates": {
     "attal": {
      "articles": 4,
-     "tone": null
-    },
-    "lepen": {
-     "articles": 2,
-     "tone": null
-    },
-    "glucksmann": {
-     "articles": 11,
-     "tone": null
+     "tone": -0.25
     },
     "retailleau": {
      "articles": 5,
-     "tone": null
+     "tone": -0.2
     },
-    "melenchon": {
-     "articles": 1,
-     "tone": null
+    "glucksmann": {
+     "articles": 11,
+     "tone": -0.09
     },
     "zemmour": {
      "articles": 9,
-     "tone": null
+     "tone": -0.44
+    },
+    "lepen": {
+     "articles": 2,
+     "tone": -0.5
     },
     "ruffin": {
      "articles": 1,
-     "tone": null
+     "tone": -1.0
+    },
+    "melenchon": {
+     "articles": 1,
+     "tone": 0.0
     }
    }
   },
   {
    "date": "2026-10-13",
    "candidates": {
-    "lepen": {
-     "articles": 6,
-     "tone": null
-    },
-    "philippe": {
+    "zemmour": {
      "articles": 7,
-     "tone": null
-    },
-    "attal": {
-     "articles": 3,
-     "tone": null
-    },
-    "retailleau": {
-     "articles": 3,
-     "tone": null
+     "tone": -0.43
     },
     "glucksmann": {
      "articles": 10,
-     "tone": null
-    },
-    "zemmour": {
-     "articles": 7,
-     "tone": null
+     "tone": -0.12
     },
     "lisnard": {
      "articles": 9,
-     "tone": null
+     "tone": -0.11
+    },
+    "lepen": {
+     "articles": 6,
+     "tone": -0.17
+    },
+    "philippe": {
+     "articles": 7,
+     "tone": -0.33
     },
     "melenchon": {
      "articles": 1,
      "tone": null
+    },
+    "retailleau": {
+     "articles": 3,
+     "tone": 0.0
+    },
+    "attal": {
+     "articles": 3,
+     "tone": -0.33
     }
    }
   },
@@ -16156,84 +16162,84 @@
    "candidates": {
     "lepen": {
      "articles": 9,
-     "tone": null
-    },
-    "melenchon": {
-     "articles": 6,
-     "tone": null
-    },
-    "roussel": {
-     "articles": 2,
-     "tone": null
-    },
-    "philippe": {
-     "articles": 2,
-     "tone": null
-    },
-    "glucksmann": {
-     "articles": 3,
-     "tone": null
-    },
-    "attal": {
-     "articles": 1,
-     "tone": null
-    },
-    "zemmour": {
-     "articles": 1,
-     "tone": null
+     "tone": -0.38
     },
     "retailleau": {
      "articles": 3,
-     "tone": null
+     "tone": -0.33
+    },
+    "melenchon": {
+     "articles": 6,
+     "tone": -0.17
     },
     "lisnard": {
      "articles": 2,
-     "tone": null
+     "tone": 0.0
+    },
+    "glucksmann": {
+     "articles": 3,
+     "tone": 0.0
+    },
+    "roussel": {
+     "articles": 2,
+     "tone": -0.5
+    },
+    "philippe": {
+     "articles": 2,
+     "tone": -1.0
+    },
+    "attal": {
+     "articles": 1,
+     "tone": 0.0
+    },
+    "zemmour": {
+     "articles": 1,
+     "tone": 0.0
     }
    }
   },
   {
    "date": "2026-10-15",
    "candidates": {
-    "lepen": {
-     "articles": 10,
-     "tone": null
-    },
-    "melenchon": {
-     "articles": 2,
-     "tone": null
-    },
-    "glucksmann": {
-     "articles": 6,
-     "tone": null
+    "lisnard": {
+     "articles": 7,
+     "tone": 0.0
     },
     "attal": {
      "articles": 7,
-     "tone": null
+     "tone": -1.0
     },
-    "retailleau": {
+    "lepen": {
+     "articles": 10,
+     "tone": -1.2
+    },
+    "glucksmann": {
      "articles": 6,
-     "tone": null
-    },
-    "lisnard": {
-     "articles": 7,
-     "tone": null
-    },
-    "dupontaignan": {
-     "articles": 3,
-     "tone": null
+     "tone": -0.2
     },
     "philippe": {
      "articles": 2,
-     "tone": null
+     "tone": -1.0
     },
     "roussel": {
      "articles": 1,
-     "tone": null
+     "tone": 0.0
+    },
+    "dupontaignan": {
+     "articles": 3,
+     "tone": -2.0
+    },
+    "melenchon": {
+     "articles": 3,
+     "tone": 0.0
+    },
+    "retailleau": {
+     "articles": 6,
+     "tone": -0.75
     },
     "ruffin": {
      "articles": 2,
-     "tone": null
+     "tone": 1.0
     }
    }
   },
@@ -16242,125 +16248,125 @@
    "candidates": {
     "lepen": {
      "articles": 10,
-     "tone": null
-    },
-    "philippe": {
-     "articles": 6,
-     "tone": null
-    },
-    "glucksmann": {
-     "articles": 5,
-     "tone": null
+     "tone": -0.67
     },
     "melenchon": {
      "articles": 7,
-     "tone": null
+     "tone": -0.29
     },
-    "attal": {
-     "articles": 1,
-     "tone": null
+    "philippe": {
+     "articles": 6,
+     "tone": -0.33
+    },
+    "glucksmann": {
+     "articles": 5,
+     "tone": 0.0
+    },
+    "dupontaignan": {
+     "articles": 2,
+     "tone": 1.0
+    },
+    "ruffin": {
+     "articles": 2,
+     "tone": 0.5
+    },
+    "retailleau": {
+     "articles": 3,
+     "tone": 0.0
+    },
+    "arthaud": {
+     "articles": 4,
+     "tone": -0.5
+    },
+    "lisnard": {
+     "articles": 5,
+     "tone": 0.0
     },
     "zemmour": {
      "articles": 1,
      "tone": null
     },
-    "retailleau": {
-     "articles": 3,
-     "tone": null
-    },
-    "lisnard": {
-     "articles": 5,
-     "tone": null
-    },
-    "dupontaignan": {
-     "articles": 2,
-     "tone": null
-    },
-    "arthaud": {
-     "articles": 4,
-     "tone": null
-    },
-    "ruffin": {
-     "articles": 2,
-     "tone": null
+    "attal": {
+     "articles": 1,
+     "tone": 0.0
     }
    }
   },
   {
    "date": "2026-10-17",
    "candidates": {
+    "retailleau": {
+     "articles": 8,
+     "tone": 0.25
+    },
     "lepen": {
      "articles": 3,
-     "tone": null
+     "tone": -0.5
     },
     "melenchon": {
      "articles": 5,
-     "tone": null
-    },
-    "philippe": {
-     "articles": 2,
-     "tone": null
-    },
-    "glucksmann": {
-     "articles": 1,
-     "tone": null
-    },
-    "retailleau": {
-     "articles": 8,
-     "tone": null
+     "tone": 0.0
     },
     "lisnard": {
      "articles": 4,
-     "tone": null
+     "tone": 0.0
     },
     "roussel": {
      "articles": 1,
-     "tone": null
+     "tone": 0.0
+    },
+    "philippe": {
+     "articles": 2,
+     "tone": 0.0
+    },
+    "glucksmann": {
+     "articles": 1,
+     "tone": 0.0
     },
     "ruffin": {
      "articles": 1,
-     "tone": null
+     "tone": 0.0
     }
    }
   },
   {
    "date": "2026-10-18",
    "candidates": {
-    "melenchon": {
-     "articles": 8,
-     "tone": null
+    "philippe": {
+     "articles": 12,
+     "tone": -0.17
     },
     "lepen": {
      "articles": 3,
-     "tone": null
-    },
-    "philippe": {
-     "articles": 12,
-     "tone": null
-    },
-    "glucksmann": {
-     "articles": 3,
-     "tone": null
-    },
-    "attal": {
-     "articles": 1,
-     "tone": null
+     "tone": 0.0
     },
     "zemmour": {
      "articles": 4,
-     "tone": null
+     "tone": -0.25
     },
     "retailleau": {
      "articles": 2,
-     "tone": null
+     "tone": 0.0
     },
     "lisnard": {
      "articles": 2,
-     "tone": null
+     "tone": -0.5
+    },
+    "melenchon": {
+     "articles": 8,
+     "tone": -0.62
+    },
+    "glucksmann": {
+     "articles": 3,
+     "tone": 0.0
+    },
+    "attal": {
+     "articles": 1,
+     "tone": 0.0
     },
     "arthaud": {
      "articles": 1,
-     "tone": null
+     "tone": 0.0
     }
    }
   },
@@ -16369,43 +16375,43 @@
    "candidates": {
     "melenchon": {
      "articles": 8,
-     "tone": null
-    },
-    "glucksmann": {
-     "articles": 6,
-     "tone": null
-    },
-    "lepen": {
-     "articles": 5,
-     "tone": null
-    },
-    "attal": {
-     "articles": 12,
-     "tone": null
+     "tone": -0.75
     },
     "philippe": {
      "articles": 4,
-     "tone": null
+     "tone": -0.25
     },
-    "zemmour": {
-     "articles": 2,
-     "tone": null
+    "attal": {
+     "articles": 12,
+     "tone": -0.25
     },
-    "lisnard": {
-     "articles": 3,
-     "tone": null
+    "lepen": {
+     "articles": 5,
+     "tone": -0.67
     },
-    "arthaud": {
-     "articles": 1,
-     "tone": null
+    "glucksmann": {
+     "articles": 6,
+     "tone": -0.17
     },
     "retailleau": {
      "articles": 7,
-     "tone": null
+     "tone": 0.0
     },
     "roussel": {
      "articles": 1,
      "tone": null
+    },
+    "lisnard": {
+     "articles": 3,
+     "tone": 0.0
+    },
+    "zemmour": {
+     "articles": 2,
+     "tone": -1.0
+    },
+    "arthaud": {
+     "articles": 1,
+     "tone": -1.0
     }
    }
   },
@@ -16414,43 +16420,43 @@
    "candidates": {
     "lisnard": {
      "articles": 15,
-     "tone": null
+     "tone": -1.0
     },
     "roussel": {
-     "articles": 3,
-     "tone": null
+     "articles": 4,
+     "tone": 0.0
     },
     "melenchon": {
      "articles": 12,
-     "tone": null
-    },
-    "philippe": {
-     "articles": 2,
-     "tone": null
-    },
-    "glucksmann": {
-     "articles": 4,
-     "tone": null
+     "tone": -0.17
     },
     "retailleau": {
      "articles": 11,
-     "tone": null
+     "tone": 0.0
+    },
+    "philippe": {
+     "articles": 2,
+     "tone": -0.5
+    },
+    "glucksmann": {
+     "articles": 4,
+     "tone": -0.5
     },
     "arthaud": {
      "articles": 1,
-     "tone": null
+     "tone": 0.0
     },
     "zemmour": {
      "articles": 1,
-     "tone": null
+     "tone": -1.0
     },
     "attal": {
      "articles": 2,
-     "tone": null
+     "tone": 0.0
     },
     "dupontaignan": {
      "articles": 2,
-     "tone": null
+     "tone": -1.5
     }
    }
   },
@@ -16459,39 +16465,43 @@
    "candidates": {
     "melenchon": {
      "articles": 15,
-     "tone": null
+     "tone": -0.73
     },
     "lepen": {
      "articles": 11,
-     "tone": null
+     "tone": 0.38
     },
     "lisnard": {
      "articles": 13,
-     "tone": null
+     "tone": -0.69
     },
     "philippe": {
      "articles": 8,
-     "tone": null
+     "tone": -0.62
     },
     "retailleau": {
      "articles": 13,
-     "tone": null
+     "tone": -0.38
+    },
+    "dupontaignan": {
+     "articles": 1,
+     "tone": 0.0
     },
     "zemmour": {
      "articles": 8,
-     "tone": null
+     "tone": 0.12
     },
     "arthaud": {
      "articles": 2,
-     "tone": null
+     "tone": 0.0
     },
     "glucksmann": {
      "articles": 2,
-     "tone": null
+     "tone": -1.0
     },
     "attal": {
      "articles": 2,
-     "tone": null
+     "tone": -1.0
     }
    }
   },
@@ -16500,39 +16510,39 @@
    "candidates": {
     "retailleau": {
      "articles": 11,
-     "tone": null
-    },
-    "melenchon": {
-     "articles": 3,
-     "tone": null
-    },
-    "attal": {
-     "articles": 4,
-     "tone": null
+     "tone": -0.55
     },
     "arthaud": {
      "articles": 4,
-     "tone": null
+     "tone": -0.5
+    },
+    "attal": {
+     "articles": 4,
+     "tone": -0.5
+    },
+    "melenchon": {
+     "articles": 3,
+     "tone": -0.67
     },
     "philippe": {
      "articles": 6,
-     "tone": null
+     "tone": -0.17
     },
     "lisnard": {
      "articles": 13,
-     "tone": null
+     "tone": -0.42
     },
     "glucksmann": {
      "articles": 8,
-     "tone": null
+     "tone": -0.25
     },
     "lepen": {
      "articles": 6,
-     "tone": null
+     "tone": 0.6
     },
     "dupontaignan": {
      "articles": 3,
-     "tone": null
+     "tone": 0.0
     },
     "roussel": {
      "articles": 2,
@@ -16540,7 +16550,7 @@
     },
     "zemmour": {
      "articles": 1,
-     "tone": null
+     "tone": -2.0
     }
    }
   },
@@ -16739,21 +16749,17 @@
      "articles": 8,
      "tone": -0.25
     },
-    "retailleau": {
-     "articles": 12,
-     "tone": -0.33
-    },
     "roussel": {
      "articles": 1,
      "tone": null
     },
+    "retailleau": {
+     "articles": 12,
+     "tone": -0.33
+    },
     "lisnard": {
      "articles": 26,
      "tone": 0.33
-    },
-    "tondelier": {
-     "articles": 2,
-     "tone": -0.5
     },
     "villepin": {
      "articles": 1,
@@ -16762,6 +16768,10 @@
     "attal": {
      "articles": 7,
      "tone": -1.0
+    },
+    "tondelier": {
+     "articles": 2,
+     "tone": -0.5
     },
     "hollande": {
      "articles": 2,
@@ -16797,7 +16807,7 @@
      "tone": null
     },
     "melenchon": {
-     "articles": 26,
+     "articles": 27,
      "tone": null
     },
     "glucksmann": {
@@ -16875,7 +16885,7 @@
      "tone": null
     },
     "attal": {
-     "articles": 16,
+     "articles": 17,
      "tone": null
     },
     "melenchon": {
@@ -16883,7 +16893,7 @@
      "tone": null
     },
     "philippe": {
-     "articles": 23,
+     "articles": 24,
      "tone": null
     },
     "lepen": {
@@ -16950,158 +16960,390 @@
    }
   }
  ],
+ "interviews_found": [
+  {
+   "date": "2026-10-28",
+   "candidates": [
+    "attal"
+   ],
+   "channel": "TF1",
+   "title": "\"Une grande primaire des démocrates\" : ce qu'il faut retenir de l'interview de Gabriel Attal au 20H de TF1",
+   "url": "https://www.tf1info.fr/politique/elections/presidentielle/une-grande-primaire-des-democrates-ce-qu-il-faut-retenir-de-l-intervention-de-gabriel-attal-au-20h-de-tf1-2472572.html"
+  },
+  {
+   "date": "2026-10-27",
+   "candidates": [
+    "lisnard"
+   ],
+   "channel": "Europe 1",
+   "title": "En direct - Émeutes, Parcoursup, primaire à droite... Ce qu’il faut retenir de l’interview de David Lisnard dans «Objectif Élysée 2027»",
+   "url": "https://www.europe1.fr/politique/en-direct-emeutes-parcoursup-primaire-a-droite-ce-quil-faut-retenir-de-linterview-de-david-lisnard-dans-objectif-elysee-2027-1186743"
+  },
+  {
+   "date": "2026-10-26",
+   "candidates": [
+    "glucksmann"
+   ],
+   "channel": "TF1",
+   "title": "Face à Élizabeth Martichoux : Raphaël Glucksmann",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPa0Q0d1pIR3hLWUpIRzFaZkVZQlhlS1Fvc1BkcVd5U1lqVWNzR1ltS3h2T0VsQUJUS2V0RnFEWVdaMHRHcWJ1YWM0WEI0TUtjR2VNYTB3THlBa1BkM2hMclJ5bUhyOFE5eENCVTFNRk85em43RVduWFRTX2E3RlhTX3VLWkJCeW12Nk9GQmlzTjlFbGprWEVPNlhmV0FOYXJzN2tqMGtTSm5tWEswbFFQbXNaNXo?oc=5"
+  },
+  {
+   "date": "2026-10-23",
+   "candidates": [
+    "retailleau"
+   ],
+   "channel": "TF1",
+   "title": "La Grande confrontation : Bruno Retailleau invité de LCI et David Pujadas",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Gdkw5MkNzOGltMTJLampxS0xHTUp6cU1wckl5UENuNlV0Si1aZ3p4NFdfQzhvTWFQN0pLX1V4SmE5S2kwcmtLanV4Z1Z4Sk9FbW1GZGl2Sk1iWXlEUkJqN0dqRFRGOHZOX2ZvN05PTEI5NkZKNXc?oc=5"
+  },
+  {
+   "date": "2026-10-22",
+   "candidates": [
+    "arthaud"
+   ],
+   "channel": "France 3",
+   "title": "INTERVIEW. L'extrême gauche pointée du doigt après le 17 octobre : \"la casse, ce n'est pas une politique pour les travailleurs\", répond Nathalie Arthaud",
+   "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxPQUthYkVPQUxLS3BUb3J4Qk84YVhRUk1oZ01nX2dFNWZ6UkRtRlRTbUN2dWp5TWRscnUwb2JFaTZFS2hZLTVVU2JGbzFyXzJOTWlMOWlGMVg2cURlSXZuN2twUlM5bGItVmNVcy1FSTMydnFzSUgtdGR6X29LWmhNLW1halZ6X0FIOUFTS1hReVRuTnlLVl9WSW5FUXNsTE1SaVFzb2NDQWxvdVdjQmd1UHUxMzBKcWtYbFJPMU9ZczBlX1FGdGhqOUxJVmlPZzdUYkRiS3RaQW4zRzB2YmdlMUxId3lKLXlSMG5kWUdMcUlUa2ZzTDJ0cXNNeGlPbjF1Zkp0TXoxRlBCQUJtNXZRZDcxWkxVaVAyX3VtUGVHSThDY2JmakZLLTFkY011M1MzZXdzX09rYVdXXzZVblZFcVJJRmFYSzdKUHRHNnFtajR1SnNqMUhB?oc=5"
+  },
+  {
+   "date": "2026-10-21",
+   "candidates": [
+    "dupontaignan"
+   ],
+   "channel": "TF1",
+   "title": "L'interview de Sehla Bougriou du jeudi 22 octobre 2026 : Nicolas Dupont-Aignan",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQR09WVDFNYUNBQ0Y1dFFLZjdXZzVaUnluUEM1VFJhUFRndlJyRm5VSTZ3ekZSVVhpSkk0U0dXcFFpX05lX2NKeEtsanF5dEJXdlo0MFNPbHMxbzdlV2MxbGUya0syTGxrLU1sTy0yeEdDSTBicDBIdmdsVW1WX0NUcXlSX3VXRFlTVmJmcXlVeVNlalE1ZTFQWGJpNnZHWkVMMHlPdU9oeTREMFcwTUVIa3phZEZueXFVQ0VXRDRVS2hsSnd5NEpwT1JPQi1CT0tEUF9YVG9BYnlrYTJCeDdVTg?oc=5"
+  },
+  {
+   "date": "2026-10-19",
+   "candidates": [
+    "melenchon"
+   ],
+   "channel": "TF1",
+   "title": "17 octobre : l'intégralité de l'interview de Jean-Luc Mélenchon sur LCI",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9Fei00RUhTVmVFWkk2VmZOZW1pU3hZMjV3WmhTdXRGRE1HcTJPUFZaSzNYQXFsWFpwVDlMeFU3dGFfOF9vNl81VUhwS293SnhFUEpxWlMzeVFNVE5lcndIWDJadVVwNmZ2VFE1VnFzZU1PeGJOdlE?oc=5"
+  },
+  {
+   "date": "2026-10-19",
+   "candidates": [
+    "roussel"
+   ],
+   "channel": "TF1",
+   "title": "Face à Alba Ventura : Fabien Roussel",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNzRvWlFqSmdCWnN0UVdUekI4TEV4RjF6ekdDNlNKV1Z2VTlnZng3eXFqRFZTMmhIRlJTdDZOLWNnbERjM0RJNDhIN2xsX09seUJyVFlmcS1DcmpmZ1ZkbU5yMTBvUk5PWEdRUjduSjF1bnZWV09VSnRlNmlpcmZMcFhqMXpleklSUkltcUU4WHpYamJMMEpIZHdlSDBVSmpVUU9WSA?oc=5"
+  },
+  {
+   "date": "2026-10-19",
+   "candidates": [
+    "lisnard"
+   ],
+   "channel": "TF1",
+   "title": "Violences urbaines en France : David Lisnard, invité du 20H de TF1",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOW55QWNwRndUQkpDeDlzd194bFdiQWJWaUhuVldpa1ZpVnVqaWF2bEtSZHZUYV9QMUVHd3NxTm9PZEM1dnNWZ0pJRjZ4N1FSVFZwdWlLYjBEVS0welBDclFFRDluWExCT3BrU04zekhNTG9YZE1yeFVKZzFNdUk2WnJvU1g4bnIxVndJaXl2bW42ZUI4REJMbXlnTDJuZmxHOEdoUU4wUEpoOUszNE4xcUJsWFM3U3VnX1dRM3NvWHpLa01zZmFj?oc=5"
+  },
+  {
+   "date": "2026-10-15",
+   "candidates": [
+    "ruffin"
+   ],
+   "channel": "TF1",
+   "title": "Émission spéciale - Objectif 2027 : François Ruffin, l'interview exclusive sur LCI",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTk1IZGhmaWR1U0RvOVJWRmExdW1MM2kyeGNqaDhyNHAyLXM1UDZfMDdmU0J5XzVKZUxQazdPUlVEczUwSUc1TldWbDlYSy1QRERCLWl6UlFTNjJ4TzBkS3VrVTVsb2ljLWNuaHFIalo5SUhtemp1VEU5UW5FcVVPXzZmZXYtS0s3LTdRLW5CLUt2aHJBMkNnTElDZ1VpZGF3ZGZTWjJwSHA3blhwNnJpbkFqWlFFZWZjYnZLUHNRdGFhMkRoWm0xTzZkSUZyNzd2VWk0?oc=5"
+  },
+  {
+   "date": "2026-10-15",
+   "candidates": [
+    "dupontaignan"
+   ],
+   "channel": "BFMTV",
+   "title": "Nicolas Dupont-Aignan invité de Sonia Mabrouk - 15/10",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZm1ReEdEeDNoSkhCZElEX1Ntd29sZmZ2UVBWWTl0Vm9uWjE3SmhIU25JbmI5WGQzdDZkTnIxdTVsMHNiMDBOaGJRNVhEUmtycUFtUHFFS3NfRmpqM21nRUpBdGozSkNWbl8xWEVtY0ZsQUZsSUM4R2xUM2Y2NUIyZTVrNloxVk9ydkkya1lvWWhQZGpsRFhPWTYzYmZfS3FzTDR4cjRzMTk4Uk41b1hnOHo2eHUtWDczeDNDc1FZMUJVMDVOTE5kbQ?oc=5"
+  },
+  {
+   "date": "2026-10-08",
+   "candidates": [
+    "philippe"
+   ],
+   "channel": "franceinfo",
+   "title": "Immigration, allocations familiales, Parcoursup… Ce qu'il faut retenir de l'interview d'Edouard Philippe dans l'émission \"L'Heure de vérité\" sur France 2",
+   "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxQcmh6UkMxTzYxQlZ3MjlFbmstVE5VWGgwSVlHajY1MWIwVVkyeFluczZ1SjVYNGIyN1djRi1DbzBOTHZNOHUwZG5iYllIRUZtdDFzbWI4TjA3SjlNeC1lYnZQaHAxSDdnOWFTUmY5ZUhZTjlrV0lGTUZXd252RmhkRlg4cWRNQzEzd2dPQ1BWbFVhLUl3YUFOMFF1WElZblNFWGMzaDcwRXVjZ2dFOVFYZFNTMkhCZ3d3UUZ3N0RtekdsMzRkVlU1Ym04RFh6dGNmX3N6V01EazctVWhpblhEd0tjSU1QMHhpdE11MndoOWtjQ2JHbEp0Q2pnQ1JlSkZ1aFZobTN3aWZRRmlMc1dJcDlIb2ZlWEIxa19KWWJza18zZ3lJS1FiU2JBV3Q1SlQyMHNZdGx3?oc=5"
+  },
+  {
+   "date": "2026-10-07",
+   "candidates": [
+    "roussel"
+   ],
+   "channel": "BFMTV",
+   "title": "Fabien Roussel invité de Sonia Mabrouk - 07/10",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQXozajZlVHV5UDc4ZEgxc3VCNlVqUkZmbUJsSVJiaDB5U0t4d213dVB2Skk0dXV5Z0xybXRpMk9JX3d2MnhNRDBtWlJmRUVRVXIwbzlyN1RicWRKRnduWVZSY3NTTVB1M2h2dGk4YXlwYzk3eEUtaFQ3X1Jaa3dERjJrMzVyaGVUVk5WdlBHbTBmV0NWZjY5a1N1eTlDaFh5bHR3cEl2YmY3WE43VnNSbjVoRnFGeGoxbkU5Vi1Bcw?oc=5"
+  },
+  {
+   "date": "2026-10-06",
+   "candidates": [
+    "philippe"
+   ],
+   "channel": "franceinfo",
+   "title": "APPEL A TEMOIGNAGES. Posez vos questions à Edouard Philippe, invité de \"L'Heure de vérité\"",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOdHNBVC1wTWF0RGQ4RXhabHZzeTU3a3JhUWkyMl8wbEs3V3c4cl9BclVCSjk4SmRFem1ZM1l4V0RsOFlXRXRlZVNkc3FydWc5aWV4dGdEbkpNNW5EREJ0cl9WX3cyRXZ1UThtdEtIcGdmdVhJYXRKZnNXQlh2bWszSklfRUZhRURobDdIVXotM1lFU0RwOXFxajBIeWNsTWJTMk9DT3FZN3lZeDBubnBoaERIVWppN3cxSXlaaTltckJBaEFudHdOQ1Q3RDJrdWs3d1IxQ1BVZzlzbHhwNkZ1azU1S0djZGM?oc=5"
+  },
+  {
+   "date": "2026-10-06",
+   "candidates": [
+    "roussel"
+   ],
+   "channel": "TF1",
+   "title": "L'interview d'Amélie Carrouër du mardi 6 octobre 2026 : Fabien Roussel",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMUEyNjFsQndsb3puOXA3N3RzZlZYZWhYQldhdnNYUWtHZy1UeFRDMGRpcURRZGpmS3ZJbFh2cTdxczJ3NDRjbHJJemxIdTlrVGoyYzhRZFByWXdkdDFNNlhhaEYyTlRWdlpWZVdWUHdJZkd0Z0NSNDRNcF9GVTA4dEF2MXVsb0NJZFpJUlNwQTF3b2hNVFlPanNhT2thbHdtbEljSUNtNlIwaEZVMUpPSFZValJpRkN6Zm5hTDlQekZySmRMZEVF?oc=5"
+  },
+  {
+   "date": "2026-10-01",
+   "candidates": [
+    "philippe"
+   ],
+   "channel": "TF1",
+   "title": "Face à Alba Ventura : Édouard Philippe",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbTFDUWFZOXB0LWNVNzJHQm93RGtpZmFXN0g0cFRvMVNHSmcxRXIzaTRMQXBlcnZGVE84bndwYjB4ZE1HYkl0c3hXVlB3YjNFUHd0emNpZzVGUV90eGUwYkJnNkFSQlRXV3hiekJkUkpvQW5XcENmQnNEblFhT2xzS1lTaEw2NmVQYVlobnlLX3lXLVdUTnliMHRITQ?oc=5"
+  },
+  {
+   "date": "2026-09-28",
+   "candidates": [
+    "ruffin"
+   ],
+   "channel": "TF1",
+   "title": "Face à Alba Ventura : François Ruffin",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTXdDNlFocjF1RkJlTDJxLXNRN2YxZUFxVUVOSFpFQld6VTBsNmhoZmpMRV9HNzhMWHhPc1NNa080T2pDRDlidENzQkl2ZjE2VUxacXVVTWIteWRrcnJiWVN3Zm82QkhYcm52aHlTbl83REhvWlZLdUZMeXYtdE9YRldEZkhSUnVyS2YtZ2FseW1EUWcwd3FmS1Q0cG9oTXc0SFBTZkl3?oc=5"
+  },
+  {
+   "date": "2026-09-18",
+   "candidates": [
+    "lepen",
+    "zemmour"
+   ],
+   "channel": "BFMTV",
+   "title": "Présidentielle, immigration, voile, Marine Le Pen... Ce qu'il faut retenir de l'interview d'Éric Zemmour sur BFMTV",
+   "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOYlN6Vk1pdE9oMHZ1dU5RMExhX2s3STRrRTJRTXFYQ0tkSzJtY043TFFsWHdMZkdpVDd6R3hGa3hGam5IRFlfSUkxam1TbHBFNGxHakpaNUtxMmI4bEY1S3BsaWg3MFZ4YVNsdlJqNWNSSEp0TkYzeTh0dFpiQ1U2bi1XdTF2aGRjR2cydU1lcUNscVBOVXlwNVRwN2IwRVRnQzh0R3pJS21vQ3ItbFJoMk1XekdSUHJ6NWtpRU0zYmhsbTdVbUNMR1NTYTIxMmRwbk1XNUlfcGJqTnpjUzA2WmlCMGlWdnpqME5WSkJySm9tazc0TGtiUG9UTjl3dnJVZkR5UWNRd0k2Nm5BWWJNa3hGM3c?oc=5"
+  },
+  {
+   "date": "2026-09-16",
+   "candidates": [
+    "lepen"
+   ],
+   "channel": "TF1",
+   "title": "Émission spéciale - Objectif 2027 : Marine Le Pen, l'interview exclusive sur LCI",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTm1pUXQ2UWo2Q1RjamdMakh5UGhFMVZMTF9RRFVDTFo3UEdHbHVCTGU1U25YYTFYbVhaUWVwN1F2S0lCbXFJXzZOVE5ZaExwczVKSkxqYW1FbTdCLXNGYjhSV2QtVWFMMG1BNUxkdks3dm9YUF9CbXp2aXNRaWNCclVmd3I1NE1obEVMNEJ4LUtWdm1iQlJuTWpzalF0Z0xPb0pKVi03WnB3aDA4TkgycGhMelVLODg3MlRNdS1vazhFeklGRklncDFJRGdMbVNy?oc=5"
+  },
+  {
+   "date": "2026-09-09",
+   "candidates": [
+    "lisnard"
+   ],
+   "channel": "BFMTV",
+   "title": "David Lisnard invité de Sonia Mabrouk - 08/09",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMzJRUEIyXzdINE83YjFCZ0FWVHBDT1otMXpudXE3R1ZKd2VrRFgxcUVPQ2NhSFdJeGpIWnREM3MwcURTTnVKYzBvdDF6T1daYm04Rkt6cjV4dExXaE9lNUhZbkJ1dUJhUmxzTWdVM2gwMmRWZlBnYVIxc3FWaFVORFFUU0JsSUtLeTVfNWV3a3V6THNjWjFDSV85Wl9kejhMLXZyeS1LdmhzSW9JZTZGSzVMZnJCSHNiRmkxMWNR?oc=5"
+  },
+  {
+   "date": "2026-08-30",
+   "candidates": [
+    "philippe",
+    "attal"
+   ],
+   "channel": "BFMTV",
+   "title": "Futur Premier ministre, retraites, attaques de Gabriel Attal... Ce qu'il faut retenir de l'interview d'Édouard Philippe sur BFMTV",
+   "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNSnlPdnlBa1B6Y3ZiaC1yTkFacjdzd25Ca25zazExN0RLRVBxbTU1c3JxR2h4bmc5MFh6UWxOVFlMZ1NmUFoyRnhaTnJTdUxZZVN3bzc4eHM5ZlRhVFY1TkpfdDVtb1MzM3JLdUItcUdCdXUzNHAzVUJCSFBkeGtCeG0tODFQcDBla1NIUERqenR4T3M2LVphNkhMYUsxSWtBOUVMOGNmZlV3SzJIcmVBbk5yU2g3Mk1LcEZMbHRMb0daWDdDSmd0bUZYSHMtdU54U1NiUFhVem45ZVRiTHNvclFYSndIOWFwS2lBdU1yLW9IOERrbmVUR0gtaWdsQ3prTmJHZlFoeVpwbGpuc09OU1ItRlRLa3Zkd0NOVjAtQl9WYVdnWjhkTjJB?oc=5"
+  },
+  {
+   "date": "2026-08-29",
+   "candidates": [
+    "lepen"
+   ],
+   "channel": "BFMTV",
+   "title": "Relation avec Marine Le Pen, référendum sur l'immigration, retraites... Ce qu'il faut retenir de l'entretien de Jordan Bardella sur BFMTV",
+   "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOTjJWTlhvVlNkQzg5dkR6eXRRSU1vYTJ4ZW1MSjZDMy1Yam5ZV28wNXJuenhLMGFCcV9JTW4yQWU1NEg4YTdNQmJ1bnJEcW5IWGVDWnYyZnFaRHZfNC1qTVVKTWVESmQ0cjRjcXZjNVdxYV9WR3FfZkN5NUw3aWgxbWZodU5PVm1qNERNNC1BWjlYeGNERHVlRk9kQ2YxR1k4bUc5R0xSUkxPRWNJZ0s2eDdsRkhabXpHZ2hjel83NFlvRF9Dak1tOC0tbjUzajllZWdEZjRURS14VGQ5bkU0RGF1Y2EtWnBBNXNIR3laM3ptdlRKa1lfdWx0VWZjUHZWcUJ3MTZ0WHlEaXFlMEpqSFk3aUNUbTgtcEFXZjlILXgxRGVSN2JN?oc=5"
+  },
+  {
+   "date": "2026-08-26",
+   "candidates": [
+    "retailleau"
+   ],
+   "channel": "BFMTV",
+   "title": "Bruno Retailleau invité de Sonia Mabrouk - 26/08",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcU55dWIzeHN6cTVOeGVFN1lPZkYtZ0tOVHBPTGpJdWVCN0VKZlBLTmREd3J4NkVkanYtMXV3REZPamZqc0pvNVNCNlNjRVQzYVlPQkNQZ0FpNHBBekJ6dUw4NW0tYnFhT2U3NXNfRXgtN2pqb0M4RzlOR3Rlb3BSc1NkbVFQd0hpbDlmOEptNTFTOWZ5ek9YbV9TSDUzM1RuY3RFUFlzV2VOOElRM2MyMWdnZk5sVENlb0FRS0FRY2N2Zw?oc=5"
+  },
+  {
+   "date": "2026-08-23",
+   "candidates": [
+    "glucksmann"
+   ],
+   "channel": "TF1",
+   "title": "Candidat à l'élection présidentielle : Raphaël Glucksmann, invité du 20H de TF1",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTXlYSUJxWnByc29UcERwcFVvVnNhV1pnUGRyT0k4TTZ2eGZYQzlyR2g4M1hUVG5BY053enBUbEF0V0ROWFpVUnZiMDJyUTVXUndtWHlwcEpOZzY1VzU5a0JWUUkxaENSeW1mcUdydmRxdHJGeENQbWFQdmdxLVoyWjNlNW05c2c3T09GcTZMS2JmUzRqTUUzOUV4SlFhMS1ISWRxd3l6d2VLZFJPU2NpZ2QyY0g4VnBNWEo2dkM4ck5veFI5bFBTQmZnZjJ4UVRSNm1JYVBvcWE?oc=5"
+  },
+  {
+   "date": "2026-08-22",
+   "candidates": [
+    "glucksmann"
+   ],
+   "channel": "TF1",
+   "title": "Présidentielle 2027 : Raphaël Glucksmann invité du 20H de TF1 dimanche",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOY0c0VWlnMXF2NENseGludmZzVWhiYUVYT01DcVlHN3NBSC1CdTV4WUgzZEh0b1RmUGJQSWc5MkhmVWhFN3JIU200TUM0ajNTeGhaUzFfZEtQRHl6cndFOXREQm9WUzctOFczTkVvWk5MS3pxUWZoR0d1WlAydjg4MnNpVXRyVEpOamVfRHFvM0pEa3RlR2FsbnlKSW5maHlWcVFFWlc5VzBIekZLZEJMWjBjZHE?oc=5"
+  },
+  {
+   "date": "2026-08-22",
+   "candidates": [
+    "philippe",
+    "attal"
+   ],
+   "channel": "BFMTV",
+   "title": "Mayotte, Gabriel Attal, futur Premier ministre... Ce qu'il faut retenir de l'interview d'Édouard Philippe sur BFMTV",
+   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPZTZsUTZ6VjJrc1BzMmhGRVBCaFhia3dPOUN3V1IyTEFMRjFQLXBHWk1BTndrdmZIN0ZneFdrU0x2RkQzMjBueGR2OFJtV2xNbDRYSzdCWGhyNjJTa2hfc1JmX0xpRVI5WFAwdEdKY281bUk3dW9ubFE0TGFDaTlVUm1STGh2SmhLYk1aYmYzNS1NUWdFS3lMejJVckstUERWS2tza0ZNQVNnSlJaeXFFOGlPQXlfUF85VjlTaHBmZ1ZFOTBwUXVGOHRuWUlYSk5VSW1jWmd4dXp2OFRYaFRVN3R5RTgwQS1ORzlhMGlENnhRRDhWVmlXeEdRbUQ3bU1mQXc?oc=5"
+  },
+  {
+   "date": "2026-08-21",
+   "candidates": [
+    "melenchon"
+   ],
+   "channel": "TF1",
+   "title": "Jean-Luc Mélenchon fait sa rentrée politique sur TF1 : le candidat LFI à la présidentielle est l'invité du 13H de TF1 samedi",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNQm1xZnhueGVFdklZVjBfSGEwRURZRzEyaDNOc2tYYXdhcnNGeXhaOHVEMjM0T1h5Y1h4YzI1a1FzTVVIRDZ2VS1lcmNVVTE5YWVoenRUdGNZcS1ydEIwT1B2ZEtqeFY0WTViQmhvNUQyb3VGLU1QaExWaXNvQm8wczVRQTJpQVlWaXg4ZVVoZDhqZ2RPR212NTlqM0RTZzZyQWdSZEo3WDNRYVdERXU0aktWbTB5bGdNVm5XS3pCMHZHRUIyZ21ON0dfSVJRdHJ2Y1VwSXBOZWxTTm4xa0NtYTJxNA?oc=5"
+  }
+ ],
  "media_by_outlet": {
-  "Libération": {
-   "lepen": {
-    "tone": -0.17,
-    "n": 6
-   },
-   "bardella": {
-    "tone": -0.67,
-    "n": 6
-   },
-   "lisnard": {
-    "tone": 1.0,
-    "n": 1
-   },
-   "glucksmann": {
-    "tone": 0.0,
-    "n": 2
-   },
-   "melenchon": {
-    "tone": -1.5,
-    "n": 2
-   }
-  },
-  "L'Humanité": {
-   "lepen": {
-    "tone": -1.0,
-    "n": 4
-   },
-   "bardella": {
-    "tone": -1.0,
-    "n": 1
-   }
-  },
-  "CNews": {
-   "lepen": {
-    "tone": 0.5,
-    "n": 4
-   },
-   "philippe": {
-    "tone": -1.0,
-    "n": 2
-   },
-   "melenchon": {
-    "tone": 1.0,
-    "n": 1
-   },
-   "attal": {
-    "tone": -1.0,
-    "n": 1
-   }
-  },
-  "franceinfo": {
-   "lepen": {
-    "tone": -0.75,
-    "n": 4
-   }
-  },
-  "TF1": {
-   "lepen": {
-    "tone": -0.5,
-    "n": 2
-   },
-   "melenchon": {
-    "tone": 0.0,
-    "n": 1
-   }
-  },
   "BFMTV": {
-   "melenchon": {
-    "tone": -0.25,
-    "n": 4
+   "lisnard": {
+    "tone": -0.06,
+    "n": 53
    },
-   "lepen": {
-    "tone": -0.5,
-    "n": 2
+   "melenchon": {
+    "tone": -0.37,
+    "n": 84
    },
    "retailleau": {
-    "tone": 0.0,
-    "n": 1
+    "tone": -0.2,
+    "n": 98
+   },
+   "dupontaignan": {
+    "tone": -0.54,
+    "n": 13
+   },
+   "philippe": {
+    "tone": -0.19,
+    "n": 97
+   },
+   "attal": {
+    "tone": -0.24,
+    "n": 79
+   },
+   "roussel": {
+    "tone": -0.13,
+    "n": 60
+   },
+   "lepen": {
+    "tone": -0.49,
+    "n": 67
+   },
+   "ruffin": {
+    "tone": -0.09,
+    "n": 44
+   },
+   "glucksmann": {
+    "tone": -0.2,
+    "n": 85
+   },
+   "arthaud": {
+    "tone": -0.25,
+    "n": 8
+   },
+   "zemmour": {
+    "tone": -0.24,
+    "n": 42
    },
    "hollande": {
     "tone": 0.0,
     "n": 2
-   },
-   "glucksmann": {
-    "tone": 0.0,
-    "n": 1
    }
   },
   "Le Monde": {
-   "lepen": {
-    "tone": -1.0,
-    "n": 1
-   },
-   "glucksmann": {
-    "tone": 0.0,
-    "n": 1
-   },
-   "melenchon": {
-    "tone": 0.0,
-    "n": 1
+   "retailleau": {
+    "tone": -0.27,
+    "n": 22
    },
    "philippe": {
-    "tone": 0.0,
-    "n": 1
-   }
-  },
-  "Ouest-France": {
+    "tone": -0.21,
+    "n": 14
+   },
+   "attal": {
+    "tone": -0.26,
+    "n": 23
+   },
+   "lepen": {
+    "tone": -0.4,
+    "n": 65
+   },
+   "melenchon": {
+    "tone": -0.18,
+    "n": 33
+   },
+   "roussel": {
+    "tone": -0.43,
+    "n": 7
+   },
    "glucksmann": {
+    "tone": -0.14,
+    "n": 29
+   },
+   "lisnard": {
     "tone": 0.0,
+    "n": 5
+   },
+   "ruffin": {
+    "tone": -0.5,
+    "n": 2
+   },
+   "zemmour": {
+    "tone": -1.0,
+    "n": 2
+   },
+   "dupontaignan": {
+    "tone": 0.0,
+    "n": 1
+   },
+   "arthaud": {
+    "tone": -1.0,
     "n": 1
    }
   },
-  "Le Parisien / Aujourd'hui en France": {
+  "La Provence": {
    "retailleau": {
     "tone": -0.5,
     "n": 2
    },
-   "philippe": {
-    "tone": -1.33,
-    "n": 3
-   },
-   "bardella": {
-    "tone": -0.14,
-    "n": 7
-   },
-   "lepen": {
-    "tone": 0.11,
-    "n": 9
-   },
-   "tondelier": {
-    "tone": -0.5,
+   "roussel": {
+    "tone": 0.0,
     "n": 2
    },
-   "villepin": {
+   "philippe": {
+    "tone": 0.25,
+    "n": 4
+   },
+   "dupontaignan": {
     "tone": 0.0,
-    "n": 1
+    "n": 2
    },
-   "glucksmann": {
-    "tone": -0.12,
-    "n": 8
-   },
-   "melenchon": {
-    "tone": 0.12,
-    "n": 8
+   "ruffin": {
+    "tone": 0.0,
+    "n": 2
    },
    "lisnard": {
+    "tone": 0.0,
+    "n": 3
+   },
+   "attal": {
     "tone": 1.0,
     "n": 1
    },
-   "attal": {
-    "tone": -1.0,
+   "glucksmann": {
+    "tone": -0.5,
     "n": 2
    },
    "zemmour": {
@@ -17109,17 +17351,1083 @@
     "n": 1
    }
   },
+  "Le Figaro": {
+   "retailleau": {
+    "tone": -0.13,
+    "n": 63
+   },
+   "philippe": {
+    "tone": -0.31,
+    "n": 49
+   },
+   "attal": {
+    "tone": -0.24,
+    "n": 34
+   },
+   "melenchon": {
+    "tone": -0.48,
+    "n": 42
+   },
+   "lisnard": {
+    "tone": -0.22,
+    "n": 23
+   },
+   "glucksmann": {
+    "tone": -0.15,
+    "n": 20
+   },
+   "zemmour": {
+    "tone": -0.2,
+    "n": 5
+   },
+   "dupontaignan": {
+    "tone": 0.0,
+    "n": 1
+   },
+   "lepen": {
+    "tone": -0.26,
+    "n": 31
+   },
+   "roussel": {
+    "tone": -0.5,
+    "n": 6
+   },
+   "ruffin": {
+    "tone": 0.0,
+    "n": 3
+   }
+  },
+  "RTL": {
+   "melenchon": {
+    "tone": -0.08,
+    "n": 13
+   },
+   "retailleau": {
+    "tone": -0.43,
+    "n": 7
+   },
+   "philippe": {
+    "tone": -0.3,
+    "n": 10
+   },
+   "lisnard": {
+    "tone": -0.33,
+    "n": 3
+   },
+   "lepen": {
+    "tone": -0.27,
+    "n": 11
+   },
+   "ruffin": {
+    "tone": -1.0,
+    "n": 3
+   },
+   "glucksmann": {
+    "tone": -0.17,
+    "n": 6
+   },
+   "attal": {
+    "tone": -0.44,
+    "n": 9
+   },
+   "zemmour": {
+    "tone": 0.0,
+    "n": 1
+   },
+   "roussel": {
+    "tone": 0.0,
+    "n": 1
+   }
+  },
+  "franceinfo": {
+   "melenchon": {
+    "tone": -0.14,
+    "n": 35
+   },
+   "attal": {
+    "tone": -0.18,
+    "n": 22
+   },
+   "philippe": {
+    "tone": -0.17,
+    "n": 18
+   },
+   "retailleau": {
+    "tone": -0.29,
+    "n": 17
+   },
+   "roussel": {
+    "tone": 0.0,
+    "n": 3
+   },
+   "ruffin": {
+    "tone": -0.38,
+    "n": 8
+   },
+   "lepen": {
+    "tone": -0.27,
+    "n": 49
+   },
+   "glucksmann": {
+    "tone": -0.09,
+    "n": 33
+   },
+   "lisnard": {
+    "tone": -0.5,
+    "n": 6
+   },
+   "zemmour": {
+    "tone": -0.6,
+    "n": 5
+   },
+   "dupontaignan": {
+    "tone": 0.5,
+    "n": 2
+   },
+   "arthaud": {
+    "tone": 0.0,
+    "n": 1
+   }
+  },
+  "Libération": {
+   "ruffin": {
+    "tone": 0.11,
+    "n": 9
+   },
+   "attal": {
+    "tone": -0.17,
+    "n": 12
+   },
+   "retailleau": {
+    "tone": -0.44,
+    "n": 16
+   },
+   "melenchon": {
+    "tone": -0.4,
+    "n": 15
+   },
+   "lepen": {
+    "tone": -0.71,
+    "n": 24
+   },
+   "glucksmann": {
+    "tone": -0.22,
+    "n": 23
+   },
+   "roussel": {
+    "tone": -0.29,
+    "n": 7
+   },
+   "philippe": {
+    "tone": -0.3,
+    "n": 10
+   },
+   "lisnard": {
+    "tone": -0.75,
+    "n": 8
+   },
+   "zemmour": {
+    "tone": -0.5,
+    "n": 2
+   },
+   "dupontaignan": {
+    "tone": 0.0,
+    "n": 1
+   },
+   "bardella": {
+    "tone": -0.67,
+    "n": 6
+   }
+  },
+  "La Dépêche du Midi": {
+   "retailleau": {
+    "tone": -0.25,
+    "n": 8
+   },
+   "philippe": {
+    "tone": -0.33,
+    "n": 21
+   },
+   "attal": {
+    "tone": -0.4,
+    "n": 15
+   },
+   "lisnard": {
+    "tone": -0.12,
+    "n": 8
+   },
+   "melenchon": {
+    "tone": -0.39,
+    "n": 18
+   },
+   "roussel": {
+    "tone": 0.0,
+    "n": 4
+   },
+   "glucksmann": {
+    "tone": -0.15,
+    "n": 13
+   },
+   "lepen": {
+    "tone": -0.07,
+    "n": 15
+   },
+   "ruffin": {
+    "tone": 0.0,
+    "n": 2
+   },
+   "zemmour": {
+    "tone": -1.0,
+    "n": 1
+   }
+  },
+  "Sud Ouest": {
+   "retailleau": {
+    "tone": -0.29,
+    "n": 7
+   },
+   "philippe": {
+    "tone": -0.38,
+    "n": 8
+   },
+   "attal": {
+    "tone": 0.0,
+    "n": 8
+   },
+   "ruffin": {
+    "tone": 0.0,
+    "n": 6
+   },
+   "roussel": {
+    "tone": 0.0,
+    "n": 3
+   },
+   "zemmour": {
+    "tone": -0.67,
+    "n": 3
+   },
+   "lepen": {
+    "tone": 0.14,
+    "n": 7
+   },
+   "melenchon": {
+    "tone": -0.11,
+    "n": 9
+   },
+   "glucksmann": {
+    "tone": -0.1,
+    "n": 10
+   },
+   "arthaud": {
+    "tone": 0.0,
+    "n": 2
+   },
+   "lisnard": {
+    "tone": 0.0,
+    "n": 3
+   }
+  },
   "Europe 1": {
+   "retailleau": {
+    "tone": -0.2,
+    "n": 10
+   },
+   "dupontaignan": {
+    "tone": -0.33,
+    "n": 12
+   },
+   "lisnard": {
+    "tone": -0.09,
+    "n": 11
+   },
+   "roussel": {
+    "tone": 0.5,
+    "n": 2
+   },
+   "glucksmann": {
+    "tone": -0.33,
+    "n": 3
+   },
+   "lepen": {
+    "tone": 0.0,
+    "n": 10
+   },
+   "melenchon": {
+    "tone": -0.2,
+    "n": 10
+   },
+   "attal": {
+    "tone": -0.75,
+    "n": 4
+   },
+   "philippe": {
+    "tone": 0.0,
+    "n": 6
+   },
+   "zemmour": {
+    "tone": 0.0,
+    "n": 8
+   }
+  },
+  "RMC": {
+   "lisnard": {
+    "tone": 0.0,
+    "n": 12
+   },
+   "ruffin": {
+    "tone": -0.14,
+    "n": 7
+   },
+   "lepen": {
+    "tone": -0.67,
+    "n": 6
+   },
+   "philippe": {
+    "tone": -0.33,
+    "n": 9
+   },
+   "attal": {
+    "tone": 0.0,
+    "n": 3
+   },
+   "melenchon": {
+    "tone": 0.08,
+    "n": 13
+   },
+   "zemmour": {
+    "tone": -0.07,
+    "n": 14
+   },
+   "glucksmann": {
+    "tone": -0.5,
+    "n": 6
+   },
+   "roussel": {
+    "tone": 0.0,
+    "n": 5
+   },
+   "dupontaignan": {
+    "tone": 0.0,
+    "n": 2
+   },
+   "retailleau": {
+    "tone": 0.0,
+    "n": 3
+   }
+  },
+  "Ouest-France": {
+   "retailleau": {
+    "tone": -0.12,
+    "n": 17
+   },
+   "dupontaignan": {
+    "tone": 0.0,
+    "n": 2
+   },
+   "roussel": {
+    "tone": 0.17,
+    "n": 6
+   },
+   "ruffin": {
+    "tone": 0.0,
+    "n": 17
+   },
+   "lepen": {
+    "tone": -0.14,
+    "n": 7
+   },
+   "melenchon": {
+    "tone": 0.0,
+    "n": 5
+   },
+   "attal": {
+    "tone": -0.17,
+    "n": 12
+   },
+   "philippe": {
+    "tone": -0.1,
+    "n": 10
+   },
+   "glucksmann": {
+    "tone": -0.07,
+    "n": 15
+   },
+   "arthaud": {
+    "tone": 0.0,
+    "n": 3
+   },
+   "lisnard": {
+    "tone": 0.0,
+    "n": 5
+   },
+   "zemmour": {
+    "tone": -0.5,
+    "n": 4
+   }
+  },
+  "Nice-Matin": {
+   "lisnard": {
+    "tone": -0.27,
+    "n": 11
+   },
+   "roussel": {
+    "tone": 0.0,
+    "n": 1
+   },
+   "philippe": {
+    "tone": 0.0,
+    "n": 2
+   },
+   "melenchon": {
+    "tone": 0.0,
+    "n": 2
+   },
+   "retailleau": {
+    "tone": 0.0,
+    "n": 1
+   },
+   "lepen": {
+    "tone": 0.0,
+    "n": 3
+   }
+  },
+  "L'Humanité": {
+   "ruffin": {
+    "tone": -0.14,
+    "n": 7
+   },
+   "roussel": {
+    "tone": -0.05,
+    "n": 20
+   },
+   "glucksmann": {
+    "tone": 0.2,
+    "n": 5
+   },
+   "retailleau": {
+    "tone": -1.5,
+    "n": 2
+   },
+   "lisnard": {
+    "tone": -1.5,
+    "n": 4
+   },
+   "philippe": {
+    "tone": -1.0,
+    "n": 2
+   },
+   "lepen": {
+    "tone": -0.86,
+    "n": 7
+   },
+   "melenchon": {
+    "tone": -0.5,
+    "n": 2
+   },
+   "attal": {
+    "tone": 0.0,
+    "n": 1
+   },
+   "bardella": {
+    "tone": -1.0,
+    "n": 1
+   }
+  },
+  "TF1": {
+   "philippe": {
+    "tone": 0.0,
+    "n": 26
+   },
+   "roussel": {
+    "tone": -0.5,
+    "n": 10
+   },
+   "lepen": {
+    "tone": -0.16,
+    "n": 25
+   },
+   "attal": {
+    "tone": -0.36,
+    "n": 22
+   },
+   "ruffin": {
+    "tone": 0.11,
+    "n": 9
+   },
+   "melenchon": {
+    "tone": -0.33,
+    "n": 15
+   },
+   "glucksmann": {
+    "tone": 0.0,
+    "n": 13
+   },
+   "retailleau": {
+    "tone": -0.25,
+    "n": 8
+   },
+   "lisnard": {
+    "tone": 0.0,
+    "n": 5
+   },
+   "zemmour": {
+    "tone": -0.57,
+    "n": 7
+   },
+   "dupontaignan": {
+    "tone": -0.33,
+    "n": 6
+   }
+  },
+  "Le Parisien / Aujourd'hui en France": {
+   "attal": {
+    "tone": -0.5,
+    "n": 18
+   },
+   "ruffin": {
+    "tone": 0.0,
+    "n": 3
+   },
+   "lepen": {
+    "tone": -0.39,
+    "n": 31
+   },
+   "retailleau": {
+    "tone": -0.26,
+    "n": 19
+   },
+   "glucksmann": {
+    "tone": -0.22,
+    "n": 23
+   },
+   "melenchon": {
+    "tone": -0.17,
+    "n": 30
+   },
+   "philippe": {
+    "tone": -0.4,
+    "n": 25
+   },
+   "zemmour": {
+    "tone": -0.67,
+    "n": 9
+   },
+   "lisnard": {
+    "tone": -0.1,
+    "n": 10
+   },
+   "roussel": {
+    "tone": -0.33,
+    "n": 3
+   },
+   "dupontaignan": {
+    "tone": 0.0,
+    "n": 1
+   },
+   "arthaud": {
+    "tone": 0.0,
+    "n": 1
+   },
+   "bardella": {
+    "tone": -0.14,
+    "n": 7
+   },
+   "villepin": {
+    "tone": 0.0,
+    "n": 1
+   },
+   "tondelier": {
+    "tone": -0.5,
+    "n": 2
+   }
+  },
+  "Le Télégramme": {
+   "melenchon": {
+    "tone": 0.0,
+    "n": 1
+   },
+   "retailleau": {
+    "tone": 0.0,
+    "n": 2
+   },
+   "philippe": {
+    "tone": -0.5,
+    "n": 6
+   },
+   "roussel": {
+    "tone": 0.0,
+    "n": 2
+   },
+   "ruffin": {
+    "tone": 0.0,
+    "n": 4
+   },
+   "attal": {
+    "tone": -0.25,
+    "n": 4
+   },
+   "lepen": {
+    "tone": -1.0,
+    "n": 2
+   },
+   "glucksmann": {
+    "tone": 0.0,
+    "n": 1
+   },
+   "lisnard": {
+    "tone": 0.0,
+    "n": 1
+   }
+  },
+  "CNews": {
+   "lisnard": {
+    "tone": -0.08,
+    "n": 12
+   },
+   "dupontaignan": {
+    "tone": -0.35,
+    "n": 17
+   },
+   "zemmour": {
+    "tone": 0.14,
+    "n": 14
+   },
+   "roussel": {
+    "tone": 0.25,
+    "n": 4
+   },
+   "lepen": {
+    "tone": 0.29,
+    "n": 17
+   },
+   "philippe": {
+    "tone": -0.42,
+    "n": 19
+   },
+   "melenchon": {
+    "tone": -0.71,
+    "n": 24
+   },
+   "attal": {
+    "tone": -0.21,
+    "n": 19
+   },
+   "retailleau": {
+    "tone": -0.33,
+    "n": 12
+   },
+   "glucksmann": {
+    "tone": -0.43,
+    "n": 7
+   }
+  },
+  "La Voix du Nord": {
+   "roussel": {
+    "tone": 0.5,
+    "n": 2
+   },
+   "zemmour": {
+    "tone": -1.0,
+    "n": 1
+   },
+   "attal": {
+    "tone": 0.0,
+    "n": 1
+   },
+   "philippe": {
+    "tone": 0.0,
+    "n": 2
+   },
+   "glucksmann": {
+    "tone": 0.0,
+    "n": 1
+   },
+   "arthaud": {
+    "tone": 0.0,
+    "n": 3
+   },
+   "ruffin": {
+    "tone": 1.0,
+    "n": 1
+   }
+  },
+  "La Nouvelle République": {
+   "roussel": {
+    "tone": -0.5,
+    "n": 2
+   },
+   "lepen": {
+    "tone": -0.5,
+    "n": 2
+   },
+   "glucksmann": {
+    "tone": 0.5,
+    "n": 2
+   },
+   "philippe": {
+    "tone": -0.5,
+    "n": 4
+   },
+   "attal": {
+    "tone": -0.75,
+    "n": 4
+   },
+   "melenchon": {
+    "tone": 0.0,
+    "n": 3
+   },
+   "ruffin": {
+    "tone": -1.0,
+    "n": 1
+   },
+   "lisnard": {
+    "tone": 0.0,
+    "n": 1
+   }
+  },
+  "France 3": {
+   "roussel": {
+    "tone": 0.0,
+    "n": 1
+   },
+   "philippe": {
+    "tone": -0.5,
+    "n": 4
+   },
+   "melenchon": {
+    "tone": 0.0,
+    "n": 2
+   },
+   "lisnard": {
+    "tone": -0.4,
+    "n": 5
+   },
+   "retailleau": {
+    "tone": 0.0,
+    "n": 2
+   },
+   "lepen": {
+    "tone": 0.0,
+    "n": 2
+   },
+   "zemmour": {
+    "tone": 0.0,
+    "n": 1
+   },
+   "ruffin": {
+    "tone": 0.0,
+    "n": 1
+   },
+   "dupontaignan": {
+    "tone": 0.0,
+    "n": 1
+   },
+   "arthaud": {
+    "tone": -2.0,
+    "n": 1
+   }
+  },
+  "La Croix": {
+   "roussel": {
+    "tone": 0.0,
+    "n": 1
+   },
+   "lepen": {
+    "tone": 0.0,
+    "n": 2
+   },
+   "ruffin": {
+    "tone": 0.0,
+    "n": 1
+   },
+   "melenchon": {
+    "tone": 0.0,
+    "n": 1
+   },
+   "glucksmann": {
+    "tone": -0.5,
+    "n": 2
+   },
+   "philippe": {
+    "tone": 0.0,
+    "n": 4
+   },
    "lisnard": {
     "tone": 0.0,
     "n": 2
+   },
+   "retailleau": {
+    "tone": 0.0,
+    "n": 1
+   },
+   "zemmour": {
+    "tone": 0.0,
+    "n": 1
+   },
+   "attal": {
+    "tone": 0.0,
+    "n": 2
+   }
+  },
+  "Le Dauphiné Libéré": {
+   "roussel": {
+    "tone": 0.0,
+    "n": 2
+   },
+   "ruffin": {
+    "tone": 0.0,
+    "n": 7
+   },
+   "melenchon": {
+    "tone": 0.25,
+    "n": 4
+   },
+   "attal": {
+    "tone": -0.25,
+    "n": 4
+   },
+   "philippe": {
+    "tone": -0.33,
+    "n": 6
+   },
+   "lisnard": {
+    "tone": 0.0,
+    "n": 2
+   },
+   "zemmour": {
+    "tone": -1.0,
+    "n": 3
+   },
+   "retailleau": {
+    "tone": 0.33,
+    "n": 3
+   },
+   "glucksmann": {
+    "tone": 0.0,
+    "n": 1
+   },
+   "dupontaignan": {
+    "tone": 0.5,
+    "n": 2
+   }
+  },
+  "L'Alsace": {
+   "dupontaignan": {
+    "tone": 0.0,
+    "n": 2
+   },
+   "lisnard": {
+    "tone": 0.0,
+    "n": 2
+   }
+  },
+  "Midi Libre": {
+   "melenchon": {
+    "tone": -0.3,
+    "n": 10
+   },
+   "roussel": {
+    "tone": 0.0,
+    "n": 1
+   },
+   "retailleau": {
+    "tone": -0.33,
+    "n": 6
+   },
+   "lepen": {
+    "tone": 0.17,
+    "n": 6
+   },
+   "lisnard": {
+    "tone": -0.33,
+    "n": 3
+   },
+   "attal": {
+    "tone": -0.33,
+    "n": 6
+   },
+   "philippe": {
+    "tone": -0.2,
+    "n": 10
+   },
+   "zemmour": {
+    "tone": 0.0,
+    "n": 1
+   },
+   "glucksmann": {
+    "tone": -0.33,
+    "n": 6
+   },
+   "ruffin": {
+    "tone": 0.0,
+    "n": 1
+   }
+  },
+  "L'Est Républicain": {
+   "dupontaignan": {
+    "tone": 0.0,
+    "n": 2
+   },
+   "philippe": {
+    "tone": 0.0,
+    "n": 1
+   },
+   "retailleau": {
+    "tone": 0.0,
+    "n": 1
+   }
+  },
+  "Radio Classique": {
+   "philippe": {
+    "tone": 0.0,
+    "n": 1
+   },
+   "glucksmann": {
+    "tone": 1.0,
+    "n": 1
+   }
+  },
+  "Les Échos": {
+   "retailleau": {
+    "tone": -0.22,
+    "n": 9
+   },
+   "lepen": {
+    "tone": -0.42,
+    "n": 12
+   },
+   "attal": {
+    "tone": -0.25,
+    "n": 8
+   },
+   "melenchon": {
+    "tone": 0.0,
+    "n": 3
+   },
+   "philippe": {
+    "tone": 0.0,
+    "n": 4
+   },
+   "glucksmann": {
+    "tone": -0.14,
+    "n": 7
+   },
+   "roussel": {
+    "tone": -1.0,
+    "n": 1
+   },
+   "lisnard": {
+    "tone": -0.33,
+    "n": 3
+   }
+  },
+  "Arte": {
+   "lepen": {
+    "tone": 0.0,
+    "n": 1
+   },
+   "glucksmann": {
+    "tone": 0.0,
+    "n": 1
+   }
+  },
+  "L'Union - L'Ardennais": {
+   "philippe": {
+    "tone": 0.0,
+    "n": 1
+   },
+   "attal": {
+    "tone": 0.0,
+    "n": 3
+   },
+   "retailleau": {
+    "tone": 0.0,
+    "n": 1
+   },
+   "lisnard": {
+    "tone": -0.5,
+    "n": 2
+   },
+   "zemmour": {
+    "tone": 0.0,
+    "n": 3
+   },
+   "dupontaignan": {
+    "tone": 0.0,
+    "n": 1
+   },
+   "melenchon": {
+    "tone": -1.0,
+    "n": 1
+   }
+  },
+  "La Montagne": {
+   "lepen": {
+    "tone": 0.0,
+    "n": 3
+   },
+   "attal": {
+    "tone": 0.0,
+    "n": 2
+   },
+   "philippe": {
+    "tone": 0.0,
+    "n": 2
+   },
+   "arthaud": {
+    "tone": 0.5,
+    "n": 2
+   },
+   "retailleau": {
+    "tone": 0.0,
+    "n": 2
+   },
+   "glucksmann": {
+    "tone": 0.0,
+    "n": 1
+   },
+   "melenchon": {
+    "tone": -0.2,
+    "n": 5
+   },
+   "ruffin": {
+    "tone": 0.0,
+    "n": 2
+   },
+   "zemmour": {
+    "tone": 0.0,
+    "n": 1
+   },
+   "lisnard": {
+    "tone": 0.0,
+    "n": 1
+   },
+   "roussel": {
+    "tone": 0.0,
+    "n": 1
+   }
+  },
+  "Le Progrès": {
+   "arthaud": {
+    "tone": 0.0,
+    "n": 3
+   },
+   "ruffin": {
+    "tone": 0.0,
+    "n": 1
    },
    "lepen": {
     "tone": 0.0,
     "n": 1
    },
    "melenchon": {
-    "tone": -2.0,
+    "tone": 0.0,
+    "n": 1
+   }
+  },
+  "Canal+": {
+   "roussel": {
+    "tone": 0.0,
     "n": 1
    }
   }
@@ -17611,8 +18919,8 @@
      0
     ],
     "change_month": [
-     0,
-     0
+     null,
+     null
     ],
     "latest_by_platform": {
      "instagram": 912593,
@@ -17632,8 +18940,8 @@
      0
     ],
     "change_month": [
-     0,
-     0
+     null,
+     null
     ],
     "latest_by_platform": {
      "instagram": 1181683,
@@ -17653,8 +18961,8 @@
      0
     ],
     "change_month": [
-     0,
-     0
+     null,
+     null
     ],
     "latest_by_platform": {
      "instagram": 226622,
@@ -17673,8 +18981,8 @@
      0
     ],
     "change_month": [
-     0,
-     0
+     null,
+     null
     ],
     "latest_by_platform": {
      "instagram": 625014,
@@ -17693,8 +19001,8 @@
      0
     ],
     "change_month": [
-     0,
-     0
+     null,
+     null
     ],
     "latest_by_platform": {
      "instagram": 460399,
@@ -17714,8 +19022,8 @@
      0
     ],
     "change_month": [
-     0,
-     0
+     null,
+     null
     ],
     "latest_by_platform": {
      "instagram": 313149,
@@ -17735,8 +19043,8 @@
      0
     ],
     "change_month": [
-     0,
-     0
+     null,
+     null
     ],
     "latest_by_platform": {
      "instagram": 115626,
@@ -17756,8 +19064,8 @@
      0
     ],
     "change_month": [
-     0,
-     0
+     null,
+     null
     ],
     "latest_by_platform": {
      "instagram": 608109,
@@ -17777,8 +19085,8 @@
      0
     ],
     "change_month": [
-     0,
-     0
+     null,
+     null
     ],
     "latest_by_platform": {
      "instagram": 35886,
@@ -17798,8 +19106,8 @@
      0
     ],
     "change_month": [
-     0,
-     0
+     null,
+     null
     ],
     "latest_by_platform": {
      "instagram": 70567,
@@ -17819,8 +19127,8 @@
      0
     ],
     "change_month": [
-     0,
-     0
+     null,
+     null
     ],
     "latest_by_platform": {
      "instagram": 29313,
@@ -17840,8 +19148,8 @@
      0
     ],
     "change_month": [
-     0,
-     0
+     null,
+     null
     ],
     "latest_by_platform": {
      "instagram": 450074,
@@ -17866,8 +19174,8 @@
      0
     ],
     "change_month": [
-     0,
-     0
+     null,
+     null
     ]
    },
    {
@@ -17884,8 +19192,8 @@
      0
     ],
     "change_month": [
-     0,
-     0
+     null,
+     null
     ]
    },
    {
@@ -17902,8 +19210,8 @@
      0
     ],
     "change_month": [
-     0,
-     0
+     null,
+     null
     ]
    },
    {
@@ -17920,8 +19228,8 @@
      0
     ],
     "change_month": [
-     0,
-     0
+     null,
+     null
     ]
    },
    {
@@ -17938,8 +19246,8 @@
      0
     ],
     "change_month": [
-     0,
-     0
+     null,
+     null
     ]
    },
    {
@@ -17956,8 +19264,8 @@
      0
     ],
     "change_month": [
-     0,
-     0
+     null,
+     null
     ]
    },
    {
@@ -17974,8 +19282,8 @@
      0
     ],
     "change_month": [
-     0,
-     0
+     null,
+     null
     ]
    },
    {
@@ -17992,8 +19300,8 @@
      0
     ],
     "change_month": [
-     0,
-     0
+     null,
+     null
     ]
    }
   ],
@@ -18685,8 +19993,8 @@
        0
       ],
       "change_month": [
-       0,
-       0
+       null,
+       null
       ]
      },
      {
@@ -18700,8 +20008,8 @@
        0
       ],
       "change_month": [
-       0,
-       0
+       null,
+       null
       ]
      },
      {
@@ -18745,8 +20053,8 @@
        0
       ],
       "change_month": [
-       0,
-       0
+       null,
+       null
       ]
      },
      {
@@ -18760,8 +20068,8 @@
        0
       ],
       "change_month": [
-       0,
-       0
+       null,
+       null
       ]
      },
      {
@@ -18775,8 +20083,8 @@
        0
       ],
       "change_month": [
-       0,
-       0
+       null,
+       null
       ]
      },
      {
@@ -18790,8 +20098,8 @@
        0
       ],
       "change_month": [
-       0,
-       0
+       null,
+       null
       ]
      },
      {
@@ -18805,8 +20113,8 @@
        0
       ],
       "change_month": [
-       0,
-       0
+       null,
+       null
       ]
      },
      {
@@ -18820,8 +20128,8 @@
        0
       ],
       "change_month": [
-       0,
-       0
+       null,
+       null
       ]
      },
      {
@@ -18835,8 +20143,8 @@
        0
       ],
       "change_month": [
-       0,
-       0
+       null,
+       null
       ]
      },
      {
@@ -18850,8 +20158,8 @@
        0
       ],
       "change_month": [
-       0,
-       0
+       null,
+       null
       ]
      }
     ],
@@ -19501,8 +20809,8 @@
        0
       ],
       "change_month": [
-       0,
-       0
+       null,
+       null
       ]
      },
      {
@@ -19516,8 +20824,8 @@
        0
       ],
       "change_month": [
-       0,
-       0
+       null,
+       null
       ]
      },
      {
@@ -19531,8 +20839,8 @@
        0
       ],
       "change_month": [
-       0,
-       0
+       null,
+       null
       ]
      },
      {
@@ -19546,8 +20854,8 @@
        0
       ],
       "change_month": [
-       0,
-       0
+       null,
+       null
       ]
      },
      {
@@ -19561,8 +20869,8 @@
        0
       ],
       "change_month": [
-       0,
-       0
+       null,
+       null
       ]
      },
      {
@@ -19576,8 +20884,8 @@
        0
       ],
       "change_month": [
-       0,
-       0
+       null,
+       null
       ]
      },
      {
@@ -19591,8 +20899,8 @@
        0
       ],
       "change_month": [
-       0,
-       0
+       null,
+       null
       ]
      },
      {
@@ -19606,8 +20914,8 @@
        0
       ],
       "change_month": [
-       0,
-       0
+       null,
+       null
       ]
      },
      {
@@ -19621,8 +20929,8 @@
        0
       ],
       "change_month": [
-       0,
-       0
+       null,
+       null
       ]
      },
      {
@@ -19636,8 +20944,8 @@
        0
       ],
       "change_month": [
-       0,
-       0
+       null,
+       null
       ]
      },
      {
@@ -19651,8 +20959,8 @@
        0
       ],
       "change_month": [
-       0,
-       0
+       null,
+       null
       ]
      },
      {
@@ -19666,8 +20974,8 @@
        0
       ],
       "change_month": [
-       0,
-       0
+       null,
+       null
       ]
      }
     ],
@@ -20317,8 +21625,8 @@
        0
       ],
       "change_month": [
-       0,
-       0
+       null,
+       null
       ]
      },
      {
@@ -20332,8 +21640,8 @@
        0
       ],
       "change_month": [
-       0,
-       0
+       null,
+       null
       ]
      },
      {
@@ -20347,8 +21655,8 @@
        0
       ],
       "change_month": [
-       0,
-       0
+       null,
+       null
       ]
      },
      {
@@ -20362,8 +21670,8 @@
        0
       ],
       "change_month": [
-       0,
-       0
+       null,
+       null
       ]
      },
      {
@@ -20377,8 +21685,8 @@
        0
       ],
       "change_month": [
-       0,
-       0
+       null,
+       null
       ]
      },
      {
@@ -20392,8 +21700,8 @@
        0
       ],
       "change_month": [
-       0,
-       0
+       null,
+       null
       ]
      },
      {
@@ -20407,8 +21715,8 @@
        0
       ],
       "change_month": [
-       0,
-       0
+       null,
+       null
       ]
      },
      {
@@ -20422,8 +21730,8 @@
        0
       ],
       "change_month": [
-       0,
-       0
+       null,
+       null
       ]
      },
      {
@@ -20437,8 +21745,8 @@
        0
       ],
       "change_month": [
-       0,
-       0
+       null,
+       null
       ]
      },
      {
@@ -20452,8 +21760,8 @@
        0
       ],
       "change_month": [
-       0,
-       0
+       null,
+       null
       ]
      },
      {
@@ -20467,8 +21775,8 @@
        0
       ],
       "change_month": [
-       0,
-       0
+       null,
+       null
       ]
      },
      {
@@ -20482,8 +21790,8 @@
        0
       ],
       "change_month": [
-       0,
-       0
+       null,
+       null
       ]
      }
     ],
@@ -21134,7 +22442,7 @@
       ],
       "change_month": [
        null,
-       0
+       null
       ]
      },
      {
@@ -21149,7 +22457,7 @@
       ],
       "change_month": [
        null,
-       0
+       null
       ]
      },
      {
@@ -21164,7 +22472,7 @@
       ],
       "change_month": [
        null,
-       0
+       null
       ]
      },
      {
@@ -21179,7 +22487,7 @@
       ],
       "change_month": [
        null,
-       0
+       null
       ]
      },
      {
@@ -21194,7 +22502,7 @@
       ],
       "change_month": [
        null,
-       0
+       null
       ]
      },
      {
@@ -21209,7 +22517,7 @@
       ],
       "change_month": [
        null,
-       0
+       null
       ]
      },
      {
@@ -21224,7 +22532,7 @@
       ],
       "change_month": [
        null,
-       0
+       null
       ]
      },
      {
@@ -21239,7 +22547,7 @@
       ],
       "change_month": [
        null,
-       0
+       null
       ]
      },
      {
@@ -21254,7 +22562,7 @@
       ],
       "change_month": [
        null,
-       0
+       null
       ]
      },
      {
@@ -21269,7 +22577,7 @@
       ],
       "change_month": [
        null,
-       0
+       null
       ]
      },
      {
@@ -21284,7 +22592,7 @@
       ],
       "change_month": [
        null,
-       0
+       null
       ]
      },
      {
@@ -21299,7 +22607,7 @@
       ],
       "change_month": [
        null,
-       0
+       null
       ]
      }
     ],
@@ -28253,303 +29561,7 @@
    "youtube_subs_gain_7d": null
   }
  ],
- "youtube_status": [
-  {
-   "id": "lepen",
-   "ok": true,
-   "title": "Marine Le Pen"
-  },
-  {
-   "id": "melenchon",
-   "ok": true,
-   "title": "JEAN-LUC MÉLENCHON"
-  },
-  {
-   "id": "philippe",
-   "ok": true,
-   "title": "Edouard Philippe"
-  },
-  {
-   "id": "glucksmann",
-   "ok": false,
-   "error": "handle non renseigné"
-  },
-  {
-   "id": "attal",
-   "ok": true,
-   "title": "Gabriel Attal"
-  },
-  {
-   "id": "zemmour",
-   "ok": true,
-   "title": "Éric Zemmour"
-  },
-  {
-   "id": "retailleau",
-   "ok": true,
-   "title": "Bruno Retailleau"
-  },
-  {
-   "id": "lisnard",
-   "ok": true,
-   "title": "David Lisnard"
-  },
-  {
-   "id": "bardella",
-   "ok": true,
-   "title": "Jordan Bardella"
-  },
-  {
-   "id": "tondelier",
-   "ok": true,
-   "title": "Marine Tondelier"
-  },
-  {
-   "id": "roussel",
-   "ok": true,
-   "title": "Fabien Roussel"
-  },
-  {
-   "id": "dupontaignan",
-   "ok": true,
-   "title": "Nicolas Dupont-Aignan"
-  },
-  {
-   "id": "arthaud",
-   "ok": true,
-   "title": "Nathalie Arthaud"
-  },
-  {
-   "id": "villepin",
-   "ok": true,
-   "title": "Dominique de Villepin"
-  },
-  {
-   "id": "hollande",
-   "ok": false,
-   "error": "handle non renseigné"
-  },
-  {
-   "id": "ruffin",
-   "ok": true,
-   "title": "FRANÇOIS RUFFIN"
-  },
-  {
-   "id": "knafo",
-   "ok": true,
-   "title": "Sarah Knafo"
-  },
-  {
-   "id": "marechal",
-   "ok": true,
-   "title": "Marion Maréchal"
-  },
-  {
-   "id": "chenu",
-   "ok": true,
-   "title": "Sébastien Chenu"
-  },
-  {
-   "id": "hassan",
-   "ok": true,
-   "title": "Rima Hassan"
-  },
-  {
-   "id": "guiraud",
-   "ok": true,
-   "title": "David Guiraud"
-  },
-  {
-   "id": "guette",
-   "ok": true,
-   "title": "Clémence Guetté"
-  },
-  {
-   "id": "bompard",
-   "ok": true,
-   "title": "Manuel Bompard"
-  },
-  {
-   "id": "legendre",
-   "ok": false,
-   "error": "handle non renseigné"
-  },
-  {
-   "id": "naegelen",
-   "ok": false,
-   "error": "handle non renseigné"
-  },
-  {
-   "id": "borne",
-   "ok": false,
-   "error": "handle non renseigné"
-  },
-  {
-   "id": "darmanin",
-   "ok": true,
-   "title": "Gérald DARMANIN"
-  },
-  {
-   "id": "sejourne",
-   "ok": false,
-   "error": "handle non renseigné"
-  },
-  {
-   "id": "faure",
-   "ok": true,
-   "title": "Olivier Faure"
-  },
-  {
-   "id": "delga",
-   "ok": true,
-   "title": "La République En Commun"
-  },
-  {
-   "id": "wauquiez",
-   "ok": true,
-   "title": "laurentwauquiez"
-  },
-  {
-   "id": "pecresse",
-   "ok": true,
-   "title": "Valérie Pécresse"
-  },
-  {
-   "id": "meunier",
-   "ok": false,
-   "error": "handle non renseigné"
-  },
-  {
-   "id": "media-bfmtv",
-   "ok": true,
-   "title": "BFMTV"
-  },
-  {
-   "id": "media-franceinfo",
-   "ok": true,
-   "title": "franceinfo"
-  },
-  {
-   "id": "media-tf1info",
-   "ok": true,
-   "title": "TF1"
-  },
-  {
-   "id": "media-lci",
-   "ok": true,
-   "title": "LCI"
-  },
-  {
-   "id": "media-cnews",
-   "ok": true,
-   "title": "CNEWS"
-  },
-  {
-   "id": "media-m6info",
-   "ok": true,
-   "title": "M6 Info"
-  },
-  {
-   "id": "media-francetelevisions",
-   "ok": true,
-   "title": "France Télévisions"
-  },
-  {
-   "id": "media-france-inter",
-   "ok": true,
-   "title": "France Inter"
-  },
-  {
-   "id": "media-europe1",
-   "ok": true,
-   "title": "Europe 1"
-  },
-  {
-   "id": "media-radionova",
-   "ok": true,
-   "title": "Radio Nova"
-  },
-  {
-   "id": "media-lemonde",
-   "ok": true,
-   "title": "Le Monde"
-  },
-  {
-   "id": "media-mediapart",
-   "ok": true,
-   "title": "Mediapart"
-  },
-  {
-   "id": "media-leparisien",
-   "ok": true,
-   "title": "Le Parisien"
-  },
-  {
-   "id": "media-w9",
-   "ok": true,
-   "title": "W9"
-  },
-  {
-   "id": "panot",
-   "ok": true,
-   "title": "Mathilde Panot"
-  },
-  {
-   "id": "aubry",
-   "ok": true,
-   "title": "Manon Aubry"
-  },
-  {
-   "id": "vallaud",
-   "ok": true,
-   "title": "BorisVallaud"
-  },
-  {
-   "id": "guedj",
-   "ok": true,
-   "title": "Jérôme Guedj"
-  },
-  {
-   "id": "geoffroy",
-   "ok": true,
-   "title": "Hélène Geoffroy 2020"
-  },
-  {
-   "id": "bellamy",
-   "ok": true,
-   "title": "François-Xavier Bellamy"
-  },
-  {
-   "id": "bertrand",
-   "ok": true,
-   "title": "Xavier Bertrand Officiel"
-  },
-  {
-   "id": "maillard",
-   "ok": false,
-   "error": "handle non renseigné"
-  },
-  {
-   "id": "diaz",
-   "ok": false,
-   "error": "handle non renseigné"
-  },
-  {
-   "id": "lavalette",
-   "ok": false,
-   "error": "handle non renseigné"
-  },
-  {
-   "id": "jadot",
-   "ok": true,
-   "title": "Yannick Jadot 2022"
-  },
-  {
-   "id": "bournazel",
-   "ok": true,
-   "title": "Pierre-Yves Bournazel"
-  }
- ],
+ "youtube_status": [],
  "parties": [
   {
    "id": "rn",
@@ -28940,9 +29952,10 @@
     "error": null
    }
   ],
-  "articles_total": 9213,
-  "articles_analysed": 109,
+  "articles_total": 9298,
+  "articles_analysed": 4417,
   "analysis_models": {
+   "ollama:qwen3.5:4b": 4308,
    "claude": 109
   },
   "media_since": "2026-07-01"

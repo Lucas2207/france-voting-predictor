@@ -9,7 +9,15 @@
   "published": "2026-10-16T00:30+02:00",
   "mentions": [
    "dupontaignan"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "dupontaignan",
+    "tone": 0,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "b8897d027e576d27",
@@ -21,7 +29,15 @@
   "published": "2026-10-16T01:19+02:00",
   "mentions": [
    "ruffin"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "ruffin",
+    "tone": -1,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "fff2b5b7d05fcf1a",
@@ -33,91 +49,15 @@
   "published": "2026-10-16T06:45+02:00",
   "mentions": [
    "lepen"
-  ]
- },
- {
-  "id": "140ee642dc809c7e",
-  "outlet": "CNews",
-  "lean": "droite",
-  "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWHpLajVuWGRzYUJNcDE4dU94aWFXU2RIdjFjUm1WVHptTEdnLWY3bHlIY3ZxWHBhQUs0T19ISlJDeEdCSzVfN09Hc0lpcHVxcU11cXQwZ0JlWFpGcTlNQWZrNGxmYnlGdkJFTFg5V1FnUkN6VThRS3U5MktxYUdiR0tQUl9QdjlfNDRXWWNVc0lpOVVvSU9VMHJxTExvM3lWYXI3eUc3Wk4yQ0tNOVItRS0tNGTSAboBQVVfeXFMUFY0N0lUdHdjUkh4NDFkSXFZeWlsekl5eDJuc0FXTTlrQktQY0NoZlc3c0JpVERlRDFsMjVkNUdGWE82UVdvRGI1cjhGVVV3MmVNYmVpRFVNRHcxWkNRNHFOdklkRFNfMU9PbDZLdlJYZkhWOUJlNDFpRjhhZjFHOU94eXBLMzIxX3k5clM3VHNFVDBfODA4ZE9MWnNJVG9QcndTeGkxSElpcDBSdE1MNmt5N093UnYxMVhB?oc=5",
-  "title": "Présidentielle 2027 : «Marine Le Pen n'est pas là pour séduire, elle est là pour convaincre», juge Mayalène Trémolet",
-  "summary": "",
-  "published": "2026-10-16T09:00+02:00",
-  "mentions": [
-   "lepen"
-  ]
- },
- {
-  "id": "0c50a89cbcecfbf6",
-  "outlet": "Europe 1",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPMXBoOTFLNlN5WUVzdjh2Mlc5UHRvM2Y5VWhrSXpqSlFSaklmWmdwMmhLRl85c0RuVFpzMThCZVQ3eFhZcWlJcjhuTU1ISF9OSkt5TUFsa01sYkY2b2NFcGVlVlprY0RVQzVLU0FJR0hPTVlQQ1JUME14N3d1X1V2bjFWR1M1cVAwOXNYY2xFZUhsQ0xxaDNCQnlqR0lhQzRFb0ZRNldaZnBNUFVBbzRzN0NYQkhoV1BvOUJtNFRGUDJwajhTOTlxdk9tczJBYnVCNlNhQmxfR0ZlVzltQ0JZdWFCUTRRRlFuekg4SkxiM2FNMjBoZ2Q3NWZFallrUdIBgwJBVV95cUxPUnJmV2RMZ0RIUTE2R2JBaHZXZl9IdXV4NWZ1UkU3RF9BYVRDSmRnMHp6OERJYm44ZDB1THoya0d5SmNDOGhvaHVoaXl1OWdvVy1rbl8zZXlOd1A2a0RHRzJmMDVGckR6dTlzdFM3LThHck9nV3h6MUVGTE9oZmgxVWZOZjFHeGdjTDB2bUlqd1hpbkc1eGpvVXZXT2VoYlgtTHNmSGFfWkxyelpQWHVHTjdqOEVDV2cwcTNvTWF3dWlPMXMyQXJEazBGU0Z3Q0M4MkxsSGlEVVlQM2V2X3lteUVnYVBuWHhvU3FmcHZKem1QbGpJUjNJWlotYnk2eV95Q1lr?oc=5",
-  "title": "«Si Marine Le Pen est élue, elle va se heurter à un Conseil constitutionnel qui va s'ériger en contre-pouvoir», estime Georges Fenech",
-  "summary": "",
-  "published": "2026-10-16T09:00+02:00",
-  "mentions": [
-   "lepen"
-  ]
- },
- {
-  "id": "0b72c85d6973e293",
-  "outlet": "Les Surligneurs",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWlhnYmkwdjRqTjA0Y1VTdTZoTllrRFNPM2Y0RmtFMnBuZHpQZllsS1phYVcyNHd1dm1vX0ozX3h1WFROTDlHSXg2THBEdzFZVFBOdUJ4WE9YWUxzTWVHMmlpWEVMR3RnM2pJbmwzakt0YS1JZW90c1hTT0hCaW5rR0ZueFhOdUpTclhZOHpyTzZEanFlZFE?oc=5",
-  "title": "Jean-Luc Mélenchon possède-t-il un patrimoine de 2 465 000 euros ?",
-  "summary": "",
-  "published": "2026-10-16T09:00+02:00",
-  "mentions": [
-   "melenchon"
-  ]
- },
- {
-  "id": "083224777cf9cec0",
-  "outlet": "CNews",
-  "lean": "droite",
-  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNOUp6N3pqODNpNmZPMnVFNWw4SWdoeTNIRkV3TlZBaUwtOEtwR2xxQzBhNm1CMVpCaVB3dEY0Q3habkRETlZNV3pFVC1HQm1IMVoxR2RDX1hnYWstTFBxWG5aQVlGb19xaENIcUpDd3BfeU9KUlI5bWFYNkNHUHVxeVBtVzBMOUpQc2dNNkJhNGRNSEdLemZlYlE0TEFiQjFZTmx1UXJTLUpnODZHVnE2UVFzSdIBuAFBVV95cUxNUzlTTm93WExtOHJnVV9rVTV2akVxY3NTWnVnS0UyaTJodm5HdHlmS3p1RHJ5MHhNNmlrT2liMVh4ZVV1RVQwTTdQMDVSa0ZOVVFHRHE1alJrWDF6Z3BYSFdMbUFIQUZDNl8xQ3NlVURBamxGTzZiWnRXMGxGc19zVHlDTFdzLTU2bFJNd2Q5TmJtQlh4aU1yeEpJSUhPdGdzd2VkOXRybkkzUk5vclNBMTROclA0UF9H?oc=5",
-  "title": "Présidentielle 2027 : ces idées d’Edouard Philippe pourraient bouleverser les rythmes scolaires",
-  "summary": "",
-  "published": "2026-10-16T09:00+02:00",
-  "mentions": [
-   "philippe"
-  ]
- },
- {
-  "id": "96ccfc99a303812d",
-  "outlet": "TF1 Info",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxObmZXOUpCSmN0WmE3Ni1INXdlZzNWRlpaTWhBYWNvVDl3MmstR0N1RVI4ZVRnUzdpVTFxdzBhTFktRVg1LS1SdmVna2k4TExlU1hPYUxmX3ozbmV0VU00TlRscHVtcHpqeTVCNHBHeEt2aHVPZlc0bkFYVTdvQkZtWHJHN0Y2N244aUN4MkFDTFozc3I0QXl0VC1PUF9lRVk2akVJd214QUNWVGU3TkdRX3E5a21YemxNMUF2aWJzelpZd0lMalM5NkNlWG13RnM5aVhsZFB4RHJJZjdIZ2NIOU0zWQ?oc=5",
-  "title": "Présidentielle 2027 : Raphaël Glucksmann au défi de faire durer \"l'effet primaire\"",
-  "summary": "",
-  "published": "2026-10-16T09:00+02:00",
-  "mentions": [
-   "glucksmann"
-  ]
- },
- {
-  "id": "f6d13c9c0f5c9cc2",
-  "outlet": "Le HuffPost",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOajMzNDFXZ2tEaEVDeG51YWdMUG1Pdm01NEhfN3RwSjRIajlFQnIwU0hxb3BWT2U1UVBqblRjNFc2LWN0RmN3U0paYzBaQ19BM3d4WFdhQnhkWk51aEpNcy0ybHhKaHFFbkRkS2xOOHVuNEh0X0ExTGcxdVNKYlVNLUVMazd3RnNfcFFqWVJvQXZoZGNoR1dja2Mtc3ZFWDcwbEJQWTBQaUE2R21JODg0aXNmOUpfeXJMdjVKdW1jeGM2UmhxRnNVN0NHZEQzNU5XdFpmcGh1RHhldTJXM21SRDdPOTRJUQ?oc=5",
-  "title": "Ce que dit l’incapacité de Raphaël Glucksmann à soutenir (sur le terrain) le mouvement lycéen",
-  "summary": "",
-  "published": "2026-10-16T09:00+02:00",
-  "mentions": [
-   "glucksmann"
-  ]
- },
- {
-  "id": "80877644dec74337",
-  "outlet": "La Presse",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZkUwdVZXVjB1YlZxbzhWRjVndEltMGFKQTFrWEw4cTlvUzBFSjJkUm9memhBM3Q2M25CNU9oQnNldXhqSEhqdWczQy1Ca05PNXVjUGE1VWRYZ0NMLUs0NUE3V2N3aUI0dmIyY0s1YjNkNXFyREdCbFhjQVJLSW93SDROdVl0WUhZbmdMRzNVMFZnRnF0ckhpV0lhWkx6TmV3alZHVV9nSkxMS2JKSHNqVURLYjRYWjdldnh3SkZ4Z3VxcFJlVlZDcXg0UjU5US01cFZzQUk1RGxZYmw4QndhR2dDQQ?oc=5",
-  "title": "Élection présidentielle en France | Qui est Raphaël Glucksmann, le candidat du centre gauche ?",
-  "summary": "",
-  "published": "2026-10-16T09:00+02:00",
-  "mentions": [
-   "glucksmann"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": 0,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "021a7f96b6947fb3",
@@ -132,55 +72,25 @@
    "melenchon",
    "philippe",
    "glucksmann"
-  ]
- },
- {
-  "id": "d6853309c29ae831",
-  "outlet": "RTL",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQSGZyNW5IcG5DbFZqQXJCZksxWk1iSG9vWC1PZUIyOWJkenZsZXZ1VXdCNDYzN2s3VFEtLUtTRE02OHY1enZBTXJMeXA2RmJKNks1RnhNVndUYlViOHhzOU1SVmFQSkxFbGVLNWJGMXR3aExJM09YNXBCRFZmTG9Jdmo3dlRicHZuRnUzMUhvWkYzaW9jamZ4Y0R6VWRiQmRmSkQ4eE14eTFIYzFoR2gyNmczN2lRRnBaVjU1UVVhZ1JHcUNSWWxYRnhub0NZQXdtZGp4RmtjRjM1bHJ1LW56QWdTbw?oc=5",
-  "title": "Hollande, Cazeneuve, Duflot… Raphaël Glucksmann à la chasse aux ralliements après sa victoire à la primaire",
-  "summary": "",
-  "published": "2026-10-16T09:00+02:00",
-  "mentions": [
-   "glucksmann"
-  ]
- },
- {
-  "id": "80c6b24f6fdd84a3",
-  "outlet": "Euronews.com",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVXVKWDVzUEJMazQtUzhWc0s4TnZvaUpMWi16ODZFOHU0WmxsemlnaE1vTEp2bk1IbWhLUnNsZVlQQUEtWG9NaTJOSFloV2dLSHpFSUdkY0xzdU9jLVRpMzc2eXpyRGozMkJvM3pYS1RGUVJXelJZVTJyeHFKaVZUNG1aSXRWQWZacG5hczJMaWRSdDRwR3A4U1lyZzdLSnZWRC1oWkpNTXRHUll4TFdJbUd1OWFwb2syLUZ2LXZfU1I1QnM?oc=5",
-  "title": "Présidentielle 2027 : Raphaël Glucksmann progresse dans les sondages après sa victoire à la primaire",
-  "summary": "",
-  "published": "2026-10-16T09:00+02:00",
-  "mentions": [
-   "glucksmann"
-  ]
- },
- {
-  "id": "c61cbcd06b9ca9b2",
-  "outlet": "Le Nouvel Obs",
-  "lean": "centre-gauche",
-  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQX0N1VzJ2S0NoSXktYTg5SzFYVDRfcDNqQnJ2c25JTnRIVlZCdGJZMXIyOWw5UlBUbUtwb1FBVndGZmlxWFBTYTlYb0pXcW16Nzgyc0dCT0tpN3FSSXRIM0RESHF2OHlSbHNQM2VOS1kyN3I0VUxBY01ydUN4SGdWbEgxWTByYU9LaXFETHBYby04ZWhCc01vRGczZElFZjFlMUwxSmR4V2F2bzgtLWttWDdzc2QxbXN2WUVmQWtIeTFoZTVfZUE?oc=5",
-  "title": "Après sa victoire à la primaire, Glucksmann grimpe dans les sondages",
-  "summary": "",
-  "published": "2026-10-16T09:00+02:00",
-  "mentions": [
-   "glucksmann"
-  ]
- },
- {
-  "id": "43a03d902d199727",
-  "outlet": "ladepeche.fr",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQc25XdDdPcWtod2wxaWRUT2xqdjU2Q3VMMW43SHQ4VndYTWJTd01MM1djUE5jd3Y0N1VXVFQ2NHdqQjQwSWNwWEp6cVFDZXFaeDVtdGxwdWV3ck1BR1Fjb2tMaW45WkRPNGpiVnZ4QVYteVAzS0tHZWdwYW44Y0I4RG1kdzV3Mnd6UG9FRE84OHVKb2NiOEQ5VS02d0lHWFBfdS1pcnZJNFp5dEg1OVJIY1NjS00wMXg0c1FaYVZUd1ZYS1J0RVlCS2M0azQxQW5va1RlblVNb3VudTBSb093d0UtUWVRb3VpU2JjaVBLQkJ0M0NNdHc?oc=5",
-  "title": "Présidentielle 2027 : pourquoi Raphaël Glucksmann veut convaincre Cécile Duflot et Bernard Cazeneuve de le rejoindre",
-  "summary": "",
-  "published": "2026-10-16T09:00+02:00",
-  "mentions": [
-   "glucksmann"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   },
+   {
+    "id": "melenchon",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   },
+   {
+    "id": "philippe",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "034daa80e5183d34",
@@ -192,552 +102,35 @@
   "published": "2026-10-16T09:00+02:00",
   "mentions": [
    "attal"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "24027aca6a9d77ff",
-  "outlet": "Le HuffPost",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPaFFTdWthRkFaUDV0N240bm12NGJCY0JNVnRJTEp4MnpiLXZIUkM0WmRPcURER3hONEE5aV9ZU2hlVjZ3Um9VbUNnanlNYzBpMV9wd0dfSWlmOWxNVzhlRF82NEdVRjhCMk9oVUNfQnZDV2hJcVVQYkZ5ZDNnUS1UbjNCRC13T000MXU0ZGt1ZjdXTnNzTF9GaVVJbXZRbnZlTU9vajBJellKUjlhYzctc05RYXR6QWRmdEIyQXdacEp0X05RSzFzMGpxM1FDYXB6V0RMZzlDNHpCc1MxNEE?oc=5",
-  "title": "Attal encense Hollande pour mieux taper sur Philippe… et se fait recadrer par Darmanin",
-  "summary": "",
-  "published": "2026-10-16T09:00+02:00",
-  "mentions": [
-   "attal"
-  ]
- },
- {
-  "id": "5113fba9bea550e4",
-  "outlet": "Brut",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQ1Raa2RXdVpOVHZxQ0VxUTQ5YVp6Nm1JRnFaNGZoVVZTSzQ5VUluQzV2NE1XV3YycERuMFBHTGNEOGhyVjBId0ZkUEJxRUNtMWwyR0ZYN2dhLU9VaURxR3p0T0FjV296WVF0YWN1WHYyeGxZWDNoMzNRMlJwalBfSlZTc1RsWWE2UVZ5a2ZtM2xMdF9wYnFkS01CVWRodUFsOFNlOGdwMTlRdEk3MmFhZDk4WHlGZ1piZmdRM2ZTVDI0U0w3?oc=5",
-  "title": "Présidentielle 2027 : Gabriel Attal plaide pour une \"coalition des démocrates\"",
-  "summary": "",
-  "published": "2026-10-16T09:00+02:00",
-  "mentions": [
-   "attal"
-  ]
- },
- {
-  "id": "ec6d2e8483bdeaf5",
-  "outlet": "franceinfo",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxORE10aUp0bmc5NU1kREdWSUFFdGlyMkl6WjhVU3hKa0pZUUhmZjVXeHFrdlFPRVZSbEx1QXdtVTV3ZGtmSXRJWEdna0NILTk3SWFRMVJKNDBjbjhrSVJEWkhuZUtaNWN6VndjU0VzSXFHWDZYUGItT0U3RjlrRGZ0NkxlRlE2eGN0cU5sMkV6SFN2dWt1OWZta3VZQkxsd21xamFHXzB5ZkRfWHFFNlF3dDlHZ1RqZTBjUHYyZTl0RlVhZUd6bG1nRGFYLTd0TkhsVGg3OW1DaUJ2NkJKUEg4Vm5uVkZCdUVSTTRPSk1RTQ?oc=5",
-  "title": "Les groupes de niveaux au collège auraient-ils pu fonctionner, comme le pense Gabriel Attal",
-  "summary": "",
-  "published": "2026-10-16T09:00+02:00",
-  "mentions": [
-   "attal"
-  ]
- },
- {
-  "id": "6c8f61f2f0d3e175",
-  "outlet": "Paris Match",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPbWN3ZGZLY0pCNWRZZnJEcW9QX1BRRHFTbmxvc3dKN0ttNHhVakgtWHRUU1BlVXFFMFZYMDZ2ZkNsWFNpUU1EUWNxc1dfSHVIUlBwLWlaVVJmbUc3RllKSjJFQnVmQm1NN2VSN0tQQy1TcmV3bUx0TXRXWURqd1dKZUVQRGNFWWpWV05aVmlJcWFSNlAydURoWl94WkpoVzhldFJWamZMRUlKOFlIc2RzVmkxRFFkajVtRllBcXdKMDFHd3NUeUJyckVDb2haeEV4UUZrdUxHTFZlWE5oQkFubnhOdjcxNkJEZDNJV3dhZw?oc=5",
-  "title": "« Il y a entre nous une évidence » : Gabriel Attal se confie sur sa romance avec Stéphane Séjourné, « l’amour de sa vie »",
-  "summary": "",
-  "published": "2026-10-16T09:00+02:00",
-  "mentions": [
-   "attal"
-  ]
- },
- {
-  "id": "c58589430bffdab8",
-  "outlet": "Le Point",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQN2lCMXdwLU02S0VwdnNjVXBoNW04ZmMycVBOSjF3dVVGWmxJM2tlMFNEZkVHY1ZYc1ZkancyV3RneTBnc0s2UDdZcWlEZ0tldXVNN1RGWkRJeFFSdlh3YlhEZER4RGhJXzN2N0swTWNwU01iQjNsYXV2WVhUclJnbGpzVzhJTm5KbUhFdXVLVVFoUjZXTllKRGFJQ0RZb0VuY3FjeVo4cS1id1B4cXZfODhkRFpHMzVmTUw2SWdLZnF1S0dEem5WT2NKTDlOOUYxSEk4VQ?oc=5",
-  "title": "« Il s’est fait knafoïser ! » : comment Éric Zemmour s’est converti aux robots et à l’IA",
-  "summary": "",
-  "published": "2026-10-16T09:00+02:00",
-  "mentions": [
-   "zemmour"
-  ]
- },
- {
-  "id": "9663228b699550d8",
-  "outlet": "Le Parisien",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNM0JyRjNFaG5kNlAxMWNuOFZ3YW9jZTVUWUNadGFiX1dxR245UkRtMXJNbXJZYUFwbXgtWmhBTHprSEpfcU5sQldwOHNJXzF0bGhMSXhpVW43SHBBRS1TRE44Z2RhTEgwX3dWTmVIeWFlMkpmeTRVeVMzczJ5YzJWV1g3YWlfMmt5M0I2RUd0S2I5bzl0X0pmaHREa2J4ZDVjMXJUOWwzcTNPdl9hNWpsT21GSjFwdnlwZFBJVU5RM1pISHQwMTZVZ29OOEtpdkh0S1U2NzAtcEVwMHFZYkdoVFFnX2RuS3JPTkJxN3ZuUW1KSUF2dHd4MmxyWWduaTM5MjNDNXpCaUNabXRkOFpMZmN1cHAzYUswamZ3YnlKM1U2eHM4ODhCQmxJY3ZsM04zVmpmSk5OYjhJeG9mS3FubDR3aVpoMlNlOGRpUHlOUkQ2TlU?oc=5",
-  "title": "Présidentielle 2027 : Zemmour devant Le Pen, bataille entre Mélenchon et Jadot… que disaient les sondages six mois avant le premier tour en 2022",
-  "summary": "",
-  "published": "2026-10-16T09:00+02:00",
-  "mentions": [
-   "lepen",
-   "melenchon",
-   "zemmour"
-  ]
- },
- {
-  "id": "5fe2eacea44ac36d",
-  "outlet": "Paris Match",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQS1ZwdmxZUjduQ0pHaG5jNzJ6SHpuYlJFandNLUV3WTJFdnlmUy1mYTlXSW5ta2Y5VHNLczVJcEYzMEdUM2F0TVlFcTY2SHRTNFJ4X2hGZXk5WkZPaXZ1RGJuQmg5T2FmZDhaVFNEM2F6d3FpMjRlbXJUQldmcGlkcnBMZi1mOTNMejZ3Y2NQSmhIeEF6RjZKclpWM3NId2RZRFBQbTVRZXR6OWU5a0UwVHhjVTdYejFKTVdPaWZvdWJqN2dQOFFlelRBTTZRNHNCbkZkYUI1YVA?oc=5",
-  "title": "« Il ne peut pas s'en empêcher » : Éric Zemmour fait-il vraiment campagne contre Éric Ciotti à Nice ?",
-  "summary": "",
-  "published": "2026-10-16T09:00+02:00",
-  "mentions": [
-   "zemmour"
-  ]
- },
- {
-  "id": "1d6019137a1d9066",
-  "outlet": "Les Echos",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPODg4VFp6TkwzU3FMMnZHU0Z0VW5ONnRWQTVQZmxFY1piR05SU0pLTmVnUkVlUHJGNTdTV1dBa2wzVHVnTy02anZMVUY1MUF1a2x3SDNIdkJscW1GR0x3QWRGaWJvSTJkZjJfbTlyNGkwa1RhOEZ0MDJQdmFUaDlSa0ttSzVEYVVHU2NCWXJET1h0Vzg5bGNCdVNFZElTVkNKMUEydy1tZVJKczFuTVhZbV9SdDRSeXBsWXBDa2hpWmh5aEJUZ2Zlb1hNTnYtMWc4bWpiSExiS3VtV2cxOEdKU3pBcGlyQUlP?oc=5",
-  "title": "Présidentielle 2027 : Bruno Retailleau se livre sur ses « combats » dans l'« espoir » de remonter la pente",
-  "summary": "",
-  "published": "2026-10-16T09:00+02:00",
-  "mentions": [
-   "retailleau"
-  ]
- },
- {
-  "id": "d82a3249676a8312",
-  "outlet": "RMC",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNMTA3bzRYTlI1MllyckJmSUZfdzZLTGV4TEc0cDRZMVd2Q3dybWEzOThReDNGcHdTMG5yRnFMMVNpc254WEluZUM2eGw4QW5FSTFpSTNFTGhxY05KQnM2REpvUXk1MHppZDhnMEM5Sk9pMmdkVUJFTVBydmNaVTFqVzVJTU5KTG1yX2Q2bGRuSGU4U1I0QWpTMTZKTGJvWTlodzlHQzNjMXlWS0tMT1QyMWJOa29rX0QxVlJZUmxJOVdkalZucTJmYnlTMEVhNDJZUTdSRWtwTmJMaU9Id3VJQk1vMWluclZEdV9KYw?oc=5",
-  "title": "Présidentielle 2027: David Lisnard, une bulle médiatique ou véritable percée de sa candidature?",
-  "summary": "",
-  "published": "2026-10-16T09:00+02:00",
-  "mentions": [
-   "lisnard"
-  ]
- },
- {
-  "id": "31c943725a082067",
-  "outlet": "Nouvelle Énergie",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOT1h2VE5OMDJETkgwXzEzOUwxY0xQUVlVYjJsalhVYlZRbGNJMERwc3JTU3hIMDAwWXNzdktoelRYM1VGejhCQ3BiOXhXRFdVWmFNTjYxZVI5MUpxLV9JTkd2Ml9JWi0tZUZrT2pYbnpUYzBJWTBNSW1rSTB6bUV2OFpfRF9ZdWstYzZsR0tGOA?oc=5",
-  "title": "Que pense David Lisnard d’Emmanuel Macron ?",
-  "summary": "",
-  "published": "2026-10-16T09:00+02:00",
-  "mentions": [
-   "lisnard"
-  ]
- },
- {
-  "id": "cb839bd2e111eb77",
-  "outlet": "Nice-Matin",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOakpkd1o0V3VUVDlKbThYZHIyQW85cC1BdlBxYU1aLUpqWmRGZlVXZlFfN1dVWm5kS2Z1c05MbkpIMEx0ZTBUZUtsMHlFazlVekdKY2Nqb0l2M3dvd2FVTjdPdF94c0hVQ2xkbVNNdGl6Q2tROTIxdDkwd0V5SkZQRG9UcHYwU0FRU2ZrZHlFQ2hzUlU3TjNTMEZxLUlOaE91ZXNLRlUxSkNoRUFPS09Cb2JCcTNuUHdKQnBWbzJINE9mY3BiRXJJY0k3RVNvREJYdk9Gc3RkVk5CMmxQdDRPV1RGLWhmMFJLRXd5VG4xTQ?oc=5",
-  "title": "Impôts, montée des extrêmes, immigration... David Lisnard, maire de Cannes, est l’invité de « L’interview à la Une »",
-  "summary": "",
-  "published": "2026-10-16T09:00+02:00",
-  "mentions": [
-   "lisnard"
-  ]
- },
- {
-  "id": "fda6162e7ab022c1",
-  "outlet": "La Croix",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOM2xRTnBxUEYwZ1VnUGpOdUY3cERXN1VFM1JWVzJtTERsdjBRSjJrVWVDbzNGNDVaYTBKRVFORmZjYmZOODhJSVUyN21tUHJBSWJHdE13c3MzVVJJUlduRm9qbUNRSnUweFdXbHVlMno3VTNkd0NGVW5aV0pqRDViM0RvNThjVndaZ1ZOT2piVlUxM01FQms4YjdhZDF6Z1prNUFTWUcyTS1xRi1IYlh5clVOY1AyMUdFZjdqQUJRSElJVzhlNFpnV3BOQjk2aGM?oc=5",
-  "title": "Présidentielle 2027 : à droite, David Lisnard bouscule la candidature de Bruno Retailleau",
-  "summary": "",
-  "published": "2026-10-16T09:00+02:00",
-  "mentions": [
-   "retailleau",
-   "lisnard"
-  ]
- },
- {
-  "id": "5b9174d92f99fc9b",
-  "outlet": "Le Temps",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPQ1dBa3k0TmxDSmt3TnFBT0VlNlh0d1hQN0pTYjVQTkM0MkJaVmlzUHppY2RhQTlNUy00aWhnRkxJTTJiaXlSUk1aSm9TcmJFM1F2LUVJRVJDZkhHaVhDMWJXWDh6NGNOZXBLZjhzLUJYMUlsQkVzYl9RN2VHT3V0Z29Nby00LUI2QWFNVkJKdXNramdxNHhDUnRIWngwY3gtUVMxOUJPaFNVdnNXbEZNWFpoZFFhbGVfVTZ6STdkZVhpbE5pc0ZrMVZBNE4zRWhfN19TNXJkNkdRc20xQ2M2dV9mVFlnRWF3Y0RtemNLTzRwTk0?oc=5",
-  "title": "De la Croisette à la croisade: David Lisnard, le Monsieur Libéral de la présidentielle française qui se radicalise pour exister",
-  "summary": "",
-  "published": "2026-10-16T09:00+02:00",
-  "mentions": [
-   "lisnard"
-  ]
- },
- {
-  "id": "a9973b08329078e5",
-  "outlet": "Valeurs actuelles",
+  "id": "083224777cf9cec0",
+  "outlet": "CNews",
   "lean": "droite",
-  "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOVkNwc3htXzUwTEswQ2tkQkFMWVZINUtnWEhRZG9yUFEzX0hBR2RRa1ltNHE3ZXJveVFrMFl0LVVWVE5WN1JsQVhzRktYSzRKcE5jYlJITGVSQ2xLd1VacWpoUG5yYTJZeXIzcGs2OGhZQnZFcm10THdTdjN1UkM2OGpuaUZaMmhHWnJDSVVNak5vNGJtYUkxT1F2S0g2X0tBQ0NxWkw5SjQwNTNWX1RUb3hkeDF3Q3hlSjhGTTdtcG85RlhPUXpYZUd1YTg2U1VaMk8tbFB6RWtabUFL?oc=5",
-  "title": "Lisnard, Mélenchon... pour qui votent les étudiants des grandes écoles ?",
-  "summary": "",
-  "published": "2026-10-16T09:00+02:00",
-  "mentions": [
-   "melenchon",
-   "lisnard"
-  ]
- },
- {
-  "id": "75165bf578ef9732",
-  "outlet": "RMC",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdi1PY3EzbUVQME1YNFpQdGxMRVBtUUhWdWxfMk1vTy1Kd0JZc0tFWVp5WEtXcTVBMGVEUGc0RzdaZHZUaE1LekxkMkxCN1lUM1FQVTlPSWpINWdKa1FhYkU1T2czOVVWZ3VCY2N1ZU8zSnpSckdDYmZicEJyb1hnWUdoSmR4eENzWEd1WDhkZDdfeE00WFV1V1RidC1MZzMwSnlJeVNqY293aXh1WnVBMkg2REVUaGpDVnd3alpGc1dUTjZqbWJrNHU4ZGlONW9oaXRHUE9PRQ?oc=5",
-  "title": "Présidentielle 2027: David Lisnard, la surprise à droite?",
-  "summary": "",
-  "published": "2026-10-16T09:00+02:00",
-  "mentions": [
-   "lisnard"
-  ]
- },
- {
-  "id": "c64e31773d81771a",
-  "outlet": "Le Dauphiné Libéré",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdlVETEw0U2lkUkpSN0NfVE1EYm9WNGx1Uno3Y1g4dUo0N2FpZmh5OFR1bzBzM0N5RW9sY2lXODNxNkdGSVhxY2hVWU84SUZaZVlpNlFJTlozUi1LcU0ySHF4bEFfeVRlVGhNUWVPV3ROZXNWcUw2VHpTMUljY0cxbWVWN0JicmkwSUZnVFF2REx6S3JJREk2Z0d5RVlTaVl2MDJqSDlldzdWVTRNODV2NG1MRFg?oc=5",
-  "title": "Présidentielle 2027. Nicolas Dupont-Aignan : « Je suis le seul à proposer une vraie rupture »",
-  "summary": "",
-  "published": "2026-10-16T09:00+02:00",
-  "mentions": [
-   "dupontaignan"
-  ]
- },
- {
-  "id": "c44f2ab9ce83048f",
-  "outlet": "Le Progrès",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbWhNMmRfYXFBak5GSXlTRzBWRnc2WXp3UGdPd3p3RlJIc2NRSGNQSWR6LW1lYS1RQVVmV3hzb3U0SXRoVE50RU5hZ1hEVEYxa2xTMFhQXzhScXpjM3FRWEVGbHk1cENpdGFXSW1XRW9PRmlGVGdXWGNIaDBfQWNwVzZXQUJaaEJ3NlJKQ2hBQTNZbWpXS2FBaXhxWVZJTnM?oc=5",
-  "title": "Dole. Une réunion publique en présence de Nathalie Arthaud",
-  "summary": "",
-  "published": "2026-10-16T09:00+02:00",
-  "mentions": [
-   "arthaud"
-  ]
- },
- {
-  "id": "38af9be690218d4d",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNZkxTM0lqV0pWN2lsVXYwaTV1MkVDOU44Mjc4UUJLeGctck9uSXVMU1JYWDk4anQ0M2VBUElyQXR1VjhEcjVta2ptOE9EeWtVQlBvOU9UR1o0VnEtSl9xMTNNZVp2YklkV1pPZmFGUC1XaGF3ZUlaZ1VYYUVoMnRFNlY3Q3hHU3hjZTQ3cWNBemZyN2xHSExvLVc1THJJMlZIZjFSODFoQ2xHU0M1MGhBNHBWZnlvYUFLcDAyY2NCSmYzeFlWSUQyMFNBNndReUpUSUVqTC1QOVc3U1ZFeGpwSGhRX3JMLUxFcWdHdDBYWFpjY1U3Vk5tSnJRamhLWHh1?oc=5",
-  "title": "Mobilisation du 17 octobre: \"Les plus grands casseurs sont au gouvernement\", affirme Nathalie Arthaud (Lutte Ouvrière)",
-  "summary": "",
-  "published": "2026-10-16T09:00+02:00",
-  "mentions": [
-   "arthaud"
-  ]
- },
- {
-  "id": "a884967ed0b99e59",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMipwNBVV95cUxQcWxqeHF5NW11eUJYVXlSWVVEd1lGUURRT1RhQmVuWjVNMldBSk1QclF5RFo0VXItSEpTcWVHd1Z4MU9IUmJWdE1rbVBtZlFTLUhRYk0tUTFwU0xUWkdaeTdIZ05lN1FDdEpNQ09pWG5fbXFTOEFZR01SRUNERDdnODJuSkRzV01PX1ZZVkhhbjJZS0FNMEphb184Q1o1eVg4YURQVEFsOUw0RzRVNDItaG9VeFo4WUNDTmNYTTNpQ1lPME96em5lTWR0RkkwNjVuWURTU2JGdlRFaEtzVEoxUGh5WnIxSFBkcHlqTU8xR0dnN0lvdGtMTkU3T1ZySEtpdThjMjFJRzZJSEw2Mk5aR0FWU0w1a2wyQ0ZMTVJzT2VqWk1zLVdCM1I4RXF2cU9haGljYW0xQnp2MnpqQ3QtbGZ2Z0Z6ZGhzUDRNNDMtd2lvcFFLZGNHVjFNY25xdjdRcGp4czE0VTVLUURKSkZFdkJsNFhvS0trYl9DS1lFN2daMUM4emxjdl9INm1RMDBYU2ZJZDF2T1F6T3lEdk9CdFpsWG1GRzQ?oc=5",
-  "title": "Jean-Luc Mélenchon annoncé au second tour de l'élection présidentielle: \"Cela reflète une aspiration à plus d'égalité, à plus de tolérance\", estime Nathalie Arthaud, candidate Lutte Ouvrière à l'élection présidentielle",
-  "summary": "",
-  "published": "2026-10-16T09:00+02:00",
-  "mentions": [
-   "melenchon",
-   "arthaud"
-  ]
- },
- {
-  "id": "95234e6dd92201e7",
-  "outlet": "Le Parisien",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNSkljc2lHUllVTzRYNTFDbDhmd1dxcEdrWWVVdTBFWnJzck00OWpMXzJDMzhNSVpJMDZNRnJqV2d0cTZENjVxdlh6blo4YnpveWhoYk1JcnBhR1hHTnZ6eFlKTU4yMGExREhRT3d1aFRndUR0N05QVXlaYkNBY1R3SEZzc1JVZk5tVS1aTGFoQ1NkMW1XLXdOWlk1bmZveHg4TVByRTN4NlZkUWhoMksyblpWdGV4OF9CWlBTcGRleWF3WVl4UmRDQTJiQk5ady1ndG1FQzRpazRjWERjcEpOMnZXWG1jQ2tOS0w0OWdrWUlUcDIwS3BCNUZqUVg2R2tRQkxSSkdPX2ZRdkFLYXhXNnVDcmc4OEg1M2c?oc=5",
-  "title": "Condamnation de Marine Le Pen : compte à rebours judiciaire enclenché pour sa participation à la présidentielle",
-  "summary": "",
-  "published": "2026-10-16T09:00+02:00",
-  "mentions": [
-   "lepen"
-  ]
- },
- {
-  "id": "d8ea286626aee8f9",
-  "outlet": "Le Nouvel Obs",
-  "lean": "centre-gauche",
-  "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOYnBzSTc2elJ1Uzl1MnlfZWtMT0oyNmtvd29GV3lsLXN3T3dJMW85UlBVdjhEa3lJZFN5YV9tVVhhM2tCTlhRTU0xbHFGT2xUUjVyZEtYSE0tcTI1ZHNJaTd6d0dmNkNVejJfcWUtb3dLeGFMY0wycUtWdS00X1lteElkZTZkYWdEOWZqRGhNbENyYk5qWEZlbFc2MHNiMjkzbDlUSWVXTllKdV9XdGs4S1hvY1dWeV9sNFhrQlQxS0JiWEg3VVNoMmYwdVF6ZTkwbXlQS2QzTkJya0VTUFlmVlpPSHBXM1dQTVlfZ2VXOHppWFFZMnhrYU53VUs?oc=5",
-  "title": "Affaire des assistants parlementaires du FN : Marine Le Pen sera bien fixée sur son sort avant la présidentielle",
-  "summary": "",
-  "published": "2026-10-16T09:00+02:00",
-  "mentions": [
-   "lepen"
-  ]
- },
- {
-  "id": "795caa7533e75376",
-  "outlet": "Les Echos",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSjJSeXByRml2NWdneWI5U1pFc1h1VEZua1FMTVVVN29MazRMVGdMWXpjd0RiOGl6RTI3R3k2bXpyTHlKWWVNdVc2aHAzUi1oMVpzcDhvN0tkMjY1R09fWEh1SUk3Q3VvU0pKdTlDSGM2RUtPMG51SGlUWkw2Qjl1UjFCU1hzN3pranpEUm1FeGR3bURRQVVrc05sNzJRQ0dZSVlpSmFab3JTZjdnMmczVVdpZVYzY214cHlNd3VOME1RT0xrSmlYbmt4N0k1OXZiajJ2X1Q3THJBSnhrS3J5Uw?oc=5",
-  "title": "Présidentielle 2027 : Marine Le Pen, très critiquée, assume de vouloir couper l'aide à l'Ukraine",
-  "summary": "",
-  "published": "2026-10-16T09:00+02:00",
-  "mentions": [
-   "lepen"
-  ]
- },
- {
-  "id": "e3fc55c9768c8c98",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOTWViUklvOEVmcVpXWEJabXZCM1BsalI1RzJpUkViaGVMRnlUUzg0N0ExSEFvSklOZW4wRV9oMTdERzQtS2lFdWNjVUxuUl9SOGZBcGRtLTU1Wnptd2swdVZVRVdUTi1iaEVxNmN3ems3NlNfbHFpSzlsWWlJQzFVMzhWY1R6aUg4Q3dmQUFTbGU1XzIxclI1aFRSNlpSVEtoNHJIVXROUHRUMm5hQVhLeWZ5S0RtbXByOVRsNGhEZkxqT3h4clBUODkxNHQtVmRURDQyMHpQOFV3SXllTEsxSWtfcHF6TzhuTzVCY21XT0xDNnUtTHV4ZnFyeTBENmlfT2JkS2RVS2lvTV9R?oc=5",
-  "title": "Présidentielle: \"Marine Le Pen souhaite un vote d'adhésion\", explique Jean-Philippe Tanguy, député RN",
-  "summary": "",
-  "published": "2026-10-16T09:00+02:00",
-  "mentions": [
-   "lepen"
-  ]
- },
- {
-  "id": "0b1e7e2b7c92484c",
-  "outlet": "Le Parisien",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxNbHM1ZVp3ODVhVjAzRWlzV1h0aDh1RF9IQjFZVVlGLXY0OWlIc1Fhbk9VeW9zMXFfbDF4MkdSSEtBaHRsZTk5a2x5dHdUc1JndTQxaXBWVnFKUV85WW9SOUc1a2JaT2ZCSDJHRWJMbU5NT1dBdFhXSEhSWEphQl9lX2RBdVlsemlJNWdDUnRVWDZ5VGl0OENydlNxTnhHMmFBQnFXaTdlXzJ4WW1rTHBVZFVWSzNfVjYzRjBFblgwTFhpY1ZWVVl1MFowQTlqdGtLa0UtX0ltRjJuX1o4VTBVa2cyNUEyVVQwWXp0VTQ4YjhJUDAyNnlqZVpGckJLLVliTzEtVGFNeThiMVkwNjU4ci1XOW5XMjhFWnBPSGZnNE9rS016a3NKNGVVOEtYRXJxOVJhVDRxU2JESjJWeFZKd1hn?oc=5",
-  "title": "Présidentielle 2027 : « Ils ont tort », Marine Le Pen répond aux Français musulmans qui envisagent de quitter le pays si elle est élue",
-  "summary": "",
-  "published": "2026-10-16T09:00+02:00",
-  "mentions": [
-   "lepen"
-  ]
- },
- {
-  "id": "cf4e805a77906876",
-  "outlet": "i24NEWS",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPbUlHbk10X3EyZUxJcDlGLTFJWV9VTUtubGZCeE9KRGhUc2ZiaWxtMnZrSXlHZzdmMXY3UjE5d3dYNXh1dk1GazJDNzRwaS1UQUZuLWtpNUR5MDJsbV9qRjcxTXdyZk1MNFFpN2lUQkJlWjhubkpVSElMbHJ1YTNYdUJXMTRsZmFSOGJIMlF6by01VlRSRWF5b1gxQWx3NDB6c3JIcTZjYjVaQlV0V1FWVGd6UFBCQ09Sa19Fdk0wbEk4c2VNVnliTWtMMkVTbF9EUWI2TlNqYzMwbmc?oc=5",
-  "title": "\"Ils ont tort\" : Marine Le Pen répond aux musulmans qui envisagent de quitter la France si elle est élue",
-  "summary": "",
-  "published": "2026-10-16T09:00+02:00",
-  "mentions": [
-   "lepen"
-  ]
- },
- {
-  "id": "59dbf1024faafe4a",
-  "outlet": "Libération",
-  "lean": "centre-gauche",
-  "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPYmlBeTlfYWlZdE1Yb0U3ZHdKTDZMVU5qcEhGUDdGaGhHSjdyZHpleENvRElTMmJTNEN2YWdKbVR6Y3hOVFJkU282ampuWTBNeUh5S09ZZC1BY1lUSHJDcGw4SndMOHllaUdYb3Z2T3hvbnhObkVReFotYXRUNFE4VVdkdXNYMW1JYzFnbV9PREhpdlJHdWhkX1h6WERjZ3NldVY0a3NHbmE2dFd5Q21FamowS1Z0Q1Vsb0VXVi1mMTAwZ1U4SENqWVBmb2lWYXc3cUxCbGFaZU9Cb295eEU1Z2NWYzBrUQ?oc=5",
-  "title": "Finalement, Marine Le Pen est prête à faire campagne sous bracelet électronique",
-  "summary": "",
-  "published": "2026-10-16T09:00+02:00",
-  "mentions": [
-   "lepen"
-  ]
- },
- {
-  "id": "9dcf15ef468ddfb5",
-  "outlet": "Le Monde.fr",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYm5LN0lwUTJQYzZ4N2F6dE5XZnZ6SU9wVms4cnZ6VVlPX19tZHk5NEpoY1QxMTA3ZmEyc0ltX2ZzdXFkblkxSGpVZnZaUHl5U0diMGxJY2dRV3hVNE5HcHJrWjJOaUFja3V4MjVCcDJ2UGFyQnRDc1EzeGk2V0g2ZndUR2FyVElTdVlYVGpPWmttSjVSWlFXOTNMcE5aeXpNLThFNkpWdWppNVNlaGtJNTNkdmNsdjZob0E?oc=5",
-  "title": "Contre-budget de LFI : le pari incertain de la relance",
-  "summary": "",
-  "published": "2026-10-16T09:00+02:00",
-  "mentions": []
- },
- {
-  "id": "8e1108e253c30760",
-  "outlet": "20 Minutes",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbmo3SHl1NExrZ0F1dXltMXpRRW5lSFNiUVBhSGhhX3hJbGZtUm5CQ0ZELUpBeFhjNjdxdnZGdXA4QzJCQ2pDQWJuTkdlbjNWN05hOHpTZ0NGbWJ1dTZjcmZIYnRtcWdjLVZTbUE2UXhfeC1RbEFpZ3dlSllyUlh2MExhU1pMcF9LRnk1QnFsdzIxdFNHRlJVeTVmZERiNHdLWi1Rc0NpLTFEaU1qaW83LUFDNXVmWkZwNk9fMS14TGlkdXN6b1YwbzV4anM?oc=5",
-  "title": "La lanceuse d’alerte à l’origine de la plainte contre Philippe sort de l'ombre",
-  "summary": "",
-  "published": "2026-10-16T09:00+02:00",
-  "mentions": []
- },
- {
-  "id": "9228a0206573a8e2",
-  "outlet": "RTL",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQb0Vhb253cmhXWmd6a3FJNFpfaU1CQ2tLdjdRc0tLdGlHWk1FVWVTOTMzQUtRTUd2UlhDSTFIT0ktMUpxWXkydHkyZGMxNGtKT1NoX2Fzb2xqeWxvWTRnQXZSa0p4S1dfQjQ4djEyaGNiRTMwaFpKMDV4d2swRWdhblZLNVJya0pZRVlYck5pQ19sUXlrbGxRa2JOOUxrVnZIZmlnU3JYb0FzWVRzQk5ieUFIQjFBeUl3SldvUi16dVIwRHN4Qk14QXVKTmtfd1prUXQ0U0hzbmk4Q1c5Nzg5cE8zM21OeWw5VUtWVUxMQTJIZnd1dS1tdzRkTlp4eXV5aThKenBwM0d4MnJoeUdWN2w1ZTY3VzRFMzUzQnVWZHhnS0k?oc=5",
-  "title": "\"Une question assez explosive\" : Édouard Philippe prône des vacances plus courtes et un apprentissage concentré le matin pour réformer les rythmes scolaires",
+  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNOUp6N3pqODNpNmZPMnVFNWw4SWdoeTNIRkV3TlZBaUwtOEtwR2xxQzBhNm1CMVpCaVB3dEY0Q3habkRETlZNV3pFVC1HQm1IMVoxR2RDX1hnYWstTFBxWG5aQVlGb19xaENIcUpDd3BfeU9KUlI5bWFYNkNHUHVxeVBtVzBMOUpQc2dNNkJhNGRNSEdLemZlYlE0TEFiQjFZTmx1UXJTLUpnODZHVnE2UVFzSdIBuAFBVV95cUxNUzlTTm93WExtOHJnVV9rVTV2akVxY3NTWnVnS0UyaTJodm5HdHlmS3p1RHJ5MHhNNmlrT2liMVh4ZVV1RVQwTTdQMDVSa0ZOVVFHRHE1alJrWDF6Z3BYSFdMbUFIQUZDNl8xQ3NlVURBamxGTzZiWnRXMGxGc19zVHlDTFdzLTU2bFJNd2Q5TmJtQlh4aU1yeEpJSUhPdGdzd2VkOXRybkkzUk5vclNBMTROclA0UF9H?oc=5",
+  "title": "Présidentielle 2027 : ces idées d’Edouard Philippe pourraient bouleverser les rythmes scolaires",
   "summary": "",
   "published": "2026-10-16T09:00+02:00",
   "mentions": [
    "philippe"
-  ]
- },
- {
-  "id": "93adda3c0e9ad85a",
-  "outlet": "Gala",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNWDRKamlhQlVlZnNvMTdHcE4tdm5aNzk5WFhMNjF6ekRzQ2FUcmp1MXVUZjNwZ2tMYTFTYzRuTGRjUERBSnJOaHZEMGF1a3c0RDRtTWNjUDd2dkZyOXJWYzloNjJyN2kwbmIxazBvLTVtU0pSY3RmeGNTWUZhR2x4SG81RTI5TjFSWWRCSW9uRWpGWGF0MXBPZ1BxSDlwdVRiN3hvaU5tenpPOEUyVWZUSjIxTVR2azBqYVVsUl9WV1pTaEN4Zzd3Q2Q1NFBRemFHTUw0akRjRTlzZG1FU05sQUJsOGZ3UHNtYVpyNnl3djNidmVjaHRINWI5aklvN3pDX3lFVklqWTlaT0FYOVNJV2tOa1E?oc=5",
-  "title": "Édouard Philippe installé au Havre avec sa femme Édith dans un appartement sans chichi : il ouvre les portes de leur cocon pour une occasion spéciale",
-  "summary": "",
-  "published": "2026-10-16T09:00+02:00",
-  "mentions": [
-   "philippe"
-  ]
- },
- {
-  "id": "8a780c002b5d2ac0",
-  "outlet": "L'Ardennais",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbVFOTmtROWFlU1VUZFdGWG9rR29hVFpmZmdac3lXeHFPR2pNZFFUV3A3Y1BIeE93cDd5RW1CUk9hTFc1YTc5Z3hRbTVVWXIzcTh6R2d3am9ILUgxWjFfWVF4cXlBTHA2dHI2UVItb0dVaUNDUHZ5UnhyWF9CeVVnSHNRZjRMWFRVbzZjeTlCeWhUa0tPd01EWExQRFlKQVZoZDljSzk3QzFSSmNZY1B3ZWtVaXFmLUJZZW1yVm5wU1ZCcU03VGRmOFN3?oc=5",
-  "title": "Présidentielle 2027 : quel programme pour Édouard Philippe dans les Ardennes ce mercredi et jeudi ?",
-  "summary": "",
-  "published": "2026-10-16T09:00+02:00",
-  "mentions": [
-   "philippe"
-  ]
- },
- {
-  "id": "fb0028cb81658690",
-  "outlet": "Midi Libre",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxORGZseUt3eHBiRVpsUmt0Q3BqZDd1TzJPemp5akk2SW10YjVQa0hueElERU9lUkpjUlllT3VqQnhINU9ycUkzQXQzek1XNmVmalJSRU1BUVhwNFpqTXlBaUF1amZtc0t5UURyR1lGSnVDM0MzTXpzRm45YlNpSWhIOFBOMWM3OG5Ha2JzWFRlbVJQX21WVkhBYjlQNXY0dllVLUowNklWTGd6WXRVOWRHdUVINGZnOU43azNyTzRFWEk4M0IzVk96NkFNWWM0VElkUzdocG9OMHN3UVd3RjJyVWJfRGcwVlgyRmpMSldWUEF5RkF0bTZJV2Rqc1IzUzZPUC1qMGgwR2VDY3BpUzNBU29uc3lad3JfUHZiN3B4TkRCZw?oc=5",
-  "title": "SONDAGE Présidentielle 2027 : Le Pen, Mélenchon, Philippe… la carte des intentions de vote, région par région, selon cette enquête",
-  "summary": "",
-  "published": "2026-10-16T09:00+02:00",
-  "mentions": [
-   "lepen",
-   "melenchon"
-  ]
- },
- {
-  "id": "4f43e8a994b2cea2",
-  "outlet": "Le Figaro",
-  "lean": "droite",
-  "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNejV0VlQyZUdvTnFXclF4N0x6OFpzaTdVejEzOXdDbHJSa0VaLWZPUDNtby1Tb2txaHhCUXl0UmxLMXJmeXRneGFBbGpERmROc0VwcUVBaDFVeDBobkVRMUllME9iU2RmMHVLNU5vZEU5VmpkYm1kbFRJSXEyYU02NEpSWXl3MXJ1NGNNYnlNbFB2YldUNG0xbDBDa2hHb2lVdkZYRlBFUXN5MHdWdDN5eFNjQTUxblV2ZkxQSVJWbVBXazZIWTEwZGh6c3ZFQQ?oc=5",
-  "title": "Édouard Philippe rouvre la chasse aux ralliements… Les indiscrets du Figaro",
-  "summary": "",
-  "published": "2026-10-16T09:00+02:00",
-  "mentions": [
-   "philippe"
-  ]
- },
- {
-  "id": "f578e13708967f16",
-  "outlet": "Valeurs actuelles",
-  "lean": "droite",
-  "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNZnZfRm9uQlBLNjdTUV9FSE84UTdsVjlKd1piU21CZFMxeUpsZ0xGRUhKbEZuci1pbGYzQXNWejR5Mnd3VElBVTNKYWxyMTFJM1lmeHZPSjJzX3IwZmdUbmhERTMxOFJweS1BenhSU0UwUDhaOGNDTEZyZ0QtS3p1VlZneHBHeXh2VmR4UnEwWmh6YmZOdHdEdkJLdG1OOWhUZ0k0Ym4yQU1LX1VJYzRlaWwzZTRzMENaRFRmMk1ZZWN5dlRTRjl4bFpueWVKU2lEUjlndWdTTllmbVNyRW56N09DbUtSb0E4bUE?oc=5",
-  "title": "Raphaël Glucksmann dépasse Édouard Philippe, Marine Le Pen caracole en tête",
-  "summary": "",
-  "published": "2026-10-16T09:00+02:00",
-  "mentions": [
-   "lepen",
-   "philippe",
-   "glucksmann"
-  ]
- },
- {
-  "id": "8a3fb1f5ab74b7be",
-  "outlet": "Gala",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxORElSWXdJRTNTTVljcnZMM3JXblpIVUhBZmpvaFZaeG4tY3JzdkpfUnJVdFFIcmVBV09ELUNsNG4xUWY2bjlvZlR4WGk0ZnZacG9xUHNRSE5XOGpVNXdTSnZmYVJ1cXhyMEYzbzl2LUF2TG1EUnVza20xeWQ1eHJFU1luUmZPT2loRUJtcHlINnBMT3JUVUdqczgydWtrZFdOM0hEUWxaaGcxWllyQWF2UU5lRDBQSGF3MHJBSUJJSkZhYnd5Nzd6XzFNb1ZscGdRY0dZLWtSUmdzZXZ0YTZWOE9HOWxJa3lCV0xWczlKTHc2WHpGcHl0NjdqREpYUQ?oc=5",
-  "title": "David Lisnard sermonné par Apolline de Malherbe en direct, il se défend : “Je n’aurais même pas dû accepter qu’on me fasse ce reproche”",
-  "summary": "",
-  "published": "2026-10-16T09:00+02:00",
-  "mentions": [
-   "lisnard"
-  ]
- },
- {
-  "id": "d8c911c223cdb038",
-  "outlet": "La Lettre",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNbHYwT3NaZlNmUGdKUHF1aVkyZ0ZickpRMUo5a3VycjN1Z3pYRzgtdDQyTDhWZkZKa3dHQ3Rlb0VZX1lubE5nczBJbTB2S25UM3I0S0xuZVRhSTR6WnROLXcxS2RVY2I4S2g5N3A4NlBtT2JwSVRMSC1odnpEVk92Tk9YQVNOSGxQRlQyYlhROG5pRDhNaW1mUXBoWlFHZFV5VGlTd1VzOU9PaWFNamhOS1hhYWNDOFJybTFxazJFaWtuS3R2Y0tTN1JGQTlpN3dQNThXdWlJUnNacUVFRlI1WUVfNnpSY2d2ai1lNDBJQmFrQQ?oc=5",
-  "title": "Entourage Élysée 2027 Face à la tentation d'alliance avec LFI, la garde sénatoriale de Fabien Roussel",
-  "summary": "",
-  "published": "2026-10-16T09:00+02:00",
-  "mentions": [
-   "roussel"
-  ]
- },
- {
-  "id": "0e07348434adda99",
-  "outlet": "franceinfo",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNM2ZnLWtiYnNnTFp2dnhIRm5vbFU5ZUhvczVXUnNiOGNlVzk4bkRoek9TV3o2QnhJUU1LZGRUcXk5MjdIVG9wSS1sbVlxYUlocnI5Qkg2QXdKNWx3Sl9aS1h1R2FDNmgwdFIwN2hfa2lJZUNsUFQ0UVE0WlZiNTRMalFYWl9sZUhLNXhPVE8zMUI1VEFfOFVzaS1jeU9NWkZzRG9BQXNDcW1Jd3h5SUpMVDZNOVBORU5ZVWVoUWlOZW82Z2dMMmtfRkFsRQ?oc=5",
-  "title": "Mobilisation des lycéens : \"Sébastien Lecornu sème lui-même le chaos\", estime Nicolas Dupont-Aignan",
-  "summary": "",
-  "published": "2026-10-16T09:00+02:00",
-  "mentions": [
-   "dupontaignan"
-  ]
- },
- {
-  "id": "f26b4cc104733381",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNbFJEQW1iR0tKRG13VHlyeWM5N2J2U3hzMHRtT2RYQXZIN2JwbDlnemstUFE4WDd1VWQ5d2lSRFBtbm1KNmJjZ0VjUEUxbzNnRzYxYVdCbnVhdkU0MzBhWkZHMDhXUEhESVBVUjhfZEE1czV4aS11R0Z5STRqMnhlXzk2SGtzbEI0S0taWHlnQVpMbnE4WmFMeHREb3BjMHU4Vk14S2pzSkRMakd3cklrS3hYUDdvbFZIclZkSlpFdEQ1UW1aQmctR0hUN3d1clcxandSQ2ItMmVoNzFSWktIZnhycUFoQzVBU2kw?oc=5",
-  "title": "Mobilisation du 17 octobre: \"Les plus grands casseurs sont au gouvernement\", scande Nathalie Arthaud",
-  "summary": "",
-  "published": "2026-10-16T09:00+02:00",
-  "mentions": [
-   "arthaud"
-  ]
- },
- {
-  "id": "87a3194c04eb1ea1",
-  "outlet": "Le Club de Mediapart",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOV0RqMWtCa3I1c2tGWUxUcEFGeTBnTTUxZ2NEZmVyV2EzZmVHdVl6V2F5RVpOXzJqTHI4M2VBWGptckhQdktfbGgxS2Z4dnVzUDJsdTJwOGpMMDdOQUR3d0htMERqU2x1djVKckRhUlF0ZFlvdTcwV1JZMzl4aWZiT3BFaXlJdjJrdDc1cnN6cFBkOWU2azVqSWZ4TGxSVWUwWElacGVtY3NNYTRENk5QTmFXMkRwcTZvcmc?oc=5",
-  "title": "PRÉSIDENTIELLE FRANÇAISE 2027PORTRAIT POLITIQUE N° 05 : FABIEN ROUSSEL",
-  "summary": "",
-  "published": "2026-10-16T09:00+02:00",
-  "mentions": [
-   "roussel"
-  ]
- },
- {
-  "id": "f02ef555d6888bae",
-  "outlet": "Le HuffPost",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPcHRYbEpjQUJ6SE5SX3cxV25pOWZrcFZyQ01KdlNMa3lKRnJ4X1doWEpaVW1ZZm53cndPWWdEcmx5YXRtYVRNLXRPYkFJckxWbUJnaXBtZ1Q4N19jSHR4QWpTTHJiNVpUMjdzRE1wQ041MG05dHU3R0xCTENKSS1MbmJOWkZJd3ZrRnp3VGc1Z2FpS1RYQkVadEZVcEp3TzlxYmpiWFhGZXFhLW41TnI5bUpBVTRpdm1DTWZmX3kwLWZPRVJGSkQyQnJ3Nk9wM1FxRWFlSzV2WE92Y0szbGx6dA?oc=5",
-  "title": "Volodymyr Zelensky met Marine Le Pen face aux limites de la démagogie en diplomatie",
-  "summary": "",
-  "published": "2026-10-16T09:00+02:00",
-  "mentions": [
-   "lepen"
-  ]
- },
- {
-  "id": "27f1c7d2dbda1fec",
-  "outlet": "franceinfo",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNci1ESU9fN3JKNEZFVk5yNlBMVVpQb0JITEJ3aTFTall3cXdPTnRjeExWdnlQemQyNVRFSDZEYTQ5OUFsMF9VRU1mSDZERDlQR1Rsd29rNDFpZ09ldy1kOTB5MXk2MkQzM1F3MzFRY0laWTBSOUZQYURtbkJuQmJNVkt4NVAxNGZWNkR5d3pwLVBRRHVyalU1Q1JtTGhTZVRWWWhwQ3lsdWQ?oc=5",
-  "title": "\"Franc-Jeu\". Avec Bruno Retailleau",
-  "summary": "",
-  "published": "2026-10-16T09:00+02:00",
-  "mentions": [
-   "retailleau"
-  ]
- },
- {
-  "id": "7e5bf5e06acf7034",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQY2x5LW43WFRrOVpUSDMwdnFFOWs3S3RUd1htQ2VvbG5GNWR5aEpCVXdUVHk4Wks2cDc1T05RUzJaN2duUm1CX0xrc0xVbU11Qm9hcEhtWmtvT25xbmVIN05YZTNNZGRZM1g2RVZCZjRYQmtTVVZJWWtzNjhjQ0VzR0RIN1d5Uk5MOHE0Z0toRVdGdnNKLVRIb25TUWhtOU9HdXpBd0k4Q3d3WEpZSzZja0RUaFNBUnRweEVJWDJnMldSU2x1V0FLU3BneFhSSjBnMkN1RUF6VDdXcC1WVDJ4dWpKc2pzb3hEMUNDaVBLa01wN2RSRVcyRmxvTHBBVGJHd0lSRTNyd1IxV0pUSFZkTEdsX2YxcTVyVWlTdlVMM3VqbUNs?oc=5",
-  "title": "Marine Tondelier, François Ruffin, Jean-Luc Mélenchon... Pourquoi les personnalités politiques s'emparent-elles de la mobilisation du 17 octobre?",
-  "summary": "",
-  "published": "2026-10-16T09:00+02:00",
-  "mentions": [
-   "melenchon",
-   "ruffin"
-  ]
- },
- {
-  "id": "1707703ced89b864",
-  "outlet": "La Voix du Nord",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNU3Z0LXBmdngxODVMWXUycVRZNEVGM3Z0NEVUdHR5N2IwOFhQRU1STkE5WkxlTnVIVjlTYmVGb0VOY3JXdkw3bE9rXzBNam5McGhZUzBQeV9zUGhHN1VVUmpaT25jZ0VDTlZMQjgxZGtqLW1aWXZHbzFoTlpRRC0tZXM0TjRLdVI0UGJIZmd5NnVqT0dkLTVpQ3FkYXNCMXZ5akFFOFBUcVFweW9ObllvQkJQQVZXSW1IUS12T1V1emljcmNnNUE?oc=5",
-  "title": "« Total soutien » de François Ruffin à Klégé Bapaume, les repreneurs optimistes",
-  "summary": "",
-  "published": "2026-10-16T09:00+02:00",
-  "mentions": [
-   "ruffin"
-  ]
- },
- {
-  "id": "dd2009256b055ee2",
-  "outlet": "Boursorama",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOSHJveXd4a2hiaUxyWkxxTnZ4QnVJYVJLYy1OaEE5TXdCYWJxWWVqWC0xdnpnYjVJQnEtQjRNZ0p1dm9PWFQzd2NQWWNZY1JOeFFiR2NpRjZ5MVU3dGozY3ZsZU9Tc3JnYzl1RHljeVoySUNwVDYtRFlhZGlsMG9tbXpjQkdzVTZfS3dDRmEtU0Q4eUpQaWJ3U3h1OFBhT0ZydXo0ZWhCZi1xUDlwbkFEcG5NaUZtcUFVUDEyejIxUEliS1F3SmFaSlN4NlBXaUgtRVIzQzNMTEUwM2Jta3JYSHh3NHlyaHVVUmtzUU8ycTlmYmpkSDBWYS1ZMXkzZV85RTFETGVKRGZLS3IwdlFRRVR1RWtwR1lYYnBoaGUtNnluT0oybU02QUFFONIBsAJBVV95cUxORzI1c2lkQTV2SWNuVktqTkRhZmtfVTlJSjMwX21md0VRNFNabTJEUFozM2lndWpRbGtVTFRaaVR6MlQzRUVVZ1oySm5iYXFtMF85NVdOMGsxUFBHRWhycTUzVmZUZDdTakdNaGFuODUxVnBvSXZHbmdYeGp6dnAzLUJKOWhkempPUzNRNjFrQTRjOTNOMWF4VWV1VHBLOXpGUlV0TDRBY0FaOWNYaDYzNDRidzJoYU85OUE1dUUyd3dVMUdBMmJsc0VrNUdIVGZoNVJtbktaRVAwVXg3MXNwbmNDZEcyRmN3ekpvRW5LWGhteUdhXzFZM0NveGtxR1o5d0F2M3dYUnJvUHdCZVlrM1FoN3FJREFSN05ZX2tYRnZ5b3lPb2JFZS10VWQ4dEg2?oc=5",
-  "title": "Edouard Philippe veut faire évoluer les vacances scolaires : comment se situe la France par rapport à ses vois",
-  "summary": "",
-  "published": "2026-10-16T09:00+02:00",
-  "mentions": [
-   "philippe"
-  ]
- },
- {
-  "id": "a71d675dd563b5c8",
-  "outlet": "France 3 Régions",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxPcmhKclJVbU1ROXQyRUVjMTdCcWJTLVRucHMtNG1adVRobmpTS1p2Yy1odjNQa1JudHBsUkFFRk1tQkZwRTYzQ2x6V3ZQUGU1c1ZuV3FOTWpvSTJTRmVyTEpra3o1azVRYTNfVTZINjBjMnotTjlZVjNadjZVSXlMYUNIdm1fOVNESmxOZTZaZThTZkMxSGh4aU8wNkJnN2VwMTdVZlpoUGZ5YlJKZTZ4a05pZ1p6RC1NY0ZxREFlOTI4Wm9aMl9wRy1ERTJFcTI3WFd4dVpvcldOT0p5VFpRbmdsUlEwYXVfT3h5d3JUX281S2pGY1ZLWjNGYkh4U1pPTGU1dFhPSS1WdDR0Y0xxYW5mbHlKM0hkbGVwejRFb0w5SlowVUY0ZWR3aXBnSjUwNVFJQjJkX3BucTNkOFpOb0dGVVd6M2Y0OWNDWE9ETEh3N2ZhLTFheVFXc1RDUndieUJN?oc=5",
-  "title": "\"Être réduite au silence, c'est une double peine\" : la lanceuse d'alerte qui met en cause la gestion d'Édouard Philippe sort de l'ombre pour donner sa version des faits",
-  "summary": "",
-  "published": "2026-10-16T09:00+02:00",
-  "mentions": [
-   "philippe"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "0ac22e0c4f9001d3",
@@ -751,19 +144,554 @@
    "melenchon",
    "philippe",
    "glucksmann"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": 1,
+    "frame": "portrait"
+   },
+   {
+    "id": "melenchon",
+    "tone": -1,
+    "frame": "polemique"
+   },
+   {
+    "id": "philippe",
+    "tone": -1,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "d3e3b1e2bbe6e167",
-  "outlet": "Ouest-France",
+  "id": "0b1e7e2b7c92484c",
+  "outlet": "Le Parisien",
   "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOaW1wT2pPeWxNNWhXTTZldDhWVHptYlphdm1iZFFGSHdFaHNzX3FtR3hIdU5aRkxfemRmQnlwZGswd1RyZmJTbFotVjZCZzVNdkhkQXNSbzVZY1hhd0o1ZVhOdTh1NXdRMXlpdVFEZ0xHWUpQcGZNTlh0Rl80ajhldDRHS2VZQU1oc1M2dEw1MVc2aTVVVmh1ai02Q01UZWRmemEtMjBkS3BnRmV4Q0czRHpGdUpWeEVFNHJ2b2t1LThwRjI3YnQwby0wOGNhZFZsempVaG1LZzB2RGFxR3JUbEV5T0NuZFhjTFRCOXVjRUhDT2cxVHlZQ3hB?oc=5",
-  "title": "« Il se passe quelque chose » : derrière le « buzz » David Lisnard, une stratégie bien huilée pour la présidentielle",
+  "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxNbHM1ZVp3ODVhVjAzRWlzV1h0aDh1RF9IQjFZVVlGLXY0OWlIc1Fhbk9VeW9zMXFfbDF4MkdSSEtBaHRsZTk5a2x5dHdUc1JndTQxaXBWVnFKUV85WW9SOUc1a2JaT2ZCSDJHRWJMbU5NT1dBdFhXSEhSWEphQl9lX2RBdVlsemlJNWdDUnRVWDZ5VGl0OENydlNxTnhHMmFBQnFXaTdlXzJ4WW1rTHBVZFVWSzNfVjYzRjBFblgwTFhpY1ZWVVl1MFowQTlqdGtLa0UtX0ltRjJuX1o4VTBVa2cyNUEyVVQwWXp0VTQ4YjhJUDAyNnlqZVpGckJLLVliTzEtVGFNeThiMVkwNjU4ci1XOW5XMjhFWnBPSGZnNE9rS016a3NKNGVVOEtYRXJxOVJhVDRxU2JESjJWeFZKd1hn?oc=5",
+  "title": "Présidentielle 2027 : « Ils ont tort », Marine Le Pen répond aux Français musulmans qui envisagent de quitter le pays si elle est élue",
+  "summary": "",
+  "published": "2026-10-16T09:00+02:00",
+  "mentions": [
+   "lepen"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "0b72c85d6973e293",
+  "outlet": "Les Surligneurs",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWlhnYmkwdjRqTjA0Y1VTdTZoTllrRFNPM2Y0RmtFMnBuZHpQZllsS1phYVcyNHd1dm1vX0ozX3h1WFROTDlHSXg2THBEdzFZVFBOdUJ4WE9YWUxzTWVHMmlpWEVMR3RnM2pJbmwzakt0YS1JZW90c1hTT0hCaW5rR0ZueFhOdUpTclhZOHpyTzZEanFlZFE?oc=5",
+  "title": "Jean-Luc Mélenchon possède-t-il un patrimoine de 2 465 000 euros ?",
+  "summary": "",
+  "published": "2026-10-16T09:00+02:00",
+  "mentions": [
+   "melenchon"
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": 0,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "0c50a89cbcecfbf6",
+  "outlet": "Europe 1",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPMXBoOTFLNlN5WUVzdjh2Mlc5UHRvM2Y5VWhrSXpqSlFSaklmWmdwMmhLRl85c0RuVFpzMThCZVQ3eFhZcWlJcjhuTU1ISF9OSkt5TUFsa01sYkY2b2NFcGVlVlprY0RVQzVLU0FJR0hPTVlQQ1JUME14N3d1X1V2bjFWR1M1cVAwOXNYY2xFZUhsQ0xxaDNCQnlqR0lhQzRFb0ZRNldaZnBNUFVBbzRzN0NYQkhoV1BvOUJtNFRGUDJwajhTOTlxdk9tczJBYnVCNlNhQmxfR0ZlVzltQ0JZdWFCUTRRRlFuekg4SkxiM2FNMjBoZ2Q3NWZFallrUdIBgwJBVV95cUxPUnJmV2RMZ0RIUTE2R2JBaHZXZl9IdXV4NWZ1UkU3RF9BYVRDSmRnMHp6OERJYm44ZDB1THoya0d5SmNDOGhvaHVoaXl1OWdvVy1rbl8zZXlOd1A2a0RHRzJmMDVGckR6dTlzdFM3LThHck9nV3h6MUVGTE9oZmgxVWZOZjFHeGdjTDB2bUlqd1hpbkc1eGpvVXZXT2VoYlgtTHNmSGFfWkxyelpQWHVHTjdqOEVDV2cwcTNvTWF3dWlPMXMyQXJEazBGU0Z3Q0M4MkxsSGlEVVlQM2V2X3lteUVnYVBuWHhvU3FmcHZKem1QbGpJUjNJWlotYnk2eV95Q1lr?oc=5",
+  "title": "«Si Marine Le Pen est élue, elle va se heurter à un Conseil constitutionnel qui va s'ériger en contre-pouvoir», estime Georges Fenech",
+  "summary": "",
+  "published": "2026-10-16T09:00+02:00",
+  "mentions": [
+   "lepen"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": -1,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "0e07348434adda99",
+  "outlet": "franceinfo",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNM2ZnLWtiYnNnTFp2dnhIRm5vbFU5ZUhvczVXUnNiOGNlVzk4bkRoek9TV3o2QnhJUU1LZGRUcXk5MjdIVG9wSS1sbVlxYUlocnI5Qkg2QXdKNWx3Sl9aS1h1R2FDNmgwdFIwN2hfa2lJZUNsUFQ0UVE0WlZiNTRMalFYWl9sZUhLNXhPVE8zMUI1VEFfOFVzaS1jeU9NWkZzRG9BQXNDcW1Jd3h5SUpMVDZNOVBORU5ZVWVoUWlOZW82Z2dMMmtfRkFsRQ?oc=5",
+  "title": "Mobilisation des lycéens : \"Sébastien Lecornu sème lui-même le chaos\", estime Nicolas Dupont-Aignan",
+  "summary": "",
+  "published": "2026-10-16T09:00+02:00",
+  "mentions": [
+   "dupontaignan"
+  ],
+  "analysis": [
+   {
+    "id": "dupontaignan",
+    "tone": 1,
+    "frame": "portrait"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "140ee642dc809c7e",
+  "outlet": "CNews",
+  "lean": "droite",
+  "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWHpLajVuWGRzYUJNcDE4dU94aWFXU2RIdjFjUm1WVHptTEdnLWY3bHlIY3ZxWHBhQUs0T19ISlJDeEdCSzVfN09Hc0lpcHVxcU11cXQwZ0JlWFpGcTlNQWZrNGxmYnlGdkJFTFg5V1FnUkN6VThRS3U5MktxYUdiR0tQUl9QdjlfNDRXWWNVc0lpOVVvSU9VMHJxTExvM3lWYXI3eUc3Wk4yQ0tNOVItRS0tNGTSAboBQVVfeXFMUFY0N0lUdHdjUkh4NDFkSXFZeWlsekl5eDJuc0FXTTlrQktQY0NoZlc3c0JpVERlRDFsMjVkNUdGWE82UVdvRGI1cjhGVVV3MmVNYmVpRFVNRHcxWkNRNHFOdklkRFNfMU9PbDZLdlJYZkhWOUJlNDFpRjhhZjFHOU94eXBLMzIxX3k5clM3VHNFVDBfODA4ZE9MWnNJVG9QcndTeGkxSElpcDBSdE1MNmt5N093UnYxMVhB?oc=5",
+  "title": "Présidentielle 2027 : «Marine Le Pen n'est pas là pour séduire, elle est là pour convaincre», juge Mayalène Trémolet",
+  "summary": "",
+  "published": "2026-10-16T09:00+02:00",
+  "mentions": [
+   "lepen"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "1707703ced89b864",
+  "outlet": "La Voix du Nord",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNU3Z0LXBmdngxODVMWXUycVRZNEVGM3Z0NEVUdHR5N2IwOFhQRU1STkE5WkxlTnVIVjlTYmVGb0VOY3JXdkw3bE9rXzBNam5McGhZUzBQeV9zUGhHN1VVUmpaT25jZ0VDTlZMQjgxZGtqLW1aWXZHbzFoTlpRRC0tZXM0TjRLdVI0UGJIZmd5NnVqT0dkLTVpQ3FkYXNCMXZ5akFFOFBUcVFweW9ObllvQkJQQVZXSW1IUS12T1V1emljcmNnNUE?oc=5",
+  "title": "« Total soutien » de François Ruffin à Klégé Bapaume, les repreneurs optimistes",
+  "summary": "",
+  "published": "2026-10-16T09:00+02:00",
+  "mentions": [
+   "ruffin"
+  ],
+  "analysis": [
+   {
+    "id": "ruffin",
+    "tone": 1,
+    "frame": "sondage_dynamique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "1d6019137a1d9066",
+  "outlet": "Les Echos",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPODg4VFp6TkwzU3FMMnZHU0Z0VW5ONnRWQTVQZmxFY1piR05SU0pLTmVnUkVlUHJGNTdTV1dBa2wzVHVnTy02anZMVUY1MUF1a2x3SDNIdkJscW1GR0x3QWRGaWJvSTJkZjJfbTlyNGkwa1RhOEZ0MDJQdmFUaDlSa0ttSzVEYVVHU2NCWXJET1h0Vzg5bGNCdVNFZElTVkNKMUEydy1tZVJKczFuTVhZbV9SdDRSeXBsWXBDa2hpWmh5aEJUZ2Zlb1hNTnYtMWc4bWpiSExiS3VtV2cxOEdKU3pBcGlyQUlP?oc=5",
+  "title": "Présidentielle 2027 : Bruno Retailleau se livre sur ses « combats » dans l'« espoir » de remonter la pente",
+  "summary": "",
+  "published": "2026-10-16T09:00+02:00",
+  "mentions": [
+   "retailleau"
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "24027aca6a9d77ff",
+  "outlet": "Le HuffPost",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPaFFTdWthRkFaUDV0N240bm12NGJCY0JNVnRJTEp4MnpiLXZIUkM0WmRPcURER3hONEE5aV9ZU2hlVjZ3Um9VbUNnanlNYzBpMV9wd0dfSWlmOWxNVzhlRF82NEdVRjhCMk9oVUNfQnZDV2hJcVVQYkZ5ZDNnUS1UbjNCRC13T000MXU0ZGt1ZjdXTnNzTF9GaVVJbXZRbnZlTU9vajBJellKUjlhYzctc05RYXR6QWRmdEIyQXdacEp0X05RSzFzMGpxM1FDYXB6V0RMZzlDNHpCc1MxNEE?oc=5",
+  "title": "Attal encense Hollande pour mieux taper sur Philippe… et se fait recadrer par Darmanin",
+  "summary": "",
+  "published": "2026-10-16T09:00+02:00",
+  "mentions": [
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": -1,
+    "frame": "polemique"
+   },
+   {
+    "id": "philippe",
+    "tone": -1,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "27f1c7d2dbda1fec",
+  "outlet": "franceinfo",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNci1ESU9fN3JKNEZFVk5yNlBMVVpQb0JITEJ3aTFTall3cXdPTnRjeExWdnlQemQyNVRFSDZEYTQ5OUFsMF9VRU1mSDZERDlQR1Rsd29rNDFpZ09ldy1kOTB5MXk2MkQzM1F3MzFRY0laWTBSOUZQYURtbkJuQmJNVkt4NVAxNGZWNkR5d3pwLVBRRHVyalU1Q1JtTGhTZVRWWWhwQ3lsdWQ?oc=5",
+  "title": "\"Franc-Jeu\". Avec Bruno Retailleau",
+  "summary": "",
+  "published": "2026-10-16T09:00+02:00",
+  "mentions": [
+   "retailleau"
+  ],
+  "analysis": [],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "31c943725a082067",
+  "outlet": "Nouvelle Énergie",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOT1h2VE5OMDJETkgwXzEzOUwxY0xQUVlVYjJsalhVYlZRbGNJMERwc3JTU3hIMDAwWXNzdktoelRYM1VGejhCQ3BiOXhXRFdVWmFNTjYxZVI5MUpxLV9JTkd2Ml9JWi0tZUZrT2pYbnpUYzBJWTBNSW1rSTB6bUV2OFpfRF9ZdWstYzZsR0tGOA?oc=5",
+  "title": "Que pense David Lisnard d’Emmanuel Macron ?",
   "summary": "",
   "published": "2026-10-16T09:00+02:00",
   "mentions": [
    "lisnard"
-  ]
+  ],
+  "analysis": [],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "38af9be690218d4d",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNZkxTM0lqV0pWN2lsVXYwaTV1MkVDOU44Mjc4UUJLeGctck9uSXVMU1JYWDk4anQ0M2VBUElyQXR1VjhEcjVta2ptOE9EeWtVQlBvOU9UR1o0VnEtSl9xMTNNZVp2YklkV1pPZmFGUC1XaGF3ZUlaZ1VYYUVoMnRFNlY3Q3hHU3hjZTQ3cWNBemZyN2xHSExvLVc1THJJMlZIZjFSODFoQ2xHU0M1MGhBNHBWZnlvYUFLcDAyY2NCSmYzeFlWSUQyMFNBNndReUpUSUVqTC1QOVc3U1ZFeGpwSGhRX3JMLUxFcWdHdDBYWFpjY1U3Vk5tSnJRamhLWHh1?oc=5",
+  "title": "Mobilisation du 17 octobre: \"Les plus grands casseurs sont au gouvernement\", affirme Nathalie Arthaud (Lutte Ouvrière)",
+  "summary": "",
+  "published": "2026-10-16T09:00+02:00",
+  "mentions": [
+   "arthaud"
+  ],
+  "analysis": [
+   {
+    "id": "arthaud",
+    "tone": 0,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "43a03d902d199727",
+  "outlet": "ladepeche.fr",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQc25XdDdPcWtod2wxaWRUT2xqdjU2Q3VMMW43SHQ4VndYTWJTd01MM1djUE5jd3Y0N1VXVFQ2NHdqQjQwSWNwWEp6cVFDZXFaeDVtdGxwdWV3ck1BR1Fjb2tMaW45WkRPNGpiVnZ4QVYteVAzS0tHZWdwYW44Y0I4RG1kdzV3Mnd6UG9FRE84OHVKb2NiOEQ5VS02d0lHWFBfdS1pcnZJNFp5dEg1OVJIY1NjS00wMXg0c1FaYVZUd1ZYS1J0RVlCS2M0azQxQW5va1RlblVNb3VudTBSb093d0UtUWVRb3VpU2JjaVBLQkJ0M0NNdHc?oc=5",
+  "title": "Présidentielle 2027 : pourquoi Raphaël Glucksmann veut convaincre Cécile Duflot et Bernard Cazeneuve de le rejoindre",
+  "summary": "",
+  "published": "2026-10-16T09:00+02:00",
+  "mentions": [
+   "glucksmann"
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "4f43e8a994b2cea2",
+  "outlet": "Le Figaro",
+  "lean": "droite",
+  "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNejV0VlQyZUdvTnFXclF4N0x6OFpzaTdVejEzOXdDbHJSa0VaLWZPUDNtby1Tb2txaHhCUXl0UmxLMXJmeXRneGFBbGpERmROc0VwcUVBaDFVeDBobkVRMUllME9iU2RmMHVLNU5vZEU5VmpkYm1kbFRJSXEyYU02NEpSWXl3MXJ1NGNNYnlNbFB2YldUNG0xbDBDa2hHb2lVdkZYRlBFUXN5MHdWdDN5eFNjQTUxblV2ZkxQSVJWbVBXazZIWTEwZGh6c3ZFQQ?oc=5",
+  "title": "Édouard Philippe rouvre la chasse aux ralliements… Les indiscrets du Figaro",
+  "summary": "",
+  "published": "2026-10-16T09:00+02:00",
+  "mentions": [
+   "philippe"
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": 0,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "5113fba9bea550e4",
+  "outlet": "Brut",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQ1Raa2RXdVpOVHZxQ0VxUTQ5YVp6Nm1JRnFaNGZoVVZTSzQ5VUluQzV2NE1XV3YycERuMFBHTGNEOGhyVjBId0ZkUEJxRUNtMWwyR0ZYN2dhLU9VaURxR3p0T0FjV296WVF0YWN1WHYyeGxZWDNoMzNRMlJwalBfSlZTc1RsWWE2UVZ5a2ZtM2xMdF9wYnFkS01CVWRodUFsOFNlOGdwMTlRdEk3MmFhZDk4WHlGZ1piZmdRM2ZTVDI0U0w3?oc=5",
+  "title": "Présidentielle 2027 : Gabriel Attal plaide pour une \"coalition des démocrates\"",
+  "summary": "",
+  "published": "2026-10-16T09:00+02:00",
+  "mentions": [
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "59dbf1024faafe4a",
+  "outlet": "Libération",
+  "lean": "centre-gauche",
+  "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPYmlBeTlfYWlZdE1Yb0U3ZHdKTDZMVU5qcEhGUDdGaGhHSjdyZHpleENvRElTMmJTNEN2YWdKbVR6Y3hOVFJkU282ampuWTBNeUh5S09ZZC1BY1lUSHJDcGw4SndMOHllaUdYb3Z2T3hvbnhObkVReFotYXRUNFE4VVdkdXNYMW1JYzFnbV9PREhpdlJHdWhkX1h6WERjZ3NldVY0a3NHbmE2dFd5Q21FamowS1Z0Q1Vsb0VXVi1mMTAwZ1U4SENqWVBmb2lWYXc3cUxCbGFaZU9Cb295eEU1Z2NWYzBrUQ?oc=5",
+  "title": "Finalement, Marine Le Pen est prête à faire campagne sous bracelet électronique",
+  "summary": "",
+  "published": "2026-10-16T09:00+02:00",
+  "mentions": [
+   "lepen"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": -2,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "5b9174d92f99fc9b",
+  "outlet": "Le Temps",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPQ1dBa3k0TmxDSmt3TnFBT0VlNlh0d1hQN0pTYjVQTkM0MkJaVmlzUHppY2RhQTlNUy00aWhnRkxJTTJiaXlSUk1aSm9TcmJFM1F2LUVJRVJDZkhHaVhDMWJXWDh6NGNOZXBLZjhzLUJYMUlsQkVzYl9RN2VHT3V0Z29Nby00LUI2QWFNVkJKdXNramdxNHhDUnRIWngwY3gtUVMxOUJPaFNVdnNXbEZNWFpoZFFhbGVfVTZ6STdkZVhpbE5pc0ZrMVZBNE4zRWhfN19TNXJkNkdRc20xQ2M2dV9mVFlnRWF3Y0RtemNLTzRwTk0?oc=5",
+  "title": "De la Croisette à la croisade: David Lisnard, le Monsieur Libéral de la présidentielle française qui se radicalise pour exister",
+  "summary": "",
+  "published": "2026-10-16T09:00+02:00",
+  "mentions": [
+   "lisnard"
+  ],
+  "analysis": [
+   {
+    "id": "lisnard",
+    "tone": 0,
+    "frame": "portrait"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "5fe2eacea44ac36d",
+  "outlet": "Paris Match",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQS1ZwdmxZUjduQ0pHaG5jNzJ6SHpuYlJFandNLUV3WTJFdnlmUy1mYTlXSW5ta2Y5VHNLczVJcEYzMEdUM2F0TVlFcTY2SHRTNFJ4X2hGZXk5WkZPaXZ1RGJuQmg5T2FmZDhaVFNEM2F6d3FpMjRlbXJUQldmcGlkcnBMZi1mOTNMejZ3Y2NQSmhIeEF6RjZKclpWM3NId2RZRFBQbTVRZXR6OWU5a0UwVHhjVTdYejFKTVdPaWZvdWJqN2dQOFFlelRBTTZRNHNCbkZkYUI1YVA?oc=5",
+  "title": "« Il ne peut pas s'en empêcher » : Éric Zemmour fait-il vraiment campagne contre Éric Ciotti à Nice ?",
+  "summary": "",
+  "published": "2026-10-16T09:00+02:00",
+  "mentions": [
+   "zemmour"
+  ],
+  "analysis": [
+   {
+    "id": "zemmour",
+    "tone": 0,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "6c8f61f2f0d3e175",
+  "outlet": "Paris Match",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPbWN3ZGZLY0pCNWRZZnJEcW9QX1BRRHFTbmxvc3dKN0ttNHhVakgtWHRUU1BlVXFFMFZYMDZ2ZkNsWFNpUU1EUWNxc1dfSHVIUlBwLWlaVVJmbUc3RllKSjJFQnVmQm1NN2VSN0tQQy1TcmV3bUx0TXRXWURqd1dKZUVQRGNFWWpWV05aVmlJcWFSNlAydURoWl94WkpoVzhldFJWamZMRUlKOFlIc2RzVmkxRFFkajVtRllBcXdKMDFHd3NUeUJyckVDb2haeEV4UUZrdUxHTFZlWE5oQkFubnhOdjcxNkJEZDNJV3dhZw?oc=5",
+  "title": "« Il y a entre nous une évidence » : Gabriel Attal se confie sur sa romance avec Stéphane Séjourné, « l’amour de sa vie »",
+  "summary": "",
+  "published": "2026-10-16T09:00+02:00",
+  "mentions": [
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "75165bf578ef9732",
+  "outlet": "RMC",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdi1PY3EzbUVQME1YNFpQdGxMRVBtUUhWdWxfMk1vTy1Kd0JZc0tFWVp5WEtXcTVBMGVEUGc0RzdaZHZUaE1LekxkMkxCN1lUM1FQVTlPSWpINWdKa1FhYkU1T2czOVVWZ3VCY2N1ZU8zSnpSckdDYmZicEJyb1hnWUdoSmR4eENzWEd1WDhkZDdfeE00WFV1V1RidC1MZzMwSnlJeVNqY293aXh1WnVBMkg2REVUaGpDVnd3alpGc1dUTjZqbWJrNHU4ZGlONW9oaXRHUE9PRQ?oc=5",
+  "title": "Présidentielle 2027: David Lisnard, la surprise à droite?",
+  "summary": "",
+  "published": "2026-10-16T09:00+02:00",
+  "mentions": [
+   "lisnard"
+  ],
+  "analysis": [
+   {
+    "id": "lisnard",
+    "tone": 0,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "795caa7533e75376",
+  "outlet": "Les Echos",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSjJSeXByRml2NWdneWI5U1pFc1h1VEZua1FMTVVVN29MazRMVGdMWXpjd0RiOGl6RTI3R3k2bXpyTHlKWWVNdVc2aHAzUi1oMVpzcDhvN0tkMjY1R09fWEh1SUk3Q3VvU0pKdTlDSGM2RUtPMG51SGlUWkw2Qjl1UjFCU1hzN3pranpEUm1FeGR3bURRQVVrc05sNzJRQ0dZSVlpSmFab3JTZjdnMmczVVdpZVYzY214cHlNd3VOME1RT0xrSmlYbmt4N0k1OXZiajJ2X1Q3THJBSnhrS3J5Uw?oc=5",
+  "title": "Présidentielle 2027 : Marine Le Pen, très critiquée, assume de vouloir couper l'aide à l'Ukraine",
+  "summary": "",
+  "published": "2026-10-16T09:00+02:00",
+  "mentions": [
+   "lepen"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": -1,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "7e5bf5e06acf7034",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQY2x5LW43WFRrOVpUSDMwdnFFOWs3S3RUd1htQ2VvbG5GNWR5aEpCVXdUVHk4Wks2cDc1T05RUzJaN2duUm1CX0xrc0xVbU11Qm9hcEhtWmtvT25xbmVIN05YZTNNZGRZM1g2RVZCZjRYQmtTVVZJWWtzNjhjQ0VzR0RIN1d5Uk5MOHE0Z0toRVdGdnNKLVRIb25TUWhtOU9HdXpBd0k4Q3d3WEpZSzZja0RUaFNBUnRweEVJWDJnMldSU2x1V0FLU3BneFhSSjBnMkN1RUF6VDdXcC1WVDJ4dWpKc2pzb3hEMUNDaVBLa01wN2RSRVcyRmxvTHBBVGJHd0lSRTNyd1IxV0pUSFZkTEdsX2YxcTVyVWlTdlVMM3VqbUNs?oc=5",
+  "title": "Marine Tondelier, François Ruffin, Jean-Luc Mélenchon... Pourquoi les personnalités politiques s'emparent-elles de la mobilisation du 17 octobre?",
+  "summary": "",
+  "published": "2026-10-16T09:00+02:00",
+  "mentions": [
+   "melenchon",
+   "ruffin"
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": 0,
+    "frame": "portrait"
+   },
+   {
+    "id": "ruffin",
+    "tone": 0,
+    "frame": "portrait"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "80877644dec74337",
+  "outlet": "La Presse",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZkUwdVZXVjB1YlZxbzhWRjVndEltMGFKQTFrWEw4cTlvUzBFSjJkUm9memhBM3Q2M25CNU9oQnNldXhqSEhqdWczQy1Ca05PNXVjUGE1VWRYZ0NMLUs0NUE3V2N3aUI0dmIyY0s1YjNkNXFyREdCbFhjQVJLSW93SDROdVl0WUhZbmdMRzNVMFZnRnF0ckhpV0lhWkx6TmV3alZHVV9nSkxMS2JKSHNqVURLYjRYWjdldnh3SkZ4Z3VxcFJlVlZDcXg0UjU5US01cFZzQUk1RGxZYmw4QndhR2dDQQ?oc=5",
+  "title": "Élection présidentielle en France | Qui est Raphaël Glucksmann, le candidat du centre gauche ?",
+  "summary": "",
+  "published": "2026-10-16T09:00+02:00",
+  "mentions": [
+   "glucksmann"
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": 0,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "80c6b24f6fdd84a3",
+  "outlet": "Euronews.com",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVXVKWDVzUEJMazQtUzhWc0s4TnZvaUpMWi16ODZFOHU0WmxsemlnaE1vTEp2bk1IbWhLUnNsZVlQQUEtWG9NaTJOSFloV2dLSHpFSUdkY0xzdU9jLVRpMzc2eXpyRGozMkJvM3pYS1RGUVJXelJZVTJyeHFKaVZUNG1aSXRWQWZacG5hczJMaWRSdDRwR3A4U1lyZzdLSnZWRC1oWkpNTXRHUll4TFdJbUd1OWFwb2syLUZ2LXZfU1I1QnM?oc=5",
+  "title": "Présidentielle 2027 : Raphaël Glucksmann progresse dans les sondages après sa victoire à la primaire",
+  "summary": "",
+  "published": "2026-10-16T09:00+02:00",
+  "mentions": [
+   "glucksmann"
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "87a3194c04eb1ea1",
+  "outlet": "Le Club de Mediapart",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOV0RqMWtCa3I1c2tGWUxUcEFGeTBnTTUxZ2NEZmVyV2EzZmVHdVl6V2F5RVpOXzJqTHI4M2VBWGptckhQdktfbGgxS2Z4dnVzUDJsdTJwOGpMMDdOQUR3d0htMERqU2x1djVKckRhUlF0ZFlvdTcwV1JZMzl4aWZiT3BFaXlJdjJrdDc1cnN6cFBkOWU2azVqSWZ4TGxSVWUwWElacGVtY3NNYTRENk5QTmFXMkRwcTZvcmc?oc=5",
+  "title": "PRÉSIDENTIELLE FRANÇAISE 2027PORTRAIT POLITIQUE N° 05 : FABIEN ROUSSEL",
+  "summary": "",
+  "published": "2026-10-16T09:00+02:00",
+  "mentions": [
+   "roussel"
+  ],
+  "analysis": [
+   {
+    "id": "roussel",
+    "tone": 0,
+    "frame": "portrait"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "8a3fb1f5ab74b7be",
+  "outlet": "Gala",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxORElSWXdJRTNTTVljcnZMM3JXblpIVUhBZmpvaFZaeG4tY3JzdkpfUnJVdFFIcmVBV09ELUNsNG4xUWY2bjlvZlR4WGk0ZnZacG9xUHNRSE5XOGpVNXdTSnZmYVJ1cXhyMEYzbzl2LUF2TG1EUnVza20xeWQ1eHJFU1luUmZPT2loRUJtcHlINnBMT3JUVUdqczgydWtrZFdOM0hEUWxaaGcxWllyQWF2UU5lRDBQSGF3MHJBSUJJSkZhYnd5Nzd6XzFNb1ZscGdRY0dZLWtSUmdzZXZ0YTZWOE9HOWxJa3lCV0xWczlKTHc2WHpGcHl0NjdqREpYUQ?oc=5",
+  "title": "David Lisnard sermonné par Apolline de Malherbe en direct, il se défend : “Je n’aurais même pas dû accepter qu’on me fasse ce reproche”",
+  "summary": "",
+  "published": "2026-10-16T09:00+02:00",
+  "mentions": [
+   "lisnard"
+  ],
+  "analysis": [
+   {
+    "id": "lisnard",
+    "tone": -1,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "8a780c002b5d2ac0",
+  "outlet": "L'Ardennais",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbVFOTmtROWFlU1VUZFdGWG9rR29hVFpmZmdac3lXeHFPR2pNZFFUV3A3Y1BIeE93cDd5RW1CUk9hTFc1YTc5Z3hRbTVVWXIzcTh6R2d3am9ILUgxWjFfWVF4cXlBTHA2dHI2UVItb0dVaUNDUHZ5UnhyWF9CeVVnSHNRZjRMWFRVbzZjeTlCeWhUa0tPd01EWExQRFlKQVZoZDljSzk3QzFSSmNZY1B3ZWtVaXFmLUJZZW1yVm5wU1ZCcU03VGRmOFN3?oc=5",
+  "title": "Présidentielle 2027 : quel programme pour Édouard Philippe dans les Ardennes ce mercredi et jeudi ?",
+  "summary": "",
+  "published": "2026-10-16T09:00+02:00",
+  "mentions": [
+   "philippe"
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": 0,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "8e1108e253c30760",
+  "outlet": "20 Minutes",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbmo3SHl1NExrZ0F1dXltMXpRRW5lSFNiUVBhSGhhX3hJbGZtUm5CQ0ZELUpBeFhjNjdxdnZGdXA4QzJCQ2pDQWJuTkdlbjNWN05hOHpTZ0NGbWJ1dTZjcmZIYnRtcWdjLVZTbUE2UXhfeC1RbEFpZ3dlSllyUlh2MExhU1pMcF9LRnk1QnFsdzIxdFNHRlJVeTVmZERiNHdLWi1Rc0NpLTFEaU1qaW83LUFDNXVmWkZwNk9fMS14TGlkdXN6b1YwbzV4anM?oc=5",
+  "title": "La lanceuse d’alerte à l’origine de la plainte contre Philippe sort de l'ombre",
+  "summary": "",
+  "published": "2026-10-16T09:00+02:00",
+  "mentions": []
  },
  {
   "id": "8e7c20f8ed596cae",
@@ -775,7 +703,616 @@
   "published": "2026-10-16T09:00+02:00",
   "mentions": [
    "retailleau"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": -1,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "9228a0206573a8e2",
+  "outlet": "RTL",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQb0Vhb253cmhXWmd6a3FJNFpfaU1CQ2tLdjdRc0tLdGlHWk1FVWVTOTMzQUtRTUd2UlhDSTFIT0ktMUpxWXkydHkyZGMxNGtKT1NoX2Fzb2xqeWxvWTRnQXZSa0p4S1dfQjQ4djEyaGNiRTMwaFpKMDV4d2swRWdhblZLNVJya0pZRVlYck5pQ19sUXlrbGxRa2JOOUxrVnZIZmlnU3JYb0FzWVRzQk5ieUFIQjFBeUl3SldvUi16dVIwRHN4Qk14QXVKTmtfd1prUXQ0U0hzbmk4Q1c5Nzg5cE8zM21OeWw5VUtWVUxMQTJIZnd1dS1tdzRkTlp4eXV5aThKenBwM0d4MnJoeUdWN2w1ZTY3VzRFMzUzQnVWZHhnS0k?oc=5",
+  "title": "\"Une question assez explosive\" : Édouard Philippe prône des vacances plus courtes et un apprentissage concentré le matin pour réformer les rythmes scolaires",
+  "summary": "",
+  "published": "2026-10-16T09:00+02:00",
+  "mentions": [
+   "philippe"
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": 0,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "93adda3c0e9ad85a",
+  "outlet": "Gala",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNWDRKamlhQlVlZnNvMTdHcE4tdm5aNzk5WFhMNjF6ekRzQ2FUcmp1MXVUZjNwZ2tMYTFTYzRuTGRjUERBSnJOaHZEMGF1a3c0RDRtTWNjUDd2dkZyOXJWYzloNjJyN2kwbmIxazBvLTVtU0pSY3RmeGNTWUZhR2x4SG81RTI5TjFSWWRCSW9uRWpGWGF0MXBPZ1BxSDlwdVRiN3hvaU5tenpPOEUyVWZUSjIxTVR2azBqYVVsUl9WV1pTaEN4Zzd3Q2Q1NFBRemFHTUw0akRjRTlzZG1FU05sQUJsOGZ3UHNtYVpyNnl3djNidmVjaHRINWI5aklvN3pDX3lFVklqWTlaT0FYOVNJV2tOa1E?oc=5",
+  "title": "Édouard Philippe installé au Havre avec sa femme Édith dans un appartement sans chichi : il ouvre les portes de leur cocon pour une occasion spéciale",
+  "summary": "",
+  "published": "2026-10-16T09:00+02:00",
+  "mentions": [
+   "philippe"
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": -2,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "95234e6dd92201e7",
+  "outlet": "Le Parisien",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNSkljc2lHUllVTzRYNTFDbDhmd1dxcEdrWWVVdTBFWnJzck00OWpMXzJDMzhNSVpJMDZNRnJqV2d0cTZENjVxdlh6blo4YnpveWhoYk1JcnBhR1hHTnZ6eFlKTU4yMGExREhRT3d1aFRndUR0N05QVXlaYkNBY1R3SEZzc1JVZk5tVS1aTGFoQ1NkMW1XLXdOWlk1bmZveHg4TVByRTN4NlZkUWhoMksyblpWdGV4OF9CWlBTcGRleWF3WVl4UmRDQTJiQk5ady1ndG1FQzRpazRjWERjcEpOMnZXWG1jQ2tOS0w0OWdrWUlUcDIwS3BCNUZqUVg2R2tRQkxSSkdPX2ZRdkFLYXhXNnVDcmc4OEg1M2c?oc=5",
+  "title": "Condamnation de Marine Le Pen : compte à rebours judiciaire enclenché pour sa participation à la présidentielle",
+  "summary": "",
+  "published": "2026-10-16T09:00+02:00",
+  "mentions": [
+   "lepen"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": -2,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "9663228b699550d8",
+  "outlet": "Le Parisien",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNM0JyRjNFaG5kNlAxMWNuOFZ3YW9jZTVUWUNadGFiX1dxR245UkRtMXJNbXJZYUFwbXgtWmhBTHprSEpfcU5sQldwOHNJXzF0bGhMSXhpVW43SHBBRS1TRE44Z2RhTEgwX3dWTmVIeWFlMkpmeTRVeVMzczJ5YzJWV1g3YWlfMmt5M0I2RUd0S2I5bzl0X0pmaHREa2J4ZDVjMXJUOWwzcTNPdl9hNWpsT21GSjFwdnlwZFBJVU5RM1pISHQwMTZVZ29OOEtpdkh0S1U2NzAtcEVwMHFZYkdoVFFnX2RuS3JPTkJxN3ZuUW1KSUF2dHd4MmxyWWduaTM5MjNDNXpCaUNabXRkOFpMZmN1cHAzYUswamZ3YnlKM1U2eHM4ODhCQmxJY3ZsM04zVmpmSk5OYjhJeG9mS3FubDR3aVpoMlNlOGRpUHlOUkQ2TlU?oc=5",
+  "title": "Présidentielle 2027 : Zemmour devant Le Pen, bataille entre Mélenchon et Jadot… que disaient les sondages six mois avant le premier tour en 2022",
+  "summary": "",
+  "published": "2026-10-16T09:00+02:00",
+  "mentions": [
+   "lepen",
+   "melenchon",
+   "zemmour"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   },
+   {
+    "id": "melenchon",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "96ccfc99a303812d",
+  "outlet": "TF1 Info",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxObmZXOUpCSmN0WmE3Ni1INXdlZzNWRlpaTWhBYWNvVDl3MmstR0N1RVI4ZVRnUzdpVTFxdzBhTFktRVg1LS1SdmVna2k4TExlU1hPYUxmX3ozbmV0VU00TlRscHVtcHpqeTVCNHBHeEt2aHVPZlc0bkFYVTdvQkZtWHJHN0Y2N244aUN4MkFDTFozc3I0QXl0VC1PUF9lRVk2akVJd214QUNWVGU3TkdRX3E5a21YemxNMUF2aWJzelpZd0lMalM5NkNlWG13RnM5aVhsZFB4RHJJZjdIZ2NIOU0zWQ?oc=5",
+  "title": "Présidentielle 2027 : Raphaël Glucksmann au défi de faire durer \"l'effet primaire\"",
+  "summary": "",
+  "published": "2026-10-16T09:00+02:00",
+  "mentions": [
+   "glucksmann"
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": -1,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "9dcf15ef468ddfb5",
+  "outlet": "Le Monde.fr",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYm5LN0lwUTJQYzZ4N2F6dE5XZnZ6SU9wVms4cnZ6VVlPX19tZHk5NEpoY1QxMTA3ZmEyc0ltX2ZzdXFkblkxSGpVZnZaUHl5U0diMGxJY2dRV3hVNE5HcHJrWjJOaUFja3V4MjVCcDJ2UGFyQnRDc1EzeGk2V0g2ZndUR2FyVElTdVlYVGpPWmttSjVSWlFXOTNMcE5aeXpNLThFNkpWdWppNVNlaGtJNTNkdmNsdjZob0E?oc=5",
+  "title": "Contre-budget de LFI : le pari incertain de la relance",
+  "summary": "",
+  "published": "2026-10-16T09:00+02:00",
+  "mentions": []
+ },
+ {
+  "id": "a71d675dd563b5c8",
+  "outlet": "France 3 Régions",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxPcmhKclJVbU1ROXQyRUVjMTdCcWJTLVRucHMtNG1adVRobmpTS1p2Yy1odjNQa1JudHBsUkFFRk1tQkZwRTYzQ2x6V3ZQUGU1c1ZuV3FOTWpvSTJTRmVyTEpra3o1azVRYTNfVTZINjBjMnotTjlZVjNadjZVSXlMYUNIdm1fOVNESmxOZTZaZThTZkMxSGh4aU8wNkJnN2VwMTdVZlpoUGZ5YlJKZTZ4a05pZ1p6RC1NY0ZxREFlOTI4Wm9aMl9wRy1ERTJFcTI3WFd4dVpvcldOT0p5VFpRbmdsUlEwYXVfT3h5d3JUX281S2pGY1ZLWjNGYkh4U1pPTGU1dFhPSS1WdDR0Y0xxYW5mbHlKM0hkbGVwejRFb0w5SlowVUY0ZWR3aXBnSjUwNVFJQjJkX3BucTNkOFpOb0dGVVd6M2Y0OWNDWE9ETEh3N2ZhLTFheVFXc1RDUndieUJN?oc=5",
+  "title": "\"Être réduite au silence, c'est une double peine\" : la lanceuse d'alerte qui met en cause la gestion d'Édouard Philippe sort de l'ombre pour donner sa version des faits",
+  "summary": "",
+  "published": "2026-10-16T09:00+02:00",
+  "mentions": [
+   "philippe"
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": -1,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "a884967ed0b99e59",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMipwNBVV95cUxQcWxqeHF5NW11eUJYVXlSWVVEd1lGUURRT1RhQmVuWjVNMldBSk1QclF5RFo0VXItSEpTcWVHd1Z4MU9IUmJWdE1rbVBtZlFTLUhRYk0tUTFwU0xUWkdaeTdIZ05lN1FDdEpNQ09pWG5fbXFTOEFZR01SRUNERDdnODJuSkRzV01PX1ZZVkhhbjJZS0FNMEphb184Q1o1eVg4YURQVEFsOUw0RzRVNDItaG9VeFo4WUNDTmNYTTNpQ1lPME96em5lTWR0RkkwNjVuWURTU2JGdlRFaEtzVEoxUGh5WnIxSFBkcHlqTU8xR0dnN0lvdGtMTkU3T1ZySEtpdThjMjFJRzZJSEw2Mk5aR0FWU0w1a2wyQ0ZMTVJzT2VqWk1zLVdCM1I4RXF2cU9haGljYW0xQnp2MnpqQ3QtbGZ2Z0Z6ZGhzUDRNNDMtd2lvcFFLZGNHVjFNY25xdjdRcGp4czE0VTVLUURKSkZFdkJsNFhvS0trYl9DS1lFN2daMUM4emxjdl9INm1RMDBYU2ZJZDF2T1F6T3lEdk9CdFpsWG1GRzQ?oc=5",
+  "title": "Jean-Luc Mélenchon annoncé au second tour de l'élection présidentielle: \"Cela reflète une aspiration à plus d'égalité, à plus de tolérance\", estime Nathalie Arthaud, candidate Lutte Ouvrière à l'élection présidentielle",
+  "summary": "",
+  "published": "2026-10-16T09:00+02:00",
+  "mentions": [
+   "melenchon",
+   "arthaud"
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   },
+   {
+    "id": "arthaud",
+    "tone": 0,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "a9973b08329078e5",
+  "outlet": "Valeurs actuelles",
+  "lean": "droite",
+  "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOVkNwc3htXzUwTEswQ2tkQkFMWVZINUtnWEhRZG9yUFEzX0hBR2RRa1ltNHE3ZXJveVFrMFl0LVVWVE5WN1JsQVhzRktYSzRKcE5jYlJITGVSQ2xLd1VacWpoUG5yYTJZeXIzcGs2OGhZQnZFcm10THdTdjN1UkM2OGpuaUZaMmhHWnJDSVVNak5vNGJtYUkxT1F2S0g2X0tBQ0NxWkw5SjQwNTNWX1RUb3hkeDF3Q3hlSjhGTTdtcG85RlhPUXpYZUd1YTg2U1VaMk8tbFB6RWtabUFL?oc=5",
+  "title": "Lisnard, Mélenchon... pour qui votent les étudiants des grandes écoles ?",
+  "summary": "",
+  "published": "2026-10-16T09:00+02:00",
+  "mentions": [
+   "melenchon",
+   "lisnard"
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   },
+   {
+    "id": "lisnard",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "c44f2ab9ce83048f",
+  "outlet": "Le Progrès",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbWhNMmRfYXFBak5GSXlTRzBWRnc2WXp3UGdPd3p3RlJIc2NRSGNQSWR6LW1lYS1RQVVmV3hzb3U0SXRoVE50RU5hZ1hEVEYxa2xTMFhQXzhScXpjM3FRWEVGbHk1cENpdGFXSW1XRW9PRmlGVGdXWGNIaDBfQWNwVzZXQUJaaEJ3NlJKQ2hBQTNZbWpXS2FBaXhxWVZJTnM?oc=5",
+  "title": "Dole. Une réunion publique en présence de Nathalie Arthaud",
+  "summary": "",
+  "published": "2026-10-16T09:00+02:00",
+  "mentions": [
+   "arthaud"
+  ],
+  "analysis": [
+   {
+    "id": "arthaud",
+    "tone": 0,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "c58589430bffdab8",
+  "outlet": "Le Point",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQN2lCMXdwLU02S0VwdnNjVXBoNW04ZmMycVBOSjF3dVVGWmxJM2tlMFNEZkVHY1ZYc1ZkancyV3RneTBnc0s2UDdZcWlEZ0tldXVNN1RGWkRJeFFSdlh3YlhEZER4RGhJXzN2N0swTWNwU01iQjNsYXV2WVhUclJnbGpzVzhJTm5KbUhFdXVLVVFoUjZXTllKRGFJQ0RZb0VuY3FjeVo4cS1id1B4cXZfODhkRFpHMzVmTUw2SWdLZnF1S0dEem5WT2NKTDlOOUYxSEk4VQ?oc=5",
+  "title": "« Il s’est fait knafoïser ! » : comment Éric Zemmour s’est converti aux robots et à l’IA",
+  "summary": "",
+  "published": "2026-10-16T09:00+02:00",
+  "mentions": [
+   "zemmour"
+  ],
+  "analysis": [
+   {
+    "id": "zemmour",
+    "tone": 0,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "c61cbcd06b9ca9b2",
+  "outlet": "Le Nouvel Obs",
+  "lean": "centre-gauche",
+  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQX0N1VzJ2S0NoSXktYTg5SzFYVDRfcDNqQnJ2c25JTnRIVlZCdGJZMXIyOWw5UlBUbUtwb1FBVndGZmlxWFBTYTlYb0pXcW16Nzgyc0dCT0tpN3FSSXRIM0RESHF2OHlSbHNQM2VOS1kyN3I0VUxBY01ydUN4SGdWbEgxWTByYU9LaXFETHBYby04ZWhCc01vRGczZElFZjFlMUwxSmR4V2F2bzgtLWttWDdzc2QxbXN2WUVmQWtIeTFoZTVfZUE?oc=5",
+  "title": "Après sa victoire à la primaire, Glucksmann grimpe dans les sondages",
+  "summary": "",
+  "published": "2026-10-16T09:00+02:00",
+  "mentions": [
+   "glucksmann"
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "c64e31773d81771a",
+  "outlet": "Le Dauphiné Libéré",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdlVETEw0U2lkUkpSN0NfVE1EYm9WNGx1Uno3Y1g4dUo0N2FpZmh5OFR1bzBzM0N5RW9sY2lXODNxNkdGSVhxY2hVWU84SUZaZVlpNlFJTlozUi1LcU0ySHF4bEFfeVRlVGhNUWVPV3ROZXNWcUw2VHpTMUljY0cxbWVWN0JicmkwSUZnVFF2REx6S3JJREk2Z0d5RVlTaVl2MDJqSDlldzdWVTRNODV2NG1MRFg?oc=5",
+  "title": "Présidentielle 2027. Nicolas Dupont-Aignan : « Je suis le seul à proposer une vraie rupture »",
+  "summary": "",
+  "published": "2026-10-16T09:00+02:00",
+  "mentions": [
+   "dupontaignan"
+  ],
+  "analysis": [
+   {
+    "id": "dupontaignan",
+    "tone": 1,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "cb839bd2e111eb77",
+  "outlet": "Nice-Matin",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOakpkd1o0V3VUVDlKbThYZHIyQW85cC1BdlBxYU1aLUpqWmRGZlVXZlFfN1dVWm5kS2Z1c05MbkpIMEx0ZTBUZUtsMHlFazlVekdKY2Nqb0l2M3dvd2FVTjdPdF94c0hVQ2xkbVNNdGl6Q2tROTIxdDkwd0V5SkZQRG9UcHYwU0FRU2ZrZHlFQ2hzUlU3TjNTMEZxLUlOaE91ZXNLRlUxSkNoRUFPS09Cb2JCcTNuUHdKQnBWbzJINE9mY3BiRXJJY0k3RVNvREJYdk9Gc3RkVk5CMmxQdDRPV1RGLWhmMFJLRXd5VG4xTQ?oc=5",
+  "title": "Impôts, montée des extrêmes, immigration... David Lisnard, maire de Cannes, est l’invité de « L’interview à la Une »",
+  "summary": "",
+  "published": "2026-10-16T09:00+02:00",
+  "mentions": [
+   "lisnard"
+  ],
+  "analysis": [],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "cf4e805a77906876",
+  "outlet": "i24NEWS",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPbUlHbk10X3EyZUxJcDlGLTFJWV9VTUtubGZCeE9KRGhUc2ZiaWxtMnZrSXlHZzdmMXY3UjE5d3dYNXh1dk1GazJDNzRwaS1UQUZuLWtpNUR5MDJsbV9qRjcxTXdyZk1MNFFpN2lUQkJlWjhubkpVSElMbHJ1YTNYdUJXMTRsZmFSOGJIMlF6by01VlRSRWF5b1gxQWx3NDB6c3JIcTZjYjVaQlV0V1FWVGd6UFBCQ09Sa19Fdk0wbEk4c2VNVnliTWtMMkVTbF9EUWI2TlNqYzMwbmc?oc=5",
+  "title": "\"Ils ont tort\" : Marine Le Pen répond aux musulmans qui envisagent de quitter la France si elle est élue",
+  "summary": "",
+  "published": "2026-10-16T09:00+02:00",
+  "mentions": [
+   "lepen"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": 0,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "d3e3b1e2bbe6e167",
+  "outlet": "Ouest-France",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOaW1wT2pPeWxNNWhXTTZldDhWVHptYlphdm1iZFFGSHdFaHNzX3FtR3hIdU5aRkxfemRmQnlwZGswd1RyZmJTbFotVjZCZzVNdkhkQXNSbzVZY1hhd0o1ZVhOdTh1NXdRMXlpdVFEZ0xHWUpQcGZNTlh0Rl80ajhldDRHS2VZQU1oc1M2dEw1MVc2aTVVVmh1ai02Q01UZWRmemEtMjBkS3BnRmV4Q0czRHpGdUpWeEVFNHJ2b2t1LThwRjI3YnQwby0wOGNhZFZsempVaG1LZzB2RGFxR3JUbEV5T0NuZFhjTFRCOXVjRUhDT2cxVHlZQ3hB?oc=5",
+  "title": "« Il se passe quelque chose » : derrière le « buzz » David Lisnard, une stratégie bien huilée pour la présidentielle",
+  "summary": "",
+  "published": "2026-10-16T09:00+02:00",
+  "mentions": [
+   "lisnard"
+  ],
+  "analysis": [
+   {
+    "id": "lisnard",
+    "tone": 0,
+    "frame": "portrait"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "d6853309c29ae831",
+  "outlet": "RTL",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQSGZyNW5IcG5DbFZqQXJCZksxWk1iSG9vWC1PZUIyOWJkenZsZXZ1VXdCNDYzN2s3VFEtLUtTRE02OHY1enZBTXJMeXA2RmJKNks1RnhNVndUYlViOHhzOU1SVmFQSkxFbGVLNWJGMXR3aExJM09YNXBCRFZmTG9Jdmo3dlRicHZuRnUzMUhvWkYzaW9jamZ4Y0R6VWRiQmRmSkQ4eE14eTFIYzFoR2gyNmczN2lRRnBaVjU1UVVhZ1JHcUNSWWxYRnhub0NZQXdtZGp4RmtjRjM1bHJ1LW56QWdTbw?oc=5",
+  "title": "Hollande, Cazeneuve, Duflot… Raphaël Glucksmann à la chasse aux ralliements après sa victoire à la primaire",
+  "summary": "",
+  "published": "2026-10-16T09:00+02:00",
+  "mentions": [
+   "glucksmann"
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "d82a3249676a8312",
+  "outlet": "RMC",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNMTA3bzRYTlI1MllyckJmSUZfdzZLTGV4TEc0cDRZMVd2Q3dybWEzOThReDNGcHdTMG5yRnFMMVNpc254WEluZUM2eGw4QW5FSTFpSTNFTGhxY05KQnM2REpvUXk1MHppZDhnMEM5Sk9pMmdkVUJFTVBydmNaVTFqVzVJTU5KTG1yX2Q2bGRuSGU4U1I0QWpTMTZKTGJvWTlodzlHQzNjMXlWS0tMT1QyMWJOa29rX0QxVlJZUmxJOVdkalZucTJmYnlTMEVhNDJZUTdSRWtwTmJMaU9Id3VJQk1vMWluclZEdV9KYw?oc=5",
+  "title": "Présidentielle 2027: David Lisnard, une bulle médiatique ou véritable percée de sa candidature?",
+  "summary": "",
+  "published": "2026-10-16T09:00+02:00",
+  "mentions": [
+   "lisnard"
+  ],
+  "analysis": [
+   {
+    "id": "lisnard",
+    "tone": 0,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "d8c911c223cdb038",
+  "outlet": "La Lettre",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNbHYwT3NaZlNmUGdKUHF1aVkyZ0ZickpRMUo5a3VycjN1Z3pYRzgtdDQyTDhWZkZKa3dHQ3Rlb0VZX1lubE5nczBJbTB2S25UM3I0S0xuZVRhSTR6WnROLXcxS2RVY2I4S2g5N3A4NlBtT2JwSVRMSC1odnpEVk92Tk9YQVNOSGxQRlQyYlhROG5pRDhNaW1mUXBoWlFHZFV5VGlTd1VzOU9PaWFNamhOS1hhYWNDOFJybTFxazJFaWtuS3R2Y0tTN1JGQTlpN3dQNThXdWlJUnNacUVFRlI1WUVfNnpSY2d2ai1lNDBJQmFrQQ?oc=5",
+  "title": "Entourage Élysée 2027 Face à la tentation d'alliance avec LFI, la garde sénatoriale de Fabien Roussel",
+  "summary": "",
+  "published": "2026-10-16T09:00+02:00",
+  "mentions": [
+   "roussel"
+  ],
+  "analysis": [
+   {
+    "id": "roussel",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "d8ea286626aee8f9",
+  "outlet": "Le Nouvel Obs",
+  "lean": "centre-gauche",
+  "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOYnBzSTc2elJ1Uzl1MnlfZWtMT0oyNmtvd29GV3lsLXN3T3dJMW85UlBVdjhEa3lJZFN5YV9tVVhhM2tCTlhRTU0xbHFGT2xUUjVyZEtYSE0tcTI1ZHNJaTd6d0dmNkNVejJfcWUtb3dLeGFMY0wycUtWdS00X1lteElkZTZkYWdEOWZqRGhNbENyYk5qWEZlbFc2MHNiMjkzbDlUSWVXTllKdV9XdGs4S1hvY1dWeV9sNFhrQlQxS0JiWEg3VVNoMmYwdVF6ZTkwbXlQS2QzTkJya0VTUFlmVlpPSHBXM1dQTVlfZ2VXOHppWFFZMnhrYU53VUs?oc=5",
+  "title": "Affaire des assistants parlementaires du FN : Marine Le Pen sera bien fixée sur son sort avant la présidentielle",
+  "summary": "",
+  "published": "2026-10-16T09:00+02:00",
+  "mentions": [
+   "lepen"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": 0,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "dd2009256b055ee2",
+  "outlet": "Boursorama",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOSHJveXd4a2hiaUxyWkxxTnZ4QnVJYVJLYy1OaEE5TXdCYWJxWWVqWC0xdnpnYjVJQnEtQjRNZ0p1dm9PWFQzd2NQWWNZY1JOeFFiR2NpRjZ5MVU3dGozY3ZsZU9Tc3JnYzl1RHljeVoySUNwVDYtRFlhZGlsMG9tbXpjQkdzVTZfS3dDRmEtU0Q4eUpQaWJ3U3h1OFBhT0ZydXo0ZWhCZi1xUDlwbkFEcG5NaUZtcUFVUDEyejIxUEliS1F3SmFaSlN4NlBXaUgtRVIzQzNMTEUwM2Jta3JYSHh3NHlyaHVVUmtzUU8ycTlmYmpkSDBWYS1ZMXkzZV85RTFETGVKRGZLS3IwdlFRRVR1RWtwR1lYYnBoaGUtNnluT0oybU02QUFFONIBsAJBVV95cUxORzI1c2lkQTV2SWNuVktqTkRhZmtfVTlJSjMwX21md0VRNFNabTJEUFozM2lndWpRbGtVTFRaaVR6MlQzRUVVZ1oySm5iYXFtMF85NVdOMGsxUFBHRWhycTUzVmZUZDdTakdNaGFuODUxVnBvSXZHbmdYeGp6dnAzLUJKOWhkempPUzNRNjFrQTRjOTNOMWF4VWV1VHBLOXpGUlV0TDRBY0FaOWNYaDYzNDRidzJoYU85OUE1dUUyd3dVMUdBMmJsc0VrNUdIVGZoNVJtbktaRVAwVXg3MXNwbmNDZEcyRmN3ekpvRW5LWGhteUdhXzFZM0NveGtxR1o5d0F2M3dYUnJvUHdCZVlrM1FoN3FJREFSN05ZX2tYRnZ5b3lPb2JFZS10VWQ4dEg2?oc=5",
+  "title": "Edouard Philippe veut faire évoluer les vacances scolaires : comment se situe la France par rapport à ses vois",
+  "summary": "",
+  "published": "2026-10-16T09:00+02:00",
+  "mentions": [
+   "philippe"
+  ],
+  "analysis": [],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "e3fc55c9768c8c98",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOTWViUklvOEVmcVpXWEJabXZCM1BsalI1RzJpUkViaGVMRnlUUzg0N0ExSEFvSklOZW4wRV9oMTdERzQtS2lFdWNjVUxuUl9SOGZBcGRtLTU1Wnptd2swdVZVRVdUTi1iaEVxNmN3ems3NlNfbHFpSzlsWWlJQzFVMzhWY1R6aUg4Q3dmQUFTbGU1XzIxclI1aFRSNlpSVEtoNHJIVXROUHRUMm5hQVhLeWZ5S0RtbXByOVRsNGhEZkxqT3h4clBUODkxNHQtVmRURDQyMHpQOFV3SXllTEsxSWtfcHF6TzhuTzVCY21XT0xDNnUtTHV4ZnFyeTBENmlfT2JkS2RVS2lvTV9R?oc=5",
+  "title": "Présidentielle: \"Marine Le Pen souhaite un vote d'adhésion\", explique Jean-Philippe Tanguy, député RN",
+  "summary": "",
+  "published": "2026-10-16T09:00+02:00",
+  "mentions": [
+   "lepen"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": 0,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "ec6d2e8483bdeaf5",
+  "outlet": "franceinfo",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxORE10aUp0bmc5NU1kREdWSUFFdGlyMkl6WjhVU3hKa0pZUUhmZjVXeHFrdlFPRVZSbEx1QXdtVTV3ZGtmSXRJWEdna0NILTk3SWFRMVJKNDBjbjhrSVJEWkhuZUtaNWN6VndjU0VzSXFHWDZYUGItT0U3RjlrRGZ0NkxlRlE2eGN0cU5sMkV6SFN2dWt1OWZta3VZQkxsd21xamFHXzB5ZkRfWHFFNlF3dDlHZ1RqZTBjUHYyZTl0RlVhZUd6bG1nRGFYLTd0TkhsVGg3OW1DaUJ2NkJKUEg4Vm5uVkZCdUVSTTRPSk1RTQ?oc=5",
+  "title": "Les groupes de niveaux au collège auraient-ils pu fonctionner, comme le pense Gabriel Attal",
+  "summary": "",
+  "published": "2026-10-16T09:00+02:00",
+  "mentions": [
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "f02ef555d6888bae",
+  "outlet": "Le HuffPost",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPcHRYbEpjQUJ6SE5SX3cxV25pOWZrcFZyQ01KdlNMa3lKRnJ4X1doWEpaVW1ZZm53cndPWWdEcmx5YXRtYVRNLXRPYkFJckxWbUJnaXBtZ1Q4N19jSHR4QWpTTHJiNVpUMjdzRE1wQ041MG05dHU3R0xCTENKSS1MbmJOWkZJd3ZrRnp3VGc1Z2FpS1RYQkVadEZVcEp3TzlxYmpiWFhGZXFhLW41TnI5bUpBVTRpdm1DTWZmX3kwLWZPRVJGSkQyQnJ3Nk9wM1FxRWFlSzV2WE92Y0szbGx6dA?oc=5",
+  "title": "Volodymyr Zelensky met Marine Le Pen face aux limites de la démagogie en diplomatie",
+  "summary": "",
+  "published": "2026-10-16T09:00+02:00",
+  "mentions": [
+   "lepen"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": -1,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "f26b4cc104733381",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNbFJEQW1iR0tKRG13VHlyeWM5N2J2U3hzMHRtT2RYQXZIN2JwbDlnemstUFE4WDd1VWQ5d2lSRFBtbm1KNmJjZ0VjUEUxbzNnRzYxYVdCbnVhdkU0MzBhWkZHMDhXUEhESVBVUjhfZEE1czV4aS11R0Z5STRqMnhlXzk2SGtzbEI0S0taWHlnQVpMbnE4WmFMeHREb3BjMHU4Vk14S2pzSkRMakd3cklrS3hYUDdvbFZIclZkSlpFdEQ1UW1aQmctR0hUN3d1clcxandSQ2ItMmVoNzFSWktIZnhycUFoQzVBU2kw?oc=5",
+  "title": "Mobilisation du 17 octobre: \"Les plus grands casseurs sont au gouvernement\", scande Nathalie Arthaud",
+  "summary": "",
+  "published": "2026-10-16T09:00+02:00",
+  "mentions": [
+   "arthaud"
+  ],
+  "analysis": [
+   {
+    "id": "arthaud",
+    "tone": -2,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "f578e13708967f16",
+  "outlet": "Valeurs actuelles",
+  "lean": "droite",
+  "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNZnZfRm9uQlBLNjdTUV9FSE84UTdsVjlKd1piU21CZFMxeUpsZ0xGRUhKbEZuci1pbGYzQXNWejR5Mnd3VElBVTNKYWxyMTFJM1lmeHZPSjJzX3IwZmdUbmhERTMxOFJweS1BenhSU0UwUDhaOGNDTEZyZ0QtS3p1VlZneHBHeXh2VmR4UnEwWmh6YmZOdHdEdkJLdG1OOWhUZ0k0Ym4yQU1LX1VJYzRlaWwzZTRzMENaRFRmMk1ZZWN5dlRTRjl4bFpueWVKU2lEUjlndWdTTllmbVNyRW56N09DbUtSb0E4bUE?oc=5",
+  "title": "Raphaël Glucksmann dépasse Édouard Philippe, Marine Le Pen caracole en tête",
+  "summary": "",
+  "published": "2026-10-16T09:00+02:00",
+  "mentions": [
+   "lepen",
+   "philippe",
+   "glucksmann"
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   },
+   {
+    "id": "lepen",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   },
+   {
+    "id": "glucksmann",
+    "tone": 0,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "f6d13c9c0f5c9cc2",
+  "outlet": "Le HuffPost",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOajMzNDFXZ2tEaEVDeG51YWdMUG1Pdm01NEhfN3RwSjRIajlFQnIwU0hxb3BWT2U1UVBqblRjNFc2LWN0RmN3U0paYzBaQ19BM3d4WFdhQnhkWk51aEpNcy0ybHhKaHFFbkRkS2xOOHVuNEh0X0ExTGcxdVNKYlVNLUVMazd3RnNfcFFqWVJvQXZoZGNoR1dja2Mtc3ZFWDcwbEJQWTBQaUE2R21JODg0aXNmOUpfeXJMdjVKdW1jeGM2UmhxRnNVN0NHZEQzNU5XdFpmcGh1RHhldTJXM21SRDdPOTRJUQ?oc=5",
+  "title": "Ce que dit l’incapacité de Raphaël Glucksmann à soutenir (sur le terrain) le mouvement lycéen",
+  "summary": "",
+  "published": "2026-10-16T09:00+02:00",
+  "mentions": [
+   "glucksmann"
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": -1,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "fb0028cb81658690",
+  "outlet": "Midi Libre",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxORGZseUt3eHBiRVpsUmt0Q3BqZDd1TzJPemp5akk2SW10YjVQa0hueElERU9lUkpjUlllT3VqQnhINU9ycUkzQXQzek1XNmVmalJSRU1BUVhwNFpqTXlBaUF1amZtc0t5UURyR1lGSnVDM0MzTXpzRm45YlNpSWhIOFBOMWM3OG5Ha2JzWFRlbVJQX21WVkhBYjlQNXY0dllVLUowNklWTGd6WXRVOWRHdUVINGZnOU43azNyTzRFWEk4M0IzVk96NkFNWWM0VElkUzdocG9OMHN3UVd3RjJyVWJfRGcwVlgyRmpMSldWUEF5RkF0bTZJV2Rqc1IzUzZPUC1qMGgwR2VDY3BpUzNBU29uc3lad3JfUHZiN3B4TkRCZw?oc=5",
+  "title": "SONDAGE Présidentielle 2027 : Le Pen, Mélenchon, Philippe… la carte des intentions de vote, région par région, selon cette enquête",
+  "summary": "",
+  "published": "2026-10-16T09:00+02:00",
+  "mentions": [
+   "lepen",
+   "melenchon"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   },
+   {
+    "id": "melenchon",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   },
+   {
+    "id": "philippe",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "fda6162e7ab022c1",
+  "outlet": "La Croix",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOM2xRTnBxUEYwZ1VnUGpOdUY3cERXN1VFM1JWVzJtTERsdjBRSjJrVWVDbzNGNDVaYTBKRVFORmZjYmZOODhJSVUyN21tUHJBSWJHdE13c3MzVVJJUlduRm9qbUNRSnUweFdXbHVlMno3VTNkd0NGVW5aV0pqRDViM0RvNThjVndaZ1ZOT2piVlUxM01FQms4YjdhZDF6Z1prNUFTWUcyTS1xRi1IYlh5clVOY1AyMUdFZjdqQUJRSElJVzhlNFpnV3BOQjk2aGM?oc=5",
+  "title": "Présidentielle 2027 : à droite, David Lisnard bouscule la candidature de Bruno Retailleau",
+  "summary": "",
+  "published": "2026-10-16T09:00+02:00",
+  "mentions": [
+   "retailleau",
+   "lisnard"
+  ],
+  "analysis": [
+   {
+    "id": "lisnard",
+    "tone": 0,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "5b6c1bf906ddeea5",
@@ -787,7 +1324,15 @@
   "published": "2026-10-16T09:31+02:00",
   "mentions": [
    "melenchon"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": -1,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "7d97600404ae0f97",
@@ -799,7 +1344,15 @@
   "published": "2026-10-16T15:37+02:00",
   "mentions": [
    "arthaud"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "arthaud",
+    "tone": 0,
+    "frame": "portrait"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "68147beae67a50d4",
@@ -811,7 +1364,15 @@
   "published": "2026-10-16T16:30+02:00",
   "mentions": [
    "lisnard"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "lisnard",
+    "tone": -1,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "50ce561ac6168bb0",
@@ -823,7 +1384,15 @@
   "published": "2026-10-16T17:20+02:00",
   "mentions": [
    "dupontaignan"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "dupontaignan",
+    "tone": 0,
+    "frame": "portrait"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "2cee0805924d8c50",
@@ -835,7 +1404,15 @@
   "published": "2026-10-16T17:33+02:00",
   "mentions": [
    "roussel"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "roussel",
+    "tone": -1,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "d37be469602dbafb",
@@ -847,7 +1424,15 @@
   "published": "2026-10-16T18:01+02:00",
   "mentions": [
    "dupontaignan"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "dupontaignan",
+    "tone": -1,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "7a8fee26ddd15dd5",
@@ -859,7 +1444,15 @@
   "published": "2026-10-16T19:00+02:00",
   "mentions": [
    "zemmour"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "zemmour",
+    "tone": 0,
+    "frame": "portrait"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "651749e98463ab01",
@@ -871,7 +1464,15 @@
   "published": "2026-10-16T19:41+02:00",
   "mentions": [
    "dupontaignan"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "dupontaignan",
+    "tone": -1,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "6fb896476bfd906f",
@@ -883,7 +1484,15 @@
   "published": "2026-10-16T21:19+02:00",
   "mentions": [
    "zemmour"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "zemmour",
+    "tone": 0,
+    "frame": "portrait"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "605b923ea7df13dc",
@@ -895,6 +1504,14 @@
   "published": "2026-10-16T21:56+02:00",
   "mentions": [
    "ruffin"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "ruffin",
+    "tone": -1,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  }
 ]

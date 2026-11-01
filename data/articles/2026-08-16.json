@@ -1,15 +1,5 @@
 [
  {
-  "id": "e6ef9ddcd8c48fdc",
-  "outlet": "20 Minutes",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdWNTT0s0MlFJal9YT2FfY3QxTVduLUdZNU55RnhfOXhTcVdDQ3drV3k5MlNKWXZLa3JPaFVSZ2NJcFNfYzc2VGE1OEhSUm9UZUtZSFV0eU9GVmJYbUpQQ3E2VE8wd1k2Q3NOZ01EczBRT2tUclRnWFhVd21lVENzMXJjOWlENDBJWGs2dlBXYkRzc1NlOTBvNHR1ZmlISHFOTl9POEo1a3YzT1VqQUNkMl81N2pSa3RTZDYw?oc=5",
-  "title": "Éric Ciotti « espère une évolution » du RN sur les retraites",
-  "summary": "",
-  "published": "2026-08-16T09:00+02:00",
-  "mentions": []
- },
- {
   "id": "1d8792a1108dae21",
   "outlet": "franceinfo",
   "lean": "centre",
@@ -19,7 +9,35 @@
   "published": "2026-08-16T09:00+02:00",
   "mentions": [
    "attal"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "6ad1b546c4c3ae69",
+  "outlet": "Libération",
+  "lean": "centre-gauche",
+  "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPZ1ZOTkd6cndLeVlDb3MwOGtLLThkdzZLcVRQc3NuX2NOem0wTVRiQlI4RFU0ck5lY2g0RWxrX3VkV2lldGhJN1FaaDA5OWl5cTdYbGYyZnV5RnU4ZkVKNHBFX0kzSTJiS1NTRG9lbm9iYk9oOFgydTJleG9FQVNGTkJKdXBpeXN4eHNJaVNrcEZOUmJVZWZORmc3bm53TnRudUVWcmRmNHRyb3lzSElOaVpDQjU3RTlmSlFIbzRLRFYweE9zN0ktaFBwUFdJU2tuQUFYZTdLc2ladGstWXFrakJhS0N6Vkx3NHQ3LU5HdkEyWEZqNnRtZEJOel8?oc=5",
+  "title": "Gabriel Attal appelle à un référendum sur l’interdiction des réseaux sociaux aux moins de 15 ans",
+  "summary": "",
+  "published": "2026-08-16T09:00+02:00",
+  "mentions": [
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "a66a777985a58f9a",
@@ -32,15 +50,13 @@
   "mentions": []
  },
  {
-  "id": "6ad1b546c4c3ae69",
-  "outlet": "Libération",
-  "lean": "centre-gauche",
-  "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPZ1ZOTkd6cndLeVlDb3MwOGtLLThkdzZLcVRQc3NuX2NOem0wTVRiQlI4RFU0ck5lY2g0RWxrX3VkV2lldGhJN1FaaDA5OWl5cTdYbGYyZnV5RnU4ZkVKNHBFX0kzSTJiS1NTRG9lbm9iYk9oOFgydTJleG9FQVNGTkJKdXBpeXN4eHNJaVNrcEZOUmJVZWZORmc3bm53TnRudUVWcmRmNHRyb3lzSElOaVpDQjU3RTlmSlFIbzRLRFYweE9zN0ktaFBwUFdJU2tuQUFYZTdLc2ladGstWXFrakJhS0N6Vkx3NHQ3LU5HdkEyWEZqNnRtZEJOel8?oc=5",
-  "title": "Gabriel Attal appelle à un référendum sur l’interdiction des réseaux sociaux aux moins de 15 ans",
+  "id": "e6ef9ddcd8c48fdc",
+  "outlet": "20 Minutes",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdWNTT0s0MlFJal9YT2FfY3QxTVduLUdZNU55RnhfOXhTcVdDQ3drV3k5MlNKWXZLa3JPaFVSZ2NJcFNfYzc2VGE1OEhSUm9UZUtZSFV0eU9GVmJYbUpQQ3E2VE8wd1k2Q3NOZ01EczBRT2tUclRnWFhVd21lVENzMXJjOWlENDBJWGs2dlBXYkRzc1NlOTBvNHR1ZmlISHFOTl9POEo1a3YzT1VqQUNkMl81N2pSa3RTZDYw?oc=5",
+  "title": "Éric Ciotti « espère une évolution » du RN sur les retraites",
   "summary": "",
   "published": "2026-08-16T09:00+02:00",
-  "mentions": [
-   "attal"
-  ]
+  "mentions": []
  }
 ]

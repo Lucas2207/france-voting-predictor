@@ -9,7 +9,15 @@
   "published": "2026-10-21T00:04+02:00",
   "mentions": [
    "zemmour"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "zemmour",
+    "tone": -1,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "e39349c7058b81ee",
@@ -21,7 +29,15 @@
   "published": "2026-10-21T00:41+02:00",
   "mentions": [
    "zemmour"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "zemmour",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "d8f7901999bb5100",
@@ -34,55 +50,20 @@
   "mentions": [
    "lepen",
    "zemmour"
-  ]
- },
- {
-  "id": "41a71ee736708b3d",
-  "outlet": "Presse Agence",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYkZxSW1Dd2FKa2ttQWlmTUhuUHhaRnBJUFJkZGZSQk5HbklCVUZNMG1oNWhXVnZmaUlrckZJRWNEZzdHdFh4REJmSk5SM3pGd2dEcm9pR0lpb05kcVRWZ0dDOHpCbHZZRmdlSnNCdjFoNi1XS2NtdGFleDEtNklCNWxVbHVnZGw2bHFYdjk4d21ZVzFncE94UXQtS0kwaDZjSTZoMDJmdWs3emVFbnU1MHdRMVJtTHE3?oc=5",
-  "title": "Gabriel Attal en visite à La Grande-Motte dans l'Hérault",
-  "summary": "",
-  "published": "2026-10-21T02:00+02:00",
-  "mentions": [
-   "attal"
-  ]
- },
- {
-  "id": "113cb65f504006d6",
-  "outlet": "Presse Agence",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVXhNYzdFY0pQbHI5QmttN0VOeEhZcWNncXRiVEdYSnJ5eGxwUE5Sa096aVh1bm96T3RCVko5Zk1VWVJSY3c3NnZSTVRfa2tjTlJvYzhqS2Q0VHk0ZDZNTEhOQmllQXRyZDhuUkhjRk56LW56ZUx0TUZmaDBYOFp6SEdScVd0VHpCbVBIbUNvVHdmQlVMXzhGTEltX1ZCMjlrY2hwcHV1UHZSYk04TWFUUHlXVTR1cDg2RGxFUQ?oc=5",
-  "title": "Éric Zemmour en meeting de rentrée à Port-Marly",
-  "summary": "",
-  "published": "2026-10-21T02:00+02:00",
-  "mentions": [
-   "zemmour"
-  ]
- },
- {
-  "id": "20e8db26fb85ef79",
-  "outlet": "Presse Agence",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQX0NQbXBiRmF0Y0Q0b0htS01DN3VCQ2hfZHdZZFF4eC1sMm9vekdmc2ZjVzNaZWRNb2pfWTktdjFZN1dOVDY3M0FXZHJsR3NDVDBjMVdHMnU3OGxKeWhoS1p1RlpCeWxSVjE5bVZWNGs1ZE9mQmh5ejNkeS11enJBcUJtUWJnUTFMR041SGZXZUF3SHQ0S1VtN3BVX3d4RU9tNXF3SnU5OXozb3NBbDZobXFwd1NGS28?oc=5",
-  "title": "Reconquête : Éric Zemmour prépare 2027 avec ses donateurs",
-  "summary": "",
-  "published": "2026-10-21T02:00+02:00",
-  "mentions": [
-   "zemmour"
-  ]
- },
- {
-  "id": "4f6f9b99cb5d67fb",
-  "outlet": "Presse Agence",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdmF2ZmZRZHZwZnU4LU4yYkw3MlRKQ0puaEg4V3puVmRTdTRvZkE4RklLaURpNWZSV21DZ040Q25FMEhJQVZ3TGMxUVUzUF9EMEYtcEVESjlOZFJqWWtBc3FNWjc4dkpCVXQzc0pvTERWaGoybDVLM2k3ZGNOTlE2MmNVanR4Nk9tbVJxam1FZ1pQZw?oc=5",
-  "title": "Éric Zemmour : son plan face aux émeutes divise et rassemble",
-  "summary": "",
-  "published": "2026-10-21T02:00+02:00",
-  "mentions": [
-   "zemmour"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "zemmour",
+    "tone": 0,
+    "frame": "programme"
+   },
+   {
+    "id": "lepen",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "06d3fa3b17efeec5",
@@ -94,7 +75,89 @@
   "published": "2026-10-21T02:00+02:00",
   "mentions": [
    "zemmour"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "zemmour",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "113cb65f504006d6",
+  "outlet": "Presse Agence",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVXhNYzdFY0pQbHI5QmttN0VOeEhZcWNncXRiVEdYSnJ5eGxwUE5Sa096aVh1bm96T3RCVko5Zk1VWVJSY3c3NnZSTVRfa2tjTlJvYzhqS2Q0VHk0ZDZNTEhOQmllQXRyZDhuUkhjRk56LW56ZUx0TUZmaDBYOFp6SEdScVd0VHpCbVBIbUNvVHdmQlVMXzhGTEltX1ZCMjlrY2hwcHV1UHZSYk04TWFUUHlXVTR1cDg2RGxFUQ?oc=5",
+  "title": "Éric Zemmour en meeting de rentrée à Port-Marly",
+  "summary": "",
+  "published": "2026-10-21T02:00+02:00",
+  "mentions": [
+   "zemmour"
+  ],
+  "analysis": [
+   {
+    "id": "zemmour",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "20e8db26fb85ef79",
+  "outlet": "Presse Agence",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQX0NQbXBiRmF0Y0Q0b0htS01DN3VCQ2hfZHdZZFF4eC1sMm9vekdmc2ZjVzNaZWRNb2pfWTktdjFZN1dOVDY3M0FXZHJsR3NDVDBjMVdHMnU3OGxKeWhoS1p1RlpCeWxSVjE5bVZWNGs1ZE9mQmh5ejNkeS11enJBcUJtUWJnUTFMR041SGZXZUF3SHQ0S1VtN3BVX3d4RU9tNXF3SnU5OXozb3NBbDZobXFwd1NGS28?oc=5",
+  "title": "Reconquête : Éric Zemmour prépare 2027 avec ses donateurs",
+  "summary": "",
+  "published": "2026-10-21T02:00+02:00",
+  "mentions": [
+   "zemmour"
+  ],
+  "analysis": [
+   {
+    "id": "zemmour",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "41a71ee736708b3d",
+  "outlet": "Presse Agence",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYkZxSW1Dd2FKa2ttQWlmTUhuUHhaRnBJUFJkZGZSQk5HbklCVUZNMG1oNWhXVnZmaUlrckZJRWNEZzdHdFh4REJmSk5SM3pGd2dEcm9pR0lpb05kcVRWZ0dDOHpCbHZZRmdlSnNCdjFoNi1XS2NtdGFleDEtNklCNWxVbHVnZGw2bHFYdjk4d21ZVzFncE94UXQtS0kwaDZjSTZoMDJmdWs3emVFbnU1MHdRMVJtTHE3?oc=5",
+  "title": "Gabriel Attal en visite à La Grande-Motte dans l'Hérault",
+  "summary": "",
+  "published": "2026-10-21T02:00+02:00",
+  "mentions": [
+   "attal"
+  ],
+  "analysis": [],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "4f6f9b99cb5d67fb",
+  "outlet": "Presse Agence",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdmF2ZmZRZHZwZnU4LU4yYkw3MlRKQ0puaEg4V3puVmRTdTRvZkE4RklLaURpNWZSV21DZ040Q25FMEhJQVZ3TGMxUVUzUF9EMEYtcEVESjlOZFJqWWtBc3FNWjc4dkpCVXQzc0pvTERWaGoybDVLM2k3ZGNOTlE2MmNVanR4Nk9tbVJxam1FZ1pQZw?oc=5",
+  "title": "Éric Zemmour : son plan face aux émeutes divise et rassemble",
+  "summary": "",
+  "published": "2026-10-21T02:00+02:00",
+  "mentions": [
+   "zemmour"
+  ],
+  "analysis": [
+   {
+    "id": "zemmour",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "cf91e75a776348cd",
@@ -106,19 +169,15 @@
   "published": "2026-10-21T02:00+02:00",
   "mentions": [
    "zemmour"
-  ]
- },
- {
-  "id": "e3b6e6957950abbd",
-  "outlet": "Orange Actualités",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPb0lfMlRjcWdsWkpQMDJONEJTa0hxXzNXeEc5ZnRuNzdFTXloNUdaWTN4Z2N2ekJjX0UxZi02WFIzWGZlaFZwWks1aFRvS2dZZi1RaEl5WXkzbGtjWUFQc01mWmduTFdSN2VHdVQ2ZjBvdnRleVI3cjNHbS15T0JrNEFxeS13RDc0eGx5RXBYdlFLS3N2bDJMRzhTQW1KWFk3M0xzN2dSSlU4RlJVLWJYbmYzcVY0Z0QxMDA5QnJJZUNkNnVCQmlObk5PSklDLThpZjNZREwyNS1nS1k1NF9XMjZOR281T1BPeFZqREE3YmlnOVBoVjRGeF9GWncyRFc0RzRFOFZyRFJmOGc5b3c?oc=5",
-  "title": "Nantes: pour Denis Cieslik, membre des amis d'Éric Zemmour, la présence des manifestants est \"un non-événement politique\"",
-  "summary": "",
-  "published": "2026-10-21T02:02+02:00",
-  "mentions": [
-   "zemmour"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "zemmour",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "8345111b419e1abe",
@@ -130,7 +189,35 @@
   "published": "2026-10-21T02:02+02:00",
   "mentions": [
    "zemmour"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "zemmour",
+    "tone": -1,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "e3b6e6957950abbd",
+  "outlet": "Orange Actualités",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPb0lfMlRjcWdsWkpQMDJONEJTa0hxXzNXeEc5ZnRuNzdFTXloNUdaWTN4Z2N2ekJjX0UxZi02WFIzWGZlaFZwWks1aFRvS2dZZi1RaEl5WXkzbGtjWUFQc01mWmduTFdSN2VHdVQ2ZjBvdnRleVI3cjNHbS15T0JrNEFxeS13RDc0eGx5RXBYdlFLS3N2bDJMRzhTQW1KWFk3M0xzN2dSSlU4RlJVLWJYbmYzcVY0Z0QxMDA5QnJJZUNkNnVCQmlObk5PSklDLThpZjNZREwyNS1nS1k1NF9XMjZOR281T1BPeFZqREE3YmlnOVBoVjRGeF9GWncyRFc0RzRFOFZyRFJmOGc5b3c?oc=5",
+  "title": "Nantes: pour Denis Cieslik, membre des amis d'Éric Zemmour, la présence des manifestants est \"un non-événement politique\"",
+  "summary": "",
+  "published": "2026-10-21T02:02+02:00",
+  "mentions": [
+   "zemmour"
+  ],
+  "analysis": [
+   {
+    "id": "zemmour",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "b0055aba940031e1",
@@ -143,7 +230,20 @@
   "mentions": [
    "melenchon",
    "zemmour"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "zemmour",
+    "tone": 0,
+    "frame": "programme"
+   },
+   {
+    "id": "melenchon",
+    "tone": -1,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "3b527893e9506c26",
@@ -155,7 +255,15 @@
   "published": "2026-10-21T03:56+02:00",
   "mentions": [
    "melenchon"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": -1,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "fb2aaad185952717",
@@ -167,7 +275,15 @@
   "published": "2026-10-21T03:58+02:00",
   "mentions": [
    "ruffin"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "ruffin",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "3c6997a7ecab9b29",
@@ -179,7 +295,15 @@
   "published": "2026-10-21T04:08+02:00",
   "mentions": [
    "zemmour"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "zemmour",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "2609c5b82dd55b9b",
@@ -191,7 +315,15 @@
   "published": "2026-10-21T04:13+02:00",
   "mentions": [
    "ruffin"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "ruffin",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "aef04d9e45388bfd",
@@ -203,7 +335,15 @@
   "published": "2026-10-21T04:30+02:00",
   "mentions": [
    "zemmour"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "zemmour",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "9bd0e9cc144e4616",
@@ -215,7 +355,15 @@
   "published": "2026-10-21T04:33+02:00",
   "mentions": [
    "zemmour"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "zemmour",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "c4bee42eba54034c",
@@ -227,7 +375,15 @@
   "published": "2026-10-21T04:38+02:00",
   "mentions": [
    "roussel"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "roussel",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "309e625ee9361351",
@@ -239,7 +395,15 @@
   "published": "2026-10-21T04:43+02:00",
   "mentions": [
    "zemmour"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "zemmour",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "8eaae9a4b7fee521",
@@ -251,7 +415,15 @@
   "published": "2026-10-21T05:42+02:00",
   "mentions": [
    "zemmour"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "zemmour",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "34b063408d4b9c24",
@@ -263,7 +435,15 @@
   "published": "2026-10-21T05:45+02:00",
   "mentions": [
    "lepen"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "3cc5c691174cb20c",
@@ -275,7 +455,15 @@
   "published": "2026-10-21T06:00+02:00",
   "mentions": [
    "retailleau"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "d915e7d1c6368228",
@@ -287,7 +475,15 @@
   "published": "2026-10-21T06:00+02:00",
   "mentions": [
    "lisnard"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "lisnard",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "0448ee9103a9e0e7",
@@ -299,7 +495,15 @@
   "published": "2026-10-21T06:22+02:00",
   "mentions": [
    "roussel"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "roussel",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "ecd041442a57985b",
@@ -311,7 +515,15 @@
   "published": "2026-10-21T06:29+02:00",
   "mentions": [
    "melenchon"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": -1,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "b2dc11eeef4513b6",
@@ -323,7 +535,15 @@
   "published": "2026-10-21T06:49+02:00",
   "mentions": [
    "lepen"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "dd9b65962969eb14",
@@ -335,7 +555,15 @@
   "published": "2026-10-21T06:54+02:00",
   "mentions": [
    "roussel"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "roussel",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "ccd73b74129fc9b1",
@@ -347,7 +575,15 @@
   "published": "2026-10-21T06:57+02:00",
   "mentions": [
    "lisnard"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "lisnard",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "771ecb10746a1aa3",
@@ -360,7 +596,20 @@
   "mentions": [
    "lepen",
    "zemmour"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": -1,
+    "frame": "polemique"
+   },
+   {
+    "id": "zemmour",
+    "tone": 0,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "09e61316575f21ba",
@@ -372,7 +621,15 @@
   "published": "2026-10-21T07:04+02:00",
   "mentions": [
    "melenchon"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": -1,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "bc9daf844451d808",
@@ -384,7 +641,15 @@
   "published": "2026-10-21T07:04+02:00",
   "mentions": [
    "melenchon"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": -1,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "55330ba0bfde792c",
@@ -396,7 +661,15 @@
   "published": "2026-10-21T07:26+02:00",
   "mentions": [
    "melenchon"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "1fe73a336b8288ee",
@@ -408,7 +681,15 @@
   "published": "2026-10-21T07:29+02:00",
   "mentions": [
    "zemmour"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "zemmour",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "06bad812a2375b97",
@@ -420,7 +701,15 @@
   "published": "2026-10-21T07:39+02:00",
   "mentions": [
    "melenchon"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": -1,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "e5e7b6cd1bfeb630",
@@ -432,7 +721,15 @@
   "published": "2026-10-21T07:39+02:00",
   "mentions": [
    "lisnard"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "lisnard",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "536b5ad3b1a3fdca",
@@ -444,7 +741,15 @@
   "published": "2026-10-21T07:42+02:00",
   "mentions": [
    "melenchon"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": 0,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "8f1e965e108efd08",
@@ -456,7 +761,35 @@
   "published": "2026-10-21T07:52+02:00",
   "mentions": [
    "melenchon"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "a6ec83d9b1bfdcfc",
+  "outlet": "Franc-Tireur",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ldzF2dVZpZjlhVXhMSnNNSWgxNkFsVUFfeU5uSDExVWRoOXEtbTdGSXJyT3hhWHVEdUF3ZkxYQjZRNFBGbkVQeWdxdjZrcWFUTEFmRTIyMUdXSDVLNFktc3h1X0F1dDc3RHc2S3F3?oc=5",
+  "title": "Knafo, Lisnard : il se passe... un truc",
+  "summary": "",
+  "published": "2026-10-21T08:00+02:00",
+  "mentions": [
+   "lisnard"
+  ],
+  "analysis": [
+   {
+    "id": "lisnard",
+    "tone": 0,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "f3303101f2dd20b1",
@@ -469,18 +802,6 @@
   "mentions": []
  },
  {
-  "id": "a6ec83d9b1bfdcfc",
-  "outlet": "Franc-Tireur",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ldzF2dVZpZjlhVXhMSnNNSWgxNkFsVUFfeU5uSDExVWRoOXEtbTdGSXJyT3hhWHVEdUF3ZkxYQjZRNFBGbkVQeWdxdjZrcWFUTEFmRTIyMUdXSDVLNFktc3h1X0F1dDc3RHc2S3F3?oc=5",
-  "title": "Knafo, Lisnard : il se passe... un truc",
-  "summary": "",
-  "published": "2026-10-21T08:00+02:00",
-  "mentions": [
-   "lisnard"
-  ]
- },
- {
   "id": "6660fc0d49c91f40",
   "outlet": "Contexte",
   "lean": "non classé",
@@ -490,19 +811,15 @@
   "published": "2026-10-21T08:05+02:00",
   "mentions": [
    "philippe"
-  ]
- },
- {
-  "id": "fa27bdc6d4da7857",
-  "outlet": "Le Diplomate",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE40NktROEluX1dIQ3pnS1BoMTRLZ2pwclV2ZkdjVGwyTTNGNXRReEZBdmdvRl9sV3N2ZjhxSTNEYlBlUEMwbk9sOGk0Z0FwY0ZqbjVFZGV6SjkyU255OUV0eTg1UTYzX09tSWtxUFluaVQta0xpYlk2aXNvbmU4akk?oc=5",
-  "title": "ANALYSE – David Lisnard, la tronçonneuse en chemise cintrée : Le pari Milei de la droite française",
-  "summary": "",
-  "published": "2026-10-21T08:05+02:00",
-  "mentions": [
-   "lisnard"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "6847b98cf485b065",
@@ -514,7 +831,35 @@
   "published": "2026-10-21T08:05+02:00",
   "mentions": [
    "lepen"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "fa27bdc6d4da7857",
+  "outlet": "Le Diplomate",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE40NktROEluX1dIQ3pnS1BoMTRLZ2pwclV2ZkdjVGwyTTNGNXRReEZBdmdvRl9sV3N2ZjhxSTNEYlBlUEMwbk9sOGk0Z0FwY0ZqbjVFZGV6SjkyU255OUV0eTg1UTYzX09tSWtxUFluaVQta0xpYlk2aXNvbmU4akk?oc=5",
+  "title": "ANALYSE – David Lisnard, la tronçonneuse en chemise cintrée : Le pari Milei de la droite française",
+  "summary": "",
+  "published": "2026-10-21T08:05+02:00",
+  "mentions": [
+   "lisnard"
+  ],
+  "analysis": [
+   {
+    "id": "lisnard",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "3d100362795e4781",
@@ -526,7 +871,15 @@
   "published": "2026-10-21T08:06+02:00",
   "mentions": [
    "melenchon"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": 0,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "2a5cf0dcf6649435",
@@ -539,7 +892,20 @@
   "mentions": [
    "lepen",
    "melenchon"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": 0,
+    "frame": "programme"
+   },
+   {
+    "id": "melenchon",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "271240051bbe1faa",
@@ -551,7 +917,15 @@
   "published": "2026-10-21T08:17+02:00",
   "mentions": [
    "zemmour"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "zemmour",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "51745df65e638873",
@@ -573,7 +947,15 @@
   "published": "2026-10-21T08:41+02:00",
   "mentions": [
    "philippe"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "c06601b0ca6182ea",
@@ -585,7 +967,15 @@
   "published": "2026-10-21T08:45+02:00",
   "mentions": [
    "lisnard"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "lisnard",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "39202f5ec331d4b9",
@@ -597,68 +987,15 @@
   "published": "2026-10-21T08:54+02:00",
   "mentions": [
    "lisnard"
-  ]
- },
- {
-  "id": "a3112e6d60cc18ed",
-  "outlet": "Frontières",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQk1fa25UbjRNbTRnQUdlNXJnbWh6ZFhjZGRzcVp1bEpJdDhzMzVfaVJ0MU1uXzg3VU1IcE5XcE1fZGRlcnVzQjBCakt6Mkd0RnRJNDd5dldHaFV0YUhDem51TDBpcDk1OUZpeW16MXRRV3B2Q0UybVZHLTNBZ2RINmx5TWxVeEZaYThBT1dDS0ZKRXhEaE00bWc1dFY3ZHo4WVNHUTZVMUNZdUxjeDlDRjR2d2ttNGwyUnAzR3kzb3lndmprNmloSUtJZjQ3Q3M?oc=5",
-  "title": "Gabriel Attal presse Emmanuel Macron de « partager le pouvoir » face à la crise politique",
-  "summary": "",
-  "published": "2026-10-21T09:00+02:00",
-  "mentions": [
-   "attal"
-  ]
- },
- {
-  "id": "4ea55c83752eb698",
-  "outlet": "franceinfo",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYkNLS09NSGx2ZkxSZlR0RFVaRUtfT1d5b0NCVHRrZUJWMkI0eG44eFZqbEEwXzBpTmZzZTB3ZWZBalF6UWQ5YW95NWtiODc2dmFRT0JsS2MyTDlOcERXTTdwRWNsaFhhelJsVDhWWkhkejMtRlVid3RLVk04U1h1V1lpVGtkNVY0TlVya0ZVYXBGWUZKWGN1MkszTzBJMzFSbEdUd2JYeWtYVjlMRFU2Si1meEg?oc=5",
-  "title": "Marine Le Pen a-t-elle déjà gagné la présidentielle ?",
-  "summary": "",
-  "published": "2026-10-21T09:00+02:00",
-  "mentions": [
-   "lepen"
-  ]
- },
- {
-  "id": "fec039af762a2614",
-  "outlet": "franceinfo",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPR3RhUnpNenM5OEE0Z2dYMFZua0hldHlUOWE5cG9pZ3RzaUl1SzJNZVFrNTlIMkVMaGo2RnlOT2RXeVZmM0lHQnNERndaRkdsYm81aWJJZ3BhenlfeU95bG5ZQmludkwzVGx0M2NKZjBtNl90SkVQemxYQ2c1blNQcnFTV0FsQmhVaVhuX3V0U0d0LVA5T0lFSVJzV0xDUEhBeDRFZW15Y0U4dXhTTnk2cWZxd21CUWJqMlE3d0JWVGVlZXVXSmFMLThnUQ?oc=5",
-  "title": "\"Le gouvernement a perdu la maîtrise de tout\", dénonce Marine Le Pen qui plaide pour faire payer les casseurs, \"à vie s'il le faut\" après les violences du 17 octobre",
-  "summary": "",
-  "published": "2026-10-21T09:00+02:00",
-  "mentions": [
-   "lepen"
-  ]
- },
- {
-  "id": "45cda2066a866fc6",
-  "outlet": "Le Parisien",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPSGV2aE9sa051Q000UWs4WXhsVjRvM2RQaEVZUmlKM2V3ZjRxTXFsWkNuQ3VzaFp4SzNibnVvSlFINzFoLVBpX0U3Qkl4d0w5TmRRLS1KbUt4NDIwUnRSV1A4UE9ZbnhZdml1UlR3Y1JYSW04cjRUcWttQXVEeDUtQ2lscjhBa2xSVEpKSHV0Wk5HTVBlM3k1bGRJMkRPZFdoZEVaU2V0YUQyNTdoSmRzY0NmU2JhUk1XRmg4VVM0RlBvb0dqbS1mTnF0Q3JibmVqd3A4U2Q2THRPVVNxV2dBMEFVWm8zdUgyYUZSV0lSTlBjcExEZlBXQW1lbEZha0FEazJEUFh3Rm9iOWZTVFRQRGdjd2RNN2NveUJUQmQ1OTNLS1VydU9IaVNEOWJReDQ?oc=5",
-  "title": "Présidentielle 2027 : David Lisnard et Bruno Retailleau ont discuté « d’une solution pour avoir une candidature unique",
-  "summary": "",
-  "published": "2026-10-21T09:00+02:00",
-  "mentions": [
-   "retailleau",
-   "lisnard"
-  ]
- },
- {
-  "id": "1ef2c67001ac5bfe",
-  "outlet": "Capital.fr",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNbWxPTFhIWmRzdWI1MW1CY1lRYVBKM3hVcml0aEFXR3pwWlBlakhwdnZPS0cwcVdVYXlHQW5UZjRGc0ZTU2tEeFQ3bEVzNHlnOUw4d1lpbE1JaXZnb2NnbENRMHlZanJHYmlSTTBIUEJSbW83SkUyX3pvbDRKa0RKaFI4bXoxVElwZkYtVmlUX2VOMVlmZmkxS0NFT1hBeElEd0lDa1ZtSlRqTzZZZmxYTzZwbXFlc1UzRlh0bENFSnVxRFZETHkyYlRiVWEyNXJBM3lRR0I4ZTVHTjQyWm5mVkFyOFJFREE3Snkzb0FpbjJ3ZzdoMVQ3Xw?oc=5",
-  "title": "Dans une lettre, Édouard Philippe dit où il fera la moitié des économies, les autres candidats restent muets",
-  "summary": "",
-  "published": "2026-10-21T09:00+02:00",
-  "mentions": [
-   "philippe"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "lisnard",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "0ca9d9dab1f818c7",
@@ -674,6 +1011,84 @@
   ]
  },
  {
+  "id": "1ef2c67001ac5bfe",
+  "outlet": "Capital.fr",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNbWxPTFhIWmRzdWI1MW1CY1lRYVBKM3hVcml0aEFXR3pwWlBlakhwdnZPS0cwcVdVYXlHQW5UZjRGc0ZTU2tEeFQ3bEVzNHlnOUw4d1lpbE1JaXZnb2NnbENRMHlZanJHYmlSTTBIUEJSbW83SkUyX3pvbDRKa0RKaFI4bXoxVElwZkYtVmlUX2VOMVlmZmkxS0NFT1hBeElEd0lDa1ZtSlRqTzZZZmxYTzZwbXFlc1UzRlh0bENFSnVxRFZETHkyYlRiVWEyNXJBM3lRR0I4ZTVHTjQyWm5mVkFyOFJFREE3Snkzb0FpbjJ3ZzdoMVQ3Xw?oc=5",
+  "title": "Dans une lettre, Édouard Philippe dit où il fera la moitié des économies, les autres candidats restent muets",
+  "summary": "",
+  "published": "2026-10-21T09:00+02:00",
+  "mentions": [
+   "philippe"
+  ]
+ },
+ {
+  "id": "45cda2066a866fc6",
+  "outlet": "Le Parisien",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPSGV2aE9sa051Q000UWs4WXhsVjRvM2RQaEVZUmlKM2V3ZjRxTXFsWkNuQ3VzaFp4SzNibnVvSlFINzFoLVBpX0U3Qkl4d0w5TmRRLS1KbUt4NDIwUnRSV1A4UE9ZbnhZdml1UlR3Y1JYSW04cjRUcWttQXVEeDUtQ2lscjhBa2xSVEpKSHV0Wk5HTVBlM3k1bGRJMkRPZFdoZEVaU2V0YUQyNTdoSmRzY0NmU2JhUk1XRmg4VVM0RlBvb0dqbS1mTnF0Q3JibmVqd3A4U2Q2THRPVVNxV2dBMEFVWm8zdUgyYUZSV0lSTlBjcExEZlBXQW1lbEZha0FEazJEUFh3Rm9iOWZTVFRQRGdjd2RNN2NveUJUQmQ1OTNLS1VydU9IaVNEOWJReDQ?oc=5",
+  "title": "Présidentielle 2027 : David Lisnard et Bruno Retailleau ont discuté « d’une solution pour avoir une candidature unique",
+  "summary": "",
+  "published": "2026-10-21T09:00+02:00",
+  "mentions": [
+   "retailleau",
+   "lisnard"
+  ],
+  "analysis": [
+   {
+    "id": "lisnard",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   },
+   {
+    "id": "retailleau",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "4ea55c83752eb698",
+  "outlet": "franceinfo",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYkNLS09NSGx2ZkxSZlR0RFVaRUtfT1d5b0NCVHRrZUJWMkI0eG44eFZqbEEwXzBpTmZzZTB3ZWZBalF6UWQ5YW95NWtiODc2dmFRT0JsS2MyTDlOcERXTTdwRWNsaFhhelJsVDhWWkhkejMtRlVid3RLVk04U1h1V1lpVGtkNVY0TlVya0ZVYXBGWUZKWGN1MkszTzBJMzFSbEdUd2JYeWtYVjlMRFU2Si1meEg?oc=5",
+  "title": "Marine Le Pen a-t-elle déjà gagné la présidentielle ?",
+  "summary": "",
+  "published": "2026-10-21T09:00+02:00",
+  "mentions": [
+   "lepen"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "a3112e6d60cc18ed",
+  "outlet": "Frontières",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQk1fa25UbjRNbTRnQUdlNXJnbWh6ZFhjZGRzcVp1bEpJdDhzMzVfaVJ0MU1uXzg3VU1IcE5XcE1fZGRlcnVzQjBCakt6Mkd0RnRJNDd5dldHaFV0YUhDem51TDBpcDk1OUZpeW16MXRRV3B2Q0UybVZHLTNBZ2RINmx5TWxVeEZaYThBT1dDS0ZKRXhEaE00bWc1dFY3ZHo4WVNHUTZVMUNZdUxjeDlDRjR2d2ttNGwyUnAzR3kzb3lndmprNmloSUtJZjQ3Q3M?oc=5",
+  "title": "Gabriel Attal presse Emmanuel Macron de « partager le pouvoir » face à la crise politique",
+  "summary": "",
+  "published": "2026-10-21T09:00+02:00",
+  "mentions": [
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
   "id": "b96e47cfe4a22af7",
   "outlet": "Presse Agence",
   "lean": "non classé",
@@ -686,6 +1101,46 @@
   ]
  },
  {
+  "id": "e6d6f52914ebf7cd",
+  "outlet": "TF1+",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQR09WVDFNYUNBQ0Y1dFFLZjdXZzVaUnluUEM1VFJhUFRndlJyRm5VSTZ3ekZSVVhpSkk0U0dXcFFpX05lX2NKeEtsanF5dEJXdlo0MFNPbHMxbzdlV2MxbGUya0syTGxrLU1sTy0yeEdDSTBicDBIdmdsVW1WX0NUcXlSX3VXRFlTVmJmcXlVeVNlalE1ZTFQWGJpNnZHWkVMMHlPdU9oeTREMFcwTUVIa3phZEZueXFVQ0VXRDRVS2hsSnd5NEpwT1JPQi1CT0tEUF9YVG9BYnlrYTJCeDdVTg?oc=5",
+  "title": "L'interview de Sehla Bougriou du jeudi 22 octobre 2026 : Nicolas Dupont-Aignan",
+  "summary": "",
+  "published": "2026-10-21T09:00+02:00",
+  "mentions": [
+   "dupontaignan"
+  ],
+  "analysis": [
+   {
+    "id": "dupontaignan",
+    "tone": 0,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "fec039af762a2614",
+  "outlet": "franceinfo",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPR3RhUnpNenM5OEE0Z2dYMFZua0hldHlUOWE5cG9pZ3RzaUl1SzJNZVFrNTlIMkVMaGo2RnlOT2RXeVZmM0lHQnNERndaRkdsYm81aWJJZ3BhenlfeU95bG5ZQmludkwzVGx0M2NKZjBtNl90SkVQemxYQ2c1blNQcnFTV0FsQmhVaVhuX3V0U0d0LVA5T0lFSVJzV0xDUEhBeDRFZW15Y0U4dXhTTnk2cWZxd21CUWJqMlE3d0JWVGVlZXVXSmFMLThnUQ?oc=5",
+  "title": "\"Le gouvernement a perdu la maîtrise de tout\", dénonce Marine Le Pen qui plaide pour faire payer les casseurs, \"à vie s'il le faut\" après les violences du 17 octobre",
+  "summary": "",
+  "published": "2026-10-21T09:00+02:00",
+  "mentions": [
+   "lepen"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": 2,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
   "id": "eb0ea9836b584ada",
   "outlet": "franceinfo",
   "lean": "centre",
@@ -695,7 +1150,15 @@
   "published": "2026-10-21T09:11+02:00",
   "mentions": [
    "lepen"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": 1,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "618caf2fff8c1766",
@@ -717,7 +1180,15 @@
   "published": "2026-10-21T09:36+02:00",
   "mentions": [
    "melenchon"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "9e54d4fb2f81c0d0",
@@ -729,7 +1200,15 @@
   "published": "2026-10-21T09:39+02:00",
   "mentions": [
    "zemmour"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "zemmour",
+    "tone": -1,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "27990467a7faec35",
@@ -742,7 +1221,20 @@
   "mentions": [
    "melenchon",
    "ruffin"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "ruffin",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   },
+   {
+    "id": "melenchon",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "243d1b096e81c2ac",
@@ -754,7 +1246,15 @@
   "published": "2026-10-21T09:54+02:00",
   "mentions": [
    "melenchon"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": -1,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "3b3167066bd1a69d",
@@ -776,7 +1276,15 @@
   "published": "2026-10-21T10:00+02:00",
   "mentions": [
    "zemmour"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "zemmour",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "f9c3fb86050c5d1c",
@@ -788,7 +1296,15 @@
   "published": "2026-10-21T10:00+02:00",
   "mentions": [
    "lepen"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": 0,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "2feae79ad1abd634",
@@ -800,7 +1316,15 @@
   "published": "2026-10-21T10:13+02:00",
   "mentions": [
    "lisnard"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "lisnard",
+    "tone": -1,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "f8fd4c55aca21c41",
@@ -812,7 +1336,15 @@
   "published": "2026-10-21T10:29+02:00",
   "mentions": [
    "philippe"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "f3447092ba04da6e",
@@ -824,7 +1356,15 @@
   "published": "2026-10-21T10:31+02:00",
   "mentions": [
    "lepen"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": 0,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "aa1afa98ea90747c",
@@ -836,7 +1376,15 @@
   "published": "2026-10-21T10:32+02:00",
   "mentions": [
    "lisnard"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "lisnard",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "ac844cd01e04345f",
@@ -848,7 +1396,15 @@
   "published": "2026-10-21T10:50+02:00",
   "mentions": [
    "melenchon"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "bac63febd5c1048f",
@@ -860,7 +1416,15 @@
   "published": "2026-10-21T10:55+02:00",
   "mentions": [
    "melenchon"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "1a066d743d23aabf",
@@ -872,7 +1436,15 @@
   "published": "2026-10-21T10:59+02:00",
   "mentions": [
    "retailleau"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "26eb4dbcc6c4fa1e",
@@ -884,19 +1456,35 @@
   "published": "2026-10-21T11:07+02:00",
   "mentions": [
    "philippe"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": 0,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "d894e08206856262",
-  "outlet": "Le Figaro",
-  "lean": "droite",
-  "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQdmJJYmVaRHpvb2lQY2FDckthejEzQXcxTGI3bFNTUzRKNkFSd1doZDhMTi1QZGVHMGpqYUVmbXhleXk4YWZVbHNGa2ZRdzhfa0ItZkRJbVdDVVJ6amswTEY5Zzl1dUgxNUFMR1pYQmtZWEVyZW5uUndjU1pldTcwWGU1TUdRTldJb0g3Nl9DMFV6VV9MTDJkSGZ1SUdVdHItTElacGU1RDFUZFJsTGtBWXlMREhyaUExT0tGZGplQ0hEM0J6ZDRaU0ZadWpvc0t1cHBzMHByMV9WRms2NXQtdVk2NlRGQy1Vc1dla3hqTzU?oc=5",
-  "title": "Présidentielle 2027 : «Où on vit ?», s’insurge Marine Le Pen sur le risque de perturbation du congrès du RN",
+  "id": "7926604f1037b763",
+  "outlet": "Beur FM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE92TTBPcWhTV1Rleks1X3dCNnRWMTJaWmJtOEpVS1psZjBiMmdNbnUtVjhaVE00bzg0a2pNbS16NU42Z3djaWNTN0RNQlRJRGY1Tl9TSjcxNEE?oc=5",
+  "title": "Azzédine Taïbi réclame des excuses à David Lisnard pour ses propos sur le 17 octobre 1961",
   "summary": "",
   "published": "2026-10-21T11:08+02:00",
   "mentions": [
-   "lepen"
-  ]
+   "lisnard"
+  ],
+  "analysis": [
+   {
+    "id": "lisnard",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "92839b4b5ca2ad35",
@@ -909,19 +1497,40 @@
   "mentions": [
    "zemmour",
    "lisnard"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "zemmour",
+    "tone": -1,
+    "frame": "polemique"
+   },
+   {
+    "id": "lisnard",
+    "tone": -1,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "7926604f1037b763",
-  "outlet": "Beur FM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE92TTBPcWhTV1Rleks1X3dCNnRWMTJaWmJtOEpVS1psZjBiMmdNbnUtVjhaVE00bzg0a2pNbS16NU42Z3djaWNTN0RNQlRJRGY1Tl9TSjcxNEE?oc=5",
-  "title": "Azzédine Taïbi réclame des excuses à David Lisnard pour ses propos sur le 17 octobre 1961",
+  "id": "d894e08206856262",
+  "outlet": "Le Figaro",
+  "lean": "droite",
+  "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQdmJJYmVaRHpvb2lQY2FDckthejEzQXcxTGI3bFNTUzRKNkFSd1doZDhMTi1QZGVHMGpqYUVmbXhleXk4YWZVbHNGa2ZRdzhfa0ItZkRJbVdDVVJ6amswTEY5Zzl1dUgxNUFMR1pYQmtZWEVyZW5uUndjU1pldTcwWGU1TUdRTldJb0g3Nl9DMFV6VV9MTDJkSGZ1SUdVdHItTElacGU1RDFUZFJsTGtBWXlMREhyaUExT0tGZGplQ0hEM0J6ZDRaU0ZadWpvc0t1cHBzMHByMV9WRms2NXQtdVk2NlRGQy1Vc1dla3hqTzU?oc=5",
+  "title": "Présidentielle 2027 : «Où on vit ?», s’insurge Marine Le Pen sur le risque de perturbation du congrès du RN",
   "summary": "",
   "published": "2026-10-21T11:08+02:00",
   "mentions": [
-   "lisnard"
-  ]
+   "lepen"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": 0,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "11f74d34998924ee",
@@ -934,7 +1543,20 @@
   "mentions": [
    "retailleau",
    "lisnard"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   },
+   {
+    "id": "lisnard",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "63042521ba444b39",
@@ -948,19 +1570,20 @@
    "lepen",
    "retailleau",
    "lisnard"
-  ]
- },
- {
-  "id": "63cb8545b456e12c",
-  "outlet": "La République du Centre",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQS1WNHRYbVFyQ0N1OGJaS1VFOGxMQ0xCVDJ2VEE5YUdwX1IzTFBUOFpCVkpZZmxsZjkydnY0ZFBYVXd3X241UGRJN3JDRWpkU0xoRTBMN1h6UjN4QUtuQmJaZHMtNkxTSVVLSG5TZzhaTW5CVjVnUDl5ZHNRX3A4QUc2VjI1NklNME9yeGkwSUltb2ZzOGtyZHAwNXdra1Fzck1WVEl1T19JLXpzSDJTYUM2VUFiZGJNWE5VUjk5VW14VndyNGU0?oc=5",
-  "title": "Congrès du RN à Orléans : Marine Le Pen n’a “pas d’inquiétude” sur la sécurité",
-  "summary": "",
-  "published": "2026-10-21T11:31+02:00",
-  "mentions": [
-   "lepen"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": -1,
+    "frame": "polemique"
+   },
+   {
+    "id": "lisnard",
+    "tone": -1,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "40ce1527cad0382e",
@@ -972,7 +1595,35 @@
   "published": "2026-10-21T11:31+02:00",
   "mentions": [
    "zemmour"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "zemmour",
+    "tone": 0,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "63cb8545b456e12c",
+  "outlet": "La République du Centre",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQS1WNHRYbVFyQ0N1OGJaS1VFOGxMQ0xCVDJ2VEE5YUdwX1IzTFBUOFpCVkpZZmxsZjkydnY0ZFBYVXd3X241UGRJN3JDRWpkU0xoRTBMN1h6UjN4QUtuQmJaZHMtNkxTSVVLSG5TZzhaTW5CVjVnUDl5ZHNRX3A4QUc2VjI1NklNME9yeGkwSUltb2ZzOGtyZHAwNXdra1Fzck1WVEl1T19JLXpzSDJTYUM2VUFiZGJNWE5VUjk5VW14VndyNGU0?oc=5",
+  "title": "Congrès du RN à Orléans : Marine Le Pen n’a “pas d’inquiétude” sur la sécurité",
+  "summary": "",
+  "published": "2026-10-21T11:31+02:00",
+  "mentions": [
+   "lepen"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": 0,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "ab5b113ce7a8c3e4",
@@ -984,7 +1635,15 @@
   "published": "2026-10-21T11:32+02:00",
   "mentions": [
    "lepen"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": 0,
+    "frame": "sondage_dynamique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "d0a01ada972fc14b",
@@ -996,7 +1655,15 @@
   "published": "2026-10-21T11:39+02:00",
   "mentions": [
    "lisnard"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "lisnard",
+    "tone": -2,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "58f6a120768a95e0",
@@ -1008,7 +1675,15 @@
   "published": "2026-10-21T11:47+02:00",
   "mentions": [
    "lisnard"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "lisnard",
+    "tone": -1,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "654f385745ef55ea",
@@ -1021,7 +1696,20 @@
   "mentions": [
    "retailleau",
    "lisnard"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": -1,
+    "frame": "programme"
+   },
+   {
+    "id": "lisnard",
+    "tone": -1,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "28ebf29c9fcb4291",
@@ -1033,7 +1721,15 @@
   "published": "2026-10-21T11:55+02:00",
   "mentions": [
    "philippe"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "e93422edccc42585",
@@ -1045,7 +1741,15 @@
   "published": "2026-10-21T11:56+02:00",
   "mentions": [
    "philippe"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": -1,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "856fb0c0c0bdf05c",
@@ -1067,7 +1771,15 @@
   "published": "2026-10-21T11:59+02:00",
   "mentions": [
    "lisnard"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "lisnard",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "1c344b5cf31e80c4",
@@ -1079,7 +1791,15 @@
   "published": "2026-10-21T12:00+02:00",
   "mentions": [
    "melenchon"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": -1,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "8fc86abf298e6a9e",
@@ -1091,7 +1811,15 @@
   "published": "2026-10-21T12:00+02:00",
   "mentions": [
    "arthaud"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "arthaud",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "6d6c4571dc64db3f",
@@ -1103,7 +1831,15 @@
   "published": "2026-10-21T12:10+02:00",
   "mentions": [
    "attal"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": -1,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "92a0e81f1cb10701",
@@ -1115,7 +1851,15 @@
   "published": "2026-10-21T12:21+02:00",
   "mentions": [
    "glucksmann"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": -2,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "8b56c53a82338365",
@@ -1127,19 +1871,9 @@
   "published": "2026-10-21T12:39+02:00",
   "mentions": [
    "glucksmann"
-  ]
- },
- {
-  "id": "c5d5fd8d24f17329",
-  "outlet": "Le Moniteur des pharmacies",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxObXVRcjJaUGRyd1VrdWM5M2ZTR2F3UTk2T2RIQTFUS00xeUNRZFdDSWdCVkRqalJYRTFEMzhnTUpiaURpYUFOZUY4MUZuaDQ3NkVjMkJodGxRRU53Mm91SENndG1la05oSHlfQ0tndjJjTDd5Ty1kRDBFSWpnQjRzM2dxQnVfVVpENFdJV01rcERpQ2FRRE0zYVl4dlJFTlRqUUhVdFUxdlIwU011VHpYYnoxWUJWM0EwaVFneERjN0dlNndXV0pIQ1RFVVY0Qm9SdDBFOFJOcXJyV3lxZ0dn?oc=5",
-  "title": "Présidentielle 2027 : ce qu’Édouard Philippe prévoit pour la santé et l’officine",
-  "summary": "",
-  "published": "2026-10-21T12:45+02:00",
-  "mentions": [
-   "philippe"
-  ]
+  ],
+  "analysis": [],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "093d0e6b221bab61",
@@ -1153,7 +1887,40 @@
    "lepen",
    "retailleau",
    "lisnard"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": -1,
+    "frame": "programme"
+   },
+   {
+    "id": "lisnard",
+    "tone": -1,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "c5d5fd8d24f17329",
+  "outlet": "Le Moniteur des pharmacies",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxObXVRcjJaUGRyd1VrdWM5M2ZTR2F3UTk2T2RIQTFUS00xeUNRZFdDSWdCVkRqalJYRTFEMzhnTUpiaURpYUFOZUY4MUZuaDQ3NkVjMkJodGxRRU53Mm91SENndG1la05oSHlfQ0tndjJjTDd5Ty1kRDBFSWpnQjRzM2dxQnVfVVpENFdJV01rcERpQ2FRRE0zYVl4dlJFTlRqUUhVdFUxdlIwU011VHpYYnoxWUJWM0EwaVFneERjN0dlNndXV0pIQ1RFVVY0Qm9SdDBFOFJOcXJyV3lxZ0dn?oc=5",
+  "title": "Présidentielle 2027 : ce qu’Édouard Philippe prévoit pour la santé et l’officine",
+  "summary": "",
+  "published": "2026-10-21T12:45+02:00",
+  "mentions": [
+   "philippe"
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "162e0947e8707da2",
@@ -1175,7 +1942,15 @@
   "published": "2026-10-21T13:00+02:00",
   "mentions": [
    "attal"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "7008d84049255aed",
@@ -1188,7 +1963,20 @@
   "mentions": [
    "retailleau",
    "lisnard"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": -1,
+    "frame": "programme"
+   },
+   {
+    "id": "lisnard",
+    "tone": -1,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "885ca3b456510225",
@@ -1211,7 +1999,20 @@
   "mentions": [
    "melenchon",
    "glucksmann"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": 0,
+    "frame": "programme"
+   },
+   {
+    "id": "glucksmann",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "65cc5b88bb7276da",
@@ -1223,7 +2024,15 @@
   "published": "2026-10-21T13:51+02:00",
   "mentions": [
    "attal"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "0ac9846e66a6a20f",
@@ -1235,7 +2044,15 @@
   "published": "2026-10-21T14:00+02:00",
   "mentions": [
    "glucksmann"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "9bdd40724de0ac19",
@@ -1257,7 +2074,15 @@
   "published": "2026-10-21T14:29+02:00",
   "mentions": [
    "melenchon"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": -2,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "ecf59f0ff4d258f4",
@@ -1269,7 +2094,15 @@
   "published": "2026-10-21T14:41+02:00",
   "mentions": [
    "zemmour"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "zemmour",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "3eee3f472be73c9c",
@@ -1282,7 +2115,20 @@
   "mentions": [
    "melenchon",
    "zemmour"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": 0,
+    "frame": "programme"
+   },
+   {
+    "id": "zemmour",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "564787dc639fe4ca",
@@ -1295,7 +2141,20 @@
   "mentions": [
    "retailleau",
    "lisnard"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": -1,
+    "frame": "programme"
+   },
+   {
+    "id": "lisnard",
+    "tone": -1,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "e19f120e06a3558d",
@@ -1307,7 +2166,15 @@
   "published": "2026-10-21T14:49+02:00",
   "mentions": [
    "zemmour"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "zemmour",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "bd2388fff5401408",
@@ -1319,7 +2186,15 @@
   "published": "2026-10-21T14:55+02:00",
   "mentions": [
    "zemmour"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "zemmour",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "141309cfd447cf6a",
@@ -1331,7 +2206,9 @@
   "published": "2026-10-21T15:00+02:00",
   "mentions": [
    "arthaud"
-  ]
+  ],
+  "analysis": [],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "fa2f70f8f54805ac",
@@ -1343,7 +2220,15 @@
   "published": "2026-10-21T15:02+02:00",
   "mentions": [
    "zemmour"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "zemmour",
+    "tone": 2,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "1d7320dbd7127dc9",
@@ -1356,7 +2241,15 @@
   "mentions": [
    "lepen",
    "zemmour"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "zemmour",
+    "tone": 0,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "393d8107b6d97880",
@@ -1368,7 +2261,15 @@
   "published": "2026-10-21T15:07+02:00",
   "mentions": [
    "retailleau"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "6f67eb442af2b3b2",
@@ -1390,7 +2291,15 @@
   "published": "2026-10-21T15:15+02:00",
   "mentions": [
    "melenchon"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": -1,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "396609675345fde6",
@@ -1412,19 +2321,15 @@
   "published": "2026-10-21T15:27+02:00",
   "mentions": [
    "philippe"
-  ]
- },
- {
-  "id": "d60eae297646f515",
-  "outlet": "Gala",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPUkktQXl5YllrUW5WRWN0R2ZGSjV2VkJLeUM3dXA2N21kUXFCQXBUNWtCdWUyZjNicmE4enoyWlJJelZ6Zi1kOFdKSU5TVVU2T1FCQTBXZllYUFMwZFgzUTZVZ2ZDVmF4YUV4QVJ0ZExUSDRvRjF3ZXVSazlDMkFMZmo0eXlxWW55bWtEQUVKQ2FPY3dTdG15OXZKRzRGZmlIVUpzYVFsbmFnM0lHUnFVUE9pN01lZnozY3d0TjROOHhWVHc2Y05zdXR2bXF5TGNsVWR3Yi1Td29LY0tZOF9UekdxVEVtRkJmLWJsbEdpVmd3V2cxYVRUa3JR?oc=5",
-  "title": "Raphaël Glucksmann sur le point de faire alliance avec un ancien Premier ministre ? Ce “petit déjeuner secret” à Paris qui intrigue",
-  "summary": "",
-  "published": "2026-10-21T15:30+02:00",
-  "mentions": [
-   "glucksmann"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "cffb3c27caea887e",
@@ -1436,7 +2341,35 @@
   "published": "2026-10-21T15:30+02:00",
   "mentions": [
    "attal"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 1,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "d60eae297646f515",
+  "outlet": "Gala",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPUkktQXl5YllrUW5WRWN0R2ZGSjV2VkJLeUM3dXA2N21kUXFCQXBUNWtCdWUyZjNicmE4enoyWlJJelZ6Zi1kOFdKSU5TVVU2T1FCQTBXZllYUFMwZFgzUTZVZ2ZDVmF4YUV4QVJ0ZExUSDRvRjF3ZXVSazlDMkFMZmo0eXlxWW55bWtEQUVKQ2FPY3dTdG15OXZKRzRGZmlIVUpzYVFsbmFnM0lHUnFVUE9pN01lZnozY3d0TjROOHhWVHc2Y05zdXR2bXF5TGNsVWR3Yi1Td29LY0tZOF9UekdxVEVtRkJmLWJsbEdpVmd3V2cxYVRUa3JR?oc=5",
+  "title": "Raphaël Glucksmann sur le point de faire alliance avec un ancien Premier ministre ? Ce “petit déjeuner secret” à Paris qui intrigue",
+  "summary": "",
+  "published": "2026-10-21T15:30+02:00",
+  "mentions": [
+   "glucksmann"
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "20f577eee6ae7da1",
@@ -1450,7 +2383,20 @@
    "lepen",
    "retailleau",
    "lisnard"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   },
+   {
+    "id": "lisnard",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "2bc1e1652b376513",
@@ -1462,7 +2408,15 @@
   "published": "2026-10-21T16:04+02:00",
   "mentions": [
    "retailleau"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": -1,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "31d193e71093fba2",
@@ -1474,7 +2428,15 @@
   "published": "2026-10-21T16:25+02:00",
   "mentions": [
    "philippe"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": -2,
+    "frame": "economie_social"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "3d5ee07ad7fb6fe4",
@@ -1496,7 +2458,15 @@
   "published": "2026-10-21T16:43+02:00",
   "mentions": [
    "roussel"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "roussel",
+    "tone": -2,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "2980415306958909",
@@ -1518,7 +2488,15 @@
   "published": "2026-10-21T16:55+02:00",
   "mentions": [
    "melenchon"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "d223f639bdb0fafa",
@@ -1541,6 +2519,16 @@
   "mentions": []
  },
  {
+  "id": "a0147dfb81cd7591",
+  "outlet": "Site Internet du PCF",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE55RWRhdW44dGYwdVVhZnJxX2w4VTdUaFF6c2FVSWhKMVpJLXMwazRNSmM4Rk9KNFZjclFVWGRrX24yNU9BdVZBb3R6Y0x0ZTFjOHdXTF9PeHdtdXZMRlVJLWg3NTdMRFBzR3ZhcUJ0UDgxbVdCRW5j?oc=5",
+  "title": "Travail, création de richesses, réindustrialisation",
+  "summary": "",
+  "published": "2026-10-21T17:31+02:00",
+  "mentions": []
+ },
+ {
   "id": "db87801a4cbfafda",
   "outlet": "L'Ardennais",
   "lean": "non classé",
@@ -1550,17 +2538,15 @@
   "published": "2026-10-21T17:31+02:00",
   "mentions": [
    "philippe"
-  ]
- },
- {
-  "id": "a0147dfb81cd7591",
-  "outlet": "Site Internet du PCF",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE55RWRhdW44dGYwdVVhZnJxX2w4VTdUaFF6c2FVSWhKMVpJLXMwazRNSmM4Rk9KNFZjclFVWGRrX24yNU9BdVZBb3R6Y0x0ZTFjOHdXTF9PeHdtdXZMRlVJLWg3NTdMRFBzR3ZhcUJ0UDgxbVdCRW5j?oc=5",
-  "title": "Travail, création de richesses, réindustrialisation",
-  "summary": "",
-  "published": "2026-10-21T17:31+02:00",
-  "mentions": []
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "b57040d44b337b04",
@@ -1573,19 +2559,20 @@
   "mentions": [
    "retailleau",
    "lisnard"
-  ]
- },
- {
-  "id": "f07cfd11e780687e",
-  "outlet": "Facebook",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUHVvSExSZnBpUUo4RDd3M2FLcjRmRXdrQVBQYTQ2cERMcjh1N2pjemZxTEZ3MnZSZ0dYcVo4cm5ETWhfN0YxaE92WmF1NThDX3JzaFR6X05UdEdDUWhSOTN4ZTc2VFNkcnF4X014XzkySjAwMG9IMGdUOTBjbGVQV3JEb1MxeFNjTmdKbHUyMlFPaDlwQXllY0t3SG9QR0dMeTd0dzFpMGZRZDFLSTNZa2pBV19JRUZV?oc=5",
-  "title": "France Inter. . De la gauche modérée à l'extrême droite en passant par le gouvernement : tout le monde accuse Jean-Luc Mélenchon d'avoir attisé les violences qui ont eu lieu les 17 et 18 octobre. Si le dossier d'accusation semble bien mince, le candidat inso",
-  "summary": "",
-  "published": "2026-10-21T17:45+02:00",
-  "mentions": [
-   "melenchon"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": -1,
+    "frame": "polemique"
+   },
+   {
+    "id": "lisnard",
+    "tone": -1,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "2972f69f96aee52e",
@@ -1597,7 +2584,35 @@
   "published": "2026-10-21T17:45+02:00",
   "mentions": [
    "melenchon"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": 0,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "f07cfd11e780687e",
+  "outlet": "Facebook",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUHVvSExSZnBpUUo4RDd3M2FLcjRmRXdrQVBQYTQ2cERMcjh1N2pjemZxTEZ3MnZSZ0dYcVo4cm5ETWhfN0YxaE92WmF1NThDX3JzaFR6X05UdEdDUWhSOTN4ZTc2VFNkcnF4X014XzkySjAwMG9IMGdUOTBjbGVQV3JEb1MxeFNjTmdKbHUyMlFPaDlwQXllY0t3SG9QR0dMeTd0dzFpMGZRZDFLSTNZa2pBV19JRUZV?oc=5",
+  "title": "France Inter. . De la gauche modérée à l'extrême droite en passant par le gouvernement : tout le monde accuse Jean-Luc Mélenchon d'avoir attisé les violences qui ont eu lieu les 17 et 18 octobre. Si le dossier d'accusation semble bien mince, le candidat inso",
+  "summary": "",
+  "published": "2026-10-21T17:45+02:00",
+  "mentions": [
+   "melenchon"
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": -1,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "cef5d2d46d34c004",
@@ -1609,7 +2624,15 @@
   "published": "2026-10-21T17:54+02:00",
   "mentions": [
    "retailleau"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "e1799880da524c10",
@@ -1621,7 +2644,15 @@
   "published": "2026-10-21T18:38+02:00",
   "mentions": [
    "retailleau"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "40aab4cf51929ae2",
@@ -1633,7 +2664,15 @@
   "published": "2026-10-21T18:48+02:00",
   "mentions": [
    "roussel"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "roussel",
+    "tone": -2,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "e606e9b8428ac6e2",
@@ -1655,7 +2694,15 @@
   "published": "2026-10-21T19:00+02:00",
   "mentions": [
    "lisnard"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "lisnard",
+    "tone": -1,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "c9a4357768d828f8",
@@ -1667,7 +2714,15 @@
   "published": "2026-10-21T19:01+02:00",
   "mentions": [
    "philippe"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": -1,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "cc14be151a893b70",
@@ -1679,7 +2734,15 @@
   "published": "2026-10-21T19:16+02:00",
   "mentions": [
    "zemmour"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "zemmour",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "e1fbd218518f0c51",
@@ -1702,7 +2765,20 @@
   "mentions": [
    "philippe",
    "attal"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": -1,
+    "frame": "polemique"
+   },
+   {
+    "id": "attal",
+    "tone": -1,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "0cee87a27c0be11e",
@@ -1714,7 +2790,15 @@
   "published": "2026-10-21T19:26+02:00",
   "mentions": [
    "roussel"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "roussel",
+    "tone": -2,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "ab1be16c1e0f2ab0",
@@ -1727,7 +2811,20 @@
   "mentions": [
    "retailleau",
    "lisnard"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "lisnard",
+    "tone": -1,
+    "frame": "programme"
+   },
+   {
+    "id": "retailleau",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "0224643f8e1472d2",
@@ -1739,7 +2836,15 @@
   "published": "2026-10-21T19:30+02:00",
   "mentions": [
    "melenchon"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": -1,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "f5f122163db034c5",
@@ -1751,7 +2856,15 @@
   "published": "2026-10-21T19:32+02:00",
   "mentions": [
    "lisnard"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "lisnard",
+    "tone": -2,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "f913821768aa1102",
@@ -1763,7 +2876,15 @@
   "published": "2026-10-21T19:37+02:00",
   "mentions": [
    "melenchon"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": -1,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "07348170690af42a",
@@ -1796,7 +2917,20 @@
   "mentions": [
    "retailleau",
    "lisnard"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": 0,
+    "frame": "programme"
+   },
+   {
+    "id": "lisnard",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "7d51956c387d79f6",
@@ -1808,19 +2942,15 @@
   "published": "2026-10-21T19:46+02:00",
   "mentions": [
    "philippe"
-  ]
- },
- {
-  "id": "94e1551e69089d24",
-  "outlet": "France 24",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNWwybGFfdmh6TXFmeG5iSkxqT2c3b21QekdNY1VxbGZUZkRHanpfeVZXRG45ZzR4QXBuOEcwUG5fREpFcWk5NVRYYTdFWlRLRHFzQlQ5YjJPTkVUam1NMmcwdWxYd1AxTFpjT2YwRTBtc19ScFVMMUJxbEtxVkdlRU8tajJkM1g2N0REdEFvcUxOdTUyY3Rrd1FBS1F1dlVIX04zaWxOUXA?oc=5",
-  "title": "Questions directes - Glucksmann, une histoire de famille",
-  "summary": "",
-  "published": "2026-10-21T19:51+02:00",
-  "mentions": [
-   "glucksmann"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": -1,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "6da1c9c7cd3bceb6",
@@ -1833,19 +2963,40 @@
   "mentions": [
    "philippe",
    "attal"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": -1,
+    "frame": "programme"
+   },
+   {
+    "id": "attal",
+    "tone": -1,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "cadb21624568efc8",
-  "outlet": "Le Point",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYU5vOWhDN3U4Ym5FOW91WFZOZFNhaGZUekhLMVl0bmNCYXZNangyUjExRlhadnc2cmN5Zkd1UTBteDgwY0FsZkFiOHBRZ2l0SEpjb1RyUWpOU0hpYTJIN3NWbzVjTzdTc19BZHBqVlJMa3VqenlNNDF1QUgzdTVqc0RMMGZuUzc1VDVKSXZadDNOcnhaSWU0WTRXaXUybENwNC1lRlFVNFE4bEdVY3o4b0tKcw?oc=5",
-  "title": "Mélenchon, Netanyahou et la justice : où sont les preuves ?",
+  "id": "94e1551e69089d24",
+  "outlet": "France 24",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNWwybGFfdmh6TXFmeG5iSkxqT2c3b21QekdNY1VxbGZUZkRHanpfeVZXRG45ZzR4QXBuOEcwUG5fREpFcWk5NVRYYTdFWlRLRHFzQlQ5YjJPTkVUam1NMmcwdWxYd1AxTFpjT2YwRTBtc19ScFVMMUJxbEtxVkdlRU8tajJkM1g2N0REdEFvcUxOdTUyY3Rrd1FBS1F1dlVIX04zaWxOUXA?oc=5",
+  "title": "Questions directes - Glucksmann, une histoire de famille",
   "summary": "",
-  "published": "2026-10-21T20:00+02:00",
+  "published": "2026-10-21T19:51+02:00",
   "mentions": [
-   "melenchon"
-  ]
+   "glucksmann"
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "8e039619d34ee7d4",
@@ -1857,7 +3008,35 @@
   "published": "2026-10-21T20:00+02:00",
   "mentions": [
    "roussel"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "roussel",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "cadb21624568efc8",
+  "outlet": "Le Point",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYU5vOWhDN3U4Ym5FOW91WFZOZFNhaGZUekhLMVl0bmNCYXZNangyUjExRlhadnc2cmN5Zkd1UTBteDgwY0FsZkFiOHBRZ2l0SEpjb1RyUWpOU0hpYTJIN3NWbzVjTzdTc19BZHBqVlJMa3VqenlNNDF1QUgzdTVqc0RMMGZuUzc1VDVKSXZadDNOcnhaSWU0WTRXaXUybENwNC1lRlFVNFE4bEdVY3o4b0tKcw?oc=5",
+  "title": "Mélenchon, Netanyahou et la justice : où sont les preuves ?",
+  "summary": "",
+  "published": "2026-10-21T20:00+02:00",
+  "mentions": [
+   "melenchon"
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "24e70dcd262b2a29",
@@ -1870,7 +3049,20 @@
   "mentions": [
    "retailleau",
    "lisnard"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "lisnard",
+    "tone": -1,
+    "frame": "programme"
+   },
+   {
+    "id": "retailleau",
+    "tone": -1,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "341afd30aa5ad9d4",
@@ -1892,7 +3084,15 @@
   "published": "2026-10-21T20:16+02:00",
   "mentions": [
    "melenchon"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": -1,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "8acdc6d8962677e6",
@@ -1904,7 +3104,15 @@
   "published": "2026-10-21T20:20+02:00",
   "mentions": [
    "retailleau"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "5e4c46552a335fb2",
@@ -1916,7 +3124,15 @@
   "published": "2026-10-21T20:41+02:00",
   "mentions": [
    "retailleau"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "57016f1bcab9831d",
@@ -1928,7 +3144,15 @@
   "published": "2026-10-21T20:53+02:00",
   "mentions": [
    "melenchon"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": -2,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "75bf47bbff7a9db5",
@@ -1940,7 +3164,15 @@
   "published": "2026-10-21T21:25+02:00",
   "mentions": [
    "lisnard"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "lisnard",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "1056eff8b12e438d",
@@ -1972,7 +3204,15 @@
   "published": "2026-10-21T21:52+02:00",
   "mentions": [
    "melenchon"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": -2,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "e51ffd4c9853087e",
@@ -1984,7 +3224,15 @@
   "published": "2026-10-21T22:00+02:00",
   "mentions": [
    "philippe"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "a671da9018b901ce",
@@ -1996,7 +3244,15 @@
   "published": "2026-10-21T22:35+02:00",
   "mentions": [
    "philippe"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "a9bb91beffa3117a",
@@ -2008,6 +3264,14 @@
   "published": "2026-10-21T22:58+02:00",
   "mentions": [
    "glucksmann"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": -1,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  }
 ]

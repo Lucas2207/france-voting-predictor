@@ -1,132 +1,43 @@
 [
  {
-  "id": "bfc37e9ed5ecb904",
-  "outlet": "Sud Radio",
+  "id": "04704a819561a35e",
+  "outlet": "Le Figaro",
+  "lean": "droite",
+  "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPR3AzWVpFVmVyTEtEWjVaRjd3emZTT0JzMG45LTR0UXp1M2ViMmJOSGZaNkxvVlBlV1B2OHhqOGxRempMNVZXaGdDSUtNdGFCNDBKdFZySDRsaGFicS1keVVtNkQ5bVExZDdjNk9SaXJ1d1ZyVXRLYklQeWRLQnNRenlHbFhGTTdBVmo0MzgtVTlKU1RVNzFacU5GV0wybE5rdGtDU05VSlZoMEVEeHJFcGJMNzkxeURvZlB2a3JReFgzWldSLXB4Q3RhSG1sNG9mbkZIMC15MUFSMmZfa0M0MU9LVmJhRE1ISmJmRkFZZ3ByXzlqU1hhR2EzeWdwd3BUanh4WWVmNS1wa2V4N1VXZUMyb0Y1UQ?oc=5",
+  "title": "Présidentielle 2027 : sur le marché de Saint-Mandé, les Jeunes Républicains testent la candidature Retailleau auprès d’électeurs à la tête ailleurs",
+  "summary": "",
+  "published": "2026-07-28T09:00+02:00",
+  "mentions": [
+   "retailleau"
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "0ce1fef010bf13a4",
+  "outlet": "BFM",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMUgtVmFaMjFqVE9vYktMSmd1MWpLOGlvYlJVRkhRUEZndEJ5bWxBdjgxb05HN2xuQ0RDX2FOUWZmcmdxQkkzQ0VSZXFKVWU5emhQRThuYnk2YlMwLVFkay1Ka0F6dFVHYzBMZ2R1R1Nvb0FZR1JrUmFWTGt2VHRROTM0ZFV5NnF0aFlfMXkybE5EcDFmeVM3WElnTko2dGFRWm1GNmJ5andncFU?oc=5",
-  "title": "Naïma Moutchou : \"Edouard Philippe est le mieux placé pour l'emporter\"",
+  "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxNdDVHZllaZGhYdV9fd0hBYnVuTEVQb2htX0RldmJkdWtiUnZRYkx4cDFab1VRREpyeEtDWktEaGlXWFZKckdid0RENmlMVHZHTEVBb1E5bi1DdzVYa0N0cGYxbkYzNVM1cWpOcUJrRnRWcld5T19id3dZQ1podmFmOUZraURoWWRIWjQ0Und5SHNjdG5SeW1JdmMyazFoWEpYbXZkRXE1cjRxQjg1cHBIY2ZNdjJxYnNoOVF5ZkZPUU00dG9NTEhNdkcyb2dsNFdRRnZpYXpXTXJDY0dlSFpVZ3JPVUJKMm4ydFZ6cm5VRi1tR2x3YW1hVng5Si1LYkM5QlB6YjFMQ1ZWWU0wUzVPanZ0REJJRnBlVXBXaXRKMmFpODhFNzlMVEUzUzJlOE9fYm9UTzJZM1RkQzhCcTJIYm1iazVDTnlMa0Zma2pNNGxMT1VCVUhHaUNGaw?oc=5",
+  "title": "\"Les maires de France expriment leur solidarité à l'égard de tous les élus locaux qui affrontent les incendies, des services de secours et de tous les bénévoles\", déclare David Lisnard",
   "summary": "",
   "published": "2026-07-28T09:00+02:00",
   "mentions": [
-   "philippe"
-  ]
- },
- {
-  "id": "c133c919567e6fa2",
-  "outlet": "La Provence",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOYnRqbHQ3ckY3aF9qZ1ZnbTlhc0hfY0tWQ0ZneGZFMnBjYnF0bm9qMHhacUYyMTdMZVNPZzJyajJSVDZnazdtTk9xVkRFaXJRNndLd1hSMUZJbjFocEc0Q3RxbWQ4ZEJYMk1jVzVHWnlWTG4zbS13S1RNUG1ybThkV3dZaEdHdjZPbFZXR3lMZ1FjWkNpd2E0WGh0a3hxdmpTSjItTHdabmZSY05ncGc3Y2JYdHdFTzY3Y0lIZDZFTzVWOTlmOTBRdmp0aW5CWFZ5QUV4RU5xVkp0bWFtdXpkTktuMWZpUHBRUTFHakpacXZGbl9oZGxFU3Bxd1E?oc=5",
-  "title": "Accueillis par Patrick de Carolis, les jeunes soutiens du candidat Édouard Philippe ont fait escale à Arles",
-  "summary": "",
-  "published": "2026-07-28T09:00+02:00",
-  "mentions": [
-   "philippe"
-  ]
- },
- {
-  "id": "c0f11a8be926b725",
-  "outlet": "Le Canard enchaîné",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQb1BRc0FBNzZFNDRQckNKa0l3LXBaWHBWcGRGellycEtkUEJJT0c2cEtkWEdaZ0oxbDdrOHN6eVk1X2xBRW9yN3JDbUdOVXBmZm1Saml1SjBrV3RqQUlXVGxfS3dkaFN2SGZpWHpLemdzODBhSVhoT3piRjZPRUx0UzQyRzJjLWVHUHJvUmNzYjQ3V2tRSnpsYkVUVXJVOEF5Ni14WG45YWh3ZlNwSUFQa1RRRUQ?oc=5",
-  "title": "Présidentielle 2027 : François Hollande prêt à pousser Raphaël Glucksmann dans les roses",
-  "summary": "",
-  "published": "2026-07-28T09:00+02:00",
-  "mentions": [
-   "glucksmann"
-  ]
- },
- {
-  "id": "ee21823cece5b750",
-  "outlet": "Le Dauphiné Libéré",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOcGFlZ0FiWWVJNXh6YVZyazd2UWJLamZQZUxSeG90dktwN0hheFoyVXBTbDBJcUU5NVAtbXdmTEhVNGtlam1LbjRVbVBQRkJwdGs0OUx0UXlmdTZfR1pzbjhnOUxLOF9iX1ZwdU10c1E3LXJVNThqN0lXRkg2TVlSWVFISngyUjMxMVQ3MHBBUVBKcHRXVHFzdUZfU3NjU1VRbFJvR2xOdHFkcXpKdUxaZk16VFFwRXM4NnFOcXhsazhObWswVHEyTWJZd2ExblJHeUdqRDJzNkd4dFFqLV9uME5ZZ0ExNDl3WlhmcWxR?oc=5",
-  "title": "Après la visite de Gabriel Attal, la gauche annécienne tire à boulets rouges sur Antoine Armand et sa majorité",
-  "summary": "",
-  "published": "2026-07-28T09:00+02:00",
-  "mentions": [
-   "attal"
-  ]
- },
- {
-  "id": "a16f847a6aaa5795",
-  "outlet": "Ouest-France",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOdXYza0ZXTFBROXAwWE5yRVBDUDVCcGx6ekdMeThVOFkwbVdMT1NibUp3WlBRZWdUQ3huVU5Ia2szLVh6cHhiRUNLWHdBWUJDajA3RGd3WHFaTHNCcW9LSXAxcmZ5WEMyRUUtQlNfbnZXV3dURjFwMEJDTXF0SnFRRURiMzJvUkVlNWxTVi1LbzhnaTYyODh6YkRQWm5jSEZ0c1hHSklQbUhSVFZHNkxDOG9hbUJ4anNNeXE2ZTdFczBXd1ByVHYxOXVxazlhZTFLMGZwWS02ZVp4dkZpNTJfYU5wWktxenVkZ2U3bWpEVnpNSVdlVFFIak5pdUlQdw?oc=5",
-  "title": "« Cet été, tous au Macumba ! » : quand Gabriel Attal faisait la promo du Macumba à La Roche-sur-Yon",
-  "summary": "",
-  "published": "2026-07-28T09:00+02:00",
-  "mentions": [
-   "attal"
-  ]
- },
- {
-  "id": "ce0415c6a625a8ac",
-  "outlet": "Le Dauphiné Libéré",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQYndEYkEydEFTMzFCUEpaY0phZGZGYWF6X2tlQ1BpSXFQSlZSWUxpREFQZzFvQ2xPR3o5VHBoQjhLLV9SdldZZ3NwYlJEQ1hwaHkwdTBrWkI4WHZQdnY5UUhPVDVpNmJHLWJKNTR1Nl9qYjJPU29vZ1NEOVhRODBoUmZ3bE9yYkdSZDJ6NXRxbUJTT3Y2VGtaTWcwc29oUWQtYUF6VlJYSnRWUm5sV2lsLVFBYzllTUtZRHVkd0hyOGhRcHM4V1E?oc=5",
-  "title": "Politique. Incendies : le gouvernement de Gabriel Attal a-t-il vraiment empêché l’achat de nouveaux Canadair ?",
-  "summary": "",
-  "published": "2026-07-28T09:00+02:00",
-  "mentions": [
-   "attal"
-  ]
- },
- {
-  "id": "4de97f054416ee6d",
-  "outlet": "lejdd.fr",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbTJjaURVZnZtZ1JBQ2dwV2VlNnE2ZlNsMWo5M25NUmVqUTVwaTdIWWdoTWQ5TVRWUTBiR2tsQjd5VWZSOU9mVGN5ZkxpcmRmblhxVTUxc2JXbEtpcm5PWkp0OGtpVjBmWjl0RE9RVUR5aEozQXdIbUU3X0FiZlBLTktNeFBHdVc4QnpaQlpLeW4tTlBBOEdtMkdTYnJSUUNHWXpid2FhVHR6Vl9yakE?oc=5",
-  "title": "Présidentielle : l'été très politique des candidats déclarés… et des autres",
-  "summary": "",
-  "published": "2026-07-28T09:00+02:00",
-  "mentions": []
- },
- {
-  "id": "7764cb05bbe75f53",
-  "outlet": "parismatch.com",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOY0Znel9DbFJ1cHMtcEx6QWlCYzhUTEJLd1k0X01wNU5nd2pqNzhubzF6OEZSQjludHVjaEU4dmo1MS04aVMxQjZwM2hwaWJRRm1rRXF3cnl1SElKc3lJY3FNdGNpVUxSZnRQa29aVjJEcE5Da2c3aTk5YWEyb24zdmdVWHFOaHJvdmRXbGE0RndqbDZ3djdxMEtJUDktREozNEthbUtOSWw5SjgtSlJIUUpNVHpCRWtMR0tiU2dNdUhzR1B1X0NtT3NCa0tGS0JhRVlDTDFVVVZKbG82eUNDMXVzbkMtaDA?oc=5",
-  "title": "« Chacun travaille sur son terrain » : entre le Rassemblement national et ses alliés, la stratégie du trimaran",
-  "summary": "",
-  "published": "2026-07-28T09:00+02:00",
-  "mentions": []
- },
- {
-  "id": "bbbaf09bfbe2bad4",
-  "outlet": "Libération",
-  "lean": "centre-gauche",
-  "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxQTWNrcUhldnZKTExVUWN6b1FpV3NTYlJTR25wUGJnOVhTNjhOdmcwNDZFSENtV3pnZWVXYnp6b0pCRWYwRVlWSjg5enBBeUhqaXVQUm9wVDloTGc0Y25CMWdaV1FLQTRMNk93eGdJa0lLM00wcWhFbklpdGR2MUtFb2ZFSmE4S0xpTFRoaGlCSF9RMDFhdFBJbTNGYVIwZ2R1Nk9BVHZsSXpFSHhXU2YxckFVbllyZFV0R2xrMFBvRU9xa3YzTVZjVExLWEhLTzZSNkFzNEpMa3E2WjdUWGRQdml1X2diaWdwTlprNEFDUnVXbGFkRlI2UFQ5eVdLN2NCSVZNYkw3MEZ6OG85cVNVeFhRV2wtcUJubzE5bXBXNFZ6ZXBMVWpBUzNuTFBFZmFSdVRyUDhkclJnRDdWNGc2Sg?oc=5",
-  "title": "Eric Piolle sur l’action de LFI contre Barbara Butch : «Cher Jean-Luc Mélenchon, c’est une opportunité pour toi de reconnaître une erreur",
-  "summary": "",
-  "published": "2026-07-28T09:00+02:00",
-  "mentions": [
-   "melenchon"
-  ]
- },
- {
-  "id": "83d53318731c6a29",
-  "outlet": "Le Parisien",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOVnV3WEVBVWMzcUtQOHZzS0dfaFVMbkZBSUpvZFJGMnlTZV9wTXhaZmZTV09BVXRRYnJWdzQ2NS03N0tQMWRFbnlpSF9taE9qMHlIMnpFTE54TERjNnBtMlFQTURHa0g1Vl9mQ3RwTUhxV3VNMnZINzlVeDAxNjczSVlNbTFRa2t0aFc0UDZRaWtOZWQzN211YmRzeUVDYjFxWFVPbmg4U2lsZzB3dHFDZEJEWHV4UHNlV2NPbTlTUlRfbG93ZXoteEFycDYtVG14UnZmUFRhNzRYVzFXdXRneHpYaEtUcl92Q29nYnFIWndXckhKV0E?oc=5",
-  "title": "Affaire Barbara Butch : Éric Piolle appelle Jean-Luc Mélenchon à « reconnaître une erreur »",
-  "summary": "",
-  "published": "2026-07-28T09:00+02:00",
-  "mentions": [
-   "melenchon"
-  ]
- },
- {
-  "id": "ba09ca8c79c8eae3",
-  "outlet": "Yahoo Actualités",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWldsXzM3QTlLTHJrYkUtRjNhRGRSbUZFc0x6VF9BNDY5MnNHN181X3dWRVc4d1VMNUlCU1RtYkNDYVZxR09HY2MtWjNqYjZ2Q1l5V3dMMUNBUjg2Vy1uQkRyWEdxYzE5Tl9uQ1lkSDV0U2diV0NBYjhQLUdBX3VHSVln?oc=5",
-  "title": "Mélenchon contre Le Pen ? Un duel loin d’être gagné d’avance pour l’extrême droite",
-  "summary": "",
-  "published": "2026-07-28T09:00+02:00",
-  "mentions": [
-   "lepen",
-   "melenchon"
-  ]
+   "lisnard"
+  ],
+  "analysis": [
+   {
+    "id": "lisnard",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "31b1d48c5d0ff51b",
@@ -139,58 +50,11 @@
   "mentions": []
  },
  {
-  "id": "99fcac56aace0d6b",
-  "outlet": "TF1 Info",
+  "id": "4de97f054416ee6d",
+  "outlet": "lejdd.fr",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNMGlMYUNlcDZMdGZSaWFVQlVXdW1VZkxoS1hjYVl1bHJRcG1FaXMtcmZ3OTUtTDdnbkJPdkY2NXpLUW1yMjM5X0RJYlk5UHJCUG90MzZSNlpqa3Brdm9VZEtkcy00V3NVZE5FdTZGSkZlMDAwRzkxWUJ2cGt0bVZZT0FoQzFGNk9CNEdxb1pnMnVVblR2OWVmRnpRelM2N2ZkSG1mcTRPam9OU2RUUzJ0ZXdrVXZRNGxYQzNvRG5mSnRjcjNhdTNXSFNGbDllN0VzbkUxSkpsVU5lZHlZZDAtNFRHMFNoN196cDlLbG1RVQ?oc=5",
-  "title": "Élection présidentielle 2027 : LCI diffusera le 27 août un grand débat avec sept candidats déclarés",
-  "summary": "",
-  "published": "2026-07-28T09:00+02:00",
-  "mentions": []
- },
- {
-  "id": "98c4522df952da0e",
-  "outlet": "ladepeche.fr",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOSHFUd1JfcVdJODZFNFNGQmRub1NJaWladTkyWmQxSTgwNlBDTDRsSVI3Ri1KOWpqdk1fZFdZSmluU0pvSER6dnBJUHR0aWxsOW1wcUNIS25nbFNCZjdYRVhYZ1RnR09vYnh1R0QwNVZ6SFk4SVVQdEctYWl6VFJLZlkyTDBLS2JGc0ZBdlV4SjZjd1JWdzg2SG0tUkV2NGJ0a3dXVU5rdXMycG0zMVRyOWw2OXNfNGpOWEQ5QTU1VU0xQVRHeDROZ1ZLNEctQm1fT3RuY191QXRZUnh4OG1fcTlVVkl6SjhybXZ5THpPdW1Qd2ZSQktudW4xbkVSS0E3bkh5TU9TbTE4bFh4UVV3N3Y2RnN2M2JFZllJQVVCb2kwYzA?oc=5",
-  "title": "Présidentielle 2027 : Gabriel Attal traîne Marine Le Pen en justice après l'utilisation du slogan \"Renaissance\" par le Rassemblement national, le délibéré sera rendu jeudi",
-  "summary": "",
-  "published": "2026-07-28T09:00+02:00",
-  "mentions": [
-   "lepen",
-   "attal"
-  ]
- },
- {
-  "id": "a9dc9f02c0cbc102",
-  "outlet": "Nice-Matin",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxPb1Z1ektUN1Bjb09kS09Ec1ZsTTlNSlY4VElVSkV5dksyNERzb3h4dWJrSUh1YklRSWFqMjFtSEZDVGpJc2w4RlQ2WEtBdkV0RWozUzVILUVid21OaFhqN3hycjhsZXRhTHVNYWR4eHBXQmNRd3JoNW8tQ1AxUk9xeW1rUzVQSWxSNkN5cEt5NVhKZ3B0QkJfWUtnZFUwR2gwUl9WVzBsNTgwdVU4NExtSi00NGt6aWNTVjg3akl1M3FJNVVEb3dONE8yWnZBSEIzSXNXV0pnNWxUVmJtUG11YzdxZzJCa3l6X19PeE40akNzMzZEaGpEUFNKeTJnWmZFdXpmRHJGaG9HSW9mcWZVbVd3bVdPYnZ0Y3V5TVZwU1FDMHJQYllFbUZfbDE2NlBVMXpRSjNmMkRPQ2YxbmZqM1M0Z0I4VmV6RzlYMmllUnlrQ3ZfbnJxSzBQd0JjZ2RnaV9yS042SHNnaFNBZVR4N2pYUXd0b2VDcUtQaUdKZw?oc=5",
-  "title": "« Ces maisons détruites, ces animaux morts, ça fait forcément penser à des scènes de guerre » : président des maires de France, David Lisnard est allé au soutien des communes incendiées dans le Var",
-  "summary": "",
-  "published": "2026-07-28T09:00+02:00",
-  "mentions": [
-   "lisnard"
-  ]
- },
- {
-  "id": "0ce1fef010bf13a4",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxNdDVHZllaZGhYdV9fd0hBYnVuTEVQb2htX0RldmJkdWtiUnZRYkx4cDFab1VRREpyeEtDWktEaGlXWFZKckdid0RENmlMVHZHTEVBb1E5bi1DdzVYa0N0cGYxbkYzNVM1cWpOcUJrRnRWcld5T19id3dZQ1podmFmOUZraURoWWRIWjQ0Und5SHNjdG5SeW1JdmMyazFoWEpYbXZkRXE1cjRxQjg1cHBIY2ZNdjJxYnNoOVF5ZkZPUU00dG9NTEhNdkcyb2dsNFdRRnZpYXpXTXJDY0dlSFpVZ3JPVUJKMm4ydFZ6cm5VRi1tR2x3YW1hVng5Si1LYkM5QlB6YjFMQ1ZWWU0wUzVPanZ0REJJRnBlVXBXaXRKMmFpODhFNzlMVEUzUzJlOE9fYm9UTzJZM1RkQzhCcTJIYm1iazVDTnlMa0Zma2pNNGxMT1VCVUhHaUNGaw?oc=5",
-  "title": "\"Les maires de France expriment leur solidarité à l'égard de tous les élus locaux qui affrontent les incendies, des services de secours et de tous les bénévoles\", déclare David Lisnard",
-  "summary": "",
-  "published": "2026-07-28T09:00+02:00",
-  "mentions": [
-   "lisnard"
-  ]
- },
- {
-  "id": "b7694028fbdf98d4",
-  "outlet": "Le Ch'ni",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9yTXZmbGhCd3JfVGhxOGJEUDkzMVpqbF9DVzZHUnl4elFYcWpDTWUwdHlaQUZrdFV6LXY2b1ZRbWlHMnhTRzJUTW5tRm1nT296Rk9IVVdPVjY2VlF6N3lsZUFaU05wR1U5bjZEd1JCTDQ?oc=5",
-  "title": "« ¡ Afuera ! », ou « après nous le chaos »",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbTJjaURVZnZtZ1JBQ2dwV2VlNnE2ZlNsMWo5M25NUmVqUTVwaTdIWWdoTWQ5TVRWUTBiR2tsQjd5VWZSOU9mVGN5ZkxpcmRmblhxVTUxc2JXbEtpcm5PWkp0OGtpVjBmWjl0RE9RVUR5aEozQXdIbUU3X0FiZlBLTktNeFBHdVc4QnpaQlpLeW4tTlBBOEdtMkdTYnJSUUNHWXpid2FhVHR6Vl9yakE?oc=5",
+  "title": "Présidentielle : l'été très politique des candidats déclarés… et des autres",
   "summary": "",
   "published": "2026-07-28T09:00+02:00",
   "mentions": []
@@ -206,26 +70,241 @@
   "mentions": []
  },
  {
-  "id": "f844cf1e41650c8b",
-  "outlet": "Nouvelle Énergie",
+  "id": "7764cb05bbe75f53",
+  "outlet": "parismatch.com",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdE8wLW1ZMklHbi12YW94ZVNMR0IxSEpDdUJnTlhnWmZOdmZYLTd0alFZNmR3S1pmS29yejd6amJSQUhZaGVNSUhZOGdJQW1BYWMwWHVZbXN0bWJqa1gtWVgxXzhtZUR1aWdCQW1KNndHSUNTYl9PZmxMYVhuR2VsRDhJX2ltUDJLRVlR?oc=5",
-  "title": "À Cannes, une Handiplage toujours plus accessible",
+  "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOY0Znel9DbFJ1cHMtcEx6QWlCYzhUTEJLd1k0X01wNU5nd2pqNzhubzF6OEZSQjludHVjaEU4dmo1MS04aVMxQjZwM2hwaWJRRm1rRXF3cnl1SElKc3lJY3FNdGNpVUxSZnRQa29aVjJEcE5Da2c3aTk5YWEyb24zdmdVWHFOaHJvdmRXbGE0RndqbDZ3djdxMEtJUDktREozNEthbUtOSWw5SjgtSlJIUUpNVHpCRWtMR0tiU2dNdUhzR1B1X0NtT3NCa0tGS0JhRVlDTDFVVVZKbG82eUNDMXVzbkMtaDA?oc=5",
+  "title": "« Chacun travaille sur son terrain » : entre le Rassemblement national et ses alliés, la stratégie du trimaran",
   "summary": "",
   "published": "2026-07-28T09:00+02:00",
   "mentions": []
  },
  {
-  "id": "04704a819561a35e",
-  "outlet": "Le Figaro",
-  "lean": "droite",
-  "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPR3AzWVpFVmVyTEtEWjVaRjd3emZTT0JzMG45LTR0UXp1M2ViMmJOSGZaNkxvVlBlV1B2OHhqOGxRempMNVZXaGdDSUtNdGFCNDBKdFZySDRsaGFicS1keVVtNkQ5bVExZDdjNk9SaXJ1d1ZyVXRLYklQeWRLQnNRenlHbFhGTTdBVmo0MzgtVTlKU1RVNzFacU5GV0wybE5rdGtDU05VSlZoMEVEeHJFcGJMNzkxeURvZlB2a3JReFgzWldSLXB4Q3RhSG1sNG9mbkZIMC15MUFSMmZfa0M0MU9LVmJhRE1ISmJmRkFZZ3ByXzlqU1hhR2EzeWdwd3BUanh4WWVmNS1wa2V4N1VXZUMyb0Y1UQ?oc=5",
-  "title": "Présidentielle 2027 : sur le marché de Saint-Mandé, les Jeunes Républicains testent la candidature Retailleau auprès d’électeurs à la tête ailleurs",
+  "id": "83d53318731c6a29",
+  "outlet": "Le Parisien",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOVnV3WEVBVWMzcUtQOHZzS0dfaFVMbkZBSUpvZFJGMnlTZV9wTXhaZmZTV09BVXRRYnJWdzQ2NS03N0tQMWRFbnlpSF9taE9qMHlIMnpFTE54TERjNnBtMlFQTURHa0g1Vl9mQ3RwTUhxV3VNMnZINzlVeDAxNjczSVlNbTFRa2t0aFc0UDZRaWtOZWQzN211YmRzeUVDYjFxWFVPbmg4U2lsZzB3dHFDZEJEWHV4UHNlV2NPbTlTUlRfbG93ZXoteEFycDYtVG14UnZmUFRhNzRYVzFXdXRneHpYaEtUcl92Q29nYnFIWndXckhKV0E?oc=5",
+  "title": "Affaire Barbara Butch : Éric Piolle appelle Jean-Luc Mélenchon à « reconnaître une erreur »",
   "summary": "",
   "published": "2026-07-28T09:00+02:00",
   "mentions": [
-   "retailleau"
-  ]
+   "melenchon"
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": -1,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "98c4522df952da0e",
+  "outlet": "ladepeche.fr",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOSHFUd1JfcVdJODZFNFNGQmRub1NJaWladTkyWmQxSTgwNlBDTDRsSVI3Ri1KOWpqdk1fZFdZSmluU0pvSER6dnBJUHR0aWxsOW1wcUNIS25nbFNCZjdYRVhYZ1RnR09vYnh1R0QwNVZ6SFk4SVVQdEctYWl6VFJLZlkyTDBLS2JGc0ZBdlV4SjZjd1JWdzg2SG0tUkV2NGJ0a3dXVU5rdXMycG0zMVRyOWw2OXNfNGpOWEQ5QTU1VU0xQVRHeDROZ1ZLNEctQm1fT3RuY191QXRZUnh4OG1fcTlVVkl6SjhybXZ5THpPdW1Qd2ZSQktudW4xbkVSS0E3bkh5TU9TbTE4bFh4UVV3N3Y2RnN2M2JFZllJQVVCb2kwYzA?oc=5",
+  "title": "Présidentielle 2027 : Gabriel Attal traîne Marine Le Pen en justice après l'utilisation du slogan \"Renaissance\" par le Rassemblement national, le délibéré sera rendu jeudi",
+  "summary": "",
+  "published": "2026-07-28T09:00+02:00",
+  "mentions": [
+   "lepen",
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": -1,
+    "frame": "programme"
+   },
+   {
+    "id": "lepen",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "99fcac56aace0d6b",
+  "outlet": "TF1 Info",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNMGlMYUNlcDZMdGZSaWFVQlVXdW1VZkxoS1hjYVl1bHJRcG1FaXMtcmZ3OTUtTDdnbkJPdkY2NXpLUW1yMjM5X0RJYlk5UHJCUG90MzZSNlpqa3Brdm9VZEtkcy00V3NVZE5FdTZGSkZlMDAwRzkxWUJ2cGt0bVZZT0FoQzFGNk9CNEdxb1pnMnVVblR2OWVmRnpRelM2N2ZkSG1mcTRPam9OU2RUUzJ0ZXdrVXZRNGxYQzNvRG5mSnRjcjNhdTNXSFNGbDllN0VzbkUxSkpsVU5lZHlZZDAtNFRHMFNoN196cDlLbG1RVQ?oc=5",
+  "title": "Élection présidentielle 2027 : LCI diffusera le 27 août un grand débat avec sept candidats déclarés",
+  "summary": "",
+  "published": "2026-07-28T09:00+02:00",
+  "mentions": []
+ },
+ {
+  "id": "a16f847a6aaa5795",
+  "outlet": "Ouest-France",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOdXYza0ZXTFBROXAwWE5yRVBDUDVCcGx6ekdMeThVOFkwbVdMT1NibUp3WlBRZWdUQ3huVU5Ia2szLVh6cHhiRUNLWHdBWUJDajA3RGd3WHFaTHNCcW9LSXAxcmZ5WEMyRUUtQlNfbnZXV3dURjFwMEJDTXF0SnFRRURiMzJvUkVlNWxTVi1LbzhnaTYyODh6YkRQWm5jSEZ0c1hHSklQbUhSVFZHNkxDOG9hbUJ4anNNeXE2ZTdFczBXd1ByVHYxOXVxazlhZTFLMGZwWS02ZVp4dkZpNTJfYU5wWktxenVkZ2U3bWpEVnpNSVdlVFFIak5pdUlQdw?oc=5",
+  "title": "« Cet été, tous au Macumba ! » : quand Gabriel Attal faisait la promo du Macumba à La Roche-sur-Yon",
+  "summary": "",
+  "published": "2026-07-28T09:00+02:00",
+  "mentions": [
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": -1,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "a9dc9f02c0cbc102",
+  "outlet": "Nice-Matin",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxPb1Z1ektUN1Bjb09kS09Ec1ZsTTlNSlY4VElVSkV5dksyNERzb3h4dWJrSUh1YklRSWFqMjFtSEZDVGpJc2w4RlQ2WEtBdkV0RWozUzVILUVid21OaFhqN3hycjhsZXRhTHVNYWR4eHBXQmNRd3JoNW8tQ1AxUk9xeW1rUzVQSWxSNkN5cEt5NVhKZ3B0QkJfWUtnZFUwR2gwUl9WVzBsNTgwdVU4NExtSi00NGt6aWNTVjg3akl1M3FJNVVEb3dONE8yWnZBSEIzSXNXV0pnNWxUVmJtUG11YzdxZzJCa3l6X19PeE40akNzMzZEaGpEUFNKeTJnWmZFdXpmRHJGaG9HSW9mcWZVbVd3bVdPYnZ0Y3V5TVZwU1FDMHJQYllFbUZfbDE2NlBVMXpRSjNmMkRPQ2YxbmZqM1M0Z0I4VmV6RzlYMmllUnlrQ3ZfbnJxSzBQd0JjZ2RnaV9yS042SHNnaFNBZVR4N2pYUXd0b2VDcUtQaUdKZw?oc=5",
+  "title": "« Ces maisons détruites, ces animaux morts, ça fait forcément penser à des scènes de guerre » : président des maires de France, David Lisnard est allé au soutien des communes incendiées dans le Var",
+  "summary": "",
+  "published": "2026-07-28T09:00+02:00",
+  "mentions": [
+   "lisnard"
+  ],
+  "analysis": [
+   {
+    "id": "lisnard",
+    "tone": 1,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "b7694028fbdf98d4",
+  "outlet": "Le Ch'ni",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9yTXZmbGhCd3JfVGhxOGJEUDkzMVpqbF9DVzZHUnl4elFYcWpDTWUwdHlaQUZrdFV6LXY2b1ZRbWlHMnhTRzJUTW5tRm1nT296Rk9IVVdPVjY2VlF6N3lsZUFaU05wR1U5bjZEd1JCTDQ?oc=5",
+  "title": "« ¡ Afuera ! », ou « après nous le chaos »",
+  "summary": "",
+  "published": "2026-07-28T09:00+02:00",
+  "mentions": []
+ },
+ {
+  "id": "ba09ca8c79c8eae3",
+  "outlet": "Yahoo Actualités",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWldsXzM3QTlLTHJrYkUtRjNhRGRSbUZFc0x6VF9BNDY5MnNHN181X3dWRVc4d1VMNUlCU1RtYkNDYVZxR09HY2MtWjNqYjZ2Q1l5V3dMMUNBUjg2Vy1uQkRyWEdxYzE5Tl9uQ1lkSDV0U2diV0NBYjhQLUdBX3VHSVln?oc=5",
+  "title": "Mélenchon contre Le Pen ? Un duel loin d’être gagné d’avance pour l’extrême droite",
+  "summary": "",
+  "published": "2026-07-28T09:00+02:00",
+  "mentions": [
+   "lepen",
+   "melenchon"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "bbbaf09bfbe2bad4",
+  "outlet": "Libération",
+  "lean": "centre-gauche",
+  "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxQTWNrcUhldnZKTExVUWN6b1FpV3NTYlJTR25wUGJnOVhTNjhOdmcwNDZFSENtV3pnZWVXYnp6b0pCRWYwRVlWSjg5enBBeUhqaXVQUm9wVDloTGc0Y25CMWdaV1FLQTRMNk93eGdJa0lLM00wcWhFbklpdGR2MUtFb2ZFSmE4S0xpTFRoaGlCSF9RMDFhdFBJbTNGYVIwZ2R1Nk9BVHZsSXpFSHhXU2YxckFVbllyZFV0R2xrMFBvRU9xa3YzTVZjVExLWEhLTzZSNkFzNEpMa3E2WjdUWGRQdml1X2diaWdwTlprNEFDUnVXbGFkRlI2UFQ5eVdLN2NCSVZNYkw3MEZ6OG85cVNVeFhRV2wtcUJubzE5bXBXNFZ6ZXBMVWpBUzNuTFBFZmFSdVRyUDhkclJnRDdWNGc2Sg?oc=5",
+  "title": "Eric Piolle sur l’action de LFI contre Barbara Butch : «Cher Jean-Luc Mélenchon, c’est une opportunité pour toi de reconnaître une erreur",
+  "summary": "",
+  "published": "2026-07-28T09:00+02:00",
+  "mentions": [
+   "melenchon"
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": -1,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "bfc37e9ed5ecb904",
+  "outlet": "Sud Radio",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMUgtVmFaMjFqVE9vYktMSmd1MWpLOGlvYlJVRkhRUEZndEJ5bWxBdjgxb05HN2xuQ0RDX2FOUWZmcmdxQkkzQ0VSZXFKVWU5emhQRThuYnk2YlMwLVFkay1Ka0F6dFVHYzBMZ2R1R1Nvb0FZR1JrUmFWTGt2VHRROTM0ZFV5NnF0aFlfMXkybE5EcDFmeVM3WElnTko2dGFRWm1GNmJ5andncFU?oc=5",
+  "title": "Naïma Moutchou : \"Edouard Philippe est le mieux placé pour l'emporter\"",
+  "summary": "",
+  "published": "2026-07-28T09:00+02:00",
+  "mentions": [
+   "philippe"
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": 2,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "c0f11a8be926b725",
+  "outlet": "Le Canard enchaîné",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQb1BRc0FBNzZFNDRQckNKa0l3LXBaWHBWcGRGellycEtkUEJJT0c2cEtkWEdaZ0oxbDdrOHN6eVk1X2xBRW9yN3JDbUdOVXBmZm1Saml1SjBrV3RqQUlXVGxfS3dkaFN2SGZpWHpLemdzODBhSVhoT3piRjZPRUx0UzQyRzJjLWVHUHJvUmNzYjQ3V2tRSnpsYkVUVXJVOEF5Ni14WG45YWh3ZlNwSUFQa1RRRUQ?oc=5",
+  "title": "Présidentielle 2027 : François Hollande prêt à pousser Raphaël Glucksmann dans les roses",
+  "summary": "",
+  "published": "2026-07-28T09:00+02:00",
+  "mentions": [
+   "glucksmann"
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": -1,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "c133c919567e6fa2",
+  "outlet": "La Provence",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOYnRqbHQ3ckY3aF9qZ1ZnbTlhc0hfY0tWQ0ZneGZFMnBjYnF0bm9qMHhacUYyMTdMZVNPZzJyajJSVDZnazdtTk9xVkRFaXJRNndLd1hSMUZJbjFocEc0Q3RxbWQ4ZEJYMk1jVzVHWnlWTG4zbS13S1RNUG1ybThkV3dZaEdHdjZPbFZXR3lMZ1FjWkNpd2E0WGh0a3hxdmpTSjItTHdabmZSY05ncGc3Y2JYdHdFTzY3Y0lIZDZFTzVWOTlmOTBRdmp0aW5CWFZ5QUV4RU5xVkp0bWFtdXpkTktuMWZpUHBRUTFHakpacXZGbl9oZGxFU3Bxd1E?oc=5",
+  "title": "Accueillis par Patrick de Carolis, les jeunes soutiens du candidat Édouard Philippe ont fait escale à Arles",
+  "summary": "",
+  "published": "2026-07-28T09:00+02:00",
+  "mentions": [
+   "philippe"
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": 1,
+    "frame": "sondage_dynamique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "ce0415c6a625a8ac",
+  "outlet": "Le Dauphiné Libéré",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQYndEYkEydEFTMzFCUEpaY0phZGZGYWF6X2tlQ1BpSXFQSlZSWUxpREFQZzFvQ2xPR3o5VHBoQjhLLV9SdldZZ3NwYlJEQ1hwaHkwdTBrWkI4WHZQdnY5UUhPVDVpNmJHLWJKNTR1Nl9qYjJPU29vZ1NEOVhRODBoUmZ3bE9yYkdSZDJ6NXRxbUJTT3Y2VGtaTWcwc29oUWQtYUF6VlJYSnRWUm5sV2lsLVFBYzllTUtZRHVkd0hyOGhRcHM4V1E?oc=5",
+  "title": "Politique. Incendies : le gouvernement de Gabriel Attal a-t-il vraiment empêché l’achat de nouveaux Canadair ?",
+  "summary": "",
+  "published": "2026-07-28T09:00+02:00",
+  "mentions": [
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "e9746b86aeba3b1f",
@@ -233,6 +312,30 @@
   "lean": "centre",
   "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQcGlzRlhYbnFSRXhZVEJpU3FMZHA5U3ZEbVpYQ0R2UVQ3Q0lnNmF2cVI3WVJQQTNXS3hVSnJPR3BnNWpHNm55eDBhVG5WZmhEY3RrZk11WjRjb25leWNZWmdqRUdZQXBsYzBQN0JhZ1hNTzdtYWs5Qll5TUpoR1h2UTd2M1VHUnZoZVdERktVUTZXbjZqV2NCQ2ROeXlWX3hQUVBtSngxbkVYd3owU1FhcjcxNUdfaV9DcmVFaFdFemRoalQ1ZFhTcDMzdGtXMXZSVVR4UjdCTVdoR1Rra3hZdHFmOGlnckVXQXk1UnpOazJPcF8taHBlMmpYck5RQURMTlJpeVVsbU5Kb25aQm5yTHVB?oc=5",
   "title": "Incendies en Gironde : des maires lancent un fonds de solidarité pour récolter 30 millions d’euros",
+  "summary": "",
+  "published": "2026-07-28T09:00+02:00",
+  "mentions": []
+ },
+ {
+  "id": "ee21823cece5b750",
+  "outlet": "Le Dauphiné Libéré",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOcGFlZ0FiWWVJNXh6YVZyazd2UWJLamZQZUxSeG90dktwN0hheFoyVXBTbDBJcUU5NVAtbXdmTEhVNGtlam1LbjRVbVBQRkJwdGs0OUx0UXlmdTZfR1pzbjhnOUxLOF9iX1ZwdU10c1E3LXJVNThqN0lXRkg2TVlSWVFISngyUjMxMVQ3MHBBUVBKcHRXVHFzdUZfU3NjU1VRbFJvR2xOdHFkcXpKdUxaZk16VFFwRXM4NnFOcXhsazhObWswVHEyTWJZd2ExblJHeUdqRDJzNkd4dFFqLV9uME5ZZ0ExNDl3WlhmcWxR?oc=5",
+  "title": "Après la visite de Gabriel Attal, la gauche annécienne tire à boulets rouges sur Antoine Armand et sa majorité",
+  "summary": "",
+  "published": "2026-07-28T09:00+02:00",
+  "mentions": [
+   "attal"
+  ],
+  "analysis": [],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "f844cf1e41650c8b",
+  "outlet": "Nouvelle Énergie",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdE8wLW1ZMklHbi12YW94ZVNMR0IxSEpDdUJnTlhnWmZOdmZYLTd0alFZNmR3S1pmS29yejd6amJSQUhZaGVNSUhZOGdJQW1BYWMwWHVZbXN0bWJqa1gtWVgxXzhtZUR1aWdCQW1KNndHSUNTYl9PZmxMYVhuR2VsRDhJX2ltUDJLRVlR?oc=5",
+  "title": "À Cannes, une Handiplage toujours plus accessible",
   "summary": "",
   "published": "2026-07-28T09:00+02:00",
   "mentions": []

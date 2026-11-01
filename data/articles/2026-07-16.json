@@ -1,5 +1,45 @@
 [
  {
+  "id": "047e3e4f3d25f1c4",
+  "outlet": "Le HuffPost",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSWhuZVRVTzBWLUsyZE0xZUlEREJWdG5NQUdpR1NBNnJMRkFlNzVBN09DUDRyVXR0MWpyUWZFWlc5TWFYVmkwcjVTY1FWVEFJZ3Vmb3VNRnI2YklTZ3RhMFVCUjdsc1UwQ2NVZGhUaXJfVllYZ3d1ODdXSlFMcTlZOHFpbkZrTG1ycXRPekhRSG84V3lQTkd0ekFQN08ydkg0bGctb1JFUGs0bkNLQzNTbmV4MVgzZHdrVV8zX1ZlSnA4U2FtcXNtajRpT0NVdEk?oc=5",
+  "title": "Gabriel Attal a-t-il vraiment empêché la commande de deux Canadair en 2024 ?",
+  "summary": "",
+  "published": "2026-07-16T09:00+02:00",
+  "mentions": [
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "080e91c8bfcf9936",
+  "outlet": "TF1 Info",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZnhoNjNWRVI1NUtMNDlBYWE4cWctd0VWYlhXY3djcExxR09OS0V1aDBMSDVteXU2YktfbE4yN1lQVUszRlN2ZjVoTUFBS3Uzeml4Zzdvd0k2Wi03MFVjZVB1Y3BfY3lrOGdhMEZWN1lQZ2RteUlsSnFJX1dNMVNnQV8xY2hVS2VVOFllQlVEdlVHaURnMDJ3dlFzQmdaWEdudXJTQnZVR0hjMnVrWVV2Mk90NnM3cGF6Mm1tNm5DWXdOUGlKSURDQlN2eWx1RE1zVTVkVm9GOHdNdGVHbmk0YQ?oc=5",
+  "title": "L'édito de David Revault d'Allonnes : Gabriel Attal, la jeunesse comme arme politique",
+  "summary": "",
+  "published": "2026-07-16T09:00+02:00",
+  "mentions": [
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
   "id": "0c828d1b14c1593c",
   "outlet": "l'Opinion",
   "lean": "non classé",
@@ -10,90 +50,44 @@
   "mentions": []
  },
  {
-  "id": "b806aa9853026d1b",
-  "outlet": "Euronews.com",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSXVtOVQyellwZXR0VkQ1bnVyQTltS3BNVWNqdjNMU2FLV1JucWZHSkZXZTJkTlItN3pUNHFYWk1kcGpuUHg2OHppWDByellaLXdqMVJCYktFb2lXYlc5ekxxYWc3dWxMQTZZbmNzdDVjeVJSaWt6ejdJSXBnZkI4SEE2Z04tZDV2Ry0wRFRnQkdKZ3hhRjA2UTdhZHhEeEhySEV2RFNSUWJqY2ZUejkwT09wNEFwZHAwOHc?oc=5",
-  "title": "\"Marine Le Pen est le dernier espoir de la France\", assure Elon Musk, accusé d'ingérence",
-  "summary": "",
-  "published": "2026-07-16T09:00+02:00",
-  "mentions": [
-   "lepen"
-  ]
- },
- {
-  "id": "6ddbc5b3001159f1",
-  "outlet": "Public Sénat",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNd0ZFU1FTRFBBMHN5LURiYzJQSTdMUWRLMmhpZ2hOSHJCXzV5a3BJYnU1ZXJ3aElhN2c1N0NTUE9qQWFxNk1FNDZ2OVl2T1lYNlU2R09ldDlSaDFyZnR6dzAyU1dwMjZQbVJfSW9uV0ZGMHlZc0VPZ0NOMzg4NW1Vck9EQzNuWjlRMGVwZFUyTFV3b0JVWlpqck5xY29TRDNXUXNlTm00emhtRlFKUHh4Q2xYNGFac053elplTzYtelAyZzQ1VGNuSmhCSlR5Q0J0RXo3SVNEcWlmYjByZkxGT1IwTVlhZmpmSlFaQ1dPRTI5RVhpcnpRUUV6ZGxmZw?oc=5",
-  "title": "Interdiction du voile : en envisageant la piste d'un référendum, Marine Le Pen met la pression sur le Conseil constitutionnel",
-  "summary": "",
-  "published": "2026-07-16T09:00+02:00",
-  "mentions": [
-   "lepen"
-  ]
- },
- {
-  "id": "2b50b7483aadb767",
-  "outlet": "TF1 Info",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNaWhSOThyZ2pDQjNsX1F0cW5MbHhtdnIycUlfeFl5VjBzWlJJa3IwZE1LUXZYb21CZFJFRF9ldnlOdkxPOWdjTmZWMmFEU1F2bkt4Z2lXVW5iaGxmMVYwZGRwamktaWhENUktVVFyQ3ZCYWh2b1hCaWNQVHpwNlZyZXlRbjJORDUyTEFkQ1VPeG4yNkpKM0tOeXRWY3NwblMzX2I0MGpmV2ZkTmNPNDhzS0dXMkFOR0s0OGpZZXRjMVEwMGlXWDBlbUR3cTBUaTAyamtIVU9ETTMtT0podXFOelFCRWoyQnBUSXV5VXBKRWpPSVNX?oc=5",
-  "title": "Marine Le Pen \"dernier espoir de la France\" : le soutien d'Elon Musk à la candidate du Rassemblement national embarrasse",
-  "summary": "",
-  "published": "2026-07-16T09:00+02:00",
-  "mentions": [
-   "lepen"
-  ]
- },
- {
-  "id": "e7ffbae72533b2be",
-  "outlet": "l'Opinion",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSzJYb1pyeVN4OHNyVTdpcjE0d2o0SXhZT25ubEhqT2hxd2tpazc1NVZHbEdLOGhBamFYSnczZHRvWFl4MUJuZHJEZEYyQzNVWUEzSzQ4bDZpRkxLZHpJc2tyU1pmZ3dVdFhONnM4RVh0YTVxVllPMlVfNU9paWpSZDJ6VTJ3Z1ppcUdRNlBPTHNNVkZPZDJKbWJFc0JMMjRxM0F0djA5N3FEWnk5eU1DbVAwRUdYeEU?oc=5",
-  "title": "Pourquoi le soutien d’Elon Musk à Marine Le Pen fait craindre une ingérence sans précédent",
-  "summary": "",
-  "published": "2026-07-16T09:00+02:00",
-  "mentions": [
-   "lepen"
-  ]
- },
- {
-  "id": "7c83bf180ef94175",
-  "outlet": "Ouest-France",
+  "id": "134d5f0c84661dc9",
+  "outlet": "Marianne",
   "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNLXFJanVZTFExTnhGUDFmcFdLSDNrZklQMXQwQmxVVVAwOGFtZjc4WU5LRGJmLW1XaXROQUhJT0R6TXZjWEZ4aUdqX2hDcy1tQm41c3cwV0U3enRMd2dObnBxdktQSDg4S3A5TVdhUGVJWjBhNVNzQUNjLWVDTVdZaXFFUW1hY05lc0VwdldMUVhYaDVUMTVRQjJBanFMUzZRRjk5ZDFaNXBxWl9EZF92WC1CSXpjR1BBdDFPVXk4UTZFckFWUGljeW9qYUFHeFYyVGZqai01VGV4M3hJbjJ5NHNvVVdWRU5SVG1PRWp5QzJhenlQRk5MYm9ULW1UQ3lWM0E?oc=5",
-  "title": "Edouard Philippe sur le littoral de Loire-Atlantique pour parler trait de côte et logement saisonnier",
+  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaHZaTFMxZ0gxc0ZQRUprWVdoc213ck5vNjJjM1FiVjlDQ1Q0U2pNMHFUWjA2bDRxdTNsb01XODZaY1FVOFhXOU11a2dzRmwwZmJQb2Y1MFBDQkgtLTdRY1FFZGJPM0Q5eVRPRFdKQ0s4NHpGdm1GakVKaFgxcFRCSnpiN0VnQmhIVEZuNjlSRXFsbWxnYWVTMHRwbHZZZzhQZ2c?oc=5",
+  "title": "Polémique sur les Canadair : Gabriel Attal pris entre deux mégafeux",
   "summary": "",
   "published": "2026-07-16T09:00+02:00",
   "mentions": [
-   "philippe"
-  ]
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": -1,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "fb7938ae0016f9b9",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQbHJIb0ZEX3lmcUkybzZHdEJxQzgzbGV5bE1OZUZ3QWpBMVlWSE43NTdocl9OcWNEc1NheEVvUXc0WV9aLVozZFphMnZoaUtQMlJBWGl2VmQ4VncyRzdDQTZtUDQ0V29FdHpRUWctMnNJMGlYbU1ZdlJ2dkN6VW5mcDZfbmZyY1kzRy03YXVQcmFWS1FlNmt4WVlOT29aV0M1MS1FV2I3UDFTWDlIYTYyaHZ4M0I4MTNaRHJhVW91TWkxVklOT0g5NVNaRGFOQ3hPRzc3SklNQU5Wc1BYUWxfTElheC1JWXM5ZGVuNVBrNjBDNTdBdEk1Y1B4QUxWVzZ2T1Q4Q29nR0Jqc0tTUi1tcXdqR0RiNDk1WTNYTVY2TnlpYzd5TG52SmRqWXFvTnZSeHF3aDBNeFVfeWdYblZMaDNXTUM?oc=5",
-  "title": "Présidentielle 2027: Sébastien Lecornu jugé meilleur candidat qu'Édouard Philippe et Gabriel Attal par les électeurs Renaissance selon un sondage",
+  "id": "151a539c9bb5f055",
+  "outlet": "Valeurs actuelles",
+  "lean": "droite",
+  "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQNUdTMVRfdlVva1NubHFLdXRNUExaSVVxaU85QTd4WV9vanpmVkkxLVBrYXQ4TDNUd1lpakwzRDhvNHlRN0VyVW1fMHdTbVdlc2lPLTQxcl9OSVpvbFRnbEFxcE15MkJLUzk1RklZX0x1OFlZSjZwNHh4MDJzd3paYkxYSzdYWDlSdkRfd0M4Y3NDT0w4NGg5d2ZDalQ5SnB5YXZqUDZFS09fdFFHR0g3Sm9tTFRON0JaUklRdkZ1TFlMY2wwc09mUkZiV2hzWGhyblJSTWExdkY1MDFOeEVVd2V4UE0zazQyZEx5LVdmUy04VlVPb1JnOEMyQWdYcWlONEU2U0pkNGNNcDFKb1BVZlpUUQ?oc=5",
+  "title": "Présidentielle 2027 : les soldats sulfureux de Jean-Luc Mélenchon",
   "summary": "",
   "published": "2026-07-16T09:00+02:00",
   "mentions": [
-   "philippe",
-   "attal"
-  ]
- },
- {
-  "id": "63a5e1881183a678",
-  "outlet": "lejdd.fr",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOWnR4Rml1bEFZUTlhaUVlZG8yZGNjcFgwN0xBVUNxazNTUS1mWEhseUFmM2FxR2hsZ0ZTUDdTLUp4ZXBmTWhoM1BuZlh3UjFIbC1iTXRNNW9KTDNnUWx2Sy1tbmpZVnFhLTRkZlJGWS1Nd1VwOWEwNHc5SlBFWm1FZ0NSZFBYMW5rc193a1UzdnVKdnFEX0txVEd6RXhocDN3VEJoSFg5bFJKZmEtUDJjTUxLU20zQlRTd2RnQllEOEpmcDRwSUxPMWtIQWliMTRsLWZKRGtqLWFManlpRVU5OFBtNA?oc=5",
-  "title": "Présidentielle : Sébastien Lecornu devance Gabriel Attal et Édouard Philippe auprès des sympathisants Renaissance",
-  "summary": "",
-  "published": "2026-07-16T09:00+02:00",
-  "mentions": [
-   "philippe",
-   "attal"
-  ]
+   "melenchon"
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "1e12df36c4e02171",
@@ -106,162 +100,50 @@
   "mentions": [
    "lepen",
    "philippe"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   },
+   {
+    "id": "philippe",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "d6509b792256f883",
-  "outlet": "20 Minutes",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMm1PNnFWU29EWDB5a1NaRmdZRXd6TmJUd21EWXFBT2JwaUJHLTlGZTFyQ2k5bndib1VDVGdRQ2ctbFFQOHk1SVpnbEViUnlRLTFVVUtLZEd6bmQ3QmpSVUNjbmplelJCRk4tWkNxQW1zdFZSakZVbGRMX3RPdnNiTGZYQ2ZjRDY4WmxiN2dqbzhrdEV6d0Fpcm1jb3Q1S2Vqb2hBU0s0WmlJSzNlVWZ0dnhFMUFmSVNpNlN6VGpXWkNHeGpjcjJFNWNR?oc=5",
-  "title": "Raphaël Glucksmann a-t-il déjà remporté son bras de fer avec le PS ?",
+  "id": "2b50b7483aadb767",
+  "outlet": "TF1 Info",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNaWhSOThyZ2pDQjNsX1F0cW5MbHhtdnIycUlfeFl5VjBzWlJJa3IwZE1LUXZYb21CZFJFRF9ldnlOdkxPOWdjTmZWMmFEU1F2bkt4Z2lXVW5iaGxmMVYwZGRwamktaWhENUktVVFyQ3ZCYWh2b1hCaWNQVHpwNlZyZXlRbjJORDUyTEFkQ1VPeG4yNkpKM0tOeXRWY3NwblMzX2I0MGpmV2ZkTmNPNDhzS0dXMkFOR0s0OGpZZXRjMVEwMGlXWDBlbUR3cTBUaTAyamtIVU9ETTMtT0podXFOelFCRWoyQnBUSXV5VXBKRWpPSVNX?oc=5",
+  "title": "Marine Le Pen \"dernier espoir de la France\" : le soutien d'Elon Musk à la candidate du Rassemblement national embarrasse",
   "summary": "",
   "published": "2026-07-16T09:00+02:00",
   "mentions": [
-   "glucksmann"
-  ]
+   "lepen"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": 1,
+    "frame": "sondage_dynamique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "62891efd9ae51f78",
+  "id": "2e2920e6c796eba5",
   "outlet": "Le Figaro",
   "lean": "droite",
-  "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcFQzdl9WdENidkhZckxsUHotRFhLLVNEcllra2tyODdKeVFMWnoxdkJaNU9NNUtSWHdYckQtaDdQdGxvb3IwbGRKRHNsdGlIQXBtUm9FVmhMcWxrRUt2YXpQNWxDQ3pLU1lLS3JFMUJjX0F5d3ROOUVTZnMtTWtiRFhRQzRRYU9JaVdzaUdaeHBkX093cnVVcWREbXZ2RzY5dUdzVUFveUFpNFlxc3cxUTBmaVNkVXBfZzJ2S3JUcUVVeVZtaHRlOE9R?oc=5",
-  "title": "L’été de Raphaël Glucksmann placé sous le signe de la présidentielle",
-  "summary": "",
-  "published": "2026-07-16T09:00+02:00",
-  "mentions": [
-   "glucksmann"
-  ]
- },
- {
-  "id": "c96ac055b30d596e",
-  "outlet": "https://www.parlons-politique.fr/",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQemRVWTVJOW91X01oRUJnV2JSWWdjemtzVlRUdjBpMDllOTRISjZuTWNDRUlndG94MW85dGw5RXVwWG5uN2p2V3RRaE9MTTNHc2phbkVtai1NaWVkZS1YWEF6dEFZTjFPbGxGMThlNUY0ZzZybkdhOWY0MVRSbkI0ZEl3MXFweDlUNzdfUkNnSkQxVzV5LU1jNkpSajJrWEVkWFo2SHNWaDdid3pSeElSXzdIOUQyV1B4cy1PenJuNDVZS2xmUWd2Z1k5RGNlVHFEYnE0eEhLMGo0eEZGU09obWNXVU51eHNrT0xobFlBSkNTQQ?oc=5",
-  "title": "Présidentielle 2027 à gauche : Glucksmann avance sans trancher, entre primaire rejetée et pari citoyen en Gironde",
-  "summary": "",
-  "published": "2026-07-16T09:00+02:00",
-  "mentions": [
-   "glucksmann"
-  ]
- },
- {
-  "id": "de8702e449baee6a",
-  "outlet": "Europe 1",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOYU5BNW5FMzNLVjNFSVFmdEFwcGxnMno5czRmbGlMeXpUdXhPRXRRRExDM19vS20xLWRJN29yWVA4UGpKTmp5UDNXT1JRX2VxTW9yLVFJdU1FUHQxcTBsZGx4ckg3VnpIUkQta2hmeFdLc1ZPR09LeTJnb0w0Y2s2aDRQdVFqUUQwbTVicS1ra2haN0wwSWVlVC1XeFZsNFpqQnNrOTRCRk5TOVJkcFdySENaYTdfY2h5dGxhbC1RVmlTUG5uRjFkRXl3a00zSTlBZk9LOWV3OU5jTWtxMnfSAeMBQVVfeXFMT2c0d0VlUjl0bjNSYTFzX1c2YlhORS1FWXR6WHhjekdMcFpBZU1FaEZlbS04NV84bEQtQmtGZXdQT2JRcURiWFF4b3ZDdFNTOVFsUFZKUXBIZ2czY0JWWmpmaENvMkdwSzhUQXp6MjN5VDlmVjFldzdxSG1pVmFaQTBTRU9RSmhzcGdyY18xQTJZdkJlcDVDV243bTE1UHdxcVZEM0lqdE94bzJzVnNyWXlYckt6MHNKMTI3NTJMZTRTaC1XU0RBbVRSYUpxY2J1b3BsWDdlS0MyZU91S3NKTjJPNHc?oc=5",
-  "title": "«Je peux être utile» : François Hollande avance ses pions et croit en ses chances pour la présidentielle 2027",
+  "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNaHdEeHJvZ096SG84d1JGLTc0dUJSbUthb2FOVnpWYVRGTW9jNHA1WmlBS3M4LVh2dkl2N2JMSEQxc2hRNHpYSXlHQ0tNZk1DT1hEckJpTl9vbWdxNXRtemtJaDYyRUpySzQ2Y1BGY0dwM2N0czJrSXJNTi1TS3NhSGFYVnJOUi1ROURIQ2FVTWlqOHMzSGVYN3pUNkpxeHhMcG5fSURvVEUtc3JhYVB1MXRqY0IzNG1fOFRPZTQ1eXdWTGwyeW9ra3JSN3lZbVVheE8ycFEtMU5ZeTBWTDlZb3JmZktNSkxaT1lSZA?oc=5",
+  "title": "« Il faut se méfier des gens qui ne veulent pas y aller » : l’hypothèse Lecornu, recours du bloc central",
   "summary": "",
   "published": "2026-07-16T09:00+02:00",
   "mentions": []
- },
- {
-  "id": "eed26c48ce0a4d65",
-  "outlet": "attalpresident.fr",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRzJveVdqTGFNZGNCSy03bG1kbjJMZU1Nd3hSd3VpUy1HV0JFVC1jMG9FREJVX29id2xKZ0t0SjFRRTNkSnh2dWxwRG1lZlZUU0l6cjdsSkVsQlMzTEMzRU90Z2p0S3k2YzRqeElhTXVmZUQzWkdfZFRFWTJ1ZlR5UVoxbDZpV19xV1MwWHRiMHBxNWNpQ0U1R1JwbExDcXVfNEdmeQ?oc=5",
-  "title": "Gabriel Attal annonce un meeting le 10 octobre à Lyon",
-  "summary": "",
-  "published": "2026-07-16T09:00+02:00",
-  "mentions": [
-   "attal"
-  ]
- },
- {
-  "id": "134d5f0c84661dc9",
-  "outlet": "Marianne",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaHZaTFMxZ0gxc0ZQRUprWVdoc213ck5vNjJjM1FiVjlDQ1Q0U2pNMHFUWjA2bDRxdTNsb01XODZaY1FVOFhXOU11a2dzRmwwZmJQb2Y1MFBDQkgtLTdRY1FFZGJPM0Q5eVRPRFdKQ0s4NHpGdm1GakVKaFgxcFRCSnpiN0VnQmhIVEZuNjlSRXFsbWxnYWVTMHRwbHZZZzhQZ2c?oc=5",
-  "title": "Polémique sur les Canadair : Gabriel Attal pris entre deux mégafeux",
-  "summary": "",
-  "published": "2026-07-16T09:00+02:00",
-  "mentions": [
-   "attal"
-  ]
- },
- {
-  "id": "3684c78468283ee6",
-  "outlet": "RTL",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNWY4Yng4SEpsRHlLMVMxUXpCcTVVdlIzVFBJMkUzdWhpSEJZMTI2NURnRE1rQ1lia2Fpb2lzYWY2UGY0UUsxbk51V1pGallKR0hTbG1JSFpiUGEwd3hWWEM4VlAxU0JHX1dPMmlNV1hmME9PdlcyakRzX2RiMGRNdldDR2g2V2prMHNJbkx2Uy1EXy1ncmJSODFTLUtPU0JNR1BHZFVQck1abGFsYVpRYkRkc3lPT2RKajZPbjdIc3g2V0RvNmlJY1FXbFZkcUxfT3Nv?oc=5",
-  "title": "Gabriel Attal a-t-il vraiment annulé l’achat de deux Canadair, comme l'affirment LFI et le RN ?",
-  "summary": "",
-  "published": "2026-07-16T09:00+02:00",
-  "mentions": [
-   "attal"
-  ]
- },
- {
-  "id": "047e3e4f3d25f1c4",
-  "outlet": "Le HuffPost",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSWhuZVRVTzBWLUsyZE0xZUlEREJWdG5NQUdpR1NBNnJMRkFlNzVBN09DUDRyVXR0MWpyUWZFWlc5TWFYVmkwcjVTY1FWVEFJZ3Vmb3VNRnI2YklTZ3RhMFVCUjdsc1UwQ2NVZGhUaXJfVllYZ3d1ODdXSlFMcTlZOHFpbkZrTG1ycXRPekhRSG84V3lQTkd0ekFQN08ydkg0bGctb1JFUGs0bkNLQzNTbmV4MVgzZHdrVV8zX1ZlSnA4U2FtcXNtajRpT0NVdEk?oc=5",
-  "title": "Gabriel Attal a-t-il vraiment empêché la commande de deux Canadair en 2024 ?",
-  "summary": "",
-  "published": "2026-07-16T09:00+02:00",
-  "mentions": [
-   "attal"
-  ]
- },
- {
-  "id": "080e91c8bfcf9936",
-  "outlet": "TF1 Info",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZnhoNjNWRVI1NUtMNDlBYWE4cWctd0VWYlhXY3djcExxR09OS0V1aDBMSDVteXU2YktfbE4yN1lQVUszRlN2ZjVoTUFBS3Uzeml4Zzdvd0k2Wi03MFVjZVB1Y3BfY3lrOGdhMEZWN1lQZ2RteUlsSnFJX1dNMVNnQV8xY2hVS2VVOFllQlVEdlVHaURnMDJ3dlFzQmdaWEdudXJTQnZVR0hjMnVrWVV2Mk90NnM3cGF6Mm1tNm5DWXdOUGlKSURDQlN2eWx1RE1zVTVkVm9GOHdNdGVHbmk0YQ?oc=5",
-  "title": "L'édito de David Revault d'Allonnes : Gabriel Attal, la jeunesse comme arme politique",
-  "summary": "",
-  "published": "2026-07-16T09:00+02:00",
-  "mentions": [
-   "attal"
-  ]
- },
- {
-  "id": "c6d91c89b004a971",
-  "outlet": "ladepeche.fr",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxORmVQeUtvNUVZc3ZpR2djang5eWZwOTdJeG1DQW5xWjRuVjdnYTNjWF9Ya2FTbDYydEJBSXNjQmFCVndzQ1RhVElzSHdGd3ZESklzYzJlTmZDRDhmWVFvX1QtZnJQWUtaenFxLWR2dzVTdGVIb3VjS0lNcjZCZmdwcUVlVTd4R3BIZEgtMnVRYXhkck5wVWgtbTM3bXhzTjFnYjRBM0hrR1RXak1leG80TUN6cEIxYnJRSEx0WndZc083VGtvR3RJbmp2RmxKTmU1OEc1Vk9sUWh4X1NrZ1VHTEJvalUxaTM4M1l5UmJ5STVTbVRiV2t3d1k4NVNIRDB1QkY0MWRsc0hyclp6ZnRMMGU2aWFUR29UaUR2SWJR?oc=5",
-  "title": "Commandes de Canadair : \"Jean-Luc Mélenchon fait du trumpisme et raconte absolument n’importe quoi\", l’ancien Premier ministre Gabriel Attal fustige le leader insoumis",
-  "summary": "",
-  "published": "2026-07-16T09:00+02:00",
-  "mentions": [
-   "melenchon",
-   "attal"
-  ]
- },
- {
-  "id": "834d9ca3e930c331",
-  "outlet": "RFI",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZVVzdVBiN2ZTcUdYOXRyYzRZQ2sxdXJKLWUzUnZXYm0xaXdicGZvMUUzNVRKRGJobXVfMVJ0T25fY05xVmMtbGk5QnpzV2ZpZjgxWFp4OG82djBOdnFEeXBWaWk0Sm5PSVpad3lmQnpzWjNBaHR0ektsLWNoTW1vNEVRUTdOUlJFSkQyRXVlYTN4M0N0QzRVY3VsczhINC1xS3FqeVh1d0pOaDZsdmdLMzhZYklxSVE4VWp6RWNuNkRMeUtWeTBOTzFMeWhlUV80QUZrcnpibHBpQQ?oc=5",
-  "title": "France: la polémique sur les Canadairs rattrape Gabriel Attal en pleine campagne présidentielle",
-  "summary": "",
-  "published": "2026-07-16T09:00+02:00",
-  "mentions": [
-   "attal"
-  ]
- },
- {
-  "id": "a3bb2ee355dff898",
-  "outlet": "Boulevard Voltaire",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUDJWYTZGQkZ0LTRKSlJQdkJqcTJoY010dUNCR1VJWkdWNGIza2hhNW4temxXNGludlZGV3NTNGlyTjZJRi0xblJLbnpJcGlsX3NKbmRfbHBPRmg0MGYxd2VjSkx4OENVQ0o3a3dhT0Q0QVhGX2VCUXNKdjdmcndWQ1g3ajhlZlVuSDVYc1l2Rm45dw?oc=5",
-  "title": "Léaument, face à Zemmour, réécrit l’histoire du drapeau tricolore",
-  "summary": "",
-  "published": "2026-07-16T09:00+02:00",
-  "mentions": [
-   "zemmour"
-  ]
- },
- {
-  "id": "593954a5f16a4ad8",
-  "outlet": "Le Figaro",
-  "lean": "droite",
-  "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPLVVHeEltZ2d5eV9Zb1B4Qmozc2FLYjNVQUlfSXhESUR4Z1pXVi1uXzNtd3Y1UTh2V2o4Z2hNUmdYQVM1Q1lfS0hLdlh1bVhhZVR4NVBKYkJZZUxoSlduZ2FNTFRGMDRfYlNvdWF5MGIyamJGVExadGRXSHpnVkwtQkRnOTVIcEtKWWhUbDVIeHdQLTFIaV9YN290X3JuMXRKV2pTY3ZiVkU4NGlpZ3lYaFdaVFJKS1pyWTlPMXRQenVlNzBZWXFEVFVQaVI2Qm5aNWFoYzlaa3VsUzRZempLcV9tenpHSktRbTFROE0tbXc?oc=5",
-  "title": "Loi sur l’aide à mourir : Bruno Retailleau exhorte les membres du Conseil constitutionnel à «ne pas être juge et partie»",
-  "summary": "",
-  "published": "2026-07-16T09:00+02:00",
-  "mentions": [
-   "retailleau"
-  ]
  },
  {
   "id": "2fc47f3228521122",
@@ -273,19 +155,15 @@
   "published": "2026-07-16T09:00+02:00",
   "mentions": [
    "lisnard"
-  ]
- },
- {
-  "id": "68760c686cdcb97c",
-  "outlet": "Politis.fr",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYTJGU0Q2aW9aTFdrSzNkQVdzRE00YUNmOUpIUHJXcTRCTnB4Vk1hZEJjYU5VdXh3b0w3SWRfc216T3FudjhFeFU3bEU1MEJDOUFsRHpKeFlaTW11bnlhVHFqQW9kU3E0QWdHRzFmT3hWYV90ZFRIdXRkWW5Icy1JVmxHR1dIeFlHODFid1lzb0ZHX2xRcUhKVTNGWGNiWUVWbkJaUHljZGpCbUM1WUdxUHRGMDZzcU0?oc=5",
-  "title": "Marine Le Pen : une justice sous influence des sondages",
-  "summary": "",
-  "published": "2026-07-16T09:00+02:00",
-  "mentions": [
-   "lepen"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "lisnard",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "3617cfb85cffac94",
@@ -297,66 +175,35 @@
   "published": "2026-07-16T09:00+02:00",
   "mentions": [
    "melenchon"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "ee7568ead3563fc6",
-  "outlet": "TF1 Info",
+  "id": "3684c78468283ee6",
+  "outlet": "RTL",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQSmlUblg3YmlmX0pfTlVVX2dBS0JKVUF1eHBwc0xELUN4a2NFQW54QkJ3c0ZSMGdxYVFCU01tR0puZWZyd3UxeHhucHBWM2d2M1lhc0FVTmpRcUhuLUxlNkM4ejhMbEdyT3FQZHVWS2drM2t4dVFIY1FBLThTRzNqcmNyYk5FUXdyS29hbEU3M2NxV2dfeDk3Y0hzMmltN2xFUlJacFBEWHhFUGZCdWpweDhyejYyeFNWMW1QSUgydzlRbnFSRGxYdHVGc09teHpiWUp4MXBHOWJmY0lDNVVkNVBFVE13R0hLNkx2eW90Mlo?oc=5",
-  "title": "VÉRIF' - Jean-Luc Mélenchon a-t-il vraiment affirmé dans une interview que \"le Front national réhabilite la politique\"",
+  "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNWY4Yng4SEpsRHlLMVMxUXpCcTVVdlIzVFBJMkUzdWhpSEJZMTI2NURnRE1rQ1lia2Fpb2lzYWY2UGY0UUsxbk51V1pGallKR0hTbG1JSFpiUGEwd3hWWEM4VlAxU0JHX1dPMmlNV1hmME9PdlcyakRzX2RiMGRNdldDR2g2V2prMHNJbkx2Uy1EXy1ncmJSODFTLUtPU0JNR1BHZFVQck1abGFsYVpRYkRkc3lPT2RKajZPbjdIc3g2V0RvNmlJY1FXbFZkcUxfT3Nv?oc=5",
+  "title": "Gabriel Attal a-t-il vraiment annulé l’achat de deux Canadair, comme l'affirment LFI et le RN ?",
   "summary": "",
   "published": "2026-07-16T09:00+02:00",
   "mentions": [
-   "melenchon"
-  ]
- },
- {
-  "id": "151a539c9bb5f055",
-  "outlet": "Valeurs actuelles",
-  "lean": "droite",
-  "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQNUdTMVRfdlVva1NubHFLdXRNUExaSVVxaU85QTd4WV9vanpmVkkxLVBrYXQ4TDNUd1lpakwzRDhvNHlRN0VyVW1fMHdTbVdlc2lPLTQxcl9OSVpvbFRnbEFxcE15MkJLUzk1RklZX0x1OFlZSjZwNHh4MDJzd3paYkxYSzdYWDlSdkRfd0M4Y3NDT0w4NGg5d2ZDalQ5SnB5YXZqUDZFS09fdFFHR0g3Sm9tTFRON0JaUklRdkZ1TFlMY2wwc09mUkZiV2hzWGhyblJSTWExdkY1MDFOeEVVd2V4UE0zazQyZEx5LVdmUy04VlVPb1JnOEMyQWdYcWlONEU2U0pkNGNNcDFKb1BVZlpUUQ?oc=5",
-  "title": "Présidentielle 2027 : les soldats sulfureux de Jean-Luc Mélenchon",
-  "summary": "",
-  "published": "2026-07-16T09:00+02:00",
-  "mentions": [
-   "melenchon"
-  ]
- },
- {
-  "id": "fda68f3dbedbd909",
-  "outlet": "CNews",
-  "lean": "droite",
-  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVWZsUm1oRlRwVjNGbXNkR3pSRlk4V3pXX3BHWWtRNXc3YS1kNlhySmZEeVNIb0t0VkhuaEU0NWN5WXJISmw2UVpRSERMOE5Tc2VVV1JCSFg4SmZjS0xZZ1VOZmFQM1VpTUxiR2FKUTVVeVRYZHpzTFk2MFNUT25jOExPN2J6MWdqN0g4RG1jMVBWWGU0dFg1Zkx0czNBQTdabkJoWnIwR0VId0dUVUsyVXJKNnZjS0taYVHSAb8BQVVfeXFMTnhfb2tTSk9HcFBCR182bGdsVkU0dUlQRXBHeGNFSXBBOW41U2RldTZTZmVsWTZSOGlYRU80Mm5oVF9lRGVVdU5LQXl2WUx1cVRlQm9fWDBkVzdkbFJaS1dLT3FvV3NaeWdzLXQ2NTljS2M4LXBOOVFEU0tfV0tuNENEbVFGOGZ4cXVvNDRlVjRuU2dkRW1tMGlpdkg0YndwVFZYXzhzeTFDS3FlSGw3Zk0wQlNVMlM1emU1V2Rta00?oc=5",
-  "title": "«Jean-Luc Mélenchon est toujours dans la provocation à l'égard des forces de l'ordre», déplore Jean-Didier Berger",
-  "summary": "",
-  "published": "2026-07-16T09:00+02:00",
-  "mentions": [
-   "melenchon"
-  ]
- },
- {
-  "id": "a6ea71d21ba31d1b",
-  "outlet": "franceinfo",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRUJKZklWQUdPbk1HbmNiVG5OMmhCNjdsUDQ5b0Rxd3MzU1MzZGpuN0REc2t3SGdYdGFXTHpPLVJpWHVhVXFSNmh6UTJNWW1MTWV3VncxcmtBSXc4ZDBQRVNhZ0lJUnpoSXRmakNtS3V0cWpmbWtKdW5kcktKRktxSDZhaldYZWFXVzFQNHF4UVZ4c0VIYlN1SnBFV3NTS0toT1dpeTZ5cDBTeklIVVlMTUFhX05wRThlM1h3WV8wanQ3NUtLZ3FmeQ?oc=5",
-  "title": "Polémique sur les Canadair : Gabriel Attal répond à Jean-Luc Mélenchon",
-  "summary": "",
-  "published": "2026-07-16T09:00+02:00",
-  "mentions": [
-   "melenchon",
    "attal"
-  ]
- },
- {
-  "id": "dff03ebf778c37f5",
-  "outlet": "La Règle du Jeu",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRE16ZEtiazJhS25LbG5KNVRTcndfbmZ0WG95NzU4bmRTNnJNUUpkZHFUUW1aSVZkUDlJMTh3dzFRMW4xbWZDZjYyNVozVWVZSTZRSHJCMXFBLUZESW1ITEVNU1VGNEFRVFJtMGo1Y25DNmkyNXJ5bzA0Sm1iRE90MjNrUzJJRE5SOWxtQUVkcC11eU9kbDNUVjZBU0hWTTQ?oc=5",
-  "title": "Un psychanalyste à sa fenêtre : Le secrétaire aux viandes",
-  "summary": "",
-  "published": "2026-07-16T09:00+02:00",
-  "mentions": []
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "4eba893622d4d92d",
@@ -368,29 +215,35 @@
   "published": "2026-07-16T09:00+02:00",
   "mentions": [
    "lepen"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": -1,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "daadc9181b169f9d",
-  "outlet": "Next INpact",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVUh5MnJjZ0Y0dGplbDN0eEpOZ1BuQmg0Y3BNT3lHTW54Zkk3Vk04M1Y2aXR3dWRBRG1rRkt3TENCbktmcG1VU0Z5ajU0djc3TG9aU28tampycTVpS1pLazR2UTFaSmRlSFBnRFdpck54b0RpZlRGeXBKTVVyeEhBTDJqNmJucXpa?oc=5",
-  "title": "Pour Bruno Retailleau, l’IA « n’attend pas notre consentement »",
+  "id": "593954a5f16a4ad8",
+  "outlet": "Le Figaro",
+  "lean": "droite",
+  "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPLVVHeEltZ2d5eV9Zb1B4Qmozc2FLYjNVQUlfSXhESUR4Z1pXVi1uXzNtd3Y1UTh2V2o4Z2hNUmdYQVM1Q1lfS0hLdlh1bVhhZVR4NVBKYkJZZUxoSlduZ2FNTFRGMDRfYlNvdWF5MGIyamJGVExadGRXSHpnVkwtQkRnOTVIcEtKWWhUbDVIeHdQLTFIaV9YN290X3JuMXRKV2pTY3ZiVkU4NGlpZ3lYaFdaVFJKS1pyWTlPMXRQenVlNzBZWXFEVFVQaVI2Qm5aNWFoYzlaa3VsUzRZempLcV9tenpHSktRbTFROE0tbXc?oc=5",
+  "title": "Loi sur l’aide à mourir : Bruno Retailleau exhorte les membres du Conseil constitutionnel à «ne pas être juge et partie»",
   "summary": "",
   "published": "2026-07-16T09:00+02:00",
   "mentions": [
    "retailleau"
-  ]
- },
- {
-  "id": "2e2920e6c796eba5",
-  "outlet": "Le Figaro",
-  "lean": "droite",
-  "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNaHdEeHJvZ096SG84d1JGLTc0dUJSbUthb2FOVnpWYVRGTW9jNHA1WmlBS3M4LVh2dkl2N2JMSEQxc2hRNHpYSXlHQ0tNZk1DT1hEckJpTl9vbWdxNXRtemtJaDYyRUpySzQ2Y1BGY0dwM2N0czJrSXJNTi1TS3NhSGFYVnJOUi1ROURIQ2FVTWlqOHMzSGVYN3pUNkpxeHhMcG5fSURvVEUtc3JhYVB1MXRqY0IzNG1fOFRPZTQ1eXdWTGwyeW9ra3JSN3lZbVVheE8ycFEtMU5ZeTBWTDlZb3JmZktNSkxaT1lSZA?oc=5",
-  "title": "« Il faut se méfier des gens qui ne veulent pas y aller » : l’hypothèse Lecornu, recours du bloc central",
-  "summary": "",
-  "published": "2026-07-16T09:00+02:00",
-  "mentions": []
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "5c1dacb8e308dfce",
@@ -412,7 +265,187 @@
   "published": "2026-07-16T09:00+02:00",
   "mentions": [
    "attal"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "62891efd9ae51f78",
+  "outlet": "Le Figaro",
+  "lean": "droite",
+  "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcFQzdl9WdENidkhZckxsUHotRFhLLVNEcllra2tyODdKeVFMWnoxdkJaNU9NNUtSWHdYckQtaDdQdGxvb3IwbGRKRHNsdGlIQXBtUm9FVmhMcWxrRUt2YXpQNWxDQ3pLU1lLS3JFMUJjX0F5d3ROOUVTZnMtTWtiRFhRQzRRYU9JaVdzaUdaeHBkX093cnVVcWREbXZ2RzY5dUdzVUFveUFpNFlxc3cxUTBmaVNkVXBfZzJ2S3JUcUVVeVZtaHRlOE9R?oc=5",
+  "title": "L’été de Raphaël Glucksmann placé sous le signe de la présidentielle",
+  "summary": "",
+  "published": "2026-07-16T09:00+02:00",
+  "mentions": [
+   "glucksmann"
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "63a5e1881183a678",
+  "outlet": "lejdd.fr",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOWnR4Rml1bEFZUTlhaUVlZG8yZGNjcFgwN0xBVUNxazNTUS1mWEhseUFmM2FxR2hsZ0ZTUDdTLUp4ZXBmTWhoM1BuZlh3UjFIbC1iTXRNNW9KTDNnUWx2Sy1tbmpZVnFhLTRkZlJGWS1Nd1VwOWEwNHc5SlBFWm1FZ0NSZFBYMW5rc193a1UzdnVKdnFEX0txVEd6RXhocDN3VEJoSFg5bFJKZmEtUDJjTUxLU20zQlRTd2RnQllEOEpmcDRwSUxPMWtIQWliMTRsLWZKRGtqLWFManlpRVU5OFBtNA?oc=5",
+  "title": "Présidentielle : Sébastien Lecornu devance Gabriel Attal et Édouard Philippe auprès des sympathisants Renaissance",
+  "summary": "",
+  "published": "2026-07-16T09:00+02:00",
+  "mentions": [
+   "philippe",
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": -1,
+    "frame": "sondage_dynamique"
+   },
+   {
+    "id": "attal",
+    "tone": -1,
+    "frame": "sondage_dynamique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "68760c686cdcb97c",
+  "outlet": "Politis.fr",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYTJGU0Q2aW9aTFdrSzNkQVdzRE00YUNmOUpIUHJXcTRCTnB4Vk1hZEJjYU5VdXh3b0w3SWRfc216T3FudjhFeFU3bEU1MEJDOUFsRHpKeFlaTW11bnlhVHFqQW9kU3E0QWdHRzFmT3hWYV90ZFRIdXRkWW5Icy1JVmxHR1dIeFlHODFid1lzb0ZHX2xRcUhKVTNGWGNiWUVWbkJaUHljZGpCbUM1WUdxUHRGMDZzcU0?oc=5",
+  "title": "Marine Le Pen : une justice sous influence des sondages",
+  "summary": "",
+  "published": "2026-07-16T09:00+02:00",
+  "mentions": [
+   "lepen"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": -1,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "6ddbc5b3001159f1",
+  "outlet": "Public Sénat",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNd0ZFU1FTRFBBMHN5LURiYzJQSTdMUWRLMmhpZ2hOSHJCXzV5a3BJYnU1ZXJ3aElhN2c1N0NTUE9qQWFxNk1FNDZ2OVl2T1lYNlU2R09ldDlSaDFyZnR6dzAyU1dwMjZQbVJfSW9uV0ZGMHlZc0VPZ0NOMzg4NW1Vck9EQzNuWjlRMGVwZFUyTFV3b0JVWlpqck5xY29TRDNXUXNlTm00emhtRlFKUHh4Q2xYNGFac053elplTzYtelAyZzQ1VGNuSmhCSlR5Q0J0RXo3SVNEcWlmYjByZkxGT1IwTVlhZmpmSlFaQ1dPRTI5RVhpcnpRUUV6ZGxmZw?oc=5",
+  "title": "Interdiction du voile : en envisageant la piste d'un référendum, Marine Le Pen met la pression sur le Conseil constitutionnel",
+  "summary": "",
+  "published": "2026-07-16T09:00+02:00",
+  "mentions": [
+   "lepen"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "7c83bf180ef94175",
+  "outlet": "Ouest-France",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNLXFJanVZTFExTnhGUDFmcFdLSDNrZklQMXQwQmxVVVAwOGFtZjc4WU5LRGJmLW1XaXROQUhJT0R6TXZjWEZ4aUdqX2hDcy1tQm41c3cwV0U3enRMd2dObnBxdktQSDg4S3A5TVdhUGVJWjBhNVNzQUNjLWVDTVdZaXFFUW1hY05lc0VwdldMUVhYaDVUMTVRQjJBanFMUzZRRjk5ZDFaNXBxWl9EZF92WC1CSXpjR1BBdDFPVXk4UTZFckFWUGljeW9qYUFHeFYyVGZqai01VGV4M3hJbjJ5NHNvVVdWRU5SVG1PRWp5QzJhenlQRk5MYm9ULW1UQ3lWM0E?oc=5",
+  "title": "Edouard Philippe sur le littoral de Loire-Atlantique pour parler trait de côte et logement saisonnier",
+  "summary": "",
+  "published": "2026-07-16T09:00+02:00",
+  "mentions": [
+   "philippe"
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "834d9ca3e930c331",
+  "outlet": "RFI",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZVVzdVBiN2ZTcUdYOXRyYzRZQ2sxdXJKLWUzUnZXYm0xaXdicGZvMUUzNVRKRGJobXVfMVJ0T25fY05xVmMtbGk5QnpzV2ZpZjgxWFp4OG82djBOdnFEeXBWaWk0Sm5PSVpad3lmQnpzWjNBaHR0ektsLWNoTW1vNEVRUTdOUlJFSkQyRXVlYTN4M0N0QzRVY3VsczhINC1xS3FqeVh1d0pOaDZsdmdLMzhZYklxSVE4VWp6RWNuNkRMeUtWeTBOTzFMeWhlUV80QUZrcnpibHBpQQ?oc=5",
+  "title": "France: la polémique sur les Canadairs rattrape Gabriel Attal en pleine campagne présidentielle",
+  "summary": "",
+  "published": "2026-07-16T09:00+02:00",
+  "mentions": [
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": -1,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "a3bb2ee355dff898",
+  "outlet": "Boulevard Voltaire",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUDJWYTZGQkZ0LTRKSlJQdkJqcTJoY010dUNCR1VJWkdWNGIza2hhNW4temxXNGludlZGV3NTNGlyTjZJRi0xblJLbnpJcGlsX3NKbmRfbHBPRmg0MGYxd2VjSkx4OENVQ0o3a3dhT0Q0QVhGX2VCUXNKdjdmcndWQ1g3ajhlZlVuSDVYc1l2Rm45dw?oc=5",
+  "title": "Léaument, face à Zemmour, réécrit l’histoire du drapeau tricolore",
+  "summary": "",
+  "published": "2026-07-16T09:00+02:00",
+  "mentions": [
+   "zemmour"
+  ],
+  "analysis": [
+   {
+    "id": "zemmour",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "a6ea71d21ba31d1b",
+  "outlet": "franceinfo",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRUJKZklWQUdPbk1HbmNiVG5OMmhCNjdsUDQ5b0Rxd3MzU1MzZGpuN0REc2t3SGdYdGFXTHpPLVJpWHVhVXFSNmh6UTJNWW1MTWV3VncxcmtBSXc4ZDBQRVNhZ0lJUnpoSXRmakNtS3V0cWpmbWtKdW5kcktKRktxSDZhaldYZWFXVzFQNHF4UVZ4c0VIYlN1SnBFV3NTS0toT1dpeTZ5cDBTeklIVVlMTUFhX05wRThlM1h3WV8wanQ3NUtLZ3FmeQ?oc=5",
+  "title": "Polémique sur les Canadair : Gabriel Attal répond à Jean-Luc Mélenchon",
+  "summary": "",
+  "published": "2026-07-16T09:00+02:00",
+  "mentions": [
+   "melenchon",
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "polemique"
+   },
+   {
+    "id": "melenchon",
+    "tone": 0,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "b4e2d125f45cbf09",
@@ -423,5 +456,231 @@
   "summary": "",
   "published": "2026-07-16T09:00+02:00",
   "mentions": []
+ },
+ {
+  "id": "b806aa9853026d1b",
+  "outlet": "Euronews.com",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSXVtOVQyellwZXR0VkQ1bnVyQTltS3BNVWNqdjNMU2FLV1JucWZHSkZXZTJkTlItN3pUNHFYWk1kcGpuUHg2OHppWDByellaLXdqMVJCYktFb2lXYlc5ekxxYWc3dWxMQTZZbmNzdDVjeVJSaWt6ejdJSXBnZkI4SEE2Z04tZDV2Ry0wRFRnQkdKZ3hhRjA2UTdhZHhEeEhySEV2RFNSUWJqY2ZUejkwT09wNEFwZHAwOHc?oc=5",
+  "title": "\"Marine Le Pen est le dernier espoir de la France\", assure Elon Musk, accusé d'ingérence",
+  "summary": "",
+  "published": "2026-07-16T09:00+02:00",
+  "mentions": [
+   "lepen"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": 1,
+    "frame": "sondage_dynamique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "c6d91c89b004a971",
+  "outlet": "ladepeche.fr",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxORmVQeUtvNUVZc3ZpR2djang5eWZwOTdJeG1DQW5xWjRuVjdnYTNjWF9Ya2FTbDYydEJBSXNjQmFCVndzQ1RhVElzSHdGd3ZESklzYzJlTmZDRDhmWVFvX1QtZnJQWUtaenFxLWR2dzVTdGVIb3VjS0lNcjZCZmdwcUVlVTd4R3BIZEgtMnVRYXhkck5wVWgtbTM3bXhzTjFnYjRBM0hrR1RXak1leG80TUN6cEIxYnJRSEx0WndZc083VGtvR3RJbmp2RmxKTmU1OEc1Vk9sUWh4X1NrZ1VHTEJvalUxaTM4M1l5UmJ5STVTbVRiV2t3d1k4NVNIRDB1QkY0MWRsc0hyclp6ZnRMMGU2aWFUR29UaUR2SWJR?oc=5",
+  "title": "Commandes de Canadair : \"Jean-Luc Mélenchon fait du trumpisme et raconte absolument n’importe quoi\", l’ancien Premier ministre Gabriel Attal fustige le leader insoumis",
+  "summary": "",
+  "published": "2026-07-16T09:00+02:00",
+  "mentions": [
+   "melenchon",
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": -2,
+    "frame": "strategie_alliances"
+   },
+   {
+    "id": "melenchon",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "c96ac055b30d596e",
+  "outlet": "https://www.parlons-politique.fr/",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQemRVWTVJOW91X01oRUJnV2JSWWdjemtzVlRUdjBpMDllOTRISjZuTWNDRUlndG94MW85dGw5RXVwWG5uN2p2V3RRaE9MTTNHc2phbkVtai1NaWVkZS1YWEF6dEFZTjFPbGxGMThlNUY0ZzZybkdhOWY0MVRSbkI0ZEl3MXFweDlUNzdfUkNnSkQxVzV5LU1jNkpSajJrWEVkWFo2SHNWaDdid3pSeElSXzdIOUQyV1B4cy1PenJuNDVZS2xmUWd2Z1k5RGNlVHFEYnE0eEhLMGo0eEZGU09obWNXVU51eHNrT0xobFlBSkNTQQ?oc=5",
+  "title": "Présidentielle 2027 à gauche : Glucksmann avance sans trancher, entre primaire rejetée et pari citoyen en Gironde",
+  "summary": "",
+  "published": "2026-07-16T09:00+02:00",
+  "mentions": [
+   "glucksmann"
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "d6509b792256f883",
+  "outlet": "20 Minutes",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMm1PNnFWU29EWDB5a1NaRmdZRXd6TmJUd21EWXFBT2JwaUJHLTlGZTFyQ2k5bndib1VDVGdRQ2ctbFFQOHk1SVpnbEViUnlRLTFVVUtLZEd6bmQ3QmpSVUNjbmplelJCRk4tWkNxQW1zdFZSakZVbGRMX3RPdnNiTGZYQ2ZjRDY4WmxiN2dqbzhrdEV6d0Fpcm1jb3Q1S2Vqb2hBU0s0WmlJSzNlVWZ0dnhFMUFmSVNpNlN6VGpXWkNHeGpjcjJFNWNR?oc=5",
+  "title": "Raphaël Glucksmann a-t-il déjà remporté son bras de fer avec le PS ?",
+  "summary": "",
+  "published": "2026-07-16T09:00+02:00",
+  "mentions": [
+   "glucksmann"
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "daadc9181b169f9d",
+  "outlet": "Next INpact",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVUh5MnJjZ0Y0dGplbDN0eEpOZ1BuQmg0Y3BNT3lHTW54Zkk3Vk04M1Y2aXR3dWRBRG1rRkt3TENCbktmcG1VU0Z5ajU0djc3TG9aU28tampycTVpS1pLazR2UTFaSmRlSFBnRFdpck54b0RpZlRGeXBKTVVyeEhBTDJqNmJucXpa?oc=5",
+  "title": "Pour Bruno Retailleau, l’IA « n’attend pas notre consentement »",
+  "summary": "",
+  "published": "2026-07-16T09:00+02:00",
+  "mentions": [
+   "retailleau"
+  ],
+  "analysis": [],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "de8702e449baee6a",
+  "outlet": "Europe 1",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOYU5BNW5FMzNLVjNFSVFmdEFwcGxnMno5czRmbGlMeXpUdXhPRXRRRExDM19vS20xLWRJN29yWVA4UGpKTmp5UDNXT1JRX2VxTW9yLVFJdU1FUHQxcTBsZGx4ckg3VnpIUkQta2hmeFdLc1ZPR09LeTJnb0w0Y2s2aDRQdVFqUUQwbTVicS1ra2haN0wwSWVlVC1XeFZsNFpqQnNrOTRCRk5TOVJkcFdySENaYTdfY2h5dGxhbC1RVmlTUG5uRjFkRXl3a00zSTlBZk9LOWV3OU5jTWtxMnfSAeMBQVVfeXFMT2c0d0VlUjl0bjNSYTFzX1c2YlhORS1FWXR6WHhjekdMcFpBZU1FaEZlbS04NV84bEQtQmtGZXdQT2JRcURiWFF4b3ZDdFNTOVFsUFZKUXBIZ2czY0JWWmpmaENvMkdwSzhUQXp6MjN5VDlmVjFldzdxSG1pVmFaQTBTRU9RSmhzcGdyY18xQTJZdkJlcDVDV243bTE1UHdxcVZEM0lqdE94bzJzVnNyWXlYckt6MHNKMTI3NTJMZTRTaC1XU0RBbVRSYUpxY2J1b3BsWDdlS0MyZU91S3NKTjJPNHc?oc=5",
+  "title": "«Je peux être utile» : François Hollande avance ses pions et croit en ses chances pour la présidentielle 2027",
+  "summary": "",
+  "published": "2026-07-16T09:00+02:00",
+  "mentions": []
+ },
+ {
+  "id": "dff03ebf778c37f5",
+  "outlet": "La Règle du Jeu",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRE16ZEtiazJhS25LbG5KNVRTcndfbmZ0WG95NzU4bmRTNnJNUUpkZHFUUW1aSVZkUDlJMTh3dzFRMW4xbWZDZjYyNVozVWVZSTZRSHJCMXFBLUZESW1ITEVNU1VGNEFRVFJtMGo1Y25DNmkyNXJ5bzA0Sm1iRE90MjNrUzJJRE5SOWxtQUVkcC11eU9kbDNUVjZBU0hWTTQ?oc=5",
+  "title": "Un psychanalyste à sa fenêtre : Le secrétaire aux viandes",
+  "summary": "",
+  "published": "2026-07-16T09:00+02:00",
+  "mentions": []
+ },
+ {
+  "id": "e7ffbae72533b2be",
+  "outlet": "l'Opinion",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSzJYb1pyeVN4OHNyVTdpcjE0d2o0SXhZT25ubEhqT2hxd2tpazc1NVZHbEdLOGhBamFYSnczZHRvWFl4MUJuZHJEZEYyQzNVWUEzSzQ4bDZpRkxLZHpJc2tyU1pmZ3dVdFhONnM4RVh0YTVxVllPMlVfNU9paWpSZDJ6VTJ3Z1ppcUdRNlBPTHNNVkZPZDJKbWJFc0JMMjRxM0F0djA5N3FEWnk5eU1DbVAwRUdYeEU?oc=5",
+  "title": "Pourquoi le soutien d’Elon Musk à Marine Le Pen fait craindre une ingérence sans précédent",
+  "summary": "",
+  "published": "2026-07-16T09:00+02:00",
+  "mentions": [
+   "lepen"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": -1,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "ee7568ead3563fc6",
+  "outlet": "TF1 Info",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQSmlUblg3YmlmX0pfTlVVX2dBS0JKVUF1eHBwc0xELUN4a2NFQW54QkJ3c0ZSMGdxYVFCU01tR0puZWZyd3UxeHhucHBWM2d2M1lhc0FVTmpRcUhuLUxlNkM4ejhMbEdyT3FQZHVWS2drM2t4dVFIY1FBLThTRzNqcmNyYk5FUXdyS29hbEU3M2NxV2dfeDk3Y0hzMmltN2xFUlJacFBEWHhFUGZCdWpweDhyejYyeFNWMW1QSUgydzlRbnFSRGxYdHVGc09teHpiWUp4MXBHOWJmY0lDNVVkNVBFVE13R0hLNkx2eW90Mlo?oc=5",
+  "title": "VÉRIF' - Jean-Luc Mélenchon a-t-il vraiment affirmé dans une interview que \"le Front national réhabilite la politique\"",
+  "summary": "",
+  "published": "2026-07-16T09:00+02:00",
+  "mentions": [
+   "melenchon"
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "eed26c48ce0a4d65",
+  "outlet": "attalpresident.fr",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRzJveVdqTGFNZGNCSy03bG1kbjJMZU1Nd3hSd3VpUy1HV0JFVC1jMG9FREJVX29id2xKZ0t0SjFRRTNkSnh2dWxwRG1lZlZUU0l6cjdsSkVsQlMzTEMzRU90Z2p0S3k2YzRqeElhTXVmZUQzWkdfZFRFWTJ1ZlR5UVoxbDZpV19xV1MwWHRiMHBxNWNpQ0U1R1JwbExDcXVfNEdmeQ?oc=5",
+  "title": "Gabriel Attal annonce un meeting le 10 octobre à Lyon",
+  "summary": "",
+  "published": "2026-07-16T09:00+02:00",
+  "mentions": [
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "fb7938ae0016f9b9",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQbHJIb0ZEX3lmcUkybzZHdEJxQzgzbGV5bE1OZUZ3QWpBMVlWSE43NTdocl9OcWNEc1NheEVvUXc0WV9aLVozZFphMnZoaUtQMlJBWGl2VmQ4VncyRzdDQTZtUDQ0V29FdHpRUWctMnNJMGlYbU1ZdlJ2dkN6VW5mcDZfbmZyY1kzRy03YXVQcmFWS1FlNmt4WVlOT29aV0M1MS1FV2I3UDFTWDlIYTYyaHZ4M0I4MTNaRHJhVW91TWkxVklOT0g5NVNaRGFOQ3hPRzc3SklNQU5Wc1BYUWxfTElheC1JWXM5ZGVuNVBrNjBDNTdBdEk1Y1B4QUxWVzZ2T1Q4Q29nR0Jqc0tTUi1tcXdqR0RiNDk1WTNYTVY2TnlpYzd5TG52SmRqWXFvTnZSeHF3aDBNeFVfeWdYblZMaDNXTUM?oc=5",
+  "title": "Présidentielle 2027: Sébastien Lecornu jugé meilleur candidat qu'Édouard Philippe et Gabriel Attal par les électeurs Renaissance selon un sondage",
+  "summary": "",
+  "published": "2026-07-16T09:00+02:00",
+  "mentions": [
+   "philippe",
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": -1,
+    "frame": "sondage_dynamique"
+   },
+   {
+    "id": "attal",
+    "tone": -1,
+    "frame": "sondage_dynamique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "fda68f3dbedbd909",
+  "outlet": "CNews",
+  "lean": "droite",
+  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVWZsUm1oRlRwVjNGbXNkR3pSRlk4V3pXX3BHWWtRNXc3YS1kNlhySmZEeVNIb0t0VkhuaEU0NWN5WXJISmw2UVpRSERMOE5Tc2VVV1JCSFg4SmZjS0xZZ1VOZmFQM1VpTUxiR2FKUTVVeVRYZHpzTFk2MFNUT25jOExPN2J6MWdqN0g4RG1jMVBWWGU0dFg1Zkx0czNBQTdabkJoWnIwR0VId0dUVUsyVXJKNnZjS0taYVHSAb8BQVVfeXFMTnhfb2tTSk9HcFBCR182bGdsVkU0dUlQRXBHeGNFSXBBOW41U2RldTZTZmVsWTZSOGlYRU80Mm5oVF9lRGVVdU5LQXl2WUx1cVRlQm9fWDBkVzdkbFJaS1dLT3FvV3NaeWdzLXQ2NTljS2M4LXBOOVFEU0tfV0tuNENEbVFGOGZ4cXVvNDRlVjRuU2dkRW1tMGlpdkg0YndwVFZYXzhzeTFDS3FlSGw3Zk0wQlNVMlM1emU1V2Rta00?oc=5",
+  "title": "«Jean-Luc Mélenchon est toujours dans la provocation à l'égard des forces de l'ordre», déplore Jean-Didier Berger",
+  "summary": "",
+  "published": "2026-07-16T09:00+02:00",
+  "mentions": [
+   "melenchon"
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": -1,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  }
 ]

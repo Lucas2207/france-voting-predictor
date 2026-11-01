@@ -1,53 +1,89 @@
 [
  {
-  "id": "a3cbc9e4962bae99",
-  "outlet": "Public Sénat",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOSUZlRVlnY09Ueno2NFFPdzN4ZC1OaFJPRnZmazFCdHJQS1FPMjlocVJlOHVCVkN2ZDJSUkFGNGJsTTRuZXBJd1pTWVdnTlN0WmFQS0NHR1JZSTRxQzBQaC1xN3g0YW5GUGxGQjFHU1hUSXB6U3ZwWGpmZFBNM09ySDk3eFoyTnhKeGhyUVpfVHJYV1pORUI3MDRzSUcxdUVJVnJTdkpTT2JROGJOZTdMWEk0SFI3cFFqVnFTOXRCQWNtTlMxRUpWdTJ1UDNoVWg5QXhEenhGbld5US1VQXdSR3VuZkpZQQ?oc=5",
-  "title": "Présidentielle : la candidature du communiste Fabien Roussel, une épine dans le pied de Jean-Luc Mélenchon ?",
+  "id": "0f595d7c6042b80a",
+  "outlet": "Ouest-France",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNVlI4UjZMRHB5OGJfWS1FRXA2eE5CQUVTdTVSUEFfSVpUYVV5R3VZXzBzalJmMTc1S2JRTnhwNkhhd01XM0loWmRaTk9QV2l5Y2Rab3NienUtb2lEYWpvX0VDUkZlZVZOcWp4UWhwQXRjRlBKclNLZ3RXU0pPRDB1N3NUOHcxRHNrMEExeTZUZTNqWk5hdk52SWVUM0M3SDd4WlMtcGM5TUw4VG11MEF1UDhDMVNxc3NKOFR6RDlUakRodm0tVERlTm8tZFE5MTlZdncza0FZc0N3VGE1VWhBdlA3elhxeEkzckR5S2lIZGt3VF9JUXBJdzV6LTd5ZHpLd3c?oc=5",
+  "title": "Sénatoriales 2026 en Sarthe : Marie-Caroline Le Pen soutenue par Nicolas Dupont-Aignan",
   "summary": "",
   "published": "2026-09-07T09:00+02:00",
   "mentions": [
-   "melenchon",
-   "roussel"
-  ]
+   "lepen",
+   "dupontaignan"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": 0,
+    "frame": "programme"
+   },
+   {
+    "id": "dupontaignan",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "b386a76452a01a85",
-  "outlet": "l'Opinion",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNd0FlZ0VCc1BlbnhnS3NyMng0VnV4cElEeGlKWmNMSHQ1alVYUmRFMmV2dWlHQ1JKNGc4NkhETWNxbW1OVjEwNlRaQjlzUGRaM2thQVdrMEdsSTV6MEVYQlhTX1JpbWJsemt5Y056UmltbFU3emNTQlZHaGxnaG0tZXdXN19JNDhDLTBMY0JfUjRTNm9jYkRKb1FaLWEzX1VNN0ZwcEZfZHZHOV9fckk0R214RjJVQQ?oc=5",
-  "title": "« Il faut une autre politique » : Jean-Luc Mélenchon s’en prend à l’indépendance de la BCE",
-  "summary": "",
-  "published": "2026-09-07T09:00+02:00",
-  "mentions": [
-   "melenchon"
-  ]
- },
- {
-  "id": "ad1a7fa593429a77",
-  "outlet": "Gala",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQR2ZjbHJVVkMtSmxzMzd3MjlWOXlnV1RoT3hxNDFNREJ3ckF6NG1FR3JrNmlfWlltVG83LVgtZ2xnVk9KRlMwdXF6cW1fT0ZFWlctdThnaGQ5dm1TTTg5ejBnTXF4R0U0SHFoVTZzWm5LT0FXZTJ0ZG1KWjUxNXF0TVJybmpCSU52MUZlNENySUhOaS1uLVVHVGFGelFXU0xCWnlRTkpHRUl6Qk5FUUpYV041ZUFmZVRCQkktNUJocW9COVZHYVFNVjlLeWFPbGhHVF95Z1ZURjJtdGhVN2NrSzRn?oc=5",
-  "title": "Édouard Philippe, Jean-Luc-Mélenchon… Avec qui sont en couple les candidats à l’élection présidentielle de 2027 ?",
-  "summary": "",
-  "published": "2026-09-07T09:00+02:00",
-  "mentions": [
-   "melenchon",
-   "philippe"
-  ]
- },
- {
-  "id": "9db9c256d5e2e890",
+  "id": "1cc135f48ce5c7a0",
   "outlet": "BFM",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQVXJIM054MDB3NG45UGlpMmdudGNTQVRCMXRsVkRXWkUwRXpNZHYyQ3hNWENvZnZUQzJ6Xzl0dWo3MEF1RU5QMTJxU0NrRmEwNzdQcFZ4OG9adzduM1N3NUphOGd1SmNCY3V0MkVWU1RkbzNCRHBpUmE3b1YzOGVZalJ0WlRMcVFOUy1JT2JVSnNTZmVzSUpVNmlmMzVUOGFmd1J0a1k2X3IxTlBPTEcyRkFKZHhUOTQxeUlpRGRXbWw0Sm1ibU5qU3d3aFFlSHhrN19vOEhPUndiYUlKcm5rbkRCWGJ0RzBfY2xxM2lfb2tDMmFRZDZ5UGY1dl9SX0pMNDlLNk5uMkQwRzV5Z2J1dzlyeFc4dEtYR1NXZ1I0LWRfRnd6TmNkMg?oc=5",
-  "title": "Présidentielle: Gabriel Attal lance une \"opération 1.000 bistrots\" pour débattre sur \"quatre chantiers capitaux\" pendant un mois",
+  "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOMVdIb1VyR0VfSUtjRmhlZ0RJVFFZNC1MZXZXWHlpX3V4bXZyWkRUTkNsYU5ZS2hTaGF3VzhZelpxYkFWdklCeWk1MzByUFphRE5sODV6bUtKRUh5ZGNIc1IxYldLa1pRUktLRENsTi11TFJNWGlQVVEwMU5xZWR3STh5dDl5S3kxazRDd0t3MFlnUkFET0VvcVJwbU0wNVBVOXRvNHJ3MWtfOXJNUzlfTENyd25BQklhZjdxSnVVV2hBMDVKeG9US2paS05yalFULXNaa0piQmpZUjQ1eXhwVGR2bkxkbHlwUnA4WjFqMjY1N2EwSFhsXzlVVHBGT3JLSWNlNjZTM1JZaWRMUS1SUXFWRDRvSDhDZ0Q4WWpDWGNoMVpfT21ScA?oc=5",
+  "title": "\"Je lui reproche d'être là\": Raphaël Glucksmann, candidat à l'élection présidentielle, chahuté devant le ministère de la Justice",
   "summary": "",
   "published": "2026-09-07T09:00+02:00",
   "mentions": [
-   "attal"
-  ]
+   "glucksmann"
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": -1,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "33194a139bcc4756",
+  "outlet": "TV83",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMnZTSm1vanJUSS1RTWltX3RIdERtMHJrY3ByWnQtOXhTejFoanBvV1JRd2R5SklOWGFOMEc2M0tzUnpxaDBkZlEtdW5ZSTVmSUYzRmh4WUp3dDNqeGFYMW10OHJWSGhkT2JjNGJxbHQ2UzB5a2o4am1lSEJMNUZselIzQQ?oc=5",
+  "title": "Ruffin et Villepin face à Libé : le débat en intégralité",
+  "summary": "",
+  "published": "2026-09-07T09:00+02:00",
+  "mentions": [
+   "ruffin"
+  ],
+  "analysis": [
+   {
+    "id": "ruffin",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "47aebb66ff1d25e0",
+  "outlet": "Le HuffPost",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOOER3bXFmb1M3ZFctOVFwWlo1bFExNFRXQWl3a1g0aGI2WHhJeG9YUWp2SVFObmg2YkRxX2MySkdxRXl4N0hJd29jTFpHb0tnbmZiRlNnVElXOW9ndFhwTkgwMFpRNW8yTTE3aU8xcWZHV3o0cmFXUkxPSW14OWI0VHREOUJnUGJ4TUtLbzBhRXFLdlFtT1pJbWxPSDVXVnhSeHV3WUhrOVNMYlpuQnI3Q2hjQzFyd2plUk5RM2Znams3a3FQRURmaWRzVFFib0h5cUlQVDFGcTNhcGEybHVFeWgwV3p5VlNxWDVfeFNB?oc=5",
+  "title": "Comment Jordan Bardella passe de l’atout au boulet pour Marine Le Pen pour la présidentielle 2027",
+  "summary": "",
+  "published": "2026-09-07T09:00+02:00",
+  "mentions": [
+   "lepen"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": -1,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "500afa0b8d96dc46",
@@ -59,57 +95,35 @@
   "published": "2026-09-07T09:00+02:00",
   "mentions": [
    "attal"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "981ede1f7ddea165",
-  "outlet": "l'Opinion",
+  "id": "85097a86c528ae03",
+  "outlet": "BFM",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQ05mak5tOTVIc3VmY242V19sdk04MDloYkxiTnlmZ08yUVZqOVRlZ2QtQzlTT041aktVSlNXdWFUVVloZU1PUGYyQklPZVRYUHJRdTM1OFkybW1wMHlGRUw4bU9KLXVfb3BWOUZhazU0UnNCdjI5WHE4bHFnTEswcE1BN3RERk1DNmhVWXZRSlRyeDlNNlVTLThGZ1dpcVh2aFJualF0U3U2MXk1bFZYNXhWZzVCbFQ0dVJB?oc=5",
-  "title": "« Une stratégie d’isolement et d’échec » : la candidature de Fabien Roussel divise en interne",
+  "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNU180OEFmeHFlR0dtR1JWRENvM1dJa05mYWdoRkdtM0s5bGFyN0dfa002OHAtbVhaV0RrRzFHeUFOcEFkbzFOdU4zNmMxMV84SEVxcUU1c3JuWmZHaWdBTjhHbzN2UXI0NURTRWdWSnZMV0Jydjkya0o2QzNDMFZiQmpjQ0dIempyc2wyLXdjaHV3LWVzY1dFd20zQmFhMERBX2Roek1vV2ZYVFZ3clYxeWd5RGl1a3gtVjhFUm1DaVFzaER2MVZ0VkdrMVhnX3VjTXdRZmIweThEZDVpd3lpeW5pLW84aEZiZm9pdVJoMDlXTWpmaE9YWlM5QThrT3NTWGhLZ3c5cV9fRUhBSENXb3Y0TnpyVVdHVjlPRTYxemEzZw?oc=5",
+  "title": "Victoire de l’AFD en en Saxe-Anhalt: Édouard Philippe appelle à \"ne jamais oublier les pages sombres\" de l’Histoire",
   "summary": "",
   "published": "2026-09-07T09:00+02:00",
   "mentions": [
-   "roussel"
-  ]
- },
- {
-  "id": "a5ddb9c898b706fd",
-  "outlet": "ladepeche.fr",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPam1RQjJScnNOQW5DcjA2enZjZmd6SzJjcklweTFoQ21rQTNHUGlNbjRKdnNrbExHaVROeHYyS1VBbEdiVWxHOGJqbmdvUGY4VjJERXNXTEZvdS1wcVJjNEpzOHJCV0dSUmNSWjlXWGhRaG9aalBJazFTZ0tSTzRXNV96YkRYYjFUelZoS1V0QUpMek9VN3lGemExZXUyVVdjdlZZaVpsME5VbmtYX250bG1GWnJpZEF5NlZXM2pyeV9xNGVHYmRhaUpscHk2UzEtQkZYYUlrQTlzUjVnYVU0Tkt1MU1RY2FDYTZHNlA4Z2FiOXRmTDFKWFRRTnZlRU52blFUR2xZd0x3anBmazFUQ19fQXhxeTJPVVVqalZPbFBGRjQ?oc=5",
-  "title": "DÉCRYPTAGE. Présidentielle 2027 : pourquoi Fabien Roussel se présente et ira \"jusqu’au bout\", au risque de jouer à nouveau les trouble-fête face à Jean-Luc Mélenchon",
-  "summary": "",
-  "published": "2026-09-07T09:00+02:00",
-  "mentions": [
-   "melenchon",
-   "roussel"
-  ]
- },
- {
-  "id": "e8bb76ad15cf11a9",
-  "outlet": "lejdd.fr",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQU2MyYUIxdTBCWmdLMnFXOWNFdVZmMnMxS2JOYjJ5a2NjUTR0QWZXMnJhZ1lUZGs4dzR4QnVERHNXenRGblR6UGt1LUVJcklQd3lERTVLRGd1M21wT3dRSWlDTEFwSS1lUnlGc3A3LTJvTDJzeG1wZkdBU2dtbG9FS1BselV3a0c0UFJEblN5Q0Jzc1JaRXNwbmJBTGJYU015ci1wclFvN1FsbHFpeG9wMWlMdXpmb0Q4SnpoU2VTczVVaGxyd1FQaTd2azc?oc=5",
-  "title": "Présidentielle : Fabien Roussel officialise sa candidature avec l'appui des militants communistes",
-  "summary": "",
-  "published": "2026-09-07T09:00+02:00",
-  "mentions": [
-   "roussel"
-  ]
- },
- {
-  "id": "0f595d7c6042b80a",
-  "outlet": "Ouest-France",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNVlI4UjZMRHB5OGJfWS1FRXA2eE5CQUVTdTVSUEFfSVpUYVV5R3VZXzBzalJmMTc1S2JRTnhwNkhhd01XM0loWmRaTk9QV2l5Y2Rab3NienUtb2lEYWpvX0VDUkZlZVZOcWp4UWhwQXRjRlBKclNLZ3RXU0pPRDB1N3NUOHcxRHNrMEExeTZUZTNqWk5hdk52SWVUM0M3SDd4WlMtcGM5TUw4VG11MEF1UDhDMVNxc3NKOFR6RDlUakRodm0tVERlTm8tZFE5MTlZdncza0FZc0N3VGE1VWhBdlA3elhxeEkzckR5S2lIZGt3VF9JUXBJdzV6LTd5ZHpLd3c?oc=5",
-  "title": "Sénatoriales 2026 en Sarthe : Marie-Caroline Le Pen soutenue par Nicolas Dupont-Aignan",
-  "summary": "",
-  "published": "2026-09-07T09:00+02:00",
-  "mentions": [
-   "lepen",
-   "dupontaignan"
-  ]
+   "philippe"
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "8c5c39daf91aa883",
@@ -121,55 +135,15 @@
   "published": "2026-09-07T09:00+02:00",
   "mentions": [
    "melenchon"
-  ]
- },
- {
-  "id": "cca21479d175bcea",
-  "outlet": "CNews",
-  "lean": "droite",
-  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUHFRRDBzQmdzVFVVX3VraFl5WFNaajg3SGxxVWl4d1lNdENkQzM0UDFUZmpWay1lMVd0Q1VQNnpVXzVFbUFXRHJaNkpmX2RFS2l2ZUdZSzBudkVNZ0Zab2U1SF92eWx0djdkLUJabVlsZE11ZmRETU9XWkt6b1lnVFJxS2plcm9DZmFCMUdrMnFlQzRNdVJaMktoMXNIMzhWa28tR1c2RmZQaEJtN1ctbjB5dDZPQkxDVVHSAb8BQVVfeXFMUFF3VU5JNUk2R3BqVXFxWmwxY19wQlUzMTdnbTBqeHB3M3kzNmdueUxSNkpTZHV1UGlCR3h5S3dPVDJ4YTdUcUNEMUx5RFJWb2JRc0hacFR2QTUxRXV1dUFRRmZIS2ZIYnF0bDNQNTl3V0J0bVlKQXN5TV9PY05ZLTNMTWFGVEhaYnZaU3RMUzVhT3hCQmNFZzllWXAxRVNBempLdm93Z1dBNTcxNHF2T01PNW9RcmFDc0o4N3pPTHM?oc=5",
-  "title": "Présidentielle 2027 : pourquoi Edouard Philippe effectue-t-il un déplacement à Alès, dans le Gard, ce lundi ?",
-  "summary": "",
-  "published": "2026-09-07T09:00+02:00",
-  "mentions": [
-   "philippe"
-  ]
- },
- {
-  "id": "e37f551f11cadc5c",
-  "outlet": "Le Point",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTmVuZUw1dkNORDV6aGZYQmNiRGxiSno1WldfM2FuV3RsR254M0Q0LXdKNVZvM3l6OE5tVHRXMWJxR0hEN2JFdW1oZE9TNzJSN3VpazZNRHlfek9sYnZuUklPUkVHNUM5VVZwdWR0T09RWElkVVJaOTFpd0tfUFVxYWtySzI1LUZLaG9hMG8zMTRMTTJZRHJ5VE1KV25QRnBHcXFHTng1UHkyMXdpSm0zMGw4Z0tTN3N0OGRhczlWU0lLS2lhckdpYVZNZmw?oc=5",
-  "title": "Une élection d’Édouard Philippe à l’Élysée pourrait-elle relancer les Gilets jaunes ?",
-  "summary": "",
-  "published": "2026-09-07T09:00+02:00",
-  "mentions": [
-   "philippe"
-  ]
- },
- {
-  "id": "f4b4ba20605ada61",
-  "outlet": "Challenges",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRVBVWU1IVVdzVGFLcUVJcTZiZzhyLW9OZjhNZTI1di1GamdJeVk1aGxZR2lINng5SkhZOXZ3ODBEblVRSUNjNXB6amdSemFVRXNidjdrS0FjSTNnT3dOLTl1TXdGMWgxUXFuTzhGZzdwUmpRNkg4NHRNeWdNRGVzcVA0dTFlQUlsd3FDamV5bGxNX3dQVnl2bGFVVzdXQVZBWDRfTEtGcHpiSDBzRXJQT3JxMWNqTEJ1cEtHN0FucTRqM0Vkd2xpeWFOTU5RSUhBWmtvag?oc=5",
-  "title": "Près d’un million déjà récolté : comment Raphaël Glucksmann prépare son trésor de guerre pour 2027",
-  "summary": "",
-  "published": "2026-09-07T09:00+02:00",
-  "mentions": [
-   "glucksmann"
-  ]
- },
- {
-  "id": "edc0235d27c5b001",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPS1RNcVlNdjJzZTh1alQydzI0cFFsVDJyQ0w1dEFlendpQjY2UWhsX2trUkNyUjJpSnNncE83dGVCdldwNkt4MDB4QW5TU0FoUkdxUWl0ak9PYy0xbFc2ZS12OEF1S0FFUmc0WFhaOUYzZS1QUy1XRnJEcFNycUxHYUZfZ0hCRXIzcGtFalBEM040NktINUxSZUpZXzlMV2tZSWtoa3pyUFY0bnhnWjFFeUhDdFBWWllXa2R5aEdNb2w5clduRGFGQmdWWHVoZlJ3TE9xMHdqak93TGV2RjVJbUd6R2JYTGZwRHhRM1lhSHVDZV9PQnAwMDJsdFhYSmlIVjdhWlJnTks?oc=5",
-  "title": "\"Personne ne veut de lui\": Raphaël Glucksmann vivement interpellé lors d'une manifestation contre les violences sexuelles",
-  "summary": "",
-  "published": "2026-09-07T09:00+02:00",
-  "mentions": [
-   "glucksmann"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": -2,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "9427e00cebc558f6",
@@ -181,19 +155,55 @@
   "published": "2026-09-07T09:00+02:00",
   "mentions": [
    "roussel"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "roussel",
+    "tone": -1,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "f61fc0b19d768778",
-  "outlet": "franceinfo",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPUWd3aEJrbm84Qnh3YVYzN0Yxb3RITFVmSUpsdDlMVm81MTBqcDJuN1ZkeUFKaUl0bkFyaFJ2R0xJM09DUzRHOENyTGFOSm12d1J4QnNVV0Y1Z1BCNTJiWTBZZENGRzFpUWlrWTVYNmotbHhlUWltOHgxUGZKYW9iX3ZJeEsza2Y5RnphWm5EQ1BCd2JxZVZXdk9fTWNlYldYa2lQUnBQLU5oY3Y5dDhFcEVtOGFhY0NwTEhUZ0FyQmQ4NC05X2lHOHdhU1RtY1dveEc1QTFsb2g2R3J6bmhNZXh6NFJkRzFtUVltdA?oc=5",
-  "title": "Édito. Entre Marine Le Pen et Jordan Bardella, une entente de plus en plus fragile au RN",
+  "id": "981ede1f7ddea165",
+  "outlet": "l'Opinion",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQ05mak5tOTVIc3VmY242V19sdk04MDloYkxiTnlmZ08yUVZqOVRlZ2QtQzlTT041aktVSlNXdWFUVVloZU1PUGYyQklPZVRYUHJRdTM1OFkybW1wMHlGRUw4bU9KLXVfb3BWOUZhazU0UnNCdjI5WHE4bHFnTEswcE1BN3RERk1DNmhVWXZRSlRyeDlNNlVTLThGZ1dpcVh2aFJualF0U3U2MXk1bFZYNXhWZzVCbFQ0dVJB?oc=5",
+  "title": "« Une stratégie d’isolement et d’échec » : la candidature de Fabien Roussel divise en interne",
   "summary": "",
   "published": "2026-09-07T09:00+02:00",
   "mentions": [
-   "lepen"
-  ]
+   "roussel"
+  ],
+  "analysis": [
+   {
+    "id": "roussel",
+    "tone": -1,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "9db9c256d5e2e890",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQVXJIM054MDB3NG45UGlpMmdudGNTQVRCMXRsVkRXWkUwRXpNZHYyQ3hNWENvZnZUQzJ6Xzl0dWo3MEF1RU5QMTJxU0NrRmEwNzdQcFZ4OG9adzduM1N3NUphOGd1SmNCY3V0MkVWU1RkbzNCRHBpUmE3b1YzOGVZalJ0WlRMcVFOUy1JT2JVSnNTZmVzSUpVNmlmMzVUOGFmd1J0a1k2X3IxTlBPTEcyRkFKZHhUOTQxeUlpRGRXbWw0Sm1ibU5qU3d3aFFlSHhrN19vOEhPUndiYUlKcm5rbkRCWGJ0RzBfY2xxM2lfb2tDMmFRZDZ5UGY1dl9SX0pMNDlLNk5uMkQwRzV5Z2J1dzlyeFc4dEtYR1NXZ1I0LWRfRnd6TmNkMg?oc=5",
+  "title": "Présidentielle: Gabriel Attal lance une \"opération 1.000 bistrots\" pour débattre sur \"quatre chantiers capitaux\" pendant un mois",
+  "summary": "",
+  "published": "2026-09-07T09:00+02:00",
+  "mentions": [
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "a04aefe15737c030",
@@ -206,52 +216,122 @@
   "mentions": []
  },
  {
-  "id": "47aebb66ff1d25e0",
-  "outlet": "Le HuffPost",
+  "id": "a3cbc9e4962bae99",
+  "outlet": "Public Sénat",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOOER3bXFmb1M3ZFctOVFwWlo1bFExNFRXQWl3a1g0aGI2WHhJeG9YUWp2SVFObmg2YkRxX2MySkdxRXl4N0hJd29jTFpHb0tnbmZiRlNnVElXOW9ndFhwTkgwMFpRNW8yTTE3aU8xcWZHV3o0cmFXUkxPSW14OWI0VHREOUJnUGJ4TUtLbzBhRXFLdlFtT1pJbWxPSDVXVnhSeHV3WUhrOVNMYlpuQnI3Q2hjQzFyd2plUk5RM2Znams3a3FQRURmaWRzVFFib0h5cUlQVDFGcTNhcGEybHVFeWgwV3p5VlNxWDVfeFNB?oc=5",
-  "title": "Comment Jordan Bardella passe de l’atout au boulet pour Marine Le Pen pour la présidentielle 2027",
+  "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOSUZlRVlnY09Ueno2NFFPdzN4ZC1OaFJPRnZmazFCdHJQS1FPMjlocVJlOHVCVkN2ZDJSUkFGNGJsTTRuZXBJd1pTWVdnTlN0WmFQS0NHR1JZSTRxQzBQaC1xN3g0YW5GUGxGQjFHU1hUSXB6U3ZwWGpmZFBNM09ySDk3eFoyTnhKeGhyUVpfVHJYV1pORUI3MDRzSUcxdUVJVnJTdkpTT2JROGJOZTdMWEk0SFI3cFFqVnFTOXRCQWNtTlMxRUpWdTJ1UDNoVWg5QXhEenhGbld5US1VQXdSR3VuZkpZQQ?oc=5",
+  "title": "Présidentielle : la candidature du communiste Fabien Roussel, une épine dans le pied de Jean-Luc Mélenchon ?",
   "summary": "",
   "published": "2026-09-07T09:00+02:00",
   "mentions": [
-   "lepen"
-  ]
+   "melenchon",
+   "roussel"
+  ],
+  "analysis": [
+   {
+    "id": "roussel",
+    "tone": -1,
+    "frame": "programme"
+   },
+   {
+    "id": "melenchon",
+    "tone": -1,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "85097a86c528ae03",
-  "outlet": "BFM",
+  "id": "a5ddb9c898b706fd",
+  "outlet": "ladepeche.fr",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNU180OEFmeHFlR0dtR1JWRENvM1dJa05mYWdoRkdtM0s5bGFyN0dfa002OHAtbVhaV0RrRzFHeUFOcEFkbzFOdU4zNmMxMV84SEVxcUU1c3JuWmZHaWdBTjhHbzN2UXI0NURTRWdWSnZMV0Jydjkya0o2QzNDMFZiQmpjQ0dIempyc2wyLXdjaHV3LWVzY1dFd20zQmFhMERBX2Roek1vV2ZYVFZ3clYxeWd5RGl1a3gtVjhFUm1DaVFzaER2MVZ0VkdrMVhnX3VjTXdRZmIweThEZDVpd3lpeW5pLW84aEZiZm9pdVJoMDlXTWpmaE9YWlM5QThrT3NTWGhLZ3c5cV9fRUhBSENXb3Y0TnpyVVdHVjlPRTYxemEzZw?oc=5",
-  "title": "Victoire de l’AFD en en Saxe-Anhalt: Édouard Philippe appelle à \"ne jamais oublier les pages sombres\" de l’Histoire",
+  "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPam1RQjJScnNOQW5DcjA2enZjZmd6SzJjcklweTFoQ21rQTNHUGlNbjRKdnNrbExHaVROeHYyS1VBbEdiVWxHOGJqbmdvUGY4VjJERXNXTEZvdS1wcVJjNEpzOHJCV0dSUmNSWjlXWGhRaG9aalBJazFTZ0tSTzRXNV96YkRYYjFUelZoS1V0QUpMek9VN3lGemExZXUyVVdjdlZZaVpsME5VbmtYX250bG1GWnJpZEF5NlZXM2pyeV9xNGVHYmRhaUpscHk2UzEtQkZYYUlrQTlzUjVnYVU0Tkt1MU1RY2FDYTZHNlA4Z2FiOXRmTDFKWFRRTnZlRU52blFUR2xZd0x3anBmazFUQ19fQXhxeTJPVVVqalZPbFBGRjQ?oc=5",
+  "title": "DÉCRYPTAGE. Présidentielle 2027 : pourquoi Fabien Roussel se présente et ira \"jusqu’au bout\", au risque de jouer à nouveau les trouble-fête face à Jean-Luc Mélenchon",
+  "summary": "",
+  "published": "2026-09-07T09:00+02:00",
+  "mentions": [
+   "melenchon",
+   "roussel"
+  ],
+  "analysis": [
+   {
+    "id": "roussel",
+    "tone": -1,
+    "frame": "programme"
+   },
+   {
+    "id": "melenchon",
+    "tone": -1,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "ad1a7fa593429a77",
+  "outlet": "Gala",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQR2ZjbHJVVkMtSmxzMzd3MjlWOXlnV1RoT3hxNDFNREJ3ckF6NG1FR3JrNmlfWlltVG83LVgtZ2xnVk9KRlMwdXF6cW1fT0ZFWlctdThnaGQ5dm1TTTg5ejBnTXF4R0U0SHFoVTZzWm5LT0FXZTJ0ZG1KWjUxNXF0TVJybmpCSU52MUZlNENySUhOaS1uLVVHVGFGelFXU0xCWnlRTkpHRUl6Qk5FUUpYV041ZUFmZVRCQkktNUJocW9COVZHYVFNVjlLeWFPbGhHVF95Z1ZURjJtdGhVN2NrSzRn?oc=5",
+  "title": "Édouard Philippe, Jean-Luc-Mélenchon… Avec qui sont en couple les candidats à l’élection présidentielle de 2027 ?",
+  "summary": "",
+  "published": "2026-09-07T09:00+02:00",
+  "mentions": [
+   "melenchon",
+   "philippe"
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": 0,
+    "frame": "programme"
+   },
+   {
+    "id": "melenchon",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "b386a76452a01a85",
+  "outlet": "l'Opinion",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNd0FlZ0VCc1BlbnhnS3NyMng0VnV4cElEeGlKWmNMSHQ1alVYUmRFMmV2dWlHQ1JKNGc4NkhETWNxbW1OVjEwNlRaQjlzUGRaM2thQVdrMEdsSTV6MEVYQlhTX1JpbWJsemt5Y056UmltbFU3emNTQlZHaGxnaG0tZXdXN19JNDhDLTBMY0JfUjRTNm9jYkRKb1FaLWEzX1VNN0ZwcEZfZHZHOV9fckk0R214RjJVQQ?oc=5",
+  "title": "« Il faut une autre politique » : Jean-Luc Mélenchon s’en prend à l’indépendance de la BCE",
+  "summary": "",
+  "published": "2026-09-07T09:00+02:00",
+  "mentions": [
+   "melenchon"
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "cca21479d175bcea",
+  "outlet": "CNews",
+  "lean": "droite",
+  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUHFRRDBzQmdzVFVVX3VraFl5WFNaajg3SGxxVWl4d1lNdENkQzM0UDFUZmpWay1lMVd0Q1VQNnpVXzVFbUFXRHJaNkpmX2RFS2l2ZUdZSzBudkVNZ0Zab2U1SF92eWx0djdkLUJabVlsZE11ZmRETU9XWkt6b1lnVFJxS2plcm9DZmFCMUdrMnFlQzRNdVJaMktoMXNIMzhWa28tR1c2RmZQaEJtN1ctbjB5dDZPQkxDVVHSAb8BQVVfeXFMUFF3VU5JNUk2R3BqVXFxWmwxY19wQlUzMTdnbTBqeHB3M3kzNmdueUxSNkpTZHV1UGlCR3h5S3dPVDJ4YTdUcUNEMUx5RFJWb2JRc0hacFR2QTUxRXV1dUFRRmZIS2ZIYnF0bDNQNTl3V0J0bVlKQXN5TV9PY05ZLTNMTWFGVEhaYnZaU3RMUzVhT3hCQmNFZzllWXAxRVNBempLdm93Z1dBNTcxNHF2T01PNW9RcmFDc0o4N3pPTHM?oc=5",
+  "title": "Présidentielle 2027 : pourquoi Edouard Philippe effectue-t-il un déplacement à Alès, dans le Gard, ce lundi ?",
   "summary": "",
   "published": "2026-09-07T09:00+02:00",
   "mentions": [
    "philippe"
-  ]
- },
- {
-  "id": "1cc135f48ce5c7a0",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOMVdIb1VyR0VfSUtjRmhlZ0RJVFFZNC1MZXZXWHlpX3V4bXZyWkRUTkNsYU5ZS2hTaGF3VzhZelpxYkFWdklCeWk1MzByUFphRE5sODV6bUtKRUh5ZGNIc1IxYldLa1pRUktLRENsTi11TFJNWGlQVVEwMU5xZWR3STh5dDl5S3kxazRDd0t3MFlnUkFET0VvcVJwbU0wNVBVOXRvNHJ3MWtfOXJNUzlfTENyd25BQklhZjdxSnVVV2hBMDVKeG9US2paS05yalFULXNaa0piQmpZUjQ1eXhwVGR2bkxkbHlwUnA4WjFqMjY1N2EwSFhsXzlVVHBGT3JLSWNlNjZTM1JZaWRMUS1SUXFWRDRvSDhDZ0Q4WWpDWGNoMVpfT21ScA?oc=5",
-  "title": "\"Je lui reproche d'être là\": Raphaël Glucksmann, candidat à l'élection présidentielle, chahuté devant le ministère de la Justice",
-  "summary": "",
-  "published": "2026-09-07T09:00+02:00",
-  "mentions": [
-   "glucksmann"
-  ]
- },
- {
-  "id": "33194a139bcc4756",
-  "outlet": "TV83",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMnZTSm1vanJUSS1RTWltX3RIdERtMHJrY3ByWnQtOXhTejFoanBvV1JRd2R5SklOWGFOMEc2M0tzUnpxaDBkZlEtdW5ZSTVmSUYzRmh4WUp3dDNqeGFYMW10OHJWSGhkT2JjNGJxbHQ2UzB5a2o4am1lSEJMNUZselIzQQ?oc=5",
-  "title": "Ruffin et Villepin face à Libé : le débat en intégralité",
-  "summary": "",
-  "published": "2026-09-07T09:00+02:00",
-  "mentions": [
-   "ruffin"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "d215ce00bb5fbb25",
@@ -264,5 +344,105 @@
   "mentions": [
    "lisnard"
   ]
+ },
+ {
+  "id": "e37f551f11cadc5c",
+  "outlet": "Le Point",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTmVuZUw1dkNORDV6aGZYQmNiRGxiSno1WldfM2FuV3RsR254M0Q0LXdKNVZvM3l6OE5tVHRXMWJxR0hEN2JFdW1oZE9TNzJSN3VpazZNRHlfek9sYnZuUklPUkVHNUM5VVZwdWR0T09RWElkVVJaOTFpd0tfUFVxYWtySzI1LUZLaG9hMG8zMTRMTTJZRHJ5VE1KV25QRnBHcXFHTng1UHkyMXdpSm0zMGw4Z0tTN3N0OGRhczlWU0lLS2lhckdpYVZNZmw?oc=5",
+  "title": "Une élection d’Édouard Philippe à l’Élysée pourrait-elle relancer les Gilets jaunes ?",
+  "summary": "",
+  "published": "2026-09-07T09:00+02:00",
+  "mentions": [
+   "philippe"
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": -1,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "e8bb76ad15cf11a9",
+  "outlet": "lejdd.fr",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQU2MyYUIxdTBCWmdLMnFXOWNFdVZmMnMxS2JOYjJ5a2NjUTR0QWZXMnJhZ1lUZGs4dzR4QnVERHNXenRGblR6UGt1LUVJcklQd3lERTVLRGd1M21wT3dRSWlDTEFwSS1lUnlGc3A3LTJvTDJzeG1wZkdBU2dtbG9FS1BselV3a0c0UFJEblN5Q0Jzc1JaRXNwbmJBTGJYU015ci1wclFvN1FsbHFpeG9wMWlMdXpmb0Q4SnpoU2VTczVVaGxyd1FQaTd2azc?oc=5",
+  "title": "Présidentielle : Fabien Roussel officialise sa candidature avec l'appui des militants communistes",
+  "summary": "",
+  "published": "2026-09-07T09:00+02:00",
+  "mentions": [
+   "roussel"
+  ],
+  "analysis": [
+   {
+    "id": "roussel",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "edc0235d27c5b001",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPS1RNcVlNdjJzZTh1alQydzI0cFFsVDJyQ0w1dEFlendpQjY2UWhsX2trUkNyUjJpSnNncE83dGVCdldwNkt4MDB4QW5TU0FoUkdxUWl0ak9PYy0xbFc2ZS12OEF1S0FFUmc0WFhaOUYzZS1QUy1XRnJEcFNycUxHYUZfZ0hCRXIzcGtFalBEM040NktINUxSZUpZXzlMV2tZSWtoa3pyUFY0bnhnWjFFeUhDdFBWWllXa2R5aEdNb2w5clduRGFGQmdWWHVoZlJ3TE9xMHdqak93TGV2RjVJbUd6R2JYTGZwRHhRM1lhSHVDZV9PQnAwMDJsdFhYSmlIVjdhWlJnTks?oc=5",
+  "title": "\"Personne ne veut de lui\": Raphaël Glucksmann vivement interpellé lors d'une manifestation contre les violences sexuelles",
+  "summary": "",
+  "published": "2026-09-07T09:00+02:00",
+  "mentions": [
+   "glucksmann"
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": -1,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "f4b4ba20605ada61",
+  "outlet": "Challenges",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRVBVWU1IVVdzVGFLcUVJcTZiZzhyLW9OZjhNZTI1di1GamdJeVk1aGxZR2lINng5SkhZOXZ3ODBEblVRSUNjNXB6amdSemFVRXNidjdrS0FjSTNnT3dOLTl1TXdGMWgxUXFuTzhGZzdwUmpRNkg4NHRNeWdNRGVzcVA0dTFlQUlsd3FDamV5bGxNX3dQVnl2bGFVVzdXQVZBWDRfTEtGcHpiSDBzRXJQT3JxMWNqTEJ1cEtHN0FucTRqM0Vkd2xpeWFOTU5RSUhBWmtvag?oc=5",
+  "title": "Près d’un million déjà récolté : comment Raphaël Glucksmann prépare son trésor de guerre pour 2027",
+  "summary": "",
+  "published": "2026-09-07T09:00+02:00",
+  "mentions": [
+   "glucksmann"
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "f61fc0b19d768778",
+  "outlet": "franceinfo",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPUWd3aEJrbm84Qnh3YVYzN0Yxb3RITFVmSUpsdDlMVm81MTBqcDJuN1ZkeUFKaUl0bkFyaFJ2R0xJM09DUzRHOENyTGFOSm12d1J4QnNVV0Y1Z1BCNTJiWTBZZENGRzFpUWlrWTVYNmotbHhlUWltOHgxUGZKYW9iX3ZJeEsza2Y5RnphWm5EQ1BCd2JxZVZXdk9fTWNlYldYa2lQUnBQLU5oY3Y5dDhFcEVtOGFhY0NwTEhUZ0FyQmQ4NC05X2lHOHdhU1RtY1dveEc1QTFsb2g2R3J6bmhNZXh6NFJkRzFtUVltdA?oc=5",
+  "title": "Édito. Entre Marine Le Pen et Jordan Bardella, une entente de plus en plus fragile au RN",
+  "summary": "",
+  "published": "2026-09-07T09:00+02:00",
+  "mentions": [
+   "lepen"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  }
 ]

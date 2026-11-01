@@ -109,22 +109,22 @@
   ]
  },
  {
-  "id": "813974b98b9e6796",
-  "outlet": "France 24",
-  "lean": "centre",
-  "url": "https://www.france24.com/fr/france/20261024-en-direct-centaines-manifestations-france-climat-fortes-tensions-mobilisation-revendications-salaires-education-syndicats-pouvoir-d-achat-lycee-police-macron",
-  "title": "Mobilisation du 24 octobre : entre 410 000 et 800 000 manifestants à travers la France",
-  "summary": "Il y a eu près de 1 000 interpellations, samedi, en marge de la mobilisation en France, a annoncé le ministre de l'Intérieur Laurent Nuñez, un nombre qui pourrait \"augmenter\". \"Les cortèges se sont bien passés\", a t-il toutefois déclaré. Selon les sources, entre 410 000 et 800 000 manifestants ont défilé contre la vie chère ou en soutien aux lycéens. Retrouvez le fil du 24 octobre.",
-  "published": "2026-10-24T07:00+02:00",
-  "mentions": []
- },
- {
   "id": "52a27032bb6e0409",
   "outlet": "RFI",
   "lean": "centre",
   "url": "https://www.rfi.fr/fr/podcasts/l-atelier-politique/20261024-david-cormand-nous-sommes-h%C3%A9las-plut%C3%B4t-dans-un-moment-contre-r%C3%A9volutionnaire-que-r%C3%A9volutionnaire",
   "title": "David Cormand: «Nous sommes hélas, plutôt dans un moment contre-révolutionnaire que révolutionnaire»",
   "summary": "Eurodéputé écologiste, David Cormand analyse les violences en marge de la mobilisation du 17 octobre et la crise démocratique qu'il y voit. Il dénonce aussi le modèle des réseaux sociaux, l'emprise des géants de l'intelligence artificielle et deux textes de la Commission européenne. Invité de l'Atelier politique, il répond aux questions de Frédéric Rivière.",
+  "published": "2026-10-24T07:00+02:00",
+  "mentions": []
+ },
+ {
+  "id": "813974b98b9e6796",
+  "outlet": "France 24",
+  "lean": "centre",
+  "url": "https://www.france24.com/fr/france/20261024-en-direct-centaines-manifestations-france-climat-fortes-tensions-mobilisation-revendications-salaires-education-syndicats-pouvoir-d-achat-lycee-police-macron",
+  "title": "Mobilisation du 24 octobre : entre 410 000 et 800 000 manifestants à travers la France",
+  "summary": "Il y a eu près de 1 000 interpellations, samedi, en marge de la mobilisation en France, a annoncé le ministre de l'Intérieur Laurent Nuñez, un nombre qui pourrait \"augmenter\". \"Les cortèges se sont bien passés\", a t-il toutefois déclaré. Selon les sources, entre 410 000 et 800 000 manifestants ont défilé contre la vie chère ou en soutien aux lycéens. Retrouvez le fil du 24 octobre.",
   "published": "2026-10-24T07:00+02:00",
   "mentions": []
  },
@@ -199,14 +199,16 @@
   ]
  },
  {
-  "id": "b37c098130afcd68",
-  "outlet": "Radio Classique",
+  "id": "0777d2fa11f6278e",
+  "outlet": "TF1 Info",
   "lean": "non classé",
-  "url": "https://www.radioclassique.fr/articles/une-femme-cetait-un-peu-le-diable-dictionnaire-amoureux-du-vatican-insolite-de-caroline-pigozzi/",
-  "title": "« Une femme, c’était un peu le diable » — Dictionnaire amoureux du Vatican insolite de Caroline Pigozzi",
-  "summary": "Caroline Pigozzi, journaliste et grand reporter, est la vaticaniste française la plus connue et la... Cet article « Une femme, c’était un peu le diable » — Dictionnaire amoureux du Vatican insolite de Caroline Pigozzi est apparu en premier sur Radio Classique .",
+  "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxPeVZYbU5yXzlpLXJVQnpqb053SXpfRnV1d04zMDhlYUlhb2pwUU91bDNMOVRUX3h3ZUdFaWNlNk4yZi1wencyNUptVHRjeFI0MjNJZzJxT3J6d05McE5rOENDSmlVZ2ZvcHdtVjFFazZGWVQ0bU5JWmhaVHJLWmFYNWV0V0tJVmJMNDdOWDdIbTdhbS1yeDg2c0Y2VEJwNHAtTHpqRGwwYkhNeDNYYnI2bERkZ3ZSOW1yb0FZeXhGU2xiSmJyUDkxd3JsbXdkTHIzZjVvLTktX3lPZUk4Z1haLWdyaUw5ZW1nZndoY3VoNW1MLVlQVmVqck5hY25nRFhQdUgtOWtwTkNBSDNNVFZ3a2tmZmd2bXdJbTZ3bEZCVVEwbkh6SV9RN2Q5dnZjUEd1cjF3?oc=5",
+  "title": "Réélection de Jordan Bardella à la tête du parti, lancement de la campagne de Marine Le Pen : les enjeux du congrès du Rassemblement national",
+  "summary": "",
   "published": "2026-10-24T08:00+02:00",
-  "mentions": []
+  "mentions": [
+   "lepen"
+  ]
  },
  {
   "id": "91ef936579ef40fc",
@@ -221,25 +223,13 @@
   ]
  },
  {
-  "id": "0777d2fa11f6278e",
-  "outlet": "TF1 Info",
+  "id": "b37c098130afcd68",
+  "outlet": "Radio Classique",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxPeVZYbU5yXzlpLXJVQnpqb053SXpfRnV1d04zMDhlYUlhb2pwUU91bDNMOVRUX3h3ZUdFaWNlNk4yZi1wencyNUptVHRjeFI0MjNJZzJxT3J6d05McE5rOENDSmlVZ2ZvcHdtVjFFazZGWVQ0bU5JWmhaVHJLWmFYNWV0V0tJVmJMNDdOWDdIbTdhbS1yeDg2c0Y2VEJwNHAtTHpqRGwwYkhNeDNYYnI2bERkZ3ZSOW1yb0FZeXhGU2xiSmJyUDkxd3JsbXdkTHIzZjVvLTktX3lPZUk4Z1haLWdyaUw5ZW1nZndoY3VoNW1MLVlQVmVqck5hY25nRFhQdUgtOWtwTkNBSDNNVFZ3a2tmZmd2bXdJbTZ3bEZCVVEwbkh6SV9RN2Q5dnZjUEd1cjF3?oc=5",
-  "title": "Réélection de Jordan Bardella à la tête du parti, lancement de la campagne de Marine Le Pen : les enjeux du congrès du Rassemblement national",
-  "summary": "",
+  "url": "https://www.radioclassique.fr/articles/une-femme-cetait-un-peu-le-diable-dictionnaire-amoureux-du-vatican-insolite-de-caroline-pigozzi/",
+  "title": "« Une femme, c’était un peu le diable » — Dictionnaire amoureux du Vatican insolite de Caroline Pigozzi",
+  "summary": "Caroline Pigozzi, journaliste et grand reporter, est la vaticaniste française la plus connue et la... Cet article « Une femme, c’était un peu le diable » — Dictionnaire amoureux du Vatican insolite de Caroline Pigozzi est apparu en premier sur Radio Classique .",
   "published": "2026-10-24T08:00+02:00",
-  "mentions": [
-   "lepen"
-  ]
- },
- {
-  "id": "389785a5d2c4c963",
-  "outlet": "La Croix",
-  "lean": "centre",
-  "url": "https://www.la-croix.com/societe/manifestations-une-jeunesse-tiraillee-dans-son-rapport-a-la-violence-20261023",
-  "title": "Manifestations : une jeunesse tiraillée dans son rapport à la violence",
-  "summary": "Alors qu’une nouvelle journée de manifestation samedi 24 octobre 2026 fait craindre des débordements, plusieurs étudiants et lycéens racontent à La Croix le rapport ambigu qu’ils entretiennent avec la violence physique.",
-  "published": "2026-10-24T08:01+02:00",
   "mentions": []
  },
  {
@@ -253,13 +243,13 @@
   "mentions": []
  },
  {
-  "id": "f3a52848fe91c864",
-  "outlet": "Libération",
-  "lean": "centre-gauche",
-  "url": "https://www.liberation.fr/politique/dans-la-france-de-macron-on-ne-dit-plus-bonne-manif-mais-tu-fais-attention-hein-20261024_4NWIEE4J6FCXJIZNIANL56NK3Y/",
-  "title": "Dans la France de Macron, on ne dit plus «bonne manif !» mais «tu fais attention, hein !»",
-  "summary": "Il n’est pas normal d’avoir peur un jour de mobilisation. Que l’on soit manifestant, commerçant ou même membre des forces de l’ordre.",
-  "published": "2026-10-24T08:15+02:00",
+  "id": "389785a5d2c4c963",
+  "outlet": "La Croix",
+  "lean": "centre",
+  "url": "https://www.la-croix.com/societe/manifestations-une-jeunesse-tiraillee-dans-son-rapport-a-la-violence-20261023",
+  "title": "Manifestations : une jeunesse tiraillée dans son rapport à la violence",
+  "summary": "Alors qu’une nouvelle journée de manifestation samedi 24 octobre 2026 fait craindre des débordements, plusieurs étudiants et lycéens racontent à La Croix le rapport ambigu qu’ils entretiennent avec la violence physique.",
+  "published": "2026-10-24T08:01+02:00",
   "mentions": []
  },
  {
@@ -275,23 +265,13 @@
   ]
  },
  {
-  "id": "7d7cf1948a984536",
-  "outlet": "L'Express",
-  "lean": "centre-droit",
-  "url": "https://www.lexpress.fr/politique/samedi-il-ne-faut-pas-voir-de-scenes-de-violences-et-des-pillages-le-24-octobre-ou-la-puissance-de-HUZSTM2UGZER3F37JMUO2F4D5M/",
-  "title": "Violences en France : derrière la crise de l’ordre public, le spectre d’un Etat impuissant",
-  "summary": "",
-  "published": "2026-10-24T08:30+02:00",
-  "mentions": []
- },
- {
-  "id": "2c502a14985ea2fc",
-  "outlet": "Radio Classique",
-  "lean": "non classé",
-  "url": "https://www.radioclassique.fr/economie/fin-de-la-grande-demission-quest-ce-que-le-job-hugging-cette-nouvelle-tendance-qui-pousse-les-salaries-a-rester/",
-  "title": "Fin de la grande démission : qu’est-ce que le job hugging, cette nouvelle tendance qui pousse les salariés à rester ?",
-  "summary": "La dégradation de la conjoncture et le manque de visibilité sur les perspectives économiques incitent... Cet article Fin de la grande démission : qu’est-ce que le job hugging, cette nouvelle tendance qui pousse les salariés à rester ? est apparu en premier sur Radio Classique .",
-  "published": "2026-10-24T08:30+02:00",
+  "id": "f3a52848fe91c864",
+  "outlet": "Libération",
+  "lean": "centre-gauche",
+  "url": "https://www.liberation.fr/politique/dans-la-france-de-macron-on-ne-dit-plus-bonne-manif-mais-tu-fais-attention-hein-20261024_4NWIEE4J6FCXJIZNIANL56NK3Y/",
+  "title": "Dans la France de Macron, on ne dit plus «bonne manif !» mais «tu fais attention, hein !»",
+  "summary": "Il n’est pas normal d’avoir peur un jour de mobilisation. Que l’on soit manifestant, commerçant ou même membre des forces de l’ordre.",
+  "published": "2026-10-24T08:15+02:00",
   "mentions": []
  },
  {
@@ -305,6 +285,26 @@
   "mentions": [
    "lepen"
   ]
+ },
+ {
+  "id": "2c502a14985ea2fc",
+  "outlet": "Radio Classique",
+  "lean": "non classé",
+  "url": "https://www.radioclassique.fr/economie/fin-de-la-grande-demission-quest-ce-que-le-job-hugging-cette-nouvelle-tendance-qui-pousse-les-salaries-a-rester/",
+  "title": "Fin de la grande démission : qu’est-ce que le job hugging, cette nouvelle tendance qui pousse les salariés à rester ?",
+  "summary": "La dégradation de la conjoncture et le manque de visibilité sur les perspectives économiques incitent... Cet article Fin de la grande démission : qu’est-ce que le job hugging, cette nouvelle tendance qui pousse les salariés à rester ? est apparu en premier sur Radio Classique .",
+  "published": "2026-10-24T08:30+02:00",
+  "mentions": []
+ },
+ {
+  "id": "7d7cf1948a984536",
+  "outlet": "L'Express",
+  "lean": "centre-droit",
+  "url": "https://www.lexpress.fr/politique/samedi-il-ne-faut-pas-voir-de-scenes-de-violences-et-des-pillages-le-24-octobre-ou-la-puissance-de-HUZSTM2UGZER3F37JMUO2F4D5M/",
+  "title": "Violences en France : derrière la crise de l’ordre public, le spectre d’un Etat impuissant",
+  "summary": "",
+  "published": "2026-10-24T08:30+02:00",
+  "mentions": []
  },
  {
   "id": "232b742c675bfa21",
@@ -472,22 +472,22 @@
   "mentions": []
  },
  {
-  "id": "b14907e91884b283",
-  "outlet": "RFI",
-  "lean": "centre",
-  "url": "https://www.rfi.fr/fr/france/20261024-cela-nous-fait-peur-apr%C3%A8s-l-attentat-raciste-%C3%A0-trappes-l-%C3%A9motion-et-l-indignation-restent-vives-chez-les-habitants",
-  "title": "«Cela nous fait peur»: après l'attentat raciste à Trappes, l'émotion et l'indignation restent vives chez les habitants",
-  "summary": "« C'est la première fois qu'il y a un acte terroriste planifié pour tuer nos compatriotes, à raison de leur couleur de peau ou de la religion qu'on leur donne » : le président français Emmanuel Macron a vendredi 23 octobre soir clairement qualifié de raciste l'attaque qui a eu lieu à Trappes et à La Verrière. Les habitants de ces villes de l'Ouest parisien font part de leur choc et accusent les autorités d'hésiter à parler d'un attentat « raciste » et « islamophobe ».",
-  "published": "2026-10-24T11:45+02:00",
-  "mentions": []
- },
- {
   "id": "18671ef5198326d0",
   "outlet": "20 Minutes",
   "lean": "centre",
   "url": "https://www.20minutes.fr/politique/4257176-20261024-attaque-trappes-verriere-premiere-fois-petite-phrase-emmanuel-macron-passe",
   "title": "Attaque à Trappes et à La Verrière : « La première fois… », la petite phrase d’Emmanuel Macron qui ne passe pas",
   "summary": "En qualifiant l’attaque de Trappes de « premier » acte terroriste en raison de la « couleur de peau ou de la religion » en France, le président de la République a provoqué un tollé de toute la classe politique",
+  "published": "2026-10-24T11:45+02:00",
+  "mentions": []
+ },
+ {
+  "id": "b14907e91884b283",
+  "outlet": "RFI",
+  "lean": "centre",
+  "url": "https://www.rfi.fr/fr/france/20261024-cela-nous-fait-peur-apr%C3%A8s-l-attentat-raciste-%C3%A0-trappes-l-%C3%A9motion-et-l-indignation-restent-vives-chez-les-habitants",
+  "title": "«Cela nous fait peur»: après l'attentat raciste à Trappes, l'émotion et l'indignation restent vives chez les habitants",
+  "summary": "« C'est la première fois qu'il y a un acte terroriste planifié pour tuer nos compatriotes, à raison de leur couleur de peau ou de la religion qu'on leur donne » : le président français Emmanuel Macron a vendredi 23 octobre soir clairement qualifié de raciste l'attaque qui a eu lieu à Trappes et à La Verrière. Les habitants de ces villes de l'Ouest parisien font part de leur choc et accusent les autorités d'hésiter à parler d'un attentat « raciste » et « islamophobe ».",
   "published": "2026-10-24T11:45+02:00",
   "mentions": []
  },
@@ -1058,6 +1058,16 @@
   ]
  },
  {
+  "id": "c04afee94d5a775f",
+  "outlet": "Site Internet du PCF",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdlJfMldQN2NEUWY5U2pkX0lxYWN2YzZ4N2Q2bU1Jenl0aHFzQXcyRjRvaTJxY0pnSGVjd0E4N21wSmdkYnNGV1RxbHZrTkEyVzB5SGZKRjE0UkppZHNFMmk5MkVHaDNHZGhEejNYa1V1YVQzcDJianRoVkZ2RVhvbmNnVk5aaFVwRG1wbWdncjJhU1E1S3kzaU5B?oc=5",
+  "title": "24 octobre : une nouvelle réussite contre un pouvoir méprisant et liberticide !",
+  "summary": "",
+  "published": "2026-10-24T20:40+02:00",
+  "mentions": []
+ },
+ {
   "id": "e6c3be53c013385f",
   "outlet": "lejdd.fr",
   "lean": "non classé",
@@ -1068,16 +1078,6 @@
   "mentions": [
    "zemmour"
   ]
- },
- {
-  "id": "c04afee94d5a775f",
-  "outlet": "Site Internet du PCF",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdlJfMldQN2NEUWY5U2pkX0lxYWN2YzZ4N2Q2bU1Jenl0aHFzQXcyRjRvaTJxY0pnSGVjd0E4N21wSmdkYnNGV1RxbHZrTkEyVzB5SGZKRjE0UkppZHNFMmk5MkVHaDNHZGhEejNYa1V1YVQzcDJianRoVkZ2RVhvbmNnVk5aaFVwRG1wbWdncjJhU1E1S3kzaU5B?oc=5",
-  "title": "24 octobre : une nouvelle réussite contre un pouvoir méprisant et liberticide !",
-  "summary": "",
-  "published": "2026-10-24T20:40+02:00",
-  "mentions": []
  },
  {
   "id": "10c7510ff54fb2ad",

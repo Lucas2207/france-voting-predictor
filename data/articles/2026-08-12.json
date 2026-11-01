@@ -1,17 +1,5 @@
 [
  {
-  "id": "e69b788ff15d4a82",
-  "outlet": "l'Opinion",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTGFINEV4SllxeGJzU2gtZ2hLRWgzaEhpejBBcUc3WGxfZlk0NElyZ2FXOXNnR2RkVWQzU1IxZnNBOXlhNHdKNG5neXBkallmNDdldExRVExlM0xlM3Q0aF8tM25yVWZVRVJqSVUtYjZvQXQ0NlYzdVdTTXR4UGpvVnJIM2dyMzU4UTlfUXlQS3JUNmF2QlRVcm1pWkZCSm0yX0dxcA?oc=5",
-  "title": "Second tour de la présidentielle de 2017 : la déroute de Marine Le Pen",
-  "summary": "",
-  "published": "2026-08-12T09:00+02:00",
-  "mentions": [
-   "lepen"
-  ]
- },
- {
   "id": "2d7ad8d7a2e31b75",
   "outlet": "lanouvellerepublique.fr",
   "lean": "non classé",
@@ -21,19 +9,15 @@
   "published": "2026-08-12T09:00+02:00",
   "mentions": [
    "lepen"
-  ]
- },
- {
-  "id": "a34cc693e5d9e1e8",
-  "outlet": "TIME France",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQOC1ZUllFWU9LRzFGZkw1UDIwZ29jU3RYS1MwNnlVQjI2My04WnJQOU5GMWx5ZU1HMDNMR0txVWsxM1NpdWRtZ0RRR3kydlYwMnpObDVwU2J4MlFKcWRoZUVmd3d1NTVTNjlvOEQ3cE1OQnlJTTIzR05EUjRpTE5QSFBLN2E0emoyUmxhOXE0alFDcl9zelpYUngzekhreFZpeVRwUkZDSXNLYjZXcmFKU3VadzQ1YzFITVZzcHZ3?oc=5",
-  "title": "Les visages des présidentielles 2027 : Marine Le Pen, dédiaboliser pour mieux gouverner",
-  "summary": "",
-  "published": "2026-08-12T09:00+02:00",
-  "mentions": [
-   "lepen"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": -1,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "45191c5e78c91baf",
@@ -46,7 +30,35 @@
   "mentions": [
    "lepen",
    "melenchon"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": -1,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "a34cc693e5d9e1e8",
+  "outlet": "TIME France",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQOC1ZUllFWU9LRzFGZkw1UDIwZ29jU3RYS1MwNnlVQjI2My04WnJQOU5GMWx5ZU1HMDNMR0txVWsxM1NpdWRtZ0RRR3kydlYwMnpObDVwU2J4MlFKcWRoZUVmd3d1NTVTNjlvOEQ3cE1OQnlJTTIzR05EUjRpTE5QSFBLN2E0emoyUmxhOXE0alFDcl9zelpYUngzekhreFZpeVRwUkZDSXNLYjZXcmFKU3VadzQ1YzFITVZzcHZ3?oc=5",
+  "title": "Les visages des présidentielles 2027 : Marine Le Pen, dédiaboliser pour mieux gouverner",
+  "summary": "",
+  "published": "2026-08-12T09:00+02:00",
+  "mentions": [
+   "lepen"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "b787e536c401f61a",
@@ -67,5 +79,25 @@
   "summary": "",
   "published": "2026-08-12T09:00+02:00",
   "mentions": []
+ },
+ {
+  "id": "e69b788ff15d4a82",
+  "outlet": "l'Opinion",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTGFINEV4SllxeGJzU2gtZ2hLRWgzaEhpejBBcUc3WGxfZlk0NElyZ2FXOXNnR2RkVWQzU1IxZnNBOXlhNHdKNG5neXBkallmNDdldExRVExlM0xlM3Q0aF8tM25yVWZVRVJqSVUtYjZvQXQ0NlYzdVdTTXR4UGpvVnJIM2dyMzU4UTlfUXlQS3JUNmF2QlRVcm1pWkZCSm0yX0dxcA?oc=5",
+  "title": "Second tour de la présidentielle de 2017 : la déroute de Marine Le Pen",
+  "summary": "",
+  "published": "2026-08-12T09:00+02:00",
+  "mentions": [
+   "lepen"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": -2,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  }
 ]

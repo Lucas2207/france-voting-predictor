@@ -1,91 +1,63 @@
 [
  {
-  "id": "d09d63656ed5e0fa",
-  "outlet": "Le Point",
+  "id": "0d070352b59b67b8",
+  "outlet": "Boursorama",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQekE4WkRGcG5oN2tnVmthaVQ2VURUZVlHdEdEcEFoaE9RcWJzUExfaE9sSzItaEpRWjFETXhKelgxN0NJa3BSY2lSal96OHBtTHNFSUwxYWoyUXJNNE11WTM5Y29TLUxvZ0FrSGRoWDNEMThpZG1yM2tKX1phRWpWOThmM3BSNi1FV0RzM3BMbjBWcjhlWEFEbkVpdkhYXzNyVk5jejVDaDAzeTZtY3RNU1JUeERqWTlSd2huSXpuUUlXb0t0Q1BiTUVkOWJ6eWhPbGxJa0NhaG5zZUxVMlVFUXp1dWxOM0s0Mk9URS1Tdw?oc=5",
-  "title": "Baromètre exclusif : Jean-Luc Mélenchon et Gabriel Attal sortent gagnants de l’été",
+  "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOdVBFcHNnaHRqUTl2el9JLUxORmJMTmFISnBuRm1TdFFOVng0cHp2M1RPT0NOVnpOUGVMSXR5SEVMYndJQzlneGViWXRaaTVsUDNrSWRiMWFNeVV0ZUswSGU2T01yUUxXVU1rdEpZdG1OZUdJOGlGT0duNkMtel9Bclp5UTdnMmVQM0d2T3p2U1h5bWUtR1NyQ1dCbUhZSU5UVWdpNUZzbi1BaHNtUWgtN1JYMFYwRDdZU3d2VXQ3WGhWcTVyQnA5TUNIdC1oenprQWVkQzZzcUExVXVCSFFJV2syQm1xQ2otLUszam9MSW1JRG83MlVZanRaQk1jVjd1M0szQzB1eEtOV1ZR0gGSAkFVX3lxTFBHRGFZZWdZY081Y2xBQ2o5NHJ2NXR0S24yelZKOGtnV1pWLVpUT0loT2pOYVRTdThOVlREcGdicDlfT2xQSkpJdDA2T29JZkYzR2c4eVNYS2hBSkpQRnFld25PRmxISEttSkQxcjNtM1g2NzFsUC1nVnlLbTZNQ2gwWjhrX3RzWjMtc3ZudUVGa1Zxd3JVbmxvSl9zOFAzQ3g5WG1KSmZFMmItbVdUblBCbEt6cVk4TmJjdGg3Z3RjNWoxVmNodFREUVFLN3pLNUZsVUNNVy1BNXd2SEVLWWN6RGQ4MDBsaDVYVmF6dmQzcXdPaTJKRE1CM04wblEzSmtjbl9nYS12em1Yb1ZjNGwzemc?oc=5",
+  "title": "Service public : Marine Le Pen est \"la pire ennemie\" des fonctionnaires, étrille Sophie Binet",
   "summary": "",
   "published": "2026-09-09T09:00+02:00",
   "mentions": [
-   "melenchon",
-   "attal"
-  ]
+   "lepen"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "a3299b4675e52dd2",
-  "outlet": "L'Express",
-  "lean": "centre-droit",
-  "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQdk0yOW85cllub2tubjloaHBQS0JyV3ZLdllFdFJhRXhsczQ1Zk5ndmRLTXdha214NnFWUUNEOHloUm5hSTR0M3NlV2dwbHlualRQX3NMYVF6T245M0Y5UmsxMXRvcUlYblVTZ3BOeUVjZ1NPU1J0dWdkNEJCVFlod3M3MnA0VFNVRW4tM2l4cHp3V1Fpa3hTNnBFc2FuamxrSFVaeFRZYUM1X01fSkpFbjctZjdLeEtvMWtkQ0dsb2lMT1dyMjJLQms2WlZhYzNISWhmMDgxczJuckpDWUs2ZkVYZWFPTEJOUGtoQ3d4akg?oc=5",
-  "title": "\"On se dirige vers un séisme\" : Marine Le Pen - Jean-Luc Mélenchon, le scénario qui inquiète les députés européens",
+  "id": "1383318ff3d7012a",
+  "outlet": "Ohmymag",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTUwyek1aNHU4bHJPWENnSk9VbURVSkpTSjQzT0VGSWlmcFVkcFAzM1BjNEtoaGZXaVdYekNpVXlxMkpDd3JRdENyRXZqdGlBRXFpdDF0Ti1wVzNjNXlfQ1N6OXdxc2NhSjBFdUFXQUdVMVdfYzk5SUlrNXkyLS1OZVo5S1JXMEIySGNzT3VrTHZWQmNUWm0zdnpwUVJRVzhjRnZjZk9oWVcyRzV1cnRfS185WjVhOEpodmU2R2ZsWTc?oc=5",
+  "title": "Marine Le Pen : qui est son compagnon depuis Louis Aliot ?",
   "summary": "",
   "published": "2026-09-09T09:00+02:00",
   "mentions": [
-   "lepen",
-   "melenchon"
-  ]
+   "lepen"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": 0,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "ca70e015e95e7b1b",
-  "outlet": "Le Monde.fr",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNbXJEM0tIT0JnU21JQ1NrMk1KT3VBMldnR19OaDZyRFpOU19vNWx4TG5hV2c3MXFIU0FYWUtQS0pOYnpPNFBfSUFuMThUcjk0amM0RTRoVGY4M1ljdHZ3dlcxVUdCRnl5WTFmdFJEcGZNTi1aTGZNVUNsc0ZHcjFCV0pfbTJvZl93T2pUY0NwM3F0YUZpekJkekN1cC0zdE9sbnl4SFhxUk4xRWhPc2MybzFaQS1sSG0xY2V2QWpVUnNOQ1N0eVZCOUhTOTdGa2NvLXZXUlJnd0ItWjZKS015RGRmUmJTTWpTTVdBMnBJbEF4VXlCalhwYW04WGY3bk1kNHc?oc=5",
-  "title": "Primaire du PS : le duel entre Olivier Faure et Raphaël Glucksmann électrise la campagne",
+  "id": "2085ecea23f38c40",
+  "outlet": "20 Minutes",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYk9aVDFYaFJXSHNvc2tvYzhhUWE2aTkyeHA5NmxyWjh6LVVoLVFNS1o0YzNWMVI2RF9oZE1TY1VLdGVoeDRHbHFwZG1wZXRhTnRVaDRGRE8yUC1iQjB3YnEzZXpZRlF4UklwbHhPd2wxaF90REh6eUlReE9aYlpYbkMzRzJNSW9xTEpnOEdFcDdlT1ZtSXVMN2NBcGQta0FPMHE0Y09GalhZSzlVMEpoNUZ4a3ZwNkRaSExv?oc=5",
+  "title": "Anne Hidalgo votera Raphaël Glucksmann à la primaire",
   "summary": "",
   "published": "2026-09-09T09:00+02:00",
   "mentions": [
    "glucksmann"
-  ]
- },
- {
-  "id": "71b10ac76ea3cdd4",
-  "outlet": "Le Monde.fr",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOMFROYklIanpVU1FKOGIxZmxHa2h1NnJtYmRabnRYTml1UE9XbHJDU0ItSkNLY2VTaFBNUHJZRjl0Q2lkcHExSDJSY3g3VmU4NWYwdTVIV01zZmxZRmVOVzZWY2pUdUNCbkJJd3VMNU5rT0JVZ3pKWnhsSEhPZXJiTmdXXzRKSmVlUHRLWUliUUZJWWJhMWx0REhockdQWGZtc2c3eXdWWFlBYm1fZ2xpZFUwdFQ3Q0R4RTljLVA2aXZkYzYwVER5OFk0TVBwbjV3Y2FBd0tjTWxtVmpVMmZTNkZkTGdUQm9GY3RJb05uOU9xMG1VcGhLa3FuMnd3M2hu?oc=5",
-  "title": "Présidentielle 2027 : Anne Hidalgo apporte son soutien à Raphaël Glucksmann pour la primaire à gauche",
-  "summary": "",
-  "published": "2026-09-09T09:00+02:00",
-  "mentions": [
-   "glucksmann"
-  ]
- },
- {
-  "id": "41696ca4c1b524bf",
-  "outlet": "Public Sénat",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPT1pBTGRYTno3YXpnV3dxUTlmTWVGUFRBWHhIRnhNYk10TVpqanluZ0p4dXdmekhxLWd2TFJMelQ1dUJGMjRwYWZNZm4zWWx6WGM4QmhhZmViQm54TjJ5RFk4WXJJLThsSTZMTHpyeE5EeXMta2pzVDFxdVhLaE5kU2ZWNV96R0ZLanduQ1QzRzd4YkZkdFRmbnVwbVBGdDZMRmJuRnRuVnlhdVhuYVJQTUNzcmFLVmtnOE5rdV9vZ1o3bE9iVWhBUnBDQ0p5ZlM5UHYzWElYVWVicGRNRU5vQzBfeWs3QXlLU01vVXlQYlNUWWJyTGI0LXg1LUgyMDJNeWlzXw?oc=5",
-  "title": "Présidentielle 2027 : la main tendue d'Édouard Philippe, rejetée par Gabriel Attal et Bruno Retailleau, relance l'idée d'une primaire",
-  "summary": "",
-  "published": "2026-09-09T09:00+02:00",
-  "mentions": [
-   "philippe",
-   "attal",
-   "retailleau"
-  ]
- },
- {
-  "id": "8b6adc31355fb97f",
-  "outlet": "Le Monde.fr",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxOaG12cUt1NFJpZlF1c0wyeFRVN3k5NlJZSnpROTBDMzYwTkZJeUlpNXYyTS03LXVNUjMxY1hoa09McVRadEV1QjV1S3VfSmNXSDhNOFpMbEF2b0ZTUlBITUhxLWJHOEZWRWR5M0ZWZTFnTUtYb21kU09xck5SczFZbjFlb2UwTUdhdFp5NW1icGlDSEZ1dk9fUXllb1BfOXBLUUR2MUxzaFlTNmpyTG1UX0J2OEtfMlE1bGVid3JxczRFdnQwOHhqQW5wSGRSRmgtN3dvUU5QTVZKYXVMcHRTYzh4N3J5NG5LR0F4MUtVdjI5bkI3al8tQ0twbWFQcXRQWVRTRDVtVUlIcFBaQTN5YU9YZENkLTJWUWVYOXVTcDNhaHBvWDktVFViRlMtc1NOVFp2enRhX3ZqZmVEVnZ3dg?oc=5",
-  "title": "Emeutes en Nouvelle-Calédonie : Gabriel Attal et plusieurs ministres de son gouvernement visés par une plainte devant la Cour de justice de la République",
-  "summary": "",
-  "published": "2026-09-09T09:00+02:00",
-  "mentions": [
-   "attal"
-  ]
- },
- {
-  "id": "af67f2a8c7fd1d6a",
-  "outlet": "Le Point",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWXhuRlg1Vm1rS3ZtN1Y2QlVCZllPQzJqY1NXb1MySGx0R3gyZHBJa1NfTW5CUUVsQ1UyXzhDSDB3Q2R5djNpeHo4QlJodUlkSjNkeS1sVV9xOVVvOTQxY3Y5Zm1GeVFxejBOaDdzYjZRay1CaEVpcnk4bHFIREJEOFZKUVlxRFl4TXZsajNDeExYczZ0dkhMa3NyTkw?oc=5",
-  "title": "La bière de trop pour Gabriel Attal ?",
-  "summary": "",
-  "published": "2026-09-09T09:00+02:00",
-  "mentions": [
-   "attal"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": 0,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "2e3d050b96cd71f8",
@@ -99,7 +71,25 @@
    "philippe",
    "attal",
    "retailleau"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": -1,
+    "frame": "strategie_alliances"
+   },
+   {
+    "id": "retailleau",
+    "tone": -1,
+    "frame": "strategie_alliances"
+   },
+   {
+    "id": "philippe",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "3a48d00d093a231a",
@@ -111,19 +101,133 @@
   "published": "2026-09-09T09:00+02:00",
   "mentions": [
    "attal"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": -1,
+    "frame": "economie_social"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "ef34d159f2af3b19",
-  "outlet": "Les Echos",
+  "id": "3cb2ce0549d8ac35",
+  "outlet": "RTL",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNN0NXWG1PY0hTZzNiamt4VFhFWjJwWGNhV05XRjVPb0I0dzZDZHRScXZBMnlrYjAxYUxmMEhwaFFFcTFnWG1STnYxQVk0NG5kVUdLQ0VJVVNvck0yNTFuV2dWR2N4dTJESl9pTUFzeUdzbEJjY1hzM2hCNmdoSE9Zc29vS1o0dlhWRjUxc2tNNkJBcDU1QUpfVXdRYlAyZ3NDX0xwQWNqZUFWOUd6OFBxVG5RbGdKSkpBNW1sTDZ4RlFRNHlabFVpQ0RTc09sbUw3Z1N6ekViM0dWTkxrbkl3SThBbzRPVTBRbnp2V09nd2F4bkJhMk5COEVB?oc=5",
-  "title": "Présidentielle 2027 : avec la suppression du droit du sol, Bruno Retailleau persiste dans la surenchère à droite",
+  "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOQlNzeTB5TEdyUlp0R3JMZFprREo3a3dyeE9aRXNHY0tyVEhCQ3FuWkZvY0lwR29PdHhIZHlmQzBSa2p1YjJfREtqazlkZEFZTHBFZDJOTVNaRVZycXpVbFUtQmptS3RlenZYOGtKYktEclZSeVgxRkNBTC1DNGs1bng2MGdqYzNVcGpXS25sN3pPS2pUZlhzT2w0WTRTNnNGNEFhSEJrS2ttNnVKaHpmendqaXRtbmNoXzRSeEpXUFFhZlhWME1rdmNod1ptTlVaTUVNNm9xNng0VDFNckNIYTZJWlZCdFJUSS1CQ2FRdTRUOGpmMGFGZUQzb1BJSTBBaWhOOGk1T01NRFltRHV4UW8tdw?oc=5",
+  "title": "\"De la tambouille politicienne\" : Gabriel Attal balaie la proposition d'Édouard Philippe, qui veut réunir les candidats de la droite et du centre",
+  "summary": "",
+  "published": "2026-09-09T09:00+02:00",
+  "mentions": [
+   "philippe",
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": -1,
+    "frame": "economie_social"
+   },
+   {
+    "id": "philippe",
+    "tone": -1,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "41696ca4c1b524bf",
+  "outlet": "Public Sénat",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPT1pBTGRYTno3YXpnV3dxUTlmTWVGUFRBWHhIRnhNYk10TVpqanluZ0p4dXdmekhxLWd2TFJMelQ1dUJGMjRwYWZNZm4zWWx6WGM4QmhhZmViQm54TjJ5RFk4WXJJLThsSTZMTHpyeE5EeXMta2pzVDFxdVhLaE5kU2ZWNV96R0ZLanduQ1QzRzd4YkZkdFRmbnVwbVBGdDZMRmJuRnRuVnlhdVhuYVJQTUNzcmFLVmtnOE5rdV9vZ1o3bE9iVWhBUnBDQ0p5ZlM5UHYzWElYVWVicGRNRU5vQzBfeWs3QXlLU01vVXlQYlNUWWJyTGI0LXg1LUgyMDJNeWlzXw?oc=5",
+  "title": "Présidentielle 2027 : la main tendue d'Édouard Philippe, rejetée par Gabriel Attal et Bruno Retailleau, relance l'idée d'une primaire",
+  "summary": "",
+  "published": "2026-09-09T09:00+02:00",
+  "mentions": [
+   "philippe",
+   "attal",
+   "retailleau"
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": -1,
+    "frame": "strategie_alliances"
+   },
+   {
+    "id": "attal",
+    "tone": -1,
+    "frame": "strategie_alliances"
+   },
+   {
+    "id": "retailleau",
+    "tone": -1,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "47625d270ec06a43",
+  "outlet": "Le Figaro",
+  "lean": "droite",
+  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQY25paFBEb1B2U1pBeVE0SlNUR005c3VIZkRlNy1MMXZlU21aLUdWaVJwRUt1eFd1MUQ5dWdaSHJRVGlISTBmWkduZ0VTcXZvbklGLW1rMm52SEZlM2padWxFbUI2dG1iY3VDSTZxU1E4Rm1nT05aZkFMbkJ0VjExanYxYzFvdlpZN3BHSWpWQW9hRjBONUNRN3lidW95NGJFcGMzS0t6VzV0ek93UGtabzA3Zy1EN1Ay?oc=5",
+  "title": "Manuel Valls : «Non, Bruno Retailleau, le peuple n’est pas une Cour suprême»",
   "summary": "",
   "published": "2026-09-09T09:00+02:00",
   "mentions": [
    "retailleau"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": -1,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "529eacfaf883d2fa",
+  "outlet": "Ouest-France",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQMWI4TmlqYWtDUHZ0bUdfWVl4azY1ZTNEUEE3dlR0TnZGMS1sZ2VEMV9hV05zSS1lZTIybkJybDNOZFc1RHdNTTQwWXlJNkMtcFVFMkF3UVZTNU82SmxKUzRXUjJaMGRYMUQxclFHNEQ2OURlUGhtYTNXSzMzRjN1VGhSTkZwaVdZR2lTWEc4TjFLbzV5UWcxNHVEOGRUTE9DYjZ2Skxjck1MY3VHNDdmT0I4VnJtTkJMUVloekU2dXhNZU1pMlR2RkQ2ODQyMUkzVWtSNGdOZkx1RVcya00ydHF6bGhGMEdybndKY1YwLUxvWjhZdFVSM3N6SjdTUW9fZ2Y2TkVMY0NjY1NqMnc?oc=5",
+  "title": "Présidentielle 2027. Pour Raphaël Glucksmann, le chemin de la primaire n’est pas pavé de roses",
+  "summary": "",
+  "published": "2026-09-09T09:00+02:00",
+  "mentions": [
+   "glucksmann"
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "631051b2e4b06f0e",
+  "outlet": "Paris Match",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMlVyaVpLWDYxSXZiWml3WHpDNjAyZ19odTdYb0JZanlDLTZ5dEt1MWRaNGhlZUxsM1RLU2d5ejYybkxLazVOZGg4bzJia0ZQS1ROMHlSNWFEU054WGlNOGFEOFc2QVZra1drZUIxQ1RBVE81TmpRNUY0WU9uX09tXzZOVXRCYUpEeDhxR28yVlZEN1R5b1llWnRkNnBFQnpfUGUzdGZYanhEcE5LWXdiNnpyaWhVZEU?oc=5",
+  "title": "Marine Le Pen et Jordan Bardella, la malédiction d'un « ticket » toujours perdant",
+  "summary": "",
+  "published": "2026-09-09T09:00+02:00",
+  "mentions": [
+   "lepen"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": -1,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "640daa78dafe4114",
@@ -135,7 +239,657 @@
   "published": "2026-09-09T09:00+02:00",
   "mentions": [
    "lisnard"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "lisnard",
+    "tone": 0,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "6926c807d8b5349e",
+  "outlet": "TF1 Info",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcEtMa0FmUmpIa19vR2tkY0FIOGdyZkF5M0d3SWpLUllwZndlUVk2d2JsQ0ZvT2lXR1FuRXpiUVo3RXNpZWZ5dGZqbkVZa3JNeGtTbTJpT1dYM0hmODNmdnhobktqanpXQWhKYlNkY3pwX1BtdTJXT2FudmhZZVE1eWp3QlV1dlBoOG5hLW0ycktCbzlfWmFVeUVTV2czeVJZOTNGSlJuajQxRWF1NHRSTzRTYzhiM25zbml0SjdRTQ?oc=5",
+  "title": "Ecole : Fabien Roussel ne veut \"plus de devoirs à la maison\"",
+  "summary": "",
+  "published": "2026-09-09T09:00+02:00",
+  "mentions": [
+   "roussel"
+  ],
+  "analysis": [
+   {
+    "id": "roussel",
+    "tone": -1,
+    "frame": "economie_social"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "71b10ac76ea3cdd4",
+  "outlet": "Le Monde.fr",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOMFROYklIanpVU1FKOGIxZmxHa2h1NnJtYmRabnRYTml1UE9XbHJDU0ItSkNLY2VTaFBNUHJZRjl0Q2lkcHExSDJSY3g3VmU4NWYwdTVIV01zZmxZRmVOVzZWY2pUdUNCbkJJd3VMNU5rT0JVZ3pKWnhsSEhPZXJiTmdXXzRKSmVlUHRLWUliUUZJWWJhMWx0REhockdQWGZtc2c3eXdWWFlBYm1fZ2xpZFUwdFQ3Q0R4RTljLVA2aXZkYzYwVER5OFk0TVBwbjV3Y2FBd0tjTWxtVmpVMmZTNkZkTGdUQm9GY3RJb05uOU9xMG1VcGhLa3FuMnd3M2hu?oc=5",
+  "title": "Présidentielle 2027 : Anne Hidalgo apporte son soutien à Raphaël Glucksmann pour la primaire à gauche",
+  "summary": "",
+  "published": "2026-09-09T09:00+02:00",
+  "mentions": [
+   "glucksmann"
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": 1,
+    "frame": "sondage_dynamique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "76fda15ac93493cb",
+  "outlet": "Sud Ouest",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPa0tYWmp1X1E3eVQxZF9ER2FfSmVhSHhMWFFoX3l2U2Nzajd2Y0tPSzhNM1FoTzFqM19uOFVGZXllQV9PaTB3TFBDVlkzZ1JHXzJtNW9MYUJQRm5HX013dkVBbjYyYUNqQnlPSzlyVHh0WXg2QVhPNVpQMTQyT1BmWlhLb3k0NlBkcFVXR3JwU1NtdTBIWDRCbVlqbDN3dk92RlJlQk1RLWFWajFUZzFlNGJsQnpqbzBfLVZsQUlvNG1oSjBNSnVKZUU5a2NXMTh5WWlSZzNxYVFLSXdCRk1DVUF4WGlhN0lJeW5JWFo0MUE4ZnlNZDhVTU81RGRyRWhZLUw4Sw?oc=5",
+  "title": "Présidentielle : Raphaël Glucksmann refuse de modifier les règles de la primaire de la gauche pour François Ruffin",
+  "summary": "",
+  "published": "2026-09-09T09:00+02:00",
+  "mentions": [
+   "glucksmann"
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": -1,
+    "frame": "economie_social"
+   },
+   {
+    "id": "ruffin",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "7cb11ee456bc8fe9",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxNT0lPOS0wWnU3QVhOaU1rZXpLZ3JCa3dac0R1cXFUblh4TXpSdWJaNmNFSFczb09BeUowemZRck9ZQkE2cDJvaE1TSVVCUTQxUTNLaktXUG5HeVByUkpCQUJvaVE2SG5xQTFfRG5DV3pBZFVySVJ4a2YtTWZ5MFZPTnlVNmN0czRaWjAwUTM1a3JraXRiVTRTTXJtWUhYMVBSamZDdGJHOVF6MkYzOVVfY09RQ09ZX2ZzZ1VvOENzaVhQM2tCQXhoN3I4VG1LLXVpcEllWkZZVHloaFhkZkd4Umx1Q2FXbXNCQlhYZlNZQXJ1ekRhcnRVdlRvOEdDemFjMGxGenRRbnhUNWk1TGhBNWU1b1Ytako0b1Y5dFZPZ3p6b2l0Q0xfYm5McmRnX0N5ZUU1ZkZUc3hMZnczaXRRaldKX2ZKM3JSU0E?oc=5",
+  "title": "\"Je suis très surpris d'effrayer comme ça\": François Ruffin réagit après l'opposition de Raphaël Glucksmann à sa participation à la primaire socialiste",
+  "summary": "",
+  "published": "2026-09-09T09:00+02:00",
+  "mentions": [
+   "glucksmann",
+   "ruffin"
+  ],
+  "analysis": [
+   {
+    "id": "ruffin",
+    "tone": -1,
+    "frame": "sondage_dynamique"
+   },
+   {
+    "id": "glucksmann",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "7dd7815a0dd9ba5a",
+  "outlet": "Ouest-France",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxOV0lhbjFXS3kya1FJUTVadjd3WDV3RElsdlVFdHJoVG9vWFVueG5YbnluZEtzU2x2TjBzTG5EWjNwZk5jaTJGRTM1N19YRDdIUUc3MGR1QjMwOWc0QUFBTkVCQ0tVR0UxODBhR3ZBV3dwQmRydHJkT3JINUNsLURJd2E3dWdpQ3BvblZBTlBLWEE0ZWVwYlBNam9CcnhDVVBuVFMxNnI1RkxNQnYzUmFQTnpTajA2aGphZWFIa3JtVXhxeWJpYzZIaUhzQ0dYZkF1eTM0Mi14OGRPQUdSUGJwZWtNbkgybHZLVmxYZzdGanpwbXZJaVJITkZvcW5McEVNNUpMTTR2bzJuUi1MUkZ3TTEtVDlmMHltTS02WElqUUFRRElsZ21qMkMwd2I?oc=5",
+  "title": "Présidentielle 2027. François Ruffin, toujours prêt pour la primaire, dit que Raphaël Glucksmann a peur des électeurs",
+  "summary": "",
+  "published": "2026-09-09T09:00+02:00",
+  "mentions": [
+   "glucksmann",
+   "ruffin"
+  ],
+  "analysis": [
+   {
+    "id": "ruffin",
+    "tone": 0,
+    "frame": "programme"
+   },
+   {
+    "id": "glucksmann",
+    "tone": -1,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "82243fd60a79fcc6",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMzJRUEIyXzdINE83YjFCZ0FWVHBDT1otMXpudXE3R1ZKd2VrRFgxcUVPQ2NhSFdJeGpIWnREM3MwcURTTnVKYzBvdDF6T1daYm04Rkt6cjV4dExXaE9lNUhZbkJ1dUJhUmxzTWdVM2gwMmRWZlBnYVIxc3FWaFVORFFUU0JsSUtLeTVfNWV3a3V6THNjWjFDSV85Wl9kejhMLXZyeS1LdmhzSW9JZTZGSzVMZnJCSHNiRmkxMWNR?oc=5",
+  "title": "David Lisnard invité de Sonia Mabrouk - 08/09",
+  "summary": "",
+  "published": "2026-09-09T09:00+02:00",
+  "mentions": [
+   "lisnard"
+  ],
+  "analysis": [
+   {
+    "id": "lisnard",
+    "tone": 0,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "898283591790466d",
+  "outlet": "Reporterre, le média de l'écologie",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTUhHRE85bzdzT2VuX1lzWTFRdXZnMVBPLUN0alpWdE1kdXlmWGhvcEZobGNWbWFyT1JlSTU1TjQ4TkFMSTREN2M3bll3UFoxUHk4YWFoUDRjRGJLdUxSSE04RWZyRllpUERHSi1BTndQZmxLRTQxS2xNbUhQMnU5bk15N3A3bzNqMlI4WDB5TWczYW5Zc3kzMFFqbmJoZw?oc=5",
+  "title": "François Ruffin : « Le moyen de sortir de la crise climatique, c’est le travail »",
+  "summary": "",
+  "published": "2026-09-09T09:00+02:00",
+  "mentions": [
+   "ruffin"
+  ],
+  "analysis": [
+   {
+    "id": "ruffin",
+    "tone": 0,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "8b6adc31355fb97f",
+  "outlet": "Le Monde.fr",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxOaG12cUt1NFJpZlF1c0wyeFRVN3k5NlJZSnpROTBDMzYwTkZJeUlpNXYyTS03LXVNUjMxY1hoa09McVRadEV1QjV1S3VfSmNXSDhNOFpMbEF2b0ZTUlBITUhxLWJHOEZWRWR5M0ZWZTFnTUtYb21kU09xck5SczFZbjFlb2UwTUdhdFp5NW1icGlDSEZ1dk9fUXllb1BfOXBLUUR2MUxzaFlTNmpyTG1UX0J2OEtfMlE1bGVid3JxczRFdnQwOHhqQW5wSGRSRmgtN3dvUU5QTVZKYXVMcHRTYzh4N3J5NG5LR0F4MUtVdjI5bkI3al8tQ0twbWFQcXRQWVRTRDVtVUlIcFBaQTN5YU9YZENkLTJWUWVYOXVTcDNhaHBvWDktVFViRlMtc1NOVFp2enRhX3ZqZmVEVnZ3dg?oc=5",
+  "title": "Emeutes en Nouvelle-Calédonie : Gabriel Attal et plusieurs ministres de son gouvernement visés par une plainte devant la Cour de justice de la République",
+  "summary": "",
+  "published": "2026-09-09T09:00+02:00",
+  "mentions": [
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": -2,
+    "frame": "justice_affaires"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "8df5fe9511b6bef8",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQZDJXeDRBS2U0eUxhVFQ2REFLcVRQYURwNmdSV1E3MklJQU1wS0t6Q29OcEhyWjEtYTlJM21OY2tzUjVJa2tBcVRDR0E2c0VsTDlRU25DY0EzZXhjZ2E1dUs5VUVKQWNlbWRQMWZtckZDMmY5bTF3Ulo2RGQ1T1hqbTgydWR6RHhjTnhVdkkxTFoxMVpPc3NlcnVvWWFreVVwcTFqQ1JoM0F5d1JKQ3pjb3cxOGplR25fZmVLc1FhTS15ZmhFZTlrVlBrSTZUcjhZcS1fcTRPNWkzOGNRZ0JHaFVhS0NLMzVWT3ZnM3V6Q0ZKYUQ1Q1c5dVpSaldPNlFn?oc=5",
+  "title": "Primaire de la gauche: faut-il l'élargir à François Ruffin? Le sujet divise lors des journées parlementaires du PS",
+  "summary": "",
+  "published": "2026-09-09T09:00+02:00",
+  "mentions": [
+   "ruffin"
+  ],
+  "analysis": [
+   {
+    "id": "ruffin",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "948208b8564cd711",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNenpoeFFGWm1PWDJsM0hCemplRHlodmN6a3VYUkFwNzQ4OHdmdkZHRGw5VTMtWW5oV3JtR1BNMmFYdnJMZHRkZU5rZHBMMU8wT0tOcU1vZUR6TlQyV29aSDNONXVkVEZOVFk3Tkg0NzJWaFM1VTJCUmFOM1FvRDVXNHcxbnlFREROOGZHd2lvdUZ1ZjVWTlQ4WjlVNkZrZFhyQThMNGJXZ3lDYnFmOE1PRlBsV0sxVjFsUlZGYjVXSGUtUjdiaXpyWlBJMkJ5WjRFeFVpNkIySGRHeG91X1ozMGZSNA?oc=5",
+  "title": "Marschall Truchot : 2027, primaire de gauche, François Ruffin sur BFMTV - 09/09",
+  "summary": "",
+  "published": "2026-09-09T09:00+02:00",
+  "mentions": [
+   "ruffin"
+  ],
+  "analysis": [
+   {
+    "id": "ruffin",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "a3299b4675e52dd2",
+  "outlet": "L'Express",
+  "lean": "centre-droit",
+  "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQdk0yOW85cllub2tubjloaHBQS0JyV3ZLdllFdFJhRXhsczQ1Zk5ndmRLTXdha214NnFWUUNEOHloUm5hSTR0M3NlV2dwbHlualRQX3NMYVF6T245M0Y5UmsxMXRvcUlYblVTZ3BOeUVjZ1NPU1J0dWdkNEJCVFlod3M3MnA0VFNVRW4tM2l4cHp3V1Fpa3hTNnBFc2FuamxrSFVaeFRZYUM1X01fSkpFbjctZjdLeEtvMWtkQ0dsb2lMT1dyMjJLQms2WlZhYzNISWhmMDgxczJuckpDWUs2ZkVYZWFPTEJOUGtoQ3d4akg?oc=5",
+  "title": "\"On se dirige vers un séisme\" : Marine Le Pen - Jean-Luc Mélenchon, le scénario qui inquiète les députés européens",
+  "summary": "",
+  "published": "2026-09-09T09:00+02:00",
+  "mentions": [
+   "lepen",
+   "melenchon"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   },
+   {
+    "id": "melenchon",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "a4cc7b0f98d08267",
+  "outlet": "Le Monde.fr",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNSE16YWVrNUtLdTl0S21WV1hzXzYyeVJNOTEzdWdsb0UzSWN3Z2xLQTJxOEtBc3NwSkZQLWVJSHBESFgwa1hpYWUycVBJNVpZTEp5U3VrZ0hCZlJnT19EMS1YR0tWNHRZQ3RWZnZOVEdRaWNxdU83UEptSVJuUzg0YU5CdlBRbmpnSzhDM0JsVWFIcUZlelo3cUxkX0FlTjdXQ3R5VEhmY09KbVBWUXBsZUM0VmYyWm5COVZZbFRCWVhyNEJzLWtMbTk3N2VBZW1SN1R0eTFweUhXNVhkbVoxeXZ5Y3FocUhzNnhfMENpcFB6a1BmV2xvbk90eVcyUzVEV3QwbWVWbXpaZUhJWHF3S1VXazZJd3gtSmJJWDdmRGNVNm02QXJpcg?oc=5",
+  "title": "Présidentielle 2027 : François Ruffin et Marine Tondelier déplorent le périmètre restreint de la primaire du PS",
+  "summary": "",
+  "published": "2026-09-09T09:00+02:00",
+  "mentions": [
+   "ruffin"
+  ],
+  "analysis": [],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "a7a2839602ea0d5f",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxNc05ReER4SGxHOV9udVd3M2d6TC1PUFpQMkM0T2k3TFdXeXJ4eXlHeWkxNFp5MldYQTZYeEhyQy1MTFdwbDVCQ3UzTldjOS0xaGt6UkNzMU56OEVSX2xBamNSdi1iSEJ6aVpsRThFdUhhNldxMjlrbV9BWnNMQVZWQ3g2cFR2UXFBY2dfMk81VjVmSU1uWlRlMTVQeldkUEFtZWVISW1NeUU4UmcxamRzdDRBb2RQODF1bGhSOVR3dUtZSmJqdHRWak5jcF9QX1RHeVNOaE1ZQjBEc3FSeThSNDRzbFJBTThBaUVDejYwd0NWRVkxOFZEcmR5cGpBRGxYal9Ld2VOOWxPcnBTc2J5dGF6UWFrYzlGcVFSeVU5bVd2NjJwNkQwQ2RrcTJSVzFkU3lBYy03SQ?oc=5",
+  "title": "Primaire de la gauche: \"Je serai loyal au moins par mon silence\", promet François Ruffin, député et candidat \"Debout\" à la présidentiel",
+  "summary": "",
+  "published": "2026-09-09T09:00+02:00",
+  "mentions": [
+   "ruffin"
+  ],
+  "analysis": [
+   {
+    "id": "ruffin",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "a9c1472b53c3e6e7",
+  "outlet": "TF1 Info",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMEZQUnRoVTBSVnlsYk4yZkJsQVhWOElldHdQZklTbWJza0haaC1KRDQ4c1FsMUk2eFpiakxyUzRmcTl2VXhpUlJjSnNabjV2VUVfNEpqbk9uQnNhbmRzZmZDXzV1S2hrZUFNT0FUWm9SM1ptbUtkNFFsSml5aWN0dlV3MXlyTnYwVEhKck13N2tiRXVWbDJOVXRTVkl0VWZFSnp5Q2c3X1c2eHJZbWpsanY1WmtZMzg?oc=5",
+  "title": "La Grande Confrontation : Fabien Roussel face aux Français",
+  "summary": "",
+  "published": "2026-09-09T09:00+02:00",
+  "mentions": [
+   "roussel"
+  ],
+  "analysis": [
+   {
+    "id": "roussel",
+    "tone": -2,
+    "frame": "economie_social"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "af67f2a8c7fd1d6a",
+  "outlet": "Le Point",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWXhuRlg1Vm1rS3ZtN1Y2QlVCZllPQzJqY1NXb1MySGx0R3gyZHBJa1NfTW5CUUVsQ1UyXzhDSDB3Q2R5djNpeHo4QlJodUlkSjNkeS1sVV9xOVVvOTQxY3Y5Zm1GeVFxejBOaDdzYjZRay1CaEVpcnk4bHFIREJEOFZKUVlxRFl4TXZsajNDeExYczZ0dkhMa3NyTkw?oc=5",
+  "title": "La bière de trop pour Gabriel Attal ?",
+  "summary": "",
+  "published": "2026-09-09T09:00+02:00",
+  "mentions": [
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": -1,
+    "frame": "economie_social"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "b6bfcb69f988fd32",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxPZDdvMm1zWnZxQm9kb29DNlMtTW8tREcwRTYyaDZoclgyNXZLQzNQRGNXOGxkYUUyc2F6bnlOdDFocHdHeERvRlExOE1LOWltOEpQd1JfaFl4ckd2S0U0VUhaUUFHZkVpNXc4MWNBSEtjREU2REZDTFhCN2h3QnpCdTlQRzlMNDBTcGVQNlozalZ4SjJBMnl6MnJvYjBpVmNYSjM4cWFJMUVjME1EYjR0SjdGMWcxVjhfMEpVYk4zMk1Pck9nZDV0UmYxc3I0ZURFQWhPOHI1ZG1qSlhCcXpWdjFmYi1BOG9rODJmU19CMXRjellRZmdrdVB5dEhlNkNIMmlKTmNNcTh3NWNyOHlTaERWX1RaQzdfOWJzQzJqWU1WdXBvMW42MjIyY0d1VkF0SW8zanMtU1BCOEN3c3lzUUJEWmJQMTd6WHNUYXBBdVVOVDhYY1l6Y29vVF9LTGk3dW16UW1LN3hiZw?oc=5",
+  "title": "\"La gauche n’a pas le droit de s’abandonner à ses divisions\": une centaine de socialistes appellent à ouvrir la primaire à François Ruffin, Marine Tondelier et Matthieu Pigasse",
+  "summary": "",
+  "published": "2026-09-09T09:00+02:00",
+  "mentions": [
+   "ruffin"
+  ],
+  "analysis": [
+   {
+    "id": "ruffin",
+    "tone": 0,
+    "frame": "programme"
+   },
+   {
+    "id": "glucksmann",
+    "tone": -1,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "b93931d4d0fc5d79",
+  "outlet": "RMC",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQWEtUTDJXTFJuNUdZWlZ6d3NLVDZCQnZ2c1ctX2FOWFZ5OGZRRHVsWlNKMjE3b09NUlJBSHhpUjM1cGp4YWFEbmFCRXJUVmRsZjA4NG1LamFIUzVnQ3hWMk92c1I3VGdoU2Z0azg4d3dqSFJOYWZpNUpsM3pjbDJ3S08tZ0lJaGVCeTRjZ2tvbHRUU09HTzVYak52WlByS2tmOFNZSHNibGh4R3M2b3ZiSmdTeGVhZ1ladnFjYWYxdVgyWFZwclYyaGw0Q0VVVEM3eTVGOG5lck9FMGxUV3N1ZnhZRW5rRW1qUjBJaDJYRDZ1OHc2emQ3MTZvRVk4aC15LThCRm1qcXMxNlVEOVVyclZwWTA?oc=5",
+  "title": "Candidat de \"l'élite\", \"fausse gauche\": Raphaël Glucksmann de nouveau confronté aux accusations d'être le \"nouvel Emmanuel Macron\"",
+  "summary": "",
+  "published": "2026-09-09T09:00+02:00",
+  "mentions": [
+   "glucksmann"
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": -2,
+    "frame": "economie_social"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "c151c011b0574584",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxPNlUxNi1KM2RBSThRR21wSEY1TjdyR1dxWXNCR3RpbUI1Z2RIeWRBUTlTTmZaVEFBUy1rVnR3NWVqV2kzY0p6RjJXNDhjNFNpbFZfNHNKWkdVd1hiOXFBaEJVVG05LUlZMHJ2NlEtTkZCeENfUm9PZllGOEJsUzJHVldNNk1aeTZMUlFBZFZERnpCUW9lczg5aDN2cXpCY1J1X1VlUzBvTDJnNFFTSEJ0OVNOTnk1cnlYc0pzZGRuSVd1ZHl4UmFyNmpkQlpIU1l0enRYZVV4aEZtUUNQS2c2QWlaaVN6LTFmR096MVg2UTQ0OHNYbFBKODdrQTgyUHdWSG4wc1hLS3NZZlhTWjRjbzUtZlVGckFfT1hRcTF1aUtNRk9KRld1LXItdWNuRklYY2k1N2E3MmFreHlYS084ZDJIS0EtXzNBUUlKSmNpS0c1OVRtSXdnaC1zMA?oc=5",
+  "title": "Primaire de la gauche: \"Je suis surpris d'effrayer comme ça\" Raphaël Glucksmann, explique François Ruffin, député et candidat \"Debout\" à l'élection présidentielle",
+  "summary": "",
+  "published": "2026-09-09T09:00+02:00",
+  "mentions": [
+   "glucksmann",
+   "ruffin"
+  ],
+  "analysis": [
+   {
+    "id": "ruffin",
+    "tone": 0,
+    "frame": "programme"
+   },
+   {
+    "id": "glucksmann",
+    "tone": -1,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "c4afafa2a6fd0daf",
+  "outlet": "Le Figaro",
+  "lean": "droite",
+  "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNeTFwX2RfOTAtYUtpaFRCQkxkRlRaampRTFhqUDJMSWpBQXpDbHZPUXhfVU10SzZWdnNVczNXdTJ0a1NxOFZuamFzSFFzUVU2RkdudVBjT0JhaUNHRmRfS0dWbUZ0cE1pMkZUVUZ2SFUyUFBxYnp2VlY3WGFkdmcyY0NDMXVNYnRGUlFrOGNiaWhwRTBKWHJUb25lSHdXUWdDQml2TnN0bGZEZWFQUDRrVFd3ZHZWckVQeXdGNVZGbWRIQ1FfQlRlMWhnVm9zUmVKYzk1b2RaLUVEWkN3dG91ZDlTLXN4V0dXUUZGSWJzTXV2bVZoWlNXcTluTU1zVXVZZG9V?oc=5",
+  "title": "Présidentielle 2027 : Édouard Philippe bute sur sa première tentative de rassembler la droite et le centre",
+  "summary": "",
+  "published": "2026-09-09T09:00+02:00",
+  "mentions": [
+   "philippe"
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": -1,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "ca70e015e95e7b1b",
+  "outlet": "Le Monde.fr",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNbXJEM0tIT0JnU21JQ1NrMk1KT3VBMldnR19OaDZyRFpOU19vNWx4TG5hV2c3MXFIU0FYWUtQS0pOYnpPNFBfSUFuMThUcjk0amM0RTRoVGY4M1ljdHZ3dlcxVUdCRnl5WTFmdFJEcGZNTi1aTGZNVUNsc0ZHcjFCV0pfbTJvZl93T2pUY0NwM3F0YUZpekJkekN1cC0zdE9sbnl4SFhxUk4xRWhPc2MybzFaQS1sSG0xY2V2QWpVUnNOQ1N0eVZCOUhTOTdGa2NvLXZXUlJnd0ItWjZKS015RGRmUmJTTWpTTVdBMnBJbEF4VXlCalhwYW04WGY3bk1kNHc?oc=5",
+  "title": "Primaire du PS : le duel entre Olivier Faure et Raphaël Glucksmann électrise la campagne",
+  "summary": "",
+  "published": "2026-09-09T09:00+02:00",
+  "mentions": [
+   "glucksmann"
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": 1,
+    "frame": "sondage_dynamique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "cde99adaa766dc83",
+  "outlet": "Oise Hebdo",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeFZ2UGplSmxDR2tHbmYxSmdxYk4ySmVCUDJ5VGdMYW91elpWRkFFb1pMZV8xMDhNS1RIZXMwTWQzNmRZbVNiU29CNEJjdkZyVHVZODhjeW8zLWlvNmdwcnhnZkFieE1hQmc2M2czOUJab3RvU1FQQ2h3UXloM1BNZUt4MA?oc=5",
+  "title": "François Ruffin bientôt dans l’Audomarois",
+  "summary": "",
+  "published": "2026-09-09T09:00+02:00",
+  "mentions": [
+   "ruffin"
+  ],
+  "analysis": [],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "d09d63656ed5e0fa",
+  "outlet": "Le Point",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQekE4WkRGcG5oN2tnVmthaVQ2VURUZVlHdEdEcEFoaE9RcWJzUExfaE9sSzItaEpRWjFETXhKelgxN0NJa3BSY2lSal96OHBtTHNFSUwxYWoyUXJNNE11WTM5Y29TLUxvZ0FrSGRoWDNEMThpZG1yM2tKX1phRWpWOThmM3BSNi1FV0RzM3BMbjBWcjhlWEFEbkVpdkhYXzNyVk5jejVDaDAzeTZtY3RNU1JUeERqWTlSd2huSXpuUUlXb0t0Q1BiTUVkOWJ6eWhPbGxJa0NhaG5zZUxVMlVFUXp1dWxOM0s0Mk9URS1Tdw?oc=5",
+  "title": "Baromètre exclusif : Jean-Luc Mélenchon et Gabriel Attal sortent gagnants de l’été",
+  "summary": "",
+  "published": "2026-09-09T09:00+02:00",
+  "mentions": [
+   "melenchon",
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": 1,
+    "frame": "sondage_dynamique"
+   },
+   {
+    "id": "attal",
+    "tone": 1,
+    "frame": "sondage_dynamique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "ddd5ed20f22574a5",
+  "outlet": "La Croix",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNS3d2OHk1bkV3bnl0aHhtV20yN0w1eGZGeUVRRXQ3ZXpaNHpFMWdYTzFEcm5ZRUE1dUJZRldMWHhDd0lTME9OYmNOVWpxX1F5bi00YlZHU0xoTzZHNm1PSnF5eXB4Sl8zNUNCRHFwakdNWlYxUTFpd29XZlFzRzlNZi03Ry1uMVhQUk5xYUI0MHR0azkzZHJuSzh6b05FWHJ4djVsVExQTW1sYWxpWTRTLXAyaVQ1ZVVsYnBUMmQ2NElZZlA2U05SaA?oc=5",
+  "title": "Présidentielle 2027 : pourquoi Édouard Philippe pousse au rassemblement du « bloc central »",
+  "summary": "",
+  "published": "2026-09-09T09:00+02:00",
+  "mentions": [
+   "philippe"
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "e08081189d8d316d",
+  "outlet": "20 Minutes",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdlgzTXpRM05fVFVPYklmSWZ5ZmhOZjctT0E3cS1xSUlMZGRrVGhOSUYxQU1vM0JXelNfTktfWUFULXNicko3SDVJbXZIeWVyZnF1Z1JETU1LLVBWSGszUFowWlNvRFc3cVh4OXFMaGNpd2h2QmNQZ1hlX2VkSVhTODlrZl9PSFdBUHpuWWFWd3ZaWS1pcXZtSDI2cEl5eWk5WFZPU2ZlZlhfMFpBbnc2VTh3bTI5cHhrbzgxRHdaY1pQT0tNYjlqTw?oc=5",
+  "title": "Partant pour la primaire, Ruffin déplore que Glucksmann « ait peur des électeurs »",
+  "summary": "",
+  "published": "2026-09-09T09:00+02:00",
+  "mentions": [
+   "glucksmann",
+   "ruffin"
+  ],
+  "analysis": [
+   {
+    "id": "ruffin",
+    "tone": -1,
+    "frame": "programme"
+   },
+   {
+    "id": "glucksmann",
+    "tone": -2,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "e8a1abdee2b9b2a8",
+  "outlet": "Le Point",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUDVmNVlDanFiazllZGpUM3NJcl9wT0RvNzYybW1rcmNCOTdjZEhGX0dYYV9fb2VhcnIzSzY4S2UtV3UxdmN4dlJmdXczM21vbmh3cnpMdTFVNVFvdzR2ZU5obmVsbm5QaU8ydlBsTTV3QWRISU5Jd19oWDNwckt4bUg1bGp6a1F5anNwMkYzZ2tnTzJ4UTVlYXJ3Z2EyT01mdUNQOXp4UWN2dw?oc=5",
+  "title": "FOG – La dette, cet éléphant dans la pièce",
+  "summary": "",
+  "published": "2026-09-09T09:00+02:00",
+  "mentions": []
+ },
+ {
+  "id": "ee90114baa6ffb6f",
+  "outlet": "Libération",
+  "lean": "centre-gauche",
+  "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQY0ZkWnFyOUtMU0xWT0JMcmdwLXRXTkJhclpGNUJfSkJXN25mZ2NhOGRUQURDMFV1TW1taGI5czBmRVNpYjNqOGxQVGxKdlFfTGdlSk9ZazJGdGlqa2RULXZqLWVRUll2dHRyTU5HbFAzQzF1YlpKTV9Ba2NWTlFyaDl5UUdOMEljYTNaQjVaMzFSQUd5ZmZxV3ZRM2FEOVVJMUlsZTY3Nmk1UWlnaGZ5c3hOWDI5U0o2a0h6OEZ4Zkxjc2dXekQxeE15MUU1UHBMamxrX0MyUFVpWHJSQjNHY2tDcy1ISnhGYzJsZDJxb1ZvQ3Q3MDRqMy1tSGhwcC1EU2c5MFBPUGhibGxSTFQw?oc=5",
+  "title": "Primaire des socialistes : l’aile gauche du PS d’accord avec Ruffin et Faure pour embrouiller Glucksmann",
+  "summary": "",
+  "published": "2026-09-09T09:00+02:00",
+  "mentions": [
+   "glucksmann",
+   "ruffin"
+  ],
+  "analysis": [
+   {
+    "id": "ruffin",
+    "tone": 0,
+    "frame": "programme"
+   },
+   {
+    "id": "glucksmann",
+    "tone": -1,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "ef34d159f2af3b19",
+  "outlet": "Les Echos",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNN0NXWG1PY0hTZzNiamt4VFhFWjJwWGNhV05XRjVPb0I0dzZDZHRScXZBMnlrYjAxYUxmMEhwaFFFcTFnWG1STnYxQVk0NG5kVUdLQ0VJVVNvck0yNTFuV2dWR2N4dTJESl9pTUFzeUdzbEJjY1hzM2hCNmdoSE9Zc29vS1o0dlhWRjUxc2tNNkJBcDU1QUpfVXdRYlAyZ3NDX0xwQWNqZUFWOUd6OFBxVG5RbGdKSkpBNW1sTDZ4RlFRNHlabFVpQ0RTc09sbUw3Z1N6ekViM0dWTkxrbkl3SThBbzRPVTBRbnp2V09nd2F4bkJhMk5COEVB?oc=5",
+  "title": "Présidentielle 2027 : avec la suppression du droit du sol, Bruno Retailleau persiste dans la surenchère à droite",
+  "summary": "",
+  "published": "2026-09-09T09:00+02:00",
+  "mentions": [
+   "retailleau"
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "ef3df132fc0a9b81",
+  "outlet": "L'Humanité",
+  "lean": "gauche",
+  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSnVISHZxcXJDWGQ0QjgtRHprbEdweFdraUZhamdfODRNTmlvUXdndUxnOGdyNjZGWTQwb1J5b0pXRlRkQU9PbS1wWHppTHZ3SWI5VEVUb3V2VFdRUm8wWXdoQVpfLWVwNUFvbkFCRHRNZTZvWk1rME5lTXBRcWJRNzFRLTZBZkJPeU5TWmppclFuNWJMc3lnMUpzZ2lDaG4xREh2M0prWTRHdw?oc=5",
+  "title": "Primaire socialiste : un match Ruffin-Glucksmann à prévoir ? (Video)",
+  "summary": "",
+  "published": "2026-09-09T09:00+02:00",
+  "mentions": [
+   "glucksmann",
+   "ruffin"
+  ],
+  "analysis": [
+   {
+    "id": "ruffin",
+    "tone": 0,
+    "frame": "programme"
+   },
+   {
+    "id": "glucksmann",
+    "tone": -1,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "f1c64fbe75b152cf",
+  "outlet": "Ouest-France",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQZ0hTVzkzTzYwNFlqdFYtTUxvUUNDeHpDeFozR3JqNWpQV28wajl0TlpDbW1FREE4Z0pwRWRkdEhyYUhudlY2a3dfRjl2eFlKNkdWTkFsdDhLcWFzdHZRbzFXZk9aYXBHMzdzWC0xeFI1ZUtleXlvbjRiLUpxbWtCVjJlV1VnTkZtclJSbk54WDIydGZwS0pVbG1SQUZYbEVmR3hrbWZkQXh5bnhtN1kzQWp0aElGQmZqOTdCZFI0ZEc5dTBGNER1S1ByRzRSck0yLTVqeHZUc21LTE1aZGgtQTFvVWVXSzdBWlJtRlBhRTNURERXU3BjVmhXdVFrWm0xVzJjZXN5U3E4TFF0MnJHWGlrcUxiazdpSElTVlRURmhmUmZDSDMwNFczVGhUaEk?oc=5",
+  "title": "Présidentielle : François Ruffin prêt à participer à la primaire de la gauche, malgré l’opposition de Raphaël Glucksmann",
+  "summary": "",
+  "published": "2026-09-09T09:00+02:00",
+  "mentions": [
+   "glucksmann",
+   "ruffin"
+  ],
+  "analysis": [
+   {
+    "id": "ruffin",
+    "tone": 0,
+    "frame": "programme"
+   },
+   {
+    "id": "glucksmann",
+    "tone": -1,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "f365aebb289aff78",
+  "outlet": "- INITIATIVE COMMUNISTE",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNdElJbUFyVUxScU5HZ3FadFEwN3FmUTMxTkpTYmMtaUJ3UFNMY2JKM0ZwaE5UemhHdXhaelM3NTVIc2Y3YWllbmpOTlRVUFdGTm54cWJMZkduaTFQQWlDRDFIN25hZHc3a01tVjdDcUNVNjN3SXE4QjFZZDJ6U2s1MVFKNTVlYy11YVpNZG9jaUE1QWFtXzM1UHJHRThQZEdEN1RoNXhPTDNxZlJ5VGNpRTUwMFpHQ3RkV2pIbmZ5X2VtQ0R2WXNWWUhzTkNzbE9kODlwMW1MTkNlZ0tINHI3bWJsdnR4Mm9YTDNCaWRLaFQ0WHVYeGx6Zg?oc=5",
+  "title": "Fabien Roussel investi candidat à la présidentielle, lance une campagne au contenu politique flou, à la dynamique incertaine.",
+  "summary": "",
+  "published": "2026-09-09T09:00+02:00",
+  "mentions": [
+   "roussel"
+  ],
+  "analysis": [
+   {
+    "id": "roussel",
+    "tone": -2,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "fa46bbd420981459",
@@ -149,373 +903,25 @@
    "philippe",
    "retailleau",
    "lisnard"
-  ]
- },
- {
-  "id": "82243fd60a79fcc6",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMzJRUEIyXzdINE83YjFCZ0FWVHBDT1otMXpudXE3R1ZKd2VrRFgxcUVPQ2NhSFdJeGpIWnREM3MwcURTTnVKYzBvdDF6T1daYm04Rkt6cjV4dExXaE9lNUhZbkJ1dUJhUmxzTWdVM2gwMmRWZlBnYVIxc3FWaFVORFFUU0JsSUtLeTVfNWV3a3V6THNjWjFDSV85Wl9kejhMLXZyeS1LdmhzSW9JZTZGSzVMZnJCSHNiRmkxMWNR?oc=5",
-  "title": "David Lisnard invité de Sonia Mabrouk - 08/09",
-  "summary": "",
-  "published": "2026-09-09T09:00+02:00",
-  "mentions": [
-   "lisnard"
-  ]
- },
- {
-  "id": "e8a1abdee2b9b2a8",
-  "outlet": "Le Point",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUDVmNVlDanFiazllZGpUM3NJcl9wT0RvNzYybW1rcmNCOTdjZEhGX0dYYV9fb2VhcnIzSzY4S2UtV3UxdmN4dlJmdXczM21vbmh3cnpMdTFVNVFvdzR2ZU5obmVsbm5QaU8ydlBsTTV3QWRISU5Jd19oWDNwckt4bUg1bGp6a1F5anNwMkYzZ2tnTzJ4UTVlYXJ3Z2EyT01mdUNQOXp4UWN2dw?oc=5",
-  "title": "FOG – La dette, cet éléphant dans la pièce",
-  "summary": "",
-  "published": "2026-09-09T09:00+02:00",
-  "mentions": []
- },
- {
-  "id": "631051b2e4b06f0e",
-  "outlet": "Paris Match",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMlVyaVpLWDYxSXZiWml3WHpDNjAyZ19odTdYb0JZanlDLTZ5dEt1MWRaNGhlZUxsM1RLU2d5ejYybkxLazVOZGg4bzJia0ZQS1ROMHlSNWFEU054WGlNOGFEOFc2QVZra1drZUIxQ1RBVE81TmpRNUY0WU9uX09tXzZOVXRCYUpEeDhxR28yVlZEN1R5b1llWnRkNnBFQnpfUGUzdGZYanhEcE5LWXdiNnpyaWhVZEU?oc=5",
-  "title": "Marine Le Pen et Jordan Bardella, la malédiction d'un « ticket » toujours perdant",
-  "summary": "",
-  "published": "2026-09-09T09:00+02:00",
-  "mentions": [
-   "lepen"
-  ]
- },
- {
-  "id": "3cb2ce0549d8ac35",
-  "outlet": "RTL",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOQlNzeTB5TEdyUlp0R3JMZFprREo3a3dyeE9aRXNHY0tyVEhCQ3FuWkZvY0lwR29PdHhIZHlmQzBSa2p1YjJfREtqazlkZEFZTHBFZDJOTVNaRVZycXpVbFUtQmptS3RlenZYOGtKYktEclZSeVgxRkNBTC1DNGs1bng2MGdqYzNVcGpXS25sN3pPS2pUZlhzT2w0WTRTNnNGNEFhSEJrS2ttNnVKaHpmendqaXRtbmNoXzRSeEpXUFFhZlhWME1rdmNod1ptTlVaTUVNNm9xNng0VDFNckNIYTZJWlZCdFJUSS1CQ2FRdTRUOGpmMGFGZUQzb1BJSTBBaWhOOGk1T01NRFltRHV4UW8tdw?oc=5",
-  "title": "\"De la tambouille politicienne\" : Gabriel Attal balaie la proposition d'Édouard Philippe, qui veut réunir les candidats de la droite et du centre",
-  "summary": "",
-  "published": "2026-09-09T09:00+02:00",
-  "mentions": [
-   "philippe",
-   "attal"
-  ]
- },
- {
-  "id": "2085ecea23f38c40",
-  "outlet": "20 Minutes",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYk9aVDFYaFJXSHNvc2tvYzhhUWE2aTkyeHA5NmxyWjh6LVVoLVFNS1o0YzNWMVI2RF9oZE1TY1VLdGVoeDRHbHFwZG1wZXRhTnRVaDRGRE8yUC1iQjB3YnEzZXpZRlF4UklwbHhPd2wxaF90REh6eUlReE9aYlpYbkMzRzJNSW9xTEpnOEdFcDdlT1ZtSXVMN2NBcGQta0FPMHE0Y09GalhZSzlVMEpoNUZ4a3ZwNkRaSExv?oc=5",
-  "title": "Anne Hidalgo votera Raphaël Glucksmann à la primaire",
-  "summary": "",
-  "published": "2026-09-09T09:00+02:00",
-  "mentions": [
-   "glucksmann"
-  ]
- },
- {
-  "id": "b93931d4d0fc5d79",
-  "outlet": "RMC",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQWEtUTDJXTFJuNUdZWlZ6d3NLVDZCQnZ2c1ctX2FOWFZ5OGZRRHVsWlNKMjE3b09NUlJBSHhpUjM1cGp4YWFEbmFCRXJUVmRsZjA4NG1LamFIUzVnQ3hWMk92c1I3VGdoU2Z0azg4d3dqSFJOYWZpNUpsM3pjbDJ3S08tZ0lJaGVCeTRjZ2tvbHRUU09HTzVYak52WlByS2tmOFNZSHNibGh4R3M2b3ZiSmdTeGVhZ1ladnFjYWYxdVgyWFZwclYyaGw0Q0VVVEM3eTVGOG5lck9FMGxUV3N1ZnhZRW5rRW1qUjBJaDJYRDZ1OHc2emQ3MTZvRVk4aC15LThCRm1qcXMxNlVEOVVyclZwWTA?oc=5",
-  "title": "Candidat de \"l'élite\", \"fausse gauche\": Raphaël Glucksmann de nouveau confronté aux accusations d'être le \"nouvel Emmanuel Macron\"",
-  "summary": "",
-  "published": "2026-09-09T09:00+02:00",
-  "mentions": [
-   "glucksmann"
-  ]
- },
- {
-  "id": "529eacfaf883d2fa",
-  "outlet": "Ouest-France",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQMWI4TmlqYWtDUHZ0bUdfWVl4azY1ZTNEUEE3dlR0TnZGMS1sZ2VEMV9hV05zSS1lZTIybkJybDNOZFc1RHdNTTQwWXlJNkMtcFVFMkF3UVZTNU82SmxKUzRXUjJaMGRYMUQxclFHNEQ2OURlUGhtYTNXSzMzRjN1VGhSTkZwaVdZR2lTWEc4TjFLbzV5UWcxNHVEOGRUTE9DYjZ2Skxjck1MY3VHNDdmT0I4VnJtTkJMUVloekU2dXhNZU1pMlR2RkQ2ODQyMUkzVWtSNGdOZkx1RVcya00ydHF6bGhGMEdybndKY1YwLUxvWjhZdFVSM3N6SjdTUW9fZ2Y2TkVMY0NjY1NqMnc?oc=5",
-  "title": "Présidentielle 2027. Pour Raphaël Glucksmann, le chemin de la primaire n’est pas pavé de roses",
-  "summary": "",
-  "published": "2026-09-09T09:00+02:00",
-  "mentions": [
-   "glucksmann"
-  ]
- },
- {
-  "id": "76fda15ac93493cb",
-  "outlet": "Sud Ouest",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPa0tYWmp1X1E3eVQxZF9ER2FfSmVhSHhMWFFoX3l2U2Nzajd2Y0tPSzhNM1FoTzFqM19uOFVGZXllQV9PaTB3TFBDVlkzZ1JHXzJtNW9MYUJQRm5HX013dkVBbjYyYUNqQnlPSzlyVHh0WXg2QVhPNVpQMTQyT1BmWlhLb3k0NlBkcFVXR3JwU1NtdTBIWDRCbVlqbDN3dk92RlJlQk1RLWFWajFUZzFlNGJsQnpqbzBfLVZsQUlvNG1oSjBNSnVKZUU5a2NXMTh5WWlSZzNxYVFLSXdCRk1DVUF4WGlhN0lJeW5JWFo0MUE4ZnlNZDhVTU81RGRyRWhZLUw4Sw?oc=5",
-  "title": "Présidentielle : Raphaël Glucksmann refuse de modifier les règles de la primaire de la gauche pour François Ruffin",
-  "summary": "",
-  "published": "2026-09-09T09:00+02:00",
-  "mentions": [
-   "glucksmann"
-  ]
- },
- {
-  "id": "6926c807d8b5349e",
-  "outlet": "TF1 Info",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcEtMa0FmUmpIa19vR2tkY0FIOGdyZkF5M0d3SWpLUllwZndlUVk2d2JsQ0ZvT2lXR1FuRXpiUVo3RXNpZWZ5dGZqbkVZa3JNeGtTbTJpT1dYM0hmODNmdnhobktqanpXQWhKYlNkY3pwX1BtdTJXT2FudmhZZVE1eWp3QlV1dlBoOG5hLW0ycktCbzlfWmFVeUVTV2czeVJZOTNGSlJuajQxRWF1NHRSTzRTYzhiM25zbml0SjdRTQ?oc=5",
-  "title": "Ecole : Fabien Roussel ne veut \"plus de devoirs à la maison\"",
-  "summary": "",
-  "published": "2026-09-09T09:00+02:00",
-  "mentions": [
-   "roussel"
-  ]
- },
- {
-  "id": "f365aebb289aff78",
-  "outlet": "- INITIATIVE COMMUNISTE",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNdElJbUFyVUxScU5HZ3FadFEwN3FmUTMxTkpTYmMtaUJ3UFNMY2JKM0ZwaE5UemhHdXhaelM3NTVIc2Y3YWllbmpOTlRVUFdGTm54cWJMZkduaTFQQWlDRDFIN25hZHc3a01tVjdDcUNVNjN3SXE4QjFZZDJ6U2s1MVFKNTVlYy11YVpNZG9jaUE1QWFtXzM1UHJHRThQZEdEN1RoNXhPTDNxZlJ5VGNpRTUwMFpHQ3RkV2pIbmZ5X2VtQ0R2WXNWWUhzTkNzbE9kODlwMW1MTkNlZ0tINHI3bWJsdnR4Mm9YTDNCaWRLaFQ0WHVYeGx6Zg?oc=5",
-  "title": "Fabien Roussel investi candidat à la présidentielle, lance une campagne au contenu politique flou, à la dynamique incertaine.",
-  "summary": "",
-  "published": "2026-09-09T09:00+02:00",
-  "mentions": [
-   "roussel"
-  ]
- },
- {
-  "id": "1383318ff3d7012a",
-  "outlet": "Ohmymag",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTUwyek1aNHU4bHJPWENnSk9VbURVSkpTSjQzT0VGSWlmcFVkcFAzM1BjNEtoaGZXaVdYekNpVXlxMkpDd3JRdENyRXZqdGlBRXFpdDF0Ti1wVzNjNXlfQ1N6OXdxc2NhSjBFdUFXQUdVMVdfYzk5SUlrNXkyLS1OZVo5S1JXMEIySGNzT3VrTHZWQmNUWm0zdnpwUVJRVzhjRnZjZk9oWVcyRzV1cnRfS185WjVhOEpodmU2R2ZsWTc?oc=5",
-  "title": "Marine Le Pen : qui est son compagnon depuis Louis Aliot ?",
-  "summary": "",
-  "published": "2026-09-09T09:00+02:00",
-  "mentions": [
-   "lepen"
-  ]
- },
- {
-  "id": "c4afafa2a6fd0daf",
-  "outlet": "Le Figaro",
-  "lean": "droite",
-  "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNeTFwX2RfOTAtYUtpaFRCQkxkRlRaampRTFhqUDJMSWpBQXpDbHZPUXhfVU10SzZWdnNVczNXdTJ0a1NxOFZuamFzSFFzUVU2RkdudVBjT0JhaUNHRmRfS0dWbUZ0cE1pMkZUVUZ2SFUyUFBxYnp2VlY3WGFkdmcyY0NDMXVNYnRGUlFrOGNiaWhwRTBKWHJUb25lSHdXUWdDQml2TnN0bGZEZWFQUDRrVFd3ZHZWckVQeXdGNVZGbWRIQ1FfQlRlMWhnVm9zUmVKYzk1b2RaLUVEWkN3dG91ZDlTLXN4V0dXUUZGSWJzTXV2bVZoWlNXcTluTU1zVXVZZG9V?oc=5",
-  "title": "Présidentielle 2027 : Édouard Philippe bute sur sa première tentative de rassembler la droite et le centre",
-  "summary": "",
-  "published": "2026-09-09T09:00+02:00",
-  "mentions": [
-   "philippe"
-  ]
- },
- {
-  "id": "a9c1472b53c3e6e7",
-  "outlet": "TF1 Info",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMEZQUnRoVTBSVnlsYk4yZkJsQVhWOElldHdQZklTbWJza0haaC1KRDQ4c1FsMUk2eFpiakxyUzRmcTl2VXhpUlJjSnNabjV2VUVfNEpqbk9uQnNhbmRzZmZDXzV1S2hrZUFNT0FUWm9SM1ptbUtkNFFsSml5aWN0dlV3MXlyTnYwVEhKck13N2tiRXVWbDJOVXRTVkl0VWZFSnp5Q2c3X1c2eHJZbWpsanY1WmtZMzg?oc=5",
-  "title": "La Grande Confrontation : Fabien Roussel face aux Français",
-  "summary": "",
-  "published": "2026-09-09T09:00+02:00",
-  "mentions": [
-   "roussel"
-  ]
- },
- {
-  "id": "898283591790466d",
-  "outlet": "Reporterre, le média de l'écologie",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTUhHRE85bzdzT2VuX1lzWTFRdXZnMVBPLUN0alpWdE1kdXlmWGhvcEZobGNWbWFyT1JlSTU1TjQ4TkFMSTREN2M3bll3UFoxUHk4YWFoUDRjRGJLdUxSSE04RWZyRllpUERHSi1BTndQZmxLRTQxS2xNbUhQMnU5bk15N3A3bzNqMlI4WDB5TWczYW5Zc3kzMFFqbmJoZw?oc=5",
-  "title": "François Ruffin : « Le moyen de sortir de la crise climatique, c’est le travail »",
-  "summary": "",
-  "published": "2026-09-09T09:00+02:00",
-  "mentions": [
-   "ruffin"
-  ]
- },
- {
-  "id": "a4cc7b0f98d08267",
-  "outlet": "Le Monde.fr",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNSE16YWVrNUtLdTl0S21WV1hzXzYyeVJNOTEzdWdsb0UzSWN3Z2xLQTJxOEtBc3NwSkZQLWVJSHBESFgwa1hpYWUycVBJNVpZTEp5U3VrZ0hCZlJnT19EMS1YR0tWNHRZQ3RWZnZOVEdRaWNxdU83UEptSVJuUzg0YU5CdlBRbmpnSzhDM0JsVWFIcUZlelo3cUxkX0FlTjdXQ3R5VEhmY09KbVBWUXBsZUM0VmYyWm5COVZZbFRCWVhyNEJzLWtMbTk3N2VBZW1SN1R0eTFweUhXNVhkbVoxeXZ5Y3FocUhzNnhfMENpcFB6a1BmV2xvbk90eVcyUzVEV3QwbWVWbXpaZUhJWHF3S1VXazZJd3gtSmJJWDdmRGNVNm02QXJpcg?oc=5",
-  "title": "Présidentielle 2027 : François Ruffin et Marine Tondelier déplorent le périmètre restreint de la primaire du PS",
-  "summary": "",
-  "published": "2026-09-09T09:00+02:00",
-  "mentions": [
-   "ruffin"
-  ]
- },
- {
-  "id": "7cb11ee456bc8fe9",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxNT0lPOS0wWnU3QVhOaU1rZXpLZ3JCa3dac0R1cXFUblh4TXpSdWJaNmNFSFczb09BeUowemZRck9ZQkE2cDJvaE1TSVVCUTQxUTNLaktXUG5HeVByUkpCQUJvaVE2SG5xQTFfRG5DV3pBZFVySVJ4a2YtTWZ5MFZPTnlVNmN0czRaWjAwUTM1a3JraXRiVTRTTXJtWUhYMVBSamZDdGJHOVF6MkYzOVVfY09RQ09ZX2ZzZ1VvOENzaVhQM2tCQXhoN3I4VG1LLXVpcEllWkZZVHloaFhkZkd4Umx1Q2FXbXNCQlhYZlNZQXJ1ekRhcnRVdlRvOEdDemFjMGxGenRRbnhUNWk1TGhBNWU1b1Ytako0b1Y5dFZPZ3p6b2l0Q0xfYm5McmRnX0N5ZUU1ZkZUc3hMZnczaXRRaldKX2ZKM3JSU0E?oc=5",
-  "title": "\"Je suis très surpris d'effrayer comme ça\": François Ruffin réagit après l'opposition de Raphaël Glucksmann à sa participation à la primaire socialiste",
-  "summary": "",
-  "published": "2026-09-09T09:00+02:00",
-  "mentions": [
-   "glucksmann",
-   "ruffin"
-  ]
- },
- {
-  "id": "f1c64fbe75b152cf",
-  "outlet": "Ouest-France",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQZ0hTVzkzTzYwNFlqdFYtTUxvUUNDeHpDeFozR3JqNWpQV28wajl0TlpDbW1FREE4Z0pwRWRkdEhyYUhudlY2a3dfRjl2eFlKNkdWTkFsdDhLcWFzdHZRbzFXZk9aYXBHMzdzWC0xeFI1ZUtleXlvbjRiLUpxbWtCVjJlV1VnTkZtclJSbk54WDIydGZwS0pVbG1SQUZYbEVmR3hrbWZkQXh5bnhtN1kzQWp0aElGQmZqOTdCZFI0ZEc5dTBGNER1S1ByRzRSck0yLTVqeHZUc21LTE1aZGgtQTFvVWVXSzdBWlJtRlBhRTNURERXU3BjVmhXdVFrWm0xVzJjZXN5U3E4TFF0MnJHWGlrcUxiazdpSElTVlRURmhmUmZDSDMwNFczVGhUaEk?oc=5",
-  "title": "Présidentielle : François Ruffin prêt à participer à la primaire de la gauche, malgré l’opposition de Raphaël Glucksmann",
-  "summary": "",
-  "published": "2026-09-09T09:00+02:00",
-  "mentions": [
-   "glucksmann",
-   "ruffin"
-  ]
- },
- {
-  "id": "8df5fe9511b6bef8",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQZDJXeDRBS2U0eUxhVFQ2REFLcVRQYURwNmdSV1E3MklJQU1wS0t6Q29OcEhyWjEtYTlJM21OY2tzUjVJa2tBcVRDR0E2c0VsTDlRU25DY0EzZXhjZ2E1dUs5VUVKQWNlbWRQMWZtckZDMmY5bTF3Ulo2RGQ1T1hqbTgydWR6RHhjTnhVdkkxTFoxMVpPc3NlcnVvWWFreVVwcTFqQ1JoM0F5d1JKQ3pjb3cxOGplR25fZmVLc1FhTS15ZmhFZTlrVlBrSTZUcjhZcS1fcTRPNWkzOGNRZ0JHaFVhS0NLMzVWT3ZnM3V6Q0ZKYUQ1Q1c5dVpSaldPNlFn?oc=5",
-  "title": "Primaire de la gauche: faut-il l'élargir à François Ruffin? Le sujet divise lors des journées parlementaires du PS",
-  "summary": "",
-  "published": "2026-09-09T09:00+02:00",
-  "mentions": [
-   "ruffin"
-  ]
- },
- {
-  "id": "ddd5ed20f22574a5",
-  "outlet": "La Croix",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNS3d2OHk1bkV3bnl0aHhtV20yN0w1eGZGeUVRRXQ3ZXpaNHpFMWdYTzFEcm5ZRUE1dUJZRldMWHhDd0lTME9OYmNOVWpxX1F5bi00YlZHU0xoTzZHNm1PSnF5eXB4Sl8zNUNCRHFwakdNWlYxUTFpd29XZlFzRzlNZi03Ry1uMVhQUk5xYUI0MHR0azkzZHJuSzh6b05FWHJ4djVsVExQTW1sYWxpWTRTLXAyaVQ1ZVVsYnBUMmQ2NElZZlA2U05SaA?oc=5",
-  "title": "Présidentielle 2027 : pourquoi Édouard Philippe pousse au rassemblement du « bloc central »",
-  "summary": "",
-  "published": "2026-09-09T09:00+02:00",
-  "mentions": [
-   "philippe"
-  ]
- },
- {
-  "id": "47625d270ec06a43",
-  "outlet": "Le Figaro",
-  "lean": "droite",
-  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQY25paFBEb1B2U1pBeVE0SlNUR005c3VIZkRlNy1MMXZlU21aLUdWaVJwRUt1eFd1MUQ5dWdaSHJRVGlISTBmWkduZ0VTcXZvbklGLW1rMm52SEZlM2padWxFbUI2dG1iY3VDSTZxU1E4Rm1nT05aZkFMbkJ0VjExanYxYzFvdlpZN3BHSWpWQW9hRjBONUNRN3lidW95NGJFcGMzS0t6VzV0ek93UGtabzA3Zy1EN1Ay?oc=5",
-  "title": "Manuel Valls : «Non, Bruno Retailleau, le peuple n’est pas une Cour suprême»",
-  "summary": "",
-  "published": "2026-09-09T09:00+02:00",
-  "mentions": [
-   "retailleau"
-  ]
- },
- {
-  "id": "948208b8564cd711",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNenpoeFFGWm1PWDJsM0hCemplRHlodmN6a3VYUkFwNzQ4OHdmdkZHRGw5VTMtWW5oV3JtR1BNMmFYdnJMZHRkZU5rZHBMMU8wT0tOcU1vZUR6TlQyV29aSDNONXVkVEZOVFk3Tkg0NzJWaFM1VTJCUmFOM1FvRDVXNHcxbnlFREROOGZHd2lvdUZ1ZjVWTlQ4WjlVNkZrZFhyQThMNGJXZ3lDYnFmOE1PRlBsV0sxVjFsUlZGYjVXSGUtUjdiaXpyWlBJMkJ5WjRFeFVpNkIySGRHeG91X1ozMGZSNA?oc=5",
-  "title": "Marschall Truchot : 2027, primaire de gauche, François Ruffin sur BFMTV - 09/09",
-  "summary": "",
-  "published": "2026-09-09T09:00+02:00",
-  "mentions": [
-   "ruffin"
-  ]
- },
- {
-  "id": "b6bfcb69f988fd32",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxPZDdvMm1zWnZxQm9kb29DNlMtTW8tREcwRTYyaDZoclgyNXZLQzNQRGNXOGxkYUUyc2F6bnlOdDFocHdHeERvRlExOE1LOWltOEpQd1JfaFl4ckd2S0U0VUhaUUFHZkVpNXc4MWNBSEtjREU2REZDTFhCN2h3QnpCdTlQRzlMNDBTcGVQNlozalZ4SjJBMnl6MnJvYjBpVmNYSjM4cWFJMUVjME1EYjR0SjdGMWcxVjhfMEpVYk4zMk1Pck9nZDV0UmYxc3I0ZURFQWhPOHI1ZG1qSlhCcXpWdjFmYi1BOG9rODJmU19CMXRjellRZmdrdVB5dEhlNkNIMmlKTmNNcTh3NWNyOHlTaERWX1RaQzdfOWJzQzJqWU1WdXBvMW42MjIyY0d1VkF0SW8zanMtU1BCOEN3c3lzUUJEWmJQMTd6WHNUYXBBdVVOVDhYY1l6Y29vVF9LTGk3dW16UW1LN3hiZw?oc=5",
-  "title": "\"La gauche n’a pas le droit de s’abandonner à ses divisions\": une centaine de socialistes appellent à ouvrir la primaire à François Ruffin, Marine Tondelier et Matthieu Pigasse",
-  "summary": "",
-  "published": "2026-09-09T09:00+02:00",
-  "mentions": [
-   "ruffin"
-  ]
- },
- {
-  "id": "c151c011b0574584",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxPNlUxNi1KM2RBSThRR21wSEY1TjdyR1dxWXNCR3RpbUI1Z2RIeWRBUTlTTmZaVEFBUy1rVnR3NWVqV2kzY0p6RjJXNDhjNFNpbFZfNHNKWkdVd1hiOXFBaEJVVG05LUlZMHJ2NlEtTkZCeENfUm9PZllGOEJsUzJHVldNNk1aeTZMUlFBZFZERnpCUW9lczg5aDN2cXpCY1J1X1VlUzBvTDJnNFFTSEJ0OVNOTnk1cnlYc0pzZGRuSVd1ZHl4UmFyNmpkQlpIU1l0enRYZVV4aEZtUUNQS2c2QWlaaVN6LTFmR096MVg2UTQ0OHNYbFBKODdrQTgyUHdWSG4wc1hLS3NZZlhTWjRjbzUtZlVGckFfT1hRcTF1aUtNRk9KRld1LXItdWNuRklYY2k1N2E3MmFreHlYS084ZDJIS0EtXzNBUUlKSmNpS0c1OVRtSXdnaC1zMA?oc=5",
-  "title": "Primaire de la gauche: \"Je suis surpris d'effrayer comme ça\" Raphaël Glucksmann, explique François Ruffin, député et candidat \"Debout\" à l'élection présidentielle",
-  "summary": "",
-  "published": "2026-09-09T09:00+02:00",
-  "mentions": [
-   "glucksmann",
-   "ruffin"
-  ]
- },
- {
-  "id": "a7a2839602ea0d5f",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxNc05ReER4SGxHOV9udVd3M2d6TC1PUFpQMkM0T2k3TFdXeXJ4eXlHeWkxNFp5MldYQTZYeEhyQy1MTFdwbDVCQ3UzTldjOS0xaGt6UkNzMU56OEVSX2xBamNSdi1iSEJ6aVpsRThFdUhhNldxMjlrbV9BWnNMQVZWQ3g2cFR2UXFBY2dfMk81VjVmSU1uWlRlMTVQeldkUEFtZWVISW1NeUU4UmcxamRzdDRBb2RQODF1bGhSOVR3dUtZSmJqdHRWak5jcF9QX1RHeVNOaE1ZQjBEc3FSeThSNDRzbFJBTThBaUVDejYwd0NWRVkxOFZEcmR5cGpBRGxYal9Ld2VOOWxPcnBTc2J5dGF6UWFrYzlGcVFSeVU5bVd2NjJwNkQwQ2RrcTJSVzFkU3lBYy03SQ?oc=5",
-  "title": "Primaire de la gauche: \"Je serai loyal au moins par mon silence\", promet François Ruffin, député et candidat \"Debout\" à la présidentiel",
-  "summary": "",
-  "published": "2026-09-09T09:00+02:00",
-  "mentions": [
-   "ruffin"
-  ]
- },
- {
-  "id": "cde99adaa766dc83",
-  "outlet": "Oise Hebdo",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeFZ2UGplSmxDR2tHbmYxSmdxYk4ySmVCUDJ5VGdMYW91elpWRkFFb1pMZV8xMDhNS1RIZXMwTWQzNmRZbVNiU29CNEJjdkZyVHVZODhjeW8zLWlvNmdwcnhnZkFieE1hQmc2M2czOUJab3RvU1FQQ2h3UXloM1BNZUt4MA?oc=5",
-  "title": "François Ruffin bientôt dans l’Audomarois",
-  "summary": "",
-  "published": "2026-09-09T09:00+02:00",
-  "mentions": [
-   "ruffin"
-  ]
- },
- {
-  "id": "e08081189d8d316d",
-  "outlet": "20 Minutes",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdlgzTXpRM05fVFVPYklmSWZ5ZmhOZjctT0E3cS1xSUlMZGRrVGhOSUYxQU1vM0JXelNfTktfWUFULXNicko3SDVJbXZIeWVyZnF1Z1JETU1LLVBWSGszUFowWlNvRFc3cVh4OXFMaGNpd2h2QmNQZ1hlX2VkSVhTODlrZl9PSFdBUHpuWWFWd3ZaWS1pcXZtSDI2cEl5eWk5WFZPU2ZlZlhfMFpBbnc2VTh3bTI5cHhrbzgxRHdaY1pQT0tNYjlqTw?oc=5",
-  "title": "Partant pour la primaire, Ruffin déplore que Glucksmann « ait peur des électeurs »",
-  "summary": "",
-  "published": "2026-09-09T09:00+02:00",
-  "mentions": [
-   "glucksmann",
-   "ruffin"
-  ]
- },
- {
-  "id": "ee90114baa6ffb6f",
-  "outlet": "Libération",
-  "lean": "centre-gauche",
-  "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQY0ZkWnFyOUtMU0xWT0JMcmdwLXRXTkJhclpGNUJfSkJXN25mZ2NhOGRUQURDMFV1TW1taGI5czBmRVNpYjNqOGxQVGxKdlFfTGdlSk9ZazJGdGlqa2RULXZqLWVRUll2dHRyTU5HbFAzQzF1YlpKTV9Ba2NWTlFyaDl5UUdOMEljYTNaQjVaMzFSQUd5ZmZxV3ZRM2FEOVVJMUlsZTY3Nmk1UWlnaGZ5c3hOWDI5U0o2a0h6OEZ4Zkxjc2dXekQxeE15MUU1UHBMamxrX0MyUFVpWHJSQjNHY2tDcy1ISnhGYzJsZDJxb1ZvQ3Q3MDRqMy1tSGhwcC1EU2c5MFBPUGhibGxSTFQw?oc=5",
-  "title": "Primaire des socialistes : l’aile gauche du PS d’accord avec Ruffin et Faure pour embrouiller Glucksmann",
-  "summary": "",
-  "published": "2026-09-09T09:00+02:00",
-  "mentions": [
-   "glucksmann",
-   "ruffin"
-  ]
- },
- {
-  "id": "ef3df132fc0a9b81",
-  "outlet": "L'Humanité",
-  "lean": "gauche",
-  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSnVISHZxcXJDWGQ0QjgtRHprbEdweFdraUZhamdfODRNTmlvUXdndUxnOGdyNjZGWTQwb1J5b0pXRlRkQU9PbS1wWHppTHZ3SWI5VEVUb3V2VFdRUm8wWXdoQVpfLWVwNUFvbkFCRHRNZTZvWk1rME5lTXBRcWJRNzFRLTZBZkJPeU5TWmppclFuNWJMc3lnMUpzZ2lDaG4xREh2M0prWTRHdw?oc=5",
-  "title": "Primaire socialiste : un match Ruffin-Glucksmann à prévoir ? (Video)",
-  "summary": "",
-  "published": "2026-09-09T09:00+02:00",
-  "mentions": [
-   "glucksmann",
-   "ruffin"
-  ]
- },
- {
-  "id": "0d070352b59b67b8",
-  "outlet": "Boursorama",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOdVBFcHNnaHRqUTl2el9JLUxORmJMTmFISnBuRm1TdFFOVng0cHp2M1RPT0NOVnpOUGVMSXR5SEVMYndJQzlneGViWXRaaTVsUDNrSWRiMWFNeVV0ZUswSGU2T01yUUxXVU1rdEpZdG1OZUdJOGlGT0duNkMtel9Bclp5UTdnMmVQM0d2T3p2U1h5bWUtR1NyQ1dCbUhZSU5UVWdpNUZzbi1BaHNtUWgtN1JYMFYwRDdZU3d2VXQ3WGhWcTVyQnA5TUNIdC1oenprQWVkQzZzcUExVXVCSFFJV2syQm1xQ2otLUszam9MSW1JRG83MlVZanRaQk1jVjd1M0szQzB1eEtOV1ZR0gGSAkFVX3lxTFBHRGFZZWdZY081Y2xBQ2o5NHJ2NXR0S24yelZKOGtnV1pWLVpUT0loT2pOYVRTdThOVlREcGdicDlfT2xQSkpJdDA2T29JZkYzR2c4eVNYS2hBSkpQRnFld25PRmxISEttSkQxcjNtM1g2NzFsUC1nVnlLbTZNQ2gwWjhrX3RzWjMtc3ZudUVGa1Zxd3JVbmxvSl9zOFAzQ3g5WG1KSmZFMmItbVdUblBCbEt6cVk4TmJjdGg3Z3RjNWoxVmNodFREUVFLN3pLNUZsVUNNVy1BNXd2SEVLWWN6RGQ4MDBsaDVYVmF6dmQzcXdPaTJKRE1CM04wblEzSmtjbl9nYS12em1Yb1ZjNGwzemc?oc=5",
-  "title": "Service public : Marine Le Pen est \"la pire ennemie\" des fonctionnaires, étrille Sophie Binet",
-  "summary": "",
-  "published": "2026-09-09T09:00+02:00",
-  "mentions": [
-   "lepen"
-  ]
- },
- {
-  "id": "7dd7815a0dd9ba5a",
-  "outlet": "Ouest-France",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxOV0lhbjFXS3kya1FJUTVadjd3WDV3RElsdlVFdHJoVG9vWFVueG5YbnluZEtzU2x2TjBzTG5EWjNwZk5jaTJGRTM1N19YRDdIUUc3MGR1QjMwOWc0QUFBTkVCQ0tVR0UxODBhR3ZBV3dwQmRydHJkT3JINUNsLURJd2E3dWdpQ3BvblZBTlBLWEE0ZWVwYlBNam9CcnhDVVBuVFMxNnI1RkxNQnYzUmFQTnpTajA2aGphZWFIa3JtVXhxeWJpYzZIaUhzQ0dYZkF1eTM0Mi14OGRPQUdSUGJwZWtNbkgybHZLVmxYZzdGanpwbXZJaVJITkZvcW5McEVNNUpMTTR2bzJuUi1MUkZ3TTEtVDlmMHltTS02WElqUUFRRElsZ21qMkMwd2I?oc=5",
-  "title": "Présidentielle 2027. François Ruffin, toujours prêt pour la primaire, dit que Raphaël Glucksmann a peur des électeurs",
-  "summary": "",
-  "published": "2026-09-09T09:00+02:00",
-  "mentions": [
-   "glucksmann",
-   "ruffin"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   },
+   {
+    "id": "lisnard",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   },
+   {
+    "id": "philippe",
+    "tone": -1,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "49e2fbcccb4f918d",

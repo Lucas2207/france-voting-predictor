@@ -1,15 +1,79 @@
 [
  {
-  "id": "346de7ed38357034",
+  "id": "0317539e198cdefb",
   "outlet": "BFM",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNb0tBUHdDVnM5ZWhXcFVPaVV5SHUyZFd1eWtFMWdJd2pnQVEyUnp6R1ZSaTY1SWR2WkNCU042OHdNN3dBcmlaMk5wanF6NUJKMzhuYTVOQURHSy1uTzRQTGJCLUNqblZFREhDWWJVdHhHZkNSeVJ4aFN3M0RYTXR0N0RxckFfWmJ5dl9pdl9HWEhrcGQzbG1YZ05TYTRWd3gwdzlzeHkzQm8zQ0t5SHFLNThNMWtVSkVaZzRsR0I1TnQtZzhaUmdnZzRlMW1Zei02QmdsczFjOWw0cHFDTE14NDZVRXVXNEx0UE5ZdDc3dWVKVEJEWENN?oc=5",
-  "title": "SONDAGE BFMTV. Présidentielle 2027: Jean-Luc Mélenchon candidat le mieux placé à gauche quel que soit le scénario",
+  "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxPZXVTY0RDb2ZIQkNDMVpvc0M2alpUSHdCMmU4Q1YxbGhfNFFXT1BwdWh5OU5FdGZxQng4S19uYW9JeVJKSmpPQnh0Z1dpdUota0NFWlhHbkhzZVpNWlYtVmFKLTllVGIxcnU5dWRXMU9NTjdpNWlrZUgzZU13LUJfTWgtRnF5c0ptajJTYk1xZE9ySGhCQ291VWRrek1oenJ2VmxCT1pGRzVQYTZVNmhuMXJoN3RmYzRLNGEwTklJVHZoa05VbmZ2NFFLWWlxaHVDdnc0YW43bHVxSjc1NlVEcVdrdHdoUWlMakVWY0htcnlnSi1NMFFYYVUxN1lJZlk0bWVvLWhKUHRLNmJEX29BelpiSUZKbGdLa3ZsUHVpcWlwVi1XQ2c3ZXhkT1k0YlJsQnJMcG00cllWRGxvYkNV?oc=5",
+  "title": "Présidentielle 2027: Raphaël Glucksmann n'imagine pas \"faire campagne sans les socialistes\", mais n'officialise pas sa candidature à la primaire",
   "summary": "",
   "published": "2026-07-11T09:00+02:00",
   "mentions": [
-   "melenchon"
-  ]
+   "glucksmann"
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "0cb2041a45b415d5",
+  "outlet": "lejdd.fr",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQXzFMRHFzeUxqNkZFODA0cmZVSGRqYzBYbTZxeWhoYU5QQlpnYjhaQkpwYWtfWjduck42S0ZyYnNvaUNUQTZVT0hIeFp0Q0VEWFV6U2FETVFwS1hQd1V4TEU4MzJSYjhNZ1FNN3ZkdVRpWS1kNHloeUdzRkU2Ym1WYTZlRVpoWmY0anpYOXVVYi1hZ2kxQ2xGaXBYMU5DUUp2M3hFcG5MdWZiUjVOZklTS2ZaRHg0dG5KZTJIaE43bDY1N1ZSeWtUSG1R?oc=5",
+  "title": "Présidentielle : Bruno Retailleau retrouve un peu d’air grâce à la candidature de Marine Le Pen",
+  "summary": "",
+  "published": "2026-07-11T09:00+02:00",
+  "mentions": [
+   "lepen",
+   "retailleau"
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": 0,
+    "frame": "programme"
+   },
+   {
+    "id": "lepen",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "0f2ce3bec05bdacc",
+  "outlet": "Le Point",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNOC03OHpzYThJcmtiWU15a1F5TElXckRablFYZmhmVEJKX1NUeS04b1RNWTliVXJOc1NNMHJPWEJaSGVZMm42NkZqZ1NRYWtiRzJKTC0xa09fa25zUlZVUVZlcFA1NGJkZXNjOGtpOWRJNFF6WDVaMWhmVjhFSkxlWl9Hel9JQmd4bHZTZGwxWk1hSFRyTU9KNWdyQmhGajViNmJpRjRFd1Bhbzk1Yk12amtmM25xLXh1NFlsb0VxX1JaMG1YcGxyN1o3N0JjYUFvY2Z2M0RtTU1EOWlOQm1sQkw0cW9qR3lVX2hF?oc=5",
+  "title": "« On est passé de ministres à complotistes de YouTube » : 10 ans après, que deviennent les apôtres du Frexit ?",
+  "summary": "",
+  "published": "2026-07-11T09:00+02:00",
+  "mentions": []
+ },
+ {
+  "id": "13f2e7db62f20dc2",
+  "outlet": "驻法国大使馆",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5XYXA5dE9fV3Q0SGRtdkNxT1hpZlV1WDRiNF93dmNhUTFqQzZJdXEzWXJhZFE5ZW81OG1iM09zeGNMd3dvLU1IVF9Na0tnV01nODFRSVp5ZXFpYllnMWx6endoV21id3VibjF0WkZhZHdiYk96TVhNLWRR?oc=5",
+  "title": "Allocution de l’Ambassadeur DENG Li aux célébrations du 105e anniversaire de la fondation du PCC",
+  "summary": "",
+  "published": "2026-07-11T09:00+02:00",
+  "mentions": []
+ },
+ {
+  "id": "1d6f0cdd44d4b65c",
+  "outlet": "Actu.fr",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQNzdpbU56cTJPelZIc2dqZ1VIY0p3NXJqUURZUEVmMVo1UDVaRW1sTHZ3SlByQ2k0SEZ3YmVQRnQtazlfaHltWVlaQTd6N0MwaHVYWG16SFhHWE1PeHF3ay00N3E5bEVVaGN2WDhyODNxd05VdnhTSXBxVW5ZYklBOHhUaUhjVXB2UHdyN09DN2dHMThWbHcwR1hyb21VYUxjMTJLRnB5OU10eU4zUzRXbUdBc1JYaUplNzFFbGVlRlRfN1VHckxpd1FnalRHOU1ZVS1IY2dMMXMyM1NVNHRDaXFLZ05vT2s?oc=5",
+  "title": "L'homme qui a dirigé le deuxième plus grand pays du monde pendant 10 ans attendu à Nîmes ce week-end",
+  "summary": "",
+  "published": "2026-07-11T09:00+02:00",
+  "mentions": []
  },
  {
   "id": "2431ac0d029cfeb4",
@@ -21,6 +85,139 @@
   "published": "2026-07-11T09:00+02:00",
   "mentions": [
    "philippe"
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "2ae90f62aa519e67",
+  "outlet": "Le Monde.fr",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPbHdRbm1hQTdYRlJDYWpRSm9IU0RtbzcwU0ZNNU1sRjlLb0VkUElfaXprV082N3hMWFBvSWEwZXRhRHNRelNnNU1xUlpIZ1VMT1hwVFFxekROUVJqalZFNHF3WUFWSDJlOW4xdzNWMUxzek8xT24wenh1bFloRFNEckwxOTFBTE9WTDNWak1JSHh4QXBUSERHVGhIQjZGYjVnTTZrQWZzSHRfN0JuVFpka0k5U2RTYkZQNVp4cWZ5dFB5SXVTdDJPYVByZDJSbHl3eUUweFNzemlHTTUtcUZqbk0yeGNWQXVtbjBDbXNNNVpJYTFCVlM0WmI5WTNxTjNYaTlwSEZR?oc=5",
+  "title": "Ségolène Royal, Raphaël Glucksmann, François Hollande… La primaire sociale-démocrate cherche ses candidats",
+  "summary": "",
+  "published": "2026-07-11T09:00+02:00",
+  "mentions": [
+   "glucksmann"
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "2bc60efbc05277fd",
+  "outlet": "www.lamarseillaise.fr",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQU25qZlNpZGk0aTdFVnh2Q25UZHJ0S3RoZXFuaVQ2N2tPVVBYS0JCUDg4SGpReE4wVnkxbERQY0VheUJwcVk1bXRFMUZNWG9NMlk1NjZtdlJvM0dkRXUyMnVSMjhlZ05tcmlTaHFUWDB4R0ZKU2VmUGVhUGRFVWh4NGFoWkd2VEJjSURaSDllbmZMTFFTUmxPalg0UU1Pbk5VQkhrd0dseTVhNTZ3WWZVQkNsRQ?oc=5",
+  "title": "Au Off, Jean-Luc Mélenchon fait salle pleine en terrain conquis",
+  "summary": "",
+  "published": "2026-07-11T09:00+02:00",
+  "mentions": [
+   "melenchon"
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": 1,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "2f72fd7487607829",
+  "outlet": "VA INFOS",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTTRhY3d5YW03eXhobTVsZXR5S0IxMmF1R0x0VVlTOURQd042eXVfNkI2alZBTGk5dXZhV1daRVJUQlF3aHYyaEhDb1B3eWV0U2NpWmhHYUJ6Q0p0TFRrV2sxZmRiTHBPNGlncmp5a3FMSlItNDNpNXYwVVZYTWdNWGl6WGxnbV9NaTJCWmJkMzd4Nk05UV9iYUprMGpqWjlCUC1SUWhTOA?oc=5",
+  "title": "Fabien Roussel, Marine Le Pen, une semaine présidentielle particulière",
+  "summary": "",
+  "published": "2026-07-11T09:00+02:00",
+  "mentions": [
+   "lepen",
+   "roussel"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": 0,
+    "frame": "programme"
+   },
+   {
+    "id": "roussel",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "33ca2e28d208ffe4",
+  "outlet": "Le Point",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNNVlEZ0ZvSVhra3RyRVJYdzVNM0ZGX2RfNnJYUWFiT1dRazZKSUNRbF9GYlhRYmNoc04zZndXcUJhdHREaXpGR3pEUGRyLWg0ZDA3WVRTS01BSWI2Y25WcGFwQ3F2STBJXzdPdUlHVkJZUjBEQzhuTlFZT2lqdTB0Slg4OXcteUFPeXlUY0g5WHR0T0kzQmpPdXVGSmhvOENiaXlTbzNjZmw0dXIyZWZHVmlvWm5GOHdsLVd2TnE5QUQzMnAwTU90THY2S3dPSy1Dd1NKblNqcjZJQ1FIOVBHWnJpaDU2VDg?oc=5",
+  "title": "Le Pen aux avant-postes, Mélenchon en embuscade : notre sondage exclusif sur la présidentielle",
+  "summary": "",
+  "published": "2026-07-11T09:00+02:00",
+  "mentions": [
+   "lepen",
+   "melenchon"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": 0,
+    "frame": "programme"
+   },
+   {
+    "id": "melenchon",
+    "tone": -1,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "346de7ed38357034",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNb0tBUHdDVnM5ZWhXcFVPaVV5SHUyZFd1eWtFMWdJd2pnQVEyUnp6R1ZSaTY1SWR2WkNCU042OHdNN3dBcmlaMk5wanF6NUJKMzhuYTVOQURHSy1uTzRQTGJCLUNqblZFREhDWWJVdHhHZkNSeVJ4aFN3M0RYTXR0N0RxckFfWmJ5dl9pdl9HWEhrcGQzbG1YZ05TYTRWd3gwdzlzeHkzQm8zQ0t5SHFLNThNMWtVSkVaZzRsR0I1TnQtZzhaUmdnZzRlMW1Zei02QmdsczFjOWw0cHFDTE14NDZVRXVXNEx0UE5ZdDc3dWVKVEJEWENN?oc=5",
+  "title": "SONDAGE BFMTV. Présidentielle 2027: Jean-Luc Mélenchon candidat le mieux placé à gauche quel que soit le scénario",
+  "summary": "",
+  "published": "2026-07-11T09:00+02:00",
+  "mentions": [
+   "melenchon"
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "378ba4a71bcc7285",
+  "outlet": "Le Centrisme",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5JbWJJU1I0UXROSHlFbGJuaC1PME1YLXJXQVNma1RLZ2hpU2w0SFV6T2JsVGtXcDE2QzNlWG9SaHljQ2lpeExMMktpV1paenFrUkFoTC1hUXg1Z0JNYnRv?oc=5",
+  "title": "Présidentielle 2027. Sondage Elabe: Gabriel Attal pas sûr d’être au second tour / Marine Le Pen élue",
+  "summary": "",
+  "published": "2026-07-11T09:00+02:00",
+  "mentions": [
+   "lepen",
+   "attal"
   ]
  },
  {
@@ -34,7 +231,50 @@
   "mentions": [
    "philippe",
    "attal"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": -1,
+    "frame": "sondage_dynamique"
+   },
+   {
+    "id": "attal",
+    "tone": 1,
+    "frame": "sondage_dynamique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "548b56cb8d19f492",
+  "outlet": "Legossip.net",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQVgxVjByT2xBQkFHall2OEZWOUpFRWN2XzhzV2MyWmFuUlpQZFJxaGpNU01qOWdkcUJTQnQyUnQ0N0FiYThsN2g2VEtRclMtUWRkQlU0emIwQVBPSDV0ZzMtQTk3blYyQ05zR3lYUk40VW5jTVdrTXdJcE5QU3VBakxNcjJnX3dwTDQtdUZmUjhibzdhOTZQZldUSXVFOGZ5UVoxYlNZRG5kTE5m?oc=5",
+  "title": "Apolline de Malherbe : attaquée sur le passé secret de son mari",
+  "summary": "",
+  "published": "2026-07-11T09:00+02:00",
+  "mentions": []
+ },
+ {
+  "id": "5d3231fcaa913a6f",
+  "outlet": "https://www.parlons-politique.fr/",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQRV9jV1lvUDBnVndLeU91dDlnNmF5VHJGS1ZiZWs1TmVucnhKemQtVTZjYmJybk9BeHhfUERMVWwta2lYSmtaaFMzUFU3Zk9uY3FvYWhNRWJIbVlJdEpXM0J5ZTkwcWRqdDh2aWlTa1drRUZkVVhoOEFOZlRlTmF5LTQxRUMxV3ZoMDJEWWtDNUpVRjRhMWdDdTU2bUF0cFBDTjc4Nk05eWI5em5oTVFTcGxxcFRKbDk2UXV3aEZKWXVBdXRqSFcwOGJtUHBDN1NCazBXeGExQW9qbEJWaDVaU3hQZ1BXaGxtUjFHS1dmc2dpYl8yNHlPMEJwaEp3b3hWUzJqaw?oc=5",
+  "title": "Présidentielle 2027 gauche : Mélenchon garde l’avantage",
+  "summary": "",
+  "published": "2026-07-11T09:00+02:00",
+  "mentions": [
+   "melenchon"
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": 1,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "601cfbb46b1dffac",
@@ -50,189 +290,30 @@
    "philippe",
    "attal",
    "retailleau"
-  ]
- },
- {
-  "id": "a114b9d52be797bc",
-  "outlet": "Haute Gironde",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPMUdNXy1oS05NclFnaTQtZHc4d2VBTWFpdkRtREdnbjliTV94Q002dTZGX1VDbmI5NmRRLXFPeGYyYTZhM0pCSWVGZnQxeUV3ZlhrVUZmbjNpV1lObmlSeHowMFEzTlgzTzVkOGpONEtxejBuVS1VTFhMa0MtYzZ1b092V2hHNGJLSEx3NTl0blZLb3RNS256dTZQblFuSjFBa1RKZDFfQkZDNW1LRHE5LUlQbVc3Z2g3VVJCeTdkdWZnQUVIOUt1VmxncUlDb0NqdE5BTnpRdTVCUQ?oc=5",
-  "title": "Saint-André-de-Cubzac. Un délégué local pour le parti d’Édouard Philippe",
-  "summary": "",
-  "published": "2026-07-11T09:00+02:00",
-  "mentions": [
-   "philippe"
-  ]
- },
- {
-  "id": "6c101741f8314d2a",
-  "outlet": "ELABE",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1LU1ZUOTJJV2UxTWp2bG4zMk11aVRMNEowcmZRTVVTdS1fWjJnR3RuYVBoaG9jWjFpdVNLMUhmb3dHLTVTTGsycUV6Q1UtUUREd2tV?oc=5",
-  "title": "Les Français et l’élection présidentielle 2027",
-  "summary": "",
-  "published": "2026-07-11T09:00+02:00",
-  "mentions": []
- },
- {
-  "id": "d92e2b19bea7a6b1",
-  "outlet": "La Tribune",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQMG5QeEJaX2duVVhoMzJRU1dpVlVYUm5EYzdvSVVsWXowZHc0bzNiVUdBT21nSm9tR29DaVdIYjdFd01wdTVVTTFJZDNaMVg0MksycXNzUGowYTZPRlhXTnpXVC13T2lteWxIdmNfNGUycnBOX2hMRUJRZ0ZPV0YyQ09ZVU1nVWxtYkZMdm9UZlhTXzI2bnh3SnBVUW1KczZzWHBmaF81VVZtR0FXZjZ2QlRoMWZIVTkxMnNhVml2VmhVeE5RNDRuRWl3Y0hnNE9YamFpcm5fdU9HLVlHVFlKdEhia0FXeWhieng4LXEzck1sTlk5dWh6NUhKcmhxQ0lKRVZGNm5DdGs?oc=5",
-  "title": "Raphaël Glucksmann coprésident de Place publique : « Les militants socialistes ont choisi la bonne voie »",
-  "summary": "",
-  "published": "2026-07-11T09:00+02:00",
-  "mentions": [
-   "glucksmann"
-  ]
- },
- {
-  "id": "2ae90f62aa519e67",
-  "outlet": "Le Monde.fr",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPbHdRbm1hQTdYRlJDYWpRSm9IU0RtbzcwU0ZNNU1sRjlLb0VkUElfaXprV082N3hMWFBvSWEwZXRhRHNRelNnNU1xUlpIZ1VMT1hwVFFxekROUVJqalZFNHF3WUFWSDJlOW4xdzNWMUxzek8xT24wenh1bFloRFNEckwxOTFBTE9WTDNWak1JSHh4QXBUSERHVGhIQjZGYjVnTTZrQWZzSHRfN0JuVFpka0k5U2RTYkZQNVp4cWZ5dFB5SXVTdDJPYVByZDJSbHl3eUUweFNzemlHTTUtcUZqbk0yeGNWQXVtbjBDbXNNNVpJYTFCVlM0WmI5WTNxTjNYaTlwSEZR?oc=5",
-  "title": "Ségolène Royal, Raphaël Glucksmann, François Hollande… La primaire sociale-démocrate cherche ses candidats",
-  "summary": "",
-  "published": "2026-07-11T09:00+02:00",
-  "mentions": [
-   "glucksmann"
-  ]
- },
- {
-  "id": "0317539e198cdefb",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxPZXVTY0RDb2ZIQkNDMVpvc0M2alpUSHdCMmU4Q1YxbGhfNFFXT1BwdWh5OU5FdGZxQng4S19uYW9JeVJKSmpPQnh0Z1dpdUota0NFWlhHbkhzZVpNWlYtVmFKLTllVGIxcnU5dWRXMU9NTjdpNWlrZUgzZU13LUJfTWgtRnF5c0ptajJTYk1xZE9ySGhCQ291VWRrek1oenJ2VmxCT1pGRzVQYTZVNmhuMXJoN3RmYzRLNGEwTklJVHZoa05VbmZ2NFFLWWlxaHVDdnc0YW43bHVxSjc1NlVEcVdrdHdoUWlMakVWY0htcnlnSi1NMFFYYVUxN1lJZlk0bWVvLWhKUHRLNmJEX29BelpiSUZKbGdLa3ZsUHVpcWlwVi1XQ2c3ZXhkT1k0YlJsQnJMcG00cllWRGxvYkNV?oc=5",
-  "title": "Présidentielle 2027: Raphaël Glucksmann n'imagine pas \"faire campagne sans les socialistes\", mais n'officialise pas sa candidature à la primaire",
-  "summary": "",
-  "published": "2026-07-11T09:00+02:00",
-  "mentions": [
-   "glucksmann"
-  ]
- },
- {
-  "id": "de2d34c87a30a27e",
-  "outlet": "Le HuffPost",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQYmppQkVwd1k0b0FWVVQtREgzbG9sbGpsdFZQVm5zSHpVTW5lVW9UUnpWekhYNXlVc2hkYmZGVzhjaU5ReW5EbnQwU1c5VUNnMEZaWEdCY0FjNVljTHpNUjFSUVhWeWEwQWlQME5GR0dUeGg3WDFXalYxUWFsTFVDOF8weDlsMTRVS0tseHdhZm1wWFJNWV9wcWJHX1JUQzRyVmhacHNULXlDdVdoQTMzVVNsLV9QTUxwWTBuRlpHcHd5YXd2a0M5eldsejdRMDljUzlyMmZTLTRtWmlZdDZYMi1YOFg?oc=5",
-  "title": "Raphaël Glucksmann face à un épineux dilemme après le cadeau du Parti socialiste pour 2027",
-  "summary": "",
-  "published": "2026-07-11T09:00+02:00",
-  "mentions": [
-   "glucksmann"
-  ]
- },
- {
-  "id": "5d3231fcaa913a6f",
-  "outlet": "https://www.parlons-politique.fr/",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQRV9jV1lvUDBnVndLeU91dDlnNmF5VHJGS1ZiZWs1TmVucnhKemQtVTZjYmJybk9BeHhfUERMVWwta2lYSmtaaFMzUFU3Zk9uY3FvYWhNRWJIbVlJdEpXM0J5ZTkwcWRqdDh2aWlTa1drRUZkVVhoOEFOZlRlTmF5LTQxRUMxV3ZoMDJEWWtDNUpVRjRhMWdDdTU2bUF0cFBDTjc4Nk05eWI5em5oTVFTcGxxcFRKbDk2UXV3aEZKWXVBdXRqSFcwOGJtUHBDN1NCazBXeGExQW9qbEJWaDVaU3hQZ1BXaGxtUjFHS1dmc2dpYl8yNHlPMEJwaEp3b3hWUzJqaw?oc=5",
-  "title": "Présidentielle 2027 gauche : Mélenchon garde l’avantage",
-  "summary": "",
-  "published": "2026-07-11T09:00+02:00",
-  "mentions": [
-   "melenchon"
-  ]
- },
- {
-  "id": "33ca2e28d208ffe4",
-  "outlet": "Le Point",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNNVlEZ0ZvSVhra3RyRVJYdzVNM0ZGX2RfNnJYUWFiT1dRazZKSUNRbF9GYlhRYmNoc04zZndXcUJhdHREaXpGR3pEUGRyLWg0ZDA3WVRTS01BSWI2Y25WcGFwQ3F2STBJXzdPdUlHVkJZUjBEQzhuTlFZT2lqdTB0Slg4OXcteUFPeXlUY0g5WHR0T0kzQmpPdXVGSmhvOENiaXlTbzNjZmw0dXIyZWZHVmlvWm5GOHdsLVd2TnE5QUQzMnAwTU90THY2S3dPSy1Dd1NKblNqcjZJQ1FIOVBHWnJpaDU2VDg?oc=5",
-  "title": "Le Pen aux avant-postes, Mélenchon en embuscade : notre sondage exclusif sur la présidentielle",
-  "summary": "",
-  "published": "2026-07-11T09:00+02:00",
-  "mentions": [
-   "lepen",
-   "melenchon"
-  ]
- },
- {
-  "id": "c5450751d93b82c8",
-  "outlet": "Le HuffPost",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOekZkR0hBUDYwOVBuRnFiR3o4MkFULTlKRVRpdlRUcjZKM2xmSEJHWDBWSEJ4WFJtbDhxaVpKa3V0Q1dMMjE3R2ItQXQtdlJHTE5vcGhOZV9NSnhBUHlJQ1lIZlBUZWtEWUNTS0VwNnk1NzF2Zk9xLU9kbFJsb1RfaXVsSmcxQldwUWw4U3FHUllDS3VFcVZEbElDM0xoaWJOd3BkbFdZYnlCQTU1eWZYMFBsb2E4MDN0aWhsRDRsSl9hcUhJSVRHZ1hBbkI5LVIyZEtCS2xBTmhKOXFTZ1lDMg?oc=5",
-  "title": "Clémentine Autain se retire de la primaire, et esquisse un rassemblement derrière un autre candidat",
-  "summary": "",
-  "published": "2026-07-11T09:00+02:00",
-  "mentions": []
- },
- {
-  "id": "dc476cd421f7c929",
-  "outlet": "Le Parisien",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNdDV3WVU2eUdMSV9yRk1XQ1JBY2lrS3lmM2IyLXY2LTA2UnpWc1BsYUpoOGx1bEs2dXdhT1dJeXAzUjFkTzR4Q0lEM3RvZElqdDcwVGVKemZ1U3ZiM2swWUYwOEZJTVBVX2NDSE9KbnloaHR1TmVveXJzaFhjamZaYVBVd1dzdm5YODV0Q1ZrXzFOQk5ZNWwySHhvUW5MZ2hESDRiTktvVmhnaS1CWnRNMG5TV0FGREROUGZjdFVOSnh5cWlTeDJjMWIzOHJsSXh0VXI3ZGxuTEFoVkZydU9FdDlPTmF2YlFCOGtsZXJsclFoeFZaN3BsdV9ENWY1a3NhRTRaLVZySURDYzFfSHUyX01oVTM?oc=5",
-  "title": "Sarah Knafo : « Marine Le Pen place la campagne présidentielle dans la main des aléas judiciaires",
-  "summary": "",
-  "published": "2026-07-11T09:00+02:00",
-  "mentions": [
-   "lepen"
-  ]
- },
- {
-  "id": "ec988d2e529f6eb4",
-  "outlet": "Algerie Patriotique",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQmx6alBPVGxfMjltNXJQQVViYWhTUWY0ZGVMX0Z1aUI3dndaUUpPejdIcW5sUnVGYnhLZVRkU1RjZGNGNDBRZzVfTHN2UVNJQ1NmcE1DdUVNZElYdmFlQWZVN2p2bHg1LUEtVVgyeVlxUVlaazBlamo3WHVITl92Um9hbjhEU0dNdC1MamlLSXJrRTFVQ1doQlgyRGJwNVFtUkpBRzg0REViN3BmTVhoMksybGNZWlhucmxzcEcwOEM?oc=5",
-  "title": "Interview – Abdallah Zekri : «Vincent Bolloré institutionnalise les discours racistes !»",
-  "summary": "",
-  "published": "2026-07-11T09:00+02:00",
-  "mentions": []
- },
- {
-  "id": "548b56cb8d19f492",
-  "outlet": "Legossip.net",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQVgxVjByT2xBQkFHall2OEZWOUpFRWN2XzhzV2MyWmFuUlpQZFJxaGpNU01qOWdkcUJTQnQyUnQ0N0FiYThsN2g2VEtRclMtUWRkQlU0emIwQVBPSDV0ZzMtQTk3blYyQ05zR3lYUk40VW5jTVdrTXdJcE5QU3VBakxNcjJnX3dwTDQtdUZmUjhibzdhOTZQZldUSXVFOGZ5UVoxYlNZRG5kTE5m?oc=5",
-  "title": "Apolline de Malherbe : attaquée sur le passé secret de son mari",
-  "summary": "",
-  "published": "2026-07-11T09:00+02:00",
-  "mentions": []
- },
- {
-  "id": "2f72fd7487607829",
-  "outlet": "VA INFOS",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTTRhY3d5YW03eXhobTVsZXR5S0IxMmF1R0x0VVlTOURQd042eXVfNkI2alZBTGk5dXZhV1daRVJUQlF3aHYyaEhDb1B3eWV0U2NpWmhHYUJ6Q0p0TFRrV2sxZmRiTHBPNGlncmp5a3FMSlItNDNpNXYwVVZYTWdNWGl6WGxnbV9NaTJCWmJkMzd4Nk05UV9iYUprMGpqWjlCUC1SUWhTOA?oc=5",
-  "title": "Fabien Roussel, Marine Le Pen, une semaine présidentielle particulière",
-  "summary": "",
-  "published": "2026-07-11T09:00+02:00",
-  "mentions": [
-   "lepen",
-   "roussel"
-  ]
- },
- {
-  "id": "0f2ce3bec05bdacc",
-  "outlet": "Le Point",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNOC03OHpzYThJcmtiWU15a1F5TElXckRablFYZmhmVEJKX1NUeS04b1RNWTliVXJOc1NNMHJPWEJaSGVZMm42NkZqZ1NRYWtiRzJKTC0xa09fa25zUlZVUVZlcFA1NGJkZXNjOGtpOWRJNFF6WDVaMWhmVjhFSkxlWl9Hel9JQmd4bHZTZGwxWk1hSFRyTU9KNWdyQmhGajViNmJpRjRFd1Bhbzk1Yk12amtmM25xLXh1NFlsb0VxX1JaMG1YcGxyN1o3N0JjYUFvY2Z2M0RtTU1EOWlOQm1sQkw0cW9qR3lVX2hF?oc=5",
-  "title": "« On est passé de ministres à complotistes de YouTube » : 10 ans après, que deviennent les apôtres du Frexit ?",
-  "summary": "",
-  "published": "2026-07-11T09:00+02:00",
-  "mentions": []
- },
- {
-  "id": "d007f725c9f21b7b",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxOdmg5OHpJMG5sWlh4eEphS0JxTldvZ1ZlTkM2VmJnV2FwU2dxNkVLdVRfQ092NFY4eTQxY1RlTlNTOEphcjlLNjNWS1VzMnBEN0VzN0pUVFZlLXlyd196ZVgtTGFiWXMxYU13UHlBMzlLVW5LV05EUGg4RzdkVjFOTmp3WGpaQ2R6UWpxeHRDRXhYWFhZV1ZvTFJPTHQwZkR3UkRQUmhNNG1zek1pNjFEc1c5TExZTVExcUoycXZ5OXdNNW96QVJjdXdoSDRCeUYtSnp5YTVrRUVoSkUwcWlsdVB4WHpfUFRXWDhRM19KMWVvN1U4M2Q1N0ZKRUNUd2tFSVAyc2VaX0gwUy1MWnhodkhXM2kzT05WWFVBZVZrRlZaeVAyamswWmtnRXpHX3V3WVVnUDdQV1VsZ01iT2Fj?oc=5",
-  "title": "Présidentielle 2027: Jean-Luc Mélenchon progresse dans les intentions de vote au premier tour selon le dernier sondage Elabe pour BFMTV",
-  "summary": "",
-  "published": "2026-07-11T09:00+02:00",
-  "mentions": [
-   "melenchon"
-  ]
- },
- {
-  "id": "ef497e6c30565b6b",
-  "outlet": "RFI",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNX3laN0JPQUliYWFpZ19FdFk1aXNPRnNIX3NaTGRmY2hPOTZobS1wTGZsTnE0d1JNUzlRYnowVW1MbzdSQ3BGZDlXaG5QWDR6TEFsMW1vY1AwSkFhX3VqZHRSbDdRd3dtc2hqbWpLc0hxWlJZaDVtOHBHbkdxS1JXOGlyMjk1TEZHWE5OUzhIWWZ1NVZwbVhnS3pUOHZLY0NTakJLSVhEZGtieUxwSWdVWDQ2dmR4d3BwTHQxOXpwdEZsZlBYSGdaZEJqZEVWTV9YMUVITi1KZ2FQSTIxUzFKZUpsZGRjcUM3?oc=5",
-  "title": "Politique, le choix de la semaine - LFI en campagne: la stratégie du contournement des médias traditionnels?",
-  "summary": "",
-  "published": "2026-07-11T09:00+02:00",
-  "mentions": []
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": 0,
+    "frame": "programme"
+   },
+   {
+    "id": "melenchon",
+    "tone": 0,
+    "frame": "programme"
+   },
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "programme"
+   },
+   {
+    "id": "retailleau",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "665eb248d630870c",
@@ -245,7 +326,25 @@
   "mentions": [
    "lepen",
    "melenchon"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "6c101741f8314d2a",
+  "outlet": "ELABE",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1LU1ZUOTJJV2UxTWp2bG4zMk11aVRMNEowcmZRTVVTdS1fWjJnR3RuYVBoaG9jWjFpdVNLMUhmb3dHLTVTTGsycUV6Q1UtUUREd2tV?oc=5",
+  "title": "Les Français et l’élection présidentielle 2027",
+  "summary": "",
+  "published": "2026-07-11T09:00+02:00",
+  "mentions": []
  },
  {
   "id": "771c20c10c20cd07",
@@ -258,31 +357,40 @@
   "mentions": [
    "lepen",
    "melenchon"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": 1,
+    "frame": "programme"
+   },
+   {
+    "id": "melenchon",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "2bc60efbc05277fd",
-  "outlet": "www.lamarseillaise.fr",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQU25qZlNpZGk0aTdFVnh2Q25UZHJ0S3RoZXFuaVQ2N2tPVVBYS0JCUDg4SGpReE4wVnkxbERQY0VheUJwcVk1bXRFMUZNWG9NMlk1NjZtdlJvM0dkRXUyMnVSMjhlZ05tcmlTaHFUWDB4R0ZKU2VmUGVhUGRFVWh4NGFoWkd2VEJjSURaSDllbmZMTFFTUmxPalg0UU1Pbk5VQkhrd0dseTVhNTZ3WWZVQkNsRQ?oc=5",
-  "title": "Au Off, Jean-Luc Mélenchon fait salle pleine en terrain conquis",
+  "id": "78d2290892ac5be6",
+  "outlet": "Le Figaro",
+  "lean": "droite",
+  "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPUXdVdjAyaHBkdnpLX2Zrc1dHNWx1VHp1MlF1Ukt4cU8tU3p4NkhWdW9XbWZCZEJIUDJ4TFhVSWFZX2lqbWFWdGlhQVNnNXpZVkY2YjN3SXRZbHc0OHl6WG8tczB0dFJ2MmN0NmFISFRleDZnMmpEZEtEM3B2MTZGMUJGLXRHRU15ckU1aEJqdkNKaXdydmEtbFd3QWpzc0VxYk5JUnd5TG1wME5TMU1PMnlqV2xHZ1JwMEswNVBFWE5aVXZFTVNqaTV3ekhuVE5nWTNSclhTeWtpTlgwUFFIQktsVFU1ZUdNQUE?oc=5",
+  "title": "«Nous sommes radicalement différents sur nos solutions économiques» : la charge de Sarah Knafo contre Marine Le Pen",
   "summary": "",
   "published": "2026-07-11T09:00+02:00",
   "mentions": [
-   "melenchon"
-  ]
- },
- {
-  "id": "9b421ea4a9ff1a20",
-  "outlet": "RTL",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPbEhJblRpUU11UnRtUUw0QXVtQ0NTbVF0R2RMbXVPaWszQi1LeFlfWGVYLV9BX2xyb1N6YVdhRDU5N04tbmJuYVFIbTczbzc0UXhKZDcxUFZyNGZGQVQxRm9BNGVmb1JVdUZqY3NhZlJqajMyZ2JCdVdVVGZhQ0hXVkQzS1llRHZkNF96clJCc3hhS0NHMzk1bW5tSkVNSms5Y2hZUjV5VVpCSWJPRlZGLUh2VlktdEQ5akxqU3ByeFE2S3paY1NYU01PSFpOUE1IbmtPVFRlVmhOdjEyNkt2TTlYVkVLTzg5WFU3VmJiV3dtazYwTjNLc3ZXemxmeERKcDg5N3ZraGg5OGM0cC1R?oc=5",
-  "title": "\"Il n'y aura pas de primaire\" : Clémentine Autain renonce à être candidate à la présidentielle et n'exclut pas de soutenir Jean-Luc Mélenchon",
-  "summary": "",
-  "published": "2026-07-11T09:00+02:00",
-  "mentions": [
-   "melenchon"
-  ]
+   "lepen"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": -1,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "8a9e6f1fcaaf135a",
@@ -295,49 +403,87 @@
   "mentions": [
    "lepen",
    "melenchon"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": 1,
+    "frame": "programme"
+   },
+   {
+    "id": "melenchon",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "78d2290892ac5be6",
-  "outlet": "Le Figaro",
-  "lean": "droite",
-  "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPUXdVdjAyaHBkdnpLX2Zrc1dHNWx1VHp1MlF1Ukt4cU8tU3p4NkhWdW9XbWZCZEJIUDJ4TFhVSWFZX2lqbWFWdGlhQVNnNXpZVkY2YjN3SXRZbHc0OHl6WG8tczB0dFJ2MmN0NmFISFRleDZnMmpEZEtEM3B2MTZGMUJGLXRHRU15ckU1aEJqdkNKaXdydmEtbFd3QWpzc0VxYk5JUnd5TG1wME5TMU1PMnlqV2xHZ1JwMEswNVBFWE5aVXZFTVNqaTV3ekhuVE5nWTNSclhTeWtpTlgwUFFIQktsVFU1ZUdNQUE?oc=5",
-  "title": "«Nous sommes radicalement différents sur nos solutions économiques» : la charge de Sarah Knafo contre Marine Le Pen",
+  "id": "9b421ea4a9ff1a20",
+  "outlet": "RTL",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPbEhJblRpUU11UnRtUUw0QXVtQ0NTbVF0R2RMbXVPaWszQi1LeFlfWGVYLV9BX2xyb1N6YVdhRDU5N04tbmJuYVFIbTczbzc0UXhKZDcxUFZyNGZGQVQxRm9BNGVmb1JVdUZqY3NhZlJqajMyZ2JCdVdVVGZhQ0hXVkQzS1llRHZkNF96clJCc3hhS0NHMzk1bW5tSkVNSms5Y2hZUjV5VVpCSWJPRlZGLUh2VlktdEQ5akxqU3ByeFE2S3paY1NYU01PSFpOUE1IbmtPVFRlVmhOdjEyNkt2TTlYVkVLTzg5WFU3VmJiV3dtazYwTjNLc3ZXemxmeERKcDg5N3ZraGg5OGM0cC1R?oc=5",
+  "title": "\"Il n'y aura pas de primaire\" : Clémentine Autain renonce à être candidate à la présidentielle et n'exclut pas de soutenir Jean-Luc Mélenchon",
   "summary": "",
   "published": "2026-07-11T09:00+02:00",
   "mentions": [
-   "lepen"
-  ]
+   "melenchon"
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "1d6f0cdd44d4b65c",
-  "outlet": "Actu.fr",
+  "id": "a114b9d52be797bc",
+  "outlet": "Haute Gironde",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQNzdpbU56cTJPelZIc2dqZ1VIY0p3NXJqUURZUEVmMVo1UDVaRW1sTHZ3SlByQ2k0SEZ3YmVQRnQtazlfaHltWVlaQTd6N0MwaHVYWG16SFhHWE1PeHF3ay00N3E5bEVVaGN2WDhyODNxd05VdnhTSXBxVW5ZYklBOHhUaUhjVXB2UHdyN09DN2dHMThWbHcwR1hyb21VYUxjMTJLRnB5OU10eU4zUzRXbUdBc1JYaUplNzFFbGVlRlRfN1VHckxpd1FnalRHOU1ZVS1IY2dMMXMyM1NVNHRDaXFLZ05vT2s?oc=5",
-  "title": "L'homme qui a dirigé le deuxième plus grand pays du monde pendant 10 ans attendu à Nîmes ce week-end",
-  "summary": "",
-  "published": "2026-07-11T09:00+02:00",
-  "mentions": []
- },
- {
-  "id": "0cb2041a45b415d5",
-  "outlet": "lejdd.fr",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQXzFMRHFzeUxqNkZFODA0cmZVSGRqYzBYbTZxeWhoYU5QQlpnYjhaQkpwYWtfWjduck42S0ZyYnNvaUNUQTZVT0hIeFp0Q0VEWFV6U2FETVFwS1hQd1V4TEU4MzJSYjhNZ1FNN3ZkdVRpWS1kNHloeUdzRkU2Ym1WYTZlRVpoWmY0anpYOXVVYi1hZ2kxQ2xGaXBYMU5DUUp2M3hFcG5MdWZiUjVOZklTS2ZaRHg0dG5KZTJIaE43bDY1N1ZSeWtUSG1R?oc=5",
-  "title": "Présidentielle : Bruno Retailleau retrouve un peu d’air grâce à la candidature de Marine Le Pen",
+  "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPMUdNXy1oS05NclFnaTQtZHc4d2VBTWFpdkRtREdnbjliTV94Q002dTZGX1VDbmI5NmRRLXFPeGYyYTZhM0pCSWVGZnQxeUV3ZlhrVUZmbjNpV1lObmlSeHowMFEzTlgzTzVkOGpONEtxejBuVS1VTFhMa0MtYzZ1b092V2hHNGJLSEx3NTl0blZLb3RNS256dTZQblFuSjFBa1RKZDFfQkZDNW1LRHE5LUlQbVc3Z2g3VVJCeTdkdWZnQUVIOUt1VmxncUlDb0NqdE5BTnpRdTVCUQ?oc=5",
+  "title": "Saint-André-de-Cubzac. Un délégué local pour le parti d’Édouard Philippe",
   "summary": "",
   "published": "2026-07-11T09:00+02:00",
   "mentions": [
-   "lepen",
-   "retailleau"
-  ]
+   "philippe"
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "13f2e7db62f20dc2",
-  "outlet": "驻法国大使馆",
+  "id": "a76ce0e5a6549607",
+  "outlet": "Ouest-France",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQZXZGTm5BRngzYVFDNUFGSkN6cmIzb2I4MGc2VGxiVTc2Mm9DaDNHX1hiTlBhRUZ4WTdOMm9qV1h6dThZNFo4VWxTX1lGbFU5LS1HbzhyTG1aN3pMaG9rLXM3cmFxRWFNVTNVVXJ4QWNVMmRBNGZWZDR6TEZWMndDa280UC1ZR2pid2tZVk1WcDV3eTZzZ1VkOHFYb1RON0xzMFcyVGdHWWdlMzZmWF9UdTNWVk5DOFFKN09fV0thS0hxRlRGZVY5Tzg1alNram1oMFVQRENabURyVFZKc3ZoQWswMXExS1hTMkpnaEdB?oc=5",
+  "title": "François Ruffin en Loire-Atlantique : changement de programme à cause de la canicule",
+  "summary": "",
+  "published": "2026-07-11T09:00+02:00",
+  "mentions": [
+   "ruffin"
+  ],
+  "analysis": [
+   {
+    "id": "ruffin",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "c5450751d93b82c8",
+  "outlet": "Le HuffPost",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5XYXA5dE9fV3Q0SGRtdkNxT1hpZlV1WDRiNF93dmNhUTFqQzZJdXEzWXJhZFE5ZW81OG1iM09zeGNMd3dvLU1IVF9Na0tnV01nODFRSVp5ZXFpYllnMWx6endoV21id3VibjF0WkZhZHdiYk96TVhNLWRR?oc=5",
-  "title": "Allocution de l’Ambassadeur DENG Li aux célébrations du 105e anniversaire de la fondation du PCC",
+  "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOekZkR0hBUDYwOVBuRnFiR3o4MkFULTlKRVRpdlRUcjZKM2xmSEJHWDBWSEJ4WFJtbDhxaVpKa3V0Q1dMMjE3R2ItQXQtdlJHTE5vcGhOZV9NSnhBUHlJQ1lIZlBUZWtEWUNTS0VwNnk1NzF2Zk9xLU9kbFJsb1RfaXVsSmcxQldwUWw4U3FHUllDS3VFcVZEbElDM0xoaWJOd3BkbFdZYnlCQTU1eWZYMFBsb2E4MDN0aWhsRDRsSl9hcUhJSVRHZ1hBbkI5LVIyZEtCS2xBTmhKOXFTZ1lDMg?oc=5",
+  "title": "Clémentine Autain se retire de la primaire, et esquisse un rassemblement derrière un autre candidat",
   "summary": "",
   "published": "2026-07-11T09:00+02:00",
   "mentions": []
@@ -352,31 +498,114 @@
   "published": "2026-07-11T09:00+02:00",
   "mentions": [
    "ruffin"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "ruffin",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "a76ce0e5a6549607",
-  "outlet": "Ouest-France",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQZXZGTm5BRngzYVFDNUFGSkN6cmIzb2I4MGc2VGxiVTc2Mm9DaDNHX1hiTlBhRUZ4WTdOMm9qV1h6dThZNFo4VWxTX1lGbFU5LS1HbzhyTG1aN3pMaG9rLXM3cmFxRWFNVTNVVXJ4QWNVMmRBNGZWZDR6TEZWMndDa280UC1ZR2pid2tZVk1WcDV3eTZzZ1VkOHFYb1RON0xzMFcyVGdHWWdlMzZmWF9UdTNWVk5DOFFKN09fV0thS0hxRlRGZVY5Tzg1alNram1oMFVQRENabURyVFZKc3ZoQWswMXExS1hTMkpnaEdB?oc=5",
-  "title": "François Ruffin en Loire-Atlantique : changement de programme à cause de la canicule",
-  "summary": "",
-  "published": "2026-07-11T09:00+02:00",
-  "mentions": [
-   "ruffin"
-  ]
- },
- {
-  "id": "378ba4a71bcc7285",
-  "outlet": "Le Centrisme",
+  "id": "d007f725c9f21b7b",
+  "outlet": "BFM",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5JbWJJU1I0UXROSHlFbGJuaC1PME1YLXJXQVNma1RLZ2hpU2w0SFV6T2JsVGtXcDE2QzNlWG9SaHljQ2lpeExMMktpV1paenFrUkFoTC1hUXg1Z0JNYnRv?oc=5",
-  "title": "Présidentielle 2027. Sondage Elabe: Gabriel Attal pas sûr d’être au second tour / Marine Le Pen élue",
+  "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxOdmg5OHpJMG5sWlh4eEphS0JxTldvZ1ZlTkM2VmJnV2FwU2dxNkVLdVRfQ092NFY4eTQxY1RlTlNTOEphcjlLNjNWS1VzMnBEN0VzN0pUVFZlLXlyd196ZVgtTGFiWXMxYU13UHlBMzlLVW5LV05EUGg4RzdkVjFOTmp3WGpaQ2R6UWpxeHRDRXhYWFhZV1ZvTFJPTHQwZkR3UkRQUmhNNG1zek1pNjFEc1c5TExZTVExcUoycXZ5OXdNNW96QVJjdXdoSDRCeUYtSnp5YTVrRUVoSkUwcWlsdVB4WHpfUFRXWDhRM19KMWVvN1U4M2Q1N0ZKRUNUd2tFSVAyc2VaX0gwUy1MWnhodkhXM2kzT05WWFVBZVZrRlZaeVAyamswWmtnRXpHX3V3WVVnUDdQV1VsZ01iT2Fj?oc=5",
+  "title": "Présidentielle 2027: Jean-Luc Mélenchon progresse dans les intentions de vote au premier tour selon le dernier sondage Elabe pour BFMTV",
   "summary": "",
   "published": "2026-07-11T09:00+02:00",
   "mentions": [
-   "lepen",
-   "attal"
-  ]
+   "melenchon"
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": 1,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "d92e2b19bea7a6b1",
+  "outlet": "La Tribune",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQMG5QeEJaX2duVVhoMzJRU1dpVlVYUm5EYzdvSVVsWXowZHc0bzNiVUdBT21nSm9tR29DaVdIYjdFd01wdTVVTTFJZDNaMVg0MksycXNzUGowYTZPRlhXTnpXVC13T2lteWxIdmNfNGUycnBOX2hMRUJRZ0ZPV0YyQ09ZVU1nVWxtYkZMdm9UZlhTXzI2bnh3SnBVUW1KczZzWHBmaF81VVZtR0FXZjZ2QlRoMWZIVTkxMnNhVml2VmhVeE5RNDRuRWl3Y0hnNE9YamFpcm5fdU9HLVlHVFlKdEhia0FXeWhieng4LXEzck1sTlk5dWh6NUhKcmhxQ0lKRVZGNm5DdGs?oc=5",
+  "title": "Raphaël Glucksmann coprésident de Place publique : « Les militants socialistes ont choisi la bonne voie »",
+  "summary": "",
+  "published": "2026-07-11T09:00+02:00",
+  "mentions": [
+   "glucksmann"
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "dc476cd421f7c929",
+  "outlet": "Le Parisien",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNdDV3WVU2eUdMSV9yRk1XQ1JBY2lrS3lmM2IyLXY2LTA2UnpWc1BsYUpoOGx1bEs2dXdhT1dJeXAzUjFkTzR4Q0lEM3RvZElqdDcwVGVKemZ1U3ZiM2swWUYwOEZJTVBVX2NDSE9KbnloaHR1TmVveXJzaFhjamZaYVBVd1dzdm5YODV0Q1ZrXzFOQk5ZNWwySHhvUW5MZ2hESDRiTktvVmhnaS1CWnRNMG5TV0FGREROUGZjdFVOSnh5cWlTeDJjMWIzOHJsSXh0VXI3ZGxuTEFoVkZydU9FdDlPTmF2YlFCOGtsZXJsclFoeFZaN3BsdV9ENWY1a3NhRTRaLVZySURDYzFfSHUyX01oVTM?oc=5",
+  "title": "Sarah Knafo : « Marine Le Pen place la campagne présidentielle dans la main des aléas judiciaires",
+  "summary": "",
+  "published": "2026-07-11T09:00+02:00",
+  "mentions": [
+   "lepen"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "de2d34c87a30a27e",
+  "outlet": "Le HuffPost",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQYmppQkVwd1k0b0FWVVQtREgzbG9sbGpsdFZQVm5zSHpVTW5lVW9UUnpWekhYNXlVc2hkYmZGVzhjaU5ReW5EbnQwU1c5VUNnMEZaWEdCY0FjNVljTHpNUjFSUVhWeWEwQWlQME5GR0dUeGg3WDFXalYxUWFsTFVDOF8weDlsMTRVS0tseHdhZm1wWFJNWV9wcWJHX1JUQzRyVmhacHNULXlDdVdoQTMzVVNsLV9QTUxwWTBuRlpHcHd5YXd2a0M5eldsejdRMDljUzlyMmZTLTRtWmlZdDZYMi1YOFg?oc=5",
+  "title": "Raphaël Glucksmann face à un épineux dilemme après le cadeau du Parti socialiste pour 2027",
+  "summary": "",
+  "published": "2026-07-11T09:00+02:00",
+  "mentions": [
+   "glucksmann"
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "ec988d2e529f6eb4",
+  "outlet": "Algerie Patriotique",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQmx6alBPVGxfMjltNXJQQVViYWhTUWY0ZGVMX0Z1aUI3dndaUUpPejdIcW5sUnVGYnhLZVRkU1RjZGNGNDBRZzVfTHN2UVNJQ1NmcE1DdUVNZElYdmFlQWZVN2p2bHg1LUEtVVgyeVlxUVlaazBlamo3WHVITl92Um9hbjhEU0dNdC1MamlLSXJrRTFVQ1doQlgyRGJwNVFtUkpBRzg0REViN3BmTVhoMksybGNZWlhucmxzcEcwOEM?oc=5",
+  "title": "Interview – Abdallah Zekri : «Vincent Bolloré institutionnalise les discours racistes !»",
+  "summary": "",
+  "published": "2026-07-11T09:00+02:00",
+  "mentions": []
+ },
+ {
+  "id": "ef497e6c30565b6b",
+  "outlet": "RFI",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNX3laN0JPQUliYWFpZ19FdFk1aXNPRnNIX3NaTGRmY2hPOTZobS1wTGZsTnE0d1JNUzlRYnowVW1MbzdSQ3BGZDlXaG5QWDR6TEFsMW1vY1AwSkFhX3VqZHRSbDdRd3dtc2hqbWpLc0hxWlJZaDVtOHBHbkdxS1JXOGlyMjk1TEZHWE5OUzhIWWZ1NVZwbVhnS3pUOHZLY0NTakJLSVhEZGtieUxwSWdVWDQ2dmR4d3BwTHQxOXpwdEZsZlBYSGdaZEJqZEVWTV9YMUVITi1KZ2FQSTIxUzFKZUpsZGRjcUM3?oc=5",
+  "title": "Politique, le choix de la semaine - LFI en campagne: la stratégie du contournement des médias traditionnels?",
+  "summary": "",
+  "published": "2026-07-11T09:00+02:00",
+  "mentions": []
  }
 ]

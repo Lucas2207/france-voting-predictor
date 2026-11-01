@@ -1,27 +1,13 @@
 [
  {
-  "id": "6cbb9dba6cf3302d",
-  "outlet": "Les Echos",
+  "id": "032c07bfde232586",
+  "outlet": "France 3 Régions",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOdnA5eVh3bVFmd25fYXdoQ0ZnVms4aHpBRmpHTzJmVGFjZzFsbUtmZ1pOcmVEem9Ha3BsbVBHcnJNMEZaNTJtZ1R5ZzVyNUlXRGtpa29RXzIzZ2RUVE1FazFyV3VlQnVNUER5WDMzR2NPZE9Dd2FnMlJvd1Rmc05CZ1Yzb0gzMXhxeHdmdlFkRnF4N3ZNUUh5eE9fa2dzV1ExVnU5Q2tnWUNRa09VUlA2MFBQU3dwWWpvaVJVSEs0bDJuS3phZFlCU0h3R05iWnhKZlN3VXd4akl0SkdoV3JuTDFHdmx4MnphWkVWVEFJcEQ5a0V6dWtGd1dSYk0wZ3pfejl5VDR3MU1pcDNMb1IyZU5UN0g?oc=5",
-  "title": "Marine Le Pen, Coupe du monde, amende record pour Google, guerre au Moyen-Orient… Ce qu'il ne fallait pas rater en juillet 2026",
+  "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxQV0J1QmhRcF8wRGZoeWRXaUNhUXVPSkxEWHM4Z1JpUmpBZjJid1BvOVRTUndzeXZCMXdHdjJQVnlHd3M1N0liQzJ1NGlmeDdsZnZZZFpPeWZ3N292c04xZERSOWd5ZnVMU3FOVENqS2dQMTlpT2lZUnlvYXFMWXh5dmpodGtZTjZxaUFGd3p3UlhydkJ3Y0JIQkcyUU1jbnJZeDRuMklaaWpyRDdjc0poVWNKRzktemtFZXRNRmZnMmJPS291Ti1hY2JpNXhzZEhYZmpvcmdzNmFUMmMtRGRlRGZrbzAwVDZaT0tmRTkxUE9mdkdtMmhSZ01fVjBOUjB2UG5DYWpZMjlRQ1ZWdVdmZUdSc25ROF9keklPbXJnVGFUYnVoeUlYM2phbnk5b0Y3Tlhvekp0OFdSU21FbG9GTkxqaUtYRUIxMUpCcTJCdGp6Zw?oc=5",
+  "title": "Les agents pénitentiaires de la maison d'arrêt d'Amiens dénoncent une surpopulation record : \"ça génère des tensions et ça peut se transformer en agression\"",
   "summary": "",
   "published": "2026-08-01T09:00+02:00",
-  "mentions": [
-   "lepen"
-  ]
- },
- {
-  "id": "f09fac703be95c49",
-  "outlet": "lejdd.fr",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQ3NpaFlSVkhEem9vNHlVY2d1anJKZ0RDZXQ4ZGdfZHdMdlFRVFhGNldnd3A1T21WT2RZNXBSaEhxYzNQalA3OVl4LVZRYWt2Uk9QY0tGN2tZRlpxUVlwSWpHVm8tSGRveTFMVl9RakhVcXdWUi1LbFQ5bVB5TlFXSTBlMG1md0lCaTQxcmRsR2NRUWNvUFFPUThaT24xV3FEYUowVHQ5U3pOdw?oc=5",
-  "title": "Édouard Philippe : au défi de la «désirabilité»",
-  "summary": "",
-  "published": "2026-08-01T09:00+02:00",
-  "mentions": [
-   "philippe"
-  ]
+  "mentions": []
  },
  {
   "id": "14516c76fd3374f9",
@@ -34,43 +20,40 @@
   "mentions": [
    "philippe",
    "attal"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": 0,
+    "frame": "programme"
+   },
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "f5eddc80e48e22a4",
-  "outlet": "Le Dauphiné Libéré",
+  "id": "18331417be67959f",
+  "outlet": "https://www.parlons-politique.fr/",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUnFiX0g5SFhxRDU0c3VOY2k4emU0aEQtZ3dIaTlRTHFzczdtbkZRYk9FT2ZLelYyQzVyb19TSkllU3ROUTRnTVZwbjVMQWFlWi02anJhYjk3NmVBd3JaZW1XNHdCVUVRRGZrNG9rRVViVDFhenp1dGJMWmlLbnlxTTA3OVRNT1BfTEdHdEZlbmpTYWRVeFpaT29MdTdIS0ZDaFptV0IwbHI2d1RmaWtr?oc=5",
-  "title": "Présidentielle 2027. Édouard Philippe visé par une campagne de désinformation russe",
+  "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQbkxSOTdwZlR2Z0wwYi1McnVMSEk3djZweURBSk5hMjR3cVRtbFNwelhfTFhpbER4N3MzTDlDcC15bnNCQ0N5d3Q1RTlrOWsyaV9iM0lzdWJyWTJNNl9EWVpBNE0tOGY5WmdlZEloN3JLa1VpUmpWQmE5R3Q3eFJ6dlBmMTJ6aFJCN2pOUjJQM3lsdHRWQnBCbUV3Q2N1Z0lteFl6cVNiT2Z0Sno4YWIxenpLbUp2Xy0wSE8tUVQzNlE5RGRaY3JrZFVRckQxaGhIbnJUWlhZdDN3ZDBDV3EwMHJQSQ?oc=5",
+  "title": "Campagne présidentielle Ruffin : la proximité affichée peut-elle devenir une force politique crédible ?",
   "summary": "",
   "published": "2026-08-01T09:00+02:00",
   "mentions": [
-   "philippe"
-  ]
- },
- {
-  "id": "32d845ed9924009d",
-  "outlet": "Clicanoo",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaW9WYzZMVWRPNmtSMlB2ZXRRUjhRMWpjSGlfdTNIa0xYT09CODNpdi0xU3Y4bnRqSmdSU1JjaUppdnlIS0ZjNFVwVHVLZkx1OGstVEFQTUliMzBBZURGYUNQS1lrWWE2OWNPY3ZNbU11VUt0cU81VDFKWkloQXVRempZMnBWM0FwYTZlZndLU0VSYno5SkZkMkwzeDFuQVg3?oc=5",
-  "title": "Edouard Philippe à La Réunion à la fin du mois",
-  "summary": "",
-  "published": "2026-08-01T09:00+02:00",
-  "mentions": [
-   "philippe"
-  ]
- },
- {
-  "id": "9a0600c293ef39a4",
-  "outlet": "Le HuffPost",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQSjFRX3dMdW5aUjRDZWpfYWR1NXdqSFNqb2xnNnF2bDBSWFBaQjNReEMzNjIzZk1yb0tMdlEyRTQ1T2c1d1daN0M0NGtHUzl2a0ZCcVdpS255c2g1M3NabW80c0c3UUdXdmZRTDV6N3Bub1Z2YTFSb2VJZ1doV1g1ZlY4WG0xbXREd3lWQk9JX0Q5RU52MC1ISjNWbmV2SlN3a01oX1FhNXFjMWs0bGJPb1oyQm1NR3gxcTRyUVk5bFVIeFU1dUs2dmJIOFN2YWdCQVRzdFBUMmdleHJaQ0NnODFGNDc1MmVwSDZMeVZqTzd1QQ?oc=5",
-  "title": "Edwy Plenel, Raphaël Glucksmann et Salomé Saqué répondent à une « fake news » les impliquant sur Léa Salamé",
-  "summary": "",
-  "published": "2026-08-01T09:00+02:00",
-  "mentions": [
-   "glucksmann"
-  ]
+   "ruffin"
+  ],
+  "analysis": [
+   {
+    "id": "ruffin",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "189c9ae9d2bc8793",
@@ -83,14 +66,50 @@
   "mentions": []
  },
  {
-  "id": "6bb91a87d99bc3a8",
-  "outlet": "Atlantico",
+  "id": "1e7cde67f3aecc6f",
+  "outlet": "Gala",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiiANBVV95cUxPNTlRY0lGWXJjV2d5WUdvQVNvbWQwa0RTc2NYS3JtWTBjd0lVZ3VzR3QtaUs3WEFnVkg2TXVMNXdlSlpVbDVYbmpEalRJLXhkNEpGRWtvakQ0WHNCQkUtdzdmVm1HamxsVmZLTndfRzdhd183RG1Pa2thc01HQzdGeEdBZEExQklpS1VsSDNPZHE1WWZlVU9NX01RU0o3RENmcWV1QXdidG5oU3BoS1VvNnVHTDI2WURNS2V1bnlaWFRyRkIxMW5pTXhpQ3pwZUZYUVNIRjduUTVTVjFpSW0wbmpFODBtSTQycWc1YWt6RzJiLUNOT3ZvVmlua2JpYVF6UFRhc2Fsek5JS2l4TUJKQ3YzQy11cTdBeEZqcjVCVkZqZTZiS191M0hnRFhyVzNwZy03MENseVM2dFFEQ3V5dWdxMEtDMEVRSEtEMTM1QUVzUWZRM3d3M2hZbnZnZzRieGpGT0RGcXJYU2RIdDJka0tFV3BBVlNmMi1UcGJWSFQxY1RLcElKMg?oc=5",
-  "title": "Stars en été : romances, ruptures et coulisses royales au cœur de la presse people",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWjNMbkNlaExxM29EckJVSU52R3RUVGdrRFE2dWhZdmZJQk1IbFliWUl4VnYzNXRrZjhUbzVkc3Ntcm9vNUV1MDRUdnRqUVExanNUMEpYRDFjT0x2TlVNN2FTbkZSYUxISWpLeWQyWE1xY2txaW9oRXRoNGd6NE02Wlh6R2RHX216ZWtCU1dBOXhINlJ4WEIwQ092V3ZDWjdrbGZvazVLWFUtSVA3c1M3QWNmTWhoZw?oc=5",
+  "title": "Marine Le Pen et Gabriel Attal s’affrontent au tribunal : la justice a tranché",
   "summary": "",
   "published": "2026-08-01T09:00+02:00",
-  "mentions": []
+  "mentions": [
+   "lepen",
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": 0,
+    "frame": "programme"
+   },
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "32d845ed9924009d",
+  "outlet": "Clicanoo",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaW9WYzZMVWRPNmtSMlB2ZXRRUjhRMWpjSGlfdTNIa0xYT09CODNpdi0xU3Y4bnRqSmdSU1JjaUppdnlIS0ZjNFVwVHVLZkx1OGstVEFQTUliMzBBZURGYUNQS1lrWWE2OWNPY3ZNbU11VUt0cU81VDFKWkloQXVRempZMnBWM0FwYTZlZndLU0VSYno5SkZkMkwzeDFuQVg3?oc=5",
+  "title": "Edouard Philippe à La Réunion à la fin du mois",
+  "summary": "",
+  "published": "2026-08-01T09:00+02:00",
+  "mentions": [
+   "philippe"
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "394d955ccacb05e7",
@@ -102,7 +121,15 @@
   "published": "2026-08-01T09:00+02:00",
   "mentions": [
    "glucksmann"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": -1,
+    "frame": "sondage_dynamique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "497083ab53e70ac0",
@@ -114,19 +141,45 @@
   "published": "2026-08-01T09:00+02:00",
   "mentions": [
    "attal"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "d4d400c924d84b19",
-  "outlet": "lejdd.fr",
+  "id": "6bb91a87d99bc3a8",
+  "outlet": "Atlantico",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQlBPSWRCTXlVMnI1M1Ztdjc2Q0p2dS1DRll2Szd1TTExWDlVN1BtalF6NmpGY2VsZERzMnM4TG42TWoxVjMxbGhnMWtzRWNRVVBJQ2dYeDRyWVNSZUlwR2kxVUNrVTJFOGRERnk4THNyLXZ5MGZxVFVFZ3lpWG9NOGN0a3h4aEF6MGlOMzQ2d0d2eGxJMUhGZ1Rpck5RclE2X1QyVVZQSFNrVXpvVHZyWWZpT1FCaVNQNURnNW5OenA?oc=5",
-  "title": "EXCLUSIF. Gabriel Attal : «Je propose la plus grande réforme institutionnelle depuis 1958»",
+  "url": "https://news.google.com/rss/articles/CBMiiANBVV95cUxPNTlRY0lGWXJjV2d5WUdvQVNvbWQwa0RTc2NYS3JtWTBjd0lVZ3VzR3QtaUs3WEFnVkg2TXVMNXdlSlpVbDVYbmpEalRJLXhkNEpGRWtvakQ0WHNCQkUtdzdmVm1HamxsVmZLTndfRzdhd183RG1Pa2thc01HQzdGeEdBZEExQklpS1VsSDNPZHE1WWZlVU9NX01RU0o3RENmcWV1QXdidG5oU3BoS1VvNnVHTDI2WURNS2V1bnlaWFRyRkIxMW5pTXhpQ3pwZUZYUVNIRjduUTVTVjFpSW0wbmpFODBtSTQycWc1YWt6RzJiLUNOT3ZvVmlua2JpYVF6UFRhc2Fsek5JS2l4TUJKQ3YzQy11cTdBeEZqcjVCVkZqZTZiS191M0hnRFhyVzNwZy03MENseVM2dFFEQ3V5dWdxMEtDMEVRSEtEMTM1QUVzUWZRM3d3M2hZbnZnZzRieGpGT0RGcXJYU2RIdDJka0tFV3BBVlNmMi1UcGJWSFQxY1RLcElKMg?oc=5",
+  "title": "Stars en été : romances, ruptures et coulisses royales au cœur de la presse people",
+  "summary": "",
+  "published": "2026-08-01T09:00+02:00",
+  "mentions": []
+ },
+ {
+  "id": "6cbb9dba6cf3302d",
+  "outlet": "Les Echos",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOdnA5eVh3bVFmd25fYXdoQ0ZnVms4aHpBRmpHTzJmVGFjZzFsbUtmZ1pOcmVEem9Ha3BsbVBHcnJNMEZaNTJtZ1R5ZzVyNUlXRGtpa29RXzIzZ2RUVE1FazFyV3VlQnVNUER5WDMzR2NPZE9Dd2FnMlJvd1Rmc05CZ1Yzb0gzMXhxeHdmdlFkRnF4N3ZNUUh5eE9fa2dzV1ExVnU5Q2tnWUNRa09VUlA2MFBQU3dwWWpvaVJVSEs0bDJuS3phZFlCU0h3R05iWnhKZlN3VXd4akl0SkdoV3JuTDFHdmx4MnphWkVWVEFJcEQ5a0V6dWtGd1dSYk0wZ3pfejl5VDR3MU1pcDNMb1IyZU5UN0g?oc=5",
+  "title": "Marine Le Pen, Coupe du monde, amende record pour Google, guerre au Moyen-Orient… Ce qu'il ne fallait pas rater en juillet 2026",
   "summary": "",
   "published": "2026-08-01T09:00+02:00",
   "mentions": [
-   "attal"
-  ]
+   "lepen"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "6e83e806e8e91730",
@@ -138,32 +191,15 @@
   "published": "2026-08-01T09:00+02:00",
   "mentions": [
    "attal"
-  ]
- },
- {
-  "id": "ff668e5cd9a5dff9",
-  "outlet": "Presse Agence",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNekYzZXNtRzZCLTJyRVFIT3dCdDZPSHNuTEZnVGQtYWVrdUU1ampuXzVBNVBRQ0FrWVB0VHZ3bGNhYzdnV3dtWVR4TDJ6UHYwM1h3U2hDTVpRNFdRRURDVUhQV2JYMFI4RmxXV045X3Z0UWVaMEZISzRqbGtNTWhjczlTTmZac0NMX1JpMUlrVWt4cnJFY3NyeFlFS19GZlB4a3pn?oc=5",
-  "title": "Reconquête : Eric Zemmour lance sa rentrée politique à Port-Marly",
-  "summary": "",
-  "published": "2026-08-01T09:00+02:00",
-  "mentions": [
-   "zemmour"
-  ]
- },
- {
-  "id": "1e7cde67f3aecc6f",
-  "outlet": "Gala",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWjNMbkNlaExxM29EckJVSU52R3RUVGdrRFE2dWhZdmZJQk1IbFliWUl4VnYzNXRrZjhUbzVkc3Ntcm9vNUV1MDRUdnRqUVExanNUMEpYRDFjT0x2TlVNN2FTbkZSYUxISWpLeWQyWE1xY2txaW9oRXRoNGd6NE02Wlh6R2RHX216ZWtCU1dBOXhINlJ4WEIwQ092V3ZDWjdrbGZvazVLWFUtSVA3c1M3QWNmTWhoZw?oc=5",
-  "title": "Marine Le Pen et Gabriel Attal s’affrontent au tribunal : la justice a tranché",
-  "summary": "",
-  "published": "2026-08-01T09:00+02:00",
-  "mentions": [
-   "lepen",
-   "attal"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "78e7c434eb19d258",
@@ -176,6 +212,26 @@
   "mentions": []
  },
  {
+  "id": "9a0600c293ef39a4",
+  "outlet": "Le HuffPost",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQSjFRX3dMdW5aUjRDZWpfYWR1NXdqSFNqb2xnNnF2bDBSWFBaQjNReEMzNjIzZk1yb0tMdlEyRTQ1T2c1d1daN0M0NGtHUzl2a0ZCcVdpS255c2g1M3NabW80c0c3UUdXdmZRTDV6N3Bub1Z2YTFSb2VJZ1doV1g1ZlY4WG0xbXREd3lWQk9JX0Q5RU52MC1ISjNWbmV2SlN3a01oX1FhNXFjMWs0bGJPb1oyQm1NR3gxcTRyUVk5bFVIeFU1dUs2dmJIOFN2YWdCQVRzdFBUMmdleHJaQ0NnODFGNDc1MmVwSDZMeVZqTzd1QQ?oc=5",
+  "title": "Edwy Plenel, Raphaël Glucksmann et Salomé Saqué répondent à une « fake news » les impliquant sur Léa Salamé",
+  "summary": "",
+  "published": "2026-08-01T09:00+02:00",
+  "mentions": [
+   "glucksmann"
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
   "id": "ce2d1d0afddb7934",
   "outlet": "L'Express",
   "lean": "centre-droit",
@@ -185,28 +241,94 @@
   "published": "2026-08-01T09:00+02:00",
   "mentions": [
    "ruffin"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "ruffin",
+    "tone": -1,
+    "frame": "sondage_dynamique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "18331417be67959f",
-  "outlet": "https://www.parlons-politique.fr/",
+  "id": "d4d400c924d84b19",
+  "outlet": "lejdd.fr",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQbkxSOTdwZlR2Z0wwYi1McnVMSEk3djZweURBSk5hMjR3cVRtbFNwelhfTFhpbER4N3MzTDlDcC15bnNCQ0N5d3Q1RTlrOWsyaV9iM0lzdWJyWTJNNl9EWVpBNE0tOGY5WmdlZEloN3JLa1VpUmpWQmE5R3Q3eFJ6dlBmMTJ6aFJCN2pOUjJQM3lsdHRWQnBCbUV3Q2N1Z0lteFl6cVNiT2Z0Sno4YWIxenpLbUp2Xy0wSE8tUVQzNlE5RGRaY3JrZFVRckQxaGhIbnJUWlhZdDN3ZDBDV3EwMHJQSQ?oc=5",
-  "title": "Campagne présidentielle Ruffin : la proximité affichée peut-elle devenir une force politique crédible ?",
+  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQlBPSWRCTXlVMnI1M1Ztdjc2Q0p2dS1DRll2Szd1TTExWDlVN1BtalF6NmpGY2VsZERzMnM4TG42TWoxVjMxbGhnMWtzRWNRVVBJQ2dYeDRyWVNSZUlwR2kxVUNrVTJFOGRERnk4THNyLXZ5MGZxVFVFZ3lpWG9NOGN0a3h4aEF6MGlOMzQ2d0d2eGxJMUhGZ1Rpck5RclE2X1QyVVZQSFNrVXpvVHZyWWZpT1FCaVNQNURnNW5OenA?oc=5",
+  "title": "EXCLUSIF. Gabriel Attal : «Je propose la plus grande réforme institutionnelle depuis 1958»",
   "summary": "",
   "published": "2026-08-01T09:00+02:00",
   "mentions": [
-   "ruffin"
-  ]
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "032c07bfde232586",
-  "outlet": "France 3 Régions",
+  "id": "f09fac703be95c49",
+  "outlet": "lejdd.fr",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxQV0J1QmhRcF8wRGZoeWRXaUNhUXVPSkxEWHM4Z1JpUmpBZjJid1BvOVRTUndzeXZCMXdHdjJQVnlHd3M1N0liQzJ1NGlmeDdsZnZZZFpPeWZ3N292c04xZERSOWd5ZnVMU3FOVENqS2dQMTlpT2lZUnlvYXFMWXh5dmpodGtZTjZxaUFGd3p3UlhydkJ3Y0JIQkcyUU1jbnJZeDRuMklaaWpyRDdjc0poVWNKRzktemtFZXRNRmZnMmJPS291Ti1hY2JpNXhzZEhYZmpvcmdzNmFUMmMtRGRlRGZrbzAwVDZaT0tmRTkxUE9mdkdtMmhSZ01fVjBOUjB2UG5DYWpZMjlRQ1ZWdVdmZUdSc25ROF9keklPbXJnVGFUYnVoeUlYM2phbnk5b0Y3Tlhvekp0OFdSU21FbG9GTkxqaUtYRUIxMUpCcTJCdGp6Zw?oc=5",
-  "title": "Les agents pénitentiaires de la maison d'arrêt d'Amiens dénoncent une surpopulation record : \"ça génère des tensions et ça peut se transformer en agression\"",
+  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQ3NpaFlSVkhEem9vNHlVY2d1anJKZ0RDZXQ4ZGdfZHdMdlFRVFhGNldnd3A1T21WT2RZNXBSaEhxYzNQalA3OVl4LVZRYWt2Uk9QY0tGN2tZRlpxUVlwSWpHVm8tSGRveTFMVl9RakhVcXdWUi1LbFQ5bVB5TlFXSTBlMG1md0lCaTQxcmRsR2NRUWNvUFFPUThaT24xV3FEYUowVHQ5U3pOdw?oc=5",
+  "title": "Édouard Philippe : au défi de la «désirabilité»",
   "summary": "",
   "published": "2026-08-01T09:00+02:00",
-  "mentions": []
+  "mentions": [
+   "philippe"
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "f5eddc80e48e22a4",
+  "outlet": "Le Dauphiné Libéré",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUnFiX0g5SFhxRDU0c3VOY2k4emU0aEQtZ3dIaTlRTHFzczdtbkZRYk9FT2ZLelYyQzVyb19TSkllU3ROUTRnTVZwbjVMQWFlWi02anJhYjk3NmVBd3JaZW1XNHdCVUVRRGZrNG9rRVViVDFhenp1dGJMWmlLbnlxTTA3OVRNT1BfTEdHdEZlbmpTYWRVeFpaT29MdTdIS0ZDaFptV0IwbHI2d1RmaWtr?oc=5",
+  "title": "Présidentielle 2027. Édouard Philippe visé par une campagne de désinformation russe",
+  "summary": "",
+  "published": "2026-08-01T09:00+02:00",
+  "mentions": [
+   "philippe"
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": -1,
+    "frame": "sondage_dynamique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "ff668e5cd9a5dff9",
+  "outlet": "Presse Agence",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNekYzZXNtRzZCLTJyRVFIT3dCdDZPSHNuTEZnVGQtYWVrdUU1ampuXzVBNVBRQ0FrWVB0VHZ3bGNhYzdnV3dtWVR4TDJ6UHYwM1h3U2hDTVpRNFdRRURDVUhQV2JYMFI4RmxXV045X3Z0UWVaMEZISzRqbGtNTWhjczlTTmZac0NMX1JpMUlrVWt4cnJFY3NyeFlFS19GZlB4a3pn?oc=5",
+  "title": "Reconquête : Eric Zemmour lance sa rentrée politique à Port-Marly",
+  "summary": "",
+  "published": "2026-08-01T09:00+02:00",
+  "mentions": [
+   "zemmour"
+  ],
+  "analysis": [
+   {
+    "id": "zemmour",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  }
 ]

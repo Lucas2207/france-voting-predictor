@@ -10,6 +10,46 @@
   "mentions": []
  },
  {
+  "id": "03976fd2e8b94500",
+  "outlet": "TV Magazine",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNRmhhc3NXWXE2RWloT1VGSlR6Zm1mYjkwZ2lySGFEek9Gb2J2N3V4U0JQWU5jcmF1Y0RXbXgwODJJaWFoQkliVjIzQ2lpeWpwRGRkVG5wb2N1NlB0TVprOGlCa21TN2RSODdzRnlyQkhjRlBsb1ZDOHQ5RFdxWWZsdkF2d0dJbGxxeEplOHpwUTN0YVFQNHA4eWtSN0ludW1RTTF5YnpXTDl2Q2QzUHhTRzNlZzB1QzlzMDBkUXNkTDdlWm0xRUpEdTd0Y2NFNXNlRXEwblhuTFlwbU9iSWllam9KNF9HeUNMeF9obzBLOGxjemdTdkE?oc=5",
+  "title": "«On peut arrêter là cette interview» : prise de bec entre Fabien Roussel et Benjamin Duhamel sur France Inter",
+  "summary": "",
+  "published": "2026-09-21T09:00+02:00",
+  "mentions": [
+   "roussel"
+  ],
+  "analysis": [
+   {
+    "id": "roussel",
+    "tone": 0,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "0686b656c3c1f448",
+  "outlet": "Facebook",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZnNTV2RSZDczcmQtOWdWZ0w2eVJWcWRrTmFQWjN1dnFwMThLUE1yaWp5S1BtZlg5UVpjRTBlVGNjb25oZXh4a1ZCVUxudjMxVmFzekRIcjJwQVVoY3NUQmQyQzgzMTRPUk5TSEtPWDBXRzdvc1JGaHdrU1BweUpmMUNSYlhKRWJfUXBja1hBRGNmS3dC?oc=5",
+  "title": "France Inter. . Interpellé par Marion Maréchal au sujet de \"la compatibilité de l’islam en France\", Gabriel Attal répond : \"notre responsabilité, c’est de faire en sorte que les lois de la République puissent être respectées.\" Le secrétaire général de \"Renaissance\"",
+  "summary": "",
+  "published": "2026-09-21T09:00+02:00",
+  "mentions": [
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
   "id": "07fbcc3f70fd9aed",
   "outlet": "Facebook",
   "lean": "non classé",
@@ -19,41 +59,249 @@
   "published": "2026-09-21T09:00+02:00",
   "mentions": [
    "lepen"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": 1,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "8e97662c1fef9fcb",
-  "outlet": "Courrier international",
+  "id": "0bf372560274481a",
+  "outlet": "BFM",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNU2t5YnN5ZkZReDNpRTM2NkpsU3QtSlRFUzZJS0M1NXZFcjlVS1VrNlZ0LU10N0xSQjViX0FuTU5heF9IU0xjZGpvMU5yeVMtUXVNS1dCckNoaVIwOE1URV96ZmMzUmxzMllMRURGT2hicFU2Nmd6cmRZOG1objhxYm9UQ3lScUl4eF9LREZwUTl3andldFQ4UzFDSHd5YWtpQkUzS1A4VTdpQy1Fa3FrY2cwb3hRTDBhVk15a0lSNS0zVXNqUWc?oc=5",
-  "title": "Le retour de Marion Maréchal, l’“enfant terrible” du clan Le Pen",
+  "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxOOEY1bHhDLVc4WGo1ZkhxQnpWQ2Jrd3hrNjhja0p5b0htLXQycVRfVzhQczZibE1BWklFUngzQkY4ZmhtSE1xdURtWll0cWhMcUVsaUNyS1NDenZvYVdieDNBMk5fM25nWUxjMFFLdzA2amRwdV9TMnNFQnJST3VicHkxNDNUWUdhYmJiMDQ0dHBubV9VV0dOYmxhSzhVa0M4NkZ5QXNPN2tYTWVOTW9aak9KTHR6SkcxeUtKM1RfLXBOSGRJVlFkRjd2V05NaUVQaGRjZDlBMUVsVVVKNk1TWERoTXNEejI5bVJaUnBNYVYweG9PUXlEZktiYVAzcUlUenBsWXBIMXJJcTJHVlhldkZ1YTFjVDBlY0djMm45OS1EdFVXcnFhM1NoXzhwcVNnSFB5VG9xWHNRX0tHY05NNnc3MTNhQzFMOHdkY3ZOZlFSWXZNanc?oc=5",
+  "title": "\"Un stagiaire en politique\": Ségolène Royal rappelée à l’ordre par la commission d'organisation de la primaire à gauche après son tacle contre Raphaël Glucksmann",
   "summary": "",
   "published": "2026-09-21T09:00+02:00",
   "mentions": [
-   "lepen"
-  ]
+   "glucksmann"
+  ],
+  "analysis": [],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "cb45db5039eba8a9",
-  "outlet": "Le Monde.fr",
+  "id": "0e3a4ce3539e5c50",
+  "outlet": "lejdd.fr",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNT01vRkh5UXNFRkFUMWtSR3FQTGpYUWhJUklqVkk4dHVWTVFPdzU0WWxza0x2bFl4eVkzMVY4X2dWSFlpZkd1RE1Ub2dyNS1IdFZDOU1CNmtzUy1KbkZHSS1Bc1d2MXhCcW5XbHZEYXB6MmFvMTdkSTVKSFVDR1Rxbzg4SkFDSVBFNWRaN2FLNEZWTWd1QWZRSFhPLTAwbHpWNUZRTmZSZ0xQaEVoY1owVUVBN01aOFN5aU9DMGhUT3lZVW5iTEpvSjRXSndfNEVXRzRWc3NiN2dsX0NqWXZvUHZVT2tUM19ISHlQMC1OLXczT0lwUkJWVkJNcjhOQWhEWTBYRmdHNXpaNGxWZnl4cUJsU3pXRHF1S3ROLVZlMW11c2V6QmZqbGJEeTk?oc=5",
-  "title": "Présidentielle 2027 : l’Etat selon Jean-Luc Mélenchon, entre « révolution citoyenne » et reprise en main de l’administration",
+  "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQaWpsbTlNdWtKUXh2WDJndTFHeEZMMkZHYVBSRkxQWFNXU1ZlZEFVblp5QlhRU2xUQ1FjQjVTU183Q0Q5XzVTT04yRDBIUXBYMGhxX2xDMVJ5eTlLaWhTMVJfOXBfdUltYmZLV2t2YUpMbGxPYnJubTNnMkxDOWg1UVdadzhyYTZHTlk3UWo3cFNSV1ZVY2dUVFl6QkNEajJpSnBXUXpuMl95UDE1SGhBazVWSG56Zi16azdxdmlMVExyRGpqQzVvQlVVMmhjTUk5MlBqVnB5QVlnd2lCZjRaTTNxWDJCU09xSmlkMnR3?oc=5",
+  "title": "Présidentielle : Ségolène Royal raille la candidature de Raphaël Glucksmann",
   "summary": "",
   "published": "2026-09-21T09:00+02:00",
   "mentions": [
-   "melenchon"
-  ]
+   "glucksmann"
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": -1,
+    "frame": "justice_affaires"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "50c9f954cd646ab7",
-  "outlet": "Le HuffPost",
+  "id": "14d3bf5f1fd137b6",
+  "outlet": "LCP-Assemblée nationale",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQclZUdTNXVnJsenh1OGtVcng0MHlialYxLXhSVXlZUm94cEg1VTdmd0l3Rm1qQVE3VHZkWVZHRXRITC0tdEJhWEkyOHR1bzNmcGdsXzhWeXpkS1BwVm1QNXhIUDUzQ201d3hacS1xLUhFZnQwZHF0eEt4T0ZOdW1ac3FjQWZJQlpELWotckRfVFFhcFNYRmxoQjZlY1lxa1FEc3FIaFBDLU1UQS01OWlackVyUWxYQmNmXzhVajloOFlFLXdjSmdUSGl0Y2VldmJ0Tm1fZGJOS3A?oc=5",
-  "title": "Philippe et la nouvelle émission politique de France 2 déprogrammés à cause de Macron",
+  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWlRFZHJ0SEFobUxwRGozR05ocjhmbnFXZ0JRODRDUDVUc21XMXpHbkpKUGFIWXdvXzVnVlc5ZU9SRThxY0JpRkZoRmo3QUZJMGsweVFoUUg2eFN3NmpweEVzZTdYU0l2LUhqTjUxWGx4OE1qLU1fMXgwX09zTjVyaGdUZTFlT0dJRFpudUZPOEtsXzJjZnNIU2tCWUtRV3M1bmhfUVhuLWM3UHF0?oc=5",
+  "title": "Présidentielle 2027: ces députés qui vont faire la campagne de Gabriel Attal",
   "summary": "",
   "published": "2026-09-21T09:00+02:00",
-  "mentions": []
+  "mentions": [
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "2007f866a80b8241",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNTURSX0treGpPVjR1M182QlhWd05TUGM4ajhDTmpVN0kwcFlfdzI3ZnpFWV9ZQXBIQ19yM2x3QnNKU1RvUlMzRXlIVGxjY1VBOGtQM1p3RmpJYm51VW5JV245NW9FcEEwX1JoVEM3SEFsc0Ryazh5eVlIbWNNWDVTbTJXQnJNekh0b0VvOGNZeVF0UWZYVXhTaUlITVFDQU5qUWhibG1ubU0yYWItYmlRbzdvV2VYN2c5WVExdjJMZUZmVlJidnl6ZlQxUWFYN1k0cGdOZjFVdjJzZy1pZ0l0b2lWUnRKUQ?oc=5",
+  "title": "L'EFFET GRABLY - Primaire à gauche: Raphaël Glucksmann et Ségolène Royal, un duel de longue date",
+  "summary": "",
+  "published": "2026-09-21T09:00+02:00",
+  "mentions": [
+   "glucksmann"
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": -1,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "2281c80d3e45893b",
+  "outlet": "https://www.parlons-politique.fr/",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNQklGb29NVlo4RHdFaTFONHFTaFBBc0NmNzBsNDVqdUlrMFBWTHN5R0k3Ry1TSEViSmJwYXZNS2xCT2d1Xy1TdlRUelZ2Ujd5bUl3dDZsOExRakoyMjJzYW85bkcyaS1CaWhzQlQ1Sk9SNk5QSXJNZTFjOHA2RkFZYmhVOHM0bXNTd0ZaeWNvZEpWVFNYOGh1OXNGVEtzVlFNR25aVnBQNWZyaDZsMDJFazc4amRXOEx4bms5N1VHS1hxSlRqTnN4bjRid3B1YWZTQmp4WEROVDZCMlkzWGduQXU3NUhsZw?oc=5",
+  "title": "Présidentielle 2027 : quand l’agenda de l’Élysée bouscule les retraites et la stratégie d’Édouard Philippe",
+  "summary": "",
+  "published": "2026-09-21T09:00+02:00",
+  "mentions": [
+   "philippe"
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "2764167494d752c8",
+  "outlet": "Libération",
+  "lean": "centre-gauche",
+  "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQTHp2djYtTkduQVVlV09TTjA3ejRhS09xV3Y0MjY3eGh0ZXFKQ1I1RWh3UzVXdV9xQ1hrRDlVbl9tS0FHZElzY2RvMFhsQURXbmJ6Q3A0RGFLWXFwSW9QMzZFVllXN2E2d1BrdzJoSXExUUxfVXBMMjBqcjZNQmFVdVV4NnlBc2J3VnhkbHZxZFFpMWdTWWV3ZmhxY1d4cEppdlBUNEhucEpqWUMxWmNEM2dNX1l2NW16YmdpUDdpaUstemZDMDJBSFd1Rjh5NlV4RUlVTVp1QXNnckdTczZnU3FXaU5ieUk2QkFz?oc=5",
+  "title": "Fabien Roussel et la Russie : un pacifisme dévoyé et une incompréhensible indulgence",
+  "summary": "",
+  "published": "2026-09-21T09:00+02:00",
+  "mentions": [
+   "roussel"
+  ],
+  "analysis": [
+   {
+    "id": "roussel",
+    "tone": -2,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "2bd18376596bd01a",
+  "outlet": "l'Opinion",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRVpqdWhHVmdRYWRZM21HNmZfVnBpVzJiRjR5V0RKa0t0Y0VQeXI5TnFCcDJKQk9fNXVSYXlBYlJQZC0yS2FCV0dDSjNlVEdDaXQxcm5OVlJMNFBTZFFBT2ZQeGZGalUxY2w1U1UxMWlVWkI4NnZnR2RVaDdyTFFiU0VBakN0bC1mTEpLYm93LWdYOGFmQk5QOTBULXI3UQ?oc=5",
+  "title": "« Le stagiaire » : les coulisses du bras de fer entre Ségolène Royal et Raphaël Glucksmann",
+  "summary": "",
+  "published": "2026-09-21T09:00+02:00",
+  "mentions": [
+   "glucksmann"
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "2bd6e6c8619e8425",
+  "outlet": "franceinfo",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbzVub0gtMm1XS2k3VUpFcDhrbWRYS1hRTExmNzRBU0JjUHZ0N3NrVklyZXlqTmZwMC1NM1kzVjdTV2N0VnhRRjI5cGh1cS0tODVnY3ZtaEZ6LWQ1T0R2QVNJVGRKN1FldUo5SDRHdzZBM2U2UnpsSmVMYkVCYUZNSWtQMGlXazNrcVlQTzduNFlhTnI3dUlzMkMzc1lDYmpSLTJFY012cEFfcUlabjJ5QUltS0puVGtGd0VyWGdJUjFhVWpxakYxeDVodk15SFV2bEZTNlhsMDg?oc=5",
+  "title": "Raphaël Glucksmann : \"Mme Royal ne gagnera absolument pas cette primaire\"",
+  "summary": "",
+  "published": "2026-09-21T09:00+02:00",
+  "mentions": [
+   "glucksmann"
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "2e3b51f7b4c84ffe",
+  "outlet": "Oise Hebdo",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSTZyWjFHRWpwN2V5bWw1NFVxdzgxQVF5XzlKd09oV0twei1iVXBTdnFPUGtFZ1FBQ182UWRaSFp2TGl6dEljWjdWaGotMGNjTjB0ZU0yTVVldTdsaHJaZzVsREFMV1Z1YjZjMkNwQXBiSU1FaGR0ZTNTT3hjY2F5ME1vNVdZLUdKNVhXdjkweWduMTcwUVhidENPTQ?oc=5",
+  "title": "En déplacement au péage de Chamant, le candidat communiste à la présidentielle Fabien Roussel réclame la baisse de TVA sur le prix des carburants",
+  "summary": "",
+  "published": "2026-09-21T09:00+02:00",
+  "mentions": [
+   "roussel"
+  ],
+  "analysis": [
+   {
+    "id": "roussel",
+    "tone": 0,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "2ee907f06159ce17",
+  "outlet": "Boulevard Voltaire",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNHh4TkN5UFQ3VWJSMkVwSmEzWmpNSWFFQ3dTTXJNY3lOZV9RYmxJTUtyencxSmVoY2xSYnhYTHhvWWgtNXFmTFVpU1Bhdm54RWxSMDc5V0hyZldlU3JtUG15aHJRQkgzNkJBbmsxdk1BaUx3dmFiUDZUaHMzQkxWTUpJeU51QzY1SXg5LWh5WGpfZ1EtdWkw?oc=5",
+  "title": "Nicolas Dupont-Aignan veut trouver « le chemin de la paix » en Ukraine",
+  "summary": "",
+  "published": "2026-09-21T09:00+02:00",
+  "mentions": [
+   "dupontaignan"
+  ],
+  "analysis": [
+   {
+    "id": "dupontaignan",
+    "tone": 0,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "2f26b3515fef7359",
+  "outlet": "Le Média",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdlBMRGU0cndDQ3hYRlR1S29vYWNzVGV4NWI1TWhlZlp0aWhkUGdUUERVOVRNVjBvVE5uYmYwZUZ0a3c3ejZtN1JxRHY3emZoSnBodTlLcDBjU1hLbWx2cWN2VlczdUpVLWE0UEE4azJLcXRKMk9RNHZ2Z1REZF9nbXVGUWRNNEhqbEtCSFhZNVotQi1HNE40VjRuM25fTV9ORW1vWWlQbmZYeVZzMmZ2THRXak5JbDFoa1EtTW1tNmFGRFlCNWlXZnEyNTQ?oc=5",
+  "title": "Mbappé, pas assez français ? Zemmour n’a plus que le racisme pour exister",
+  "summary": "",
+  "published": "2026-09-21T09:00+02:00",
+  "mentions": [
+   "zemmour"
+  ],
+  "analysis": [
+   {
+    "id": "zemmour",
+    "tone": -2,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "36825601effdca5a",
+  "outlet": "La Provence",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWWx1X21pVW01TkktMjJQQm5uM0Q2SFFUV1dGMWRoQTBqalI3X3Jjc2djVmhVcktORWRZQXVQNkFCU2dpX29DZVE5TXpObUZ4ZkNZZ1hwR2FDNGltd09FUEVucUZnRGhYUkJWTGNNUnJmS0VIZUFVREhuTEFnaGFZS0x2aW5Pcmh1eDdMal90RHBrVWxRZG01b0V5ZUtvdTE1dGozNnFqZXFabDdXanB4WmNQaXhkM09KM0pxUGxSQmNMME9SaXQzUEdBb0t1cVl2bTE2WVJfOA?oc=5",
+  "title": "L’ancien Premier ministre, Gabriel Attal, veut \"accélérer\" sa campagne présidentielle",
+  "summary": "",
+  "published": "2026-09-21T09:00+02:00",
+  "mentions": [
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 1,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "377e91569d88a160",
@@ -65,31 +313,15 @@
   "published": "2026-09-21T09:00+02:00",
   "mentions": [
    "philippe"
-  ]
- },
- {
-  "id": "b4800e0c906cccfc",
-  "outlet": "20 Minutes",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeVNlZnJ1T1paRVpBRXNEaWd2MVRuRElyQkc1RG1ZczRRS2VRaGt1Z2J6MmR4NThtS3BiVlNGdjJyQzR4VmlFQjZDdHBHcTN6UF8xTm9SLXhObTVaei11NlJpTjBZZVZ0SHRveVRzQTNQMjg5MkViMTZHLTZKOEtIbGlPVTJHa3kzRkE3bVo3Sml2V3pPc1ZwVl96SHRrNW5vZzdDU0NiMHN2TUlDZEVxQUt6MzhxellybW90OFAtQ1JvcWt0RVQ0Vw?oc=5",
-  "title": "« L’heure de vérité » avec Édouard Philippe sera décalée… à cause de Macron",
-  "summary": "",
-  "published": "2026-09-21T09:00+02:00",
-  "mentions": [
-   "philippe"
-  ]
- },
- {
-  "id": "d6c9a92212898582",
-  "outlet": "Gala",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNZ1NFa2phYlQtaVdTNU5jcnJ4S0ZVOS0wcGJGZVJUMnJEZ2tfZDhXdk9rOGtOTU9UdUljamFUZTEwRWluOVFPMmI1Y2pfbXY2SWZGQWVKRXpQUWRGMGU2RVpkMGdFUVFZSjI1MjVnMUhxN0U4eFJNVVduSmFPbl9hdk91SXpoOEVQT1plU1p1c0NyazdSblJaT0E2c3hRQU9oeHRNeGF6SklDQjFodWVnU19MOGNjT0ZzTnNHZVNWUm1NOFNIbmY3cnBULTMxZzBKRmptRVctLTRjSkpQLTA1NHVkZDJoSkVwZFgya2RQcVh4U1hMcnFCWW1aZU5HeFItWHc?oc=5",
-  "title": "Un bureau pas comme les autres : au Havre, Édouard Philippe ouvre les portes de son univers à l’occasion des Journées du patrimoine 2026",
-  "summary": "",
-  "published": "2026-09-21T09:00+02:00",
-  "mentions": [
-   "philippe"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "3c6d7b33afc978e8",
@@ -102,594 +334,24 @@
   "mentions": []
  },
  {
-  "id": "2281c80d3e45893b",
-  "outlet": "https://www.parlons-politique.fr/",
+  "id": "3d7e8197ef525adc",
+  "outlet": "Actu.fr",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNQklGb29NVlo4RHdFaTFONHFTaFBBc0NmNzBsNDVqdUlrMFBWTHN5R0k3Ry1TSEViSmJwYXZNS2xCT2d1Xy1TdlRUelZ2Ujd5bUl3dDZsOExRakoyMjJzYW85bkcyaS1CaWhzQlQ1Sk9SNk5QSXJNZTFjOHA2RkFZYmhVOHM0bXNTd0ZaeWNvZEpWVFNYOGh1OXNGVEtzVlFNR25aVnBQNWZyaDZsMDJFazc4amRXOEx4bms5N1VHS1hxSlRqTnN4bjRid3B1YWZTQmp4WEROVDZCMlkzWGduQXU3NUhsZw?oc=5",
-  "title": "Présidentielle 2027 : quand l’agenda de l’Élysée bouscule les retraites et la stratégie d’Édouard Philippe",
-  "summary": "",
-  "published": "2026-09-21T09:00+02:00",
-  "mentions": [
-   "philippe"
-  ]
- },
- {
-  "id": "5de42a4732bb2ea3",
-  "outlet": "L'Indépendant",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOX2xzZkR0aW5aLVBxbzlwNjljUmkzaDFQbm1NR21iSXAxLXRMenR6SGIxVFFKMEpsYW02WjZXLVRhMG5pSHdtb1VhUTdaSkFBX3NJalRER0t1LWlxbE1mV0JwZlc1SkVjQjlYaTN6LWlhQkh0bjBaV21zMUQ1WGlyYTBiZW03X1JkaU9QU09fVS1MYXo1QTdHN0hOS3VPTFZsZUlFSDFqSWlUY2xPRFJnRVVYUFUzYTlrQTlNRGVKUVhOcUlzTVROS1dVWXo1cUItaXlkMEdaVERCcHgwRmh2X3BPdXB6SGJ0LXc?oc=5",
-  "title": "Coup dur pour Edouard Philippe : son premier grand rendez-vous télévisé reporté à cause d’Emmanuel Macron",
-  "summary": "",
-  "published": "2026-09-21T09:00+02:00",
-  "mentions": [
-   "philippe"
-  ]
- },
- {
-  "id": "2bd18376596bd01a",
-  "outlet": "l'Opinion",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRVpqdWhHVmdRYWRZM21HNmZfVnBpVzJiRjR5V0RKa0t0Y0VQeXI5TnFCcDJKQk9fNXVSYXlBYlJQZC0yS2FCV0dDSjNlVEdDaXQxcm5OVlJMNFBTZFFBT2ZQeGZGalUxY2w1U1UxMWlVWkI4NnZnR2RVaDdyTFFiU0VBakN0bC1mTEpLYm93LWdYOGFmQk5QOTBULXI3UQ?oc=5",
-  "title": "« Le stagiaire » : les coulisses du bras de fer entre Ségolène Royal et Raphaël Glucksmann",
-  "summary": "",
-  "published": "2026-09-21T09:00+02:00",
-  "mentions": [
-   "glucksmann"
-  ]
- },
- {
-  "id": "f03cc4a9d9509d1d",
-  "outlet": "Public Sénat",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNVEN1anJFYkJQWUFmejhVMFpGVjktckp2b3ZrbGpVV21fV185dVY2SVNHZXFiU2czUnNWLUwxLXAzSWE2RHg4ZGpCUjBCeUNkYWhQQWtXcmhMT3RDdERQUkNxMkdjRUkyb2JqOTczQ2Q4QUZmNEVwU2d4eWNkODBmcGMxZU5qd3RsSndnNV90eklnZnJsM1dWU3V5QjJoYjdPMVNvRzkwQk9UZElGeG8yeDYwUkNNeXIxMmNObVJpVG95THliRDRsaGpPcFgtSkNEZnZRYk5nLWY?oc=5",
-  "title": "Glucksmann qualifié de « stagiaire » par Ségolène Royal : la primaire est-elle une machine à perdre ?",
-  "summary": "",
-  "published": "2026-09-21T09:00+02:00",
-  "mentions": [
-   "glucksmann"
-  ]
- },
- {
-  "id": "f83cbabb2d7c3155",
-  "outlet": "Le Figaro",
-  "lean": "droite",
-  "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNWE5fcjViYzVDOVJQdFJzRHpSZGxKamNGazEtdHNNRGN5d1Q2YzVuR0dHUGxHd1Z5MWFsbWdLQV9FVF9PWkJKT0tOc1hBUk9WNzgyamZqNDJjQmR0Nmt0V29NbHowcl90dksyTlMxSHU3WDdYYlZBRElYWERqRWhxRzZMdnpGbG9nb19VbmhGNVF0SEJWa0N1TkpEOVNCc3B5OGNEanJOMUpZbDZkMHVzRVJfb3pObzZNdl9DRGRoUkdrZ2w2MHdNY3BaRng3NlJSYlRFeGdrN0xIVVl3WVNZVjJCT1VEczgwQXY5eFl0QjlfaUFpLVA3TTVSNG1yWE8yX3NURVlyUjNzNks5dGhwMWVrWTdyWHd4WXJxdEtJSktjSklfbmc?oc=5",
-  "title": "«Je n’ai pas quémandé des postes depuis 45 ans, moi » : traité de «stagiaire», Raphaël Glucksmann répond à Ségolène Royal",
-  "summary": "",
-  "published": "2026-09-21T09:00+02:00",
-  "mentions": [
-   "glucksmann"
-  ]
- },
- {
-  "id": "893b9a67f2119b41",
-  "outlet": "Le Monde.fr",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxQakxfdWVFRXhvSk54NTBjR1BpYy11TE9KNF9QdnQ0MmxpbndoTGFfdDc3eHRnYXR3MlhObGZCdWZuYUlPd0VWWVFISFZCNU9DUGtCR1RBQWVYUVFTOG5SLXFySEpsSFJSVTd3Q09VS1ZGdWVCUXJ6S2hBWlhzZGRLaWFpTHdsN0hEYXd6SlYyd0dLMzlRaUtheTFzdGg4dEF3OEtKQjVrcnI0eG02ZGtWdnRvbEhFNDhFb0pFa2pCVDEwcWdKUHRselUyNjFXNzA2SF96WGZPUjJEbjdQbzlxaUQxc1RLMXY4ZGJNbTRmQWNSZlJKaXhRN3dGanhpRURTalQydUZKYmh6YjVSOFJoVFAxN3NnYU9KbmNtMFZhLW1idFJRTS1XY2d2SlIwQ3JY?oc=5",
-  "title": "Primaire à gauche : Raphaël Glucksmann, traité de « stagiaire » par Ségolène Royal, la renvoie à des postes « quémandés pendant quarante-cinq ans »",
-  "summary": "",
-  "published": "2026-09-21T09:00+02:00",
-  "mentions": [
-   "glucksmann"
-  ]
- },
- {
-  "id": "d83d370956023d2d",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNT3lJNzFjZ2RodkZpU0xiaDZDeWo4NXR5RWZCcTJVV2Q3dllTVW1pN3RIeFN3cWhsOUpwMHk1eUxrblUtM3dBMi0xYk9KOHAyeWJpX0w4bDE3cV8xYnhVWnZ3ZVVpMTM3bXJYeVJEbFdNV2tOTjdvYXdyTjdleThmQ3RPb3ZWbmNZZU9iYlZidVd0NVdMdFlpdlNCQkFWT1lFSFMtd3VORGFKMUFmVVFlU2xzU3FKNTBnMXFCbFhBbDU1VjFkTEU2MEF1bG1IUWhlRTRSRnU2aTFuZHo3MFBpNjloU3VNNjhlX0tfc1kwLVNDZkJHQkI3LTJhYmhKQldacmNURzlPNG9wcFdOTWplejlSY2VUd1dYOHhRWUpCaFYzQTB4OTZlVlRJbkp2NTFSVXc?oc=5",
-  "title": "\"Je n'ai pas quémandé des postes depuis 45 ans\": Raphaël Glucksmann répond à Ségolène Royal qui l'a qualifié de \"stagiaire en politique\"",
-  "summary": "",
-  "published": "2026-09-21T09:00+02:00",
-  "mentions": [
-   "glucksmann"
-  ]
- },
- {
-  "id": "d00c1f13e68abc11",
-  "outlet": "Ouest-France",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNNnVxVFRoNTRXc2lTWFl6SlBHZGFoWFJJZE9LZW1zejNEdy12Q1RHN0RBTGtBVGQyRE1tbUhzeGpBVm5UczVOV3ZRMWoxcGxmQmtsdTB0UDZhQWZFODNmang3VE5QREF1TGdaam0xTUUtVENhaVBDUWZ0RXVDcW5RSGsxR2hhV2VJRDAycXhkcEhwcHBkZnJmcEI1MGFNWUE3VTZtX0h4RXJ5a250Wko5dS1HZ2k0YlViM19wNmJYQnlySXh0NlJENEFNR0x1TmRUSmxpRzgtemlVNlFHcmhMN3dYdC1XTlBXSHZHM3QtcFpFOXpHT0x2Y0dJZnQ2MGY3eGtmaXk3YnQ0bUROb1lqYUE0clVLWU9LWWx0anZZM1plZlRPdlp3X2Zwb1hkdw?oc=5",
-  "title": "Primaire à gauche : comparé à un « stagiaire » par Ségolène Royal, Raphaël Glucksmann lui répond sèchement",
-  "summary": "",
-  "published": "2026-09-21T09:00+02:00",
-  "mentions": [
-   "glucksmann"
-  ]
- },
- {
-  "id": "e8d0f53f6c9cbd58",
-  "outlet": "Le HuffPost",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNekp2QVFteUk2Tm9EZjJvNDl6R09yZHNSdHJLY2h4MUlOb0RBbGdrWmZkbTFEV3Q3dHo2blB0SUliOG5lSER4RzdHNVkyMGw1UW9XZHROUXRNSTJqbk44anVIaTlxSDJEdTNHc0xMU1JrUWo0aFluQTAyWVhZWUVXOFhiek9fV1JyalRVWHQ1X3doWTVxdmtSWnJralI4WDZXbHZXck1seDFIYnl4ZnRPQmkwdGRUbGZNV21HcGhMTXM4SWhiVXhSY0R3LVV2ei1MYTdzUTI2RVB2RTFNbWU2X3h2UERHQUdINVdOYzBmWmNDdVU2OWRvNF9n?oc=5",
-  "title": "Raphaël Glucksmann n’est pas le seul à s’indigner que Ségolène Royal l’ait traité de « stagiaire »",
-  "summary": "",
-  "published": "2026-09-21T09:00+02:00",
-  "mentions": [
-   "glucksmann"
-  ]
- },
- {
-  "id": "6be059adf5185737",
-  "outlet": "Orange Actualités",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOVVlDYURJUEk1TXhRekZVV0ZyY2dCWnFqMk9Ic2JybGxveWRZMkhIZGlzcW00aWdadWk5TEpuTDRWOVNOaGQ4UjlsUURBbnkyN2dkUlJ6cUJLYnljZEU1OFN4ZWJyTjQ2S2l5YWg0VTNjcTRCNF9ySl9DNGY3SXZzMVNVLUl5dFlsb0lYMXhwcUltMl9haVRjdm9NdUdIdVdOaW1wLV85SkVpUlZLeFlLT1hzQmpnQkItNEhzaXhWU243V09jdjFodWpIbjJMZU1Bd3ZrZmNKRk5mVk9SVS0tOFFTaTRqS1JBZnQw?oc=5",
-  "title": "Présidentielle 2027 : traité de \"stagiaire\" par Ségolène Royal, Raphaël Glucksmann répond à l'attaque",
-  "summary": "",
-  "published": "2026-09-21T09:00+02:00",
-  "mentions": [
-   "glucksmann"
-  ]
- },
- {
-  "id": "9fd8794975f836b3",
-  "outlet": "TF1 Info",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxOT01OV0k1dlJtalB4TkUwRGNEZVJhOEFyWXROQ0llM2l4VWNIX2tzVWtTdjZsVHRDT3lsVkhFUkZBbDZBUnp6QnpLOHlZb1F2RzBpZEUtbTlsVFN1TXBOUS1QR2JvS1NXallpdlhleW9lMEhoUHpocHBTTEZLbHBoQUxQTzJNUDdURVV2R2tIZzlGaWJOclgwbjVzdUFvQjlGMW4zbHVudDlUejVlcFJ6SnV1UDRsT0laN2I2VUxGakRqbURqdFN5bHRRZmpLT2cxTjNSdWhteWR3VlVtWW8tbUpycjRxT0ZZRnVFU3hwV011MllzY1BCLTBDVHNvSTlGRUtDdnZBVkRiOVB6aV9PZzBXM2lpbm00bjBpYVQzaHZqN0xFUmVmSnB0R3VsZ3FjWV93a2lRYmc?oc=5",
-  "title": "Présidentielle 2027 : \"Stagiaire\", \"postes quémandés\"... Glucksmann et Royal s'écharpent, la commission de la primaire intervient",
-  "summary": "",
-  "published": "2026-09-21T09:00+02:00",
-  "mentions": [
-   "glucksmann"
-  ]
- },
- {
-  "id": "2bd6e6c8619e8425",
-  "outlet": "franceinfo",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbzVub0gtMm1XS2k3VUpFcDhrbWRYS1hRTExmNzRBU0JjUHZ0N3NrVklyZXlqTmZwMC1NM1kzVjdTV2N0VnhRRjI5cGh1cS0tODVnY3ZtaEZ6LWQ1T0R2QVNJVGRKN1FldUo5SDRHdzZBM2U2UnpsSmVMYkVCYUZNSWtQMGlXazNrcVlQTzduNFlhTnI3dUlzMkMzc1lDYmpSLTJFY012cEFfcUlabjJ5QUltS0puVGtGd0VyWGdJUjFhVWpxakYxeDVodk15SFV2bEZTNlhsMDg?oc=5",
-  "title": "Raphaël Glucksmann : \"Mme Royal ne gagnera absolument pas cette primaire\"",
-  "summary": "",
-  "published": "2026-09-21T09:00+02:00",
-  "mentions": [
-   "glucksmann"
-  ]
- },
- {
-  "id": "0bf372560274481a",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxOOEY1bHhDLVc4WGo1ZkhxQnpWQ2Jrd3hrNjhja0p5b0htLXQycVRfVzhQczZibE1BWklFUngzQkY4ZmhtSE1xdURtWll0cWhMcUVsaUNyS1NDenZvYVdieDNBMk5fM25nWUxjMFFLdzA2amRwdV9TMnNFQnJST3VicHkxNDNUWUdhYmJiMDQ0dHBubV9VV0dOYmxhSzhVa0M4NkZ5QXNPN2tYTWVOTW9aak9KTHR6SkcxeUtKM1RfLXBOSGRJVlFkRjd2V05NaUVQaGRjZDlBMUVsVVVKNk1TWERoTXNEejI5bVJaUnBNYVYweG9PUXlEZktiYVAzcUlUenBsWXBIMXJJcTJHVlhldkZ1YTFjVDBlY0djMm45OS1EdFVXcnFhM1NoXzhwcVNnSFB5VG9xWHNRX0tHY05NNnc3MTNhQzFMOHdkY3ZOZlFSWXZNanc?oc=5",
-  "title": "\"Un stagiaire en politique\": Ségolène Royal rappelée à l’ordre par la commission d'organisation de la primaire à gauche après son tacle contre Raphaël Glucksmann",
-  "summary": "",
-  "published": "2026-09-21T09:00+02:00",
-  "mentions": [
-   "glucksmann"
-  ]
- },
- {
-  "id": "d366cf097e14a63b",
-  "outlet": "Le Figaro",
-  "lean": "droite",
-  "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPN0NXWGgxNWwzeDBsc3V0VTF2MFVOTC1URkp2T05XMlQ3RkZGNkdWZDltWDVLaXJ3eWRubU9QVDJrSTRPUGZtYl96WjRHNG5TZ1NLeUlPYmNhU2ptUEpBdUVkNkZBd3Z3UFQ0aE9SRDZGVlJYY0tqbEJjZGRteDFXZ3pLbUNxejlZVVdOcUJjS3pES29BSVJkX1hwQklBMFBkSjQ1WVNlWEUxRG5FckJTUEZpWHFoM0VLZ3g5Wmd0Rzk4LVJCb2xneU5uT1R5WExUdXg1Mg?oc=5",
-  "title": "Raphaël Glucksmann, le «stagiaire» : Ségolène Royal électrise la primaire socialiste",
-  "summary": "",
-  "published": "2026-09-21T09:00+02:00",
-  "mentions": [
-   "glucksmann"
-  ]
- },
- {
-  "id": "caea36f188859c63",
-  "outlet": "RTL",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPaXVaRlNnRm5RWUIzMkVjOGFWYk9ndGRSY2xqTTFXSEFJcV9adzUxemVKUXdNSUp6YmtsdnFXOFNYWXJ1cmFTXzYyVUxKSzdWaXpOSnpVQ0FvSXdQNm5CbURDOTNtZGJ3NzFvMm9ZbTJyb0FpNElNZ0VULXNkbXBtdEl1T2pwbThwV3hqNjZiaUd1WEFUS3hpQTlhS29YbG43b2RsSU50bS1CekJqS1otMnotXzdrRVhGRThodjBYSzFaektVZk90TGdBTGdWTDJRc1Z1bGln?oc=5",
-  "title": "Comparé à un \"stagiaire\" par Ségolène Royal, Raphaël Glucksmann la renvoie à ses postes \"quémandés\"",
-  "summary": "",
-  "published": "2026-09-21T09:00+02:00",
-  "mentions": [
-   "glucksmann"
-  ]
- },
- {
-  "id": "2007f866a80b8241",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNTURSX0treGpPVjR1M182QlhWd05TUGM4ajhDTmpVN0kwcFlfdzI3ZnpFWV9ZQXBIQ19yM2x3QnNKU1RvUlMzRXlIVGxjY1VBOGtQM1p3RmpJYm51VW5JV245NW9FcEEwX1JoVEM3SEFsc0Ryazh5eVlIbWNNWDVTbTJXQnJNekh0b0VvOGNZeVF0UWZYVXhTaUlITVFDQU5qUWhibG1ubU0yYWItYmlRbzdvV2VYN2c5WVExdjJMZUZmVlJidnl6ZlQxUWFYN1k0cGdOZjFVdjJzZy1pZ0l0b2lWUnRKUQ?oc=5",
-  "title": "L'EFFET GRABLY - Primaire à gauche: Raphaël Glucksmann et Ségolène Royal, un duel de longue date",
-  "summary": "",
-  "published": "2026-09-21T09:00+02:00",
-  "mentions": [
-   "glucksmann"
-  ]
- },
- {
-  "id": "4122eecbb1b7aa16",
-  "outlet": "RMC",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPMjBPakxnLThiRlh4WWZFN2NYN0ZQZHJ3dDc0cG52ZjNlZ2lVLUNxVmpSX3EwNmcwenJCS1g2dTdrTUVaRHRHbkRoZDFqbkpiU1pZckhBQ3dnbUFGY2JhOXRaQmEtbXJJOTh3WUJRY21JUXh0Y3NWckx0VklCWFNvOEI4a1dadkl5NmNtU3NENkw1RnhjaUl5Vi1MV20xRDc1U1VPZm1BakNSWVhJQ0VuVF9EOU9BVm9SaVFWYUdmamZvYmZhazcwbnNfenYyZ0tFRVZpanZnSXpyR0RGWmZKYTBuUWNFdHg5V3VyVktaeXRiQWJDVzZ4a0w1MDEzQzdCWDhPWE1TUDFKckhFVmgxRHoxVDZTMzRMNS1zT1dSYnE?oc=5",
-  "title": "Ségolène Royal allume \"le stagiaire\" Raphaël Glucksmann: \"C’est une grenade dégoupillée, le PS sait qu'elle est un danger\"",
-  "summary": "",
-  "published": "2026-09-21T09:00+02:00",
-  "mentions": [
-   "glucksmann"
-  ]
- },
- {
-  "id": "cf0eb82882ce357c",
-  "outlet": "Libération",
-  "lean": "centre-gauche",
-  "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNNFVzUG5tMjlQZ2ZsWTZvMUM4Y2YxUTlVNjNIeXJxcG8zaDBnQmdJelRvSjlHa09NTjl5ZExhclB5UTk4M0NoYWVVTDg5MWhsUkM3ZEdXQmdpN05IdkFRdmJERzZwcUsxZ2NnZkpzZi1nQUxuaHkzQV9feEJSOHpUSmxtM19NSTB3ajhiUWlQdFpHMW1vWVFpNkFlbk56TVcyWDN0RUZFQjctMkRjbzBxRnRSZlZSQTE3cU9qZmIxYlNxdnFnaWhpdzk0anZqUXZKVVVDb3dneVhiNUlyN2NSTDVmd09MLXZ4R0FfZmdZcjd5MW9UTVdoTEJEdEVkTm5WcE8wNWY0MnBKc1ZYY3p5ODkybUNZZ0hpYVU0eFFFajdnZjNnaWpfVGRBWm13LXM?oc=5",
-  "title": "La riposte de Raphaël Glucksmann à Ségolène Royal qui le relègue au rang de «stagiaire» : «Moi je ne quémande pas des postes depuis 45 ans»",
-  "summary": "",
-  "published": "2026-09-21T09:00+02:00",
-  "mentions": [
-   "glucksmann"
-  ]
- },
- {
-  "id": "f4cb5ddbb31e46de",
-  "outlet": "Mediacités",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbHRhVWp5SzFyekJUOC15a1pMREowNXZZT1JoMjVxZVBYa3M5cDlSYjNGYkZScHZUSmdGUWM2eG1DQ0o4MFFwY3V1Zl8zbFk1R0ZhQXFGWEFzb3BYT1c1cTMwNVNUVzVoZmRVWG9EcjJScl9aT3hNQnkwZk43blY4MzkteHFMVnJqUDNjWWxrMUlzZzFJWGJnVjZ0UkdGbkpBVlZVS1d1N0NtalhERFJ4d2Zkd3AzWVlTbEZfZWJXVQ?oc=5",
-  "title": "À Bram, Raphaël Glucksmann se fait adouber par la « gauche cassoulet »",
-  "summary": "",
-  "published": "2026-09-21T09:00+02:00",
-  "mentions": [
-   "glucksmann"
-  ]
- },
- {
-  "id": "d1901288bea0ab3b",
-  "outlet": "Europe 1",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTzUyTjVPOGhkbmlOZHQ2VjYzcjZGWEdLaXlrUDh0dE9aTDMzSGVNR2ltY0dZLWNYRDJwUVNIR1BMRHJuaml3N3BOc1VYQnB6emZZeUtaa25JZ0dWS2Q1LVpseXRReFVZbDJwLXBqOEF1Y3ZnVHhkYkx3OWxQdnJqVzFSRG9IMDRnb1RpUnNzdlhtRFh3UUJOQnpBZGtXTFRsWVVLN3lRcUJ5RV95VXNNTU9vdUZOLV9MMW85dkNaa1FaRTk4OXfSAcsBQVVfeXFMUFBhVmEtRVVXQzk0d3oxeUs3ZmQxZUxiUVByQ1dIeTJ0ZkF2YXgwWGIyNjdPWDVkeU5RcWpsVmFEdjVTQThMTGFleUtYaUVvdHM4RUNtNUYxcDIzZHhXQmt4bUlvTGdyYTJQekYzVVN1bmJsMnlZMEZOU0RNLXJodEVReWJpU2JoTkdCYy04b29ZWElJUEFJSlZoNTAtWEFoVGwzdmQ2QlFlcHpTZGE3WFpjTjJ1ekhVWUl2VnhZUndoMUpxRGtIa1dFMEE?oc=5",
-  "title": "Primaire socialiste : les esprits s'échauffent entre Ségolène Royal et Raphaël Glucksmann",
-  "summary": "",
-  "published": "2026-09-21T09:00+02:00",
-  "mentions": [
-   "glucksmann"
-  ]
- },
- {
-  "id": "fc45af568665ebfe",
-  "outlet": "Midi Libre",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxPWXFIWXVLSEg4WHUzckYxa01hTk16Q1JjUkcwbVFYU1hQbU5XNkoxYkdHYWE2QkRaMUlNQzg5V0NNRElpbzdrY1hSOUM4bmxIX3VlWW5YTy1pVEFmbURvcHJqZENXek5lQl9jZ1hzZVE0OGItSjNCcEt5cU14ODQ0SllTYnlvRGJua3ZFZExQQlFmbnZuS1c0Uzdma2ZjVi1iT21IZThHY2JwMHFJN2RQbEhTeWJaREF1TldPYVQ2TE9kVS1LR25VYjFualRpbnVfRTJwRjRibHpwWHRXWjFqeFFtSjQ1Nm1vcnRMWTI5VTZoUWlhNVMzbWJVeUh1LTh5NDBKeW5wSlNGYzFoMDZuczIzZHJLeF9CQlUtbk13?oc=5",
-  "title": "Présidentielle 2027 : \"Je n’ai pas quémandé des postes depuis 45 ans\"… Raphaël Glucksmann recadre Ségolène Royal après s’être fait traiter de \"stagiaire\"",
-  "summary": "",
-  "published": "2026-09-21T09:00+02:00",
-  "mentions": [
-   "glucksmann"
-  ]
- },
- {
-  "id": "dcd8676ea3ef5e6b",
-  "outlet": "franceinfo",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOQ2w2SXZaSDdubVVDbXB0V0MzaTNya2h0bVNkaW12Z2o1QUJ4T1dsMVp6Z3djM0dPUzEtYUxmVy1xSHNXMVNGZ1ZiNkJnak5taDc3TXhYdWJnbzRDY0Fqb0Flbi1XcGlMYTF3U2NTU2ticVJZVTdYa2JndENMZlhmVkpjWEtUSWlDRXJ0YjlFUmZkV2dFS1hEczVQbnVON1g3RGtKalJnYU1IU3RObVNRQjc2NzZHTmNkeld3cDZ1UkwyZ2Q3UGFqbzJpTXBUQ0RyRzdxVllwM0tqS2JBNVV1OXMzMFdLajFNYi1zVC1OVG1vQnNwRmpmVjJaV21jZGRHb3ZWVmhLbzROYXNpaUZoZ2U5S2dQVHlf?oc=5",
-  "title": "\"Ce type d'attaque avilit l'ensemble de la classe politique\", répond Raphaël Glucksmann, qualifié de \"stagiaire\" par Ségolène Royal",
-  "summary": "",
-  "published": "2026-09-21T09:00+02:00",
-  "mentions": [
-   "glucksmann"
-  ]
- },
- {
-  "id": "694115c636dcde2e",
-  "outlet": "20 Minutes",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPbHdmNmVDZGxyT3NrTjMzNEgwVGtGNGlOWTNRUU94UXFvaU5NODJsSmdWQzBwS2ZDcXFSZlZGQS1IWHFxY3hFTHhsWllMSEdEdzZVT3ZuQkV0S1B1QUhBQlVWRnhYSWE4R3dSb194UFBxOEhwdlZveXRlMmtESENZSFVKTnBtdVpOeW5sd0s4MC12ZlRReTdFOTBlQml5TnhNSHY0NHF0RVN1d1NWeXZIM3dQZkVQLVRWR1hJU3dqWDNMMlh3STlrYl9mUmNOSTFvaUpsMFVfUk9sTWJk?oc=5",
-  "title": "Raphaël Glucksmann rappelle à Ségolène Royal sa période « Reine des neiges »",
-  "summary": "",
-  "published": "2026-09-21T09:00+02:00",
-  "mentions": [
-   "glucksmann"
-  ]
- },
- {
-  "id": "b634b632f3dfdd59",
-  "outlet": "Midi Libre",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPMllmYzhVVkRiMkZmVGk0SUk2Z3c2Y3FtTmQzVWN0NzdGN1FSbkE3ci1kT2xaejJLX0NtTXRheThUR2hTRG1qVU1xVjlMTFJEQXd0S1NhQTZOTmREQ19TNW5Vbld1b0p0MnhlUkZIMTQ4WU5ucXE1OXNZSUNsSFl0MGFGNzlheGV2ZmZLZk5EU0FUVmdDYW1GRG1QTjJhb1NJYnh6T3FJMDQ0NTBZRXh4QkNHNzBTamY2b25vckZQVDR0dGVFNVkyck9RcTBTWXVyN3JZWGlncEp1TkRjQnBuSDV4OVdnMXpkMG9BemtaTmxlMzRGcHVCV3oxXzFtQUhkQWhkNA?oc=5",
-  "title": "Présidentielle 2027 : Ségolène Royal compare Raphaël Glucksmann à un \"stagiaire\", elle se fait reprocher son manque de \"camaraderie\"",
-  "summary": "",
-  "published": "2026-09-21T09:00+02:00",
-  "mentions": [
-   "glucksmann"
-  ]
- },
- {
-  "id": "0e3a4ce3539e5c50",
-  "outlet": "lejdd.fr",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQaWpsbTlNdWtKUXh2WDJndTFHeEZMMkZHYVBSRkxQWFNXU1ZlZEFVblp5QlhRU2xUQ1FjQjVTU183Q0Q5XzVTT04yRDBIUXBYMGhxX2xDMVJ5eTlLaWhTMVJfOXBfdUltYmZLV2t2YUpMbGxPYnJubTNnMkxDOWg1UVdadzhyYTZHTlk3UWo3cFNSV1ZVY2dUVFl6QkNEajJpSnBXUXpuMl95UDE1SGhBazVWSG56Zi16azdxdmlMVExyRGpqQzVvQlVVMmhjTUk5MlBqVnB5QVlnd2lCZjRaTTNxWDJCU09xSmlkMnR3?oc=5",
-  "title": "Présidentielle : Ségolène Royal raille la candidature de Raphaël Glucksmann",
-  "summary": "",
-  "published": "2026-09-21T09:00+02:00",
-  "mentions": [
-   "glucksmann"
-  ]
- },
- {
-  "id": "6d86283fb8122243",
-  "outlet": "Sud Ouest",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxOQTRzdC1aUDI5Rk9DYVllUkQ4alBxT1lkeVpfbS11VWNkYW5EbTVXaFl4X05KSVlrc1M1QUxlbjhQUHVTSlh1RGxQemVQMHROS2xFanBDN1RSWHdjTWhuSkZPVm1Hd2I0TUlDa2hidTAwRWxyUTRaeW11eXNkV2dqdnZMaXF4RjdyWXNuX1g0aFJnUHNsQlhZWVNxdk5pTExRT3JJUDFMZEZOa2ZRdmtHYmxDNVNUSnpiZWpDNTBTcGdMSkhSTzZ3Q1lhZ1lBZHhLeWZicGk0N2FFaUNBZGhBaDBLLWVwcjliYkFpN2Q1MXdKbVBMdkRRNElCelpreEczblh3TTdSN1l5eDZKa3RxU3VkeUM4UzRodl9pbTZEdGpDeHlrNURDcTR1c0FJZThmUmJSa1pHeThIVEJvMXpEaHVjTjNPRjVW?oc=5",
-  "title": "Présidentielle 2027. « Le meilleur programme, avec des propositions étayées » : dans le Lot-et-Garonne, le soutien au candidat Glucksmann se structure avant la primaire",
-  "summary": "",
-  "published": "2026-09-21T09:00+02:00",
-  "mentions": [
-   "glucksmann"
-  ]
- },
- {
-  "id": "53ad6b7d728afe8d",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPN2JnY1poYnVuREo0aWtuNVVQV2U3akhlbGRBQy1zaGlzXzRnOEdaTWlpTW43NHZLMmQ0Vzd4eXlVZ0Ryalh6eUwyR2wxUjJUc2NtY3YzeGE5ZFdWeDJzbF95VlhsSGZWY2Iyd3hMVWg5dTBFdVo2Ujh6a2JLQzdCRUZQdUhQVFhPZmR2UXJPcXZrMDBkYXpwVTR6RW5pMnl0WFQzeEsxMVpma1VwMFVnQzZXMnFDR09adG1FUGlWUU1tSEJRMG94S3lnejVOajJTS2M0SFJHeHpwZmNsclN6eHhjZWRqbHZ1UkMyVFpqZ3BPeWlFMjhUd013?oc=5",
-  "title": "Carburants: selon Gabriel Attal, baisser les taxes n'est \"pas possible, ni souhaitable\"",
-  "summary": "",
-  "published": "2026-09-21T09:00+02:00",
-  "mentions": [
-   "attal"
-  ]
- },
- {
-  "id": "dedf6587108f7e8c",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPS0I1S1R2OXg2UlNqVHBCdVpKbmFkOHpCWFV5ZzNoaU92T19uZmQ5Smhxak53NFNsRDFiWnByaHpOTm10d2Nzaml0QUpqSGRvU1RZU0g4eDh1c3RUMTBBMUZfdkhBX19wYUt4NkVyWHRicGhpVlU3YzVhWkp4OXp5S2xLdGQ1TlNXemlRYzVscDJOMjFBQXBXZTkxMll1VHZNQ0dBcXZGckxVTWZXOHpMTXFXSEVmX3NTRUYwQkxOU0d3RTNtNjMwT3c2S3EyamhfYmZvYWMybjhqeldHUXQ5RUFtNTJReEhXQzNzZGlWWmd0X29zeUZJV0JOZEJTUDhxeVRPdldBNjVzQQ?oc=5",
-  "title": "\"Ni possible, ni souhaitable\": Gabriel Attal pas favorable à une baisse des taxes sur le carburant",
-  "summary": "",
-  "published": "2026-09-21T09:00+02:00",
-  "mentions": [
-   "attal"
-  ]
- },
- {
-  "id": "b48878f1b3671227",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPT0FmbXZqUUx2VkFtRURGM1JULXVDRkNUUGtobDA4cXczQ0RtVVpEdHN3cmoxd0Ixc1AyVDNRZkMwZ2c2Q2dvTEtnNHhINkhINEJpY1ZxR3ZwSVpjd1AwdnBmSU43bkZHbmJzZDZEWFBTVHF4QWdvMU1xV1Z6azFURl9WSmlkQXVaTkJrbVVXSGtfYmtubXU2RzVfWjJnQ0lWaVpEZngzTnphbUZUR2JzVEh0amxEREFaSUstbUdXbmx2VmVoNFQ4YlFmck4xenZfTGF4aGNDMDNKSVNySi1HaGFTTW1fN0NQRlJBeU1SWFlGMkxRMVo5MDZPV1V3RkVkNDR6a29mV1ctU0FWMTNzeDh1Y2xFWjBtTlYwZGE5QWZGbkxFLUFuSURTd0RUM0NH?oc=5",
-  "title": "Menace russe: \"Tous les pays réhaussent leur vigilance\", déclare Gabriel Attal, candidat (Renaissance) à l'élection présidentielle",
-  "summary": "",
-  "published": "2026-09-21T09:00+02:00",
-  "mentions": [
-   "attal"
-  ]
- },
- {
-  "id": "76c3bed916cbb77d",
-  "outlet": "l'Opinion",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE84V0FLRUNrMG55Sjk1OVVFQ09QeEJkMU4tcU5nUThwYnpnYjhTYVNNRGlVMm5QcjVqUERldnVySXVRY253aEFxWEdfYW5mMV9qOFNpQ2lRWmJvZGVaR2plQ25tWWhUZF84NURCUEZvRTRzY0gzVkFjOWRPOA?oc=5",
-  "title": "Présidentielle : Zemmour vote Mélenchon",
-  "summary": "",
-  "published": "2026-09-21T09:00+02:00",
-  "mentions": [
-   "melenchon",
-   "zemmour"
-  ]
- },
- {
-  "id": "fa9894d9d41b273c",
-  "outlet": "Le Dauphiné Libéré",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVlFQX3FfOWsxTE1nWlRlTWJwcnVxY3JaU2EzZEp0YzdYdU5hN0dyOXdYUy1TckdCWlYxbUtqMjhtOHdURXpoWFFpakdFTDNRTHM3RWd0U2VzS1luVjN6dUl1UE04bVNqb3BXOHpjRHh4OXViQXdOOFBOdjR2SkZub0J6ZWwwMGxlRHBhZWJHS1h0UGJtTTRjZ3VieGVmNnV6OGxjV3JmTmJIYjI5Z1VxN01lTkJISzk2QXlCS0I2emZRZVp0bEdJNVY2azh2QjFuS2c?oc=5",
-  "title": "« Des robots à la place des immigrés » : pourquoi la proposition d’Éric Zemmour est irréaliste",
-  "summary": "",
-  "published": "2026-09-21T09:00+02:00",
-  "mentions": [
-   "zemmour"
-  ]
- },
- {
-  "id": "6e3b1fc42b0ce2e0",
-  "outlet": "Nice-Matin",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxOX2djVWU4Z3NYVnVlUjRXeXJTZFU2OEVPT0pISDVjU1lFaDRjeS1XbnpJM1NSMTZKUGVyUDRtX1hoSkRmU1hTX1poOU5vU3BKeGwtZVVzTTAyVWlQN1JVWE1SdXJ3N2c5SzY4dWxfVUlqbVVOUTJfVEFmSE92SHhPNVRPQ01BTDhLMmFJLWFrc2tkTFJWcnN3b0piaUtwRGFLZ2ZFWnBBZjVGdElYWnpPWll4Z19sVk1NQmQ5X1pMNThGVnNVYnVNcTNNVVMyNFh0X3daSXVBbngybTJCSnQtU05Kc2tXbTNqcy1YRjg4M3h6Y1dxc2JPZFUwUXpXd0U0YVNoYkhhSk9lTlczTUFWbWZXMlROS1JZM2hSa0lnUFM0NXBiTndSdXg2RFRqLUp4NklucEY3ZEtWa0lVRzF3RDN2N0g1WEVxd0xUQWMtMWNnTDA3TlpmWVByYVlESGtpbW5tVV9B?oc=5",
-  "title": "« Une identité et un savoir-faire à préserver », « triste réalité de la bureaucratie » : le maire de Cannes David Lisnard et la députée Alexandra Martin réagissent au blocage du Vieux-Port par les pêcheurs",
-  "summary": "",
-  "published": "2026-09-21T09:00+02:00",
-  "mentions": [
-   "lisnard"
-  ]
- },
- {
-  "id": "be9b60bdbad4eaac",
-  "outlet": "Facebook",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPd1NXV2RodkFFYkVBYzM1aW0zYlZLOXhlMDZUaC1maDRHaXFNclR5WmFncDFiQlZkMmF3UGRJTFlpcjFPc1E5eERQZmhGWjNhd1ZJQzdkUTMtTlp4OVNQcUNaeU9ua05sZEs0R0dBU21aTEpUeUxsVC1zdG5sTFlmV0NvM0dBUW8zM3hoOWVKNkprUV8tSnpxMng5RkJ4Zw?oc=5",
-  "title": "France Inter. . Au sujet de la guerre entre l'Ukraine et la Russie, Fabien Roussel, secrétaire national du PCF et candidat à l'élection présidentielle, met en cause les choix diplomatiques de la France et de l’Union européenne : \"Je demande à ce que l'on s'interr",
+  "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUmpLV1UyS1JVVlgxNXZBZ3NnMDNUX3l0c3FnZkNNa0pscXNIb0VsQzI0NXlQMGJEY00zWmN4Skx5bTBERGZGb2FxTFk0TmdkdzF6R1hjNjN1bHVwTnpNNE5SMnNsV0xJUkMybjJwVWh4RDd1cDI4cXp2WU1paWdQTFEyYXItaGhNaFI4bHF0eUFpTjI2NFQ4SGNfWTh5aExZc2dSemV3RkVsd0JUUjNxbXpCb0FwbV9MSUs3RnlSYlNQam8zNUpSWU5OY3BjOVFsX28zU01n?oc=5",
+  "title": "Prix des carburants : Fabien Roussel (PCF) dénonce un \"racket sur l'essence\" sur l'autoroute A1",
   "summary": "",
   "published": "2026-09-21T09:00+02:00",
   "mentions": [
    "roussel"
-  ]
- },
- {
-  "id": "489254fb6c538f09",
-  "outlet": "l'Opinion",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWFpIZC1VdFdZcXJLQ3hfTlNoS2FEd29MZ2lCdk1DbTQ4U1VaOVhUX2F3ZzdJZE83QXhnQ2FWdDZILTVzZlNtMFhGR2ctQmNVTldPOE9FZkZfcGh1OEFqNTFwcWhvZXhZa1dTaG0yTktRbUxwZDF6T0p1NzVETXEtSkRrQ1VkMTYwNXlZelVvYzB3Y0Z1cUdvU0lYdE1tWVFTZ0ljQTB0SmZhakdfanM4OHdqMzVTbUZJU1NWaVRtODhkNGF3X3IxdE9NZC0wek5nTldDcFhxTTFCZw?oc=5",
-  "title": "Fabien Roussel assume de comparer le patron de TotalEnergies à un collaborationniste nazi",
-  "summary": "",
-  "published": "2026-09-21T09:00+02:00",
-  "mentions": [
-   "roussel"
-  ]
- },
- {
-  "id": "2764167494d752c8",
-  "outlet": "Libération",
-  "lean": "centre-gauche",
-  "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQTHp2djYtTkduQVVlV09TTjA3ejRhS09xV3Y0MjY3eGh0ZXFKQ1I1RWh3UzVXdV9xQ1hrRDlVbl9tS0FHZElzY2RvMFhsQURXbmJ6Q3A0RGFLWXFwSW9QMzZFVllXN2E2d1BrdzJoSXExUUxfVXBMMjBqcjZNQmFVdVV4NnlBc2J3VnhkbHZxZFFpMWdTWWV3ZmhxY1d4cEppdlBUNEhucEpqWUMxWmNEM2dNX1l2NW16YmdpUDdpaUstemZDMDJBSFd1Rjh5NlV4RUlVTVp1QXNnckdTczZnU3FXaU5ieUk2QkFz?oc=5",
-  "title": "Fabien Roussel et la Russie : un pacifisme dévoyé et une incompréhensible indulgence",
-  "summary": "",
-  "published": "2026-09-21T09:00+02:00",
-  "mentions": [
-   "roussel"
-  ]
- },
- {
-  "id": "03976fd2e8b94500",
-  "outlet": "TV Magazine",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNRmhhc3NXWXE2RWloT1VGSlR6Zm1mYjkwZ2lySGFEek9Gb2J2N3V4U0JQWU5jcmF1Y0RXbXgwODJJaWFoQkliVjIzQ2lpeWpwRGRkVG5wb2N1NlB0TVprOGlCa21TN2RSODdzRnlyQkhjRlBsb1ZDOHQ5RFdxWWZsdkF2d0dJbGxxeEplOHpwUTN0YVFQNHA4eWtSN0ludW1RTTF5YnpXTDl2Q2QzUHhTRzNlZzB1QzlzMDBkUXNkTDdlWm0xRUpEdTd0Y2NFNXNlRXEwblhuTFlwbU9iSWllam9KNF9HeUNMeF9obzBLOGxjemdTdkE?oc=5",
-  "title": "«On peut arrêter là cette interview» : prise de bec entre Fabien Roussel et Benjamin Duhamel sur France Inter",
-  "summary": "",
-  "published": "2026-09-21T09:00+02:00",
-  "mentions": [
-   "roussel"
-  ]
- },
- {
-  "id": "bb22c3c591ab21ea",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxPanlVWktyckRwdWlvUUhGemlmOUxMMm9oTHY3emVwX2lraGlVZlNBalRaMWtOOWJXM21pcUhSQmVMdS1YUWF5N2k1cXNfNzFLVFpLQ3o1dVFWaUNKNklGUEthLXdQcTFUMndkRlVpYm1pNElmR2FTaXRxdWZfMlU1aVBYQ0J0a0s3eHdRVnI5Slh0SG9lR1NhTXpmQnVnei14ZjdHVy1mWkVHS2RNbm5zQnh3NGplUDlSbHZ3QkdrNGVjdlRqOEtaS1BXLWhZQmF3S01KVXFDWHpoY1BlNkwzcTk3QWtza3hlZjR0MjdTa1BIcGhCWjVubk5XTnFaY0ZCd29wWHdHUXAyNnh4SFBnQmtWei11WkVTbEpXLXZXUTEzU0VtcF94Qm5XcjRmUURkcEYxbTY2N0xuaHVhclE?oc=5",
-  "title": "Menace russe: \"La France n'a pas les moyens de se lancer dans cette folie\", fustige Nicolas Dupont-Aignan, candidat à l'éle ction présidentielle",
-  "summary": "",
-  "published": "2026-09-21T09:00+02:00",
-  "mentions": [
-   "dupontaignan"
-  ]
- },
- {
-  "id": "f4e2d2861ae5144c",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxQSHpFWGxNSU5mQXNqWWhrVjh5R0xpQzI5WHJwekl2OE82NXB4TklETFN5a05ZWGlmWVU5c3BhYU4zdHVPQURjMlBFWXNaT2t3bzhFTzQyUTc4WHVOZmdWUVNWVGJkaGIxNVFCbXQ4ZjVBOUVKa25wRFN3WHp6UjFIOWNzaHdEOTd5SFlYT3VCaDdkX3p1eEwzcF9oOEs3eHZwOEZqMDYyNHZyR2FWZnc3dmtud0poangtZGh1ZE1WU0FJV1J3MllVaFFlTFFSSGx0YXpSLWZqSHV6dXp1UWVxNVBtY0tMbGpkdTlOenBfcGprQzFHZW9FQm1BMDFjaEFGOUFLRUtjSU9GYkhUNFBDb2pLNHpfd1prVFNMUkhteE9LanhrdzdkVjZjZ2pPVy1Jdi0xbTZIN1BseTdnX0w5UlNXUEU5eE11NkZHRnpxNA?oc=5",
-  "title": "Menace russe: \"L'arme de dissuasion nucléaire ne doit pas être partagée\", estime Nicolas Dupont-Aignan, candidat Debout le France à l'élection présidentielle",
-  "summary": "",
-  "published": "2026-09-21T09:00+02:00",
-  "mentions": [
-   "dupontaignan"
-  ]
- },
- {
-  "id": "2ee907f06159ce17",
-  "outlet": "Boulevard Voltaire",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNHh4TkN5UFQ3VWJSMkVwSmEzWmpNSWFFQ3dTTXJNY3lOZV9RYmxJTUtyencxSmVoY2xSYnhYTHhvWWgtNXFmTFVpU1Bhdm54RWxSMDc5V0hyZldlU3JtUG15aHJRQkgzNkJBbmsxdk1BaUx3dmFiUDZUaHMzQkxWTUpJeU51QzY1SXg5LWh5WGpfZ1EtdWkw?oc=5",
-  "title": "Nicolas Dupont-Aignan veut trouver « le chemin de la paix » en Ukraine",
-  "summary": "",
-  "published": "2026-09-21T09:00+02:00",
-  "mentions": [
-   "dupontaignan"
-  ]
- },
- {
-  "id": "719327f3ebf05717",
-  "outlet": "Facebook",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORnB4NWRDXzZQdHR1TndrTnRBWnp0U0ZpbUk0aUUweFd4M0JGamtGSW8yV3RnOHRONTBTS1F1bVNUOU1rbWZ2ZHU2RWR6ajhydkdabm95dy1oLXZJU251X2RkMjlMZ2R3eVY0RUhHZ2RfZ1FBV1Q4ZVlrcWhKQnlrWjFOOHBtd1ZvMWszN0VmNE5aOWVlbHNIbVFWaTlHeXBVWEQ2YQ?oc=5",
-  "title": "France Inter. . Annie Ernaux sur Jean-Luc Mélenchon : \"Est-ce qu'il a été condamné pour antisémitisme ? Non !\" ➡️ https://l.franceinter.fr/53a",
-  "summary": "",
-  "published": "2026-09-21T09:00+02:00",
-  "mentions": [
-   "melenchon"
-  ]
- },
- {
-  "id": "5e2dcd388fa8eb30",
-  "outlet": "Facebook",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOVThCMWJ0Y2NvMWNUeTMyQmozdFZha0s0ZjhKc0c3QWhnTjFZMU01dC1WOUpTczB5YXlzdmJVZkladUNBdUFuajVVZTJ0MlRveHB1TkxuVmlfeXg5NDNPakdiZmtjX0p1RGxyV0pDVFZwQW1fTGphLVRVeks1UTNWMjQybW5KN3U5ZlNXSFRvM1d3MEt2bFNkRVZvUDhHQjJZUV94aEFmVVNPMFhfNGxxcmdFQ3hJNEZzYTNjMW55VjRMWjlKUWQtdGxaOTY2d2sxX29UcWRfOXhXZk5nRXM4RlF2blNMUDNCTl9KczdaZnJvOXZ6UFBuYVNn?oc=5",
-  "title": "Annie Ernaux sur Jean-Luc Mélenchon : \"Est-ce qu'il a été condamné pour antisémitisme ? Non !\" ➡️ https://l.franceinter.fr/53a",
-  "summary": "",
-  "published": "2026-09-21T09:00+02:00",
-  "mentions": [
-   "melenchon"
-  ]
- },
- {
-  "id": "77efd4b356185755",
-  "outlet": "Sauvons l'Europe",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9iNnhDWk5vUjhoVlpsQ2g4ZUpJT3JSTG5OUUx6akRBNFkzbm9Cbm1NcEdiS21icFR2MUhvdVhWWTBIVzJfWkxQSHBkTExUeDk5alNjNU5fTWZnWmRnZVI1VFZsRkQtbVVCQ3oxbHZLSVRJOGM?oc=5",
-  "title": "Politique étrangère : les vieilles recettes de Jean-Luc Mélenchon",
-  "summary": "",
-  "published": "2026-09-21T09:00+02:00",
-  "mentions": [
-   "melenchon"
-  ]
- },
- {
-  "id": "14d3bf5f1fd137b6",
-  "outlet": "LCP-Assemblée nationale",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWlRFZHJ0SEFobUxwRGozR05ocjhmbnFXZ0JRODRDUDVUc21XMXpHbkpKUGFIWXdvXzVnVlc5ZU9SRThxY0JpRkZoRmo3QUZJMGsweVFoUUg2eFN3NmpweEVzZTdYU0l2LUhqTjUxWGx4OE1qLU1fMXgwX09zTjVyaGdUZTFlT0dJRFpudUZPOEtsXzJjZnNIU2tCWUtRV3M1bmhfUVhuLWM3UHF0?oc=5",
-  "title": "Présidentielle 2027: ces députés qui vont faire la campagne de Gabriel Attal",
-  "summary": "",
-  "published": "2026-09-21T09:00+02:00",
-  "mentions": [
-   "attal"
-  ]
- },
- {
-  "id": "6f5eb1c78de9ff86",
-  "outlet": "attalpresident.fr",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaWh0a2d0Y1ViYzU3S05ubjk5OUNLWmIxOXJUanhSRGZjeUZlZkJqZFB0MmN5ODZlcU8xSzdGWXJNaXVrNzFmQ1pabkZnbGZtOGZiR1hTajRGYXlkd1lmd3NhN1pua3ZxS1g2emNCclVCZTFBdjFWWmZwanlxSjVBU09NcDFUSVYwMG92U0RBclVNMjIyYndRaUM0aDhNdklmMy1obTBSSGlHNTNpTmpER2RR?oc=5",
-  "title": "Gabriel Attal présente celles et ceux qui construiront son projet pour 2027",
-  "summary": "",
-  "published": "2026-09-21T09:00+02:00",
-  "mentions": [
-   "attal"
-  ]
- },
- {
-  "id": "a48dd0e0554dcd9d",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNVWlkRG0wdURzQ1ZPM1c1Q0ZlODdjaXMtbVZVYmdxS3V1djFONTRER2FNYTVBME5id19UYWRQYldfVWVoMXh6TC1RU1Q1U2phdXRDaGZoNUF4eWMzSUg0T2V3TFF3OHduMVpKMWw2NGJJR19XcmpXS19EQTBpb0IzSlNpT1Y0MkZNWF9Xc0ZHal9WWE1qUUQ1ay1RWTY4Y2MwUHVHUVZ3OThHZEdxeUVHbUFRUjZ6RG52cm1wT3BYOXBXcktqZHl2VUFyUlQ3M18wRS1pNEJpVmhGSjk2VGFKM0FUTS1yZVl1aEFYN3VDSkdzSVgtXzdWSDdubFZNeTE5R3RN?oc=5",
-  "title": "\"Pas possible, ni souhaitable\": Gabriel Attal pas favorable à une baisse des taxes sur le carburant",
-  "summary": "",
-  "published": "2026-09-21T09:00+02:00",
-  "mentions": [
-   "attal"
-  ]
- },
- {
-  "id": "0686b656c3c1f448",
-  "outlet": "Facebook",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZnNTV2RSZDczcmQtOWdWZ0w2eVJWcWRrTmFQWjN1dnFwMThLUE1yaWp5S1BtZlg5UVpjRTBlVGNjb25oZXh4a1ZCVUxudjMxVmFzekRIcjJwQVVoY3NUQmQyQzgzMTRPUk5TSEtPWDBXRzdvc1JGaHdrU1BweUpmMUNSYlhKRWJfUXBja1hBRGNmS3dC?oc=5",
-  "title": "France Inter. . Interpellé par Marion Maréchal au sujet de \"la compatibilité de l’islam en France\", Gabriel Attal répond : \"notre responsabilité, c’est de faire en sorte que les lois de la République puissent être respectées.\" Le secrétaire général de \"Renaissance\"",
-  "summary": "",
-  "published": "2026-09-21T09:00+02:00",
-  "mentions": [
-   "attal"
-  ]
- },
- {
-  "id": "6848c91b2767fd29",
-  "outlet": "Libération",
-  "lean": "centre-gauche",
-  "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNdWhCc1FmRXdUaEZ6TzItRkRiQkYya25aT21WdS1vc3VTcTB4cmpaSThCQ3RsTUk5N0drWk5tckhTZXRwbi15MlVYRHRfN2hmM2dsUmQ2bTE5SlNOcUZyUjJzWnVJSlMzM1AwalJsQy1RT0o3N1ZzQi12X2RmVjRiZVdHWXoyVHV2WjBKSEFURy14X1ctN0hEa00zVGp2bmRheWZDcGpJRDlNYUgxNjJTcE5mWjM0NTBDOHFSdGdGRmNCeHljd3ZEX19jbE9nYUtvY3EzNUI5RWVCcGZNeEU5bm9jaXRZMFNQRmUxSVlscVowVWtMd1IzMg?oc=5",
-  "title": "Crise des carburants : Edouard Philippe et Gabriel Attal ne veulent pas se faire rouler dessus",
-  "summary": "",
-  "published": "2026-09-21T09:00+02:00",
-  "mentions": [
-   "philippe",
-   "attal"
-  ]
- },
- {
-  "id": "36825601effdca5a",
-  "outlet": "La Provence",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWWx1X21pVW01TkktMjJQQm5uM0Q2SFFUV1dGMWRoQTBqalI3X3Jjc2djVmhVcktORWRZQXVQNkFCU2dpX29DZVE5TXpObUZ4ZkNZZ1hwR2FDNGltd09FUEVucUZnRGhYUkJWTGNNUnJmS0VIZUFVREhuTEFnaGFZS0x2aW5Pcmh1eDdMal90RHBrVWxRZG01b0V5ZUtvdTE1dGozNnFqZXFabDdXanB4WmNQaXhkM09KM0pxUGxSQmNMME9SaXQzUEdBb0t1cVl2bTE2WVJfOA?oc=5",
-  "title": "L’ancien Premier ministre, Gabriel Attal, veut \"accélérer\" sa campagne présidentielle",
-  "summary": "",
-  "published": "2026-09-21T09:00+02:00",
-  "mentions": [
-   "attal"
-  ]
- },
- {
-  "id": "b285dc0e62a6a062",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxQTTZzSHFWUHQyVm9aR0djY0hjUlRrejFISW5vN19zVXVYZmVMVUFfaHU0VnZJS28tSDlUaTQ3bkc4WnVvUkJQRjhtME5sbFhGYkdNbTAwWFdvU0VPNFFsTFlrSjhnYVJhR2d0bkFuaGNCMWFsbkY4OXlhMjlqSk9nTVFSOTRUMEFTNzU4YzJ6STlzWklnai1VSTRtUkoyNFYzdkYwVU9iaEEwYXdYVWFKcTV3ZVNZalNuWmVOalN5bjZtdXYwdk4zM1hrdzJUdWhaTjBkN0UyUnAwZkp6WEhDRncxMHN0ZV9yM0gxT3NrWkp3eWdBbWxjWWF5VDRTa3d5NzdvY2ktNHFnSklvMUttdndNYjFTN1VqNS1QXzJILXJtVWxPS0JBS0dGNW1sWnBDc3dnbHZJXzNxeUZXUjctaF9ZT2d2RVJ0SGdQQzJURG1oN2sxVnZ6ejJn?oc=5",
-  "title": "Gabriel Attal, candidat (Renaissance) à l’élection présidentielle, souhaite créer \"les États-Unis d'Europe: un projet économique, écologique et technologique\"",
-  "summary": "",
-  "published": "2026-09-21T09:00+02:00",
-  "mentions": [
-   "attal"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "roussel",
+    "tone": 0,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "407673689d14e406",
@@ -701,31 +363,55 @@
   "published": "2026-09-21T09:00+02:00",
   "mentions": [
    "retailleau"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": 1,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "b06d32c4a08d7318",
-  "outlet": "La Lettre",
+  "id": "4122eecbb1b7aa16",
+  "outlet": "RMC",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNVUdBeXBUbGRxNTNGN3ZjOE9yNWdaYnRfMzd2T3FXb0FjNExpdWRRZHZWNjNzeGcza2l3NUg0T1FmbUV2ZXNJX2Z2NDhTckcyOVVIVDdfX3V0eE5XR0htOFp3WDRlekU4VElBWnU3bzFMS3BIOWlwazdSSzNzUC1lV3l4SnhNcFNkS000UmNHdG1ZWVJocnN3akxRR3dNbXVDNm5DQlJ4a0prMjBya25ZMXc0NklXbm8zcGZYTzBjZnk4X0RPaV8zWjdmek1ueXJfU0lwMFpDRERmUlJuX2k3em96engwZ0FRVmlVeFNQMFEweVNOblc0X0dmaEJ6d29qZmc?oc=5",
-  "title": "Quand Bruno Retailleau rattrape l'idée d'un ex de TotalEnergies sur la suppression des CEE - 21/09/2026",
+  "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPMjBPakxnLThiRlh4WWZFN2NYN0ZQZHJ3dDc0cG52ZjNlZ2lVLUNxVmpSX3EwNmcwenJCS1g2dTdrTUVaRHRHbkRoZDFqbkpiU1pZckhBQ3dnbUFGY2JhOXRaQmEtbXJJOTh3WUJRY21JUXh0Y3NWckx0VklCWFNvOEI4a1dadkl5NmNtU3NENkw1RnhjaUl5Vi1MV20xRDc1U1VPZm1BakNSWVhJQ0VuVF9EOU9BVm9SaVFWYUdmamZvYmZhazcwbnNfenYyZ0tFRVZpanZnSXpyR0RGWmZKYTBuUWNFdHg5V3VyVktaeXRiQWJDVzZ4a0w1MDEzQzdCWDhPWE1TUDFKckhFVmgxRHoxVDZTMzRMNS1zT1dSYnE?oc=5",
+  "title": "Ségolène Royal allume \"le stagiaire\" Raphaël Glucksmann: \"C’est une grenade dégoupillée, le PS sait qu'elle est un danger\"",
   "summary": "",
   "published": "2026-09-21T09:00+02:00",
   "mentions": [
-   "retailleau"
-  ]
+   "glucksmann"
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": -1,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "55109e837fe76c41",
-  "outlet": "Le JSL",
+  "id": "489254fb6c538f09",
+  "outlet": "l'Opinion",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNU3hwQUE1Y0dlRTRZak40eWtmaHkzdnk1OVQxRGk0LTFDMzBwc1EwVXlVSm9KV18xRDMyemRHeF9vYVNSM0lIbzBic3NfNVFGZ19ORXpUR0Jhai0tU08wZHdLWDRVaC1UY012MHlZTmQwUUhSem9tMWVvM2VXT285U0RGa24tNXVUWGltMkxCSzFKTDVKZ19CTWZTSlBLN3lRWDdBVGRXS1R6ZGNlUGh2UFJIWm9TallQc3MwUkk5X0dNQQ?oc=5",
-  "title": "Châtenoy-en-Bresse. Nouvelle Énergie, le parti de David Lisnard, organise une réunion publique ce mardi",
+  "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWFpIZC1VdFdZcXJLQ3hfTlNoS2FEd29MZ2lCdk1DbTQ4U1VaOVhUX2F3ZzdJZE83QXhnQ2FWdDZILTVzZlNtMFhGR2ctQmNVTldPOE9FZkZfcGh1OEFqNTFwcWhvZXhZa1dTaG0yTktRbUxwZDF6T0p1NzVETXEtSkRrQ1VkMTYwNXlZelVvYzB3Y0Z1cUdvU0lYdE1tWVFTZ0ljQTB0SmZhakdfanM4OHdqMzVTbUZJU1NWaVRtODhkNGF3X3IxdE9NZC0wek5nTldDcFhxTTFCZw?oc=5",
+  "title": "Fabien Roussel assume de comparer le patron de TotalEnergies à un collaborationniste nazi",
   "summary": "",
   "published": "2026-09-21T09:00+02:00",
   "mentions": [
-   "lisnard"
-  ]
+   "roussel"
+  ],
+  "analysis": [
+   {
+    "id": "roussel",
+    "tone": -2,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "4d7adff4ee5305eb",
@@ -737,91 +423,65 @@
   "published": "2026-09-21T09:00+02:00",
   "mentions": [
    "roussel"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "roussel",
+    "tone": -1,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "3d7e8197ef525adc",
-  "outlet": "Actu.fr",
+  "id": "50c9f954cd646ab7",
+  "outlet": "Le HuffPost",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUmpLV1UyS1JVVlgxNXZBZ3NnMDNUX3l0c3FnZkNNa0pscXNIb0VsQzI0NXlQMGJEY00zWmN4Skx5bTBERGZGb2FxTFk0TmdkdzF6R1hjNjN1bHVwTnpNNE5SMnNsV0xJUkMybjJwVWh4RDd1cDI4cXp2WU1paWdQTFEyYXItaGhNaFI4bHF0eUFpTjI2NFQ4SGNfWTh5aExZc2dSemV3RkVsd0JUUjNxbXpCb0FwbV9MSUs3RnlSYlNQam8zNUpSWU5OY3BjOVFsX28zU01n?oc=5",
-  "title": "Prix des carburants : Fabien Roussel (PCF) dénonce un \"racket sur l'essence\" sur l'autoroute A1",
+  "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQclZUdTNXVnJsenh1OGtVcng0MHlialYxLXhSVXlZUm94cEg1VTdmd0l3Rm1qQVE3VHZkWVZHRXRITC0tdEJhWEkyOHR1bzNmcGdsXzhWeXpkS1BwVm1QNXhIUDUzQ201d3hacS1xLUhFZnQwZHF0eEt4T0ZOdW1ac3FjQWZJQlpELWotckRfVFFhcFNYRmxoQjZlY1lxa1FEc3FIaFBDLU1UQS01OWlackVyUWxYQmNmXzhVajloOFlFLXdjSmdUSGl0Y2VldmJ0Tm1fZGJOS3A?oc=5",
+  "title": "Philippe et la nouvelle émission politique de France 2 déprogrammés à cause de Macron",
   "summary": "",
   "published": "2026-09-21T09:00+02:00",
-  "mentions": [
-   "roussel"
-  ]
+  "mentions": []
  },
  {
-  "id": "2e3b51f7b4c84ffe",
-  "outlet": "Oise Hebdo",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSTZyWjFHRWpwN2V5bWw1NFVxdzgxQVF5XzlKd09oV0twei1iVXBTdnFPUGtFZ1FBQ182UWRaSFp2TGl6dEljWjdWaGotMGNjTjB0ZU0yTVVldTdsaHJaZzVsREFMV1Z1YjZjMkNwQXBiSU1FaGR0ZTNTT3hjY2F5ME1vNVdZLUdKNVhXdjkweWduMTcwUVhidENPTQ?oc=5",
-  "title": "En déplacement au péage de Chamant, le candidat communiste à la présidentielle Fabien Roussel réclame la baisse de TVA sur le prix des carburants",
-  "summary": "",
-  "published": "2026-09-21T09:00+02:00",
-  "mentions": [
-   "roussel"
-  ]
- },
- {
-  "id": "7d00a0a083e2087f",
-  "outlet": "Le Gorafi.fr Gorafi News Network",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQUtkRHlKTU50Q0tuRDJMajN6VEphNW5PZlgySVFvcDRibFJkd2Z1cmJqRW1jaUF2YUUzbXhuSjVtVUU2Q1FyaEdNMnVCSUFmQWpoRmVQT3JMY0RxYldZUVg1YmhVX0hPY09YQmNCdWI3SllKQmMtSnROWEdBTzZ2dGktcHRodE5HdW1aWVZqQzFEczg3c21MSlJLVS0tY1g0WVI0MXBhSkFBM1RQSnlkZ3Bkc1gxY3BESTZ1V2V5OThHdEV0ZzAwNlV2TdIB0wFBVV95cUxOZlh1MkNpd0tpTktseXNvb09XalFfS1BfTTUyc05mTUpCWkFQZjB1MkZON0g1SVNNaGFrdDhaN1JIVmFLbDRIUW85cFJVQXJMVWJsT2JNNFhjSjR0Rl9zZkdXNmEtdThES3RwOFJaLXlOQ0k2bE9XT3N3VHpXcThzM0xRbTJUcjh1djBRMHNMN1RKdWJhTVIxa3FrbE12TUd6MlNscHp2OU9qN19uQWlSR3FnOTRweGJJeW5xZTRCQ3VHeFgxUTZTSjU5dHFyV1dkdDBr?oc=5",
-  "title": "Présidentielle – Fabien Roussel annonce qu’il profitera de sa défaite pour découvrir son programme",
-  "summary": "",
-  "published": "2026-09-21T09:00+02:00",
-  "mentions": [
-   "roussel"
-  ]
- },
- {
-  "id": "914cc494392dbe16",
-  "outlet": "Gala",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNcEdURVlnWmREaV9BX2VVRmJQNlNWdGZOcW1tc3Z3dzgtNFpFV2dyT0hsUXZrbmg4VmF2SzYzSXZzT3ktOGEza3VsRWc4NWg0Z1ltMHQxTXlIZ05IeXFvaUh6OTFwbHNZQkF2OFFma1hTZGNKLW5mMkkwNVlrM0FUNzl3ZXo2VDRydnNmUjZIZkFpVlpKTkR3M2NaQkhXQkJLYXhsdXlKZ3BKNzB6TUw4R3U0U085NGV4WlhXazhQd1NTeGlZaXZpaktOTk93ZHY5M2Y1VW9Lc2JtNHFHWXYtZm42RTI4NVFmeUNHSUZtd2RBNzZES3cwNWI1NEZadw?oc=5",
-  "title": "\"Je n’étais pas préparé\" : Éric Zemmour fait son autocritique, la présidentielle 2022 a été un échec pour lui et il le dit haut et fort",
-  "summary": "",
-  "published": "2026-09-21T09:00+02:00",
-  "mentions": [
-   "zemmour"
-  ]
- },
- {
-  "id": "2f26b3515fef7359",
-  "outlet": "Le Média",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdlBMRGU0cndDQ3hYRlR1S29vYWNzVGV4NWI1TWhlZlp0aWhkUGdUUERVOVRNVjBvVE5uYmYwZUZ0a3c3ejZtN1JxRHY3emZoSnBodTlLcDBjU1hLbWx2cWN2VlczdUpVLWE0UEE4azJLcXRKMk9RNHZ2Z1REZF9nbXVGUWRNNEhqbEtCSFhZNVotQi1HNE40VjRuM25fTV9ORW1vWWlQbmZYeVZzMmZ2THRXak5JbDFoa1EtTW1tNmFGRFlCNWlXZnEyNTQ?oc=5",
-  "title": "Mbappé, pas assez français ? Zemmour n’a plus que le racisme pour exister",
-  "summary": "",
-  "published": "2026-09-21T09:00+02:00",
-  "mentions": [
-   "zemmour"
-  ]
- },
- {
-  "id": "e653ccf9aa4aa596",
-  "outlet": "Gala",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOeXpFNlEtYkRYTUxHdnd3RV9QSXdmeFoxUXVtby1zLTBfWlFNTTlQMlRoZjZYektycnpLT0FTY0h4VmhLWE9PbkdRbEpDZElXOTRwVmdTNENTMVpZenhiZHA2TllSNG15QWkyZmZqZGJXWGR4OXRUOG15YkdzVFJrbzRsOVo0SHc4WDZTWFB6QzBmQVNIQWpjQXFOdGo5Y2dLRmQtVnFPeEF3VTlCcjFfSzFISTNhWWVSdkx1amVjUk9rdnhseE5QNjgxMjJucV9WOEpPNXNuNEhpWmhycG1GUXlEM0xBV1Z1eU9qczZ6X1dPTVE5S1JXag?oc=5",
-  "title": "Sarah Knafo : de la Seine-Saint-Denis à la prestigieuse école des élites à Paris, que sait-on du CV de la compagne d’Éric Zemmour ?",
-  "summary": "",
-  "published": "2026-09-21T09:00+02:00",
-  "mentions": [
-   "zemmour"
-  ]
- },
- {
-  "id": "b8b498855f15968b",
+  "id": "53ad6b7d728afe8d",
   "outlet": "BFM",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQQWw2NHFKbEw4ZEk2amFIVmRtakRpaXMzd2tLYXpVNXN2bDNyaHk3dDVYaHRDSTNRQVowMGVOTW1CLUhOVTJlQWZtNzNDOE80M0hpaS1HdFVTdV82d0daeHEwWlRSbkVUelBfaW40a1FreWtkVGk1RC1WcEpEenJoZlpLaTNnM1BGQ0JJZFQ3MkprNTBIZGJKMzFuNHg0Q0t4Q29pbDJZVFZUQmJWS3pNbEFDamFiSEw4V19FQ0pWYno5SGQ3OXd0Y042UDlpa3BHcFItTDRxYW80N2I3eHdhVC10VDJDUE1GdnUySW5halgxSG5WQklZVEJxMVpRRERhREkxTm56NGE?oc=5",
-  "title": "Présidentielle: \"Aujourd'hui, il n'y a plus de favori\" dans le bloc central, affirme Gabriel Attal",
+  "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPN2JnY1poYnVuREo0aWtuNVVQV2U3akhlbGRBQy1zaGlzXzRnOEdaTWlpTW43NHZLMmQ0Vzd4eXlVZ0Ryalh6eUwyR2wxUjJUc2NtY3YzeGE5ZFdWeDJzbF95VlhsSGZWY2Iyd3hMVWg5dTBFdVo2Ujh6a2JLQzdCRUZQdUhQVFhPZmR2UXJPcXZrMDBkYXpwVTR6RW5pMnl0WFQzeEsxMVpma1VwMFVnQzZXMnFDR09adG1FUGlWUU1tSEJRMG94S3lnejVOajJTS2M0SFJHeHpwZmNsclN6eHhjZWRqbHZ1UkMyVFpqZ3BPeWlFMjhUd013?oc=5",
+  "title": "Carburants: selon Gabriel Attal, baisser les taxes n'est \"pas possible, ni souhaitable\"",
   "summary": "",
   "published": "2026-09-21T09:00+02:00",
   "mentions": [
    "attal"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "economie_social"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "55109e837fe76c41",
+  "outlet": "Le JSL",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNU3hwQUE1Y0dlRTRZak40eWtmaHkzdnk1OVQxRGk0LTFDMzBwc1EwVXlVSm9KV18xRDMyemRHeF9vYVNSM0lIbzBic3NfNVFGZ19ORXpUR0Jhai0tU08wZHdLWDRVaC1UY012MHlZTmQwUUhSem9tMWVvM2VXT285U0RGa24tNXVUWGltMkxCSzFKTDVKZ19CTWZTSlBLN3lRWDdBVGRXS1R6ZGNlUGh2UFJIWm9TallQc3MwUkk5X0dNQQ?oc=5",
+  "title": "Châtenoy-en-Bresse. Nouvelle Énergie, le parti de David Lisnard, organise une réunion publique ce mardi",
+  "summary": "",
+  "published": "2026-09-21T09:00+02:00",
+  "mentions": [
+   "lisnard"
+  ],
+  "analysis": [
+   {
+    "id": "lisnard",
+    "tone": 0,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "57ca5be06edefc0e",
@@ -834,11 +494,337 @@
   "mentions": []
  },
  {
-  "id": "a2ad33fd2ba35c7d",
-  "outlet": "La Provence",
+  "id": "5de42a4732bb2ea3",
+  "outlet": "L'Indépendant",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNWHFSbzdBTy1VcE0ydS15NTRXRjBuLXhPQUhZS1dwZW1abGtsQlpfVXJldmxLWjRUU0hFUy1DaE1CQ2s2UmRPTDdFdG1qQVZ5bF9seU9KdGNzWlRQUk8yeTNXMjQ5am0ySzIwOVlYUmR2VVlHREctWkppSDRNY2tfbFBRY2pYLWJxNjBQMUtrbGhEeVN3Q1JxZTVUS3RsNUlEZ19MZ2lITGFfQWdSTkJLa2dwd1JRNkxpYlNtMEtEWHotNkRDc08tOGcwQ0c2V29lLVdacEptejFYWlQ3MktmNGJSUE9pWm5Sa29MQ1BINFR1cU1OUU5KX0RiMmQ?oc=5",
-  "title": "Traité de \"stagiaire\", Raphaël Glucksmann répond à Ségolène Royal : \"Je ne quémande pas des postes depuis 45 ans\"",
+  "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOX2xzZkR0aW5aLVBxbzlwNjljUmkzaDFQbm1NR21iSXAxLXRMenR6SGIxVFFKMEpsYW02WjZXLVRhMG5pSHdtb1VhUTdaSkFBX3NJalRER0t1LWlxbE1mV0JwZlc1SkVjQjlYaTN6LWlhQkh0bjBaV21zMUQ1WGlyYTBiZW03X1JkaU9QU09fVS1MYXo1QTdHN0hOS3VPTFZsZUlFSDFqSWlUY2xPRFJnRVVYUFUzYTlrQTlNRGVKUVhOcUlzTVROS1dVWXo1cUItaXlkMEdaVERCcHgwRmh2X3BPdXB6SGJ0LXc?oc=5",
+  "title": "Coup dur pour Edouard Philippe : son premier grand rendez-vous télévisé reporté à cause d’Emmanuel Macron",
+  "summary": "",
+  "published": "2026-09-21T09:00+02:00",
+  "mentions": [
+   "philippe"
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": -1,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "5e2dcd388fa8eb30",
+  "outlet": "Facebook",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOVThCMWJ0Y2NvMWNUeTMyQmozdFZha0s0ZjhKc0c3QWhnTjFZMU01dC1WOUpTczB5YXlzdmJVZkladUNBdUFuajVVZTJ0MlRveHB1TkxuVmlfeXg5NDNPakdiZmtjX0p1RGxyV0pDVFZwQW1fTGphLVRVeks1UTNWMjQybW5KN3U5ZlNXSFRvM1d3MEt2bFNkRVZvUDhHQjJZUV94aEFmVVNPMFhfNGxxcmdFQ3hJNEZzYTNjMW55VjRMWjlKUWQtdGxaOTY2d2sxX29UcWRfOXhXZk5nRXM4RlF2blNMUDNCTl9KczdaZnJvOXZ6UFBuYVNn?oc=5",
+  "title": "Annie Ernaux sur Jean-Luc Mélenchon : \"Est-ce qu'il a été condamné pour antisémitisme ? Non !\" ➡️ https://l.franceinter.fr/53a",
+  "summary": "",
+  "published": "2026-09-21T09:00+02:00",
+  "mentions": [
+   "melenchon"
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": 0,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "6848c91b2767fd29",
+  "outlet": "Libération",
+  "lean": "centre-gauche",
+  "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNdWhCc1FmRXdUaEZ6TzItRkRiQkYya25aT21WdS1vc3VTcTB4cmpaSThCQ3RsTUk5N0drWk5tckhTZXRwbi15MlVYRHRfN2hmM2dsUmQ2bTE5SlNOcUZyUjJzWnVJSlMzM1AwalJsQy1RT0o3N1ZzQi12X2RmVjRiZVdHWXoyVHV2WjBKSEFURy14X1ctN0hEa00zVGp2bmRheWZDcGpJRDlNYUgxNjJTcE5mWjM0NTBDOHFSdGdGRmNCeHljd3ZEX19jbE9nYUtvY3EzNUI5RWVCcGZNeEU5bm9jaXRZMFNQRmUxSVlscVowVWtMd1IzMg?oc=5",
+  "title": "Crise des carburants : Edouard Philippe et Gabriel Attal ne veulent pas se faire rouler dessus",
+  "summary": "",
+  "published": "2026-09-21T09:00+02:00",
+  "mentions": [
+   "philippe",
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": 0,
+    "frame": "international"
+   },
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "694115c636dcde2e",
+  "outlet": "20 Minutes",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPbHdmNmVDZGxyT3NrTjMzNEgwVGtGNGlOWTNRUU94UXFvaU5NODJsSmdWQzBwS2ZDcXFSZlZGQS1IWHFxY3hFTHhsWllMSEdEdzZVT3ZuQkV0S1B1QUhBQlVWRnhYSWE4R3dSb194UFBxOEhwdlZveXRlMmtESENZSFVKTnBtdVpOeW5sd0s4MC12ZlRReTdFOTBlQml5TnhNSHY0NHF0RVN1d1NWeXZIM3dQZkVQLVRWR1hJU3dqWDNMMlh3STlrYl9mUmNOSTFvaUpsMFVfUk9sTWJk?oc=5",
+  "title": "Raphaël Glucksmann rappelle à Ségolène Royal sa période « Reine des neiges »",
+  "summary": "",
+  "published": "2026-09-21T09:00+02:00",
+  "mentions": [
+   "glucksmann"
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": 0,
+    "frame": "justice_affaires"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "6be059adf5185737",
+  "outlet": "Orange Actualités",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOVVlDYURJUEk1TXhRekZVV0ZyY2dCWnFqMk9Ic2JybGxveWRZMkhIZGlzcW00aWdadWk5TEpuTDRWOVNOaGQ4UjlsUURBbnkyN2dkUlJ6cUJLYnljZEU1OFN4ZWJyTjQ2S2l5YWg0VTNjcTRCNF9ySl9DNGY3SXZzMVNVLUl5dFlsb0lYMXhwcUltMl9haVRjdm9NdUdIdVdOaW1wLV85SkVpUlZLeFlLT1hzQmpnQkItNEhzaXhWU243V09jdjFodWpIbjJMZU1Bd3ZrZmNKRk5mVk9SVS0tOFFTaTRqS1JBZnQw?oc=5",
+  "title": "Présidentielle 2027 : traité de \"stagiaire\" par Ségolène Royal, Raphaël Glucksmann répond à l'attaque",
+  "summary": "",
+  "published": "2026-09-21T09:00+02:00",
+  "mentions": [
+   "glucksmann"
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": -1,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "6d86283fb8122243",
+  "outlet": "Sud Ouest",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxOQTRzdC1aUDI5Rk9DYVllUkQ4alBxT1lkeVpfbS11VWNkYW5EbTVXaFl4X05KSVlrc1M1QUxlbjhQUHVTSlh1RGxQemVQMHROS2xFanBDN1RSWHdjTWhuSkZPVm1Hd2I0TUlDa2hidTAwRWxyUTRaeW11eXNkV2dqdnZMaXF4RjdyWXNuX1g0aFJnUHNsQlhZWVNxdk5pTExRT3JJUDFMZEZOa2ZRdmtHYmxDNVNUSnpiZWpDNTBTcGdMSkhSTzZ3Q1lhZ1lBZHhLeWZicGk0N2FFaUNBZGhBaDBLLWVwcjliYkFpN2Q1MXdKbVBMdkRRNElCelpreEczblh3TTdSN1l5eDZKa3RxU3VkeUM4UzRodl9pbTZEdGpDeHlrNURDcTR1c0FJZThmUmJSa1pHeThIVEJvMXpEaHVjTjNPRjVW?oc=5",
+  "title": "Présidentielle 2027. « Le meilleur programme, avec des propositions étayées » : dans le Lot-et-Garonne, le soutien au candidat Glucksmann se structure avant la primaire",
+  "summary": "",
+  "published": "2026-09-21T09:00+02:00",
+  "mentions": [
+   "glucksmann"
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": 0,
+    "frame": "sondage_dynamique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "6e3b1fc42b0ce2e0",
+  "outlet": "Nice-Matin",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxOX2djVWU4Z3NYVnVlUjRXeXJTZFU2OEVPT0pISDVjU1lFaDRjeS1XbnpJM1NSMTZKUGVyUDRtX1hoSkRmU1hTX1poOU5vU3BKeGwtZVVzTTAyVWlQN1JVWE1SdXJ3N2c5SzY4dWxfVUlqbVVOUTJfVEFmSE92SHhPNVRPQ01BTDhLMmFJLWFrc2tkTFJWcnN3b0piaUtwRGFLZ2ZFWnBBZjVGdElYWnpPWll4Z19sVk1NQmQ5X1pMNThGVnNVYnVNcTNNVVMyNFh0X3daSXVBbngybTJCSnQtU05Kc2tXbTNqcy1YRjg4M3h6Y1dxc2JPZFUwUXpXd0U0YVNoYkhhSk9lTlczTUFWbWZXMlROS1JZM2hSa0lnUFM0NXBiTndSdXg2RFRqLUp4NklucEY3ZEtWa0lVRzF3RDN2N0g1WEVxd0xUQWMtMWNnTDA3TlpmWVByYVlESGtpbW5tVV9B?oc=5",
+  "title": "« Une identité et un savoir-faire à préserver », « triste réalité de la bureaucratie » : le maire de Cannes David Lisnard et la députée Alexandra Martin réagissent au blocage du Vieux-Port par les pêcheurs",
+  "summary": "",
+  "published": "2026-09-21T09:00+02:00",
+  "mentions": [
+   "lisnard"
+  ],
+  "analysis": [
+   {
+    "id": "lisnard",
+    "tone": 0,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "6f5eb1c78de9ff86",
+  "outlet": "attalpresident.fr",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaWh0a2d0Y1ViYzU3S05ubjk5OUNLWmIxOXJUanhSRGZjeUZlZkJqZFB0MmN5ODZlcU8xSzdGWXJNaXVrNzFmQ1pabkZnbGZtOGZiR1hTajRGYXlkd1lmd3NhN1pua3ZxS1g2emNCclVCZTFBdjFWWmZwanlxSjVBU09NcDFUSVYwMG92U0RBclVNMjIyYndRaUM0aDhNdklmMy1obTBSSGlHNTNpTmpER2RR?oc=5",
+  "title": "Gabriel Attal présente celles et ceux qui construiront son projet pour 2027",
+  "summary": "",
+  "published": "2026-09-21T09:00+02:00",
+  "mentions": [
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "719327f3ebf05717",
+  "outlet": "Facebook",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORnB4NWRDXzZQdHR1TndrTnRBWnp0U0ZpbUk0aUUweFd4M0JGamtGSW8yV3RnOHRONTBTS1F1bVNUOU1rbWZ2ZHU2RWR6ajhydkdabm95dy1oLXZJU251X2RkMjlMZ2R3eVY0RUhHZ2RfZ1FBV1Q4ZVlrcWhKQnlrWjFOOHBtd1ZvMWszN0VmNE5aOWVlbHNIbVFWaTlHeXBVWEQ2YQ?oc=5",
+  "title": "France Inter. . Annie Ernaux sur Jean-Luc Mélenchon : \"Est-ce qu'il a été condamné pour antisémitisme ? Non !\" ➡️ https://l.franceinter.fr/53a",
+  "summary": "",
+  "published": "2026-09-21T09:00+02:00",
+  "mentions": [
+   "melenchon"
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": 0,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "71cee56eb0acc41a",
+  "outlet": "France TV",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8wLXg2UzE4MTJPVS00cDc2dGdiMzhQUzR3WjR2Vko3TXgwYXFuRFBuX1ptU1BmMlVPb0JkSUNFUGE3R2tydjdkNVZxN21KUGxtWFpmT1VTWjExNjVnWmg1QV9JeWVmYzA1ZlE?oc=5",
+  "title": "François Ruffin en replay - Face aux Outre-mer",
+  "summary": "",
+  "published": "2026-09-21T09:00+02:00",
+  "mentions": [
+   "ruffin"
+  ],
+  "analysis": [
+   {
+    "id": "ruffin",
+    "tone": 0,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "76c3bed916cbb77d",
+  "outlet": "l'Opinion",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE84V0FLRUNrMG55Sjk1OVVFQ09QeEJkMU4tcU5nUThwYnpnYjhTYVNNRGlVMm5QcjVqUERldnVySXVRY253aEFxWEdfYW5mMV9qOFNpQ2lRWmJvZGVaR2plQ25tWWhUZF84NURCUEZvRTRzY0gzVkFjOWRPOA?oc=5",
+  "title": "Présidentielle : Zemmour vote Mélenchon",
+  "summary": "",
+  "published": "2026-09-21T09:00+02:00",
+  "mentions": [
+   "melenchon",
+   "zemmour"
+  ],
+  "analysis": [
+   {
+    "id": "zemmour",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   },
+   {
+    "id": "melenchon",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "77efd4b356185755",
+  "outlet": "Sauvons l'Europe",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9iNnhDWk5vUjhoVlpsQ2g4ZUpJT3JSTG5OUUx6akRBNFkzbm9Cbm1NcEdiS21icFR2MUhvdVhWWTBIVzJfWkxQSHBkTExUeDk5alNjNU5fTWZnWmRnZVI1VFZsRkQtbVVCQ3oxbHZLSVRJOGM?oc=5",
+  "title": "Politique étrangère : les vieilles recettes de Jean-Luc Mélenchon",
+  "summary": "",
+  "published": "2026-09-21T09:00+02:00",
+  "mentions": [
+   "melenchon"
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "7d00a0a083e2087f",
+  "outlet": "Le Gorafi.fr Gorafi News Network",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQUtkRHlKTU50Q0tuRDJMajN6VEphNW5PZlgySVFvcDRibFJkd2Z1cmJqRW1jaUF2YUUzbXhuSjVtVUU2Q1FyaEdNMnVCSUFmQWpoRmVQT3JMY0RxYldZUVg1YmhVX0hPY09YQmNCdWI3SllKQmMtSnROWEdBTzZ2dGktcHRodE5HdW1aWVZqQzFEczg3c21MSlJLVS0tY1g0WVI0MXBhSkFBM1RQSnlkZ3Bkc1gxY3BESTZ1V2V5OThHdEV0ZzAwNlV2TdIB0wFBVV95cUxOZlh1MkNpd0tpTktseXNvb09XalFfS1BfTTUyc05mTUpCWkFQZjB1MkZON0g1SVNNaGFrdDhaN1JIVmFLbDRIUW85cFJVQXJMVWJsT2JNNFhjSjR0Rl9zZkdXNmEtdThES3RwOFJaLXlOQ0k2bE9XT3N3VHpXcThzM0xRbTJUcjh1djBRMHNMN1RKdWJhTVIxa3FrbE12TUd6MlNscHp2OU9qN19uQWlSR3FnOTRweGJJeW5xZTRCQ3VHeFgxUTZTSjU5dHFyV1dkdDBr?oc=5",
+  "title": "Présidentielle – Fabien Roussel annonce qu’il profitera de sa défaite pour découvrir son programme",
+  "summary": "",
+  "published": "2026-09-21T09:00+02:00",
+  "mentions": [
+   "roussel"
+  ],
+  "analysis": [
+   {
+    "id": "roussel",
+    "tone": -1,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "893b9a67f2119b41",
+  "outlet": "Le Monde.fr",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxQakxfdWVFRXhvSk54NTBjR1BpYy11TE9KNF9QdnQ0MmxpbndoTGFfdDc3eHRnYXR3MlhObGZCdWZuYUlPd0VWWVFISFZCNU9DUGtCR1RBQWVYUVFTOG5SLXFySEpsSFJSVTd3Q09VS1ZGdWVCUXJ6S2hBWlhzZGRLaWFpTHdsN0hEYXd6SlYyd0dLMzlRaUtheTFzdGg4dEF3OEtKQjVrcnI0eG02ZGtWdnRvbEhFNDhFb0pFa2pCVDEwcWdKUHRselUyNjFXNzA2SF96WGZPUjJEbjdQbzlxaUQxc1RLMXY4ZGJNbTRmQWNSZlJKaXhRN3dGanhpRURTalQydUZKYmh6YjVSOFJoVFAxN3NnYU9KbmNtMFZhLW1idFJRTS1XY2d2SlIwQ3JY?oc=5",
+  "title": "Primaire à gauche : Raphaël Glucksmann, traité de « stagiaire » par Ségolène Royal, la renvoie à des postes « quémandés pendant quarante-cinq ans »",
+  "summary": "",
+  "published": "2026-09-21T09:00+02:00",
+  "mentions": [
+   "glucksmann"
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": -1,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "8e97662c1fef9fcb",
+  "outlet": "Courrier international",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNU2t5YnN5ZkZReDNpRTM2NkpsU3QtSlRFUzZJS0M1NXZFcjlVS1VrNlZ0LU10N0xSQjViX0FuTU5heF9IU0xjZGpvMU5yeVMtUXVNS1dCckNoaVIwOE1URV96ZmMzUmxzMllMRURGT2hicFU2Nmd6cmRZOG1objhxYm9UQ3lScUl4eF9LREZwUTl3andldFQ4UzFDSHd5YWtpQkUzS1A4VTdpQy1Fa3FrY2cwb3hRTDBhVk15a0lSNS0zVXNqUWc?oc=5",
+  "title": "Le retour de Marion Maréchal, l’“enfant terrible” du clan Le Pen",
+  "summary": "",
+  "published": "2026-09-21T09:00+02:00",
+  "mentions": [
+   "lepen"
+  ],
+  "analysis": [],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "914cc494392dbe16",
+  "outlet": "Gala",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNcEdURVlnWmREaV9BX2VVRmJQNlNWdGZOcW1tc3Z3dzgtNFpFV2dyT0hsUXZrbmg4VmF2SzYzSXZzT3ktOGEza3VsRWc4NWg0Z1ltMHQxTXlIZ05IeXFvaUh6OTFwbHNZQkF2OFFma1hTZGNKLW5mMkkwNVlrM0FUNzl3ZXo2VDRydnNmUjZIZkFpVlpKTkR3M2NaQkhXQkJLYXhsdXlKZ3BKNzB6TUw4R3U0U085NGV4WlhXazhQd1NTeGlZaXZpaktOTk93ZHY5M2Y1VW9Lc2JtNHFHWXYtZm42RTI4NVFmeUNHSUZtd2RBNzZES3cwNWI1NEZadw?oc=5",
+  "title": "\"Je n’étais pas préparé\" : Éric Zemmour fait son autocritique, la présidentielle 2022 a été un échec pour lui et il le dit haut et fort",
+  "summary": "",
+  "published": "2026-09-21T09:00+02:00",
+  "mentions": [
+   "zemmour"
+  ],
+  "analysis": [
+   {
+    "id": "zemmour",
+    "tone": -1,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "96a3de393df88ecd",
+  "outlet": "LCP-Assemblée nationale",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMHNhV0JHSlZxLUdGZjJlWDJuVDhTNmJXM2wtWXV0RXFEWGttd0NJSDdqb3Z1SzUzblRyS24tekZWVDN1X3k4SHJqellYUElqQWtjWWRzRm5icElEVmVHOVgyVThiSHB5SVZkV1hvRkhrTk1yQVlIZkxUSFBJTDlpZmswck9tb0tyMmR2NkhNbEpNUDNkU255ektOakk1ZnRGTnV5dlRWOVRXZw?oc=5",
+  "title": "Primaire de gauche: la commission d'organisation rappelle à l'ordre Royal sur ses \"moqueries inadmissibles\" contre Glucksmann",
   "summary": "",
   "published": "2026-09-21T09:00+02:00",
   "mentions": [
@@ -855,19 +841,75 @@
   "published": "2026-09-21T09:00+02:00",
   "mentions": [
    "glucksmann"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": -1,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "d7a5c6dd0e119198",
-  "outlet": "LCP-Assemblée nationale",
+  "id": "9fd8794975f836b3",
+  "outlet": "TF1 Info",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOc1ZjUUF4dVQ4YmlsVW12S3RZZk53ZWlkTlhGU0M4N0VRclA4MkV0U3czN0JKQVc3OHBSWEp6QlMwRXRrSzRteTRhY2xvWXVmTVpfZkdtSkxQMXc0dW5UU2F0RF9PM2VHdVZ4eWVzSG5NTlhIbHVlX3BxU0FTSW5ZY0tLZG1EQnB2OW94ek9laXJvOTRIQk9UMmZTVDlRbWdrY1FmODlvUDBrZTg?oc=5",
-  "title": "\"Vous ne mettez pas un stagiaire à la tête d’une entreprise\": Ségolène Royal étrille Raphaël Glucksmann qui lui répond",
+  "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxOT01OV0k1dlJtalB4TkUwRGNEZVJhOEFyWXROQ0llM2l4VWNIX2tzVWtTdjZsVHRDT3lsVkhFUkZBbDZBUnp6QnpLOHlZb1F2RzBpZEUtbTlsVFN1TXBOUS1QR2JvS1NXallpdlhleW9lMEhoUHpocHBTTEZLbHBoQUxQTzJNUDdURVV2R2tIZzlGaWJOclgwbjVzdUFvQjlGMW4zbHVudDlUejVlcFJ6SnV1UDRsT0laN2I2VUxGakRqbURqdFN5bHRRZmpLT2cxTjNSdWhteWR3VlVtWW8tbUpycjRxT0ZZRnVFU3hwV011MllzY1BCLTBDVHNvSTlGRUtDdnZBVkRiOVB6aV9PZzBXM2lpbm00bjBpYVQzaHZqN0xFUmVmSnB0R3VsZ3FjWV93a2lRYmc?oc=5",
+  "title": "Présidentielle 2027 : \"Stagiaire\", \"postes quémandés\"... Glucksmann et Royal s'écharpent, la commission de la primaire intervient",
   "summary": "",
   "published": "2026-09-21T09:00+02:00",
   "mentions": [
    "glucksmann"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "a2ad33fd2ba35c7d",
+  "outlet": "La Provence",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNWHFSbzdBTy1VcE0ydS15NTRXRjBuLXhPQUhZS1dwZW1abGtsQlpfVXJldmxLWjRUU0hFUy1DaE1CQ2s2UmRPTDdFdG1qQVZ5bF9seU9KdGNzWlRQUk8yeTNXMjQ5am0ySzIwOVlYUmR2VVlHREctWkppSDRNY2tfbFBRY2pYLWJxNjBQMUtrbGhEeVN3Q1JxZTVUS3RsNUlEZ19MZ2lITGFfQWdSTkJLa2dwd1JRNkxpYlNtMEtEWHotNkRDc08tOGcwQ0c2V29lLVdacEptejFYWlQ3MktmNGJSUE9pWm5Sa29MQ1BINFR1cU1OUU5KX0RiMmQ?oc=5",
+  "title": "Traité de \"stagiaire\", Raphaël Glucksmann répond à Ségolène Royal : \"Je ne quémande pas des postes depuis 45 ans\"",
+  "summary": "",
+  "published": "2026-09-21T09:00+02:00",
+  "mentions": [
+   "glucksmann"
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": -1,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "a48dd0e0554dcd9d",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNVWlkRG0wdURzQ1ZPM1c1Q0ZlODdjaXMtbVZVYmdxS3V1djFONTRER2FNYTVBME5id19UYWRQYldfVWVoMXh6TC1RU1Q1U2phdXRDaGZoNUF4eWMzSUg0T2V3TFF3OHduMVpKMWw2NGJJR19XcmpXS19EQTBpb0IzSlNpT1Y0MkZNWF9Xc0ZHal9WWE1qUUQ1ay1RWTY4Y2MwUHVHUVZ3OThHZEdxeUVHbUFRUjZ6RG52cm1wT3BYOXBXcktqZHl2VUFyUlQ3M18wRS1pNEJpVmhGSjk2VGFKM0FUTS1yZVl1aEFYN3VDSkdzSVgtXzdWSDdubFZNeTE5R3RN?oc=5",
+  "title": "\"Pas possible, ni souhaitable\": Gabriel Attal pas favorable à une baisse des taxes sur le carburant",
+  "summary": "",
+  "published": "2026-09-21T09:00+02:00",
+  "mentions": [
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": -1,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "a6d9c623f9b2efea",
@@ -879,31 +921,9 @@
   "published": "2026-09-21T09:00+02:00",
   "mentions": [
    "ruffin"
-  ]
- },
- {
-  "id": "71cee56eb0acc41a",
-  "outlet": "France TV",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8wLXg2UzE4MTJPVS00cDc2dGdiMzhQUzR3WjR2Vko3TXgwYXFuRFBuX1ptU1BmMlVPb0JkSUNFUGE3R2tydjdkNVZxN21KUGxtWFpmT1VTWjExNjVnWmg1QV9JeWVmYzA1ZlE?oc=5",
-  "title": "François Ruffin en replay - Face aux Outre-mer",
-  "summary": "",
-  "published": "2026-09-21T09:00+02:00",
-  "mentions": [
-   "ruffin"
-  ]
- },
- {
-  "id": "f237f3240b9ee712",
-  "outlet": "franceinfo",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxPT2o0N1l4WEEzd0tpQlFhVEdNT2tnNU05UHh1RWl2elNsb3JFYUFZcEtsWU1vZ0JFZnVhRHE4cWxGREtMVnVNV01GNmVEZFdBUHFTdlZkaG1jQlU0VWpydEd5MXBLeVBxdUgxZ21SYmVOWWZwUDRQdEgzbHlkZU56dWtLNXlZVnVuUWpOb2FTVEJXcTk2WkhnOGp3SjdOYzhuVVQ2dll2RnlsRjMyYVB3cDE1TUF2Wm1EREpOdDJrSmJZa0drMlpVS1Nwdm03UG5pODJQS0M4LUV1UXpSS3hkWEhvd08yeERjVWl2eEdiOXduR0ktNTRSeEhkdDBVbUthLXVkTlM0OG1aeUJRd2gwXzJ6NmZ3dHFJQm9DX3hZTW1TeGVnOTZVWEFLZw?oc=5",
-  "title": "Prix des carburants : \"le gouvernement ne veut pas heurter TotalEnergies\", selon Raphaël Glucksmann, qui réclame une taxe sur les superprofits",
-  "summary": "",
-  "published": "2026-09-21T09:00+02:00",
-  "mentions": [
-   "glucksmann"
-  ]
+  ],
+  "analysis": [],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "a8f62d4dfd62fd6e",
@@ -915,19 +935,567 @@
   "published": "2026-09-21T09:00+02:00",
   "mentions": [
    "glucksmann"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": 0,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "96a3de393df88ecd",
-  "outlet": "LCP-Assemblée nationale",
+  "id": "b06d32c4a08d7318",
+  "outlet": "La Lettre",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMHNhV0JHSlZxLUdGZjJlWDJuVDhTNmJXM2wtWXV0RXFEWGttd0NJSDdqb3Z1SzUzblRyS24tekZWVDN1X3k4SHJqellYUElqQWtjWWRzRm5icElEVmVHOVgyVThiSHB5SVZkV1hvRkhrTk1yQVlIZkxUSFBJTDlpZmswck9tb0tyMmR2NkhNbEpNUDNkU255ektOakk1ZnRGTnV5dlRWOVRXZw?oc=5",
-  "title": "Primaire de gauche: la commission d'organisation rappelle à l'ordre Royal sur ses \"moqueries inadmissibles\" contre Glucksmann",
+  "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNVUdBeXBUbGRxNTNGN3ZjOE9yNWdaYnRfMzd2T3FXb0FjNExpdWRRZHZWNjNzeGcza2l3NUg0T1FmbUV2ZXNJX2Z2NDhTckcyOVVIVDdfX3V0eE5XR0htOFp3WDRlekU4VElBWnU3bzFMS3BIOWlwazdSSzNzUC1lV3l4SnhNcFNkS000UmNHdG1ZWVJocnN3akxRR3dNbXVDNm5DQlJ4a0prMjBya25ZMXc0NklXbm8zcGZYTzBjZnk4X0RPaV8zWjdmek1ueXJfU0lwMFpDRERmUlJuX2k3em96engwZ0FRVmlVeFNQMFEweVNOblc0X0dmaEJ6d29qZmc?oc=5",
+  "title": "Quand Bruno Retailleau rattrape l'idée d'un ex de TotalEnergies sur la suppression des CEE - 21/09/2026",
+  "summary": "",
+  "published": "2026-09-21T09:00+02:00",
+  "mentions": [
+   "retailleau"
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": 0,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "b285dc0e62a6a062",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxQTTZzSHFWUHQyVm9aR0djY0hjUlRrejFISW5vN19zVXVYZmVMVUFfaHU0VnZJS28tSDlUaTQ3bkc4WnVvUkJQRjhtME5sbFhGYkdNbTAwWFdvU0VPNFFsTFlrSjhnYVJhR2d0bkFuaGNCMWFsbkY4OXlhMjlqSk9nTVFSOTRUMEFTNzU4YzJ6STlzWklnai1VSTRtUkoyNFYzdkYwVU9iaEEwYXdYVWFKcTV3ZVNZalNuWmVOalN5bjZtdXYwdk4zM1hrdzJUdWhaTjBkN0UyUnAwZkp6WEhDRncxMHN0ZV9yM0gxT3NrWkp3eWdBbWxjWWF5VDRTa3d5NzdvY2ktNHFnSklvMUttdndNYjFTN1VqNS1QXzJILXJtVWxPS0JBS0dGNW1sWnBDc3dnbHZJXzNxeUZXUjctaF9ZT2d2RVJ0SGdQQzJURG1oN2sxVnZ6ejJn?oc=5",
+  "title": "Gabriel Attal, candidat (Renaissance) à l’élection présidentielle, souhaite créer \"les États-Unis d'Europe: un projet économique, écologique et technologique\"",
+  "summary": "",
+  "published": "2026-09-21T09:00+02:00",
+  "mentions": [
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "b4800e0c906cccfc",
+  "outlet": "20 Minutes",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeVNlZnJ1T1paRVpBRXNEaWd2MVRuRElyQkc1RG1ZczRRS2VRaGt1Z2J6MmR4NThtS3BiVlNGdjJyQzR4VmlFQjZDdHBHcTN6UF8xTm9SLXhObTVaei11NlJpTjBZZVZ0SHRveVRzQTNQMjg5MkViMTZHLTZKOEtIbGlPVTJHa3kzRkE3bVo3Sml2V3pPc1ZwVl96SHRrNW5vZzdDU0NiMHN2TUlDZEVxQUt6MzhxellybW90OFAtQ1JvcWt0RVQ0Vw?oc=5",
+  "title": "« L’heure de vérité » avec Édouard Philippe sera décalée… à cause de Macron",
+  "summary": "",
+  "published": "2026-09-21T09:00+02:00",
+  "mentions": [
+   "philippe"
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": -1,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "b48878f1b3671227",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPT0FmbXZqUUx2VkFtRURGM1JULXVDRkNUUGtobDA4cXczQ0RtVVpEdHN3cmoxd0Ixc1AyVDNRZkMwZ2c2Q2dvTEtnNHhINkhINEJpY1ZxR3ZwSVpjd1AwdnBmSU43bkZHbmJzZDZEWFBTVHF4QWdvMU1xV1Z6azFURl9WSmlkQXVaTkJrbVVXSGtfYmtubXU2RzVfWjJnQ0lWaVpEZngzTnphbUZUR2JzVEh0amxEREFaSUstbUdXbmx2VmVoNFQ4YlFmck4xenZfTGF4aGNDMDNKSVNySi1HaGFTTW1fN0NQRlJBeU1SWFlGMkxRMVo5MDZPV1V3RkVkNDR6a29mV1ctU0FWMTNzeDh1Y2xFWjBtTlYwZGE5QWZGbkxFLUFuSURTd0RUM0NH?oc=5",
+  "title": "Menace russe: \"Tous les pays réhaussent leur vigilance\", déclare Gabriel Attal, candidat (Renaissance) à l'élection présidentielle",
+  "summary": "",
+  "published": "2026-09-21T09:00+02:00",
+  "mentions": [
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "b634b632f3dfdd59",
+  "outlet": "Midi Libre",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPMllmYzhVVkRiMkZmVGk0SUk2Z3c2Y3FtTmQzVWN0NzdGN1FSbkE3ci1kT2xaejJLX0NtTXRheThUR2hTRG1qVU1xVjlMTFJEQXd0S1NhQTZOTmREQ19TNW5Vbld1b0p0MnhlUkZIMTQ4WU5ucXE1OXNZSUNsSFl0MGFGNzlheGV2ZmZLZk5EU0FUVmdDYW1GRG1QTjJhb1NJYnh6T3FJMDQ0NTBZRXh4QkNHNzBTamY2b25vckZQVDR0dGVFNVkyck9RcTBTWXVyN3JZWGlncEp1TkRjQnBuSDV4OVdnMXpkMG9BemtaTmxlMzRGcHVCV3oxXzFtQUhkQWhkNA?oc=5",
+  "title": "Présidentielle 2027 : Ségolène Royal compare Raphaël Glucksmann à un \"stagiaire\", elle se fait reprocher son manque de \"camaraderie\"",
   "summary": "",
   "published": "2026-09-21T09:00+02:00",
   "mentions": [
    "glucksmann"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": -1,
+    "frame": "justice_affaires"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "b8b498855f15968b",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQQWw2NHFKbEw4ZEk2amFIVmRtakRpaXMzd2tLYXpVNXN2bDNyaHk3dDVYaHRDSTNRQVowMGVOTW1CLUhOVTJlQWZtNzNDOE80M0hpaS1HdFVTdV82d0daeHEwWlRSbkVUelBfaW40a1FreWtkVGk1RC1WcEpEenJoZlpLaTNnM1BGQ0JJZFQ3MkprNTBIZGJKMzFuNHg0Q0t4Q29pbDJZVFZUQmJWS3pNbEFDamFiSEw4V19FQ0pWYno5SGQ3OXd0Y042UDlpa3BHcFItTDRxYW80N2I3eHdhVC10VDJDUE1GdnUySW5halgxSG5WQklZVEJxMVpRRERhREkxTm56NGE?oc=5",
+  "title": "Présidentielle: \"Aujourd'hui, il n'y a plus de favori\" dans le bloc central, affirme Gabriel Attal",
+  "summary": "",
+  "published": "2026-09-21T09:00+02:00",
+  "mentions": [
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "bb22c3c591ab21ea",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxPanlVWktyckRwdWlvUUhGemlmOUxMMm9oTHY3emVwX2lraGlVZlNBalRaMWtOOWJXM21pcUhSQmVMdS1YUWF5N2k1cXNfNzFLVFpLQ3o1dVFWaUNKNklGUEthLXdQcTFUMndkRlVpYm1pNElmR2FTaXRxdWZfMlU1aVBYQ0J0a0s3eHdRVnI5Slh0SG9lR1NhTXpmQnVnei14ZjdHVy1mWkVHS2RNbm5zQnh3NGplUDlSbHZ3QkdrNGVjdlRqOEtaS1BXLWhZQmF3S01KVXFDWHpoY1BlNkwzcTk3QWtza3hlZjR0MjdTa1BIcGhCWjVubk5XTnFaY0ZCd29wWHdHUXAyNnh4SFBnQmtWei11WkVTbEpXLXZXUTEzU0VtcF94Qm5XcjRmUURkcEYxbTY2N0xuaHVhclE?oc=5",
+  "title": "Menace russe: \"La France n'a pas les moyens de se lancer dans cette folie\", fustige Nicolas Dupont-Aignan, candidat à l'éle ction présidentielle",
+  "summary": "",
+  "published": "2026-09-21T09:00+02:00",
+  "mentions": [
+   "dupontaignan"
+  ],
+  "analysis": [
+   {
+    "id": "dupontaignan",
+    "tone": -2,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "be9b60bdbad4eaac",
+  "outlet": "Facebook",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPd1NXV2RodkFFYkVBYzM1aW0zYlZLOXhlMDZUaC1maDRHaXFNclR5WmFncDFiQlZkMmF3UGRJTFlpcjFPc1E5eERQZmhGWjNhd1ZJQzdkUTMtTlp4OVNQcUNaeU9ua05sZEs0R0dBU21aTEpUeUxsVC1zdG5sTFlmV0NvM0dBUW8zM3hoOWVKNkprUV8tSnpxMng5RkJ4Zw?oc=5",
+  "title": "France Inter. . Au sujet de la guerre entre l'Ukraine et la Russie, Fabien Roussel, secrétaire national du PCF et candidat à l'élection présidentielle, met en cause les choix diplomatiques de la France et de l’Union européenne : \"Je demande à ce que l'on s'interr",
+  "summary": "",
+  "published": "2026-09-21T09:00+02:00",
+  "mentions": [
+   "roussel"
+  ],
+  "analysis": [
+   {
+    "id": "roussel",
+    "tone": -2,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "caea36f188859c63",
+  "outlet": "RTL",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPaXVaRlNnRm5RWUIzMkVjOGFWYk9ndGRSY2xqTTFXSEFJcV9adzUxemVKUXdNSUp6YmtsdnFXOFNYWXJ1cmFTXzYyVUxKSzdWaXpOSnpVQ0FvSXdQNm5CbURDOTNtZGJ3NzFvMm9ZbTJyb0FpNElNZ0VULXNkbXBtdEl1T2pwbThwV3hqNjZiaUd1WEFUS3hpQTlhS29YbG43b2RsSU50bS1CekJqS1otMnotXzdrRVhGRThodjBYSzFaektVZk90TGdBTGdWTDJRc1Z1bGln?oc=5",
+  "title": "Comparé à un \"stagiaire\" par Ségolène Royal, Raphaël Glucksmann la renvoie à ses postes \"quémandés\"",
+  "summary": "",
+  "published": "2026-09-21T09:00+02:00",
+  "mentions": [
+   "glucksmann"
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "cb45db5039eba8a9",
+  "outlet": "Le Monde.fr",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNT01vRkh5UXNFRkFUMWtSR3FQTGpYUWhJUklqVkk4dHVWTVFPdzU0WWxza0x2bFl4eVkzMVY4X2dWSFlpZkd1RE1Ub2dyNS1IdFZDOU1CNmtzUy1KbkZHSS1Bc1d2MXhCcW5XbHZEYXB6MmFvMTdkSTVKSFVDR1Rxbzg4SkFDSVBFNWRaN2FLNEZWTWd1QWZRSFhPLTAwbHpWNUZRTmZSZ0xQaEVoY1owVUVBN01aOFN5aU9DMGhUT3lZVW5iTEpvSjRXSndfNEVXRzRWc3NiN2dsX0NqWXZvUHZVT2tUM19ISHlQMC1OLXczT0lwUkJWVkJNcjhOQWhEWTBYRmdHNXpaNGxWZnl4cUJsU3pXRHF1S3ROLVZlMW11c2V6QmZqbGJEeTk?oc=5",
+  "title": "Présidentielle 2027 : l’Etat selon Jean-Luc Mélenchon, entre « révolution citoyenne » et reprise en main de l’administration",
+  "summary": "",
+  "published": "2026-09-21T09:00+02:00",
+  "mentions": [
+   "melenchon"
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "cf0eb82882ce357c",
+  "outlet": "Libération",
+  "lean": "centre-gauche",
+  "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNNFVzUG5tMjlQZ2ZsWTZvMUM4Y2YxUTlVNjNIeXJxcG8zaDBnQmdJelRvSjlHa09NTjl5ZExhclB5UTk4M0NoYWVVTDg5MWhsUkM3ZEdXQmdpN05IdkFRdmJERzZwcUsxZ2NnZkpzZi1nQUxuaHkzQV9feEJSOHpUSmxtM19NSTB3ajhiUWlQdFpHMW1vWVFpNkFlbk56TVcyWDN0RUZFQjctMkRjbzBxRnRSZlZSQTE3cU9qZmIxYlNxdnFnaWhpdzk0anZqUXZKVVVDb3dneVhiNUlyN2NSTDVmd09MLXZ4R0FfZmdZcjd5MW9UTVdoTEJEdEVkTm5WcE8wNWY0MnBKc1ZYY3p5ODkybUNZZ0hpYVU0eFFFajdnZjNnaWpfVGRBWm13LXM?oc=5",
+  "title": "La riposte de Raphaël Glucksmann à Ségolène Royal qui le relègue au rang de «stagiaire» : «Moi je ne quémande pas des postes depuis 45 ans»",
+  "summary": "",
+  "published": "2026-09-21T09:00+02:00",
+  "mentions": [
+   "glucksmann"
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "d00c1f13e68abc11",
+  "outlet": "Ouest-France",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNNnVxVFRoNTRXc2lTWFl6SlBHZGFoWFJJZE9LZW1zejNEdy12Q1RHN0RBTGtBVGQyRE1tbUhzeGpBVm5UczVOV3ZRMWoxcGxmQmtsdTB0UDZhQWZFODNmang3VE5QREF1TGdaam0xTUUtVENhaVBDUWZ0RXVDcW5RSGsxR2hhV2VJRDAycXhkcEhwcHBkZnJmcEI1MGFNWUE3VTZtX0h4RXJ5a250Wko5dS1HZ2k0YlViM19wNmJYQnlySXh0NlJENEFNR0x1TmRUSmxpRzgtemlVNlFHcmhMN3dYdC1XTlBXSHZHM3QtcFpFOXpHT0x2Y0dJZnQ2MGY3eGtmaXk3YnQ0bUROb1lqYUE0clVLWU9LWWx0anZZM1plZlRPdlp3X2Zwb1hkdw?oc=5",
+  "title": "Primaire à gauche : comparé à un « stagiaire » par Ségolène Royal, Raphaël Glucksmann lui répond sèchement",
+  "summary": "",
+  "published": "2026-09-21T09:00+02:00",
+  "mentions": [
+   "glucksmann"
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": -1,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "d1901288bea0ab3b",
+  "outlet": "Europe 1",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTzUyTjVPOGhkbmlOZHQ2VjYzcjZGWEdLaXlrUDh0dE9aTDMzSGVNR2ltY0dZLWNYRDJwUVNIR1BMRHJuaml3N3BOc1VYQnB6emZZeUtaa25JZ0dWS2Q1LVpseXRReFVZbDJwLXBqOEF1Y3ZnVHhkYkx3OWxQdnJqVzFSRG9IMDRnb1RpUnNzdlhtRFh3UUJOQnpBZGtXTFRsWVVLN3lRcUJ5RV95VXNNTU9vdUZOLV9MMW85dkNaa1FaRTk4OXfSAcsBQVVfeXFMUFBhVmEtRVVXQzk0d3oxeUs3ZmQxZUxiUVByQ1dIeTJ0ZkF2YXgwWGIyNjdPWDVkeU5RcWpsVmFEdjVTQThMTGFleUtYaUVvdHM4RUNtNUYxcDIzZHhXQmt4bUlvTGdyYTJQekYzVVN1bmJsMnlZMEZOU0RNLXJodEVReWJpU2JoTkdCYy04b29ZWElJUEFJSlZoNTAtWEFoVGwzdmQ2QlFlcHpTZGE3WFpjTjJ1ekhVWUl2VnhZUndoMUpxRGtIa1dFMEE?oc=5",
+  "title": "Primaire socialiste : les esprits s'échauffent entre Ségolène Royal et Raphaël Glucksmann",
+  "summary": "",
+  "published": "2026-09-21T09:00+02:00",
+  "mentions": [
+   "glucksmann"
+  ],
+  "analysis": [],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "d366cf097e14a63b",
+  "outlet": "Le Figaro",
+  "lean": "droite",
+  "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPN0NXWGgxNWwzeDBsc3V0VTF2MFVOTC1URkp2T05XMlQ3RkZGNkdWZDltWDVLaXJ3eWRubU9QVDJrSTRPUGZtYl96WjRHNG5TZ1NLeUlPYmNhU2ptUEpBdUVkNkZBd3Z3UFQ0aE9SRDZGVlJYY0tqbEJjZGRteDFXZ3pLbUNxejlZVVdOcUJjS3pES29BSVJkX1hwQklBMFBkSjQ1WVNlWEUxRG5FckJTUEZpWHFoM0VLZ3g5Wmd0Rzk4LVJCb2xneU5uT1R5WExUdXg1Mg?oc=5",
+  "title": "Raphaël Glucksmann, le «stagiaire» : Ségolène Royal électrise la primaire socialiste",
+  "summary": "",
+  "published": "2026-09-21T09:00+02:00",
+  "mentions": [
+   "glucksmann"
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": -1,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "d6c9a92212898582",
+  "outlet": "Gala",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNZ1NFa2phYlQtaVdTNU5jcnJ4S0ZVOS0wcGJGZVJUMnJEZ2tfZDhXdk9rOGtOTU9UdUljamFUZTEwRWluOVFPMmI1Y2pfbXY2SWZGQWVKRXpQUWRGMGU2RVpkMGdFUVFZSjI1MjVnMUhxN0U4eFJNVVduSmFPbl9hdk91SXpoOEVQT1plU1p1c0NyazdSblJaT0E2c3hRQU9oeHRNeGF6SklDQjFodWVnU19MOGNjT0ZzTnNHZVNWUm1NOFNIbmY3cnBULTMxZzBKRmptRVctLTRjSkpQLTA1NHVkZDJoSkVwZFgya2RQcVh4U1hMcnFCWW1aZU5HeFItWHc?oc=5",
+  "title": "Un bureau pas comme les autres : au Havre, Édouard Philippe ouvre les portes de son univers à l’occasion des Journées du patrimoine 2026",
+  "summary": "",
+  "published": "2026-09-21T09:00+02:00",
+  "mentions": [
+   "philippe"
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "d7a5c6dd0e119198",
+  "outlet": "LCP-Assemblée nationale",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOc1ZjUUF4dVQ4YmlsVW12S3RZZk53ZWlkTlhGU0M4N0VRclA4MkV0U3czN0JKQVc3OHBSWEp6QlMwRXRrSzRteTRhY2xvWXVmTVpfZkdtSkxQMXc0dW5UU2F0RF9PM2VHdVZ4eWVzSG5NTlhIbHVlX3BxU0FTSW5ZY0tLZG1EQnB2OW94ek9laXJvOTRIQk9UMmZTVDlRbWdrY1FmODlvUDBrZTg?oc=5",
+  "title": "\"Vous ne mettez pas un stagiaire à la tête d’une entreprise\": Ségolène Royal étrille Raphaël Glucksmann qui lui répond",
+  "summary": "",
+  "published": "2026-09-21T09:00+02:00",
+  "mentions": [
+   "glucksmann"
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": 0,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "d83d370956023d2d",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNT3lJNzFjZ2RodkZpU0xiaDZDeWo4NXR5RWZCcTJVV2Q3dllTVW1pN3RIeFN3cWhsOUpwMHk1eUxrblUtM3dBMi0xYk9KOHAyeWJpX0w4bDE3cV8xYnhVWnZ3ZVVpMTM3bXJYeVJEbFdNV2tOTjdvYXdyTjdleThmQ3RPb3ZWbmNZZU9iYlZidVd0NVdMdFlpdlNCQkFWT1lFSFMtd3VORGFKMUFmVVFlU2xzU3FKNTBnMXFCbFhBbDU1VjFkTEU2MEF1bG1IUWhlRTRSRnU2aTFuZHo3MFBpNjloU3VNNjhlX0tfc1kwLVNDZkJHQkI3LTJhYmhKQldacmNURzlPNG9wcFdOTWplejlSY2VUd1dYOHhRWUpCaFYzQTB4OTZlVlRJbkp2NTFSVXc?oc=5",
+  "title": "\"Je n'ai pas quémandé des postes depuis 45 ans\": Raphaël Glucksmann répond à Ségolène Royal qui l'a qualifié de \"stagiaire en politique\"",
+  "summary": "",
+  "published": "2026-09-21T09:00+02:00",
+  "mentions": [
+   "glucksmann"
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "dcd8676ea3ef5e6b",
+  "outlet": "franceinfo",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOQ2w2SXZaSDdubVVDbXB0V0MzaTNya2h0bVNkaW12Z2o1QUJ4T1dsMVp6Z3djM0dPUzEtYUxmVy1xSHNXMVNGZ1ZiNkJnak5taDc3TXhYdWJnbzRDY0Fqb0Flbi1XcGlMYTF3U2NTU2ticVJZVTdYa2JndENMZlhmVkpjWEtUSWlDRXJ0YjlFUmZkV2dFS1hEczVQbnVON1g3RGtKalJnYU1IU3RObVNRQjc2NzZHTmNkeld3cDZ1UkwyZ2Q3UGFqbzJpTXBUQ0RyRzdxVllwM0tqS2JBNVV1OXMzMFdLajFNYi1zVC1OVG1vQnNwRmpmVjJaV21jZGRHb3ZWVmhLbzROYXNpaUZoZ2U5S2dQVHlf?oc=5",
+  "title": "\"Ce type d'attaque avilit l'ensemble de la classe politique\", répond Raphaël Glucksmann, qualifié de \"stagiaire\" par Ségolène Royal",
+  "summary": "",
+  "published": "2026-09-21T09:00+02:00",
+  "mentions": [
+   "glucksmann"
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": 0,
+    "frame": "justice_affaires"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "dedf6587108f7e8c",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPS0I1S1R2OXg2UlNqVHBCdVpKbmFkOHpCWFV5ZzNoaU92T19uZmQ5Smhxak53NFNsRDFiWnByaHpOTm10d2Nzaml0QUpqSGRvU1RZU0g4eDh1c3RUMTBBMUZfdkhBX19wYUt4NkVyWHRicGhpVlU3YzVhWkp4OXp5S2xLdGQ1TlNXemlRYzVscDJOMjFBQXBXZTkxMll1VHZNQ0dBcXZGckxVTWZXOHpMTXFXSEVmX3NTRUYwQkxOU0d3RTNtNjMwT3c2S3EyamhfYmZvYWMybjhqeldHUXQ5RUFtNTJReEhXQzNzZGlWWmd0X29zeUZJV0JOZEJTUDhxeVRPdldBNjVzQQ?oc=5",
+  "title": "\"Ni possible, ni souhaitable\": Gabriel Attal pas favorable à une baisse des taxes sur le carburant",
+  "summary": "",
+  "published": "2026-09-21T09:00+02:00",
+  "mentions": [
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "economie_social"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "e653ccf9aa4aa596",
+  "outlet": "Gala",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOeXpFNlEtYkRYTUxHdnd3RV9QSXdmeFoxUXVtby1zLTBfWlFNTTlQMlRoZjZYektycnpLT0FTY0h4VmhLWE9PbkdRbEpDZElXOTRwVmdTNENTMVpZenhiZHA2TllSNG15QWkyZmZqZGJXWGR4OXRUOG15YkdzVFJrbzRsOVo0SHc4WDZTWFB6QzBmQVNIQWpjQXFOdGo5Y2dLRmQtVnFPeEF3VTlCcjFfSzFISTNhWWVSdkx1amVjUk9rdnhseE5QNjgxMjJucV9WOEpPNXNuNEhpWmhycG1GUXlEM0xBV1Z1eU9qczZ6X1dPTVE5S1JXag?oc=5",
+  "title": "Sarah Knafo : de la Seine-Saint-Denis à la prestigieuse école des élites à Paris, que sait-on du CV de la compagne d’Éric Zemmour ?",
+  "summary": "",
+  "published": "2026-09-21T09:00+02:00",
+  "mentions": [
+   "zemmour"
+  ],
+  "analysis": [
+   {
+    "id": "zemmour",
+    "tone": 0,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "e8d0f53f6c9cbd58",
+  "outlet": "Le HuffPost",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNekp2QVFteUk2Tm9EZjJvNDl6R09yZHNSdHJLY2h4MUlOb0RBbGdrWmZkbTFEV3Q3dHo2blB0SUliOG5lSER4RzdHNVkyMGw1UW9XZHROUXRNSTJqbk44anVIaTlxSDJEdTNHc0xMU1JrUWo0aFluQTAyWVhZWUVXOFhiek9fV1JyalRVWHQ1X3doWTVxdmtSWnJralI4WDZXbHZXck1seDFIYnl4ZnRPQmkwdGRUbGZNV21HcGhMTXM4SWhiVXhSY0R3LVV2ei1MYTdzUTI2RVB2RTFNbWU2X3h2UERHQUdINVdOYzBmWmNDdVU2OWRvNF9n?oc=5",
+  "title": "Raphaël Glucksmann n’est pas le seul à s’indigner que Ségolène Royal l’ait traité de « stagiaire »",
+  "summary": "",
+  "published": "2026-09-21T09:00+02:00",
+  "mentions": [
+   "glucksmann"
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "ea98e097b441ef14",
+  "outlet": "Les Echos",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMVhrNTFncl9WMFdrc3BMX20xSWxUWDZVNVczTHFYTGRBalpHY282ejg3cF9FVGo4TndGTWstYk41dnFHM19ZakRNTzJlTENZdkdvWkpnSTY2RGhhSGFTMHNNa0o3QkY5QWhVR1Z6WWJMaGZpT2Z3Qlp4b0ptanV1SmNsYi1mTnpXR3VDaGM0WDFoXzhj?oc=5",
+  "title": "Hollande, la coalition des involontaires",
+  "summary": "",
+  "published": "2026-09-21T09:00+02:00",
+  "mentions": []
+ },
+ {
+  "id": "f03cc4a9d9509d1d",
+  "outlet": "Public Sénat",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNVEN1anJFYkJQWUFmejhVMFpGVjktckp2b3ZrbGpVV21fV185dVY2SVNHZXFiU2czUnNWLUwxLXAzSWE2RHg4ZGpCUjBCeUNkYWhQQWtXcmhMT3RDdERQUkNxMkdjRUkyb2JqOTczQ2Q4QUZmNEVwU2d4eWNkODBmcGMxZU5qd3RsSndnNV90eklnZnJsM1dWU3V5QjJoYjdPMVNvRzkwQk9UZElGeG8yeDYwUkNNeXIxMmNObVJpVG95THliRDRsaGpPcFgtSkNEZnZRYk5nLWY?oc=5",
+  "title": "Glucksmann qualifié de « stagiaire » par Ségolène Royal : la primaire est-elle une machine à perdre ?",
+  "summary": "",
+  "published": "2026-09-21T09:00+02:00",
+  "mentions": [
+   "glucksmann"
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": -1,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "f237f3240b9ee712",
+  "outlet": "franceinfo",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxPT2o0N1l4WEEzd0tpQlFhVEdNT2tnNU05UHh1RWl2elNsb3JFYUFZcEtsWU1vZ0JFZnVhRHE4cWxGREtMVnVNV01GNmVEZFdBUHFTdlZkaG1jQlU0VWpydEd5MXBLeVBxdUgxZ21SYmVOWWZwUDRQdEgzbHlkZU56dWtLNXlZVnVuUWpOb2FTVEJXcTk2WkhnOGp3SjdOYzhuVVQ2dll2RnlsRjMyYVB3cDE1TUF2Wm1EREpOdDJrSmJZa0drMlpVS1Nwdm03UG5pODJQS0M4LUV1UXpSS3hkWEhvd08yeERjVWl2eEdiOXduR0ktNTRSeEhkdDBVbUthLXVkTlM0OG1aeUJRd2gwXzJ6NmZ3dHFJQm9DX3hZTW1TeGVnOTZVWEFLZw?oc=5",
+  "title": "Prix des carburants : \"le gouvernement ne veut pas heurter TotalEnergies\", selon Raphaël Glucksmann, qui réclame une taxe sur les superprofits",
+  "summary": "",
+  "published": "2026-09-21T09:00+02:00",
+  "mentions": [
+   "glucksmann"
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": -1,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "f4cb5ddbb31e46de",
+  "outlet": "Mediacités",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbHRhVWp5SzFyekJUOC15a1pMREowNXZZT1JoMjVxZVBYa3M5cDlSYjNGYkZScHZUSmdGUWM2eG1DQ0o4MFFwY3V1Zl8zbFk1R0ZhQXFGWEFzb3BYT1c1cTMwNVNUVzVoZmRVWG9EcjJScl9aT3hNQnkwZk43blY4MzkteHFMVnJqUDNjWWxrMUlzZzFJWGJnVjZ0UkdGbkpBVlZVS1d1N0NtalhERFJ4d2Zkd3AzWVlTbEZfZWJXVQ?oc=5",
+  "title": "À Bram, Raphaël Glucksmann se fait adouber par la « gauche cassoulet »",
+  "summary": "",
+  "published": "2026-09-21T09:00+02:00",
+  "mentions": [
+   "glucksmann"
+  ],
+  "analysis": [],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "f4e2d2861ae5144c",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxQSHpFWGxNSU5mQXNqWWhrVjh5R0xpQzI5WHJwekl2OE82NXB4TklETFN5a05ZWGlmWVU5c3BhYU4zdHVPQURjMlBFWXNaT2t3bzhFTzQyUTc4WHVOZmdWUVNWVGJkaGIxNVFCbXQ4ZjVBOUVKa25wRFN3WHp6UjFIOWNzaHdEOTd5SFlYT3VCaDdkX3p1eEwzcF9oOEs3eHZwOEZqMDYyNHZyR2FWZnc3dmtud0poangtZGh1ZE1WU0FJV1J3MllVaFFlTFFSSGx0YXpSLWZqSHV6dXp1UWVxNVBtY0tMbGpkdTlOenBfcGprQzFHZW9FQm1BMDFjaEFGOUFLRUtjSU9GYkhUNFBDb2pLNHpfd1prVFNMUkhteE9LanhrdzdkVjZjZ2pPVy1Jdi0xbTZIN1BseTdnX0w5UlNXUEU5eE11NkZHRnpxNA?oc=5",
+  "title": "Menace russe: \"L'arme de dissuasion nucléaire ne doit pas être partagée\", estime Nicolas Dupont-Aignan, candidat Debout le France à l'élection présidentielle",
+  "summary": "",
+  "published": "2026-09-21T09:00+02:00",
+  "mentions": [
+   "dupontaignan"
+  ],
+  "analysis": [
+   {
+    "id": "dupontaignan",
+    "tone": 0,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "f83cbabb2d7c3155",
+  "outlet": "Le Figaro",
+  "lean": "droite",
+  "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNWE5fcjViYzVDOVJQdFJzRHpSZGxKamNGazEtdHNNRGN5d1Q2YzVuR0dHUGxHd1Z5MWFsbWdLQV9FVF9PWkJKT0tOc1hBUk9WNzgyamZqNDJjQmR0Nmt0V29NbHowcl90dksyTlMxSHU3WDdYYlZBRElYWERqRWhxRzZMdnpGbG9nb19VbmhGNVF0SEJWa0N1TkpEOVNCc3B5OGNEanJOMUpZbDZkMHVzRVJfb3pObzZNdl9DRGRoUkdrZ2w2MHdNY3BaRng3NlJSYlRFeGdrN0xIVVl3WVNZVjJCT1VEczgwQXY5eFl0QjlfaUFpLVA3TTVSNG1yWE8yX3NURVlyUjNzNks5dGhwMWVrWTdyWHd4WXJxdEtJSktjSklfbmc?oc=5",
+  "title": "«Je n’ai pas quémandé des postes depuis 45 ans, moi » : traité de «stagiaire», Raphaël Glucksmann répond à Ségolène Royal",
+  "summary": "",
+  "published": "2026-09-21T09:00+02:00",
+  "mentions": [
+   "glucksmann"
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "fa9894d9d41b273c",
+  "outlet": "Le Dauphiné Libéré",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVlFQX3FfOWsxTE1nWlRlTWJwcnVxY3JaU2EzZEp0YzdYdU5hN0dyOXdYUy1TckdCWlYxbUtqMjhtOHdURXpoWFFpakdFTDNRTHM3RWd0U2VzS1luVjN6dUl1UE04bVNqb3BXOHpjRHh4OXViQXdOOFBOdjR2SkZub0J6ZWwwMGxlRHBhZWJHS1h0UGJtTTRjZ3VieGVmNnV6OGxjV3JmTmJIYjI5Z1VxN01lTkJISzk2QXlCS0I2emZRZVp0bEdJNVY2azh2QjFuS2c?oc=5",
+  "title": "« Des robots à la place des immigrés » : pourquoi la proposition d’Éric Zemmour est irréaliste",
+  "summary": "",
+  "published": "2026-09-21T09:00+02:00",
+  "mentions": [
+   "zemmour"
+  ],
+  "analysis": [
+   {
+    "id": "zemmour",
+    "tone": -2,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "fc45af568665ebfe",
+  "outlet": "Midi Libre",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxPWXFIWXVLSEg4WHUzckYxa01hTk16Q1JjUkcwbVFYU1hQbU5XNkoxYkdHYWE2QkRaMUlNQzg5V0NNRElpbzdrY1hSOUM4bmxIX3VlWW5YTy1pVEFmbURvcHJqZENXek5lQl9jZ1hzZVE0OGItSjNCcEt5cU14ODQ0SllTYnlvRGJua3ZFZExQQlFmbnZuS1c0Uzdma2ZjVi1iT21IZThHY2JwMHFJN2RQbEhTeWJaREF1TldPYVQ2TE9kVS1LR25VYjFualRpbnVfRTJwRjRibHpwWHRXWjFqeFFtSjQ1Nm1vcnRMWTI5VTZoUWlhNVMzbWJVeUh1LTh5NDBKeW5wSlNGYzFoMDZuczIzZHJLeF9CQlUtbk13?oc=5",
+  "title": "Présidentielle 2027 : \"Je n’ai pas quémandé des postes depuis 45 ans\"… Raphaël Glucksmann recadre Ségolène Royal après s’être fait traiter de \"stagiaire\"",
+  "summary": "",
+  "published": "2026-09-21T09:00+02:00",
+  "mentions": [
+   "glucksmann"
+  ],
+  "analysis": [],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "3783b774af518557",
@@ -939,7 +1507,15 @@
   "published": "2026-09-21T10:19+02:00",
   "mentions": [
    "ruffin"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "ruffin",
+    "tone": 0,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "79aa951b2f9dc6c0",
@@ -951,6 +1527,14 @@
   "published": "2026-09-21T16:00+02:00",
   "mentions": [
    "lepen"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": 0,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  }
 ]

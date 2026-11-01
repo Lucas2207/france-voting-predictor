@@ -10,16 +10,44 @@
   "mentions": []
  },
  {
-  "id": "7393165d1aa9fba7",
-  "outlet": "Le HuffPost",
+  "id": "0d1fdb0dfb07decf",
+  "outlet": "Actu.fr",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQWUhjVmdOVDE5Yl91UENNeWI1ZGNtS3RXV2ljbkMzX2p4bE9McnJVeDRJa29CNnhJSERnSDRkWjN3dXRZU1hZbXVXUDZ2c3Q0WERDY2QzVGtYMnBpem10V0JxX0NzWDdyV0VpUzNLZHNJVG01d1VEdEc3SWYxLU9BNmgyUkVzdDVaV05TbHZXQzF1VUtRS0pxRC1ybV9GYlZielNiVmJTWktZUkZyQUhrVDJqcGg5T1JmcmVXQnlvVnBVSmV1a0M4VTFBVVYtRlNRWkg3RDlnWG1SOWtGRko5VmM4cndzZw?oc=5",
-  "title": "« Quand ça va mal, ça se voit » : Bardella reconnait avoir été déçu après la candidature de Le Pen",
+  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZnBBYTlIalFHYWx4VkdJazh1ZHI1VVVIOXdHdXpGamZHZjNfeEN4cjdXcVlrSUdhYlBoMTlYM3FlSnRnVVR3UmNzMjRpN2FteElUdnpsY0JGZzR3eXZBRHN4b2poRUtNTklUSk5UYS1JbXpab0xYREktS3h4SGtKQWQ2bTF5N1o0V2tDQjdWNnllRWtDTjdVaFJYcndlMno2MWFob24zT3F5M3g3UDNMVG52SGxiWG9L?oc=5",
+  "title": "Élections sénatoriales en Vendée : carton plein pour la liste de Bruno Retailleau",
   "summary": "",
   "published": "2026-09-27T09:00+02:00",
   "mentions": [
-   "lepen"
-  ]
+   "retailleau"
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": 1,
+    "frame": "sondage_dynamique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "0d556feea0577fec",
+  "outlet": "LCP-Assemblée nationale",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVm9HV0ZuX2FBS0Y0M0hHdXQtS1o2TTJ6VmV0SE1GOGtscTB5dnEyV19YR3BHaDIwbHpiQ1NWZXhsZU5rcE91Q0FLekFBbXBjb1NfR2pGZTZ2cVdWeDBuOE4zWHZSelUwQWRmQVQxaDBDTVFIc0NyZnBXOVhYUE9mODVDbTlPa1Q1WW9SLTVjMDh0ZVdIOUhJbmZwM0psdzBOS0dfSGhIOU8wcFZ6ZmZGXzA1cXI?oc=5",
+  "title": "\"Une élection présidentielle sert à choisir quelqu’un qui est un chef\": Édouard Philippe se confie sur l'exercice de l'autorité",
+  "summary": "",
+  "published": "2026-09-27T09:00+02:00",
+  "mentions": [
+   "philippe"
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": 0,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "38fb11cd733e21b6",
@@ -31,7 +59,329 @@
   "published": "2026-09-27T09:00+02:00",
   "mentions": [
    "lepen"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": 2,
+    "frame": "sondage_dynamique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "44ae7eef9633483e",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQbGFXM1AtMFlQY25SenlmRHhHd1VJS215SlRvSF9wM3dFcmVQSWlYUTJVY2J3TEM1RzdwaENxUUxDeVo2LUl6cmpNLXdGQUU1eUxMSWhXWlZhM19ZWVZrWGRLTFQ0ZzBaZVJzamZocWc3VFRxblFTVENlS0VnYXRaa1FmTVFsWDJKckFtT0lDbzYzQzUtVGlFb1B4NS1pYV9WWnBKR1NQdGQtRzZHZTNmbUg1ck5POWpzSmUyUGZTM3lsRzd1MWo2Rjduek55RzhjakI4LVQ1MzhHMmNud2lsYWFMVQ?oc=5",
+  "title": "Élections sénatoriales: Bruno Retailleau de nouveau élu sénateur de Vendée",
+  "summary": "",
+  "published": "2026-09-27T09:00+02:00",
+  "mentions": [
+   "retailleau"
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": 0,
+    "frame": "sondage_dynamique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "47c483dab1333f7f",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPYUZYT3FYTG9zbWd3aGw3ZE9sRUFxSDNBNDZyOUxFUWNLSURSelllWDR2bTl6WThMRURNbVRkOUpWbU0zMUtmcGVuV0E3LW5QbUNORVd1MHBvRU93cTNUMVd0TXlURXE3NXV4Ulh3NVVRaGlsUVJ3MW5iRHFLSkhZbUQ2Ri1yOGoxazFhTUZVeTlLeUl5X1FvRnFvM2dMa25sdUI3Tldhc3RZWW1iS19abGoweDFiZDJZWFR2dUpMbUJOSEFLTXdfazd5S1c5bGhJdVRoWmg4N1JrZGxoMzJURDFNNTk5T2xUNm1EVTBlYm5WSE9HaXltVG02blJ5ZjBYX3VtU3dxOFVqRmt4eWMw?oc=5",
+  "title": "Un groupe pour le RN, entrée de LFI, Bruno Retailleau réélu: ce qu'il faut retenir des élections sénatoriales",
+  "summary": "",
+  "published": "2026-09-27T09:00+02:00",
+  "mentions": [
+   "retailleau"
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": 0,
+    "frame": "sondage_dynamique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "51ccbf2740217daf",
+  "outlet": "20 Minutes",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9sX2k4TEh2X0d6cXRkSnZNUTBSbEdwbklCM1lMMkVobjA0M18taUVPYXBYOTRTTGlfU2FNTHZXbzF6clZKb3B5REtiY3hiNkdvMzI1WExlc2IzcTRaOS0zYWN3?oc=5",
+  "title": "Nathalie Arthaud : Actualités, vidéos, images et infos en direct",
+  "summary": "",
+  "published": "2026-09-27T09:00+02:00",
+  "mentions": [
+   "arthaud"
+  ],
+  "analysis": [],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "5e42c49f8e4aa5ea",
+  "outlet": "Europe 1",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONFA0VG1iZjhVOGs4TTQ4c0hHY21tQV9rdzNvWTFpLW1EOGlaTExITGtCM1J3Y1FBNkZIM2dTMVQ1TXJwcWpVdVlndm9HZ0d3XzQ5V2VnRkl4Y1Z5ck1YNkNKRFBZeVhKb0Y1RTVxcUJWY0dJdW1wZXphWGUtZ2JVRmZ6R2Z1Q0Y1WHk0QndoMVc1cHliTU5EUVZwMi10ZDlBVXdMeTlnSm55WG5qU3czMFdaRTdJZkJjUGVuVW1B0gHDAUFVX3lxTE9NR0Vid2piT1N6bDJVWFFFRU9EdUZ1dnVoWl9jZ2doMGVIaTdxanMwOTk3OVhNRnRzNE5EMnBtNFZJS29nQmZXUzVrUHRwTEJuT2Q0aWxTNG9GNUw2dHFzUlhfTmNtVWtGdnpuWmFEQlQ4bi1aUy1LQ2Q4MUlwV19md0pMRVVGVFJEMXlyZ0JXRXhPTnVjXzdLMS05QXdFZWJiMWFKRWpvZGlLSWM5TmZjM2RMemQ4bmVCODR6MTZYcjA5cw?oc=5",
+  "title": "Sénatoriales : le candidat LR à la présidentielle Bruno Retailleau réélu en Vendée",
+  "summary": "",
+  "published": "2026-09-27T09:00+02:00",
+  "mentions": [
+   "retailleau"
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": 0,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "6056d022eca876de",
+  "outlet": "Mediapart",
+  "lean": "gauche",
+  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeGNxZ3JPTVF5VXdhRkcxcjc1NUFVZkcwbjBTc3E3Q1NaQWUwVjhDMU5Qc01MQXBPc0V0QzJmd1U5NW0ySlhrYzV4SXVDa2x0a255eXpFODFsZ1FOaGIwRWlPdGdvbjk4NnMxU0ZRN05tZTBxNHEtS1M0Wnk0aVFxNDE2M1hDQjQ4aGdXdXZiYjN2Q1FhYUR1a1o2ZE9kSEJkaTlF?oc=5",
+  "title": "Gabriel Attal : la campagne en toc du « candidat TikTok »",
+  "summary": "",
+  "published": "2026-09-27T09:00+02:00",
+  "mentions": [
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": -1,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "6be9717c6fa90069",
+  "outlet": "Yahoo Finance France",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOY1lYMUhtbWtjWUs5RjBfMVZGSzFSeFh3Q1V5NldPaVZDcmNRdHlRLUNlYUNxWUh2bEQ4Rkh5LWtPSVluZkV5U0U1T09WbDRObEJVUWxzS0xYS3hXZmZYOFJHYmRaeWFYQ1U0VldPZmR5dXpUeVp6RjU4b2plNFM5VTZfaUxNb1BwZmhObTUzQ3IyNHFTN0pON3ZfVGFzYm1JYmtV?oc=5",
+  "title": "Retraites selon Édouard Philippe : ce qui pourrait changer en 2027",
+  "summary": "",
+  "published": "2026-09-27T09:00+02:00",
+  "mentions": [
+   "philippe"
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": 0,
+    "frame": "economie_social"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "71a2046739414ad7",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNOWJnWlNXU0RfTEQ4WW9NSlJYTFRSYzVvSE5XNWwxOGE3Y1FKRW4tY3RTS1c1VnMzWk41SWh2b1dUV0thdjRXcmtaUzJVdmZDT2JxWV82Y1paOFRQRm5jaGpqWDRxUmI4TmNaa0k1STE1NlVmUWNYbHpiYVlIRTdTMG1lYncwd3ZnQmNtb1ctRzB1SU5QX3I5elJvaFVMYjItbUJ4QzJja0xHVTlhVm5FbnM5NWhGOTh1SHI1TXpieTBZQk5tUC1HLW5HYzdlQXZ3WmI4SV82d0dGSUVIMXFuRnN1QjdjZFo0UlZmN3JKQS03V2RDdWVMUXVsc1JISVk?oc=5",
+  "title": "S'il devait voter à la primaire PS, François-Xavier Bellamy (LR) voterait \"pour Raphaël Glucksmann\"",
+  "summary": "",
+  "published": "2026-09-27T09:00+02:00",
+  "mentions": [
+   "glucksmann"
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": 1,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "7393165d1aa9fba7",
+  "outlet": "Le HuffPost",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQWUhjVmdOVDE5Yl91UENNeWI1ZGNtS3RXV2ljbkMzX2p4bE9McnJVeDRJa29CNnhJSERnSDRkWjN3dXRZU1hZbXVXUDZ2c3Q0WERDY2QzVGtYMnBpem10V0JxX0NzWDdyV0VpUzNLZHNJVG01d1VEdEc3SWYxLU9BNmgyUkVzdDVaV05TbHZXQzF1VUtRS0pxRC1ybV9GYlZielNiVmJTWktZUkZyQUhrVDJqcGg5T1JmcmVXQnlvVnBVSmV1a0M4VTFBVVYtRlNRWkg3RDlnWG1SOWtGRko5VmM4cndzZw?oc=5",
+  "title": "« Quand ça va mal, ça se voit » : Bardella reconnait avoir été déçu après la candidature de Le Pen",
+  "summary": "",
+  "published": "2026-09-27T09:00+02:00",
+  "mentions": [
+   "lepen"
+  ],
+  "analysis": [],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "73c548ca64775eec",
+  "outlet": "Lyon Décideurs",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcHRKa241OUlzbVFNSXhCeEI2UTcyOTExSDRjRXlHalBZUTZNOTlYRHNkUkVyd3Q4NUhIYTdyQ2s1UkgzeDdaWmVfYlZpd3hHM3NFSk5OdXVnd0lUQm1XVjAxNXA0WHFNbzBtbF9UQlJYT1dCQkMzUVB1WEdmYVpkR1d1c05lNnNWd2QxN0F4TWptaDZRTms5TThfWlhEVVFtbDFlazhlWVc4M0NnNkNmTzhqY3NpSlk?oc=5",
+  "title": "Sénatoriales : Serge Bérard et Nouvelle Énergie créent la surprise",
+  "summary": "",
+  "published": "2026-09-27T09:00+02:00",
+  "mentions": []
+ },
+ {
+  "id": "81ee38f806f64fa9",
+  "outlet": "Le Figaro",
+  "lean": "droite",
+  "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPWG1oanhmR25HNlJKb3YtOGRsdTBOMHVFMkktM2ZpR0ZpdTdmWWYxTURyT1prQU9NeFBZcUlzZXhXai1mM0ZhNXZBZ2E1WVNISFBqZWgzcXNpSEZlV3V4a1NVNi1oeF9uSjNRdzN3anNIRi1mekNvRXFURVowWWpONGZrVE12ckV3Umx4a2ZidS1aSWN0aEZ4MGtBdHBCREcyVkhtNDljY3JfMkowNFJZVnptNVMxQndmLW53bjFsa18wb1I3aEZMS0JmbzJ3dm1zVlR5U1p1LVJDS1RDdUgyaDRXVnY5ak81dnViMjc0LU0zY1RjVmJlTS15ZUZaMmIxWng4dXVYVnhKV0xRblB5a0VaRGM?oc=5",
+  "title": "Bruno Retailleau : «Je veux que la France retrouve de l’influence en Europe et que l’Europe retrouve de la puissance dans le monde»",
+  "summary": "",
+  "published": "2026-09-27T09:00+02:00",
+  "mentions": [
+   "retailleau"
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": 0,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "86c35fc308dc4513",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxQaVQxVkIzZU1wME5jMXhRMW1Bd2tpWi1ValFlVHlFX0N2UC1RUEpVdmRYZjFWUE9zYlV2bU1Fc1RGQ2dNRGc4WkduOXRRV1VGTzZjcXBIOEZvY1NmWEsxb01DcFhUa2pYa3B0SGUyVTNiSVhsQjRhbkRxTGZaandCbHJkTUVqb3pCY1QxMlRqLWtVc2VrN052UmtVUHdpaHpET0J6Nkk1X2thVXVYWGk0U0xsR3k1YzRLcjRxWWZHVUxyVHBoc1M4dXJONDJ0S0t3enh0T3ZBUlJHOXBDSllnemtoZWJmTTh3cTVpZnBta0lRdHJmWmVpU1ZxcXNVcnliU19nY25hdDVLUlU5N0J6bWxSM3FHVy15S3llbGg4UVhhMEsxdTd4VWhTMktiY1hCUXd2a2JzeEI5c0RLc2hFVERtVWZTb21BV1N4OTlB?oc=5",
+  "title": "\"Je suis convaincu que [Bruno Retailleau] peut gagner cette élection présidentielle\", déclare François-Xavier Bellamy, vice-président des Républicains",
+  "summary": "",
+  "published": "2026-09-27T09:00+02:00",
+  "mentions": [
+   "retailleau"
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": 1,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "8f6f38aabe78c88c",
+  "outlet": "Le Progrès",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOYmJmcTJodkhMdkdNNWVXSlRZcHgxeGlybE1waTNqVkFKWDdCbENlZTVnTzlsS3N5TWR1dGN2Uk42YkE2WkRtQU9NaTZKdWY0b0NqRVNxQzZtdklQdzNzaHJYLTFqMnBiSTFKWWhhcG1EWENLel81V0tRaVpzODc3Z3pIYjZLcU1SeXpaQlRmX1hxdVBFbGZPYldkaUFBMG9WQURLX3hOZHdEZFJsNkZWLVF2VXQwY0gtY0JTOXBSSlA4N3lnYlN3Zktjd0NpeU54MEktcG1VVGF0SDEyQ2pnNWlqZjhqVEs2?oc=5",
+  "title": "Nathalie Arthaud annonce sa quatrième candidature à la Présidentielle à la fête lyonnaise de Lutte ouvrière",
+  "summary": "",
+  "published": "2026-09-27T09:00+02:00",
+  "mentions": [
+   "arthaud"
+  ],
+  "analysis": [
+   {
+    "id": "arthaud",
+    "tone": 0,
+    "frame": "sondage_dynamique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "9a96c7bbdb99700b",
+  "outlet": "Ouest-France",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNcUhjaU5xZW5xTVRMTi0tYTdJbjNsaVZTMG9IUExxNEY1am0zOTZUdXNMTjlnN2E2WWw5Y2J6OWYxSDZDcDdKSXdZN0luUUJFODRCOTF2X0x1c1NRUHl6ekJ3Vm5IZ3U5WnNlaERyR0ZOeUJkTldhQlNwYWl5YkctNm9ORHkxUmpONW1NeHZyYk1pOTNGakFGcDlINHBnNk5PYnN0OTdfSlhxS3l3Q0t5NEhYcldsbXJhczlUcVI5SHlPdHhXemdhamkxZEVzQ0VvY0JnWTlkRnM2bW5SQ1c0aVgzMHlYSGlxUVJINnFuNjI1WHk5MXE3XzBCcVM0b1lLWVMyUUxxeWhlWGpUNHZPdDBoQnVpUGg3bXdxQ3Jfay0wQQ?oc=5",
+  "title": "Sénatoriales 2026. Bruno Retailleau confirme son ancrage en Vendée malgré une égalité pour le troisième siège",
+  "summary": "",
+  "published": "2026-09-27T09:00+02:00",
+  "mentions": [
+   "retailleau"
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": 0,
+    "frame": "sondage_dynamique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "9b3f0122d15d6903",
+  "outlet": "La Tribune",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPdllKWEdPeGVya05FckgzWjBCdW9ZZUpiWktlYm9mbjRXQXFMSEZOVzZ4VFg2Vm9qUWtDVVgxQUwzSnBsTDFja1JnTkN1TG5uUXgxczh5WEM0dmZ2aFhJMlhCRUdFVml4QnpBVW1wbEJkZVphR1RqbHp4WW5sdndSLS1YcV9ieG5lNUNzNHFYXy1aWmV5ZjRxYnpxM0NWcEY2S052SS1CRmwwcUk2ZlZrWVJ2UGZicERrX3RselplZmZONnRsaUI2RVNHVkxvdGc4bExDTkg3bF9wbDdOclJtaG14cGpzQ2c5ZzJTcnprZHY3SFhvdEYwQXpSTmlmcTYweU1LR05qQklTbmhjdGc2SDExNWtrZEwwY0E?oc=5",
+  "title": "Conversation entre Édouard Philippe et Olivier Norek : « C’est sûr qu’une campagne peut offrir un décor à un polar »",
+  "summary": "",
+  "published": "2026-09-27T09:00+02:00",
+  "mentions": [
+   "philippe"
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": 0,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "a0e39a719140be62",
+  "outlet": "Midi Libre",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNUDU3VWlaUXNLajJMN2RYX3paMW4waVpqY1ZYTmlKU1B3Wk1NcF9laFFJQ2VINDlFS3FFSEFTYV9xdFJvekJCWjU4dGVTYVkxLXdKUVFwclR1eXd0TGNhWkR6cm05WDBIMlFKcGRqQy16Rm1XOHN0cGdyaTNUQU5vbW9xWjBMQUYzMnpiaHpYVFVZOHhwLVhrRGxOblhxaXotVFpuS0VJS3puMEF6V0d4RWdFdG1hV0lhSWl3MEFFUlNhekNYdlNvVUN0WHEtcVNGNklPYWMyWTg4UlBzQzYwNzdQbE16aWsyaDVoTWhTeXNZcVQzTWJvN0hJLXN1YTgwSjlBSUpBVlctZU1kLWs4eXZB?oc=5",
+  "title": "Présidentielle 2027 : \"Jean-Luc Mélenchon et Marine Le Pen ont choisi leur camp\", celui de la Russie face à l’Ukraine, accuse Jean-Noël Barrot",
+  "summary": "",
+  "published": "2026-09-27T09:00+02:00",
+  "mentions": [
+   "lepen",
+   "melenchon"
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": 0,
+    "frame": "international"
+   },
+   {
+    "id": "lepen",
+    "tone": 0,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "ad6949116ea90298",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxPUWpYOUxSYjFqVFN0NjJwWTZoeHVOeWVQX19RdUNpdHo0T2RWdFNoaW9rc1VyNjJOVDdIR3dlRDluaHRIOHNGODhyemE4X2FQWXI3ZGlnS0dyUllUc1FkVWFMLWVnbDZmN1dTaVRpazBOcC1oZUxGVXFLNExFUmdoUERqYkFiaW5mbnlOcWdNVHRla1V6SkNDdVc5ZVJaLVRTTU01MHF3aDNtS21Rd1l6c05wN213OVpNa21FQndabkdqTlVCZ0NoLUFuLUxqRnI2M0JvOG5ZNE5MMVg2RW9HdmpXa3ZrS01hOWJBU2VSY3I3ZjJfM0s1dWxIb2tMU1FKbGlVV0tFdjlmZGhfNHM1NEtoSXd1aGJ5WHd1RkVkWlJSU0RvZjdaYVZ6VXJBWm1BeUdXVHhvVUhJWUZuLVA0eW83Sl9kSlAzMkNsbHJVejk2dw?oc=5",
+  "title": "\"C'est une victoire historique\": Jordan Bardella et Marine Le Pen annoncent que le Rassemblement national va pouvoir constituer un groupe au Sénat, une première",
+  "summary": "",
+  "published": "2026-09-27T09:00+02:00",
+  "mentions": [
+   "lepen"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": 2,
+    "frame": "sondage_dynamique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "bc32e8b6b41e66f5",
+  "outlet": "Le Point",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPZEFSdUhzNlpSXy0wQUY3aGlRbkhGVGxDMm9xcklOZ2VCUlhSQWFsY0RPaTkzajdCc2F5aWlsSElpLUgwNkVxLWFBU0NFRGZ0NzVPeWpRQTB1bUhGUGdxWW5fakk4UmYyMWtlWlJVa0FFWl91c2F4bWlfZHpyekVUcVlUdDc0QWpEVlJUQy1GTFd0V1RkLWJDR0xNa2RBQ1E5dm9CbmVrSnluUndETm1zX0w0UzJDNG00MnpOTWZMSWZNYUJnYmthNE5BUS05SERKV1BjQzZmSDl4eENINEd5dnhiN3E3eWN2SktB?oc=5",
+  "title": "« Je ne suis pas un identitaire chevronné, mais… » : avec Sardoche, un Twitch « de droite » est-il possible ?",
+  "summary": "",
+  "published": "2026-09-27T09:00+02:00",
+  "mentions": []
  },
  {
   "id": "bc66213bd9457b89",
@@ -43,7 +393,195 @@
   "published": "2026-09-27T09:00+02:00",
   "mentions": [
    "lepen"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": 2,
+    "frame": "sondage_dynamique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "c1c319c1c47d2c50",
+  "outlet": "Ouest-France",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPM2ZRVElzNi1kR0t6dzVITWkwNm5qaDl2VXFRa1dBWVVkNGNwVDIySXNHY3JyRVhNRVdhMHBWUUgyQ3FnTWFrcGswYXpxOC1fLVlJdGNwZHJ0c1NqMkN4WjRPYl90eUhNYTNETTJKdTJVbmVuQThWVHdhLVd0aklscExxdXFpLXlKZWhRQkREUk5hN3ZFVWRLT1BPaEhXNmtQRkg4ZkJ1b2FxYU43RGx0ekZMTzE2SV93bVJmMmVrcFBiVWo0Y01ndFBJbmZjbkVfUTkzMC1lYnVJZ3RCTi1oTlZ0bUdjWGQxWEFCQmg3VlNvWWdxX0otSlZvYzhYdXZqR1B3QXZ0dDFBNGY4TXR2OW9B?oc=5",
+  "title": "VIDÉO. La réaction de Bruno Retailleau, élu avec l'ensemble de sa liste aux sénatoriales en Vendée",
+  "summary": "",
+  "published": "2026-09-27T09:00+02:00",
+  "mentions": [
+   "retailleau"
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": 0,
+    "frame": "sondage_dynamique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "c36e230b0bbdb68d",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxOdVF0THA1UUw4WF9FcWE5VnktbVBPOFhwOENyZTg1TGxmdmZWZVFpUGlWRGk0eU9pQkpGTFFDLVBvWFRCTE5nMEx5UngzWGR3cTBydEN1Y05VcnBsakU3QV9xQ2R6U0VjZUlCLXkyV1N1dDNkUm9JQ3JidW5hM1Z5N0lqZ2hNRWY3WE1zSGFUNHowUzVob2tKQ3FTV202VUJpdGdFSVFJVlRCV3p3VWpUNmVLYUJsQ3hlemVQTHNPQVRST2RoWmVuYlFRZ09aSk5maFh6c0dOYl9VRm5POWlPaUhpZnNQRGRoNFBoUTdRRGdDZmRGQ3JWODdBS19QWHVXcmF3X3RLZnhzMW1SV1BXcXNKaWNNbE5kV0hnSUJ4R0NwcE5rdzdjQnloOU91QTVwVHZIanJtMXJOeFF1clNOTmxn?oc=5",
+  "title": "\"Je voterais pour Raphaël Glucksmann\" dans la primaire socialiste: le petit oral de François-Xavier Bellamy, vice-président des Républicains",
+  "summary": "",
+  "published": "2026-09-27T09:00+02:00",
+  "mentions": [
+   "glucksmann"
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": 1,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "c416069bdaa558cb",
+  "outlet": "Paris Match",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQ1FMbDEwbXp0amNKdkJWQXozc2h6SkxINDdreXJXbDlvLXlqaUI3M2ZlYUNKVjZFb1V5Tk04ZElhWHFWTGFzem1DNDFwOGJBWXo5c3lSeWVKVWlibUhCRjR1b1BqR3QxdWNyRXVURktZWEhCZGhwZk1McGh5bVdwTFpIZVVNcXF3YnZUd3ZRcnAyQVZkSVBuZXJDWm9fclJHcGl0VEpNQ1U3d3AtbXh0SkRQc3M0NVlyOWZOVnhJaE1MTklHWjlOaTNPaW5ZWFV1Rk95QlRncw?oc=5",
+  "title": "Razzia du RN, Larcher probablement reconduit, Retailleau réélu... Les faits majeurs des sénatoriales",
+  "summary": "",
+  "published": "2026-09-27T09:00+02:00",
+  "mentions": [
+   "retailleau"
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": 0,
+    "frame": "sondage_dynamique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "cf2f98f21e42fe42",
+  "outlet": "Le Figaro",
+  "lean": "droite",
+  "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQS0lrM2ctQzRMek5fYnAtUngwMUtGWHl5Y0d4RUFEdUJzQlF2d1pGOE1CS0FzYmhmcFowQ19TZXZ2OXQwekRxa1M4SXdEZWRxSm1hME1kaTJJTEY0TldCMm1EeUN2OFQ5a2Vma1FsOGNKTzlUMXZ4OE5RWllnTmxVQ1NPN3lSd3Z2RHcwcm5XTXdZZUFiZzZrSmZoUGd6bmlLc0o2TmZ0NmxVLWJlbXpHeVMtM2ROM0o5N1Mzb1Y5ckhXTXhWbGg3dE9mdUJiTjBEc29YcFlTcS1wNF8tcVRMVXZfWUdrUHFpNkxyS3E3aE10VElGWFVsSQ?oc=5",
+  "title": "Entrée en force du RN, deux insoumis élus, Retailleau reconduit… Ce qu’il faut retenir des élections sénatoriales de dimanche",
+  "summary": "",
+  "published": "2026-09-27T09:00+02:00",
+  "mentions": [
+   "retailleau"
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": 1,
+    "frame": "sondage_dynamique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "d49509d667dd182c",
+  "outlet": "Public Sénat",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNc2RPOEdPZ0xJTS1wWkxRYmhEY0JCa3NNYVY3ZERka1dwNm0ybk5fQ0Vkd2pQUVI2Y2NadFh5TWFYekQzdHpGY0NTcWlRYjdkbTZsOHJWVGswTU5KNm9TR2U5TEtIWEp5dEdwWmlhVzBpRVZfWFBaOUVySnpLVFUteWhVb3I1WHpHVjktY3prVnppZV9ZdnpSS0NDUGxOSmJTZ2t4VGtLcw?oc=5",
+  "title": "Sénatoriales : LFI pousse la porte du Palais du Luxembourg",
+  "summary": "",
+  "published": "2026-09-27T09:00+02:00",
+  "mentions": []
+ },
+ {
+  "id": "d4f00e10c4e16dab",
+  "outlet": "Ouest-France",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNNmRtWXdWeUdYS1M0UWJ5Vy1ESnBFZ2tfWUUzWWtPZmtGaE5sZzlmNmppSjJPWjZxb3dybElKMjc1Q1JGZVdtQzlwYUp2dzdOYkVCSGd4SlZITVA0eXZIME9CMWtZUVkzbWxKZFlxQ2xPMnd4Mi00dDhoV21yaGpNT2pXd2Q1R1ExMDItc1VqSTI1TVZTWnhyUG9MSnhsd20yc3RCMGRncVVhVHRwUVJwanJubWdEMGdhYVduZEJoN21NQ3g4RHd6TF8zY3hUdWxkazllUjdUN1JuS1g5c0QyS2Jyd1NCQ21YWHZmUzdYdVJSUHVjWGFyZlZNQ3hTNFEtRzFjY2hTODZsbkpLa19tQWxnNDFUaUo1WjUzV3dvQjk4Nnc?oc=5",
+  "title": "Sénatoriales 2026 : Bruno Retailleau et Annick Billon gardent leur siège, Maxence de Rugy élu sénateur de Vendée",
+  "summary": "",
+  "published": "2026-09-27T09:00+02:00",
+  "mentions": [
+   "retailleau"
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": 0,
+    "frame": "sondage_dynamique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "dd44c2433556d28b",
+  "outlet": "RMC",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNSjR0NU1fc2tDalM4ZE1TdWRNWE5fMUl3TlBCZlZIeEpHRnZrWnNjbXZaYXBKcXFkN1hJRG5FSkNJTUoxUHY0bExYeUR5SWhDNEFSMVYzVnhPcU5LbkZvYU8zRzBMd2hDLU5IN25NTkw1U1NNRXpTNlBHU2ZlOWp6c3FDcTVhNkEyX1dEem45ZDdKUzhqUGd2Zm1WOEluRjQ3TEJHTHFzMGd2dXhlbWNCVmZWMWZhWEJCSVRqc2ZQMnV6ZjJTb01sNzZ4cHZHUWlGd0ZJUmlGN3l0SHBzX2MxbDVMMURuS1Q4MnQ4cmdITnU?oc=5",
+  "title": "Réforme des retraites: Bruno Retailleau propose d'indexer l'âge de départ sur l'espérance de vie",
+  "summary": "",
+  "published": "2026-09-27T09:00+02:00",
+  "mentions": [
+   "retailleau"
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": 0,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "df38c539a6856255",
+  "outlet": "ici.fr",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOd3dJVXdJRHppMExGdjhoRzZaYUVvWHZHY0xnS0N3cXpycWtTUDJ1ajY1YTdEX1RZNGh1UTNNOWhOOVBxMG16azR3ODd1M0ZhWUU3a0c5d09Ea2xUcVl0VDJyRXdPemlkUzlaVlZiNDJwdmg2VVRiRHdOR08tdm9fS21QVjZCd2I0dUtwbHdNV3FxSFRoV2pNTlMxTk5PbExhZUJ2Q0ZCYzlETnpnam9XMG1RdG53bHpVUHlJZENseVNYY1ZVUDQ3bVNXaDZmb1FxRmowQnJhbTE0a3R4LUhaOTVpaWwwdU1BQTdkS1RjMlVPYmFFOEtxczVwbjJMRDNteWc?oc=5",
+  "title": "Élections sénatoriales en Vendée: la liste de Bruno Retailleau gagne les trois sièges, la gauche en manque un à une voix",
+  "summary": "",
+  "published": "2026-09-27T09:00+02:00",
+  "mentions": [
+   "retailleau"
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": 0,
+    "frame": "sondage_dynamique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "df707423f3753752",
+  "outlet": "Gala",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQMG0xTXFOTFM0MTg1aWhMRWNLeXczZEZVcmtOY01wUThXV0piWnlveXBlc0tQaWFoTEY2RDVCSWNfbUlVWHVlSW1JUEhndFJQZVlIRWJ5N0FiZ0RxcFhNM1hqQ210ZnFWSXpDcC1DTTdpcGdGcWR0YlRfTUFQN1ktZFFfRXhabHlvaThfTEJSbmE0dXBUblYta1dLYUtLZjBxc1BFcjJOQ1ZwMkxPMllMX0ZSMnhSWV9lMkpUb3Y3R0VRc3ZqWWQzaVdxeDZ0Y1Jub2N0YUVQSWtRZTZTVmRqQUZfVWIyd1VLeU9tX3ZXZzBLbkRfTS02bXpQTkVaSmp3ejI3dTVqUy1HX1U?oc=5",
+  "title": "“ll ne peut rien m’arriver avec tout ça” : superstitieux, Édouard Philippe fend l’armure et se confie sur cet accessoire qui “l’accompagne partout”",
+  "summary": "",
+  "published": "2026-09-27T09:00+02:00",
+  "mentions": [
+   "philippe"
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": 0,
+    "frame": "portrait"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "eaff03fca901e813",
+  "outlet": "20 Minutes",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5WZDl5TTd5elhFVGdKOXJQa0ZxMjhxVmYtR3VmdGdFbVJUTjZPdHdkTVEzVGdQVExBVXpuQnBHVnJlaFRsbXAyZWN2NWNNdkNTdVRaZEh3bTUyb1U?oc=5",
+  "title": "Lutte Ouvrière (LO) : Infos et actualités du parti en direct",
+  "summary": "",
+  "published": "2026-09-27T09:00+02:00",
+  "mentions": []
  },
  {
   "id": "ed7a759b325af5cb",
@@ -56,74 +594,18 @@
   "mentions": []
  },
  {
-  "id": "f38d6b33328fed65",
-  "outlet": "Public Sénat",
+  "id": "ef012517a3cab0f1",
+  "outlet": "The Big Picture | Marc Endeweld",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNTlNUaDAzNVp2TURXeV81YjJXdGRlZlBnN2MxbFg1TERXbkw0NG5xeFZtaGFQTFR3YTFUbFlnNWtxcXVIY01ETnlacDVBNWRJUS04eFVFWlVhM0dBcF9DN1NJR0FnT3JrR1hOd3Zyajl0UlZ2SzRiLVFxYWxaWDJ0N05YRUNZTjYwZmlkMlVlUWhJWDltUDJEbWxmbGdpUnpIMWhHd3o3dV9CZUFZcy10Mjl2cDF4Uk96TldOWWl6SG95N1d3NUE1Q0RfOXBlSF9VRzZjTU05RHIzTFRld1pR?oc=5",
-  "title": "Sénatoriales : le RN réussit son pari et crée un groupe, « un coup d’accélérateur pour la présidentielle »",
-  "summary": "",
-  "published": "2026-09-27T09:00+02:00",
-  "mentions": []
- },
- {
-  "id": "0d556feea0577fec",
-  "outlet": "LCP-Assemblée nationale",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVm9HV0ZuX2FBS0Y0M0hHdXQtS1o2TTJ6VmV0SE1GOGtscTB5dnEyV19YR3BHaDIwbHpiQ1NWZXhsZU5rcE91Q0FLekFBbXBjb1NfR2pGZTZ2cVdWeDBuOE4zWHZSelUwQWRmQVQxaDBDTVFIc0NyZnBXOVhYUE9mODVDbTlPa1Q1WW9SLTVjMDh0ZVdIOUhJbmZwM0psdzBOS0dfSGhIOU8wcFZ6ZmZGXzA1cXI?oc=5",
-  "title": "\"Une élection présidentielle sert à choisir quelqu’un qui est un chef\": Édouard Philippe se confie sur l'exercice de l'autorité",
+  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4ta2ppQ0FMMzlIYjJkeTBJaW56Z3lkQmZGOHVOYlhBTG1IM19WZ1dmcTU1RWNIdHZyUjJ3eWNTY0kxanNtaEQ2SXpjcUpyLTAwSUtjcU1US3ZZLWxORWU0R0ZOT3JzNlZ1a0NBTzlDU3c3Q3dyVUlsMQ?oc=5",
+  "title": "L’artisan du « débat » Villepin-Ruffin",
   "summary": "",
   "published": "2026-09-27T09:00+02:00",
   "mentions": [
-   "philippe"
-  ]
- },
- {
-  "id": "9b3f0122d15d6903",
-  "outlet": "La Tribune",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPdllKWEdPeGVya05FckgzWjBCdW9ZZUpiWktlYm9mbjRXQXFMSEZOVzZ4VFg2Vm9qUWtDVVgxQUwzSnBsTDFja1JnTkN1TG5uUXgxczh5WEM0dmZ2aFhJMlhCRUdFVml4QnpBVW1wbEJkZVphR1RqbHp4WW5sdndSLS1YcV9ieG5lNUNzNHFYXy1aWmV5ZjRxYnpxM0NWcEY2S052SS1CRmwwcUk2ZlZrWVJ2UGZicERrX3RselplZmZONnRsaUI2RVNHVkxvdGc4bExDTkg3bF9wbDdOclJtaG14cGpzQ2c5ZzJTcnprZHY3SFhvdEYwQXpSTmlmcTYweU1LR05qQklTbmhjdGc2SDExNWtrZEwwY0E?oc=5",
-  "title": "Conversation entre Édouard Philippe et Olivier Norek : « C’est sûr qu’une campagne peut offrir un décor à un polar »",
-  "summary": "",
-  "published": "2026-09-27T09:00+02:00",
-  "mentions": [
-   "philippe"
-  ]
- },
- {
-  "id": "6be9717c6fa90069",
-  "outlet": "Yahoo Finance France",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOY1lYMUhtbWtjWUs5RjBfMVZGSzFSeFh3Q1V5NldPaVZDcmNRdHlRLUNlYUNxWUh2bEQ4Rkh5LWtPSVluZkV5U0U1T09WbDRObEJVUWxzS0xYS3hXZmZYOFJHYmRaeWFYQ1U0VldPZmR5dXpUeVp6RjU4b2plNFM5VTZfaUxNb1BwZmhObTUzQ3IyNHFTN0pON3ZfVGFzYm1JYmtV?oc=5",
-  "title": "Retraites selon Édouard Philippe : ce qui pourrait changer en 2027",
-  "summary": "",
-  "published": "2026-09-27T09:00+02:00",
-  "mentions": [
-   "philippe"
-  ]
- },
- {
-  "id": "c36e230b0bbdb68d",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxOdVF0THA1UUw4WF9FcWE5VnktbVBPOFhwOENyZTg1TGxmdmZWZVFpUGlWRGk0eU9pQkpGTFFDLVBvWFRCTE5nMEx5UngzWGR3cTBydEN1Y05VcnBsakU3QV9xQ2R6U0VjZUlCLXkyV1N1dDNkUm9JQ3JidW5hM1Z5N0lqZ2hNRWY3WE1zSGFUNHowUzVob2tKQ3FTV202VUJpdGdFSVFJVlRCV3p3VWpUNmVLYUJsQ3hlemVQTHNPQVRST2RoWmVuYlFRZ09aSk5maFh6c0dOYl9VRm5POWlPaUhpZnNQRGRoNFBoUTdRRGdDZmRGQ3JWODdBS19QWHVXcmF3X3RLZnhzMW1SV1BXcXNKaWNNbE5kV0hnSUJ4R0NwcE5rdzdjQnloOU91QTVwVHZIanJtMXJOeFF1clNOTmxn?oc=5",
-  "title": "\"Je voterais pour Raphaël Glucksmann\" dans la primaire socialiste: le petit oral de François-Xavier Bellamy, vice-président des Républicains",
-  "summary": "",
-  "published": "2026-09-27T09:00+02:00",
-  "mentions": [
-   "glucksmann"
-  ]
- },
- {
-  "id": "71a2046739414ad7",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNOWJnWlNXU0RfTEQ4WW9NSlJYTFRSYzVvSE5XNWwxOGE3Y1FKRW4tY3RTS1c1VnMzWk41SWh2b1dUV0thdjRXcmtaUzJVdmZDT2JxWV82Y1paOFRQRm5jaGpqWDRxUmI4TmNaa0k1STE1NlVmUWNYbHpiYVlIRTdTMG1lYncwd3ZnQmNtb1ctRzB1SU5QX3I5elJvaFVMYjItbUJ4QzJja0xHVTlhVm5FbnM5NWhGOTh1SHI1TXpieTBZQk5tUC1HLW5HYzdlQXZ3WmI4SV82d0dGSUVIMXFuRnN1QjdjZFo0UlZmN3JKQS03V2RDdWVMUXVsc1JISVk?oc=5",
-  "title": "S'il devait voter à la primaire PS, François-Xavier Bellamy (LR) voterait \"pour Raphaël Glucksmann\"",
-  "summary": "",
-  "published": "2026-09-27T09:00+02:00",
-  "mentions": [
-   "glucksmann"
-  ]
+   "ruffin"
+  ],
+  "analysis": [],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "f0a634803b7a7fd8",
@@ -131,64 +613,6 @@
   "lean": "non classé",
   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQNGdyNktmend5dlBKb2YxWGI1Y1JCdkhMWFkzUG94MVltS1ZBLU9pMnhlZ2ZZQTJZTTZiMXdGYV9XOHg0ZDNBdFpxVW1oY1d1Z1NNUTNpaUxVdVlaRTkxQm1kMjg0R2Nfb1JJTmtRYzdzZ1YyelJGckVlQ2xDYlZZQlRNSlZWOXlOZERDakVoWFhYc2dzbGctSEY5SlVrSnRBSE81UjdSc2hFOFlCTVprUkFKVk5BY1U5RVdrRnFLSld0VFlyanlmQk5KZzQzTzF2cE5ZUXhoZw?oc=5",
   "title": "Après Jadot, Rousseau se sent « la prochaine » visée par la direction des Écologistes",
-  "summary": "",
-  "published": "2026-09-27T09:00+02:00",
-  "mentions": []
- },
- {
-  "id": "6056d022eca876de",
-  "outlet": "Mediapart",
-  "lean": "gauche",
-  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeGNxZ3JPTVF5VXdhRkcxcjc1NUFVZkcwbjBTc3E3Q1NaQWUwVjhDMU5Qc01MQXBPc0V0QzJmd1U5NW0ySlhrYzV4SXVDa2x0a255eXpFODFsZ1FOaGIwRWlPdGdvbjk4NnMxU0ZRN05tZTBxNHEtS1M0Wnk0aVFxNDE2M1hDQjQ4aGdXdXZiYjN2Q1FhYUR1a1o2ZE9kSEJkaTlF?oc=5",
-  "title": "Gabriel Attal : la campagne en toc du « candidat TikTok »",
-  "summary": "",
-  "published": "2026-09-27T09:00+02:00",
-  "mentions": [
-   "attal"
-  ]
- },
- {
-  "id": "47c483dab1333f7f",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPYUZYT3FYTG9zbWd3aGw3ZE9sRUFxSDNBNDZyOUxFUWNLSURSelllWDR2bTl6WThMRURNbVRkOUpWbU0zMUtmcGVuV0E3LW5QbUNORVd1MHBvRU93cTNUMVd0TXlURXE3NXV4Ulh3NVVRaGlsUVJ3MW5iRHFLSkhZbUQ2Ri1yOGoxazFhTUZVeTlLeUl5X1FvRnFvM2dMa25sdUI3Tldhc3RZWW1iS19abGoweDFiZDJZWFR2dUpMbUJOSEFLTXdfazd5S1c5bGhJdVRoWmg4N1JrZGxoMzJURDFNNTk5T2xUNm1EVTBlYm5WSE9HaXltVG02blJ5ZjBYX3VtU3dxOFVqRmt4eWMw?oc=5",
-  "title": "Un groupe pour le RN, entrée de LFI, Bruno Retailleau réélu: ce qu'il faut retenir des élections sénatoriales",
-  "summary": "",
-  "published": "2026-09-27T09:00+02:00",
-  "mentions": [
-   "retailleau"
-  ]
- },
- {
-  "id": "51ccbf2740217daf",
-  "outlet": "20 Minutes",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9sX2k4TEh2X0d6cXRkSnZNUTBSbEdwbklCM1lMMkVobjA0M18taUVPYXBYOTRTTGlfU2FNTHZXbzF6clZKb3B5REtiY3hiNkdvMzI1WExlc2IzcTRaOS0zYWN3?oc=5",
-  "title": "Nathalie Arthaud : Actualités, vidéos, images et infos en direct",
-  "summary": "",
-  "published": "2026-09-27T09:00+02:00",
-  "mentions": [
-   "arthaud"
-  ]
- },
- {
-  "id": "8f6f38aabe78c88c",
-  "outlet": "Le Progrès",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOYmJmcTJodkhMdkdNNWVXSlRZcHgxeGlybE1waTNqVkFKWDdCbENlZTVnTzlsS3N5TWR1dGN2Uk42YkE2WkRtQU9NaTZKdWY0b0NqRVNxQzZtdklQdzNzaHJYLTFqMnBiSTFKWWhhcG1EWENLel81V0tRaVpzODc3Z3pIYjZLcU1SeXpaQlRmX1hxdVBFbGZPYldkaUFBMG9WQURLX3hOZHdEZFJsNkZWLVF2VXQwY0gtY0JTOXBSSlA4N3lnYlN3Zktjd0NpeU54MEktcG1VVGF0SDEyQ2pnNWlqZjhqVEs2?oc=5",
-  "title": "Nathalie Arthaud annonce sa quatrième candidature à la Présidentielle à la fête lyonnaise de Lutte ouvrière",
-  "summary": "",
-  "published": "2026-09-27T09:00+02:00",
-  "mentions": [
-   "arthaud"
-  ]
- },
- {
-  "id": "eaff03fca901e813",
-  "outlet": "20 Minutes",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5WZDl5TTd5elhFVGdKOXJQa0ZxMjhxVmYtR3VmdGdFbVJUTjZPdHdkTVEzVGdQVExBVXpuQnBHVnJlaFRsbXAyZWN2NWNNdkNTdVRaZEh3bTUyb1U?oc=5",
-  "title": "Lutte Ouvrière (LO) : Infos et actualités du parti en direct",
   "summary": "",
   "published": "2026-09-27T09:00+02:00",
   "mentions": []
@@ -203,20 +627,15 @@
   "published": "2026-09-27T09:00+02:00",
   "mentions": [
    "melenchon"
-  ]
- },
- {
-  "id": "a0e39a719140be62",
-  "outlet": "Midi Libre",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNUDU3VWlaUXNLajJMN2RYX3paMW4waVpqY1ZYTmlKU1B3Wk1NcF9laFFJQ2VINDlFS3FFSEFTYV9xdFJvekJCWjU4dGVTYVkxLXdKUVFwclR1eXd0TGNhWkR6cm05WDBIMlFKcGRqQy16Rm1XOHN0cGdyaTNUQU5vbW9xWjBMQUYzMnpiaHpYVFVZOHhwLVhrRGxOblhxaXotVFpuS0VJS3puMEF6V0d4RWdFdG1hV0lhSWl3MEFFUlNhekNYdlNvVUN0WHEtcVNGNklPYWMyWTg4UlBzQzYwNzdQbE16aWsyaDVoTWhTeXNZcVQzTWJvN0hJLXN1YTgwSjlBSUpBVlctZU1kLWs4eXZB?oc=5",
-  "title": "Présidentielle 2027 : \"Jean-Luc Mélenchon et Marine Le Pen ont choisi leur camp\", celui de la Russie face à l’Ukraine, accuse Jean-Noël Barrot",
-  "summary": "",
-  "published": "2026-09-27T09:00+02:00",
-  "mentions": [
-   "lepen",
-   "melenchon"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": 1,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "f360647d6221547f",
@@ -228,168 +647,22 @@
   "published": "2026-09-27T09:00+02:00",
   "mentions": [
    "melenchon"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": 1,
+    "frame": "sondage_dynamique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "d49509d667dd182c",
+  "id": "f38d6b33328fed65",
   "outlet": "Public Sénat",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNc2RPOEdPZ0xJTS1wWkxRYmhEY0JCa3NNYVY3ZERka1dwNm0ybk5fQ0Vkd2pQUVI2Y2NadFh5TWFYekQzdHpGY0NTcWlRYjdkbTZsOHJWVGswTU5KNm9TR2U5TEtIWEp5dEdwWmlhVzBpRVZfWFBaOUVySnpLVFUteWhVb3I1WHpHVjktY3prVnppZV9ZdnpSS0NDUGxOSmJTZ2t4VGtLcw?oc=5",
-  "title": "Sénatoriales : LFI pousse la porte du Palais du Luxembourg",
-  "summary": "",
-  "published": "2026-09-27T09:00+02:00",
-  "mentions": []
- },
- {
-  "id": "44ae7eef9633483e",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQbGFXM1AtMFlQY25SenlmRHhHd1VJS215SlRvSF9wM3dFcmVQSWlYUTJVY2J3TEM1RzdwaENxUUxDeVo2LUl6cmpNLXdGQUU1eUxMSWhXWlZhM19ZWVZrWGRLTFQ0ZzBaZVJzamZocWc3VFRxblFTVENlS0VnYXRaa1FmTVFsWDJKckFtT0lDbzYzQzUtVGlFb1B4NS1pYV9WWnBKR1NQdGQtRzZHZTNmbUg1ck5POWpzSmUyUGZTM3lsRzd1MWo2Rjduek55RzhjakI4LVQ1MzhHMmNud2lsYWFMVQ?oc=5",
-  "title": "Élections sénatoriales: Bruno Retailleau de nouveau élu sénateur de Vendée",
-  "summary": "",
-  "published": "2026-09-27T09:00+02:00",
-  "mentions": [
-   "retailleau"
-  ]
- },
- {
-  "id": "81ee38f806f64fa9",
-  "outlet": "Le Figaro",
-  "lean": "droite",
-  "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPWG1oanhmR25HNlJKb3YtOGRsdTBOMHVFMkktM2ZpR0ZpdTdmWWYxTURyT1prQU9NeFBZcUlzZXhXai1mM0ZhNXZBZ2E1WVNISFBqZWgzcXNpSEZlV3V4a1NVNi1oeF9uSjNRdzN3anNIRi1mekNvRXFURVowWWpONGZrVE12ckV3Umx4a2ZidS1aSWN0aEZ4MGtBdHBCREcyVkhtNDljY3JfMkowNFJZVnptNVMxQndmLW53bjFsa18wb1I3aEZMS0JmbzJ3dm1zVlR5U1p1LVJDS1RDdUgyaDRXVnY5ak81dnViMjc0LU0zY1RjVmJlTS15ZUZaMmIxWng4dXVYVnhKV0xRblB5a0VaRGM?oc=5",
-  "title": "Bruno Retailleau : «Je veux que la France retrouve de l’influence en Europe et que l’Europe retrouve de la puissance dans le monde»",
-  "summary": "",
-  "published": "2026-09-27T09:00+02:00",
-  "mentions": [
-   "retailleau"
-  ]
- },
- {
-  "id": "d4f00e10c4e16dab",
-  "outlet": "Ouest-France",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNNmRtWXdWeUdYS1M0UWJ5Vy1ESnBFZ2tfWUUzWWtPZmtGaE5sZzlmNmppSjJPWjZxb3dybElKMjc1Q1JGZVdtQzlwYUp2dzdOYkVCSGd4SlZITVA0eXZIME9CMWtZUVkzbWxKZFlxQ2xPMnd4Mi00dDhoV21yaGpNT2pXd2Q1R1ExMDItc1VqSTI1TVZTWnhyUG9MSnhsd20yc3RCMGRncVVhVHRwUVJwanJubWdEMGdhYVduZEJoN21NQ3g4RHd6TF8zY3hUdWxkazllUjdUN1JuS1g5c0QyS2Jyd1NCQ21YWHZmUzdYdVJSUHVjWGFyZlZNQ3hTNFEtRzFjY2hTODZsbkpLa19tQWxnNDFUaUo1WjUzV3dvQjk4Nnc?oc=5",
-  "title": "Sénatoriales 2026 : Bruno Retailleau et Annick Billon gardent leur siège, Maxence de Rugy élu sénateur de Vendée",
-  "summary": "",
-  "published": "2026-09-27T09:00+02:00",
-  "mentions": [
-   "retailleau"
-  ]
- },
- {
-  "id": "9a96c7bbdb99700b",
-  "outlet": "Ouest-France",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNcUhjaU5xZW5xTVRMTi0tYTdJbjNsaVZTMG9IUExxNEY1am0zOTZUdXNMTjlnN2E2WWw5Y2J6OWYxSDZDcDdKSXdZN0luUUJFODRCOTF2X0x1c1NRUHl6ekJ3Vm5IZ3U5WnNlaERyR0ZOeUJkTldhQlNwYWl5YkctNm9ORHkxUmpONW1NeHZyYk1pOTNGakFGcDlINHBnNk5PYnN0OTdfSlhxS3l3Q0t5NEhYcldsbXJhczlUcVI5SHlPdHhXemdhamkxZEVzQ0VvY0JnWTlkRnM2bW5SQ1c0aVgzMHlYSGlxUVJINnFuNjI1WHk5MXE3XzBCcVM0b1lLWVMyUUxxeWhlWGpUNHZPdDBoQnVpUGg3bXdxQ3Jfay0wQQ?oc=5",
-  "title": "Sénatoriales 2026. Bruno Retailleau confirme son ancrage en Vendée malgré une égalité pour le troisième siège",
-  "summary": "",
-  "published": "2026-09-27T09:00+02:00",
-  "mentions": [
-   "retailleau"
-  ]
- },
- {
-  "id": "dd44c2433556d28b",
-  "outlet": "RMC",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNSjR0NU1fc2tDalM4ZE1TdWRNWE5fMUl3TlBCZlZIeEpHRnZrWnNjbXZaYXBKcXFkN1hJRG5FSkNJTUoxUHY0bExYeUR5SWhDNEFSMVYzVnhPcU5LbkZvYU8zRzBMd2hDLU5IN25NTkw1U1NNRXpTNlBHU2ZlOWp6c3FDcTVhNkEyX1dEem45ZDdKUzhqUGd2Zm1WOEluRjQ3TEJHTHFzMGd2dXhlbWNCVmZWMWZhWEJCSVRqc2ZQMnV6ZjJTb01sNzZ4cHZHUWlGd0ZJUmlGN3l0SHBzX2MxbDVMMURuS1Q4MnQ4cmdITnU?oc=5",
-  "title": "Réforme des retraites: Bruno Retailleau propose d'indexer l'âge de départ sur l'espérance de vie",
-  "summary": "",
-  "published": "2026-09-27T09:00+02:00",
-  "mentions": [
-   "retailleau"
-  ]
- },
- {
-  "id": "c1c319c1c47d2c50",
-  "outlet": "Ouest-France",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPM2ZRVElzNi1kR0t6dzVITWkwNm5qaDl2VXFRa1dBWVVkNGNwVDIySXNHY3JyRVhNRVdhMHBWUUgyQ3FnTWFrcGswYXpxOC1fLVlJdGNwZHJ0c1NqMkN4WjRPYl90eUhNYTNETTJKdTJVbmVuQThWVHdhLVd0aklscExxdXFpLXlKZWhRQkREUk5hN3ZFVWRLT1BPaEhXNmtQRkg4ZkJ1b2FxYU43RGx0ekZMTzE2SV93bVJmMmVrcFBiVWo0Y01ndFBJbmZjbkVfUTkzMC1lYnVJZ3RCTi1oTlZ0bUdjWGQxWEFCQmg3VlNvWWdxX0otSlZvYzhYdXZqR1B3QXZ0dDFBNGY4TXR2OW9B?oc=5",
-  "title": "VIDÉO. La réaction de Bruno Retailleau, élu avec l'ensemble de sa liste aux sénatoriales en Vendée",
-  "summary": "",
-  "published": "2026-09-27T09:00+02:00",
-  "mentions": [
-   "retailleau"
-  ]
- },
- {
-  "id": "df38c539a6856255",
-  "outlet": "ici.fr",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOd3dJVXdJRHppMExGdjhoRzZaYUVvWHZHY0xnS0N3cXpycWtTUDJ1ajY1YTdEX1RZNGh1UTNNOWhOOVBxMG16azR3ODd1M0ZhWUU3a0c5d09Ea2xUcVl0VDJyRXdPemlkUzlaVlZiNDJwdmg2VVRiRHdOR08tdm9fS21QVjZCd2I0dUtwbHdNV3FxSFRoV2pNTlMxTk5PbExhZUJ2Q0ZCYzlETnpnam9XMG1RdG53bHpVUHlJZENseVNYY1ZVUDQ3bVNXaDZmb1FxRmowQnJhbTE0a3R4LUhaOTVpaWwwdU1BQTdkS1RjMlVPYmFFOEtxczVwbjJMRDNteWc?oc=5",
-  "title": "Élections sénatoriales en Vendée: la liste de Bruno Retailleau gagne les trois sièges, la gauche en manque un à une voix",
-  "summary": "",
-  "published": "2026-09-27T09:00+02:00",
-  "mentions": [
-   "retailleau"
-  ]
- },
- {
-  "id": "86c35fc308dc4513",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxQaVQxVkIzZU1wME5jMXhRMW1Bd2tpWi1ValFlVHlFX0N2UC1RUEpVdmRYZjFWUE9zYlV2bU1Fc1RGQ2dNRGc4WkduOXRRV1VGTzZjcXBIOEZvY1NmWEsxb01DcFhUa2pYa3B0SGUyVTNiSVhsQjRhbkRxTGZaandCbHJkTUVqb3pCY1QxMlRqLWtVc2VrN052UmtVUHdpaHpET0J6Nkk1X2thVXVYWGk0U0xsR3k1YzRLcjRxWWZHVUxyVHBoc1M4dXJONDJ0S0t3enh0T3ZBUlJHOXBDSllnemtoZWJmTTh3cTVpZnBta0lRdHJmWmVpU1ZxcXNVcnliU19nY25hdDVLUlU5N0J6bWxSM3FHVy15S3llbGg4UVhhMEsxdTd4VWhTMktiY1hCUXd2a2JzeEI5c0RLc2hFVERtVWZTb21BV1N4OTlB?oc=5",
-  "title": "\"Je suis convaincu que [Bruno Retailleau] peut gagner cette élection présidentielle\", déclare François-Xavier Bellamy, vice-président des Républicains",
-  "summary": "",
-  "published": "2026-09-27T09:00+02:00",
-  "mentions": [
-   "retailleau"
-  ]
- },
- {
-  "id": "c416069bdaa558cb",
-  "outlet": "Paris Match",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQ1FMbDEwbXp0amNKdkJWQXozc2h6SkxINDdreXJXbDlvLXlqaUI3M2ZlYUNKVjZFb1V5Tk04ZElhWHFWTGFzem1DNDFwOGJBWXo5c3lSeWVKVWlibUhCRjR1b1BqR3QxdWNyRXVURktZWEhCZGhwZk1McGh5bVdwTFpIZVVNcXF3YnZUd3ZRcnAyQVZkSVBuZXJDWm9fclJHcGl0VEpNQ1U3d3AtbXh0SkRQc3M0NVlyOWZOVnhJaE1MTklHWjlOaTNPaW5ZWFV1Rk95QlRncw?oc=5",
-  "title": "Razzia du RN, Larcher probablement reconduit, Retailleau réélu... Les faits majeurs des sénatoriales",
-  "summary": "",
-  "published": "2026-09-27T09:00+02:00",
-  "mentions": [
-   "retailleau"
-  ]
- },
- {
-  "id": "5e42c49f8e4aa5ea",
-  "outlet": "Europe 1",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONFA0VG1iZjhVOGs4TTQ4c0hHY21tQV9rdzNvWTFpLW1EOGlaTExITGtCM1J3Y1FBNkZIM2dTMVQ1TXJwcWpVdVlndm9HZ0d3XzQ5V2VnRkl4Y1Z5ck1YNkNKRFBZeVhKb0Y1RTVxcUJWY0dJdW1wZXphWGUtZ2JVRmZ6R2Z1Q0Y1WHk0QndoMVc1cHliTU5EUVZwMi10ZDlBVXdMeTlnSm55WG5qU3czMFdaRTdJZkJjUGVuVW1B0gHDAUFVX3lxTE9NR0Vid2piT1N6bDJVWFFFRU9EdUZ1dnVoWl9jZ2doMGVIaTdxanMwOTk3OVhNRnRzNE5EMnBtNFZJS29nQmZXUzVrUHRwTEJuT2Q0aWxTNG9GNUw2dHFzUlhfTmNtVWtGdnpuWmFEQlQ4bi1aUy1LQ2Q4MUlwV19md0pMRVVGVFJEMXlyZ0JXRXhPTnVjXzdLMS05QXdFZWJiMWFKRWpvZGlLSWM5TmZjM2RMemQ4bmVCODR6MTZYcjA5cw?oc=5",
-  "title": "Sénatoriales : le candidat LR à la présidentielle Bruno Retailleau réélu en Vendée",
-  "summary": "",
-  "published": "2026-09-27T09:00+02:00",
-  "mentions": [
-   "retailleau"
-  ]
- },
- {
-  "id": "cf2f98f21e42fe42",
-  "outlet": "Le Figaro",
-  "lean": "droite",
-  "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQS0lrM2ctQzRMek5fYnAtUngwMUtGWHl5Y0d4RUFEdUJzQlF2d1pGOE1CS0FzYmhmcFowQ19TZXZ2OXQwekRxa1M4SXdEZWRxSm1hME1kaTJJTEY0TldCMm1EeUN2OFQ5a2Vma1FsOGNKTzlUMXZ4OE5RWllnTmxVQ1NPN3lSd3Z2RHcwcm5XTXdZZUFiZzZrSmZoUGd6bmlLc0o2TmZ0NmxVLWJlbXpHeVMtM2ROM0o5N1Mzb1Y5ckhXTXhWbGg3dE9mdUJiTjBEc29YcFlTcS1wNF8tcVRMVXZfWUdrUHFpNkxyS3E3aE10VElGWFVsSQ?oc=5",
-  "title": "Entrée en force du RN, deux insoumis élus, Retailleau reconduit… Ce qu’il faut retenir des élections sénatoriales de dimanche",
-  "summary": "",
-  "published": "2026-09-27T09:00+02:00",
-  "mentions": [
-   "retailleau"
-  ]
- },
- {
-  "id": "ad6949116ea90298",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxPUWpYOUxSYjFqVFN0NjJwWTZoeHVOeWVQX19RdUNpdHo0T2RWdFNoaW9rc1VyNjJOVDdIR3dlRDluaHRIOHNGODhyemE4X2FQWXI3ZGlnS0dyUllUc1FkVWFMLWVnbDZmN1dTaVRpazBOcC1oZUxGVXFLNExFUmdoUERqYkFiaW5mbnlOcWdNVHRla1V6SkNDdVc5ZVJaLVRTTU01MHF3aDNtS21Rd1l6c05wN213OVpNa21FQndabkdqTlVCZ0NoLUFuLUxqRnI2M0JvOG5ZNE5MMVg2RW9HdmpXa3ZrS01hOWJBU2VSY3I3ZjJfM0s1dWxIb2tMU1FKbGlVV0tFdjlmZGhfNHM1NEtoSXd1aGJ5WHd1RkVkWlJSU0RvZjdaYVZ6VXJBWm1BeUdXVHhvVUhJWUZuLVA0eW83Sl9kSlAzMkNsbHJVejk2dw?oc=5",
-  "title": "\"C'est une victoire historique\": Jordan Bardella et Marine Le Pen annoncent que le Rassemblement national va pouvoir constituer un groupe au Sénat, une première",
-  "summary": "",
-  "published": "2026-09-27T09:00+02:00",
-  "mentions": [
-   "lepen"
-  ]
- },
- {
-  "id": "bc32e8b6b41e66f5",
-  "outlet": "Le Point",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPZEFSdUhzNlpSXy0wQUY3aGlRbkhGVGxDMm9xcklOZ2VCUlhSQWFsY0RPaTkzajdCc2F5aWlsSElpLUgwNkVxLWFBU0NFRGZ0NzVPeWpRQTB1bUhGUGdxWW5fakk4UmYyMWtlWlJVa0FFWl91c2F4bWlfZHpyekVUcVlUdDc0QWpEVlJUQy1GTFd0V1RkLWJDR0xNa2RBQ1E5dm9CbmVrSnluUndETm1zX0w0UzJDNG00MnpOTWZMSWZNYUJnYmthNE5BUS05SERKV1BjQzZmSDl4eENINEd5dnhiN3E3eWN2SktB?oc=5",
-  "title": "« Je ne suis pas un identitaire chevronné, mais… » : avec Sardoche, un Twitch « de droite » est-il possible ?",
+  "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNTlNUaDAzNVp2TURXeV81YjJXdGRlZlBnN2MxbFg1TERXbkw0NG5xeFZtaGFQTFR3YTFUbFlnNWtxcXVIY01ETnlacDVBNWRJUS04eFVFWlVhM0dBcF9DN1NJR0FnT3JrR1hOd3Zyajl0UlZ2SzRiLVFxYWxaWDJ0N05YRUNZTjYwZmlkMlVlUWhJWDltUDJEbWxmbGdpUnpIMWhHd3o3dV9CZUFZcy10Mjl2cDF4Uk96TldOWWl6SG95N1d3NUE1Q0RfOXBlSF9VRzZjTU05RHIzTFRld1pR?oc=5",
+  "title": "Sénatoriales : le RN réussit son pari et crée un groupe, « un coup d’accélérateur pour la présidentielle »",
   "summary": "",
   "published": "2026-09-27T09:00+02:00",
   "mentions": []
@@ -405,41 +678,20 @@
   "mentions": [
    "lepen",
    "melenchon"
-  ]
- },
- {
-  "id": "df707423f3753752",
-  "outlet": "Gala",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQMG0xTXFOTFM0MTg1aWhMRWNLeXczZEZVcmtOY01wUThXV0piWnlveXBlc0tQaWFoTEY2RDVCSWNfbUlVWHVlSW1JUEhndFJQZVlIRWJ5N0FiZ0RxcFhNM1hqQ210ZnFWSXpDcC1DTTdpcGdGcWR0YlRfTUFQN1ktZFFfRXhabHlvaThfTEJSbmE0dXBUblYta1dLYUtLZjBxc1BFcjJOQ1ZwMkxPMllMX0ZSMnhSWV9lMkpUb3Y3R0VRc3ZqWWQzaVdxeDZ0Y1Jub2N0YUVQSWtRZTZTVmRqQUZfVWIyd1VLeU9tX3ZXZzBLbkRfTS02bXpQTkVaSmp3ejI3dTVqUy1HX1U?oc=5",
-  "title": "“ll ne peut rien m’arriver avec tout ça” : superstitieux, Édouard Philippe fend l’armure et se confie sur cet accessoire qui “l’accompagne partout”",
-  "summary": "",
-  "published": "2026-09-27T09:00+02:00",
-  "mentions": [
-   "philippe"
-  ]
- },
- {
-  "id": "ef012517a3cab0f1",
-  "outlet": "The Big Picture | Marc Endeweld",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4ta2ppQ0FMMzlIYjJkeTBJaW56Z3lkQmZGOHVOYlhBTG1IM19WZ1dmcTU1RWNIdHZyUjJ3eWNTY0kxanNtaEQ2SXpjcUpyLTAwSUtjcU1US3ZZLWxORWU0R0ZOT3JzNlZ1a0NBTzlDU3c3Q3dyVUlsMQ?oc=5",
-  "title": "L’artisan du « débat » Villepin-Ruffin",
-  "summary": "",
-  "published": "2026-09-27T09:00+02:00",
-  "mentions": [
-   "ruffin"
-  ]
- },
- {
-  "id": "73c548ca64775eec",
-  "outlet": "Lyon Décideurs",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcHRKa241OUlzbVFNSXhCeEI2UTcyOTExSDRjRXlHalBZUTZNOTlYRHNkUkVyd3Q4NUhIYTdyQ2s1UkgzeDdaWmVfYlZpd3hHM3NFSk5OdXVnd0lUQm1XVjAxNXA0WHFNbzBtbF9UQlJYT1dCQkMzUVB1WEdmYVpkR1d1c05lNnNWd2QxN0F4TWptaDZRTms5TThfWlhEVVFtbDFlazhlWVc4M0NnNkNmTzhqY3NpSlk?oc=5",
-  "title": "Sénatoriales : Serge Bérard et Nouvelle Énergie créent la surprise",
-  "summary": "",
-  "published": "2026-09-27T09:00+02:00",
-  "mentions": []
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": -1,
+    "frame": "sondage_dynamique"
+   },
+   {
+    "id": "lepen",
+    "tone": -1,
+    "frame": "sondage_dynamique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "2656c94fe8325f14",

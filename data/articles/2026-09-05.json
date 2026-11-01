@@ -1,39 +1,23 @@
 [
  {
-  "id": "31d9e5b06df5b724",
-  "outlet": "Ipsos",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQN0Nhd0lra0FHODNYNVNILWdzZTR1NGIxMEN6dS1MVFRDRHZZYlFod04zVTdib2FTZ3BMckxWQXdJMEp1NVpaSlpBbV92NUwxMWRXell4dm1FcWlHU1BnSDFqdnpvRnhYMlloU2JYOGxQWlllREt5VTlEang2ZmZ6b0tzUXVtRVJHMlUzS0xoejRxN25pVWZKa2JFbVBMYS14QURXNFVKUXFQNW1tVkdiZjctSE9Gdw?oc=5",
-  "title": "Présidentielle 2027 : Marine Le Pen conserve une avance nette dans les intentions de vote",
-  "summary": "",
-  "published": "2026-09-05T09:00+02:00",
-  "mentions": [
-   "lepen"
-  ]
- },
- {
-  "id": "8d343330469f7177",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOdjlER0RNc1kyalRDWXhsTmQzcV9LWVdad3k0ai11cktlcTRpR3d4R0R5SkZ5TmJzSWpCcUY1RHRKdEk1UFVxQzRRcWJkbHRiQXR2NVF6cF9xTHdLeVZiaHdtUjczcVZuQVZpQTd3N0dNOEIwZFBYOG9xUHlwSEVtS0k2RzViclNSY2pkWU95cGFNeWxld0dkczFxTXVFTTFvV0RnWjNpRzIwZnBfQ0tuUVpLeEFSd1JWM1RFbUMwaVZ3UTR6MmhBMnZRaUVzTTRFRFFQNE5JaEJHVzYwTDVwSW1zZVBncnVfRjRKTVJKcFlpRGl1Tl9GUlNHZXhmM2RVOEhV?oc=5",
-  "title": "Ukraine, immigration, tensions avec Marine Le Pen... Jordan Bardella répond aux polémiques sur BFMTV",
-  "summary": "",
-  "published": "2026-09-05T09:00+02:00",
-  "mentions": [
-   "lepen"
-  ]
- },
- {
-  "id": "2fb3fb9453330295",
+  "id": "1acb78d308f582c1",
   "outlet": "franceinfo",
   "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOZjBJZ0w1T2g4ckJRemZ3RUlqSC11UWdKRjNYZC1NVV9rQXFZdG10anF4cERoYVZSUV81VExkZEh0QWZCellYb2NWMElvakVwMENNeUhZLVNEdnVXdEJYejR6YmtOeXVPV19IaVlNajNrYmNTVGlENUoycFhDdUJoSUV6X0RERUk1cGtUS1FoSVZ5cE92WkU1ZFB0N2JhYlh4ZzNrNGpidlVQRklxQ3ZYU3NjZWh1UkcyMVhyM3NkOS1GSjcyWVJ3aEk4c0pRM2YtaWpMSlNsMzNia2tfcXdLakhPOXJlOXg0bE1EU3Ywaw?oc=5",
-  "title": "Pouvoir d'achat, RN... Jean-Luc Mélenchon dévoile ses premières mesures de campagne pour 2027 à la braderie de Lille",
+  "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNcHJhMUpUdnR4bjNEd3FyMUt0T3N3c19iYW5xOHlJdWZpRW1XSl9DbVBZaTEwVkpEVXYxMV9OaHl2d0gwQUVOLVplQlBCd0ZWdnVVMFJzbi0yT0x4RUduaWpzUjZWdktxdXhIQkgyVzcwNDUxNk5KVUluQ0lrYWU5UjZ1aWdYZy1jZGZaM0I3MzZud1dXVVBJV2s0MTJpVGU0T09tMkh5RlB2YjFiWHVadGdaQTVXVm5GX25lbmNiLVo0aUtWUEUtcGM0QVNwbXh5ZUFuckU4OVVPbHBQQjhpRVFGd2UyT2JRNzRkVXZJTWY4U3FMQmVRUHAxbw?oc=5",
+  "title": "Présidentielle 2027 : Marine Le Pen et Jordan Bardella affichent de plus en plus leurs divergences",
   "summary": "",
   "published": "2026-09-05T09:00+02:00",
   "mentions": [
-   "melenchon"
-  ]
+   "lepen"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "2b89d5c4d829aa90",
@@ -45,19 +29,55 @@
   "published": "2026-09-05T09:00+02:00",
   "mentions": [
    "melenchon"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "703943d981e2afb1",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQWDNNbHpRU01WNnczZ1ppMHltT1dRRWtSdUJOeUtLUW8zVzRuc2Q3SUZkTVpqOWRnTFkydW9pOGJJX3lPQTE5QUZiZk9CM0NFS3UzN0pOU0RBNGtiNjZwcS1jTHVtUGpkR1BBcmQ0R1RLV3Q5ejgzbGFuaWI5WktXaHI2UUR3M3UxeUZyUXhXUGJ2bkhQNUdkT3EtNGkzOUVDME9mdjMzLVI2TUVjTmItZlRxLS1YNE43bC0zUFdyMFg0amdzTDB4cktYaXRMUUN2empBb3M0OUJ1eHphelhQci1GbFZfU0xVYXZQMjhNcndDS0pGUWFmeXFGWFhNT0pPR05aUGxoQzNhUEN2YmsycUtjRldkaG12UFdrMEVxd3I2cU82cXc?oc=5",
-  "title": "Jean-Luc Mélenchon, candidat de La France insoumise à l'élection présidentielle, déplore la manière dont l’État a géré les mégafeux de cet été",
+  "id": "2fb3fb9453330295",
+  "outlet": "franceinfo",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOZjBJZ0w1T2g4ckJRemZ3RUlqSC11UWdKRjNYZC1NVV9rQXFZdG10anF4cERoYVZSUV81VExkZEh0QWZCellYb2NWMElvakVwMENNeUhZLVNEdnVXdEJYejR6YmtOeXVPV19IaVlNajNrYmNTVGlENUoycFhDdUJoSUV6X0RERUk1cGtUS1FoSVZ5cE92WkU1ZFB0N2JhYlh4ZzNrNGpidlVQRklxQ3ZYU3NjZWh1UkcyMVhyM3NkOS1GSjcyWVJ3aEk4c0pRM2YtaWpMSlNsMzNia2tfcXdLakhPOXJlOXg0bE1EU3Ywaw?oc=5",
+  "title": "Pouvoir d'achat, RN... Jean-Luc Mélenchon dévoile ses premières mesures de campagne pour 2027 à la braderie de Lille",
   "summary": "",
   "published": "2026-09-05T09:00+02:00",
   "mentions": [
    "melenchon"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "31d9e5b06df5b724",
+  "outlet": "Ipsos",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQN0Nhd0lra0FHODNYNVNILWdzZTR1NGIxMEN6dS1MVFRDRHZZYlFod04zVTdib2FTZ3BMckxWQXdJMEp1NVpaSlpBbV92NUwxMWRXell4dm1FcWlHU1BnSDFqdnpvRnhYMlloU2JYOGxQWlllREt5VTlEang2ZmZ6b0tzUXVtRVJHMlUzS0xoejRxN25pVWZKa2JFbVBMYS14QURXNFVKUXFQNW1tVkdiZjctSE9Gdw?oc=5",
+  "title": "Présidentielle 2027 : Marine Le Pen conserve une avance nette dans les intentions de vote",
+  "summary": "",
+  "published": "2026-09-05T09:00+02:00",
+  "mentions": [
+   "lepen"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": 1,
+    "frame": "sondage_dynamique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "34deb6af9c4ebc14",
@@ -69,7 +89,15 @@
   "published": "2026-09-05T09:00+02:00",
   "mentions": [
    "retailleau"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": -1,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "4471c564b016659b",
@@ -81,43 +109,55 @@
   "published": "2026-09-05T09:00+02:00",
   "mentions": [
    "melenchon"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": 0,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "1acb78d308f582c1",
-  "outlet": "franceinfo",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNcHJhMUpUdnR4bjNEd3FyMUt0T3N3c19iYW5xOHlJdWZpRW1XSl9DbVBZaTEwVkpEVXYxMV9OaHl2d0gwQUVOLVplQlBCd0ZWdnVVMFJzbi0yT0x4RUduaWpzUjZWdktxdXhIQkgyVzcwNDUxNk5KVUluQ0lrYWU5UjZ1aWdYZy1jZGZaM0I3MzZud1dXVVBJV2s0MTJpVGU0T09tMkh5RlB2YjFiWHVadGdaQTVXVm5GX25lbmNiLVo0aUtWUEUtcGM0QVNwbXh5ZUFuckU4OVVPbHBQQjhpRVFGd2UyT2JRNzRkVXZJTWY4U3FMQmVRUHAxbw?oc=5",
-  "title": "Présidentielle 2027 : Marine Le Pen et Jordan Bardella affichent de plus en plus leurs divergences",
-  "summary": "",
-  "published": "2026-09-05T09:00+02:00",
-  "mentions": [
-   "lepen"
-  ]
- },
- {
-  "id": "cfef4ca91e31082e",
-  "outlet": "Le Parisien",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNUmYxR1YtUFJFY3FnaTdVUnQyVE56Rl85UFVITVhteTYzLTcxbzNSc3oxaG1HTG9QZmV0akY2d1dOWnFPVkRlWGVQbWlrOWo5a3NHT2tmNXZTMy1qN1h5NnVfeXpPTkdaRk9yeDFmakd6b3BCZ0h2YjZLQlN1aTN1WmdhVk55R2w3ZXR0Zkd6MlBPM1dvaWlfQzVzM1QzMDlySVJtaWpyNFJnYjBxUE00dVd0RzlzVXBMZGRwcGFIRDZxZUlIa20zaS1NcVlqalgybW0xVmdUY01XSGJ6YXFORGdmQ2tHaVhJTUp0X1U3TnktQzAwOFh5OGw0UzdpSjVHQWFzMjIwLUNLUVd5anJVRF9XQWk5UWFK?oc=5",
-  "title": "Présidentielle 2027 : une dispute avec Marine Le Pen ? « Je la soutiens à 2 000 % », assure Jordan Bardella",
-  "summary": "",
-  "published": "2026-09-05T09:00+02:00",
-  "mentions": [
-   "lepen"
-  ]
- },
- {
-  "id": "8ccb77a8091e15d8",
-  "outlet": "Le Monde.fr",
+  "id": "4573ca7077fe5924",
+  "outlet": "BFM",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOc1VmcU82OTRvQzBlcXlVSGZvZ0YxRjBDVjd4SjdvY29UQmVIVml6XzYxR012Q25vUDVtMlp3emZoTzlEbG5GTFJHQXBjRElhcTAxTXJVU0g2cHQzQ1lHR1Z2VDRlUDJQU0tpVWZXMTg0TDMyNV9UTE5JRXhhRGJwV2JUc2hiSHRBSnBQWHhYUElkRGFBdWpIbWUxVjl1dUxTeEstWnoxQ0p1dlkzQVdSeEtQbklqVUttNU54eFNFa3lHc2tnSHpQSUJKaU9fTTZYc3RFQUNmZ0hQUnp1RHBCZA?oc=5",
-  "title": "Présidentielle 2027 : Eric Ciotti propose à Marine Le Pen « un pacte d’alliance »",
+  "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPSV9QLWpJYUNET3RJRzY1WlhMWGkzNHdsRWQwdVJjRE1GcFhBVGJERGRVRTNBb2lZcUZuYkdyVllnSTVtTGlzbFdCZVdZNnNKaDg5ZGtQeFlkb0JQb1lPa0g0MldaTXR1UHl3TmV4VXZWb0lkUDJtOElveTliTS1PVGRGRG1Td1lSYXNFb0V1VEpWZ080ZjBmOXpNaTlpLVFBMlZQRjV2RWlleElraGVLNnBhQVVfS0xQelFJVkx0bU85MjFjU1o1R3dnTmdkaUZpMHNqYjRWMF9QbFJHSmRXdFEtT0FQY2tWWHVzdWl3OExzOEtJV3JXdS1fODVMa3RENFJR?oc=5",
+  "title": "Raphaël Glucksmann accuse le RN d'agir \"pour les intérêts de la Russie de Vladimir Poutine\"",
   "summary": "",
   "published": "2026-09-05T09:00+02:00",
   "mentions": [
-   "lepen"
-  ]
+   "glucksmann"
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": -2,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "465014c6367954e8",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNRHFEWkQyTUFlV2dRUTNfUWpvSFJfY21FNWVfTXdXLWlFQW5ScFZJcjFiTmtjdFd5VzVOYnFEN21CNFUtNnpGNmJJalU2Uk5xS3dLaXRia08ycThQWDB5UFhxRE84cGVsd05zMXNhVEpUTHdVQUUwZC1JVDNsMHdlX2JTZUd0MXFsQlRIZnFOeFdRUlBmbnpMcmNTVWhUMXRSdmtMbTNmaGZfeDMwZkdmYTFQNnUzUldKb0lfMVNOdm1XaThkVnlkZ3N0RXNybzY4S3NyclF5cmhxcWdibGNoTExKWHJnd3FkdVZnYXkwakhjWjNKMzY2Y2ktT043MjBlSlE?oc=5",
+  "title": "Présidentielle, climat, inflation: le discours de Jean-Luc Mélenchon à la braderie de Lille",
+  "summary": "",
+  "published": "2026-09-05T09:00+02:00",
+  "mentions": [
+   "melenchon"
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "68f18aeb975459f1",
@@ -129,7 +169,95 @@
   "published": "2026-09-05T09:00+02:00",
   "mentions": [
    "lepen"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": 0,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "703943d981e2afb1",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQWDNNbHpRU01WNnczZ1ppMHltT1dRRWtSdUJOeUtLUW8zVzRuc2Q3SUZkTVpqOWRnTFkydW9pOGJJX3lPQTE5QUZiZk9CM0NFS3UzN0pOU0RBNGtiNjZwcS1jTHVtUGpkR1BBcmQ0R1RLV3Q5ejgzbGFuaWI5WktXaHI2UUR3M3UxeUZyUXhXUGJ2bkhQNUdkT3EtNGkzOUVDME9mdjMzLVI2TUVjTmItZlRxLS1YNE43bC0zUFdyMFg0amdzTDB4cktYaXRMUUN2empBb3M0OUJ1eHphelhQci1GbFZfU0xVYXZQMjhNcndDS0pGUWFmeXFGWFhNT0pPR05aUGxoQzNhUEN2YmsycUtjRldkaG12UFdrMEVxd3I2cU82cXc?oc=5",
+  "title": "Jean-Luc Mélenchon, candidat de La France insoumise à l'élection présidentielle, déplore la manière dont l’État a géré les mégafeux de cet été",
+  "summary": "",
+  "published": "2026-09-05T09:00+02:00",
+  "mentions": [
+   "melenchon"
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": 1,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "81ac9e0654a2693b",
+  "outlet": "Le Figaro",
+  "lean": "droite",
+  "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQ0hib29CUjlRdURCaXY3M2hwcmZacmh6Z1pMR3A2Nk9LWGFoYi1sUThMTXdoWTItdjBDdkZ3ejBWOFZabldfYVhzdDJsZDFXbXFWZUZqb3RQSWZXc0UwenZGdTdIU0RablNoNnBpbkQzakUtUmhFNTFndGdhYWEtenV4ODl6d2xWZUw5TDlJRlAxTF9jZFlnbnBxY0JPUXhOV0NOZldQSzhTQnl2THVVcEdXM1c4UHJDbVZadkMwTHRkV2s?oc=5",
+  "title": "À Lille, Jean-Luc Mélenchon se proclame candidat du pouvoir d’achat",
+  "summary": "",
+  "published": "2026-09-05T09:00+02:00",
+  "mentions": [
+   "melenchon"
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "8ccb77a8091e15d8",
+  "outlet": "Le Monde.fr",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOc1VmcU82OTRvQzBlcXlVSGZvZ0YxRjBDVjd4SjdvY29UQmVIVml6XzYxR012Q25vUDVtMlp3emZoTzlEbG5GTFJHQXBjRElhcTAxTXJVU0g2cHQzQ1lHR1Z2VDRlUDJQU0tpVWZXMTg0TDMyNV9UTE5JRXhhRGJwV2JUc2hiSHRBSnBQWHhYUElkRGFBdWpIbWUxVjl1dUxTeEstWnoxQ0p1dlkzQVdSeEtQbklqVUttNU54eFNFa3lHc2tnSHpQSUJKaU9fTTZYc3RFQUNmZ0hQUnp1RHBCZA?oc=5",
+  "title": "Présidentielle 2027 : Eric Ciotti propose à Marine Le Pen « un pacte d’alliance »",
+  "summary": "",
+  "published": "2026-09-05T09:00+02:00",
+  "mentions": [
+   "lepen"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "8d343330469f7177",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOdjlER0RNc1kyalRDWXhsTmQzcV9LWVdad3k0ai11cktlcTRpR3d4R0R5SkZ5TmJzSWpCcUY1RHRKdEk1UFVxQzRRcWJkbHRiQXR2NVF6cF9xTHdLeVZiaHdtUjczcVZuQVZpQTd3N0dNOEIwZFBYOG9xUHlwSEVtS0k2RzViclNSY2pkWU95cGFNeWxld0dkczFxTXVFTTFvV0RnWjNpRzIwZnBfQ0tuUVpLeEFSd1JWM1RFbUMwaVZ3UTR6MmhBMnZRaUVzTTRFRFFQNE5JaEJHVzYwTDVwSW1zZVBncnVfRjRKTVJKcFlpRGl1Tl9GUlNHZXhmM2RVOEhV?oc=5",
+  "title": "Ukraine, immigration, tensions avec Marine Le Pen... Jordan Bardella répond aux polémiques sur BFMTV",
+  "summary": "",
+  "published": "2026-09-05T09:00+02:00",
+  "mentions": [
+   "lepen"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": 0,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "ce817845d898c47b",
@@ -142,28 +270,24 @@
   "mentions": []
  },
  {
-  "id": "465014c6367954e8",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNRHFEWkQyTUFlV2dRUTNfUWpvSFJfY21FNWVfTXdXLWlFQW5ScFZJcjFiTmtjdFd5VzVOYnFEN21CNFUtNnpGNmJJalU2Uk5xS3dLaXRia08ycThQWDB5UFhxRE84cGVsd05zMXNhVEpUTHdVQUUwZC1JVDNsMHdlX2JTZUd0MXFsQlRIZnFOeFdRUlBmbnpMcmNTVWhUMXRSdmtMbTNmaGZfeDMwZkdmYTFQNnUzUldKb0lfMVNOdm1XaThkVnlkZ3N0RXNybzY4S3NyclF5cmhxcWdibGNoTExKWHJnd3FkdVZnYXkwakhjWjNKMzY2Y2ktT043MjBlSlE?oc=5",
-  "title": "Présidentielle, climat, inflation: le discours de Jean-Luc Mélenchon à la braderie de Lille",
+  "id": "cfef4ca91e31082e",
+  "outlet": "Le Parisien",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNUmYxR1YtUFJFY3FnaTdVUnQyVE56Rl85UFVITVhteTYzLTcxbzNSc3oxaG1HTG9QZmV0akY2d1dOWnFPVkRlWGVQbWlrOWo5a3NHT2tmNXZTMy1qN1h5NnVfeXpPTkdaRk9yeDFmakd6b3BCZ0h2YjZLQlN1aTN1WmdhVk55R2w3ZXR0Zkd6MlBPM1dvaWlfQzVzM1QzMDlySVJtaWpyNFJnYjBxUE00dVd0RzlzVXBMZGRwcGFIRDZxZUlIa20zaS1NcVlqalgybW0xVmdUY01XSGJ6YXFORGdmQ2tHaVhJTUp0X1U3TnktQzAwOFh5OGw0UzdpSjVHQWFzMjIwLUNLUVd5anJVRF9XQWk5UWFK?oc=5",
+  "title": "Présidentielle 2027 : une dispute avec Marine Le Pen ? « Je la soutiens à 2 000 % », assure Jordan Bardella",
   "summary": "",
   "published": "2026-09-05T09:00+02:00",
   "mentions": [
-   "melenchon"
-  ]
- },
- {
-  "id": "effb8bf6cbe20a9f",
-  "outlet": "Revolution Permanente",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPLVlGb3ZNQkNhaUNIMVZYVWZMUXVLRG9JSGtUbFhvNXJEV1RhbmtLQjZFbHJVeHJRSTVuU3pCTmpaczVIdkVocWdOYmo3NEFVeEx5R3pWNnRuaWxmVGpWRUFFMWw5d0hBaUhMYzA5WEJfSU1FRzBTRmhCNFFtUVV4MUVTMA?oc=5",
-  "title": "François Ruffin, le travail sans la classe",
-  "summary": "",
-  "published": "2026-09-05T09:00+02:00",
-  "mentions": [
-   "ruffin"
-  ]
+   "lepen"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": 1,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "e503cbb105fee237",
@@ -175,30 +299,34 @@
   "published": "2026-09-05T09:00+02:00",
   "mentions": [
    "lepen"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": 0,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "4573ca7077fe5924",
-  "outlet": "BFM",
+  "id": "effb8bf6cbe20a9f",
+  "outlet": "Revolution Permanente",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPSV9QLWpJYUNET3RJRzY1WlhMWGkzNHdsRWQwdVJjRE1GcFhBVGJERGRVRTNBb2lZcUZuYkdyVllnSTVtTGlzbFdCZVdZNnNKaDg5ZGtQeFlkb0JQb1lPa0g0MldaTXR1UHl3TmV4VXZWb0lkUDJtOElveTliTS1PVGRGRG1Td1lSYXNFb0V1VEpWZ080ZjBmOXpNaTlpLVFBMlZQRjV2RWlleElraGVLNnBhQVVfS0xQelFJVkx0bU85MjFjU1o1R3dnTmdkaUZpMHNqYjRWMF9QbFJHSmRXdFEtT0FQY2tWWHVzdWl3OExzOEtJV3JXdS1fODVMa3RENFJR?oc=5",
-  "title": "Raphaël Glucksmann accuse le RN d'agir \"pour les intérêts de la Russie de Vladimir Poutine\"",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPLVlGb3ZNQkNhaUNIMVZYVWZMUXVLRG9JSGtUbFhvNXJEV1RhbmtLQjZFbHJVeHJRSTVuU3pCTmpaczVIdkVocWdOYmo3NEFVeEx5R3pWNnRuaWxmVGpWRUFFMWw5d0hBaUhMYzA5WEJfSU1FRzBTRmhCNFFtUVV4MUVTMA?oc=5",
+  "title": "François Ruffin, le travail sans la classe",
   "summary": "",
   "published": "2026-09-05T09:00+02:00",
   "mentions": [
-   "glucksmann"
-  ]
- },
- {
-  "id": "81ac9e0654a2693b",
-  "outlet": "Le Figaro",
-  "lean": "droite",
-  "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQ0hib29CUjlRdURCaXY3M2hwcmZacmh6Z1pMR3A2Nk9LWGFoYi1sUThMTXdoWTItdjBDdkZ3ejBWOFZabldfYVhzdDJsZDFXbXFWZUZqb3RQSWZXc0UwenZGdTdIU0RablNoNnBpbkQzakUtUmhFNTFndGdhYWEtenV4ODl6d2xWZUw5TDlJRlAxTF9jZFlnbnBxY0JPUXhOV0NOZldQSzhTQnl2THVVcEdXM1c4UHJDbVZadkMwTHRkV2s?oc=5",
-  "title": "À Lille, Jean-Luc Mélenchon se proclame candidat du pouvoir d’achat",
-  "summary": "",
-  "published": "2026-09-05T09:00+02:00",
-  "mentions": [
-   "melenchon"
-  ]
+   "ruffin"
+  ],
+  "analysis": [
+   {
+    "id": "ruffin",
+    "tone": 0,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  }
 ]

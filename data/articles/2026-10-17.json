@@ -10,7 +10,20 @@
   "mentions": [
    "lepen",
    "dupontaignan"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "dupontaignan",
+    "tone": 1,
+    "frame": "programme"
+   },
+   {
+    "id": "lepen",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "439d55dab0974000",
@@ -22,7 +35,460 @@
   "published": "2026-10-17T01:23+02:00",
   "mentions": [
    "zemmour"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "zemmour",
+    "tone": 1,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "1c31bdd0f007f3d8",
+  "outlet": "RTL",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNS1dJYXFyUldWelpjLWRudVRDandKUjBYQi1sV3djOXBQaUd2ZXpXRTJ4b1dOX25wanVFbzlJN1ZqUGdBSEpaYXZ6czNEb0pwdkxXN3VORWJHMHlRSDJDMFdIcjlNWU5fVG04UXozUzFHQWJtaHNGZ19HeVdQd21VU0UxallQaHJqNTZIYTdSNWhmbVo5S3M2T2RlMEI1TC1xZXRZLUJDMV85ZXpPYWNoZFhBbld6V2JLLUxIdHhEYzFMNEVLNE5KYXEwQkJHTFZBcG9wcGp1eWJTYk5VRFliTXVhUmhpd3I5UHp2Y3FQZTM?oc=5",
+  "title": "Vers un retrait de la candidature de Bruno Retailleau en 2027 ? \"J'irai jusqu'au bout\", martèle-t-il sur RTL, balayant les \"prévisions sondagières\"",
+  "summary": "",
+  "published": "2026-10-17T09:00+02:00",
+  "mentions": [
+   "retailleau"
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": -1,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "230f620a42719496",
+  "outlet": "RTL",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNOHJ3QUlmSlU4WENweFRDV20waGZ4VEd4TVhMMV9FOEIzNGhfYjNKWktHYTFMRFdFa25seEdCVmh2RGo5aW1BdjhlLWgxVG9DaTA1aTg3bTREbU8wdnNtNUczRzdIN0NGNU85YnJlUlBfdXEwcDFFd2hkR1gzd29OdGxPdGNmN0dicmpnY0lwZ2JMZWp0cjl2SzNPUjdIRkJJbkRlampWN1BZOWs0Y2IxbVpXWjFRczR1OEhlbDhpdFY0OUdnN3NtSTBfeHVRQTdrT3JWSmlDei1relBEa3V1X2JfTFVMUUI1azAxX1NVWTlRcjc2bjlBRy11ZUhIRnZGTEh3aFV3aHkzbmZxWFlhcE5tbjBTdldXWVJrTmJFc2kyNi1yLVE?oc=5",
+  "title": "Procès des assistants parlementaires du RN : la Cour de cassation examinera les QPC le 16 décembre, une date cruciale pour Marine Le Pen avant la présidentielle 2027",
+  "summary": "",
+  "published": "2026-10-17T09:00+02:00",
+  "mentions": [
+   "lepen"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "3d673a4c3e3c11a8",
+  "outlet": "Le Monde.fr",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPQjRHMkVCV09wREVnemNUYXNxdU1fSENOVVNnSVBESmt2SU9ZQnpqY2hTYTRTckVxSjZhTXJGNHp2eS1GZjhWY082ODZxdnVvRVRyeE5EVzg5VmY3VjJvU0dpRm11YXJfVUlkMFhHTnhUNGdyY20wOVFKT2tMYTI1U2JnNER4UWhweFp4cWxqS0hncnBDZHZvYzJTdklGZW4ybTZoWUs2TjdUNEVCNkxUNGJjT3pLel9ZV0pCdTZHb3ctS0ZJOWdGMGVDUERxRG1rcnZzdkNXdFlfdTZONXFQOVRhSk14dGJUNUtnSkw5TmRqQnAxRzR3VkplZmpWZzZLWU9hemU0clJJV3IxUThSQ2U5V0RYTFVtaTd1UjVnVE9GUXZ6?oc=5",
+  "title": "Présidentielle 2027 : François Fillon apporte son soutien à Bruno Retailleau, « seul candidat crédible qui soit clairement à droite »",
+  "summary": "",
+  "published": "2026-10-17T09:00+02:00",
+  "mentions": [
+   "retailleau"
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": 1,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "3de3c444a06c6584",
+  "outlet": "franceinfo",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxQT3lkaDRzU0RXejhpQTFKb1E2bUM2TjBsVEZ5eGh4YmRSSjAyRHlpYUdqMjM2eTZaSUQ1YVFqVDc1MTNkQjl2TkFrVGJjbm5JSnNxdXlsZlktTmtNU2dfY3prZDZadnZwSmxuVi1yaXVtWEJDWTdjcG56dHBHcXMtQ1FGVF9SLWlWaGZmVFZPbEZveVNyVXRkSU5IaVJpdHR1THNYZzMyS0RYSmNscVU1WFk3S1hvcUk2UHgwS2p3M1JuV0N3T1NBc01IYU40QVFsYkZjLXNiQVMtZkwwSjcwa1ZRQjhfZUVieDRwSUZkVFVXYzFiYUtRREFoUzJRcXU1WjNHaHNzSDAyMk1sUkFhYjZGS1JyYVJvQlF5YXMtc1dlczdfd2M0UVJtV1JFdUtCdHJMMFpuRQ?oc=5",
+  "title": "Jean-Luc Mélenchon salue \"des dizaines de milliers de gens calmement mobilisés\" pour les manifestations du 17 octobre, Jordan Bardella dénonce \"les professionnels du chaos\"",
+  "summary": "",
+  "published": "2026-10-17T09:00+02:00",
+  "mentions": [
+   "melenchon"
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": 0,
+    "frame": "programme"
+   },
+   {
+    "id": "retailleau",
+    "tone": -1,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "3eed5020cf1a3424",
+  "outlet": "lejdd.fr",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZVFzM1ZOOFd2LUZfM2MxS050RE93NDA0Z2JJaVpKeWM3OTdzQzBWeU9MSHloM3I3RnFySWlWS1ZlcEswODdpVTJWS2Z6OV8tVjdEZU1pcFJWaU8zSXFMd3NKc1dSV24tcFN5UmZTaS10Ync2eEVkc0ZSMWlCU3NXQmp0N2IzeE9JSmctcnJ6RnBGdENIVmNvQmF3?oc=5",
+  "title": "Présidentielle : Édouard Philippe s’invite dans votre salon",
+  "summary": "",
+  "published": "2026-10-17T09:00+02:00",
+  "mentions": [
+   "philippe"
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "49609fccb2039ff4",
+  "outlet": "Marianne",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZmxTWWdDOTB4UkRGejdIaWdhMnFWVWZBamNCTkwzcGQ0Rmc2bUtkd19ZdmQ0c2lRYWJLcndDcm1KS2lvWGFOaDJFeTN2WDNON1pfS2JXN21fc2RqNFBpaXhpS2xROVRzNExPN3V3NFYyVVg4dW5CUG96NmcyY053ZHRBMUdXSVdoWnJLYjNQMmVYd1QwNmxnclB0eHJtMjcwN3hrZnVNYjlnclRiNEI5NGk0eUdxWWV2cmRF?oc=5",
+  "title": "Présidentielle : Gabriel Attal est-il vraiment capable de menacer Raphaël Glucksmann ?",
+  "summary": "",
+  "published": "2026-10-17T09:00+02:00",
+  "mentions": [
+   "glucksmann",
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "programme"
+   },
+   {
+    "id": "glucksmann",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "4d7f09ea0c6e543e",
+  "outlet": "TF1 Info",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOSUVzczMwN0otbjNsRTZUZlpsS0JFMU8zN1prOWlOc2l0Vjc5U2tlTVppVUpkQUFQRVAwUlpnSFBsZmx2RUZjN3FQOWxNUFlDYVMyRVFiREZFd1RNWVBQTFg3d2ZHZ2RGQ0pIdUdXcEZkVklIRnBvTjdrcFNOLVV6U2hNeHVhYkJRNU5qWjl0SEo4ak8zWlhHUDY1Si1lRFNZemFqeVZ1OE8ySlZRS05ldGNEaF9TNUhDQ1h4WVZYNVBPQ2tTSi1XSk5wRVJyZVh0RGdSeHF1aXBDaEJJYzNhOVRQQWtaaFU4c3Z0WjZNbkpma0NmZDBuTnFaTlBYTlhyWnNKMVlSWQ?oc=5",
+  "title": "17 octobre : le RN accuse LFI d'organiser le \"chaos\", Jean-Luc Mélenchon critique la stratégie de maintien de l'ordre",
+  "summary": "",
+  "published": "2026-10-17T09:00+02:00",
+  "mentions": [
+   "melenchon"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": -1,
+    "frame": "strategie_alliances"
+   },
+   {
+    "id": "melenchon",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "5401fd9747b3afcc",
+  "outlet": "20 Minutes",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbU55bllKVDVWa19oY0NFeXRQMUpVX0pjVFF2bFNNempvdF9jMlNTb2dNR2tPZU91aUlNOVdyRTNiUmttaHVWUlV1WDhSU2tvUTBGQlcwTzloZWNYVVNkcTJGV0JqVTRMa242ZUtqYy1CZGc1WGk5ckFaZnRvYURwbHBrZ3V6dC04U3pfVTdUV1B1UGhEeU9nbVEydkdIZkFtWkxZVU8ySVFiSTNqQktCRmxFbHp5SERMRWpQQQ?oc=5",
+  "title": "François Fillon apporte son soutien à Bruno Retailleau pour la présidentielle",
+  "summary": "",
+  "published": "2026-10-17T09:00+02:00",
+  "mentions": [
+   "retailleau"
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": 0,
+    "frame": "sondage_dynamique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "609a43d047649104",
+  "outlet": "Le Monde.fr",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQR0pEazdsRW9UTi1CM19mZy1sWkc3NE1FVWg5X0wxVl9OREwxZHFCZkM4dTRaTHZLb25wZlZNa0dTY3E3c2pER1hOcU52UjhaRUhqZEkzRDByQmpGVG5RVkJpblVPTXM0Z0F3MUxPREpGNl9mbVRpczhRRVdMVHdLczVVQl9VWUxFWnhjRkNybHhPTExKS0Jnd1ZzVkZPYUVHVWU1T21IU1ZqeExfOHdNMC1vYVA5UVZrUTNTd3BYVjlyc19TOEh5Y2p1QTNyYnBkUDhXYmc4cWZjYWQtcUVlTFdzbEQwenlkWWFjNWl6TjlQOGIxZE1SWE0wNWxBUQ?oc=5",
+  "title": "Présidentielle 2027 : autour de la candidature de David Lisnard, « il se passe quelque chose », mais quoi ?",
+  "summary": "",
+  "published": "2026-10-17T09:00+02:00",
+  "mentions": [
+   "lisnard"
+  ],
+  "analysis": [
+   {
+    "id": "lisnard",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "6a33db03dce55146",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPOVA5eko1d0paWDJhX2xnNmJwejZKUXpLUmNwQ0xrUnVVWnVCU1paRFlqaUVHa0w5VlJ3djB6S19CNy0zclNrTDlmbzVMWEtQbHRfcVFTYnA2U0R5MWt2SkIzSlJQdlhvZW5WRGZfTHgxZFRVUml1UzhFa2JhX0JMaHVBLXNaSURrcmRlNTBzUHVJS0U0VGd3MDRIdjlCVzRCbnRKcE9wX1hmTTdEQUxZMXFSMUJLNjJGQ1hhS3JpaUpGbFYwOEp6VEFweTNZaTVaNS0zSnQ0UHl4azJVbXJwOGtlYVFIMW0zWm1JN1V1MjZuN0g2cG1aN0twanpTVlFOT2FZTG1PdnQ2ZEpxSUpUQV9kbi16X201S0FNMkcxRm50MVFqS3c?oc=5",
+  "title": "Manifestations du 17 octobre: Marine Le Pen s'en prend à La France insoumise, Jean-Luc Mélenchon juge \"lamentable\" la stratégie du maintien de l'ordre",
+  "summary": "",
+  "published": "2026-10-17T09:00+02:00",
+  "mentions": [
+   "lepen",
+   "melenchon"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": -1,
+    "frame": "strategie_alliances"
+   },
+   {
+    "id": "melenchon",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "7b53e5210084f6d1",
+  "outlet": "Libération",
+  "lean": "centre-gauche",
+  "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNSW9DODlUME93VmF6NElsTC12MEszSE1nX1VzdTJVblhLMDhVQnBfOHo2R1k0QUlfMVdtTGF3bWZSbXFFa2twTllzMlVIbDNtMXNMZ3l4SGFWTEVnLVN4QjhQWndReGJuY3R2ejcxcUlWLVM4cUwybFRkTWZXUjE4VEpPaUQ1bjNieDNRcjRsOXZXSlNjMzYzSVB2M2FSUVN5SFp1Zk1hdjBlX1NXUzlnU3Fjd3F6RnlNaXRnUjI5MHprbWJtU3RZQ0p0T2dIMDRtZVltMkdrSVhuS3c1LWg1bmNpYWlZaG5tY3BBNGVHUHdydGxySVpic01GenVnamxSalBJVVlxUFJodw?oc=5",
+  "title": "Présidentielle : à quoi joue David Lisnard, le candidat fan de Milei qui veut forcer la porte de la campagne",
+  "summary": "",
+  "published": "2026-10-17T09:00+02:00",
+  "mentions": [
+   "lisnard"
+  ],
+  "analysis": [
+   {
+    "id": "lisnard",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "7bfa8075f27ef7c4",
+  "outlet": "France 24",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNb3FRYjZJNjBlMzByWHlnQ1dQOHNFc3J5MHJjcDlOMG50bDkzcWpKcDZFRFVRNU5hQ0k5dHJsY3Bkc1dYSk9XZmM1NjRUZEI0cjN1dURZWHU0d2x2WTloMktXQlpTX2J1MVRSbjI5bFh5SDVuQy00N0l2eU5sLUkwaDNKdjh0dnp0N1AxWjhQLTVFcHF5LTFXWkQ2MzF4S29YNXk3UThjOW0yNDNhN1IzMVdYRGhxRzdPbVQ3ZUVVVk9uMkJ1Y0ptcXMyeHZRY29rc2k1dGE4WmhNWjA4TTdYZWNIWXk0WElicGlUcThqZw?oc=5",
+  "title": "Après les violences en marge du 17 octobre, Sébastien Lecornu et Jean-Luc Mélenchon s'écharpent",
+  "summary": "",
+  "published": "2026-10-17T09:00+02:00",
+  "mentions": [
+   "melenchon"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": -1,
+    "frame": "strategie_alliances"
+   },
+   {
+    "id": "melenchon",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "8349777df94a0795",
+  "outlet": "RTL",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQZlltUGtzSXU3VjFZeTJnaXUzUUZxanoyYmlQc3NYaEp3eFhWODdzdUN6VldTTGR4SG5rOVNuMUJHLTc4ZjEyYjZLMHplNVlEckhxWTZsNGM4WS05U1ZCTTRCY1JiSF9MdUFZR05PX0kzUzQ2UTBWTnFEUjU4cDFzYlR0VkJCMFRzdnFJaXVZVUEwTlVzY3AxejZGNjQ5YWNqOWFiSnY4VG01aFBqVDNGdl81cFhzWjNVb0ZuN1hwaThlaENyVEctaGczbGY1VmhwNEY5cTIxLTJyNFBpdE5ndGVpd2pzRHl0aFI4azRDZDlSTzZUOHRadGhNVVZ6dWprLURwTDFnVmVhUWEtcXAtTHo5VGhkc3lIdE1JZjhjRG5VU3VuVzlQREZZa1M?oc=5",
+  "title": "\"Ras-le-bol de la doctrine de maintien de l'ordre\" : Tondelier, Bagayoko, Mélenchon... La gauche en colère après les violences en marge de la mobilisation du 17 octobre",
+  "summary": "",
+  "published": "2026-10-17T09:00+02:00",
+  "mentions": [
+   "melenchon"
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "83e928ac80fb9cf1",
+  "outlet": "Presse Agence",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWURQRjNhQWk1SjVQNVlURVZtalVOM2M3eHFkdWlzQmhvQjR5eUpuV0I4UThwMzhuNWJBV2xWZmlnS0dSaDJGY1BCczEtNEY5V0ZRRl9KczQwbGFGcFJQWnFjaVB4ZnZva0hCMW9wdG1na0lNLTRHOHpGaWxveTJGbThrNnVhcjZD?oc=5",
+  "title": "Éric Zemmour : « L’impunité est le carburant de l’émeute »",
+  "summary": "",
+  "published": "2026-10-17T09:00+02:00",
+  "mentions": [
+   "zemmour"
+  ],
+  "analysis": [
+   {
+    "id": "zemmour",
+    "tone": -1,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "8c77d16fa41a8a04",
+  "outlet": "Sud Ouest",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQUh5dXBZd2owcHI2eUE4bVdxUjR0RzNnTXJJRDJUdzRKRTh2eHA0RktzSmRiVExvVllGRkI0VjZUYUZjUkNJdWowbGtVakdQNktaRE9ITG4tckoxd1RGaEF4V0NodkhJRUR1ZDRucmptNk5RekxQakd5eDdOa1lvaG04NlRVTzVPdUVGZnJjd2NqQkkwY0JqUHJ2Y2gwM1FpSktpNmxMTzA5dkkxclVWVGQwdkVFd3haWHFXWlZB?oc=5",
+  "title": "Présidentielle 2027 : François Fillon apporte son soutien à Bruno Retailleau",
+  "summary": "",
+  "published": "2026-10-17T09:00+02:00",
+  "mentions": [
+   "retailleau"
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": 1,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "9336e4010aaea084",
+  "outlet": "Le HuffPost",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPS3U0R1JPRm5LNFZFTk1SbFJwOFB1ZWtESXNGM25jUHhPSHNXS3lDZHlRYldXdnBFcXJ5YW9MTi02SmtSMU9UYXVEMVBOa0UzU3VlX0tCZ0dLUzBnZjk1UjFERjRTcWVyOG5vaG9MNjFUSDBnbjhsajZEQnRheGZLVkdiYzFxMUh3aHBPOWtlYTd3b2tjVURBX1l5R1RpbmNoc3Q1QldnUHdrMkZQVTZmQUZiSThJRFN3SEtMeGRjQmxZX1VicVJMNW1YZlJHalpOVkdTOE42OUxTd1V5Um83dzluX0pJVnp2eTVQOExtVUFjTXlVaDdxbmxmNFdMTUU?oc=5",
+  "title": "Après les scènes de violence en France, Le Pen pointe Mélenchon, qui accuse les médias et le maintien de l’ordre",
+  "summary": "",
+  "published": "2026-10-17T09:00+02:00",
+  "mentions": [
+   "lepen",
+   "melenchon"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": -1,
+    "frame": "strategie_alliances"
+   },
+   {
+    "id": "melenchon",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "98e46a0a7aeab216",
+  "outlet": "20 Minutes",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaHBtd1lsVHFqNU5fcDUzamptTUJteDZZSFRJcW5tS2FoWFpTNGJqMzVVc0oxRm1lZDFjYlRZV1g3S2QyYm5FWE1rZWl3aEVqdWZsSHBzSTR0WkdNQ1JhWUJXOFJDYmZXd1VtOUVrSFR1TFYzTWw3R0NsODFRaUdmV3AxaFhnYnB5VkNwQWgxX1h2ejMyVE1zQy1lWWVsRi1oY2w0U0UwbjdhclU4cThzWjU3anRGUlplM29WS0VBQkhVNUYyOUE?oc=5",
+  "title": "Quand Emmanuel Macron s’étonne du « manque d’humilité » de Marine Le Pen",
+  "summary": "",
+  "published": "2026-10-17T09:00+02:00",
+  "mentions": [
+   "lepen"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": -1,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "a1b8d76736e1f8c3",
+  "outlet": "Le Figaro",
+  "lean": "droite",
+  "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPVF9pLWx5Y3Z1VU1LTHdKSzd1RFI4Q05VOXNkRU5PeE54OC1rbGlrbU5LX0VNSEFHZTFueDJiTXo0SkNWVDc1ZzdGVW5WenViSEd0NDM2ZGhIWDRGNVZUc1VmZFR5NkJPSzVPeTBpT0F1RlJQTzNoR2FLcEFxcnUyM1M0RHIxNTE3VDUwWTY1RHRkMHZtMmdqbkFUSmd5U1RBc3FfX0VLUXY1Nzc3WEpnVjJrQlJtbFZ5T1lNZUJBaEhENi1NUW5hUmx4OVhnNnRzdzRHcHJvbzVYMkdSWHluOXZBVDZrQnB2WXd5QkNmTndPNUVUZXc?oc=5",
+  "title": "«Il y a des mesures fortes à prendre pour défendre le pouvoir d’achat des Français», affirme Fabien Roussel",
+  "summary": "",
+  "published": "2026-10-17T09:00+02:00",
+  "mentions": [
+   "roussel"
+  ],
+  "analysis": [
+   {
+    "id": "roussel",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "a7aab45c56196205",
+  "outlet": "ladepeche.fr",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOaEFUWXhnUElnblQteWhKZmFkNTkybkIwV3RfUWhRamN4Z3ljemRYcHNoWVFTTWdxZ3pkYlhhcExOLVNPU012TDYxVDRzNFhQS1pjcHRWOEZMYmFBdGJuQlliY0J0RkZHRGNyenAybVRqWVRtU28tNjJtRjVFYnZOZ0ZEdGRIZXhKZXhrRDRzc0FNdGNSSjhzSEdHWUNBNlhfdE9OWlNaOEtfYjJCQkh1NTF4dTBLZ2xHUVppUV92XzREN25rS1V1M0tydW9Ra3FvREtwc0E5Ym1MaVJKNmlSaDAyRFdMVUtWUGhYMEdNWnlRSHA5M1lLbkRSNENYLXhpSF9SWVM1Z0V6UUFBdDRpMTNPUzhmdWs?oc=5",
+  "title": "DÉCRYPTAGE. Présidentielle 2027 : David Lisnard peut-il devenir le champion de la droite, supplanter Bruno Retailleau et gêner Édouard Philippe",
+  "summary": "",
+  "published": "2026-10-17T09:00+02:00",
+  "mentions": [
+   "philippe",
+   "retailleau",
+   "lisnard"
+  ],
+  "analysis": [
+   {
+    "id": "lisnard",
+    "tone": 1,
+    "frame": "programme"
+   },
+   {
+    "id": "retailleau",
+    "tone": -1,
+    "frame": "programme"
+   },
+   {
+    "id": "philippe",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "a9b3651541d8f5c6",
+  "outlet": "Valeurs actuelles",
+  "lean": "droite",
+  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZ0R2Qk05WUhPZnlHalZXSDR1ZWxrOWJjZElIYm16M0ZNQVZmOFNXNDNKeURZTUlwb1dOTS1mM2JQU2VGNGI2LXcwUVZlOE9hTFlXZzF6U0M1czVnVzF5amp4eXFqeDBTcHhadEVyS0w4N0p0cUVUTG03TkRheWdTQ2xjTlFpbXA0QngydEZCOUUwOVloLTFpRlN6UDVocEVPY0YzRUQzLVA0VE15bFUwNmFSSmpzc1k?oc=5",
+  "title": "Budget 2027 de Jean-Luc Mélenchon : ces Français qui font déjà leurs valises",
+  "summary": "",
+  "published": "2026-10-17T09:00+02:00",
+  "mentions": [
+   "melenchon"
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": -1,
+    "frame": "economie_social"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "ac155ec35fa71ec4",
@@ -34,7 +500,55 @@
   "published": "2026-10-17T09:00+02:00",
   "mentions": [
    "glucksmann"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": -1,
+    "frame": "economie_social"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "b42fc6da1ff22b68",
+  "outlet": "Orange Actualités",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOMUZ0RE5VQ1lKbEJJTTBUaXdjcjdISWxyX2J6b2J6VngtWWtocWhkRVNoUlVTVy1fME95TFpkdUZYU1JGQmJuQUluSUx6aURia2t0REpzRDdTZkIxVFI4Qmw5OHAtVmtReVZEMnhiYVlPY0RjSU10TDl4SGwyVnY2LW92YUR1dzdIVE1DUFdrck9ldHAxdEtTb2hQckdQUm9pZi1sN21ldmQwdnJvdGY0b1dSN1JneTJOUkNZZEplcHpYNER5SjBIbWV2dHh6eXE3ZjZZbTZlX1dIOVNqLUEtWlN0d21BVExabURWRFV1QjlYNnhrVElmVzlsVFg3VU9RSVVUc3d3RmsyMXB3cEpwcFVnaEU?oc=5",
+  "title": "Affaire des assistants parlementaires du RN : la Cour de cassation fixera le sort de Marine Le Pen le 16 décembre",
+  "summary": "",
+  "published": "2026-10-17T09:00+02:00",
+  "mentions": [
+   "lepen"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "b449681d16435eb9",
+  "outlet": "Libération",
+  "lean": "centre-gauche",
+  "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxOclJBYmpfaVE4dUpjY0owVzN2aDJSRmNXcHVTTVRDQldpeUVJVHJ5MXo3UFVTNF9GbFhTUnMtVWZkTWkzWUpUalRqMTNqRnFEYUZHcjBZZE1uX3RUdzBUVWZ0RVFtLXBHa09kSHJaTHl4a0Q5cXF0UmFkSEJhMGtfSi1mdEhWVFRMYUJrd3liZkR2OC1FZUlFMlZwVV9XZHBwWVhRMUxLaW9yMjE2Z3JkcGthNzlpLV9XX2NZUG4yYUlrWDkxNFpRUkhUM1pyVkcxLXpSUGEzZlVhNmdEWUxwVGtnNXZlMHFPSEJnTU5GV0xYOVVwVks5UVBhellWaXJwZE9qb1RPVkRxc2NlWjF2THJWSWlVNVN3ZHFTR2w3LWJvdS11Mmc?oc=5",
+  "title": "Présidentielle 2027 : pour François Fillon, Bruno Retailleau «est le seul candidat crédible qui soit clairement à droite",
+  "summary": "",
+  "published": "2026-10-17T09:00+02:00",
+  "mentions": [
+   "retailleau"
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": 1,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "ba8b5628f4ce5251",
@@ -49,19 +563,25 @@
    "melenchon",
    "philippe",
    "glucksmann"
-  ]
- },
- {
-  "id": "83e928ac80fb9cf1",
-  "outlet": "Presse Agence",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWURQRjNhQWk1SjVQNVlURVZtalVOM2M3eHFkdWlzQmhvQjR5eUpuV0I4UThwMzhuNWJBV2xWZmlnS0dSaDJGY1BCczEtNEY5V0ZRRl9KczQwbGFGcFJQWnFjaVB4ZnZva0hCMW9wdG1na0lNLTRHOHpGaWxveTJGbThrNnVhcjZD?oc=5",
-  "title": "Éric Zemmour : « L’impunité est le carburant de l’émeute »",
-  "summary": "",
-  "published": "2026-10-17T09:00+02:00",
-  "mentions": [
-   "zemmour"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": 0,
+    "frame": "programme"
+   },
+   {
+    "id": "glucksmann",
+    "tone": 0,
+    "frame": "programme"
+   },
+   {
+    "id": "melenchon",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "d066e7ce426fa3a3",
@@ -74,153 +594,20 @@
   "mentions": [
    "retailleau",
    "lisnard"
-  ]
- },
- {
-  "id": "3d673a4c3e3c11a8",
-  "outlet": "Le Monde.fr",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPQjRHMkVCV09wREVnemNUYXNxdU1fSENOVVNnSVBESmt2SU9ZQnpqY2hTYTRTckVxSjZhTXJGNHp2eS1GZjhWY082ODZxdnVvRVRyeE5EVzg5VmY3VjJvU0dpRm11YXJfVUlkMFhHTnhUNGdyY20wOVFKT2tMYTI1U2JnNER4UWhweFp4cWxqS0hncnBDZHZvYzJTdklGZW4ybTZoWUs2TjdUNEVCNkxUNGJjT3pLel9ZV0pCdTZHb3ctS0ZJOWdGMGVDUERxRG1rcnZzdkNXdFlfdTZONXFQOVRhSk14dGJUNUtnSkw5TmRqQnAxRzR3VkplZmpWZzZLWU9hemU0clJJV3IxUThSQ2U5V0RYTFVtaTd1UjVnVE9GUXZ6?oc=5",
-  "title": "Présidentielle 2027 : François Fillon apporte son soutien à Bruno Retailleau, « seul candidat crédible qui soit clairement à droite »",
-  "summary": "",
-  "published": "2026-10-17T09:00+02:00",
-  "mentions": [
-   "retailleau"
-  ]
- },
- {
-  "id": "f700fd32360a0fff",
-  "outlet": "Le Figaro",
-  "lean": "droite",
-  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPY1U3R0ZGQnU1WmJKdHB3WlNGNWg3cnNLdW5kZUxYMW82M2lpakJpdUJlTG5LUk9ENUhXZFJMQ1dnb1RhMnh6RVdjWXRxMl9Wb2VrelRid1pncnQ4SzdyakZja2NvSVVQamJHbFl5Vzl3Z245YjRoeG9hcHhSU3R2ZllvRV92Zk12dWlSdVlDY1RRM3VuS0YxX1lqa2hxWXp0bDdiUkNrUWgzZl9iZG9ON3h5MWlMY01Lc0F2ZnZzeVA4ZlQ1TVlF?oc=5",
-  "title": "«Le seul candidat crédible» : François Fillon apporte son soutien à Bruno Retailleau pour la présidentielle",
-  "summary": "",
-  "published": "2026-10-17T09:00+02:00",
-  "mentions": [
-   "retailleau"
-  ]
- },
- {
-  "id": "609a43d047649104",
-  "outlet": "Le Monde.fr",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQR0pEazdsRW9UTi1CM19mZy1sWkc3NE1FVWg5X0wxVl9OREwxZHFCZkM4dTRaTHZLb25wZlZNa0dTY3E3c2pER1hOcU52UjhaRUhqZEkzRDByQmpGVG5RVkJpblVPTXM0Z0F3MUxPREpGNl9mbVRpczhRRVdMVHdLczVVQl9VWUxFWnhjRkNybHhPTExKS0Jnd1ZzVkZPYUVHVWU1T21IU1ZqeExfOHdNMC1vYVA5UVZrUTNTd3BYVjlyc19TOEh5Y2p1QTNyYnBkUDhXYmc4cWZjYWQtcUVlTFdzbEQwenlkWWFjNWl6TjlQOGIxZE1SWE0wNWxBUQ?oc=5",
-  "title": "Présidentielle 2027 : autour de la candidature de David Lisnard, « il se passe quelque chose », mais quoi ?",
-  "summary": "",
-  "published": "2026-10-17T09:00+02:00",
-  "mentions": [
-   "lisnard"
-  ]
- },
- {
-  "id": "a7aab45c56196205",
-  "outlet": "ladepeche.fr",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOaEFUWXhnUElnblQteWhKZmFkNTkybkIwV3RfUWhRamN4Z3ljemRYcHNoWVFTTWdxZ3pkYlhhcExOLVNPU012TDYxVDRzNFhQS1pjcHRWOEZMYmFBdGJuQlliY0J0RkZHRGNyenAybVRqWVRtU28tNjJtRjVFYnZOZ0ZEdGRIZXhKZXhrRDRzc0FNdGNSSjhzSEdHWUNBNlhfdE9OWlNaOEtfYjJCQkh1NTF4dTBLZ2xHUVppUV92XzREN25rS1V1M0tydW9Ra3FvREtwc0E5Ym1MaVJKNmlSaDAyRFdMVUtWUGhYMEdNWnlRSHA5M1lLbkRSNENYLXhpSF9SWVM1Z0V6UUFBdDRpMTNPUzhmdWs?oc=5",
-  "title": "DÉCRYPTAGE. Présidentielle 2027 : David Lisnard peut-il devenir le champion de la droite, supplanter Bruno Retailleau et gêner Édouard Philippe",
-  "summary": "",
-  "published": "2026-10-17T09:00+02:00",
-  "mentions": [
-   "philippe",
-   "retailleau",
-   "lisnard"
-  ]
- },
- {
-  "id": "7b53e5210084f6d1",
-  "outlet": "Libération",
-  "lean": "centre-gauche",
-  "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNSW9DODlUME93VmF6NElsTC12MEszSE1nX1VzdTJVblhLMDhVQnBfOHo2R1k0QUlfMVdtTGF3bWZSbXFFa2twTllzMlVIbDNtMXNMZ3l4SGFWTEVnLVN4QjhQWndReGJuY3R2ejcxcUlWLVM4cUwybFRkTWZXUjE4VEpPaUQ1bjNieDNRcjRsOXZXSlNjMzYzSVB2M2FSUVN5SFp1Zk1hdjBlX1NXUzlnU3Fjd3F6RnlNaXRnUjI5MHprbWJtU3RZQ0p0T2dIMDRtZVltMkdrSVhuS3c1LWg1bmNpYWlZaG5tY3BBNGVHUHdydGxySVpic01GenVnamxSalBJVVlxUFJodw?oc=5",
-  "title": "Présidentielle : à quoi joue David Lisnard, le candidat fan de Milei qui veut forcer la porte de la campagne",
-  "summary": "",
-  "published": "2026-10-17T09:00+02:00",
-  "mentions": [
-   "lisnard"
-  ]
- },
- {
-  "id": "230f620a42719496",
-  "outlet": "RTL",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNOHJ3QUlmSlU4WENweFRDV20waGZ4VEd4TVhMMV9FOEIzNGhfYjNKWktHYTFMRFdFa25seEdCVmh2RGo5aW1BdjhlLWgxVG9DaTA1aTg3bTREbU8wdnNtNUczRzdIN0NGNU85YnJlUlBfdXEwcDFFd2hkR1gzd29OdGxPdGNmN0dicmpnY0lwZ2JMZWp0cjl2SzNPUjdIRkJJbkRlampWN1BZOWs0Y2IxbVpXWjFRczR1OEhlbDhpdFY0OUdnN3NtSTBfeHVRQTdrT3JWSmlDei1relBEa3V1X2JfTFVMUUI1azAxX1NVWTlRcjc2bjlBRy11ZUhIRnZGTEh3aFV3aHkzbmZxWFlhcE5tbjBTdldXWVJrTmJFc2kyNi1yLVE?oc=5",
-  "title": "Procès des assistants parlementaires du RN : la Cour de cassation examinera les QPC le 16 décembre, une date cruciale pour Marine Le Pen avant la présidentielle 2027",
-  "summary": "",
-  "published": "2026-10-17T09:00+02:00",
-  "mentions": [
-   "lepen"
-  ]
- },
- {
-  "id": "98e46a0a7aeab216",
-  "outlet": "20 Minutes",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaHBtd1lsVHFqNU5fcDUzamptTUJteDZZSFRJcW5tS2FoWFpTNGJqMzVVc0oxRm1lZDFjYlRZV1g3S2QyYm5FWE1rZWl3aEVqdWZsSHBzSTR0WkdNQ1JhWUJXOFJDYmZXd1VtOUVrSFR1TFYzTWw3R0NsODFRaUdmV3AxaFhnYnB5VkNwQWgxX1h2ejMyVE1zQy1lWWVsRi1oY2w0U0UwbjdhclU4cThzWjU3anRGUlplM29WS0VBQkhVNUYyOUE?oc=5",
-  "title": "Quand Emmanuel Macron s’étonne du « manque d’humilité » de Marine Le Pen",
-  "summary": "",
-  "published": "2026-10-17T09:00+02:00",
-  "mentions": [
-   "lepen"
-  ]
- },
- {
-  "id": "3de3c444a06c6584",
-  "outlet": "franceinfo",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxQT3lkaDRzU0RXejhpQTFKb1E2bUM2TjBsVEZ5eGh4YmRSSjAyRHlpYUdqMjM2eTZaSUQ1YVFqVDc1MTNkQjl2TkFrVGJjbm5JSnNxdXlsZlktTmtNU2dfY3prZDZadnZwSmxuVi1yaXVtWEJDWTdjcG56dHBHcXMtQ1FGVF9SLWlWaGZmVFZPbEZveVNyVXRkSU5IaVJpdHR1THNYZzMyS0RYSmNscVU1WFk3S1hvcUk2UHgwS2p3M1JuV0N3T1NBc01IYU40QVFsYkZjLXNiQVMtZkwwSjcwa1ZRQjhfZUVieDRwSUZkVFVXYzFiYUtRREFoUzJRcXU1WjNHaHNzSDAyMk1sUkFhYjZGS1JyYVJvQlF5YXMtc1dlczdfd2M0UVJtV1JFdUtCdHJMMFpuRQ?oc=5",
-  "title": "Jean-Luc Mélenchon salue \"des dizaines de milliers de gens calmement mobilisés\" pour les manifestations du 17 octobre, Jordan Bardella dénonce \"les professionnels du chaos\"",
-  "summary": "",
-  "published": "2026-10-17T09:00+02:00",
-  "mentions": [
-   "melenchon"
-  ]
- },
- {
-  "id": "b449681d16435eb9",
-  "outlet": "Libération",
-  "lean": "centre-gauche",
-  "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxOclJBYmpfaVE4dUpjY0owVzN2aDJSRmNXcHVTTVRDQldpeUVJVHJ5MXo3UFVTNF9GbFhTUnMtVWZkTWkzWUpUalRqMTNqRnFEYUZHcjBZZE1uX3RUdzBUVWZ0RVFtLXBHa09kSHJaTHl4a0Q5cXF0UmFkSEJhMGtfSi1mdEhWVFRMYUJrd3liZkR2OC1FZUlFMlZwVV9XZHBwWVhRMUxLaW9yMjE2Z3JkcGthNzlpLV9XX2NZUG4yYUlrWDkxNFpRUkhUM1pyVkcxLXpSUGEzZlVhNmdEWUxwVGtnNXZlMHFPSEJnTU5GV0xYOVVwVks5UVBhellWaXJwZE9qb1RPVkRxc2NlWjF2THJWSWlVNVN3ZHFTR2w3LWJvdS11Mmc?oc=5",
-  "title": "Présidentielle 2027 : pour François Fillon, Bruno Retailleau «est le seul candidat crédible qui soit clairement à droite",
-  "summary": "",
-  "published": "2026-10-17T09:00+02:00",
-  "mentions": [
-   "retailleau"
-  ]
- },
- {
-  "id": "f5f9a03dd96fcc80",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNZE5KS0Y5WHlKNW5zcHVJN1BiSlMwTnFxZERlSTJpMXdmY29nVnB4a0pBM0Q1czZWMFRTOUlLaDVSaVJXbmlodTIyQnFvLW9CdHV5Q0hnNGR4TkM0TXhBLWM0d0E0bkVRZ3pzNGQ4RjBZaTJJY1RYVWhSRVdTbjlXT2E2VHNhMExuaDdVbVNGcTBsdXZtbGNZdmxCVVVyc1lRaVlaWUxwVWtvOWlsYjRMb0tHWW1BVHRVQWFscndNVm80MEd1YmRnbWZ5Rzh4ci1QWjVMR1pfMTExYzAzVkhVaGRnTW5UX0RQS2xWcDFZM3AyaUtaMF9ub1lnS2VEQ05NclVnZlNmWG8?oc=5",
-  "title": "\"Le seul candidat crédible clairement à droite\": Bruno Retailleau reçoit le soutien de François Fillon",
-  "summary": "",
-  "published": "2026-10-17T09:00+02:00",
-  "mentions": [
-   "retailleau"
-  ]
- },
- {
-  "id": "8c77d16fa41a8a04",
-  "outlet": "Sud Ouest",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQUh5dXBZd2owcHI2eUE4bVdxUjR0RzNnTXJJRDJUdzRKRTh2eHA0RktzSmRiVExvVllGRkI0VjZUYUZjUkNJdWowbGtVakdQNktaRE9ITG4tckoxd1RGaEF4V0NodkhJRUR1ZDRucmptNk5RekxQakd5eDdOa1lvaG04NlRVTzVPdUVGZnJjd2NqQkkwY0JqUHJ2Y2gwM1FpSktpNmxMTzA5dkkxclVWVGQwdkVFd3haWHFXWlZB?oc=5",
-  "title": "Présidentielle 2027 : François Fillon apporte son soutien à Bruno Retailleau",
-  "summary": "",
-  "published": "2026-10-17T09:00+02:00",
-  "mentions": [
-   "retailleau"
-  ]
- },
- {
-  "id": "a1b8d76736e1f8c3",
-  "outlet": "Le Figaro",
-  "lean": "droite",
-  "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPVF9pLWx5Y3Z1VU1LTHdKSzd1RFI4Q05VOXNkRU5PeE54OC1rbGlrbU5LX0VNSEFHZTFueDJiTXo0SkNWVDc1ZzdGVW5WenViSEd0NDM2ZGhIWDRGNVZUc1VmZFR5NkJPSzVPeTBpT0F1RlJQTzNoR2FLcEFxcnUyM1M0RHIxNTE3VDUwWTY1RHRkMHZtMmdqbkFUSmd5U1RBc3FfX0VLUXY1Nzc3WEpnVjJrQlJtbFZ5T1lNZUJBaEhENi1NUW5hUmx4OVhnNnRzdzRHcHJvbzVYMkdSWHluOXZBVDZrQnB2WXd5QkNmTndPNUVUZXc?oc=5",
-  "title": "«Il y a des mesures fortes à prendre pour défendre le pouvoir d’achat des Français», affirme Fabien Roussel",
-  "summary": "",
-  "published": "2026-10-17T09:00+02:00",
-  "mentions": [
-   "roussel"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "lisnard",
+    "tone": -1,
+    "frame": "programme"
+   },
+   {
+    "id": "retailleau",
+    "tone": -1,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "ef816499567104a0",
@@ -232,142 +619,55 @@
   "published": "2026-10-17T09:00+02:00",
   "mentions": [
    "melenchon"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": 2,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "7bfa8075f27ef7c4",
-  "outlet": "France 24",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNb3FRYjZJNjBlMzByWHlnQ1dQOHNFc3J5MHJjcDlOMG50bDkzcWpKcDZFRFVRNU5hQ0k5dHJsY3Bkc1dYSk9XZmM1NjRUZEI0cjN1dURZWHU0d2x2WTloMktXQlpTX2J1MVRSbjI5bFh5SDVuQy00N0l2eU5sLUkwaDNKdjh0dnp0N1AxWjhQLTVFcHF5LTFXWkQ2MzF4S29YNXk3UThjOW0yNDNhN1IzMVdYRGhxRzdPbVQ3ZUVVVk9uMkJ1Y0ptcXMyeHZRY29rc2k1dGE4WmhNWjA4TTdYZWNIWXk0WElicGlUcThqZw?oc=5",
-  "title": "Après les violences en marge du 17 octobre, Sébastien Lecornu et Jean-Luc Mélenchon s'écharpent",
-  "summary": "",
-  "published": "2026-10-17T09:00+02:00",
-  "mentions": [
-   "melenchon"
-  ]
- },
- {
-  "id": "6a33db03dce55146",
+  "id": "f5f9a03dd96fcc80",
   "outlet": "BFM",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPOVA5eko1d0paWDJhX2xnNmJwejZKUXpLUmNwQ0xrUnVVWnVCU1paRFlqaUVHa0w5VlJ3djB6S19CNy0zclNrTDlmbzVMWEtQbHRfcVFTYnA2U0R5MWt2SkIzSlJQdlhvZW5WRGZfTHgxZFRVUml1UzhFa2JhX0JMaHVBLXNaSURrcmRlNTBzUHVJS0U0VGd3MDRIdjlCVzRCbnRKcE9wX1hmTTdEQUxZMXFSMUJLNjJGQ1hhS3JpaUpGbFYwOEp6VEFweTNZaTVaNS0zSnQ0UHl4azJVbXJwOGtlYVFIMW0zWm1JN1V1MjZuN0g2cG1aN0twanpTVlFOT2FZTG1PdnQ2ZEpxSUpUQV9kbi16X201S0FNMkcxRm50MVFqS3c?oc=5",
-  "title": "Manifestations du 17 octobre: Marine Le Pen s'en prend à La France insoumise, Jean-Luc Mélenchon juge \"lamentable\" la stratégie du maintien de l'ordre",
+  "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNZE5KS0Y5WHlKNW5zcHVJN1BiSlMwTnFxZERlSTJpMXdmY29nVnB4a0pBM0Q1czZWMFRTOUlLaDVSaVJXbmlodTIyQnFvLW9CdHV5Q0hnNGR4TkM0TXhBLWM0d0E0bkVRZ3pzNGQ4RjBZaTJJY1RYVWhSRVdTbjlXT2E2VHNhMExuaDdVbVNGcTBsdXZtbGNZdmxCVVVyc1lRaVlaWUxwVWtvOWlsYjRMb0tHWW1BVHRVQWFscndNVm80MEd1YmRnbWZ5Rzh4ci1QWjVMR1pfMTExYzAzVkhVaGRnTW5UX0RQS2xWcDFZM3AyaUtaMF9ub1lnS2VEQ05NclVnZlNmWG8?oc=5",
+  "title": "\"Le seul candidat crédible clairement à droite\": Bruno Retailleau reçoit le soutien de François Fillon",
   "summary": "",
   "published": "2026-10-17T09:00+02:00",
   "mentions": [
-   "lepen",
-   "melenchon"
-  ]
+   "retailleau"
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": 1,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "a9b3651541d8f5c6",
-  "outlet": "Valeurs actuelles",
+  "id": "f700fd32360a0fff",
+  "outlet": "Le Figaro",
   "lean": "droite",
-  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZ0R2Qk05WUhPZnlHalZXSDR1ZWxrOWJjZElIYm16M0ZNQVZmOFNXNDNKeURZTUlwb1dOTS1mM2JQU2VGNGI2LXcwUVZlOE9hTFlXZzF6U0M1czVnVzF5amp4eXFqeDBTcHhadEVyS0w4N0p0cUVUTG03TkRheWdTQ2xjTlFpbXA0QngydEZCOUUwOVloLTFpRlN6UDVocEVPY0YzRUQzLVA0VE15bFUwNmFSSmpzc1k?oc=5",
-  "title": "Budget 2027 de Jean-Luc Mélenchon : ces Français qui font déjà leurs valises",
-  "summary": "",
-  "published": "2026-10-17T09:00+02:00",
-  "mentions": [
-   "melenchon"
-  ]
- },
- {
-  "id": "8349777df94a0795",
-  "outlet": "RTL",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQZlltUGtzSXU3VjFZeTJnaXUzUUZxanoyYmlQc3NYaEp3eFhWODdzdUN6VldTTGR4SG5rOVNuMUJHLTc4ZjEyYjZLMHplNVlEckhxWTZsNGM4WS05U1ZCTTRCY1JiSF9MdUFZR05PX0kzUzQ2UTBWTnFEUjU4cDFzYlR0VkJCMFRzdnFJaXVZVUEwTlVzY3AxejZGNjQ5YWNqOWFiSnY4VG01aFBqVDNGdl81cFhzWjNVb0ZuN1hwaThlaENyVEctaGczbGY1VmhwNEY5cTIxLTJyNFBpdE5ndGVpd2pzRHl0aFI4azRDZDlSTzZUOHRadGhNVVZ6dWprLURwTDFnVmVhUWEtcXAtTHo5VGhkc3lIdE1JZjhjRG5VU3VuVzlQREZZa1M?oc=5",
-  "title": "\"Ras-le-bol de la doctrine de maintien de l'ordre\" : Tondelier, Bagayoko, Mélenchon... La gauche en colère après les violences en marge de la mobilisation du 17 octobre",
-  "summary": "",
-  "published": "2026-10-17T09:00+02:00",
-  "mentions": [
-   "melenchon"
-  ]
- },
- {
-  "id": "4d7f09ea0c6e543e",
-  "outlet": "TF1 Info",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOSUVzczMwN0otbjNsRTZUZlpsS0JFMU8zN1prOWlOc2l0Vjc5U2tlTVppVUpkQUFQRVAwUlpnSFBsZmx2RUZjN3FQOWxNUFlDYVMyRVFiREZFd1RNWVBQTFg3d2ZHZ2RGQ0pIdUdXcEZkVklIRnBvTjdrcFNOLVV6U2hNeHVhYkJRNU5qWjl0SEo4ak8zWlhHUDY1Si1lRFNZemFqeVZ1OE8ySlZRS05ldGNEaF9TNUhDQ1h4WVZYNVBPQ2tTSi1XSk5wRVJyZVh0RGdSeHF1aXBDaEJJYzNhOVRQQWtaaFU4c3Z0WjZNbkpma0NmZDBuTnFaTlBYTlhyWnNKMVlSWQ?oc=5",
-  "title": "17 octobre : le RN accuse LFI d'organiser le \"chaos\", Jean-Luc Mélenchon critique la stratégie de maintien de l'ordre",
-  "summary": "",
-  "published": "2026-10-17T09:00+02:00",
-  "mentions": [
-   "melenchon"
-  ]
- },
- {
-  "id": "9336e4010aaea084",
-  "outlet": "Le HuffPost",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPS3U0R1JPRm5LNFZFTk1SbFJwOFB1ZWtESXNGM25jUHhPSHNXS3lDZHlRYldXdnBFcXJ5YW9MTi02SmtSMU9UYXVEMVBOa0UzU3VlX0tCZ0dLUzBnZjk1UjFERjRTcWVyOG5vaG9MNjFUSDBnbjhsajZEQnRheGZLVkdiYzFxMUh3aHBPOWtlYTd3b2tjVURBX1l5R1RpbmNoc3Q1QldnUHdrMkZQVTZmQUZiSThJRFN3SEtMeGRjQmxZX1VicVJMNW1YZlJHalpOVkdTOE42OUxTd1V5Um83dzluX0pJVnp2eTVQOExtVUFjTXlVaDdxbmxmNFdMTUU?oc=5",
-  "title": "Après les scènes de violence en France, Le Pen pointe Mélenchon, qui accuse les médias et le maintien de l’ordre",
-  "summary": "",
-  "published": "2026-10-17T09:00+02:00",
-  "mentions": [
-   "lepen",
-   "melenchon"
-  ]
- },
- {
-  "id": "1c31bdd0f007f3d8",
-  "outlet": "RTL",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNS1dJYXFyUldWelpjLWRudVRDandKUjBYQi1sV3djOXBQaUd2ZXpXRTJ4b1dOX25wanVFbzlJN1ZqUGdBSEpaYXZ6czNEb0pwdkxXN3VORWJHMHlRSDJDMFdIcjlNWU5fVG04UXozUzFHQWJtaHNGZ19HeVdQd21VU0UxallQaHJqNTZIYTdSNWhmbVo5S3M2T2RlMEI1TC1xZXRZLUJDMV85ZXpPYWNoZFhBbld6V2JLLUxIdHhEYzFMNEVLNE5KYXEwQkJHTFZBcG9wcGp1eWJTYk5VRFliTXVhUmhpd3I5UHp2Y3FQZTM?oc=5",
-  "title": "Vers un retrait de la candidature de Bruno Retailleau en 2027 ? \"J'irai jusqu'au bout\", martèle-t-il sur RTL, balayant les \"prévisions sondagières\"",
+  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPY1U3R0ZGQnU1WmJKdHB3WlNGNWg3cnNLdW5kZUxYMW82M2lpakJpdUJlTG5LUk9ENUhXZFJMQ1dnb1RhMnh6RVdjWXRxMl9Wb2VrelRid1pncnQ4SzdyakZja2NvSVVQamJHbFl5Vzl3Z245YjRoeG9hcHhSU3R2ZllvRV92Zk12dWlSdVlDY1RRM3VuS0YxX1lqa2hxWXp0bDdiUkNrUWgzZl9iZG9ON3h5MWlMY01Lc0F2ZnZzeVA4ZlQ1TVlF?oc=5",
+  "title": "«Le seul candidat crédible» : François Fillon apporte son soutien à Bruno Retailleau pour la présidentielle",
   "summary": "",
   "published": "2026-10-17T09:00+02:00",
   "mentions": [
    "retailleau"
-  ]
- },
- {
-  "id": "5401fd9747b3afcc",
-  "outlet": "20 Minutes",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbU55bllKVDVWa19oY0NFeXRQMUpVX0pjVFF2bFNNempvdF9jMlNTb2dNR2tPZU91aUlNOVdyRTNiUmttaHVWUlV1WDhSU2tvUTBGQlcwTzloZWNYVVNkcTJGV0JqVTRMa242ZUtqYy1CZGc1WGk5ckFaZnRvYURwbHBrZ3V6dC04U3pfVTdUV1B1UGhEeU9nbVEydkdIZkFtWkxZVU8ySVFiSTNqQktCRmxFbHp5SERMRWpQQQ?oc=5",
-  "title": "François Fillon apporte son soutien à Bruno Retailleau pour la présidentielle",
-  "summary": "",
-  "published": "2026-10-17T09:00+02:00",
-  "mentions": [
-   "retailleau"
-  ]
- },
- {
-  "id": "49609fccb2039ff4",
-  "outlet": "Marianne",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZmxTWWdDOTB4UkRGejdIaWdhMnFWVWZBamNCTkwzcGQ0Rmc2bUtkd19ZdmQ0c2lRYWJLcndDcm1KS2lvWGFOaDJFeTN2WDNON1pfS2JXN21fc2RqNFBpaXhpS2xROVRzNExPN3V3NFYyVVg4dW5CUG96NmcyY053ZHRBMUdXSVdoWnJLYjNQMmVYd1QwNmxnclB0eHJtMjcwN3hrZnVNYjlnclRiNEI5NGk0eUdxWWV2cmRF?oc=5",
-  "title": "Présidentielle : Gabriel Attal est-il vraiment capable de menacer Raphaël Glucksmann ?",
-  "summary": "",
-  "published": "2026-10-17T09:00+02:00",
-  "mentions": [
-   "glucksmann",
-   "attal"
-  ]
- },
- {
-  "id": "3eed5020cf1a3424",
-  "outlet": "lejdd.fr",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZVFzM1ZOOFd2LUZfM2MxS050RE93NDA0Z2JJaVpKeWM3OTdzQzBWeU9MSHloM3I3RnFySWlWS1ZlcEswODdpVTJWS2Z6OV8tVjdEZU1pcFJWaU8zSXFMd3NKc1dSV24tcFN5UmZTaS10Ync2eEVkc0ZSMWlCU3NXQmp0N2IzeE9JSmctcnJ6RnBGdENIVmNvQmF3?oc=5",
-  "title": "Présidentielle : Édouard Philippe s’invite dans votre salon",
-  "summary": "",
-  "published": "2026-10-17T09:00+02:00",
-  "mentions": [
-   "philippe"
-  ]
- },
- {
-  "id": "b42fc6da1ff22b68",
-  "outlet": "Orange Actualités",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOMUZ0RE5VQ1lKbEJJTTBUaXdjcjdISWxyX2J6b2J6VngtWWtocWhkRVNoUlVTVy1fME95TFpkdUZYU1JGQmJuQUluSUx6aURia2t0REpzRDdTZkIxVFI4Qmw5OHAtVmtReVZEMnhiYVlPY0RjSU10TDl4SGwyVnY2LW92YUR1dzdIVE1DUFdrck9ldHAxdEtTb2hQckdQUm9pZi1sN21ldmQwdnJvdGY0b1dSN1JneTJOUkNZZEplcHpYNER5SjBIbWV2dHh6eXE3ZjZZbTZlX1dIOVNqLUEtWlN0d21BVExabURWRFV1QjlYNnhrVElmVzlsVFg3VU9RSVVUc3d3RmsyMXB3cEpwcFVnaEU?oc=5",
-  "title": "Affaire des assistants parlementaires du RN : la Cour de cassation fixera le sort de Marine Le Pen le 16 décembre",
-  "summary": "",
-  "published": "2026-10-17T09:00+02:00",
-  "mentions": [
-   "lepen"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": 1,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "6a1b51137c7c2ae5",
@@ -379,7 +679,15 @@
   "published": "2026-10-17T11:21+02:00",
   "mentions": [
    "roussel"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "roussel",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "55dea4ad0ba65acd",
@@ -401,7 +709,15 @@
   "published": "2026-10-17T12:59+02:00",
   "mentions": [
    "retailleau"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": 0,
+    "frame": "sondage_dynamique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "901d72d712edb593",
@@ -413,7 +729,15 @@
   "published": "2026-10-17T13:09+02:00",
   "mentions": [
    "dupontaignan"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "dupontaignan",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "5a72329b9b21d055",
@@ -425,7 +749,15 @@
   "published": "2026-10-17T14:16+02:00",
   "mentions": [
    "arthaud"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "arthaud",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "f4d75550a4bf8d13",
@@ -437,7 +769,15 @@
   "published": "2026-10-17T14:27+02:00",
   "mentions": [
    "zemmour"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "zemmour",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "2bc7db921325466a",
@@ -449,7 +789,15 @@
   "published": "2026-10-17T16:43+02:00",
   "mentions": [
    "zemmour"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "zemmour",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "92907e5ae7901791",
@@ -461,7 +809,15 @@
   "published": "2026-10-17T17:20+02:00",
   "mentions": [
    "ruffin"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "ruffin",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "08ba0385e78f7a2e",
@@ -483,7 +839,15 @@
   "published": "2026-10-17T18:37+02:00",
   "mentions": [
    "ruffin"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "ruffin",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "eb2ede03f900a0fd",
@@ -495,7 +859,15 @@
   "published": "2026-10-17T18:51+02:00",
   "mentions": [
    "ruffin"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "ruffin",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "ef617c718cf2d6ef",
@@ -507,7 +879,15 @@
   "published": "2026-10-17T18:55+02:00",
   "mentions": [
    "zemmour"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "zemmour",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "39fc6144e3ae147a",
@@ -519,7 +899,15 @@
   "published": "2026-10-17T19:56+02:00",
   "mentions": [
    "zemmour"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "zemmour",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "5fd961ba21645eba",
@@ -531,7 +919,15 @@
   "published": "2026-10-17T20:28+02:00",
   "mentions": [
    "zemmour"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "zemmour",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "f60c9ee454260f91",
@@ -543,7 +939,15 @@
   "published": "2026-10-17T20:59+02:00",
   "mentions": [
    "dupontaignan"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "dupontaignan",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "771291d8e824cefa",
@@ -555,7 +959,15 @@
   "published": "2026-10-17T23:00+02:00",
   "mentions": [
    "dupontaignan"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "dupontaignan",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "72142724dfa7326a",
@@ -567,6 +979,14 @@
   "published": "2026-10-17T23:02+02:00",
   "mentions": [
    "ruffin"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "ruffin",
+    "tone": 0,
+    "frame": "programme"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  }
 ]

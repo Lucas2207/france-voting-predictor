@@ -1,171 +1,43 @@
 [
  {
-  "id": "61bbbc606b568790",
-  "outlet": "Le Monde.fr",
+  "id": "0398ff3a0508500c",
+  "outlet": "https://www.parlons-politique.fr/",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxOLTBPWkRNaGcxNTlVMUhXb3hHZzc5X3F1S0lvNHlZY3l3RUE3SkxvZW04eHVTbDE0a2FZODhuQU9oX3UwZm90aTRUMFhqT1ItY3hHS3RNeGVGYzNPTEpleG93OTVOOGpQUDMwR1c1dkpQMEEzUDloN2hFNGVhbjZDcS1vVDNGdHpBbFpfOWZxS1R1QkVpOTVINjN5Y0pVV213UDctc1Q3NEo3Z3F5dlgtalpFZzlyYVE4OTVCanRRb0Nxa2pjWndPSzc0Y1h6M0xvbVRlaWxDTU8yZy1DT1dMWGF6a25vSy1LVkkxQnhsUkpzNUVjeU5uWHF2MnpCVThQZi1YM1dlX0JvR3dZQ29mZlo3MzlfcVRnRXhWM2JrTmlWUklwemZDM0lnX1U4STViOUFqc093a3l1RDNjSUp1amFDZjlyRkN1Rkg0ckxsNVNERkgxTlVZNDF6aURSdw?oc=5",
-  "title": "Marine Le Pen affirme qu’elle ne ferait pas campagne avec un bracelet électronique et dit « ne pas avoir peur » avant la décision de la cour d’appel",
+  "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNXy1mMG1ITDJKWWxiWHRzNWVCNkVpTF9PdldscVgzV1Vjc0tJYWg4a0VNWGViTkxNYUNhNlBWZXRMMUQzMjZRajlSNjQycmMzb2J0NzYwb2tybnAxXzRxTlZha2U4N3FNLXN6VWRCeWpYeDI0VklVTHJYbTY4cVdxZzNsVFdsOVBEbnl3dFdCeXl6TWVZXzlGdVRNZVpNeWRseHV4OTV0X3ZfR0RRS21OZ3Q5X0ljeHNSODB4ZDZ2eVIxTm9MMUFUOHltQ1RTNGk3YmU3S3ltak5Dc2xrNS11enl0UU1UNURYcG1IRWxmUE5kQ0h1VkxOcS1mQzM?oc=5",
+  "title": "David Lisnard confie sa campagne à un préfet de terrain pour incarner une présidentielle axée sur l’efficacité publique",
   "summary": "",
   "published": "2026-07-01T09:00+02:00",
   "mentions": [
-   "lepen"
-  ]
+   "lisnard"
+  ],
+  "analysis": [
+   {
+    "id": "lisnard",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "2d80fd6d19f26ca9",
-  "outlet": "franceinfo",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOeHhONWs3bEs2U2p4YkNDTVdnT1FxTzM4MTVNZGpLLUx2bTk0cEd0T1ZST3lkR210NHVBRUt5TlFCMDVqQ042WFFuTlFaNEdFRVJVTHZtQXVPTWpTV2R4YnJsbkxINEtkRTRHYXA0Ym5Odll3TTFEaFhkSWZrTDc5eUJ1clNzVkZPZXhDN18yTEVkY3VHazFqQVZpTnhjZXgycnFGSENPZ19MakJBRUVsTEYycS1PZlFwbVdpTnUxNTlfN3YzQkZha2lQZWV3UVFhQWdWeVF0V3pOamVBcXBnNGUzRjIxcWFX?oc=5",
-  "title": "Présidentielle 2027 : pendant que le PS se divise, Jean-Luc Mélenchon avance ses pions",
-  "summary": "",
-  "published": "2026-07-01T09:00+02:00",
-  "mentions": [
-   "melenchon"
-  ]
- },
- {
-  "id": "a934f705c43233df",
+  "id": "076fae11f9bd135e",
   "outlet": "BFM",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNWXZjWHdjNUg3RnZJWVlWQksybDlMWGZBUjBjT3hoQW5ybktiUXhabnZFV1pOTkVBa2VyODV5ZVI1UlR2NDRfRmlMc1FHcWFsc0NMY0hFbHM3cmFSeEN2bUNtOGlIUVJ3aUNMVjhScFFLOWhpSFBfOUhOdE9XczdGajJCVnNzV1QyZ2s0b1I4dXotWlFXZTNWYWlYeEkxNDF5TEsxT3F1YkdqTG96dG03VF9kREpkZlNPMnRQREt3WjE3RTRWSVRpUzB5Q0RPWGpHcHBNNURWTllDTDUxY0RScHVlSVZkM3FCNjBvRXVRNWNsdnY5OHVDczdmZTBHQXFkX3lKVWZzUmdsOG1rOXdGVlV6aE94cE90MzFJ?oc=5",
-  "title": "DOCUMENT BFMTV. Présidentielle 2027: le courrier de Jean-Luc Mélenchon aux maires de France pour obtenir ses parrainages",
+  "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxOLXg4QlZlTFVnQi1EbDRnUXJZQ01QN0NHdm5ZRHFSZVQxU3NZOU5oS05mbHBKRzkxZnNOdDNqb2YtN2dYMTdiSktYQU1YdDRtWE1FcURWblJadExsZmVQeVdibmhsS3JQd2hnMjQ2MXFCYkNMcXJIRUpBTlkwVE03bEpOcXl0bEtmR3FKOWZzMzFUc0pRLWJiMmhRVVhZbExHNmRpR25iTDIxSWp1Y1prZ1J3WEx3OGN3aG9CbkZkZ2Y1LVNFcnFRRUxNeUdlaXhXaGhpR1VOQ1VyZU4ta1pBTC10QW55TDhhMlRNVmVnZ2tfSjY4N2xqVi0wWF9OUmFjd0VJN2piZ3Y4bFlYWkQ4NVhBbDJyRm5JeVg4NDlFVlRDZGtfNEdzenNwSHBINTNucTBkaQ?oc=5",
+  "title": "David Lisnard, maire de Cannes, réagit au vide législatif qui ne permet plus de maintenir en détention provisoire des mineurs accusés de crimes",
   "summary": "",
   "published": "2026-07-01T09:00+02:00",
   "mentions": [
-   "melenchon"
-  ]
- },
- {
-  "id": "220aed4fceeeda75",
-  "outlet": "RTL",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQMnJPV0ZLT0kxZVBPNHJteHBRRzZ5X0k0UDlyaVRBOGhrWkNXRDIwSzBMQUsxcTVfTmZUYm53NWlpZUtIQWVWdXRRRXQ1WjdEejU3ZkNqOVFsaWx6RXZfekhhQ1A1WUpXMjNNY1FVemNaOG1wMF9UNUI3TjBTY3JhTU5QUWwtcjFLVU9qUE9NdGRPek9jVDRpLWw1SWdwQkhXcVRHSXRyVGxac05jT0tVc2ZMc2RhaGtFeThMTmdsSklPdmtSOXFxa2JpdmxhU0tOVTV3SGpZVEx6R0w3b0VwX1g5UkpxVExpVXQ1bmQ1SGNhM1NUc2NKb2ZRaEpIdFVqUlR0bWxSdEZsTm1p?oc=5",
-  "title": "\"Il s’impose comme le numéro un\" : Jean-Luc Mélenchon améliore sa popularité auprès des sympathisants de gauche pour la présidentielle 2027",
-  "summary": "",
-  "published": "2026-07-01T09:00+02:00",
-  "mentions": [
-   "melenchon"
-  ]
- },
- {
-  "id": "4b7cea07b00d6926",
-  "outlet": "Le Figaro",
-  "lean": "droite",
-  "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPM1hFc1dVdXJMY1VLWHBvQWFMLV9HRGt2dDVjTkJiejRUbDZxU090WWo2MG5mNVQwcng5LW02T0hWZE0wUEZiSGRUUHZMcjBTb0hxejBmUmlOVk0zamd1anlMWUhjNi1OekJ4WWg0UlEyVkZkUm9lc1p0NG8xYzZNNnR3aUVSak5neWd5Z2ZQcUUtSUVLdVlSanQ3R0FLNVFEcnpSM3BRQVRpOTVKSWswaHFWUVlBLWpqeURzT2hiaUtJTWxraUdmQzNPLTZidXlwZUYzbXpPckZwMlRQTUM4OERJMVQ4UFE3WlMtRDljck9wMm8?oc=5",
-  "title": "Présidentielle 2027 : Arnaud Montebourg appelle à «neutraliser d’urgence» Jean-Luc Mélenchon, qu’il qualifie de «fou furieux»",
-  "summary": "",
-  "published": "2026-07-01T09:00+02:00",
-  "mentions": [
-   "melenchon"
-  ]
- },
- {
-  "id": "d952f9b4d81e8b34",
-  "outlet": "Orange Actualités",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNUmxMTzgydGY1SXlFMU9EdFkxNFJNOF9hMFVIRExXQUhOVlc0bVZ4aWFQd2NlSDh0dGpnaV9rb1FCbUplaENLaGFTa01PV3pCTm1wb2l5aGl6RHNua1FsbXBYdlBEYnFicFdIWW5xYVo1WndnbmpVQ0NPdUdoSmxuV193eDlzZkRHS1ZFS2V5VzhwVTFXaldnQkJjSC1TczYyZnFwaVhkc1RzdHB1QmNyc1Jtc2d0ZEwtdUFSWmVvaXhmNk9fTERsYmUycjQ0OHVNLXRYRUN5THoyTGJpc2U1YmZqSU5ZTzFZeThEeXJhM0E1UmVlV1NlejNkc083cWFFYjdCZg?oc=5",
-  "title": "Présidentielle 2027 : Laurent Wauquiez invite Bruno Retailleau à \"se retirer\" et apporte son soutien à Edouard Philippe",
-  "summary": "",
-  "published": "2026-07-01T09:00+02:00",
-  "mentions": [
-   "philippe",
-   "retailleau"
-  ]
- },
- {
-  "id": "4cfbbe77951896c6",
-  "outlet": "Presse Agence",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSVdpZ0ZZVVpIVHl1bzlncVk4cmRLUTMzWGtMSlZqWll2ZER5V2ZldjAxX1VzUmtGd0NyWk1GVTAyUUNyNEkwUmVRMHRERTFmUUFOWTJqUnVaWUhib1Q3X0JubXplNUg4emNJM3d0bXlMWnNrdHIzSlFEYnR5N1FQYjFYZzNZVG1OcDdCSktrZ01LaWxFc1FjcWhya1ZEU2ZmUkpYMU5CVUIxajlqUkF3?oc=5",
-  "title": "Reconquête : L'université d'été pour lancer 2027 à Port-Marly",
-  "summary": "",
-  "published": "2026-07-01T09:00+02:00",
-  "mentions": []
- },
- {
-  "id": "151cf5d70bb3e538",
-  "outlet": "Boulevard Voltaire",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMHNJRURuUEZfU0JvS2d0c29jY3NMSTNPUFRkRVQ2R3Bsc0IzMHdENDZJOVY4RERoN3dhUHJqdjNMLUNXUlpyYk01WmJKUkNNVHNRdXR5eWJvV3FIVVFjLW9vMWNPajM4X0pwMEEtYTI2dThHUEZpNVpBcDNfSklWdjJhRXRBT0Y0SVdPYzBIRmE?oc=5",
-  "title": "Succès pour Le Suicide français , le documentaire d’Éric Zemmour",
-  "summary": "",
-  "published": "2026-07-01T09:00+02:00",
-  "mentions": [
-   "zemmour"
-  ]
- },
- {
-  "id": "16dfe23d20e8f4c1",
-  "outlet": "Le HuffPost",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUnNIUEpNMU5CU3NHbE9BUDM5VmhVSnFKd3RCczczekJXdEFTOHhzUHNoRXZUb2tXS1ctaHE1My1ydjM3RU9kbHFvNXJISXkxQzljOEZwSnNTQXZhQy1TX3hMWGZoeU5aNDYySlpiTDRXczBOYTJQaWczSTYxUk9MYzBtbnBIQklqRzJoLVpqZW1wcUVsdExzcGFlT1psZ0V5OHRPV3NmbThtWUk3UGxXaXJjZC1yNzI3MWtwSk5Eal81YUhZYmRR?oc=5",
-  "title": "Bruno Retailleau est « en colère » contre les dates de la présidentielle : une « stratégie du chaos »",
-  "summary": "",
-  "published": "2026-07-01T09:00+02:00",
-  "mentions": [
-   "retailleau"
-  ]
- },
- {
-  "id": "53bb8095cd89c21a",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxOVVo3dHVaTUJDY0QwZVdkRE43VkVWanV3Ql93UndsamU3WFlEQ1B3dFo2RVFwbkw3cUMzS1Rva3FIRE5Ja2xjTlpCUHRySFFuOS16ZTNYOTNma1NBM0ItNE5iMExLYklBMEwtSmVHYW02QXJsV0pUV0w1SDI0bTdJdVkwRGdLRnlMWngxTm1yMWtQQU95TzZSMUNPVndUMDJ3d2JYb0V1bzU0SWplMU91Q1ExaUtnWUhTSmpveEJZQUlkV3VydDJycTRHVDlxWGJHaWItWV9yNFZ0LWlRNlRtNVhkeGduQmp5ZTczaHlvR2dVVzUxRlp2dWdJTTJlcGxJMW1CQXV5M01mRXJleThXWkpuOGo0S0RyM2Y5X0NMQnZyV0lQX0FlLW5sQ08xYlZLT2J4a3dKMHNMZw?oc=5",
-  "title": "Présidentielle 2027: Bruno Retailleau \"contre\" l'organisation du second tour au lendemain des manifestations du 1er-Mai, un choix \"pas neutre\"",
-  "summary": "",
-  "published": "2026-07-01T09:00+02:00",
-  "mentions": [
-   "retailleau"
-  ]
- },
- {
-  "id": "9bcdfd073bb5db54",
-  "outlet": "Le Figaro",
-  "lean": "droite",
-  "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNTVVNMkJCcnBNUTJUMW5NTDZtN1JGWG81X1JnN2kyeEFSYjA3QktEZWQ5clkyd3p3RW9NQkNSekxLWW40cndiUlJZOUJMUWxWd2d0Tzdla3A5OFBJaUJKMzhwVGliVHg5TlU2UWhYTWpSVHcwVmctV0pSak1PSmJJYWVfWl9hbkJrTWJCaTd2U1VzQ1diREU5RXJTcFFZeGdnSnhBLV95aGpzOFdNSFl0aUZWbUd1WV95RlRZM00ydGE1eEdzVE16ajd1Si12MTMwcWJMSWlsNU1DY3VZeHhBYWpfcUhYMGR3ZnRsRnFhSTM?oc=5",
-  "title": "«Le choix du gouvernement, ça a été le choix de la gauche» : Bruno Retailleau dénonce les dates de la présidentielle 2027",
-  "summary": "",
-  "published": "2026-07-01T09:00+02:00",
-  "mentions": [
-   "retailleau"
-  ]
- },
- {
-  "id": "98b5b024262470b6",
-  "outlet": "Ouest-France",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNTGpmY20zNjgxUDlRcTBMcmlTX0o4eUEwN3lydHBIdUZpTmtmTnZjT1EyVHJNanRrUlVUUlNuYjJkZDFPZkpDOXZIOUFNOFFCZHBRbHd3eV85R2JLUnk2YmNDUjEzTEp1OVFhcVB1M0ZXRnFHeE83emI1cWQzLTdUaHBySG9tQnJZMmFBWDlNYUNlcVBEaEF5aU9UaWdMX1RHODc3VmJxWk4yYUhscUh4OGFSTHF5VGk4NTRqcVNZQmtfRkhCa3lmNjRJV3BGbEo4eTc1ejZDMGFkZ0kwN2N1UElEZVVCLVlUTlN0aQ?oc=5",
-  "title": "Présidentielle : Bruno Retailleau « en colère » sur la date de l’élection",
-  "summary": "",
-  "published": "2026-07-01T09:00+02:00",
-  "mentions": [
-   "retailleau"
-  ]
- },
- {
-  "id": "6aebf83b814635da",
-  "outlet": "Le Figaro",
-  "lean": "droite",
-  "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPeHRicjdNdVhUcjl5N2pJc1JxMTdFc0s5NlVEMWw1bzY5SmFDazVyR0ZpamhBNS04cE5ycGViQkpiWWZFa3ZEZ2cyUndRTC1ILVNsZ0RtZVQ5RUt0T0NsdmVRUnY0LV9xeklqTE5UMC1SbHlQX1k2QXpiMkVKOVJCQU1hUW5XRHEwQlNWTU1XYWFXN0dGQTZ2UElkb1l4UHpCXzBpOFpHQk44UENQTGpyU1ZBQm9jTi1xY3ZsczVKQm4xb2ZUeWxfaGd0N05zODFzeU1hcU5oTFpLOE9XS1dPdldvTVZ3UXZPeGVoOE1oX2J3T2FQaHlB?oc=5",
-  "title": "Présidentielle 2027 : Bruno Retailleau durcit le ton sur l’immigration et se dit favorable à la suppression du droit du sol",
-  "summary": "",
-  "published": "2026-07-01T09:00+02:00",
-  "mentions": [
-   "retailleau"
-  ]
- },
- {
-  "id": "dbe3c6d56e8f0e59",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxNenk3OGg0RDNhYV9xYXV2VHRhcGsyTGlPaG8wUmhKaWNnaFljNmlqaWxPaWJ5ZEg1aFRUN2U3cTR6QmVzbFYxMGd5YTdmWm9mTzkxc0doNXNTdFRIUW8teU4zNHQyUDhFUGxDRHZ6U0lucjQtdzRweFFJRzVHWXR0R0NpZV9NbEtBRjFkUE55YlhVaEhJeWZIaEJNQW54eXZrNm9SNUc2bWV1OWdGRllNdW1LTjRqbTBRY2o3ZU55WjEySGFlZmk4UmxDbXlMaDFQRzN2YWNScWlRT3VkODJMTWMwLTVpLWJTZktTaVEydmFFWUVkS2d6UHRHcWxIZF9lTnIwS3g3aG42aWplSnJlN2JnSFRyQnlhM2NqTFdLOVl0d3pUMnA1S1ZYMWdJUHduWDNkRElla01zZWJaZjhjeU55T3JMZ3pGWXlXYXVtS0N2Y191N2Q2VTVST3BxRkRBX3Z4R0hMeG13QUNFejNhY3B1QQ?oc=5",
-  "title": "\"Le candidat LR est en dessous de 10%\": Laurent Wauquiez juge que Bruno Retailleau doit \"savoir se retirer si c'est nécessaire\" et tend la main à Édouard Philippe pour la présidentielle",
-  "summary": "",
-  "published": "2026-07-01T09:00+02:00",
-  "mentions": [
-   "philippe",
-   "retailleau"
-  ]
+   "lisnard"
+  ],
+  "analysis": [
+   {
+    "id": "lisnard",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "0a5cc324c782feea",
@@ -178,95 +50,80 @@
   "mentions": [
    "philippe",
    "retailleau"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": -1,
+    "frame": "strategie_alliances"
+   },
+   {
+    "id": "philippe",
+    "tone": 1,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "7d6f2c82e28a569e",
-  "outlet": "Sud Ouest",
+  "id": "0c5efb492f46825e",
+  "outlet": "La Provence",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOV1JRZ2l6STlSVDV4OWRTNTRTdVB6cGxUVklyckJCZmRvN083YjVlQUtfMzlPa2tVSmNQVVBzODJ5aFNISU0xR2NuN3RFRzFlR3VvNE9SYi1SWTctWE1sY3BrMFUtdGhxYVdHMHphM19wdDdNbkVFcV92UWF3dFd2UXhoUHZ0amEtVU1ram1VU1pTVlZRRkd4T202VU5QZlQxNlotQXFKWWxLU0JPRUNCdl9xd0pQSFlSUmR0bEhhQ0o5RkdiVjV4X29VYXBwUQ?oc=5",
-  "title": "Présidentielle 2027 : Bruno Retailleau se dit favorable à la suppression du droit du sol",
+  "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxObmFGbXd5WFByRnBxdm00S3paM0d6NnhESUVrclg0bFNodUZGeWZCZHJraGxjdnRYck9YRVIyaHZjZlhEQ0FBb1JjV1ViM3J1ZVhBTlRETHIzZG9RYUpZcVlwcUN6UGVwRkRVOE9jSkZfRXhObXh2NHhYUlNoSkdtMWJIeDNCa0dGa1BFRzVrVHJ3cTJLc0FnOXIyYmszWGVFekxUZ0txNVY5dUlUT2ZKNHE2WWJnY0Y4NFY3ZUJDRkkxZ1JHazc4bG5nclFmb3ZkT2FQMGlUMW5oc28?oc=5",
+  "title": "Présidentielle 2027 : Bruno Retailleau dénonce une \"stratégie du chaos\" liée au 1er-Mai",
   "summary": "",
   "published": "2026-07-01T09:00+02:00",
   "mentions": [
    "retailleau"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": -1,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "efec1c37c71aa371",
-  "outlet": "BFM",
+  "id": "151cf5d70bb3e538",
+  "outlet": "Boulevard Voltaire",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxPUFk1YzJvcEtzYS1WZ2hlNzhkMlZXczlPR3FVTnhQRmR4Zlc4aXlTUGdkbTdkRU8wcDExMzRzbF9Gbmx1VU5Pc1lFZERjRWJGMjRHNWl2MFNlV2pIeEJBYzVyU3p2QVNmVXdBQXJaVFlYZTBYZVJkNDktTThXOG5NUENUc2tFeDhvVlIwbml6ZWM0M28wUDN2NmR5ZVJmd2lxTC1waVJiOWlRQ1RNNTJTbWZZYVhpSkIyaHBIS3NyVnJuWWdEZU8yZEVfSVNqQkIxY09vYTBpS0FXOGVCLV9xWUdNTVhxcE1oZkFYUU9IUzZCX1BQd1FWRHVDbEhsam5nRTdpRnV1V3I2aHhXTHY0Qm1KZWE3REZvNkhicGlQNkw4ckJlbDJzNEQ3dE1pT2hHVXo1QW1BNExjdVZvQTN6Vg?oc=5",
-  "title": "Présidentielle: Laurent Wauquiez juge que Bruno Retailleau doit \"savoir se retirer si c'est nécessaire\" et tend la main à Édouard Philippe",
+  "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMHNJRURuUEZfU0JvS2d0c29jY3NMSTNPUFRkRVQ2R3Bsc0IzMHdENDZJOVY4RERoN3dhUHJqdjNMLUNXUlpyYk01WmJKUkNNVHNRdXR5eWJvV3FIVVFjLW9vMWNPajM4X0pwMEEtYTI2dThHUEZpNVpBcDNfSklWdjJhRXRBT0Y0SVdPYzBIRmE?oc=5",
+  "title": "Succès pour Le Suicide français , le documentaire d’Éric Zemmour",
   "summary": "",
   "published": "2026-07-01T09:00+02:00",
   "mentions": [
-   "philippe",
-   "retailleau"
-  ]
+   "zemmour"
+  ],
+  "analysis": [
+   {
+    "id": "zemmour",
+    "tone": 2,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "f23189e13f9b657b",
-  "outlet": "RTL",
+  "id": "16dfe23d20e8f4c1",
+  "outlet": "Le HuffPost",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOQ3Nwb2hpZExkLU5ZeGVIN1p1WEQwS0xvYmh3cWxneFY5MHNyNEpWczhVc1g2eVQxLTdqSWh0dlJPMWRSUkZOT1RNMVFjMGJseWRCVkZmSlhpQmF0MXkxdU0yYkxCWjhRck1PZFJtRkZxVnVjSVNLX3JjZnNJa2tlWU4wQjBXVjduWUdiRG1tWjYzeE44X0Zxa0J4ay0xSmV2RVB5Y0g4ZHl6a2VuWjNCeFRQdnU4NFEwUnBHZXpWNHc0d05HWXFrVEVRaUtTT2dmT01PNlhJYTR2NDRpNWZlS0NxeGJBUTMwX29xX3FWRkJvVkpaWHdEd01oSGhiSlJZQlVYc0hTb0NteDRzZUNCSTRn?oc=5",
-  "title": "Présidentielle 2027 : Laurent Wauquiez estime que Bruno Retailleau doit \"savoir se retirer\" et tend la main à Édouard Philippe",
-  "summary": "",
-  "published": "2026-07-01T09:00+02:00",
-  "mentions": [
-   "philippe",
-   "retailleau"
-  ]
- },
- {
-  "id": "83f59caa09b1d24e",
-  "outlet": "Europe 1",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOY0dMNGRjQm4xQVR1UW9QYTFLbVJCaHo4VjA4bU8yeEkybjBvVDJ0c3dDX2pnMER4WUJNUjBpVjVpU2lrdUdGWVVIV0JxVjZ6X0tRUXRaamNMSUthUU1BTy1EZ2s2N0gzS0h4dWYwQmdscjQxb0lTa0dhb1AzcTlEOU51TUJabnFQeDRqcUJIcFRzTU53VWlIdnpiVUF4R2FRbEl6dnloMXU2SjRfUXRiMmp3bTJ3MnFwYVlPUEZyRnUzVWtxOEVYT3NXMWtWMWRpaFNpbVRmdGVYeGNTd1JHdi1uVHR2Q2swZHBaX0VB0gHzAUFVX3lxTE1DOTlFeEFoRENLN1dUbE9TOU8xbjZ3LWlTaFdKZG42R0ZENWdpRnFvSktnalhmbVEtSWRmYWl5c1JYeXQ2bDZrZ2dqaXA2VkxfTUJCT2c2OUVUa3hkWDNvWV9aVmhnd0VNM0pDTUNCdHRRSXhSaUw3WDhjQUdOQ1E5UV85M3EzWWVXSkxhQ0FoOUZfYkVLRkNMU1d0MGxmaEtwWkVEWGRPZEJuVVVtRnJ0VzFxdWxCODlXRVJNaTZqVURYUWhVZUc4ZjJDNjJCYmM0b1p6d2V6M2hkdG5BM0lBeElaWVBfNDY1WUxSeXQ2SG5Ycw?oc=5",
-  "title": "«Une fois de plus, le gouvernement a obtempéré» : Bruno Retailleau critique le choix des dates de l'élection présidentielle",
-  "summary": "",
-  "published": "2026-07-01T09:00+02:00",
-  "mentions": [
-   "retailleau"
-  ]
- },
- {
-  "id": "ba837875179f6cb0",
-  "outlet": "lejdd.fr",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMmxOYTlmRDI4R2dwMWhaM0l0T1lISlZaV1hPUWx0M0pLSmtfeDh5YzA2SjM3T1dwWjZ3bklZZzFQTEQzRVF1el9tbjdLY3ZrNjRhTzdSd2laTFVObzlXaDVhWUt5STVaMVV6eWxmamVtc0tCZkNIakxwRWZCNHgxRl83WldjTFgzU3NhREtpd2NRTy1Cb1VKWUNnVkRNbndtX2Y5dzJpSnFJeGVaMmVJejZRUk5HRWtSYURoSHlvaDZTM2wtUWZ4MHRkWl9WRG80Tk53Q0RR?oc=5",
-  "title": "Présidentielle : Laurent Wauquiez tourne (encore) le dos à Bruno Retailleau pour rallier Édouard Philippe",
-  "summary": "",
-  "published": "2026-07-01T09:00+02:00",
-  "mentions": [
-   "philippe",
-   "retailleau"
-  ]
- },
- {
-  "id": "3ffd464ac23a1a9c",
-  "outlet": "ladepeche.fr",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOQUV3LWpwdWhPclR3ZGZVZ0ZZR1l1TUF3VERpcU13ZHNNeUlibTQzM2ZfdmFLdWNacFJuTnFQOFFqN0NTTVBLM3c2TEdqU2wxQ2dQcmNzN0d2eGtoV1J1blJIczN1Zl9RZHMyOFh5RzFYenA0NjJHNTE1TXJIM2REM1RJbFQ1UlhBX2tMVWJXWU5od2lUNVpGYkpGUkNwanREYi1aVkVEWE9KMFdzal8yWmRqa1VuZmxVQ21NREVjZlo1ZDZacWhoeGNoYVZWRXNpOHUxQnA2Skx6MHBjWFFWNHVZY3BpNHRxTnByOTFEQjJ3QzVhU1Vob1dMVGpvZnBDZGtxWjR4ZVYyMjBJNzN4MWR5MzhNb3BOaWlldGYxRWZLemli?oc=5",
-  "title": "Présidentielle 2027 : Laurent Wauquiez appelle Bruno Retailleau à se retirer si \"sa candidature ne décolle pas\" et apporte son soutien à Édouard Philippe",
-  "summary": "",
-  "published": "2026-07-01T09:00+02:00",
-  "mentions": [
-   "philippe",
-   "retailleau"
-  ]
- },
- {
-  "id": "d8d4ae2fecd38fec",
-  "outlet": "Paris Match",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMENrU2pzWk9Db1BRWVFZNFhUc1ZWaFU5SHBYYklaTUpPZ05SZ2lCZ1FSZ0ZVSUZlcGZzY1doS0Eyd1lvcHN5U0d6VnpvZnBaTzZGLWdhb204ZlBkZ2M0Q0UxMzdnc2xyRjBKSkdoSDg3YnQzV0NGa3BBS3BvTVM5bV9aSlduTk52eVFKUFg4REk1cUNqSlR5ODY2OTRiV1F3QWY1Sm8zWC1lNEx5UG43d1BxeW9rQXZiN3ZxRHVZZkMtYnJNUWIwV1dNdkRiTjUzb2MzQVBRUmtERjd6OWc?oc=5",
-  "title": "Présidentielle 2027 : Laurent Wauquiez prend ses distances avec Bruno Retailleau, « en dessous de 10 % »",
+  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUnNIUEpNMU5CU3NHbE9BUDM5VmhVSnFKd3RCczczekJXdEFTOHhzUHNoRXZUb2tXS1ctaHE1My1ydjM3RU9kbHFvNXJISXkxQzljOEZwSnNTQXZhQy1TX3hMWGZoeU5aNDYySlpiTDRXczBOYTJQaWczSTYxUk9MYzBtbnBIQklqRzJoLVpqZW1wcUVsdExzcGFlT1psZ0V5OHRPV3NmbThtWUk3UGxXaXJjZC1yNzI3MWtwSk5Eal81YUhZYmRR?oc=5",
+  "title": "Bruno Retailleau est « en colère » contre les dates de la présidentielle : une « stratégie du chaos »",
   "summary": "",
   "published": "2026-07-01T09:00+02:00",
   "mentions": [
    "retailleau"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": -1,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "1c36b478f94ec153",
@@ -279,116 +136,85 @@
   "mentions": [
    "attal",
    "retailleau"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": -1,
+    "frame": "strategie_alliances"
+   },
+   {
+    "id": "philippe",
+    "tone": 1,
+    "frame": "strategie_alliances"
+   },
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "0c5efb492f46825e",
-  "outlet": "La Provence",
+  "id": "220aed4fceeeda75",
+  "outlet": "RTL",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxObmFGbXd5WFByRnBxdm00S3paM0d6NnhESUVrclg0bFNodUZGeWZCZHJraGxjdnRYck9YRVIyaHZjZlhEQ0FBb1JjV1ViM3J1ZVhBTlRETHIzZG9RYUpZcVlwcUN6UGVwRkRVOE9jSkZfRXhObXh2NHhYUlNoSkdtMWJIeDNCa0dGa1BFRzVrVHJ3cTJLc0FnOXIyYmszWGVFekxUZ0txNVY5dUlUT2ZKNHE2WWJnY0Y4NFY3ZUJDRkkxZ1JHazc4bG5nclFmb3ZkT2FQMGlUMW5oc28?oc=5",
-  "title": "Présidentielle 2027 : Bruno Retailleau dénonce une \"stratégie du chaos\" liée au 1er-Mai",
+  "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQMnJPV0ZLT0kxZVBPNHJteHBRRzZ5X0k0UDlyaVRBOGhrWkNXRDIwSzBMQUsxcTVfTmZUYm53NWlpZUtIQWVWdXRRRXQ1WjdEejU3ZkNqOVFsaWx6RXZfekhhQ1A1WUpXMjNNY1FVemNaOG1wMF9UNUI3TjBTY3JhTU5QUWwtcjFLVU9qUE9NdGRPek9jVDRpLWw1SWdwQkhXcVRHSXRyVGxac05jT0tVc2ZMc2RhaGtFeThMTmdsSklPdmtSOXFxa2JpdmxhU0tOVTV3SGpZVEx6R0w3b0VwX1g5UkpxVExpVXQ1bmQ1SGNhM1NUc2NKb2ZRaEpIdFVqUlR0bWxSdEZsTm1p?oc=5",
+  "title": "\"Il s’impose comme le numéro un\" : Jean-Luc Mélenchon améliore sa popularité auprès des sympathisants de gauche pour la présidentielle 2027",
   "summary": "",
   "published": "2026-07-01T09:00+02:00",
   "mentions": [
-   "retailleau"
-  ]
+   "melenchon"
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": 1,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "afeeb24f88d57e67",
+  "id": "2d80fd6d19f26ca9",
+  "outlet": "franceinfo",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOeHhONWs3bEs2U2p4YkNDTVdnT1FxTzM4MTVNZGpLLUx2bTk0cEd0T1ZST3lkR210NHVBRUt5TlFCMDVqQ042WFFuTlFaNEdFRVJVTHZtQXVPTWpTV2R4YnJsbkxINEtkRTRHYXA0Ym5Odll3TTFEaFhkSWZrTDc5eUJ1clNzVkZPZXhDN18yTEVkY3VHazFqQVZpTnhjZXgycnFGSENPZ19MakJBRUVsTEYycS1PZlFwbVdpTnUxNTlfN3YzQkZha2lQZWV3UVFhQWdWeVF0V3pOamVBcXBnNGUzRjIxcWFX?oc=5",
+  "title": "Présidentielle 2027 : pendant que le PS se divise, Jean-Luc Mélenchon avance ses pions",
+  "summary": "",
+  "published": "2026-07-01T09:00+02:00",
+  "mentions": [
+   "melenchon"
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "2f25ee72ad5836e4",
   "outlet": "BFM",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOWFRzSGF4MkwxenJtV3pOa21hWi1QS0xQN0hBZmtOSXN0dlZicEo0b1VXZDMtbDNLbUxCemQ2c0VzZVhlbmNVQ1VhV0wxUEdmTHZSckMyVFdUckhMdE40N0JhM0VMZGFSamU4akdNUHY3WW44SnBlQkpYYlEtdDdYXzVvdmhoU1NmenVHYk05WkpYTE9MTjhKS2dSUjBoeUJiQ0RQWUR2Y0k0aGlaRm5TanNxczEzbE9uMGlBMG5saG40WGY2ZkRfbVZsbFRJY0c1VVpmdFNYWTBTckNHWHc5a0hPa2JvRE52TklWX1QtUVo1QWMtZ2JsMTduek9UQ1daaEFGa2Z6dkhvazFTczlB?oc=5",
-  "title": "David Lisnard, candidat à l'élection présidentielle de 2027, réagit à la gestion de la canicule par le gouvernement",
+  "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQM3R3Zmp6RnVFeUNBeUhpcjMtU2JlVWxyQ240VExCVGJwYjd6bmxuU09nc2VPbEs1dE9MSjZIUnVHbnNPNkNGRTI2QXJ0RkZkZXhncnNjVlZuMl9UUjRFeG55cllMTFMyX3JmNkJhZzB5c25fTHRMcnVDRHNVejdZQmJjUFdVdUhydndxNmxkaUNVT0pBbE52YWpqUXhhaHRRZ0dNTzI1b1FTS0lYWWc1dEVvTW5zbGNHQ0lPbWhjNjdpRUltczhuWmRKOGw0TGl2QmtzOWhHN2trYVM2cEx5U2tmZ0F6WWZaci1UbHFnY3ROekJPamhuRDVhQjhCekRGbVNJZC1wVTZWN3lGcF9IM29zb19nSlBwYks4bjNxbWVINEVOMENkNWVCYl9mRUpVNTl0bmI4NFE3aXd3ZnlpSlFjTlhVQQ?oc=5",
+  "title": "\"Le problème d'Emmanuel Macron c'est qu'il détourne l'opinion de ce qui relève de sa responsabilité\", estime David Lisnard, candidat à l'élection présidentielle de 2027",
   "summary": "",
   "published": "2026-07-01T09:00+02:00",
   "mentions": [
    "lisnard"
-  ]
- },
- {
-  "id": "3391cc517b98ec6c",
-  "outlet": "ici.fr",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxON3ZGMWpqdHV6TFZHZFhQejhzYVZ0cFpHQ1d3LUxsQ3V2N2pmNVNGZERMSTNDeXZ3T0pxdVpDWEVWUHRneG9CSWJLcVVyV1JyUXhfNlhxSDZCbTN5MjBDbFpncm04TUFxZmcxbEd2Wm04bVNIRERyTkQwQjlUYkVvZGFKdUhTVlNKekdRWEZSUjhndTdKS3JFTEV2VkRHaXNNYmlhNXhXTXFpM0h6X2hoSksxaFlFRG5DcEZhazRuUnBKQzV2S093MHdmaUhFRWMyVWdEa1JXZU5vVkFITlVMVjBSMW0tYnVYVm9wbUU5QUhFazZP?oc=5",
-  "title": "Déserts médicaux, agriculture, climat, RN : David Lisnard détaille son projet présidentiel dans l'Yonne",
-  "summary": "",
-  "published": "2026-07-01T09:00+02:00",
-  "mentions": [
-   "lisnard"
-  ]
- },
- {
-  "id": "687eae27d967c819",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOems2Y0xBN0xTRzZkUGpGRW1kTURZZkNpazk5Wm9OOFpPMWpVUVVYbnE0cV9LT3VOeXp3enZnR1FqQlVPWElsNUpvU3pqZmVHOWp4RzNVanE5WnpRcnNmS055bjRma3lCaGUxUzhnMjhkdDh4WDEwNWJlQXNLN3hDSUNHakk5NkZ6N1hmd2V6VDkxeUEyZld4el9Vb0drZDBlMXU2ZkpPclo0ekF0UGpsSzNtMVd5a0o3NllyTXczMzcxckxfdS1odjJULUZ3SC1TSEs0?oc=5",
-  "title": "\"On a éparpillé l'argent public\", assure David Lisnard, candidat en 2027",
-  "summary": "",
-  "published": "2026-07-01T09:00+02:00",
-  "mentions": [
-   "lisnard"
-  ]
- },
- {
-  "id": "c5f4d687cbdad764",
-  "outlet": "Le Figaro",
-  "lean": "droite",
-  "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOa2RtNk82WmZjdjNTNzd5S2pUcXBZSnR4MFlfRXoyeENROWl0UDNZb256bjVzcWpubUJFYnFrclIwOEc2c1FJNXdOLWlyTjFPVUFPLUFUZVo1MHhUUGk5VzcwcmVHelVic2otb2ZDOE1neTBmMk5WN0d0YUlnbkRLeUdNM0ZGcVVWanhGaXFyR0t3Z3g3VXI1VTFpbzZDdTJ4VDFRdEZoWUxTNDBjUU9NWXVkbVE1WWR3ZW91VmR6M3BkSFJNZzFyMm43a1V1LV9qYm5PejVYZ3lVajBv?oc=5",
-  "title": "Présidentielle : le préfet Philippe Castanet, homme de «solutions» va diriger la campagne de David Lisnard",
-  "summary": "",
-  "published": "2026-07-01T09:00+02:00",
-  "mentions": [
-   "lisnard"
-  ]
- },
- {
-  "id": "a160c21c98e61c9b",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNSW9Ud2s2S19qV21xZE5wQnQ1MnBaczhfUHI1N0RPUjFoaXZCYk51TTdsazd0TXFhRVQ5Mmo1U29TaHRHbGlDRVQ4S2NXN1NUZjZPeko5a1Z5V0FZTVltU1NJTWpUelBPaUtHNVFidUM1QzJHTXJrTDU3WnJCVkNNdWdjWnZIRnIySGNKSXpuTnNHNEgzQVd0ODlUUG1OTUNYempwQXF3WXUxZTZQRF9EeWxfZ19NdXUtTzBQWU1TMjNzc1o3ZE45bUVZRTVKX25yY3ppUFdlb2pEN0Ryemk0ZlpHTXp6R1FybnY2cW1aWWc3NVcySk9pUkxSeUpMd0piZmRfejBXMTZmR1pnMFUyTm1R?oc=5",
-  "title": "Présidentielle 2027: David Lisnard préfère voter \"pour n'importe quel candidat\" plutôt que Jean-Luc Mélenchon",
-  "summary": "",
-  "published": "2026-07-01T09:00+02:00",
-  "mentions": [
-   "melenchon",
-   "lisnard"
-  ]
- },
- {
-  "id": "e5adea310c30f599",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQaWtTZmJaVml6NkZzMy1tanhjcVRNdnRzM2pobjFXRzBic2ZnLXJYMGxHNXlXakl4Sk1HWThwUTNYeTVHandmbjFtajltaXZwZkxuWF93RmlkZDFoYURQbGp4RERja1A0c1VUemlzZ2lBSWt2RkJJejZFaG5oUkpWcE15Ui1VSmxlejdnT013dk51anB1YzdOU3NUamRlWnlsT3k4Q3I1N2JKOWhvNVVKeHlOWmxCeHFHYjNfTENHZkxFQnl6Z2F4QVRHcFVlaDRRczNrLW1qZXRycmRod2N2ai1FdW1UUXNYcENLZFdyazZHNkRhMmE3S3hXaDJUaWdMWGNvOW82ODMwN21BV2pnNkVwR190NHB5aUpvN052Q2ZlRnVZeXpjYzhDOA?oc=5",
-  "title": "Gestion de la canicule: \"Si on met la clim, on se coupe de financements\", assure David Lisnard, candidat à l'élection présidentielle de 2027",
-  "summary": "",
-  "published": "2026-07-01T09:00+02:00",
-  "mentions": [
-   "lisnard"
-  ]
- },
- {
-  "id": "076fae11f9bd135e",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxOLXg4QlZlTFVnQi1EbDRnUXJZQ01QN0NHdm5ZRHFSZVQxU3NZOU5oS05mbHBKRzkxZnNOdDNqb2YtN2dYMTdiSktYQU1YdDRtWE1FcURWblJadExsZmVQeVdibmhsS3JQd2hnMjQ2MXFCYkNMcXJIRUpBTlkwVE03bEpOcXl0bEtmR3FKOWZzMzFUc0pRLWJiMmhRVVhZbExHNmRpR25iTDIxSWp1Y1prZ1J3WEx3OGN3aG9CbkZkZ2Y1LVNFcnFRRUxNeUdlaXhXaGhpR1VOQ1VyZU4ta1pBTC10QW55TDhhMlRNVmVnZ2tfSjY4N2xqVi0wWF9OUmFjd0VJN2piZ3Y4bFlYWkQ4NVhBbDJyRm5JeVg4NDlFVlRDZGtfNEdzenNwSHBINTNucTBkaQ?oc=5",
-  "title": "David Lisnard, maire de Cannes, réagit au vide législatif qui ne permet plus de maintenir en détention provisoire des mineurs accusés de crimes",
-  "summary": "",
-  "published": "2026-07-01T09:00+02:00",
-  "mentions": [
-   "lisnard"
-  ]
- },
- {
-  "id": "6b1b377899e2fef5",
-  "outlet": "L'Yonne Républicaine",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQZFlxZGYxa192Rjc3TXZ2OWVLcmYyd0xOcUdvaEVUandERlIzbjFsSms0VUhFY1p3aEpYLXNVY2s4ZEJfSFg1Mi1sMXJORkdGdXVibk04OG1PUGZ4MXpZWnZHSkYxTm1BeG9CbzhiRk0xSFRjenZtaUVZVV9adWtmbk5maG9IcEpJT3NtRjJodFBFYWQtR2tyN09ra3piNFZ4ZUJQbTA4RmEzRWtHUW1HcVdqUmlKdU91Z3pWT3NuTkp6WWsyWmJLUzNobEwzTVU0TTZiblBVZGxES1NvUHdJZzBneHhBVW1EYTBTYmZtRW1SMHJoM2Qwc2c5WHBGcjNXVUM5QmpGd3RRQmdvVm9zLWNUNU9abkh2ck5PaDZnRktRQ1lPZkZ6Wg?oc=5",
-  "title": "\"Il faut changer ceux qui dirigent le pays car ils sont mauvais\" : candidat à la présidentielle de 2027, David Lisnard en meeting dans l'Yonne",
-  "summary": "",
-  "published": "2026-07-01T09:00+02:00",
-  "mentions": [
-   "lisnard"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "lisnard",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "3389b0eb20132232",
@@ -401,189 +227,40 @@
   "mentions": [
    "melenchon",
    "lisnard"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "lisnard",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   },
+   {
+    "id": "melenchon",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "740da874a129b2b9",
-  "outlet": "BFM",
+  "id": "3391cc517b98ec6c",
+  "outlet": "ici.fr",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQYm9rbmlOVEVZbDMyNktuOFRsbXZQMnprM2hvWWpKQ2JkMFhOMWk5Yjd1VlJmeWVJX1Y5U21XYlZIa0RiNVMxQUs4UWtnUnBqT3FWQ1lRQUczX0tGdlY2N3F5V0QxbWJ1VE1WV2I0NmpCMWZBYnVtYkhOZF9jWEFPUjFXeVFsVEtzRmhJSmRRSXdERko1QUNBSTBOSHVWczFwTC02dE5TVl9pTV9DVk5FWGhjNUpQNG8zX21TQmgwcGw3c3B6cXBUT2Jzck1PclJiRnJ4MkpELXFHWUphN2QzQ3FlVDhwRDRDcnF3Vmc2X3o4cklxZDV4RXlXem0xTy1TU1duWWNXbEE?oc=5",
-  "title": "Mort de Louis: \"Il n'y a pas de mots\", affirme Nicolas Dupont-Aignan, candidat \"Debout la France\" à l'élection présidentielle",
-  "summary": "",
-  "published": "2026-07-01T09:00+02:00",
-  "mentions": [
-   "dupontaignan"
-  ]
- },
- {
-  "id": "93280a71c7363172",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxNUWJRT1pTdll0bl8xOV9RUlB6eVRtZmd6c3otamRWVHRBbkdfeWJSa193dlNXSlZfMEhzai1DUm03R2N4bUtTVXF2TjRUMjh4N3ZYSDUzYnhTb3M4M0JqYXdZTGg1RlNVbGpzZmR3bHFqMFhaSmJwWG1IaXdmVmROQV9xSFR1TUt2cEgzdzJ1M0RxdDc4clN1VDFtSFlGTGs2eXNQNUVXR0RyOU1mM09yb1dkSVg3WC11SVJKT2dNVGozM0lnaVNNS3RBdGJJb2xXRDFjeHAwVml4aXNsbEJYNkt1dHFWYTA2UUpESkRtNGVFbVk5QTF2QlV3RXpLYVN0UGtfU29jeWRWOWt1QzdhRVVpZXNEc0xXWTZJZXdaX2ZKSEVMQjduTWg4ZC1TYnR3ODhuRFNEYXBnUVJjVkxHRlVVTDNCdkZpZklEWVNPTU9NVmYybWZKOGZVSVdjNHpq?oc=5",
-  "title": "Adaptation au changement climatique: \"Il y a une hypocrisie totale de renvoyer à des obligations en enlevant des moyens\", déclare David Lisnard, candidat à l'élection présidentielle de 2027",
+  "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxON3ZGMWpqdHV6TFZHZFhQejhzYVZ0cFpHQ1d3LUxsQ3V2N2pmNVNGZERMSTNDeXZ3T0pxdVpDWEVWUHRneG9CSWJLcVVyV1JyUXhfNlhxSDZCbTN5MjBDbFpncm04TUFxZmcxbEd2Wm04bVNIRERyTkQwQjlUYkVvZGFKdUhTVlNKekdRWEZSUjhndTdKS3JFTEV2VkRHaXNNYmlhNXhXTXFpM0h6X2hoSksxaFlFRG5DcEZhazRuUnBKQzV2S093MHdmaUhFRWMyVWdEa1JXZU5vVkFITlVMVjBSMW0tYnVYVm9wbUU5QUhFazZP?oc=5",
+  "title": "Déserts médicaux, agriculture, climat, RN : David Lisnard détaille son projet présidentiel dans l'Yonne",
   "summary": "",
   "published": "2026-07-01T09:00+02:00",
   "mentions": [
    "lisnard"
-  ]
- },
- {
-  "id": "89116927b6ba94e0",
-  "outlet": "20 Minutes",
-  "lean": "centre",
-  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONUFKVzFjWU01S1dwWE9VamI2R3J3T1U3dUdCVklhTlczbjJfaHkwN0tDeFBqck1uTl9neDFIbEpFUElSaUlwZW56Y0JSRDBaZV9Qa19KQTBhTDlOX3NUZW5hQllmMDROaktJcW02RTJlYW4wQkc4SVZGeWVjb3BVZVFBYTF0UUtVcHZtT1VCbjI2MVJieXViSmt1dW1WamUyYmx4UXBOMFJCaE1RS2dNOTJINHZLamJXLWVGQjVXVEhRdkJ2SWc?oc=5",
-  "title": "Pour Philippe, ce serait « dangereux » que Gabriel Attal soit aussi candidat",
-  "summary": "",
-  "published": "2026-07-01T09:00+02:00",
-  "mentions": [
-   "attal"
-  ]
- },
- {
-  "id": "c4fb10243e3e439c",
-  "outlet": "Le Figaro",
-  "lean": "droite",
-  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRGpESjh0SkVTaTJDSGhhcXQ5V1JhWUlCa2wzNGhTWlg5RUxzYlBMSkstcVpnTWZyOWJjUVgxWE0wTFhtVENuVUtCdkFJczZ3MjZnVi1ia1h6bW9pY0pzSXZqOWlBaTVSeEJ1ejI2WkRzZ1FJNUZkRmFEbHVLSzg5TVNGdDJwUm5ZZDdHQl9Oa0RLMXF0Z0JoQVhjZUx1dFptWlhCRjJZX25kZWFXVHRkYWtVeVFuNEpDcDFiaDBCdEFFQQ?oc=5",
-  "title": "Présidentielle 2027 : Édouard Philippe «n'est pas né écologiste» mais «peut le devenir»",
-  "summary": "",
-  "published": "2026-07-01T09:00+02:00",
-  "mentions": [
-   "philippe"
-  ]
- },
- {
-  "id": "b6e7d8ade0222106",
-  "outlet": "Sud Ouest",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQZkdSOEhDNFhDZmVEejNOd3FsV1VYakxyUExzNUhsaUxPWUhsanFSYlFQUjBtSDR1Sk1FWGViQy14LVRKblZnWW1XbDlwemg3TXR4Mlg0YWZncC1pYTBnNWJvT2ZVSnd5eDdoMmNIUTZIbGk3SlcwQlVxamZpeXpCcHJldDItN25URkZaSU1vcGFkYTBlT3lQZHg1LTdMb3hoeXlWR2J2UEREQmstMUYxRTZyd19YM3JVS1hmX3ZxTTFpSGVuVTdUQW55X2Z0aGFWYWkwSTM4ajFoeVVuYnc4dVlxTGNYZEx5NUtGVWh2VHVzdmNvclg5Z3M5RTE?oc=5",
-  "title": "Présidentielle 2027 : Édouard Philippe juge « dangereux » que Gabriel Attal présente une candidature concurrente",
-  "summary": "",
-  "published": "2026-07-01T09:00+02:00",
-  "mentions": [
-   "philippe",
-   "attal"
-  ]
- },
- {
-  "id": "ab12420b2ac2539f",
-  "outlet": "Le Point",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZ3dNSFFFUUROMExoREFyWk9Mb19BU2U0bERCNzRrRl95OUV4ZGhzSFRFRkNhU1o1bXdlM0NTaW1KVmhkanZSTWh2b3hlMEhlNDFPRWhmaWx4WkJOa0FiRUJ4UFc1RXBKTDBxVWd5UGVwdUVmRENxSXhRdHVkbHdkT3FJUUUwNUEzTms2T0Z4ZmNHMXMwQXNUM0gtOEYwNGFjVGpDelFEenhhSVo5aFNIVEVMT3Z4ajFRV1F0WEQ4aDhZYVFYalE?oc=5",
-  "title": "« Il était temps » : pourquoi Édouard Philippe accélère dans la course présidentielle",
-  "summary": "",
-  "published": "2026-07-01T09:00+02:00",
-  "mentions": [
-   "philippe"
-  ]
- },
- {
-  "id": "4b2d78b6b8af0f9a",
-  "outlet": "Gala",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNcU0xdkl5RzZkeng1RldoeTd0WE5yd1Zoa2UwM2tQWmd6Tlpza1hZaUNWNkoyVFNmV2tfVUtNc3lHbnZiNVBNWVM0Zl9ORGdKZm5sT3B0cG5iTzVPZW8xLUlzU3NOY2tnTERERkl0WENtNDJFczRPV1dIMmlqTkdMV01zSHRnRVBfMzlfdmpvaVBpRmJJMnRKazFQMU8tWWxRM3dGU3NGaEg3ZDIzWTY2TERnSXZZWjRlNjY0ZTZ6OUc4NXV4QXZSUnJ4SEZiZ3dfU2ZlN3hPVnlLbF8xanBkX21tX25HaGdRSzEtUU1veWNpeHY5WkN6TkNkc0tVMHZRSFF6Q2dSMzJYaGw3YUJyRTQ4X0tXZEtENXc?oc=5",
-  "title": "Nouvelle “prise de guerre” pour Édouard Philippe : après Maud Bregeon, ce ministre annonce soutenir le maire du Havre pour la présidentielle 2027",
-  "summary": "",
-  "published": "2026-07-01T09:00+02:00",
-  "mentions": [
-   "philippe"
-  ]
- },
- {
-  "id": "46355ebe7bac53b8",
-  "outlet": "Le Monde.fr",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxObWxFNk1ieE16Y1JSVDBxVWdwalVvdTlXSUVMbElibFRZTkVrSXJzNnA5YXdzMGowWnNpNURDR3dhQzRJWWg3QTJEVjJLcEJlNnM4UFNzSFZGd21Bb2VhZzQxQXJlNFJLZjZidXFObl9XQy1HSzFKdUNjWEdmMVhPa0tkeEJuNEpFSU53ejYtRVZYM21pOEZNbzZENmVIWklOMkMwZGFRNlR6T3luWXpvejlwQ0tVSVNibGtzMU1zMTBTczNUaFNuVkEyOEdENm0ycTVYQ3JjcHlxUVUxYkJpTXlndmJGQlN0RDU1eGdFUzhWT0Q1QzBERmU4T2Rya2hJT21PRmtYOGp2eFlITDlPSENxTlhBbDFxcEE?oc=5",
-  "title": "Pour Edouard Philippe, ce serait « dangereux » si Gabriel Attal et lui se présentaient à la présidentielle 2027",
-  "summary": "",
-  "published": "2026-07-01T09:00+02:00",
-  "mentions": [
-   "philippe",
-   "attal"
-  ]
- },
- {
-  "id": "d4e47167d1c140cb",
-  "outlet": "Libération",
-  "lean": "centre-gauche",
-  "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQWnJsZzZVR0FvM291bjlQVXRMV09RaDBmd2xsbmJiZDExdmVvUTd5RHlzbUdHZXJURGg3Z3AzU0JCWlV0cExYTjE3NUYyTW5HVm5XS0ozZVVNdzNCNW0tb0FqUjlQeG41dExFbXhremFxb1VXNzg3eFhpWGNDZXdLbE9IcFpYOGZTdUs5WjRrc1FNbjFRekZFaV9vV09UZ1U2b3NYMDRLTk9HcXlZVG1Pa2gzZG9YRlhrUnFGdDZLR0J4SmZ2LUhFcmxZeDl3My1UWm1iZlBna1dhZDRVVFBBU3c4X2xBN1Nha1ZQN3NUVy1zcUZ2MmZiT1ZlY3JheTFVQ0E?oc=5",
-  "title": "Nétanyahou à Paris ? L’incroyable indulgence de Gabriel Attal envers l’accusé de crime contre l’humanité",
-  "summary": "",
-  "published": "2026-07-01T09:00+02:00",
-  "mentions": [
-   "attal"
-  ]
- },
- {
-  "id": "a30e3c900c236a09",
-  "outlet": "Orange Actualités",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQTmJydHotLWRSdEtQd0NOVnJPMnpGVW5jbWZaWmNQME1aSE4zQ0pldFRzNGZBaFB2aHBQTHZZR1AtOUFZZ2hNUDZCcHdweXgxTUNKZUh6eHdIMUhBcEJHdmJIYnRVZzQ1U2FWbTJYcU1JREhZaVdMOTRaWU8tUWFkd0dJWEE1OVhvM1JUWkhuclRVTUh6SUxjalNhRl9Mb3pxX3BuS3RCdTRxaF91ZDE5YU9Jdjd2WUpmN0hSeG5HNS01QUZVV3JxTnRzZGtURndDemR1Nm1acUM0b3BpWU14R2VpM1NaWW54Nm9Ya0E1Wmw?oc=5",
-  "title": "Édouard Philippe et Gabriel Attal bientôt \"départagés\" pour 2027 ? Le maire du Havre évoque un \"processus\"",
-  "summary": "",
-  "published": "2026-07-01T09:00+02:00",
-  "mentions": [
-   "philippe",
-   "attal"
-  ]
- },
- {
-  "id": "0398ff3a0508500c",
-  "outlet": "https://www.parlons-politique.fr/",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNXy1mMG1ITDJKWWxiWHRzNWVCNkVpTF9PdldscVgzV1Vjc0tJYWg4a0VNWGViTkxNYUNhNlBWZXRMMUQzMjZRajlSNjQycmMzb2J0NzYwb2tybnAxXzRxTlZha2U4N3FNLXN6VWRCeWpYeDI0VklVTHJYbTY4cVdxZzNsVFdsOVBEbnl3dFdCeXl6TWVZXzlGdVRNZVpNeWRseHV4OTV0X3ZfR0RRS21OZ3Q5X0ljeHNSODB4ZDZ2eVIxTm9MMUFUOHltQ1RTNGk3YmU3S3ltak5Dc2xrNS11enl0UU1UNURYcG1IRWxmUE5kQ0h1VkxOcS1mQzM?oc=5",
-  "title": "David Lisnard confie sa campagne à un préfet de terrain pour incarner une présidentielle axée sur l’efficacité publique",
-  "summary": "",
-  "published": "2026-07-01T09:00+02:00",
-  "mentions": [
-   "lisnard"
-  ]
- },
- {
-  "id": "bcfe511ddbdf144e",
-  "outlet": "l'Opinion",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNGJGb0h5NGJGZnJfMVpWZTM1cmJWTDFGUEdUTTllQkI0NWRtS2ZsTUJXMm1lZWNDSXhMcWFsM3BzakZSNWJVSUVpY0lPQ2stbDhGazZnUTZnQnlKTXY2ci03MlhtVjFTUmlCQVhHSk1yZ1BLM1RwbGh0Qk1Zdmk2NGp0TXY4aW9LNVNSNjlXaGRldnhRTlRTWDlVUk96ZFBWanVrd0RR?oc=5",
-  "title": "« Une partie de la droite hésite » : pourquoi la succession à l'AMF vire au règlement de comptes politique",
-  "summary": "",
-  "published": "2026-07-01T09:00+02:00",
-  "mentions": []
- },
- {
-  "id": "a22c0fd6afef8391",
-  "outlet": "Planet.fr",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMXZVaVRRVDd1SEJSenN2UjlzV1hjY0pFNnJHWjVrZF9qNTk2aFUtNXVpdWxpZ1ZENTdjN1l4UmVIVnhuRVdjZEhJSDluQTZ1NVZpOWxpWkpPTGVoTUEwa2dJaVphZUUweWVKVVptYWthanpUR1dxbDVlNEl1ZndRQ09XTXRSZTd3dWN1SlVtRWpqR1BpOHd0RWtaZ3doeDA5UExXUU43TU92aTItTm9obndSU1NtOG1maTRGS3FPMnZ5TXBLcVdOZ0pOUWRhemZ4bFRYUUtjOHpSTVFDa0lCOVQ1MA?oc=5",
-  "title": "Sarah Knafo et David Lisnard : convergences libérales et nuances politiques pour redresser la France",
-  "summary": "",
-  "published": "2026-07-01T09:00+02:00",
-  "mentions": [
-   "lisnard"
-  ]
- },
- {
-  "id": "3c62f56fc461d632",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOWVkyTlFVQU5hU0ZnSjZiLWdFd3lxeXpiTUZSWmdWc2JJWEY1d2xfOFdQZWd6NnEwZUkzQjNwX213bDRxUkZQbUp0TjVwZDdSbVhUUzBkb0VJYWUyQ0s4MEZOcm84LV9NeERoaTFtcjNONHQ2alZzeUVKOXNaVDE5d0tyUUU0UlZWVVpOdk44TzNtWXQ1Wmo3M0x0WjNTb0lVNGJPVXZFU0UyWE5IRmVqVXJoZ0hVcUluMEJuTENoaHZkUjRvTkxKelpwOHlHcTZMd2xBSnZxYk5WR2lTUVBQYjBHVjhvRXlYakxwTlpHVjJreGlGVDc1Y2o3X010VnJWRVZ5ZER0dXdQbHFXalpwWjFGSkdBQkZqY2JR?oc=5",
-  "title": "\"Face à Jean-Luc Mélenchon, je voterai pour n'importe quel candidat\", déclare David Lisnard, candidat à l'élection présidentielle de 2027",
-  "summary": "",
-  "published": "2026-07-01T09:00+02:00",
-  "mentions": [
-   "melenchon",
-   "lisnard"
-  ]
- },
- {
-  "id": "5ee2db7de938ab7f",
-  "outlet": "Cannes Actus",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxONFB2ZkFvVkpCUzNkTThFRWdPMWNUVWdOa1luMG1iWUJORHUtalZVUzgxa1lBbVFOaU9wQWtLTFJLSkVMaFhaOEpBMTFfNEpwTDJQMktrY01RRHdzdER4d3NXNEc5Tmg1RG1CX2NfazRzRDhRSkFxX2FTQmE1dm5NNVpRX0dKZGtFMEZyXzhFWXZtaC1xV0FBWUFLVlFsck9ockxaWGdfMWw5YzkySzlsTGRPaWtGQmtfS3dkRjc3eWZqSGpBbXBkYUFWemgwT2owNFFOZW5XNnFsZzBMcWNpSjRibzAyM24xV2dqcWpERWRzQQ?oc=5",
-  "title": "\"On ignore quels seront les effectifs cet été à Cannes\" : le cri d'alarme de David Lisnard sur le manque de policiers nationaux",
-  "summary": "",
-  "published": "2026-07-01T09:00+02:00",
-  "mentions": [
-   "lisnard"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "lisnard",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "3551bfe2b1132c79",
@@ -596,6 +273,364 @@
   "mentions": []
  },
  {
+  "id": "393faaccea63d6e6",
+  "outlet": "Libération",
+  "lean": "centre-gauche",
+  "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxOazh1dW1YeTZVMmUwTkRYOFBBMlMtaE9KdGdQMUdvNmpKSkZxY3pZTkpvekFyVVNBdDlRSlhEMzF3NHo5QkRweGFWOHBmNy1IdkJ6a3lIWHJMX2M1ZGFnM29TVUlzVTJsaGJLYjd2NDhnVDIzYlBncVRFYU5tWEJ5bHh0NXFZUVpfLWVDYmhGS0EtQXRKUnRVUDltaUtkN2h1b2Npb2dWRG9oLUlxWHVGRnBjUzFQclFnTUw4Z2hNbThtdlBpdWl4RjlQNzlqbWhBeDBzRzdxa29zdWo3R2ZlZ1VOZjhEUVAyME54WFdjdHBaWjZNWHZqd0hBcndBcHB1cnRieXhMa0N4aFZEYVc1TE05NGN3ak5DLU5zOTRMb2lXUHR1S3F4RnB3S2M2YlRjT1FB?oc=5",
+  "title": "Indépendance de la justice, avantages du Président, nominations… François Ruffin défend une loi «de séparation de l’argent et de l’Etat",
+  "summary": "",
+  "published": "2026-07-01T09:00+02:00",
+  "mentions": [
+   "ruffin"
+  ],
+  "analysis": [
+   {
+    "id": "ruffin",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "3c62f56fc461d632",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOWVkyTlFVQU5hU0ZnSjZiLWdFd3lxeXpiTUZSWmdWc2JJWEY1d2xfOFdQZWd6NnEwZUkzQjNwX213bDRxUkZQbUp0TjVwZDdSbVhUUzBkb0VJYWUyQ0s4MEZOcm84LV9NeERoaTFtcjNONHQ2alZzeUVKOXNaVDE5d0tyUUU0UlZWVVpOdk44TzNtWXQ1Wmo3M0x0WjNTb0lVNGJPVXZFU0UyWE5IRmVqVXJoZ0hVcUluMEJuTENoaHZkUjRvTkxKelpwOHlHcTZMd2xBSnZxYk5WR2lTUVBQYjBHVjhvRXlYakxwTlpHVjJreGlGVDc1Y2o3X010VnJWRVZ5ZER0dXdQbHFXalpwWjFGSkdBQkZqY2JR?oc=5",
+  "title": "\"Face à Jean-Luc Mélenchon, je voterai pour n'importe quel candidat\", déclare David Lisnard, candidat à l'élection présidentielle de 2027",
+  "summary": "",
+  "published": "2026-07-01T09:00+02:00",
+  "mentions": [
+   "melenchon",
+   "lisnard"
+  ],
+  "analysis": [
+   {
+    "id": "lisnard",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   },
+   {
+    "id": "melenchon",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "3ffd464ac23a1a9c",
+  "outlet": "ladepeche.fr",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOQUV3LWpwdWhPclR3ZGZVZ0ZZR1l1TUF3VERpcU13ZHNNeUlibTQzM2ZfdmFLdWNacFJuTnFQOFFqN0NTTVBLM3c2TEdqU2wxQ2dQcmNzN0d2eGtoV1J1blJIczN1Zl9RZHMyOFh5RzFYenA0NjJHNTE1TXJIM2REM1RJbFQ1UlhBX2tMVWJXWU5od2lUNVpGYkpGUkNwanREYi1aVkVEWE9KMFdzal8yWmRqa1VuZmxVQ21NREVjZlo1ZDZacWhoeGNoYVZWRXNpOHUxQnA2Skx6MHBjWFFWNHVZY3BpNHRxTnByOTFEQjJ3QzVhU1Vob1dMVGpvZnBDZGtxWjR4ZVYyMjBJNzN4MWR5MzhNb3BOaWlldGYxRWZLemli?oc=5",
+  "title": "Présidentielle 2027 : Laurent Wauquiez appelle Bruno Retailleau à se retirer si \"sa candidature ne décolle pas\" et apporte son soutien à Édouard Philippe",
+  "summary": "",
+  "published": "2026-07-01T09:00+02:00",
+  "mentions": [
+   "philippe",
+   "retailleau"
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": -1,
+    "frame": "strategie_alliances"
+   },
+   {
+    "id": "philippe",
+    "tone": 1,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "46355ebe7bac53b8",
+  "outlet": "Le Monde.fr",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxObWxFNk1ieE16Y1JSVDBxVWdwalVvdTlXSUVMbElibFRZTkVrSXJzNnA5YXdzMGowWnNpNURDR3dhQzRJWWg3QTJEVjJLcEJlNnM4UFNzSFZGd21Bb2VhZzQxQXJlNFJLZjZidXFObl9XQy1HSzFKdUNjWEdmMVhPa0tkeEJuNEpFSU53ejYtRVZYM21pOEZNbzZENmVIWklOMkMwZGFRNlR6T3luWXpvejlwQ0tVSVNibGtzMU1zMTBTczNUaFNuVkEyOEdENm0ycTVYQ3JjcHlxUVUxYkJpTXlndmJGQlN0RDU1eGdFUzhWT0Q1QzBERmU4T2Rya2hJT21PRmtYOGp2eFlITDlPSENxTlhBbDFxcEE?oc=5",
+  "title": "Pour Edouard Philippe, ce serait « dangereux » si Gabriel Attal et lui se présentaient à la présidentielle 2027",
+  "summary": "",
+  "published": "2026-07-01T09:00+02:00",
+  "mentions": [
+   "philippe",
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   },
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "4b2d78b6b8af0f9a",
+  "outlet": "Gala",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNcU0xdkl5RzZkeng1RldoeTd0WE5yd1Zoa2UwM2tQWmd6Tlpza1hZaUNWNkoyVFNmV2tfVUtNc3lHbnZiNVBNWVM0Zl9ORGdKZm5sT3B0cG5iTzVPZW8xLUlzU3NOY2tnTERERkl0WENtNDJFczRPV1dIMmlqTkdMV01zSHRnRVBfMzlfdmpvaVBpRmJJMnRKazFQMU8tWWxRM3dGU3NGaEg3ZDIzWTY2TERnSXZZWjRlNjY0ZTZ6OUc4NXV4QXZSUnJ4SEZiZ3dfU2ZlN3hPVnlLbF8xanBkX21tX25HaGdRSzEtUU1veWNpeHY5WkN6TkNkc0tVMHZRSFF6Q2dSMzJYaGw3YUJyRTQ4X0tXZEtENXc?oc=5",
+  "title": "Nouvelle “prise de guerre” pour Édouard Philippe : après Maud Bregeon, ce ministre annonce soutenir le maire du Havre pour la présidentielle 2027",
+  "summary": "",
+  "published": "2026-07-01T09:00+02:00",
+  "mentions": [
+   "philippe"
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   },
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "4b7cea07b00d6926",
+  "outlet": "Le Figaro",
+  "lean": "droite",
+  "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPM1hFc1dVdXJMY1VLWHBvQWFMLV9HRGt2dDVjTkJiejRUbDZxU090WWo2MG5mNVQwcng5LW02T0hWZE0wUEZiSGRUUHZMcjBTb0hxejBmUmlOVk0zamd1anlMWUhjNi1OekJ4WWg0UlEyVkZkUm9lc1p0NG8xYzZNNnR3aUVSak5neWd5Z2ZQcUUtSUVLdVlSanQ3R0FLNVFEcnpSM3BRQVRpOTVKSWswaHFWUVlBLWpqeURzT2hiaUtJTWxraUdmQzNPLTZidXlwZUYzbXpPckZwMlRQTUM4OERJMVQ4UFE3WlMtRDljck9wMm8?oc=5",
+  "title": "Présidentielle 2027 : Arnaud Montebourg appelle à «neutraliser d’urgence» Jean-Luc Mélenchon, qu’il qualifie de «fou furieux»",
+  "summary": "",
+  "published": "2026-07-01T09:00+02:00",
+  "mentions": [
+   "melenchon"
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": -1,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "4cfbbe77951896c6",
+  "outlet": "Presse Agence",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSVdpZ0ZZVVpIVHl1bzlncVk4cmRLUTMzWGtMSlZqWll2ZER5V2ZldjAxX1VzUmtGd0NyWk1GVTAyUUNyNEkwUmVRMHRERTFmUUFOWTJqUnVaWUhib1Q3X0JubXplNUg4emNJM3d0bXlMWnNrdHIzSlFEYnR5N1FQYjFYZzNZVG1OcDdCSktrZ01LaWxFc1FjcWhya1ZEU2ZmUkpYMU5CVUIxajlqUkF3?oc=5",
+  "title": "Reconquête : L'université d'été pour lancer 2027 à Port-Marly",
+  "summary": "",
+  "published": "2026-07-01T09:00+02:00",
+  "mentions": []
+ },
+ {
+  "id": "53bb8095cd89c21a",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxOVVo3dHVaTUJDY0QwZVdkRE43VkVWanV3Ql93UndsamU3WFlEQ1B3dFo2RVFwbkw3cUMzS1Rva3FIRE5Ja2xjTlpCUHRySFFuOS16ZTNYOTNma1NBM0ItNE5iMExLYklBMEwtSmVHYW02QXJsV0pUV0w1SDI0bTdJdVkwRGdLRnlMWngxTm1yMWtQQU95TzZSMUNPVndUMDJ3d2JYb0V1bzU0SWplMU91Q1ExaUtnWUhTSmpveEJZQUlkV3VydDJycTRHVDlxWGJHaWItWV9yNFZ0LWlRNlRtNVhkeGduQmp5ZTczaHlvR2dVVzUxRlp2dWdJTTJlcGxJMW1CQXV5M01mRXJleThXWkpuOGo0S0RyM2Y5X0NMQnZyV0lQX0FlLW5sQ08xYlZLT2J4a3dKMHNMZw?oc=5",
+  "title": "Présidentielle 2027: Bruno Retailleau \"contre\" l'organisation du second tour au lendemain des manifestations du 1er-Mai, un choix \"pas neutre\"",
+  "summary": "",
+  "published": "2026-07-01T09:00+02:00",
+  "mentions": [
+   "retailleau"
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": -1,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "5ee2db7de938ab7f",
+  "outlet": "Cannes Actus",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxONFB2ZkFvVkpCUzNkTThFRWdPMWNUVWdOa1luMG1iWUJORHUtalZVUzgxa1lBbVFOaU9wQWtLTFJLSkVMaFhaOEpBMTFfNEpwTDJQMktrY01RRHdzdER4d3NXNEc5Tmg1RG1CX2NfazRzRDhRSkFxX2FTQmE1dm5NNVpRX0dKZGtFMEZyXzhFWXZtaC1xV0FBWUFLVlFsck9ockxaWGdfMWw5YzkySzlsTGRPaWtGQmtfS3dkRjc3eWZqSGpBbXBkYUFWemgwT2owNFFOZW5XNnFsZzBMcWNpSjRibzAyM24xV2dqcWpERWRzQQ?oc=5",
+  "title": "\"On ignore quels seront les effectifs cet été à Cannes\" : le cri d'alarme de David Lisnard sur le manque de policiers nationaux",
+  "summary": "",
+  "published": "2026-07-01T09:00+02:00",
+  "mentions": [
+   "lisnard"
+  ],
+  "analysis": [
+   {
+    "id": "lisnard",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "61bbbc606b568790",
+  "outlet": "Le Monde.fr",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxOLTBPWkRNaGcxNTlVMUhXb3hHZzc5X3F1S0lvNHlZY3l3RUE3SkxvZW04eHVTbDE0a2FZODhuQU9oX3UwZm90aTRUMFhqT1ItY3hHS3RNeGVGYzNPTEpleG93OTVOOGpQUDMwR1c1dkpQMEEzUDloN2hFNGVhbjZDcS1vVDNGdHpBbFpfOWZxS1R1QkVpOTVINjN5Y0pVV213UDctc1Q3NEo3Z3F5dlgtalpFZzlyYVE4OTVCanRRb0Nxa2pjWndPSzc0Y1h6M0xvbVRlaWxDTU8yZy1DT1dMWGF6a25vSy1LVkkxQnhsUkpzNUVjeU5uWHF2MnpCVThQZi1YM1dlX0JvR3dZQ29mZlo3MzlfcVRnRXhWM2JrTmlWUklwemZDM0lnX1U4STViOUFqc093a3l1RDNjSUp1amFDZjlyRkN1Rkg0ckxsNVNERkgxTlVZNDF6aURSdw?oc=5",
+  "title": "Marine Le Pen affirme qu’elle ne ferait pas campagne avec un bracelet électronique et dit « ne pas avoir peur » avant la décision de la cour d’appel",
+  "summary": "",
+  "published": "2026-07-01T09:00+02:00",
+  "mentions": [
+   "lepen"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "687eae27d967c819",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOems2Y0xBN0xTRzZkUGpGRW1kTURZZkNpazk5Wm9OOFpPMWpVUVVYbnE0cV9LT3VOeXp3enZnR1FqQlVPWElsNUpvU3pqZmVHOWp4RzNVanE5WnpRcnNmS055bjRma3lCaGUxUzhnMjhkdDh4WDEwNWJlQXNLN3hDSUNHakk5NkZ6N1hmd2V6VDkxeUEyZld4el9Vb0drZDBlMXU2ZkpPclo0ekF0UGpsSzNtMVd5a0o3NllyTXczMzcxckxfdS1odjJULUZ3SC1TSEs0?oc=5",
+  "title": "\"On a éparpillé l'argent public\", assure David Lisnard, candidat en 2027",
+  "summary": "",
+  "published": "2026-07-01T09:00+02:00",
+  "mentions": [
+   "lisnard"
+  ],
+  "analysis": [
+   {
+    "id": "lisnard",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "6aebf83b814635da",
+  "outlet": "Le Figaro",
+  "lean": "droite",
+  "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPeHRicjdNdVhUcjl5N2pJc1JxMTdFc0s5NlVEMWw1bzY5SmFDazVyR0ZpamhBNS04cE5ycGViQkpiWWZFa3ZEZ2cyUndRTC1ILVNsZ0RtZVQ5RUt0T0NsdmVRUnY0LV9xeklqTE5UMC1SbHlQX1k2QXpiMkVKOVJCQU1hUW5XRHEwQlNWTU1XYWFXN0dGQTZ2UElkb1l4UHpCXzBpOFpHQk44UENQTGpyU1ZBQm9jTi1xY3ZsczVKQm4xb2ZUeWxfaGd0N05zODFzeU1hcU5oTFpLOE9XS1dPdldvTVZ3UXZPeGVoOE1oX2J3T2FQaHlB?oc=5",
+  "title": "Présidentielle 2027 : Bruno Retailleau durcit le ton sur l’immigration et se dit favorable à la suppression du droit du sol",
+  "summary": "",
+  "published": "2026-07-01T09:00+02:00",
+  "mentions": [
+   "retailleau"
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "6b1b377899e2fef5",
+  "outlet": "L'Yonne Républicaine",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQZFlxZGYxa192Rjc3TXZ2OWVLcmYyd0xOcUdvaEVUandERlIzbjFsSms0VUhFY1p3aEpYLXNVY2s4ZEJfSFg1Mi1sMXJORkdGdXVibk04OG1PUGZ4MXpZWnZHSkYxTm1BeG9CbzhiRk0xSFRjenZtaUVZVV9adWtmbk5maG9IcEpJT3NtRjJodFBFYWQtR2tyN09ra3piNFZ4ZUJQbTA4RmEzRWtHUW1HcVdqUmlKdU91Z3pWT3NuTkp6WWsyWmJLUzNobEwzTVU0TTZiblBVZGxES1NvUHdJZzBneHhBVW1EYTBTYmZtRW1SMHJoM2Qwc2c5WHBGcjNXVUM5QmpGd3RRQmdvVm9zLWNUNU9abkh2ck5PaDZnRktRQ1lPZkZ6Wg?oc=5",
+  "title": "\"Il faut changer ceux qui dirigent le pays car ils sont mauvais\" : candidat à la présidentielle de 2027, David Lisnard en meeting dans l'Yonne",
+  "summary": "",
+  "published": "2026-07-01T09:00+02:00",
+  "mentions": [
+   "lisnard"
+  ],
+  "analysis": [
+   {
+    "id": "lisnard",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "740da874a129b2b9",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQYm9rbmlOVEVZbDMyNktuOFRsbXZQMnprM2hvWWpKQ2JkMFhOMWk5Yjd1VlJmeWVJX1Y5U21XYlZIa0RiNVMxQUs4UWtnUnBqT3FWQ1lRQUczX0tGdlY2N3F5V0QxbWJ1VE1WV2I0NmpCMWZBYnVtYkhOZF9jWEFPUjFXeVFsVEtzRmhJSmRRSXdERko1QUNBSTBOSHVWczFwTC02dE5TVl9pTV9DVk5FWGhjNUpQNG8zX21TQmgwcGw3c3B6cXBUT2Jzck1PclJiRnJ4MkpELXFHWUphN2QzQ3FlVDhwRDRDcnF3Vmc2X3o4cklxZDV4RXlXem0xTy1TU1duWWNXbEE?oc=5",
+  "title": "Mort de Louis: \"Il n'y a pas de mots\", affirme Nicolas Dupont-Aignan, candidat \"Debout la France\" à l'élection présidentielle",
+  "summary": "",
+  "published": "2026-07-01T09:00+02:00",
+  "mentions": [
+   "dupontaignan"
+  ],
+  "analysis": [
+   {
+    "id": "dupontaignan",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "7d6f2c82e28a569e",
+  "outlet": "Sud Ouest",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOV1JRZ2l6STlSVDV4OWRTNTRTdVB6cGxUVklyckJCZmRvN083YjVlQUtfMzlPa2tVSmNQVVBzODJ5aFNISU0xR2NuN3RFRzFlR3VvNE9SYi1SWTctWE1sY3BrMFUtdGhxYVdHMHphM19wdDdNbkVFcV92UWF3dFd2UXhoUHZ0amEtVU1ram1VU1pTVlZRRkd4T202VU5QZlQxNlotQXFKWWxLU0JPRUNCdl9xd0pQSFlSUmR0bEhhQ0o5RkdiVjV4X29VYXBwUQ?oc=5",
+  "title": "Présidentielle 2027 : Bruno Retailleau se dit favorable à la suppression du droit du sol",
+  "summary": "",
+  "published": "2026-07-01T09:00+02:00",
+  "mentions": [
+   "retailleau"
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "83f59caa09b1d24e",
+  "outlet": "Europe 1",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOY0dMNGRjQm4xQVR1UW9QYTFLbVJCaHo4VjA4bU8yeEkybjBvVDJ0c3dDX2pnMER4WUJNUjBpVjVpU2lrdUdGWVVIV0JxVjZ6X0tRUXRaamNMSUthUU1BTy1EZ2s2N0gzS0h4dWYwQmdscjQxb0lTa0dhb1AzcTlEOU51TUJabnFQeDRqcUJIcFRzTU53VWlIdnpiVUF4R2FRbEl6dnloMXU2SjRfUXRiMmp3bTJ3MnFwYVlPUEZyRnUzVWtxOEVYT3NXMWtWMWRpaFNpbVRmdGVYeGNTd1JHdi1uVHR2Q2swZHBaX0VB0gHzAUFVX3lxTE1DOTlFeEFoRENLN1dUbE9TOU8xbjZ3LWlTaFdKZG42R0ZENWdpRnFvSktnalhmbVEtSWRmYWl5c1JYeXQ2bDZrZ2dqaXA2VkxfTUJCT2c2OUVUa3hkWDNvWV9aVmhnd0VNM0pDTUNCdHRRSXhSaUw3WDhjQUdOQ1E5UV85M3EzWWVXSkxhQ0FoOUZfYkVLRkNMU1d0MGxmaEtwWkVEWGRPZEJuVVVtRnJ0VzFxdWxCODlXRVJNaTZqVURYUWhVZUc4ZjJDNjJCYmM0b1p6d2V6M2hkdG5BM0lBeElaWVBfNDY1WUxSeXQ2SG5Ycw?oc=5",
+  "title": "«Une fois de plus, le gouvernement a obtempéré» : Bruno Retailleau critique le choix des dates de l'élection présidentielle",
+  "summary": "",
+  "published": "2026-07-01T09:00+02:00",
+  "mentions": [
+   "retailleau"
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": -1,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "89116927b6ba94e0",
+  "outlet": "20 Minutes",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONUFKVzFjWU01S1dwWE9VamI2R3J3T1U3dUdCVklhTlczbjJfaHkwN0tDeFBqck1uTl9neDFIbEpFUElSaUlwZW56Y0JSRDBaZV9Qa19KQTBhTDlOX3NUZW5hQllmMDROaktJcW02RTJlYW4wQkc4SVZGeWVjb3BVZVFBYTF0UUtVcHZtT1VCbjI2MVJieXViSmt1dW1WamUyYmx4UXBOMFJCaE1RS2dNOTJINHZLamJXLWVGQjVXVEhRdkJ2SWc?oc=5",
+  "title": "Pour Philippe, ce serait « dangereux » que Gabriel Attal soit aussi candidat",
+  "summary": "",
+  "published": "2026-07-01T09:00+02:00",
+  "mentions": [
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   },
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
   "id": "8fbfb35fd152acd5",
   "outlet": "RMC",
   "lean": "non classé",
@@ -605,19 +640,121 @@
   "published": "2026-07-01T09:00+02:00",
   "mentions": [
    "lisnard"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "lisnard",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "2f25ee72ad5836e4",
+  "id": "93280a71c7363172",
   "outlet": "BFM",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQM3R3Zmp6RnVFeUNBeUhpcjMtU2JlVWxyQ240VExCVGJwYjd6bmxuU09nc2VPbEs1dE9MSjZIUnVHbnNPNkNGRTI2QXJ0RkZkZXhncnNjVlZuMl9UUjRFeG55cllMTFMyX3JmNkJhZzB5c25fTHRMcnVDRHNVejdZQmJjUFdVdUhydndxNmxkaUNVT0pBbE52YWpqUXhhaHRRZ0dNTzI1b1FTS0lYWWc1dEVvTW5zbGNHQ0lPbWhjNjdpRUltczhuWmRKOGw0TGl2QmtzOWhHN2trYVM2cEx5U2tmZ0F6WWZaci1UbHFnY3ROekJPamhuRDVhQjhCekRGbVNJZC1wVTZWN3lGcF9IM29zb19nSlBwYks4bjNxbWVINEVOMENkNWVCYl9mRUpVNTl0bmI4NFE3aXd3ZnlpSlFjTlhVQQ?oc=5",
-  "title": "\"Le problème d'Emmanuel Macron c'est qu'il détourne l'opinion de ce qui relève de sa responsabilité\", estime David Lisnard, candidat à l'élection présidentielle de 2027",
+  "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxNUWJRT1pTdll0bl8xOV9RUlB6eVRtZmd6c3otamRWVHRBbkdfeWJSa193dlNXSlZfMEhzai1DUm03R2N4bUtTVXF2TjRUMjh4N3ZYSDUzYnhTb3M4M0JqYXdZTGg1RlNVbGpzZmR3bHFqMFhaSmJwWG1IaXdmVmROQV9xSFR1TUt2cEgzdzJ1M0RxdDc4clN1VDFtSFlGTGs2eXNQNUVXR0RyOU1mM09yb1dkSVg3WC11SVJKT2dNVGozM0lnaVNNS3RBdGJJb2xXRDFjeHAwVml4aXNsbEJYNkt1dHFWYTA2UUpESkRtNGVFbVk5QTF2QlV3RXpLYVN0UGtfU29jeWRWOWt1QzdhRVVpZXNEc0xXWTZJZXdaX2ZKSEVMQjduTWg4ZC1TYnR3ODhuRFNEYXBnUVJjVkxHRlVVTDNCdkZpZklEWVNPTU9NVmYybWZKOGZVSVdjNHpq?oc=5",
+  "title": "Adaptation au changement climatique: \"Il y a une hypocrisie totale de renvoyer à des obligations en enlevant des moyens\", déclare David Lisnard, candidat à l'élection présidentielle de 2027",
   "summary": "",
   "published": "2026-07-01T09:00+02:00",
   "mentions": [
    "lisnard"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "lisnard",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "98b5b024262470b6",
+  "outlet": "Ouest-France",
+  "lean": "centre",
+  "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNTGpmY20zNjgxUDlRcTBMcmlTX0o4eUEwN3lydHBIdUZpTmtmTnZjT1EyVHJNanRrUlVUUlNuYjJkZDFPZkpDOXZIOUFNOFFCZHBRbHd3eV85R2JLUnk2YmNDUjEzTEp1OVFhcVB1M0ZXRnFHeE83emI1cWQzLTdUaHBySG9tQnJZMmFBWDlNYUNlcVBEaEF5aU9UaWdMX1RHODc3VmJxWk4yYUhscUh4OGFSTHF5VGk4NTRqcVNZQmtfRkhCa3lmNjRJV3BGbEo4eTc1ejZDMGFkZ0kwN2N1UElEZVVCLVlUTlN0aQ?oc=5",
+  "title": "Présidentielle : Bruno Retailleau « en colère » sur la date de l’élection",
+  "summary": "",
+  "published": "2026-07-01T09:00+02:00",
+  "mentions": [
+   "retailleau"
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": -1,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "9bcdfd073bb5db54",
+  "outlet": "Le Figaro",
+  "lean": "droite",
+  "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNTVVNMkJCcnBNUTJUMW5NTDZtN1JGWG81X1JnN2kyeEFSYjA3QktEZWQ5clkyd3p3RW9NQkNSekxLWW40cndiUlJZOUJMUWxWd2d0Tzdla3A5OFBJaUJKMzhwVGliVHg5TlU2UWhYTWpSVHcwVmctV0pSak1PSmJJYWVfWl9hbkJrTWJCaTd2U1VzQ1diREU5RXJTcFFZeGdnSnhBLV95aGpzOFdNSFl0aUZWbUd1WV95RlRZM00ydGE1eEdzVE16ajd1Si12MTMwcWJMSWlsNU1DY3VZeHhBYWpfcUhYMGR3ZnRsRnFhSTM?oc=5",
+  "title": "«Le choix du gouvernement, ça a été le choix de la gauche» : Bruno Retailleau dénonce les dates de la présidentielle 2027",
+  "summary": "",
+  "published": "2026-07-01T09:00+02:00",
+  "mentions": [
+   "retailleau"
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "a160c21c98e61c9b",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNSW9Ud2s2S19qV21xZE5wQnQ1MnBaczhfUHI1N0RPUjFoaXZCYk51TTdsazd0TXFhRVQ5Mmo1U29TaHRHbGlDRVQ4S2NXN1NUZjZPeko5a1Z5V0FZTVltU1NJTWpUelBPaUtHNVFidUM1QzJHTXJrTDU3WnJCVkNNdWdjWnZIRnIySGNKSXpuTnNHNEgzQVd0ODlUUG1OTUNYempwQXF3WXUxZTZQRF9EeWxfZ19NdXUtTzBQWU1TMjNzc1o3ZE45bUVZRTVKX25yY3ppUFdlb2pEN0Ryemk0ZlpHTXp6R1FybnY2cW1aWWc3NVcySk9pUkxSeUpMd0piZmRfejBXMTZmR1pnMFUyTm1R?oc=5",
+  "title": "Présidentielle 2027: David Lisnard préfère voter \"pour n'importe quel candidat\" plutôt que Jean-Luc Mélenchon",
+  "summary": "",
+  "published": "2026-07-01T09:00+02:00",
+  "mentions": [
+   "melenchon",
+   "lisnard"
+  ],
+  "analysis": [
+   {
+    "id": "lisnard",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   },
+   {
+    "id": "melenchon",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "a22c0fd6afef8391",
+  "outlet": "Planet.fr",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMXZVaVRRVDd1SEJSenN2UjlzV1hjY0pFNnJHWjVrZF9qNTk2aFUtNXVpdWxpZ1ZENTdjN1l4UmVIVnhuRVdjZEhJSDluQTZ1NVZpOWxpWkpPTGVoTUEwa2dJaVphZUUweWVKVVptYWthanpUR1dxbDVlNEl1ZndRQ09XTXRSZTd3dWN1SlVtRWpqR1BpOHd0RWtaZ3doeDA5UExXUU43TU92aTItTm9obndSU1NtOG1maTRGS3FPMnZ5TXBLcVdOZ0pOUWRhemZ4bFRYUUtjOHpSTVFDa0lCOVQ1MA?oc=5",
+  "title": "Sarah Knafo et David Lisnard : convergences libérales et nuances politiques pour redresser la France",
+  "summary": "",
+  "published": "2026-07-01T09:00+02:00",
+  "mentions": [
+   "lisnard"
+  ],
+  "analysis": [
+   {
+    "id": "lisnard",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "a2dcf8ecdd2ed935",
@@ -629,29 +766,299 @@
   "published": "2026-07-01T09:00+02:00",
   "mentions": [
    "lisnard"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "lisnard",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "393faaccea63d6e6",
-  "outlet": "Libération",
-  "lean": "centre-gauche",
-  "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxOazh1dW1YeTZVMmUwTkRYOFBBMlMtaE9KdGdQMUdvNmpKSkZxY3pZTkpvekFyVVNBdDlRSlhEMzF3NHo5QkRweGFWOHBmNy1IdkJ6a3lIWHJMX2M1ZGFnM29TVUlzVTJsaGJLYjd2NDhnVDIzYlBncVRFYU5tWEJ5bHh0NXFZUVpfLWVDYmhGS0EtQXRKUnRVUDltaUtkN2h1b2Npb2dWRG9oLUlxWHVGRnBjUzFQclFnTUw4Z2hNbThtdlBpdWl4RjlQNzlqbWhBeDBzRzdxa29zdWo3R2ZlZ1VOZjhEUVAyME54WFdjdHBaWjZNWHZqd0hBcndBcHB1cnRieXhMa0N4aFZEYVc1TE05NGN3ak5DLU5zOTRMb2lXUHR1S3F4RnB3S2M2YlRjT1FB?oc=5",
-  "title": "Indépendance de la justice, avantages du Président, nominations… François Ruffin défend une loi «de séparation de l’argent et de l’Etat",
+  "id": "a30e3c900c236a09",
+  "outlet": "Orange Actualités",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQTmJydHotLWRSdEtQd0NOVnJPMnpGVW5jbWZaWmNQME1aSE4zQ0pldFRzNGZBaFB2aHBQTHZZR1AtOUFZZ2hNUDZCcHdweXgxTUNKZUh6eHdIMUhBcEJHdmJIYnRVZzQ1U2FWbTJYcU1JREhZaVdMOTRaWU8tUWFkd0dJWEE1OVhvM1JUWkhuclRVTUh6SUxjalNhRl9Mb3pxX3BuS3RCdTRxaF91ZDE5YU9Jdjd2WUpmN0hSeG5HNS01QUZVV3JxTnRzZGtURndDemR1Nm1acUM0b3BpWU14R2VpM1NaWW54Nm9Ya0E1Wmw?oc=5",
+  "title": "Édouard Philippe et Gabriel Attal bientôt \"départagés\" pour 2027 ? Le maire du Havre évoque un \"processus\"",
   "summary": "",
   "published": "2026-07-01T09:00+02:00",
   "mentions": [
-   "ruffin"
-  ]
+   "philippe",
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   },
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "e7c3e7bc9a1454d2",
-  "outlet": "Les Républicains",
+  "id": "a934f705c43233df",
+  "outlet": "BFM",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcWppbVlPMkR1RjBiTkthWWZfVHVJeUw4VXNEcy1abmIzR2VoaVhQOENvSEZQNEJKSmtENFN2MHE1bGltU3EtYjRwXzU4Z1NYbE15TEx3b3VXVGxLUE00UjVfM29KQ2dHZjROZ2tfaE83OG9aNElUdzZtbHdOeGIzUzJVaHZtcUZndGE4eGlSX2Q?oc=5",
-  "title": "La prochaine catastrophe sera budgétaire",
+  "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNWXZjWHdjNUg3RnZJWVlWQksybDlMWGZBUjBjT3hoQW5ybktiUXhabnZFV1pOTkVBa2VyODV5ZVI1UlR2NDRfRmlMc1FHcWFsc0NMY0hFbHM3cmFSeEN2bUNtOGlIUVJ3aUNMVjhScFFLOWhpSFBfOUhOdE9XczdGajJCVnNzV1QyZ2s0b1I4dXotWlFXZTNWYWlYeEkxNDF5TEsxT3F1YkdqTG96dG03VF9kREpkZlNPMnRQREt3WjE3RTRWSVRpUzB5Q0RPWGpHcHBNNURWTllDTDUxY0RScHVlSVZkM3FCNjBvRXVRNWNsdnY5OHVDczdmZTBHQXFkX3lKVWZzUmdsOG1rOXdGVlV6aE94cE90MzFJ?oc=5",
+  "title": "DOCUMENT BFMTV. Présidentielle 2027: le courrier de Jean-Luc Mélenchon aux maires de France pour obtenir ses parrainages",
+  "summary": "",
+  "published": "2026-07-01T09:00+02:00",
+  "mentions": [
+   "melenchon"
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "ab12420b2ac2539f",
+  "outlet": "Le Point",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZ3dNSFFFUUROMExoREFyWk9Mb19BU2U0bERCNzRrRl95OUV4ZGhzSFRFRkNhU1o1bXdlM0NTaW1KVmhkanZSTWh2b3hlMEhlNDFPRWhmaWx4WkJOa0FiRUJ4UFc1RXBKTDBxVWd5UGVwdUVmRENxSXhRdHVkbHdkT3FJUUUwNUEzTms2T0Z4ZmNHMXMwQXNUM0gtOEYwNGFjVGpDelFEenhhSVo5aFNIVEVMT3Z4ajFRV1F0WEQ4aDhZYVFYalE?oc=5",
+  "title": "« Il était temps » : pourquoi Édouard Philippe accélère dans la course présidentielle",
+  "summary": "",
+  "published": "2026-07-01T09:00+02:00",
+  "mentions": [
+   "philippe"
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "afeeb24f88d57e67",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOWFRzSGF4MkwxenJtV3pOa21hWi1QS0xQN0hBZmtOSXN0dlZicEo0b1VXZDMtbDNLbUxCemQ2c0VzZVhlbmNVQ1VhV0wxUEdmTHZSckMyVFdUckhMdE40N0JhM0VMZGFSamU4akdNUHY3WW44SnBlQkpYYlEtdDdYXzVvdmhoU1NmenVHYk05WkpYTE9MTjhKS2dSUjBoeUJiQ0RQWUR2Y0k0aGlaRm5TanNxczEzbE9uMGlBMG5saG40WGY2ZkRfbVZsbFRJY0c1VVpmdFNYWTBTckNHWHc5a0hPa2JvRE52TklWX1QtUVo1QWMtZ2JsMTduek9UQ1daaEFGa2Z6dkhvazFTczlB?oc=5",
+  "title": "David Lisnard, candidat à l'élection présidentielle de 2027, réagit à la gestion de la canicule par le gouvernement",
+  "summary": "",
+  "published": "2026-07-01T09:00+02:00",
+  "mentions": [
+   "lisnard"
+  ],
+  "analysis": [
+   {
+    "id": "lisnard",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "b6e7d8ade0222106",
+  "outlet": "Sud Ouest",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQZkdSOEhDNFhDZmVEejNOd3FsV1VYakxyUExzNUhsaUxPWUhsanFSYlFQUjBtSDR1Sk1FWGViQy14LVRKblZnWW1XbDlwemg3TXR4Mlg0YWZncC1pYTBnNWJvT2ZVSnd5eDdoMmNIUTZIbGk3SlcwQlVxamZpeXpCcHJldDItN25URkZaSU1vcGFkYTBlT3lQZHg1LTdMb3hoeXlWR2J2UEREQmstMUYxRTZyd19YM3JVS1hmX3ZxTTFpSGVuVTdUQW55X2Z0aGFWYWkwSTM4ajFoeVVuYnc4dVlxTGNYZEx5NUtGVWh2VHVzdmNvclg5Z3M5RTE?oc=5",
+  "title": "Présidentielle 2027 : Édouard Philippe juge « dangereux » que Gabriel Attal présente une candidature concurrente",
+  "summary": "",
+  "published": "2026-07-01T09:00+02:00",
+  "mentions": [
+   "philippe",
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   },
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "ba837875179f6cb0",
+  "outlet": "lejdd.fr",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMmxOYTlmRDI4R2dwMWhaM0l0T1lISlZaV1hPUWx0M0pLSmtfeDh5YzA2SjM3T1dwWjZ3bklZZzFQTEQzRVF1el9tbjdLY3ZrNjRhTzdSd2laTFVObzlXaDVhWUt5STVaMVV6eWxmamVtc0tCZkNIakxwRWZCNHgxRl83WldjTFgzU3NhREtpd2NRTy1Cb1VKWUNnVkRNbndtX2Y5dzJpSnFJeGVaMmVJejZRUk5HRWtSYURoSHlvaDZTM2wtUWZ4MHRkWl9WRG80Tk53Q0RR?oc=5",
+  "title": "Présidentielle : Laurent Wauquiez tourne (encore) le dos à Bruno Retailleau pour rallier Édouard Philippe",
+  "summary": "",
+  "published": "2026-07-01T09:00+02:00",
+  "mentions": [
+   "philippe",
+   "retailleau"
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": -1,
+    "frame": "strategie_alliances"
+   },
+   {
+    "id": "philippe",
+    "tone": 1,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "bcfe511ddbdf144e",
+  "outlet": "l'Opinion",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNGJGb0h5NGJGZnJfMVpWZTM1cmJWTDFGUEdUTTllQkI0NWRtS2ZsTUJXMm1lZWNDSXhMcWFsM3BzakZSNWJVSUVpY0lPQ2stbDhGazZnUTZnQnlKTXY2ci03MlhtVjFTUmlCQVhHSk1yZ1BLM1RwbGh0Qk1Zdmk2NGp0TXY4aW9LNVNSNjlXaGRldnhRTlRTWDlVUk96ZFBWanVrd0RR?oc=5",
+  "title": "« Une partie de la droite hésite » : pourquoi la succession à l'AMF vire au règlement de comptes politique",
   "summary": "",
   "published": "2026-07-01T09:00+02:00",
   "mentions": []
+ },
+ {
+  "id": "c4fb10243e3e439c",
+  "outlet": "Le Figaro",
+  "lean": "droite",
+  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRGpESjh0SkVTaTJDSGhhcXQ5V1JhWUlCa2wzNGhTWlg5RUxzYlBMSkstcVpnTWZyOWJjUVgxWE0wTFhtVENuVUtCdkFJczZ3MjZnVi1ia1h6bW9pY0pzSXZqOWlBaTVSeEJ1ejI2WkRzZ1FJNUZkRmFEbHVLSzg5TVNGdDJwUm5ZZDdHQl9Oa0RLMXF0Z0JoQVhjZUx1dFptWlhCRjJZX25kZWFXVHRkYWtVeVFuNEpDcDFiaDBCdEFFQQ?oc=5",
+  "title": "Présidentielle 2027 : Édouard Philippe «n'est pas né écologiste» mais «peut le devenir»",
+  "summary": "",
+  "published": "2026-07-01T09:00+02:00",
+  "mentions": [
+   "philippe"
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   },
+   {
+    "id": "attal",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "c5f4d687cbdad764",
+  "outlet": "Le Figaro",
+  "lean": "droite",
+  "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOa2RtNk82WmZjdjNTNzd5S2pUcXBZSnR4MFlfRXoyeENROWl0UDNZb256bjVzcWpubUJFYnFrclIwOEc2c1FJNXdOLWlyTjFPVUFPLUFUZVo1MHhUUGk5VzcwcmVHelVic2otb2ZDOE1neTBmMk5WN0d0YUlnbkRLeUdNM0ZGcVVWanhGaXFyR0t3Z3g3VXI1VTFpbzZDdTJ4VDFRdEZoWUxTNDBjUU9NWXVkbVE1WWR3ZW91VmR6M3BkSFJNZzFyMm43a1V1LV9qYm5PejVYZ3lVajBv?oc=5",
+  "title": "Présidentielle : le préfet Philippe Castanet, homme de «solutions» va diriger la campagne de David Lisnard",
+  "summary": "",
+  "published": "2026-07-01T09:00+02:00",
+  "mentions": [
+   "lisnard"
+  ],
+  "analysis": [
+   {
+    "id": "lisnard",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "c8bd635c40000fd6",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNR2t6VXhwNzJMa1ZkUnd5c3phVXBmeGp1VVZKTEJ5YkxTc3Z1Wk5laGUwcU1RQ3JoNUUtV0lpYTcwclZ1Y0dpTExXUS1XWXY2RGYxSXhPcXlQamREdmdEMVBJYkcxYWRYMVNHVDFud2ZobjJPdC1ndUpXcDNSenJIRWt6djVyTGNpcnBjeVhHTk5jYmNqR2EtbFdsUTB5bm5DeUc3MzJR?oc=5",
+  "title": "PODCAST : Face à Face : David Lisnard - 01/07",
+  "summary": "",
+  "published": "2026-07-01T09:00+02:00",
+  "mentions": [
+   "lisnard"
+  ],
+  "analysis": [
+   {
+    "id": "lisnard",
+    "tone": 0,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "d4e47167d1c140cb",
+  "outlet": "Libération",
+  "lean": "centre-gauche",
+  "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQWnJsZzZVR0FvM291bjlQVXRMV09RaDBmd2xsbmJiZDExdmVvUTd5RHlzbUdHZXJURGg3Z3AzU0JCWlV0cExYTjE3NUYyTW5HVm5XS0ozZVVNdzNCNW0tb0FqUjlQeG41dExFbXhremFxb1VXNzg3eFhpWGNDZXdLbE9IcFpYOGZTdUs5WjRrc1FNbjFRekZFaV9vV09UZ1U2b3NYMDRLTk9HcXlZVG1Pa2gzZG9YRlhrUnFGdDZLR0J4SmZ2LUhFcmxZeDl3My1UWm1iZlBna1dhZDRVVFBBU3c4X2xBN1Nha1ZQN3NUVy1zcUZ2MmZiT1ZlY3JheTFVQ0E?oc=5",
+  "title": "Nétanyahou à Paris ? L’incroyable indulgence de Gabriel Attal envers l’accusé de crime contre l’humanité",
+  "summary": "",
+  "published": "2026-07-01T09:00+02:00",
+  "mentions": [
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": -1,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "d8d4ae2fecd38fec",
+  "outlet": "Paris Match",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMENrU2pzWk9Db1BRWVFZNFhUc1ZWaFU5SHBYYklaTUpPZ05SZ2lCZ1FSZ0ZVSUZlcGZzY1doS0Eyd1lvcHN5U0d6VnpvZnBaTzZGLWdhb204ZlBkZ2M0Q0UxMzdnc2xyRjBKSkdoSDg3YnQzV0NGa3BBS3BvTVM5bV9aSlduTk52eVFKUFg4REk1cUNqSlR5ODY2OTRiV1F3QWY1Sm8zWC1lNEx5UG43d1BxeW9rQXZiN3ZxRHVZZkMtYnJNUWIwV1dNdkRiTjUzb2MzQVBRUmtERjd6OWc?oc=5",
+  "title": "Présidentielle 2027 : Laurent Wauquiez prend ses distances avec Bruno Retailleau, « en dessous de 10 % »",
+  "summary": "",
+  "published": "2026-07-01T09:00+02:00",
+  "mentions": [
+   "retailleau"
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": -1,
+    "frame": "strategie_alliances"
+   },
+   {
+    "id": "philippe",
+    "tone": 1,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "d952f9b4d81e8b34",
+  "outlet": "Orange Actualités",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNUmxMTzgydGY1SXlFMU9EdFkxNFJNOF9hMFVIRExXQUhOVlc0bVZ4aWFQd2NlSDh0dGpnaV9rb1FCbUplaENLaGFTa01PV3pCTm1wb2l5aGl6RHNua1FsbXBYdlBEYnFicFdIWW5xYVo1WndnbmpVQ0NPdUdoSmxuV193eDlzZkRHS1ZFS2V5VzhwVTFXaldnQkJjSC1TczYyZnFwaVhkc1RzdHB1QmNyc1Jtc2d0ZEwtdUFSWmVvaXhmNk9fTERsYmUycjQ0OHVNLXRYRUN5THoyTGJpc2U1YmZqSU5ZTzFZeThEeXJhM0E1UmVlV1NlejNkc083cWFFYjdCZg?oc=5",
+  "title": "Présidentielle 2027 : Laurent Wauquiez invite Bruno Retailleau à \"se retirer\" et apporte son soutien à Edouard Philippe",
+  "summary": "",
+  "published": "2026-07-01T09:00+02:00",
+  "mentions": [
+   "philippe",
+   "retailleau"
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   },
+   {
+    "id": "philippe",
+    "tone": 1,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "d99f2898622945e0",
@@ -664,15 +1071,111 @@
   "mentions": []
  },
  {
-  "id": "c8bd635c40000fd6",
+  "id": "dbe3c6d56e8f0e59",
   "outlet": "BFM",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNR2t6VXhwNzJMa1ZkUnd5c3phVXBmeGp1VVZKTEJ5YkxTc3Z1Wk5laGUwcU1RQ3JoNUUtV0lpYTcwclZ1Y0dpTExXUS1XWXY2RGYxSXhPcXlQamREdmdEMVBJYkcxYWRYMVNHVDFud2ZobjJPdC1ndUpXcDNSenJIRWt6djVyTGNpcnBjeVhHTk5jYmNqR2EtbFdsUTB5bm5DeUc3MzJR?oc=5",
-  "title": "PODCAST : Face à Face : David Lisnard - 01/07",
+  "url": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxNenk3OGg0RDNhYV9xYXV2VHRhcGsyTGlPaG8wUmhKaWNnaFljNmlqaWxPaWJ5ZEg1aFRUN2U3cTR6QmVzbFYxMGd5YTdmWm9mTzkxc0doNXNTdFRIUW8teU4zNHQyUDhFUGxDRHZ6U0lucjQtdzRweFFJRzVHWXR0R0NpZV9NbEtBRjFkUE55YlhVaEhJeWZIaEJNQW54eXZrNm9SNUc2bWV1OWdGRllNdW1LTjRqbTBRY2o3ZU55WjEySGFlZmk4UmxDbXlMaDFQRzN2YWNScWlRT3VkODJMTWMwLTVpLWJTZktTaVEydmFFWUVkS2d6UHRHcWxIZF9lTnIwS3g3aG42aWplSnJlN2JnSFRyQnlhM2NqTFdLOVl0d3pUMnA1S1ZYMWdJUHduWDNkRElla01zZWJaZjhjeU55T3JMZ3pGWXlXYXVtS0N2Y191N2Q2VTVST3BxRkRBX3Z4R0hMeG13QUNFejNhY3B1QQ?oc=5",
+  "title": "\"Le candidat LR est en dessous de 10%\": Laurent Wauquiez juge que Bruno Retailleau doit \"savoir se retirer si c'est nécessaire\" et tend la main à Édouard Philippe pour la présidentielle",
+  "summary": "",
+  "published": "2026-07-01T09:00+02:00",
+  "mentions": [
+   "philippe",
+   "retailleau"
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": -1,
+    "frame": "strategie_alliances"
+   },
+   {
+    "id": "philippe",
+    "tone": 1,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "e5adea310c30f599",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQaWtTZmJaVml6NkZzMy1tanhjcVRNdnRzM2pobjFXRzBic2ZnLXJYMGxHNXlXakl4Sk1HWThwUTNYeTVHandmbjFtajltaXZwZkxuWF93RmlkZDFoYURQbGp4RERja1A0c1VUemlzZ2lBSWt2RkJJejZFaG5oUkpWcE15Ui1VSmxlejdnT013dk51anB1YzdOU3NUamRlWnlsT3k4Q3I1N2JKOWhvNVVKeHlOWmxCeHFHYjNfTENHZkxFQnl6Z2F4QVRHcFVlaDRRczNrLW1qZXRycmRod2N2ai1FdW1UUXNYcENLZFdyazZHNkRhMmE3S3hXaDJUaWdMWGNvOW82ODMwN21BV2pnNkVwR190NHB5aUpvN052Q2ZlRnVZeXpjYzhDOA?oc=5",
+  "title": "Gestion de la canicule: \"Si on met la clim, on se coupe de financements\", assure David Lisnard, candidat à l'élection présidentielle de 2027",
   "summary": "",
   "published": "2026-07-01T09:00+02:00",
   "mentions": [
    "lisnard"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "lisnard",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "e7c3e7bc9a1454d2",
+  "outlet": "Les Républicains",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcWppbVlPMkR1RjBiTkthWWZfVHVJeUw4VXNEcy1abmIzR2VoaVhQOENvSEZQNEJKSmtENFN2MHE1bGltU3EtYjRwXzU4Z1NYbE15TEx3b3VXVGxLUE00UjVfM29KQ2dHZjROZ2tfaE83OG9aNElUdzZtbHdOeGIzUzJVaHZtcUZndGE4eGlSX2Q?oc=5",
+  "title": "La prochaine catastrophe sera budgétaire",
+  "summary": "",
+  "published": "2026-07-01T09:00+02:00",
+  "mentions": []
+ },
+ {
+  "id": "efec1c37c71aa371",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxPUFk1YzJvcEtzYS1WZ2hlNzhkMlZXczlPR3FVTnhQRmR4Zlc4aXlTUGdkbTdkRU8wcDExMzRzbF9Gbmx1VU5Pc1lFZERjRWJGMjRHNWl2MFNlV2pIeEJBYzVyU3p2QVNmVXdBQXJaVFlYZTBYZVJkNDktTThXOG5NUENUc2tFeDhvVlIwbml6ZWM0M28wUDN2NmR5ZVJmd2lxTC1waVJiOWlRQ1RNNTJTbWZZYVhpSkIyaHBIS3NyVnJuWWdEZU8yZEVfSVNqQkIxY09vYTBpS0FXOGVCLV9xWUdNTVhxcE1oZkFYUU9IUzZCX1BQd1FWRHVDbEhsam5nRTdpRnV1V3I2aHhXTHY0Qm1KZWE3REZvNkhicGlQNkw4ckJlbDJzNEQ3dE1pT2hHVXo1QW1BNExjdVZvQTN6Vg?oc=5",
+  "title": "Présidentielle: Laurent Wauquiez juge que Bruno Retailleau doit \"savoir se retirer si c'est nécessaire\" et tend la main à Édouard Philippe",
+  "summary": "",
+  "published": "2026-07-01T09:00+02:00",
+  "mentions": [
+   "philippe",
+   "retailleau"
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": -1,
+    "frame": "strategie_alliances"
+   },
+   {
+    "id": "philippe",
+    "tone": 1,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "f23189e13f9b657b",
+  "outlet": "RTL",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOQ3Nwb2hpZExkLU5ZeGVIN1p1WEQwS0xvYmh3cWxneFY5MHNyNEpWczhVc1g2eVQxLTdqSWh0dlJPMWRSUkZOT1RNMVFjMGJseWRCVkZmSlhpQmF0MXkxdU0yYkxCWjhRck1PZFJtRkZxVnVjSVNLX3JjZnNJa2tlWU4wQjBXVjduWUdiRG1tWjYzeE44X0Zxa0J4ay0xSmV2RVB5Y0g4ZHl6a2VuWjNCeFRQdnU4NFEwUnBHZXpWNHc0d05HWXFrVEVRaUtTT2dmT01PNlhJYTR2NDRpNWZlS0NxeGJBUTMwX29xX3FWRkJvVkpaWHdEd01oSGhiSlJZQlVYc0hTb0NteDRzZUNCSTRn?oc=5",
+  "title": "Présidentielle 2027 : Laurent Wauquiez estime que Bruno Retailleau doit \"savoir se retirer\" et tend la main à Édouard Philippe",
+  "summary": "",
+  "published": "2026-07-01T09:00+02:00",
+  "mentions": [
+   "philippe",
+   "retailleau"
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": -1,
+    "frame": "strategie_alliances"
+   },
+   {
+    "id": "philippe",
+    "tone": 1,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  }
 ]

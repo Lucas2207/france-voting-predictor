@@ -9,200 +9,25 @@
   "published": "2026-10-07T06:30+02:00",
   "mentions": [
    "melenchon"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": 0,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "59cbcc9704fd89a7",
-  "outlet": "Le Monde.fr",
+  "id": "01696f8a77d6a196",
+  "outlet": "Mag'Centre",
   "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQLXVHMUtsRTB6VVlka3gzTTdWXzgzLVpFODNka0sweGhnWG5tRVUyMTJtZGwxVWdiMGhRRW43VlpXSWM1Z19vdnpseG93X1VqdDl1OVE0V0oySGd4cU52OENsTmRxMmtpb0RKRmFhWFBaUDF0LTJlVTZWMHV0UGp6UWRvYnBldm90ZmdiMjBzVHQ5U2N0Q1p0T1NUTDVlOEs4aktKQ2tHd3NsSjBaSUQxOFVkcTdvUE9ITTVaNFo2ZUVycVRmOFhMUV9BcmUyRzRQR25WS2E4QTBXenBUTWxvWXVYc09MVHpiZmI0a3JTTW9udDJFeW1raHBzWGFXdldn?oc=5",
-  "title": "Présidentielle 2027 : les « mesures magiques » de Marine Le Pen pour convaincre de son sérieux budgétaire",
+  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPX1pydndianBfMmhMYVZJazMxaDJjcFVDTTRTdnA4R3dneEN0RWFhQjJyRHJwMXRkZklhLUpfM2VrNnhEUk9IalVGME1JSzRjaUVOdUlLWE9tTzhyZE9DUEJ6MENnX1RxZkdHRmFxRjBGWHFIeW9ub3BCcUVFOVRfNGlRcUxpdEdHaHpuSFh5T3FNUEFkSVdKdk1EcEwtTnN3SmpGYmh6WnFiZw?oc=5",
+  "title": "Lutte Ouvrière fait sa fête au capitalisme ce samedi à Fleury-les-Aubrais",
   "summary": "",
   "published": "2026-10-07T09:00+02:00",
-  "mentions": [
-   "lepen"
-  ]
- },
- {
-  "id": "8742e105a15607da",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQR3BjT3FnOTZ6S3lycFlCQUc1VlNQOW5DRFhFTlczZTJ1SjJMVW5SWHRCMFlZeGMyaUJab3lDZGhBMDJnUkRMUlk2Z19kM3FzSWJtRHVOb3VMWTkxM29vR0xTRi00SkZ2amVNVmpRbV9TSVZKdGZCaTQ1ZVpYcFRnMjA3WE96Ull5NEZTSDhsRWFYNlZYWEE4bXdydFFZNlpnZXNJM3VHM1FfOV84ZWtPYzdrOWxoRmxsOU9NWkVjaURLNnhqNzJ1Y0N4RnJSLVdQTnpYOG9kRFFRbzB1T19SancwR2pGeDZaTTR0NjhSVXhiMS05bVY2OWEySkJXT3RKYVZuUmhnNjBVTUN4QmJDNmNwQzlwM1pkRU55TVFzbWJRUENrQVloMGx3V0V3X2dQYVE?oc=5",
-  "title": "Présidentielle 2027: Jean-Luc Mélenchon estime que la mobilisation lycéenne est bénéfique au \"programme de rupture\" de la France insoumise",
-  "summary": "",
-  "published": "2026-10-07T09:00+02:00",
-  "mentions": [
-   "melenchon"
-  ]
- },
- {
-  "id": "674d2c5a8288e75b",
-  "outlet": "Le Figaro",
-  "lean": "droite",
-  "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaVp3WUp2bzdiVlpkQ0NLa2ZNd1h6NHVXTGpzMmlvVFhwRklMWG5QU0pXT0FxbC13SlhMeHh6RFhPRDh3aC1lSktxUU5pZm5rMGI0THBrT3hGS1dXck1mZTdwdjlnemVwYnFsT21abFlLVkNveTZFS2xHT2xrSHRXZjVRczNzbUZJMUpPSnAzbDZXc0JnTDR2cXdiV1hSNHVSNmVTMTdWVTRlUXQ4c05hNkpYZ1AtajNMc3hUN2tWUQ?oc=5",
-  "title": "« Ce sera un grand test » : Édouard Philippe joue son « Heure de vérité »",
-  "summary": "",
-  "published": "2026-10-07T09:00+02:00",
-  "mentions": [
-   "philippe"
-  ]
- },
- {
-  "id": "8ae6d3fae3bf32f1",
-  "outlet": "Boursorama",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPMTdKM3JqV2IxRUdFbWgxUUdKM2VCUEV1UzdQWkxMUUFaSkdJcWRfTmFMR2RCVV9oUElaSm8xb3ZibEtDZFJtY09aczNYMno5QVp6VTdCSkFuZEo1TGFFY2tBZnRPWFZxN1g4UWFMU0gtZDFzTk5HMkhMV2ticFNfa25nQXVOZmpIQXNBX3hPZzhycWF2d1RMWnJxMG1uWEdCSngweGl5TEN5VFlnVWx1cXlBbWs1aldrQ3BkTTYtMnlCb09pRzFieDJzLUR0Wl9hYmluUm15cFRlRFJIUnpnU3dGb9IB6AFBVV95cUxOVDBLX08xbXVEekN1eDM4Qmh1a0dYTmRBeUM0aUlZaFFFR3RJZVgxU19MalkzRS13b0k1NXdSc2ZPTnB1SU5yLWYtTkxUc1I1aUNNaVplVXM3ZmlaT1dLVS0zQzVYRnUza1I2ZW11V1FRMUViWXoxTmRUN1E2SFhWUkpzNHliZXo4Smdwd0poa2FoZ2ZNSXRMZElNQURabWx3V0syX2RnUFliUlViLWprZFlLeDhXZ3ZXeGc3N1NuN3BNdWRZcUt6ZW1qMFhmVnVfQVhxNEV4Yk0zQ1pfZzd0bVVuVmhzdUdr?oc=5",
-  "title": "Présidentielle: Édouard Philippe au défi de l'enthousiasme",
-  "summary": "",
-  "published": "2026-10-07T09:00+02:00",
-  "mentions": [
-   "philippe"
-  ]
- },
- {
-  "id": "524e4632a178ff29",
-  "outlet": "Le Cercle Des Épargnants",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaDVzLUU5Z0lBNHgzZDljSkxkR2F0N3MwSlFNNjZKMldtUVduSTdHamJlblpvUmV2SnZyS2EzaTVDVWJlSDZRTE5UbktvUGRiVVhPMHRJWHJiMmM0THNFaEpyN2F2OXl3cjZYUTNaN1YtYlRtQzctbzduUFAzd09BWkJ1bkxrRG1QN054YllqcVFMaHJRNXIzNjczZTJYNFg3c18tSldsV2dvZk5pNnEwdDFzTW0xT2RJ?oc=5",
-  "title": "Raphaël Glucksmann prône un retour de la retraite à 62 ans",
-  "summary": "",
-  "published": "2026-10-07T09:00+02:00",
-  "mentions": [
-   "glucksmann"
-  ]
- },
- {
-  "id": "139fb67aa82d3a85",
-  "outlet": "TF1+",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQLTRqcUpWd0tCTEh1TDBfbEk1UWM2Y3FJbUoxY1JJUVNNemFINzNkbW01ZWVBYlFSNXByal9jZmtfd1NUZjc3dkFvLWhhVjMtbHJNZHRIS2s0UUNQMlNLbmlWY0Z2d21oYUZmVjNWQ3FnSnJqY1JqTG9iVEE5VHdJUTU2RnJNUWhVbEJNYTBRX0hLLVZYdU9OeC1OTVplWmJVZEx2WG9UR2NiSWg0TUhSZ1ItWjZmc0dtcHM0cTlmeUE5enJWdkx2M0s2RjlfNlcxdi1SNEh4dEhMM1dSYmdSSnBKUzE0Smow?oc=5",
-  "title": "Loin des lycéens, Marine Le Pen et Éric Zemmour font campagne au Salon de l'Élevage - Quotidien",
-  "summary": "",
-  "published": "2026-10-07T09:00+02:00",
-  "mentions": [
-   "lepen",
-   "zemmour"
-  ]
- },
- {
-  "id": "e3d8a2a41726a20c",
-  "outlet": "Europe 1",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQVWozNV9YY2otZzBRdDZnRUJSRVdaUFhMbkJieW5MTVhzMnRmQ2dzekFPNi01RUlsY1dSM3RVcUR3M09uMm9BLTRSWFQ0dnVpSGpYYm9XZkFpeTB2SWowd1FMbGc3ai1ZSm1uZnBuNWtqNEF2eGRGNFY5SHRIYXA2QUVDb3N0TU9CVUQ2X2Nac2hHZUJtaXUxQUNpZVNJOVliRHd0enhoay1Ca0NJWXFhb05TV1VKM3cxOFBtd2V5ekFmOVg4YTViUkNsNGRmSWM3MzhLeV9YaXVhVDjSAeABQVVfeXFMT0twSExsSk94MVVwU1lRQ0JZMnRuaUNaREtKTFpxSDZYYUhieTB0WDJuLVFFQ1VlUWgzUHBfSVhMdXFTUGFsc1ZSYzFYT0xwdXd5Vm1qdTNBbkJYeTBmZnp5cDJXN0s3WXA1ZXRDVnZmYWNUSEtjOU42ZEwyYlE0V29tMENLN0RaMEhwTFo0bWVzT0o5Q1VVdUFrUGVtNndDMXRRVlBJLVRrNDJWUlkxMkRyTkhOOFNBWlZmNDBvR1RfMXpKMU9KTTlwYTdvVjJPTWlpVE44eEdSeXp4clp0V2s?oc=5",
-  "title": "Blocus des lycées : Éric Zemmour veut faire payer les «casseurs» et leurs parents «jusqu'à la nuit des temps»",
-  "summary": "",
-  "published": "2026-10-07T09:00+02:00",
-  "mentions": [
-   "zemmour"
-  ]
- },
- {
-  "id": "b15e9831338606b4",
-  "outlet": "Sud Ouest",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPWDBtZXQ5QkRZTG1pb0E2RWNEa0E0bHczaHdndUlJZDZBa0Z3TUV5STRxMnJobHNsWFE1dVB5ZGlwVnYyYUtaWjBpb3BlV3FhazJUUFFNc0hTMGg1R0tFaEVRMmo4c2FuUk5VSFNnV0JfcDFaOW5NWE9VNVBwZWxWTlh0NDZvenlfMFFRdlFSa1VDYllDY1RLbkdEUXJERjV6bXcyeTNwYngyd2NETXFtYWxTZk4yOWg3d01UTUVzYmkxeDNtR3c1dnpBX2hFOF9XQUZMRENqdjZWbHQzT1Q1REtEdw?oc=5",
-  "title": "Blocus des lycéens : Éric Zemmour veut faire payer les « casseurs » et leurs parents « jusqu’à la nuit des temps »",
-  "summary": "",
-  "published": "2026-10-07T09:00+02:00",
-  "mentions": [
-   "zemmour"
-  ]
- },
- {
-  "id": "8dbfe23eae9599ae",
-  "outlet": "Le Point",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNa3JzRmVOSFJ4NHAtcnBfS3JMeUxVX29IdWcyRnpfM3pHcmhSMU1Bc0xWMEdKYkwtNXo1YVhhQW85a2pTMmJjYUY4YmZfN2xsQ1MtTWV2Y0ZiSG95WVRDd0xTblRDcU5WTTV5c0Fpa0tvTTZkZFlBZ3RZUDRBM0tPVFlUckpGYUpnSFFjZ1lsOGRacTJlU09nUmhoLXlOYlo1TW12ZjhmbnppVHRkZ3BBbVI1WGU5WXlz?oc=5",
-  "title": "Comment Bruno Retailleau veut bloquer leurs candidatures",
-  "summary": "",
-  "published": "2026-10-07T09:00+02:00",
-  "mentions": [
-   "retailleau"
-  ]
- },
- {
-  "id": "b19e7163340b9383",
-  "outlet": "Le Média",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVkFYdFpld0htSHZDSWZLUmhIZDR5ZWd2TldocGVGZmw2ZEV3cG9wV2xmV0NJbjBfZEFEbVo2clZkd2VicFM5ZXZTQ1F1RUNucGFQYS13bklmODcybXZCZmhWSGJzZU12S2ozRHM3dDV5MkVlTU5pZDdxZXpFUHdzaHZrSkR0SXBJdk1oUVgyb3V4dURMUEpRS1UtN0ZqZXQyTmR5UjlYMWtrMWdu?oc=5",
-  "title": "Alerte : Fabien Roussel est redevenu communiste",
-  "summary": "",
-  "published": "2026-10-07T09:00+02:00",
-  "mentions": [
-   "roussel"
-  ]
- },
- {
-  "id": "7fae3f6a699cba75",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOMU9IYTlUbHFZX0FPc3VTZGgyTTNwQy03Q252VTVyTVNQNG45YUNLeWE1STFXUGNneDZmbnZzVHJGOVM0aGhHNDczNV8wS0s1WGpyM3JDQ3V3OWI2cjBSVnBEaVhEM1RBYlRnRWtBUnd1S0dwbHltdkptQjh5U3J4dmdNa252YzdMckgyZHlIUnpGdUxqdnpLTjBVVm91U250RjBlbXZ3MURQZmpHVDRobzNQUUUwaE5pVlJBQWFYbG1xb1FnOEE4eFEzMHlIVjFZcGk3WERXUDdweG10V1hqVVpYekRobnVW?oc=5",
-  "title": "Mobilisation lycéenne: \"Le malaise est profond\", analyse Fabien Roussel, secrétaire national du PCF",
-  "summary": "",
-  "published": "2026-10-07T09:00+02:00",
-  "mentions": [
-   "roussel"
-  ]
- },
- {
-  "id": "f90473487d879d05",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdTVDN09ESzVlRTJWZ0JjUEU1dGNzdnpESWtjbnJQa1JjLWNkUHJ6Z1N4YlhUM0VkMDNNZFVuNEhvdkFGOFFQNFdla3czc1V6WEVDMG5YTDJ5YU1SWmxvZFVnQ1N0X2g4T2gzVHRCME50X0hoMFBUYTJZaU9PM21kZksxa211NXVna0tYU2VRcjZRQmNkWl9OVWtVaE0yNTM2bWNsSHR3c1lvQThnZVMzcGRoeWJGMkFiWkIzNWV4b1NlbWhZeE9kVlF3SHFPODNpdlRWdQ?oc=5",
-  "title": "Fabien Roussel, secrétaire national du PCF, craint \"un risque de pénurie\" de gazole",
-  "summary": "",
-  "published": "2026-10-07T09:00+02:00",
-  "mentions": [
-   "roussel"
-  ]
- },
- {
-  "id": "8e05ec1909eb7b9d",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQXozajZlVHV5UDc4ZEgxc3VCNlVqUkZmbUJsSVJiaDB5U0t4d213dVB2Skk0dXV5Z0xybXRpMk9JX3d2MnhNRDBtWlJmRUVRVXIwbzlyN1RicWRKRnduWVZSY3NTTVB1M2h2dGk4YXlwYzk3eEUtaFQ3X1Jaa3dERjJrMzVyaGVUVk5WdlBHbTBmV0NWZjY5a1N1eTlDaFh5bHR3cEl2YmY3WE43VnNSbjVoRnFGeGoxbkU5Vi1Bcw?oc=5",
-  "title": "Fabien Roussel invité de Sonia Mabrouk - 07/10",
-  "summary": "",
-  "published": "2026-10-07T09:00+02:00",
-  "mentions": [
-   "roussel"
-  ]
- },
- {
-  "id": "37131e2a9e7bbfc6",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMimwNBVV95cUxQMTBTSi1kQ24ycmZFN0FLR0JldmxxU1lJZnVGNHQ5LWV0T0VXLS0zQ1plTG9Ed3lOZHN2dlV5RjdtWTdOSHdBSC1rXzNVMjJSNkxpeEFGdmpYRHU5VXpiN0hQZWF5cFRpSmFuOWFCZUhGZkN0SG13SnRyZWtNUzg0VTZoZnVmVy1hVlJrcjBEcWE1TG5KVVZIUmc2NFMzTWF5UUtNZjJIZWp0R29XWVljTmg2T2FRT01rcVNwYkFqSi1MdGtiYVVtMnpTaGZubWk2bm81MEFBRGIxeWlON1JuN3BQamNlNTRpTWsxUnVPeVBMa3A3dWNERGRnQ2sxWC1FdGl2UUdoM3U3ckNWT1FpQm5JY1AxNXExYUhwVEZkTEhTNUhEUmx4S1ZoTEw1aTZDUDlwRFh1MDRaUVoxY053VXVMWnYwZm5tRWc5S2U3TWhEekFkd3o5SmFBT19XVjRIbjZPeWxVLVNnbjNzek40aUdBc2JpSkdPdHRXTGVxQkF5Nk9RdFlXTXJaaGNCUVVlaUwtdGU0cEYxU00?oc=5",
-  "title": "7-Octobre: \"Nous devons avoir une pensée pour les plus de 1.200 victimes\", déclare Fabien Roussel, candidat PCF à la présidentielle, qui dénonce aussi \"un terrorisme d'État d'un gouvernement d'extrême droite, celui de monsieur Netanyahu\"",
-  "summary": "",
-  "published": "2026-10-07T09:00+02:00",
-  "mentions": [
-   "roussel"
-  ]
- },
- {
-  "id": "bc7930745fe3ac6b",
-  "outlet": "TF1 Info",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdmRvTjZ2VGFDUGVZU19aWk9SSEZ3RnkxaXhuSUc3RzZLelJuR1o5ZU13V2dNNEs3eC1FUml6NTB2VmJvaFUyLXpHczU3SE5PYU4zTVRtRGdWYmg1NjVuc2pFNHFuM21paXpBS2dBS1RuNmFqdHhwNldXTDNva1FOd1JkYVFZOEFJdG95VDhfaV9TaEhBc0pmZlQ3WjRlZWlQMlZhZWp2ci1UdTlidGhKV0laNEQ3ZXFpTTBILW1MNm1CTFVxVEE?oc=5",
-  "title": "Une étudiante interpelle Gabriel Attal sur son bilan",
-  "summary": "",
-  "published": "2026-10-07T09:00+02:00",
-  "mentions": [
-   "attal"
-  ]
- },
- {
-  "id": "96711a7c106f6904",
-  "outlet": "TF1+",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQb0E3dEdXc19MNlVxaWtoRHg0UmxDQ2FDXzJ0WmczWkc2X0pyNXNJM29mVEdBOUtqQjIxYlRuZHpuN0NZUTNZSmpmVlFCbGRCcXpvSVRhTTlUcmNjanF6S2t1OUc1Wk5wSEJ1YmRwV0UyN196ekQ0ZndocVoxREZlaUZyOUFSYjJFanVLSEM1ekFlRXVSZnF3R1VqTmszMG5CRGFNWUJzMFBjb2toV2c1b2hhcld3SFVMZjNXTmVmSVFlT3JmRmtBWmlCczdUNTlJZFpSbHhmcU93SXdTUzhwTWo4NFFKSU0?oc=5",
-  "title": "19h30 Médias - Face aux lycéens, Gabriel Attal a pris des notes… et quelques claques",
-  "summary": "",
-  "published": "2026-10-07T09:00+02:00",
-  "mentions": [
-   "attal"
-  ]
+  "mentions": []
  },
  {
   "id": "0398d4e93cfc78d3",
@@ -216,43 +41,30 @@
    "lepen",
    "zemmour",
    "dupontaignan"
-  ]
- },
- {
-  "id": "e8e2e65e3f1db1ac",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPSFJJNTQxSGlnTlNFdXFVNkRuUkNGWDZkQ3FudTNiQWlzSTNWSmRqMjhLb0E2VENKTWtLNWlPelgya2w1OUY3UjJnZUdSUEhoNjFEcFNGV2VTbFR4SzlyeVJOSTBhaUx5aWg5MGFnVDdjZVE4UXBsNmFMdFdCRUtLYVJ4THc0bjhXd0xoTEZvemNqRl9YS2o0anRKNnZHbjhsc2RuN0QxbnhjTUs0bHdyZDFXREhIZktraGd1YzYtY3hzZkg0YzNUWkxoZG1oMnRIdFZ0a2JYeWtGU2ZybTJmYkw4amNKUDA4dmo2QXVvaFl1dDlUODc1ZVZEeWk3SjE2Wm5oZjRrdTREUQ?oc=5",
-  "title": "\"Il faut embaucher 24.000 enseignants\", soutient Fabien Roussel, secrétaire national du PCF et candidat à la présidentielle",
-  "summary": "",
-  "published": "2026-10-07T09:00+02:00",
-  "mentions": [
-   "roussel"
-  ]
- },
- {
-  "id": "34f79d66c55e88d0",
-  "outlet": "The Times of Israël",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUVdIZnZScVB1SGFJQnFYZU1BVVJHT1Y2YjRaWDhOY0hGYTByalBrUEdSdG8tQUlJRnV2MV9lYmZOWm43UFZ3TWViMTlTcU5EZ3c3bDdfWTl2bGtUNnVpRFhqNXd6YmFrTGwxN0FVWE1IZDV0X2h1YkJEMFhfT25Ubm1TUWZ4MFNobGo1WWE4S2ZVWUJXaTJSaThrNmd1VHk3UGxCSllJbGtoQVA5aVp2am51MGlCa2NOV2xnMXhaSXIzbjNxSUx5a3BhR1E0MjJSSDY3QURB0gHbAUFVX3lxTE5kZzFLQTB2WVplUFZkU1J2bVJDR1l2eUlPV0dGNTNjZm1NQkVpdm41bkJ3ZlpzSzhSelhSZ3lienFSMW5NMzlvWll2Um9neDZfdEVxc181SFNVSEwxY1ZLRW5HUzVremQxSDNmYjVFQW1lWXhvMWI1Vl9CWGFvdjNmZWpWem4ycXp3MHNoWkpaMWtmNTh2ZjVpbnU5STdPMEQzb1ZoRWduN3ZiamtucW9PeDRBa3pvcFd3TW5oaTlnRGZxUk1NX1ozNWtWcFlnSjUxSld6ZG9NZVJCSQ?oc=5",
-  "title": "Fabien Roussel : « Je mets en parallèle le gouvernement israélien de M. Netanyahu et le groupe terroriste du Hamas »",
-  "summary": "",
-  "published": "2026-10-07T09:00+02:00",
-  "mentions": [
-   "roussel"
-  ]
- },
- {
-  "id": "7e08e2c41f8f7f55",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPT0d3ZENmMXduYWYzbG1rU1J6VmdTcV9aUEFIZklYeXZNWVk5QkpsUzRLbHRHMWVWaml2QW5zaTZBdFNMbnU5RkxzU0hhYTJYU1NrREJlcGtFTjdrR1VrejBmcml2R3FoZUhQcDhkbFlRS3dmWUF2ejVnN1hqUlVwZU9GMmhacWVwY1RNTUtJM2VLYWtOaFBhZE9hUVRLbHJhUzVRaVdfZjlheUNVRVNoRWx4WWdRYjFneXA3YnJvbkVRbUhjRW1IMWswYkZkbW5VdHFBZzVFbkR5TkZpYWlLZjMyRU5aSWkwcFpBUzZNWU1TTG1xR1M2R1czeS1rUnRnYk5JQ3VJVk5pUGphNXM0V0pwTllmbDlqbEZHM0pjNmstYlhCX2JReFZ2XzFjcGJCQ3c?oc=5",
-  "title": "\"On ne tire pas de LBD, on ne tire pas de grenades contre nos enfants\", martèle Fabien Roussel, secrétaire national du PCF et candidat à la présidentielle",
-  "summary": "",
-  "published": "2026-10-07T09:00+02:00",
-  "mentions": [
-   "roussel"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   },
+   {
+    "id": "zemmour",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   },
+   {
+    "id": "ruffin",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   },
+   {
+    "id": "dupontaignan",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "1195e76526cca432",
@@ -264,7 +76,171 @@
   "published": "2026-10-07T09:00+02:00",
   "mentions": [
    "roussel"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "roussel",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "139fb67aa82d3a85",
+  "outlet": "TF1+",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQLTRqcUpWd0tCTEh1TDBfbEk1UWM2Y3FJbUoxY1JJUVNNemFINzNkbW01ZWVBYlFSNXByal9jZmtfd1NUZjc3dkFvLWhhVjMtbHJNZHRIS2s0UUNQMlNLbmlWY0Z2d21oYUZmVjNWQ3FnSnJqY1JqTG9iVEE5VHdJUTU2RnJNUWhVbEJNYTBRX0hLLVZYdU9OeC1OTVplWmJVZEx2WG9UR2NiSWg0TUhSZ1ItWjZmc0dtcHM0cTlmeUE5enJWdkx2M0s2RjlfNlcxdi1SNEh4dEhMM1dSYmdSSnBKUzE0Smow?oc=5",
+  "title": "Loin des lycéens, Marine Le Pen et Éric Zemmour font campagne au Salon de l'Élevage - Quotidien",
+  "summary": "",
+  "published": "2026-10-07T09:00+02:00",
+  "mentions": [
+   "lepen",
+   "zemmour"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": 0,
+    "frame": "polemique"
+   },
+   {
+    "id": "zemmour",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "29427142ce523743",
+  "outlet": "La Montagne",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdWNjVGNZS0Z6LWNDMjc2bFlOZm5fbXAtcm1LR2N2cEFNSWdTaFBlYW8tX0lQZkVTWWxZeS1tZklzQUxJTWRoNm44YXRoVS1iSU9kZUVibjNaUUlUNFlCVEFsWVpDanBTUzlCNTlPWG44YkFtV3BQaVhiRHBTNmtmSU5DcHMzcU8zd24zR1k5WW12MVJOdnJCOVRMa28yXzlCMWt2XzFvSFcxWEdrdmdJZlJELW5UYThTMDZJaVFFaGRvVUxnbEJHRHJXbXB5OVp3ZE5kc1JJZ1Y?oc=5",
+  "title": "Le ballet des politiques sur le Sommet de l'élevage à Cournon en images",
+  "summary": "",
+  "published": "2026-10-07T09:00+02:00",
+  "mentions": []
+ },
+ {
+  "id": "34f79d66c55e88d0",
+  "outlet": "The Times of Israël",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUVdIZnZScVB1SGFJQnFYZU1BVVJHT1Y2YjRaWDhOY0hGYTByalBrUEdSdG8tQUlJRnV2MV9lYmZOWm43UFZ3TWViMTlTcU5EZ3c3bDdfWTl2bGtUNnVpRFhqNXd6YmFrTGwxN0FVWE1IZDV0X2h1YkJEMFhfT25Ubm1TUWZ4MFNobGo1WWE4S2ZVWUJXaTJSaThrNmd1VHk3UGxCSllJbGtoQVA5aVp2am51MGlCa2NOV2xnMXhaSXIzbjNxSUx5a3BhR1E0MjJSSDY3QURB0gHbAUFVX3lxTE5kZzFLQTB2WVplUFZkU1J2bVJDR1l2eUlPV0dGNTNjZm1NQkVpdm41bkJ3ZlpzSzhSelhSZ3lienFSMW5NMzlvWll2Um9neDZfdEVxc181SFNVSEwxY1ZLRW5HUzVremQxSDNmYjVFQW1lWXhvMWI1Vl9CWGFvdjNmZWpWem4ycXp3MHNoWkpaMWtmNTh2ZjVpbnU5STdPMEQzb1ZoRWduN3ZiamtucW9PeDRBa3pvcFd3TW5oaTlnRGZxUk1NX1ozNWtWcFlnSjUxSld6ZG9NZVJCSQ?oc=5",
+  "title": "Fabien Roussel : « Je mets en parallèle le gouvernement israélien de M. Netanyahu et le groupe terroriste du Hamas »",
+  "summary": "",
+  "published": "2026-10-07T09:00+02:00",
+  "mentions": [
+   "roussel"
+  ],
+  "analysis": [
+   {
+    "id": "roussel",
+    "tone": -2,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "37131e2a9e7bbfc6",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMimwNBVV95cUxQMTBTSi1kQ24ycmZFN0FLR0JldmxxU1lJZnVGNHQ5LWV0T0VXLS0zQ1plTG9Ed3lOZHN2dlV5RjdtWTdOSHdBSC1rXzNVMjJSNkxpeEFGdmpYRHU5VXpiN0hQZWF5cFRpSmFuOWFCZUhGZkN0SG13SnRyZWtNUzg0VTZoZnVmVy1hVlJrcjBEcWE1TG5KVVZIUmc2NFMzTWF5UUtNZjJIZWp0R29XWVljTmg2T2FRT01rcVNwYkFqSi1MdGtiYVVtMnpTaGZubWk2bm81MEFBRGIxeWlON1JuN3BQamNlNTRpTWsxUnVPeVBMa3A3dWNERGRnQ2sxWC1FdGl2UUdoM3U3ckNWT1FpQm5JY1AxNXExYUhwVEZkTEhTNUhEUmx4S1ZoTEw1aTZDUDlwRFh1MDRaUVoxY053VXVMWnYwZm5tRWc5S2U3TWhEekFkd3o5SmFBT19XVjRIbjZPeWxVLVNnbjNzek40aUdBc2JpSkdPdHRXTGVxQkF5Nk9RdFlXTXJaaGNCUVVlaUwtdGU0cEYxU00?oc=5",
+  "title": "7-Octobre: \"Nous devons avoir une pensée pour les plus de 1.200 victimes\", déclare Fabien Roussel, candidat PCF à la présidentielle, qui dénonce aussi \"un terrorisme d'État d'un gouvernement d'extrême droite, celui de monsieur Netanyahu\"",
+  "summary": "",
+  "published": "2026-10-07T09:00+02:00",
+  "mentions": [
+   "roussel"
+  ],
+  "analysis": [
+   {
+    "id": "roussel",
+    "tone": -2,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "42485b9d2c285808",
+  "outlet": "Libération",
+  "lean": "centre-gauche",
+  "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOdkE1dG8tc3N0NDhJa1hyM0tJYURQb1ZaWllIOXVPeTZ3QWpuUDZ2ZTBHRWZxNENONGtmN1dKclNaR0xLbEJaMFhjVVBGODZzWmFtbG9QMjhUMGgxdlBuSURmaEVRdW90Wk9JWURka3dhcGpranQydzMzNzVVNE1BcXBIeThQbFdvNnhmNWJnRjdvU0FnQXAwejQwWkRtTkRnU2g1Yk11d0dQbHYxMnl2dFBiSVdYT2JwdE9xelN4QTUtQkxPdHM1SlVCSVhxMUlFLTZKRDQ5WVQxeUl4cHV6MWVZZjNDQThqMDVTNGlSTkVXdzA4LTVJU05DazgwcjhVVEV2R0s5X3k1UHc3U0F2R1Y4SQ?oc=5",
+  "title": "«Il se passe quelque chose» : quand les partisans de David Lisnard veulent s’autopersuader de sa popularité",
+  "summary": "",
+  "published": "2026-10-07T09:00+02:00",
+  "mentions": [
+   "lisnard"
+  ],
+  "analysis": [
+   {
+    "id": "lisnard",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "45355152da308513",
+  "outlet": "TV Magazine",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOZExxdktQY0tMaE9tUVBwV1hXNVRUQlNacTdELXJueWoyQmkwWDR2VnVhaWJ6by05cjYyaXZtdHBEamdGZm0xTDVmblNfUzJZekk2czNuQ0J6dVhlQ0Q0Ym1xTWdmV0pyRkgweTlKbnFZQmV3Y09hOUVFZ3p4T1BxV2tYeWlqV2N4Y045cFpEWEZsSnJkcTJ6WWoyeEkyUVFLQmlHczdTZUhSNkxzR0EtVUlZbWxVdDZNY1JMWU5ETzNaek82TE0tUnNSN1VscDhaTjBoTElYeEZodGhYb2licnVYN0xHeWdRYzUzdW93Uk9fdw?oc=5",
+  "title": "«Ça ne sert à rien de me regarder avec un petit sourire» : Gabriel Attal malmené par Louise Montangon sur LCI",
+  "summary": "",
+  "published": "2026-10-07T09:00+02:00",
+  "mentions": [
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": -1,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "524e4632a178ff29",
+  "outlet": "Le Cercle Des Épargnants",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaDVzLUU5Z0lBNHgzZDljSkxkR2F0N3MwSlFNNjZKMldtUVduSTdHamJlblpvUmV2SnZyS2EzaTVDVWJlSDZRTE5UbktvUGRiVVhPMHRJWHJiMmM0THNFaEpyN2F2OXl3cjZYUTNaN1YtYlRtQzctbzduUFAzd09BWkJ1bkxrRG1QN054YllqcVFMaHJRNXIzNjczZTJYNFg3c18tSldsV2dvZk5pNnEwdDFzTW0xT2RJ?oc=5",
+  "title": "Raphaël Glucksmann prône un retour de la retraite à 62 ans",
+  "summary": "",
+  "published": "2026-10-07T09:00+02:00",
+  "mentions": [
+   "glucksmann"
+  ],
+  "analysis": [
+   {
+    "id": "glucksmann",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "59cbcc9704fd89a7",
+  "outlet": "Le Monde.fr",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQLXVHMUtsRTB6VVlka3gzTTdWXzgzLVpFODNka0sweGhnWG5tRVUyMTJtZGwxVWdiMGhRRW43VlpXSWM1Z19vdnpseG93X1VqdDl1OVE0V0oySGd4cU52OENsTmRxMmtpb0RKRmFhWFBaUDF0LTJlVTZWMHV0UGp6UWRvYnBldm90ZmdiMjBzVHQ5U2N0Q1p0T1NUTDVlOEs4aktKQ2tHd3NsSjBaSUQxOFVkcTdvUE9ITTVaNFo2ZUVycVRmOFhMUV9BcmUyRzRQR25WS2E4QTBXenBUTWxvWXVYc09MVHpiZmI0a3JTTW9udDJFeW1raHBzWGFXdldn?oc=5",
+  "title": "Présidentielle 2027 : les « mesures magiques » de Marine Le Pen pour convaincre de son sérieux budgétaire",
+  "summary": "",
+  "published": "2026-10-07T09:00+02:00",
+  "mentions": [
+   "lepen"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "5a57fc30103f6b8b",
@@ -276,17 +252,275 @@
   "published": "2026-10-07T09:00+02:00",
   "mentions": [
    "roussel"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "roussel",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
-  "id": "01696f8a77d6a196",
-  "outlet": "Mag'Centre",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPX1pydndianBfMmhMYVZJazMxaDJjcFVDTTRTdnA4R3dneEN0RWFhQjJyRHJwMXRkZklhLUpfM2VrNnhEUk9IalVGME1JSzRjaUVOdUlLWE9tTzhyZE9DUEJ6MENnX1RxZkdHRmFxRjBGWHFIeW9ub3BCcUVFOVRfNGlRcUxpdEdHaHpuSFh5T3FNUEFkSVdKdk1EcEwtTnN3SmpGYmh6WnFiZw?oc=5",
-  "title": "Lutte Ouvrière fait sa fête au capitalisme ce samedi à Fleury-les-Aubrais",
+  "id": "674d2c5a8288e75b",
+  "outlet": "Le Figaro",
+  "lean": "droite",
+  "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaVp3WUp2bzdiVlpkQ0NLa2ZNd1h6NHVXTGpzMmlvVFhwRklMWG5QU0pXT0FxbC13SlhMeHh6RFhPRDh3aC1lSktxUU5pZm5rMGI0THBrT3hGS1dXck1mZTdwdjlnemVwYnFsT21abFlLVkNveTZFS2xHT2xrSHRXZjVRczNzbUZJMUpPSnAzbDZXc0JnTDR2cXdiV1hSNHVSNmVTMTdWVTRlUXQ4c05hNkpYZ1AtajNMc3hUN2tWUQ?oc=5",
+  "title": "« Ce sera un grand test » : Édouard Philippe joue son « Heure de vérité »",
   "summary": "",
   "published": "2026-10-07T09:00+02:00",
-  "mentions": []
+  "mentions": [
+   "philippe"
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": -1,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "7e08e2c41f8f7f55",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPT0d3ZENmMXduYWYzbG1rU1J6VmdTcV9aUEFIZklYeXZNWVk5QkpsUzRLbHRHMWVWaml2QW5zaTZBdFNMbnU5RkxzU0hhYTJYU1NrREJlcGtFTjdrR1VrejBmcml2R3FoZUhQcDhkbFlRS3dmWUF2ejVnN1hqUlVwZU9GMmhacWVwY1RNTUtJM2VLYWtOaFBhZE9hUVRLbHJhUzVRaVdfZjlheUNVRVNoRWx4WWdRYjFneXA3YnJvbkVRbUhjRW1IMWswYkZkbW5VdHFBZzVFbkR5TkZpYWlLZjMyRU5aSWkwcFpBUzZNWU1TTG1xR1M2R1czeS1rUnRnYk5JQ3VJVk5pUGphNXM0V0pwTllmbDlqbEZHM0pjNmstYlhCX2JReFZ2XzFjcGJCQ3c?oc=5",
+  "title": "\"On ne tire pas de LBD, on ne tire pas de grenades contre nos enfants\", martèle Fabien Roussel, secrétaire national du PCF et candidat à la présidentielle",
+  "summary": "",
+  "published": "2026-10-07T09:00+02:00",
+  "mentions": [
+   "roussel"
+  ],
+  "analysis": [
+   {
+    "id": "roussel",
+    "tone": -1,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "7fae3f6a699cba75",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOMU9IYTlUbHFZX0FPc3VTZGgyTTNwQy03Q252VTVyTVNQNG45YUNLeWE1STFXUGNneDZmbnZzVHJGOVM0aGhHNDczNV8wS0s1WGpyM3JDQ3V3OWI2cjBSVnBEaVhEM1RBYlRnRWtBUnd1S0dwbHltdkptQjh5U3J4dmdNa252YzdMckgyZHlIUnpGdUxqdnpLTjBVVm91U250RjBlbXZ3MURQZmpHVDRobzNQUUUwaE5pVlJBQWFYbG1xb1FnOEE4eFEzMHlIVjFZcGk3WERXUDdweG10V1hqVVpYekRobnVW?oc=5",
+  "title": "Mobilisation lycéenne: \"Le malaise est profond\", analyse Fabien Roussel, secrétaire national du PCF",
+  "summary": "",
+  "published": "2026-10-07T09:00+02:00",
+  "mentions": [
+   "roussel"
+  ],
+  "analysis": [
+   {
+    "id": "roussel",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "8742e105a15607da",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQR3BjT3FnOTZ6S3lycFlCQUc1VlNQOW5DRFhFTlczZTJ1SjJMVW5SWHRCMFlZeGMyaUJab3lDZGhBMDJnUkRMUlk2Z19kM3FzSWJtRHVOb3VMWTkxM29vR0xTRi00SkZ2amVNVmpRbV9TSVZKdGZCaTQ1ZVpYcFRnMjA3WE96Ull5NEZTSDhsRWFYNlZYWEE4bXdydFFZNlpnZXNJM3VHM1FfOV84ZWtPYzdrOWxoRmxsOU9NWkVjaURLNnhqNzJ1Y0N4RnJSLVdQTnpYOG9kRFFRbzB1T19SancwR2pGeDZaTTR0NjhSVXhiMS05bVY2OWEySkJXT3RKYVZuUmhnNjBVTUN4QmJDNmNwQzlwM1pkRU55TVFzbWJRUENrQVloMGx3V0V3X2dQYVE?oc=5",
+  "title": "Présidentielle 2027: Jean-Luc Mélenchon estime que la mobilisation lycéenne est bénéfique au \"programme de rupture\" de la France insoumise",
+  "summary": "",
+  "published": "2026-10-07T09:00+02:00",
+  "mentions": [
+   "melenchon"
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": 0,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "8a4fb8b89b622ea8",
+  "outlet": "Facebook",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOSGhObmJadnFTRm5DUFRnZi1Yci1lWXdqZXo2UkNPX3lkSzQ3eG1Cajhvb0YwVW9OXzBITDNCVGFIWmVSd3FwQl81eWR3ZS1Md1VCclVzZHdfR0IzSjVMbllyTVZnNVNPUW1pM0pmT3h0dDRPcmpqRTRxeW80bV8zS2xpNFJ3OFl4ZXd3WTRhVTF5V3VYOGVpQUJaNk1zcXBNelFqMmhyWkpyT25uYUF1RmU4eE1HTUNHaXhONlVIRUFRNW5LUmRsTEtXaVFibVFPUG44cGJjeFBudm1WN2VR?oc=5",
+  "title": "\"Je ne me laisserai pas intimider\" : le gouverneur de la Banque de France répond aux propos de Jean-Luc Mélenchon à son sujet. ➡️ https://l.franceinter.fr/Msr",
+  "summary": "",
+  "published": "2026-10-07T09:00+02:00",
+  "mentions": [
+   "melenchon"
+  ],
+  "analysis": [
+   {
+    "id": "melenchon",
+    "tone": -1,
+    "frame": "international"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "8ae6d3fae3bf32f1",
+  "outlet": "Boursorama",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPMTdKM3JqV2IxRUdFbWgxUUdKM2VCUEV1UzdQWkxMUUFaSkdJcWRfTmFMR2RCVV9oUElaSm8xb3ZibEtDZFJtY09aczNYMno5QVp6VTdCSkFuZEo1TGFFY2tBZnRPWFZxN1g4UWFMU0gtZDFzTk5HMkhMV2ticFNfa25nQXVOZmpIQXNBX3hPZzhycWF2d1RMWnJxMG1uWEdCSngweGl5TEN5VFlnVWx1cXlBbWs1aldrQ3BkTTYtMnlCb09pRzFieDJzLUR0Wl9hYmluUm15cFRlRFJIUnpnU3dGb9IB6AFBVV95cUxOVDBLX08xbXVEekN1eDM4Qmh1a0dYTmRBeUM0aUlZaFFFR3RJZVgxU19MalkzRS13b0k1NXdSc2ZPTnB1SU5yLWYtTkxUc1I1aUNNaVplVXM3ZmlaT1dLVS0zQzVYRnUza1I2ZW11V1FRMUViWXoxTmRUN1E2SFhWUkpzNHliZXo4Smdwd0poa2FoZ2ZNSXRMZElNQURabWx3V0syX2RnUFliUlViLWprZFlLeDhXZ3ZXeGc3N1NuN3BNdWRZcUt6ZW1qMFhmVnVfQVhxNEV4Yk0zQ1pfZzd0bVVuVmhzdUdr?oc=5",
+  "title": "Présidentielle: Édouard Philippe au défi de l'enthousiasme",
+  "summary": "",
+  "published": "2026-10-07T09:00+02:00",
+  "mentions": [
+   "philippe"
+  ],
+  "analysis": [
+   {
+    "id": "philippe",
+    "tone": 0,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "8dbfe23eae9599ae",
+  "outlet": "Le Point",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNa3JzRmVOSFJ4NHAtcnBfS3JMeUxVX29IdWcyRnpfM3pHcmhSMU1Bc0xWMEdKYkwtNXo1YVhhQW85a2pTMmJjYUY4YmZfN2xsQ1MtTWV2Y0ZiSG95WVRDd0xTblRDcU5WTTV5c0Fpa0tvTTZkZFlBZ3RZUDRBM0tPVFlUckpGYUpnSFFjZ1lsOGRacTJlU09nUmhoLXlOYlo1TW12ZjhmbnppVHRkZ3BBbVI1WGU5WXlz?oc=5",
+  "title": "Comment Bruno Retailleau veut bloquer leurs candidatures",
+  "summary": "",
+  "published": "2026-10-07T09:00+02:00",
+  "mentions": [
+   "retailleau"
+  ],
+  "analysis": [
+   {
+    "id": "retailleau",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "8e05ec1909eb7b9d",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQXozajZlVHV5UDc4ZEgxc3VCNlVqUkZmbUJsSVJiaDB5U0t4d213dVB2Skk0dXV5Z0xybXRpMk9JX3d2MnhNRDBtWlJmRUVRVXIwbzlyN1RicWRKRnduWVZSY3NTTVB1M2h2dGk4YXlwYzk3eEUtaFQ3X1Jaa3dERjJrMzVyaGVUVk5WdlBHbTBmV0NWZjY5a1N1eTlDaFh5bHR3cEl2YmY3WE43VnNSbjVoRnFGeGoxbkU5Vi1Bcw?oc=5",
+  "title": "Fabien Roussel invité de Sonia Mabrouk - 07/10",
+  "summary": "",
+  "published": "2026-10-07T09:00+02:00",
+  "mentions": [
+   "roussel"
+  ],
+  "analysis": [
+   {
+    "id": "roussel",
+    "tone": 0,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "96711a7c106f6904",
+  "outlet": "TF1+",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQb0E3dEdXc19MNlVxaWtoRHg0UmxDQ2FDXzJ0WmczWkc2X0pyNXNJM29mVEdBOUtqQjIxYlRuZHpuN0NZUTNZSmpmVlFCbGRCcXpvSVRhTTlUcmNjanF6S2t1OUc1Wk5wSEJ1YmRwV0UyN196ekQ0ZndocVoxREZlaUZyOUFSYjJFanVLSEM1ekFlRXVSZnF3R1VqTmszMG5CRGFNWUJzMFBjb2toV2c1b2hhcld3SFVMZjNXTmVmSVFlT3JmRmtBWmlCczdUNTlJZFpSbHhmcU93SXdTUzhwTWo4NFFKSU0?oc=5",
+  "title": "19h30 Médias - Face aux lycéens, Gabriel Attal a pris des notes… et quelques claques",
+  "summary": "",
+  "published": "2026-10-07T09:00+02:00",
+  "mentions": [
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": -2,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "98daea377f9a4b65",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxObWJUQ2p4MFFUMS1LdnI4SGhtMEk5X0RiVkFsRUpEUXQxOVFIckZmUUtTbVBTbmdWcGtVZW1mbWJHWjVKUDIyVVppODR3bXhWVFo5SHJFb3pXTzRrYURIWjVpeFphS0c4Y3lUelVoNDNzcFRBMTJYZWdHMjlkdVNhUDdYc1BGakVlZm9aa0JRZ3JuZm8zMThfNzRRMFZUUGQ2RFJoY21JYmk2dnhIME5MQUxxeFdVREZxUmpUWE9mRi1zNFV4NjhqWWxEcGVuclpJTEpYNUpCN0xiNkRIQWoyWXpBc0xBR2J2RzRsUGpDQ0F0WXRzUmJQbTlTODdGYXJXc2lXQ0dGZl9rcFMwNWhlaGNzLV9ZNlFuTEVtSDNtVWZReGxPVlNBOWkyZ09vM1NQaE8waGg0Yi14Zw?oc=5",
+  "title": "\"Elles ont toutes refusé\": faute d'emprunt bancaire, Marine Le Pen voudrait autoriser les prêts de particuliers pour financer sa campagne",
+  "summary": "",
+  "published": "2026-10-07T09:00+02:00",
+  "mentions": [
+   "lepen"
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "b15e9831338606b4",
+  "outlet": "Sud Ouest",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPWDBtZXQ5QkRZTG1pb0E2RWNEa0E0bHczaHdndUlJZDZBa0Z3TUV5STRxMnJobHNsWFE1dVB5ZGlwVnYyYUtaWjBpb3BlV3FhazJUUFFNc0hTMGg1R0tFaEVRMmo4c2FuUk5VSFNnV0JfcDFaOW5NWE9VNVBwZWxWTlh0NDZvenlfMFFRdlFSa1VDYllDY1RLbkdEUXJERjV6bXcyeTNwYngyd2NETXFtYWxTZk4yOWg3d01UTUVzYmkxeDNtR3c1dnpBX2hFOF9XQUZMRENqdjZWbHQzT1Q1REtEdw?oc=5",
+  "title": "Blocus des lycéens : Éric Zemmour veut faire payer les « casseurs » et leurs parents « jusqu’à la nuit des temps »",
+  "summary": "",
+  "published": "2026-10-07T09:00+02:00",
+  "mentions": [
+   "zemmour"
+  ],
+  "analysis": [
+   {
+    "id": "zemmour",
+    "tone": 0,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "b19e7163340b9383",
+  "outlet": "Le Média",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVkFYdFpld0htSHZDSWZLUmhIZDR5ZWd2TldocGVGZmw2ZEV3cG9wV2xmV0NJbjBfZEFEbVo2clZkd2VicFM5ZXZTQ1F1RUNucGFQYS13bklmODcybXZCZmhWSGJzZU12S2ozRHM3dDV5MkVlTU5pZDdxZXpFUHdzaHZrSkR0SXBJdk1oUVgyb3V4dURMUEpRS1UtN0ZqZXQyTmR5UjlYMWtrMWdu?oc=5",
+  "title": "Alerte : Fabien Roussel est redevenu communiste",
+  "summary": "",
+  "published": "2026-10-07T09:00+02:00",
+  "mentions": [
+   "roussel"
+  ],
+  "analysis": [
+   {
+    "id": "roussel",
+    "tone": -1,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "bc7930745fe3ac6b",
+  "outlet": "TF1 Info",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdmRvTjZ2VGFDUGVZU19aWk9SSEZ3RnkxaXhuSUc3RzZLelJuR1o5ZU13V2dNNEs3eC1FUml6NTB2VmJvaFUyLXpHczU3SE5PYU4zTVRtRGdWYmg1NjVuc2pFNHFuM21paXpBS2dBS1RuNmFqdHhwNldXTDNva1FOd1JkYVFZOEFJdG95VDhfaV9TaEhBc0pmZlQ3WjRlZWlQMlZhZWp2ci1UdTlidGhKV0laNEQ3ZXFpTTBILW1MNm1CTFVxVEE?oc=5",
+  "title": "Une étudiante interpelle Gabriel Attal sur son bilan",
+  "summary": "",
+  "published": "2026-10-07T09:00+02:00",
+  "mentions": [
+   "attal"
+  ],
+  "analysis": [
+   {
+    "id": "attal",
+    "tone": -1,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "c3b45dc1de4901eb",
@@ -300,65 +534,25 @@
    "lepen",
    "zemmour",
    "ruffin"
-  ]
- },
- {
-  "id": "29427142ce523743",
-  "outlet": "La Montagne",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdWNjVGNZS0Z6LWNDMjc2bFlOZm5fbXAtcm1LR2N2cEFNSWdTaFBlYW8tX0lQZkVTWWxZeS1tZklzQUxJTWRoNm44YXRoVS1iSU9kZUVibjNaUUlUNFlCVEFsWVpDanBTUzlCNTlPWG44YkFtV3BQaVhiRHBTNmtmSU5DcHMzcU8zd24zR1k5WW12MVJOdnJCOVRMa28yXzlCMWt2XzFvSFcxWEdrdmdJZlJELW5UYThTMDZJaVFFaGRvVUxnbEJHRHJXbXB5OVp3ZE5kc1JJZ1Y?oc=5",
-  "title": "Le ballet des politiques sur le Sommet de l'élevage à Cournon en images",
-  "summary": "",
-  "published": "2026-10-07T09:00+02:00",
-  "mentions": []
- },
- {
-  "id": "98daea377f9a4b65",
-  "outlet": "BFM",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxObWJUQ2p4MFFUMS1LdnI4SGhtMEk5X0RiVkFsRUpEUXQxOVFIckZmUUtTbVBTbmdWcGtVZW1mbWJHWjVKUDIyVVppODR3bXhWVFo5SHJFb3pXTzRrYURIWjVpeFphS0c4Y3lUelVoNDNzcFRBMTJYZWdHMjlkdVNhUDdYc1BGakVlZm9aa0JRZ3JuZm8zMThfNzRRMFZUUGQ2RFJoY21JYmk2dnhIME5MQUxxeFdVREZxUmpUWE9mRi1zNFV4NjhqWWxEcGVuclpJTEpYNUpCN0xiNkRIQWoyWXpBc0xBR2J2RzRsUGpDQ0F0WXRzUmJQbTlTODdGYXJXc2lXQ0dGZl9rcFMwNWhlaGNzLV9ZNlFuTEVtSDNtVWZReGxPVlNBOWkyZ09vM1NQaE8waGg0Yi14Zw?oc=5",
-  "title": "\"Elles ont toutes refusé\": faute d'emprunt bancaire, Marine Le Pen voudrait autoriser les prêts de particuliers pour financer sa campagne",
-  "summary": "",
-  "published": "2026-10-07T09:00+02:00",
-  "mentions": [
-   "lepen"
-  ]
- },
- {
-  "id": "8a4fb8b89b622ea8",
-  "outlet": "Facebook",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOSGhObmJadnFTRm5DUFRnZi1Yci1lWXdqZXo2UkNPX3lkSzQ3eG1Cajhvb0YwVW9OXzBITDNCVGFIWmVSd3FwQl81eWR3ZS1Md1VCclVzZHdfR0IzSjVMbllyTVZnNVNPUW1pM0pmT3h0dDRPcmpqRTRxeW80bV8zS2xpNFJ3OFl4ZXd3WTRhVTF5V3VYOGVpQUJaNk1zcXBNelFqMmhyWkpyT25uYUF1RmU4eE1HTUNHaXhONlVIRUFRNW5LUmRsTEtXaVFibVFPUG44cGJjeFBudm1WN2VR?oc=5",
-  "title": "\"Je ne me laisserai pas intimider\" : le gouverneur de la Banque de France répond aux propos de Jean-Luc Mélenchon à son sujet. ➡️ https://l.franceinter.fr/Msr",
-  "summary": "",
-  "published": "2026-10-07T09:00+02:00",
-  "mentions": [
-   "melenchon"
-  ]
- },
- {
-  "id": "45355152da308513",
-  "outlet": "TV Magazine",
-  "lean": "non classé",
-  "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOZExxdktQY0tMaE9tUVBwV1hXNVRUQlNacTdELXJueWoyQmkwWDR2VnVhaWJ6by05cjYyaXZtdHBEamdGZm0xTDVmblNfUzJZekk2czNuQ0J6dVhlQ0Q0Ym1xTWdmV0pyRkgweTlKbnFZQmV3Y09hOUVFZ3p4T1BxV2tYeWlqV2N4Y045cFpEWEZsSnJkcTJ6WWoyeEkyUVFLQmlHczdTZUhSNkxzR0EtVUlZbWxVdDZNY1JMWU5ETzNaek82TE0tUnNSN1VscDhaTjBoTElYeEZodGhYb2licnVYN0xHeWdRYzUzdW93Uk9fdw?oc=5",
-  "title": "«Ça ne sert à rien de me regarder avec un petit sourire» : Gabriel Attal malmené par Louise Montangon sur LCI",
-  "summary": "",
-  "published": "2026-10-07T09:00+02:00",
-  "mentions": [
-   "attal"
-  ]
- },
- {
-  "id": "42485b9d2c285808",
-  "outlet": "Libération",
-  "lean": "centre-gauche",
-  "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOdkE1dG8tc3N0NDhJa1hyM0tJYURQb1ZaWllIOXVPeTZ3QWpuUDZ2ZTBHRWZxNENONGtmN1dKclNaR0xLbEJaMFhjVVBGODZzWmFtbG9QMjhUMGgxdlBuSURmaEVRdW90Wk9JWURka3dhcGpranQydzMzNzVVNE1BcXBIeThQbFdvNnhmNWJnRjdvU0FnQXAwejQwWkRtTkRnU2g1Yk11d0dQbHYxMnl2dFBiSVdYT2JwdE9xelN4QTUtQkxPdHM1SlVCSVhxMUlFLTZKRDQ5WVQxeUl4cHV6MWVZZjNDQThqMDVTNGlSTkVXdzA4LTVJU05DazgwcjhVVEV2R0s5X3k1UHc3U0F2R1Y4SQ?oc=5",
-  "title": "«Il se passe quelque chose» : quand les partisans de David Lisnard veulent s’autopersuader de sa popularité",
-  "summary": "",
-  "published": "2026-10-07T09:00+02:00",
-  "mentions": [
-   "lisnard"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   },
+   {
+    "id": "ruffin",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   },
+   {
+    "id": "zemmour",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  },
  {
   "id": "e37bb6fec61fdd9f",
@@ -370,6 +564,74 @@
   "published": "2026-10-07T09:00+02:00",
   "mentions": [
    "lepen"
-  ]
+  ],
+  "analysis": [
+   {
+    "id": "lepen",
+    "tone": -1,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "e3d8a2a41726a20c",
+  "outlet": "Europe 1",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQVWozNV9YY2otZzBRdDZnRUJSRVdaUFhMbkJieW5MTVhzMnRmQ2dzekFPNi01RUlsY1dSM3RVcUR3M09uMm9BLTRSWFQ0dnVpSGpYYm9XZkFpeTB2SWowd1FMbGc3ai1ZSm1uZnBuNWtqNEF2eGRGNFY5SHRIYXA2QUVDb3N0TU9CVUQ2X2Nac2hHZUJtaXUxQUNpZVNJOVliRHd0enhoay1Ca0NJWXFhb05TV1VKM3cxOFBtd2V5ekFmOVg4YTViUkNsNGRmSWM3MzhLeV9YaXVhVDjSAeABQVVfeXFMT0twSExsSk94MVVwU1lRQ0JZMnRuaUNaREtKTFpxSDZYYUhieTB0WDJuLVFFQ1VlUWgzUHBfSVhMdXFTUGFsc1ZSYzFYT0xwdXd5Vm1qdTNBbkJYeTBmZnp5cDJXN0s3WXA1ZXRDVnZmYWNUSEtjOU42ZEwyYlE0V29tMENLN0RaMEhwTFo0bWVzT0o5Q1VVdUFrUGVtNndDMXRRVlBJLVRrNDJWUlkxMkRyTkhOOFNBWlZmNDBvR1RfMXpKMU9KTTlwYTdvVjJPTWlpVE44eEdSeXp4clp0V2s?oc=5",
+  "title": "Blocus des lycées : Éric Zemmour veut faire payer les «casseurs» et leurs parents «jusqu'à la nuit des temps»",
+  "summary": "",
+  "published": "2026-10-07T09:00+02:00",
+  "mentions": [
+   "zemmour"
+  ],
+  "analysis": [
+   {
+    "id": "zemmour",
+    "tone": 0,
+    "frame": "polemique"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "e8e2e65e3f1db1ac",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPSFJJNTQxSGlnTlNFdXFVNkRuUkNGWDZkQ3FudTNiQWlzSTNWSmRqMjhLb0E2VENKTWtLNWlPelgya2w1OUY3UjJnZUdSUEhoNjFEcFNGV2VTbFR4SzlyeVJOSTBhaUx5aWg5MGFnVDdjZVE4UXBsNmFMdFdCRUtLYVJ4THc0bjhXd0xoTEZvemNqRl9YS2o0anRKNnZHbjhsc2RuN0QxbnhjTUs0bHdyZDFXREhIZktraGd1YzYtY3hzZkg0YzNUWkxoZG1oMnRIdFZ0a2JYeWtGU2ZybTJmYkw4amNKUDA4dmo2QXVvaFl1dDlUODc1ZVZEeWk3SjE2Wm5oZjRrdTREUQ?oc=5",
+  "title": "\"Il faut embaucher 24.000 enseignants\", soutient Fabien Roussel, secrétaire national du PCF et candidat à la présidentielle",
+  "summary": "",
+  "published": "2026-10-07T09:00+02:00",
+  "mentions": [
+   "roussel"
+  ],
+  "analysis": [
+   {
+    "id": "roussel",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
+ },
+ {
+  "id": "f90473487d879d05",
+  "outlet": "BFM",
+  "lean": "non classé",
+  "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdTVDN09ESzVlRTJWZ0JjUEU1dGNzdnpESWtjbnJQa1JjLWNkUHJ6Z1N4YlhUM0VkMDNNZFVuNEhvdkFGOFFQNFdla3czc1V6WEVDMG5YTDJ5YU1SWmxvZFVnQ1N0X2g4T2gzVHRCME50X0hoMFBUYTJZaU9PM21kZksxa211NXVna0tYU2VRcjZRQmNkWl9OVWtVaE0yNTM2bWNsSHR3c1lvQThnZVMzcGRoeWJGMkFiWkIzNWV4b1NlbWhZeE9kVlF3SHFPODNpdlRWdQ?oc=5",
+  "title": "Fabien Roussel, secrétaire national du PCF, craint \"un risque de pénurie\" de gazole",
+  "summary": "",
+  "published": "2026-10-07T09:00+02:00",
+  "mentions": [
+   "roussel"
+  ],
+  "analysis": [
+   {
+    "id": "roussel",
+    "tone": 0,
+    "frame": "strategie_alliances"
+   }
+  ],
+  "analysis_model": "ollama:qwen3.5:4b"
  }
 ]
