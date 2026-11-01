@@ -132,7 +132,7 @@ def build(root=Path(".")):
         if candidate not in surveyed:
             surveyed.append(candidate)
         for row in parse_markdown(path.read_text(encoding="utf-8"), candidate):
-            key = (row["candidate"], row["date"], row["title"])
+            key = (row["candidate"], row["station"], row["date"], row["title"])
             if key in seen:
                 continue
             seen.add(key)
