@@ -1,0 +1,190 @@
+# Dossier David Lisnard : émissions et articles depuis le 1er juillet 2026
+
+## Radio France
+
+Source : https://www.radiofrance.fr/personnes/david-lisnard (pages 1 et 2), relevé le 1er novembre 2026.
+
+| Date (2026) | Émission | Titre | David Lisnard au centre ? |
+|---|---|---|---|
+| 30 oct. | Le Billet politique (FC) | « C'est qui David Lisnard ? » | Oui |
+| 29 oct. | L'invité d'ICI matin, ICI Drôme Ardèche | Baisse des dotations aux collectivités : David Lisnard, candidat à la présidentielle, dénonce une « pompe infernale » | Oui |
+| 22 oct. | L'invité d'ICI matin, ICI Azur | « Comme avec les hooligans », David Lisnard propose « d'isoler les casseurs » en les mettant dans des centres fermés | Oui |
+| 16 oct. | L'info d'ici, ICI Azur | Présidentielle 2027 : David Lisnard, le maire de Cannes qui pourrait bousculer les favoris | Oui |
+| 15 oct. | Le petit carnet de campagne (FI) | David Lisnard : il se passe quelque chose (dans les sondages) | Oui |
+| 14 oct. | L'info de France Inter | Présidentielle 2027 : l'ascension fulgurante de David Lisnard sur les réseaux sociaux | Oui |
+| 1 oct. | Histoire politique (FI) | Javier Milei à Paris : les libéraux français sont-ils toujours fans de « Massacre à la tronçonneuse » ? | Non |
+| 27 août | Histoire politique (FI) | Héritages, successions, TVA (sociale)... Déjà la rentrée des taxes ? | Non |
+
+Total : 8 émissions (6 Oui, 0 Partiellement, 2 Non).
+
+## BFMTV (rubrique présidentielle)
+
+Source : https://www.bfmtv.com/politique/elections/presidentielle/ (pages 1 à 20), relevé le 1er novembre 2026.
+
+Limite : BFMTV n'a ni moteur de recherche ni page par personnalité. La rubrique ne remonte qu'à fin septembre 2026 ; les articles de juillet à septembre ne sont pas couverts.
+
+Méthode : le nom figure dans l'adresse de l'article, et le candidat est soit le premier nommé dans le titre, soit l'auteur des propos. Classement automatique à partir des adresses, à vérifier.
+
+Titres reconstitués à partir des adresses : accents et ponctuation absents.
+
+Total : 17 articles.
+
+| Date (2026) | Titre (adresse de l'article) |
+|---|---|
+| 10/10 | Vidéo : David Lisnard, candidat à la présidentielle, souhaite une primaire de la droite et du centre |
+| 10/10 | Vidéo : proposition d'une primaire de la droite et du centre pour 2027, « c'est encore organisable » |
+| 10/10 | Vidéo : mobilisation lycéenne, « il y a un problème d'efficacité dans le secteur de l'éducation »… |
+| 13/10 | « Ne faisons plus d'élections, faisons le Parcoursup des présidents » : David Lisnard répond à Édouard Philippe |
+| 13/10 | Vidéo : « Je ne crois pas à la possibilité d'Édouard Philippe de bien diriger le pays », réagit David Lisnard |
+| 13/10 | Vidéo : éducation, « le financement public doit suivre le choix des parents », affirme David Lisnard, candidat |
+| 13/10 | Vidéo : « Notre système éducatif est à bout de souffle », déclare David Lisnard, maire de Cannes et candidat |
+| 13/10 | Vidéo : colère lycéenne, David Lisnard, candidat à la présidentielle, estime qu'on ne peut pas incriminer… |
+| 20/10 | « J'en ai rien à cirer, j'étais pas né » : l'agacement de David Lisnard après avoir été interrogé… |
+| 22/10 | Après ses propos polémiques sur le 17 octobre 1961, David Lisnard assure avoir seulement refusé l'ins… |
+| 25/10 | Vidéo : présidentielle 2027, « aujourd'hui ni David Lisnard ni Bruno Retailleau ne sont en capacité de gagner »… (propos d'un autre) |
+| 27/10 | Vidéo : Louis Aliot, « David Lisnard et Bruno Retailleau peuvent nous rejoindre » |
+| 28/10 | Double casquette : Marc Fesneau dénonce le mélange des genres de David Lisnard, candidat et président de l'AMF |
+| 28/10 | Présidentielle 2027 : David Lisnard appelle Éric Ciotti à se séparer du RN et à le rejoindre |
+| 01/11 | Vidéo : « Positionnement vis-à-vis du RN, David Lisnard n'est pas très clair là-dessus », accuse Jean-François Copé |
+| 01/11 | Vidéo : présidentielle, « David Lisnard est le candidat de l'automne », pointe Jean-François Copé (propos d'un autre) |
+| 01/11 | Présidentielle 2027 : le député MoDem Marc Fesneau plaide pour une primaire… sans David Lisnard (propos d'un autre) |
+
+Note : les trois dernières lignes (01/11) citent David Lisnard sans qu'il soit le sujet principal ; à retirer si vous préférez.
+
+## Le Parisien
+
+Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=David+Lisnard, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.
+
+Total : 23 résultats depuis le 1er juillet, dont 22 où le candidat est au centre. Les 15 plus récents :
+
+| Date (2026) | Titre (adresse de l'article) |
+|---|---|
+| 01/11 | Présidentielle 2027 : Jean-François Copé accuse David Lisnard de ne pas être très clair sur sa ligne |
+| 31/10 | « Il a un parler vrai » : à la rencontre des nouveaux sympathisants de David Lisnard dans l'Allier |
+| 30/10 | Présidentielle 2027 : David Lisnard tiendra son premier grand meeting de campagne à Lyon en décembre |
+| 29/10 | Camps d'entraînement terroristes : des élus du plateau de Millevaches exigent la démission de David Lisnard |
+| 28/10 | Présidentielle 2027 : « J'appelle Éric Ciotti à me rejoindre et à se séparer du RN », David Lisnard |
+| 28/10 | « C'est Dr Jekyll et Mr Hyde » à l'Association des maires de France : David Lisnard fait polémique |
+| 28/10 | Présidentielle 2027 : une alliance avec David Lisnard, chacun doit faire sa campagne jusqu'à janvier |
+| 25/10 | Présidentielle 2027 : David Lisnard de nouveau devant Bruno Retailleau selon notre sondage |
+| 22/10 | Présidentielle 2027 : David Lisnard et Bruno Retailleau ont discuté d'une solution pour avoir une candidature… |
+| 22/10 | Présidentielle 2027 : Lisnard critiqué par plusieurs maires après ses propos polémiques sur le 17 octobre 1961 |
+| 21/10 | Qui est Lola Fleur Whittaker, cette étudiante proche de LFI dont l'échange tendu avec David Lisnard… |
+| 20/10 | Sondage présidentielle 2027 : à droite, David Lisnard au coude-à-coude avec Bruno Retailleau |
+| 20/10 | « Je m'en fous » : David Lisnard, agacé après avoir été interrogé sur le 17 octobre 1961 |
+| 15/10 | Présidentielle 2027 : David Lisnard devant Bruno Retailleau selon un sondage, le candidat LR répond… |
+| 10/10 | « Il a une popularité grandissante » : David Lisnard, le candidat qui ébranle la droite |
+
+Titres reconstitués à partir des adresses.
+
+### Le Parisien : liste complète depuis le 1er juillet 2026 (23 articles)
+
+Titres tels qu'ils figurent dans l'adresse (sans accents, tronqués à 90 caractères).
+
+| Date (2026) | Titre (adresse) |
+|---|---|
+| 01/11 | presidentielle 2027 jean francois cope accuse david lisnard de ne pas etre tres clair sur sa ligne |
+| 31/10 | il a un parler vrai a la rencontre des nouveaux sympathisants de david lisnard dans lallier |
+| 30/10 | presidentielle 2027 david lisnard tiendra son plus premier grand meeting de campagne a lyon en decembre |
+| 29/10 | camps dentrainement terroristes des elus du plateau de millevaches exigent la demission de david lisnard |
+| 28/10 | presidentielle 2027 jappelle eric ciotti a me rejoindre et a se separer du rn david lisnard passe a |
+| 28/10 | cest dr jekyll et mr hyde a lassociation des maires de france david lisnard fait polemique |
+| 28/10 | presidentielle 2027 une alliance avec david lisnard chacun doit faire sa campagne jusqua janvier |
+| 25/10 | presidentielle 2027 david lisnard de nouveau devant bruno retailleau selon notre sondage |
+| 22/10 | presidentielle 2027 david lisnard et bruno retailleau ont discute dune solution pour avoir une candidature |
+| 22/10 | presidentielle 2027 lisnard critique par plusieurs maires apres ses propos polemiques sur le 17 octobre 1961 |
+| 21/10 | presidentielle 2027 retailleau et lisnard a moins de 10 selon un sondage ciotti les appelle a se rallier |
+| 21/10 | qui est lola fleur whittaker cette etudiante proche de lfi dont lechange tendu avec david lisnard |
+| 20/10 | sondage presidentielle 2027 a droite david lisnard au coude a coude avec bruno retailleau |
+| 20/10 | je men fous david lisnard sagace apres avoir ete interroge sur le 17 octobre 1961 |
+| 15/10 | presidentielle 2027 david lisnard devant bruno retailleau selon un sondage le candidat lr repond |
+| 10/10 | il a une popularite grandissante david lisnard le candidat qui ebranle la droite |
+| 08/10 | presidentielle 2027 vraie remontada ou cote gonflee pourquoi david lisnard cartonne sur pmu |
+| 07/10 | presidentielle 2027 il se passe quelque chose ou la percee supposee de david lisnard |
+| 19/09 | apres des tweets racistes sur la liste de zidane un compte de soutien a david lisnard somme |
+| 14/09 | ecarte du zevent anti immigration admirateur de david lisnard qui est sardoche le streamer |
+| 02/09 | presidentielle 2027 le maire de cannes david lisnard assure avoir deja recueilli les 500 parrainages |
+| 25/08 | presidentielle 2027 le maire de cannes david lisnard relance lidee dune primaire de la droite |
+| 03/08 | presidentielle 2027 david lisnard accuse gabriel attal davoir repris ses idees et lui adresse |
+
+### Le Figaro : articles où le nom figure dans le titre ou le chapô, du 1er juillet au 1er novembre 2026
+
+Source : https://recherche.lefigaro.fr/recherche/david%20lisnard/?datemax=01-11-2026&datemin=01-07-2026 (231 résultats sur la période). Un article est compté si « Lisnard » figure dans son titre ou son chapô.
+
+Total : 73 articles.
+
+| Date (2026) | Titre |
+|---|---|
+| 31/10 | Présidentielle 2027 : Marc Fesneau (MoDem) veut une primaire mais sans David Lisnard |
+| 30/10 | Albert Zennou : « Présidentielle 2027, le moment David Lisnard, le doute Bruno Retailleau » |
+| 30/10 | « En décembre, les Français entreront de plein fouet dans la présidentielle » : David Lisnard prévoit un grand meeting |
+| 29/10 | « Oui, il se passe quelque chose » : Yves Thréard analyse la dynamique autour de David Lisnard dans les sondages |
+| 29/10 | « Je serais ravi de le voir au deuxième tour » : Patrick Sébastien votera pour David Lisnard |
+| 28/10 | « Il veut échanger sur son projet » : David Lisnard donne rendez-vous aux députés Les Républicains |
+| 28/10 | Présidentielle 2027 : David Lisnard appelle Éric Ciotti à le joindre, jugeant son programme « très éloigné du RN » |
+| 24/10 | « La lumière de la Méditerranée est vitale pour moi » : David Lisnard se raconte sur Le Figaro TV |
+| 23/10 | Mathieu Bock-Côté : « Du libéralisme qui vient » (chapô : Lisnard) |
+| 22/10 | Émeutes, crise financière, 2027, IA… Entretien avec David Lisnard, le candidat qui bouscule la droite |
+| 22/10 | David Lisnard se défend après ses propos sur le 17 octobre 1961 |
+| 22/10 | « J'assume de ne pas accepter l'utilisation mémorielle d'un drame » : David Lisnard se défend |
+| 22/10 | Laurent Frémont : « Lola-Fleur ou pourquoi la révolution reste une affaire de bourgeois » (chapô : Lisnard) |
+| 21/10 | « Éviter de finir ennemis » : dans les coulisses du déjeuner entre David Lisnard et Bruno Retailleau |
+| 21/10 | Robert Ménard au Figaro : « Bruno Retailleau et David Lisnard ne finiront pas à deux face aux Français » |
+| 21/10 | « Je suis endettée jusqu'au cou » : Lola-Fleur Whittaker répond aux critiques (chapô : Lisnard) |
+| 20/10 | Soutien de LFI, université à 30.000 euros… Qui est Lola-Fleur Whittaker, l'étudiante dont l'échange tendu avec David Lisnard |
+| 20/10 | 17 octobre 1961 : « J'en ai rien à cirer, j'étais pas né », réagit David Lisnard |
+| 20/10 | « La gauche de rupture » : les échanges musclés entre David Lisnard et l'étudiante Lola sur LCI |
+| 20/10 | Incendie de la mairie de Limoges : David Lisnard dénonce les « camps d'entraînement terroristes » sur le plateau de Millevaches |
+| 20/10 | David Lisnard dénonce les « camps d'entraînement terroristes sur le plateau de Millevaches », après l'incendie |
+| 20/10 | « Je m'en fous, votre rhétorique ne m'intéresse pas » : la réponse de Lisnard sur le 17 octobre 1961 |
+| 18/10 | « Nous sommes tous des Limougeauds aujourd'hui » : des milliers de personnes rassemblées après l'incendie de l'hôtel de ville (chapô : Lisnard) |
+| 16/10 | Présidentielle 2027 : Sarah Knafo assume ses divergences sur les questions régaliennes avec David Lisnard |
+| 16/10 | Sardoche : « Je veux faire comprendre aux Français qu'on s'est trop enfoncé dans le socialisme » (chapô : Lisnard) |
+| 15/10 | Guillaume Tabard : « David Lisnard face à Bruno Retailleau, du danger d'une confrontation à l'intérêt d'une addition » |
+| 15/10 | « Éviter la droite la plus bête du monde » : Bruno Retailleau et David Lisnard face au risque d'une déchirure interne |
+| 15/10 | Julien Aubert (LR) : « Il faut que Bruno Retailleau et David Lisnard s'entendent » |
+| 15/10 | Présidentielle 2027 : « Les sondages n'ont aucun impact sur ma détermination », balaie Bruno Retailleau (chapô : Lisnard) |
+| 14/10 | Présidentielle 2027 : David Lisnard double Bruno Retailleau à droite, selon un sondage |
+| 14/10 | « C'est juste fou » : David Lisnard, les coulisses d'une accélération |
+| 13/10 | « Vous n'êtes pas du matin ? » : David Lisnard recadré par Apolline de Malherbe en direct sur BFMTV |
+| 13/10 | « Est-ce qu'il faut pas être du matin pour présider la France ? » : Apolline de Malherbe épingle David Lisnard |
+| 09/10 | « Le pouvoir peut rendre fou et con », David Lisnard se confie dans « Empreintes » |
+| 09/10 | « Il se passe quelque chose » autour de David Lisnard… Les indiscrets du Figaro |
+| 09/10 | « Empreintes » : David Lisnard évoque les dérives du pouvoir |
+| 09/10 | « Le pouvoir peut rendre fou et con », David Lisnard se confie dans « Empreintes » |
+| 30/09 | « Cette impuissance rend les Français dingues » : 7 500 euros d'amende requis contre Robert Ménard (chapô : Lisnard) |
+| 29/09 | Assurance vie, PEA, retraite : ce que proposent sept candidats à la présidentielle sur l'épargne (chapô : Lisnard) |
+| 29/09 | « Il n'était même pas censé être en France » : Robert Ménard jugé à Montpellier (chapô : Lisnard) |
+| 29/09 | Présidentielle 2027 : le système actuel des retraites est « devenu une pyramide de Ponzi », lance David Lisnard |
+| 29/09 | Ciotti, Lisnard, Kasbarian… Le modèle Milei infuse dans la classe politique française |
+| 26/09 | David Lisnard : « Pourquoi tous les Français sont les héritiers du christianisme » |
+| 22/09 | « Décennie de la décadence… » : sans attendre le contenu du budget 2027, les maires de France sonnent l'alarme (chapô : Lisnard) |
+| 19/09 | Dans le monde rouge de Twitch, Sardoche, le streamer « libertarien » qui rêve d'union des droites (chapô : Lisnard) |
+| 16/09 | Frank Tapiro : « Pourquoi Attal et Philippe ont plus besoin d'une primaire que Lisnard » |
+| 11/09 | « Une cabale » : Éric Ciotti, Bernard de La Villardière et David Lisnard apportent leur soutien à Sonia Mabrouk |
+| 10/09 | En parallèle de la présidentielle, la campagne de David Lisnard pour rester à la tête des maires de France |
+| 10/09 | David Lisnard au Figaro : « Je veux poursuivre notre action à la tête des maires de France » |
+| 09/09 | Présidentielle 2027 : Bruno Retailleau et David Lisnard rejettent l'invitation d'Édouard Philippe et maintiennent leur candidature |
+| 09/09 | Guillaume Tabard : « À défaut de réaliser l'union de la droite et du centre, se montrer unitaire » (chapô : Lisnard) |
+| 09/09 | David Lisnard estime que la proposition de réunion d'Édouard Philippe est un « arrangement entre notables » |
+| 08/09 | Présidentielle 2027 : David Lisnard balaye la proposition d'un « comité » de tous les partis de la droite et du centre |
+| 08/09 | « Le temps presse » : dans un courrier à Retailleau, Philippe, Attal et Lisnard, Hervé Morin exhorte les candidats |
+| 03/09 | David Lisnard souhaite « rétablir le délit de séjour illégal » en France |
+| 03/09 | Présidentielle 2027 : David Lisnard veut « rétablir le délit de séjour illégal en France » |
+| 02/09 | « De ce point de vue-là, on est tranquille » : David Lisnard assure avoir déjà recueilli 500 promesses de parrainages |
+| 31/08 | Éric Ciotti, David Lisnard, Chantal Ladesou… Politiques, journalistes et acteurs rendent hommage à Philippe Bouvard |
+| 31/08 | Éric Ciotti, David Lisnard, Chantal Ladesou... Politiques, journalistes et acteurs rendent hommage à Philippe Bouvard |
+| 29/08 | « Il faut éliminer les macronistes » : David Lisnard veut une compétition à droite avant le 1er tour |
+| 29/08 | Présidentielle 2027 : à Cannes, la figure du patronat français Pierre Gattaz assume des convergences avec le projet de Lisnard (chapô : Lisnard) |
+| 28/08 | « C'est à ceux qui la refusent de se justifier » : David Lisnard défend une primaire de la droite et du centre |
+| 25/08 | Présidentielle 2027 : David Lisnard relance l'idée d'une primaire, rappelant qu'« aucun candidat naturel ne s'impose » |
+| 22/08 | Piratage du fisc : Lisnard et Knafo réclament la suspension de la facturation électronique |
+| 22/08 | David Lisnard et Sarah Knafo réclament la suspension de la facturation électronique après le récent piratage du fisc |
+| 20/08 | Présidentielle 2027 : les taux d'emprunt explosent et font réagir les politiques (chapô : Lisnard) |
+| 05/08 | Présidentielle 2027 : Bruno Retailleau et David Lisnard, un siège pour deux candidats |
+| 03/08 | Présidentielle 2027 : David Lisnard accuse Gabriel Attal de plagiat sur son projet institutionnel |
+| 03/08 | Présidentielle 2027 : David Lisnard reproche à Gabriel Attal d'avoir copié son projet institutionnel |
+| 02/08 | Sénatoriales 2026 : à Marseille, David Lisnard va soutenir Valérie Boyer face à Renaud Muselier |
+| 30/07 | Ciotti, Estrosi, Lisnard et les Tabarot : l'Orly-Nice, le vol qui fait l'union et la désunion des droites |
+| 03/07 | À Saint-Raphaël, David Lisnard promet l'avènement de la « grande France » |
+| 01/07 | Présidentielle : le préfet Philippe Castanet, homme de « solutions », va diriger la campagne de David Lisnard |
