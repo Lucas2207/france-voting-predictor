@@ -1074,14 +1074,15 @@ const heatText = (/** @type {number} */ t) => !dark || t >= 0.55 ? '#0F172A' : '
 /** @type {Record<string, { axis: 'rows' | 'cols' | 'alpha', key: string, dir: 'asc' | 'desc' }>} */
 const matrixSort = {};
 
-/** Flèches de tri : ▲ croissant, ▼ décroissant. Mise en évidence de la flèche active.
+/** Boutons de tri : ▲ croissant, ▼ décroissant (A→Z et Z→A pour l'ordre alphabétique). Bouton actif en couleur.
  * @param {string} id @param {'rows' | 'cols' | 'alpha'} axis @param {string} key */
 function sortArrows(id, axis, key) {
   const st = matrixSort[id];
   const active = (/** @type {string} */ dir) => st && st.axis === axis && st.key === key && st.dir === dir;
-  const arrow = (/** @type {string} */ dir, /** @type {string} */ glyph) =>
-    `<button type="button" data-matrix="${esc(id)}" data-axis="${axis}" data-key="${esc(key)}" data-dir="${dir}" aria-label="${dir}" class="px-0.5 leading-none ${active(dir) ? 'text-indigo-600 font-bold' : 'text-slate-400 hover:text-slate-900'}">${glyph}</button>`;
-  return `<span class="inline-flex flex-col items-center text-[9px] ml-1 align-middle">${arrow('asc', '▲')}${arrow('desc', '▼')}</span>`;
+  const button = (/** @type {string} */ dir, /** @type {string} */ glyph) =>
+    `<button type="button" data-matrix="${esc(id)}" data-axis="${axis}" data-key="${esc(key)}" data-dir="${dir}" aria-label="${dir === 'asc' ? 'croissant' : 'décroissant'}" class="w-6 h-5 rounded border text-[11px] font-bold leading-none ${active(dir) ? 'bg-indigo-600 border-indigo-600 text-white' : 'bg-white border-slate-300 text-slate-600 hover:bg-slate-100'}">${glyph}</button>`;
+  const alpha = axis === 'alpha';
+  return `<span class="inline-flex gap-0.5 ml-1 align-middle">${button('asc', alpha ? 'A' : '▲')}${button('desc', alpha ? 'Z' : '▼')}</span>`;
 }
 
 /**
