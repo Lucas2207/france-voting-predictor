@@ -28,7 +28,7 @@ class RadioFranceTest(unittest.TestCase):
         self.assertEqual(rows[2]["subject"], "non")
 
     def test_franceinfo_suffix_in_lowercase(self):
-        text = "| 1 juil. 2026 | L'édito politique (franceinfo) | Présidentielle 2027 | Oui |"
+        text = "| Date | Émission | Titre | Mélenchon au centre ? |\n| 1 juil. 2026 | L'édito politique (franceinfo) | Présidentielle 2027 | Oui |"
         rows = radio_france.parse_markdown(text, "melenchon")
         self.assertEqual(rows[0]["station"], "franceinfo")
         self.assertEqual(rows[0]["emission"], "L'édito politique")
