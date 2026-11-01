@@ -209,10 +209,6 @@ def main():
                 if day < START_DATE.isoformat():
                     continue
                 arts = news.load_day(day)
-                n = analyze.score_articles(arts, candidates, client)
-                if n:
-                    news.save_day(day, arts)
-                    print(f"   {day} : {n} articles analysés")
                 if day >= today.isoformat():
                     continue
                 # événements et interviews : chaque journée terminée une seule fois
@@ -312,7 +308,7 @@ def main():
         },
         "parameters": {k: getattr(model, k) for k in (
             "POLL_WINDOW", "POLL_HALF_LIFE", "MEDIA_RECENT", "MEDIA_BASELINE",
-            "MEDIA_MIN_ARTICLES", "MEDIA_BETA", "MEDIA_CAP")},
+            "MEDIA_MIN_ARTICLES")},
     }
     _save(OUTPUT, output)
     print(f"✅ {OUTPUT} écrit : {len(projection)} candidats, {len(history)} jours d'historique, "

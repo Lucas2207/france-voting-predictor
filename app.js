@@ -2,12 +2,12 @@
  * Schéma de live_data.json (produit par `python -m pipeline`).
  * @typedef {{ id: string, name: string, wiki: string, party: string, badge: string, color: string, main: boolean, aliases: string[] }} Candidate
  * @typedef {{ id: string, name: string, badge: string, color: string }} Party
- * @typedef {{ articles_7d: number, share_7d: number, tone_7d: number | null, tone_baseline: number | null, adjustment: number, status: 'ok' | 'calibrage' | 'trop_peu_articles' }} MediaSignal
+ * @typedef {{ articles_7d: number, share_7d: number, adjustment: number, status: 'ok' | 'trop_peu_articles' }} MediaSignal
  * @typedef {{ id: string, poll_avg: number, poll_lo: number, poll_hi: number, n_polls: number, change_7d: number | null, media: MediaSignal, projected: number, projected_lo: number, projected_hi: number }} Projection
  * @typedef {{ mean: number, lo: number, hi: number, n_polls: number }} PollAverage
  * @typedef {{ date: string, polls: Record<string, PollAverage> }} HistoryEntry
  * @typedef {{ pollster: string, end_date: string, sample: number | null, url: string | null, scores: Record<string, number>, scenarios: number }} Poll
- * @typedef {{ date: string, candidates: Record<string, { articles: number, tone: number }> }} MediaDay
+ * @typedef {{ date: string, candidates: Record<string, { articles: number }> }} MediaDay
  * @typedef {{ outlet: string, title: string, url: string }} SourceLink
  * @typedef {{ date: string, title: string, description: string, category: string, candidates: string[], origin: 'presse' | 'wikipedia', sources: SourceLink[] }} CampaignEvent
  * @typedef {{ outlet: string, ok: boolean, lean?: string, items?: number, error?: string }} FeedStatus
@@ -25,7 +25,7 @@
  * @typedef {{ period: string, fetched: string, total_tv: number | null, shares: Record<string, number> }} TvWeek
  * @typedef {{ id: string, name: string, platforms: Record<string, number>, total: number }} PartyPage
  * @typedef {{ video_id: string, title: string, channel: string, published: string, candidates: string[], views: number, url: string }} OwnVideo
- * @typedef {{ last_updated: string, own_videos: OwnVideo[], party_pages: PartyPage[], tv_weekly: TvWeek | null, today: string, candidates: Candidate[], parties: Party[], influencers: Influencer[], youtube: YouTube, projection: Projection[], history: HistoryEntry[], polls: Poll[], media_daily: MediaDay[], media_by_outlet: Record<string, Record<string, { tone: number, n: number }>>, events: CampaignEvent[], followers: Followers, interviews: Interview[], interview_summary: InterviewSummary, interviews_found: InterviewFound[], sources: Sources, parameters?: Record<string, number> }} LiveData
+ * @typedef {{ last_updated: string, own_videos: OwnVideo[], party_pages: PartyPage[], tv_weekly: TvWeek | null, today: string, candidates: Candidate[], parties: Party[], influencers: Influencer[], youtube: YouTube, projection: Projection[], history: HistoryEntry[], polls: Poll[], media_daily: MediaDay[], media_by_outlet: Record<string, Record<string, number>>, events: CampaignEvent[], followers: Followers, interviews: Interview[], interview_summary: InterviewSummary, interviews_found: InterviewFound[], sources: Sources, parameters?: Record<string, number> }} LiveData
  */
 
 /** @type {LiveData} */
@@ -213,12 +213,6 @@ function renderHeader() {
 }
 
 /** Méthodologie : générée à partir des traductions, avec les paramètres du modèle. */
-/** Qui a noté la tonalité, d'après sources.analysis_models (Claude et/ou modèle local). @returns {string} */
-function analystLabel() {
-  const models = Object.keys((data.sources && data.sources.analysis_models) || {});
-  const names = models.map(m => m.startsWith('ollama:') ? `${m.slice('ollama:'.length)} (${t('tone.local')})` : 'Claude (Anthropic)');
-  return [...new Set(names)].join(' + ') || 'Claude (Anthropic)';
-}
 
 function renderMethodology() {
   const src = data.sources || {};
@@ -227,7 +221,7 @@ function renderMethodology() {
   const paragraphs = ['method.polls', 'method.media', 'method.projection', 'method.followers', 'method.candidates',
     'method.youtube', 'method.interviews', 'method.limits', 'method.emblem'];
   const params = {
-    sourceLink: link, beta: fmt(p.MEDIA_BETA ?? 1.5), cap: fmt(p.MEDIA_CAP ?? 2, 0), analyst: analystLabel(),
+    sourceLink: link,
   };
   $('methodologyBody').innerHTML = paragraphs.map(k => `<p>${t(k, params)}</p>`).join('');
 }
@@ -678,11 +672,7 @@ function renderYouTubeTable(id, series, prefix, charts) {
 }
 
 function renderProjection() {
-  const statuses = new Set(data.projection.map(p => p.media.status));
-  const since = data.sources?.media_since;
-  $('mediaStatus').textContent = statuses.has('calibrage')
-    ? t('proj.calib', { since: since ? shortDate(since) : '—' })
-    : t('proj.active');
+  $('mediaStatus').textContent = t('proj.noadj');
 
   $('projectionBody').innerHTML = data.projection.map(p => {
     const c = candById[p.id];
@@ -691,9 +681,6 @@ function renderProjection() {
     const chCls = ch != null && ch > 0.2 ? 'text-[#1d5fb0]' : ch != null && ch < -0.2 ? 'text-[#c62f2e]' : 'text-slate-500';
     const lowN = p.n_polls < 5
       ? ` <span class="block text-[10px] text-amber-700">${t('proj.lowN', { n: p.n_polls })}</span>` : '';
-    const adj = m.status === 'ok'
-      ? signed(m.adjustment)
-      : `0 <span class="text-[10px]">(${m.status === 'calibrage' ? t('proj.adj.calib') : t('proj.adj.few')})</span>`;
     return `<tr class="border-b border-slate-100 hover:bg-slate-50">
       <td class="py-2 pr-3 font-semibold text-slate-900 whitespace-nowrap"><span class="inline-block w-2.5 h-2.5 rounded-full mr-1.5 align-middle" style="background:${c.color}" aria-hidden="true"></span>${esc(c.name)} <span class="text-[11px] font-medium text-slate-400">${esc(c.badge)}</span></td>
       <td class="py-2 px-3 text-right">${fmt(p.poll_avg)} %</td>
@@ -701,8 +688,6 @@ function renderProjection() {
       <td class="py-2 px-3 text-right ${chCls}">${signed(ch)}</td>
       <td class="py-2 px-3 text-right">${m.articles_7d}</td>
       <td class="py-2 px-3 text-right">${m.articles_7d ? fmt(m.share_7d * 100, 0) + ' %' : '—'}</td>
-      <td class="py-2 px-3 text-right">${signed(m.tone_7d, 2)}</td>
-      <td class="py-2 px-3 text-right text-slate-500">${adj}</td>
       <td class="py-2 pl-3 text-right font-extrabold text-slate-900">${fmt(p.projected)} %</td>
     </tr>`;
   }).join('');
@@ -993,37 +978,40 @@ function focusSeries(chart, index) {
 
 // Diverging bleu <-> rouge, milieu gris neutre
 /** @param {number} t */
-function toneColor(t) {
-  /** @param {number} a @param {number} b @param {number} k */
-  const lerp = (a, b, k) => Math.round(a + (b - a) * k);
-  const mid = [240, 239, 236], neg = [227, 73, 72], pos = [42, 120, 214];
-  const k = Math.min(1, Math.abs(t) / 2);
-  const end = t < 0 ? neg : pos;
-  return `rgb(${lerp(mid[0], end[0], k)}, ${lerp(mid[1], end[1], k)}, ${lerp(mid[2], end[2], k)})`;
+
+/** Couleur d'une case : du bleu froid (peu d'articles) au rouge chaud (beaucoup). @param {number} t entre 0 et 1 */
+function heatColor(t) {
+  const cold = [220, 233, 248];
+  const hot = [232, 85, 61];
+  const [r, g, b] = cold.map((v, i) => Math.round(v + (hot[i] - v) * t));
+  return `rgb(${r}, ${g}, ${b})`;
 }
 
+/** Nombre d'articles de chaque média retenu qui citent chaque candidat (présence, sans tonalité). */
 function renderOutlets() {
   const table = $('outletTable');
   const matrix = data.media_by_outlet || {};
-  const byModel = (data.sources && data.sources.analysis_models) || {};
-  const analysed = Object.values(byModel).reduce((a, b) => a + b, 0);
-  $('toneSource').textContent = analysed ? t('tone.source', { analyst: analystLabel(), n: analysed }) : '';
   const outlets = Object.keys(matrix);
   if (!outlets.length) {
-    table.innerHTML = `<tr><td class="text-slate-400 py-2">${t('tone.none')}</td></tr>`;
+    table.innerHTML = `<tr><td class="text-slate-400 py-2">${t('exposure.none')}</td></tr>`;
     return;
   }
-  const ids = data.projection.map(p => p.id).filter(id => outlets.some(o => matrix[o][id]));
-  const leanOf = Object.fromEntries((data.sources.feeds || []).map(f => [f.outlet, f.lean]));
-  table.innerHTML = `<thead><tr><th class="text-left pr-3 py-1 text-slate-500">Média</th>${ids.map(id =>
-    `<th class="px-1 py-1 text-slate-600 font-semibold whitespace-nowrap">${esc(candById[id].name.split(' ').slice(-1)[0])}</th>`).join('')}</tr></thead>
-    <tbody>${outlets.map(o => `<tr><td class="pr-3 py-0.5 font-semibold text-slate-700 whitespace-nowrap">${esc(o)}${leanOf[o] ? ` <span class="font-normal text-[10px] text-slate-400">${esc(t('lean.' + leanOf[o]))}</span>` : ''}</td>${ids.map(id => {
-      const v = matrix[o][id];
-      if (!v) return '<td class="px-1 py-0.5"><div class="h-8 w-16 rounded bg-white border border-slate-100"></div></td>';
-      const dark = Math.abs(v.tone) > 1.1;
-      return `<td class="px-1 py-0.5"><div class="h-8 w-16 rounded flex items-center justify-center ${dark ? 'text-white' : 'text-slate-800'}"
-        style="background:${toneColor(v.tone)}" title="${esc(t('tone.cell', { outlet: o, name: candById[id].name, tone: signed(v.tone, 2), n: v.n, unit: t('unit.article', { n: v.n }) }))}">${signed(v.tone, 1)} <span class="opacity-70 ml-0.5">(${v.n})</span></div></td>`;
-    }).join('')}</tr>`).join('')}</tbody>`;
+  const totalOf = (/** @type {string} */ o) => Object.values(matrix[o]).reduce((x, y) => x + y, 0);
+  outlets.sort((x, y) => totalOf(y) - totalOf(x));
+  const max = Math.max(1, ...outlets.flatMap(o => Object.values(matrix[o])));
+  table.innerHTML = `<thead><tr class="text-[10px] uppercase tracking-wider text-slate-500 border-b border-slate-200">
+      <th class="px-2 py-1 text-left">${t('exposure.th.media')}</th>
+      ${data.candidates.map(c => `<th class="px-2 py-1 text-right whitespace-nowrap" title="${esc(c.name)}">${esc(c.badge)}</th>`).join('')}
+      <th class="px-2 py-1 text-right">${t('exposure.th.total')}</th></tr></thead>
+    <tbody>${outlets.map(o => `<tr class="border-b border-slate-100">
+      <td class="px-2 py-1 font-semibold whitespace-nowrap">${esc(o)}</td>
+      ${data.candidates.map(c => {
+        const n = matrix[o][c.id] || 0;
+        return n
+          ? `<td class="px-2 py-1 text-right font-semibold text-slate-900" style="background:${heatColor(n / max)};color:#0F172A">${n}</td>`
+          : `<td class="px-2 py-1 text-right text-slate-300">—</td>`;
+      }).join('')}
+      <td class="px-2 py-1 text-right font-bold">${totalOf(o)}</td></tr>`).join('')}</tbody>`;
 }
 
 function renderEvents() {

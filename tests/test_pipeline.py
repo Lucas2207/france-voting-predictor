@@ -67,17 +67,21 @@ class MediaModelTest(unittest.TestCase):
                        for i in range(n)]
         return days
 
-    def test_adjustment_follows_tone_change_and_is_capped(self):
-        sig = model.media_signal(self._days(1, 0), "x", date(2026, 10, 27))
-        self.assertEqual(sig["status"], "ok")
-        self.assertEqual(sig["adjustment"], model.MEDIA_BETA)
-        sig = model.media_signal(self._days(2, -2), "x", date(2026, 10, 27))
-        self.assertEqual(sig["adjustment"], model.MEDIA_CAP)
-
-    def test_no_adjustment_during_calibration(self):
-        days = {"2026-10-27": [{"outlet": "M", "analysis": [{"id": "x", "tone": 2, "frame": "autre"}]}]}
+    def test_exposure_counts_only_retained_outlets_and_no_adjustment(self):
+        days = {}
+        for offset in range(0, 10):
+            d = date.fromordinal(date(2026, 10, 27).toordinal() - offset).isoformat()
+            days[d] = [{"outlet": "Le Monde", "mentions": ["x"]}, {"outlet": "Le Monde", "mentions": ["x"]},
+                       {"outlet": "Blog inconnu", "mentions": ["x"]}]
         sig = model.media_signal(days, "x", date(2026, 10, 27))
-        self.assertEqual(sig["status"], "calibrage")
+        self.assertEqual(sig["articles_7d"], 14)
+        self.assertEqual(sig["status"], "ok")
+        self.assertEqual(sig["adjustment"], 0.0)
+
+    def test_few_articles_are_flagged(self):
+        days = {"2026-10-27": [{"outlet": "Le Monde", "mentions": ["x"]}]}
+        sig = model.media_signal(days, "x", date(2026, 10, 27))
+        self.assertEqual(sig["status"], "trop_peu_articles")
         self.assertEqual(sig["adjustment"], 0.0)
 
 
