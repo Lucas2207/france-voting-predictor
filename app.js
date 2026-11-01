@@ -1039,10 +1039,12 @@ function candidateHead(c) {
     : `<span class="block">${esc(first)}</span>${party}`;
 }
 
-/** Échelle de couleur des cases, du faible (bleu nuit) au fort (pêche), en passant par le violet et le bordeaux.
+/** Échelle de couleur des cases, du faible au fort. Clair : teintes pâles. Sombre : teintes qui ressortent sur fond sombre.
  * @param {number} t entre 0 et 1 */
 function heatColor(t) {
-  const stops = [[35, 42, 74], [26, 11, 46], [122, 26, 58], [182, 90, 78], [245, 168, 110]];
+  const stops = dark
+    ? [[59, 74, 122], [122, 46, 90], [245, 168, 110]]
+    : [[220, 230, 245], [196, 204, 230], [240, 163, 178], [251, 201, 143]];
   const x = Math.min(1, Math.max(0, t)) * (stops.length - 1);
   const i = Math.min(stops.length - 2, Math.floor(x));
   const f = x - i;
@@ -1050,8 +1052,8 @@ function heatColor(t) {
   return `rgb(${r}, ${g}, ${b})`;
 }
 
-/** Texte lisible sur la case : clair sur les teintes sombres, foncé sur les teintes chaudes. @param {number} t */
-const heatText = (/** @type {number} */ t) => t < 0.55 ? '#F8FAFC' : '#0F172A';
+/** Texte lisible sur la case : foncé en mode clair, et sur les teintes chaudes en mode sombre. @param {number} t */
+const heatText = (/** @type {number} */ t) => !dark || t >= 0.55 ? '#0F172A' : '#F8FAFC';
 
 /** Nombre d'articles de chaque média retenu qui citent chaque candidat (présence, sans tonalité). */
 /** Tri des matrices : axe (« rows » = lignes triées par une colonne, « cols » = colonnes triées par une ligne). */
