@@ -166,13 +166,14 @@
       </details>
     </div>
 
-    <!-- Exposition médiatique : nombre d'articles par média et par candidat -->
-    <details class="bg-white p-6 rounded-2xl shadow-sm border border-slate-200 space-y-3 group">
+    <!-- Exposition médiatique : section en pause (grisée), données non mises à jour -->
+    <details class="bg-white p-6 rounded-2xl shadow-sm border border-slate-200 space-y-3 group opacity-50 grayscale">
       <summary class="cursor-pointer list-none flex items-center justify-between gap-3 focus-visible:outline focus-visible:outline-2 focus-visible:outline-indigo-600 rounded-lg">
         <span class="text-base font-bold text-slate-900" data-i18n="exposure.title">Articles par média et par candidat (depuis le 1er juillet 2026)</span>
         <span class="text-xs font-bold text-indigo-600 transition group-open:rotate-180" aria-hidden="true">▼</span>
       </summary>
       <div class="mt-4 space-y-4">
+        <p class="text-[11px] font-semibold text-slate-700" data-i18n="exposure.paused">Section en pause : données non mises à jour.</p>
         <p class="text-[11px] text-slate-500" data-i18n="exposure.help">Nombre d'articles de chaque média retenu qui citent le candidat. Il s'agit d'une mesure de présence, sans notation de la tonalité.</p>
         <div class="overflow-x-auto"><table class="text-xs num" id="outletTable"></table></div>
         <div class="flex items-center gap-2 text-[11px] text-slate-500" aria-hidden="true">
