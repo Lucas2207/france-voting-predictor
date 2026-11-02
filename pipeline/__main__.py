@@ -287,7 +287,7 @@ def main():
         "media_daily": model.daily_media(days, candidates),
         "media_monthly": model.monthly_subjects(days, candidates),
         "interviews_found": interview_titles.find_interviews(days, candidates),
-        "radio_france": survey,
+        "medias_candidats": survey,
         "media_by_outlet": model.outlet_matrix(days, candidates, today, window=(today - START_DATE).days + 1),
         "events": all_events[:40],
         "followers": followers,

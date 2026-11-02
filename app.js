@@ -25,7 +25,7 @@
  * @typedef {{ period: string, fetched: string, total_tv: number | null, shares: Record<string, number> }} TvWeek
  * @typedef {{ id: string, name: string, platforms: Record<string, number>, total: number }} PartyPage
  * @typedef {{ video_id: string, title: string, channel: string, published: string, candidates: string[], views: number, url: string }} OwnVideo
- * @typedef {{ last_updated: string, own_videos: OwnVideo[], party_pages: PartyPage[], tv_weekly: TvWeek | null, today: string, candidates: Candidate[], parties: Party[], influencers: Influencer[], youtube: YouTube, projection: Projection[], history: HistoryEntry[], polls: Poll[], media_daily: MediaDay[], media_by_outlet: Record<string, Record<string, number>>, events: CampaignEvent[], followers: Followers, interviews: Interview[], interview_summary: InterviewSummary, interviews_found: InterviewFound[], media_monthly: { months: string[], candidates: Record<string, number[]> }, radio_france: { surveyed?: string[], rows: { candidate: string, date: string, emission: string, station: string, title: string, subject: 'oui' | 'partiellement' | 'non' }[] }, sources: Sources, parameters?: Record<string, number> }} LiveData
+ * @typedef {{ last_updated: string, own_videos: OwnVideo[], party_pages: PartyPage[], tv_weekly: TvWeek | null, today: string, candidates: Candidate[], parties: Party[], influencers: Influencer[], youtube: YouTube, projection: Projection[], history: HistoryEntry[], polls: Poll[], media_daily: MediaDay[], media_by_outlet: Record<string, Record<string, number>>, events: CampaignEvent[], followers: Followers, interviews: Interview[], interview_summary: InterviewSummary, interviews_found: InterviewFound[], media_monthly: { months: string[], candidates: Record<string, number[]> }, medias_candidats: { surveyed?: string[], rows: { candidate: string, date: string, emission: string, station: string, title: string, subject: 'oui' | 'partiellement' | 'non' }[] }, sources: Sources, parameters?: Record<string, number> }} LiveData
  */
 
 /** @type {LiveData} */
@@ -750,7 +750,7 @@ function renderPollChart() {
 
 /** Émissions Radio France par mois et par candidat (candidat au moins un thème), sous la matrice. */
 function renderRadioMonthChart() {
-  const rf = data.radio_france || { rows: [] };
+  const rf = data.medias_candidats || { rows: [] };
   const rows = rf.rows;
   const months = [...new Set(rf.rows.map(r => r.date.slice(0, 7)))].sort();
   /** @type {string[]} */
@@ -885,7 +885,7 @@ let radioFranceMonth = '';
  * d'émissions où le candidat est au moins un thème), puis liste détaillée. Relevé manuel.
  */
 function renderRadioFrance() {
-  const rf = data.radio_france || { rows: [] };
+  const rf = data.medias_candidats || { rows: [] };
   const monthLabel = (/** @type {string} */ d) => {
     const label = new Date(d + 'T12:00:00').toLocaleDateString(LOCALES[lang], { month: 'long', year: 'numeric' });
     return label.charAt(0).toUpperCase() + label.slice(1);
