@@ -751,7 +751,7 @@ function renderPollChart() {
 /** Émissions Radio France par mois et par candidat (candidat au moins un thème), sous la matrice. */
 function renderRadioMonthChart() {
   const rf = data.radio_france || { rows: [] };
-  const rows = rf.rows.filter(r => r.subject !== 'non');
+  const rows = rf.rows;
   const months = [...new Set(rf.rows.map(r => r.date.slice(0, 7)))].sort();
   /** @type {string[]} */
   const range = [];
@@ -908,7 +908,7 @@ function renderRadioFrance() {
   // Matrice : une émission compte si le candidat est au moins un thème (sujet principal ou parmi d'autres)
   /** @type {Record<string, Record<string, number>>} */
   const matrix = {};
-  shown.filter(r => r.subject !== 'non').forEach(r => {
+  shown.forEach(r => {
     matrix[r.station] = matrix[r.station] || {};
     matrix[r.station][r.candidate] = (matrix[r.station][r.candidate] || 0) + 1;
   });
