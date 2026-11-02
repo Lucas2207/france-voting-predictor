@@ -1120,7 +1120,11 @@ function renderMatrix(id, rows, cols, value, empty, redraw) {
     <tbody>${sortedRows.map(r => `<tr class="border-b border-slate-100">
       <td class="px-2 py-1 font-semibold whitespace-nowrap">${esc(r.label)}${sortArrows(id, 'cols', r.key)}</td>
       ${sortedCols.map(c => cell(value(r.key, c.key))).join('')}
-      <td class="px-2 py-1 text-right font-bold">${total(r.key)}</td></tr>`).join('') || `<tr><td class="py-2 text-slate-400">${esc(empty)}</td></tr>`}</tbody>`;
+      <td class="px-2 py-1 text-right font-bold">${total(r.key)}</td></tr>`).join('') || `<tr><td class="py-2 text-slate-400">${esc(empty)}</td></tr>`}</tbody>
+    <tfoot><tr class="border-t-2 border-slate-300 font-bold">
+      <td class="px-2 py-1 text-left">${t('exposure.th.total')}</td>
+      ${sortedCols.map(c => `<td class="px-2 py-1 text-right">${rows.reduce((x, r) => x + value(r.key, c.key), 0)}</td>`).join('')}
+      <td class="px-2 py-1 text-right">${rows.reduce((x, r) => x + total(r.key), 0)}</td></tr></tfoot>`;
 }
 
 /** Couverture par média : articles dont le titre porte sur le candidat, par média retenu. */
