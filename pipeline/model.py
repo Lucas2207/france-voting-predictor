@@ -11,6 +11,7 @@
    que l'historique médiatique est insuffisant.
 """
 import math
+import re
 from datetime import date, timedelta
 
 POLL_WINDOW = 30
@@ -51,29 +52,44 @@ def poll_average(polls, person, on):
             "n_polls": len(latest)}
 
 
-def _media_window(days, start, end, cand_id):
-    """Nombre d'articles qui citent un candidat sur [start, end], et part de ses citations parmi toutes."""
-    n, total_mentions = 0, 0
+def _article_key(title):
+    """Clé de rapprochement d'un titre : lettres et chiffres seulement, sans accents, 40 premiers caractères."""
+    from .news import normalize
+
+    return re.sub(r"[^a-z0-9]", "", normalize(title or ""))[:40]
+
+
+def window_keys(days, dossier_rows, start, end):
+    """Par candidat : ensemble des (date, titre) cités sur [start, end], collecte automatique et dossiers réunis.
+
+    Une même date et un même titre ne comptent qu'une fois pour un candidat, quelle que soit la source.
+    """
+    keys = {}
     for day, articles in days.items():
         if not (start <= _d(day) <= end):
             continue
         for a in articles:
             if canonical_outlet(a.get("outlet")) is None:
                 continue
-            mentioned = a.get("mentions") or []
-            total_mentions += len(mentioned)
-            if cand_id in mentioned:
-                n += 1
-    return {"articles": n, "share": round(n / total_mentions, 3) if total_mentions else 0.0}
+            for cid in a.get("mentions") or []:
+                keys.setdefault(cid, set()).add((day, _article_key(a.get("title"))))
+    for r in dossier_rows:
+        if start <= _d(r["date"]) <= end:
+            keys.setdefault(r["candidate"], set()).add((r["date"], _article_key(r["title"])))
+    return keys
 
 
-def media_signal(days, cand_id, on):
-    """Exposition médiatique d'un candidat. Pas d'ajustement de la projection : seule la présence compte."""
-    recent = _media_window(days, on - timedelta(days=MEDIA_RECENT - 1), on, cand_id)
-    status = "ok" if recent["articles"] >= MEDIA_MIN_ARTICLES else "trop_peu_articles"
+def media_signal(days, cand_id, on, keys=None, dossier_rows=()):
+    """Exposition médiatique d'un candidat sur 7 jours. Pas d'ajustement de la projection : seule la présence compte."""
+    start = on - timedelta(days=MEDIA_RECENT - 1)
+    if keys is None:
+        keys = window_keys(days, dossier_rows, start, on)
+    n = len(keys.get(cand_id, ()))
+    total = sum(len(v) for v in keys.values())
+    status = "ok" if n >= MEDIA_MIN_ARTICLES else "trop_peu_articles"
     return {
-        "articles_7d": recent["articles"],
-        "share_7d": recent["share"],
+        "articles_7d": n,
+        "share_7d": round(n / total, 3) if total else 0.0,
         "adjustment": 0.0,
         "status": status,
     }
@@ -154,7 +170,7 @@ def daily_media(days, candidates):
     return series
 
 
-def build(polls, days, candidates, today, history_start):
+def build(polls, days, candidates, today, history_start, dossier_rows=()):
     history = []
     d = history_start
     while d <= today:
@@ -169,12 +185,13 @@ def build(polls, days, candidates, today, history_start):
 
     week_ago = today - timedelta(days=7)
     projection = []
+    keys = window_keys(days, dossier_rows, today - timedelta(days=MEDIA_RECENT - 1), today)
     for c in candidates:
         now = poll_average(polls, c["wiki"], today)
         if not now:
             continue
         prev = poll_average(polls, c["wiki"], week_ago)
-        media = media_signal(days, c["id"], today)
+        media = media_signal(days, c["id"], today, keys)
         projected = round(now["mean"] + media["adjustment"], 1)
         projection.append({
             "id": c["id"],

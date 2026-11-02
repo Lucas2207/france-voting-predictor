@@ -71,8 +71,9 @@ class MediaModelTest(unittest.TestCase):
         days = {}
         for offset in range(0, 10):
             d = date.fromordinal(date(2026, 10, 27).toordinal() - offset).isoformat()
-            days[d] = [{"outlet": "Le Monde", "mentions": ["x"]}, {"outlet": "Le Monde", "mentions": ["x"]},
-                       {"outlet": "Blog inconnu", "mentions": ["x"]}]
+            days[d] = [{"outlet": "Le Monde", "mentions": ["x"], "title": f"Premier titre {offset}"},
+                       {"outlet": "Le Monde", "mentions": ["x"], "title": f"Second titre {offset}"},
+                       {"outlet": "Blog inconnu", "mentions": ["x"], "title": f"Titre blog {offset}"}]
         sig = model.media_signal(days, "x", date(2026, 10, 27))
         self.assertEqual(sig["articles_7d"], 14)
         self.assertEqual(sig["status"], "ok")
@@ -95,6 +96,17 @@ class OutletMatrixTest(unittest.TestCase):
         ]}
         matrix = model.outlet_matrix(days, cands, date(2026, 10, 27), window=7)
         self.assertEqual(matrix, {"Le Monde": {"x": 1}})
+
+
+class MergedWindowTest(unittest.TestCase):
+    def test_same_article_in_collection_and_dossier_counts_once(self):
+        days = {"2026-10-27": [{"outlet": "Le Monde", "mentions": ["x"], "title": "Attal annonce une mesure"}]}
+        rows = [{"candidate": "x", "date": "2026-10-27", "title": "Attal annonce une mesure", "station": "Le Figaro"},
+                {"candidate": "x", "date": "2026-10-26", "title": "Autre article sur Attal", "station": "BFMTV"}]
+        keys = model.window_keys(days, rows, date(2026, 10, 21), date(2026, 10, 27))
+        self.assertEqual(len(keys["x"]), 2)
+        sig = model.media_signal(days, "x", date(2026, 10, 27), keys)
+        self.assertEqual(sig["articles_7d"], 2)
 
 
 class MonthlySubjectsTest(unittest.TestCase):

@@ -239,8 +239,10 @@ def main():
 
     # 5. Modèle et sortie
     days = {d: news.load_day(d) for d in news.all_days()}
+    survey = _load(Path("data/radio_france.json"), {"rows": []})
     history, projection = model.build(poll_data["polls"], days, candidates, today,
-                                      history_start=today - timedelta(days=HISTORY_DAYS))
+                                      history_start=today - timedelta(days=HISTORY_DAYS),
+                                      dossier_rows=survey["rows"])
     wiki_events = [{
         "date": n["date"], "title": n["text"], "description": "", "category": "campagne",
         "candidates": [], "origin": "wikipedia",
@@ -285,7 +287,7 @@ def main():
         "media_daily": model.daily_media(days, candidates),
         "media_monthly": model.monthly_subjects(days, candidates),
         "interviews_found": interview_titles.find_interviews(days, candidates),
-        "radio_france": _load(Path("data/radio_france.json"), {"rows": []}),
+        "radio_france": survey,
         "media_by_outlet": model.outlet_matrix(days, candidates, today, window=(today - START_DATE).days + 1),
         "events": all_events[:40],
         "followers": followers,
