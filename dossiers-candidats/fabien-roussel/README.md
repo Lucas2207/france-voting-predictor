@@ -67,6 +67,40 @@ Total : 12 articles.
 | 07/09 | Présidentielle 2027 : "Qu'on n'attende pas de nous qu'on tape sur les autres candidats de gauche", prévient Ian Brossat, directeur de campagne de Fabien Roussel |
 | 06/09 | Le communiste Fabien Roussel officialise sa candidature à l'élection présidentielle de 2027 pour défendre "un projet de rupture" |
 
+## Le Monde (lemonde.fr)
+
+Source : https://www.lemonde.fr/recherche/?search_keywords=Fabien%20Roussel&start_at=01%2F07%2F2026&end_at=01%2F11%2F2026 (pages 1 à 2, 46 résultats parcourus). Un article est compté si « Roussel » figure dans son titre ou son chapô, daté du 1er juillet au 1er novembre 2026 ; le chapô est marqué « (chapô) » quand le nom n'apparaît que dans le chapô.
+
+Total : 11 articles.
+
+| Date (2026) | Titre |
+|---|---|
+| 22/10 | Election présidentielle au Brésil : « Chaque victoire de l'extrême droite à l'étranger banalise cette perspective chez nous », alertent des responsables politiques de gauche en France (chapô) |
+| 08/10 | Fabien Roussel accuse le gouvernement israélien de « terrorisme d'Etat » |
+| 01/10 | Octobre rose : Fabien Roussel demande « la prise en charge intégrale » des dépenses liées au traitement du cancer du sein |
+| 01/10 | Présidentielle 2027 : l'inquiétude des militants écologistes et communistes partisans d'une union à gauche (chapô) |
+| 13/09 | Présidentielle 2027 : à la Fête de « L'Humanité », Jean-Luc Mélenchon accentue la pression sur les autres forces de gauche (chapô) |
+| 12/09 | Présidentielle 2027 : à la Fête de « L'Humanité », Fabien Roussel au défi de démontrer l'intérêt de sa candidature |
+| 11/09 | Pouvoir d'achat et prix du carburant : « Une colère immense » en France, selon Sophie Binet ; « Le grand enjeu de cette campagne », pour Jordan Bardella (chapô) |
+| 06/09 | Fabien Roussel officialise sa candidature à la présidentielle et promet « un projet de rupture » |
+| 23/08 | Le communiste Fabien Roussel lance sa campagne pour la présidentielle 2027 sur une ligne autonome |
+| 22/08 | Présidentielle 2027 : Fabien Roussel, secrétaire national du PCF, appelle à « se débarrasser » de la politique d'Emmanuel Macron |
+| 05/07 | Fabien Roussel réélu à la tête du Parti communiste français |
+
+## CNEWS (cnews.fr)
+
+Source : https://www.cnews.fr/rechercher/Fabien%20Roussel (recherche du site, 20 résultats par page, tri par date décroissante ; relevé arrêté après deux pages entières antérieures au 1er juillet 2026). Un article est compté si « Roussel » figure dans son titre ; le chapô n'est pas affiché sur la page de recherche.
+
+Total : 5 articles.
+
+| Date (2026) | Titre |
+|---|---|
+| 18/09 | Crise des carburants : «Le gouvernement peut baisser les taxes mais il en a rajouté ces derniers mois», dénonce Fabien Roussel |
+| 11/09 | Discours de Jean-Luc Mélenchon, débat entre Fabien Roussel et le président du Medef… Quel est le programme politique de la Fête de l’Humanité ? |
+| 06/09 | Présidentielle 2027 : le communiste Fabien Roussel officialise sa candidature |
+| 03/09 | Présidentielle 2027 : les militants communistes appelés à approuver la candidature de Fabien Roussel |
+| 05/07 | Réélu à la tête du Parti communiste, Fabien Roussel fait un pas de plus vers la présidentielle |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Fabien+Roussel, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

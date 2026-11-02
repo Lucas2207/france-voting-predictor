@@ -209,6 +209,131 @@ Total : 79 articles.
 | 17/08 | Grève des sapeurs-pompiers : "Nous sommes évidemment à leur écoute", assure Jad Zahab, porte-parole de Renaissance (chapô) |
 | 16/08 | "Une course contre la montre a démarré" : Gabriel Attal appelle à un référendum sur l'interdiction des réseaux aux moins de 15 ans |
 
+## Le Monde (lemonde.fr)
+
+Source : https://www.lemonde.fr/recherche/?search_keywords=Gabriel%20Attal&start_at=01%2F07%2F2026&end_at=01%2F11%2F2026 (pages 1 à 7, 252 résultats parcourus). Un article est compté si « Attal » figure dans son titre ou son chapô, daté du 1er juillet au 1er novembre 2026 ; le chapô est marqué « (chapô) » quand le nom n'apparaît que dans le chapô.
+
+Total : 52 articles.
+
+| Date (2026) | Titre |
+|---|---|
+| 30/10 | Attentat raciste de Trappes : Yannick Jadot regrette l'absence de Gabriel Attal au rassemblement en hommage aux victimes prévu vendredi soir ; Edouard Philippe se rendra à La Verrière |
+| 29/10 | Edouard Philippe et Gabriel Attal, empêtrés dans une campagne présidentielle laborieuse, tentent de conjurer leur effacement |
+| 29/10 | Présidentielle 2027 : après sa proposition d'une primaire aux contours flous, Gabriel Attal cible le « centre et la droite » |
+| 28/10 | Présidentielle 2027 : Gabriel Attal pour l'organisation d'une « grande primaire des démocrates » |
+| 23/10 | Nouvelle-Calédonie : la Cour de justice de la République rejette la plainte de militants kanak contre plusieurs ministres (chapô) |
+| 20/10 | Après les violences urbaines du 17 octobre, le gouvernement et Renaissance s'en prennent aux réseaux sociaux (chapô) |
+| 20/10 | Présidentielle 2027 : « Raphaël Glucksmann est devenu le domino qui bouscule le reste de l'édifice » (chapô) |
+| 19/10 | Après la mobilisation du 17 octobre, Edouard Philippe et Gabriel Attal tentent d'incarner une forme de rupture avec les deux quinquennats d'Emmanuel Macron |
+| 15/10 | Présidentielle 2027 : les candidats esquissent leur programme pour la presse (chapô) |
+| 11/10 | Présidentielle 2027 : en raison du mouvement lycéen, Gabriel Attal réajuste son programme et défend un « pacte pour la jeunesse » |
+| 10/10 | Présidentielle 2027 : en plein mouvement lycéen, Gabriel Attal mise sur l'affrontement avec Jean-Luc Mélenchon pour relancer sa campagne |
+| 03/10 | Présidentielle 2027 : Gabriel Attal propose une « grande coalition » de la gauche à la droite pour battre Marine Le Pen |
+| 30/09 | Présidentielle 2027 : Gabriel Attal critique le projet de réforme des retraites d'Edouard Philippe, jugeant qu'il s'agit de « mesures de soins palliatifs » |
+| 29/09 | Crise du logement : Marine Le Pen, Gabriel Attal et Jean-Luc Mélenchon détaillent leurs propositions à Batimat, le salon de la construction |
+| 24/09 | Présidentielle 2027 : derrière le duel de plus en plus acerbe entre Edouard Philippe et Gabriel Attal, des électorats loin d'être solubles |
+| 22/09 | « Amusant, mais aussi très, très immature » : les répliques cinglantes d'Edouard Philippe sur Gabriel Attal dans le livre « Le Crépuscule des princes » |
+| 15/09 | Présidentielle 2027 : Edouard Philippe, Gabriel Attal et Bruno Retailleau pris au piège de la dispersion |
+| 09/09 | Emeutes en Nouvelle-Calédonie : Gabriel Attal et plusieurs ministres de son gouvernement visés par une plainte devant la Cour de justice de la République |
+| 08/09 | Présidentielle 2027 : l'hypothèse d'une primaire agite encore la droite et le bloc central (chapô) |
+| 07/09 | Abaya à l'école : LFI veut revenir sur l'interdiction et s'attire les critiques de Marine Le Pen, Edouard Philippe et Gabriel Attal |
+| 06/09 | A la braderie de Lille, Gabriel Attal, Jean-Luc Mélenchon et Marine Tondelier défendent leurs programmes et critiquent le RN |
+| 05/09 | Présidentielle 2027 : pour Gabriel Attal et Edouard Philippe, le poids d'un bilan écologique contrasté |
+| 05/09 | Présidentielle 2027 : « On n'arrivera pas à battre le Rassemblement national avec juste un vote de barrage », dit Gabriel Attal à la braderie de Lille |
+| 04/09 | Gabriel Attal arrange son bilan budgétaire de 2024 en ce début de campagne présidentielle |
+| 03/09 | Gabriel Attal dévoile une équipe de campagne présidentielle sans poids lourds politiques mais avec de « nouveaux visages » |
+| 03/09 | Présidentielle 2027 : Gabriel Attal présente son équipe de campagne, avec Céline Géraud comme responsable de la communication |
+| 01/09 | Présidentielle 2027 : Edouard Philippe tente de prendre de la hauteur face à Gabriel Attal dans la campagne |
+| 29/08 | Présidentielle 2027 : les incompréhensibles divisions du bloc central (chapô) |
+| 26/08 | Bruno Retailleau accuse LFI d'être un « parti de collabos » avec l'islamisme (chapô) |
+| 25/08 | Présidentielle 2027 : le bilan d'Emmanuel Macron, un lourd héritage à porter pour Gabriel Attal et Edouard Philippe |
+| 25/08 | Gabriel Attal : « Je souhaite une loi de programmation pour l'école et un ministre de l'éducation qui restera en poste cinq ans » |
+| 25/08 | Aux obsèques de François Patriat, Emmanuel Macron rend hommage à un fidèle « grognard » et met en garde Edouard Philippe et Gabriel Attal |
+| 23/08 | Présidentielle 2027 : la surenchère sur l'immigration des candidats du bloc central (chapô) |
+| 18/08 | Le parquet de Paris se saisit des soupçons d'ingérence russes ayant ciblé Gabriel Attal et Edouard Philippe |
+| 16/08 | Présidentielle 2027 : le jeu trouble de l'Elysée, qui agite l'hypothèse Lecornu (chapô) |
+| 09/08 | Présidentielle 2027 : l'éventuelle candidature de François Hollande scrutée par le bloc central (chapô) |
+| 08/08 | Présidentielle 2027 : Gabriel Attal porte plainte « pour une ingérence numérique extérieure » et « en provenance de Russie » |
+| 07/08 | Présidentielle 2027 : Gabriel Attal mène une campagne estivale frénétique, labourant les thématiques de droite pour faire de l'ombre à Edouard Philippe |
+| 07/08 | Présidentielle 2027 : Glucksmann, Attal, Philippe… les ingérences russes s'invitent dans la campagne |
+| 06/08 | Edouard Philippe, Raphaël Glucksmann, Gabriel Attal pris pour cibles par des ingérences russes : pourquoi il peut être contreproductif de dénoncer ces opérations |
+| 05/08 | Présidentielle 2027 : Gabriel Attal visé par « une ingérence en provenance de Russie » |
+| 30/07 | Le tribunal de Paris rejette la demande de Gabriel Attal visant à interdire au RN d'utiliser le terme « renaissance » pendant la campagne présidentielle |
+| 24/07 | Présidentielle 2027 : en Bretagne, Gabriel Attal mène campagne pour faire décoller sa candidature |
+| 18/07 | Présidentielle 2027 : cette partie du bloc central qui lorgne la gauche sociale-démocrate (chapô) |
+| 17/07 | Deux Canadair annulés par Gabriel Attal ? Le vrai du faux sur les moyens de la France face aux incendies |
+| 15/07 | Gabriel Attal assigne Marine Le Pen pour « contrefaçon » sur l'utilisation du terme « renaissance » dans son affiche de campagne |
+| 09/07 | Présidentielle 2027 : la candidature de Marine Le Pen bouscule le match Attal-Philippe |
+| 05/07 | Présidentielle 2027 : Edouard Philippe et la tentation de former une « UMP 2.0 » autour de lui (chapô) |
+| 02/07 | Gabriel Attal veut 100 000 suppressions de postes de fonctionnaires et l'« impunité budgétaire zéro » |
+| 01/07 | Pour Edouard Philippe, ce serait « dangereux » si Gabriel Attal et lui se présentaient à la présidentielle 2027 |
+| 01/07 | Le bilan des dix ans de mandat d'Emmanuel Macron embarrasse ses héritiers, candidats à la présidentielle (chapô) |
+| 01/07 | Présidentielle 2027 : Laurent Wauquiez met à mal la candidature de Bruno Retailleau en tendant la main à Edouard Philippe (chapô) |
+
+## CNEWS (cnews.fr)
+
+Source : https://www.cnews.fr/rechercher/Gabriel%20Attal (recherche du site, 20 résultats par page, tri par date décroissante ; relevé arrêté après deux pages entières antérieures au 1er juillet 2026). Un article est compté si « Attal » figure dans son titre ; le chapô n'est pas affiché sur la page de recherche.
+
+Total : 55 articles.
+
+| Date (2026) | Titre |
+|---|---|
+| 29/10 | Présidentielle 2027 : la «grande primaire des démocrates» proposée par Gabriel Attal divise le centre et la droite |
+| 29/10 | Présidentielle 2027 : Dominique de Villepin refuse de participer à la primaire proposée par Gabriel Attal |
+| 28/10 | Présidentielle 2027 : Gabriel Attal plaide pour l'organisation d'une «grande primaire des démocrates» |
+| 10/10 | Présidentielle 2027 : pacte pour la jeunesse, IA, nucléaire... Ce qu'il faut retenir du discours de Gabriel Attal à Lyon |
+| 10/10 | «Je serai intraitable avec ceux qui cassent, qui insultent et qui menacent», prévient Gabriel Attal |
+| 10/10 | «Il n'y a rien de plus intolérable que de remettre en cause l'autorité d'un professeur», martèle Gabriel Attal |
+| 10/10 | Présidentielle 2027 : «Il faut arrêter d'utiliser la carte bancaire des générations à venir pour payer les dettes des générations passées», martèle Gabriel Attal à Lyon |
+| 10/10 | Présidentielle 2027 : Edouard Philippe, Jean-Luc Mélenchon, Gabriel Attal... Quels sont les grands rendez-vous du week-end ? |
+| 10/10 | Présidentielle 2027 : en plein mouvement des lycéens, Gabriel Attal place le dialogue avec la jeunesse au cœur de son meeting ce samedi |
+| 05/10 | 17.221 participants, 354 propositions... Gabriel Attal dévoile le bilan de son opération «1.000 bistrots» |
+| 03/10 | Présidentielle 2027 : Gabriel Attal appelle à une coalition de la gauche et de la droite pour faire barrage au RN |
+| 30/09 | La grande interview : Gabriel Attal |
+| 30/09 | Écrits antisémites attribués à Jordan Bardella : «Il faut que Mediapart produise des preuves», affirme Gabriel Attal |
+| 30/09 | «Je propose de créer un conseil de discipline dès l'école primaire», annonce Gabriel Attal |
+| 30/09 | Blocus des lycées : «LFI met les jeunes en danger en les encourageant à participer à ces violences», regrette Gabriel Attal |
+| 30/09 | Blocus des lycées : «LFI se sert de notre jeunesse comme chair à canon», dénonce Gabriel Attal |
+| 24/09 | Intelligence artificielle : Gabriel Attal défend la création d’une «organisation internationale» de régulation |
+| 22/09 | «Amusant mais aussi très immature» : Edouard Philippe charge lourdement Gabriel Attal |
+| 22/09 | Marine Le Pen tacle Gabriel Attal qui ne souhaite pas baisser les taxes sur les carburants |
+| 21/09 | Présidentielle 2027 : Gabriel Attal estime qu'il n'y a «plus de favori» pour mener la campagne du bloc central |
+| 21/09 | Présidentielle 2027 : futures opérations, référents locaux… Gabriel Attal présente les prochaines étapes de sa campagne ce lundi |
+| 18/09 | Présidentielle 2027 : Gabriel Attal veut des «États-Unis d'Europe» avec la disparition «des frontières économiques» |
+| 16/09 | «Elle a contribué à flinguer l’économie française» : sans citer Emmanuel Macron, Gabriel Attal dénonce la dissolution de l’Assemblée |
+| 11/09 | «La France n'a pas une minute à perdre» : Gabriel Attal tacle la proposition de repos présidentiel d'Edouard Philippe |
+| 06/09 | Présidentielle 2027 : Gabriel Attal fait appel à une professeure de chant pour mieux maîtriser son stress |
+| 06/09 | Présidentielle 2027 : après les 1.000 appartements d’Edouard Philippe, Gabriel Attal lance l’opération «1.000 bistrots» |
+| 05/09 | Présidentielle 2027 : «Entre le RN et moi, il y a deux visions diamétralement opposées de la France, des relations internationales et de l'Europe», lance Gabriel Attal |
+| 03/09 | «Un renouvellement des visages» : Gabriel Attal présente son équipe de campagne pour 2027 |
+| 01/09 | Présidentielle 2027 : «Une jeune fille, de 5, de 6, de 7 ans, contrainte de porter le voile, doit être protégée par la République», estime Gabriel Attal |
+| 30/08 | «Il a des idées d'il y a 20 ans» : Gabriel Attal tacle le début de campagne d'Édouard Philippe |
+| 26/08 | Présidentielle 2027 : Gabriel Attal veut rétablir le certificat d'études |
+| 15/08 | Gabriel Attal appelle à un référendum sur l'interdiction des réseaux aux moins de 15 ans |
+| 14/08 | Réduction du nombre de parlementaires : Gabriel Attal reprend et ajuste une promesse de campagne d’Emmanuel Macron faite en 2017 |
+| 10/08 | Immigration : «Il faut accueillir moins pour accueillir mieux», martèle Gabriel Attal |
+| 10/08 | Gabriel Attal : «Je souhaite créer un ministère de l'Eau si les Français me font confiance» |
+| 10/08 | Gabriel Attal : «Je veux mettre en place un bouclier tarifaire sur les prix de l'eau pour les classes moyennes et populaires» |
+| 09/08 | Présidentielle 2027 : Gabriel Attal dans les Pyrénées-Orientales ce lundi pour présenter un plan «massif» sur l'eau |
+| 05/08 | Présidentielle 2027 : après Edouard Philippe et Raphaël Glucksmann, Gabriel Attal visé par «une ingérence en provenance de Russie» |
+| 05/08 | «Quels problèmes concrets avez-vous réglés ?» : Gabriel Attal répond à Jean-Luc Mélenchon au sujet des gens du voyage |
+| 05/08 | «Vous vous prenez pour qui ? Pourriture !» : Gabriel Attal chahuté sur un campement illégal des gens du voyage |
+| 04/08 | «Lutter contre les occupations illicites, c'est ni de droite, ni de gauche», insiste Gabriel Attal |
+| 04/08 | Occupation illégale par des gens du voyage : «Il faut que ce type de comportement fasse l'objet d'une expulsion en moins de 48h», plaide Gabriel Attal |
+| 03/08 | Présidentielle 2027 : Gabriel Attal promet de s’attaquer aux installations illégales des gens du voyage |
+| 02/08 | Décentralisation, justice, immigration... Gabriel Attal promet «la plus grande réforme institutionnelle depuis 1958» s'il est élu |
+| 30/07 | Usage du terme «Renaissance» : la justice rejette la demande de Gabriel Attal contre le slogan du Rassemblement national |
+| 27/07 | Présidentielle 2027 : Gabriel Attal en déplacement à Annecy ce lundi |
+| 27/07 | Usage du terme «Renaissance» : le parti de Gabriel Attal et le RN devant le tribunal ce lundi |
+| 23/07 | Salaires, pêche, entreprises… Gabriel Attal entame ce jeudi un déplacement de trois jours en Bretagne |
+| 20/07 | Concert de Barbara Butch interrompu : Manuel Bompard comprend «les protestations pacifiques», Gabriel Attal répond qu'il s'agit «d'antisémitisme pur» |
+| 15/07 | «Jean-Luc Mélenchon fait du trumpisme. Si on écoutait ce que LFI propose, on désarmerait aussi les pompiers», Gabriel Attal répond aux critiques |
+| 15/07 | Présidentielle 2027 : Marine Le Pen et le RN poursuivis par le parti de Gabriel Attal pour l’utilisation du terme «Renaissance» |
+| 12/07 | «Mon combat» : Gabriel Attal place l’école au cœur de son programme présidentiel |
+| 10/07 | Présidentielle 2027 : pas totalement séduits par Gabriel Attal et Edouard Philippe, plusieurs partis du centre se rassemblent pour peser davantage |
+| 01/07 | Présidentielle 2027 : Edouard Philippe estime que «ce serait dangereux» que Gabriel Attal et lui soient candidats |
+| 01/07 | Présidentielle 2027 : entre Gabriel Attal, Edouard Philippe et Bruno Retailleau, les ministres du gouvernement commencent à se positionner |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Gabriel+Attal, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

@@ -273,6 +273,139 @@ Total : 98 articles.
 | 19/08 | "Nous, c'est carré" : La France insoumise dévoile un tract et une affiche pour marquer le lancement de ses universités d'été (chapô) |
 | 18/08 | "Je n'ai pas encensé le programme de Jean-Luc Mélenchon" : la ministre Monique Barbut précise ses propos favorables au candidat LFI tenus dans "Libération" |
 
+## Le Monde (lemonde.fr)
+
+Source : https://www.lemonde.fr/recherche/?search_keywords=Jean-Luc%20M%C3%A9lenchon&start_at=01%2F07%2F2026&end_at=01%2F11%2F2026 (pages 1 à 10, 380 résultats parcourus). Un article est compté si « Mélenchon » figure dans son titre ou son chapô, daté du 1er juillet au 1er novembre 2026 ; le chapô est marqué « (chapô) » quand le nom n'apparaît que dans le chapô.
+
+Total : 82 articles.
+
+| Date (2026) | Titre |
+|---|---|
+| 31/10 | Présidentielle 2027 : les candidats activent timidement leurs réseaux dans la culture (chapô) |
+| 30/10 | Après le Brésil, la France ? Comment les « insoumis » tentent de s'inspirer du « janonisme » en ligne (chapô) |
+| 30/10 | Attentat raciste à Trappes : « Que faut-il de plus pour ouvrir les yeux ? », a lancé le maire, Ali Rabeh, lors du rassemblement en hommage aux victimes, pointant la responsabilité du RN (chapô) |
+| 29/10 | Jean-Luc Mélenchon et LFI à la conquête des « gameurs » avant la présidentielle de 2027 |
+| 29/10 | L'Arcom adresse une mise en garde à Radio France à la suite de la diffusion sur France Culture d'un montage détournant des propos de Jean-Luc Mélenchon |
+| 28/10 | Présidentielle 2027 : Jean-Luc Mélenchon affirme qu'il remplacera le directeur de Bpifrance s'il est élu |
+| 28/10 | Présidentielle 2027 : Gabriel Attal pour l'organisation d'une « grande primaire des démocrates » (chapô) |
+| 27/10 | Attentat de Trappes : la gauche en ordre dispersé dans les rassemblements contre le racisme (chapô) |
+| 22/10 | Nicolas Dufrêne, l'homme qui a soufflé l'idée de l'annulation de la dette à Jean-Luc Mélenchon |
+| 22/10 | Election présidentielle au Brésil : « Chaque victoire de l'extrême droite à l'étranger banalise cette perspective chez nous », alertent des responsables politiques de gauche en France (chapô) |
+| 21/10 | Annulation de la dette publique française : les leçons des précédents dans l'histoire (chapô) |
+| 20/10 | Présidentielle 2027 : « Raphaël Glucksmann est devenu le domino qui bouscule le reste de l'édifice » (chapô) |
+| 19/10 | Mobilisation du 17 octobre : au centre des critiques, LFI dénonce le « pourrissement » de la situation et assume le clivage avec le reste du monde politique (chapô) |
+| 18/10 | Mobilisation du 17 octobre : à six mois de l'élection présidentielle, l'agitation sociale et les violences encerclent un exécutif à bout de souffle (chapô) |
+| 18/10 | Après les violences du 17 octobre, l'extrême droite cible le gouvernement et Laurent Nuñez en espérant incarner le « parti de l'ordre » (chapô) |
+| 16/10 | Contre-budget de LFI : le pari incertain de la relance (chapô) |
+| 15/10 | Présidentielle 2027 : les candidats esquissent leur programme pour la presse (chapô) |
+| 14/10 | Pour Jean-Luc Mélenchon, le soutien au mouvement lycéen consacre le pari de LFI sur la jeunesse en vue de la présidentielle |
+| 14/10 | Présidentielle 2027 : LFI promet 106 milliards d'euros de recettes supplémentaires dans son programme budgétaire (chapô) |
+| 12/10 | Présidentielle 2027 : refuser toute alliance avec LFI aux législatives, l'engagement fragile de Raphaël Glucksmann (chapô) |
+| 12/10 | Présidentielle 2027 : Raphaël Glucksmann, vainqueur de la primaire à gauche, doit désormais mettre la famille sociale-démocrate en ordre de bataille (chapô) |
+| 11/10 | Présidentielle 2027 : Jean-Luc Mélenchon promet de supprimer « l'ignominie » Parcoursup devant une salle comble à Clermont-Ferrand |
+| 11/10 | Présidentielle 2027 : en raison du mouvement lycéen, Gabriel Attal réajuste son programme et défend un « pacte pour la jeunesse » (chapô) |
+| 10/10 | En visite à Gergovie, Jean-Luc Mélenchon vante les mérites de « la guerre de mouvement », chère à LFI, et raille la primaire de la gauche sociale-démocrate |
+| 10/10 | Présidentielle 2027 : en plein mouvement lycéen, Gabriel Attal mise sur l'affrontement avec Jean-Luc Mélenchon pour relancer sa campagne |
+| 07/10 | « Je ne me laisserai pas intimider », répond le gouverneur de la Banque de France à Jean-Luc Mélenchon, qui l'accuse de « trahison » |
+| 04/10 | Primaire de la gauche : Raphaël Glucksmann se dit « désolé » après ses propos « inélégants » sur Ségolène Royal (chapô) |
+| 03/10 | Blocage des lycées : pour LFI, un appui au mouvement à double tranchant (chapô) |
+| 01/10 | Blocage des lycées : Jean-Luc Mélenchon pris entre soutien au mouvement et exigence de respectabilité |
+| 01/10 | Blocage des lycées : Bruno Retailleau propose « l'interdiction de LFI » qui « appelle à la sédition », Jean-Luc Mélenchon lui répond |
+| 29/09 | Crise du logement : Marine Le Pen, Gabriel Attal et Jean-Luc Mélenchon détaillent leurs propositions à Batimat, le salon de la construction |
+| 28/09 | Blocage des lycées : le ministre de l'intérieur recense 180 établissements concernés et dénonce « des actions violentes » qui « ne sauraient être tolérées » (chapô) |
+| 28/09 | Le blocage des lycées prend de l'ampleur et oppose La France insoumise et le gouvernement (chapô) |
+| 26/09 | Présidentielle 2027 : le chemin de crête de Jean-Luc Mélenchon sur l'Ukraine |
+| 24/09 | Présidentielle 2027 : « Sans être là, Jean-Luc Mélenchon a parasité le premier débat de la primaire sociale-démocrate » |
+| 23/09 | Guerre en Ukraine : Jean-Luc Mélenchon établit un rapport entre la menace russe en Europe, qui « paraît plus grande », et les « tirs en profondeur » menés par Kiev |
+| 21/09 | Présidentielle 2027 : l'Etat selon Jean-Luc Mélenchon, entre « révolution citoyenne » et reprise en main de l'administration |
+| 20/09 | François Bayrou détaille les conditions de sa primaire en clôture de la rentrée du MoDem (chapô) |
+| 17/09 | Geler une partie de la dette : le projet de Jean-Luc Mélenchon est-il faisable et quel serait son intérêt économique ? |
+| 16/09 | Présidentielle 2027 : Bruno Retailleau repart sur le terrain du pouvoir d'achat pour se démarquer des « bonimenteurs » dans la campagne (chapô) |
+| 15/09 | Présidentielle 2027 : Edouard Philippe, Gabriel Attal et Bruno Retailleau pris au piège de la dispersion (chapô) |
+| 14/09 | Présidentielle 2027 : l'affiliation partisane cimente les bases de Marine Le Pen et de Jean-Luc Mélenchon |
+| 14/09 | Jean-Luc Mélenchon dénonce des « manipulations politiques » après la demande d'annulation de deux victoires de LFI aux municipales |
+| 14/09 | Présidentielle 2027 : divisée, la gauche n'est peut-être pas condamnée à la marginalité (chapô) |
+| 14/09 | « Une dette peut être effacée, mais les décisions économiques qui l'ont générée se paient toujours d'une façon ou d'une autre » (chapô) |
+| 13/09 | Présidentielle 2027 : à la Fête de « L'Humanité », Jean-Luc Mélenchon accentue la pression sur les autres forces de gauche |
+| 13/09 | Enquête électorale présidentielle 2027 : Marine Le Pen entame la campagne sur un socle inédit au cœur d'un électorat inquiet et en colère (chapô) |
+| 11/09 | Effacement de la dette : une idée « illégale, dangereuse et inutile », estime Emmanuel Moulin, le gouverneur de la Banque de France (chapô) |
+| 11/09 | « L'annulation d'une partie de la dette donnerait de nouvelles marges pour investir » : la réponse de Nicolas Dufrêne à Olivier Blanchard et Quentin Vandeweyer (chapô) |
+| 07/09 | Présidentielle 2027 : derrière les rires des patrons du Medef, la question très sensible du pouvoir d'achat et des salaires (chapô) |
+| 06/09 | A la braderie de Lille, Gabriel Attal, Jean-Luc Mélenchon et Marine Tondelier défendent leurs programmes et critiquent le RN |
+| 04/09 | Présidentielle 2027 : pour Jean-Luc Mélenchon, la transition écologique passe par une forte reprise en main de l'Etat |
+| 04/09 | Olivier Blanchard et Quentin Vandeweyer : « Sur l'annulation de la dette détenue par la Banque de France, l'erreur est de croire qu'elle dégagerait des ressources ou serait sans coût » (chapô) |
+| 03/09 | Port du voile : Jean-Luc Mélenchon qualifie d'« erreur terrible » son opposition par le passé |
+| 03/09 | « "Foutre au feu" la dette, une image puissante qui s'inscrit dans une longue histoire politique » (chapô) |
+| 02/09 | Une idée « interdite par les traités européens » : le président de la Bundesbank s'oppose à l'annulation de la dette proposée par Jean-Luc Mélenchon |
+| 01/09 | « Dans une France en quête de changement profond, la dynamique n'appartient qu'à ceux qui promettent de renverser la table » (chapô) |
+| 31/08 | Présidentielle 2027 : Laurent Wauquiez charge Jean-Luc Mélenchon pour mieux défendre l'idée d'une primaire à droite |
+| 30/08 | Présidentielle 2027 : à Cannes, David Lisnard bat la campagne pour une grande primaire de la droite (chapô) |
+| 28/08 | Jean-Luc Mélenchon au centre des débats et des critiques avec sa proposition d'annuler une partie de la dette de la France |
+| 28/08 | Marine Le Pen « voit l'économie à travers l'électeur d'Hénin-Beaumont » : les réserves du patronat après la rentrée du Medef (chapô) |
+| 26/08 | Présidentielle 2027 : plus de 200 élus de droite et du centre appellent à une « primaire ouverte » (chapô) |
+| 24/08 | Présidentielle 2027 : la bataille des gauches est lancée (chapô) |
+| 23/08 | Jean-Luc Mélenchon sur le budget 2027 : « Nous le censurerons, j'en suis certain » |
+| 23/08 | Présidentielle 2027 : la transition écologique, élément de convergence et de rivalité entre LFI et Les Ecologistes (chapô) |
+| 22/08 | De Mayotte, Edouard Philippe répond aux critiques de Jean-Luc Mélenchon : « J'aimerais qu'il vienne ici et qu'il constate que la crise migratoire est prégnante » |
+| 22/08 | Présidentielle 2027 : Edouard Philippe presse la droite et le centre de s'unir avant février (chapô) |
+| 22/08 | Matthieu Pigasse assure qu'il y a « pas mal de convergences » entre lui et les « insoumis », pendant les universités d'été de LFI (chapô) |
+| 21/08 | Présidentielle 2027 : la nécessité d'une alternative à gauche (chapô) |
+| 20/08 | Présidentielle 2027 : Jean-Luc Mélenchon, entre radicalité et besoin de rassembler, rêve d'un duel avec l'extrême droite |
+| 20/08 | Présidentielle 2027 : « Le vote utile qu'espère mobiliser Jean-Luc Mélenchon n'aura plus le même sens qu'en 2022 » |
+| 20/08 | Présidentielle 2027 : Les Ecologistes tiraillés entre Jean-Luc Mélenchon et Raphaël Glucksmann |
+| 17/08 | Présidentielle 2027: pour Monique Barbut, ministre de l'écologie, Jean-Luc Mélenchon est le candidat « qui intègre le plus la question du climat dans ses propositions » |
+| 12/08 | Présidentielle 2027 : pour battre Marine Le Pen et Jean-Luc Mélenchon, la tentation du candidat unique au sein du bloc central |
+| 26/07 | Présidentielle 2027 : les « insoumis » et leurs caravanes populaires à la conquête des abstentionnistes (chapô) |
+| 22/07 | Présidentielle 2027 : Jean-Luc Mélenchon tend une nouvelle fois la main aux Ecologistes en leur proposant un accord « global » |
+| 22/07 | Le géographe Frédéric Giraut réagit aux « écorégions » promues par Jean-Luc Mélenchon : « Le biorégionalisme ne peut penser la question urbaine et migratoire autrement qu'en termes négatifs » |
+| 15/07 | Présidentielle 2027 : Jean-Luc Mélenchon, en meeting en Bretagne, s'adresse aux « enfants » des Jacobins pour défendre ses « écorégions » |
+| 04/07 | Jean-Luc Mélenchon appelle à éviter la matinale de France Culture après la diffusion d'un montage trompeur par Guillaume Erner |
+| 03/07 | Jean-Luc Mélenchon défend ses « écorégions » afin de mieux attirer les Ecologistes pour la présidentielle de 2027 |
+| 03/07 | L'identité, un thème à haut risque pour la gauche (chapô) |
+| 02/07 | Présidentielle 2027 : Jean-Luc Mélenchon présente son projet d'« écorégions » pour remplacer les régions actuelles et « introduire l'eau dans le débat » |
+
+## CNEWS (cnews.fr)
+
+Source : https://www.cnews.fr/rechercher/Jean-Luc%20M%C3%A9lenchon (recherche du site, 20 résultats par page, tri par date décroissante ; relevé arrêté après deux pages entières antérieures au 1er juillet 2026). Un article est compté si « Mélenchon » figure dans son titre ; le chapô n'est pas affiché sur la page de recherche.
+
+Total : 33 articles.
+
+| Date (2026) | Titre |
+|---|---|
+| 31/10 | «Il devra céder ou partir» : Jean-Luc Mélenchon met de nouveau en garde Emmanuel Macron après les mobilisations |
+| 26/10 | Présidentielle 2027 : Edouard Philippe toujours troisième derrière Marine Le Pen et Jean-Luc Mélenchon, selon un sondage |
+| 22/10 | Sondage : Marine Le Pen conforte son avance au premier tour de l'élection présidentielle et battrait plus largement Jean-Luc Mélenchon au second |
+| 21/10 | «On va te pourrir la réunion» sur les violences urbaines : Jean-Luc Mélenchon met en garde Sébastien Lecornu |
+| 20/10 | Présidentielle 2027 : Jean-Luc Mélenchon se qualifie au second tour dans tous les cas de figure, selon un sondage |
+| 15/10 | Sondage : à six mois de la présidentielle, Marine Le Pen largement en tête devant Jean-Luc Mélenchon et Raphaël Glucksmann |
+| 10/10 | Présidentielle 2027 : Edouard Philippe, Jean-Luc Mélenchon, Gabriel Attal... Quels sont les grands rendez-vous du week-end ? |
+| 06/10 | «Dans la tête de la police, il y a des idées pourries et racistes» : après le nouveau dérapage de Jean-Luc Mélenchon, Laurent Tessier dénonce «l'inconscience» du leader de LFI |
+| 04/10 | «On leur pisse dessus» : Raphaël Glucksmann s'attaque à Jean-Luc Mélenchon et Marine Le Pen lors d'un débrief du débat du Medef (vidéo) |
+| 03/10 | Blocus des lycées : pour Jean-Luc Mélenchon, la journée de mobilisation du 6 octobre «ouvre une série à coup sûr» |
+| 03/10 | Blocus des lycées : Jean-Luc Mélenchon appelle à «accompagner» la mobilisation |
+| 26/09 | Léon XIV en France : Emmanuel Macron et Jean-Luc Mélenchon n'assisteront pas à la messe place de la Concorde cet après-midi |
+| 23/09 | Crise des carburants : «Le gouvernement est dépassé par la situation», déplore Jean-Luc Mélenchon |
+| 14/09 | Présidentielle 2027 : Marine Le Pen loin devant, Jean-Luc Mélenchon au second tour dans 4 scénarios testés sur 6, selon un dernier sondage |
+| 11/09 | Effacer la dette serait «illégal, dangereux et inutile» : le gouverneur de la Banque de France répond à Jean-Luc Mélenchon et tacle sa proposition |
+| 11/09 | Discours de Jean-Luc Mélenchon, débat entre Fabien Roussel et le président du Medef… Quel est le programme politique de la Fête de l’Humanité ? |
+| 11/09 | Sondage : sans candidature unique au centre, Jean-Luc Mélenchon en ballotage favorable pour accéder au second tour face à Marine Le Pen |
+| 07/09 | «Il y a un climat général de racisme anti-blanc à LFI», lance le président de l'AGRIF, qui a engagé des poursuites contre Jean-Luc Mélenchon |
+| 05/09 | Alimentation : «La France n'est plus un pays souverain», déplore Jean-Luc Mélenchon |
+| 02/09 | Présidentielle 2027 : «J'ai été convaincu, j'ai changé d'avis», Jean-Luc Mélenchon assume son changement de position sur le voile islamique |
+| 27/08 | Présidentielle 2027 : de Marine Le Pen à Jean-Luc Mélenchon, sept candidats sur le gril d'un débat économique devant le Medef ce jeudi |
+| 25/08 | Présidentielle 2027 : entre Raphaël Glucksmann et Jean-Luc Mélenchon, les Écologistes plus que jamais divisés |
+| 23/08 | «Pas de leçons d'impartialité à recevoir» : Laurent Nuñez riposte aux propos de Jean-Luc Mélenchon |
+| 23/08 | Budget 2027 : Jean-Luc Mélenchon promet de censurer le gouvernement |
+| 23/08 | Présidentielle 2027 : «Sur chaque sujet, la macronie se montre soit incapable, soit à contresens», tacle Jean-Luc Mélenchon |
+| 23/08 | Présidentielle 2027 : Jean-Luc Mélenchon tend-il la main pour imposer sa loi ? |
+| 22/08 | «J'aimerais qu'il vienne ici et qu'il constate la crise migratoire» : depuis Mayotte, Édouard Philippe répond à Jean-Luc Mélenchon |
+| 05/08 | «Quels problèmes concrets avez-vous réglés ?» : Gabriel Attal répond à Jean-Luc Mélenchon au sujet des gens du voyage |
+| 29/07 | «C'est de la police politique, violente» : Eric Piolle, l'ancien maire de Grenoble, demande à Jean-Luc Mélenchon de «reconnaître une erreur» après l'interruption du concert de Barbara Butch |
+| 15/07 | Jean-Luc Mélenchon veut dissoudre la BRAV-M : «C'est bien dommage que la connerie ne puisse pas être dissoute», lui répond cet eurodéputé RN |
+| 10/07 | Présidentielle 2027 : à Avignon, Jean-Luc Mélenchon promet la «fin des coupes budgétaires» dans la culture |
+| 09/07 | Présidentielle 2027 : Marine Le Pen en tête des intentions de vote au premier tour, loin devant Edouard Philippe et Jean-Luc Mélenchon |
+| 05/07 | Présidentielle 2027 : Jean-Luc Mélenchon certain de battre le RN, peut-être même «dès le premier tour» |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Jean-Luc+M%C3%A9lenchon, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

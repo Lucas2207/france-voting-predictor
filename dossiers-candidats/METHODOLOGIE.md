@@ -98,13 +98,48 @@ Relevé le 1er novembre 2026. Période visée : du 1er juillet 2026 à aujourd'h
 
 **Contrôles :** nombre de lignes de chaque section franceinfo comparé au total annoncé.
 
-## 5. Ce qui n'est pas fait
+## 5. Le Monde (lemonde.fr)
+
+**Source :** la recherche du site, `https://www.lemonde.fr/recherche/?search_keywords=<nom complet>&start_at=01%2F07%2F2026&end_at=01%2F11%2F2026&page=N`. Les dates de début et de fin sont appliquées par le site, au format JJ/MM/AAAA. Une page affiche 40 résultats ; la pagination s'arrête à la page renvoyant une erreur 404.
+
+**Relevé :**
+- chargement de chaque page de résultats (`page=1`, `page=2`…) jusqu'à la 404 : pour Marine Le Pen, 502 résultats sur 13 pages ; pour Raphaël Glucksmann, 226 sur 6 pages ;
+- pour chaque résultat : titre, chapô et adresse de l'article. La date est lue dans l'adresse (`/article/AAAA/MM/JJ/`), car certaines cartes affichent « Publié hier » ;
+- sont retenus les articles datés du 1er juillet au 1er novembre 2026 dont le nom du candidat figure dans le titre ou le chapô ; un article dont le nom n'apparaît que dans le chapô est marqué « (chapô) ».
+
+**Limites :**
+- le site limite les requêtes : après plusieurs pages, il renvoie une erreur 429. La collecte a été reprise à la page interrompue après une pause, sans perte de pages ;
+- « Le Pen » peut retenir des articles sur Jean-Marie Le Pen. Pour Marine Le Pen, deux articles de ce type (7 octobre et 4 juillet) ont été vérifiés à la main et retirés ; un article du 30 août (Lisnard, « second tour Le Pen-Mélenchon » dans le chapô) désigne la candidate sans la nommer et reste compté ;
+- le nom de famille « Roussel » ou « Ruffin » peut désigner une autre personne : pour François Ruffin, un article sur Laurence Ruffin, maire de Grenoble, a été retiré à la main ;
+- le chapô étant souvent complet, un article peut être compté pour un candidat parce qu'il le cite sans être centré sur lui (même convention que pour les autres médias).
+
+**Contrôles :** nombre de lignes de chaque section Le Monde comparé au total annoncé ; vérification du sujet pour Marine Le Pen et François Ruffin.
+
+## 6. CNEWS (cnews.fr)
+
+**Source :** la recherche du site, `https://www.cnews.fr/rechercher/<nom complet>`. Une page affiche 20 résultats, triés par date décroissante ; la pagination est gérée par le serveur (`?_wrapper_format=html&page=N`).
+
+**Relevé :**
+- chargement des pages de résultats jusqu'à deux pages consécutives entièrement antérieures au 1er juillet 2026. L'ordre par date n'est pas strictement respecté (une page peut contenir un article plus récent que la précédente) : une seule page ancienne ne suffit donc pas à arrêter le relevé ;
+- date lue dans l'adresse de l'article (`/AAAA-MM-JJ/`), car les cartes de résultats n'affichent pas la date. Pour les émissions vidéo, la date de l'adresse peut être d'un jour après celle indiquée dans le titre (« Émission du 08/09/2026 » listé au 09/09) ;
+- sont retenus les articles datés du 1er juillet au 1er novembre 2026 dont le nom du candidat figure dans le titre. Le chapô n'est pas affiché sur la page de recherche : seul le titre est vérifié, comme pour TF1 ;
+- le « En direct » placé devant certains titres est retiré.
+
+**Limites :**
+- la recherche porte sur le texte des articles, pas sur le titre : des articles qui citent le candidat sans le nommer dans le titre ne sont pas retenus ;
+- le nom de famille sert au filtre, sauf pour Édouard Philippe (« Édouard Philippe », pour exclure les homonymes). Pour Marine Le Pen, aucun des 140 titres chargés ne concerne Jean-Marie ou Marie-Caroline Le Pen ;
+- pas de vérification du sujet au-delà du titre : un article peut être compté pour un candidat parce qu'il le nomme sans être centré sur lui (même convention que pour les autres médias) ;
+- la recherche renvoie beaucoup de résultats pour les candidats les plus cités (1 280 pour Marine Le Pen) ; l'exhaustivité n'est pas garantie, puisque l'arrêt dépend de l'ordre par date.
+
+**Contrôles :** nombre de lignes de chaque section CNEWS comparé au total annoncé. Aucun article de la période pour Nathalie Arthaud ; un seul pour François Ruffin.
+
+## 7. Ce qui n'est pas fait
 
 - pas d'ouverture des articles un par un : le classement se base sur le titre et le chapô ou l'adresse ;
 - pas de couverture de BFMTV pour juillet à septembre 2026 ;
 - les dossiers Radio France ne sont pas tous à jour pour les personnalités sans page propre (Zemmour, Lisnard, Roussel) : ils sont couverts par les pages des autres personnalités citées dans les chapôs.
 
-## 6. Fichiers
+## 8. Fichiers
 
 - Dossiers par candidat : `dossiers-candidats/<nom>/README.md`
 - Tableaux Radio France : section « Radio France » de chaque dossier (les anciens fichiers `radio-france-<nom>-emissions.md` à la racine ont été supprimés une fois repris dans les dossiers)

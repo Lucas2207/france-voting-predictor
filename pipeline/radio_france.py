@@ -1,4 +1,4 @@
-"""Émissions et articles sur les candidats : relevés manuels, par personne.
+"""Émissions et articles sur les candidats, tous médias confondus : relevés manuels, par personne.
 
 Source : dossiers-candidats/<nom>/README.md (un dossier par candidat). Chaque tableau donne une
 entrée par ligne :
@@ -18,7 +18,7 @@ MONTHS = {"janv": 1, "févr": 2, "mars": 3, "avr": 4, "mai": 5, "juin": 6, "juil
 YEAR = 2026
 STATIONS = {"FI": "France Inter", "FC": "France Culture", "fi": "franceinfo", "franceinfo": "franceinfo"}
 SUBJECTS = {"oui": "oui", "partiellement": "partiellement", "non": "non"}
-OUTPUT = Path("data/radio_france.json")
+OUTPUT = Path("data/medias_candidats.json")
 
 # candidat -> dossier
 DOSSIERS = {
@@ -123,7 +123,7 @@ def _files():
 
 
 def build(root=Path(".")):
-    """Lit les dossiers, retire les doublons, écrit data/radio_france.json."""
+    """Lit les dossiers, retire les doublons, écrit data/medias_candidats.json."""
     rows, seen, surveyed = [], set(), []
     for candidate, rel in _files():
         path = root / rel

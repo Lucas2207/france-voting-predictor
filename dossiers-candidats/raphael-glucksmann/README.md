@@ -313,6 +313,105 @@ Total : 115 articles.
 | 18/08 | Le parquet de Paris enquête sur des soupçons d'ingérence russe ciblant Édouard Philippe et Gabriel Attal (chapô) |
 | 12/08 | Raphaël Glucksmann annonce avoir porté plainte après des ingérences étrangères |
 
+## Le Monde (lemonde.fr)
+
+Source : https://www.lemonde.fr/recherche/?search_keywords=Rapha%C3%ABl%20Glucksmann&start_at=01%2F07%2F2026&end_at=01%2F11%2F2026 (pages 1 à 6, 226 résultats parcourus). Un article est compté si « Glucksmann » figure dans son titre ou son chapô, daté du 1er juillet au 1er novembre 2026 ; le chapô est marqué « (chapô) » quand le nom n'apparaît que dans le chapô.
+
+Total : 62 articles.
+
+| Date (2026) | Titre |
+|---|---|
+| 30/10 | Attentat raciste à Trappes : « Que faut-il de plus pour ouvrir les yeux ? », a lancé le maire, Ali Rabeh, lors du rassemblement en hommage aux victimes, pointant la responsabilité du RN (chapô) |
+| 27/10 | Attentat de Trappes : la gauche en ordre dispersé dans les rassemblements contre le racisme (chapô) |
+| 26/10 | Raphaël Glucksmann, un candidat à la présidentielle à la recherche de la jeunesse perdue |
+| 20/10 | Mobilisation du 17 octobre : Raphaël Glucksmann, absent du terrain, tente de rattraper le mouvement |
+| 20/10 | Présidentielle 2027 : « Raphaël Glucksmann est devenu le domino qui bouscule le reste de l'édifice » |
+| 15/10 | Présidentielle : Raphaël Glucksmann peut-il rassembler la gauche ? |
+| 15/10 | Présidentielle 2027 : Raphaël Glucksmann dénonce la « capitulation » de Marine Le Pen sur l'aide à l'Ukraine |
+| 15/10 | Présidentielle 2027 : les candidats esquissent leur programme pour la presse (chapô) |
+| 13/10 | Présidentielle 2027 : Raphaël Glucksmann doit sortir du flou programmatique |
+| 12/10 | Présidentielle 2027 : refuser toute alliance avec LFI aux législatives, l'engagement fragile de Raphaël Glucksmann |
+| 12/10 | Présidentielle 2027 : Raphaël Glucksmann, vainqueur de la primaire à gauche, doit désormais mettre la famille sociale-démocrate en ordre de bataille |
+| 11/10 | Primaire de la gauche sociale-démocrate : plus de 110 000 personnes ont déjà voté, selon la commission d'organisation (chapô) |
+| 09/10 | Le sinueux parcours de Ségolène Royal et Raphaël Glucksmann, deux candidats de gauche qui s'accusent d'être de droite |
+| 09/10 | Primaire de la gauche sociale-démocrate : avec plus de 140 000 votants, une élection plus incertaine que prévu (chapô) |
+| 09/10 | Primaire de la gauche sociale-démocrate : « génocide » à Gaza, ce mot qui crée une fracture entre les candidats (chapô) |
+| 06/10 | Primaire à gauche : plus de 140 000 personnes se sont inscrites pour désigner leur candidat à la présidentielle (chapô) |
+| 05/10 | Au Sénat, les deux élus du parti de Raphaël Glucksmann, Place publique, siégeront au sein du groupe écologiste |
+| 05/10 | Primaire à gauche : les accusations de « brutalisation » et la divergence sur les alliances provoquent un débat heurté (chapô) |
+| 04/10 | Primaire de la gauche : Raphaël Glucksmann se dit « désolé » après ses propos « inélégants » sur Ségolène Royal |
+| 02/10 | Primaire à gauche : sur France 2, les cinq candidats maintiennent leurs lignes de convergence et de fracture (chapô) |
+| 25/09 | Présidentielle 2027 : Yannick Jadot suspendu à titre conservatoire par Les Ecologistes en raison de son soutien à la candidature de Raphaël Glucksmann |
+| 24/09 | Primaire à gauche : la situation à Gaza et l'alliance avec LFI électrisent le premier débat télévisé (chapô) |
+| 23/09 | Primaire à gauche : la valse-hésitation d'Olivier Faure (chapô) |
+| 22/09 | Présidentielle 2027 : Ségolène Royal, trublion de la primaire à gauche (chapô) |
+| 22/09 | Nicolas Mayer-Rossignol, le maire de Rouen atteint d'un cancer, a fait le choix de la transparence : « Ça m'a libéré, c'est difficile de garder ça pour soi » (chapô) |
+| 21/09 | Primaire à gauche : Raphaël Glucksmann, traité de « stagiaire » par Ségolène Royal, la renvoie à des postes « quémandés pendant quarante-cinq ans » |
+| 20/09 | Présidentielle 2027 : Raphaël Glucksmann en campagne dans un territoire rural pour tenter de casser son image de Parisien |
+| 20/09 | Primaire à gauche : Ségolène Royal critique le manque d'expérience de Raphaël Glucksmann |
+| 19/09 | « Il n'est pas au PS » : rencontre avec des militants socialistes peu enclins à soutenir Raphaël Glucksmann pour la primaire à gauche |
+| 16/09 | Présidentielle 2027 : cinq candidats sur la ligne de départ de la primaire à gauche (chapô) |
+| 14/09 | Primaire du PS : la candidature contrariée de Matthieu Pigasse (chapô) |
+| 09/09 | Présidentielle 2027 : Anne Hidalgo apporte son soutien à Raphaël Glucksmann pour la primaire à gauche |
+| 09/09 | Primaire du PS : le duel entre Olivier Faure et Raphaël Glucksmann électrise la campagne |
+| 08/09 | Présidentielle 2027 : Raphaël Glucksmann rejette l'idée d'une primaire élargie à François Ruffin, estimant qu'« on ne change pas les règles en cours de jeu » |
+| 07/09 | Présidentielle 2027 : deux macronistes historiques appellent à une vaste coalition contre le RN, sans Les Républicains de Retailleau (chapô) |
+| 05/09 | Guerre en Ukraine : le RN est un « cheval de Troie des impérialistes » pour Marine Tondelier, le « parti de l'étranger » pour Raphaël Glucksmann |
+| 03/09 | Présidentielle 2027 : Raphaël Glucksmann se pose en figure de la « révolution écologique » à gauche |
+| 02/09 | Présidentielle 2027 : les débats télévisés, source de tensions avant la primaire socialiste (chapô) |
+| 30/08 | Présidentielle 2027 : à l'université d'été du PS, le duel à fleurets mouchetés d'Olivier Faure et de Raphaël Glucksmann, favoris de la primaire à gauche |
+| 27/08 | Présidentielle 2027 : Boris Vallaud, chef du PS à l'Assemblée nationale, annonce son soutien à Raphaël Glucksmann |
+| 26/08 | Raphaël Glucksmann : « La cohérence écologique, nous la portons » |
+| 26/08 | Présidentielle 2027 : le parti du député Emmanuel Maurel participera à la primaire du PS et de Place publique (chapô) |
+| 26/08 | Budget : la gauche repart à la charge pour taxer davantage l'héritage (chapô) |
+| 25/08 | Raphaël Glucksmann promet une « révolution écologique » en cent jours s'il est élu président de la République |
+| 25/08 | Présidentielle 2027 : le duo Raphaël Glucksmann-Yannick Jadot se pose en défenseur de l'écologie lors d'un déplacement en Charente-Maritime |
+| 24/08 | Présidentielle 2027 : Yannick Jadot se range derrière Raphaël Glucksmann et sera chargé de préparer « la mise en place d'un état d'urgence écologique » |
+| 24/08 | Présidentielle 2027 : la bataille des gauches est lancée (chapô) |
+| 23/08 | Raphaël Glucksmann annonce être candidat à l'élection présidentielle de 2027 dans le cadre de la primaire organisée avec le PS |
+| 23/08 | Léa Salamé se retire du « 20 heures » de France 2 après la déclaration officielle de candidature de Raphaël Glucksmann |
+| 22/08 | Olivier Faure dit ne pas vouloir « rejouer les gauches irréconciliables », aux Journées d'été des Ecologistes (chapô) |
+| 20/08 | Présidentielle 2027 : Les Ecologistes tiraillés entre Jean-Luc Mélenchon et Raphaël Glucksmann |
+| 18/08 | Le parquet de Paris se saisit des soupçons d'ingérence russes ayant ciblé Gabriel Attal et Edouard Philippe (chapô) |
+| 10/08 | Présidentielle 2027 : Raphaël Glucksmann soutenu par Daniel Cohn-Bendit, qui vante son « positionnement nouveau » |
+| 07/08 | Présidentielle 2027 : Glucksmann, Attal, Philippe… les ingérences russes s'invitent dans la campagne |
+| 06/08 | Le parquet de Paris ouvre une enquête sur des soupçons d'ingérence russe visant Raphaël Glucksmann |
+| 06/08 | Edouard Philippe, Raphaël Glucksmann, Gabriel Attal pris pour cibles par des ingérences russes : pourquoi il peut être contreproductif de dénoncer ces opérations |
+| 05/08 | Présidentielle 2027 : Gabriel Attal visé par « une ingérence en provenance de Russie » (chapô) |
+| 04/08 | Raphaël Glucksmann dénonce une opération russe de « déstabilisation » le visant et impliquant Léa Salamé, sa compagne, et Edwy Plenel |
+| 15/07 | Présidentielle 2027 : en Gironde, Raphaël Glucksmann entretient le suspense sur sa candidature |
+| 12/07 | Raphaël Glucksmann, une éducation politique passée par la Géorgie |
+| 11/07 | Ségolène Royal, Raphaël Glucksmann, François Hollande… La primaire sociale-démocrate cherche ses candidats |
+| 11/07 | Présidentielle 2027 : Clémentine Autain prend acte de l'échec de la « primaire unitaire » de la gauche et renonce à être candidate (chapô) |
+
+## CNEWS (cnews.fr)
+
+Source : https://www.cnews.fr/rechercher/Rapha%C3%ABl%20Glucksmann (recherche du site, 20 résultats par page, tri par date décroissante ; relevé arrêté après deux pages entières antérieures au 1er juillet 2026). Un article est compté si « Glucksmann » figure dans son titre ; le chapô n'est pas affiché sur la page de recherche.
+
+Total : 19 articles.
+
+| Date (2026) | Titre |
+|---|---|
+| 15/10 | Sondage : à six mois de la présidentielle, Marine Le Pen largement en tête devant Jean-Luc Mélenchon et Raphaël Glucksmann |
+| 15/10 | Des stages rémunérés 1.000 euros par mois : Raphaël Glucksmann promet que cette mesure entrera en vigueur dès le jour de son élection à l'Elysée |
+| 14/10 | Présidentielle 2027 : quels sont les soutiens de Raphaël Glucksmann dans sa campagne ? |
+| 13/10 | «Si ça dérive vers le macronisme, ce sera sans moi» : battue à la primaire de gauche, Ségolène Royal déjà prête à lâcher Raphaël Glucksmann |
+| 12/10 | Présidentielle 2027 : Raphaël Glucksmann enfariné après sa victoire à la primaire de la gauche sociale-démocrate (vidéo) |
+| 11/10 | Primaire de la gauche : derrière la victoire de Raphaël Glucksmann, comment se sont classés ses rivaux ? |
+| 11/10 | Présidentielle 2027 : Raphaël Glucksmann remporte la primaire de la gauche avec 66% des voix |
+| 05/10 | «Danse du ventre à Emmanuel Macron» : Raphael Glucksmann se dit «désolé» après ses propos «inélégants» sur Ségolène Royal |
+| 04/10 | «On leur pisse dessus» : Raphaël Glucksmann s'attaque à Jean-Luc Mélenchon et Marine Le Pen lors d'un débrief du débat du Medef (vidéo) |
+| 02/10 | «Ce que tu fais est obscène» : à la primaire de gauche, passe d'armes entre Raphael Glucksmann et Olivier Faure autour du mot «génocide» |
+| 25/09 | Présidentielle 2027 : Yannick Jadot suspendu temporairement des Écologistes, pour son soutien à Raphaël Glucksmann |
+| 22/09 | Passe d'armes entre Ségolène Royal et Raphaël Glucksmann : «On a une chamaillerie de cour de récré qui n'est pas à la hauteur de l'enjeu», s'indigne Jérôme Guedj |
+| 21/09 | Présidentielle 2027 : «Il n'a jamais géré quoi que ce soit», «stagiaire en politique».... La charge virulente de Ségolène Royal contre Raphaël Glucksmann |
+| 08/09 | «Sans ton crime de lèse-majesté, tu serais encore à LFI» : l'ancien macroniste Sacha Houlié, désormais soutien de Raphaël Glucksmann, charge François Ruffin |
+| 25/08 | Présidentielle 2027 : entre Raphaël Glucksmann et Jean-Luc Mélenchon, les Écologistes plus que jamais divisés |
+| 24/08 | Présidentielle 2027 : l'écologiste Yannick Jadot annonce son ralliement à Raphaël Glucksmann |
+| 23/08 | Présidentielle 2027 : Raphaël Glucksmann officialise sa candidature |
+| 22/08 | Présidentielle 2027 : Raphaël Glucksmann devrait annoncer sa candidature ce dimanche |
+| 05/08 | Présidentielle 2027 : après Edouard Philippe et Raphaël Glucksmann, Gabriel Attal visé par «une ingérence en provenance de Russie» |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Rapha%C3%ABl+Glucksmann, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

@@ -89,6 +89,63 @@ Total : 16 articles.
 | 08/09 | Présidentielle 2027 : les détails de la charte envoyée par Hervé Morin aux candidats de la droite et du centre pour l'organisation d'une primaire (chapô) |
 | 25/08 | David Lisnard, candidat à la présidentielle, relance l'idée d'une primaire ouverte de la droite et du centre pour 2027 |
 
+## Le Monde (lemonde.fr)
+
+Source : https://www.lemonde.fr/recherche/?search_keywords=David%20Lisnard&start_at=01%2F07%2F2026&end_at=01%2F11%2F2026 (pages 1 à 2, 41 résultats parcourus). Un article est compté si « Lisnard » figure dans son titre ou son chapô, daté du 1er juillet au 1er novembre 2026 ; le chapô est marqué « (chapô) » quand le nom n'apparaît que dans le chapô.
+
+Total : 7 articles.
+
+| Date (2026) | Titre |
+|---|---|
+| 23/10 | Incendie de la mairie de Limoges : « Nous, élus du plateau de Millevaches, refusons les amalgames et les caricatures qu'on fait de notre territoire » (chapô) |
+| 21/10 | Des maires de gauche reprochent à David Lisnard ses propos sur le massacre du 17 octobre 1961 |
+| 17/10 | Présidentielle 2027 : autour de la candidature de David Lisnard, « il se passe quelque chose », mais quoi ? |
+| 11/09 | David Lisnard, candidat à la présidentielle de 2027, veut rester président de l'Association des maires de France |
+| 09/09 | Présidentielle 2027 : Edouard Philippe propose une rencontre début novembre pour amorcer le rassemblement de la droite et du centre, sans susciter d'entrain (chapô) |
+| 30/08 | Présidentielle 2027 : à Cannes, David Lisnard bat la campagne pour une grande primaire de la droite |
+| 25/08 | David Lisnard, président du parti Nouvelle Energie : « Sans une grande primaire ouverte à tous, la droite et le centre ne seront pas en mesure de l'emporter » |
+
+## CNEWS (cnews.fr)
+
+Source : https://www.cnews.fr/rechercher/David%20Lisnard (recherche du site, 20 résultats par page, tri par date décroissante ; relevé arrêté après deux pages entières antérieures au 1er juillet 2026). Un article est compté si « Lisnard » figure dans son titre ; le chapô n'est pas affiché sur la page de recherche.
+
+Total : 32 articles.
+
+| Date (2026) | Titre |
+|---|---|
+| 28/10 | Appel à Éric Ciotti, baisse des cotisations salariales, justice des mineurs… Ce qu’il faut retenir d’Objectif Elysée 2027 avec David Lisnard |
+| 27/10 | Objectif Élysée 2027 : «Aujourd'hui, le système de la fiscalité locale est totalement absurde», dénonce David Lisnard |
+| 27/10 | David Lisnard sur la loi «casseurs-payeurs» : «La société n'a plus à subventionner ceux qui la détruisent» |
+| 27/10 | David Lisnard : «J'appelle Éric Ciotti à me rejoindre et à se séparer du RN» |
+| 27/10 | Objectif Élysée 2027 : «Il faut durcir la justice des mineurs dans l'exécution des choses», souligne David Lisnard |
+| 27/10 | Violences urbaines du 17 octobre : «Il y a eu une défaillance de l'Etat», assène David Lisnard |
+| 27/10 | Objectif Élysée 2027 : «L'extrême gauche empoisonne la tête de nos compatriotes d'origines étrangères», dénonce David Lisnard |
+| 27/10 | David Lisnard : «Les attaques de journalistes de CNEWS, de Frontières, c'est impensable» |
+| 27/10 | Objectif Élysée 2027 : «Les dérives de Jean-Luc Mélenchon sont antirépublicaines et néofascistes», pointe David Lisnard |
+| 27/10 | Objectif Élysée 2027 : «Je propose depuis des mois une grande primaire ouverte», martèle David Lisnard |
+| 27/10 | Objectif Élysée 2027 : «Je porte un projet de prospérité, d'autorité et de retour au bon sens», assure David Lisnard |
+| 07/10 | Blocus des lycées : «L'extrême gauche a un rôle criminel», dénonce David Lisnard |
+| 07/10 | Blocus des lycées : «Jean-Luc Mélenchon ne considère les gens que comme de l'électorat potentiel ou des éléments de l'insurrection», charge David Lisnard |
+| 07/10 | Blocus des lycées : «Il faut sanctionner sévèrement les casseurs», souligne David Lisnard |
+| 04/10 | Blocus des lycées : «Cette colère lycéenne a été biaisée», analyse David Lisnard |
+| 25/09 | Présidentielle 2027 : David Lisnard poursuit sa campagne ce vendredi en Alsace |
+| 20/09 | «Il est différent et singulier» : la campagne de terrain de David Lisnard porte ses fruits |
+| 10/09 | Présidentielle 2027 : en pleine campagne, David Lisnard brigue un nouveau mandat à la tête de l'Association des maires de France |
+| 03/09 | La grande interview : David Lisnard |
+| 03/09 | Immigration : «Il faut rétablir le délit de séjour illégal en France», plaide David Lisnard |
+| 03/09 | «Jean-Luc Mélenchon a viré dans le neofascisme», avance David Lisnard |
+| 03/09 | «Il faut rassembler les voix de la droite et du centre», martèle David Lisnard |
+| 03/09 | «L'Etat-providence est mort, il faut un Etat-performance au service de la société», estime David Lisnard |
+| 29/08 | David Lisnard propose «une grande primaire ouverte de la droite et du centre-droit» |
+| 25/08 | Présidentielle 2027 : pour éviter la «division qui conduirait inévitablement à l’échec», David Lisnard appelle à une primaire de la droite et du centre |
+| 14/08 | Présidentielle 2027 : un ancien joueur de l’équipe de France de football se rapproche de David Lisnard |
+| 09/08 | Présidentielle 2027 : David Lisnard affirme que «le modèle de l'État-providence est mort» et dénonce les promesses du pouvoir |
+| 31/07 | Incendies en France : David Lisnard à la rencontre des élus et des sinistrés de plusieurs communes ce vendredi |
+| 27/07 | Incendies en France : «Les maires, souvent bénévoles, font un travail remarquable auprès de leur population et des pompiers», salue David Lisnard |
+| 10/07 | Présidentielle 2027 : dans son programme, David Lisnard défend une «révolution de l’école de la Démocratie» |
+| 04/07 | Présidentielle 2027 : David Lisnard dénonce «une caste prête à tout» pour se maintenir au pouvoir |
+| 03/07 | Présidentielle 2027 : David Lisnard tient son premier meeting de campagne ce vendredi à Saint-Raphaël |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=David+Lisnard, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

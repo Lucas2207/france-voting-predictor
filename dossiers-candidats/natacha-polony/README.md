@@ -71,6 +71,27 @@ Total : 7 articles.
 | 14/10 | L'essayiste Natacha Polony annonce sa candidature à l'élection présidentielle |
 | 31/08 | La journaliste Natacha Polony se lance en politique pour "perturber l'entre-soi" |
 
+## Le Monde (lemonde.fr)
+
+Source : https://www.lemonde.fr/recherche/?search_keywords=Natacha%20Polony&start_at=01%2F07%2F2026&end_at=01%2F11%2F2026 (page 1, 4 résultats parcourus). Un article est compté si « Polony » figure dans son titre ou son chapô, daté du 1er juillet au 1er novembre 2026 ; le chapô est marqué « (chapô) » quand le nom n'apparaît que dans le chapô.
+
+Total : 1 article.
+
+| Date (2026) | Titre |
+|---|---|
+| 14/10 | Présidentielle 2027 : Natacha Polony se déclare candidate pour « perturber le jeu politique » |
+
+## CNEWS (cnews.fr)
+
+Source : https://www.cnews.fr/rechercher/Natacha%20Polony (recherche du site, 20 résultats par page, tri par date décroissante ; relevé arrêté après deux pages entières antérieures au 1er juillet 2026). Un article est compté si « Polony » figure dans son titre ; le chapô n'est pas affiché sur la page de recherche.
+
+Total : 2 articles.
+
+| Date (2026) | Titre |
+|---|---|
+| 20/10 | Violences urbaines : «Il y a eu une faille tragique du renseignement», dénonce Natacha Polony |
+| 14/10 | Présidentielle 2027 : l'essayiste Natacha Polony annonce sa candidature |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Natacha+Polony, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

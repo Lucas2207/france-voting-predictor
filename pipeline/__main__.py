@@ -239,7 +239,7 @@ def main():
 
     # 5. Modèle et sortie
     days = {d: news.load_day(d) for d in news.all_days()}
-    survey = _load(Path("data/radio_france.json"), {"rows": []})
+    survey = _load(Path("data/medias_candidats.json"), {"rows": []})
     history, projection = model.build(poll_data["polls"], days, candidates, today,
                                       history_start=today - timedelta(days=HISTORY_DAYS),
                                       dossier_rows=survey["rows"])

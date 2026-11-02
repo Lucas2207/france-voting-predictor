@@ -1,5 +1,7 @@
 # Dossier Nathalie Arthaud : émissions et articles depuis le 1er juillet 2026
 
+## Radio France
+
 Source : https://www.radiofrance.fr/personnes/nathalie-arthaud (pages 1 et 2), relevé le 1er novembre 2026.
 
 Méthode : titre et chapeau de chaque entrée. Les articles n'ont pas été ouverts un par un.
@@ -49,6 +51,24 @@ Total : 3 articles.
 | 22/10 | L'extrême gauche pointée du doigt après le 17 octobre : "la casse, ce n'est pas une politique pour les travailleurs", répond Nathalie Arthaud |
 | 22/10 | "Cette irruption de la jeunesse, on ne la voyait pas venir", commente Nathalie Arthaud, candidate Lutte ouvrière à l'élection présidentielle |
 | 06/10 | "Le gouvernement ne se donne pas les moyens pour que la jeunesse vive dignement" : Nathalie Arthaud soutient la mobilisation des lycéens des Outre-mer |
+
+## Le Monde (lemonde.fr)
+
+Source : https://www.lemonde.fr/recherche/?search_keywords=Nathalie%20Arthaud&start_at=01%2F07%2F2026&end_at=01%2F11%2F2026 (page 1, 3 résultats parcourus). Un article est compté si « Arthaud » figure dans son titre ou son chapô, daté du 1er juillet au 1er novembre 2026 ; le chapô est marqué « (chapô) » quand le nom n'apparaît que dans le chapô.
+
+Total : 1 article.
+
+| Date (2026) | Titre |
+|---|---|
+| 19/10 | Présidentielle 2027 : Nathalie Arthaud, candidate à une élection dont « il ne faut pas tout attendre », a démarré sa tournée des régions près de Toulouse |
+
+## CNEWS (cnews.fr)
+
+Source : https://www.cnews.fr/rechercher/Nathalie%20Arthaud (recherche du site, 20 résultats par page, tri par date décroissante ; relevé arrêté après deux pages entières antérieures au 1er juillet 2026). Un article est compté si « Arthaud » figure dans son titre ; le chapô n'est pas affiché sur la page de recherche.
+
+Total : 0 articles.
+
+Aucun article de la période ne porte le nom du candidat dans son titre.
 
 ## Le Parisien
 

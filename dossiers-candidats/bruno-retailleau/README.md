@@ -135,6 +135,119 @@ Total : 39 articles.
 | 26/08 | Bruno Retailleau accuse La France insoumise d'être un "parti de collabos" avec l'islamisme |
 | 18/08 | Ralliement de Gérald Darmanin à Édouard Philippe : "C'est simplement un macroniste qui rejoint un autre macroniste", réagit Céline Imart, secrétaire nationale LR (chapô) |
 
+## Le Monde (lemonde.fr)
+
+Source : https://www.lemonde.fr/recherche/?search_keywords=Bruno%20Retailleau&start_at=01%2F07%2F2026&end_at=01%2F11%2F2026 (pages 1 à 6, 219 résultats parcourus). Un article est compté si « Retailleau » figure dans son titre ou son chapô, daté du 1er juillet au 1er novembre 2026 ; le chapô est marqué « (chapô) » quand le nom n'apparaît que dans le chapô.
+
+Total : 37 articles.
+
+| Date (2026) | Titre |
+|---|---|
+| 26/10 | Jonas Haddad, le porte-parole de Bruno Retailleau qui veut défendre les jeunes actifs écrasés par « le système » |
+| 17/10 | Présidentielle 2027 : François Fillon apporte son soutien à Bruno Retailleau, « seul candidat crédible qui soit clairement à droite » |
+| 15/10 | Présidentielle 2027 : les candidats esquissent leur programme pour la presse (chapô) |
+| 13/10 | Bruno Retailleau présente un plan de 197 milliards d'euros d'économies pour redresser une France « quasiment en faillite » |
+| 10/10 | Référendum : l'histoire tourmentée de l'article 11 de la Constitution, au cœur de la campagne présidentielle (chapô) |
+| 09/10 | Présidentielle 2027 : François Baroin apporte son soutien à Bruno Retailleau contre un Edouard Philippe « premier de cordée » du macronisme |
+| 07/10 | Face au mouvement lycéen, la droite, sourde aux revendications, se place sur le seul terrain sécuritaire (chapô) |
+| 04/10 | Immigration : les naturalisations se grippent pour les étrangers à « potentiel élevé pour notre pays » (chapô) |
+| 02/10 | Propos antisémites de Jordan Bardella : la droite reste prudente malgré des « preuves accablantes » présentées par « Mediapart » (chapô) |
+| 01/10 | Blocage des lycées : Bruno Retailleau propose « l'interdiction de LFI » qui « appelle à la sédition », Jean-Luc Mélenchon lui répond |
+| 30/09 | Bruno Retailleau : « Le problème de l'Europe, c'est qu'elle a donné le sentiment aux peuples de contourner la démocratie » |
+| 30/09 | Présidentielle 2027 : Bruno Retailleau gêne la droite européenne avec sa remise en cause de la primauté du droit de l'UE |
+| 23/09 | Présidentielle 2027 : Bruno Retailleau veut instaurer un âge minimal de départ à la retraite à 63 ans et un taux plein à 65 ans |
+| 20/09 | Eric Ciotti appelle Bruno Retailleau à le rejoindre « dans une maison de droite forte » |
+| 16/09 | Présidentielle 2027 : Bruno Retailleau repart sur le terrain du pouvoir d'achat pour se démarquer des « bonimenteurs » dans la campagne |
+| 15/09 | Présidentielle 2027 : Edouard Philippe, Gabriel Attal et Bruno Retailleau pris au piège de la dispersion |
+| 14/09 | Alain Madelin et Jean-Philippe Feldman : « La souveraineté populaire peut et doit être limitée, n'en déplaise aux populistes de tout poil » (chapô) |
+| 12/09 | Présidentielle 2027 : Bruno Retailleau pousse le curseur de la « radicalité raisonnable » pour marquer sa différence |
+| 08/09 | Bruno Retailleau souhaite supprimer le droit du sol par référendum |
+| 08/09 | Présidentielle 2027 : Bruno Retailleau présente son équipe de campagne, avec Othman Nasrou pour piloter sa communication |
+| 08/09 | Présidentielle 2027 : Edouard Philippe se démarque de Bruno Retailleau sur l'ouverture du champ du référendum à des sujets comme l'immigration |
+| 08/09 | Présidentielle 2027 : l'hypothèse d'une primaire agite encore la droite et le bloc central (chapô) |
+| 07/09 | Présidentielle 2027 : deux macronistes historiques appellent à une vaste coalition contre le RN, sans Les Républicains de Retailleau |
+| 06/09 | Présidentielle 2027 : Bruno Retailleau dénonce « l'amateurisme » de Jordan Bardella et du RN et appelle leurs électeurs à le soutenir |
+| 02/09 | Présidentielle 2027 : Bruno Retailleau, une approche très libérale du dérèglement climatique |
+| 02/09 | Présidentielle 2027 : Bruno Retailleau promet une réforme constitutionnelle pour donner « le dernier mot » au « peuple français » sur certains sujets |
+| 01/09 | Bruno Retailleau veut « une révolution culturelle » pour l'école et plaide pour la fin du collège unique dans son programme pour la présidentielle |
+| 31/08 | Mort d'Edouard Balladur : Emmanuel Macron salue « un serviteur exigeant, mesuré, dévoué » (chapô) |
+| 27/08 | Présidentielle 2027 : Bruno Retailleau réaffirme sa détermination après un été discret, malgré une campagne qui peine à décoller |
+| 26/08 | Bruno Retailleau accuse LFI d'être un « parti de collabos » avec l'islamisme |
+| 17/07 | Présidentielle 2027 : entre une fidélité contrariée à leur parti et la tentation Edouard Philippe, les ministres LR cherchent leur place (chapô) |
+| 09/07 | Présidentielle 2027 : avec Marine Le Pen, Bruno Retailleau retrouve son adversaire « socialiste » préférée |
+| 06/07 | Au sein de LR, le cas du général Gomart, révélateur des ambiguïtés de Bruno Retailleau |
+| 05/07 | Présidentielle 2027 : Edouard Philippe et la tentation de former une « UMP 2.0 » autour de lui (chapô) |
+| 04/07 | Bruno Retailleau, ultime symptôme du rétrécissement idéologique et électoral de la droite LR |
+| 02/07 | Présidentielle 2027 : Laurent Wauquiez vante Edouard Philippe pour mieux attaquer la candidature de Bruno Retailleau |
+| 01/07 | Présidentielle 2027 : Laurent Wauquiez met à mal la candidature de Bruno Retailleau en tendant la main à Edouard Philippe |
+
+## CNEWS (cnews.fr)
+
+Source : https://www.cnews.fr/rechercher/Bruno%20Retailleau (recherche du site, 20 résultats par page, tri par date décroissante ; relevé arrêté après deux pages entières antérieures au 1er juillet 2026). Un article est compté si « Retailleau » figure dans son titre ; le chapô n'est pas affiché sur la page de recherche.
+
+Total : 58 articles.
+
+| Date (2026) | Titre |
+|---|---|
+| 28/10 | «Il y a un lien entre le désordre migratoire et les désordres sécuritaires», affirme Bruno Retailleau |
+| 28/10 | La grande interview : Bruno Retailleau |
+| 28/10 | «Emmanuel Macron a perdu la main, il est en totale déconnexion», constate Bruno Retailleau |
+| 28/10 | Présidentielle 2027 : «Je demande à nouveau, solennellement, de changer les dates du scrutin», répète Bruno Retailleau |
+| 28/10 | «Mais on est devenus fous ! On a le droit de critiquer le voile en France», s'indigne Bruno Retailleau |
+| 28/10 | Attaque terroriste dans les Yvelines : «Il faut condamner avec la plus grande fermeté ce crime abominable», martèle Bruno Retailleau |
+| 22/10 | Violences urbaines : Bruno Retailleau claque la porte de la réunion des partis politiques à Matignon en dénonçant la présence de LFI |
+| 22/10 | Bruno Retailleau : «Les Français ne se sentent plus protégés. Le risque, c'est qu'ils s'arment pour se faire justice par eux-mêmes» |
+| 21/10 | Violences urbaines : «Il y a-t-il encore un chef après la débâcle ?», demande Bruno Retailleau à Laurent Nuñez |
+| 20/10 | Présidentielle 2027 : pourquoi Bruno Retailleau veut-il changer la date du scrutin ? |
+| 19/10 | Violences urbaines : «Emmanuel Macron s'est montré incapable de rassurer les Français», tacle Bruno Retailleau |
+| 17/10 | Présidentielle 2027 : François Fillon apporte son soutien à Bruno Retailleau |
+| 07/10 | «Il faut que la classe politique dénonce ce parti anti-républicain qu'est LFI», martèle Bruno Retailleau |
+| 07/10 | Blocus des lycées : «Notre pays est malade, l'image de la France à l'international chute», déplore Bruno Retailleau |
+| 07/10 | 7-Octobre : «Le Hamas a déshumanisé, talibanisé, défiguré la cause palestinienne», assure Bruno Retailleau |
+| 06/10 | Blocus des lycées : «On devrait appeler la France insoumise, la France incendiaire», charge Bruno Retailleau |
+| 05/10 | Blocus des lycées : «On devrait nommer LFI : la France incendiaire», ulcère Bruno Retailleau |
+| 05/10 | «Le syndicat de la magistrature fait de la politique en permanence, c'est absolument lamentable», charge Bruno Retailleau |
+| 05/10 | Blocus des lycées : «Il faut distinguer les casseurs des jeunes qui se mobilisent», souligne Bruno Retailleau |
+| 02/10 | Présidentielle 2027 : «les Insoumis sont en train de faire une répétition générale pour 2027», dénonce Bruno Retailleau |
+| 25/09 | Sénatoriales 2026 : Bruno Retailleau, François Rebsamen, Marie-Caroline Le Pen… Qui sont les responsables politiques candidats au scrutin ? |
+| 22/09 | Âge de départ, capitalisation, décote… Bruno Retailleau donne les grandes lignes de sa réforme des retraites |
+| 22/09 | Présidentielle 2027 : Bruno Retailleau veut instaurer un âge minimal de départ à la retraite à 63 ans, le taux plein à 65 |
+| 16/09 | Carburants : Bruno Retailleau appelle le gouvernement à supprimer la taxe sur les certificats d’économie d’énergie |
+| 15/09 | Carburant, énergie, logement... Ce qu’il faut retenir des propositions de Bruno Retailleau sur le pouvoir d'achat |
+| 12/09 | Présidentielle 2027 : «combat de civilisation», révision constitutionnelle... Ce qu’il faut retenir du discours de rentrée de Bruno Retailleau |
+| 12/09 | Présidentielle 2027 : «Le changement, ce sera nous. (...) Il n'y a que nous qui puissions reconstruire la France», clame Bruno Retailleau |
+| 11/09 | Présidentielle 2027 : avant la rentrée des Jeunes LR, Bruno Retailleau promet «un projet qui renverse la table» |
+| 11/09 | Elections sénatoriales : Bruno Retailleau et Gérard Larcher, deux figures des Républicains, ne soutiennent pas le même candidat dans les Bouches-du-Rhône |
+| 09/09 | Présidentielle 2027 : «Rejoignez ceux qui veulent vraiment sauver la France», lance le porte-parole de Marine Le Pen à Bruno Retailleau |
+| 09/09 | Bruno Retailleau : Objectif Élysée 2027 (Émission du 08/09/2026) |
+| 08/09 | Pas d’alliance avec Edouard Philippe, fin du droit du sol, réforme pénale… Ce qu'il faut retenir de l'interview de Bruno Retailleau sur CNEWS |
+| 08/09 | «Pour éviter que le niveau scolaire diminue encore, il ne faut pas d'IA avant le collège», estime Bruno Retailleau |
+| 08/09 | «Le RN porte des idées de droite, mais Marine Le Pen est clairement de gauche sur le plan social et économique», tacle Bruno Retailleau |
+| 08/09 | «Il faut fusionner les allocations familiales en un revenu parental unique», propose Bruno Retailleau |
+| 08/09 | «Il y a trop de bureaucratisation dans l'école publique, il faut la rendre plus agile», assure Bruno Retailleau |
+| 08/09 | «Je veux des peines minimales pour ceux qui tabassent des policiers, des gendarmes ou des pompiers», propose Bruno Retailleau |
+| 08/09 | «Il faut abaisser la majorité pénale à 15 ans», soutient Bruno Retailleau |
+| 08/09 | Interdiction du port du voile : «Le RN sait parfaitement que cette mesure est inapplicable», estime Bruno Retailleau |
+| 08/09 | Immigration : «Il faut renoncer au droit du sol», plaide Bruno Retailleau |
+| 08/09 | «Je veux une droite de conviction, claire dans ses choix, qui n'est pas intimidée par la gauche», martèle Bruno Retailleau |
+| 08/09 | Proposition d'alliance avec Edouard Philippe : «Je n'irai pas à cette réunion pour les macronistes», tacle Bruno Retailleau |
+| 08/09 | «Une équipe enracinée dans les territoires» : Bruno Retailleau dévoile à son tour les porte-paroles de sa campagne présidentielle |
+| 08/09 | Objectif Elysée 2027 : «Je veux des peines minimales pour ceux qui tabassent des policiers, des gendarmes ou des pompiers», martèle Bruno Retailleau |
+| 01/09 | Rentrée scolaire : Bruno Retailleau veut créer «des internats disciplinaires» pour les «élèves récidivistes» |
+| 30/08 | Présidentielle 2027 : Bruno Retailleau propose des prêts immobiliers attractifs pour relancer la natalité |
+| 28/08 | «Les insoumis veulent la fin de la France», lance Bruno Retailleau |
+| 03/08 | Crise migratoire à Ceuta : Bruno Retailleau plaide pour un Conseil européen extraordinaire et une refonte de Schengen |
+| 31/07 | Arrivée massive de migrants en Espagne : de Bruno Retailleau à Marine Le Pen, la droite française dénonce «un appel d’air» |
+| 29/07 | Incendies en Gironde : Bruno Retailleau sur le terrain ce mercredi à la rencontre des sinistrés et des forces de sécurité mobilisées |
+| 19/07 | «Cette collusion avec l’extrême gauche doit cesser» : Bruno Retailleau demande une réforme de la magistrature |
+| 16/07 | Présidentielle 2027 : qui est Franck Robine, ex-préfet de Bretagne qui va diriger la campagne de Bruno Retailleau ? |
+| 01/07 | La grande interview : Bruno Retailleau |
+| 01/07 | Justice des mineurs : «Il faut réviser la Constitution», plaide Bruno Retailleau |
+| 01/07 | «Après la pandémie, la guerre en Ukraine, la prochaine catastrophe sera budgétaire», avertit Bruno Retailleau |
+| 01/07 | «LFI fait du racialisme et de l'antisémitisme son fonds de commerce», estime Bruno Retailleau |
+| 01/07 | Présidentielle 2027 : «Le choix des dates de l'élection n'est pas neutre», dénonce Bruno Retailleau |
+| 01/07 | Présidentielle 2027 : entre Gabriel Attal, Edouard Philippe et Bruno Retailleau, les ministres du gouvernement commencent à se positionner |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Bruno+Retailleau, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

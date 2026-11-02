@@ -398,6 +398,250 @@ Total : 153 articles.
 | 26/08 | Bruno Retailleau accuse La France insoumise d'être un "parti de collabos" avec l'islamisme (chapô) |
 | 21/08 | "Il est temps de nettoyer les écuries d'Augias" : un message de Marine Le Pen sur la dette française met en colère le camp présidentiel |
 
+## Le Monde (lemonde.fr)
+
+Source : https://www.lemonde.fr/recherche/?search_keywords=Marine%20Le%20Pen&start_at=01%2F07%2F2026&end_at=01%2F11%2F2026 (pages 1 à 13, 502 résultats parcourus). Un article est compté si « Le Pen » figure dans son titre ou son chapô, daté du 1er juillet au 1er novembre 2026 ; le chapô est marqué « (chapô) » quand le nom n'apparaît que dans le chapô.
+
+Total : 131 articles.
+
+| Date (2026) | Titre |
+|---|---|
+| 28/10 | Présidentielle 2027 : Gabriel Attal pour l'organisation d'une « grande primaire des démocrates » (chapô) |
+| 27/10 | Didier Guérin, haut magistrat : « Marine Le Pen est actuellement inéligible jusqu'à la décision de la Cour de cassation sur son pourvoi » |
+| 26/10 | « La révision constitutionnelle que Marine Le Pen entend mettre en œuvre ferait basculer la France dans le camp des démocraties illibérales » |
+| 26/10 | Le Conseil constitutionnel rejette la demande, portée par le RN et l'UDR, de démission de Richard Ferrand (chapô) |
+| 25/10 | Congrès du RN : pour son premier discours de campagne, Marine Le Pen dit vouloir présider à la « renaissance » de la France |
+| 25/10 | Présidentielle 2027 : à Orléans, Marine Le Pen lance sa campagne entre radicalité et « optimisme », dans une ville en état de siège |
+| 23/10 | Congrès d'Orléans : après les violences du 17 octobre, le RN se rêve en parti de l'ordre et espère faire oublier les déboires de Jordan Bardella (chapô) |
+| 23/10 | Le maire RN de Carcassonne, Christophe Barthès, poursuit ses outrances à coups de provocation sur les réseaux sociaux (chapô) |
+| 22/10 | Congrès du RN à Orléans ce week-end : de 20 000 à 30 000 opposants attendus et un dispositif de sécurité « exceptionnel » (chapô) |
+| 18/10 | Après les violences du 17 octobre, l'extrême droite cible le gouvernement et Laurent Nuñez en espérant incarner le « parti de l'ordre » (chapô) |
+| 15/10 | Présidentielle 2027 : Raphaël Glucksmann dénonce la « capitulation » de Marine Le Pen sur l'aide à l'Ukraine |
+| 15/10 | Marine Le Pen exige la démission de Richard Ferrand, le Conseil constitutionnel fait corps avec son président |
+| 15/10 | Marine Le Pen isolée à Bruxelles après avoir menacé d'engager un « bras de fer » avec l'Europe au sujet de la contribution financière de la France |
+| 15/10 | Présidentielle 2027 : les candidats esquissent leur programme pour la presse (chapô) |
+| 13/10 | Marine Le Pen, en campagne sur le sujet de la protection de l'enfance à Moissac, privilégie la préservation de la famille |
+| 13/10 | Présidentielle 2027 : la conversion partielle de Marine Le Pen aux recettes économiques d'Emmanuel Macron |
+| 12/10 | Des « brebis galeuses » aux accusations contre Jordan Bardella, un antisémitisme persistant dans le Rassemblement national « dédiabolisé » (chapô) |
+| 10/10 | Référendum : l'histoire tourmentée de l'article 11 de la Constitution, au cœur de la campagne présidentielle (chapô) |
+| 10/10 | Octobre rose : Mathilde Panot refuse de porter le ruban, tollé au gouvernement et au RN (chapô) |
+| 09/10 | Présidentielle 2027 : « Marine Le Pen révise son logiciel social-populiste et tente de lui adjoindre son pendant libéral » |
+| 09/10 | Le député RN Franck Allisio licencie son collaborateur accusé d'écrits antisémites sur les réseaux sociaux (chapô) |
+| 08/10 | Comment Marine Le Pen veut instaurer la préférence nationale dans le secteur privé |
+| 08/10 | Présidentielle 2027 : les propositions radicales et les chiffres flous de Marine Le Pen sur le budget de l'UE |
+| 08/10 | Marine Le Pen espère financer sa campagne pour la présidentielle 2027 grâce aux prêts de particuliers |
+| 08/10 | Au RN, un sérieux budgétaire de façade (chapô) |
+| 07/10 | Présidentielle 2027 : les « mesures magiques » de Marine Le Pen pour convaincre de son sérieux budgétaire |
+| 07/10 | Ecrits antisémites : Marine Le Pen dit « maintenir sa confiance en Jordan Bardella » et s'en prend à « Mediapart » |
+| 07/10 | Présidentielle 2027 : le RN veut supprimer les intercommunalités (chapô) |
+| 06/10 | Présidentielle 2027 : Marine Le Pen et le RN présentent leur contre-budget, avec « 140 milliards d'euros nets d'économies » en cinq ans |
+| 06/10 | L'affaire des écrits antisémites attribués à Jordan Bardella gâche la séquence budgétaire du RN (chapô) |
+| 04/10 | Ecrits antisémites de Jordan Bardella : Marine Le Pen au risque d'être entraînée dans la défense jusqu'au-boutiste du président du RN |
+| 03/10 | Présidentielle 2027 : Gabriel Attal propose une « grande coalition » de la gauche à la droite pour battre Marine Le Pen |
+| 03/10 | Présidentielle 2027 : Marine Le Pen réaffirme sa confiance en Jordan Bardella malgré les accusations d'antisémitisme révélées par « Mediapart » |
+| 02/10 | Marine Le Pen propose une « règle d'or » pour rassurer les marchés sur son sérieux budgétaire |
+| 02/10 | « Costard en Kevlar » : 39 sociétés de journalistes réagissent aux graves propos de Marine Le Pen |
+| 02/10 | Marine Babonneau, journaliste : « Nous sommes dans un contexte de brutalité inadmissible dirigée contre la liberté d'informer » (chapô) |
+| 30/09 | Baisser la TVA sur les carburants : la proposition de Marine Le Pen est-elle réaliste ? |
+| 30/09 | Bruno Retailleau : « Le problème de l'Europe, c'est qu'elle a donné le sentiment aux peuples de contourner la démocratie » (chapô) |
+| 29/09 | Crise du logement : Marine Le Pen, Gabriel Attal et Jean-Luc Mélenchon détaillent leurs propositions à Batimat, le salon de la construction |
+| 28/09 | Elections sénatoriales 2026 : l'inquiétant signal d'un groupe RN (chapô) |
+| 26/09 | Au RN, la laïcité un temps mise en avant par Marine Le Pen cède la place à l'exaltation des « racines chrétiennes de la France » |
+| 22/09 | Le RN prend ses distances avec la Russie sans clarifier sa position sur l'Ukraine, un exercice d'équilibriste à l'approche de l'élection présidentielle de 2027 (chapô) |
+| 22/09 | En Seine-et-Marne, dans cet ancien fief de LR, « on sent la vague RN arriver » (chapô) |
+| 20/09 | François Bayrou détaille les conditions de sa primaire en clôture de la rentrée du MoDem (chapô) |
+| 19/09 | Budget 2027 : le pas de deux entre Sébastien Lecornu et le Rassemblement national (chapô) |
+| 18/09 | Présidentielle 2027 : la politique étrangère, angle d'attaque des opposants à Marine Le Pen |
+| 18/09 | Marine Le Pen en campagne présidentielle au Porge, village sinistré par les incendies où « personne ne croit plus à la politique » |
+| 17/09 | Budget 2027 : la gauche promet la censure à un gouvernement Lecornu dépendant de la stratégie de Marine Le Pen |
+| 17/09 | Après Kylian Mbappé, Teddy Riner à son tour ciblé par le RN, pour avoir exprimé son « angoisse » d'une victoire de Marine Le Pen en 2027 |
+| 16/09 | Présidentielle 2027 : Bruno Retailleau repart sur le terrain du pouvoir d'achat pour se démarquer des « bonimenteurs » dans la campagne (chapô) |
+| 15/09 | Logement social : la loi SRU, déjà fragilisée, dans le viseur de Marine Le Pen |
+| 15/09 | « La rentrée de Marine Le Pen, sous le regard crispé de son numéro deux, marque sa volonté d'assurer seule le show » |
+| 15/09 | Présidentielle 2027 : Edouard Philippe, Gabriel Attal et Bruno Retailleau pris au piège de la dispersion (chapô) |
+| 14/09 | « Une lubie xénophobe » : les propositions sur le logement de Marine Le Pen suscitent un tollé auprès de responsables politiques et d'associations |
+| 14/09 | Marine Le Pen consolide son ancrage chez les retraités, son obsession en vue de la présidentielle de 2027 |
+| 14/09 | Présidentielle 2027 : l'affiliation partisane cimente les bases de Marine Le Pen et de Jean-Luc Mélenchon |
+| 14/09 | Présidentielle 2027 : la photo de départ (chapô) |
+| 13/09 | « Chez les Le Pen, la famille l'emporte toujours » : pour sa quatrième campagne présidentielle, Marine Le Pen se repose sur ses proches |
+| 13/09 | Présidentielle 2027 : à Hénin-Beaumont, Marine Le Pen lance sa campagne sur le logement avec comme clé de voûte la « priorité nationale » |
+| 13/09 | Enquête électorale présidentielle 2027 : Marine Le Pen entame la campagne sur un socle inédit au cœur d'un électorat inquiet et en colère |
+| 13/09 | Présidentielle 2027 : à la Fête de « L'Humanité », Jean-Luc Mélenchon accentue la pression sur les autres forces de gauche (chapô) |
+| 12/09 | Les fêlures dans la vitrine de la stratégie de « dédiabolisation » du RN (chapô) |
+| 11/09 | Présidentielle 2027 : le RN s'empêtre dans l'interdiction du voile (chapô) |
+| 09/09 | Emmanuel Macron et Friedrich Merz, deux stratégies perdantes face à l'extrême droite (chapô) |
+| 07/09 | Abaya à l'école : LFI veut revenir sur l'interdiction et s'attire les critiques de Marine Le Pen, Edouard Philippe et Gabriel Attal |
+| 07/09 | L'aide de la France à l'Ukraine, dont le RN veut « couper le robinet », représente une goutte d'eau dans les finances publiques françaises (chapô) |
+| 05/09 | Présidentielle 2027 : Eric Ciotti propose à Marine Le Pen « un pacte d'alliance » |
+| 05/09 | Eric Ciotti, depuis son fief de Nice, appelle son alliée Marine Le Pen à adhérer à la retraite par capitalisation |
+| 05/09 | Jordan Bardella sur le soutien à l'Ukraine : « On ne peut pas donner de l'argent sans aucune garantie ni sans la sûreté que cet argent sera remboursé un jour » (chapô) |
+| 04/09 | « Couper le robinet à l'Ukraine » : le ton est monté entre Edouard Philippe et Marine Le Pen au sujet de l'aide à Kiev |
+| 02/09 | Pénaliser le port du voile : le piège tendu par Marine Le Pen |
+| 02/09 | Jordan Bardella mal à l'aise pour défendre le programme présidentiel de Marine Le Pen sur le voile et les retraites |
+| 01/09 | Présidentielle 2027 : souverainisme et air conditionné, les deux piliers de Marine Le Pen et du RN pour lutter contre le dérèglement climatique |
+| 01/09 | Interdiction du voile dans l'espace public : le RN assume son projet face aux critiques (chapô) |
+| 01/09 | « Dans une France en quête de changement profond, la dynamique n'appartient qu'à ceux qui promettent de renverser la table » (chapô) |
+| 31/08 | Port du voile dans l'espace public : le RN pousse un marqueur du lepénisme et propose un référendum (chapô) |
+| 30/08 | Présidentielle 2027 : à Cannes, David Lisnard bat la campagne pour une grande primaire de la droite (chapô) |
+| 29/08 | Présidentielle 2027 : les incompréhensibles divisions du bloc central (chapô) |
+| 28/08 | Marine Le Pen « voit l'économie à travers l'électeur d'Hénin-Beaumont » : les réserves du patronat après la rentrée du Medef |
+| 28/08 | Au RN, le divorce entre Marine Le Pen et François Durvye, sa caution libérale auprès du patronat |
+| 27/08 | Marine Le Pen maintient le retour à la retraite à 62 ans, en rupture avec la ligne de Jordan Bardella |
+| 26/08 | Présidentielle 2027 : plus de 200 élus de droite et du centre appellent à une « primaire ouverte » (chapô) |
+| 22/08 | Présidentielle 2027 : Edouard Philippe presse la droite et le centre de s'unir avant février (chapô) |
+| 20/08 | Présidentielle 2027 : Jean-Luc Mélenchon, entre radicalité et besoin de rassembler, rêve d'un duel avec l'extrême droite (chapô) |
+| 17/08 | Présidentielle 2027 : le référendum constitutionnel de Marine Le Pen, « un coup d'Etat sur le fond et sur la forme » |
+| 12/08 | Présidentielle 2027 : pour battre Marine Le Pen et Jean-Luc Mélenchon, la tentation du candidat unique au sein du bloc central |
+| 30/07 | Le tribunal de Paris rejette la demande de Gabriel Attal visant à interdire au RN d'utiliser le terme « renaissance » pendant la campagne présidentielle (chapô) |
+| 23/07 | Présidentielle 2027 : comment Matignon négocie avec les banques françaises pour qu'elles acceptent de financer la campagne de Marine Le Pen |
+| 23/07 | Gabriel Loustau, figure montante et héritier d'une lignée d'extrême droite, condamné à six mois de prison (chapô) |
+| 21/07 | Procès des assistants parlementaires du FN : Marine Le Pen et tous les autres prévenus se sont pourvus en cassation |
+| 17/07 | Emmanuel Macron appelle à se « méfier » des sondages prédisant la victoire de Marine Le Pen en 2027 |
+| 15/07 | Procès en appel de Marine Le Pen : le parquet annonce qu'il ne se pourvoit pas en cassation dans l'affaire des assistants parlementaires du FN |
+| 15/07 | Gabriel Attal assigne Marine Le Pen pour « contrefaçon » sur l'utilisation du terme « renaissance » dans son affiche de campagne |
+| 15/07 | Elon Musk qualifie Marine Le Pen de « dernier espoir de la France » |
+| 15/07 | Présidentielle 2027 : le RN se divise sur le voile, Marine Le Pen envisage un référendum |
+| 12/07 | Jordan Bardella tend la main à « l'électorat historique de la droite » dans un premier entretien à la presse depuis la condamnation de Marine Le Pen |
+| 10/07 | A Hayange, terre d'élection de l'extrême droite, le soutien à Marine Le Pen malgré sa condamnation |
+| 10/07 | Condamnation de Marine Le Pen : « C'est une idée très française de considérer que si l'on empêche une personne de se présenter, c'est l'ensemble de la démocratie qu'on entrave » |
+| 10/07 | « Le Parlement européen ne s'est toujours pas doté de règles suffisamment strictes pour prévenir la corruption et les conflits d'intérêts » (chapô) |
+| 09/07 | Présidentielle 2027 : la candidature de Marine Le Pen bouscule le match Attal-Philippe |
+| 09/07 | « Le nouvel épisode de la saga judiciaire de Marine Le Pen illustre l'inextricable difficulté, pour les magistrats, à juger pénalement les politiques » |
+| 09/07 | Présidentielle 2027 : avec Marine Le Pen, Bruno Retailleau retrouve son adversaire « socialiste » préférée |
+| 09/07 | Pourvoi de Marine Le Pen : la Cour de cassation fera tout pour rendre sa décision « avant le scrutin présidentiel », confirme son procureur général, Rémy Heitz |
+| 09/07 | « Il a la vie devant lui » : après un an à penser à l'Elysée, Jordan Bardella ramené à sa condition de numéro deux (chapô) |
+| 09/07 | Les populistes et la tentation de l'impunité (chapô) |
+| 08/07 | Les principes fluctuants de Marine Le Pen |
+| 08/07 | Marine Le Pen condamnée et candidate : un lancement de campagne inattendu |
+| 08/07 | « Marine Le Pen conteste directement la légitimité de la justice à sanctionner une élue de la République » |
+| 08/07 | Marine Le Pen candidate à la présidentielle de 2027 : le mythe du « phénix » de l'extrême droite |
+| 08/07 | Marine Le Pen peut-elle vraiment être candidate à la présidentielle quel que soit le scénario, comme elle l'affirme ? |
+| 08/07 | Comprendre la décision des juges au procès en appel de Marine Le Pen : des faits graves, des peines légères |
+| 08/07 | « La candidature à la présidentielle de Marine Le Pen constitue l'ultime marqueur d'une dégradation de l'éthique publique » |
+| 08/07 | Marine Le Pen : la Cour de cassation « pourrait » se prononcer sur le pourvoi de la candidate à la présidentielle « au plus tard début avril 2027 » |
+| 08/07 | Présidentielle 2027 : Marine Le Pen abrège un premier déplacement de campagne chahuté |
+| 08/07 | Marine Le Pen candidate à la présidentielle : le jour où la députée RN a repris la main malgré sa condamnation |
+| 08/07 | Marine Le Pen condamnée mais candidate à la présidentielle : ses adversaires politiques choisissent l'accusation morale |
+| 07/07 | Procès en appel de Marine Le Pen : retrouvez les peines prononcées contre tous les prévenus dans l'affaire des assistants parlementaires du FN |
+| 07/07 | Marine Le Pen peut-elle être candidate ? Un schéma pour comprendre ses options après la décision en appel |
+| 07/07 | Marine Le Pen sous bracelet électronique ? Les questions politiques et juridiques qui se posent après la condamnation de la députée du RN |
+| 07/07 | Affaire des assistants parlementaires européens du FN : la justice en position de décider du sort politique de Marine Le Pen |
+| 07/07 | Après le pourvoi en cassation de Marine Le Pen, les questions en suspens |
+| 07/07 | Marine Le Pen condamnée en appel : retrouvez les réponses à vos questions sur la décision de la cour et ses conséquences |
+| 07/07 | Au RN, quinze ans d'affaires judiciaires sous l'ère Marine Le Pen |
+| 07/07 | « Le Monde » publie les principaux extraits de la décision en appel condamnant Marine Le Pen : « La gravité objective des faits est avérée » |
+| 06/07 | Affaire des assistants parlementaires européens du FN : les différents scénarios judiciaires pour Marine Le Pen après la décision en appel |
+| 05/07 | Marine Le Pen dans « Le Monde », de « fille de » à l'affaire des assistants parlementaires |
+| 05/07 | Avant la décision de la cour d'appel concernant Marine Le Pen, le RN entre « espérance » et renoncement |
+| 04/07 | Marine Le Pen et Jordan Bardella affichent leur unité à Liévin, avant la décision dans l'affaire des assistants d'eurodéputés du FN |
+| 04/07 | Le RN cultive discrètement ses réseaux diplomatiques, un an avant l'élection présidentielle de 2027 (chapô) |
+| 03/07 | Présidentielle 2027 : le RN étoffe son équipe de campagne, avec notamment la nièce de Marine Le Pen |
+| 01/07 | Marine Le Pen affirme qu'elle ne ferait pas campagne avec un bracelet électronique et dit « ne pas avoir peur » avant la décision de la cour d'appel |
+
+## CNEWS (cnews.fr)
+
+Source : https://www.cnews.fr/rechercher/Marine%20Le%20Pen (recherche du site, 20 résultats par page, tri par date décroissante ; relevé arrêté après deux pages entières antérieures au 1er juillet 2026). Un article est compté si « Le Pen » figure dans son titre ; le chapô n'est pas affiché sur la page de recherche.
+
+Total : 95 articles.
+
+| Date (2026) | Titre |
+|---|---|
+| 27/10 | Présidentielle 2027 : Charles Alloncle nommé porte-parole de la campagne de Marine Le Pen |
+| 26/10 | Présidentielle 2027 : Edouard Philippe toujours troisième derrière Marine Le Pen et Jean-Luc Mélenchon, selon un sondage |
+| 25/10 | Congrès du RN : sécurité, identité, souveraineté... Ce qu'il faut retenir du premier grand discours de campagne de Marine Le Pen |
+| 25/10 | Présidentielle 2027 : «Mon Premier ministre sera Jordan Bardella», assure Marine Le Pen |
+| 25/10 | Marine Le Pen : «Pour les étrangers délinquants, il y aura une prime d'expulsion définitive» |
+| 25/10 | Marine Le Pen : «Nous voulons que la France retrouve sa puissance» |
+| 25/10 | Présidentielle 2027 : «La renaissance sera d’abord celle de l’école», clame Marine Le Pen |
+| 25/10 | Marine Le Pen : «Nous allons tourner le dos aux nouveaux obscurantismes» |
+| 25/10 | Présidentielle 2027 : Marine Le Pen lance officiellement sa campagne ce dimanche à Orléans |
+| 22/10 | Sondage : Marine Le Pen conforte son avance au premier tour de l'élection présidentielle et battrait plus largement Jean-Luc Mélenchon au second |
+| 21/10 | «Elle a été maltraitée» : Donald Trump prend la défense de Marine Le Pen en vue de la présidentielle 2027 |
+| 18/10 | «Il y a des millions de Français qui sont en colère, mais qui ne cassent rien, ne pillent rien» : Marine Le Pen réagit aux violences du 17 octobre |
+| 18/10 | «Nous vivons une crise profonde d'autorité», alarme Marine Le Pen |
+| 16/10 | Blocus des lycées, présidentielle 2027, Jordan Bardella… Ce qu’il faut retenir d’Objectif Elysée 2027 avec Marine Le Pen |
+| 16/10 | Marine Le Pen : Objectif Élysée 2027 (Émission du 15/10/2026) |
+| 15/10 | Parcoursup, aides pour les transports… Que propose concrètement Marine Le Pen en faveur de la jeunesse ? |
+| 15/10 | Objectif Élysée 2027 : «Je suis une combattante de la France», affirme Marine Le Pen |
+| 15/10 | Objectif Élysée 2027 : «Au second tour, je vais m’adresser à la France, et pas seulement à la droite», affirme Marine Le Pen |
+| 15/10 | Objectif Élysée 2027 : «Ceux qui cherchent à instaurer la charia en France me trouveront sur leur chemin», prévient Marine Le Pen |
+| 15/10 | Objectif Élysée 2027 : «Jean-Luc Mélenchon fait de ces jeunes des ennemis de tout», tacle Marine Le Pen |
+| 15/10 | Objectif Élysée 2027 : «Emmanuel Macron a fait plus de dettes que tous les présidents réunis», rappelle Marine Le Pen |
+| 15/10 | Objectif Élysée 2027 : «La police se sent découragée, démotivée et abandonnée par le pouvoir», déplore Marine Le Pen |
+| 15/10 | Blocus des lycées : Marine Le Pen veut mettre «hors d’état de nuire ceux qui viennent apporter le chaos, le désordre et la dévastation», lors des manifestations |
+| 15/10 | Objectif Élysée 2027 : «Jordan Bardella est innocent», martèle Marine Le Pen |
+| 15/10 | Objectif Élysée 2027 : «Rien ne peut m’empêcher d’être candidate en 2027», assure Marine Le Pen |
+| 15/10 | Sondage : à six mois de la présidentielle, Marine Le Pen largement en tête devant Jean-Luc Mélenchon et Raphaël Glucksmann |
+| 15/10 | Guerre en Ukraine : si elle est élue présidente, Marine Le Pen «maintiendra six mois» les aides à Kiev puis coupera le robinet |
+| 14/10 | «Il doit quitter la tête du Conseil constitutionnel» : Marine Le Pen tacle son président Richard Ferrand |
+| 14/10 | «Objectif Elysée 2027» : Laurence Ferrari reçoit Marine Le Pen ce jeudi à 21h |
+| 14/10 | «Une épreuve de force» : face à une dette française «gigantesque», Marine Le Pen veut retirer 11 milliards d’euros de contributions à l’UE |
+| 12/10 | Protection de l'enfance : «Avec moi, aucun enfant ne sera invisible aux yeux de la République», affirme Marine Le Pen |
+| 07/10 | «Emmanuel Macron est toujours du côté qui consiste à taper sur la police», dénonce Marine Le Pen |
+| 06/10 | «La priorité nationale est à l'emploi et au logement», souhaite Marine Le Pen |
+| 06/10 | «Emmanuel Macron se distingue tristement de ses prédécesseurs en ayant augmenté systématiquement le déficit public», charge Marine Le Pen |
+| 06/10 | Finances publiques : «La France pourrait perdre sa souveraineté si elle ne fait pas les bons choix», alerte Marine Le Pen |
+| 06/10 | 125 milliards d'euros d’économies : Marine Le Pen et Jordan Bardella dévoilent ce mardi leur stratégie budgétaire pour séduire les marchés |
+| 04/10 | «On leur pisse dessus» : Raphaël Glucksmann s'attaque à Jean-Luc Mélenchon et Marine Le Pen lors d'un débrief du débat du Medef (vidéo) |
+| 03/10 | Marine Le Pen maintient «totalement» sa «confiance» à Jordan Bardella, accusé d'écrits antisémites par Mediapart |
+| 01/10 | Présidentielle 2027 : qu'est-ce que la «règle d'or budgétaire», que Marine Le Pen souhaite faire adopter par référendum ? |
+| 30/09 | Présidentielle 2027 : «Dix ans de macronisme ont fait basculer le pays dans une insécurité endémique», charge Marine Le Pen |
+| 29/09 | Écrits antisémites attribués à Jordan Bardella : «Nous allons démonter cette manipulation» de Mediapart, affirme Marine Le Pen |
+| 28/09 | Présidentielle 2027 : Marine Le Pen arriverait largement en tête face à Édouard Philippe au second tour, selon un sondage |
+| 26/09 | Léon XIV à Paris : présentes à la messe du pape, Marine Le Pen et sa nièce Marion Maréchal se saluent chaleureusement |
+| 24/09 | Guerre en Ukraine : «la dissuasion nucléaire n’appartient qu’à la France», juge Marine Le Pen |
+| 22/09 | Marine Le Pen tacle Gabriel Attal qui ne souhaite pas baisser les taxes sur les carburants |
+| 20/09 | Présidentielle 2027 : Marion Maréchal prête à «jeter toutes ses forces dans la bataille» pour faire gagner Marine Le Pen |
+| 18/09 | Pourquoi Marine Le Pen se rend-elle dans le village de Pomas ce vendredi ? |
+| 17/09 | «Il faut s'adapter au réchauffement climatique», souligne Marine Le Pen |
+| 17/09 | «On n'a même plus de quoi s’acheter à bouffer» : l’émotion d’un sinistré de la commune du Porge lors d'une rencontre avec Marine Le Pen |
+| 17/09 | «Personne ne nous donne de nouvelles» : un sinistré du Porge après les incendies de l'été échange avec Marine Le Pen |
+| 17/09 | Crise des carburants : «Il n’y a pas d’autre solution que d’agir sur la TVA et la TICPE», martèle Marine Le Pen |
+| 17/09 | Présidentielle 2027 : «On ne peut pas dire qu'il n'y a pas un euro pour indexer les retraites mais qu'il y a des milliards pour la contribution nette à l'UE», affirme Marine Le Pen |
+| 17/09 | Incendies en Gironde : Marine Le Pen à la rencontre des habitants du Porge ce jeudi |
+| 16/09 | Présidentielle 2027 : Marine Le Pen veut «interdire le voile» islamique «de manière progressive» |
+| 15/09 | Présidentielle 2027 : Marine Le Pen fustige «la politique du chèque» du gouvernement face à la hausse des prix des carburants |
+| 14/09 | Présidentielle 2027 : de nouveaux noms intègrent l’équipe de campagne de Marine Le Pen |
+| 14/09 | Présidentielle 2027 : Marine Le Pen loin devant, Jean-Luc Mélenchon au second tour dans 4 scénarios testés sur 6, selon un dernier sondage |
+| 13/09 | Logement : qu'est-ce que la loi SRU, qu'entend abroger Marine Le Pen en cas de victoire à la présidentielle ? |
+| 13/09 | Présidentielle 2027 : priorité nationale, abrogation de la loi SRU… Ce qu’il faut retenir du premier discours de campagne de Marine Le Pen |
+| 13/09 | Présidentielle 2027 : depuis Hénin-Beaumont, Marine Le Pen fait sa rentrée politique à domicile |
+| 11/09 | Sondage : sans candidature unique au centre, Jean-Luc Mélenchon en ballotage favorable pour accéder au second tour face à Marine Le Pen |
+| 09/09 | Présidentielle 2027 : «Rejoignez ceux qui veulent vraiment sauver la France», lance le porte-parole de Marine Le Pen à Bruno Retailleau |
+| 07/09 | Allemagne : pourquoi le RN et Marine Le Pen ont-ils rompu les liens avec l'AfD en 2024 ? |
+| 06/09 | L'édito de Quentin Gérard : «2027 : Marine Le Pen aux portes de l'Élysée ?» |
+| 05/09 | Éric Ciotti propose à Marine Le Pen «un pacte d'alliance» pour la présidentielle |
+| 04/09 | Présidentielle 2027 : si Marine Le Pen l'emporte, Sarah Knafo n'est pas fermée à l'idée de rejoindre un gouvernement de Jordan Bardella |
+| 31/08 | Marine Le Pen insultée par un artiste : «Si cela avait concerné quelqu'un d'autre, il y aurait eu un scandale absolu», pointe Eric Naulleau |
+| 27/08 | Présidentielle 2027 : de Marine Le Pen à Jean-Luc Mélenchon, sept candidats sur le gril d'un débat économique devant le Medef ce jeudi |
+| 26/08 | Sénatoriales 2026 : une arrière-petite-nièce du général de Gaulle rallie la sœur de Marine Le Pen dans la Sarthe |
+| 19/08 | Fustigeant le «bilan implacable de dix ans de macronisme», Marine Le Pen promet d'assainir les finances publiques si elle accède à l'Elysée |
+| 31/07 | Arrivée massive de migrants en Espagne : de Bruno Retailleau à Marine Le Pen, la droite française dénonce «un appel d’air» |
+| 17/07 | Présidentielle 2027 : Emmanuel Macron appelle à se «méfier» des sondages prédisant la victoire de Marine Le Pen |
+| 17/07 | Soutien d'Elon Musk à Marine Le Pen : «Est-ce qu'elle en est très contente ? Je n'en suis pas sûr», souffle Thierry Breton |
+| 16/07 | Soutien d'Elon Musk à Marine Le Pen : «C'est un homme à l'esprit aiguisé qui sait orienter le débat», salue Sabrina Medjebeur |
+| 15/07 | Présidentielle 2027 : Marine Le Pen et le RN poursuivis par le parti de Gabriel Attal pour l’utilisation du terme «Renaissance» |
+| 12/07 | Présidentielle 2027 : éligible et candidate, Marine Le Pen veut imposer un débat de fond |
+| 12/07 | L'édito de Quentin Gérard : «2027 : Marine Le Pen veut imposer un débat de fond» |
+| 10/07 | Procès en appel du RN : pourquoi l'article 432-15 du Code pénal cristallise-t-il les débats entre Marine Le Pen et la justice ? |
+| 09/07 | Présidentielle 2027 : Marine Le Pen en tête des intentions de vote au premier tour, loin devant Edouard Philippe et Jean-Luc Mélenchon |
+| 09/07 | Présidentielle 2027 : Marine Le Pen largement en tête devant Édouard Philippe, selon deux sondages |
+| 08/07 | Présidentielle 2027 : 51% des Français estiment que Marine Le Pen a raison de se présenter |
+| 08/07 | Présidentielle 2027 : Julien Sanchez , directeur de campagne de Marine Le Pen, promet «une campagne de terrain offensive» |
+| 08/07 | Présidentielle 2027 : la Cour de cassation pourrait se prononcer «au plus tard début avril 2027» sur le pourvoi de Marine Le Pen |
+| 07/07 | «Une bonne nouvelle pour la démocratie», «Nous la battrons dans les urnes», «Une repris de justice»… Les réactions pleuvent après l’annonce de la candidature de Marine Le Pen à la présidentielle |
+| 07/07 | Présidentielle 2027 : ce qu'il faut retenir de la prise de parole de Marine Le Pen |
+| 07/07 | Marine Le Pen : ce qu'il est possible de faire et ce qui est interdit avec son bracelet électronique |
+| 07/07 | Procès en appel du RN : à quelle peine précise Marine Le Pen a-t-elle été condamnée ? |
+| 07/07 | Marine Le Pen : pourquoi peut-elle se présenter à la présidentielle alors qu'elle a été condamnée à une peine d'inéligibilité ? |
+| 07/07 | Procès en appel du RN : «Ce soir, je suis candidate à l'élection présidentielle», annonce Marine Le Pen |
+| 07/07 | Présidentielle 2027 : Marine Le Pen fixée ce mardi sur son sort judiciaire |
+| 06/07 | Procès en appel de Marine Le Pen : Jordan Bardella affirme être «serein et prêt à assumer les conséquences» |
+| 06/07 | Procès en appel du RN : quels sont les scénarios possibles pour Marine Le Pen ? |
+| 04/07 | Procès en appel de Marine Le Pen : «Cela fait partie de l'éviction de la démocratie», pointe Michel Onfray |
+| 02/07 | «Il faut être totalement libre» : Marine Le Pen exclut de faire campagne en 2027 avec un bracelet électronique |
+| 01/07 | Procès en appel des assistants parlementaires du RN : Marine Le Pen assure ne pas avoir «peur» à quelques jours de son jugement |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Marine+Le+Pen, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

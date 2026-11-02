@@ -62,6 +62,42 @@ Total : 11 articles.
 | 08/09 | Pourquoi le RN a "acté la rupture" avec l'AfD (chapô) |
 | 27/08 | "Femme d'État" : la campagne de Marine Le Pen sous la pression d'Éric Zemmour |
 
+## Le Monde (lemonde.fr)
+
+Source : https://www.lemonde.fr/recherche/?search_keywords=%C3%89ric%20Zemmour&start_at=01%2F07%2F2026&end_at=01%2F11%2F2026 (pages 1, 4 résultats parcourus). Un article est compté si « Zemmour » figure dans son titre ou son chapô, daté du 1er juillet au 1er novembre 2026 ; le chapô est marqué « (chapô) » quand le nom n'apparaît que dans le chapô.
+
+Total : 4 articles.
+
+| Date (2026) | Titre |
+|---|---|
+| 22/09 | Eric Zemmour veut expulser les étrangers en se basant sur une loi de 1945, une approximation historique et juridique |
+| 18/09 | Présidentielle 2027 : Eric Zemmour confirme sa candidature et dresse la liste des étrangers qu'il veut « renvoyer » |
+| 18/09 | Des propos d'Eric Zemmour sur Kylian Mbappé suscitent l'indignation à gauche : « Pendant combien de temps va-t-on laisser cet homme cracher sa haine ? » |
+| 13/09 | Présidentielle 2027 : le « fan-club » de Sarah Knafo repart en campagne pour soutenir Eric Zemmour et ses thèmes de la « remigration » et du « grand remplacement » |
+
+## CNEWS (cnews.fr)
+
+Source : https://www.cnews.fr/rechercher/%C3%89ric%20Zemmour (recherche du site, 20 résultats par page, tri par date décroissante ; relevé arrêté après deux pages entières antérieures au 1er juillet 2026). Un article est compté si « Zemmour » figure dans son titre ; le chapô n'est pas affiché sur la page de recherche.
+
+Total : 14 articles.
+
+| Date (2026) | Titre |
+|---|---|
+| 18/10 | «Il faut aller au contact. (...) Les casseurs et les pilleurs doivent être réprimés sévèrement par la police», réclame Éric Zemmour |
+| 13/10 | Niveau scolaire français : que propose Éric Zemmour pour rétablir «la meilleure école du monde» ? |
+| 13/10 | Automobile : «La Chine est là pour écraser l'industrie occidentale», martèle Éric Zemmour |
+| 13/10 | Blocus des lycées : «Il faut rétablir la discipline, les professeurs ne se font plus respecter et sont parfois menacés, insultés, agressés», dénonce Éric Zemmour |
+| 13/10 | Blocus des lycées : «Il faut en finir avec l'excuse de minorité, nous n'avons plus les mêmes jeunes», alerte Éric Zemmour |
+| 17/09 | Présidentielle 2027 : «Je serai candidat», annonce Eric Zemmour |
+| 14/09 | Présidentielle 2027 : «La préférence nationale ne se négocie pas. Les Français d'abord, c'est tout», lance Eric Zemmour à propos du débat sur le logement |
+| 13/09 | Présidentielle 2027 : «Il ne suffit pas de réclamer une immigration zéro, mais il faut enclencher l'immigration négative», réclame Eric Zemmour |
+| 12/09 | Présidentielle 2027 : Éric Zemmour cherche un second souffle avec son université d’été de Reconquête |
+| 03/09 | «Le service public est une agence de propagande de la gauche», martèle Éric Zemmour |
+| 03/09 | Présidentielle 2027 : Sarah Knafo juge Éric Zemmour «candidat naturel» de Reconquête |
+| 05/07 | Mort de Louis : «La seule solution est d'arrêter l'invasion et d'engager une remigration des gens violents», martèle Éric Zemmour |
+| 05/07 | Mort de Louis: «C'est une guerre qui a lieu sur notre sol», prévient Eric Zemmour |
+| 05/07 | Mort de Louis : «La justice a cessé de protéger les Français», dénonce Éric Zemmour |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=%C3%89ric+Zemmour, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

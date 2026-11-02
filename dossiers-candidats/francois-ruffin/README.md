@@ -1,5 +1,7 @@
 # Dossier François Ruffin : émissions et articles depuis le 1er juillet 2026
 
+## Radio France
+
 Source : https://www.radiofrance.fr/personnes/francois-ruffin (pages 1 et 2), relevé le 1er novembre 2026.
 
 Méthode : titre et chapeau de chaque entrée. Les articles n'ont pas été ouverts un par un.
@@ -76,6 +78,29 @@ Total : 13 articles.
 | 10/09 | Présidentielle 2027 : une primaire qui déchire la gauche (chapô) |
 | 08/09 | Une centaine de responsables socialistes appellent à ouvrir la primaire PS Place publique, entre autres à François Ruffin |
 | 03/09 | "C'est le premier moment original de cette campagne" : pourquoi Dominique de Villepin et François Ruffin affichent leurs convergences pour la présidentielle |
+
+## Le Monde (lemonde.fr)
+
+Source : https://www.lemonde.fr/recherche/?search_keywords=Fran%C3%A7ois%20Ruffin&start_at=01%2F07%2F2026&end_at=01%2F11%2F2026 (pages 1 à 2, 52 résultats parcourus). Un article est compté si « Ruffin » figure dans son titre ou son chapô, daté du 1er juillet au 1er novembre 2026 ; le chapô est marqué « (chapô) » quand le nom n'apparaît que dans le chapô.
+
+Total : 4 articles.
+
+| Date (2026) | Titre |
+|---|---|
+| 09/09 | Présidentielle 2027 : François Ruffin et Marine Tondelier déplorent le périmètre restreint de la primaire du PS |
+| 09/09 | Primaire du PS : le duel entre Olivier Faure et Raphaël Glucksmann électrise la campagne (chapô) |
+| 08/09 | Présidentielle 2027 : Raphaël Glucksmann rejette l'idée d'une primaire élargie à François Ruffin, estimant qu'« on ne change pas les règles en cours de jeu » |
+| 03/09 | Présidentielle 2027 : Dominique de Villepin et François Ruffin, quand les contraires s'attirent pour mieux débattre |
+
+## CNEWS (cnews.fr)
+
+Source : https://www.cnews.fr/rechercher/Fran%C3%A7ois%20Ruffin (recherche du site, 20 résultats par page, tri par date décroissante ; relevé arrêté après deux pages entières antérieures au 1er juillet 2026). Un article est compté si « Ruffin » figure dans son titre ; le chapô n'est pas affiché sur la page de recherche.
+
+Total : 1 article.
+
+| Date (2026) | Titre |
+|---|---|
+| 08/09 | «Sans ton crime de lèse-majesté, tu serais encore à LFI» : l'ancien macroniste Sacha Houlié, désormais soutien de Raphaël Glucksmann, charge François Ruffin |
 
 ## Le Parisien
 

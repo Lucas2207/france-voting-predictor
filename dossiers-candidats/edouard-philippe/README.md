@@ -221,6 +221,127 @@ Total : 89 articles.
 | 17/08 | Gérald Darmanin renonce à se présenter à l'élection présidentielle et apporte son soutien à Edouard Philippe |
 | 15/08 | Sébastien Lecornu se rendra à Mayotte fin août, un an après le lancement du plan quinquennal pour l'archipel (chapô) |
 
+## Le Monde (lemonde.fr)
+
+Source : https://www.lemonde.fr/recherche/?search_keywords=%C3%89douard%20Philippe&start_at=01%2F07%2F2026&end_at=01%2F11%2F2026 (pages 1 à 9, 324 résultats parcourus). Un article est compté si « Édouard Philippe » figure dans son titre ou son chapô, daté du 1er juillet au 1er novembre 2026 ; le chapô est marqué « (chapô) » quand le nom n'apparaît que dans le chapô.
+
+Total : 70 articles.
+
+| Date (2026) | Titre |
+|---|---|
+| 01/11 | Edouard Philippe juge la primaire à droite et au centre synonyme de « division » et de « confusion » |
+| 30/10 | Attentat raciste de Trappes : Yannick Jadot regrette l'absence de Gabriel Attal au rassemblement en hommage aux victimes prévu vendredi soir ; Edouard Philippe se rendra à La Verrière |
+| 29/10 | Edouard Philippe placé sous le statut de témoin assisté dans une enquête ouverte notamment pour détournement de fonds publics |
+| 29/10 | Edouard Philippe et Gabriel Attal, empêtrés dans une campagne présidentielle laborieuse, tentent de conjurer leur effacement |
+| 29/10 | Anticor se constitue partie civile dans l'enquête sur Edouard Philippe |
+| 29/10 | Présidentielle 2027 : après sa proposition d'une primaire aux contours flous, Gabriel Attal cible le « centre et la droite » (chapô) |
+| 28/10 | Dominique de Villepin accuse Edouard Philippe de céder à « la dictature de l'évidence » après ses propos sur « l'échec de l'intégration » |
+| 27/10 | Présidentielle 2027 : Edouard Philippe estime que « l'échec de l'intégration » depuis « plusieurs décennies est incontestable » |
+| 22/10 | Présidentielle 2027 : en pleine crise sociale, Edouard Philippe défend ses propositions pour les familles |
+| 19/10 | Après la mobilisation du 17 octobre, Edouard Philippe et Gabriel Attal tentent d'incarner une forme de rupture avec les deux quinquennats d'Emmanuel Macron |
+| 15/10 | Présidentielle 2027 : les candidats esquissent leur programme pour la presse (chapô) |
+| 13/10 | Enquête sur Edouard Philippe : la plaignante publie un livre pour donner sa version des faits |
+| 10/10 | Présidentielle 2027 : en plein mouvement lycéen, Gabriel Attal mise sur l'affrontement avec Jean-Luc Mélenchon pour relancer sa campagne (chapô) |
+| 09/10 | Présidentielle 2027 : François Baroin apporte son soutien à Bruno Retailleau contre un Edouard Philippe « premier de cordée » du macronisme |
+| 08/10 | Edouard Philippe propose de réviser « totalement » le système des allocations familiales et de « diviser par deux » l'immigration légale |
+| 07/10 | Face au mouvement lycéen, la droite, sourde aux revendications, se place sur le seul terrain sécuritaire (chapô) |
+| 01/10 | Budget 2027 : Edouard Philippe dit craindre « l'étranglement » de la dette alors que le gouvernement présente sa copie jeudi |
+| 30/09 | Présidentielle 2027 : Gabriel Attal critique le projet de réforme des retraites d'Edouard Philippe, jugeant qu'il s'agit de « mesures de soins palliatifs » |
+| 29/09 | Réforme des retraites : Edouard Philippe forcé de prendre des risques pour éviter l'écueil du favori fragile pour 2027 |
+| 29/09 | Présidentielle 2027 : Edouard Philippe dévoile son projet de retraite à 65 ans et 45 annuités |
+| 29/09 | Retraites : Edouard Philippe propose de « porter progressivement la durée de cotisation à 45 ans et l'âge de départ à 65 ans » |
+| 24/09 | Présidentielle 2027 : derrière le duel de plus en plus acerbe entre Edouard Philippe et Gabriel Attal, des électorats loin d'être solubles |
+| 22/09 | « Amusant, mais aussi très, très immature » : les répliques cinglantes d'Edouard Philippe sur Gabriel Attal dans le livre « Le Crépuscule des princes » |
+| 20/09 | Eric Ciotti appelle Bruno Retailleau à le rejoindre « dans une maison de droite forte » (chapô) |
+| 18/09 | Présidentielle 2027 : Edouard Philippe défend sa vision libérale de l'écologie et prône une « politique de sécurité climatique » |
+| 15/09 | Gérald Darmanin, en se ralliant à Edouard Philippe pour la présidentielle, ménage son propre avenir politique |
+| 15/09 | Présidentielle 2027 : Edouard Philippe, Gabriel Attal et Bruno Retailleau pris au piège de la dispersion |
+| 09/09 | Présidentielle 2027 : Edouard Philippe propose une rencontre début novembre pour amorcer le rassemblement de la droite et du centre, sans susciter d'entrain |
+| 08/09 | Présidentielle 2027 : Edouard Philippe se démarque de Bruno Retailleau sur l'ouverture du champ du référendum à des sujets comme l'immigration |
+| 08/09 | Présidentielle 2027 : l'hypothèse d'une primaire agite encore la droite et le bloc central (chapô) |
+| 07/09 | Abaya à l'école : LFI veut revenir sur l'interdiction et s'attire les critiques de Marine Le Pen, Edouard Philippe et Gabriel Attal |
+| 05/09 | Présidentielle 2027 : pour Gabriel Attal et Edouard Philippe, le poids d'un bilan écologique contrasté |
+| 04/09 | « Couper le robinet à l'Ukraine » : le ton est monté entre Edouard Philippe et Marine Le Pen au sujet de l'aide à Kiev |
+| 03/09 | Gabriel Attal dévoile une équipe de campagne présidentielle sans poids lourds politiques mais avec de « nouveaux visages » (chapô) |
+| 01/09 | Présidentielle 2027 : Edouard Philippe tente de prendre de la hauteur face à Gabriel Attal dans la campagne |
+| 31/08 | Présidentielle 2027 : Edouard Philippe poursuit son pari du rassemblement de la droite et du centre face à la pression de ses challengers et aux appels à la primaire |
+| 29/08 | Présidentielle 2027 : les incompréhensibles divisions du bloc central (chapô) |
+| 27/08 | Présidentielle 2027 : Bruno Retailleau réaffirme sa détermination après un été discret, malgré une campagne qui peine à décoller (chapô) |
+| 26/08 | Présidentielle 2027 : Edouard Philippe, en campagne à La Réunion, met au point sa « mécanique de rassemblement » de la droite et du centre |
+| 26/08 | Bruno Retailleau accuse LFI d'être un « parti de collabos » avec l'islamisme (chapô) |
+| 25/08 | Présidentielle 2027 : le bilan d'Emmanuel Macron, un lourd héritage à porter pour Gabriel Attal et Edouard Philippe |
+| 25/08 | Aux obsèques de François Patriat, Emmanuel Macron rend hommage à un fidèle « grognard » et met en garde Edouard Philippe et Gabriel Attal |
+| 24/08 | Présidentielle 2027 : Edouard Philippe veut augmenter de « 20 % la rémunération moyenne des enseignants » sur un quinquennat |
+| 23/08 | Présidentielle 2027 : la surenchère sur l'immigration des candidats du bloc central (chapô) |
+| 22/08 | Présidentielle 2027 : Edouard Philippe presse la droite et le centre de s'unir avant février |
+| 22/08 | Edouard Philippe, en campagne à Mayotte pour la présidentielle 2027, promet de « fermer les vannes de l'immigration » à des élus lassés par les promesses |
+| 22/08 | De Mayotte, Edouard Philippe répond aux critiques de Jean-Luc Mélenchon : « J'aimerais qu'il vienne ici et qu'il constate que la crise migratoire est prégnante » |
+| 20/08 | Présidentielle 2027 : Edouard Philippe veut « fermer totalement les vannes de l'immigration » à Mayotte et suspendre le droit du sol |
+| 19/08 | La hausse du chômage enterre la promesse d'Emmanuel Macron de retrouver le plein-emploi (chapô) |
+| 18/08 | Edouard Philippe et la stratégie des ralliements, première étape de sa campagne pour contrer le RN à la présidentielle 2027 |
+| 18/08 | Le parquet de Paris se saisit des soupçons d'ingérence russes ayant ciblé Gabriel Attal et Edouard Philippe |
+| 17/08 | Présidentielle : Gérald Darmanin ne sera pas candidat et apporte son soutien à Edouard Philippe |
+| 16/08 | Présidentielle 2027 : le jeu trouble de l'Elysée, qui agite l'hypothèse Lecornu (chapô) |
+| 09/08 | Présidentielle 2027 : l'éventuelle candidature de François Hollande scrutée par le bloc central (chapô) |
+| 07/08 | Présidentielle 2027 : Gabriel Attal mène une campagne estivale frénétique, labourant les thématiques de droite pour faire de l'ombre à Edouard Philippe |
+| 06/08 | Edouard Philippe, Raphaël Glucksmann, Gabriel Attal pris pour cibles par des ingérences russes : pourquoi il peut être contreproductif de dénoncer ces opérations |
+| 05/08 | Présidentielle 2027 : Gabriel Attal visé par « une ingérence en provenance de Russie » (chapô) |
+| 18/07 | Présidentielle 2027 : cette partie du bloc central qui lorgne la gauche sociale-démocrate (chapô) |
+| 17/07 | Affaire Edouard Philippe : le tribunal administratif de Paris conforte le statut de lanceuse d'alerte de la plaignante |
+| 17/07 | Présidentielle 2027 : entre une fidélité contrariée à leur parti et la tentation Edouard Philippe, les ministres LR cherchent leur place |
+| 06/07 | Présidentielle 2027 : en meeting, Edouard Philippe dessine les grands axes de son projet de droite modérée pour un « redressement français » |
+| 05/07 | Présidentielle 2027 : Edouard Philippe et la tentation de former une « UMP 2.0 » autour de lui |
+| 05/07 | Comment Edouard Philippe essaie de faire oublier la retraite à 67 ans pour tous |
+| 05/07 | Edouard Philippe se dévoile lors d'un meeting à Paris et promet de demander aux Français un « effort collectif juste » ainsi qu'une « refonte massive de l'école » |
+| 04/07 | Bruno Retailleau, ultime symptôme du rétrécissement idéologique et électoral de la droite LR (chapô) |
+| 04/07 | A droite, l'impasse stratégique d'un alignement sur les propositions du RN (chapô) |
+| 02/07 | Présidentielle 2027 : Laurent Wauquiez vante Edouard Philippe pour mieux attaquer la candidature de Bruno Retailleau |
+| 01/07 | Présidentielle 2027 : Laurent Wauquiez met à mal la candidature de Bruno Retailleau en tendant la main à Edouard Philippe |
+| 01/07 | Pour Edouard Philippe, ce serait « dangereux » si Gabriel Attal et lui se présentaient à la présidentielle 2027 |
+| 01/07 | Le bilan des dix ans de mandat d'Emmanuel Macron embarrasse ses héritiers, candidats à la présidentielle (chapô) |
+
+## CNEWS (cnews.fr)
+
+Source : https://www.cnews.fr/rechercher/%C3%89douard%20Philippe (recherche du site, 20 résultats par page, tri par date décroissante ; relevé arrêté après deux pages entières antérieures au 1er juillet 2026). Un article est compté si « Édouard Philippe » figure dans son titre ; le chapô n'est pas affiché sur la page de recherche.
+
+Total : 33 articles.
+
+| Date (2026) | Titre |
+|---|---|
+| 01/11 | Présidentielle 2027 : Édouard Philippe refuse de participer à une primaire pour désigner un candidat unique de la droite et du centre |
+| 30/10 | Soupçons de détournement de fonds publics : placé sous le statut de témoin assisté, Édouard Philippe a été entendu par des juges d'instruction |
+| 26/10 | Présidentielle 2027 : Edouard Philippe toujours troisième derrière Marine Le Pen et Jean-Luc Mélenchon, selon un sondage |
+| 10/10 | Présidentielle 2027 : Edouard Philippe, Jean-Luc Mélenchon, Gabriel Attal... Quels sont les grands rendez-vous du week-end ? |
+| 09/10 | «Une forme de pusillanimité de votre part» : que veut dire ce mot qui a fortement agacé Édouard Philippe ? |
+| 09/10 | «Comme quand j’étais à Matignon» : Édouard Philippe annonce qu’il n’habitera pas à l’Élysée s’il est élu en 2027 |
+| 08/10 | Présidentielle 2027 : Edouard Philippe prévoit une dissolution et une vingtaine d'ordonnances dès juillet 2027 |
+| 01/10 | Blocus des lycées : «Il faut éviter un drame et revenir au calme», appelle Edouard Philippe |
+| 01/10 | Politique : «Il est quasiment établi» que Jordan Bardella a tenu des propos «scandaleusement antisémites», estime Edouard Philippe |
+| 01/10 | Présidentielle 2027 : «Il faut travailler plus longtemps» pour sauver le système de retraite, estime Édouard Philippe |
+| 29/09 | Capitalisation, départ à 65 ans, durée de cotisation… Edouard Philippe dévoile son projet de réforme des retraites |
+| 28/09 | Présidentielle 2027 : Marine Le Pen arriverait largement en tête face à Édouard Philippe au second tour, selon un sondage |
+| 22/09 | «Amusant mais aussi très immature» : Edouard Philippe charge lourdement Gabriel Attal |
+| 17/09 | Présidentielle 2027 : Édouard Philippe dévoile son programme climatique lors d'un déplacement à Angers |
+| 09/09 | Présidentielle 2027 : Edouard Philippe va quitter la présidence d’Horizons pour se consacrer à sa campagne |
+| 08/09 | Pas d’alliance avec Edouard Philippe, fin du droit du sol, réforme pénale… Ce qu'il faut retenir de l'interview de Bruno Retailleau sur CNEWS |
+| 08/09 | Proposition d'alliance avec Edouard Philippe : «Je n'irai pas à cette réunion pour les macronistes», tacle Bruno Retailleau |
+| 07/09 | Présidentielle 2027 : pourquoi Edouard Philippe effectue-t-il un déplacement à Alès, dans le Gard, ce lundi ? |
+| 30/08 | Gérald Darmanin fait sa rentrée et s'impose comme un soutien de poids pour Edouard Philippe |
+| 24/08 | Présidentielle 2027 : Édouard Philippe veut augmenter de 20% la rémunération moyenne des enseignants |
+| 23/08 | Présidentielle 2027 : Édouard Philippe envisage un rassemblement de la droite et du centre entre «novembre et février» |
+| 22/08 | «J'aimerais qu'il vienne ici et qu'il constate la crise migratoire» : depuis Mayotte, Édouard Philippe répond à Jean-Luc Mélenchon |
+| 21/08 | Présidentielle 2027 : à Mayotte, Edouard Philippe entend débattre de la lutte contre l’immigration clandestine |
+| 17/08 | Présidentielle 2027 : Gérald Darmanin apporte son soutien à Édouard Philippe |
+| 10/08 | Présidentielle 2027 : «verrou Schengen», suspension de l'asile... Ce que propose Édouard Philippe sur l'immigration |
+| 05/08 | Présidentielle 2027 : après Edouard Philippe et Raphaël Glucksmann, Gabriel Attal visé par «une ingérence en provenance de Russie» |
+| 19/07 | Présidentielle 2027 : Edouard Philippe défend «une France plus sûre» et met l'accent sur la sécurité |
+| 10/07 | Présidentielle 2027 : pas totalement séduits par Gabriel Attal et Edouard Philippe, plusieurs partis du centre se rassemblent pour peser davantage |
+| 09/07 | Présidentielle 2027 : Marine Le Pen en tête des intentions de vote au premier tour, loin devant Edouard Philippe et Jean-Luc Mélenchon |
+| 09/07 | Présidentielle 2027 : Marine Le Pen largement en tête devant Édouard Philippe, selon deux sondages |
+| 05/07 | Présidentielle 2027 : depuis l’Adidas Arena, Edouard Philippe rentre officiellement dans la course à l'Elysée ce dimanche |
+| 01/07 | Présidentielle 2027 : Edouard Philippe estime que «ce serait dangereux» que Gabriel Attal et lui soient candidats |
+| 01/07 | Présidentielle 2027 : entre Gabriel Attal, Edouard Philippe et Bruno Retailleau, les ministres du gouvernement commencent à se positionner |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=%C3%89douard+Philippe, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.
