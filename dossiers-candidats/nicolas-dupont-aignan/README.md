@@ -25,6 +25,29 @@ Limite : BFMTV n'a ni moteur de recherche ni page par personnalité. La rubrique
 
 Total BFMTV : 4 entrées, toutes des propos du candidat.
 
+## TF1 (tf1info.fr)
+
+Source : https://www.tf1info.fr/recherche/?query=Nicolas%20Dupont-Aignan (8 extensions du bouton « Voir plus de résultats »). Un article est compté si « Dupont-Aignan » figure dans son titre ; le chapô n'est pas affiché sur la page de recherche. La recherche n'a pas de filtre de date et classe par pertinence : les articles de la période sont retenus parmi les résultats obtenus.
+
+Total : 2 articles.
+
+| Date (2026) | Titre |
+|---|---|
+| 21/10 | "C'est toujours dur" : Nicolas Dupont-Aignan sur la difficulté d'obtenir les 500 signatures pour la présidentielle |
+| 19/09 | Présidentielle 2027 : sur LCI, Nicolas Dupont-Aignan veut "arrêter tout financement" à l'Ukraine |
+
+## franceinfo (franceinfo.fr)
+
+Source : https://www.franceinfo.fr/recherche/?request=Nicolas%20Dupont-Aignan (pages 1 à 10 ; la recherche renvoie au maximum 200 contenus). Un article est compté si « Dupont-Aignan » figure dans son titre ou son chapô ; le chapô est marqué « (chapô) » quand le nom n'apparaît que dans le chapô. Les résultats sont classés par pertinence, puis par date : les articles de la période sont retenus parmi les 200 résultats.
+
+Total : 3 articles.
+
+| Date (2026) | Titre |
+|---|---|
+| 16/10 | Mobilisation des lycéens : "Sébastien Lecornu sème lui-même le chaos", estime Nicolas Dupont-Aignan |
+| 07/10 | Sommet de l'élevage. Selfies, serrage de mains : Le Pen, Zemmour, Ruffin et Dupont-Aignan en campagne |
+| 19/09 | "Je serai le seul candidat qui propose de sortir de l'Union européenne", dit Nicolas Dupont-Aignan, qui se lance dans sa quatrième campagne présidentielle |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Nicolas+Dupont-Aignan, parcouru jusqu'au 1er juillet 2026.

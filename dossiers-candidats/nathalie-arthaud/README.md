@@ -32,6 +32,24 @@ Limite : BFMTV n'a ni moteur de recherche ni page par personnalité. La rubrique
 
 Total BFMTV : 2 entrées, toutes des propos de la candidate.
 
+## TF1 (tf1info.fr)
+
+Source : https://www.tf1info.fr/recherche/?query=Nathalie%20Arthaud (8 extensions du bouton « Voir plus de résultats »). Un article est compté si « Arthaud » figure dans son titre ; le chapô n'est pas affiché sur la page de recherche. La recherche n'a pas de filtre de date et classe par pertinence.
+
+Total : 0 article.
+
+## franceinfo (franceinfo.fr)
+
+Source : https://www.franceinfo.fr/recherche/?request=Nathalie%20Arthaud (pages 1 à 10 ; la recherche renvoie au maximum 200 contenus). Un article est compté si « Arthaud » figure dans son titre ou son chapô ; le chapô est marqué « (chapô) » quand le nom n'apparaît que dans le chapô. Les résultats sont classés par pertinence, puis par date : les articles de la période sont retenus parmi les 200 résultats.
+
+Total : 3 articles.
+
+| Date (2026) | Titre |
+|---|---|
+| 22/10 | L'extrême gauche pointée du doigt après le 17 octobre : "la casse, ce n'est pas une politique pour les travailleurs", répond Nathalie Arthaud |
+| 22/10 | "Cette irruption de la jeunesse, on ne la voyait pas venir", commente Nathalie Arthaud, candidate Lutte ouvrière à l'élection présidentielle |
+| 06/10 | "Le gouvernement ne se donne pas les moyens pour que la jeunesse vive dignement" : Nathalie Arthaud soutient la mobilisation des lycéens des Outre-mer |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Nathalie+Arthaud, parcouru jusqu'au 1er juillet 2026.

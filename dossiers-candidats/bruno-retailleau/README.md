@@ -69,6 +69,72 @@ Note : la ligne du 27/09 est un propos d'un autre responsable sur Bruno Retaille
 
 Note : le tableau regroupe certaines vidéos quasi identiques et écarte quelques articles où le candidat n'est que cité. Le total correspond aux lignes du tableau.
 
+## TF1 (tf1info.fr)
+
+Source : https://www.tf1info.fr/recherche/?query=Bruno%20Retailleau (8 extensions du bouton « Voir plus de résultats »). Un article est compté si « Retailleau » figure dans son titre ; le chapô n'est pas affiché sur la page de recherche. La recherche n'a pas de filtre de date et classe par pertinence : les articles de la période sont retenus parmi les résultats obtenus.
+
+Total : 9 articles.
+
+| Date (2026) | Titre |
+|---|---|
+| 21/10 | "La France a été humiliée parce que ses chefs ont failli", assure Bruno Retailleau sur LCI |
+| 21/10 | La Grande Confrontation : Bruno Retailleau face aux Français |
+| 16/10 | Présidentielle 2027 : François Fillon apporte son soutien à Bruno Retailleau |
+| 07/10 | L'interview d'Amélie Carrouër du jeudi 8 octobre 2026 : Bruno Retailleau |
+| 06/10 | VÉRIF' - Une "interdiction" de La France insoumise, comme le propose Bruno Retailleau, serait-elle légale ? |
+| 03/10 | Présidentielle 2027 : Raphaël Glucksmann et Bruno Retailleau refusent la main tendue de Gabriel Attal pour une "grande coalition" |
+| 21/09 | Âge minimal de départ à 63 ans, à taux plein à 65 ans... Bruno Retailleau dévoile sur LCI ses propositions pour les retraites |
+| 14/09 | Présidentielle 2027 : Bruno Retailleau veut réduire les prix à la pompe en supprimant les certificats d'énergie |
+| 07/09 | Présidentielle 2027 : Bruno Retailleau veut supprimer le droit du sol par référendum |
+
+## franceinfo (franceinfo.fr)
+
+Source : https://www.franceinfo.fr/recherche/?request=Bruno%20Retailleau (pages 1 à 10 ; la recherche renvoie au maximum 200 contenus). Un article est compté si « Retailleau » figure dans son titre ou son chapô ; le chapô est marqué « (chapô) » quand le nom n'apparaît que dans le chapô. Les résultats sont classés par pertinence, puis par date : les articles de la période sont retenus parmi les 200 résultats.
+
+Total : 39 articles.
+
+| Date (2026) | Titre |
+|---|---|
+| 31/10 | La candidature de David Lisnard pour 2027, "une épine dans le pied" de Bruno Retailleau |
+| 30/10 | Budget 2027 : "Il faut savoir prendre des risques", estime Michel Barnier qui plaide pour un 49.3 du Premier ministre Sébastien Lecornu (chapô) |
+| 29/10 | "Ce serait du suicide" : la primaire proposée par Gabriel Attal en vue de la présidentielle ne convainc ni Edouard Philippe, ni Bruno Retailleau |
+| 28/10 | Il n'est "pas question de changer les dates de l'élection présidentielle", répond le gouvernement à Bruno Retailleau |
+| 28/10 | "Un projet qui n'est pas le bon pour la France" : Bruno Retailleau balaie la main tendue du RN en vue d'un éventuel gouvernement d'union des droites |
+| 28/10 | Le candidat LR à la présidentielle Bruno Retailleau juge "fantaisiste et ridicule" l'organisation d'une "grande primaire des démocrates" proposée par son adversaire Gabriel Attal |
+| 21/10 | Cinq questions sur la possibilité d'interdire un parti politique, comme le proposent Gérard Larcher et Bruno Retailleau pour LFI |
+| 21/10 | Eric Ciotti appelle Bruno Retailleau et David Lisnard à abandonner "leurs candidatures de témoignages" à la présidentielle pour se rassembler autour de Marine Le Pen |
+| 20/10 | Violences du 17 octobre : Bruno Retailleau dénonce une "convergence entre l'extrême gauche et des racailles" issues de l'immigration |
+| 18/10 | Les élus LFI "ont armé la violence avec leurs mots d'ordre", accuse le président de LR Bruno Retailleau |
+| 16/10 | "Franc-Jeu". Avec Bruno Retailleau |
+| 16/10 | Le site du parti Les Républicains a été piraté pour afficher un appel à manifester le 17 octobre, l'entourage de Bruno Retailleau annonce porter plainte |
+| 15/10 | Présidentielle 2027 : David Lisnard devance Bruno Retailleau dans un sondage après une ascension éclair sur les réseaux sociaux |
+| 12/10 | Présidentielle 2027 : Bruno Retailleau promet des économies de près de 200 milliards d'euros jusqu'en 2032 |
+| 08/10 | Un recours déposé pour annuler les élections sénatoriales qui ont fait élire Bruno Retailleau en Vendée |
+| 06/10 | Le ministre des Affaires étrangères Jean-Noël Barrot se rend en Israël mercredi pour les commémorations du 7-Octobre (chapô) |
+| 01/10 | Bruno Retailleau, Marine Le Pen, Gabriel Attal... Plusieurs candidats à la présidentielle attaquent La France insoumise sur sa "responsabilité" dans le blocage des lycées |
+| 24/09 | La "primaire sauvage" entre Édouard Philippe, Gabriel Attal et Bruno Retailleau risque de laisser des traces pour la présidentielle |
+| 24/09 | Une "primaire sauvage" au centre et à droite ? (chapô) |
+| 22/09 | S'il est élu, Bruno Retailleau veut instaurer un âge minimal de départ à la retraite à 63 ans, et le taux plein à 65 ans |
+| 18/09 | Supprimer les certificats d'économie d'énergie ferait-il réaliser une économie de "8,5 euros par plein" comme l'affirme Bruno Retailleau ? |
+| 17/09 | Un tiers des Français sont-ils à découvert chaque 17 du mois, comme l'affirme Bruno Retailleau ? |
+| 16/09 | Présidentielle, carburants... Le "8h30 franceinfo" de Bruno Retailleau |
+| 16/09 | Bruno Retailleau reprend l'éternel refrain du peuple contre les juges |
+| 16/09 | Bruno Retailleau reprend l'argument du peuple contre les juges |
+| 16/09 | Une "différence de nature" avec Édouard Philippe : Bruno Retailleau rejette l'idée d'un rassemblement de la droite pour l'élection présidentielle |
+| 16/09 | "Je suis cette alternance. Je serai le changement" estime Bruno Retailleau (chapô) |
+| 13/09 | "Il faudrait peut-être un peu plus de peps" : à Nogent-sur-Marne, Bruno Retailleau cherche à faire décoller sa campagne |
+| 12/09 | "Le risque pour nous, c'est de rester un second choix" : comment Bruno Retailleau espère se relancer dans la course à la présidentielle |
+| 08/09 | Présidentielle 2027 : les détails de la charte envoyée par Hervé Morin aux candidats de la droite et du centre pour l'organisation d'une primaire (chapô) |
+| 08/09 | Édouard Philippe invite Gabriel Attal, Bruno Retailleau et François Bayrou à une rencontre en novembre pour évoquer la présidentielle 2027 et l'après-élection |
+| 29/08 | Présidentielle 2027 : Bruno Retailleau "ne passera pas Noël" et "se retirera pour soutenir Edouard Philippe", prédit Jordan Bardella |
+| 28/08 | "S'il y a une primaire" de la droite et du centre, "je l'affronterai" , assure Bruno Retailleau, candidat à l'élection présidentielle |
+| 28/08 | Retraites : "Contrairement à beaucoup d'autres, j'assumerai le fait de repousser l'âge légal", lance Bruno Retailleau, candidat LR à l'élection présidentielle |
+| 28/08 | Présidentielle 2027 : Bruno Retailleau s'apparente au "candidat des patrons" pour Pascal de Lima, économiste |
+| 27/08 | Revivez le premier débat de la présidentielle 2027, organisé par le Medef, qui a opposé sept candidats pendant trois heures (chapô) |
+| 27/08 | De Bruno Retailleau à Jean-Luc Mélenchon, un premier débat et de premières passes d'armes entre sept candidats à la présidentielle face au Medef |
+| 26/08 | Bruno Retailleau accuse La France insoumise d'être un "parti de collabos" avec l'islamisme |
+| 18/08 | Ralliement de Gérald Darmanin à Édouard Philippe : "C'est simplement un macroniste qui rejoint un autre macroniste", réagit Céline Imart, secrétaire nationale LR (chapô) |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Bruno+Retailleau, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

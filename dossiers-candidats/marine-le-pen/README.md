@@ -205,6 +205,199 @@ Note : les lignes du 30/10 et du 11/10 citent Marine Le Pen sans qu'elle soit le
 
 Note : le tableau regroupe certaines vidéos quasi identiques et écarte quelques articles où le candidat n'est que cité. Le total correspond aux lignes du tableau.
 
+## TF1 (tf1info.fr)
+
+Source : https://www.tf1info.fr/recherche/?query=Marine%20Le%20Pen (16 extensions du bouton « Voir plus de résultats »). Un article est compté si « Le Pen » figure dans son titre ; le chapô n'est pas affiché sur la page de recherche. La recherche n'a pas de filtre de date et classe par pertinence : les articles de la période sont retenus parmi les résultats obtenus. Après la 8e extension, 7 articles de la période apparaîtent.
+
+Total : 22 articles.
+
+| Date (2026) | Titre |
+|---|---|
+| 24/10 | Présidentielle : à Orléans, Marine Le Pen promet une "renaissance" et lance sa campagne dans une atmosphère électrique |
+| 24/10 | Élection présidentielle 2027 : un scénario Mélenchon-Le Pen au second tour "de plus en plus crédible" après les manifestations contre la vie chère |
+| 23/10 | "On a connu lancement de campagne plus apaisé" : à Orléans, Marine Le Pen se lance dans la course à l'Élysée dans un climat tendu |
+| 17/10 | "Une menace sur la démocratie" : après les violences du 17 octobre, Marine Le Pen dénonce "une crise profonde" |
+| 14/10 | "Madame Le Pen ne maîtrise pas bien certains détails" : Zelensky répond à la candidate du RN sur les aides à l'Ukraine |
+| 02/10 | Marine Le Pen maintient "totalement" sa "confiance" à Jordan Bardella, accusé par Mediapart d'écrits antisémites |
+| 01/10 | Présidentielle 2027 : Marine Le Pen soutient Jordan Bardella, propos de Raphaël Glucksmann... le résumé du samedi 3 octobre |
+| 22/09 | Marine Le Pen, Gabriel Attal, Édouard Philippe... La messe du pape Léon XIV attire les candidats à l'élection présidentielle |
+| 16/09 | Ukraine : "Nous ne pouvons plus" l'aider autant, dit Marine Le Pen sur LCI |
+| 15/09 | Marine Le Pen dans "Objectif 2027" sur LCI : les temps forts de l'émission |
+| 12/09 | Présidentielle 2027 : Marine Le Pen fait sa rentrée politique sur le thème du logement et de la "priorité aux Français" |
+| 10/09 | Présidentielle 2027 : Marine Le Pen fait sa rentrée, avec l'objectif de rectifier un début de campagne sinueux |
+| 03/09 | Sarah Knafo dans un gouvernement RN ? "Il faut d'abord faire campagne pour Marine Le Pen", prévient Jordan Bardella sur LCI |
+| 25/08 | SONDAGE LCI - Présidentielle 2027 : Marine Le Pen élue au second tour dans tous les cas de figure, les résultats de notre baromètre |
+| 08/07 | Pourvoi de Marine Le Pen : la Cour de cassation fera "tout" pour rendre sa décision avant la présidentielle |
+| 07/07 | "Marine Le Pen débutera la campagne présidentielle sans le port d'un bracelet", confirme la procureure générale près la cour d'appel de Paris |
+| 07/07 | Présidentielle 2027 : Marine Le Pen candidate malgré sa condamnation, pari risqué ou gagnant sur le plan électoral ? |
+| 07/07 | SONDAGE - Présidentielle 2027 : Marine Le Pen donnée vainqueure au second tour quel que soit son adversaire |
+| 07/07 | Marine Le Pen sous bracelet électronique avant l'élection présidentielle : ce scénario a-t-il des chances d'arriver ? |
+| 06/07 | Pourvoi de Marine Le Pen : la Cour de cassation "pourrait rendre son arrêt au plus tard début avril 2027, avant le scrutin présidentiel" |
+| 06/07 | Marine Le Pen condamnée en appel : voici le détail de ses peines |
+| 04/07 | Marine Le Pen candidate ou pas à la présidentielle ? Elle est l'invitée du 20H de TF1 ce mardi |
+
+## franceinfo (franceinfo.fr)
+
+Source : https://www.franceinfo.fr/recherche/?request=Marine%20Le%20Pen (pages 1 à 10 ; la recherche renvoie au maximum 200 contenus). Un article est compté si « Le Pen » figure dans son titre ou son chapô, après vérification qu'il concerne Marine Le Pen (un article sur Jean-Marie Le Pen a été retiré) ; le chapô est marqué « (chapô) » quand le nom n'apparaît que dans le chapô. Les résultats sont classés par pertinence, puis par date : les articles de la période sont retenus parmi les 200 résultats.
+
+Total : 153 articles.
+
+| Date (2026) | Titre |
+|---|---|
+| 30/10 | Édouard Philippe, Gabriel Attal, jusqu'où ira la chute ? (chapô) |
+| 30/10 | Marine Le Pen est-elle vraiment inéligible à l'élection présidentielle, comme l'affirme un magistrat honoraire de la Cour de cassation ? |
+| 29/10 | Présidentielle : "Aucun candidat ne paraît en mesure de résoudre la crise du logement", même si Marine Le Pen "émerge un peu plus", selon un sondage Ipsos |
+| 29/10 | "Marine Le Pen ne discrimine personne", martèle la députée mahoraise Anchya Bamana |
+| 29/10 | "Ce serait du suicide" : la primaire proposée par Gabriel Attal en vue de la présidentielle ne convainc ni Edouard Philippe, ni Bruno Retailleau (chapô) |
+| 28/10 | "Un projet qui n'est pas le bon pour la France" : Bruno Retailleau balaie la main tendue du RN en vue d'un éventuel gouvernement d'union des droites (chapô) |
+| 27/10 | Les contre-pouvoirs dans le collimateur du Rassemblement national (chapô) |
+| 27/10 | Marine Le Pen veut mettre au pas les contre-pouvoirs ? |
+| 26/10 | "C'était objectivement le plus beau meeting du Rassemblement national", affirme Andréa Kotarac, porte-parole de la campagne de Marine Le Pen. |
+| 26/10 | Présidentielle 2027 : depuis Orléans, Marine Le Pen lance sa campagne |
+| 26/10 | Marine Le Pen souhaite abolir la loi Hulot sur la fin de l'exploitation des hydrocarbures en France, un débat relancé régulièrement en Guyane et à Mayotte |
+| 26/10 | Le Conseil constitutionnel écarte la demande de démission de son président, formulée par le RN et l'UDR (chapô) |
+| 26/10 | Attentat de Trappes : le RN réagit aux accusations de la gauche (chapô) |
+| 26/10 | Colère lycéenne : "On a un gouvernement qui a cédé à une minorité agissante", regrette Aleksandar Nikolic, porte-parole de la campagne de Marine Le Pen |
+| 25/10 | Comment Marine Le Pen, plus optimiste que jamais pour 2027, veut prendre de la hauteur et installer sa "force tranquille" |
+| 25/10 | "On a gagné la bataille des idées" : à Orléans, Marine Le Pen lance sa campagne dans une ville sous haute surveillance |
+| 25/10 | "Sans Emmanuel Macron, Marine Le Pen aurait été présidente en 2017" explique Sandro Gozi, député européen Renew |
+| 25/10 | Un bus de sympathisants RN dégradé par des militants encagoulés à Grenoble, une enquête ouverte (chapô) |
+| 25/10 | Congrès du RN à Orléans : une centaine de militants antifascistes se sont rassemblés en dépit des interdictions (chapô) |
+| 25/10 | Congrès du RN : Marine Le Pen promet un gouvernement "d'union nationale", "pluraliste" et dirigé par Jordan Bardella |
+| 25/10 | Présidentielle 2027 : Marine Le Pen lance sa campagne, manifestations, Raphaël Glucksmann à Amiens... Le point sur la semaine |
+| 24/10 | Afflux de militants d'extrême droite, manifestation de la gauche... Pourquoi le congrès du RN à Orléans ce week-end est au cœur des tensions (chapô) |
+| 24/10 | Congrès du RN à Orléans : le service de sécurité vérifie que "les femmes portent un soutien-gorge" pour éviter l'intrusion de militantes Femen (chapô) |
+| 24/10 | Des milliers de manifestants réunis à Orléans en marge du congrès du Rassemblement national (chapô) |
+| 24/10 | Seul candidat, Jordan Bardella est réélu président du RN (chapô) |
+| 24/10 | Congrès du RN à Orléans : Mediapart brièvement exfiltré de la salle (chapô) |
+| 23/10 | La manifestation contre le congrès du RN à Orléans contrarie la stratégie de normalisation de Marine Le Pen |
+| 23/10 | "Il faut que Marine Le Pen arrête son cinéma, on ne va pas empêcher la tenue de son congrès", assure la cégétiste Sophie Binet |
+| 23/10 | "J'ai trouvé ça intrusif" : ces SMS qui irritent les Orléanais avant le meeting de Marine Le Pen |
+| 22/10 | Est-ce qu'"il y a une enquête de l'IGPN lorsqu'une plainte est formulée" contre un policier, comme l'affirme Marine Le Pen ? |
+| 22/10 | "Nous sommes le rempart face à l'extrême gauche avec Marine Le Pen", affirme le porte-parole du Rassemblement National, Julien Odoul |
+| 21/10 | Violences du 17 octobre, présidentielle... Le "8h30 franceinfo" de Marine Le Pen |
+| 21/10 | À six mois de l'élection présidentielle, la popularité de Marine Le Pen semble inaltérable |
+| 21/10 | "Retrouver l'ordre, le droit, et le pouvoir d'achat" : dans des petites communes de Dordogne, les violences du 17 octobre enracinent l'envie de voter Marine Le Pen |
+| 21/10 | Donald Trump dit voir dans Marine Le Pen la "voix conservatrice" en France |
+| 21/10 | "Le gouvernement a perdu la maîtrise de tout", dénonce Marine Le Pen qui plaide pour faire payer les casseurs, "à vie s'il le faut" après les violences du 17 octobre |
+| 21/10 | Marine Le Pen dénonce "le rôle" de LFI après les violences du 17 octobre et souhaite que les "associations politisées" ne soient plus subventionnées |
+| 21/10 | Marine Le Pen "n'a pas d'inquiétude" sur la sécurité du congrès du RN à Orléans |
+| 21/10 | Eric Ciotti appelle Bruno Retailleau et David Lisnard à abandonner "leurs candidatures de témoignages" à la présidentielle pour se rassembler autour de Marine Le Pen |
+| 21/10 | Violences : "Le gouvernement a perdu la maîtrise de tout", dénonce Marine Le Pen |
+| 21/10 | Marine Le Pen a-t-elle déjà gagné la présidentielle ? |
+| 21/10 | "Plusieurs dizaines de milliers" d'opposants au RN attendus au congrès du parti d'extrême droite à Orléans, selon Laurent Nuñez (chapô) |
+| 21/10 | Donald Trump apporte un soutien à Marine Le Pen |
+| 20/10 | "Nous refusons la haine, le racisme..." : face au Congrès du RN, des milliers de manifestants attendus ce week-end à Orléans (chapô) |
+| 19/10 | "C'est un cadeau pour le RN" : les violences du 17 octobre peuvent-elles avoir une influence sur la campagne présidentielle ? (chapô) |
+| 18/10 | La mobilisation du 17 octobre : une crise politique à 6 mois de la présidentielle (chapô) |
+| 16/10 | Marine Le Pen veut la "transparence totale" dans la sélection sur Parcoursup |
+| 16/10 | Le RN critique la "condescendance" de Volodymyr Zelensky après des échanges avec Marine Le Pen sur les aides à l'Ukraine |
+| 16/10 | Les parlementaires RN et UDR saisissent le Conseil constitutionnel pour réclamer "la démission d'office" de son président, Richard Ferrand (chapô) |
+| 16/10 | Le recours du RN contre Richard Ferrand, appelant à le débarquer de la présidence du Conseil constitutionnel, est-il fondé juridiquement ? (chapô) |
+| 16/10 | Guerre en Ukraine : "Marine Le Pen s'aligne sur les États-Unis de Donald Trump et sur la Russie de Vladimir Poutine", estime Jad Zahab, porte-parole de Gabriel Attal |
+| 15/10 | "Il a rompu avec la neutralité" : Marine Le Pen exige la démission de Richard Ferrand après son veto sur le référendum constitutionnel |
+| 15/10 | Le RN a "toujours défendu les intérêts de la Russie" Gabriel Attal (chapô) |
+| 15/10 | "Les Européens resteront endurants, résilients, dans le soutien à l'Ukraine, c'est notre sécurité qui est en jeu", affirme Benjamin Haddad (chapô) |
+| 15/10 | Aides à l'Ukraine : "Ne plus soutenir l'Ukraine, c'est choisir la Russie", estime le vice-président du Congrès mondial ukrainien en réponse à Marine Le Pen |
+| 15/10 | Présidentielle 2027 : Glucksmann boudé par la gauche, le duel Le Pen-Bardella sous tension et l'entrée en piste de David Lisnard |
+| 14/10 | Marine Le Pen présentera "de manière extrêmement précise" sa réforme des retraites le 17 novembre |
+| 13/10 | Présidentielle 2027 : Richard Ferrand balaie la promesse de Marine Le Pen d'une révision de la Constitution par référendum |
+| 12/10 | "C'est à Mediapart de prouver que ses affirmations reposent sur quelque chose", affirme Laurent Jacobelli, député de la Moselle et porte-parole de la campagne de Marine Le Pen, à propos des accusations visant Jordan Bardella |
+| 12/10 | Présidentielle 2027 : Marine Le Pen en terre conquise dans le Tarn-et-Garonne pour défendre ses propositions sur la protection de l'enfance |
+| 09/10 | "Il y a deux manifestations", estime la députée RN Laure Lavalette, qui accuse La France insoumise d'avoir "instrumentalisé" la mobilisation lycéenne (chapô) |
+| 09/10 | "Trucs délirants" : profanation du cimetière juif de Carpentras en 1990, les propos d'un conseiller de Marine Le Pen indignent les proches |
+| 08/10 | "Ce n'est pas du tout crédible" : le budget de Marine Le Pen et ses 140 milliards d'économies sous le feu des critiques |
+| 08/10 | Antisémitisme : Sébastien Chenu défend Jordan Bardella et dénonce une "manœuvre de diversion" (chapô) |
+| 07/10 | A suivre Loïc de la Mornais : Les promesses du contre-budget RN (chapô) |
+| 07/10 | Marine Le Pen "maintient à 1 000% sa confiance en Jordan Bardella", après la divulgation par Mediapart d'écrits antisémites attribués au président du RN |
+| 07/10 | Sommet de l'élevage. Selfies, serrage de mains : Le Pen, Zemmour, Ruffin et Dupont-Aignan en campagne |
+| 07/10 | Libération de 10 millions de barils de gazole : "Comme d'habitude, ils finissent par mettre en œuvre nos propositions après les avoir ridiculisées", réagit Marine Le Pen |
+| 06/10 | Le RN va présenter son contre-budget, en pleine "affaire Bardella" (chapô) |
+| 06/10 | Présidentielle 2027 : Marine Le Pen promet "140 milliards d'euros net d'économies" d'ici à 2032 |
+| 04/10 | "J'ai totalement confiance en Jordan" : Marine Le Pen fait front avec Jordan Bardella, à qui Mediapart attribue des écrits antisémites |
+| 03/10 | Marine Le Pen maintient "totalement" sa "confiance" à Jordan Bardella, à qui Mediapart attribue des écrits antisémites |
+| 02/10 | Gabriel Attal, Édouard Philippe, Marine Le Pen... Quels sont les premiers noms attendus au Sommet de l'Élevage 2026 ? |
+| 02/10 | "Barbouzerie", "pseudo-preuves", usurpation d'identité... Les lignes de défense du RN face aux écrits antisémites attribués à Jordan Bardella (chapô) |
+| 01/10 | L'affaire Bardella fragilise le pari de Sébastien Lecornu sur le RN pour le budget 2027 (chapô) |
+| 01/10 | Plus de sénateurs RN, ça change quoi ? (chapô) |
+| 01/10 | Bruno Retailleau, Marine Le Pen, Gabriel Attal... Plusieurs candidats à la présidentielle attaquent La France insoumise sur sa "responsabilité" dans le blocage des lycées |
+| 01/10 | L'affaire Bardella peut-elle conduire Marine Le Pen à censurer le gouvernement ? |
+| 30/09 | Au RN, derrière l'unité de façade, la nuit des petits couteaux (chapô) |
+| 30/09 | Le RN fait-il vraiment front autour de Jordan Bardella ? (chapô) |
+| 30/09 | "Il y avait des brebis galeuses au RN. Mediapart a découvert le berger." (chapô) |
+| 29/09 | "Ni le Jordan Bardella d'aujourd'hui ni celui d'il y a 10 ans n'auraient pu tenir ces propos", affirme Thomas Ménagé, porte-parole du RN à l'Assemblée nationale (chapô) |
+| 29/09 | Les propos antisémites attribués à Jordan Bardella par Mediapart provoquent un tollé dans la classe politique, le RN fait front derrière son président (chapô) |
+| 29/09 | Jordan Bardella dénonce "les prémices d'une guerre totale" contre le RN après les révélations de Mediapart sur les écrits antisémites qui lui sont attribués (chapô) |
+| 29/09 | Jordan Bardella visé par des accusations d'antisémitisme, le RN affiche son soutien (chapô) |
+| 29/09 | En réaction aux révélations sur Jordan Bardella, Marine Le Pen dit à Mediapart "d'enfiler son costard en Kevlar", une députée écologiste saisit la justice |
+| 29/09 | Propos antisémites attribués à Jordan Bardella : "C'est une déflagration colossale dans cette campagne", réagit Céline Géraud, porte-parole de Gabriel Attal (chapô) |
+| 28/09 | Combien coûte l'aide de la France à l'Ukraine, remise en cause par Marine Le Pen et le RN ? |
+| 28/09 | "Cela va nous permettre de rentrer dans le jeu institutionnel" : ce que change l'obtention historique par le RN d'un groupe parlementaire au Sénat (chapô) |
+| 28/09 | Résultats des élections sénatoriales : le sénateur socialiste Patrick Kanner veut "un cordon sanitaire pour éviter l'influence" du RN (chapô) |
+| 28/09 | Un groupe RN au Sénat pour la première fois (chapô) |
+| 28/09 | "On a été des députés parfaitement responsables. Ce sera pareil au Sénat " veut rassurer le Vice-président de l'Assemblée nationale, Sébastien Chenu. (chapô) |
+| 28/09 | Propos antisémites attribués à Jordan Bardella : "Ça n'aurait pas pu fuiter depuis 15 ans ?", interroge Philippe Ballard, porte-parole du RN (chapô) |
+| 27/09 | Résultats des élections sénatoriales 2026 : le RN réussit à constituer un groupe au Sénat pour la première fois de son histoire (chapô) |
+| 23/09 | "Le travail rend libre" : accusé d'avoir fait écho à un slogan nazi dans un discours, le député RN Jean-Philippe Tanguy dénonce du "n'importe quoi" (chapô) |
+| 22/09 | L'ex-président russe Dmitri Medvedev estime que le RN est désormais un parti "russophobe" qui soutient les "nazis" en Ukraine (chapô) |
+| 19/09 | Eric Zemmour (presque) candidat à l'élection présidentielle de 2027, un atout pour Marine Le Pen ? |
+| 19/09 | "Dérouler sa campagne présidentielle", apparaître comme "une cheffe d'Etat"… Pourquoi le scénario d'une non-censure de Marine Le Pen et du RN sur le budget se renforce |
+| 19/09 | La Russie ne peut "dicter la politique de la France par la menace", selon Marine Le Pen et Jordan Bardella |
+| 18/09 | Les eurodéputés macronistes et de gauche viennent-ils de voter pour une hausse de 15 centimes du prix des carburants à la pompe ? (chapô) |
+| 18/09 | Prix des carburants : "Ils font le choix de refuser de venir en aide aux Français", réagit Marine Le Pen |
+| 18/09 | A suivre Loïc de la Mornais : avec Marine Le Pen à l'Élysée, l'Ukraine lâchée ? |
+| 17/09 | Est-il vrai que "70% des Français sont éligibles" à un logement du parc social et que "seulement 11% d'entre eux en bénéficient", comme l'affirme Marine Le Pen ? |
+| 17/09 | "C'est une bombe à retardement" : comment le RN a laissé en place un député soupçonné de détournements d'argent public (chapô) |
+| 17/09 | Un député du RN protégé malgré plusieurs alertes ? (chapô) |
+| 17/09 | Face à l'état des finances publiques, Marine Le Pen estime que la France ne peut plus aider l'Ukraine autant qu'actuellement |
+| 17/09 | "C'est une bombe à retardement" : comment le RN a laissé en place un député soupçonné de détournements d'argent public (chapô) |
+| 16/09 | Marine Le Pen souhaite "interdire le voile" islamique "de manière progressive" |
+| 15/09 | A suivre Loïc de la Mornais : RN : un parti, deux lignes entre Le Pen et Bardella ? |
+| 15/09 | "Priorité nationale" pour les HLM : "C'est une mesure qui est discriminatoire", fustige Ian Brossat sénateur PCF à propos de la proposition de Marine Le Pen |
+| 14/09 | Censurer ou ne pas censurer, that is the question... Le dilemme budgétaire de Marine Le Pen |
+| 14/09 | Présidentielle 2027 : Marine Le Pen fait sa rentrée à Hénin-Beaumont |
+| 14/09 | Marine Le Pen "nourrit une lubie xénophobe" en voulant réserver les logements sociaux aux Français, dénonce la présidente de la confédération des bailleurs sociaux |
+| 14/09 | M. Le Pen /J. Bardella : tensions sur la ligne |
+| 13/09 | "Nous nous devons plus que jamais de mener la bataille sociale" : en meeting à Hénin-Beaumont, Marine Le Pen tente de retrouver les accents de sa campagne présidentielle de 2022 |
+| 13/09 | Marine Le Pen, candidate du RN à la présidentielle, détaille une série de propositions sur le logement, qui sera l'"un des grands chantiers" de son quinquennat si elle est élue |
+| 13/09 | Des tensions sur la ligne du RN entre Marine Le Pen et Jordan Bardella |
+| 13/09 | Budget 2027 : "Sébastien Lecornu et Marine Le Pen ont pas mal de chances de s'entendre", estime Charles Sapin, directeur adjoint de Valeurs actuelles |
+| 12/09 | "Le risque pour nous, c'est de rester un second choix" : comment Bruno Retailleau espère se relancer dans la course à la présidentielle (chapô) |
+| 12/09 | Après la vague de soutien aux femmes qui portent le voile, celles qui sont concernées réagissent sur les réseaux (chapô) |
+| 12/09 | Marine Le Pen préfère un budget "imparfait, opérationnel" avant la présidentielle, plutôt qu'une loi spéciale |
+| 08/09 | Pourquoi le RN a "acté la rupture" avec l'AfD (chapô) |
+| 08/09 | Présidentielle 2027 : les détails de la charte envoyée par Hervé Morin aux candidats de la droite et du centre pour l'organisation d'une primaire (chapô) |
+| 07/09 | Entre Marine Le Pen et Jordan Bardella, une entente de plus en plus fragile au RN |
+| 07/09 | Le Pen-Bardella : règlement de comptes au RN ? |
+| 07/09 | La victoire de l'AfD en Allemagne est "une alerte extrêmement grave" selon Manuel Bompard, coordinateur de La France insoumise (chapô) |
+| 06/09 | Jordan Bardella tente de désamorcer les polémiques, après son déplacement au Royaume-Uni (chapô) |
+| 05/09 | Présidentielle 2027 : Marine Le Pen et Jordan Bardella affichent de plus en plus leurs divergences |
+| 05/09 | Election présidentielle : Jordan Bardella réaffirme son "amitié politique indéfectible" avec Marine Le Pen, malgré les polémiques |
+| 05/09 | "On coupe le robinet" : Marine Le Pen et Edouard Philippe s'affrontent par tweets interposés sur l'aide à l'Ukraine |
+| 05/09 | Guerre en Ukraine : "Nous sommes aux côtés de l'Ukraine, mais pas au prix de la ruine financière", estime Laurent Jacobelli (chapô) |
+| 05/09 | "Il n'y a qu'une voie" : Eric Ciotti propose à Marine Le Pen "un pacte d'alliance" pour la présidentielle de 2027 |
+| 04/09 | Les avocats de Marine Le Pen ont jusqu'au 15 octobre pour justifier le pourvoi dans l'affaire des assistants d'eurodéputés FN |
+| 03/09 | Présidentielle 2027 : des dissonances au sein du RN ? (chapô) |
+| 02/09 | Au RN, Marine Le Pen reprend la main et durcit le ton |
+| 02/09 | "Après des mois de normalisation, Marine Le Pen réactive un marqueur" : pourquoi le RN replace la question du voile dans le débat présidentiel |
+| 02/09 | "Il faut quelqu'un qui renverse la table" : en Seine-et-Marne, des électeurs de droite se disent tentés par le vote RN à la présidentielle (chapô) |
+| 01/09 | Interdiction du voile : Gabriel Attal "en désaccord avec la proposition du RN" (chapô) |
+| 31/08 | Un duel Le Pen-Mélenchon au second tour de la présidentielle ? "C'est déjà perdu si on en arrive à cette situation", assure Jérôme Guedj, candidat à la primaire du pôle socialiste |
+| 31/08 | Le Rassemblement national veut "sanctionner le port du voile" par "une amende" s'il arrive au pouvoir, affirme le député Jean-Philippe Tanguy (chapô) |
+| 31/08 | Le RN prévoit un référendum sur l'interdiction du port du voile en cas de victoire à la présidentielle 2027 (chapô) |
+| 31/08 | Port du voile : le Rassemblement national promet un référendum sur la "lutte contre l'idéologie islamiste" (chapô) |
+| 30/08 | Après un été discret, Jordan Bardella a fait son retour (chapô) |
+| 29/08 | Présidentielle : le PDG de TotalEnergies, Patrick Pouyanné, "inquiet" face aux programmes économiques de Marine Le Pen et Jean-Luc Mélenchon |
+| 28/08 | Marine Le Pen se sépare de son conseiller économique dans la course pour l'élection présidentielle |
+| 27/08 | "Femme d'État" : la campagne de Marine Le Pen sous la pression d'Éric Zemmour |
+| 27/08 | Revivez le premier débat de la présidentielle 2027, organisé par le Medef, qui a opposé sept candidats pendant trois heures (chapô) |
+| 27/08 | "Pour l'instant, c'est le grand flou" : au rassemblement du Medef, les patrons s'interrogent sur le programme du RN (chapô) |
+| 27/08 | De Bruno Retailleau à Jean-Luc Mélenchon, un premier débat et de premières passes d'armes entre sept candidats à la présidentielle face au Medef (chapô) |
+| 26/08 | Marine Le Pen fait sa rentrée devant le Medef, qui a invité sept candidats à la présidentielle |
+| 26/08 | Plus de 200 élus, dont Hervé Morin, appellent à une "primaire ouverte" de la droite et du centre à l'approche de l'élection présidentielle de 2027 (chapô) |
+| 26/08 | Bruno Retailleau accuse La France insoumise d'être un "parti de collabos" avec l'islamisme (chapô) |
+| 21/08 | "Il est temps de nettoyer les écuries d'Augias" : un message de Marine Le Pen sur la dette française met en colère le camp présidentiel |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Marine+Le+Pen, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

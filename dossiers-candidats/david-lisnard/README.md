@@ -51,6 +51,44 @@ Total : 17 articles.
 
 Note : les trois dernières lignes (01/11) citent David Lisnard sans qu'il soit le sujet principal ; à retirer si vous préférez.
 
+## TF1 (tf1info.fr)
+
+Source : https://www.tf1info.fr/recherche/?query=David%20Lisnard (8 extensions du bouton « Voir plus de résultats »). Un article est compté si « Lisnard » figure dans son titre ; le chapô n'est pas affiché sur la page de recherche. La recherche n'a pas de filtre de date et classe par pertinence : les articles de la période sont retenus parmi les résultats obtenus.
+
+Total : 4 articles.
+
+| Date (2026) | Titre |
+|---|---|
+| 29/10 | L'édito d'Élizabeth Martichoux : David Lisnard en conflit d'intérêts avec les maires |
+| 18/10 | Violences urbaines en France : David Lisnard, invité du 20H de TF1 |
+| 30/08 | EN IMAGES - Chantal Ladesou, Marianne James, David Lisnard... Il ont rendu un dernier hommage à Philippe Bouvard |
+| 28/08 | Présidentielle 2027 : le maire de Cannes David Lisnard espère une primaire de la droite et du centre pour "éliminer des candidats" |
+
+## franceinfo (franceinfo.fr)
+
+Source : https://www.franceinfo.fr/recherche/?request=David%20Lisnard (pages 1 à 10 ; la recherche renvoie au maximum 200 contenus). Un article est compté si « Lisnard » figure dans son titre ou son chapô ; le chapô est marqué « (chapô) » quand le nom n'apparaît que dans le chapô. Les résultats sont classés par pertinence, puis par date : les articles de la période sont retenus parmi les 200 résultats.
+
+Total : 16 articles.
+
+| Date (2026) | Titre |
+|---|---|
+| 31/10 | La candidature de David Lisnard pour 2027, "une épine dans le pied" de Bruno Retailleau |
+| 23/10 | Pourquoi le plateau de Millevaches est-il pointé du doigt comme un fief de l'ultragauche par certains politiques après l'incendie de la mairie de Limoges le 17 octobre ? (chapô) |
+| 22/10 | "L'extrême gauche a une grave responsabilité puisqu'elle attise l'incendie", estime David Lisnard, candidat à la présidentielle et maire de Cannes |
+| 22/10 | Déclaration sur le 17 octobre 1961 : "Ils mettent du poison dans la tête des jeunes", David Lisnard dénonce l'instrumentalisation et répond à la polémique |
+| 22/10 | Après ses propos sur le 17 octobre 1961 : le maire de Bourg-en-Bresse appelle David Lisnard, président de l'Association des maires de France, à "la retenue" |
+| 21/10 | Eric Ciotti appelle Bruno Retailleau et David Lisnard à abandonner "leurs candidatures de témoignages" à la présidentielle pour se rassembler autour de Marine Le Pen |
+| 20/10 | "Je m'en fous" : le candidat à la présidentielle David Lisnard s'agace après avoir été interrogé sur le 17 octobre 1961 |
+| 20/10 | Le maire de Cannes, David Lisnard, s'agace après avoir été interrogé sur le 17 octobre 1961 : "Je m'en fous, ce n'est pas mon problème aujourd'hui" |
+| 18/10 | "L'idée, c'était de gagner en notoriété" : se passe-t-il vraiment "quelque chose" autour de la candidature de David Lisnard à la présidentielle ? |
+| 15/10 | Présidentielle 2027 : David Lisnard devance Bruno Retailleau dans un sondage après une ascension éclair sur les réseaux sociaux |
+| 15/10 | Présidentielle 2027 : Glucksmann boudé par la gauche, le duel Le Pen-Bardella sous tension et l'entrée en piste de David Lisnard |
+| 12/10 | Raphaël Glucksmann candidat, Week-end tendu entre Trump et Zelensky et "il se passe quelque chose" : Ça dit quoi ce 12 octobre ? (chapô) |
+| 12/10 | David Lisnard : est-ce qu'il se passe vraiment quelque chose ? |
+| 17/09 | "Mon ambition, c'est qu'on retrouve une France beaucoup plus forte", assure David Lisnard, candidat à l'élection présidentielle |
+| 08/09 | Présidentielle 2027 : les détails de la charte envoyée par Hervé Morin aux candidats de la droite et du centre pour l'organisation d'une primaire (chapô) |
+| 25/08 | David Lisnard, candidat à la présidentielle, relance l'idée d'une primaire ouverte de la droite et du centre pour 2027 |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=David+Lisnard, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

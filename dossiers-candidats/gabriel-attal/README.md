@@ -100,6 +100,115 @@ Total : 38 articles dans ce tableau.
 
 Note : le tableau regroupe certaines vidéos quasi identiques et écarte quelques articles où le candidat n'est que cité. Le total correspond aux lignes du tableau.
 
+## TF1 (tf1info.fr)
+
+Source : https://www.tf1info.fr/recherche/?query=Gabriel%20Attal (16 extensions du bouton « Voir plus de résultats »). Un article est compté si « Attal » figure dans son titre ; le chapô n'est pas affiché sur la page de recherche. La recherche n'a pas de filtre de date et classe par pertinence : les articles de la période sont retenus parmi les résultats obtenus. Après la 8e extension, 1 article de la période apparaît.
+
+Total : 12 articles.
+
+| Date (2026) | Titre |
+|---|---|
+| 27/10 | "Une grande primaire des démocrates" : ce qu'il faut retenir de l'interview de Gabriel Attal au 20H de TF1 |
+| 10/10 | "Il faudrait faire l'équivalent de la PAC pour l'IA et l'innovation" : Gabriel Attal prend la route avec Anne-Claire Coudray |
+| 08/10 | "Il doit moins s'éparpiller" : Gabriel Attal en meeting à Lyon, en quête d'un second souffle |
+| 06/10 | Une étudiante interpelle Gabriel Attal sur son bilan |
+| 05/10 | "Vous avez la parole" : Blocages, violences, des jeunes face à Gabriel Attal |
+| 05/10 | "Vous avez la parole" : l'interview intégrale de Gabriel Attal sur LCI |
+| 03/10 | Présidentielle 2027 : Raphaël Glucksmann et Bruno Retailleau refusent la main tendue de Gabriel Attal pour une "grande coalition" |
+| 22/09 | Marine Le Pen, Gabriel Attal, Édouard Philippe... La messe du pape Léon XIV attire les candidats à l'élection présidentielle |
+| 24/08 | "Il faut un électrochoc" : sur LCI, le candidat Gabriel Attal déroule ses propositions pour l'Éducation nationale |
+| 07/08 | Présidentielle : Gabriel Attal porte plainte après "une nouvelle opération d'ingérence" venant de Russie |
+| 05/08 | Candidat à la présidentielle 2027, Gabriel Attal en a été la cible : Matriochka, une campagne de désinformation au service d'intérêts pro-russes |
+| 01/07 | "Les Dossiers", épisode 2 : Gaspard G reçoit Gabriel Attal |
+
+## franceinfo (franceinfo.fr)
+
+Source : https://www.franceinfo.fr/recherche/?request=Gabriel%20Attal (pages 1 à 10 ; la recherche renvoie au maximum 200 contenus). Un article est compté si « Attal » figure dans son titre ou son chapô ; le chapô est marqué « (chapô) » quand le nom n'apparaît que dans le chapô. Les résultats sont classés par pertinence, puis par date : les articles de la période sont retenus parmi les 200 résultats.
+
+Total : 79 articles.
+
+| Date (2026) | Titre |
+|---|---|
+| 01/11 | "Les arbitrages pour les lycéens se feront au cours de la campagne" selon Anne Genetet, ancienne ministre de l'Education nationale et soutien de Gabriel Attal |
+| 31/10 | Mobilisation du 31 octobre, réponse du gouvernement aux lycéens, rassemblement à Trappes... Le "8h30 franceinfo" de Prisca Thevenot (chapô) |
+| 31/10 | "Le racisme, on ne le combat pas avec des symboles marketing", dit Prisca Thevenot, députée Ensemble pour la République des Hauts-de-Seine (chapô) |
+| 30/10 | Édouard Philippe, Gabriel Attal, jusqu'où ira la chute ? |
+| 30/10 | A suivre Loïc de la Mornais : Le grand témoin : Agnès Pannier-Runacher (chapô) |
+| 30/10 | Budget 2027 : "Il faut savoir prendre des risques", estime Michel Barnier qui plaide pour un 49.3 du Premier ministre Sébastien Lecornu (chapô) |
+| 30/10 | Présidentielle 2027 : jusqu'où ira la chute de Gabriel Attal et Édouard Philippe ? |
+| 29/10 | "Je suis content que Gabriel Attal rejoigne l'idée portée par François Bayrou", se réjouit Marc Fesneau sur une possible "primaire des démocrates" |
+| 29/10 | "Ce serait du suicide" : la primaire proposée par Gabriel Attal en vue de la présidentielle ne convainc ni Edouard Philippe, ni Bruno Retailleau |
+| 29/10 | "Le blocage potentiel des réseaux sociaux, c'est le signe de la surdité du pouvoir macroniste depuis 10 ans" selon Olivier Tesquet, journaliste à Télérama (chapô) |
+| 28/10 | "Ils vont sortir fatigués de cet automne" : coincés entre les crises et la parole du gouvernement, Gabriel Attal et Edouard Philippe tentent de se faire entendre |
+| 28/10 | Gabriel Attal plaide pour l'organisation d'une "grande primaire des démocrates" en vue de la présidentielle |
+| 28/10 | Le candidat LR à la présidentielle Bruno Retailleau juge "fantaisiste et ridicule" l'organisation d'une "grande primaire des démocrates" proposée par son adversaire Gabriel Attal |
+| 23/10 | Mobilisation du 24 octobre : "Si la situation n'est pas rétablie, évidemment qu'il faudra déclarer [l'état d'urgence]", estime Gabriel Attal |
+| 22/10 | Faut-il suspendre les réseaux sociaux ? (chapô) |
+| 21/10 | Plus de 100 ingérences numériques étrangères dans la campagne présidentielle (chapô) |
+| 20/10 | Le Gouvernement défend le dispositif Parcoursup, sur les admissions en études post-bac (chapô) |
+| 16/10 | Les groupes de niveaux au collège auraient-ils pu fonctionner, comme le pense Gabriel Attal ? |
+| 16/10 | Guerre en Ukraine : "Marine Le Pen s'aligne sur les États-Unis de Donald Trump et sur la Russie de Vladimir Poutine", estime Jad Zahab, porte-parole de Gabriel Attal |
+| 15/10 | Colère lycéenne, budget, présidentielle... Le "8h30 franceinfo" de Gabriel Attal |
+| 15/10 | "Le nombre de lycées bloqués ne peut pas être le baromètre du mouvement, car le malaise reste", assure Gabriel Attal |
+| 15/10 | Gabriel Attal veut "chercher à ce que le budget soit le moins mauvais possible", alors que les députés ont entamé l'examen du projet de loi de finances |
+| 15/10 | Le Rassemblement national "veut laisser les Ukrainiens se faire trucider", lance Gabriel Attal |
+| 15/10 | Le RN a "toujours défendu les intérêts de la Russie" Gabriel Attal |
+| 14/10 | Présidentielle 2027. Raphaël Glucksmann présente son plan contre les incendies, Gabriel Attal appelle à économiser l'eau |
+| 13/10 | Un ancien conseiller de Gabriel Attal crée un jeu gratuit pour apprendre à gérer le budget de la France |
+| 12/10 | Émeutes en Nouvelle-Calédonie : six militants kanak portent plainte contre Lecornu, Attal, Darmanin et Dupond-Moretti |
+| 12/10 | "Éric Dupond-Moretti est très mal à l'aise avec cette affaire" : la Cour de justice de la République examine la plainte de militants kanak après les émeutes de 2024 (chapô) |
+| 12/10 | Fusillade dans un collège à Aubagne : "Il y a véritablement un mal-être dans cette jeunesse", assure Léa Balage El Mariky, députée écologiste (chapô) |
+| 11/10 | Sur fond de colère lycéenne, Gabriel Attal et Jean-Luc Mélenchon poursuivent leur duel à distance |
+| 11/10 | Cyberattaque contre la primaire du PS : "On sait qu'il y a une volonté d'ingérence pour nous pousser vers les extrêmes, notamment l'extrême droite", estime Agnès Pannier-Runacher (chapô) |
+| 10/10 | "Je veux être le président qui parlera à la jeunesse parce qu'il la comprend" : en meeting à Lyon, Gabriel Attal tente de relancer sa campagne en pleine mobilisation lycéenne |
+| 10/10 | En meeting à Lyon, le candidat Renaissance Gabriel Attal a présenté son "pacte pour la jeunesse" |
+| 08/10 | "Je n'ai plus aucune confiance en Monsieur Nuñez" : après les mobilisations lycéennes, Danielle Simonnet pointe du doigt la "stratégie" du gouvernement et son "coût terrible pour les jeunes" (chapô) |
+| 06/10 | A suivre avec Loïc de la Mornais : Éducation nationale : qui a le bon programme ? (chapô) |
+| 04/10 | "Quand la jeunesse ne pense pas comme Jean-Luc Mélenchon, il la menace et l'intimide", affirme Prisca Thevenot dans le contexte des mobilisations lycéennes (chapô) |
+| 04/10 | "Je n'ai jamais caché mes engagements" : Nathanaël Combary, visage de la mobilisation lycéenne, défend sa légitimité après les accusations de Jean-Luc Melenchon (chapô) |
+| 04/10 | "Même pas en rêve" : le camp de Raphaël Glucksmann rejette la main tendue par Gabriel Attal |
+| 02/10 | Gabriel Attal, Édouard Philippe, Marine Le Pen... Quels sont les premiers noms attendus au Sommet de l'Élevage 2026 ? |
+| 01/10 | Bruno Retailleau, Marine Le Pen, Gabriel Attal... Plusieurs candidats à la présidentielle attaquent La France insoumise sur sa "responsabilité" dans le blocage des lycées |
+| 30/09 | Gabriel Attal, Éric Ciotti, Raphaël Glucksmann... Bally Bagayoko accusé par ses adversaires politiques de mettre de l'huile sur le feu |
+| 29/09 | Propos antisémites attribués à Jordan Bardella : "C'est une déflagration colossale dans cette campagne", réagit Céline Géraud, porte-parole de Gabriel Attal |
+| 24/09 | La "primaire sauvage" entre Édouard Philippe, Gabriel Attal et Bruno Retailleau risque de laisser des traces pour la présidentielle |
+| 24/09 | Une "primaire sauvage" au centre et à droite ? (chapô) |
+| 22/09 | Aide aux grands rouleurs : "Ce que proposent l'UDR et le RN, c'est de faire un cadeau de la main gauche, mais de le reprendre de la main droite avec des intérêts énormes", estime Jad Zahab, porte-parole de Gabriel Attal |
+| 21/09 | "Le métier de policier est insulté parce qu'il y a une frange d'un parti politique qui n'arrête pas fustiger devant la vindicte populaire", estime Abdoulaye Kanté, porte-parole de Gabriel Attal |
+| 18/09 | "Franc-Jeu". Avec Gabriel Attal |
+| 18/09 | Lors de la rentrée du MoDem, François Bayrou a plaidé à nouveau pour une primaire allant de la droite à la gauche modérée (chapô) |
+| 17/09 | Gabriel Attal juge que l'Europe des 27 a "atteint ses limites" et plaide pour des "Etats-Unis d'Europe" |
+| 15/09 | "Je n'ai pas la sensation de m'engager pour un camp, mais plutôt pour un cap, avec quelqu'un qui veut remettre la France à l'endroit, et c'est ça qui m'anime", déclare Céline Géraud, responsable de la communication et porte-parole de Gabriel Attal |
+| 14/09 | Retraites : Julien Aubert, vice-président de LR se dit "favorable à la capitalisation" (chapô) |
+| 13/09 | "Tout est ouvert", Gabriel Attal "pas fermé" à une primaire du bloc central, selon son porte-parole de campagne Abdoulaye Kanté |
+| 10/09 | Injures racistes d'un policier à Carcassonne : "On a 150 000 adhérents, vous ne savez pas la vie, l'œuvre, les propos des uns ou des autres…", défend Andréa Kotarac, porte-parole du RN (chapô) |
+| 09/09 | Présidentielle, salaire... Le "8h30 franceinfo" de Gabriel Attal |
+| 09/09 | Gabriel Attal, candidat à l'élection présidentielle 2027, a-t-il le droit de promouvoir sa candidature un verre d'alcool à la main ? |
+| 09/09 | "De la tambouille politicienne", déclare Gabriel Attal en réponse à la main tendue d'Edouard Philippe, qui souhaite une réunion de la droite et du centre pour la présidentielle dès la Toussaint |
+| 09/09 | "Avant la question du rassemblement, l'enjeu est de parler aux français" selon Gabriel Attal |
+| 09/09 | Emeutes en Nouvelle-Calédonie : six militants kanaks réclament l'ouverture d'une enquête contre Gabriel Attal, Gérald Darmanin, Eric Dupond-Moretti et Sébastien Lecornu |
+| 09/09 | "A quel moment boire de la bière, c'est faire la promotion de l'alcoolisme ?" : Gabriel Attal défend son opération de campagne "1 000 bistrots" |
+| 08/09 | Présidentielle 2027 : les détails de la charte envoyée par Hervé Morin aux candidats de la droite et du centre pour l'organisation d'une primaire (chapô) |
+| 08/09 | Édouard Philippe invite Gabriel Attal, Bruno Retailleau et François Bayrou à une rencontre en novembre pour évoquer la présidentielle 2027 et l'après-élection |
+| 06/09 | Attal, Tondelier, Mélenchon... La braderie de Lille sur un air de présidentielle |
+| 05/09 | Braderie de Lille : Mélenchon, Attal… la présidentielle s'invite dans les rues |
+| 05/09 | "On coupe le robinet" : Marine Le Pen et Edouard Philippe s'affrontent par tweets interposés sur l'aide à l'Ukraine (chapô) |
+| 01/09 | Présidentielle 2027 : "Il faut une réforme constitutionnelle profonde, pour mieux partager le pouvoir", défend Gabriel Attal au "20 Heures" de France 2 |
+| 01/09 | Interdiction du voile : Gabriel Attal "en désaccord avec la proposition du RN" |
+| 01/09 | Présidentielle 2027 : Édouard Philippe et Gabriel Attal, les héritiers du président ? |
+| 01/09 | "Pour moi, l'école, ce n'est pas un sujet de campagne présidentielle. C'est juste le cœur de mon engagement en politique", déclare Gabriel Attal, candidat de Renaissance à la présidentielle |
+| 27/08 | Vidéo de Gabriel Attal à l'Assemblée nationale : "Ce n'est pas de la drogue, il vapotait" |
+| 27/08 | Revivez le premier débat de la présidentielle 2027, organisé par le Medef, qui a opposé sept candidats pendant trois heures (chapô) |
+| 25/08 | Gabriel Attal veut un ministre de l'Education "qui restera en poste cinq ans" et souhaite le rétablissement du certificat d'études |
+| 25/08 | Rémunération, promesse d'autorité… L'école se retrouve au cœur de la campagne présidentielle (chapô) |
+| 21/08 | Gabriel Attal de nouveau ciblé par des opérations de désinformation russes |
+| 20/08 | Gabriel Attal et Jean-Luc Mélenchon : un duel permanent, avec l'élection présidentielle en ligne de mire |
+| 18/08 | Est-il possible d'organiser un référendum sur l'interdiction des réseaux sociaux aux moins de 15 ans, malgré la censure du Conseil constitutionnel ? (chapô) |
+| 18/08 | Le parquet de Paris enquête sur des soupçons d'ingérence russe ciblant Edouard Philippe et Gabriel Attal |
+| 17/08 | La France a-t-elle donné de l'argent à la Protection civile en Tunisie au lieu d'acheter deux Canadair ? (chapô) |
+| 17/08 | Grève des sapeurs-pompiers : "Nous sommes évidemment à leur écoute", assure Jad Zahab, porte-parole de Renaissance (chapô) |
+| 16/08 | "Une course contre la montre a démarré" : Gabriel Attal appelle à un référendum sur l'interdiction des réseaux aux moins de 15 ans |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Gabriel+Attal, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

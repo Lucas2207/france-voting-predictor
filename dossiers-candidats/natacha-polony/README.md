@@ -45,6 +45,32 @@ Total : 16 articles (dont plusieurs vidéos de la même annonce du 14 octobre, e
 - Candidature annoncée le 14 octobre 2026, sur France Inter et BFMTV.
 - Parrainages : 174 maires revendiqués au 1er novembre, avec le soutien de Jean-Pierre Chevènement (BFMTV).
 
+## TF1 (tf1info.fr)
+
+Source : https://www.tf1info.fr/recherche/?query=Natacha%20Polony (8 extensions du bouton « Voir plus de résultats »). Un article est compté si « Polony » figure dans son titre ; le chapô n'est pas affiché sur la page de recherche. La recherche n'a pas de filtre de date et classe par pertinence : les articles de la période sont retenus parmi les résultats obtenus.
+
+Total : 1 article.
+
+| Date (2026) | Titre |
+|---|---|
+| 01/09 | "J'ai décidé de lancer un appel aux Français" : sur LCI, Natacha Polony précise ses ambitions politiques |
+
+## franceinfo (franceinfo.fr)
+
+Source : https://www.franceinfo.fr/recherche/?request=Natacha%20Polony (pages 1 à 10 ; la recherche renvoie au maximum 200 contenus). Un article est compté si « Polony » figure dans son titre ou son chapô ; le chapô est marqué « (chapô) » quand le nom n'apparaît que dans le chapô. Les résultats sont classés par pertinence, puis par date : les articles de la période sont retenus parmi les 200 résultats.
+
+Total : 7 articles.
+
+| Date (2026) | Titre |
+|---|---|
+| 01/11 | Jean-Pierre Chevènement apporte son soutien à Natacha Polony pour l'élection présidentielle |
+| 01/11 | Présidentielle 2027 : "Jean-Pierre Chevènement avait vu juste", estime Natacha Polony, qui revendique le soutien de l'ancien maire de Belfort |
+| 25/10 | "La montée du Rassemblement national est un symptôme de la destruction progressive de notre démocratie" : estime Natacha Polony, candidate à l'élection présidentielle |
+| 15/10 | Pourquoi sont-ils si nombreux à vouloir l'Élysée en 2027 ? (chapô) |
+| 14/10 | L'essayiste Natacha Polony annonce sa candidature à l'élection présidentielle |
+| 14/10 | L'essayiste Natacha Polony annonce sa candidature à l'élection présidentielle |
+| 31/08 | La journaliste Natacha Polony se lance en politique pour "perturber l'entre-soi" |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Natacha+Polony, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

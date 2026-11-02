@@ -100,6 +100,127 @@ Note : quelques lignes (par exemple le 18/10 « Le grand oral » ou le 29/10 sur
 
 Note : le tableau regroupe certaines vidéos quasi identiques et écarte quelques articles où le candidat n'est que cité. Le total correspond aux lignes du tableau.
 
+## TF1 (tf1info.fr)
+
+Source : https://www.tf1info.fr/recherche/?query=%C3%89douard%20Philippe (8 extensions du bouton « Voir plus de résultats »). Un article est compté si « Philippe » figure dans son titre ; le chapô n'est pas affiché sur la page de recherche. La recherche n'a pas de filtre de date et classe par pertinence : les articles de la période sont retenus parmi les résultats obtenus.
+
+Total : 14 articles.
+
+| Date (2026) | Titre |
+|---|---|
+| 29/10 | Soupçons de détournement de fonds publics : Édouard Philippe placé sous le statut de témoin assisté |
+| 29/10 | "Le racisme tue en France" : les mots d'Édouard Philippe après l'hommage à La Verrière aux victimes de l'attentat de Trappes |
+| 14/10 | Présidentielle 2027 : Attal-Mélenchon, Le Pen-Philippe... les face-à-face privilégiés des candidats |
+| 09/10 | "Je préfère rentrer chez moi" : pourquoi Édouard Philippe ne veut pas loger à l'Élysée s'il est élu président de la République |
+| 08/10 | Présidentielle 2027 : Édouard Philippe veut donner un coup de pouce aux familles "dès le premier enfant" |
+| 07/10 | Jean-Luc Mélenchon annonce un meeting au Havre pour "défier" Édouard Philippe |
+| 03/10 | "On peut accepter d'être impopulaire quand on pense que c'est nécessaire" : Édouard Philippe, premier invité de "Route nationale" sur TF1 |
+| 03/10 | Présidentielle 2027 : "Route Nationale" avec Édouard Philippe |
+| 30/09 | "Il faut sauver notre système" : sur TF1, Édouard Philippe défend sa réforme des retraites avec un départ à 65 ans |
+| 28/09 | Départ à 65 ans, 45 annuités, "volet capitalisation" : que propose Édouard Philippe pour les retraites ? |
+| 10/09 | 2027 : Édouard Philippe accusé de vouloir reporter la prise de fonction du futur président à septembre pour "se reposer", qu'en est-il ? |
+| 29/08 | Législatives : Édouard Philippe veut créer un "nouveau parti" ou une "confédération de partis" avec des "candidats uniques" |
+| 20/08 | Droit du sol, suspension des demandes d'asile... Depuis Mayotte, Édouard Philippe détaille ses pistes sur l'immigration |
+| 04/07 | Présidentielle 2027 : Édouard Philippe dévoile le slogan de sa campagne lors de son premier grand meeting |
+
+## franceinfo (franceinfo.fr)
+
+Source : https://www.franceinfo.fr/recherche/?request=%C3%89douard%20Philippe (pages 1 à 10 ; la recherche renvoie au maximum 200 contenus). Un article est compté si « Édouard Philippe » figure dans son titre ou son chapô ; le chapô est marqué « (chapô) » quand le nom n'apparaît que dans le chapô. Les résultats sont classés par pertinence, puis par date : les articles de la période sont retenus parmi les 200 résultats.
+
+Total : 89 articles.
+
+| Date (2026) | Titre |
+|---|---|
+| 01/11 | Edouard Philippe refuse une nouvelle fois de participer à une primaire de la droite et du centre, source de "division" et de "confusion" |
+| 30/10 | Édouard Philippe, Gabriel Attal, jusqu'où ira la chute ? |
+| 30/10 | Soupçonné de détournement de fonds publics au Havre, Édouard Philippe placé sous le statut de témoin assisté |
+| 30/10 | Que change pour Edouard Philippe son placement sous statut de témoin assisté dans l'enquête pour détournement de fonds publics ? |
+| 30/10 | Présidentielle 2027 : jusqu'où ira la chute de Gabriel Attal et Édouard Philippe ? |
+| 30/10 | Attentat raciste dans les Yvelines : Édouard Philippe se rendra à La Verrière pour un rassemblement d'hommage aux victimes ce vendredi après-midi |
+| 30/10 | Des milliers de personnes contre le racisme (chapô) |
+| 29/10 | "Ce serait du suicide" : la primaire proposée par Gabriel Attal en vue de la présidentielle ne convainc ni Edouard Philippe, ni Bruno Retailleau |
+| 29/10 | Edouard Philippe placé sous le statut de témoin assisté dans une affaire de détournement de fonds publics, son avocat salue une "décision favorable" |
+| 29/10 | Édouard Philippe placé sous le statut de témoin assisté |
+| 29/10 | "Il n'y a rien à reprocher à Édouard Philippe dans cette affaire" de soupçons de détournement de fonds publics, estime l'avocat du candidat à la présidentielle |
+| 28/10 | "Ils vont sortir fatigués de cet automne" : coincés entre les crises et la parole du gouvernement, Gabriel Attal et Edouard Philippe tentent de se faire entendre |
+| 28/10 | Gabriel Attal plaide pour l'organisation d'une "grande primaire des démocrates" en vue de la présidentielle (chapô) |
+| 21/10 | Plus de 100 ingérences numériques étrangères dans la campagne présidentielle (chapô) |
+| 21/10 | Édouard Philippe souhaite "donner plus de pouvoir" à la police municipale |
+| 18/10 | La mobilisation du 17 octobre : une crise politique à 6 mois de la présidentielle (chapô) |
+| 16/10 | Edouard Philippe prône une évolution des rythmes scolaires, avec un apprentissage concentré en matinée et des vacances plus courtes |
+| 16/10 | "Être réduite au silence, c'est une double peine" : la lanceuse d'alerte qui met en cause la gestion d'Édouard Philippe sort de l'ombre pour donner sa version des faits |
+| 15/10 | "Si vous êtes malade, vous restez chez vous" : pour Arnaud Péricard, porte-parole d'Horizons, il faut en finir avec les abus sur les arrêts maladie (chapô) |
+| 13/10 | Le parti Horizons propose un "budget alternatif" avec 10 milliards d'économies supplémentaires (chapô) |
+| 12/10 | Au congrès du Parti Radical, Edouard Philippe remercie "Monsieur le maire" de Dijon |
+| 10/10 | Préparation du budget, crise des carburants, colère lycéenne... La campagne présidentielle contrariée d'Edouard Philippe |
+| 10/10 | Edouard Philippe, Jordan Bardella, la colère lycéenne : regardez le deuxième épisode du podcast "On/Off" |
+| 09/10 | Edouard Philippe, Jordan Bardella, la colère lycéenne : le deuxième épisode du podcast "On/Off" |
+| 08/10 | Présidentielle 2027 : Jean-Luc Mélenchon annonce un grand meeting de campagne au Havre pour "défier Édouard Philippe" |
+| 08/10 | Immigration, allocations familiales, Parcoursup… Ce qu'il faut retenir de l'interview d'Edouard Philippe dans l'émission "L'Heure de vérité" sur France 2 |
+| 08/10 | Présidentielle 2027 : revivez le premier numéro de "L'Heure de Vérité" avec Edouard Philippe |
+| 08/10 | Edouard Philippe souhaite le versement d'une allocation familiale unique "dès le premier enfant" |
+| 06/10 | "L'Heure de vérité". Avec Édouard Philippe |
+| 06/10 | Posez vos questions à Edouard Philippe, invité de "L'Heure de vérité" |
+| 02/10 | Gabriel Attal, Édouard Philippe, Marine Le Pen... Quels sont les premiers noms attendus au Sommet de l'Élevage 2026 ? |
+| 01/10 | La France insoumise derrière la mobilisation lycéenne ? Jean-Luc Mélenchon et plusieurs élus LFI contestent les affirmations du gouvernement (chapô) |
+| 30/09 | Retraite à 65 ans, 45 annuités... Édouard Philippe dévoile son projet |
+| 30/09 | Edouard Philippe souhaite repousser l'âge de départ à la retraite à 65 ans |
+| 30/09 | Retraites : "Il va falloir réfléchir à pourquoi entre le chef d'entreprise et le salarié, aux alentours de 60 ans, on préfère se dire au revoir", estime l'économiste Éric Heyer (chapô) |
+| 30/09 | Edouard Philippe veut la retraite à 65 ans |
+| 29/09 | "Le Premier ministre va proposer un budget qui n'aura pas de hausse d'impôt, mais qui sera un budget de baisse de la dépense publique", déclare Benjamin Haddad, ministre chargé de l'Europe. (chapô) |
+| 29/09 | Age de départ à 65 ans, 45 annuités de cotisation… Edouard Philippe, candidat Horizons à la présidentielle, dévoile son projet de réforme des retraites |
+| 29/09 | Sur un moteur de recherche de données piratées, des informations personnelles d'Edouard Philippe, Marine Tondelier ou François Ruffin parmi celles d'anonymes |
+| 28/09 | Édouard Philippe visé par une nouvelle opération de désinformation prorusse sur les réseaux sociaux |
+| 24/09 | La "primaire sauvage" entre Édouard Philippe, Gabriel Attal et Bruno Retailleau risque de laisser des traces pour la présidentielle |
+| 24/09 | Une "primaire sauvage" au centre et à droite ? (chapô) |
+| 18/09 | Lors de la rentrée du MoDem, François Bayrou a plaidé à nouveau pour une primaire allant de la droite à la gauche modérée (chapô) |
+| 17/09 | Édouard Philippe souhaite doter la France d'une "véritable politique de sécurité climatique" |
+| 16/09 | Une "différence de nature" avec Édouard Philippe : Bruno Retailleau rejette l'idée d'un rassemblement de la droite pour l'élection présidentielle |
+| 16/09 | "Je suis cette alternance. Je serai le changement" estime Bruno Retailleau (chapô) |
+| 12/09 | "Le risque pour nous, c'est de rester un second choix" : comment Bruno Retailleau espère se relancer dans la course à la présidentielle (chapô) |
+| 12/09 | Présidentielle 2027 : "Ne nous laissons pas tondre" comme des moutons, lance Fabien Roussel à la Fête de l'Humanité, en appelant "à envahir les ronds-points" pour créer "un rapport de force" (chapô) |
+| 11/09 | Accusé de vouloir prendre des "vacances" une fois élu président, Edouard Philippe dénonce une polémique montée "à partir de phrases tronquées" |
+| 09/09 | "De la tambouille politicienne", déclare Gabriel Attal en réponse à la main tendue d'Edouard Philippe, qui souhaite une réunion de la droite et du centre pour la présidentielle dès la Toussaint |
+| 09/09 | Édouard Philippe veut tendre la main à "celles et ceux qui savent que ce rassemblement est indispensable pour gagner" |
+| 09/09 | "Avant la question du rassemblement, l'enjeu est de parler aux français" selon Gabriel Attal (chapô) |
+| 08/09 | Les retraites, l'épouvantail qui hante déjà les candidats à la présidentielle (chapô) |
+| 08/09 | Présidentielle 2027, Tour Eiffel ... Le "8h30 franceinfo" d'Édouard Philippe |
+| 08/09 | Présidentielle 2027 : les détails de la charte envoyée par Hervé Morin aux candidats de la droite et du centre pour l'organisation d'une primaire (chapô) |
+| 08/09 | Edouard Philippe dénonce une décision "absurde" après l'éviction de salariées de la tour Eiffel lors d'un événement hindou |
+| 08/09 | Selon Edouard Philippe, il y a un risque "très grand" que la droite ne soit pas au second tour, s'il n'y a pas de rassemblement avant la présidentielle |
+| 08/09 | "Il y a un risque très grand que la droite ne soit pas au second tour" (chapô) |
+| 08/09 | Édouard Philippe invite Gabriel Attal, Bruno Retailleau et François Bayrou à une rencontre en novembre pour évoquer la présidentielle 2027 et l'après-élection |
+| 05/09 | "On coupe le robinet" : Marine Le Pen et Edouard Philippe s'affrontent par tweets interposés sur l'aide à l'Ukraine |
+| 03/09 | "Les socialistes la font bien !" : la droite et le centre peuvent-ils encore organiser une primaire pour la présidentielle de 2027 ? (chapô) |
+| 02/09 | Sanctionner le port du voile : Edouard Philippe juge la proposition du RN "inconstitutionnelle et "scandaleuse" |
+| 01/09 | Présidentielle 2027 : Édouard Philippe et Gabriel Attal, les héritiers du président ? |
+| 31/08 | Qui des arrêts courts ou des arrêts longs coûtent le plus cher à l'Assurance maladie ? (chapô) |
+| 31/08 | Présidentielle 2027 : Édouard Philippe et Gérald Darmanin affichent leur unité |
+| 31/08 | Retraites : "Je refuse ce débat tant que la question du retour de l'ISF n'est pas posée", affirme Ségolène Royal, candidate à la primaire du pôle socialiste (chapô) |
+| 30/08 | Retraites, immigration... Le ralliement de Gérald Darmanin à Édouard Philippe pour la présidentielle assorti de conditions |
+| 29/08 | Présidentielle 2027 : Bruno Retailleau "ne passera pas Noël" et "se retirera pour soutenir Edouard Philippe", prédit Jordan Bardella |
+| 28/08 | Réduire la durée d'indemnisation du chômage, comme le propose Édouard Philippe, permet-il vraiment de retrouver plus vite un emploi ? |
+| 28/08 | Edouard Philippe "stigmatise les patients et décrédibilise les médecins" en proposant de "mettre fin à l'open bar" des arrêts de travail, dénonce le syndicat MG France |
+| 28/08 | Les arrêts de travail courts sont-ils prescrits en "open bar" comme l'affirme Edouard Philippe ? |
+| 27/08 | Revivez le premier débat de la présidentielle 2027, organisé par le Medef, qui a opposé sept candidats pendant trois heures (chapô) |
+| 27/08 | Présidentielle 2027 : "Édouard Philippe fait partie des gens qui sont tout à fait dignes de la fonction", estime Jean-Michel Blanquer, ancien ministre de l'Éducation |
+| 27/08 | Edouard Philippe veut "faire comme l'Allemagne" et limiter à 12 mois l'indemnisation chômage des moins de 50 ans |
+| 26/08 | "Je soutiendrai Edouard Philippe dans cette élection présidentielle", déclare Benjamin Haddad, ministre délégué chargé de l'Europe |
+| 25/08 | Rémunération, promesse d'autorité… L'école se retrouve au cœur de la campagne présidentielle (chapô) |
+| 25/08 | Les professeurs courtisés par les candidats à la présidentielle 2027 : quelles revalorisations proposent-ils, avec quels financements ? (chapô) |
+| 24/08 | Présidentielle 2027 : le candidat Horizons Edouard Philippe veut augmenter de 20% la rémunération moyenne des enseignants sur un quinquennat |
+| 23/08 | À Mayotte, Édouard Philippe enfile le costume traditionnel... du candidat à l'élection présidentielle |
+| 22/08 | Déplacements d'Édouard Philippe et Sébastien Lecornu à Mayotte : "On voit arriver le Premier ministre les mains vides", dénonce la députée Estelle Youssouffa |
+| 22/08 | Critiqué par Jean-Luc Mélenchon, Edouard Philippe l'encourage à venir à Mayotte constater la "crise migratoire" |
+| 22/08 | Rentrée politique : Édouard Philippe et Jean-Luc Mélenchon s'écharpent au sujet de l'immigration à Mayotte |
+| 21/08 | En visite à Mayotte, Edouard Philippe souhaite mettre fin à l'"appel d'air" de l'immigration |
+| 20/08 | Edouard Philippe souhaite fermer "totalement" les "vannes de l'immigration" à Mayotte |
+| 18/08 | Ralliement de Gérald Darmanin à Édouard Philippe : "C'est simplement un macroniste qui rejoint un autre macroniste", réagit Céline Imart, secrétaire nationale LR |
+| 18/08 | Présidentielle 2027 : Gérald Darmanin rallie le camp d'Édouard Philippe |
+| 18/08 | Le parquet de Paris enquête sur des soupçons d'ingérence russe ciblant Edouard Philippe et Gabriel Attal |
+| 17/08 | Gérald Darmanin renonce à se présenter à l'élection présidentielle et apporte son soutien à Edouard Philippe |
+| 15/08 | Sébastien Lecornu se rendra à Mayotte fin août, un an après le lancement du plan quinquennal pour l'archipel (chapô) |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=%C3%89douard+Philippe, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

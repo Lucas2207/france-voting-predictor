@@ -29,6 +29,44 @@ Total : 2 articles, les deux du 29 septembre, où Fabien Roussel est l'auteur de
 | 29/09 | Vidéo : mobilisation, « On veut que ça change maintenant », exige Fabien Roussel, candidat PCF à la présidentielle |
 | 29/09 | Vidéo : mobilisation, « Redonner du pouvoir d'achat tout de suite », réclame Fabien Roussel, candidat PCF |
 
+## TF1 (tf1info.fr)
+
+Source : https://www.tf1info.fr/recherche/?query=Fabien%20Roussel (16 extensions du bouton « Voir plus de résultats »). Un article est compté si « Roussel » figure dans son titre ; le chapô n'est pas affiché sur la page de recherche. La recherche n'a pas de filtre de date et classe par pertinence : les articles de la période sont retenus parmi les résultats obtenus. Aucun article de la période n'apparaît après la 8e extension.
+
+Total : 8 articles.
+
+| Date (2026) | Titre |
+|---|---|
+| 15/09 | Flambée des prix des carburants : en quoi consiste l'"état d'urgence énergétique", proposé par Fabien Roussel ? |
+| 13/09 | VÉRIF' - Fête de l'Humanité : cette photo de Fabien Roussel devant une vaste foule a-t-elle été générée par intelligence artificielle ? |
+| 09/09 | "Ils poignardent la République" : face à un milliardaire sur LCI, Fabien Roussel dénonce l'optimisation fiscale des entreprises |
+| 08/09 | REVIVEZ – École, dette, immigration... Les temps forts de "La Grande Confrontation" avec Fabien Roussel sur LCI |
+| 07/09 | Présidentielle 2027 : Fabien Roussel a donné le coup d'envoi de sa campagne à Rungis, avec les mots "travail, salaire, emploi" comme totems |
+| 05/09 | Présidentielle 2027 : invité du 20H de TF1, Fabien Roussel officialise sa candidature |
+| 05/09 | Présidentielle 2027 : Fabien Roussel dévoile son affiche de campagne en exclusivité au 20H de TF1 |
+| 04/07 | Tout juste reconduit à la tête du PCF, Fabien Roussel, s'estime "à 85%" candidat à la présidentielle |
+
+## franceinfo (franceinfo.fr)
+
+Source : https://www.franceinfo.fr/recherche/?request=Fabien%20Roussel (pages 1 à 10 ; la recherche renvoie au maximum 200 contenus). Un article est compté si « Roussel » figure dans son titre ou son chapô ; le chapô est marqué « (chapô) » quand le nom n'apparaît que dans le chapô. Les résultats sont classés par pertinence, puis par date : les articles de la période sont retenus parmi les 200 résultats.
+
+Total : 12 articles.
+
+| Date (2026) | Titre |
+|---|---|
+| 15/10 | "On ne peut pas apporter un soutien infini à l'Ukraine", selon Léon Deffontaines, porte-parole du PCF. (chapô) |
+| 26/09 | Exportation d'armes et de gaz en hausse : les États-Unis sont-ils les grands gagnants de la guerre en Ukraine ? (chapô) |
+| 21/09 | "C'est faire les poches des Français et continuer d'exonérer les plus riches", juge Fabien Roussel, concernant le budget 2027 |
+| 15/09 | "Priorité nationale" pour les HLM : "C'est une mesure qui est discriminatoire", fustige Ian Brossat sénateur PCF à propos de la proposition de Marine Le Pen (chapô) |
+| 13/09 | La Présidentielle au coeur de la Fête de l'Humanité (chapô) |
+| 12/09 | Présidentielle 2027 : "Ne nous laissons pas tondre" comme des moutons, lance Fabien Roussel à la Fête de l'Humanité, en appelant "à envahir les ronds-points" pour créer "un rapport de force" |
+| 12/09 | Primaire de la gauche : la gauche unie perd-elle toujours ? (chapô) |
+| 12/09 | "Ça donne de l'espoir" : la présidentielle au cœur de la fête de l'Humanité (chapô) |
+| 11/09 | Prix des carburants : "J'appelle les Français à se mobiliser, comme nous avons su le faire en 2018 avec les Gilets jaunes", demande Fabien Roussel |
+| 08/09 | Sous la Cinquième République, la gauche n'a-t-elle jamais gagné la présidentielle avec un candidat unique, comme l'affirme Ian Brossat ? (chapô) |
+| 07/09 | Présidentielle 2027 : "Qu'on n'attende pas de nous qu'on tape sur les autres candidats de gauche", prévient Ian Brossat, directeur de campagne de Fabien Roussel |
+| 06/09 | Le communiste Fabien Roussel officialise sa candidature à l'élection présidentielle de 2027 pour défendre "un projet de rupture" |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Fabien+Roussel, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

@@ -145,6 +145,134 @@ Total : 38 articles dans ce tableau.
 
 Note : le tableau regroupe certaines vidéos quasi identiques et écarte quelques articles où le candidat n'est que cité. Le total correspond aux lignes du tableau.
 
+## TF1 (tf1info.fr)
+
+Source : https://www.tf1info.fr/recherche/?query=Jean-Luc%20M%C3%A9lenchon (16 extensions du bouton « Voir plus de résultats »). Un article est compté si « Mélenchon » figure dans son titre ; le chapô n'est pas affiché sur la page de recherche. La recherche n'a pas de filtre de date et classe par pertinence : les articles de la période sont retenus parmi les résultats obtenus. Après la 8e extension, 3 articles de la période apparaîtent.
+
+Total : 12 articles.
+
+| Date (2026) | Titre |
+|---|---|
+| 27/10 | La France vit-elle une période pré-révolutionnaire ? La réponse de Jean-Luc Mélenchon dans le podcast vidéo de François Lenglet |
+| 25/10 | VÉRIF' - Si Jean-Luc Mélenchon devient président, pourra-t-il engager sans obstacle la France sur la voie d'une VIᵉ République ? |
+| 24/10 | Jean-Luc Mélenchon face à François Lenget - Pourquoi président(e) ? |
+| 18/10 | Violences des 17 et 18 octobre : "Jean-Luc Mélenchon veut-il vraiment défendre la République ?", s'interroge Christophe Barbier sur LCI |
+| 17/10 | Violences du 17 octobre : "Nous ne dirigeons pas le mouvement populaire", assure Jean-Luc Mélenchon sur LCI |
+| 16/10 | 17 octobre : le RN accuse LFI d'organiser le "chaos", Jean-Luc Mélenchon critique la stratégie de maintien de l'ordre |
+| 09/10 | "On n'aurait rien à gagner à la pagaille" : Jean-Luc Mélenchon "recommande" aux lycéens et aux étudiants "des stratégies non violentes" |
+| 07/10 | Jean-Luc Mélenchon annonce un meeting au Havre pour "défier" Édouard Philippe |
+| 25/09 | Présidentielle 2027 : pourquoi Jean-Luc Mélenchon se fait-il plus discret ? L'édito Pol de David Revault d'Allonnes sur LCI |
+| 22/08 | Jean-Luc Mélenchon promet que les Insoumis censureront le budget 2027 de l'État |
+| 20/08 | Jean-Luc Mélenchon fait sa rentrée politique sur TF1 : le candidat LFI à la présidentielle est l'invité du 13H de TF1 samedi |
+| 14/07 | VÉRIF' - Jean-Luc Mélenchon a-t-il vraiment affirmé dans une interview que "le Front national réhabilite la politique" ? |
+
+## franceinfo (franceinfo.fr)
+
+Source : https://www.franceinfo.fr/recherche/?request=Jean-Luc%20M%C3%A9lenchon (pages 1 à 10 ; la recherche renvoie au maximum 200 contenus). Un article est compté si « Mélenchon » figure dans son titre ou son chapô ; le chapô est marqué « (chapô) » quand le nom n'apparaît que dans le chapô. Les résultats sont classés par pertinence, puis par date : les articles de la période sont retenus parmi les 200 résultats.
+
+Total : 98 articles.
+
+| Date (2026) | Titre |
+|---|---|
+| 31/10 | Emmanuel Macron "devra céder ou partir", répète Jean-Luc Mélenchon après avoir manifesté |
+| 30/10 | Édouard Philippe, Gabriel Attal, jusqu'où ira la chute ? (chapô) |
+| 30/10 | Attentat raciste dans les Yvelines : le maire de Trappes accuse le RN d'avoir "inoculé la haine" dans l'esprit de l'auteur de l'attaque (chapô) |
+| 30/10 | Des milliers de personnes contre le racisme (chapô) |
+| 29/10 | Pourquoi LFI veut "garantir le droit d'accès des joueurs aux jeux vidéo", même après la coupure des serveurs en ligne (chapô) |
+| 29/10 | "Ce serait du suicide" : la primaire proposée par Gabriel Attal en vue de la présidentielle ne convainc ni Edouard Philippe, ni Bruno Retailleau (chapô) |
+| 26/10 | Raphaël Glucksmann dit être victime d'une "campagne de harcèlement" de LFI (chapô) |
+| 25/10 | BFMTV dénonce "une campagne de dénigrement" après des accusations de LFI, qui reproche à la chaîne de propager des propos racistes (chapô) |
+| 22/10 | La France insoumise et le Rassemblement National dans le viseur d'un nouveau discours du sénateur Claude Malhuret (chapô) |
+| 22/10 | "LFI est associée à l'ultragauche, mais elle la qualifie de collabo", affirme Rémi Lefebvre, politiste (chapô) |
+| 21/10 | "Bouc émissaire", "scandale d'Etat"... On vous raconte le bras de fer entre le gouvernement et LFI au sujet des violences du 17 octobre (chapô) |
+| 20/10 | Accusé d'attiser les violences, Jean-Luc Mélenchon joue à l'apprenti sorcier |
+| 20/10 | Jean-Luc Mélenchon est-il complice des violences du 17 octobre ? |
+| 18/10 | La mobilisation du 17 octobre : une crise politique à 6 mois de la présidentielle (chapô) |
+| 17/10 | Jean-Luc Mélenchon salue "des dizaines de milliers de gens calmement mobilisés" pour les manifestations du 17 octobre, Jordan Bardella dénonce "les professionnels du chaos" |
+| 14/10 | Contre-budget de Jean-Luc Mélenchon : "On est environ à 108 milliards de recettes pour 80 milliards de dépenses", précise Clémence Guetté |
+| 14/10 | Mélenchon, nickel, loi organique : les principales positions de l'UC après son comité directeur |
+| 14/10 | La France insoumise présente son projet de budget 2027 avec 25 milliards d'euros dédiés à la "diminution" de la dette (chapô) |
+| 13/10 | « Le Parti socialiste dans sa version mitterrandienne, est définitivement mort » : après le raz-de-marée Glucksmann, l'avenir incertain du parti à la rose (chapô) |
+| 11/10 | "Sa dynamique inquiète beaucoup" : pourquoi Jean-Luc Mélenchon est-il "très haut très tôt" dans les sondages pour la présidentielle ? |
+| 11/10 | "Ce que j'espère pour cette campagne, c'est qu'elle porte Jean-Luc Mélenchon à l'Élysée" : un grand meeting à Clermont-Ferrand |
+| 11/10 | Sur fond de colère lycéenne, Gabriel Attal et Jean-Luc Mélenchon poursuivent leur duel à distance |
+| 11/10 | À Clermont-Ferrand, Jean-Luc Mélenchon fait salle comble et déroule ses propositions sur la jeunesse et l'éducation |
+| 11/10 | Mélenchon à Clermont-Ferrand : "Je m'attendais à du monde, mais pas autant", la ferveur des militants du candidat insoumis qui a fait salle comble pour son meeting |
+| 11/10 | R.Glucksmann : ‘’La gauche doit rompre avec cette hégémonie de J.-L Mélenchon’’ |
+| 09/10 | A suivre Loïc de la Mornais : Jérôme Guedj, l'invité de franceinfo (chapô) |
+| 08/10 | Présidentielle 2027 : Jean-Luc Mélenchon annonce un grand meeting de campagne au Havre pour "défier Édouard Philippe" |
+| 06/10 | La France insoumise s'est servie des lycéens "comme de la chair à canon", accuse Maud Bregeon, porte-parole du gouvernement (chapô) |
+| 04/10 | "Quand la jeunesse ne pense pas comme Jean-Luc Mélenchon, il la menace et l'intimide", affirme Prisca Thevenot dans le contexte des mobilisations lycéennes |
+| 04/10 | "Je n'ai jamais caché mes engagements" : Nathanaël Combary, visage de la mobilisation lycéenne, défend sa légitimité après les accusations de Jean-Luc Melenchon |
+| 03/10 | Blocage des lycées : Jean-Luc Mélenchon estime que la journée de mobilisation du 6 octobre "est un point de départ" |
+| 03/10 | "Entourer les manifestations pour protéger" : Jean-Luc Mélenchon en appelle aux parents face au "déchaînement de violences policières" |
+| 03/10 | Jean-Luc Mélenchon et Ségolène Royal s'insurgent des propos de Raphaël Glucksmann tenus lors d'une conversation privée, diffusée par "Le Media" |
+| 02/10 | Jean-Luc Mélenchon souffle sur les braises de la colère lycéenne, puis déplore que l'incendie prenne |
+| 02/10 | "C'est un mauvais procès fait" à LFI "par des gens qui ne comprennent pas" le mouvement lycéen, réagit le député Eric Coquerel face aux accusations (chapô) |
+| 01/10 | Blocage des lycées : "Jean-Luc Mélenchon a appelé à une forme d'insurrection" selon Aurore Bergé |
+| 01/10 | Bruno Retailleau, Marine Le Pen, Gabriel Attal... Plusieurs candidats à la présidentielle attaquent La France insoumise sur sa "responsabilité" dans le blocage des lycées (chapô) |
+| 01/10 | La France insoumise derrière la mobilisation lycéenne ? Jean-Luc Mélenchon et plusieurs élus LFI contestent les affirmations du gouvernement |
+| 29/09 | Le mouvement de blocage des lycées fait tache d'huile et prend une tournure résolument politique (chapô) |
+| 29/09 | Jean-Luc Mélenchon s'empare du mouvement lycéen |
+| 28/09 | Sébastien Lecornu accuse LFI d'une "surenchère irresponsable" dans son soutien aux blocages de lycées, Jean-Luc Mélenchon dénonce une "répression" avec "un arrière-goût raciste" |
+| 28/09 | "Un effet de la dynamique autour de la campagne portée par Jean-Luc Mélenchon" : LFI revendique la victoire de deux sénateurs, Marc Péré et Gabriel Amard |
+| 27/09 | Résultats des élections sénatoriales 2026 : dix ans après sa création, La France insoumise fait son entrée au Sénat (chapô) |
+| 24/09 | Primaire du pôle socialiste : "Aller dialoguer avec la Macronie est aujourd'hui un tabou pour la quasi-totalité des candidats", pointe le politologue Benjamin Morel (chapô) |
+| 17/09 | En quoi consiste "l'état d'urgence sociale" que souhaite déclencher Jean-Luc Mélenchon ? |
+| 17/09 | Présidentielle 2027 : "Jean-Luc Mélenchon n'a pas le monopole de la gauche", affirme Olivier Faure |
+| 17/09 | En course pour l'élection présidentielle, Jean-Luc Mélenchon a rencontré le patron d'Airbus |
+| 13/09 | En meeting à la Fête de l'Humanité, Jean-Luc Mélenchon attire les foules et plaide pour le blocage des prix |
+| 13/09 | La Présidentielle au coeur de la Fête de l'Humanité (chapô) |
+| 12/09 | "Ça donne de l'espoir" : la présidentielle au cœur de la fête de l'Humanité (chapô) |
+| 11/09 | Dette publique : peut-on "foutre au feu" une partie de l'emprunt français, comme le propose Jean-Luc Mélenchon ? |
+| 10/09 | Présidentielle 2027 : une primaire qui déchire la gauche (chapô) |
+| 09/09 | Le "Nobel" d'économie est-il un "soi-disant" prix Nobel, comme le juge Jean-Luc Mélenchon ? |
+| 08/09 | Présidentielle 2027 : les détails de la charte envoyée par Hervé Morin aux candidats de la droite et du centre pour l'organisation d'une primaire (chapô) |
+| 06/09 | Attal, Tondelier, Mélenchon... La braderie de Lille sur un air de présidentielle |
+| 05/09 | Braderie de Lille : Mélenchon, Attal… la présidentielle s'invite dans les rues |
+| 05/09 | "Comment peut-on être aussi misérable ?" : à Lille, Jean-Luc Mélenchon cible Jordan Bardella, "un fasciste sans réputation et sans portée" |
+| 05/09 | Pouvoir d'achat, RN... Jean-Luc Mélenchon dévoile ses premières mesures de campagne pour 2027 à la braderie de Lille |
+| 04/09 | "Jean-Luc Mélenchon peut être le prochain président écologiste", estime Manuel Bompard |
+| 04/09 | Pourquoi LFI et le RN s'emparent du voile ? (chapô) |
+| 03/09 | "J'ai fait une erreur terrible" : Jean-Luc Mélenchon admet avoir "changé d'avis" sur le port du voile islamique |
+| 03/09 | Pourquoi le RN et LFI s'emparent-ils du voile ? (chapô) |
+| 02/09 | Jean-Luc Mélenchon n'a recueilli pour l'instant qu'un peu plus de 200 promesses de parrainages en vue de la présidentielle, loin des 500 nécessaires |
+| 02/09 | "C'est dur, mais on y travaille" : Jean-Luc Mélenchon n'a pour l'instant recueilli qu'environ 200 promesses de parrainages d'élus sur les 500 nécessaires pour la présidentielle |
+| 31/08 | Un duel Le Pen-Mélenchon au second tour de la présidentielle ? "C'est déjà perdu si on en arrive à cette situation", assure Jérôme Guedj, candidat à la primaire du pôle socialiste |
+| 29/08 | Présidentielle : le PDG de TotalEnergies, Patrick Pouyanné, "inquiet" face aux programmes économiques de Marine Le Pen et Jean-Luc Mélenchon |
+| 27/08 | Présidentielle 2027 : "Jean-Luc Mélenchon est le candidat du fascisme", lance Julien Odoul, porte-parole du RN |
+| 27/08 | Cinq questions sur la proposition de Jean-Luc Mélenchon de geler une partie de la dette française |
+| 27/08 | Revivez le premier débat de la présidentielle 2027, organisé par le Medef, qui a opposé sept candidats pendant trois heures (chapô) |
+| 27/08 | De Bruno Retailleau à Jean-Luc Mélenchon, un premier débat et de premières passes d'armes entre sept candidats à la présidentielle face au Medef |
+| 26/08 | "Un autre monde est possible" : le slogan de Jean-Luc Mélenchon en 2022 |
+| 26/08 | "Je soutiendrai Edouard Philippe dans cette élection présidentielle", déclare Benjamin Haddad, ministre délégué chargé de l'Europe (chapô) |
+| 26/08 | Annuler une partie de la dette : "Beaucoup de pays européens y ont intérêt", assure Clémence Guetté, députée LFI du Val-de-Marne (chapô) |
+| 26/08 | Plus de 200 élus, dont Hervé Morin, appellent à une "primaire ouverte" de la droite et du centre à l'approche de l'élection présidentielle de 2027 (chapô) |
+| 24/08 | "Il est vital de tout changer dans nos manières de vivre" : Jean-Luc Mélenchon lance sa campagne présidentielle |
+| 24/08 | Présidentielle : Aurélien Rousseau veut transformer en "force" la dynamique autour de Raphaël Glucksmann, sans "avoir peur" de Jean-Luc Mélenchon |
+| 24/08 | Propos de Jean-Luc Mélenchon sur les préfets : l'association du corps préfectoral apporte son "plein soutien" aux préfets |
+| 24/08 | Présidentielle 2027 : se rallier à Jean-Luc Mélenchon ou Raphaël Glucksmann, "c'est acter les gauches irréconciliables", souligne l'écologiste David Cormand |
+| 24/08 | Raphaël Glucksmann : la bataille à gauche pour 2027 (chapô) |
+| 24/08 | Présidentielle 2027 : Les Écologistes plus divisés que jamais (chapô) |
+| 23/08 | "La dynamique est ici" : à leur université d'été, les insoumis et Jean-Luc Mélenchon en opération séduction des écologistes avant la présidentielle |
+| 23/08 | Jean-Luc Mélenchon promet que LFI censurera le gouvernement Lecornu sur son budget 2027, "qui va aggraver tous les maux" de l'économie |
+| 23/08 | Présidentielle 2027 : une union des gauches est-elle encore possible ? (chapô) |
+| 23/08 | Présidentielle 2027 : l'union impossible à gauche ? (chapô) |
+| 23/08 | Jean-Luc Mélenchon met en doute l'impartialité des préfets vis-à-vis de LFI, Laurent Nuñez répond qu'ils n'ont "pas de leçons à recevoir" |
+| 23/08 | Présidentielle 2027 : une union impossible à gauche ? "Il faut que tout le monde s'y mette", enjoint Jean-Luc Mélenchon |
+| 22/08 | "J'ai l'impression qu'on peut y arriver" : aux universités d'été de LFI, les militants confiants pour 2027 (chapô) |
+| 22/08 | "Jean-Luc Mélenchon est le candidat le mieux placé à gauche", estime Sandrine Rousseau |
+| 22/08 | La députée Ecologiste Sandrine Rousseau plaide pour "une alliance" avec LFI, Jean-Luc Mélenchon lui répond que "toute aide sera la bienvenue" |
+| 22/08 | Critiqué par Jean-Luc Mélenchon, Edouard Philippe l'encourage à venir à Mayotte constater la "crise migratoire" |
+| 22/08 | "Nous sommes présents dans tous les ministères" : pour la première fois, un membre du réseau de hauts fonctionnaires qui œuvrent en secret pour LFI témoigne (chapô) |
+| 22/08 | "Nous sommes présents dans tous les ministères" : pour la première fois, un membre du réseau de hauts fonctionnaires qui œuvrent en secret pour LFI témoigne (chapô) |
+| 22/08 | Rentrée politique : Édouard Philippe et Jean-Luc Mélenchon s'écharpent au sujet de l'immigration à Mayotte |
+| 21/08 | Jean-Luc Mélenchon fait sa rentrée politique |
+| 21/08 | "Je ne peux pas vous dire quel est le bon choix" : pour leur rentrée politique, les écologistes se divisent sur la question d'un ralliement à gauche pour la présidentielle (chapô) |
+| 20/08 | Gabriel Attal et Jean-Luc Mélenchon : un duel permanent, avec l'élection présidentielle en ligne de mire |
+| 19/08 | "Nous, c'est carré" : La France insoumise dévoile un tract et une affiche pour marquer le lancement de ses universités d'été (chapô) |
+| 18/08 | "Je n'ai pas encensé le programme de Jean-Luc Mélenchon" : la ministre Monique Barbut précise ses propos favorables au candidat LFI tenus dans "Libération" |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Jean-Luc+M%C3%A9lenchon, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

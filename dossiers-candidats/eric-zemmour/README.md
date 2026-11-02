@@ -32,6 +32,36 @@ Résultat : un seul article où Éric Zemmour est cité, et il ne porte pas sur 
 
 Total : 0 article où Zemmour est au centre.
 
+## TF1 (tf1info.fr)
+
+Source : https://www.tf1info.fr/recherche/?query=%C3%89ric%20Zemmour (8 extensions du bouton « Voir plus de résultats »). Un article est compté si « Zemmour » figure dans son titre ; le chapô n'est pas affiché sur la page de recherche. La recherche n'a pas de filtre de date et classe par pertinence : les articles de la période sont retenus parmi les résultats obtenus.
+
+Total : 1 article.
+
+| Date (2026) | Titre |
+|---|---|
+| 12/09 | Présidentielle 2027 : Éric Zemmour ouvre la voie à une candidature |
+
+## franceinfo (franceinfo.fr)
+
+Source : https://www.franceinfo.fr/recherche/?request=%C3%89ric%20Zemmour (pages 1 à 10 ; la recherche renvoie au maximum 200 contenus). Un article est compté si « Zemmour » figure dans son titre ou son chapô ; le chapô est marqué « (chapô) » quand le nom n'apparaît que dans le chapô. Les résultats sont classés par pertinence, puis par date : les articles de la période sont retenus parmi les 200 résultats.
+
+Total : 11 articles.
+
+| Date (2026) | Titre |
+|---|---|
+| 23/10 | Dans les fauteuils rouges de "Complément d'enquête" : Sarah Knafo, députée européenne Reconquête (chapô) |
+| 22/10 | Sarah Knafo : des sourires côté pile... et des alliances sulfureuses côté face ! (chapô) |
+| 22/10 | "Le mâle dominant, ce n'est pas Éric Zemmour, c'est Sarah Knafo !" Le patron de Reconquête est-il en passe d'être "grand remplacé" par sa compagne ? |
+| 21/10 | "Complément d'enquête". Sarah Knafo : Zemmour, gloire et plan B |
+| 07/10 | Sommet de l'élevage. Selfies, serrage de mains : Le Pen, Zemmour, Ruffin et Dupont-Aignan en campagne |
+| 20/09 | Sardoche chez Zemmour : comment l'extrême droite cherche à convaincre les jeunes à travers les streamers |
+| 19/09 | Eric Zemmour (presque) candidat à l'élection présidentielle de 2027, un atout pour Marine Le Pen ? |
+| 18/09 | Eric Zemmour accuse Kylian Mbappé de "solidarité islamique" avec les migrants à Ceuta, ses propos suscitent l'indignation à gauche |
+| 17/09 | Eric Zemmour, président du parti d'extrême droite Reconquête, annonce qu'il sera candidat à l'élection présidentielle |
+| 08/09 | Pourquoi le RN a "acté la rupture" avec l'AfD (chapô) |
+| 27/08 | "Femme d'État" : la campagne de Marine Le Pen sous la pression d'Éric Zemmour |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=%C3%89ric+Zemmour, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

@@ -43,6 +43,40 @@ Limite : BFMTV n'a ni moteur de recherche ni page par personnalité. La rubrique
 
 Total BFMTV : 10 entrées, toutes des propos ou des initiatives du candidat.
 
+## TF1 (tf1info.fr)
+
+Source : https://www.tf1info.fr/recherche/?query=Fran%C3%A7ois%20Ruffin (8 extensions du bouton « Voir plus de résultats »). Un article est compté si « Ruffin » figure dans son titre ; le chapô n'est pas affiché sur la page de recherche. La recherche n'a pas de filtre de date et classe par pertinence : les articles de la période sont retenus parmi les résultats obtenus.
+
+Total : 3 articles.
+
+| Date (2026) | Titre |
+|---|---|
+| 14/10 | Émission spéciale - Objectif 2027 : François Ruffin, l'interview exclusive sur LCI |
+| 28/09 | Face à Alba Ventura : François Ruffin |
+| 28/09 | Un "apprentissage politique" : le candidat à la présidentielle François Ruffin apporte son soutien aux lycéens mobilisés |
+
+## franceinfo (franceinfo.fr)
+
+Source : https://www.franceinfo.fr/recherche/?request=Fran%C3%A7ois%20Ruffin (pages 1 à 10 ; la recherche renvoie au maximum 200 contenus). Un article est compté si « Ruffin » figure dans son titre ou son chapô ; le chapô est marqué « (chapô) » quand le nom n'apparaît que dans le chapô. Les résultats sont classés par pertinence, puis par date : les articles de la période sont retenus parmi les 200 résultats.
+
+Total : 13 articles.
+
+| Date (2026) | Titre |
+|---|---|
+| 10/10 | Mouvement lycéen : "On m'a reproché à plusieurs reprises de pleurer et d'être mal", dénonce une étudiante gardée à vue (chapô) |
+| 09/10 | "Nous n'avons qu'une réponse policière" à la mobilisation lycéenne, accuse François Ruffin, malgré l'annonce du recrutement de 3 000 professeurs remplaçants |
+| 09/10 | Le député de la Somme François Ruffin a déposé une proposition de résolution appelant à un moratoire de cinq ans sur les data centers non européens |
+| 07/10 | Sommet de l'élevage. Selfies, serrage de mains : Le Pen, Zemmour, Ruffin et Dupont-Aignan en campagne |
+| 05/10 | Dominique de Villepin et François Ruffin critiquent la politique de maintien de l'ordre vis-à-vis des mobilisations lycéennes |
+| 30/09 | "Le RN a changé en surface, il a refait la façade", commente François Ruffin, après des écrits antisémites attribués à Jordan Bardella par Mediapart |
+| 29/09 | Sur un moteur de recherche de données piratées, des informations personnelles d'Edouard Philippe, Marine Tondelier ou François Ruffin parmi celles d'anonymes |
+| 11/09 | Le PS réinvente-t-il la machine à perdre ? (chapô) |
+| 11/09 | Une primaire qui déchire la gauche (chapô) |
+| 10/09 | Carole Delga demande à Olivier Faure de "respecter le vote des militants" en refusant d'autres candidatures pour la primaire PS-Place publique (chapô) |
+| 10/09 | Présidentielle 2027 : une primaire qui déchire la gauche (chapô) |
+| 08/09 | Une centaine de responsables socialistes appellent à ouvrir la primaire PS Place publique, entre autres à François Ruffin |
+| 03/09 | "C'est le premier moment original de cette campagne" : pourquoi Dominique de Villepin et François Ruffin affichent leurs convergences pour la présidentielle |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Fran%C3%A7ois+Ruffin, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.
