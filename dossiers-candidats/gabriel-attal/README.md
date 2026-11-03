@@ -604,6 +604,54 @@ Total : 15 articles.
 | 24/07 | Gabriel Attal: "On a un modèle social qui coûte de plus en plus cher et qui repose de plus en plus sur les épaules des seuls salariés" |
 | 03/07 | Gabriel Attal présente ses mesure pour ramener un déficit à 0% en 10 ans |
 
+## Sud Ouest (sudouest.fr)
+
+Source : https://www.sudouest.fr/politique/gabriel-attal/archives/ (page d'archives du candidat ; la liste ne donne pas de lien, la date est celle affichée sur la carte, « Il y a N heures » valant le 3 novembre 2026). Un article est compté si « Attal » figure dans son titre ; le chapô n'est pas relevé. Les homonymes sont exclus.
+
+Total : 39 articles.
+
+| Date (2026) | Titre |
+|---|---|
+| 30/10 | Présidentielle 2027 : « Aucun candidat n’est en situation de rassembler les autres autour de lui », Gabriel Attal convaincu que la primaire des démocrates aura lieu |
+| 29/10 | Présidentielle 2027 : Attal plaide pour une « grande primaire des démocrates », Lisnard appelle à « se dépêcher », Philippe et Retailleau réticents |
+| 22/10 | « Ce n’est pas le grand soir de la politique, mais au moins on se voit » : l’équipe lot-et-garonnaise de Gabriel Attal lance l’opération « 1 000 bistrots » jeudi au Passage-d’Agen… Sans son champion |
+| 20/10 | Mobilisation du 17 octobre : après les pillages, Jordan Bardella et Gabriel Attal demandent aux plateformes de revente en ligne de coopérer avec la police |
+| 18/10 | Présidentielle : Philippe-Attal, le retour du fatal Chirac-Giscard ? |
+| 11/10 | Présidentielle 2027 : Gabriel Attal et Édouard Philippe appellent au rassemblement, mais chacun dans son couloir |
+| 11/10 | Présidentielle 2027 : Jean-Luc Mélenchon en meeting ce dimanche à Clermont-Ferrand pour cibler la jeunesse et répliquer à Gabriel Attal |
+| 10/10 | Présidentielle 2027 : Gabriel Attal présente son pacte pour la jeunesse et cible Jean-Luc Mélenchon |
+| 10/10 | Présidentielle 2027 : Jean-Luc Mélenchon, Gabriel Attal… Quand les candidats tentent de profiter (ou de résister) à la colère des lycéens |
+| 08/10 | Présidentielle 2027 : le camp de Raphaël Glucksmann rejette la main tendue par Gabriel Attal |
+| 03/10 | Présidentielle 2027 : Gabriel Attal plaide pour un candidat unique allant de la gauche social-démocrate à la droite républicaine |
+| 22/09 | Présidentielle 2027 : la crise des carburants bouscule les campagnes d’Édouard Philippe et Gabriel Attal |
+| 20/09 | Présidentielle 2027 : « Le rassemblement se fera derrière moi », estime Gabriel Attal |
+| 18/09 | Présidentielle 2027 : Gabriel Attal plaide pour des « États-Unis d’Europe » et juge que l’Europe des 27 a « atteint ses limites » |
+| 17/09 | Le vrai du faux : Gabriel Attal respecte-t-il la loi Evin en trinquant avec un verre dans un clip de campagne ? |
+| 16/09 | La dissolution de 2024 a « contribué à quasiment flinguer l’économie française » : quand Gabriel Attal tacle, sans le nommer, Emmanuel Macron |
+| 10/09 | Présidentielle 2027 : Élisabeth Borne tacle Gabriel Attal et dit souhaiter que « le centre soit représenté » à l’élection |
+| 09/09 | Présidentielle 2027 : Gabriel Attal écarte la proposition de rassemblement d’Édouard Philippe et veut « une vraie campagne » |
+| 09/09 | Présidentielle 2027 : Maud Bregeon appelle Gabriel Attal et Bruno Retailleau à soutenir Édouard Philippe |
+| 05/09 | Présidentielle 2027 : Marine Le Pen largement en tête, Édouard Philippe toujours préféré à Gabriel Attal, d’après un sondage |
+| 03/09 | Présidentielle 2027 : Gabriel Attal présente son équipe, la journaliste Céline Géraud devient responsable de la communication |
+| 03/09 | Présidentielle 2027 : le maire de Bordeaux Thomas Cazenave dans l’équipe de campagne de Gabriel Attal |
+| 30/08 | Élection présidentielle 2027 : Gabriel Attal assume ses différences avec Édouard Philippe et ses « idées d’il y a 20 ans » |
+| 27/08 | DIRECT VIDEO. Présidentielle 2027 : Attal, Le Pen, Mélenchon, Philippe… suivez le débat entre sept candidats dès 16h45 |
+| 27/08 | Présidentielle 2027 : Le Pen, Mélenchon, Glucksmann, Attal, Philippe, Retailleau et Tondelier invités du grand débat du Medef, à suivre ce jeudi à 16h45 |
+| 26/08 | Présidentielle 2027 : Gabriel Attal estime qu’il n’y a « plus de favori » dans le bloc central |
+| 25/08 | Éducation : Gabriel Attal propose le retour du certificat d’études et Édouard Philippe veut augmenter de 20 % le salaire des enseignants |
+| 24/08 | Présidentielle 2027 : Édouard Philippe « en train de perdre son pari » de s’imposer, selon l’entourage de Gabriel Attal |
+| 21/08 | Présidentielle 2027 : Gabriel Attal ciblé une deuxième fois par des opérations de désinformation prorusses |
+| 18/08 | Ingérence russe : le parquet de Paris enquête sur les attaques visant Édouard Philippe et Gabriel Attal |
+| 09/08 | Présidentielle 2027 : « Lancer la plus grande chasse au gâchis jamais menée », Gabriel Attal promet un plan massif sur l’eau en cas d’élection |
+| 09/08 | Gens du voyage : « Leur présence ne doit plus passer par des aires d’accueil glauques », Philippe Buisson, le maire de Libourne, répond à Gabriel Attal |
+| 08/08 | Présidentielle 2027 : Gabriel Attal porte plainte, dénonçant une ingérence russe |
+| 06/08 | Présidentielle 2026 : « j’ai décidé de passer mon été auprès des Français. » Gabriel Attal multiplie les déplacements sous le feu des critiques |
+| 05/08 | Présidentielle 2027 : Gabriel Attal visé par une ingérence en provenance de Russie |
+| 03/08 | Présidentielle 2027 : Gabriel Attal veut durcir la loi contre les installations illégales |
+| 30/07 | Présidentielle 2027 : la justice déboute Gabriel Attal sur l’utilisation du mot renaissance par Marine Le Pen pour sa campagne |
+| 23/07 | Présidentielle 2027 : en visite en Bretagne, Gabriel Attal appelle à un « choc des salaires » |
+| 15/07 | Présidentielle 2027 : Marine Le Pen utilise le mot « Renaissance » sur son affiche électorale, Gabriel Attal l’assigne pour « contrefaçon » |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Gabriel+Attal, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

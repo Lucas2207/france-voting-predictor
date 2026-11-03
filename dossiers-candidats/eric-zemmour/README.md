@@ -186,6 +186,20 @@ Total : 6 articles.
 | 14/09 | Knafo, la femme derrière Eric Zemmour |
 | 02/09 | S. Knafo/Reconquête : Éric Zemmour "est le candidat naturel" |
 
+## Sud Ouest (sudouest.fr)
+
+Source : https://www.sudouest.fr/politique/eric-zemmour/archives/ (page d'archives du candidat ; la liste ne donne pas de lien, la date est celle affichée sur la carte, « Il y a N heures » valant le 3 novembre 2026). Un article est compté si « Zemmour » figure dans son titre ; le chapô n'est pas relevé. Les homonymes sont exclus.
+
+Total : 5 articles.
+
+| Date (2026) | Titre |
+|---|---|
+| 07/10 | Blocus des lycéens : Éric Zemmour veut faire payer les « casseurs » et leurs parents « jusqu’à la nuit des temps » |
+| 18/09 | Éric Zemmour accuse Kylian Mbappé de « solidarité islamique » face à la polémique à Ceuta et suscite l’indignation |
+| 18/09 | Présidentielle 2027 : Éric Zemmour propose l’expulsion des étrangers au chômage de longue durée |
+| 03/09 | Présidentielle 2027 : Éric Zemmour prévoit d’annoncer sa candidature « avant décembre » |
+| 07/07 | Violation des valeurs de l’UE : les eurodéputés lancent une procédure contre la famille politique d’Eric Zemmour, une première |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=%C3%89ric+Zemmour, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

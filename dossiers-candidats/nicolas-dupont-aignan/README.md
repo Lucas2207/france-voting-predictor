@@ -156,6 +156,16 @@ Total : 1 article.
 |---|---|
 | 17/09 | Une proposition pour la France : Nicolas Dupont-Aignan propose 10 000 euros pour chaque nouveau-né sur un livret retraite |
 
+## Sud Ouest (sudouest.fr)
+
+Source : https://www.sudouest.fr/politique/nicolas-dupont-aignan/archives/ (page d'archives du candidat ; la liste ne donne pas de lien, la date est celle affichée sur la carte, « Il y a N heures » valant le 3 novembre 2026). Un article est compté si « Dupont-Aignan » figure dans son titre ; le chapô n'est pas relevé. Les homonymes sont exclus.
+
+Total : 1 article.
+
+| Date (2026) | Titre |
+|---|---|
+| 19/09 | Présidentielle 2027 : Nicolas Dupont-Aignan promet de « décoloniser la France » en sortant de l’Union européenne |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Nicolas+Dupont-Aignan, parcouru jusqu'au 1er juillet 2026.

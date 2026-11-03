@@ -749,6 +749,71 @@ Total : 20 articles.
 | 24/08 | Raphaël Glucksmann candidat à l'élection présidentielle |
 | 24/08 | Glucksmann : "Plus jamais d'accord avec Jean-Luc Mélenchon" |
 
+## Sud Ouest (sudouest.fr)
+
+Source : https://www.sudouest.fr/politique/raphael-glucksmann/archives/ (page d'archives du candidat ; la liste ne donne pas de lien, la date est celle affichée sur la carte, « Il y a N heures » valant le 3 novembre 2026). La page d'archives commence au 21 août 2026 : les articles antérieurs ne figurent pas dans la liste. Un article est compté si « Glucksmann » figure dans son titre ; le chapô n'est pas relevé. Les homonymes sont exclus.
+
+Total : 56 articles.
+
+| Date (2026) | Titre |
+|---|---|
+| 31/10 | Présidentielle 2027 : Raphaël Glucksmann, face au lourd défi de rassembler le PS derrière lui |
+| 26/10 | Présidentielle 2027 : Raphaël Glucksmann accuse La France insoumise de mener une « campagne de harcèlement » contre lui |
+| 23/10 | Présidentielle 2027 : premier déplacement ce vendredi pour Raphaël Glucksmann, un début de campagne percuté par la crise sociale |
+| 22/10 | Mobilisation sociale et violences : Raphaël Glucksmann présente un plan de sortie de crise en dix points à Matignon |
+| 18/10 | Présidentielle : Raphaël Glucksmann au risque d’un scénario à la Hidalgo, avec un PS fantôme |
+| 16/10 | Sondage présidentielle 2027 : Marine Le Pen toujours loin devant, percée de Raphaël Glucksmann sur les talons de Jean-Luc Mélenchon, Édouard Philippe en baisse |
+| 15/10 | Le dessin du jeudi 15 octobre : Glucksmann promet d’être « punk » |
+| 13/10 | Présidentielle 2027 : Ségolène Royal soutiendra Raphaël Glucksmann, sauf « s’il se tourne vers les macronistes » |
+| 12/10 | Présidentielle 2027 : après la victoire de Glucksmann à la primaire sociale-démocrate, qui sont les gagnants et les perdants à gauche et au centre ? |
+| 12/10 | Présidentielle 2027 : vers un duel Le Pen-Mélenchon, pas d’effet Bardella, pas encore de sursaut Glucksmann |
+| 12/10 | Présidentielle 2027 : Glucksmann veut « mettre fin à l’hégémonie des brutaux sur la gauche » et demande à Mélenchon de « désavouer » la violence de ses partisans |
+| 12/10 | Présidentielle 2027 : les choses sérieuses commencent pour Raphaël Glucksmann après sa victoire à la primaire, avec une famille politique à apaiser et rassembler |
+| 12/10 | VIDEOS. Présidentielle 2027 : Raphaël Glucksmann enfariné dimanche à la sortie du bar parisien où il célébrait sa victoire à la primaire |
+| 12/10 | « Nous avons un candidat », « une alternative rassembleuse », « choix du repli »… Les réactions après la victoire de Raphaël Glucksmann à la primaire de gauche |
+| 11/10 | Primaire de la gauche sociale-démocrate : Raphaël Glucksmann l’emporte dès le premier tour, « nous sommes là pour gagner l’élection présidentielle », affirme le candidat élu |
+| 11/10 | Primaire de la gauche : plus de 100 000 votants samedi à 22 heures, Glucksmann espère l’emporter dès le premier tour… Verdict attendu ce dimanche soir |
+| 08/10 | Primaire de la gauche : Olivier Faure tire ses dernières cartouches contre « l’option centriste » qu’incarne à ses yeux Raphaël Glucksmann |
+| 08/10 | Présidentielle 2027 : le camp de Raphaël Glucksmann rejette la main tendue par Gabriel Attal |
+| 04/10 | Présidentielle 2027 : Raphaël Glucksmann se dit « désolé » après ses propos « inélégants » sur Ségolène Royal |
+| 03/10 | VIDEO. Présidentielle 2027 : « On leur pisse dessus », « la danse du ventre à Macron », des propos privés de Raphaël Glucksmann font bondir Jean-Luc Mélenchon et Ségolène Royal |
+| 02/10 | Primaire de la gauche : vif affrontement entre Olivier Faure et Raphaël Glucksmann sur le mot « génocide » à Gaza |
+| 21/09 | Présidentielle 2027. « Le meilleur programme, avec des propositions étayées » : dans le Lot-et-Garonne, le soutien au candidat Glucksmann se structure avant la primaire |
+| 21/09 | Présidentielle 2027 : traité de « stagiaire » par Ségolène Royal, Raphaël Glucksmann la renvoie à ses « postes quémandés » |
+| 20/09 | Primaire socialiste. « À nous de lui faire passer des messages » : le Parti socialiste landais soutient Raphaël Glucksmann, mais sous conditions |
+| 20/09 | Présidentielle 2027 : Glucksmann président ? « Vous ne mettez pas un stagiaire à la tête d’une entreprise », tacle Ségolène Royal |
+| 18/09 | Présidentielles 2027 : à Montpellier, Raphaël Glucksmann promet que la gauche peut « transformer la vie des Français » |
+| 16/09 | Présidentielle 2027 : Faure, Guedj, Royal, Maurel et Glucksmann… Cinq candidats vont participer à la primaire de la gauche début octobre |
+| 10/09 | Affaire des policiers municipaux de Carcassonne : Raphaël Glucksmann veut augmenter les peines pour injures racistes |
+| 09/09 | Présidentielle 2027 : Ruffin toujours prêt pour la primaire tance Glucksmann, qui « a peur des électeurs » |
+| 09/09 | Présidentielle : Raphaël Glucksmann refuse de modifier les règles de la primaire de la gauche pour François Ruffin |
+| 03/09 | Primaire de la gauche : combien de débats télévisés seront organisés ? Raphaël Glucksmann n’en veut qu’un, les autres candidats en veulent trois |
+| 30/08 | Présidentielle 2027 : Raphaël Glucksmann veut augmenter d’au moins 10 % les salaires des enseignants |
+| 28/08 | Présidentielle 2027 : le parti socialiste fait sa rentrée avec Raphaël Glucksmann en position de favori pour la primaire |
+| 27/08 | Présidentielle 2027 : Le Pen, Mélenchon, Glucksmann, Attal, Philippe, Retailleau et Tondelier invités du grand débat du Medef, à suivre ce jeudi à 16h45 |
+| 25/08 | Raphaël Glucksmann en Charente-Maritime : « Je compte bien gagner cette primaire » |
+| 25/08 | Raphaël Glucksmann en Charente-Maritime : « dès la prise du pouvoir, nous organiserons les cent jours de la révolution écologique » |
+| 24/08 | Présidentielle : Léa Salamé en retrait du 20 heures de France 2 après la candidature de son compagnon Raphaël Glucksmann |
+| 24/08 | Présidentielle 2027 : Raphaël Glucksmann en visite en Charente-Maritime ce mardi 25 août |
+| 24/08 | Présidentielle 2027 : Yannick Jadot annonce son ralliement à Raphaël Glucksmann |
+| 23/08 | Présidentielle 2027 : Raphaël Glucksmann candidat « pour relever la France » |
+| 22/08 | Présidentielle 2027 : Raphaël Glucksmann devrait annoncer sa candidature au 20h de TF1 dimanche |
+| 21/08 | Présidentielle 2027 : LFI fait sa rentrée dans la Drôme, Raphaël Glucksmann prépare sa candidature… la campagne est lancée |
+| 21/08 | Présidentielle 2027 : Raphaël Glucksmann appelle à la fermeté face aux ingérences étrangères |
+| 21/08 | Présidentielle 2027 : Raphaël Glucksmann dénonce une opération russe de déstabilisation, « nous ne laisserons pas les sbires du Kremlin ébranler notre démocratie » |
+| 21/08 | « Plan clim » du RN. En Gironde, Raphaël Glucksmann, Boris Vallaud et Yannick Jadot répliquent : « On ne va pas faire de la France Dubaï » |
+| 21/08 | ENTRETIEN. Présidentielle 2027. Raphaël Glucksmann à « Sud Ouest » : « Je n’imagine pas cette campagne séparé des socialistes » |
+| 21/08 | Présidentielle 2027 : Raphaël Glucksmann, Boris Vallaud et Yannick Jadot en Gironde vendredi |
+| 21/08 | « Colo pour tous » : Raphaël Glucksmann veut relancer l’idée des colonies de vacances pour tous les enfants grâce à un « passeport » |
+| 21/08 | Présidentielle 2027 : Mélenchon et Glucksmann au coude-à-coude, derrière le RN et Édouard Philippe, selon un sondage Opinionway |
+| 21/08 | Présidentielle 2027 : « nous les plierons à nouveau », Raphaël Glucksmann confiant face à Jean-Luc Mélenchon |
+| 21/08 | Présidentielle 2027 : Raphaël Glucksmann sera-t-il candidat ? Il se donne « trois mois » pour convaincre |
+| 21/08 | Présidentielle 2027 : Raphaël Glucksmann propose une convention citoyenne sur l’immigration |
+| 21/08 | Présidentielle 2027 : “Nous avons encore envie”, Raphaël Glucksmann prépare le terrain sans se déclarer |
+| 21/08 | « Cibles fidèles » ou « à éviter » : une note interne de Raphaël Glucksmann pour la présidentielle 2027 fuite et fait polémique |
+| 21/08 | Présidentielle 2027 : primaire, candidat maison ou Glucksmann… le départ de Boris Vallaud de la direction du PS accélère les manœuvres |
+| 21/08 | Présidentielle 2027 : pour Glucksmann, « il est bien trop tôt pour se déclarer candidat » |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Rapha%C3%ABl+Glucksmann, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

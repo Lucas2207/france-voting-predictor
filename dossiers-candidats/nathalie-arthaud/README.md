@@ -118,6 +118,17 @@ Total : 0 articles.
 
 Aucun article de la période ne porte le nom du candidat dans son titre.
 
+## Sud Ouest (sudouest.fr)
+
+Source : https://www.sudouest.fr/politique/nathalie-arthaud/archives/ (page d'archives du candidat ; la liste ne donne pas de lien, la date est celle affichée sur la carte, « Il y a N heures » valant le 3 novembre 2026). Un article est compté si « Arthaud » figure dans son titre ; le chapô n'est pas relevé. Les homonymes sont exclus.
+
+Total : 2 articles.
+
+| Date (2026) | Titre |
+|---|---|
+| 18/10 | Manifestation du 17 octobre : « La casse, ce n’est pas une politique » rappelle Nathalie Arthaud, candidate à l’élection présidentielle |
+| 26/09 | Présidentielle 2027 : Nathalie Arthaud lance sa campagne pour Lutte Ouvrière et cible Jean-Luc Mélenchon |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Nathalie+Arthaud, parcouru jusqu'au 1er juillet 2026.

@@ -505,6 +505,39 @@ Total : 14 articles.
 | 02/09 | Une proposition pour la France : Bruno Retailleau veut des internats disciplinaires pour les élèves violents |
 | 28/08 | Attal, Philippe, Retailleau, Lisnard, Bertrand... faut-il une primaire ? |
 
+## Sud Ouest (sudouest.fr)
+
+Source : https://www.sudouest.fr/politique/bruno-retailleau/archives/ (page d'archives du candidat ; la liste ne donne pas de lien, la date est celle affichée sur la carte, « Il y a N heures » valant le 3 novembre 2026). Un article est compté si « Retailleau » figure dans son titre ; le chapô n'est pas relevé. Les homonymes sont exclus.
+
+Total : 24 articles.
+
+| Date (2026) | Titre |
+|---|---|
+| 24/10 | Présidentielle 2027 : Marc Vernier nommé référent de la campagne de Bruno Retailleau dans les Landes |
+| 20/10 | « Si l’État ne parvient pas à protéger les Français… », après les violences du 17 octobre, Bruno Retailleau craint que les commerçants ne basculent dans l’autodéfense |
+| 18/10 | Présidentielle : à droite, chassé-croisé entre David Lisnard et Bruno Retailleau |
+| 17/10 | Présidentielle 2027 : François Fillon apporte son soutien à Bruno Retailleau |
+| 12/10 | Présidentielle 2027 : Retailleau promet de faire « au bulldozer » près de 200 milliards d’euros d’économies jusqu’en 2032 |
+| 08/10 | Présidentielle 2027 : « Enfumage », « amateurisme »… Maud Bregeon et Bruno Retailleau raillent le budget présenté par Marine Le Pen |
+| 22/09 | Retraites : Bruno Retailleau veut instaurer un âge minimal de départ à 63 ans, le taux plein à 65 ans |
+| 20/09 | Présidentielle 2027 : Éric Ciotti appelle Bruno Retailleau à rejoindre l’UDR |
+| 17/09 | Présidentielle 2027 : Bruno Retailleau dénonce une « écologie dogmatique » qui a « empêché » les agriculteurs de s’adapter au changement climatique |
+| 15/09 | Prix des carburants : Bruno Retailleau propose de supprimer les CEE pour réduire le coût à la pompe « de 15 à 17 centimes » |
+| 09/09 | Présidentielle 2027 : Bruno Retailleau veut supprimer le droit du sol par référendum |
+| 09/09 | Présidentielle 2027 : Bruno Retailleau refuse l’invitation d’Édouard Philippe à la réunion des candidats du centre et de la droite |
+| 09/09 | Présidentielle 2027 : référendum, État de droit… Édouard Philippe marque sa différence avec Bruno Retailleau |
+| 09/09 | Présidentielle 2027 : Maud Bregeon appelle Gabriel Attal et Bruno Retailleau à soutenir Édouard Philippe |
+| 09/09 | Présidentielle 2027 : Bruno Retailleau dénonce l’amateurisme du Rassemblement national |
+| 28/08 | Présidentielle 2027 : « je n’ai peur d’aucune compétition », Bruno Retailleau prêt à affronter une primaire de la droite et du centre |
+| 28/08 | Présidentielle 2027 : Bruno Retailleau durcit le ton pour relancer sa campagne |
+| 27/08 | Présidentielle 2027 : Le Pen, Mélenchon, Glucksmann, Attal, Philippe, Retailleau et Tondelier invités du grand débat du Medef, à suivre ce jeudi à 16h45 |
+| 27/08 | Présidentielle 2027 : Bruno Retailleau accuse LFI d’être un « parti de collabos » avec l’islamisme |
+| 16/08 | Piratage du fisc : y a-t-il « défaillance structurelle » ? Les sénateurs socialistes réclament une commission d’enquête, Retailleau un « Plan Vauban » |
+| 07/07 | Présidentielle 2027. « On ne peut pas être techno-réac, il faut être techno-réaliste » : Bruno Retailleau veut recourir à l’IA pour rendre l’État « plus efficace » |
+| 07/07 | Présidentielle 2027 : Bruno Retailleau critique l’absence de propositions d’Édouard Philippe |
+| 01/07 | Présidentielle 2027 : Laurent Wauquiez porte un coup à la candidature de Bruno Retailleau en tendant la main à Édouard Philippe |
+| 01/07 | Présidentielle 2027 : Bruno Retailleau se dit favorable à la suppression du droit du sol |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Bruno+Retailleau, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

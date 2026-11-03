@@ -647,6 +647,70 @@ Total : 31 articles.
 | 02/07 | La main tendue de Laurent Wauquiez à Édouard Philippe |
 | 01/07 | Présidentielle 2027: Edouard Philippe veut faire "travailler plus longtemps" les Français |
 
+## Sud Ouest (sudouest.fr)
+
+Source : https://www.sudouest.fr/politique/edouard-philippe/archives/ (page d'archives du candidat ; la liste ne donne pas de lien, la date est celle affichée sur la carte, « Il y a N heures » valant le 3 novembre 2026). Un article est compté si « Philippe » figure dans son titre ; le chapô n'est pas relevé. Les homonymes sont exclus.
+
+Total : 55 articles.
+
+| Date (2026) | Titre |
+|---|---|
+| 01/11 | Présidentielle 2027 : Édouard Philippe refuse de participer à une primaire, source de « division » |
+| 01/11 | Présidentielle 2027 : Édouard Philippe attendu ce dimanche au 20 heures de TF1 face à l’hypothèse d’une primaire à droite et au centre |
+| 29/10 | Soupçons de détournement de fonds publics au Havre : Édouard Philippe placé sous le statut de témoin assisté |
+| 29/10 | Présidentielle 2027 : Attal plaide pour une « grande primaire des démocrates », Lisnard appelle à « se dépêcher », Philippe et Retailleau réticents |
+| 27/10 | Présidentielle 2027 : pour Édouard Philippe, « l’échec de l’intégration » est « incontestable depuis plusieurs décennies » |
+| 21/10 | Talence. « C’est l’homme qu’il nous faut aujourd’hui » : Philippe de la Bigne lance le comité local de soutien à Édouard Philippe |
+| 21/10 | Enquête sur Édouard Philippe : « J’ai perdu ma maison, j’ai perdu ma santé », la lanceuse d’alerte Cornelia Findeisen, à l’origine des révélations, sort du silence |
+| 18/10 | Présidentielle : Philippe-Attal, le retour du fatal Chirac-Giscard ? |
+| 16/10 | Sondage présidentielle 2027 : Marine Le Pen toujours loin devant, percée de Raphaël Glucksmann sur les talons de Jean-Luc Mélenchon, Édouard Philippe en baisse |
+| 11/10 | Présidentielle 2027 : Gabriel Attal et Édouard Philippe appellent au rassemblement, mais chacun dans son couloir |
+| 08/10 | Présidentielle 2027 : « Cesser cet état d’indécision », Édouard Philippe présentera une vingtaine d’ordonnances dès juillet s’il est élu |
+| 04/10 | Présidentielle 2027 : Édouard Philippe, l’homme qui ne voulait pas « faire rêver » |
+| 01/10 | Dette publique : Édouard Philippe craint « l’étranglement » de l’économie ou un « choc extérieur » |
+| 30/09 | Présidentielle 2027 : Édouard Philippe devance Jean-Luc Mélenchon au premier tour, selon un sondage |
+| 29/09 | Présidentielle 2027 et réforme des retraites : 65 ans comme âge de départ, 45 ans de cotisation, Édouard Philippe dévoile son plan pour la réforme |
+| 28/09 | Présidentielle 2027 : Marine Le Pen creuse l’écart au second tour face à Édouard Philippe et Jean-Luc Mélenchon |
+| 24/09 | Présidentielle 2027 : Édouard Philippe et Jean-Luc Mélenchon au coude-à-coude, Marine Le Pen largement en tête |
+| 22/09 | Présidentielle 2027 : la crise des carburants bouscule les campagnes d’Édouard Philippe et Gabriel Attal |
+| 16/09 | Carburants : « Faire le plein est devenu un sacrifice », Édouard Philippe demande un doublement des aides ciblées |
+| 12/09 | Présidentielle 2027 : en campagne en Moselle, Édouard Philippe défend le « rassemblement » et fustige « l’excitation » |
+| 09/09 | Présidentielle 2027 : Gabriel Attal écarte la proposition de rassemblement d’Édouard Philippe et veut « une vraie campagne » |
+| 09/09 | Présidentielle 2027 : Bruno Retailleau refuse l’invitation d’Édouard Philippe à la réunion des candidats du centre et de la droite |
+| 09/09 | Présidentielle 2027 : Édouard Philippe veut réunir tous les partis du centre et de la droite à la Toussaint |
+| 09/09 | Présidentielle 2027 : référendum, État de droit… Édouard Philippe marque sa différence avec Bruno Retailleau |
+| 09/09 | Présidentielle 2027 : Édouard Philippe prône un « état d’urgence narcotrafic » |
+| 09/09 | Présidentielle 2027 : Maud Bregeon appelle Gabriel Attal et Bruno Retailleau à soutenir Édouard Philippe |
+| 05/09 | Présidentielle 2027 : Marine Le Pen largement en tête, Édouard Philippe toujours préféré à Gabriel Attal, d’après un sondage |
+| 04/09 | Présidentielle 2027 : “servir la Russie”, “bilan piteux”, passe d’armes entre Marine Le Pen et Édouard Philippe sur l’aide à l’Ukraine |
+| 02/09 | Présidentielle 2027 : la réforme des retraites, « l’éléphant dans la pièce » de la campagne d’Édouard Philippe |
+| 01/09 | Présidentielle 2027 : « droit de savoir », « attestation d’honorabilité »… Édouard Philippe veut créer une « inspection nationale de l’enfance » |
+| 30/08 | Édouard Philippe veut créer un « nouveau parti » ou une « confédération de partis » avec des « candidats uniques » pour les législatives |
+| 30/08 | Élection présidentielle 2027 : Gabriel Attal assume ses différences avec Édouard Philippe et ses « idées d’il y a 20 ans » |
+| 30/08 | Élection présidentielle 2027 : Villepin accuse Philippe de « faire le jeu de Le Pen » sur l’immigration |
+| 30/08 | Présidentielle 2027 : que vient faire Édouard Philippe à Tourcoing, pour la traditionnelle rentrée de Darmanin ? |
+| 27/08 | DIRECT VIDEO. Présidentielle 2027 : Attal, Le Pen, Mélenchon, Philippe… suivez le débat entre sept candidats dès 16h45 |
+| 27/08 | Présidentielle 2027 : Le Pen, Mélenchon, Glucksmann, Attal, Philippe, Retailleau et Tondelier invités du grand débat du Medef, à suivre ce jeudi à 16h45 |
+| 27/08 | Présidentielle 2027 : indemnisation chômage rabotée, fin de « l’open bar » des arrêts de travail… Le message d’Édouard Philippe aux entrepreneurs |
+| 26/08 | Présidentielle 2027 : le ministre Benjamin Haddad annonce son soutien à Edouard Philippe |
+| 25/08 | Éducation : Gabriel Attal propose le retour du certificat d’études et Édouard Philippe veut augmenter de 20 % le salaire des enseignants |
+| 24/08 | Présidentielle 2027 : Édouard Philippe « en train de perdre son pari » de s’imposer, selon l’entourage de Gabriel Attal |
+| 22/08 | Présidentielle 2027. « Après l’heure, ce n’est plus l’heure » : Édouard Philippe envisage un rassemblement de la droite et du centre entre « novembre et février » |
+| 22/08 | Présidentielle 2027 : critiqué par Jean-Luc Mélenchon, Edouard Philippe l’invite à « venir à Mayotte » |
+| 21/08 | Présidentielle 2027 : Édouard Philippe veut mettre fin à l'« appel d’air » migratoire à Mayotte |
+| 21/08 | Présidentielle 2027 : Mélenchon et Glucksmann au coude-à-coude, derrière le RN et Édouard Philippe, selon un sondage Opinionway |
+| 20/08 | Édouard Philippe veut totalement « fermer les vannes de l’immigration » à Mayotte |
+| 18/08 | Ingérence russe : le parquet de Paris enquête sur les attaques visant Édouard Philippe et Gabriel Attal |
+| 17/08 | Présidentielle 2027. « Il a des qualités d’homme d’État » : Gérald Darmanin apporte son soutien à Édouard Philippe |
+| 10/08 | « Verrou Schengen » et droit d’asile : après la crise de Ceuta, Édouard Philippe veut un tour de vis sur l’immigration |
+| 24/07 | Présidentielle 2027 : une opération de désinformation russe vise Édouard Philippe, la première pour un candidat à l’élection en France |
+| 18/07 | Enquête du PNF sur Edouard Philippe : un tribunal maintient le statut de la lanceuse d’alerte |
+| 07/07 | Présidentielle 2027 : Bruno Retailleau critique l’absence de propositions d’Édouard Philippe |
+| 05/07 | Présidentielle 2027 : « Nous allons prendre le pouvoir ! », Édouard Philippe lance sa campagne et hausse le ton |
+| 02/07 | Présidentielle 2027 : le quasi-ralliement de Laurent Wauquiez à Édouard Philippe suscite la controverse à droite |
+| 01/07 | Présidentielle 2027 : Laurent Wauquiez porte un coup à la candidature de Bruno Retailleau en tendant la main à Édouard Philippe |
+| 01/07 | Présidentielle 2027 : Édouard Philippe juge « dangereux » que Gabriel Attal présente une candidature concurrente |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=%C3%89douard+Philippe, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

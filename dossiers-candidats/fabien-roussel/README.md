@@ -189,6 +189,20 @@ Total : 3 articles.
 | 16/09 | Une proposition pour la France : Fabien Roussel veut une hausse massive de la production d’électricité nucléaire |
 | 12/09 | Fête de l'huma: Fabien Roussel vs Jean-Luc Mélenchon, c'est reparti pour un tour |
 
+## Sud Ouest (sudouest.fr)
+
+Source : https://www.sudouest.fr/politique/fabien-roussel/archives/ (page d'archives du candidat ; la liste ne donne pas de lien, la date est celle affichée sur la carte, « Il y a N heures » valant le 3 novembre 2026). Un article est compté si « Roussel » figure dans son titre ; le chapô n'est pas relevé. Les homonymes sont exclus.
+
+Total : 5 articles.
+
+| Date (2026) | Titre |
+|---|---|
+| 19/09 | Prix des carburants : sur un péage d’autoroute, le patron des communistes Fabien Roussel appelle à la mobilisation |
+| 12/09 | Prix des carburants : le candidat communiste Fabien Roussel appelle les Français à se mobiliser sur les ronds-points |
+| 09/09 | Présidentielle 2027 : Fabien Roussel, secrétaire national du Parti communiste, officialise sa candidature |
+| 22/08 | Présidentielle 2027 : Fabien Roussel veut « se débarrasser » de la politique d’Emmanuel Macron et appelle « à une véritable révolution sociale et écologique » |
+| 05/07 | Fabien Roussel a été réélu ce dimanche à la tête du Parti communiste français, et bientôt candidat à l’élection présidentielle de 2027 ? |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Fabien+Roussel, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

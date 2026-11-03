@@ -780,6 +780,62 @@ Total : 28 articles.
 | 13/07 | "Je ne comprends pas pourquoi 100 % des Français ne votent pas Mélenchon ou Le Pen." |
 | 02/07 | Montebourg s'attaque à Mélenchon: "Ce sont les sociaux-traîtres qui en parlent le mieux!" |
 
+## Sud Ouest (sudouest.fr)
+
+Source : https://www.sudouest.fr/politique/jean-luc-melenchon/archives/ (page d'archives du candidat ; la liste ne donne pas de lien, la date est celle affichée sur la carte, « Il y a N heures » valant le 3 novembre 2026). Un article est compté si « Mélenchon » figure dans son titre ; le chapô n'est pas relevé. Les homonymes sont exclus.
+
+Total : 47 articles.
+
+| Date (2026) | Titre |
+|---|---|
+| 26/10 | Tuerie dans les Yvelines : Jean-Luc Mélenchon appelle « à ne pas pardonner ou regarder ailleurs » |
+| 23/10 | SONDAGE. Présidentielle 2027 : Marine Le Pen toujours loin devant, Jean-Luc Mélenchon qualifié mais largement battu au second tour |
+| 21/10 | Mobilisation sociale et violences : « on va y aller, on va te pourrir la réunion » des partis politiques à Matignon, annonce Mélenchon à Lecornu |
+| 20/10 | Présidentielle 2027 : Jean-Luc Mélenchon qualifié pour le second tour dans presque tous les scénarios d’un sondage |
+| 16/10 | Présidentielle 2027 : Mélenchon trop haut, trop tôt ? Quelle stratégie joue LFI pour maintenir sa dynamique et élargir sa base |
+| 16/10 | Sondage présidentielle 2027 : Marine Le Pen toujours loin devant, percée de Raphaël Glucksmann sur les talons de Jean-Luc Mélenchon, Édouard Philippe en baisse |
+| 15/10 | Présidentielle 2027 : en cas de victoire de Jean-Luc Mélenchon, le président des Entrepreneurs assure qu’il restera en France |
+| 14/10 | Présidentielle 2027 : un sondage annonce un duel entre Marine Le Pen et Jean-Luc Mélenchon au second tour |
+| 14/10 | Présidentielle 2027. Un contre-budget de rupture économique dans une continuité républicaine présenté par Mélenchon et LFI |
+| 12/10 | Présidentielle 2027 : vers un duel Le Pen-Mélenchon, pas d’effet Bardella, pas encore de sursaut Glucksmann |
+| 12/10 | Présidentielle 2027 : Glucksmann veut « mettre fin à l’hégémonie des brutaux sur la gauche » et demande à Mélenchon de « désavouer » la violence de ses partisans |
+| 11/10 | « Ignominie » Parcoursup, soutien du mouvement lycéen, droit de vote à 16 ans… À Clermont-Ferrand, Jean-Luc Mélenchon se tourne vers la jeunesse |
+| 11/10 | Présidentielle 2027 : Jean-Luc Mélenchon en meeting ce dimanche à Clermont-Ferrand pour cibler la jeunesse et répliquer à Gabriel Attal |
+| 10/10 | Présidentielle 2027 : Jean-Luc Mélenchon, Gabriel Attal… Quand les candidats tentent de profiter (ou de résister) à la colère des lycéens |
+| 07/10 | VIDEO. « Je ne me laisserai pas intimider » : le gouverneur de la Banque de France répond à Jean-Luc Mélenchon |
+| 06/10 | Présidentielle 2027 : Jean-Luc Mélenchon veut que le gouverneur de la Banque de France soit poursuivi pour « trahison » |
+| 03/10 | VIDEO. Présidentielle 2027 : « On leur pisse dessus », « la danse du ventre à Macron », des propos privés de Raphaël Glucksmann font bondir Jean-Luc Mélenchon et Ségolène Royal |
+| 03/10 | Blocage des lycées : Jean-Luc Mélenchon voit dans la mobilisation un « point de départ » et appelle à accompagner « cette période de mobilisation » |
+| 01/10 | Blocus des lycées : LFI accusée par le gouvernement et la droite d’attiser les tensions, Mélenchon appelle à la « non-violence » |
+| 30/09 | Présidentielle 2027 : Édouard Philippe devance Jean-Luc Mélenchon au premier tour, selon un sondage |
+| 30/09 | Blocus des lycées : face aux attaques du gouvernement, Jean-Luc Mélenchon appelle à « la non-violence des méthodes de lutte » |
+| 28/09 | Présidentielle 2027 : Marine Le Pen creuse l’écart au second tour face à Édouard Philippe et Jean-Luc Mélenchon |
+| 26/09 | Présidentielle 2027 : Nathalie Arthaud lance sa campagne pour Lutte Ouvrière et cible Jean-Luc Mélenchon |
+| 24/09 | Présidentielle 2027 : Édouard Philippe et Jean-Luc Mélenchon au coude-à-coude, Marine Le Pen largement en tête |
+| 22/09 | Présidentielle 2027 : Jean-Luc Mélenchon adopte une stratégie de campagne discrète mais efficace |
+| 11/09 | Présidentielle 2027 : Marine Le Pen et Jean-Luc Mélenchon imposent leur rythme de campagne |
+| 09/09 | Présidentielle 2027 : Manuel Bompard estime que les électeurs communistes voteront pour Jean-Luc Mélenchon |
+| 06/09 | Présidentielle 2027 : devant des milliers de personnes à la braderie de Lille, Mélenchon se pose en défenseur du pouvoir d’achat |
+| 02/09 | Voile islamique : Jean-Luc Mélenchon reconnaît avoir « changé d’avis » au fil des années |
+| 02/09 | Présidentielle 2027 : Jean-Luc Mélenchon n’a recueilli que 200 promesses de parrainages, encore loin des 500 nécessaires pour être candidat |
+| 31/08 | Présidentielle 2027 : quels candidats ? Qui la refuse ? Face à la poussée de Jean-Luc Mélenchon, des appels pressants à une primaire de la droite et du centre |
+| 29/08 | Présidentielle 2027 : « Ah oui ça m’inquiète pour l’économie française », le PDG de TotalEnergies estime que Marine Le Pen et Jean-Luc Mélenchon feraient « courir un risque à la France » |
+| 27/08 | DIRECT VIDEO. Présidentielle 2027 : Attal, Le Pen, Mélenchon, Philippe… suivez le débat entre sept candidats dès 16h45 |
+| 27/08 | Présidentielle 2027 : Le Pen, Mélenchon, Glucksmann, Attal, Philippe, Retailleau et Tondelier invités du grand débat du Medef, à suivre ce jeudi à 16h45 |
+| 24/08 | Présidentielle 2027 : La France insoumise en ordre de bataille derrière Jean-Luc Mélenchon |
+| 24/08 | « Nous ne sommes pas vos copains » : passe d’armes entre Jean-Luc Mélenchon et Laurent Nuñez sur l’impartialité des préfets |
+| 24/08 | Présidentielle : Jean-Luc Mélenchon bondit dans un sondage qui le hisse au second tour, Marine Le Pen élue quel que soit le duel |
+| 23/08 | Présidentielle 2027 : Jean-Luc Mélenchon met l’environnement au cœur de sa stratégie et propose une « conscription écologique » |
+| 23/08 | Présidentielle : « La France insoumise est prête à gouverner dès 2027 », Jean-Luc Mélenchon promet de censurer le budget du gouvernement Lecornu |
+| 22/08 | Présidentielle 2027 : critiqué par Jean-Luc Mélenchon, Edouard Philippe l’invite à « venir à Mayotte » |
+| 21/08 | Présidentielle 2027 : Mélenchon et Glucksmann au coude-à-coude, derrière le RN et Édouard Philippe, selon un sondage Opinionway |
+| 21/08 | Présidentielle 2027 : « nous les plierons à nouveau », Raphaël Glucksmann confiant face à Jean-Luc Mélenchon |
+| 29/07 | Concert de Barbara Butch interrompu : l’ancien maire écologiste de Grenoble Éric Piolle appelle Jean-Luc Mélenchon à « reconnaître une erreur » |
+| 25/07 | Présidentielle 2027 : des habits de Belzébuth à une posture plus consensuelle, la méthodique campagne de Jean-Luc Mélenchon |
+| 11/07 | Présidentielle 2027 : Marine Le Pen largement en tête, Mélenchon se rapproche du second tour, selon un sondage |
+| 05/07 | Présidentielle 2027 : Jean-Luc Mélenchon se dit capable « d’éliminer » le candidat du RN, « peut-être » même dès le premier tour |
+| 03/07 | Dématérialisation des jeux sur PlayStation : Jean-Luc Mélenchon dénonce un « triomphe de la marchandisation totale » |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Jean-Luc+M%C3%A9lenchon, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

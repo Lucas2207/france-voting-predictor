@@ -226,13 +226,31 @@ Relevé le 1er novembre 2026. Période visée : du 1er juillet 2026 à aujourd'h
 
 **Contrôles :** le nombre de lignes de chaque section RMC est comparé au total annoncé dans le dossier.
 
-## 12. Ce qui n'est pas fait
+## 12. Sud Ouest (sudouest.fr)
+
+**Source :** la page d'archives de chaque candidat, `https://www.sudouest.fr/politique/<nom>/archives/`. Dix candidats ont une page. Nicolas Dupont-Aignan, Éric Zemmour et les autres ont la leur ; David Lisnard, François Ruffin et Natacha Polony n'en ont pas (erreur 404), et leur dossier porte une note « recherche impossible ». Le bandeau de cookies a été accepté pour accéder au site.
+
+**Pourquoi la page par candidat :** le moteur de recherche du site ne filtre pas par nom (la même liste de 11 articles s'affiche pour un mot inventé et pour un nom), et les pages de rubrique affichent le même contenu à chaque numéro de page. La page d'archives du candidat est la seule liste par nom disponible.
+
+**Relevé :**
+- chaque page compte 176 cartes au maximum, sans pagination réelle. Pour Marine Le Pen, la liste s'arrête au 8 juillet 2026 : les articles du 1er au 7 juillet ne figurent pas dans la page. Pour Raphaël Glucksmann, la liste commence au 21 août 2026 ;
+- la liste ne donne pas de lien vers les articles. La date est lue sur chaque carte ; « Il y a N heures » est compté comme le 3 novembre 2026 ;
+- sont retenus les articles datés du 1er juillet au 1er novembre 2026 dont le nom figure dans le titre : nom complet, ou nom de famille seul (« Philippe » pour Édouard Philippe). Le chapô n'est pas relevé. Les doublons (même titre et même date) sont comptés une fois ;
+- les pages ne sont pas strictement triées par date : quelques articles sont décalés. Le relevé lit donc la page entière.
+
+**Limites :**
+- la page d'archives ne donne pas accès aux articles de juillet pour Marine Le Pen, ni aux articles antérieurs au 21 août pour Raphaël Glucksmann ;
+- les articles de la page sont ceux que le site rattache au candidat : un article qui ne cite le candidat que dans son chapô n'est pas compté.
+
+**Contrôles :** le nombre de lignes de chaque section Sud Ouest est comparé au total annoncé dans le dossier.
+
+## 13. Ce qui n'est pas fait
 
 - pas d'ouverture des articles un par un : le classement se base sur le titre et le chapô ou l'adresse ;
 - pas de couverture de BFMTV pour juillet à septembre 2026 ;
 - les dossiers Radio France ne sont pas tous à jour pour les personnalités sans page propre (Zemmour, Lisnard, Roussel) : ils sont couverts par les pages des autres personnalités citées dans les chapôs.
 
-## 13. Fichiers
+## 14. Fichiers
 
 - Dossiers par candidat : `dossiers-candidats/<nom>/README.md`
 - Tableaux Radio France : section « Radio France » de chaque dossier (les anciens fichiers `radio-france-<nom>-emissions.md` à la racine ont été supprimés une fois repris dans les dossiers)

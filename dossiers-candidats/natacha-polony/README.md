@@ -169,6 +169,10 @@ Total : 8 articles.
 | 14/10 | Natacha Polony candidate à la présidentielle: " Tout le monde se dit qu'on peut être candidat parce que les autres sont prets à trébucher" |
 | 14/10 | "J'ai fait plus de choses dans ma vie que Natacha Polony." : Un auditeur déclare sa candidature à l'élection présidentielle en direct dans les GG. |
 
+## Sud Ouest (sudouest.fr)
+
+**Recherche impossible.** Sud Ouest n'a pas de page d'archives pour ce candidat (`/politique/natacha-polony/archives/` renvoie une erreur 404), et son moteur de recherche ne filtre pas par nom. Aucun article n'est donc compté pour ce dossier (voir la section 12 de la méthodologie).
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Natacha+Polony, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

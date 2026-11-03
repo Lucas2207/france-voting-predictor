@@ -190,6 +190,10 @@ Total : 4 articles.
 | 25/08 | Damecour 2027 - Pour une campagne plus proche des gens, François Ruffin fait du stop au péage de Saint-Arnoult |
 | 07/07 | François Ruffin face aux GG |
 
+## Sud Ouest (sudouest.fr)
+
+**Recherche impossible.** Sud Ouest n'a pas de page d'archives pour ce candidat (`/politique/francois-ruffin/archives/` renvoie une erreur 404), et son moteur de recherche ne filtre pas par nom. Aucun article n'est donc compté pour ce dossier (voir la section 12 de la méthodologie).
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Fran%C3%A7ois+Ruffin, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

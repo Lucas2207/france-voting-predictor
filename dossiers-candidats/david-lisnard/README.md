@@ -288,6 +288,10 @@ Total : 12 articles.
 | 22/07 | Les invités d'Apolline Matin : Jean-Michel Verne et David Lisnard |
 | 01/07 | Canicule : "Lisnard, un expert des vieux qui ont chaud" |
 
+## Sud Ouest (sudouest.fr)
+
+**Recherche impossible.** Sud Ouest n'a pas de page d'archives pour ce candidat (`/politique/david-lisnard/archives/` renvoie une erreur 404), et son moteur de recherche ne filtre pas par nom. Aucun article n'est donc compté pour ce dossier (voir la section 12 de la méthodologie).
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=David+Lisnard, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

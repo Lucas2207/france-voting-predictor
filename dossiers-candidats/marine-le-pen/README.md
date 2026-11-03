@@ -1270,6 +1270,83 @@ Total : 48 articles.
 | 04/07 | Marine Le Pen et Jordan Bardella s'affichent ensemble à 3 jours de la décision de la cour d'appel |
 | 02/07 | Marine Le Pen bientôt fixée sur son jugement en appel |
 
+## Sud Ouest (sudouest.fr)
+
+Source : https://www.sudouest.fr/politique/marine-le-pen/archives/ (page d'archives du candidat ; la liste ne donne pas de lien, la date est celle affichée sur la carte, « Il y a N heures » valant le 3 novembre 2026). La page d'archives s'arrête au 8 juillet 2026 (elle compte 176 articles au maximum) : les articles du 1er au 7 juillet ne figurent pas dans la liste. Un article est compté si « Le Pen » figure dans son titre ; le chapô n'est pas relevé. Les homonymes sont exclus.
+
+Total : 68 articles.
+
+| Date (2026) | Titre |
+|---|---|
+| 28/10 | Inéligibilité de Marine Le Pen : la candidate d’extrême droite saisit le Conseil supérieur de la magistrature après les propos d’une juge |
+| 26/10 | Présidentielles 2027 : opposants, militants et service d’ordre… Des incidents perturbent le congrès du RN et le début de campagne de Marine Le Pen |
+| 26/10 | Présidentielle 2027 : Marine Le Pen souhaite abolir la loi Hulot sur la fin de l’exploitation des hydrocarbures en France |
+| 26/10 | Congrès du RN à Orléans : pour son premier meeting sous tension, Marine Le Pen promet une « renaissance » sans « rupture brutale » |
+| 25/10 | Présidentielle : Marine Le Pen lance sa campagne à Orléans et souhaite l’axer sur la « renaissance » avec l’ambition « d’insuffler un peu d’optimisme » |
+| 23/10 | Mobilisation et violences : à Orléans, Marine Le Pen dans un bunker |
+| 23/10 | SONDAGE. Présidentielle 2027 : Marine Le Pen toujours loin devant, Jean-Luc Mélenchon qualifié mais largement battu au second tour |
+| 21/10 | Présidentielle 2027 : Ciotti appelle Retailleau et Lisnard à cesser « leurs candidatures de témoignages » et s’allier à Marine Le Pen |
+| 21/10 | Violences et présidentielle : pour Donald Trump, Marine Le Pen représente la « voix conservatrice » en France |
+| 16/10 | Procès du RN : les questions prioritaires de constitutionnalité de Marine Le Pen seront examinées le 16 décembre |
+| 16/10 | Sondage présidentielle 2027 : Marine Le Pen toujours loin devant, percée de Raphaël Glucksmann sur les talons de Jean-Luc Mélenchon, Édouard Philippe en baisse |
+| 14/10 | Référendum : Marine Le Pen demande la démission de Richard Ferrand de la présidence du Conseil constitutionnel |
+| 14/10 | Présidentielle 2027 : un sondage annonce un duel entre Marine Le Pen et Jean-Luc Mélenchon au second tour |
+| 13/10 | « On lui a fait entendre notre voix et la porte est ouverte à tous les autres candidats » : Marine Le Pen a fait une visite à Agen en toute discrétion à l’association La Mouette |
+| 12/10 | Présidentielle 2027 : vers un duel Le Pen-Mélenchon, pas d’effet Bardella, pas encore de sursaut Glucksmann |
+| 08/10 | Présidentielle 2027 : « Enfumage », « amateurisme »… Maud Bregeon et Bruno Retailleau raillent le budget présenté par Marine Le Pen |
+| 08/10 | Présidentielle 2027 : le gouvernement fustige le budget présenté par Marine Le Pen, un programme « en carton-pâte » qui « raserait gratis », le RN revendique une « renaissance » |
+| 07/10 | Accusations d’antisémitisme : Marine Le Pen « maintient à 1 000 % sa confiance en Jordan Bardella » |
+| 06/10 | Présidentielle 2027 : « 140 milliards d’économie » d’ici 2032, « pilier de capitalisation » pour les retraites… Marine Le Pen a dévoilé son programme économique |
+| 03/10 | Présidentielle 2027 : Marine Le Pen maintient « totalement » sa « confiance » en Jordan Bardella, accusé d’écrits antisémites |
+| 30/09 | Présidentielle 2027. « Je remercie Marine et Jordan pour leur confiance qui m’oblige » : la députée Rassemblement national Hélène Laporte intègre l’équipe de campagne de Marine Le Pen |
+| 30/09 | Numéro de téléphone de Marine Le Pen, adresse de Kylian Mbappé, mail d’Emmanuel Macron… Des données confidentielles de millions de Français disponibles en quelques clics sur internet |
+| 30/09 | Edwige Diaz, présidente du groupe RN au Sénat, nommée responsable des parrainages de la campagne présidentielle de Marine Le Pen |
+| 28/09 | Présidentielle 2027 : Marine Le Pen creuse l’écart au second tour face à Édouard Philippe et Jean-Luc Mélenchon |
+| 24/09 | Présidentielle 2027 : Édouard Philippe et Jean-Luc Mélenchon au coude-à-coude, Marine Le Pen largement en tête |
+| 19/09 | Guerre hybride : la Russie ne peut « dicter » la politique de la France par « la menace » ou « la déstabilisation », selon Le Pen et Bardella |
+| 18/09 | Incendies en Gironde : en visite au Porge, Marine Le Pen voulait « toucher le chagrin du doigt » |
+| 14/09 | Marine Le Pen attendue en Gironde jeudi 17 septembre |
+| 14/09 | Réserver les HLM aux Français : ce que propose Marine Le Pen est une « lubie xénophobe », selon la présidente de l’Union sociale pour l’habitat |
+| 13/09 | Présidentielle 2027 : « Un droit naturel et juste », Marine Le Pen met le logement, avec préférence nationale, au centre de son projet |
+| 13/09 | Présidentielle 2027 : Marine Le Pen fait sa rentrée politique à Hénin-Beaumont pour relancer sa campagne |
+| 11/09 | Présidentielle 2027 : Marine Le Pen et Jean-Luc Mélenchon imposent leur rythme de campagne |
+| 09/09 | Présidentielle 2027 : Marion Maréchal confirme son soutien à la campagne de Marine Le Pen |
+| 09/09 | Présidentielle 2027 : Marine Le Pen défend le gel des taxes sur le tabac auprès des buralistes |
+| 05/09 | Présidentielle 2027 : Marine Le Pen largement en tête, Édouard Philippe toujours préféré à Gabriel Attal, d’après un sondage |
+| 05/09 | Présidentielle 2027 : « grand big bang territorial », retraites, fiscalité, droit du sol… Éric Ciotti propose à Marine Le Pen « un pacte d’alliance », de quoi s’agit-il ? |
+| 04/09 | Présidentielle 2027 : Le Pen et Bardella, une rentrée toujours pas raccord |
+| 04/09 | Présidentielle 2027 : “servir la Russie”, “bilan piteux”, passe d’armes entre Marine Le Pen et Édouard Philippe sur l’aide à l’Ukraine |
+| 29/08 | Présidentielle 2027 : Jordan Bardella réfute toute « déloyauté » envers Marine Le Pen, mais assume sa propre « sensibilité » |
+| 29/08 | Présidentielle 2027 : « Ah oui ça m’inquiète pour l’économie française », le PDG de TotalEnergies estime que Marine Le Pen et Jean-Luc Mélenchon feraient « courir un risque à la France » |
+| 28/08 | Présidentielle 2027 : Marine Le Pen se lance dans la délicate opération séduction du monde économique |
+| 27/08 | Marine Le Pen présentera un plan d’économies de 125 milliards d’euros avant le débat budgétaire |
+| 27/08 | DIRECT VIDEO. Présidentielle 2027 : Attal, Le Pen, Mélenchon, Philippe… suivez le débat entre sept candidats dès 16h45 |
+| 27/08 | Présidentielle 2027 : Le Pen, Mélenchon, Glucksmann, Attal, Philippe, Retailleau et Tondelier invités du grand débat du Medef, à suivre ce jeudi à 16h45 |
+| 24/08 | Présidentielle : Jean-Luc Mélenchon bondit dans un sondage qui le hisse au second tour, Marine Le Pen élue quel que soit le duel |
+| 21/08 | SONDAGES. Présidentielle 2027 : après l’annonce de sa candidature, Marine Le Pen arrive largement en tête des intentions de vote |
+| 19/08 | Finances publiques : Marine Le Pen déplore les « taux records » de la dette française et promet de « nettoyer les écuries d’Augias » si elle est élue |
+| 11/08 | Présidentielle 2027 : Comment Marine Le Pen et sa famille dirigent d’une main de fer le Rassemblement national |
+| 30/07 | Présidentielle 2027 : la justice déboute Gabriel Attal sur l’utilisation du mot renaissance par Marine Le Pen pour sa campagne |
+| 29/07 | Présidentielle 2027 : pourquoi le gouvernement veut que les banques françaises financent la campagne de Marine Le Pen ? |
+| 21/07 | Procès des assistants parlementaires du Front national : Marine Le Pen et tous les autres condamnés se pourvoient en cassation |
+| 21/07 | Le Rassemblement national victime d’une cyberattaque, le compte X de Marine Le Pen également piraté |
+| 17/07 | Présidentielle 2027. « Faites confiance au peuple français » : Emmanuel Macron appelle à se « méfier » des sondages prédisant la victoire de Marine Le Pen |
+| 16/07 | Présidentielle 2027 : le RN « n’est pas lié » par le soutien de Musk à Le Pen, selon Chenu |
+| 15/07 | Présidentielle 2027 : Elon Musk apporte son soutien à Marine Le Pen, estimant qu’elle « est le dernier espoir de la France » |
+| 15/07 | Présidentielle 2027 : Marine Le Pen utilise le mot « Renaissance » sur son affiche électorale, Gabriel Attal l’assigne pour « contrefaçon » |
+| 12/07 | Présidentielle 2027. « Je suis éligible, je suis candidate » : Marine Le Pen juge « irréaliste » de penser sa candidature encore menacée par la justice |
+| 11/07 | Présidentielle 2027 : Marine Le Pen largement en tête, Mélenchon se rapproche du second tour, selon un sondage |
+| 09/07 | Présidentielle 2027 : Marine Le Pen et le RN cherchent à tourner la page judiciaire |
+| 09/07 | Condamnation de Marine Le Pen : bracelet électronique, inéligibilité… la Cour de cassation fera « tout » pour rendre une décision avant la présidentielle |
+| 09/07 | Le dessin du jeudi 9 juillet : chez Bardella, après l’officialisation de la candidature de Marine Le Pen |
+| 08/07 | Condamnation de Marine Le Pen : un retour sur le terrain et des questions |
+| 08/07 | Élection présidentielle : les Français partagés sur l’opportunité de la candidature de Marine Le Pen |
+| 08/07 | ANALYSE. Marine Le Pen et le Rassemblement National condamnés : ce que dit l’arrêt rendu par la cour d’appel de Paris |
+| 08/07 | Marine Le Pen candidate à la présidentielle 2027 : quel impact électoral pour sa condamnation judiciaire ? |
+| 08/07 | Marine Le Pen candidate à la présidentielle 2027 : la Cour de cassation « pourrait » se prononcer « au plus tard début avril 2027 »... Revivez le fil des infos ce mercredi |
+| 08/07 | Marine Le Pen candidate à la présidentielle 2027 : pourvoi en cassation, bracelet, calendrier… Les questions qui se posent |
+| 08/07 | Élection présidentielle : Marine Le Pen, candidate quoi qu’il en coûte |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Marine+Le+Pen, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.
