@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-02T13:57+01:00",
+ "fetched": "2026-11-03T12:50+01:00",
  "source": "https://fr.wikipedia.org/wiki/Liste_de_sondages_sur_l'élection_présidentielle_française_de_2027",
  "polls": [
   {
@@ -92,7 +92,8 @@
     "Bruno Retailleau": 7.5,
     "Nicolas Dupont-Aignan": 2.5,
     "Jordan Bardella": 32.0,
-    "Éric Zemmour": 4.0
+    "Éric Zemmour": 4.0,
+    "François Ruffin": 4.5
    },
    "scenarios": 6,
    "scenarios_used": 1
@@ -154,6 +155,7 @@
     "Nicolas Dupont-Aignan": 2.0,
     "Marine Le Pen": 33.0,
     "Éric Zemmour": 4.5,
+    "François Ruffin": 5.25,
     "Laurent Wauquiez": 4.0
    },
    "scenarios": 2,
@@ -545,6 +547,7 @@
     "Dominique de Villepin": 2.62,
     "Marine Le Pen": 32.5,
     "François Hollande": 8.0,
+    "François Ruffin": 3.0,
     "Olivier Faure": 4.0
    },
    "scenarios": 11,
@@ -588,7 +591,8 @@
     "Nicolas Dupont-Aignan": 2.25,
     "Jordan Bardella": 36.0,
     "Éric Zemmour": 4.67,
-    "Marine Le Pen": 32.0
+    "Marine Le Pen": 32.0,
+    "David Lisnard": 2.0
    },
    "scenarios": 8,
    "scenarios_used": 6
@@ -662,21 +666,23 @@
    "sample": 1503,
    "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/juillet/10226-pres-elabe-11-juillet.pdf",
    "scores": {
-    "Nathalie Arthaud": 1.38,
-    "Jean-Luc Mélenchon": 15.0,
-    "Fabien Roussel": 2.62,
+    "Nathalie Arthaud": 1.42,
+    "Jean-Luc Mélenchon": 14.92,
+    "Fabien Roussel": 2.5,
     "Marine Tondelier": 3.75,
     "Raphaël Glucksmann": 10.0,
-    "Édouard Philippe": 16.17,
-    "Bruno Retailleau": 8.88,
+    "Édouard Philippe": 16.88,
+    "Bruno Retailleau": 9.25,
     "Nicolas Dupont-Aignan": 1.5,
-    "Marine Le Pen": 34.62,
-    "Éric Zemmour": 3.12,
-    "Gabriel Attal": 10.5,
-    "François Hollande": 8.0
+    "Marine Le Pen": 34.83,
+    "Éric Zemmour": 3.08,
+    "Dominique de Villepin": 3.0,
+    "Gabriel Attal": 12.17,
+    "François Hollande": 8.33,
+    "François Ruffin": 6.0
    },
    "scenarios": 6,
-   "scenarios_used": 4
+   "scenarios_used": 6
   },
   {
    "pollster": "Verian",
@@ -712,6 +718,7 @@
     "Nicolas Dupont-Aignan": 3.5,
     "Marine Le Pen": 30.0,
     "Éric Zemmour": 4.0,
+    "Dominique de Villepin": 3.5,
     "Gabriel Attal": 14.0
    },
    "scenarios": 2,
@@ -777,8 +784,11 @@
     "Nicolas Dupont-Aignan": 2.5,
     "Marine Le Pen": 34.42,
     "Éric Zemmour": 4.08,
+    "Dominique de Villepin": 2.33,
     "Gabriel Attal": 10.33,
     "François Hollande": 7.75,
+    "David Lisnard": 3.25,
+    "François Ruffin": 6.0,
     "Olivier Faure": 3.5
    },
    "scenarios": 6,
@@ -800,7 +810,10 @@
     "Nicolas Dupont-Aignan": 2.67,
     "Marine Le Pen": 30.17,
     "Éric Zemmour": 3.5,
-    "Gabriel Attal": 13.5
+    "Dominique de Villepin": 3.67,
+    "Gabriel Attal": 13.5,
+    "David Lisnard": 4.0,
+    "François Ruffin": 4.0
    },
    "scenarios": 3,
    "scenarios_used": 3
@@ -927,6 +940,8 @@
     "Nicolas Dupont-Aignan": 2.33,
     "Marine Le Pen": 33.0,
     "Éric Zemmour": 2.0,
+    "Karim Bouamrane": 1.0,
+    "David Lisnard": 2.0,
     "Ségolène Royal": 3.0,
     "Raphaël Glucksmann": 9.0
    },
@@ -993,7 +1008,8 @@
     "Marine Le Pen": 30.67,
     "Éric Zemmour": 3.5,
     "Gabriel Attal": 13.5,
-    "François Hollande": 7.5
+    "François Hollande": 7.5,
+    "David Lisnard": 5.0
    },
    "scenarios": 3,
    "scenarios_used": 3
@@ -1005,22 +1021,24 @@
    "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/septembre/10270-pres-iv-yougov-huffpost-23-septembre.pdf",
    "scores": {
     "Nathalie Arthaud": 1.0,
-    "Jean-Luc Mélenchon": 16.25,
-    "Fabien Roussel": 1.75,
-    "Marine Tondelier": 3.0,
-    "Raphaël Glucksmann": 7.33,
-    "Gabriel Attal": 8.67,
-    "Édouard Philippe": 11.75,
-    "Bruno Retailleau": 7.75,
+    "Jean-Luc Mélenchon": 15.0,
+    "Fabien Roussel": 1.0,
+    "Marine Tondelier": 2.0,
+    "François Hollande": 4.0,
+    "Raphaël Glucksmann": 5.0,
+    "Gabriel Attal": 8.0,
+    "Édouard Philippe": 10.0,
+    "Bruno Retailleau": 7.0,
     "Nicolas Dupont-Aignan": 2.0,
-    "Marine Le Pen": 34.25,
-    "Éric Zemmour": 5.75,
-    "Bruno Le Maire": 3.0,
-    "Olivier Faure": 5.0,
-    "François Hollande": 4.0
+    "Marine Le Pen": 33.0,
+    "Éric Zemmour": 5.0,
+    "Xavier Bertrand": 1.0,
+    "David Lisnard": 2.0,
+    "François Ruffin": 2.0,
+    "Dominique de Villepin": 2.0
    },
    "scenarios": 6,
-   "scenarios_used": 4
+   "scenarios_used": 1
   },
   {
    "pollster": "Harris Interactive",
@@ -1050,25 +1068,23 @@
    "sample": 1527,
    "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/septembre/10284-pres-barometre-election-presidentielle-v6-ifop-le-figaro-30-septembre.pdf",
    "scores": {
-    "Nathalie Arthaud": 0.75,
-    "Jean-Luc Mélenchon": 15.8,
-    "Fabien Roussel": 2.85,
-    "Marine Tondelier": 4.6,
-    "Raphaël Glucksmann": 11.0,
-    "Gabriel Attal": 11.75,
-    "Édouard Philippe": 20.88,
-    "Bruno Retailleau": 8.1,
-    "Nicolas Dupont-Aignan": 1.3,
-    "Marine Le Pen": 34.0,
-    "Éric Zemmour": 3.75,
-    "Olivier Faure": 3.5,
-    "Ségolène Royal": 3.0,
-    "Jérôme Guedj": 3.0,
-    "Emmanuel Maurel": 1.0,
-    "François Hollande": 8.0
+    "Nathalie Arthaud": 0.5,
+    "Jean-Luc Mélenchon": 14.0,
+    "Fabien Roussel": 2.0,
+    "Marine Tondelier": 3.0,
+    "Raphaël Glucksmann": 9.0,
+    "Gabriel Attal": 7.0,
+    "Édouard Philippe": 15.0,
+    "Bruno Retailleau": 5.0,
+    "Nicolas Dupont-Aignan": 1.0,
+    "Marine Le Pen": 31.0,
+    "Éric Zemmour": 4.0,
+    "David Lisnard": 3.5,
+    "François Ruffin": 3.0,
+    "Dominique de Villepin": 2.0
    },
    "scenarios": 10,
-   "scenarios_used": 10
+   "scenarios_used": 1
   },
   {
    "pollster": "Odoxa",
@@ -1143,19 +1159,21 @@
    "scores": {
     "Nathalie Arthaud": 0.0,
     "Jean-Luc Mélenchon": 16.0,
-    "Fabien Roussel": 2.25,
+    "Fabien Roussel": 2.0,
     "Marine Tondelier": 2.0,
-    "Raphaël Glucksmann": 12.75,
-    "Gabriel Attal": 5.5,
-    "Édouard Philippe": 13.5,
+    "Raphaël Glucksmann": 11.5,
+    "Gabriel Attal": 5.0,
+    "Édouard Philippe": 13.0,
     "David Lisnard": 6.0,
-    "Bruno Retailleau": 5.75,
-    "Nicolas Dupont-Aignan": 1.5,
-    "Marine Le Pen": 33.0,
-    "Éric Zemmour": 3.0
+    "Bruno Retailleau": 5.0,
+    "Nicolas Dupont-Aignan": 1.0,
+    "Marine Le Pen": 32.0,
+    "Éric Zemmour": 3.0,
+    "François Ruffin": 2.0,
+    "Dominique de Villepin": 1.5
    },
    "scenarios": 4,
-   "scenarios_used": 2
+   "scenarios_used": 1
   },
   {
    "pollster": "Cluster17",
@@ -1185,20 +1203,22 @@
    "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/octobre/10323-pres-iv-yougov-le-huffpost-18-octobre.pdf",
    "scores": {
     "Nathalie Arthaud": 0.0,
-    "Jean-Luc Mélenchon": 14.0,
-    "Fabien Roussel": 2.5,
-    "Marine Tondelier": 5.5,
+    "Jean-Luc Mélenchon": 13.0,
+    "Fabien Roussel": 2.0,
+    "Marine Tondelier": 5.0,
     "Raphaël Glucksmann": 12.0,
     "Gabriel Attal": 6.0,
-    "Édouard Philippe": 9.0,
-    "Bruno Retailleau": 5.5,
-    "Nicolas Dupont-Aignan": 2.5,
-    "Marine Le Pen": 35.5,
-    "Éric Zemmour": 3.5,
-    "David Lisnard": 4.0
+    "Édouard Philippe": 8.0,
+    "David Lisnard": 4.0,
+    "Bruno Retailleau": 5.0,
+    "Nicolas Dupont-Aignan": 2.0,
+    "Marine Le Pen": 35.0,
+    "Éric Zemmour": 4.0,
+    "François Ruffin": 2.0,
+    "Dominique de Villepin": 1.0
    },
    "scenarios": 5,
-   "scenarios_used": 2
+   "scenarios_used": 1
   },
   {
    "pollster": "Elabe",
@@ -1216,8 +1236,11 @@
     "Nicolas Dupont-Aignan": 2.58,
     "Marine Le Pen": 32.42,
     "Éric Zemmour": 3.33,
+    "Dominique de Villepin": 2.5,
     "Gabriel Attal": 8.17,
-    "David Lisnard": 6.0
+    "David Lisnard": 6.0,
+    "François Ruffin": 3.0,
+    "Natacha Polony": 1.5
    },
    "scenarios": 6,
    "scenarios_used": 6
@@ -1228,21 +1251,24 @@
    "sample": 1928,
    "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/octobre/10327-pres-barometre-election-v7-ifop-20-octobre.pdf",
    "scores": {
-    "Nathalie Arthaud": 0.38,
-    "Jean-Luc Mélenchon": 15.5,
-    "Fabien Roussel": 2.25,
-    "Marine Tondelier": 2.88,
-    "Raphaël Glucksmann": 12.62,
+    "Nathalie Arthaud": 0.25,
+    "Jean-Luc Mélenchon": 15.0,
+    "Fabien Roussel": 2.0,
+    "Marine Tondelier": 2.75,
+    "Raphaël Glucksmann": 12.0,
     "Gabriel Attal": 5.0,
-    "Édouard Philippe": 12.25,
-    "Bruno Retailleau": 5.5,
-    "Nicolas Dupont-Aignan": 1.88,
-    "Marine Le Pen": 35.25,
+    "Édouard Philippe": 12.0,
+    "David Lisnard": 5.5,
+    "Bruno Retailleau": 5.75,
+    "Nicolas Dupont-Aignan": 1.75,
+    "Marine Le Pen": 34.5,
     "Éric Zemmour": 3.25,
-    "David Lisnard": 6.25
+    "François Ruffin": 1.75,
+    "Dominique de Villepin": 1.5,
+    "Natacha Polony": 1.0
    },
    "scenarios": 8,
-   "scenarios_used": 4
+   "scenarios_used": 2
   },
   {
    "pollster": "Harris Interactive",
@@ -1251,20 +1277,21 @@
    "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/octobre/10332-pres-iv-toluna-harris-interactive-23-octobre.pdf",
    "scores": {
     "Nathalie Arthaud": 1.0,
-    "Jean-Luc Mélenchon": 17.4,
-    "Fabien Roussel": 1.8,
+    "Jean-Luc Mélenchon": 17.0,
+    "Fabien Roussel": 1.67,
     "Marine Tondelier": 2.0,
-    "Raphaël Glucksmann": 12.8,
-    "Édouard Philippe": 14.67,
+    "Raphaël Glucksmann": 12.67,
+    "Édouard Philippe": 14.0,
     "David Lisnard": 7.5,
-    "Bruno Retailleau": 6.2,
-    "Nicolas Dupont-Aignan": 1.6,
-    "Marine Le Pen": 34.2,
-    "Éric Zemmour": 5.4,
-    "Gabriel Attal": 8.67
+    "Bruno Retailleau": 5.0,
+    "Nicolas Dupont-Aignan": 1.33,
+    "Marine Le Pen": 33.67,
+    "Éric Zemmour": 5.33,
+    "Dominique de Villepin": 1.5,
+    "Gabriel Attal": 7.5
    },
    "scenarios": 5,
-   "scenarios_used": 5
+   "scenarios_used": 3
   },
   {
    "pollster": "Ipsos",

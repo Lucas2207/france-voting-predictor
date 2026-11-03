@@ -218,8 +218,8 @@ def _parse_table(lines, year):
             span = _span(attrs, "colspan")
             holder = columns[col] if col < len(columns) else None  # None = « Autres »
             for value, named in _parse_values(content):
-                person = named or holder
-                if person and holder is not None:
+                person = named or holder  # un nom écrit dans la cellule prime sur la colonne
+                if person:
                     scores[person] = value
             col += span
         if scores:
