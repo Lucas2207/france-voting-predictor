@@ -158,6 +158,19 @@ Total : 12 articles.
 | 02/09 | Présidentielle 2027 : Sarah Knafo, Éric Zemmour, quel candidat pour Reconquête ? |
 | 28/08 | Débat présidentiel : les absences de David Lisnard et Eric Zemmour étaient «difficilement explicables», selon Jules Torres |
 
+## La Dépêche (ladepeche.fr)
+
+Source : https://www.ladepeche.fr/recherche?q=%C3%89ric%20Zemmour&year=2026 (moteur de recherche du site, 20 résultats par page, filtre année 2026 ; le classement est par date, pages parcourues jusqu'à une page entièrement antérieure au 1er juillet 2026). La recherche sur le nom complet et celle sur le nom de famille seul sont fusionnées, car elles ne renvoient pas exactement les mêmes articles. La date de chaque article est lue dans son adresse (date de publication). Un article est compté si « Zemmour » figure dans son titre ; le chapô n'est pas relevé. Les homonymes (par exemple Michaël Zemmour, Jean-François Roussel, Jean-Christophe Ruffin, Marie-Caroline Le Pen) sont exclus.
+
+Total : 4 articles.
+
+| Date (2026) | Titre |
+|---|---|
+| 12/10 | Présidentielle 2027 : "Jordan Bardella est en voie de marginalisation au RN, il n'entrera pas à Matignon, c'est fini", estime Eric Zemmour |
+| 24/09 | Esteban Lepaul qui trolle Éric Zemmour sur X ? Des internautes ressortent des posts du nouvel attaquant des Bleus, dans lesquels il se moque du dirigeant d'extrême droite |
+| 19/09 | VRAI OU FAUX. Présidentielle 2027 : "Des robots à la place des immigrés", pourquoi la proposition d’Éric Zemmour est loin d’être réalisable |
+| 18/09 | Polémique autour de Mbappé en Espagne : "Une solidarité islamique..." Éric Zemmour accuse lourdement le joueur star au sujet du t-shirt en soutien à Ceuta |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=%C3%89ric+Zemmour, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

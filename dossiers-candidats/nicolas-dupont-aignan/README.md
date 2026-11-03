@@ -136,6 +136,16 @@ Total : 17 articles.
 | 03/07 | Fin de vie : «Comment des parlementaires ont pu voter ça ?», s'interroge Nicolas Dupont-Aignan |
 | 03/07 | Canicule : «Le gouvernement est complètement vérolé par l'idéologie verte», juge Nicolas Dupont-Aignan |
 
+## La Dépêche (ladepeche.fr)
+
+Source : https://www.ladepeche.fr/recherche?q=Nicolas%20Dupont-Aignan&year=2026 (moteur de recherche du site, 20 résultats par page, filtre année 2026 ; le classement est par date, pages parcourues jusqu'à une page entièrement antérieure au 1er juillet 2026). La recherche sur le nom complet et celle sur le nom de famille seul sont fusionnées, car elles ne renvoient pas exactement les mêmes articles. La date de chaque article est lue dans son adresse (date de publication). Un article est compté si « Dupont-Aignan » figure dans son titre ; le chapô n'est pas relevé. Les homonymes (par exemple Michaël Zemmour, Jean-François Roussel, Jean-Christophe Ruffin, Marie-Caroline Le Pen) sont exclus.
+
+Total : 1 article.
+
+| Date (2026) | Titre |
+|---|---|
+| 19/09 | REPLAY. Présidentielle 2027 : Nicolas Dupont-Aignan, président de "Debout la France", officialise sa candidature |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Nicolas+Dupont-Aignan, parcouru jusqu'au 1er juillet 2026.

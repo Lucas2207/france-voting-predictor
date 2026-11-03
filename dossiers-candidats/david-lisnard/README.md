@@ -245,6 +245,28 @@ Total : 42 articles.
 | 22/07 | Burkini : le maire de Cannes, David Lisnard revient sur les tensions autour de son interdiction |
 | 04/07 | Présidentielle 2027 : David Lisnard lance sa campagne à Saint-Raphaël |
 
+## La Dépêche (ladepeche.fr)
+
+Source : https://www.ladepeche.fr/recherche?q=David%20Lisnard&year=2026 (moteur de recherche du site, 20 résultats par page, filtre année 2026 ; le classement est par date, pages parcourues jusqu'à une page entièrement antérieure au 1er juillet 2026). La recherche sur le nom complet et celle sur le nom de famille seul sont fusionnées, car elles ne renvoient pas exactement les mêmes articles. La date de chaque article est lue dans son adresse (date de publication). Un article est compté si « Lisnard » figure dans son titre ; le chapô n'est pas relevé. Les homonymes (par exemple Michaël Zemmour, Jean-François Roussel, Jean-Christophe Ruffin, Marie-Caroline Le Pen) sont exclus.
+
+Total : 13 articles.
+
+| Date (2026) | Titre |
+|---|---|
+| 30/10 | DÉCRYPTAGE. Présidentielle 2027 : pourquoi le gel des pensions de plus de 2 200 euros voulu par David Lisnard ne suffirait pas à financer le passage à la capitalisation |
+| 23/10 | REPLAY. Présidentielle 2027 : à gauche, Olivier Faure exclut une alliance avec LFI, à droite, Bruno Retailleau et David Lisnard ont laissé entendre qu'ils pourraient trouver un accord |
+| 22/10 | Présidentielle 2027 : vers un accord à droite ? Retailleau et Lisnard ont "considéré qu’ils trouveraient une solution pour avoir une candidature unique" |
+| 22/10 | "J'assume de ne pas accepter l'utilisation mémorielle d'un drame" : David Lisnard revient sur la polémique liée à ses propos sur le 17 octobre 1961 |
+| 20/10 | Présidentielle 2027 - sondage : Lisnard talonne Retailleau, Philippe au coude-à-coude... Quels scénarios en cas de candidature unique du centre et de la droite ? |
+| 20/10 | Violence du 17 octobre : qui est Lola-Fleur Whittaker, l’étudiante proche de LFI qui a interpellé David Lisnard sur LCI ? |
+| 20/10 | "Vous vous en foutez, il est peut-être là, le problème" : cette étudiante proche de LFI confronte David Lisnard sur un plateau télé |
+| 17/10 | DÉCRYPTAGE. Présidentielle 2027 : David Lisnard peut-il devenir le champion de la droite, supplanter Bruno Retailleau et gêner Édouard Philippe ? |
+| 15/10 | Présidentielle 2027 - sondage : Édouard Philippe pourrait se qualifier au second tour au détriment de Jean-Luc Mélenchon, Lisnard double Retailleau, selon cette nouvelle enquête |
+| 13/10 | VIDÉO. Présidentielle 2027 : "Vous n'êtes pas du matin ? Ça fait deux fois que vous me faites le coup"… En retard, David Lisnard se fait sermonner par la journaliste Apolline de Malherbe sur BFMTV |
+| 09/10 | Présidentielle 2027 : "Il se passe quelque chose..." David Lisnard est-il en train de remporter le match des réseaux sociaux ? |
+| 01/09 | ENTRETIEN. Facturation électronique : "Les PME aéronautiques n'ont pas envie de voir leurs secrets commerciaux d'Airbus se retrouver dans la nature", met en garde David Lisnard |
+| 05/07 | Candidat à la présidentielle, David Lisnard dézingue le camp macroniste : "Une caste prête à tout" pour se maintenir au pouvoir |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=David+Lisnard, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

@@ -158,6 +158,25 @@ Total : 6 articles.
 | 06/09 | Présidentielle 2027 : le communiste Fabien Roussel officialise sa candidature |
 | 05/07 | Présidentielle 2027 : réélu sans surprise à la tête du PCF, Fabien Roussel est candidat à «85%» |
 
+## La Dépêche (ladepeche.fr)
+
+Source : https://www.ladepeche.fr/recherche?q=Fabien%20Roussel&year=2026 (moteur de recherche du site, 20 résultats par page, filtre année 2026 ; le classement est par date, pages parcourues jusqu'à une page entièrement antérieure au 1er juillet 2026). La recherche sur le nom complet et celle sur le nom de famille seul sont fusionnées, car elles ne renvoient pas exactement les mêmes articles. La date de chaque article est lue dans son adresse (date de publication). Un article est compté si « Roussel » figure dans son titre ; le chapô n'est pas relevé. Les homonymes (par exemple Michaël Zemmour, Jean-François Roussel, Jean-Christophe Ruffin, Marie-Caroline Le Pen) sont exclus.
+
+Total : 10 articles.
+
+| Date (2026) | Titre |
+|---|---|
+| 06/10 | REPLAY. Présidentielle 2027 : Fabien Roussel a présenté son "plan jeunesse" prévoyant 5 milliards d'euros pour les lycées et la fin de Parcoursup |
+| 12/09 | Présidentielle 2027 : duel à distance et bataille d'hégémonie entre Jean-Luc Mélenchon et Fabien Roussel à la Fête de l'Humanité |
+| 12/09 | Présidentielle 2027 : "On ne peut pas attendre", Fabien Roussel promet d'être sur les ronds-points dès la semaine prochaine pour se mobiliser contre la hausse des prix du carburant |
+| 12/09 | REPLAY. Présidentielle 2027 : Roussel, Mélenchon et Tondelier à la Fête de l'Huma, Le Pen au Touquet, Hollande à la Fête de la rose, Retailleau avec les Jeunes LR... suivez cette journée de campagne |
+| 11/09 | REPLAY. Présidentielle 2027 : Fabien Roussel appelle "les Français à occuper les ronds points" face au prix de l'énergie |
+| 07/09 | DÉCRYPTAGE. Présidentielle 2027 : pourquoi Fabien Roussel se présente et ira "jusqu’au bout", au risque de jouer à nouveau les trouble-fête face à Jean-Luc Mélenchon |
+| 06/09 | Présidentielle 2027 : Fabien Roussel, secrétaire national du Parti communiste, officialise sa candidature |
+| 21/08 | "Taxer les plus riches ne suffira pas" : Fabien Roussel défend une candidature communiste autonome à la présentielle lors de sa rentrée politique à Toulouse et propose un plan de relance de 500 milliards d'euros |
+| 07/07 | Le PCF du Gers reconduit Éric Cadoré pour un 4e mandat et rejette Mélenchon : cap sur Roussel et la bataille de l’eau agricole |
+| 05/07 | Fabien Roussel ouvre le congrès du PCF avec la présidentielle en ligne de mire, au grand dam de ses alliés insoumis : la réponse froide de Jean-Luc Mélenchon |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Fabien+Roussel, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

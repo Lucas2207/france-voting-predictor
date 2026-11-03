@@ -165,6 +165,18 @@ Total : 0 articles.
 
 Aucun article de la période ne porte le nom du candidat dans son titre.
 
+## La Dépêche (ladepeche.fr)
+
+Source : https://www.ladepeche.fr/recherche?q=Fran%C3%A7ois%20Ruffin&year=2026 (moteur de recherche du site, 20 résultats par page, filtre année 2026 ; le classement est par date, pages parcourues jusqu'à une page entièrement antérieure au 1er juillet 2026). La recherche sur le nom complet et celle sur le nom de famille seul sont fusionnées, car elles ne renvoient pas exactement les mêmes articles. La date de chaque article est lue dans son adresse (date de publication). Un article est compté si « Ruffin » figure dans son titre ; le chapô n'est pas relevé. Les homonymes (par exemple Michaël Zemmour, Jean-François Roussel, Jean-Christophe Ruffin, Marie-Caroline Le Pen) sont exclus.
+
+Total : 3 articles.
+
+| Date (2026) | Titre |
+|---|---|
+| 30/10 | Emmanuel Macron : 2,3 millions d'euros prévus pour ses futurs bureaux, lorsqu'il quittera l'Élysée... François Ruffin demande "qu'il n'y ait plus un avantage pour les anciens présidents" |
+| 03/09 | Présidentielle 2027 : François Ruffin et Dominique de Villepin affichent plusieurs points communs, mais peut-on vraiment y voir les prémices d'un rapprochement ? |
+| 03/09 | Présidentielle 2027 : "On se renifle..." Vers un prochain rapprochement entre Dominique de Villepin et François Ruffin ? |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Fran%C3%A7ois+Ruffin, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

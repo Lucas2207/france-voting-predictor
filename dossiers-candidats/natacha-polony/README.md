@@ -139,6 +139,19 @@ Total : 7 articles.
 | 15/10 | Présidentielle 2027 : Natacha Polony porte à 34 le nombre de candidats |
 | 14/10 | Présidentielle 2027 : l'essayiste Natacha Polony annonce sa candidature à l'élection présidentielle |
 
+## La Dépêche (ladepeche.fr)
+
+Source : https://www.ladepeche.fr/recherche?q=Natacha%20Polony&year=2026 (moteur de recherche du site, 20 résultats par page, filtre année 2026 ; le classement est par date, pages parcourues jusqu'à une page entièrement antérieure au 1er juillet 2026). La recherche sur le nom complet et celle sur le nom de famille seul sont fusionnées, car elles ne renvoient pas exactement les mêmes articles. La date de chaque article est lue dans son adresse (date de publication). Un article est compté si « Polony » figure dans son titre ; le chapô n'est pas relevé. Les homonymes (par exemple Michaël Zemmour, Jean-François Roussel, Jean-Christophe Ruffin, Marie-Caroline Le Pen) sont exclus.
+
+Total : 4 articles.
+
+| Date (2026) | Titre |
+|---|---|
+| 01/11 | Présidentielle 2027 : "Cela me touche profondément"... Natacha Polony annonce avoir reçu le soutien de Jean-Pierre Chevènement |
+| 15/10 | DÉCRYPTAGE. Présidentielle 2027 : Natacha Polony, Alexandre Jardin... comment des candidats indépendants plongent dans le grand bain de la politique |
+| 01/10 | Présidentielle 2027 : Natacha Polony bientôt candidate ? L'éditorialiste crée son association de financement électoral |
+| 27/08 | ENTRETIEN. "Beaucoup de Français sont orphelins en politique" : souveraineté, école, réindustrialisation, présidentielle... les vérités de Natacha Polony |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Natacha+Polony, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

@@ -1106,6 +1106,113 @@ Total : 221 articles.
 | 03/07 | Présidentielle 2027 : le RN affiche un front uni avant le verdict sur Marine Le Pen |
 | 01/07 | Procès des eurodéputés du RN : à six jours de son jugement, Marine Le Pen affirme qu'elle n'a «pas peur» de la décision |
 
+## La Dépêche (ladepeche.fr)
+
+Source : https://www.ladepeche.fr/recherche?q=Marine%20Le%20Pen&year=2026 (moteur de recherche du site, 20 résultats par page, filtre année 2026 ; le classement est par date, pages parcourues jusqu'à une page entièrement antérieure au 1er juillet 2026). La recherche sur le nom complet et celle sur le nom de famille seul sont fusionnées, car elles ne renvoient pas exactement les mêmes articles. La date de chaque article est lue dans son adresse (date de publication). Un article est compté si « Le Pen » figure dans son titre ; le chapô n'est pas relevé. Les homonymes (par exemple Michaël Zemmour, Jean-François Roussel, Jean-Christophe Ruffin, Marie-Caroline Le Pen) sont exclus.
+
+Total : 98 articles.
+
+| Date (2026) | Titre |
+|---|---|
+| 31/10 | Manifestations du 31 octobre dans le Tarn : déguisés en Trump, Marine Le Pen ou Emmanuel Macron, 1 500 manifestants ont défilé pour l'acte III de la mobilisation contre la vie chère |
+| 28/10 | DÉCRYPTAGE. Présidentielle 2027 : Marine Le Pen finalement "inéligible" au scrutin ? L'analyse d'un ancien haut magistrat sème le trouble dans la campagne de la candidate RN |
+| 27/10 | ÉDITO. Sondage exclusif après les manifs du 17 octobre : Mélenchon et Le Pen, les profiteurs du chaos |
+| 27/10 | DECRYPTAGE. Présidentielle 2027 - Sondage : pourquoi Marine Le Pen et Jean-Luc Mélenchon sortent gagnants des violences du 17 octobre selon le baromètre pour la presse régionale et Public Sénat |
+| 26/10 | Présidentielle 2027 - sondage : Edouard Philippe en chute libre, Jean-Luc Mélenchon en embuscade, Marine Le Pen consolide son avance |
+| 26/10 | Présidentielle 2027. "Si elle est élue, il y aura des affrontements" : au meeting de Marine Le Pen à Orléans, les militants du RN redoutent une France sous tension en 2027 |
+| 26/10 | Présidentielle 2027 : bunkérisée à Orléans, Marine Le Pen promet une "renaissance" de la France sans "rupture brutale" |
+| 25/10 | Présidentielle 2027 : à Orléans, Marine Le Pen promet une "renaissance" sans "rupture brutale" et esquisse les contours de sa présidence |
+| 25/10 | REPLAY. Présidentielle 2027 : "Je ne vous propose pas de refaire la France d'avant", affirme Marine Le Pen au congrès du RN à Orléans, qui veut une "Renaissance pour la France" |
+| 24/10 | Présidentielle 2027 - sondage : Edouard Philippe et Gabriel Attal décrochent, Marine Le Pen toujours devant mais pas d'effet 17 octobre |
+| 23/10 | Présidentielle 2027 - sondage : Marine Le Pen recueillerait 70 % des voix face à Jean-Luc Mélenchon au second tour selon une nouvelle enquête d’intentions de vote |
+| 23/10 | ENTRETIEN. Manifestations du 24 octobre : pour Alain Duhamel, "on a du mal à entendre ceux qui ne sont ni avec Jean-Luc Mélenchon, ni avec Marine Le Pen" |
+| 23/10 | Présidentielle 2027 - Sondage : Le Pen confirme sa très large avance, Mélenchon solide deuxième alors que Glucksmann relègue Philippe au quatrième rang |
+| 22/10 | Présidentielle 2027 - sondage : Le Pen et Mélenchon plébiscités, un seul candidat en embuscade... Pour qui veulent voter les jeunes ? |
+| 20/10 | Présidentielle 2027 - Sondage : Le Pen s'envole après les violences du 17 octobre, Mélenchon loin devant à gauche alors que Philippe s'enlise |
+| 20/10 | REPLAY. Présidentielle 2027 : Marine Le Pen gagnante au second tour dans chacune des configurations selon le dernier sondage |
+| 19/10 | Présidentielle 2027 - sondage : un duel serré entre Raphaël Glucksmann et Jean-Luc Mélenchon selon ce sondage, Marine Le Pen toujours largement en tête |
+| 19/10 | REPLAY. Présidentielle 2027 : Marine Le Pen donnée gagnante au second tour dans tous les scénarios, selon ce sondage |
+| 18/10 | ENTRETIEN. Présidentielle 2027 : "Ce serait une grave erreur diplomatique mais c'est fidèle à ses convictions"... Pourquoi Marine Le Pen ne voit-elle pas le risque de lâcher l'Ukraine ? |
+| 18/10 | Présidentielle 2027 - sondage : Marine Le Pen loin devant, Édouard Philippe, Raphaël Glucksmann et Jean-Luc Mélenchon dans un mouchoir de poche pour le second tour dans les intentions de vote |
+| 16/10 | Présidentielle 2027 - sondage : Raphaël Glucksmann à la deuxième place des intentions de vote derrière Marine Le Pen à égalité avec Jean-Luc Mélenchon et Édouard Philippe |
+| 15/10 | Présidentielle 2027 : visite express de Marine Le Pen à Moissac... on vous raconte les coulisses du déplacement de la candidate RN |
+| 15/10 | EXCLUSIF. Présidentielle 2027 - sondage : Le Pen caracole en tête, Mélenchon creuse l'écart... comment chaque région envisage l'élection |
+| 14/10 | VIDEO. Marine Le Pen en tête, Jean-Luc Mélenchon au second tour... On analyse notre sondage sur la présidentielle 2027 |
+| 14/10 | EXCLUSIF. Présidentielle 2027 - sondage : comment votent les Occitans et chaque région ? Le Pen caracole en tête, Mélenchon se détache... découvrez notre vaste étude |
+| 14/10 | REPLAY. Présidentielle 2027 : si elle est élue, Marine Le Pen promet un "bras de fer" avec Bruxelles pour réduire la contribution de la France à l’UE |
+| 11/10 | Présidentielle 2027 - Sondage : Le Pen et Bardella perdent en popularité, qui est cet autre candidat auteur d'une percée surprise ? |
+| 09/10 | Présidentielle 2027 - Sondage : Marine Le Pen toujours jugée la plus compétente pour diriger le pays, Édouard Philippe en embuscade tandis que Jean-Luc Mélenchon est loin derrière |
+| 09/10 | Présidentielle 2027 : Marine Le Pen en difficulté pour financer sa campagne face aux refus des banques, la candidate souhaite autoriser "les prêts de particuliers" |
+| 08/10 | VRAI OU FAUX. Présidentielle 2027 : le Rassemblement national peut-il réellement faire 140 milliards d'économies en cinq ans si Marine Le Pen est élue ? |
+| 08/10 | Présidentielle 2027 - sondage : la chute de Jordan Bardella et Marine Le Pen, la remontée de Jean-Luc Mélenchon dans le baromètre des personnalités Cluster 17 |
+| 07/10 | Présidentielle 2027 : Jean-Luc Mélenchon attaque le plan économique de Marine Le Pen, "qui condamnera la France à la récession pendant 120 ans" |
+| 06/10 | Présidentielle 2027 : "Madame Le Pen, vous avez un sacré problème avec les chiffres"… Édouard Philippe attaque le programme économique de la candidate du RN |
+| 06/10 | Présidentielle 2027 : Marine Le Pen présente le programme économique du RN et promet 140 milliards d'euros d'économies d'ici 2032 |
+| 04/10 | Présidentielle 2027 : "On leur pisse dessus !" Raphaël Glucksmann se lâche sur Jean-Luc Mélenchon et Marine Le Pen et ironise sur Ségolène Royal |
+| 04/10 | Présidentielle 2027 : "Une forte possibilité de dégradation des relations"... Pourquoi l'arrivée de Marine Le Pen au pouvoir inquiète nos voisins européens en raison de ses liens avec la Russie |
+| 04/10 | Jordan Bardella reçoit le soutien de Marine Le Pen après les révélations de Mediapart : "J'ai totalement confiance en Jordan" |
+| 02/10 | Présidentielle 2027 - sondage : la cote de confiance d'Édouard Philippe grimpe de 4 points... et rattrape celle de Marine Le Pen |
+| 01/10 | Présidentielle 2027 - sondage : Marine Le Pen caracole en tête entre 31 et 36 %, Édouard Philippe qualifié pour le second tour, Jean-Luc Mélenchon éliminé, selon l'Ifop |
+| 30/09 | Jordan Bardella accusé d'écrits antisémites : "Costard en Kevlar..." les menaces de Marine Le Pen contre Mediapart provoquent un tollé |
+| 29/09 | Jordan Bardella accusé d'écrits antisémites : Marine Le Pen suggère à Mediapart "d’enfiler son costard en Kevlar", une députée écologiste parle de "menaces de mort" |
+| 29/09 | REPLAY. Présidentielle 2027 : face aux écrits antisémites attribués à Jordan Bardella, Marine Le Pen conseille à Mediapart "d'enfiler son costard en kevlar" |
+| 28/09 | Présidentielle 2027 - sondage : Marine Le Pen creuse l'écart au second tour face à n'importe quel adversaire |
+| 24/09 | Présidentielle 2027 - sondage : Marine Le Pen toujours loin devant, Jean-Luc Mélenchon et Édouard Philippe à égalité pour se qualifier pour le second tour |
+| 22/09 | RN : "Russophobe", soutien des "nazis à Kiev"… pourquoi l'ancien président russe Dmitri Medvedev s'en prend à Marine Le Pen et au Rassemblement national |
+| 18/09 | Présidentielle 2027 : pourquoi Marine Le Pen a fait une visite surprise dans un restaurant à Castelnaudary |
+| 14/09 | DECRYPTAGE. Présidentielle 2027 : pourquoi Marine Le Pen veut faire du logement son nouveau cheval de bataille ? "Elle veut montrer qu’elle a des mesures prêtes dans les cartons" |
+| 14/09 | Présidentielle 2027 - Sondage : Marine Le Pen en léger recul pour la première fois, Jean-Luc Mélenchon toujours en tête de file pour la gauche |
+| 14/09 | REPLAY. Présidentielle 2027 : dans un nouveau sondage, Marine Le Pen recule pour la première fois, Mélenchon est au deuxième tour dans la majorité des cas |
+| 14/09 | Présidentielle 2027 : "Les tensions ? Elles sont exagérées" : à Hénin-Beaumont, les militants du RN veulent oublier les différends entre Le Pen et Bardella |
+| 13/09 | Présidentielle 2027 - Sondage : Glucksmann, Mélenchon et Philippe au coude à coude... Qui pour affronter Le Pen au second tour ? |
+| 13/09 | Présidentielle 2027 - Sondage : record d'impopularité pour Macron, nouvelle poussée pour Bardella et Le Pen, baisse pour Philippe et Attal... un baromètre qui en dit long sur l'état d'esprit des Français |
+| 13/09 | Présidentielle 2027 - Sondage : un seul candidat ferait mieux que Marine Le Pen à l'Élysée, de qui s'agit-il ? |
+| 13/09 | REPLAY. Présidentielle 2027 : depuis son fief d'Hénin-Beaumont, Marine Le Pen assure que le logement sera "un des grand chantiers" de son quinquennat |
+| 12/09 | REPLAY. Présidentielle 2027 : Roussel, Mélenchon et Tondelier à la Fête de l'Huma, Le Pen au Touquet, Hollande à la Fête de la rose, Retailleau avec les Jeunes LR... suivez cette journée de campagne |
+| 11/09 | Présidentielle 2027 - Sondage : seule l'hypothèse d'une candidature de François Hollande pourrait empêcher un second tour Mélenchon-Le Pen |
+| 10/09 | Présidentielle 2027 : comment Jean-Luc Mélenchon et Marine Le Pen installent le second tour dont ils rêvent |
+| 10/09 | DÉCRYPTAGE. Présidentielle 2027 : la vidéo raciste de la police municipale de Carcassonne peut-elle enrayer la campagne de Marine Le Pen ? |
+| 08/09 | Présidentielle 2027 : port du voile, immigration... comment les sujets brûlants du Rassemblement National font vaciller le tandem Le Pen-Bardella |
+| 07/09 | Présidentielle 2027 : "C'est elle ou moi..." Le retour de Marion Maréchal source de tensions entre Marine Le Pen et Jordan Bardella ? |
+| 05/09 | Présidentielle 2027 - sondage : Marine Le Pen largement en tête, Édouard Philippe s’impose comme le mieux placé derrière elle |
+| 04/09 | DÉCRYPTAGE. Présidentielle 2027 : désaccords entre Jordan Bardella et Marine Le Pen, le tandem du RN est-il déjà en train de se fissurer ? |
+| 03/09 | Présidentielle 2027 : Le Pen en tête, Philippe et Attal décrochent et Glucksmann progresse dans l'opinion |
+| 02/09 | Présidentielle 2027 : qui est François Durvye, le conseiller économique du RN, écarté de la campagne de Marine Le Pen ? |
+| 29/08 | Présidentielle 2027 : Marine Le Pen élue face à n'importe quel adversaire au second tour, Raphaël Glucksmann progresse légèrement selon un dernier sondage |
+| 29/08 | Jordan Bardella : "Nous sommes un duo pas un couple", le président du RN met les choses au clair vis-à-vis de sa relation avec Marine Le Pen |
+| 29/08 | Il avait incité Jordan Bardella à s'imposer pour la présidentielle : au RN, le départ de François Durvye, conseiller économique de Marine Le Pen, ravive certaines divergences |
+| 27/08 | Présidentielle : les Français jugent tous les candidats mauvais en économie, mais trouvent Marine Le Pen meilleure selon un sondage Odoxa |
+| 27/08 | Présidentielle 2027 : le Medef accueille Marine Le Pen, Jean-Luc Mélenchon et Édouard Philippe pour un débat inédit |
+| 25/08 | DECRYPTAGE. Présidentielle 2027 : "C'est la défense de toute l'Europe qui serait déstabilisée", pourquoi l'OTAN s'inquiète de voir Marine Le Pen et Jean-Luc Mélenchon en tête des sondages |
+| 24/08 | Sondage présidentielle 2027 : vers un duel Marine Le Pen - Jean-Luc Mélenchon au second tour ? Le RN largement en tête, LFI poursuit sa dynamique |
+| 17/08 | ENTRETIEN. Présidentielle 2027 : "L'hypothèse d'un second tour Le Pen face à Mélenchon est un scénario possible au vu des dynamiques actuelles" selon Bruno Cautrès |
+| 10/08 | Présidentielle 2027 : "La catastrophe serait l'élection de Marine Le Pen ou de Jean-Luc Mélenchon", Daniel Cohn-Bendit apporte son soutien à Raphaël Glucksmann |
+| 10/08 | Présidentielle 2027 : face au "risque" d’un second tour Mélenchon - Le Pen, François Bayrou plaide pour une grande primaire du PS "jusqu’aux gaullistes" |
+| 30/07 | Présidentielle 2027 : la justice donne raison à Marine Le Pen contre Gabriel Attal, la candidate du Rassemblement national pourra utiliser le mot "Renaissance" dans son slogan de campagne |
+| 29/07 | VRAI OU FAUX. Présidentielle 2027 : Sébastien Lecornu pousse-t-il vraiment les banques françaises à financer la campagne de Marine Le Pen ? |
+| 28/07 | Présidentielle 2027 : Gabriel Attal traîne Marine Le Pen en justice après l'utilisation du slogan "Renaissance" par le Rassemblement national, le délibéré sera rendu jeudi |
+| 21/07 | Le RN victime d’un piratage informatique : la photo de Marine Le Pen remplacée par un chat aux couleurs des drapeaux marocains et algériens |
+| 20/07 | Procès en appel du RN : Marine Le Pen et les onze autres prévenus se pourvoient en cassation, la justice vise une décision avant la présidentielle |
+| 17/07 | "Faites confiance au peuple" : Emmanuel Macron met en garde contre les sondages et la victoire annoncée de Marine Le Pen |
+| 15/07 | Présidentielle 2027 : le parti de Gabriel Attal assigne en justice Marine Le Pen et le RN pour avoir utilisé le terme "Renaissance" sur son affiche de campagne |
+| 12/07 | Présidentielle 2027 : "J’ai un lien fort avec Marine Le Pen"... Éric Ciotti se dit prêt à participer "loyalement" à la campagne de la candidate RN |
+| 12/07 | Présidentielle 2027 - sondage : malgré sa condamnation, Marine Le Pen reste largement en tête selon une nouvelle enquête, Jean-Luc Mélenchon domine toujours à gauche |
+| 12/07 | Présidentielle 2027 : Marine Le Pen candidate, les masques tombent |
+| 09/07 | VRAI OU FAUX. Marine Le Pen est-elle vraiment "présumée innocente" comme l’affirment les élus de son parti ? |
+| 09/07 | Présidentielle 2027 - sondage : malgré sa condamnation, Marine Le Pen est donnée vainqueure au second tour, devant tous les autres candidats |
+| 09/07 | DECRYPTAGE. Marine Le Pen : peut-elle faire campagne avec un bracelet ? Son recours peut-il remettre en cause sa candidature ? Un expert répond aux questions que vous vous posez |
+| 08/07 | Marine Le Pen candidate à l’élection présidentielle : une majorité de Français valide son choix de se présenter, même si sa condamnation représente un handicap |
+| 08/07 | DECRYPTAGE. Marine Le Pen candidate à la présidentielle : pourquoi la cour d'appel a décidé de laisser les électeurs choisir, plutôt que de la rendre inéligible |
+| 08/07 | VRAI OU FAUX. Marine Le Pen à la présidentielle : "Aucun scénario" ne peut-il vraiment empêcher la candidate du RN de se présenter ? |
+| 08/07 | REPLAY. Marine Le Pen : la Cour de cassation "pourrait" se prononcer sur son pourvoi "au plus tard début avril", la candidate du RN finirait alors sa campagne en étant condamnée |
+| 08/07 | ENTRETIEN. Marine Le Pen candidate à l’élection présidentielle : "Une épée de Damoclès restera suspendue au-dessus d’elle pour un moment", prévient Roland Cayrol |
+| 07/07 | Présidentielle 2027 : Marine Le Pen se lance dans la course malgré sa condamnation, avec Jordan Bardella pour potentiel Premier ministre |
+| 07/07 | Marine Le Pen sous bracelet électronique : détention à domicile, aménagement, calendrier, voici ce qui va être imposé à la cheffe de file du RN |
+| 07/07 | DÉCRYPTAGE. Présidentielle 2027 : "Ils ne sont pas interchangeables" Jordan Bardella est-il capable de prendre la place de Marine Le Pen ? |
+| 07/07 | REPLAY. Marine Le Pen : "Je suis candidate à l'élection présidentielle", la cheffe de file du RN se pourvoit en cassation et assure qu'elle fera campagne "sans bracelet électronique" |
+| 07/07 | Marine Le Pen pourra-t-elle se présenter en 2027 ? La cour d’appel rend sa décision mardi |
+| 02/07 | RN : ces nouvelles affaires qui empoisonnent Jordan Bardella et son parti à quelques jours de connaître le sort judiciaire de Marine Le Pen |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Marine+Le+Pen, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

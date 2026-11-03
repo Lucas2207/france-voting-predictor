@@ -450,6 +450,38 @@ Total : 81 articles.
 | 01/07 | «Je serai le protecteur des travailleurs, pas des profiteurs» : Bruno Retailleau défend un durcissement des aides sociales |
 | 01/07 | «Une fois de plus, le gouvernement a obtempéré» : Bruno Retailleau critique le choix des dates de l'élection présidentielle |
 
+## La Dépêche (ladepeche.fr)
+
+Source : https://www.ladepeche.fr/recherche?q=Bruno%20Retailleau&year=2026 (moteur de recherche du site, 20 résultats par page, filtre année 2026 ; le classement est par date, pages parcourues jusqu'à une page entièrement antérieure au 1er juillet 2026). La recherche sur le nom complet et celle sur le nom de famille seul sont fusionnées, car elles ne renvoient pas exactement les mêmes articles. La date de chaque article est lue dans son adresse (date de publication). Un article est compté si « Retailleau » figure dans son titre ; le chapô n'est pas relevé. Les homonymes (par exemple Michaël Zemmour, Jean-François Roussel, Jean-Christophe Ruffin, Marie-Caroline Le Pen) sont exclus.
+
+Total : 23 articles.
+
+| Date (2026) | Titre |
+|---|---|
+| 28/10 | VRAI OU FAUX. Présidentielle 2027 : le gouvernement peut-il encore changer les dates du scrutin qui font polémique comme le demande Bruno Retailleau ? |
+| 28/10 | REPLAY. Présidentielle 2027 : Gabriel Attal plaide pour une "grande primaire des démocrates", Retailleau s'y oppose |
+| 23/10 | REPLAY. Présidentielle 2027 : à gauche, Olivier Faure exclut une alliance avec LFI, à droite, Bruno Retailleau et David Lisnard ont laissé entendre qu'ils pourraient trouver un accord |
+| 22/10 | Présidentielle 2027 : vers un accord à droite ? Retailleau et Lisnard ont "considéré qu’ils trouveraient une solution pour avoir une candidature unique" |
+| 20/10 | Présidentielle 2027 - sondage : Lisnard talonne Retailleau, Philippe au coude-à-coude... Quels scénarios en cas de candidature unique du centre et de la droite ? |
+| 20/10 | Présidentielle 2027 : Bruno Retailleau veut changer les dates du scrutin : "Si on voulait bordéliser le second tour, on ne s’y prendrait pas différemment" |
+| 17/10 | DÉCRYPTAGE. Présidentielle 2027 : David Lisnard peut-il devenir le champion de la droite, supplanter Bruno Retailleau et gêner Édouard Philippe ? |
+| 15/10 | Présidentielle 2027 - sondage : Édouard Philippe pourrait se qualifier au second tour au détriment de Jean-Luc Mélenchon, Lisnard double Retailleau, selon cette nouvelle enquête |
+| 15/10 | REPLAY. Présidentielle 2027 : Bruno Retailleau propose un débat à Edouard Philippe pour "confronter" leurs "projets" |
+| 09/10 | Présidentielle 2027 : "Il y a un chemin et ce chemin est porté par Bruno Retailleau" : le candidat Les Républicains peut compter sur le soutien de François Baroin |
+| 01/10 | VRAI OU FAUX. Présidentielle 2027 : Bruno Retailleau veut faire interdire LFI, mais la dissolution d'un parti politique est-elle réellement possible en France ? |
+| 28/09 | Présidentielle 2027 : "Je serai au second tour", à Toulouse, Bruno Retailleau veut croire jusqu’au bout à sa candidature |
+| 28/09 | ENTRETIEN. Présidentielle 2027 : "Emmanuel Macron a renforcé le Rassemblement national et les Insoumis" selon Bruno Retailleau |
+| 23/09 | Bruno Retailleau à Toulouse lundi au lendemain de l'élection sénatoriale en Haute-Garonne qui voit deux listes LR s'affronter |
+| 13/09 | Présidentielle 2027 : le doute commence à gagner le cœur des militants venus assister à la rentrée de Bruno Retailleau |
+| 12/09 | Présidentielle 2027 : "Avant, on pédalait dans la semoule", l'équipe de campagne du candidat LR Bruno Retailleau entend bien "imprimer dans l'opinion", en cette rentrée politique |
+| 12/09 | REPLAY. Présidentielle 2027 : Roussel, Mélenchon et Tondelier à la Fête de l'Huma, Le Pen au Touquet, Hollande à la Fête de la rose, Retailleau avec les Jeunes LR... suivez cette journée de campagne |
+| 09/09 | Présidentielle 2027 : "Je serai la voix de cette France qui travaille" La Tarnaise Céline Imart, aux premières loges dans la campagne de Bruno Retailleau |
+| 06/09 | Présidentielle 2027 : "J'irai jusqu'à la victoire", assure le candidat LR Bruno Retailleau, qui est sûr que son élection est "à portée de main" |
+| 03/09 | Présidentielle 2027 : avant les universités d'été de son parti, Bruno Retailleau fait des propositions choc pour tenter d'exister |
+| 26/07 | Incendies en Gironde et dans les Landes : pourquoi Bruno Retailleau avait-il dit non à une base de Canadairs à Mont-de-Marsan en 2025, pourtant promise par l'État ? |
+| 01/07 | Présidentielle 2027 : Laurent Wauquiez appelle Bruno Retailleau à se retirer si "sa candidature ne décolle pas" et apporte son soutien à Édouard Philippe |
+| 01/07 | Présidentielle 2027 : "Ce n’est pas responsable..." pourquoi Ségolène Royal et Bruno Retailleau s’inquiètent-ils tant de la date du prochain scrutin ? |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Bruno+Retailleau, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

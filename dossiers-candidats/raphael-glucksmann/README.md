@@ -645,6 +645,81 @@ Total : 34 articles.
 | 23/08 | Présidentielle 2027 : Raphaël Glucksmann, invité au 20H de TF1, devrait annoncer sa candidature ce soir |
 | 22/08 | Élection présidentielle 2027 : Raphaël Glucksmann, invité au 20H de TF1 ce dimanche, devrait annoncer sa candidature |
 
+## La Dépêche (ladepeche.fr)
+
+Source : https://www.ladepeche.fr/recherche?q=Rapha%C3%ABl%20Glucksmann&year=2026 (moteur de recherche du site, 20 résultats par page, filtre année 2026 ; le classement est par date, pages parcourues jusqu'à une page entièrement antérieure au 1er juillet 2026). La recherche sur le nom complet et celle sur le nom de famille seul sont fusionnées, car elles ne renvoient pas exactement les mêmes articles. La date de chaque article est lue dans son adresse (date de publication). Un article est compté si « Glucksmann » figure dans son titre ; le chapô n'est pas relevé. Les homonymes (par exemple Michaël Zemmour, Jean-François Roussel, Jean-Christophe Ruffin, Marie-Caroline Le Pen) sont exclus.
+
+Total : 66 articles.
+
+| Date (2026) | Titre |
+|---|---|
+| 28/10 | Présidentielle 2027 : après la primaire, Raphaël Glucksmann face à un parcours d'obstacles |
+| 26/10 | REPLAY. Présidentielle 2027 : "Il faut qu'on sorte de notre mollesse", Raphaël Glucksmann veut reconquérir le vote des jeunes |
+| 23/10 | Présidentielle 2027 - Sondage : Le Pen confirme sa très large avance, Mélenchon solide deuxième alors que Glucksmann relègue Philippe au quatrième rang |
+| 19/10 | Présidentielle 2027 - sondage : un duel serré entre Raphaël Glucksmann et Jean-Luc Mélenchon selon ce sondage, Marine Le Pen toujours largement en tête |
+| 18/10 | Présidentielle 2027 - sondage : Marine Le Pen loin devant, Édouard Philippe, Raphaël Glucksmann et Jean-Luc Mélenchon dans un mouchoir de poche pour le second tour dans les intentions de vote |
+| 18/10 | DÉCRYPTAGE. Présidentielle 2027 : Raphaël Glucksmann veut davantage rémunérer les stages, une mesure de lutte contre la précarité ou un danger pour le marché de l'emploi ? |
+| 16/10 | Présidentielle 2027 : pourquoi Raphaël Glucksmann veut convaincre Cécile Duflot et Bernard Cazeneuve de le rejoindre |
+| 16/10 | Présidentielle 2027 - sondage : Raphaël Glucksmann à la deuxième place des intentions de vote derrière Marine Le Pen à égalité avec Jean-Luc Mélenchon et Édouard Philippe |
+| 15/10 | Présidentielle. "Le seul vote utile à gauche" : les militants de Place publique 65 affichent leur soutien à Raphaël Glucksmann |
+| 15/10 | "C'est le meilleur candidat pour éviter l'extrême droite" : les soutiens de Raphaël Glucksmann préparent une campagne de terrain dans le Gers |
+| 13/10 | ENTRETIEN. Présidentielle 2027 : "Glucksmann va devoir gagner en assurance et cravacher pour atteindre le second tour", selon Roland Cayrol |
+| 13/10 | Présidentielle 2027 : "Pensées pour Léa Salamé"... Le message de soutien de Valérie Trierweiler à sa consœur journaliste qui doit "renoncer" après la victoire de Raphaël Glucksmann |
+| 13/10 | DECRYPTAGE. Présidentielle 2027 : après les tensions de la primaire, Raphaël Glucksmann doit désormais rassembler son camp |
+| 13/10 | Présidentielle 2027 : après la victoire de Raphaël Glucksmann à la primaire de la gauche, quelle sera la stratégie de François Hollande ? |
+| 13/10 | Présidentielle 2027 : pourquoi LFI fait de Raphaël Glucksmann sa cible favorite |
+| 12/10 | ENTRETIEN. Présidentielle 2027 : "L'objectif principal de Raphaël Glucksmann est d'aller chercher les électeurs de Gabriel Attal", décrypte le politologue Rémi Lefebvre |
+| 12/10 | Primaire de la gauche : "Glucksmann est notre candidat", en Haute-Garonne François Briançon appelle au rassemblement |
+| 12/10 | "La bataille de France commence avec Raphaël Glucksmann" pour les représentants gersois du Parti socialiste et de Place Publique |
+| 12/10 | Présidentielle 2027 - Sondage : Jean-Luc Mélenchon qualifié au second tour dans tous les scénarios, devant Édouard Philippe, Gabriel Attal ou Raphaël Glucksmann |
+| 12/10 | REPLAY. Présidentielle 2027 : François Hollande félicite Raphaël Glucksmann pour sa victoire à la primaire de la gauche |
+| 12/10 | JT de 20 heures de France 2 : Jean-Baptiste Marteau assuré de rester dans le fauteuil de Léa Salamé après la victoire de Raphaël Glucksmann |
+| 11/10 | Primaire de la gauche : après la victoire de Glucksmann, en Haute-Garonne Sébastien Vincini appelle à l'union : "rassembler la gauche pour une alternative politique face à l'extrême droite" |
+| 11/10 | Primaire de la gauche : en Haute-Garonne, la maire de Colomiers salue la victoire de Raphaël Glucksmann pour "une gauche républicaine ferme sur ses valeurs" |
+| 11/10 | Primaire de la gauche : Raphaël Glucksmann large vainqueur dès le premier tour avec 66 %, veut incarner la rupture "avec le macronisme et l'hégémonie de Mélenchon sur la gauche" |
+| 11/10 | REPLAY. Primaire de la gauche : Raphaël Glucksmann enfariné après sa soirée de victoire |
+| 09/10 | Présidentielle 2027 - Sondage : Raphaël Glucksmann largement en tête, la surprise Ségolène Royal… Les premières indications de la primaire socialiste |
+| 09/10 | Présidentielle 2027 : "Le gars qui prétend tenir tête à Poutine, il a ses antisèches sur son portable", Ségolène Royal accuse Raphaël Glucksmann d'avoir triché lors d'un débat |
+| 06/10 | VRAI OU FAUX. Présidentielle 2027 : la France a-t-elle vraiment les enseignants "les plus mal payés d’Europe", comme le prétend Raphaël Glucksmann ? |
+| 04/10 | Présidentielle 2027 : "On leur pisse dessus !" Raphaël Glucksmann se lâche sur Jean-Luc Mélenchon et Marine Le Pen et ironise sur Ségolène Royal |
+| 03/10 | Primaire de la gauche : Retraites, industrie, dette... Les idées de Raphaël Glucksmann et Jérôme Guedj confrontées dans un débat en Ariège |
+| 01/10 | Présidentielle 2027 - Sondage : Raphaël Glucksmann loin devant, pas de surprise pour Ségolène Royal... Quels candidats de la primaire de la gauche sont les mieux placés ? |
+| 25/09 | REPLAY. Présidentielle 2027 : Yannick Jadot suspendu temporairement des Ecologistes, pour son soutien à Glucksmann |
+| 21/09 | Présidentielle 2027 : traité de "stagiaire" par Ségolène Royal, Raphaël Glucksmann lui répond, les organisateurs de la primaire socialiste la rappellent à l'ordre |
+| 21/09 | Présidentielle 2027 : "Vous ne mettez pas un stagiaire à la tête d'une entreprise", Ségolène Royal s'en prend à Raphaël Glucksmann à quelques jours de la primaire socialiste |
+| 19/09 | Rencontres de la gauche à Bram : Delga et Glucksmann combatifs face au risque de victoire du RN à la présidentielle |
+| 18/09 | "Il ne fait pas de déclarations à l'emporte-pièce pour faire le buzz" : les soutiens de Raphaël Glucksmann se mobilisent en Lot-et-Garonne |
+| 18/09 | REPLAY. Présidentielle 2027 : "Le mieux placé d’entre nous pour gagner la présidentielle... Carole Delga renouvèle son soutien à Raphaël Glucksmann |
+| 17/09 | "Nous croyons à une gauche qui préfère convaincre plutôt qu'invectiver" : en Haute-Garonne, des socialistes appellent à voter Raphaël Glucksmann à la primaire |
+| 16/09 | Présidentielle 2027. Glucksmann, Faure, Royal, Guedj, Maurel : atouts et handicaps des cinq candidats de la primaire socialiste |
+| 14/09 | Présidentielle 2027 : "Il s’occupait de la douche et des devoirs" Léa Salamé raconte les "compromis" faits par Raphaël Glucksmann, son compagnon |
+| 13/09 | Présidentielle 2027 - Sondage : Glucksmann, Mélenchon et Philippe au coude à coude... Qui pour affronter Le Pen au second tour ? |
+| 11/09 | VRAI OU FAUX. Présidentielle 2027 : Raphaël Glucksmann était-il présent lors d'un meeting de Nicolas Sarkozy en 2007 ? |
+| 07/09 | Présidentielle 2027 : Glucksmann, Royal, Guedj, Jadot... quelles personnalités participeront aux Rencontres de la gauche dans l'Aude ? |
+| 03/09 | Présidentielle 2027 : Le Pen en tête, Philippe et Attal décrochent et Glucksmann progresse dans l'opinion |
+| 31/08 | Présidentielle 2027 : l'eurodéputée Claire Fita apporte son soutien à Raphaël Glucksmann |
+| 29/08 | Présidentielle 2027 : Marine Le Pen élue face à n'importe quel adversaire au second tour, Raphaël Glucksmann progresse légèrement selon un dernier sondage |
+| 29/08 | A Blois, la primaire du PS entre Glucksmann et Faure attise les divisions malgré les apparences de concorde |
+| 27/08 | Présidentielle 2027 : "Le meilleur candidat à gauche pour gagner"... La présidente de la région Occitanie, Carole Delga, officialise son soutien à Raphaël Glucksmann |
+| 26/08 | Présidentielle 2027 : "Le petit-fils d'un espion soviétique"... Raphaël Glucksmann est-il vraiment le descendant d'un espion de Staline comme le dit la presse britannique ? |
+| 26/08 | DÉCRYPTAGE. Présidentielle 2027 : Raphaël Glucksmann, un "mauvais orateur" ? Deux experts analysent sa communication et ils ne sont pas tendres |
+| 25/08 | EDITO. De Glucksmann à Mélenchon : quelle gauche veulent les Français ? |
+| 24/08 | Primaire du Parti socialiste : Raphaël Glucksmann rejoint la liste des candidats, parrainages, coût de 15 euros... comment va-t-elle se dérouler ? |
+| 24/08 | Présidentielle 2027 : Une décision "évidente et difficile"... Léa Salamé confirme son retrait du 20H après la candidature de Raphaël Glucksmann, son compagnon |
+| 24/08 | Présidentielle 2027 : Yannick Jadot rejoint l'équipe de Raphaël Glucksmann et acte la fracture chez les Écologistes |
+| 23/08 | Présidentielle 2027 : Raphaël Glucksmann officialise sa candidature et participera à la primaire de la gauche au mois d’octobre |
+| 23/08 | REPLAY : Présidentielle 2027 : Raphaël Glucksmann déclare officiellement sa candidature |
+| 23/08 | Présidentielle 2027 : Attal, Glucksmann, Hollande, Bardella... la bataille des livres politiques est déjà lancée |
+| 22/08 | Présidentielle 2027 : Raphaël Glucksmann devrait annoncer sa candidature dimanche au 20 heures de TF1 |
+| 20/08 | DÉCRYPTAGE. Présidentielle 2027 : Mélenchon en tête, Glucksmann bientôt candidat, Tondelier en plein doute, Hollande en embuscade... à gauche, une semaine qui amorce une clarification |
+| 19/08 | Présidentielle 2027 : Raphael Glucksmann va annoncer officiellement sa candidature dimanche, sa compagne Léa Salamé ne présentera plus le JT de 20 h sur France 2 |
+| 10/08 | Présidentielle 2027 : "La catastrophe serait l'élection de Marine Le Pen ou de Jean-Luc Mélenchon", Daniel Cohn-Bendit apporte son soutien à Raphaël Glucksmann |
+| 06/08 | Ingérences étrangères : le parquet de Paris ouvre une enquête après une campagne menée contre Raphaël Glucksmann attribuée à la Russie |
+| 05/08 | Ingérences étrangères : après Edouard Philippe, Raphaël Glucksmann ciblé par la Russie |
+| 18/07 | DECRYPTAGE. Présidentielle 2027 : comment Attal, Mélenchon ou Glucksmann profitent de l’été pour se rapprocher des Français |
+| 12/07 | Présidentielle 2027 : Raphaël Glucksmann sera-t-il candidat ? Le député européen ne veut pas "être un candidat de plus" et promet de trancher "avant la fin de l’été" |
+| 06/07 | Présidentielle 2027 : "Laisse mes fils en dehors de ça", accusé d'être "privilégié" suite à une critique de Marine Tondelier, Raphaël Glucksmann se défend sur X |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Rapha%C3%ABl+Glucksmann, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

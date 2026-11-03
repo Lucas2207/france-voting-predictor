@@ -188,13 +188,30 @@ Relevé le 1er novembre 2026. Période visée : du 1er juillet 2026 à aujourd'h
 
 **Contrôles :** nombre de lignes de chaque section Europe 1 comparé au total annoncé. Aucun article de la période pour François Ruffin ni pour Nathalie Arthaud.
 
-## 10. Ce qui n'est pas fait
+## 10. La Dépêche (ladepeche.fr)
+
+**Source :** le moteur de recherche du site, `https://www.ladepeche.fr/recherche?q=<nom>&year=2026`. Une page affiche 20 résultats (`&pg=N`). Le bandeau de cookies a été accepté pour accéder à la recherche.
+
+**Relevé :**
+- le moteur ne filtre pas par nom sans le paramètre `year=2026` : une requête sur « Marine Le Pen » renvoie alors 9 993 résultats, dont les premiers ne citent pas la candidate. Le filtre d'année est donc ajouté ;
+- la liste est classée par date, du plus récent au plus ancien. Le relevé s'arrête à deux pages entièrement antérieures au 1er juillet 2026, ou à la dernière page de résultats ;
+- chaque candidat est recherché deux fois, sur son nom complet et sur son nom de famille seul. Les deux listes sont fusionnées, car elles ne contiennent pas exactement les mêmes articles ;
+- la date est lue dans l'adresse de l'article (`/AAAA/MM/JJ/`), qui correspond à la date de publication. Certaines cartes de la liste n'affichent pas la date ;
+- sont retenus les articles datés du 1er juillet au 1er novembre 2026 dont le nom du candidat figure dans le titre. Le chapô n'est pas relevé. Les homonymes sont exclus : Michaël Zemmour, Jean-François Roussel, Jean-Christophe Ruffin, « Sainte-Ruffine », Marie-Caroline Le Pen.
+
+**Limites :**
+- les résultats varient d'une requête à l'autre : une passe seule a manqué deux articles de Jean-Luc Mélenchon (28 septembre et 1er octobre). La fusion des deux recherches réduit ce risque sans l'annuler ;
+- pour Nathalie Arthaud, la recherche ne renvoie qu'une seule page, de 20 résultats, dont aucun ne cite la candidate. Le total de zéro est donc peut-être incomplet.
+
+**Contrôles :** le nombre de lignes de chaque section La Dépêche est comparé au total annoncé dans le dossier et au total attendu pour chaque candidat.
+
+## 11. Ce qui n'est pas fait
 
 - pas d'ouverture des articles un par un : le classement se base sur le titre et le chapô ou l'adresse ;
 - pas de couverture de BFMTV pour juillet à septembre 2026 ;
 - les dossiers Radio France ne sont pas tous à jour pour les personnalités sans page propre (Zemmour, Lisnard, Roussel) : ils sont couverts par les pages des autres personnalités citées dans les chapôs.
 
-## 11. Fichiers
+## 12. Fichiers
 
 - Dossiers par candidat : `dossiers-candidats/<nom>/README.md`
 - Tableaux Radio France : section « Radio France » de chaque dossier (les anciens fichiers `radio-france-<nom>-emissions.md` à la racine ont été supprimés une fois repris dans les dossiers)

@@ -558,6 +558,55 @@ Total : 69 articles.
 | 02/07 | Présidentielle 2027 : Comment Laurent Wauquiez et Édouard Philippe continuent d'achever la droite ? |
 | 01/07 | Présidentielle : Édouard Philippe, le candidat du système pour maintenir la macronie au pouvoir ? |
 
+## La Dépêche (ladepeche.fr)
+
+Source : https://www.ladepeche.fr/recherche?q=%C3%89douard%20Philippe&year=2026 (moteur de recherche du site, 20 résultats par page, filtre année 2026 ; le classement est par date, pages parcourues jusqu'à une page entièrement antérieure au 1er juillet 2026). La recherche sur le nom complet et celle sur le nom de famille seul sont fusionnées, car elles ne renvoient pas exactement les mêmes articles. La date de chaque article est lue dans son adresse (date de publication). Un article est compté si « Édouard Philippe » figure dans son titre ; le chapô n'est pas relevé. Les homonymes (par exemple Michaël Zemmour, Jean-François Roussel, Jean-Christophe Ruffin, Marie-Caroline Le Pen) sont exclus.
+
+Total : 40 articles.
+
+| Date (2026) | Titre |
+|---|---|
+| 29/10 | Présidentielle 2027 : Édouard Philippe et Gabriel Attal peuvent-ils échapper au naufrage du macronisme ? |
+| 22/10 | Présidentielle 2027 - sondage : le bloc central décroche dans les intentions de vote, pourquoi Édouard Philippe et Gabriel Attal peinent-ils à convaincre ? |
+| 21/10 | Présidentielle 2027 : les candidats s’affronteront de nouveau lors d’un débat sur LCI, Édouard Philippe grand absent de cette rencontre |
+| 21/10 | REPLAY. Présidentielle 2027 : un nouveau débat organisé entre les principaux candidats le 16 novembre prochain, mais sans Édouard Philippe |
+| 18/10 | Présidentielle 2027 - sondage : Marine Le Pen loin devant, Édouard Philippe, Raphaël Glucksmann et Jean-Luc Mélenchon dans un mouchoir de poche pour le second tour dans les intentions de vote |
+| 17/10 | DÉCRYPTAGE. Présidentielle 2027 : David Lisnard peut-il devenir le champion de la droite, supplanter Bruno Retailleau et gêner Édouard Philippe ? |
+| 16/10 | Présidentielle 2027 - sondage : Raphaël Glucksmann à la deuxième place des intentions de vote derrière Marine Le Pen à égalité avec Jean-Luc Mélenchon et Édouard Philippe |
+| 15/10 | Présidentielle 2027 - sondage : Édouard Philippe pourrait se qualifier au second tour au détriment de Jean-Luc Mélenchon, Lisnard double Retailleau, selon cette nouvelle enquête |
+| 13/10 | REPLAY. Présidentielle 2027 : l’ancienne fonctionnaire à l’origine de l’enquête visant Édouard Philippe sort un livre pour raconter l’affaire |
+| 12/10 | Présidentielle 2027 - Sondage : Jean-Luc Mélenchon qualifié au second tour dans tous les scénarios, devant Édouard Philippe, Gabriel Attal ou Raphaël Glucksmann |
+| 10/10 | DÉCRYPTAGE. Présidentielle 2027 : travailler deux heures de plus par semaine pour gagner 1 000 euros de plus par an... la proposition d'Édouard Philippe est-elle viable ? |
+| 09/10 | Présidentielle 2027 - Sondage : Marine Le Pen toujours jugée la plus compétente pour diriger le pays, Édouard Philippe en embuscade tandis que Jean-Luc Mélenchon est loin derrière |
+| 06/10 | Présidentielle 2027 : "Madame Le Pen, vous avez un sacré problème avec les chiffres"… Édouard Philippe attaque le programme économique de la candidate du RN |
+| 05/10 | Présidentielle 2027 : Édouard Philippe et le boulet des retraites |
+| 02/10 | Présidentielle 2027 - sondage : la cote de confiance d'Édouard Philippe grimpe de 4 points... et rattrape celle de Marine Le Pen |
+| 01/10 | Présidentielle 2027 - sondage : Marine Le Pen caracole en tête entre 31 et 36 %, Édouard Philippe qualifié pour le second tour, Jean-Luc Mélenchon éliminé, selon l'Ifop |
+| 29/09 | Présidentielle 2027 : âge de départ à 65 ans, 45 annuités de cotisation... dans le dossier retraite, Édouard Philippe dévoile son projet de réforme |
+| 29/09 | DÉCRYPTAGE. Présidentielle 2027 : les voix de Gabriel Attal et d'Édouard Philippe peuvent-elles s'additionner ? Pourquoi une alliance risquerait d'éparpiller leurs électeurs |
+| 24/09 | Présidentielle 2027 - sondage : Marine Le Pen toujours loin devant, Jean-Luc Mélenchon et Édouard Philippe à égalité pour se qualifier pour le second tour |
+| 07/09 | Abaya à l'école : "La proposition de M. Mélenchon m'apparaît être une trahison de la laïcité", tacle Édouard Philippe |
+| 05/09 | Présidentielle 2027 - sondage : Marine Le Pen largement en tête, Édouard Philippe s’impose comme le mieux placé derrière elle |
+| 01/09 | Édouard Philippe propose un parti unique de la droite et du centre : réactions mitigées à gauche et chez Gabriel Attal |
+| 30/08 | Présidentielle 2027 : des compliments à gogo et un atelier frites partagé main dans la main, comment Édouard Philippe et Gérald Darmanin mettent en scène leur alliance |
+| 28/08 | Présidentielle 2027 : comment Gérald Darmanin tente d'infléchir la ligne libérale d'Édouard Philippe |
+| 27/08 | DECRYPTAGE. Présidentielle 2027 : Édouard Philippe veut abaisser la durée de l'indemnisation chômage pour les moins de 50 ans, un expert estime qu'il est "à côté de la plaque" |
+| 27/08 | Présidentielle 2027 : Édouard Philippe veut abaisser à 12 mois la durée de l'indemnisation chômage pour les moins de 50 ans et mettre fin à "l'open bar" des arrêts de travail |
+| 27/08 | Présidentielle 2027 : le Medef accueille Marine Le Pen, Jean-Luc Mélenchon et Édouard Philippe pour un débat inédit |
+| 25/08 | Présidentielle : Édouard Philippe et Gabriel Attal dévoilent deux projets rivaux sur l'Education |
+| 22/08 | À Mayotte, chassé-croisé entre Édouard Philippe et Sébastien Lecornu |
+| 20/08 | Présidentielle 2027 : l'ancien Premier ministre Édouard Philippe souhaite "reprendre le contrôle migratoire" à Mayotte et y suspendre les demandes d'asile |
+| 18/08 | Ingérences étrangères : le parquet de Paris a ouvert une enquête après des soupçons d'ingérence russe à l'encontre de Gabriel Attal et d'Édouard Philippe |
+| 17/08 | Présidentielle 2027 : Gérald Darmanin renonce à se présenter et apporte finalement son soutien à Édouard Philippe |
+| 12/08 | Présidentielle 2027 : Édouard Philippe et Gabriel Attal face au piège de l'héritage |
+| 10/08 | Édouard Philippe veut un "verrou Schengen" pour limiter l'immigration... "Ceuta est un avertissement" estime le candidat à la présidentielle de 2027 |
+| 25/07 | Présidentielle 2027 : Édouard Philippe visé par une opération de désinformation russe, une première pour un prétendant à l'Élysée |
+| 15/07 | Présidentielle 2027 : "Tu n’affronteras rien du tout, tu vas rentrer chez toi !"… Jean-Luc Mélenchon s’en prend à Édouard Philippe et à son projet politique "néolibéral" |
+| 05/07 | REPORTAGE. Présidentielle 2027 : "Je suis venue voir s’il avait la stature !" Dans les coulisses du premier grand meeting d’Édouard Philippe |
+| 04/07 | DÉCRYPTAGE. Présidentielle 2027 : face à Édouard Philippe, le pari libéral de Gabriel Attal |
+| 03/07 | Présidentielle 2027 : Édouard Philippe engrange les soutien... "Il met un peu plus de pression sur Gabriel Attal" |
+| 01/07 | Présidentielle 2027 : Laurent Wauquiez appelle Bruno Retailleau à se retirer si "sa candidature ne décolle pas" et apporte son soutien à Édouard Philippe |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=%C3%89douard+Philippe, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

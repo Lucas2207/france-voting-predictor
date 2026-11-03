@@ -526,6 +526,60 @@ Total : 50 articles.
 | 08/07 | Pourvoi en Cassation : « Marine Le Pen engage une forme de guérilla judiciaire », lance Gabriel Attal |
 | 08/07 | «Sa candidature n'est une bonne nouvelle ni pour Gabriel Attal, ni pour Édouard Philippe» Lavalette |
 
+## La Dépêche (ladepeche.fr)
+
+Source : https://www.ladepeche.fr/recherche?q=Gabriel%20Attal&year=2026 (moteur de recherche du site, 20 résultats par page, filtre année 2026 ; le classement est par date, pages parcourues jusqu'à une page entièrement antérieure au 1er juillet 2026). La recherche sur le nom complet et celle sur le nom de famille seul sont fusionnées, car elles ne renvoient pas exactement les mêmes articles. La date de chaque article est lue dans son adresse (date de publication). Un article est compté si « Attal » figure dans son titre ; le chapô n'est pas relevé. Les homonymes (par exemple Michaël Zemmour, Jean-François Roussel, Jean-Christophe Ruffin, Marie-Caroline Le Pen) sont exclus.
+
+Total : 45 articles.
+
+| Date (2026) | Titre |
+|---|---|
+| 29/10 | Présidentielle 2027 : Édouard Philippe et Gabriel Attal peuvent-ils échapper au naufrage du macronisme ? |
+| 28/10 | REPLAY. Présidentielle 2027 : Gabriel Attal plaide pour une "grande primaire des démocrates", Retailleau s'y oppose |
+| 25/10 | Un hacker affirme avoir mis la main sur 4,1 millions de données chez Renaissance, le parti de Gabriel Attal dément la fuite de données |
+| 24/10 | Présidentielle 2027 - sondage : Edouard Philippe et Gabriel Attal décrochent, Marine Le Pen toujours devant mais pas d'effet 17 octobre |
+| 22/10 | Présidentielle 2027 - sondage : le bloc central décroche dans les intentions de vote, pourquoi Édouard Philippe et Gabriel Attal peinent-ils à convaincre ? |
+| 20/10 | Violences du 17 octobre : peut-on bloquer "temporairement" les réseaux sociaux ? Pourquoi la proposition de Gabriel Attal est juridiquement impossible |
+| 12/10 | ENTRETIEN. Présidentielle 2027 : "L'objectif principal de Raphaël Glucksmann est d'aller chercher les électeurs de Gabriel Attal", décrypte le politologue Rémi Lefebvre |
+| 12/10 | Présidentielle 2027 - Sondage : Jean-Luc Mélenchon qualifié au second tour dans tous les scénarios, devant Édouard Philippe, Gabriel Attal ou Raphaël Glucksmann |
+| 10/10 | REPLAY. Présidentielle 2027 : Gabriel Attal promet "la plus forte augmentation de salaire pour les enseignants" lors de son meeting à Lyon |
+| 07/10 | Blocage des lycées : proche de Gabriel Attal ou de La France insoumise, où se situent les trois principaux syndicats lycéens sur l'échiquier politique ? |
+| 04/10 | Règlement de compte à gauche, maire fan de Céline Dion, ambassadrice santé de Gabriel Attal : les indiscrétions de la semaine du 4 octobre en Tarn-et-Garonne |
+| 02/10 | VRAI OU FAUX. Blocages des lycées : des personnels d'un établissement de Marseille ont-ils été aspergés d'essence comme l'a relayé Gabriel Attal ? |
+| 29/09 | DÉCRYPTAGE. Présidentielle 2027 : les voix de Gabriel Attal et d'Édouard Philippe peuvent-elles s'additionner ? Pourquoi une alliance risquerait d'éparpiller leurs électeurs |
+| 25/09 | Élection présidentielle 2027 : le porte-parole de Renaissance, Jad Zahab, était à Montauban dans le cadre des "1000 bistrots" de Gabriel Attal |
+| 24/09 | Il est critiqué pour avoir dit "aimer la France et son histoire" après sa première convocation : Gabriel Attal dénonce un "déchaînement" contre Esteban Lepaul |
+| 23/09 | Élection présidentielle 2027 : le porte-parole de Renaissance Jad Zahab anime un débat sur l'école à Montauban dans le cadre des "1000 bistrots" de Gabriel Attal |
+| 22/09 | Présidentielle 2027 : l'opération "1 000 bistrots" de Gabriel Attal tourne-t-elle au fiasco ? Malgré une participation limitée, le candidat refuse de parler d'échec |
+| 18/09 | REPORTAGE. Présidentielle 2027 : "Il a fait plus en six mois que ses dix prédécesseurs en dix ans !" L’opération "1000 bistrots" de Gabriel Attal a fait étape à Toulouse |
+| 16/09 | Présidentielle 2027 : Renaissance fait la tournée des bars du Tarn pour lancer la campagne de Gabriel Attal |
+| 15/09 | DECRYPTAGE. Présidentielle 2027 : comment les entourages de Gabriel Attal et d'Edouard Philippe négocient leurs ralliements lors de dîners secrets |
+| 13/09 | Présidentielle 2027 - Sondage : record d'impopularité pour Macron, nouvelle poussée pour Bardella et Le Pen, baisse pour Philippe et Attal... un baromètre qui en dit long sur l'état d'esprit des Français |
+| 12/09 | Présidentielle 2027 : "Le problème est d’associer alcool et convivialité", Gabriel Attal a-t-il enfreint la loi Évin dans sa dernière opération de campagne "1 000 bistrots" ? |
+| 09/09 | REPLAY. Présidentielle 2027 : Gabriel Attal défend son opération 1000 bistrots... "À quel moment, boire de la bière, c’est faire la promotion de l’alcoolisme" |
+| 06/09 | Présidentielle 2027 : braderie, selfies et cassoulet… à Toulouse, Gabriel Attal soigne son image de candidat de terrain |
+| 03/09 | Présidentielle 2027 : Le Pen en tête, Philippe et Attal décrochent et Glucksmann progresse dans l'opinion |
+| 02/09 | Gabriel Attal attendu à Toulouse samedi 5 septembre : le candidat à l'élection présidentielle rencontrera les Toulousains en centre-ville avant de se rendre à un événement populaire |
+| 01/09 | Édouard Philippe propose un parti unique de la droite et du centre : réactions mitigées à gauche et chez Gabriel Attal |
+| 25/08 | Présidentielle : Édouard Philippe et Gabriel Attal dévoilent deux projets rivaux sur l'Education |
+| 23/08 | Présidentielle 2027 : Attal, Glucksmann, Hollande, Bardella... la bataille des livres politiques est déjà lancée |
+| 21/08 | Présidentielle 2027 : l'ancien Premier ministre Gabriel Attal de nouveau visé par des ingérences russes |
+| 18/08 | Ingérences étrangères : le parquet de Paris a ouvert une enquête après des soupçons d'ingérence russe à l'encontre de Gabriel Attal et d'Édouard Philippe |
+| 12/08 | Présidentielle 2027 : Édouard Philippe et Gabriel Attal face au piège de l'héritage |
+| 05/08 | Présidentielle 2027 : Gabriel Attal à son tour visé par "une ingérence en provenance de Russie", son entourage craint une campagne violente |
+| 04/08 | Gens du voyage : "Tous les modes de vie doivent respecter la loi de la République"... Gabriel Attal veut durcir les règles contre les installations illégales |
+| 02/08 | Présidentielle 2027 : Gabriel Attal veut sortir la Ve République de ses rails et promet "la plus grande réforme institutionnelle depuis 1958" s’il est élu |
+| 30/07 | Présidentielle 2027 : la justice donne raison à Marine Le Pen contre Gabriel Attal, la candidate du Rassemblement national pourra utiliser le mot "Renaissance" dans son slogan de campagne |
+| 28/07 | Présidentielle 2027 : Gabriel Attal traîne Marine Le Pen en justice après l'utilisation du slogan "Renaissance" par le Rassemblement national, le délibéré sera rendu jeudi |
+| 18/07 | DECRYPTAGE. Présidentielle 2027 : comment Attal, Mélenchon ou Glucksmann profitent de l’été pour se rapprocher des Français |
+| 16/07 | Commandes de Canadair : "Jean-Luc Mélenchon fait du trumpisme et raconte absolument n’importe quoi", l’ancien Premier ministre Gabriel Attal fustige le leader insoumis |
+| 15/07 | VRAI OU FAUX. Incendies : Gabriel Attal est-il vraiment à l’origine de l’annulation d’une commande de Canadair lorsqu’il était Premier ministre ? |
+| 15/07 | Présidentielle 2027 : le parti de Gabriel Attal assigne en justice Marine Le Pen et le RN pour avoir utilisé le terme "Renaissance" sur son affiche de campagne |
+| 15/07 | DÉCRYPTAGE. Incendies en série et manque de Canadair : Gabriel Attal accusé d’avoir annulé 53 millions d’euros pour deux avions anti-feu |
+| 04/07 | DÉCRYPTAGE. Présidentielle 2027 : face à Édouard Philippe, le pari libéral de Gabriel Attal |
+| 03/07 | Présidentielle 2027 : les soutiens de Gabriel Attal passent à l’offensive dans le Tarn |
+| 03/07 | Présidentielle 2027 : Édouard Philippe engrange les soutien... "Il met un peu plus de pression sur Gabriel Attal" |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Gabriel+Attal, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.
