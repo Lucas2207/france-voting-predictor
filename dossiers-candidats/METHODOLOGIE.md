@@ -170,13 +170,31 @@ Relevé le 1er novembre 2026. Période visée : du 1er juillet 2026 à aujourd'h
 
 **Contrôles :** nombre de lignes de chaque section Ouest-France comparé au total annoncé. Un article omis lors de la première transcription (Marine Le Pen, 7 juillet) a été ajouté après comparaison avec les résultats chargés.
 
-## 9. Ce qui n'est pas fait
+## 9. Europe 1 (europe1.fr)
+
+**Source :** la recherche du site, `https://www.europe1.fr/rechercher/<nom complet>`. Une page affiche 10 résultats, avec la pagination du site (`?_wrapper_format=html&page=N`). Le bandeau de cookies a été refusé (« continuer sans accepter »).
+
+**Relevé :**
+- la liste des résultats n'affiche pas la date : chaque article est ouvert et sa date de publication (`datePublished`) est lue sur la page ;
+- les pages sont lues une à une. Le relevé s'arrête à une page entièrement antérieure au 1er juillet 2026 ; pour François Ruffin, Nathalie Arthaud et Natacha Polony (listes de résultats peu fournies ou classées par pertinence), il s'arrête à trois pages entièrement antérieures d'affilée ;
+- sont retenus les articles datés du 1er juillet au 1er novembre 2026 dont le nom du candidat figure dans le titre. Le chapô n'est pas relevé. Le « En direct » placé devant certains titres est retiré. Les titres tronqués par le site (qui se terminent par « ... ») sont repris tels quels ;
+- les doublons (même titre et même date sous deux adresses) sont comptés une fois.
+
+**Limites :**
+- le site classe les résultats par pertinence, et non strictement par date : un article de la période peut apparaître après une page entièrement antérieure ;
+- le site limite les requêtes (erreur 429) : la collecte a été reprise après une pause, sans trou dans les pages lues ;
+- « Le Pen » retient les titres où « Marine Le Pen » figure ; Marie-Caroline Le Pen n'est retenue que si le titre contient aussi le nom complet de Marine Le Pen ;
+- un article peut être compté pour plusieurs candidats s'il les cite tous les deux.
+
+**Contrôles :** nombre de lignes de chaque section Europe 1 comparé au total annoncé. Aucun article de la période pour François Ruffin ni pour Nathalie Arthaud.
+
+## 10. Ce qui n'est pas fait
 
 - pas d'ouverture des articles un par un : le classement se base sur le titre et le chapô ou l'adresse ;
 - pas de couverture de BFMTV pour juillet à septembre 2026 ;
 - les dossiers Radio France ne sont pas tous à jour pour les personnalités sans page propre (Zemmour, Lisnard, Roussel) : ils sont couverts par les pages des autres personnalités citées dans les chapôs.
 
-## 10. Fichiers
+## 11. Fichiers
 
 - Dossiers par candidat : `dossiers-candidats/<nom>/README.md`
 - Tableaux Radio France : section « Radio France » de chaque dossier (les anciens fichiers `radio-france-<nom>-emissions.md` à la racine ont été supprimés une fois repris dans les dossiers)

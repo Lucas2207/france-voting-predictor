@@ -560,6 +560,96 @@ Total : 41 articles.
 | 06/07 | Une fête ouverte de LFI avec concerts, jeux, tables rondes et… Jean-Luc Mélenchon, près de Rennes le 14 juillet |
 | 02/07 | Jean-Luc Mélenchon prononcera un discours en Bretagne le 14 juillet |
 
+## Europe 1 (europe1.fr)
+
+Source : https://www.europe1.fr/rechercher/Jean-Luc%20M%C3%A9lenchon (recherche du site, 10 résultats par page). La date de chaque article est lue sur sa page (date de publication), car la liste des résultats n'en affiche pas. Relevé arrêté une fois une page entièrement antérieure au 1er juillet 2026 atteinte, ou à trois pages entières antérieures d'affilée. Un article est compté si « Mélenchon » figure dans son titre ; le chapô n'est pas relevé.
+
+Total : 81 articles.
+
+| Date (2026) | Titre |
+|---|---|
+| 30/10 | Retraite : le paradoxe de Jean-Luc Mélenchon qui profite d'un système qu'il dénonce |
+| 29/10 | Liberté d'expression : «La haine des médias [...] est juste et saine», Pascal Praud cite Jean-Luc Mélenchon |
+| 27/10 | «Les dérives de Jean-Luc Mélenchon sont anti-républicaines», estime David Lisnard |
+| 27/10 | Médias ciblés par Jean-Luc Mélenchon : «Le premier ennemi d'un totalitaire est la liberté d'expression», analyse Karim Maloum |
+| 27/10 | Crise sociale : «Le chaos politique ne peut que servir à Jean-Luc Mélenchon», constate Karim Maloum |
+| 27/10 | Menaces contre les médias : «Il y a une sorte de privilège rouge pour Jean-Luc Mélenchon», dénonce Pascal Praud |
+| 26/10 | Interdiction du RN : «Bally Bagayoko prépare l'après Jean-Luc Mélenchon», estime Olivier Dartigolles |
+| 24/10 | LFI : «Jean-Luc Mélenchon a une stratégie, c'est la bordélisation», tacle S. Chenu, député RN |
+| 24/10 | Jean-Luc Mélenchon : «On peut se demander s'il veut une victoire dans les urnes ou dans la rue», s'interroge E. Revel, journaliste |
+| 21/10 | «Si Jean-Luc Mélenchon ne peut prendre le pouvoir par les urnes, il le prendra par la rue», alerte Sébastien Martin, ministre délégué |
+| 21/10 | Présidentielle : «Jean-Luc Mélenchon est quasiment comme un gourou», alerte A. Malafaye |
+| 20/10 | «Emmanuel Macron veut un face à face entre Jean-Luc Mélenchon et Marine Le Pen», estime Joseph Ma... |
+| 20/10 | «Emmanuel Macron veut un face à face entre Jean-Luc Mélenchon et Marine Le Pen», estime Joseph Macé-Scaron |
+| 17/10 | Manifestations du 17 octobre : Marine Le Pen accuse LFI, Jean-Luc Mélenchon critique la focalisation sur les violences |
+| 17/10 | Mobilisation du 17 octobre : «Jean-Luc Mélenchon prépare la bordélisation du pays depuis 2 ans», lance Benjamin Cauchy |
+| 16/10 | Jean-Luc Mélenchon nourrit cette pulsion de mort» estime Marine le Pen |
+| 16/10 | «Jean-Luc Mélenchon nourrit cette pulsion de mort» estime Marine le Pen |
+| 12/10 | Mouvement lycéens : «Jean-Luc Mélenchon utilise les revendications comme de la chair à canon politique» estime Baptiste Gilli |
+| 12/10 | «Jean-Luc Mélenchon redoute davantage François Hollande que Raphaël Glucksmann», estime Thomas Bo... |
+| 12/10 | Glucksmann vainqueur de la primaire de la gauche : «Jean-Luc Mélenchon ne doit pas être très cont... |
+| 12/10 | Glucksmann vainqueur de la primaire de la gauche : «Jean-Luc Mélenchon ne doit pas être très contente ce matin», note Pascal Praud |
+| 12/10 | «Jean-Luc Mélenchon redoute davantage François Hollande que Raphaël Glucksmann», estime Thomas Bonnet |
+| 07/10 | «Je ne me laisserai pas intimider», répond le gouverneur de la Banque de France à Jean-Luc Mélenchon |
+| 06/10 | Jean-Luc Mélenchon s'en prend à la police : «C'est sans précédent sous la Ve République», dénonce Pascal Praud |
+| 06/10 | Jean-Luc Mélenchon prêt à tout |
+| 06/10 | Jean-Luc Mélenchon : Pascal Praud dénonce «un discours insupportable» |
+| 06/10 | Édito Pascal Praud - Blocus : «L'inconscience de Jean-Luc Mélenchon» |
+| 06/10 | Jean-Luc Mélenchon : Pascal Praud dénonce «la violence de ses propos sur la police» |
+| 06/10 | «Jean-Luc Mélenchon veut la révolution», dénonce Pascal Praud |
+| 06/10 | Jean-Luc Mélenchon s’attaque encore aux forces de l’ordre : «la police tue. Cette troupe n’est plus tenue» |
+| 06/10 | Jean-Luc Mélenchon s’attaque encore aux forces de l’ordre : «la police tue. Cette troupe n’est pl... |
+| 05/10 | « On leur pisse dessus ! » : Raphaël Glucksmann se lâche sur Marine Le Pen et Jean-Luc Mélenchon |
+| 04/10 | Primaire de la gauche : un dernier débat sous tension sur la question d'une alliance avec Jean-Luc Mélenchon |
+| 02/10 | «Il les fait sortir de l'abstention, il les politise» : Dominique Reynié analyse la stratégie de Jean-Luc Mélenchon auprès des jeunes |
+| 02/10 | Blocage des lycées : «Jean-Luc Mélenchon prépare l'insurrection», prévient Dominique Reynié |
+| 02/10 | Lycées : «Jean-Luc Mélenchon prépare l'élection et l'insurrection», prévient Dominique Reynié |
+| 02/10 | Jean-Luc Mélenchon : l’instrumentalisation, mode d’emploi |
+| 01/10 | «C'est une stratégie de bordélisation, Jean-Luc Mélenchon veut mettre le pays par terre», s'insur... |
+| 01/10 | «C'est une stratégie de bordélisation, Jean-Luc Mélenchon veut mettre le pays par terre», s'insurge Pascal Praud |
+| 30/09 | Discours anti-police de Jean-Luc Mélenchon : le «J'aime / J’aime pas» de Gauthier Lebret |
+| 29/09 | Blocage des lycées : «Jean-Luc Mélenchon est en train de recruter», souligne Joseph Macé-Scaron |
+| 24/09 | « Jean-Luc Mélenchon est sorti du champ de la République », alerte Gilles Platret (LR) |
+| 24/09 | Primaire socialiste : pour Gérard Carreyrou, «le match est joué, Jean-Luc Mélenchon a déjà gagné» |
+| 21/09 | Raphaël Glucksmann n’avalera pas le bureau de Jean-Luc Mélenchon |
+| 15/09 | Jean-Luc Mélenchon dénonce des «manipulations politiques» après deux victoires de LFI contestées par le tribunal administratif |
+| 12/09 | Fête de l'Humanité : Jean-Luc Mélenchon et Fabien Roussel se livrent une bataille de leadership |
+| 10/09 | BFMTV privé de LFI : Cauet se moque de la terrible punition décidée par Jean-Luc Mélenchon |
+| 07/09 | Abaya à l’école : Marine Le Pen accuse Jean-Luc Mélenchon d’être un «sous-traitant de l’idéologie islamiste» |
+| 07/09 | Braderie de Lille : Le coup de gueule de Gauthier Le Bret contre Jean-Luc Mélenchon |
+| 07/09 | « Vous, tout blanc, tout moche » : Jean-Luc Mélenchon visé par une plainte pour propos discriminatoires |
+| 07/09 | «Jean-Luc Mélenchon se fait passer pour un érudit pour raconter n'importe quoi», note Gabrielle Cluzel |
+| 07/09 | INFO EUROPE 1 - Racisme anti-blanc : Jean-Luc Mélenchon visé par une plainte |
+| 06/09 | Présidentielle 2027 : «Marine Le Pen et Jean-Luc Mélenchon proposent aux Français de retrouver une prise sur leur existence», observe Arthur de Watrigant |
+| 06/09 | SONDAGE - Présidentielle 2027 : Marine Le Pen assurée d'être au second tour, et de l'emporter face à Jean-Luc Mélenchon |
+| 05/09 | Présidentielle 2027 : en meeting à la braderie de Lille, Jean-Luc Mélenchon s'attaque au RN dans le but d'instaurer un duel |
+| 03/09 | Le volte-face de Jean-Luc Mélenchon sur le voile est la preuve d'un énorme «cynisme» de sa part, estime Raphaël Stainville |
+| 03/09 | Port du voile : «Jean-Luc Mélenchon a changé d’avis pour aller capter un électorat », selon Pasca... |
+| 03/09 | Comment Jean-Luc Mélenchon aspire une partie de la gauche pour s’imposer au premier tour de la présidentielle |
+| 03/09 | Port du voile : «Jean-Luc Mélenchon a changé d’avis pour aller capter un électorat », selon Pascal Praud |
+| 03/09 | Port du voile : «Jean-Luc Mélenchon a changé d’avis pour aller capter un électorat » |
+| 03/09 | «Jean-Luc Mélenchon a vrillé dans le néofascisme», lance David Lisnard |
+| 30/08 | Présidentielle 2027 : «Jean-Luc Mélenchon est devenu le plus grand repoussoir de la vie politique française», estime Matthieu Hocque |
+| 29/08 | Présidentielle 2027 : derrière Marine Le Pen, Jean-Luc Mélenchon recule et Raphaël Glucksmann progresse |
+| 29/08 | Insurrection populaire : «LFI et Jean-Luc Mélenchon rêvent d'une victoire du RN à la présidentielle», ironise Sébastien Lignier |
+| 28/08 | Débat présidentiel : «Jean-Luc Mélenchon et Marine Le Pen ont été un peu au-dessus du lot», estime Jules Torres |
+| 28/08 | Présidentielle 2027 : au débat organisé par le Medef, Jean-Luc Mélenchon s'en est pris frontalement aux patrons |
+| 26/08 | Primaire de la gauche : l'ombre de Jean-Luc Mélenchon plane et divise les Socialistes |
+| 25/08 | Présidentielle 2027 : Jean-Luc Mélenchon compte sur les sondages favorables pour s'imposer à gauche |
+| 24/08 | Présidentielle 2027 : Raphaël Glucksmann veut rassembler la gauche et faire barrage à Jean-Luc Mélenchon |
+| 23/08 | «Un jour nouveau sur le monde» : moins radical, Jean-Luc Mélenchon se mue en candidat pour l'élection présidentielle 2027 |
+| 23/08 | «Pas de leçons d'impartialité à recevoir» : Laurent Nuñez répond à Jean-Luc Mélenchon qui accuse des préfets de «procès» contre des députés LFI |
+| 22/08 | «Toute aide sera la bienvenue» : l'appel du pied de Jean-Luc Mélenchon à Marine Tondelier pour la présidentielle 2027 |
+| 20/08 | Alliance des Verts : «Il y a une ultra-dépendance à La France insoumise, et Jean-Luc Mélenchon en joue en dictant sa loi», selon Antonin André |
+| 13/08 | Punchline - «Mettre la dette au frigo» : Jean-Luc Mélenchon veut supprimer la dette |
+| 13/08 | «Jean-Luc Mélenchon utilise des propos antisémites», dénonce Pierre Ouzoulias |
+| 10/08 | Présidentielle 2027 : «L'union avec Jean-Luc Mélenchon n'est pas possible», estime Philippe Brun |
+| 10/08 | «L'union avec Jean-Luc Mélenchon n'est pas possible», soutient Philippe Brun |
+| 24/07 | Présidentielle 2027 : en toute discrétion, Jean-Luc Mélenchon a rencontré les grands patrons pour les rassurer en cas de victoire |
+| 11/07 | Présidentielle 2027 : Marine Le Pen largement en tête, Jean-Luc Mélenchon se rapproche du 2e tour |
+| 10/07 | 2027 : «Jean-Luc Mélenchon est le plus mauvais candidat pour le second tour de l'élection présidentielle», juge Jérôme Guedj |
+| 06/07 | Présidentielle 2027 : «On a raison d'avoir peur» de Jean-Luc Mélenchon, dit Franz-Olivier Giesbert |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Jean-Luc+M%C3%A9lenchon, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

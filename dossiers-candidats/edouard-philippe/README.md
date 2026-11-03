@@ -480,6 +480,84 @@ Total : 54 articles.
 | 02/07 | Horizons, le parti d’Édouard Philippe, désigne Sophie Gambiez comme déléguée départementale de la Sarthe |
 | 01/07 | Présidentielle : selon Edouard Philippe, ce serait « dangereux » si Attal et lui se présentaient au premier tour |
 
+## Europe 1 (europe1.fr)
+
+Source : https://www.europe1.fr/rechercher/%C3%89douard%20Philippe (recherche du site, 10 résultats par page). La date de chaque article est lue sur sa page (date de publication), car la liste des résultats n'en affiche pas. Relevé arrêté une fois une page entièrement antérieure au 1er juillet 2026 atteinte, ou à trois pages entières antérieures d'affilée. Un article est compté si « Édouard Philippe » figure dans son titre ; le chapô n'est pas relevé.
+
+Total : 69 articles.
+
+| Date (2026) | Titre |
+|---|---|
+| 01/11 | «Une primaire de la division et de la confusion» : Edouard Philippe tacle Gabriel Attal |
+| 29/10 | Soupçons de détournement de fonds publics : Edouard Philippe placé sous le statut de témoin assisté |
+| 29/10 | Sondages au plus bas, dynamiques cassées… Edouard Philippe et Gabriel Attal en difficulté |
+| 27/10 | Primaire à droite : «C'est surtout Édouard Philippe qui bloque», affirme David Lisnard |
+| 18/10 | Violences du 17 octobre : Édouard Philippe se «pose des questions» sur le niveau du renseignement et du dispositif |
+| 16/10 | «Édouard Philippe ne comprend rien à ce qu'est la France», déplore Pascal Praud |
+| 10/10 | Présidentielle 2027 : Edouard Philippe à Mayotte : «Il faut arrêter cette immigration massive » selon Christophe Naegelen, député LIOT des Vosges |
+| 09/10 | Édouard Philippe : «Ça sera le troisième quinquennat Macron», prévient Pascal Praud |
+| 09/10 | Immigration légale : «Je n'ai pas trouvé Édouard Philippe très convaincant», confie Eugénie Bastié |
+| 09/10 | «Édouard Philippe incarne tous ceux qui ont mis la France dans le mur depuis 40 ans», estime Pasc... |
+| 09/10 | «Édouard Philippe est fabriqué pour ne rien faire», souligne Pascal Praud |
+| 09/10 | Immigration légale : «Édouard Philippe ne fera rien, ça peut être un choix», prévient Pascal Praud |
+| 09/10 | «Édouard Philippe incarne tous ceux qui ont mis la France dans le mur depuis 40 ans», estime Pascal Praud |
+| 09/10 | «Édouard Philippe est à côté de la plaque», estime Pascal Praud |
+| 02/10 | Gérald Darmanin et Édouard Philippe : «Ces gens préparent déjà le deuxième tour», estime Jean-Phi... |
+| 02/10 | Gérald Darmanin et Édouard Philippe : «Ces gens préparent déjà le deuxième tour», estime Jean-Philippe Tanguy |
+| 01/10 | Propos attribués à Jordan Bardella : Édouard Philippe refuse de commenter l'affaire sans preuves |
+| 30/09 | Avec la retraite à 65 ans, Edouard Philippe s'aligne sur son concurrent Bruno Retailleau |
+| 29/09 | Retraites : Édouard Philippe propose de «porter progressivement la durée de cotisation à 45 ans et l'âge de départ à 65 ans» |
+| 28/09 | «Les sondages on s'en fout» Edouard Philippe |
+| 23/09 | Retraites : «Bruno Retailleau a coupé l'herbe sous le pied à Édouard Philippe», note Mayalène Trémolet |
+| 23/09 | Retraites : «Bruno Retailleau a coupé l'herbe sous le pied à Édouard Philippe», note Mayalène Tré... |
+| 23/09 | «Immature» : Édouard Philippe tacle Gabriel Attal dans un livre |
+| 15/09 | Édouard Philippe, l'hypo-président ? |
+| 12/09 | Election présidentielle 2027 : Édouard Philippe appelle à l'union sans nommer ses rivaux |
+| 11/09 | «Se reposer, décompresser» : Édouard Philippe souhaite une prise de fonction du président «en septembre», une proposition qui fait bondir ses adversaires |
+| 11/09 | Présidentielle : « Édouard Philippe incarne le retour du roi fainéant », tacle Éric Tegnér |
+| 11/09 | Édouard Philippe : fatigué avant d'avoir commencé ? |
+| 11/09 | Édito Pascal Praud - Édouard Philippe : «Fatigué avant d'avoir commencé ?» |
+| 11/09 | Édouard Philippe fatigué : «Qu'il n'y aille pas, ça sera encore mieux», ironise Pascal Praud |
+| 11/09 | Édouard Philippe fatigué : «Ça part très mal cette campagne présidentielle», ironise Pascal Praud |
+| 11/09 | «Édouard Philippe est fatigué avant d'avoir commencé», ironise Pascal Praud |
+| 10/09 | Édouard Philippe, l’ombre d’un doute… |
+| 09/09 | Édouard Philippe rejeté : Pourquoi Gabriel Attal et Bruno Retailleau disent-ils non ? |
+| 08/09 | Édouard Philippe veut réunir les partis «de la droite du centre» à la Toussaint : «Je n’irai pas», répond Bruno Retailleau |
+| 03/09 | 2027 : «Édouard Philippe a peur» de la primaire, juge David Lisnard |
+| 02/09 | 2027 : «L'immigration est un projet de société pour Edouard Philippe et Gabriel Attal», juge Sébastien Chenu |
+| 31/08 | Édouard Philippe et Gérald Darmanin peuvent-ils convaincre en revendiquant le bilan Macron ? |
+| 31/08 | Immigration : «Édouard Philippe met en danger l'ADN ou l'identité de la France», note Pascal Praud |
+| 30/08 | «La seule personne qui peut gagner» : Gérald Darmanin apporte son soutien à Édouard Philippe pour la présidentielle 2027 |
+| 30/08 | Présidentielle : Édouard Philippe veut créer «un nouveau parti» pour rassembler la droite et le centre |
+| 30/08 | Présidentielle 2027 : Gabriel Attal assume ses «différences» avec Édouard Philippe et ses «idées d'il y a 20 ans» |
+| 29/08 | Présidentielle 2027 : Édouard Philippe refuse le moratoire général sur l'immigration légale demandé par Gérald Darmanin |
+| 28/08 | «Sous Macron, 1.000 milliards d'euros de dettes supplémentaires» : Gabriel Attal et Édouard Philippe rattrapés par leur bilan au débat du Medef |
+| 27/08 | Présidentielle 2027 : Édouard Philippe veut abaisser à 12 mois la durée de l'indemnisation chômage pour les moins de 50 ans |
+| 26/08 | Édouard Philippe, Bruno Retailleau… Mayotte est-elle le laboratoire des candidats à la présidentielle sur l'immigration ? |
+| 26/08 | «Edouard Philippe et Gabriel Attal sont des enfants du macronisme», estime François-Xavier Bellamy |
+| 25/08 | Entre Édouard Philippe et Gabriel Attal, le duel sur l’école se durcit à l’approche de la présidentielle |
+| 25/08 | Édouard Philippe sujet central dans les journaux ce matin |
+| 24/08 | Édouard Philippe veut augmenter de 20% la rémunération moyenne des enseignants sur un quinquennat |
+| 23/08 | Édouard Philippe écarte la candidature de Sébastien Lecornu à la présidentielle |
+| 22/08 | Edouard Philippe à Mayotte : «Supprimer totalement le droit du sol va se heurter à la Constitution », estime Georges Fenech |
+| 21/08 | Immigration à Mayotte : «Édouard Philippe, c’est le chauffard ivre qui tape le platane mais qui veut nous expliquer comment négocier le virage», lance Fatihou Ibrahime |
+| 21/08 | À Mayotte, Édouard Philippe tente de s’imposer sur le terrain de l’immigration |
+| 20/08 | Édouard Philippe veut «fermer les vannes de l'immigration» à Mayotte et suspendre les demandes d'asile |
+| 17/08 | Présidentielle 2027 : Gérald Darmanin apporte son soutien à Édouard Philippe |
+| 17/08 | «J'ai un esprit de loyauté» : Gérald Darmanin apporte son soutien à Édouard Philippe pour la présidentielle de 2027 |
+| 03/08 | Présidentielle 2027 : vers une primaire entre Gabriel Attal et Édouard Philippe ? |
+| 18/07 | Enquête du PNF sur Edouard Philippe : un tribunal maintient le statut de la lanceuse d'alerte |
+| 08/07 | «Sa candidature n'est une bonne nouvelle ni pour Gabriel Attal, ni pour Édouard Philippe» Lavalette |
+| 06/07 | Edouard Philippe, un projet politique encore flou |
+| 05/07 | Présidentielle 2027 : Édouard Philippe demandera des «efforts justes, partagés et étalés dans le temps» s'il est élu |
+| 05/07 | Présidentielle 2027 : pour son premier grand meeting à Paris, Édouard Philippe veut briser la glace |
+| 04/07 | La règle d'or sur le déficit proposée par Édouard Philippe est-elle applicable en France ? |
+| 02/07 | Présidentielle 2027 : Édouard Philippe se réjouit des compliments de Laurent Wauquiez |
+| 02/07 | «Edouard Philippe ne fait pas la chasse au ralliement», assure Jérémie Patrier-Leitus |
+| 02/07 | Présidentielle 2027 : Édouard Philippe est-il le clone d’Emmanuel Macron ? |
+| 02/07 | Présidentielle 2027 : Comment Laurent Wauquiez et Édouard Philippe continuent d'achever la droite ? |
+| 01/07 | Présidentielle : Édouard Philippe, le candidat du système pour maintenir la macronie au pouvoir ? |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=%C3%89douard+Philippe, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

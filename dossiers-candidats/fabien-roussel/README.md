@@ -143,6 +143,21 @@ Total : 13 articles.
 | 21/08 | À Toulouse, les communistes se préparent à la candidature de Fabien Roussel pour la présidentielle |
 | 05/07 | Fabien Roussel réélu à la tête du Parti communiste et « à 85 % » candidat à la présidentielle |
 
+## Europe 1 (europe1.fr)
+
+Source : https://www.europe1.fr/rechercher/Fabien%20Roussel (recherche du site, 10 résultats par page). La date de chaque article est lue sur sa page (date de publication), car la liste des résultats n'en affiche pas. Relevé arrêté une fois une page entièrement antérieure au 1er juillet 2026 atteinte, ou à trois pages entières antérieures d'affilée. Un article est compté si « Roussel » figure dans son titre ; le chapô n'est pas relevé.
+
+Total : 6 articles.
+
+| Date (2026) | Titre |
+|---|---|
+| 12/09 | Fête de l'Humanité : Jean-Luc Mélenchon et Fabien Roussel se livrent une bataille de leadership |
+| 11/09 | Prix des carburants : le communiste Fabien Roussel appelle à «se mobiliser sur les ronds-points» |
+| 10/09 | « Je confonds avec une autre ville communiste" : Les ratés embarrassants de Fabien Roussel |
+| 07/09 | Présidentielle : La candidature de Fabien Roussel peut-elle faire trembler La France Insoumise ? |
+| 06/09 | Présidentielle 2027 : le communiste Fabien Roussel officialise sa candidature |
+| 05/07 | Présidentielle 2027 : réélu sans surprise à la tête du PCF, Fabien Roussel est candidat à «85%» |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Fabien+Roussel, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

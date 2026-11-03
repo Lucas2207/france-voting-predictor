@@ -194,6 +194,57 @@ Total : 13 articles.
 | 02/09 | Présidentielle 2027 : David Lisnard assure avoir déjà recueilli 500 promesses de parrainages |
 | 25/08 | Présidentielle 2027: David Lisnard relance l’idée d’une primaire de la droite et du centre |
 
+## Europe 1 (europe1.fr)
+
+Source : https://www.europe1.fr/rechercher/David%20Lisnard (recherche du site, 10 résultats par page). La date de chaque article est lue sur sa page (date de publication), car la liste des résultats n'en affiche pas. Relevé arrêté une fois une page entièrement antérieure au 1er juillet 2026 atteinte, ou à trois pages entières antérieures d'affilée. Un article est compté si « Lisnard » figure dans son titre ; le chapô n'est pas relevé.
+
+Total : 42 articles.
+
+| Date (2026) | Titre |
+|---|---|
+| 28/10 | Objectif Élysée 2027 avec David Lisnard |
+| 28/10 | Présidentielle 2027 : entre David Lisnard et Bruno Retailleau, le match se poursuit |
+| 27/10 | Loi «casseurs-payeurs» : «La société n'a plus à subventionner ceux qui la détruisent», fustige David Lisnard |
+| 27/10 | «L'extrême gauche empoisonne la tête de nos compatriotes d’origine étrangère, maghrébine ou algérienne», dénonce David Lisnard |
+| 27/10 | «Le problème derrière Parcoursup, c'est ce mythe de l'absence de sélection», pointe David Lisnard |
+| 27/10 | «Les dérives de Jean-Luc Mélenchon sont anti-républicaines», estime David Lisnard |
+| 27/10 | Primaire à droite : «C'est surtout Édouard Philippe qui bloque», affirme David Lisnard |
+| 27/10 | Émeutes, Parcoursup, primaire à droite... Ce qu’il faut retenir de l’interview de David Lisnard dans «Objectif Élysée 2027» |
+| 27/10 | Alliance des droites : Louis Aliot interroge David Lisnard sur un potentiel soutien à Marine Le Pen au second tour de la présidentielle |
+| 27/10 | Le RN pourrait-il s'allier avec David Lisnard ? |
+| 22/10 | SONDAGE - Présidentielle 2027 : après le 17 octobre, Marine Le Pen consolide son avance au premier tour, David Lisnard devance Gabriel Attal |
+| 21/10 | Violences en France : qui est Lola-Fleur Whittaker, l'étudiante proche de LFI opposée à David Lisnard sur LCI ? |
+| 21/10 | Violences : qui est Lola-Fleur Whittaker, étudiante proche de LFI opposée à David Lisnard sur LCI ? |
+| 20/10 | Présidentielle : «David Lisnard, c'est l'homme qui est surprenant», souligne G. Le Bret |
+| 17/10 | David Lisnard : «Il se passe quelque chose», à la Une du JDNEWS |
+| 16/10 | Présidentielle 2027 : «David Lisnard fait jeu égal ou devance Bruno Retailleau», constate Raphaël Stainville |
+| 15/10 | Présidentielle 2027 : un ticket avec David Lisnard ? «Évidemment qu'il faut qu'on se retrouve», affirme Bruno Retailleau |
+| 15/10 | Présidentielle 2027 : pour la première fois, David Lisnard dépasse Bruno Retailleau dans un sondage Ifop |
+| 14/10 | David Lisnard : «Il n’a pas peur de se prononcer pour les libertés», loue Hervé Novelli |
+| 14/10 | «Il se passe quelque chose» : sur les réseaux sociaux, le succès grandissant de David Lisnard |
+| 14/10 | «Entretien avec David Lisnard» à la Une du JDNews |
+| 13/10 | David Lisnard en retard sur le plateau de BFM et «se fait désirer» |
+| 09/10 | «David Lisnard a le mérite de la clarté», souligne Pascal Praud |
+| 30/09 | Refus de marier un étranger sous OQTF : à son procès, le maire de Béziers Robert Ménard sait qu'il pourra compter sur les soutiens de Bruno Retailleau et David Lisnard |
+| 10/09 | Tensions chez Les Républicains : David Lisnard et Bruno Retailleau peuvent-ils dépasser leur haine ? |
+| 03/09 | David Lisnard réagit à la proposition du RN de sanctionner le port du voile dans l'espace public |
+| 03/09 | Dimitri Pavlenko avec Yves Puget et David Lisnard |
+| 03/09 | «Jean-Luc Mélenchon a vrillé dans le néofascisme», lance David Lisnard |
+| 03/09 | Présidentielle : «L’État-providence est mort car on ne fait plus d’enfants, qu’on maîtrise plus l'immigration et qu’on ne fait pas de gains de productivité», estime David Lisnard |
+| 03/09 | «Ils exaspèrent tout le monde» : David Lisnard dénonce le mouvement des syndicats de Radio France contre l'éditorialiste Charles Sapin |
+| 03/09 | «Il faut casser les ressorts de l'islamisme» : David Lisnard réagit à la proposition du RN de sanctionner le port du voile dans l'espace public |
+| 03/09 | 2027 : «Édouard Philippe a peur» de la primaire, juge David Lisnard |
+| 31/08 | «Est-il boycotté ?» : Gérard Carreyrou s'étonne de l'absence de David Lisnard dans les grands médias |
+| 31/08 | David Lisnard veut faire gagner «la France du réel» |
+| 31/08 | Présidentielle 2027 : «David Lisnard est différent», note Pascal Praud |
+| 31/08 | 2027 : «David Lisnard est en train de réussir son coup», souligne Olivier De Lagarde |
+| 28/08 | Présidentielle 2027 : David Lisnard fait sa rentée politique à Cannes ce samedi avec la volonté d'imposer sa ligne politique |
+| 28/08 | Débat présidentiel : les absences de David Lisnard et Eric Zemmour étaient «difficilement explicables», selon Jules Torres |
+| 25/08 | «Aucun candidat naturel ne s'impose» : David Lisnard relance son appel à une primaire ouverte à droite et au centre |
+| 09/08 | A la Une du JDD : David Lisnard, «Je veux être le candidat du pays réel» |
+| 22/07 | Burkini : le maire de Cannes, David Lisnard revient sur les tensions autour de son interdiction |
+| 04/07 | Présidentielle 2027 : David Lisnard lance sa campagne à Saint-Raphaël |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=David+Lisnard, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

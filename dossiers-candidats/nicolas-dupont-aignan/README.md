@@ -110,6 +110,32 @@ Total : 2 articles.
 | 07/09 | Sénatoriales 2026 en Sarthe : Marie-Caroline Le Pen soutenue par Nicolas Dupont-Aignan |
 | 04/07 | Présidentielle. L’ancien maire de Cholet interviendra dans une réunion de Debout la France avec Nicolas Dupont-Aignan |
 
+## Europe 1 (europe1.fr)
+
+Source : https://www.europe1.fr/rechercher/Nicolas%20Dupont-Aignan (recherche du site, 10 résultats par page). La date de chaque article est lue sur sa page (date de publication), car la liste des résultats n'en affiche pas. Relevé arrêté une fois une page entièrement antérieure au 1er juillet 2026 atteinte, ou à trois pages entières antérieures d'affilée. Un article est compté si « Dupont-Aignan » figure dans son titre ; le chapô n'est pas relevé.
+
+Total : 17 articles.
+
+| Date (2026) | Titre |
+|---|---|
+| 11/10 | Frontières, budget, monnaie... «L'UE est en train de nous étrangler», affirme Nicolas Dupont-Aignan |
+| 11/10 | Le grand rendez-vous avec Nicolas Dupont-Aignan, candidat à l’élection présidentielle, président de Debout la France |
+| 11/10 | EXTRAIT- Nicolas Dupont-Aignan pour la capitalisation publique |
+| 11/10 | Retraites : Nicolas Dupont-Aignan veut une «capitalisation publique» |
+| 11/10 | Face à «l’effondrement du système éducatif», Nicolas Dupont-Aignan veut «supprimer Parcoursup» et rétablir un bac «impartial» |
+| 11/10 | Mobilisation lycéenne : «Le gouvernement a laissé démarrer l'incendie», dénonce Nicolas Dupont-Aignan |
+| 11/10 | «Ce n’est plus un mouvement lycéen, c’est un début de guerre civile», pointe Nicolas Dupont-Aignan |
+| 19/09 | Présidentielle 2027 : Nicolas Dupont-Aignan promet de «décoloniser la France» en sortant de l'UE |
+| 16/09 | Un portefeuille de 2.000 milliards d'euros : comment est organisé le fonds de pension norvégien, dont veut s’inspirer Nicolas Dupont-Aignan ? |
+| 16/09 | Dimitri Pavlenko avec Sonia et Nicolas Dupont-Aignan |
+| 16/09 | Pouvoir d'achat : «Si vous ne vous mobilisez pas, il ne se passera rien», l'appel de Nicolas Dupont-Aignan aux Français |
+| 16/09 | «Restaurer la confiance» : Nicolas Dupont-Aignan propose un capital de «10.000 euros pour chaque nouveau-né garantissant un minimum retraite par capitalisation» |
+| 16/09 | Carburant : «Si vous ne vous mobilisez pas, vous allez crever la bouche ouverte», assure Nicolas Dupont-Aignan |
+| 16/09 | «Il faut sortir de l'Union européenne pour reconstruire la France», alerte Nicolas Dupont-Aignan |
+| 16/09 | Carburant : «Ils étranglent ceux qui bossent avec leur voiture», dénonce Nicolas Dupont-Aignan |
+| 03/07 | Fin de vie : «Comment des parlementaires ont pu voter ça ?», s'interroge Nicolas Dupont-Aignan |
+| 03/07 | Canicule : «Le gouvernement est complètement vérolé par l'idéologie verte», juge Nicolas Dupont-Aignan |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Nicolas+Dupont-Aignan, parcouru jusqu'au 1er juillet 2026.

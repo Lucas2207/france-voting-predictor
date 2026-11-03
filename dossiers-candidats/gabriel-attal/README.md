@@ -467,6 +467,65 @@ Total : 51 articles.
 | 15/07 | Le van de Gabriel Attal s’arrête à Cholet ce samedi 18 juillet |
 | 02/07 | Présidentielle 2027 : Gabriel Attal veut 100 000 départs volontaires de fonctionnaires et l’« impunité budgétaire zéro » |
 
+## Europe 1 (europe1.fr)
+
+Source : https://www.europe1.fr/rechercher/Gabriel%20Attal (recherche du site, 10 résultats par page). La date de chaque article est lue sur sa page (date de publication), car la liste des résultats n'en affiche pas. Relevé arrêté une fois une page entièrement antérieure au 1er juillet 2026 atteinte, ou à trois pages entières antérieures d'affilée. Un article est compté si « Attal » figure dans son titre ; le chapô n'est pas relevé.
+
+Total : 50 articles.
+
+| Date (2026) | Titre |
+|---|---|
+| 01/11 | «Une primaire de la division et de la confusion» : Edouard Philippe tacle Gabriel Attal |
+| 29/10 | «Le 20h de Gabriel Attal... J'allais dire tout le monde s'en fout» : G. Le Bret cash sur la présidentielle |
+| 29/10 | Sondages au plus bas, dynamiques cassées… Edouard Philippe et Gabriel Attal en difficulté |
+| 28/10 | Présidentielle 2027 : Gabriel Attal franchit le pas et prône une «primaire des démocrates» |
+| 22/10 | SONDAGE - Présidentielle 2027 : après le 17 octobre, Marine Le Pen consolide son avance au premier tour, David Lisnard devance Gabriel Attal |
+| 10/10 | Colère des lycéens : en meeting à Lyon, Gabriel Attal lance un appel à la jeunesse |
+| 07/10 | Blocus des lycées : «Votre bilan est désastreux, vous êtes le visage du laxisme», lance L. Montangon à Gabriel Attal |
+| 07/10 | Quand un Gabriel Attal défend le textile français jusque dans son slip |
+| 07/10 | «Gabriel Attal n'ose même pas dire à ces jeunes qu'il faut qu'ils bossent», note Pascal Praud |
+| 30/09 | Dimitri Pavlenko avec Gilles Kepel et Gabriel Attal |
+| 30/09 | Budget 2027 : «On doit éviter une crise de la dette», alerte Gabriel Attal |
+| 30/09 | «Une vraie décote si vous partez tôt, une vraie surcote si vous partez tard» : Gabriel Attal appelle à «changer de système de retraite» |
+| 30/09 | «La violence peut être légitime» : Gabriel Attal regrette les propos de Bally Bagayoko |
+| 30/09 | Blocus des lycées : «LFI se sert de notre jeunesse comme chair à canon politique», juge Gabriel Attal |
+| 30/09 | Lycées : «LFI se sert de notre jeunesse comme de la chair à canon politique», dénonce Gabriel Attal |
+| 29/09 | Propos antisémites attribués à Jordan Bardella : «Avec Gabriel Attal nous combattons l'antisémitisme d'où qu'il vienne», affrime Jad Zahab, porte-parole Renaissance |
+| 29/09 | Présidentielle 2027: «Je pense que Gabriel Attal sera au second tour, nous ferons tout pour y être», exprime Jad Zahab, porte-parole Renaissance |
+| 24/09 | Gabriel Attal veut réaliser 150 milliards d'euros d'économies |
+| 23/09 | «Immature» : Édouard Philippe tacle Gabriel Attal dans un livre |
+| 21/09 | Gabriel Attal : quand la com tue la com |
+| 21/09 | Vote LFI : le rappel de Marion Maréchal à Gabriel Attal |
+| 17/09 | «Le projet d'une génération» : Gabriel Attal appelle à créer les «États-Unis d'Europe» |
+| 15/09 | Election présidentielle 2027 : «La France n'est pas dans un état aussi catastrophique», estime le porte-parole de Gabriel Attal |
+| 15/09 | Gabriel Attal, le lourd héritage d'Emmanuel Macron |
+| 15/09 | «Gabriel Attal c'est le vrai bébé Macron», note Thierry Saussez |
+| 14/09 | Présidentielle 2027 : Gabriel Attal propose des journées scolaires plus courtes et moins de vacances |
+| 09/09 | Sarah Knafo, Gabriel Attal, Élisabeth Borne : le classement des ventes de livres politiques |
+| 09/09 | Édouard Philippe rejeté : Pourquoi Gabriel Attal et Bruno Retailleau disent-ils non ? |
+| 09/09 | Opération 1000 bistrots : La grande comédie de la proximité électorale de Gabriel Attal |
+| 08/09 | Gabriel Attal dans les bars : Le ridicule d'une communication populaire forcée |
+| 08/09 | Gabriel Attal dans les bistrots : «C'est Amélie Poulain», ironise Pascal Praud |
+| 02/09 | 2027 : «L'immigration est un projet de société pour Edouard Philippe et Gabriel Attal», juge Sébastien Chenu |
+| 01/09 | Immigration : Charlotte d'Ornellas juge «impossible» la priorité au travail défendue par Gabriel Attal |
+| 30/08 | Présidentielle 2027 : Gabriel Attal assume ses «différences» avec Édouard Philippe et ses «idées d'il y a 20 ans» |
+| 28/08 | «Sous Macron, 1.000 milliards d'euros de dettes supplémentaires» : Gabriel Attal et Édouard Philippe rattrapés par leur bilan au débat du Medef |
+| 26/08 | «Edouard Philippe et Gabriel Attal sont des enfants du macronisme», estime François-Xavier Bellamy |
+| 25/08 | Entre Édouard Philippe et Gabriel Attal, le duel sur l’école se durcit à l’approche de la présidentielle |
+| 21/08 | Présidentielle 2027 : Gabriel Attal de nouveau ciblé par des opérations de désinformation prorusses |
+| 15/08 | Gabriel Attal appelle à un référendum sur l'interdiction des réseaux aux moins de 15 ans |
+| 09/08 | "La plus grande chasse au gâchis" : Gabriel Attal souhaite lancer un plan "massif" sur la gestion de l'eau s'il est élu en 2027 |
+| 08/08 | Election présidentielle 2027 : Gabriel Attal porte plainte, dénonçant une ingérence russe |
+| 05/08 | Gens du voyage : Gabriel Attal présente ses propositions pour lutter contre les installations illégales et veut durcir le ton sur le régalien |
+| 04/08 | Présidentielle 2027 : le discours de Gabriel Attal, un glissement à droite maîtrisé ? |
+| 03/08 | Présidentielle 2027 : vers une primaire entre Gabriel Attal et Édouard Philippe ? |
+| 03/08 | Présidentielle 2027 : Gabriel Attal joue la carte de la rupture |
+| 02/08 | À la Une du JDD : Gabriel Attal : «Je propose la plus grande réforme institutionnelle depuis 1958» |
+| 30/07 | Présidentielle 2027 : pendant l'été, Gabriel Attal et Bruno Retailleau continuent d'occuper le terrain |
+| 15/07 | «Pour la France. La Renaissance» : Gabriel Attal assigne Marine Le Pen pour «contrefaçon de marque» sur une affiche de campagne |
+| 08/07 | Pourvoi en Cassation : « Marine Le Pen engage une forme de guérilla judiciaire », lance Gabriel Attal |
+| 08/07 | «Sa candidature n'est une bonne nouvelle ni pour Gabriel Attal, ni pour Édouard Philippe» Lavalette |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Gabriel+Attal, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

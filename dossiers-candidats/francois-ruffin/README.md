@@ -157,6 +157,14 @@ Total : 17 articles.
 | 08/07 | Election présidentielle : le candidat François Ruffin en déplacement dans la Manche |
 | 06/07 | François Ruffin annonce le dépôt d’un texte pour mettre fin aux « privilèges » des anciens présidents |
 
+## Europe 1 (europe1.fr)
+
+Source : https://www.europe1.fr/rechercher/Fran%C3%A7ois%20Ruffin (recherche du site, 10 résultats par page). La date de chaque article est lue sur sa page (date de publication), car la liste des résultats n'en affiche pas. Relevé arrêté une fois une page entièrement antérieure au 1er juillet 2026 atteinte, ou à trois pages entières antérieures d'affilée. Un article est compté si « Ruffin » figure dans son titre ; le chapô n'est pas relevé.
+
+Total : 0 articles.
+
+Aucun article de la période ne porte le nom du candidat dans son titre.
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Fran%C3%A7ois+Ruffin, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

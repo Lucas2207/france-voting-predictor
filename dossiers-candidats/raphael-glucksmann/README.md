@@ -602,6 +602,49 @@ Total : 79 articles.
 | 04/08 | Raphaël Glucksmann dénonce une opération russe de « déstabilisation » le visant, à moins d’un an de la présidentielle |
 | 30/07 | Léa Salamé sera bien présente à la rentrée sur France 2, malgré le premier débat de Raphaël Glucksmann fin août sur LCI |
 
+## Europe 1 (europe1.fr)
+
+Source : https://www.europe1.fr/rechercher/Rapha%C3%ABl%20Glucksmann (recherche du site, 10 résultats par page). La date de chaque article est lue sur sa page (date de publication), car la liste des résultats n'en affiche pas. Relevé arrêté une fois une page entièrement antérieure au 1er juillet 2026 atteinte, ou à trois pages entières antérieures d'affilée. Un article est compté si « Glucksmann » figure dans son titre ; le chapô n'est pas relevé.
+
+Total : 34 articles.
+
+| Date (2026) | Titre |
+|---|---|
+| 15/10 | Une chanson s'attaque avec humour à Raphaël Glucksmann |
+| 14/10 | La victoire de Raphaël Glucksmann, une mauvaise nouvelle pour François Hollande ? |
+| 13/10 | «C'est notre adversaire idéal» : pourquoi LFI se réjouit-elle de la victoire de Raphaël Glucksmann à la primaire socialiste ? |
+| 12/10 | Victoire à la primaire socialiste de Raphaël Glucksmann : « Je me félicite qu’il ait rompu avec la secte» pointe Ivan Rioufol |
+| 12/10 | Raphaël Glucksmann gagne la primaire socialiste : «C'est la validation qu'il existe une gauche non Mélenchoniste» pointe Jean-Michel Salvator |
+| 12/10 | «Raphaël Glucksmann se laisse persécuter par LFI qui le méprise», note Gabrielle Cluzel |
+| 12/10 | 2027 : «Raphaël Glucksmann n'aura pas d'autre choix que de se rallier à LFI», prévient Gabrielle Cluzel |
+| 12/10 | «Jean-Luc Mélenchon redoute davantage François Hollande que Raphaël Glucksmann», estime Thomas Bo... |
+| 12/10 | Raphaël Glucksmann : «La bataille de France commence» |
+| 12/10 | «Jean-Luc Mélenchon redoute davantage François Hollande que Raphaël Glucksmann», estime Thomas Bonnet |
+| 12/10 | Raphaël Glucksmann : grande victoire, petit espace |
+| 11/10 | Primaire socialiste : Raphaël Glucksmann élu dès le premier tour avec 66% des voix |
+| 05/10 | « On leur pisse dessus ! » : Raphaël Glucksmann se lâche sur Marine Le Pen et Jean-Luc Mélenchon |
+| 03/10 | «On leur pisse dessus» : les propos privés de Raphaël Glucksmann qui font polémique |
+| 23/09 | L'éloge de Raphaël Glucksmann à Nicolas Sarkozy |
+| 23/09 | Raphaël Glucksmann : «Il est sarkosiste un jour mais pas le lendemain», ironise Éric Naulleau |
+| 21/09 | Primaire socialiste : les esprits s'échauffent entre Ségolène Royal et Raphaël Glucksmann |
+| 21/09 | Pascal Praud sur Raphaël Glucksmann : «On peut s'interroger sur ses capacités à diriger» |
+| 21/09 | Raphaël Glucksmann n’avalera pas le bureau de Jean-Luc Mélenchon |
+| 15/09 | Primaire de la gauche : Ségolène Royal accuse Raphaël Glucksmann d'avoir «verrouillé le vote» |
+| 14/09 | Raphaël Glucksmann candidat à la présidentielle : «le compromis» de Léa Salamé après son retrait du 20 heures |
+| 04/09 | Interdiction du voile : Pourquoi Raphaël Glucksmann s'aligne sur la rhétorique de LFI ? |
+| 01/09 | Immigration : Raphaël Glucksmann sur la ligne de Pedro Sànchez? |
+| 31/08 | Candidature de Raphaël Glucksmann : «Il se sent mystiquement investi d'une mission» |
+| 30/08 | Présidentielle 2027 : Raphaël Glucksmann propose d’augmenter les salaires des enseignants d’au moins 10% |
+| 29/08 | Présidentielle 2027 : derrière Marine Le Pen, Jean-Luc Mélenchon recule et Raphaël Glucksmann progresse |
+| 28/08 | François Hollande prépare-t-il une candidature hors primaire pour doubler Raphaël Glucksmann ? |
+| 27/08 | Candidature de Raphaël Glucksmann : Léa Salamé devait-elle vraiment quitter le 20h de France 2 ? |
+| 24/08 | Présidentielle 2027 : Raphaël Glucksmann veut rassembler la gauche et faire barrage à Jean-Luc Mélenchon |
+| 24/08 | Raphaël Glucksmann officialise sa candidature pour 2027 et le conseil des ministres de rentrée sous tension |
+| 24/08 | Présidentielle 2027 : «Raphaël Glucksmann n'a pas de chance d'être au second tour», estime Sylvain Maillard |
+| 23/08 | «Je ne prends pas cette décision à la légère» : Raphaël Glucksmann officialise sa candidature à l'élection présidentielle |
+| 23/08 | Présidentielle 2027 : Raphaël Glucksmann, invité au 20H de TF1, devrait annoncer sa candidature ce soir |
+| 22/08 | Élection présidentielle 2027 : Raphaël Glucksmann, invité au 20H de TF1 ce dimanche, devrait annoncer sa candidature |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Rapha%C3%ABl+Glucksmann, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

@@ -94,6 +94,14 @@ Total : 5 articles.
 | 19/09 | À Nantes, Nathalie Arthaud appelle les travailleurs à « peser » dans la présidentielle |
 | 24/08 | À Quimper, les militants de Nathalie Arthaud déjà sur le terrain pour la présidentielle |
 
+## Europe 1 (europe1.fr)
+
+Source : https://www.europe1.fr/rechercher/Nathalie%20Arthaud (recherche du site, 10 résultats par page). La date de chaque article est lue sur sa page (date de publication), car la liste des résultats n'en affiche pas. Relevé arrêté une fois une page entièrement antérieure au 1er juillet 2026 atteinte, ou à trois pages entières antérieures d'affilée. Un article est compté si « Arthaud » figure dans son titre ; le chapô n'est pas relevé.
+
+Total : 0 articles.
+
+Aucun article de la période ne porte le nom du candidat dans son titre.
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Nathalie+Arthaud, parcouru jusqu'au 1er juillet 2026.

@@ -123,6 +123,22 @@ Total : 9 articles.
 | 11/09 | Elle met « sur la table un certain nombre de propositions » : Natacha Polony veut « chambouler » la politique |
 | 29/08 | Présidentielle 2027 : Natacha Polony se lance en politique et ne ferme pas la porte à une candidature |
 
+## Europe 1 (europe1.fr)
+
+Source : https://www.europe1.fr/rechercher/Natacha%20Polony (recherche du site, 10 résultats par page). La date de chaque article est lue sur sa page (date de publication), car la liste des résultats n'en affiche pas. Relevé arrêté une fois une page entièrement antérieure au 1er juillet 2026 atteinte, ou à trois pages entières antérieures d'affilée. Un article est compté si « Polony » figure dans son titre ; le chapô n'est pas relevé.
+
+Total : 7 articles.
+
+| Date (2026) | Titre |
+|---|---|
+| 21/10 | Présidentielle 2027 : Natacha Polony candidate simplement car «elle aime son pays» |
+| 20/10 | «Les Français ont voté par défaut pour Emmanuel Macron», assure Natacha Polony |
+| 20/10 | «Il faut assumer qu'un émeutier peut être blessé ou tué dans le cadre strict du respect de la loi», note Natacha Polony |
+| 20/10 | «La France brûle et monsieur Macron fait semblant de regarder ailleurs», s'indigne Natacha Polony |
+| 20/10 | «Mon ennemie c'est la chienlit», revendique Natacha Polony |
+| 15/10 | Présidentielle 2027 : Natacha Polony porte à 34 le nombre de candidats |
+| 14/10 | Présidentielle 2027 : l'essayiste Natacha Polony annonce sa candidature à l'élection présidentielle |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Natacha+Polony, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

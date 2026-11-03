@@ -137,6 +137,27 @@ Total : 6 articles.
 | 02/09 | Présidentielle 2027. En attendant qu’Eric Zemmour se prononce, Sarah Knafo continue d’écrire son histoire |
 | 30/07 | L’Arcom inflige une amende de 200 000 € à CNews pour deux séquences avec Éric Zemmour et Erik Tegnér |
 
+## Europe 1 (europe1.fr)
+
+Source : https://www.europe1.fr/rechercher/%C3%89ric%20Zemmour (recherche du site, 10 résultats par page). La date de chaque article est lue sur sa page (date de publication), car la liste des résultats n'en affiche pas. Relevé arrêté une fois une page entièrement antérieure au 1er juillet 2026 atteinte, ou à trois pages entières antérieures d'affilée. Un article est compté si « Zemmour » figure dans son titre ; le chapô n'est pas relevé.
+
+Total : 12 articles.
+
+| Date (2026) | Titre |
+|---|---|
+| 18/10 | Émeutes du 17 octobre : «Ces gens-là sont mus par la haine de notre pays», déplore Éric Zemmour |
+| 07/10 | Blocus des lycées : Éric Zemmour veut faire payer les «casseurs» et leurs parents «jusqu'à la nuit des temps» |
+| 25/09 | Présidentielle 2027 : « Le vote utile va jouer contre Eric Zemmour », pense Georges Fenech |
+| 18/09 | Présidentielle 2027 : Eric Zemmour confirme qu'il sera candidat et durcit son discours sur l'immigration |
+| 14/09 | Reconquête : Éric Zemmour et Sarah Knafo complémentaires pour leur rentrée politique |
+| 13/09 | Présidentielle 2027 : Éric Zemmour appelle à un «vote du sursaut» lors de son discours de rentrée |
+| 13/09 | Université d’été de Reconquête à Port-Marly : Éric Zemmour va-t-il se déclarer candidat à la présidentielle de 2027 ? |
+| 10/09 | Éric Zemmour : «Pour discuter faut être deux», rappelle Louis Aliot |
+| 04/09 | Présidentielle 2027 : pour Éric Zemmour, sa candidature à l’Élysée n'a jamais fait l'objet du moindre doute |
+| 03/09 | Présidentielle 2027 : comment Éric Zemmour prépare sa candidature |
+| 02/09 | Présidentielle 2027 : Sarah Knafo, Éric Zemmour, quel candidat pour Reconquête ? |
+| 28/08 | Débat présidentiel : les absences de David Lisnard et Eric Zemmour étaient «difficilement explicables», selon Jules Torres |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=%C3%89ric+Zemmour, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

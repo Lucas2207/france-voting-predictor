@@ -360,6 +360,96 @@ Total : 37 articles.
 | 01/07 | Présidentielle : Bruno Retailleau « en colère » sur la date de l’élection |
 | 01/07 | Présidentielle : il faut « savoir se retirer si c’est nécessaire », estime Laurent Wauquiez à propos de Bruno Retailleau |
 
+## Europe 1 (europe1.fr)
+
+Source : https://www.europe1.fr/rechercher/Bruno%20Retailleau (recherche du site, 10 résultats par page). La date de chaque article est lue sur sa page (date de publication), car la liste des résultats n'en affiche pas. Relevé arrêté une fois une page entièrement antérieure au 1er juillet 2026 atteinte, ou à trois pages entières antérieures d'affilée. Un article est compté si « Retailleau » figure dans son titre ; le chapô n'est pas relevé.
+
+Total : 81 articles.
+
+| Date (2026) | Titre |
+|---|---|
+| 28/10 | Alexandre Le Mer avec Frédéric Encel et Bruno Retailleau |
+| 28/10 | Présidentielle 2027 : entre David Lisnard et Bruno Retailleau, le match se poursuit |
+| 28/10 | «Personne ne veut dire qu'il y a un lien entre le désordre migratoire et le désordre sécuritaire», note Bruno Retailleau |
+| 28/10 | «Il y a un lien entre le désordre migratoire et le désordre sécuritaire», constate Bruno Retailleau, président Les Républicains |
+| 28/10 | Primaire à droite : «Il faut qu'Edouard Phillipe y soit», déclare Bruno Retailleau |
+| 28/10 | Trappes : «Il y a eu de l'instrumentalisation par LFI», dénonce Bruno Retailleau |
+| 28/10 | «Il faut changer les dates» : Bruno Retailleau appelle une nouvelle fois à reprogrammer l'élection présidentielle |
+| 28/10 | «La violence est légitimée par La France insoumise», assure Bruno Retailleau, candidat des Républicains à la présidentielle |
+| 16/10 | Présidentielle 2027 : «David Lisnard fait jeu égal ou devance Bruno Retailleau», constate Raphaël Stainville |
+| 15/10 | Bruno Retailleau sur LFI : «Un parti aussi anti-républicain ne mérite pas sa présence sur l'échiquier politique» |
+| 15/10 | Présidentielle 2027 : «J'ai toujours voulu l'union des droites par les électeurs, dans les urnes», affirme Bruno Retailleau |
+| 15/10 | «On a eu une droite qui a longtemps été dominée par une idéologie de gauche», juge Bruno Retailleau |
+| 15/10 | «Je différencie l'islam et l'islamisme politique», déclare Bruno Retailleau, président des Républicains |
+| 15/10 | «Le droit est totalement décalé de la réalité», déclare Bruno Retailleau, président des Républicains, au micro de Pascal Praud |
+| 15/10 | «On a longtemps eu une droite dominée par une idéologie de gauche», exprime Bruno Retailleau, président des Républicains |
+| 15/10 | «Le bilan d'Emmanuel Macron va disqualifier ses anciens Premiers ministres lors de la présidentielle», analyse Bruno Retailleau |
+| 15/10 | Bruno Retailleau critique le bilan d'Emmanuel Macron : «Après dix ans d'En marche, plus rien ne marche» |
+| 15/10 | Présidentielle 2027 : un ticket avec David Lisnard ? «Évidemment qu'il faut qu'on se retrouve», affirme Bruno Retailleau |
+| 15/10 | Présidentielle 2027 : pour la première fois, David Lisnard dépasse Bruno Retailleau dans un sondage Ifop |
+| 13/10 | Louis Alliot tend la main à Bruno Retailleau : «Ils anticipent les scénarios» d’une future majorité , analyse Michel Fayad |
+| 12/10 | Présidentielle 2027 : Bruno Retailleau promet des économies de près de 200 milliards d'euros jusqu'en 2032 |
+| 10/10 | Présidentielle : «Il faut un candidat unique qui aille jusqu'à Bruno Retailleau», selon Karl Olive, député Renaissance des Yvelines |
+| 07/10 | Blocus des lycées : la reprise des cours remplacée par un temps de «démocratie interne», Bruno Retailleau fustige une «câlinothérapie» |
+| 05/10 | «Bruno Retailleau, toutes les revendications sont un prétexte», estime Pascal Praud |
+| 05/10 | «Monsieur Retailleau, venez chez nous», l'appel de Philippe Ballard à Bruno Retailleau |
+| 01/10 | Tensions devant les lycées : Bruno Retailleau demande d'étudier l'interdiction de LFI |
+| 30/09 | Avec la retraite à 65 ans, Edouard Philippe s'aligne sur son concurrent Bruno Retailleau |
+| 30/09 | Refus de marier un étranger sous OQTF : à son procès, le maire de Béziers Robert Ménard sait qu'il pourra compter sur les soutiens de Bruno Retailleau et David Lisnard |
+| 27/09 | Sénatoriales : le candidat LR à la présidentielle Bruno Retailleau réélu en Vendée |
+| 23/09 | Retraite : les propositions de Bruno Retailleau pour «sauver» le système par répartition |
+| 23/09 | Retraites : Bruno Retailleau pour un départ à 63 ans |
+| 23/09 | Retraites : «Bruno Retailleau a coupé l'herbe sous le pied à Édouard Philippe», note Mayalène Trémolet |
+| 23/09 | Retraites : «Bruno Retailleau a coupé l'herbe sous le pied à Édouard Philippe», note Mayalène Tré... |
+| 22/09 | François Bayrou souhaite une union avec Bruno Retailleau |
+| 20/09 | Présidentielle 2027 : Éric Ciotti appelle Bruno Retailleau à rejoindre une «maison de droite forte» |
+| 15/09 | Pouvoir d’achat : les principales propositions de Bruno Retailleau pour faire baisser les prix |
+| 12/09 | Présidentielle 2027 : Bruno Retailleau défend le référendum sur l'immigration devant les jeunes LR |
+| 12/09 | Présidentielle 2027 : pour la rentrée des Jeunes LR, Bruno Retailleau mise sur l'engagement et la transmission |
+| 10/09 | « J'ai pris des forces, j'ai bouffé du lion » : Les confidences de Bruno Retailleau sur sa métamorphose |
+| 10/09 | Tensions chez Les Républicains : David Lisnard et Bruno Retailleau peuvent-ils dépasser leur haine ? |
+| 10/09 | Prêts bancaires, parrainages, locaux de campagne... La campagne présidentielle de Bruno Retailleau s'accélère en coulisses |
+| 09/09 | Comment fonctionne le droit du sol en France que Bruno Retailleau souhaite abroger en cas d'élection ? |
+| 09/09 | Édouard Philippe rejeté : Pourquoi Gabriel Attal et Bruno Retailleau disent-ils non ? |
+| 09/09 | Faut-il abroger le droit du sol pour freiner l'immigration comme le souhaite Bruno Retailleau ? |
+| 09/09 | Marion Maréchal appelle Bruno Retailleau «à une forme de cohérence» |
+| 08/09 | Objectif Élysée 2027 avec Bruno Retailleau |
+| 08/09 | Objectif Élysée 2027 : «Je ne laisse pas dépérir l'école publique», déclare Bruno Retailleau |
+| 08/09 | Objectif Élysée 2027 : s'il est élu, Bruno Retailleau souhaite instaurer des «peines minimales» |
+| 08/09 | Objectif Élysée 2027 : l'interdiction du voile dans l'espace public est «inapplicable», estime Bruno Retailleau |
+| 08/09 | Objectif Élysée 2027 : en cas d'élection, Bruno Retailleau annonce qu'il abrogera le droit du sol |
+| 08/09 | Édouard Philippe veut réunir les partis «de la droite du centre» à la Toussaint : «Je n’irai pas», répond Bruno Retailleau |
+| 08/09 | Droit du sol, immigration, école... Ce qu'il faut retenir de l'entretien de Bruno Retailleau dans "Objectif Élysée 2027" |
+| 08/09 | Présidentielle 2027 : les paris de Bruno Retailleau pour s’affirmer au premier tour |
+| 08/09 | Élargir le champ du référendum, projet phare de Bruno Retailleau pour 2027 |
+| 07/09 | Bruno Retailleau veut inscrire les racines judéo-chrétiennes dans la Constitution |
+| 06/09 | Présidentielle 2027 : Bruno Retailleau s'en prend au RN et écarte tout ralliement politique |
+| 04/09 | Référendum et Conseil constitutionnel : la proposition de Bruno Retailleau décryptée sur Europe 1 |
+| 04/09 | Conseil constitutionnel : Bruno Retailleau propose d'étendre les possibilités d'appels aux référendums |
+| 04/09 | Référendum sur une réfome constitutionnelle : la proposition de Bruno Retailleau divise la classe politique |
+| 04/09 | Bruno Retailleau / Richard Ferrand : le peuple contre les juges |
+| 03/09 | Présidentielle 2027 : Bruno Retailleau propose «une révision constitutionnelle permettant d'élargir l'usage du référendum», salue Jean-Michel Salvator |
+| 03/09 | Primaire de la droite, révision constitutionnelle... Bruno Retailleau se livre à quelques mois de l'élection présidentielle |
+| 03/09 | Bruno Retailleau souhaite réduire le pouvoir du Conseil constitutionnel / Gérard Larcher souhaite éviter un duel LFI-RN / Le Général de Gaulle se retourne dans sa tombe |
+| 28/08 | Présidentielle 2027 : Bruno Retailleau se dit prêt à affronter une primaire à droite |
+| 26/08 | Édouard Philippe, Bruno Retailleau… Mayotte est-elle le laboratoire des candidats à la présidentielle sur l'immigration ? |
+| 01/08 | Ceuta : Emmanuel Macron demande le renforcement des contrôles à la frontière espagnole, Bruno Retailleau évoque un «électrochoc» |
+| 30/07 | Présidentielle 2027 : pendant l'été, Gabriel Attal et Bruno Retailleau continuent d'occuper le terrain |
+| 29/07 | Pourquoi Bruno Retailleau croit encore en ses chances |
+| 20/07 | «Présomption de légitime défense» pour les forces de l’ordre : Bruno Retailleau dénonce le manque d’indépendance des magistrats |
+| 16/07 | Bruno Retailleau exhorte les membres du Conseil constitutionnel à «ne pas être juge et partie» |
+| 15/07 | Fin de vie : Bruno Retailleau appelle les membres du Conseil constitutionnel à «ne pas être juge et partie» |
+| 10/07 | Présidentielle : Bruno Retailleau a «le programme le plus avancé actuellement», estime François-X... |
+| 10/07 | Présidentielle : Bruno Retailleau a «le programme le plus avancé actuellement», estime François-Xavier Bellamy |
+| 08/07 | Présidentielle 2027 : «Bruno Retailleau a toute sa place à nos côtés», annonce Marion Maréchal |
+| 02/07 | Présidentielle 2027 : Comment Laurent Wauquiez a-t-il trahi Bruno Retailleau et la droite ? |
+| 01/07 | Dates de l'élection présidentielle : Pourquoi Bruno Retailleau crie-t-il au scandale d'État ? |
+| 01/07 | Fin de vie : «C'est une défaite de la fraternité», estime Bruno Retailleau |
+| 01/07 | Présidentielle 2027 : «Je serai le protecteur des travailleurs, pas des profiteurs», affirme Bruno Retailleau |
+| 01/07 | «LFI fait du racialisme et de l'antisémitisme un fond de commerce», dénonce Bruno Retailleau |
+| 01/07 | «Je serai le protecteur des travailleurs, pas des profiteurs» : Bruno Retailleau défend un durcissement des aides sociales |
+| 01/07 | «Une fois de plus, le gouvernement a obtempéré» : Bruno Retailleau critique le choix des dates de l'élection présidentielle |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Bruno+Retailleau, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.
