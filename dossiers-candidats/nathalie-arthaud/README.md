@@ -80,6 +80,20 @@ Total : 1 article.
 |---|---|
 | 30/07 | Campagne pour 2027 : zut, le Medef a oublié d’inviter Lutte ouvrière à son débat de rentrée (chapô) |
 
+## Ouest-France (ouest-france.fr)
+
+Source : https://www.ouest-france.fr/recherche/?q=Nathalie%20Arthaud (recherche du site, onglet « Actualités », pages de résultats parcourues jusqu'à une page entièrement antérieure au 1er juillet 2026 ; le classement du site est par pertinence, et non strictement par date). Un article est compté si « Arthaud » figure dans son titre ; le chapô n'est pas relevé. Les mentions d'accès réservé aux abonnés sont retirées des titres.
+
+Total : 5 articles.
+
+| Date (2026) | Titre |
+|---|---|
+| 29/10 | Nathalie Arthaud pointe du doigt « les vrais casseurs » lors de sa réunion publique pour Lutte ouvrière à Cholet |
+| 28/10 | « Mélenchon est un serviteur loyal de la bourgeoisie » : Nathalie Arthaud en campagne pour Lutte Ouvrière à Cholet |
+| 22/10 | Présidentielle 2027. La candidate Lutte ouvrière, Nathalie Arthaud, en campagne dans le Maine-et-Loire |
+| 19/09 | À Nantes, Nathalie Arthaud appelle les travailleurs à « peser » dans la présidentielle |
+| 24/08 | À Quimper, les militants de Nathalie Arthaud déjà sur le terrain pour la présidentielle |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Nathalie+Arthaud, parcouru jusqu'au 1er juillet 2026.

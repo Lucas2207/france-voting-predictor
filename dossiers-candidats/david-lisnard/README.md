@@ -172,6 +172,28 @@ Total : 17 articles.
 | 29/07 | «La grande priorité, c’est la présidentielle» : comment les libéraux veulent imposer leurs idées pour 2027 (chapô) |
 | 24/07 | Retailleau espère le ralliement de Lisnard, partisan de l’«union des droites» à laquelle il s’oppose |
 
+## Ouest-France (ouest-france.fr)
+
+Source : https://www.ouest-france.fr/recherche/?q=David%20Lisnard (recherche du site, onglet « Actualités », pages de résultats parcourues jusqu'à une page entièrement antérieure au 1er juillet 2026 ; le classement du site est par pertinence, et non strictement par date). Un article est compté si « Lisnard » figure dans son titre ; le chapô n'est pas relevé. Les mentions d'accès réservé aux abonnés sont retirées des titres.
+
+Total : 13 articles.
+
+| Date (2026) | Titre |
+|---|---|
+| 01/11 | Les offs de la rédaction. RN, Trophées Joséphine, Lisnard, Henri Michel : les coulisses en Loire-Atlantique |
+| 30/10 | David Lisnard peut-il être candidat à la présidentielle et à la tête des maires de France ? La polémique enfle |
+| 28/10 | Présidentielle 2027. Entre Retailleau et Lisnard, « il y a match » à droite |
+| 25/10 | Attentat raciste dans les Yvelines : « choqué », Olivier Faure appelle David Lisnard à organiser une minute de silence |
+| 21/10 | Présidentielle 2027. Eric Ciotti appelle Retailleau et Lisnard à abandonner « leurs candidatures de témoignages » |
+| 16/10 | Présidentielle 2027. « Je pense qu’il sera la troisième voie » : à Cholet aussi, David Lisnard gagne du terrain |
+| 16/10 | « Il se passe quelque chose » : derrière le « buzz » David Lisnard, une stratégie bien huilée pour la présidentielle |
+| 15/10 | ENTRETIEN. Présidentielle 2027 : « Il y a une dynamique autour de ma candidature », lance David Lisnard |
+| 14/10 | Présidentielle 2027: David Lisnard veut atteindre une autre dimension |
+| 13/10 | « Il se passe quelque chose » : le parti de David Lisnard veut compter en Ille-et-Vilaine pour la Présidentielle |
+| 09/10 | Présidentielle 2027. « On a dix nouvelles adhésions par jour en Maine-et-Loire », assurent les soutiens de David Lisnard |
+| 02/09 | Présidentielle 2027 : David Lisnard assure avoir déjà recueilli 500 promesses de parrainages |
+| 25/08 | Présidentielle 2027: David Lisnard relance l’idée d’une primaire de la droite et du centre |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=David+Lisnard, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

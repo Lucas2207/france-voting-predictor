@@ -314,6 +314,52 @@ Total : 57 articles.
 | 01/07 | Présidentielle : pour Laurent Wauquiez, Edouard Philippe «peut incarner l’ordre et le sérieux» pour «redresser la France» (chapô) |
 | 01/07 | La prochaine élection présidentielle aura lieu les 18 avril et 2 mai 2027 (chapô) |
 
+## Ouest-France (ouest-france.fr)
+
+Source : https://www.ouest-france.fr/recherche/?q=Bruno%20Retailleau (recherche du site, onglet « Actualités », pages de résultats parcourues jusqu'à une page entièrement antérieure au 1er juillet 2026 ; le classement du site est par pertinence, et non strictement par date). Un article est compté si « Retailleau » figure dans son titre ; le chapô n'est pas relevé. Les mentions d'accès réservé aux abonnés sont retirées des titres.
+
+Total : 37 articles.
+
+| Date (2026) | Titre |
+|---|---|
+| 20/10 | Bruno Retailleau en dédicaces aux Sables-d’Olonne ce samedi 24 octobre |
+| 10/10 | ENTRETIEN. Pour Bruno Retailleau, candidat à la présidentielle, « il faut une refonte complète du système éducatif » |
+| 08/10 | Bruno Retailleau ne « croit pas du tout » à l’aboutissement du recours demandant l’annulation de sa réélection au Sénat |
+| 07/10 | INFO OUEST-FRANCE. La réélection de Bruno Retailleau au Sénat pourrait-elle être annulée ? Un recours déposé |
+| 06/10 | Bruno Retailleau au lycée Nelson-Mandela |
+| 01/10 | Présidentielle 2027. Bruno Retailleau veut faire interdire LFI après les violences devant les lycées |
+| 30/09 | Présidentielle 2027. Bruno Retailleau veut passer le droit européen « en dessous de la constitution française » |
+| 28/09 | Bruno Retailleau |
+| 27/09 | Sénatoriales 2026 : Bruno Retailleau et Annick Billon gardent leur siège, Maxence de Rugy élu sénateur de Vendée |
+| 27/09 | Sénatoriales 2026. Bruno Retailleau confirme son ancrage en Vendée malgré une égalité pour le troisième siège |
+| 27/09 | Élections sénatoriales: Bruno Retailleau, Marie-Caroline Le Pen, Françoise Gatel… Les personnalités à suivre ce dimanche |
+| 25/09 | Présidentielle. Les soutiens de Bruno Retailleau ouvrent une permanence en bord de Maine |
+| 25/09 | Bruno Retailleau ouvre une permanence de campagne à Angers |
+| 19/09 | Des élus Horizons avec Bruno Retailleau aux sénatoriales |
+| 18/09 | Engagés chez Horizon, ces élus vendéens se rangent derrière Bruno Retailleau aux sénatoriales |
+| 17/09 | « Nos agriculteurs crèvent de faim », lance le candidat LR Bruno Retailleau au Salon international de l’élevage à Rennes |
+| 15/09 | Sénatoriales en Vendée. L’opposition yonnaise de la droite et du centre apporte son soutien à liste de Bruno Retailleau |
+| 12/09 | Présidentielle : Bruno Retailleau en meeting, Jean-Luc Mélenchon à la Fête de l’Humanité… Des candidats en campagne |
+| 12/09 | « Est-ce qu’il va être le bon candidat pour le pays ? » : en meeting ce samedi, Bruno Retailleau joue déjà son avenir |
+| 12/09 | Présidentielle 2027. « Vous êtes en première ligne » : pour sa rentrée, Bruno Retailleau appelle au sursaut des jeunes |
+| 10/09 | Présidentielle 2027. Anthony Béraud, n° 2 de LR en Loire-Atlantique: « Bruno Retailleau, c’est l’homme de la constance » |
+| 10/09 | « Bruno Retailleau, c’est l’homme de la constance » |
+| 09/09 | Présidentielle 2027. Bruno Retailleau veut supprimer le droit du sol par référendum |
+| 08/09 | Présidentielle 2027. Laurence Garnier annonce avoir été nommée porte-parole de la campagne de Bruno Retailleau |
+| 08/09 | Présidentielle : Bruno Retailleau veut supprimer le droit du sol par référendum |
+| 08/09 | Présidentielle 2027. Référendum, État de droit : Edouard Philippe marque sa différence avec Bruno Retailleau |
+| 06/09 | Présidentielle 2027 : Bruno Retailleau se maintiendra, Roussel bientôt candidat… Ce qu’il faut retenir de cette journée |
+| 06/09 | Présidentielles : le RN est un « parti girouette », estime Bruno Retailleau |
+| 01/09 | Présidentielle 2027. Bruno Retailleau veut « revaloriser » les salaires des professeurs |
+| 31/08 | Présidentielle : David Lappartient soutiendra Bruno Retailleau, et entretient le flou sur son avenir politique |
+| 28/08 | Présidentielle 2027 : Bruno Retailleau met les bouchées doubles pour sa rentrée |
+| 14/07 | Fête nationale : Bruno Retailleau à Saint-Gilles-Croix-de-Vie, une présence aux allures de campagne électorale |
+| 10/07 | Sénatoriales : le maire de Saint-Jean-d’Hermine, Philippe Barré, sur la liste de Bruno Retailleau |
+| 03/07 | PORTRAIT. Pierre Vitali, figure montante de la droite en Vendée, dans l’ombre de son mentor Bruno Retailleau |
+| 03/07 | La campagne présidentielle de Bruno Retailleau passera-t-elle l’hiver ? |
+| 01/07 | Présidentielle : Bruno Retailleau « en colère » sur la date de l’élection |
+| 01/07 | Présidentielle : il faut « savoir se retirer si c’est nécessaire », estime Laurent Wauquiez à propos de Bruno Retailleau |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Bruno+Retailleau, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

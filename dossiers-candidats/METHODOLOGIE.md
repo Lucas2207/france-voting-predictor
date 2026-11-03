@@ -149,13 +149,34 @@ Relevé le 1er novembre 2026. Période visée : du 1er juillet 2026 à aujourd'h
 
 **Contrôles :** nombre de lignes de chaque section Libération comparé au total annoncé.
 
-## 8. Ce qui n'est pas fait
+## 8. Ouest-France (ouest-france.fr)
+
+**Source :** la recherche du site, `https://www.ouest-france.fr/recherche/?q=<nom complet>`, onglet « Actualités ». Les résultats sont affichés par pages de 20 articles, avec la pagination du site (`#!r/…&page=N`).
+
+**Accès :** les résultats n'apparaissent qu'après acceptation des cookies publicitaires du site. Le consentement a été donné par la personne qui a mené le relevé.
+
+**Relevé :**
+- les dates de période ont été réglées dans le filtre « Période personnalisée » (1er juillet – 1er novembre 2026), mais la liste affichait encore des articles hors période (par exemple un article de mars 2026). Le relevé a donc été fait sans filtre de date ;
+- les pages sont lues une à une jusqu'à une page dont tous les articles sont antérieurs au 1er juillet 2026 ;
+- date lue sur chaque carte de résultat, titre tel qu'affiché ;
+- sont retenus les articles datés du 1er juillet au 1er novembre 2026 dont le nom du candidat figure dans le titre. Le chapô n'est pas relevé ;
+- les libellés « Réservé aux abonnés Ouest-France » et « bloqué » ajoutés au titre sont retirés.
+
+**Limites :**
+- le classement du site est par pertinence, et non strictement par date : un article de la période peut apparaître après une page entièrement antérieure. Le relevé s'arrête donc à la première page entièrement antérieure, comme pour les autres médias sans tri fiable ;
+- la recherche porte sur le texte des articles : un article qui cite le candidat seulement dans le corps du texte n'est pas retenu ;
+- « Le Pen » retient aussi les titres où Marie-Caroline Le Pen est citée, quand le titre contient aussi « Marine Le Pen » ; aucun titre sur Jean-Marie Le Pen n'est présent dans les résultats chargés ;
+- un article peut être compté pour plusieurs candidats s'il les cite tous les deux.
+
+**Contrôles :** nombre de lignes de chaque section Ouest-France comparé au total annoncé. Un article omis lors de la première transcription (Marine Le Pen, 7 juillet) a été ajouté après comparaison avec les résultats chargés.
+
+## 9. Ce qui n'est pas fait
 
 - pas d'ouverture des articles un par un : le classement se base sur le titre et le chapô ou l'adresse ;
 - pas de couverture de BFMTV pour juillet à septembre 2026 ;
 - les dossiers Radio France ne sont pas tous à jour pour les personnalités sans page propre (Zemmour, Lisnard, Roussel) : ils sont couverts par les pages des autres personnalités citées dans les chapôs.
 
-## 9. Fichiers
+## 10. Fichiers
 
 - Dossiers par candidat : `dossiers-candidats/<nom>/README.md`
 - Tableaux Radio France : section « Radio France » de chaque dossier (les anciens fichiers `radio-france-<nom>-emissions.md` à la racine ont été supprimés une fois repris dans les dossiers)

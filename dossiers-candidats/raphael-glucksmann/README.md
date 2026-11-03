@@ -514,6 +514,94 @@ Total : 93 articles.
 | 10/07 | Présidentielle : Raphaël Glucksmann demande des garanties pour participer à la désignation avec le PS |
 | 05/07 | Raphaël Glucksmann «sacrément privilégié», les «zadistes» de l’aile droite du PS… Marine Tondelier se paie les anti-union de la gauche |
 
+## Ouest-France (ouest-france.fr)
+
+Source : https://www.ouest-france.fr/recherche/?q=Rapha%C3%ABl%20Glucksmann (recherche du site, onglet « Actualités », pages de résultats parcourues jusqu'à une page entièrement antérieure au 1er juillet 2026 ; le classement du site est par pertinence, et non strictement par date). Un article est compté si « Glucksmann » figure dans son titre ; le chapô n'est pas relevé. Les mentions d'accès réservé aux abonnés sont retirées des titres.
+
+Total : 79 articles.
+
+| Date (2026) | Titre |
+|---|---|
+| 27/10 | Le Parti socialiste des Ponts-de-Cé apporte son soutien total à Raphaël Glucksmann |
+| 26/10 | Absent des manifestations, Raphaël Glucksmann affirme être victime d’une « campagne de harcèlement » de LFI |
+| 23/10 | Présidentielle 2027. Le début de campagne de Raphaël Glucksmann percuté par la crise sociale |
+| 22/10 | Un comité de soutien à Raphaël Glucksmann est créé |
+| 18/10 | Présidentielle : Olivier Faure sort du silence et assure soutenir Raphaël Glucksmann |
+| 18/10 | Emmanuel Grégoire : « Raphaël Glucksmann doit rassembler la gauche » |
+| 17/10 | Dans l’œil du dessinateur Frap. La campagne pour la Présidentielle de Raphaël Glucksmann |
+| 17/10 | EXCLUSIF. Soutien à Raphaël Glucksmann, périscolaire, sécurité, PSG… Les réponses du maire de Paris, Emmanuel Grégoire |
+| 16/10 | Présidentielles 2027 : ce parti de centre gauche sarthois salue aussi la victoire de Raphaël Glucksmann à la primaire |
+| 14/10 | Présidentielles 2027 : le PS sarthois se félicite de la victoire de Raphaël Glucksmann à la primaire socialiste |
+| 14/10 | Victoire de Raphaël Glucksmann : « Et maintenant, éléphants ou éléphanteaux, construisez ensemble ! » |
+| 13/10 | Le dessin de Chaunu : Raphaël Glucksmann savoure sa victoire à la primaire de la gauche |
+| 13/10 | Primaire de la gauche. « 66,17 %, un résultat sans appel » : Raphaël Glucksmann salué par la fédération PS de la Sarthe |
+| 13/10 | Présidentielle 2027 : Ségolène Royal soutiendra Raphaël Glucksmann, sauf s’il « se tourne vers les macronistes » |
+| 12/10 | Raphaël Glucksmann enfariné après sa victoire à la primaire de la gauche sociale-démocrate |
+| 12/10 | Primaire de la gauche : « Enfin, la bataille de France commence », lance Raphaël Glucksmann au lendemain de sa victoire |
+| 12/10 | Primaire de la gauche : après la victoire de Raphaël Glucksmann, Olivier Faure et François Hollande hors jeu ? |
+| 12/10 | Présidentielle 2027. Raphaël Glucksmann vainqueur de la Primaire de la gauche : « Le choix est clair » |
+| 12/10 | Dans l’œil du dessinateur Frap. Raphaël Glucksmann remporte la primaire socialiste |
+| 12/10 | Lignes rouges, rapprochements… Raphaël Glucksmann et Jean-Luc Mélenchon sont-ils vraiment si « irréconciliables » ? |
+| 12/10 | Présidentielle 2027: Raphaël Glucksmann, candidat de la gauche sociale-démocrate, devra confirmer |
+| 12/10 | Présidentielle 2027. Après sa large victoire, Raphaël Glucksmann face au défi du rassemblement à gauche |
+| 11/10 | Présidentielle 2027 : Raphaël Glucksmann remporte la primaire de la gauche et espère un rebond |
+| 11/10 | Primaire de la gauche : « Il n’y aura pas d’accord avec La France insoumise », assure Raphaël Glucksmann |
+| 11/10 | Primaire de la gauche. Après la victoire de Raphaël Glucksmann, la gauche bretonne réagit |
+| 11/10 | Victoire de Raphaël Glucksmann à la primaire de la gauche : « Majorité très claire », déception… Les réactions à chaud |
+| 11/10 | Présidentielle. Raphaël Glucksmann remporte la primaire à gauche : « Il doit maintenant rassembler largement à gauche » |
+| 11/10 | Présidentielle 2027. Raphaël Glucksmann désigné candidat de la gauche sociale-démocrate |
+| 09/10 | Raphaël Glucksmann, candidat à la présidentielle, face au piège de la primaire sociale-démocrate |
+| 08/10 | La question du jour. Favori de la primaire de la gauche, Raphaël Glucksmann peut-il gagner l’élection présidentielle ? |
+| 05/10 | Raphaël Glucksmann s’excuse auprès de Ségolène Royal après ses propos sur « la danse du ventre » |
+| 03/10 | « Méga à la ramasse », « danse du ventre à Macron » : Raphaël Glucksmann se paye Jean-Luc Mélenchon et Ségolène Royal |
+| 02/10 | Présidentielle 2027. En Anjou, une partie du PS préfère Raphaël Glucksmann : « Il est en capacité de rassembler » |
+| 29/09 | Présidentielle 2027. Après Stéphane Le Foll, une trentaine d’élus sarthois apportent leur soutien à Raphaël Glucksmann |
+| 29/09 | Primaire de la gauche : les soutiens de Raphaël Glucksmann font campagne en Sarthe |
+| 25/09 | Présidentielle 2027. Yannick Jadot suspendu temporairement des Écologistes pour son soutien à Raphaël Glucksmann |
+| 24/09 | Le dessin de Chaunu : Raphaël Glucksmann, traité de « stagiaire » par Ségolène Royal |
+| 23/09 | À Saint-Nazaire, les militants socialistes ont décidé de soutenir Raphaël Glucksmann à la primaire de la gauche |
+| 21/09 | Primaire à gauche : comparé à un « stagiaire » par Ségolène Royal, Raphaël Glucksmann lui répond sèchement |
+| 21/09 | Léa Salamé reviendra-t-elle à l’antenne si Raphaël Glucksmann perd la primaire ? Delphine Ernotte répond |
+| 19/09 | Présidentielle 2027. « Je reste cohérent » : le socialiste Stéphane Le Foll soutient le candidat Raphaël Glucksmann |
+| 19/09 | Présidentielle 2027. Stéphane Le Foll votera pour Raphaël Glucksmann à la primaire du PS |
+| 19/09 | En bras de chemise et savourant un cassoulet, Raphaël Glucksmann à la rencontre des militants de gauche à Bram |
+| 17/09 | Présidentielle 2027. « La voix capable de rassembler la gauche » : pourquoi Jean-Luc Chenut soutient Raphaël Glucksmann |
+| 15/09 | ENTRETIEN. «Les salaires, le pouvoir d’achat, c’est la priorité de Raphaël Glucksmann», pointe le député Guillaume Garot |
+| 14/09 | Conquereuil. Raphaël Glucksmann en visite à la foire de Béré |
+| 11/09 | « Ah oui, d’accord, il veut être président de la République » : Raphaël Glucksmann laboure le terrain à la foire de Béré |
+| 11/09 | Présidentielle 2027. En Loire-Atlantique, Raphaël Glucksmann prend le pouls du monde agricole en crise et de la culture |
+| 11/09 | Le maire PS de Rouen, Nicolas Mayer Rossignol, alerte sur l’extrême droite et mise sur Raphaël Glucksmann |
+| 11/09 | « Si vous êtes élu, donnerez-vous 5 000 € aux Français ? » : Raphaël Glucksmann interpellé au Grandchamp’Bardement |
+| 10/09 | Raphaël Glucksmann, candidat à la primaire socialiste pour la présidentielle, en visite en Loire-Atlantique ce vendredi |
+| 09/09 | Présidentielle : François Ruffin prêt à participer à la primaire de la gauche, malgré l’opposition de Raphaël Glucksmann |
+| 09/09 | Présidentielle 2027 : Raphaël Glucksmann attendu en Loire-Atlantique à partir de ce jeudi |
+| 09/09 | Présidentielle 2027. François Ruffin, toujours prêt pour la primaire, dit que Raphaël Glucksmann a peur des électeurs |
+| 09/09 | Primaire de la gauche. Le maire divers gauche de Saint-Nazaire votera pour Raphaël Glucksmann |
+| 09/09 | Présidentielle 2027. Pour Raphaël Glucksmann, le chemin de la primaire n’est pas pavé de roses |
+| 08/09 | Présidentielle 2027 : Gabriel Attal et Raphaël Glucksmann présents au Forum économique breton de Saint-Malo |
+| 31/08 | « Je sais l’impact qu’avait ma décision sur sa vie » : Raphaël Glucksmann revient sur le retrait de Léa Salamé du 20 h |
+| 30/08 | Raphaël Glucksmann souhaite augmenter les salaires des enseignants d’au moins 10 % |
+| 28/08 | Présidentielle 2027. Les défis du candidat Raphaël Glucksmann à la primaire sociale-démocrate |
+| 28/08 | REPORTAGE. À l’université d’été du PS, la primaire dans toutes les têtes et Raphaël Glucksmann en favori |
+| 27/08 | Raphaël Glucksmann sera le premier invité de « Franc-Jeu », la nouvelle émission politique de France 2 et France Inter |
+| 27/08 | Présidentielle 2027 : Raphaël Glucksmann engrange le soutien des socialistes Carole Delga et Boris Vallaud |
+| 27/08 | Présidentielle 2027. La socialiste Carole Delga officialise son soutien à Raphaël Glucksmann |
+| 25/08 | « Le Marais poitevin, c’est l’écologie » : Raphaël Glucksmann lance sa campagne présidentielle en Deux-Sèvres |
+| 24/08 | Léa Salamé annonce son retrait du 20 h après la candidature de son compagnon Raphaël Glucksmann |
+| 24/08 | Présidentielle 2027. « C’est le favori de la primaire » : ce sénateur réagit à la candidature de Raphaël Glucksmann |
+| 24/08 | Présidentielle 2027 : l’écologiste Yannick Jadot annonce son ralliement à Raphaël Glucksmann |
+| 24/08 | Présidentielle 2027 : tout juste candidat, Raphaël Glucksmann va débarquer en Deux-Sèvres |
+| 23/08 | Présidentielle 2027. Raphaël Glucksmann candidat : voici sa lettre aux Français |
+| 23/08 | Présidentielle 2027 : Raphaël Glucksmann annonce sa candidature, en passant par la primaire des sociaux-démocrates |
+| 23/08 | Présidentielle : Raphaël Glucksmann sur le point d’officialiser sa candidature |
+| 23/08 | Présidentielle 2027. « Relever la France » : Raphaël Glucksmann descend dans l’arène et annonce sa candidature |
+| 19/08 | La fin d’un faux suspense : Raphaël Glucksmann, bientôt officiellement candidat à la présidentielle |
+| 12/08 | Soupçons d’ingérence russe dans l’élection présidentielle : Raphaël Glucksmann a porté plainte |
+| 06/08 | Soupçons d’ingérence russe visant Raphaël Glucksmann : le parquet de Paris ouvre une enquête |
+| 05/08 | Visé par une tentative de déstabilisation russe, Raphaël Glucksmann contre-attaque |
+| 04/08 | Raphaël Glucksmann dénonce une opération russe de « déstabilisation » le visant, à moins d’un an de la présidentielle |
+| 30/07 | Léa Salamé sera bien présente à la rentrée sur France 2, malgré le premier débat de Raphaël Glucksmann fin août sur LCI |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Rapha%C3%ABl+Glucksmann, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

@@ -775,6 +775,107 @@ Total : 124 articles.
 | 04/07 | La semaine vue par Coco : François Hollande sur le retour, Marine Le Pen tutrice, canicule en Ukraine |
 | 01/07 | Assistants fictifs du RN : même éligible, Le Pen n’estime «pas possible» de faire la présidentielle avec un bracelet électronique |
 
+## Ouest-France (ouest-france.fr)
+
+Source : https://www.ouest-france.fr/recherche/?q=Marine%20Le%20Pen (recherche du site, onglet « Actualités », pages de résultats parcourues jusqu'à une page entièrement antérieure au 1er juillet 2026 ; le classement du site est par pertinence, et non strictement par date). Un article est compté si « Le Pen » figure dans son titre ; le chapô n'est pas relevé. Les mentions d'accès réservé aux abonnés sont retirées des titres.
+
+Total : 92 articles.
+
+| Date (2026) | Titre |
+|---|---|
+| 26/10 | Le dessin de Chaunu : premier discours de campagne de Marine Le Pen |
+| 26/10 | Ukraine : « Cette déclaration de Marine Le Pen sert les intérêts de Vladimir Poutine » |
+| 25/10 | REPORTAGE. « Notre seule boussole c’est la France » : Marine Le Pen officiellement en campagne présidentielle |
+| 25/10 | Présidentielle 2027 : Marine Le Pen tient son premier grand meeting de campagne ce dimanche à Orléans |
+| 23/10 | Présidentielle 2027 : pour Marine Le Pen et Jordan Bardella, les 4 enjeux d’un congrès RN sous haute tension à Orléans |
+| 22/10 | ENTRETIEN. Manifestations et violences : « Les ingrédients pour apporter encore plus de crédit à Marine Le Pen » |
+| 18/10 | EXCLUSIF. Présidentielle 2027 : Marine Le Pen et Jean-Luc Mélenchon, candidats les plus cités dans les médias |
+| 07/10 | Cet ancien député breton a écrit un roman pour raconter la vie dans une France où Marine Le Pen serait présidente |
+| 06/10 | Marine Le Pen présente son contre-budget : « Elle veut montrer que le Rassemblement national est prêt à gouverner » |
+| 03/10 | Marine Le Pen maintient « totalement » sa « confiance » à Jordan Bardella, accusé d’antisémitisme par Mediapart |
+| 02/10 | « Costard en Kevlar » : près de quarante rédactions condamnent les attaques de Marine Le Pen contre la presse |
+| 02/10 | Réduction de la dette publique : Marine Le Pen esquisse dans une tribune les objectifs de sa « règle d’or » |
+| 29/09 | Accusé d’antisémitisme, Jordan Bardella nie, Marine Le Pen allume des contre-feux |
+| 27/09 | Élections sénatoriales 2026 : Marine Le Pen annonce la constitution pour la première fois d’un groupe au Sénat |
+| 27/09 | Sénatoriales : Marine Le Pen salue « une victoire historique » et annonce un groupe au Sénat en s’alliant à Éric Ciotti |
+| 18/09 | Maire durant 25 ans en Finistère, il s’insurge contre la candidature de Marine Le Pen à la présidentielle |
+| 14/09 | Le dessin de Chaunu : la rentrée de Marine Le Pen autour du thème du logement |
+| 14/09 | Présidentielle 2027. Marine Le Pen veut mettre la « priorité nationale » sur le logement |
+| 14/09 | Marine Le Pen revient à ses fondamentaux |
+| 13/09 | Présidentielle 2027 : à Hénin-Beaumont, Marine Le Pen parle du logement et tente de dissiper les tensions |
+| 13/09 | Présidentielle 2027 : pour son discours de rentrée, Marine Le Pen veut mettre la « priorité nationale » sur le logement |
+| 06/09 | Dans une lettre aux buralistes, Marine Le Pen défend le « gel » des taxes sur le tabac |
+| 05/09 | Malgré les dissonances, Bardella réaffirme son « affinité politique et personnelle indéfectible » envers Marine Le Pen |
+| 05/09 | Éric Ciotti propose à Marine Le Pen « un pacte d’alliance » pour la présidentielle |
+| 04/09 | Assistants d’eurodéputés du RN : où en est le traitement du pourvoi en cassation de Marine Le Pen ? |
+| 03/09 | Présidentielle 2027 : retraites, voile… Les désaccords au RN peuvent-ils fragiliser la campagne de Marine Le Pen ? |
+| 28/08 | Présidentielle 2027 : le conseiller économique de Marine Le Pen quitte sa campagne |
+| 14/08 | La maison de Marine Le Pen taguée à La Trinité-sur-Mer, une personne mise en garde à vue |
+| 02/08 | « J’ai déjà battu Marine Le Pen » : Xavier Bertrand presque candidat à la présidentielle |
+| 21/07 | La tête de Marine Le Pen remplacée par un chat sur le site du Rassemblement national |
+| 21/07 | Procès en appel du RN : Marine Le Pen, dix cadres du RN, le parti et le Parlement européen se pourvoient en cassation |
+| 17/07 | Dissuasion nucléaire, Marine Le Pen… Ce qu’il faut retenir de la prise de parole d’Emmanuel Macron et Friedrich Merz |
+| 16/07 | Présidentielle 2027 : Elon Musk apporte son soutien à Marine Le Pen, le RN se défend de toute « ingérence » |
+| 15/07 | Procès en appel du RN : après la condamnation de Marine Le Pen, le parquet général ne forme pas de pourvoi en cassation |
+| 12/07 | En Loire-Atlantique, le Rassemblement national fait le bilan et lance la campagne de Marine Le Pen à la Présidentielle |
+| 12/07 | Édito. Marine Le Pen condamnée mais candidate : quelles valeurs faudrait-il sacrifier sur l’autel du verdict des urnes ? |
+| 10/07 | Le dessin de Chaunu : Marine Le Pen débute sa campagne, Jordan Bardella rétrogradé pour 2027 |
+| 10/07 | Le directeur de campagne de Marine Le Pen vient motiver ses troupes en Vendée avant la présidentielle |
+| 10/07 | Condamnation de Marine Le Pen : la question de la morale en politique fait réagir nos lecteurs |
+| 09/07 | Condamnation de Marine Le Pen : la Cour de cassation fera « tout » pour rendre sa décision avant la présidentielle |
+| 09/07 | « Elle n’a tué personne » : les pro-RN défendent contre vents et marées Marine Le Pen, en campagne à La Flèche |
+| 09/07 | Pourvoi de Marine Le Pen : la Cour de cassation vise une décision avant la présidentielle |
+| 08/07 | Au lendemain de sa condamnation, Marine Le Pen fait un passage chahuté en Sarthe et la classe politique l’étrille |
+| 08/07 | Présidentielle 2027 : Marine Le Pen est candidate, Jordan Bardella ronge son frein |
+| 08/07 | Marine Le Pen à La Flèche. « On n’en veut pas dans l’Ouest » : ils manifestent avant l’arrivée de la candidate RN |
+| 08/07 | Marine Le Pen à La Flèche : une manifestation contre la venue de « la délinquante candidate » |
+| 08/07 | RÉCIT. Marine Le Pen et le RN : de la dédiabolisation à la condamnation, l’Élysée comme obsession depuis 15 ans |
+| 08/07 | Condamnée mais candidate, Marine Le Pen échappera-t-elle au bracelet électronique avant l’élection présidentielle ? |
+| 08/07 | « C’est une petite victoire ! » : des manifestants perturbent la venue de Marine Le Pen à La Flèche |
+| 08/07 | Comment l’entrée en campagne de Marine Le Pen a été contrariée par des manifestants sur le marché de La Flèche |
+| 08/07 | Visite perturbée de Marine Le Pen à La Flèche : « Partout où elle se déplacera, la résistance s’organisera » |
+| 08/07 | Marine Le Pen et Jordan Bardella : des déplacements qui se multiplient en Sarthe |
+| 08/07 | Marine Le Pen, candidate à la Présidentielle : le patron du RN en Loire-Atlantique fera campagne « sans ambiguïté » |
+| 08/07 | « Marine Le Pen était condamnée… à être candidate » |
+| 08/07 | Procès en appel de Marine Le Pen : dans la Manche, le RN commence déjà la campagne présidentielle |
+| 08/07 | RÉCIT. « Place à la politique ! » : Marine Le Pen, désormais éligible, lance sa campagne présidentielle en Sarthe |
+| 08/07 | Condamnation de Marine Le Pen : la Cour de cassation « pourrait » se prononcer « au plus tard début avril 2027 » |
+| 08/07 | Théorie du peuple « seul juge de mes actions » : Nigel Farage et Marine Le Pen ont la même stratégie face aux affaires |
+| 08/07 | Marine Le Pen condamnée : « On est loin du slogan “Mains propres et tête haute” du FN en 1993 » |
+| 08/07 | Marine Le Pen condamnée : « Politique sans morale n’est qu’une caricature de la politique » |
+| 08/07 | Condamnée, Marine Le Pen sera candidate |
+| 08/07 | Le dessin de Chaunu : Marine Le Pen toujours candidate à la présidentielle 2027 malgré sa condamnation |
+| 07/07 | DIRECT. Procès en appel du RN : éligible pour 2027 mais sous bracelet électronique, Marine Le Pen va s’exprimer ce soir |
+| 07/07 | Le dessin de Chaunu : l’avenir politique de Marine Le Pen suspendu à la décision de la cour d’appel de Paris |
+| 07/07 | « Il faut laisser la place à Jordan Bardella » : les électeurs du RN tournent déjà la page Marine Le Pen |
+| 07/07 | Après l’annonce de sa candidature à la présidentielle, Marine Le Pen attendue sur le marché de La Flèche ce mercredi |
+| 07/07 | Procès des assistants parlementaires du RN : condamnée en appel, Marine Le Pen sera l’invitée du 20 h de TF1 ce soir |
+| 07/07 | Candidature de Marine Le Pen : « Bonne nouvelle », « démocratie en otage »… Les premières réactions politiques |
+| 07/07 | « Nous soutenons l’innocence de notre cliente », assure l’avocate angevine de Marine Le Pen |
+| 07/07 | Condamnation de Marine Le Pen : comment la cour d’appel de Paris a-t-elle motivé sa décision ? |
+| 07/07 | Marine Le Pen annonce qu’elle sera candidate à l’élection présidentielle, malgré sa condamnation |
+| 07/07 | Marine Le Pen annonce qu’elle sera la candidate du Rassemblement national à l’élection présidentielle de 2027 |
+| 07/07 | Condamnation de Marine Le Pen : déplacements, durée de la peine… Quatre questions sur son bracelet électronique |
+| 07/07 | Condamnation de Marine Le Pen : « Délinquante », « privilégiée »… Les premières réactions de la classe politique |
+| 07/07 | Marine Le Pen condamnée : candidate, éclipse ou crépuscule, que va-t-elle faire ? |
+| 07/07 | Procès en appel du RN : la justice ouvre la porte à une candidature de Marine Le Pen mais sous bracelet électronique |
+| 07/07 | Marine Le Pen reconnue coupable de détournement de fonds publics |
+| 07/07 | ENQUÊTE. Marine Le Pen et Jordan Bardella sont-ils vraiment interchangeables ? |
+| 07/07 | Mort du député LR Olivier Marleix : Emmanuel Macron, Marine Le Pen, LR, LFI… Des hommages unanimes |
+| 07/07 | ENTRETIEN. Marine Le Pen condamnée : « Les électeurs du RN votent d’abord pour le parti » |
+| 07/07 | Procès de Marine Le Pen : une décision attendue, on vous explique les différents cas de figure |
+| 07/07 | Marine Le Pen joue sa candidature présidentielle au délibéré du procès en appel du RN ce mardi |
+| 06/07 | Le dessin de Chaunu : Marine Le Pen fixée mardi sur son sort politique |
+| 06/07 | Marine Le Pen joue son avenir politique et présidentiel : quels scénarios pour le RN ? |
+| 06/07 | RN : Jordan Bardella « serein » et « prêt à assumer les conséquences » du jugement de Marine Le Pen |
+| 06/07 | Procès de Marine Le Pen : « Nous attendons sereinement la décision » réagit Marie-Caroline Le Pen, déléguée RN en Sarthe |
+| 05/07 | Procès en appel du RN : Marine Le Pen, le parti et dix autres prévenus fixés sur leur sort ce mardi |
+| 04/07 | RÉCIT. Procès en appel du RN : Marine Le Pen joue sa quatrième candidature à la présidentielle |
+| 04/07 | REPORTAGE. Marine Le Pen ou Jordan Bardella ? À Liévin, les militants peu stressés par le verdict judiciaire du RN |
+| 04/07 | Présidentielle : Marine Le Pen et Jordan Bardella affichent leur unité avant le couperet judiciaire |
+| 03/07 | Présidentielle 2027. Jordan Bardella ou Marine Le Pen ? Pour leurs adversaires, il n’y a pas photo |
+| 01/07 | Menacée d’inéligibilité, Marine Le Pen affirme qu’elle n’a « pas peur » de la décision de la cour d’appel le 7 juillet |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Marine+Le+Pen, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

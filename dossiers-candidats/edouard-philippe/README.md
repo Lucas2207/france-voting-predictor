@@ -417,6 +417,69 @@ Total : 66 articles.
 | 01/07 | Présidentielle : pour Laurent Wauquiez, Edouard Philippe «peut incarner l’ordre et le sérieux» pour «redresser la France» |
 | 01/07 | Aller sans retour pour Maud Bregeon, qui sera punie par Renaissance pour son soutien à Edouard Philippe |
 
+## Ouest-France (ouest-france.fr)
+
+Source : https://www.ouest-france.fr/recherche/?q=%C3%89douard%20Philippe (recherche du site, onglet « Actualités », pages de résultats parcourues jusqu'à une page entièrement antérieure au 1er juillet 2026 ; le classement du site est par pertinence, et non strictement par date). Un article est compté si « Édouard Philippe » figure dans son titre ; le chapô n'est pas relevé. Les mentions d'accès réservé aux abonnés sont retirées des titres.
+
+Total : 54 articles.
+
+| Date (2026) | Titre |
+|---|---|
+| 01/11 | Jean-Luc Mélenchon va boycotter TF1 après l’interview selon lui complaisante d’Edouard Philippe au 20 h ce dimanche |
+| 01/11 | « Je ne crois pas qu’elle aura lieu » : Édouard Philippe repousse l’idée d’une primaire à droite pour la présidentielle |
+| 29/10 | Édouard Philippe placé sous le statut de témoin assisté dans l’enquête pour détournement de fonds publics au Havre |
+| 27/10 | À Pont-l’Évêque, Christophe Béchu vient faire campagne pour son candidat à la Présidentielle Édouard Philippe |
+| 27/10 | Pontchâteau. Présidentielle : un comité de soutien à Édouard Philippe |
+| 20/10 | Député du Calvados, Jérémie Patrier-Leitus sera l’un des porte-paroles de la campagne d’Edouard Philippe |
+| 16/10 | REPORTAGE. Présidentielle 2027 : quel avenir pour l’école ? On a suivi une réunion d’appartement avec Édouard Philippe |
+| 14/10 | À Montaigu-Vendée, un comité Horizons pour soutenir la candidature d’Edouard Philippe à l’élection présidentielle 2027 |
+| 29/09 | Retraites : Édouard Philippe veut « porter progressivement la durée de cotisation à 45 ans et l’âge de départ à 65 ans » |
+| 25/09 | Élection présidentielle 2027. Emmanuelle Lejeune va-t-elle participer à la campagne d’Édouard Philippe ? |
+| 22/09 | Présidentielle 2027. « Il a gagné quelles campagnes ? » : Edouard Philippe ne mâche pas ses mots sur Gabriel Attal |
+| 22/09 | Prix des carburants : Christelle Morançais assume un désaccord avec Edouard Philippe |
+| 18/09 | Édouard Philippe vient parler changement climatique |
+| 18/09 | Édouard Philippe évoque l’adaptation climatique |
+| 17/09 | INFO OUEST-FRANCE. « L’Heure de vérité » revient sur France 2 le 24 septembre avec Édouard Philippe, en voici le décor |
+| 17/09 | Présidentielle 2027. « Nous allons stocker l’eau », promet Édouard Philippe devant la Loire à sec près d’Angers |
+| 17/09 | Présidentielle 2027. De passage en Anjou, Édouard Philippe présente ses idées pour s’adapter au changement climatique |
+| 17/09 | Présidentielle 2027 : Édouard Philippe met l’adaptation au changement climatique au cœur de sa campagne |
+| 16/09 | Édouard Philippe va dévoiler son projet pour l’adaptation au changement climatique depuis le Maine-et-Loire |
+| 14/09 | Pourquoi Édouard Philippe, candidat à la présidentielle, est-il attendu en Maine-et-Loire cette semaine ? |
+| 14/09 | Présidentielle 2027 : Édouard Philippe attendu à Angers en fin de semaine |
+| 10/09 | Christophe Béchu assurera l’intérim à la tête d’Horizons après le départ d’Édouard Philippe |
+| 09/09 | Présidentielle 2027. « Si nous continuons à nous diviser, nous ne gagnerons pas », lance Edouard Philippe |
+| 08/09 | Présidentielle : Edouard Philippe propose une rencontre de la droite et du centre à la Toussaint et accélère sur l’union |
+| 08/09 | Présidentielle 2027. Référendum, État de droit : Edouard Philippe marque sa différence avec Bruno Retailleau |
+| 07/09 | Présidentielle 2027 : Bregeon appelle Attal et Retailleau à se ranger « le plus tôt possible » derrière Edouard Philippe |
+| 05/09 | Présidentielle 2027 : le député mayennais Yannick Favennec-Bécot soutient la candidature d’Édouard Philippe |
+| 03/09 | Présidentielle 2027: le président du conseil départemental de la Mayenne, Olivier Richefou, penche pour Édouard Philippe |
+| 01/09 | Pour la présidentielle, entre Gabriel Attal et Édouard Philippe, le match dans le match |
+| 31/08 | Présidentielle 2027 : l’ancien ministre Hervé Morin lance un avertissement à Edouard Philippe |
+| 31/08 | Présidentielle 2027. Face à Attal ou Retailleau, « il n’y a pas match », c’est Édouard Philippe, dit Maud Bregeon |
+| 31/08 | Présidentielles 2027. « Acceptons l’idée qu’il faut stocker l’eau », dit Édouard Philippe auprès des agriculteurs |
+| 30/08 | REPORTAGE. À Tourcoing, chez Gérald Darmanin, Édouard Philippe tend la main à l’union de la droite et du centre |
+| 29/08 | Débat entre Édouard Philippe et François Hollande : échanges policés, les « extrêmes » ciblés… Ce qu’il faut retenir |
+| 27/08 | Baisse de la durée d’indemnisation du chômage, arrêts de travail… Le message d’Édouard Philippe aux entrepreneurs |
+| 27/08 | Présidentielle 2027 : Gabriel Attal « n’a pas peur » d’une primaire et renvoie la responsabilité sur Edouard Philippe |
+| 24/08 | Présidentielle 2027 : Édouard Philippe veut augmenter de 20 % la rémunération moyenne des enseignants sur un quinquennat |
+| 23/08 | Présidentielle 2027 : à La Réunion, Edouard Philippe veut compter ses forces et des ralliements |
+| 22/08 | Critiqué par Jean-Luc Mélenchon, Édouard Philippe l’encourage à venir à Mayotte constater la « crise migratoire » |
+| 18/08 | Présidentielle 2027 : un soutien sous conditions de Gérald Darmanin à la candidature d’Édouard Philippe |
+| 18/08 | Soupçons d’ingérence russe : les désinformations contre Gabriel Attal et Édouard Philippe visées par une enquête |
+| 17/08 | Présidentielle 2027 : Gérald Darmanin apporte son soutien au candidat Édouard Philippe |
+| 27/07 | Qui est Jessica Coisgaud, la plus jeune élue de Loireauxence nommée à la tête des Jeunes avec Édouard Philippe ? |
+| 24/07 | Édouard Philippe visé par une campagne de désinformation russe, une première pour un candidat aux présidentielles |
+| 18/07 | Enquête du PNF sur Édouard Philippe : un tribunal maintient le statut de la lanceuse d’alerte |
+| 18/07 | La carte postale politique d’Édouard Philippe à La Baule… en terre LR avec une présidente de Région de son camp |
+| 18/07 | Édouard Philippe en campagne dans la presqu’île de Guérande : le maire de La Baule prêt à le suivre en 2027 ? |
+| 17/07 | Érosion et emploi des saisonniers : Édouard Philippe en déplacement ce samedi à Guérande et La Baule |
+| 16/07 | Edouard Philippe sur le littoral de Loire-Atlantique pour parler trait de côte et logement saisonnier |
+| 10/07 | Une nouvelle référente des jeunes Horizons en Pays de la Loire pour soutenir Édouard Philippe à la présidentielle |
+| 05/07 | « Je ferai ce que j’ai dit » : Edouard Philippe change de braquet pour la présidentielle, avec un premier meeting |
+| 05/07 | Présidentielle : première descente dans l’arène d’Édouard Philippe |
+| 02/07 | Horizons, le parti d’Édouard Philippe, désigne Sophie Gambiez comme déléguée départementale de la Sarthe |
+| 01/07 | Présidentielle : selon Edouard Philippe, ce serait « dangereux » si Attal et lui se présentaient au premier tour |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=%C3%89douard+Philippe, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

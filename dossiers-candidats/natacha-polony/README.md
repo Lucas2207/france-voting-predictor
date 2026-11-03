@@ -105,6 +105,24 @@ Total : 4 articles.
 | 14/10 | Natacha Polony se sent «obligée» d’ajouter une énième candidature à l’élection présidentielle |
 | 31/08 | Natacha Polony candidate ? Laurent Ruquier, ce dénicheur de futurs politiques |
 
+## Ouest-France (ouest-france.fr)
+
+Source : https://www.ouest-france.fr/recherche/?q=Natacha%20Polony (recherche du site, onglet « Actualités », pages de résultats parcourues jusqu'à une page entièrement antérieure au 1er juillet 2026 ; le classement du site est par pertinence, et non strictement par date). Un article est compté si « Polony » figure dans son titre ; le chapô n'est pas relevé. Les mentions d'accès réservé aux abonnés sont retirées des titres.
+
+Total : 9 articles.
+
+| Date (2026) | Titre |
+|---|---|
+| 01/11 | Présidentielle. Natacha Polony : « Les Français n’ont pas été écoutés » |
+| 30/10 | Posez vos questions à Natacha Polony, invitée du Grand Jury RTL avec Ouest-France |
+| 14/10 | Présidentielle 2027 : l’essayiste et journaliste Natacha Polony annonce sa candidature à l’élection |
+| 14/10 | Natacha Polony candidate à l’élection présidentielle : « Elle devra faire campagne sur son seul nom » |
+| 14/10 | Présidentielle 2027. L’essayiste Natacha Polony candidate pour « proposer une politique de production » |
+| 28/09 | Attendue ce mercredi, Natacha Polony ne participera finalement pas à la soirée de rentrée de l’agglo de Saint-Nazaire |
+| 24/09 | L’éditorialiste Natacha Polony, possible candidate à la Présidentielle, va participer à une table ronde à Saint-Nazaire |
+| 11/09 | Elle met « sur la table un certain nombre de propositions » : Natacha Polony veut « chambouler » la politique |
+| 29/08 | Présidentielle 2027 : Natacha Polony se lance en politique et ne ferme pas la porte à une candidature |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Natacha+Polony, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

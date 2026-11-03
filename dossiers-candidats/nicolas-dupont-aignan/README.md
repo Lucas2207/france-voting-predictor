@@ -99,6 +99,17 @@ Total : 1 article.
 |---|---|
 | 19/09 | Présidentielle 2027 : Nicolas Dupont-Aignan vers une quatrième candidature |
 
+## Ouest-France (ouest-france.fr)
+
+Source : https://www.ouest-france.fr/recherche/?q=Nicolas%20Dupont-Aignan (recherche du site, onglet « Actualités », pages de résultats parcourues jusqu'à une page entièrement antérieure au 1er juillet 2026 ; le classement du site est par pertinence, et non strictement par date). Un article est compté si « Dupont-Aignan » figure dans son titre ; le chapô n'est pas relevé. Les mentions d'accès réservé aux abonnés sont retirées des titres.
+
+Total : 2 articles.
+
+| Date (2026) | Titre |
+|---|---|
+| 07/09 | Sénatoriales 2026 en Sarthe : Marie-Caroline Le Pen soutenue par Nicolas Dupont-Aignan |
+| 04/07 | Présidentielle. L’ancien maire de Cholet interviendra dans une réunion de Debout la France avec Nicolas Dupont-Aignan |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Nicolas+Dupont-Aignan, parcouru jusqu'au 1er juillet 2026.

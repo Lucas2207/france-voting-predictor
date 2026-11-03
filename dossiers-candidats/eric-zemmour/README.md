@@ -122,6 +122,21 @@ Total : 15 articles.
 | 08/08 | Le Pen, Zemmour, Philippot… Qui sont les candidats d’extrême droite à l’élection présidentielle ? |
 | 05/07 | «Le Suicide français» d’Eric Zemmour sur Canal+ : un tract audiovisuel pour un quasi-candidat qui ne fait plus scandale |
 
+## Ouest-France (ouest-france.fr)
+
+Source : https://www.ouest-france.fr/recherche/?q=%C3%89ric%20Zemmour (recherche du site, onglet « Actualités », pages de résultats parcourues jusqu'à une page entièrement antérieure au 1er juillet 2026 ; le classement du site est par pertinence, et non strictement par date). Un article est compté si « Zemmour » figure dans son titre ; le chapô n'est pas relevé. Les mentions d'accès réservé aux abonnés sont retirées des titres.
+
+Total : 6 articles.
+
+| Date (2026) | Titre |
+|---|---|
+| 20/10 | « Le véritable visage du grand remplacement » : l’Arcom saisie après les propos d’Éric Zemmour sur LCI |
+| 17/09 | Présidentielle : Éric Zemmour annonce qu’il « sera candidat » en 2027 pour le parti d’extrême droite Reconquête |
+| 14/09 | Présidentielle 2027. Éric Zemmour prépare sa candidature et appelle à un « vote du sursaut » |
+| 03/09 | Présidentielle 2027. Éric Zemmour compte annoncer sa candidature « avant décembre » |
+| 02/09 | Présidentielle 2027. En attendant qu’Eric Zemmour se prononce, Sarah Knafo continue d’écrire son histoire |
+| 30/07 | L’Arcom inflige une amende de 200 000 € à CNews pour deux séquences avec Éric Zemmour et Erik Tegnér |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=%C3%89ric+Zemmour, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

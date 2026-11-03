@@ -407,6 +407,66 @@ Total : 64 articles.
 | 01/07 | Nétanyahou à Paris ? L’incroyable indulgence de Gabriel Attal envers l’accusé de crime contre l’humanité |
 | 01/07 | Aller sans retour pour Maud Bregeon, qui sera punie par Renaissance pour son soutien à Edouard Philippe (chapô) |
 
+## Ouest-France (ouest-france.fr)
+
+Source : https://www.ouest-france.fr/recherche/?q=Gabriel%20Attal (recherche du site, onglet « Actualités », pages de résultats parcourues jusqu'à une page entièrement antérieure au 1er juillet 2026 ; le classement du site est par pertinence, et non strictement par date). Un article est compté si « Attal » figure dans son titre ; le chapô n'est pas relevé. Les mentions d'accès réservé aux abonnés sont retirées des titres.
+
+Total : 51 articles.
+
+| Date (2026) | Titre |
+|---|---|
+| 31/10 | REPORTAGE. Présidentielle 2027 : Gabriel Attal face aux réalités quotidiennes des Français dans les Côtes d’Armor |
+| 30/10 | Gabriel Attal dans les Côtes-d’Armor : entre soutien des militants et scepticisme des habitants |
+| 29/10 | Présidentielle 2027 : Gabriel Attal en Côtes-d’Armor et en Ille-et-Vilaine, en cette fin de semaine |
+| 29/10 | Présidentielle 2027. L’idée d’une « primaire des démocrates », lancée par Gabriel Attal, ne convainc pas |
+| 28/10 | Présidentielle 2027 : Gabriel Attal, candidat Renaissance à l’Élysée, appelle à une « grande primaire des démocrates » |
+| 27/10 | Présidentielle 2027 : le candidat Gabriel Attal animera une réunion publique dans cette commune des Côtes-d’Armor |
+| 27/10 | Présidentielle 2027 : malgré son « trou d’air » du moment, Gabriel Attal veut garder son cap vers l’Élysée |
+| 10/10 | « C’est elle qui nous guide et nous pousse à avancer » : depuis Lyon, Gabriel Attal lance « son pacte pour la jeunesse » |
+| 04/10 | « Même pas en rêve » : le camp Glucksmann rejette la main tendue par Gabriel Attal aux électeurs sociodémocrates |
+| 03/10 | Présidentielle : Gabriel Attal rêve d’un candidat « à la tête d’une grande coalition » et ne dit pas non à une primaire |
+| 25/09 | Présidentielle 2027. En Finistère, le député Didier Le Gac est chargé de porter la parole de Gabriel Attal |
+| 23/09 | Présidentielle 2027 : Guillaume Auffret et Lysiane Métayer co-référents de la campagne de Gabriel Attal dans le Morbihan |
+| 22/09 | Présidentielle 2027. « Il a gagné quelles campagnes ? » : Edouard Philippe ne mâche pas ses mots sur Gabriel Attal |
+| 22/09 | Après Rima Hassan ou Jordan Bardella, « Complément d’enquête » prépare des numéros sur Gabriel Attal et Sarah Knafo |
+| 21/09 | Présidentielle 2027. Ex-pompier, ce député devient référent sécurité civile de l’équipe de campagne de Gabriel Attal |
+| 17/09 | Présidentielle 2027. « États-Unis d’Europe » : voici ce que propose Gabriel Attal pour « réveiller » l’UE |
+| 13/09 | « On se sent complètement oubliés » : à la Foire du Mans, le candidat Gabriel Attal recueille les doléances des Sarthois |
+| 13/09 | Élection présidentielle : la campagne de Gabriel Attal est passée par la Foire du Mans |
+| 10/09 | « Moins de Paris, plus de région » : Gabriel Attal veut séduire les patrons bretons avec son projet de décentralisation PRO |
+| 09/09 | Présidentielle : à Saint-Malo, Gabriel Attal fait campagne dans un bistrot |
+| 08/09 | Présidentielle 2027 : Gabriel Attal et Raphaël Glucksmann présents au Forum économique breton de Saint-Malo |
+| 03/09 | Gabriel Attal, candidat à l’élection présidentielle, est attendu à la Foire du Mans |
+| 03/09 | L’ex-Premier ministre et candidat à la présidentielle, Gabriel Attal, attendu en visite à la Foire du Mans |
+| 01/09 | Pour la présidentielle, entre Gabriel Attal et Édouard Philippe, le match dans le match |
+| 27/08 | Visite de Gabriel Attal en Mayenne : les entrepreneurs qui l’ont rencontré tirent le bilan |
+| 27/08 | Présidentielle 2027 : Gabriel Attal « n’a pas peur » d’une primaire et renvoie la responsabilité sur Edouard Philippe |
+| 27/08 | Gabriel Attal en visite avant le premier débat |
+| 26/08 | Trois choses à savoir sur le certificat d’études primaires, que Gabriel Attal veut rétablir s’il est élu Président |
+| 26/08 | « Depuis la dissolution, il n’y a plus de stabilité »: en Mayenne, Gabriel Attal évoque cette décision d’Emmanuel Macron |
+| 25/08 | Gabriel Attal en déplacement en Mayenne |
+| 25/08 | Entrepreneurs, agriculteurs, élus locaux et militants : le programme de Gabriel Attal en Mayenne |
+| 21/08 | Présidentielle 2027 : nouvelles attaques de désinformation contre Gabriel Attal |
+| 18/08 | Soupçons d’ingérence russe : les désinformations contre Gabriel Attal et Édouard Philippe visées par une enquête |
+| 08/08 | Soupçons d’ingérence russe dans l’élection présidentielle : Gabriel Attal annonce porter plainte |
+| 04/08 | En Vendée, Gabriel Attal rencontre des gens du voyage et dénonce les occupations illégales |
+| 02/08 | Gabriel Attal promet « la plus grande réforme institutionnelle depuis 1958 » s’il accède à l’Élysée en 2027 |
+| 30/07 | La justice rejette la demande de Gabriel Attal d’interdire au RN l’utilisation du mot « renaissance » pour sa campagne |
+| 29/07 | « Ça suffit ! » : Remonté, Gabriel Attal soutient le maire de Guérande après l’installation illégale de gens du voyage |
+| 28/07 | « Cet été, tous au Macumba ! » : quand Gabriel Attal faisait la promo du Macumba à La Roche-sur-Yon |
+| 27/07 | Gabriel Attal, Rima Hassan… Un week-end très « people politique » à Vannes |
+| 25/07 | Ancien Premier ministre et candidat à la présidentielle 2027, Gabriel Attal s’offre un bain de foule au marché de Vannes |
+| 24/07 | Gabriel Attal en campagne présidentielle dans le Morbihan |
+| 23/07 | « Je me dézinguais à m’en faire péter la couscoussière » : l’ex-conseiller de Gabriel Attal évoque son rapport à la drogue |
+| 23/07 | « C’est quelqu’un avec qui on peut dialoguer » : dans le fief de la famille Leclerc, Gabriel Attal a été bien reçu |
+| 23/07 | Loïg Chesnais-Girard et Gabriel Attal en visite au Juch |
+| 22/07 | Gabriel Attal et Loïg Chesnais-Girard attendus pour l’ouverture des Fêtes maritimes de Douarnenez ce jeudi 23 juillet |
+| 22/07 | À La Baule, les Jeunes avec Gabriel Attal prennent le pouls des français, les pieds dans le sable |
+| 21/07 | Présidentielle 2027 : le candidat Gabriel Attal en campagne en Finistère et en Morbihan |
+| 16/07 | Présidentielle 2027 : l’Esti’van de Gabriel Attal fait étape dans le Maine-et-Loire |
+| 15/07 | Le van de Gabriel Attal s’arrête à Cholet ce samedi 18 juillet |
+| 02/07 | Présidentielle 2027 : Gabriel Attal veut 100 000 départs volontaires de fonctionnaires et l’« impunité budgétaire zéro » |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Gabriel+Attal, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

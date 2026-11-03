@@ -510,6 +510,56 @@ Total : 95 articles.
 | 03/07 | Sanction disciplinaire pour Guillaume Erner, maintenu à la matinale de France Culture mais sans son billet d’humeur (chapô) |
 | 02/07 | Ecorégions, VIe République… Jean-Luc Mélenchon ressort l’appeau à écolos |
 
+## Ouest-France (ouest-france.fr)
+
+Source : https://www.ouest-france.fr/recherche/?q=Jean-Luc%20M%C3%A9lenchon (recherche du site, onglet « Actualités », pages de résultats parcourues jusqu'à une page entièrement antérieure au 1er juillet 2026 ; le classement du site est par pertinence, et non strictement par date). Un article est compté si « Mélenchon » figure dans son titre ; le chapô n'est pas relevé. Les mentions d'accès réservé aux abonnés sont retirées des titres.
+
+Total : 41 articles.
+
+| Date (2026) | Titre |
+|---|---|
+| 01/11 | Jean-Luc Mélenchon va boycotter TF1 après l’interview selon lui complaisante d’Edouard Philippe au 20 h ce dimanche |
+| 30/10 | Présidentielle. Nantes populaire soutient Jean-Luc Mélenchon et bat la campagne à Malakoff |
+| 29/10 | Pour la présidentielle, Nantes populaire soutient le candidat de La France insoumise Jean-Luc Mélenchon |
+| 28/10 | Présidentielle 2027 : Clémence Guetté sera à Brest dans le cadre de la campagne de Jean-Luc Mélenchon, le 30 octobre |
+| 28/10 | Présidentielle 2027 : Manon Aubry sera à Avranches dans le cadre de la campagne de Jean-Luc Mélenchon |
+| 24/10 | Manifestations du 24 octobre : Jean-Luc Mélenchon appelle Emmanuel Macron à « céder » face aux revendications |
+| 18/10 | EXCLUSIF. Présidentielle 2027 : Marine Le Pen et Jean-Luc Mélenchon, candidats les plus cités dans les médias |
+| 15/10 | Présidentielle 2027. À quoi ressemblera le budget de la France si Jean-Luc Mélenchon gagne l’élection ? |
+| 13/10 | Présidentielle 2027 : promesse de Jean-Luc Mélenchon, le vote à seize ans, serpent de mer des campagnes électorales |
+| 12/10 | Lignes rouges, rapprochements… Raphaël Glucksmann et Jean-Luc Mélenchon sont-ils vraiment si « irréconciliables » ? |
+| 11/10 | « Une ignominie, une école du vice » : Jean-Luc Mélenchon demande l’abrogation de Parcoursup |
+| 08/10 | Présidentielle 2027 : Jean-Luc Mélenchon sera en meeting de campagne au Havre en décembre |
+| 05/10 | Présidentielle 2027. Jean-Luc Mélenchon encore et toujours au centre des débats de la primaire sociale-démocrate |
+| 03/10 | « Méga à la ramasse », « danse du ventre à Macron » : Raphaël Glucksmann se paye Jean-Luc Mélenchon et Ségolène Royal |
+| 01/10 | Primaire socialiste : lors du second débat, les cinq candidats de gauche s’écharpent de nouveau sur Jean-Luc Mélenchon |
+| 01/10 | INFOGRAPHIES. Présidentielle 2027 : à gauche, Jean-Luc Mélenchon est bien plus médiatisé que les candidats à la primaire |
+| 28/09 | Blocus des lycées : les forces de l’ordre prêtes à intervenir, Jean-Luc Mélenchon dénonce une « répression » |
+| 23/09 | Primaire socialiste : les candidats de gauche s'opposent sur leur positionnement face à l’insoumis Jean-Luc Mélenchon |
+| 23/09 | Présidentielle 2027 : la nouvelle version du programme de LFI et de Jean-Luc Mélenchon sera dévoilée à la mi-novembre |
+| 23/09 | Dette : l’idée d’annulation partielle brandie par Jean-Luc Mélenchon peut-elle convaincre les Européens ? |
+| 16/09 | Réunion publique autour de la candidature de Jean-Luc Mélenchon |
+| 13/09 | Duel à la Fête de l’Humanité : Jean-Luc Mélenchon et Fabien Roussel tentent de glaner les voix de la gauche radicale |
+| 12/09 | Présidentielle : Bruno Retailleau en meeting, Jean-Luc Mélenchon à la Fête de l’Humanité… Des candidats en campagne |
+| 12/09 | ENTRETIEN. Instaurer des éco-régions ? Le projet de Jean-Luc Mélenchon serait « inadapté » selon ce géographe breton |
+| 10/09 | Ségolène Royal, 73 ans, Jean-Luc Mélenchon, 75 ans… Pourquoi les politiques ont-ils tant de mal à décrocher ? |
+| 07/09 | Le dessin de Chaunu : le discours sur le pouvoir d’achat de Jean-Luc Mélenchon |
+| 07/09 | Présidentielle 2027. A gauche, Fabien Roussel peut-il mettre en péril les ambitions de Jean-Luc Mélenchon ? |
+| 07/09 | Jean-Luc Mélenchon propose d’effacer une partie de la dette de la France, mais est-ce déjà arrivé par le passé ? |
+| 05/09 | Migrants renvoyés vers la France : Jean-Luc Mélenchon juge « misérable » la proposition de Jordan Bardella |
+| 23/08 | Présidentielle. Aux « Amfis » près de Valence, Jean-Luc Mélenchon étrille ses adversaires, mais ménage la gauche |
+| 23/08 | Présidentielle 2027 : « La victoire est possible », assure Jean-Luc Mélenchon en meeting aux universités d’été de LFI |
+| 23/08 | Impartialité des préfets : passe d’armes entre Jean-Luc Mélenchon et Laurent Nuñez, après les propos de l’Insoumis |
+| 23/08 | VIDÉO. Jean-Luc Mélenchon en meeting aux universités d’été de LFI |
+| 23/08 | Conscription écologique et écorégions : les voyants de Jean-Luc Mélenchon sont au vert |
+| 22/08 | Présidentielle : pour l’écologiste Sandrine Rousseau, Jean-Luc Mélenchon « est le candidat le mieux placé à gauche » |
+| 22/08 | Alliances, immigration, canicules… Jean-Luc Mélenchon lance sa campagne présidentielle |
+| 22/08 | Critiqué par Jean-Luc Mélenchon, Édouard Philippe l’encourage à venir à Mayotte constater la « crise migratoire » |
+| 14/07 | «Notre pays entier est en train de brûler» : en Bretagne, Jean-Luc Mélenchon dénonce le capitalisme, cause des incendies |
+| 08/07 | « D’une fête populaire à un événement politique » : le maire de Paimpont réagit à la venue de Jean-Luc Mélenchon |
+| 06/07 | Une fête ouverte de LFI avec concerts, jeux, tables rondes et… Jean-Luc Mélenchon, près de Rennes le 14 juillet |
+| 02/07 | Jean-Luc Mélenchon prononcera un discours en Bretagne le 14 juillet |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Jean-Luc+M%C3%A9lenchon, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

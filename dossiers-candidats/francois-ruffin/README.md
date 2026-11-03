@@ -131,6 +131,32 @@ Total : 20 articles.
 | 09/07 | «C’est la première fois que je fais une signature sur un cubi» : aux Flots Bleus, François Ruffin entame sa «tournée d’été» en vue de la présidentielle |
 | 01/07 | Indépendance de la justice, avantages du Président, nominations… François Ruffin défend une loi «de séparation de l’argent et de l’Etat» |
 
+## Ouest-France (ouest-france.fr)
+
+Source : https://www.ouest-france.fr/recherche/?q=Fran%C3%A7ois%20Ruffin (recherche du site, onglet « Actualités », pages de résultats parcourues jusqu'à une page entièrement antérieure au 1er juillet 2026 ; le classement du site est par pertinence, et non strictement par date). Un article est compté si « Ruffin » figure dans son titre ; le chapô n'est pas relevé. Les mentions d'accès réservé aux abonnés sont retirées des titres.
+
+Total : 17 articles.
+
+| Date (2026) | Titre |
+|---|---|
+| 15/09 | Le candidat à la présidentielle François Ruffin présentera, à Rennes, ses propositions face à la crise climatique |
+| 09/09 | Présidentielle : François Ruffin prêt à participer à la primaire de la gauche, malgré l’opposition de Raphaël Glucksmann |
+| 09/09 | Présidentielle 2027. François Ruffin, toujours prêt pour la primaire, dit que Raphaël Glucksmann a peur des électeurs |
+| 08/09 | Présidentielle 2027. Primaire de gauche élargie à Ruffin:« On ne change pas les règles en cours de jeu », dit Glucksmann |
+| 03/09 | Présidentielle 2027. « On se renifle » : François Ruffin ouvre la voie à un rapprochement avec Dominique de Villepin |
+| 03/09 | La question du jour. Présidentielle 2027 : croyez-vous en une alliance entre Dominique de Villepin et François Ruffin ? |
+| 03/09 | Présidentielle 2027. François Ruffin et Dominique de Villepin : ce qui les rapproche, ce qui les sépare |
+| 29/08 | François Ruffin s’affiche aux côtés d’Olivier Faure et de Johanna Rolland aux journées du PS |
+| 21/08 | François Ruffin, une campagne en auto-stop |
+| 13/07 | Présidentielle 2027. François Ruffin à la rencontre « des gens qui tiennent la France debout » à Agon-Coutainville |
+| 12/07 | La campagne présidentielle s’invite au Bignon : François Ruffin, candidat de gauche, en visite chez des agriculteurs |
+| 12/07 | Canicule : François Ruffin en Loire-Atlantique pour présenter son plan national contre les fortes chaleurs |
+| 11/07 | François Ruffin en Loire-Atlantique : changement de programme à cause de la canicule |
+| 10/07 | Le député de la Somme François Ruffin se déplace en Loire-Atlantique pour parler canicule |
+| 08/07 | Le candidat François Ruffin passe un « entretien d’embauche » à la présidentielle, ce dimanche au Bignon |
+| 08/07 | Election présidentielle : le candidat François Ruffin en déplacement dans la Manche |
+| 06/07 | François Ruffin annonce le dépôt d’un texte pour mettre fin aux « privilèges » des anciens présidents |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Fran%C3%A7ois+Ruffin, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

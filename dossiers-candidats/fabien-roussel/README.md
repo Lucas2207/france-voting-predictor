@@ -121,6 +121,28 @@ Total : 11 articles.
 | 05/07 | «80% du chemin est fait» : reconduit à la tête du PCF, Fabien Roussel bientôt officiellement candidat pour 2027 |
 | 04/07 | Au congrès de Lille, les communistes encore loin de la réconciliation avec Jean-Luc Mélenchon (chapô) |
 
+## Ouest-France (ouest-france.fr)
+
+Source : https://www.ouest-france.fr/recherche/?q=Fabien%20Roussel (recherche du site, onglet « Actualités », pages de résultats parcourues jusqu'à une page entièrement antérieure au 1er juillet 2026 ; le classement du site est par pertinence, et non strictement par date). Un article est compté si « Roussel » figure dans son titre ; le chapô n'est pas relevé. Les mentions d'accès réservé aux abonnés sont retirées des titres.
+
+Total : 13 articles.
+
+| Date (2026) | Titre |
+|---|---|
+| 22/10 | « Je ne pensais pas un jour » : pourquoi Fabien Roussel apparaît (furtivement) dans le dernier clip de Jul |
+| 29/09 | Sophie Binet et Fabien Roussel à la 85e commémoration en mémoire des fusillés du 22 octobre 1941 à Châteaubriant |
+| 13/09 | Duel à la Fête de l’Humanité : Jean-Luc Mélenchon et Fabien Roussel tentent de glaner les voix de la gauche radicale |
+| 11/09 | Hausse des prix des carburants : Fabien Roussel appelle à la mobilisation le 15 septembre et le 17 octobre |
+| 07/09 | Tant chez les Insoumis qu’au PCF : pourquoi la candidature du communiste Fabien Roussel embarrasse à gauche |
+| 07/09 | Présidentielle 2027. A gauche, Fabien Roussel peut-il mettre en péril les ambitions de Jean-Luc Mélenchon ? |
+| 06/09 | Présidentielle 2027 : le communiste Fabien Roussel officialise sa candidature |
+| 06/09 | Une majorité de communistes de Loire-Atlantique « derrière Fabien Roussel » |
+| 05/09 | INFO OUEST-FRANCE. Présidentielle 2027 : le communiste Fabien Roussel sera l’invité du 20 Heures de TF1 ce dimanche |
+| 22/08 | DIRECT VIDÉO. Fabien Roussel s’exprime devant les militants du PCF à Toulouse |
+| 22/08 | Inflation, climat, « économie de guerre »… Fabien Roussel veut une « véritable révolution » à l’Université d’été du PCF |
+| 21/08 | À Toulouse, les communistes se préparent à la candidature de Fabien Roussel pour la présidentielle |
+| 05/07 | Fabien Roussel réélu à la tête du Parti communiste et « à 85 % » candidat à la présidentielle |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Fabien+Roussel, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.
