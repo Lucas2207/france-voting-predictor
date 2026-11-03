@@ -205,13 +205,34 @@ Relevé le 1er novembre 2026. Période visée : du 1er juillet 2026 à aujourd'h
 
 **Contrôles :** le nombre de lignes de chaque section La Dépêche est comparé au total annoncé dans le dossier et au total attendu pour chaque candidat.
 
-## 11. Ce qui n'est pas fait
+## 11. RMC (rmc.bfmtv.com)
+
+**Source :** les archives quotidiennes du site, `https://rmc.bfmtv.com/archives/AAAA/MM/JJ/` (puis `pageN/` pour la suite de la journée), toutes rubriques confondues. Les 124 journées du 1er juillet au 1er novembre 2026 ont été lues. Le bandeau de cookies a été refusé (« Continuer sans accepter », puis « I refuse » sur le second bandeau).
+
+**Pourquoi pas la recherche :** le moteur du site (`/search?q=`) renvoie la même liste de 179 articles quel que soit le nom saisi, et les rubriques « Politique » et « Actualités » ne remontent qu'à début septembre (20 pages). Les archives par jour sont les seules à couvrir la période entière.
+
+**Relevé :**
+- chaque journée est lue page par page, jusqu'à la dernière page de la journée ;
+- la date est lue dans l'adresse de l'article (`_VN-AAAAMMJJ`), et seuls les articles dont la date correspond à la journée lue sont retenus ;
+- le titre est celui de la carte de l'article (`h2` ou `h3`) ;
+- sont retenus les articles dont le nom du candidat figure dans le titre. Le chapô n'est pas relevé. Le suffixe « - jj/mm » ajouté à certains titres est retiré ;
+- les homonymes sont exclus : Michaël Zemmour, Jean-François Roussel, Jean-Christophe Ruffin, « Sainte-Ruffine », Marie-Caroline Le Pen ;
+- un doublon (même titre, même date, deux adresses) est compté une fois : c'est le cas d'un article de Raphaël Glucksmann du 12 octobre.
+
+**Limites :**
+- le nom doit figurer dans le titre : un article qui ne cite le candidat que dans son chapô n'est pas compté ;
+- les archives sont lues avec la liste publique du site : un article absent de cette liste ne peut pas être retrouvé ;
+- Nathalie Arthaud n'apparaît dans aucun titre de la période : le total de zéro porte sur les archives lues.
+
+**Contrôles :** le nombre de lignes de chaque section RMC est comparé au total annoncé dans le dossier.
+
+## 12. Ce qui n'est pas fait
 
 - pas d'ouverture des articles un par un : le classement se base sur le titre et le chapô ou l'adresse ;
 - pas de couverture de BFMTV pour juillet à septembre 2026 ;
 - les dossiers Radio France ne sont pas tous à jour pour les personnalités sans page propre (Zemmour, Lisnard, Roussel) : ils sont couverts par les pages des autres personnalités citées dans les chapôs.
 
-## 12. Fichiers
+## 13. Fichiers
 
 - Dossiers par candidat : `dossiers-candidats/<nom>/README.md`
 - Tableaux Radio France : section « Radio France » de chaque dossier (les anciens fichiers `radio-france-<nom>-emissions.md` à la racine ont été supprimés une fois repris dans les dossiers)

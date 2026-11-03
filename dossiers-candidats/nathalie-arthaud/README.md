@@ -110,6 +110,14 @@ Total : 0 articles.
 
 Aucun article de la période ne porte le nom du candidat dans son titre.
 
+## RMC (rmc.bfmtv.com)
+
+Source : https://rmc.bfmtv.com/archives/ (archives quotidiennes du site, toutes rubriques, du 1er juillet au 1er novembre 2026 ; le moteur de recherche du site ne renvoie pas de résultats filtrés). Un article est compté si « Arthaud » figure dans son titre ; le chapô n'est pas relevé. Le suffixe de date ajouté à certains titres (« - jj/mm ») est retiré. Les homonymes sont exclus (Michaël Zemmour, Jean-François Roussel, Jean-Christophe Ruffin, « Sainte-Ruffine », Marie-Caroline Le Pen).
+
+Total : 0 articles.
+
+Aucun article de la période ne porte le nom du candidat dans son titre.
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Nathalie+Arthaud, parcouru jusqu'au 1er juillet 2026.

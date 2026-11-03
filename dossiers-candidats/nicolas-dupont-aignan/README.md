@@ -146,6 +146,16 @@ Total : 1 article.
 |---|---|
 | 19/09 | REPLAY. Présidentielle 2027 : Nicolas Dupont-Aignan, président de "Debout la France", officialise sa candidature |
 
+## RMC (rmc.bfmtv.com)
+
+Source : https://rmc.bfmtv.com/archives/ (archives quotidiennes du site, toutes rubriques, du 1er juillet au 1er novembre 2026 ; le moteur de recherche du site ne renvoie pas de résultats filtrés). Un article est compté si « Dupont-Aignan » figure dans son titre ; le chapô n'est pas relevé. Le suffixe de date ajouté à certains titres (« - jj/mm ») est retiré. Les homonymes sont exclus (Michaël Zemmour, Jean-François Roussel, Jean-Christophe Ruffin, « Sainte-Ruffine », Marie-Caroline Le Pen).
+
+Total : 1 article.
+
+| Date (2026) | Titre |
+|---|---|
+| 17/09 | Une proposition pour la France : Nicolas Dupont-Aignan propose 10 000 euros pour chaque nouveau-né sur un livret retraite |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Nicolas+Dupont-Aignan, parcouru jusqu'au 1er juillet 2026.

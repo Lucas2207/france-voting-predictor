@@ -171,6 +171,21 @@ Total : 4 articles.
 | 19/09 | VRAI OU FAUX. Présidentielle 2027 : "Des robots à la place des immigrés", pourquoi la proposition d’Éric Zemmour est loin d’être réalisable |
 | 18/09 | Polémique autour de Mbappé en Espagne : "Une solidarité islamique..." Éric Zemmour accuse lourdement le joueur star au sujet du t-shirt en soutien à Ceuta |
 
+## RMC (rmc.bfmtv.com)
+
+Source : https://rmc.bfmtv.com/archives/ (archives quotidiennes du site, toutes rubriques, du 1er juillet au 1er novembre 2026 ; le moteur de recherche du site ne renvoie pas de résultats filtrés). Un article est compté si « Zemmour » figure dans son titre ; le chapô n'est pas relevé. Le suffixe de date ajouté à certains titres (« - jj/mm ») est retiré. Les homonymes sont exclus (Michaël Zemmour, Jean-François Roussel, Jean-Christophe Ruffin, « Sainte-Ruffine », Marie-Caroline Le Pen).
+
+Total : 6 articles.
+
+| Date (2026) | Titre |
+|---|---|
+| 21/10 | Gros clash entre Eric Zemmour et Abel Boyi dans les GG ! |
+| 21/10 | Éric Zemmour face aux GG |
+| 28/09 | Une proposition pour la France : Eric Zemmour veut remplacer la main d’oeuvre immigrée par des robots |
+| 23/09 | Damecour 2027 : Éric Zemmour et son idée de remplacer les immigrés par des robots |
+| 14/09 | Knafo, la femme derrière Eric Zemmour |
+| 02/09 | S. Knafo/Reconquête : Éric Zemmour "est le candidat naturel" |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=%C3%89ric+Zemmour, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

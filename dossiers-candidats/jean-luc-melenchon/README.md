@@ -743,6 +743,43 @@ Total : 84 articles.
 | 04/07 | Jean-Luc Mélenchon appelle au boycott de la matinale de France Culture après un montage fallacieux... Radio France lui répond |
 | 03/07 | "Ne les laissons pas confisquer notre patrimoine culturel" : pourquoi Jean-Luc Mélenchon s'insurge-t-il contre Sony et la fin des jeux vidéo au format physique ? |
 
+## RMC (rmc.bfmtv.com)
+
+Source : https://rmc.bfmtv.com/archives/ (archives quotidiennes du site, toutes rubriques, du 1er juillet au 1er novembre 2026 ; le moteur de recherche du site ne renvoie pas de résultats filtrés). Un article est compté si « Mélenchon » figure dans son titre ; le chapô n'est pas relevé. Le suffixe de date ajouté à certains titres (« - jj/mm ») est retiré. Les homonymes sont exclus (Michaël Zemmour, Jean-François Roussel, Jean-Christophe Ruffin, « Sainte-Ruffine », Marie-Caroline Le Pen).
+
+Total : 28 articles.
+
+| Date (2026) | Titre |
+|---|---|
+| 30/10 | Mélenchon confesse bénéficier d'une généreuse retraite |
+| 29/10 | Présidentielle 2027 : Mélenchon, une campagne via les réseaux sociaux |
+| 27/10 | "Je trouve Mélenchon de plus en plus inquiétant..." |
+| 26/10 | "C'est dégu*ulasse ce que monsieur Mélenchon a fait !" |
+| 26/10 | "Mélenchon a beaucoup de talents, mais il est très cynique" juge Charles Conssigny |
+| 21/10 | Jean-Luc Mélenchon appelle ses militants au calme |
+| 16/10 | Une proposition pour la France : Jean-Luc Mélenchon veut que tous les enfants mangent gratuitement et bio à la cantine |
+| 13/10 | "Je suis certain que Jean-Luc Mélenchon sera au second tour !" |
+| 13/10 | Second tour Le Pen/Mélenchon : "Je ne m'en relèverais pas", avoue Elise Goldfarb |
+| 12/10 | "Mais bordel, on veut le RN ou Mélenchon !", lance Zohra Bitan. |
+| 12/10 | Une proposition pour la France : Jean-Luc Mélenchon propose le droit de vote à 16 ans |
+| 12/10 | Jean-Luc Mélenchon appelle à l'abrogation de Parcoursup |
+| 04/10 | Des propos de Raphaël Glucksmann, destinés à rester privés mais rendus publics, indignent Jean-Luc Mélenchon et Ségolène Royal |
+| 12/09 | Fête de l'huma: Fabien Roussel vs Jean-Luc Mélenchon, c'est reparti pour un tour |
+| 09/09 | Une proposition pour la France : Jean-Luc Mélenchon veut bloquer les prix des carburants |
+| 03/09 | Port du voile/Jean-Luc Mélenchon : "j'ai changé d'avis" |
+| 28/08 | Jean-Luc Mélenchon exhorte les patrons à augmenter les salaires. |
+| 28/08 | Rires après une proposition de Mélenchon : "Je ne suis pas contre mes salariés" |
+| 24/08 | "Je vais voter Mélenchon en 2027 !" |
+| 24/08 | Un possible second tour Mélenchon-Le Pen à la présidentielle : "Si on est un électeur du RN, on se frotte les mains", promet Baptiste des Monstiers |
+| 24/08 | Une proposition pour la France - Jean-Luc Mélenchon veut une "conscription écologique" |
+| 24/08 | Glucksmann : "Plus jamais d'accord avec Jean-Luc Mélenchon" |
+| 23/08 | Présidentielle 2027: un meeting de Jean-Luc Mélenchon en cloture des universités d'été de LFI |
+| 22/08 | Présidentielle 2027: au cœur des universités d’été, lors du déplacement de Jean-Luc Mélenchon |
+| 20/08 | Présidentielle 2027 : Jean-Luc Mélenchon se prépare pour la rentrée politique |
+| 20/08 | Jean-Luc Mélenchon en retrait de la rentrée politique |
+| 13/07 | "Je ne comprends pas pourquoi 100 % des Français ne votent pas Mélenchon ou Le Pen." |
+| 02/07 | Montebourg s'attaque à Mélenchon: "Ce sont les sociaux-traîtres qui en parlent le mieux!" |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Jean-Luc+M%C3%A9lenchon, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

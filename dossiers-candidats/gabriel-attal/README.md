@@ -580,6 +580,30 @@ Total : 45 articles.
 | 03/07 | Présidentielle 2027 : les soutiens de Gabriel Attal passent à l’offensive dans le Tarn |
 | 03/07 | Présidentielle 2027 : Édouard Philippe engrange les soutien... "Il met un peu plus de pression sur Gabriel Attal" |
 
+## RMC (rmc.bfmtv.com)
+
+Source : https://rmc.bfmtv.com/archives/ (archives quotidiennes du site, toutes rubriques, du 1er juillet au 1er novembre 2026 ; le moteur de recherche du site ne renvoie pas de résultats filtrés). Un article est compté si « Attal » figure dans son titre ; le chapô n'est pas relevé. Le suffixe de date ajouté à certains titres (« - jj/mm ») est retiré. Les homonymes sont exclus (Michaël Zemmour, Jean-François Roussel, Jean-Christophe Ruffin, « Sainte-Ruffine », Marie-Caroline Le Pen).
+
+Total : 15 articles.
+
+| Date (2026) | Titre |
+|---|---|
+| 29/10 | Gabriel Attal propose une "grande primaire des démocrates" |
+| 29/10 | Une proposition pour la France : Gabriel Attal ambitionne de former 20 millions de salariés à l'IA |
+| 06/10 | Une proposition pour la France : Gabriel Attal veut aller droit au "brut" |
+| 24/09 | Damecour 2027 : Échec de l'opération "1 000 bistrots" de Gabriel Attal |
+| 24/09 | Une proposition pour la France : Gabriel Attal veut construire les États-Unis d'Europe |
+| 16/09 | Gabriel Attal poursuit sa tournée des "1.000 bistrots" |
+| 08/09 | Damecour 2027 : Gabriel Attal lance l'opération "1 000 bistrots" pour sa campagne |
+| 08/09 | Clip de campagne/Gabriel Attal bière à la main : "Les gens qui pensent que c'est un scandale, taisez-vous", s'agace Juliette Briens |
+| 08/09 | Gabriel Attal lance l'opération 1000 bistrots |
+| 08/09 | Une proposition pour la France : Gabriel Attal, pensions alimentaires plus imposables pour les parents solos |
+| 28/08 | Attal, Philippe, Retailleau, Lisnard, Bertrand... faut-il une primaire ? |
+| 27/08 | Edouard Philippe/Gabriel Attal : Un duel de plus en plus tendu |
+| 27/08 | Gabriel Attal victime d'ingérence russe |
+| 24/07 | Gabriel Attal: "On a un modèle social qui coûte de plus en plus cher et qui repose de plus en plus sur les épaules des seuls salariés" |
+| 03/07 | Gabriel Attal présente ses mesure pour ramener un déficit à 0% en 10 ans |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Gabriel+Attal, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

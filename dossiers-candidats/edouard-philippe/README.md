@@ -607,6 +607,46 @@ Total : 40 articles.
 | 03/07 | Présidentielle 2027 : Édouard Philippe engrange les soutien... "Il met un peu plus de pression sur Gabriel Attal" |
 | 01/07 | Présidentielle 2027 : Laurent Wauquiez appelle Bruno Retailleau à se retirer si "sa candidature ne décolle pas" et apporte son soutien à Édouard Philippe |
 
+## RMC (rmc.bfmtv.com)
+
+Source : https://rmc.bfmtv.com/archives/ (archives quotidiennes du site, toutes rubriques, du 1er juillet au 1er novembre 2026 ; le moteur de recherche du site ne renvoie pas de résultats filtrés). Un article est compté si « Édouard Philippe » figure dans son titre ; le chapô n'est pas relevé. Le suffixe de date ajouté à certains titres (« - jj/mm ») est retiré. Les homonymes sont exclus (Michaël Zemmour, Jean-François Roussel, Jean-Christophe Ruffin, « Sainte-Ruffine », Marie-Caroline Le Pen).
+
+Total : 31 articles.
+
+| Date (2026) | Titre |
+|---|---|
+| 30/10 | Soupçons de détournement : ce que l'on reproche à Edouard Philippe |
+| 29/10 | Pour Édouard Philippe, "l'échec de l'intégration" depuis "plusieurs décennies est incontestable" |
+| 19/10 | Une proposition pour la France : Édouard Philippe veut des vacances scolaires plus courtes |
+| 09/10 | "Ça ne sert à rien !" pour Kaderdali, à propos d'une proposition d'Édouard Philippe |
+| 09/10 | Une proposition pour la France : Édouard Philippe, une aide de 350 euros dès le premier enfant et une réduction d’impôt de 3 000 euros pendant les 3 premières années après la naissance |
+| 01/10 | Damecour 2027 - Édouard Philippe en difficulté dans les sondages, pourquoi ? |
+| 30/09 | Édouard Philippe veut la retraite à taux plein à 65 ans |
+| 30/09 | Une proposition pour la France : Edouard Philippe veut introduire une part de capitalisation dans notre système de retraites |
+| 30/09 | Retraites : Édouard Philippe souhaite un "volet capitalisation" |
+| 14/09 | Damecour 2027 : Édouard Philippe prêt à partir en vacances ? |
+| 11/09 | Edouard Philippe "adorerait un système dans lequel le président est élu en mai et prend ses fonctions en septembre" |
+| 11/09 | Édouard Philippe veut "décompresser" s'il est élu: "C'est lunaire", souffle Sandrine Pégand |
+| 09/09 | Édouard Philippe veut réunir la droite et le centre: "Ça ne marche pas", selon Antoine Diers |
+| 09/09 | Présidentielle 2027 : Édouard Philippe accélère sa campagne |
+| 08/09 | Édouard Philippe prône un "état d’urgence narcotrafic" |
+| 31/08 | Édouard Philippe/Gérald Darmanin : un ralliement sous conditions |
+| 30/08 | Présidentielle 2027: Gérald Darmanin accueille Édouard Philippe à Tourcoing ce dimanche |
+| 28/08 | "Édouard Philippe a remporté le 1er match de la présidentielle." |
+| 28/08 | Une proposition pour la France : Édouard Philippe veut mettre fin à l'"open bar" des arrêts de travail et baisser l'indemnisation du chômage |
+| 28/08 | Une proposition pour la France - Arrêts de travail : Edouard Philippe veut mettre fin à "l'open bar" |
+| 27/08 | Edouard Philippe/Gabriel Attal : Un duel de plus en plus tendu |
+| 25/08 | Une proposition pour la France - Edouard Philippe veut augmenter de 20% le salaire des profs |
+| 25/08 | Le projet d'Edouard Philippe pour l'éducation nationale |
+| 18/08 | Gérald Darmanin soutient Édouard Philippe à la présidentielle. Duo gagnant ? "Je ne suis pas contre le réchauffé. Mais là, c’est un plat qui a pourri au frigo" |
+| 18/08 | Présidentielle 2027: Gérald Darmanin soutiendra Edouard Philippe |
+| 08/07 | Candidature de Marine Le Pen : La réaction d'Édouard Philippe |
+| 05/07 | Premier "grand meeting" ce dimanche pour le candidat à la présidentielle, Edouard Philippe |
+| 03/07 | Débat RMC - Présidentielle : Edouard Philippe, espoir de la droite? |
+| 02/07 | Laurent Wauquiez se rapproche d'Edouard Philippe: "C'est l'UMP d'avant", ironise Olivier Truchot |
+| 02/07 | La main tendue de Laurent Wauquiez à Édouard Philippe |
+| 01/07 | Présidentielle 2027: Edouard Philippe veut faire "travailler plus longtemps" les Français |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=%C3%89douard+Philippe, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

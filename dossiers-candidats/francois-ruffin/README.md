@@ -177,6 +177,19 @@ Total : 3 articles.
 | 03/09 | Présidentielle 2027 : François Ruffin et Dominique de Villepin affichent plusieurs points communs, mais peut-on vraiment y voir les prémices d'un rapprochement ? |
 | 03/09 | Présidentielle 2027 : "On se renifle..." Vers un prochain rapprochement entre Dominique de Villepin et François Ruffin ? |
 
+## RMC (rmc.bfmtv.com)
+
+Source : https://rmc.bfmtv.com/archives/ (archives quotidiennes du site, toutes rubriques, du 1er juillet au 1er novembre 2026 ; le moteur de recherche du site ne renvoie pas de résultats filtrés). Un article est compté si « Ruffin » figure dans son titre ; le chapô n'est pas relevé. Le suffixe de date ajouté à certains titres (« - jj/mm ») est retiré. Les homonymes sont exclus (Michaël Zemmour, Jean-François Roussel, Jean-Christophe Ruffin, « Sainte-Ruffine », Marie-Caroline Le Pen).
+
+Total : 4 articles.
+
+| Date (2026) | Titre |
+|---|---|
+| 30/10 | François Ruffin estime que "la France d'en haut se gave" : "L'enrichissement des autres ne me lèse pas", répond Juliette Briens |
+| 17/09 | Damecour 2027 - François Ruffin et l'idée des stages en entreprise pour les politiques et grands patrons |
+| 25/08 | Damecour 2027 - Pour une campagne plus proche des gens, François Ruffin fait du stop au péage de Saint-Arnoult |
+| 07/07 | François Ruffin face aux GG |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Fran%C3%A7ois+Ruffin, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

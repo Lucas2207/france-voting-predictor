@@ -152,6 +152,23 @@ Total : 4 articles.
 | 01/10 | Présidentielle 2027 : Natacha Polony bientôt candidate ? L'éditorialiste crée son association de financement électoral |
 | 27/08 | ENTRETIEN. "Beaucoup de Français sont orphelins en politique" : souveraineté, école, réindustrialisation, présidentielle... les vérités de Natacha Polony |
 
+## RMC (rmc.bfmtv.com)
+
+Source : https://rmc.bfmtv.com/archives/ (archives quotidiennes du site, toutes rubriques, du 1er juillet au 1er novembre 2026 ; le moteur de recherche du site ne renvoie pas de résultats filtrés). Un article est compté si « Polony » figure dans son titre ; le chapô n'est pas relevé. Le suffixe de date ajouté à certains titres (« - jj/mm ») est retiré. Les homonymes sont exclus (Michaël Zemmour, Jean-François Roussel, Jean-Christophe Ruffin, « Sainte-Ruffine », Marie-Caroline Le Pen).
+
+Total : 8 articles.
+
+| Date (2026) | Titre |
+|---|---|
+| 23/10 | Commandes publiques: Natacha Polony veut donner la priorité aux entreprises françaises |
+| 23/10 | Une proposition pour la France : Natacha Polony veut donner la priorité aux entreprises françaises pour les commandes publiques |
+| 22/10 | "Nous sommes face à l'effondrement de toutes les structures de l'État" note Natacha Polony |
+| 22/10 | Natacha Polony face aux GG |
+| 15/10 | Natacha Polony se présente à la présidentielle |
+| 14/10 | Un auditeur déclare sa candidature à l'élection présidentielle après celle de Natacha Polony. |
+| 14/10 | Natacha Polony candidate à la présidentielle: " Tout le monde se dit qu'on peut être candidat parce que les autres sont prets à trébucher" |
+| 14/10 | "J'ai fait plus de choses dans ma vie que Natacha Polony." : Un auditeur déclare sa candidature à l'élection présidentielle en direct dans les GG. |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Natacha+Polony, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

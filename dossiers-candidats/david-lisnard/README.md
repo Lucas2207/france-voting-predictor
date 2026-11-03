@@ -267,6 +267,27 @@ Total : 13 articles.
 | 01/09 | ENTRETIEN. Facturation électronique : "Les PME aéronautiques n'ont pas envie de voir leurs secrets commerciaux d'Airbus se retrouver dans la nature", met en garde David Lisnard |
 | 05/07 | Candidat à la présidentielle, David Lisnard dézingue le camp macroniste : "Une caste prête à tout" pour se maintenir au pouvoir |
 
+## RMC (rmc.bfmtv.com)
+
+Source : https://rmc.bfmtv.com/archives/ (archives quotidiennes du site, toutes rubriques, du 1er juillet au 1er novembre 2026 ; le moteur de recherche du site ne renvoie pas de résultats filtrés). Un article est compté si « Lisnard » figure dans son titre ; le chapô n'est pas relevé. Le suffixe de date ajouté à certains titres (« - jj/mm ») est retiré. Les homonymes sont exclus (Michaël Zemmour, Jean-François Roussel, Jean-Christophe Ruffin, « Sainte-Ruffine », Marie-Caroline Le Pen).
+
+Total : 12 articles.
+
+| Date (2026) | Titre |
+|---|---|
+| 28/10 | "Lisnard me plaît beaucoup" penche Philippe, au 3216, pour une primaire de la droite |
+| 21/10 | Chevallier remonte le temps : David Lisnard et le 17 Octobre 1961 |
+| 16/10 | Présidentielle 2027: David Lisnard, la surprise à droite? |
+| 15/10 | Damecour 2027 : David Lisnard, candidat du "Il se passe quelque chose" |
+| 14/10 | Les GG réagissent au retard de David Lisnard sur RMC-BFMTV |
+| 13/10 | David Lisnard en retard sur RMC-BFMTV et recadré en direct |
+| 13/10 | David Lisnard, la Nouvelle Star de droite |
+| 01/10 | Une proposition pour la France : "David Lisnard veut plus de policiers sur le terrain, moins dans les bureaux" |
+| 28/08 | Attal, Philippe, Retailleau, Lisnard, Bertrand... faut-il une primaire ? |
+| 28/08 | David Lisnard, le Tom Cruise de la présidentielle |
+| 22/07 | Les invités d'Apolline Matin : Jean-Michel Verne et David Lisnard |
+| 01/07 | Canicule : "Lisnard, un expert des vieux qui ont chaud" |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=David+Lisnard, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

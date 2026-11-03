@@ -482,6 +482,29 @@ Total : 23 articles.
 | 01/07 | Présidentielle 2027 : Laurent Wauquiez appelle Bruno Retailleau à se retirer si "sa candidature ne décolle pas" et apporte son soutien à Édouard Philippe |
 | 01/07 | Présidentielle 2027 : "Ce n’est pas responsable..." pourquoi Ségolène Royal et Bruno Retailleau s’inquiètent-ils tant de la date du prochain scrutin ? |
 
+## RMC (rmc.bfmtv.com)
+
+Source : https://rmc.bfmtv.com/archives/ (archives quotidiennes du site, toutes rubriques, du 1er juillet au 1er novembre 2026 ; le moteur de recherche du site ne renvoie pas de résultats filtrés). Un article est compté si « Retailleau » figure dans son titre ; le chapô n'est pas relevé. Le suffixe de date ajouté à certains titres (« - jj/mm ») est retiré. Les homonymes sont exclus (Michaël Zemmour, Jean-François Roussel, Jean-Christophe Ruffin, « Sainte-Ruffine », Marie-Caroline Le Pen).
+
+Total : 14 articles.
+
+| Date (2026) | Titre |
+|---|---|
+| 26/10 | "La sélection existe par l'échec !" proclame Bruno Retailleau |
+| 26/10 | Bruno Retailleau face aux GG |
+| 26/10 | "On a besoin d'une gauche" réclame Bruno Retailleau |
+| 26/10 | "Le bilan d'Emmanuel Macron est tellement cataclysmique" pour Bruno Retailleau |
+| 13/10 | Une proposition pour la France : Bruno Retailleau vise 400.000 fonctionnaires en moins... en utilisant notamment l'IA ! |
+| 25/09 | "M. Retailleau a pondu quelque chose pour exister dans une campagne présidentielle qui a commencé beaucoup trop tôt" |
+| 25/09 | Travailler 30 minutes de plus par jour pour gagner plus ? "Bruno Retailleau n'a rien inventé. C'est une proposition qui a déjà été mise en place et qui n'a pas porté ses fruits", assure Pierre Rondeau |
+| 25/09 | Une proposition pour la France : Bruno Retailleau veut décaler le départ à la retraite selon l'espérance de vie |
+| 18/09 | Une proposition pour la France : Bruno Retailleau veut baisser le prix du plein de 8,50 euros |
+| 10/09 | Une proposition pour la France : Bruno Retailleau veut supprimer le droit du sol |
+| 09/09 | B. Retailleau rejette la proposition d'E. Philippe |
+| 07/09 | Bruno Retailleau veut inscrire l'héritage judéo-chrétien dans la Constitution |
+| 02/09 | Une proposition pour la France : Bruno Retailleau veut des internats disciplinaires pour les élèves violents |
+| 28/08 | Attal, Philippe, Retailleau, Lisnard, Bertrand... faut-il une primaire ? |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Bruno+Retailleau, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

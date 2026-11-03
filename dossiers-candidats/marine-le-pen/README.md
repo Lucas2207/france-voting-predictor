@@ -1213,6 +1213,63 @@ Total : 98 articles.
 | 07/07 | Marine Le Pen pourra-t-elle se présenter en 2027 ? La cour d’appel rend sa décision mardi |
 | 02/07 | RN : ces nouvelles affaires qui empoisonnent Jordan Bardella et son parti à quelques jours de connaître le sort judiciaire de Marine Le Pen |
 
+## RMC (rmc.bfmtv.com)
+
+Source : https://rmc.bfmtv.com/archives/ (archives quotidiennes du site, toutes rubriques, du 1er juillet au 1er novembre 2026 ; le moteur de recherche du site ne renvoie pas de résultats filtrés). Un article est compté si « Le Pen » figure dans son titre ; le chapô n'est pas relevé. Le suffixe de date ajouté à certains titres (« - jj/mm ») est retiré. Les homonymes sont exclus (Michaël Zemmour, Jean-François Roussel, Jean-Christophe Ruffin, « Sainte-Ruffine », Marie-Caroline Le Pen).
+
+Total : 48 articles.
+
+| Date (2026) | Titre |
+|---|---|
+| 26/10 | L'invité d'Apolline Matin : Face à un "pays fracturé", Marine Le Pen promet un gouvernement d'union nationale |
+| 23/10 | "Vous ne pourrez pas faire un meilleur travail pour faire élire Marine Le Pen !" |
+| 15/10 | Marine Le Pen en tête des sondages : "Plus le Rassemblement national sera attaqué, plus ça les fera grimper." |
+| 15/10 | Guerre en Ukraine: "Nous ne pouvons plus assumer cette aide financière", juge Marine Le Pen |
+| 15/10 | Une proposition pour la France : Marine Le Pen propose une taxe de 1 000 euros pour chaque salarié extra-européen |
+| 13/10 | Second tour Le Pen/Mélenchon : "Je ne m'en relèverais pas", avoue Elise Goldfarb |
+| 08/10 | Sommet de l'élevage : Marine Le Pen se rassure en terrain conquis |
+| 07/10 | Une proposition pour la France : Marine Le Pen envisage d’ouvrir un prêt à taux zéro pour l’achat d’une voiture propre |
+| 04/10 | Marine Le Pen maintient "totalement" sa "confiance" à Jordan Bardella, accusé d'antisémitisme |
+| 29/09 | Damecour 2027 - "Ce n'est pas un sujet, c'est une dinguerie"... Marine Le Pen réagit aux accusations contre Jordan Bardella |
+| 25/09 | "Est-ce que Marine Le Pen s'est bien dédiabolisé avant de voir le Pape ?" |
+| 18/09 | Gironde : Marine Le Pen auprès des sinistrés du Porge |
+| 14/09 | Logement : Marine Le Pen mise sur une "priorité nationale" |
+| 14/09 | Une proposition pour la France : Logements, Marine Le Pen veut supprimer toutes les contraintes liées au DPE |
+| 13/09 | Marine Le Pen prononce ce dimanche à Hénin-Beaumont son premier véritable discours de sa campagne |
+| 13/09 | Marine Le Pen imbattable en 2027? L'édito politique de Bruno Jeudy |
+| 11/09 | Présidentielle 2027 : le duo Le Pen/Bardella au bord du divorce ? |
+| 10/09 | Chevallier remonte le temps : Le Pen, la politique en famille |
+| 07/09 | Des tensions dans le duo Le Pen/Bardella? "Il y a un malaise persistant", estime Abel Boyi |
+| 07/09 | Marine Le Pen défend le "gel" des taxes sur le tabac |
+| 27/08 | Présidentielle : Marine Le Pen fait sa rentrée face au Medef |
+| 24/08 | Un possible second tour Mélenchon-Le Pen à la présidentielle : "Si on est un électeur du RN, on se frotte les mains", promet Baptiste des Monstiers |
+| 16/07 | Elon Musk : Marine Le Pen "Dernier espoir de la France" |
+| 14/07 | Les propositions économiques de Marine Le Pen font peur aux patrons |
+| 13/07 | "Je ne comprends pas pourquoi 100 % des Français ne votent pas Mélenchon ou Le Pen." |
+| 10/07 | Débat RMC - Marine Le Pen candidate à l'élection présidentielle |
+| 09/07 | Un sondage donne Marine Le Pen gagnante dans tous les cas de figure. |
+| 09/07 | Marine Le Pen candidate : Une stratégie risquée ? |
+| 08/07 | Marine Le Pen condamnée mais candidate : a-t-elle raison d’y aller ? |
+| 08/07 | Le Pen / Bardella : "ticket gagnant" de cette élection? |
+| 08/07 | Condamnation/Marine Le Pen candidate : "La justice dit : c'est le peuple qui va choisir", observe Fred Hermel |
+| 08/07 | Marine Le Pen condamnée : "Faites ce que je dis mais ne faites pas ce que je fais !" |
+| 08/07 | Marine Le Pen candidate malgré sa condamnation : quels impacts dans l’opinion publique ? |
+| 08/07 | La candidature de Marine Le Pen satisfait ses électeurs |
+| 08/07 | Le parti pris : Pourvoi en cassation de Marine Le Pen, quelles conséquences et quel calendrier ? |
+| 08/07 | Candidature de Marine Le Pen : La réaction d'Édouard Philippe |
+| 08/07 | Pourvoi en cassation de Marine Le Pen : quelles conséquences et quel calendrier ? |
+| 08/07 | Présidentielle 2027 : La campagne de Marine Le Pen lancée |
+| 08/07 | Marine Le Pen candidate à l'élection présidentielle |
+| 07/07 | Marine Le Pen éligible mais condamnée à un an ferme sous bracelet électronique |
+| 07/07 | Jordan Bardella ou Marine Le Pen en 2027 : "Marine Le Pen serait plus coriace à battre", tranche Benjamin Amar |
+| 07/07 | Procès en appel de Marine Le Pen : quel impact pour la présidentielle de 2027 ? |
+| 07/07 | Les 3 scénarios possibles pour Marine Le Pen |
+| 06/07 | Voix de droite - Procès Marine Le Pen : "La présidentielle commence demain" |
+| 06/07 | Procès en appel de Marine Le Pen : Le verdict demain |
+| 05/07 | Présidentielle: Marine Le Pen et Jordan Bardella se jurent "confiance" et "amitié" |
+| 04/07 | Marine Le Pen et Jordan Bardella s'affichent ensemble à 3 jours de la décision de la cour d'appel |
+| 02/07 | Marine Le Pen bientôt fixée sur son jugement en appel |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Marine+Le+Pen, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

@@ -177,6 +177,18 @@ Total : 10 articles.
 | 07/07 | Le PCF du Gers reconduit Éric Cadoré pour un 4e mandat et rejette Mélenchon : cap sur Roussel et la bataille de l’eau agricole |
 | 05/07 | Fabien Roussel ouvre le congrès du PCF avec la présidentielle en ligne de mire, au grand dam de ses alliés insoumis : la réponse froide de Jean-Luc Mélenchon |
 
+## RMC (rmc.bfmtv.com)
+
+Source : https://rmc.bfmtv.com/archives/ (archives quotidiennes du site, toutes rubriques, du 1er juillet au 1er novembre 2026 ; le moteur de recherche du site ne renvoie pas de résultats filtrés). Un article est compté si « Roussel » figure dans son titre ; le chapô n'est pas relevé. Le suffixe de date ajouté à certains titres (« - jj/mm ») est retiré. Les homonymes sont exclus (Michaël Zemmour, Jean-François Roussel, Jean-Christophe Ruffin, « Sainte-Ruffine », Marie-Caroline Le Pen).
+
+Total : 3 articles.
+
+| Date (2026) | Titre |
+|---|---|
+| 16/09 | Fabien Roussel, le "communiste de droite" |
+| 16/09 | Une proposition pour la France : Fabien Roussel veut une hausse massive de la production d’électricité nucléaire |
+| 12/09 | Fête de l'huma: Fabien Roussel vs Jean-Luc Mélenchon, c'est reparti pour un tour |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Fabien+Roussel, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.
