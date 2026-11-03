@@ -248,6 +248,72 @@ Total : 58 articles.
 | 01/07 | Présidentielle 2027 : «Le choix des dates de l'élection n'est pas neutre», dénonce Bruno Retailleau |
 | 01/07 | Présidentielle 2027 : entre Gabriel Attal, Edouard Philippe et Bruno Retailleau, les ministres du gouvernement commencent à se positionner |
 
+## Libération (liberation.fr)
+
+Source : https://www.liberation.fr/recherche/?searchKeywords=Bruno%20Retailleau&sort=date (recherche du site, filtrée sur la période du 1er juillet au 1er novembre 2026). Un article est compté si « Retailleau » figure dans son titre ou dans son chapô ; un article dont le nom n'apparaît que dans le chapô est marqué « (chapô) ».
+
+Total : 57 articles.
+
+| Date (2026) | Titre |
+|---|---|
+| 30/10 | Rassemblement contre le racisme à Trappes : les bonnes excuses d’Attal, Philippe et Retailleau pour sécher l’hommage |
+| 30/10 | Quand Attal refusait toute alliance avec Retailleau… qu’il implore désormais de participer à sa primaire |
+| 30/10 | Interdire LFI mais pas Reconquête ? Le grand moment de malaise de la vice-présidente des jeunes LR (chapô) |
+| 28/10 | David Lisnard dragouille les députés LR (chapô) |
+| 23/10 | Surprise : Trump et Nétanyahou ont la même analyse du 17 octobre que Retailleau, Le Pen ou Zemmour |
+| 23/10 | Théo Am’Saadi, président des Jeunes Républicains : «Wauquiez est une déception» (chapô) |
+| 17/10 | Présidentielle 2027 : pour François Fillon, Bruno Retailleau «est le seul candidat crédible qui soit clairement à droite» |
+| 17/10 | Présidentielle : à quoi joue David Lisnard, le candidat fan de Milei qui veut forcer la porte de la campagne ? (chapô) |
+| 16/10 | Retailleau-Lisnard-Ménard : le déjeuner de conservateurs |
+| 15/10 | Bruno Retailleau met encore un vent à Edouard Philippe |
+| 15/10 | Macron repeint en «Gulliver», Mélenchon diabolisé et une conversation avec son ânesse : on a lu «De combats et d’espoir», le dernier livre de Bruno Retailleau |
+| 15/10 | Attal, Retailleau, Philippe… Des candidats à la présidentielle 2027 au chevet de la presse écrite en souffrance |
+| 14/10 | Aubagne : obsédé par LFI, Bruno Retailleau va un peu trop vite en besogne |
+| 12/10 | Budget 2027 : Retailleau évoque une «France quasiment en faillite» et griffe Philippe et Attal |
+| 09/10 | Présidentielle 2027 : Bruno Retailleau reçoit le soutien de François Baroin (qui croit encore aux miracles) |
+| 06/10 | Contre LFI, Retailleau reprend le flambeau de Bardella |
+| 04/10 | Sceptique sur l’offre proposée par Philippe, Attal appelle à rassembler «de la gauche sociale-démocrate à la droite républicaine» (chapô) |
+| 02/10 | Retailleau révèle qu’en fait, il fait barrage à Le Pen depuis le début |
+| 01/10 | «Interdire LFI» ? Bruno Retailleau dérive toujours plus loin pour se faire entendre |
+| 01/10 | «Je prendrais la même décision» : à son procès pour refus de marier un Algérien sous OQTF, Robert Ménard invite Bruno Retailleau |
+| 01/10 | Présidentielle 2027 : Bruno Retailleau a-t-il les moyens de financer sa campagne ? |
+| 29/09 | Le camp Retailleau tente de renforcer LR en l’épurant des pro-Philippe |
+| 29/09 | Retailleau, Wauquiez, le RN et la bollosphère s’emballent sur une vidéo trompeuse de Bally Bagayoko «manipulant une poubelle en feu» |
+| 28/09 | Refus de marier un étranger sous OQTF : jugé mercredi, Robert Ménard veut faire de son procès une tribune (chapô) |
+| 22/09 | La droite et l’extrême droite veulent en finir avec le droit du sol ? A la gauche de prendre le chemin inverse (chapô) |
+| 17/09 | Entre sa loyauté à Retailleau et la crainte d’une déroute, le dilemme de Valérie Pécresse |
+| 16/09 | Même les lecteurs du «Figaro» n’en ont pas grand-chose à faire de Bruno Retailleau |
+| 16/09 | Bruno Retailleau, l’extrême glissade de la droite |
+| 15/09 | Bruno Retailleau s’affiche encore avec le syndicat policier d’extrême droite Alliance |
+| 12/09 | A Nogent-sur-Marne, Bruno Retailleau bat en brèche l’idée d’un ralliement à Edouard Philippe pour la présidentielle |
+| 11/09 | Après sa charge contre l’état de droit, Retailleau, chantre d’une «radicalité raisonnable», cherche sa voie |
+| 09/09 | Union de la droite et du centre : Gabriel Attal et Bruno Retailleau renvoient Edouard Philippe dans les cordes |
+| 09/09 | 2027 : Edouard Philippe tend la main à LR et au bloc central et se prend une crampe (chapô) |
+| 09/09 | Policier raciste à Carcassonne, Attal et Retailleau éconduisent Philippe, prix des carburants… L’actu de ce mercredi 9 septembre |
+| 08/09 | Présidentielle 2027 : Edouard Philippe invite Gabriel Attal et Bruno Retailleau à la Toussaint pour enterrer leurs ambitions |
+| 08/09 | A défaut de ralliements, Bruno Retailleau dévoile son carré de porte-paroles |
+| 07/09 | Retailleau très favorable à un débat face à Mélenchon, qui le refuse catégoriquement |
+| 03/09 | Bruno Retailleau n’est pas un potentiel allié d’Edouard Philippe, c’est un agent électoral du RN |
+| 03/09 | L’hallucinante proposition de Bruno Retailleau contre le Conseil constitutionnel |
+| 03/09 | Présidentielle 2027 : à droite et au centre, privés de primaire, les unitaires amers (chapô) |
+| 31/08 | Monsieur Retailleau, je quitte Les Républicains et vous n’y êtes pas pour rien |
+| 28/08 | A la foire de Châlons-en-Champagne, Bruno Retailleau doit déjà lever les doutes sur sa candidature |
+| 24/07 | Retailleau espère le ralliement de Lisnard, partisan de l’«union des droites» à laquelle il s’oppose |
+| 18/07 | Présidentielle 2027 : l’été de la déraison, par Denis Pingaud (chapô) |
+| 17/07 | Fin de vie : Bruno Retailleau réclame que des membres du Conseil constitutionnel se déportent |
+| 08/07 | «Ça rend plus pertinent que jamais l’union de la droite et du centre» : comment la candidature Le Pen change la donne pour Philippe, Attal et Retailleau |
+| 08/07 | Emmanuel Macron propose le LR anti-mariage pour tous François-Noël Buffet comme Défenseur des droits et provoque un tollé (chapô) |
+| 07/07 | Après Philippe et Attal, Bruno Retailleau se met à son tour à l’IA : «La grande bataille technologique de notre histoire» |
+| 07/07 | Bruno Retailleau dit la même chose que Bruno Mégret en 2002 |
+| 07/07 | Wauquiez inquiet que LR devienne «une secte» si Retailleau reste candidat jusqu’au bout |
+| 04/07 | «Tant qu’il ne sera pas le chef, il essaiera de tuer tout ce qui bouge» : Wauquiez, l’incendiaire de LR (chapô) |
+| 03/07 | Bruno Retailleau fait un copié-collé du RN sur le droit du sol |
+| 03/07 | Voter RN est devenu une «évidence» pour LR et ses électeurs (chapô) |
+| 02/07 | Quand Laurent Wauquiez promettait de ne «jamais» s’allier avec Edouard Philippe (chapô) |
+| 01/07 | Présidentielle : un second tour prévu le 2 mai, Retailleau et Royal s’indignent |
+| 01/07 | Présidentielle : pour Laurent Wauquiez, Edouard Philippe «peut incarner l’ordre et le sérieux» pour «redresser la France» (chapô) |
+| 01/07 | La prochaine élection présidentielle aura lieu les 18 avril et 2 mai 2027 (chapô) |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Bruno+Retailleau, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

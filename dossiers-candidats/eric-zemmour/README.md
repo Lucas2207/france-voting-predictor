@@ -98,6 +98,30 @@ Total : 14 articles.
 | 05/07 | Mort de Louis: «C'est une guerre qui a lieu sur notre sol», prévient Eric Zemmour |
 | 05/07 | Mort de Louis : «La justice a cessé de protéger les Français», dénonce Éric Zemmour |
 
+## Libération (liberation.fr)
+
+Source : https://www.liberation.fr/recherche/?searchKeywords=%C3%89ric%20Zemmour&sort=date (recherche du site, filtrée sur la période du 1er juillet au 1er novembre 2026). Un article est compté si « Zemmour » figure dans son titre ou dans son chapô ; un article dont le nom n'apparaît que dans le chapô est marqué « (chapô) ».
+
+Total : 15 articles.
+
+| Date (2026) | Titre |
+|---|---|
+| 30/10 | Interdire LFI mais pas Reconquête ? Le grand moment de malaise de la vice-présidente des jeunes LR (chapô) |
+| 29/10 | Knafo sur Franceinfo : derrière la stratégie de l'extrême droite (chapô) |
+| 23/10 | Surprise : Trump et Nétanyahou ont la même analyse du 17 octobre que Retailleau, Le Pen ou Zemmour |
+| 16/10 | Lille : comment des militants d’extrême droite proches de Génération Zemmour et de la Cocarde ont passé à tabac un homme tombé au sol |
+| 19/09 | De «League of Legends» à Eric Zemmour : Sardoche, le streamer rageur devenu porte-étendard de l’extrême droite libertarienne |
+| 18/09 | Vivement qu’un robot change la couche d’Eric Zemmour dans un Ehpad |
+| 18/09 | Présidentielle 2027 : toujours aussi raciste et toujours aussi nul, Zemmour annonce sa candidature sans le faire exprès |
+| 13/09 | Dans les Yvelines, Eric Zemmour fantasme un remplacement des immigrés par les robots |
+| 02/09 | Présidentielle 2027 : Eric Zemmour déborde Sarah Knafo et prépare son entrée en campagne |
+| 02/09 | Le passé gênant du nouveau président des jeunes RN (chapô) |
+| 31/08 | Natacha Polony candidate ? Laurent Ruquier, ce dénicheur de futurs politiques (chapô) |
+| 16/08 | A neuf mois de la présidentielle : Zemmour et Knafo sont sur un rafiot… |
+| 15/08 | Souviens-toi l’été d’avant la présidentielle : 2021, Zemmour tente de tuer la maison Le Pen |
+| 08/08 | Le Pen, Zemmour, Philippot… Qui sont les candidats d’extrême droite à l’élection présidentielle ? |
+| 05/07 | «Le Suicide français» d’Eric Zemmour sur Canal+ : un tract audiovisuel pour un quasi-candidat qui ne fait plus scandale |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=%C3%89ric+Zemmour, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

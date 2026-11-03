@@ -101,6 +101,26 @@ Total : 5 articles.
 | 03/09 | Présidentielle 2027 : les militants communistes appelés à approuver la candidature de Fabien Roussel |
 | 05/07 | Réélu à la tête du Parti communiste, Fabien Roussel fait un pas de plus vers la présidentielle |
 
+## Libération (liberation.fr)
+
+Source : https://www.liberation.fr/recherche/?searchKeywords=Fabien%20Roussel&sort=date (recherche du site, filtrée sur la période du 1er juillet au 1er novembre 2026). Un article est compté si « Roussel » figure dans son titre ou dans son chapô ; un article dont le nom n'apparaît que dans le chapô est marqué « (chapô) ».
+
+Total : 11 articles.
+
+| Date (2026) | Titre |
+|---|---|
+| 04/10 | Mobilisation lycéenne : Fabien Roussel appelle les organisations de jeunesse à «sécuriser les parcours» |
+| 02/10 | «Nationalisons TotalEnergies pour reprendre en main notre destin énergétique», par Fabien Roussel |
+| 21/09 | Fabien Roussel et la Russie : un pacifisme dévoyé et une incompréhensible indulgence |
+| 16/09 | Il s’en faut de Peu pour que le PCF soutienne Mélenchon (chapô) |
+| 12/09 | A la Fête de l’Huma, Mélenchon et Roussel se disputent le peuple de gauche |
+| 10/09 | Fabien Roussel : «Je veux me distinguer à gauche en portant le travail comme idée centrale» |
+| 07/09 | Le camp Roussel espère mettre fin aux contestations internes en imposant sa candidature à la présidentielle |
+| 06/09 | Présidentielle 2027 : Fabien Roussel repart en campagne |
+| 22/08 | A Toulouse, les communistes tracent leur route et préparent l’entrée en scène de Fabien Roussel |
+| 05/07 | «80% du chemin est fait» : reconduit à la tête du PCF, Fabien Roussel bientôt officiellement candidat pour 2027 |
+| 04/07 | Au congrès de Lille, les communistes encore loin de la réconciliation avec Jean-Luc Mélenchon (chapô) |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Fabien+Roussel, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

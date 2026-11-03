@@ -146,6 +146,32 @@ Total : 32 articles.
 | 04/07 | Présidentielle 2027 : David Lisnard dénonce «une caste prête à tout» pour se maintenir au pouvoir |
 | 03/07 | Présidentielle 2027 : David Lisnard tient son premier meeting de campagne ce vendredi à Saint-Raphaël |
 
+## Libération (liberation.fr)
+
+Source : https://www.liberation.fr/recherche/?searchKeywords=David%20Lisnard&sort=date (recherche du site, filtrée sur la période du 1er juillet au 1er novembre 2026). Un article est compté si « Lisnard » figure dans son titre ou dans son chapô ; un article dont le nom n'apparaît que dans le chapô est marqué « (chapô) ».
+
+Total : 17 articles.
+
+| Date (2026) | Titre |
+|---|---|
+| 30/10 | Candidat et patron des maires ? L’argument pourri de David Lisnard pour se défendre de tout conflit d’intérêts |
+| 28/10 | David Lisnard dragouille les députés LR |
+| 25/10 | Présidentielle 2027 : derrière la percée de David Lisnard, une stratégie d’occupation minutieuse des réseaux sociaux |
+| 20/10 | David Lisnard fantasme sur «des camps d’entraînement» dans le Limousin pour les «terroristes» de gauche |
+| 20/10 | «Non mais je m’en fous madame, j’étais pas né» : interrogé sur le 17 octobre 1961, David Lisnard s’énerve sur LCI |
+| 17/10 | Présidentielle : à quoi joue David Lisnard, le candidat fan de Milei qui veut forcer la porte de la campagne ? |
+| 16/10 | Retailleau-Lisnard-Ménard : le déjeuner de conservateurs |
+| 13/10 | «C’est la deuxième fois que vous me faites le coup !» : David Lisnard se fait remonter les bretelles par Apolline de Malherbe en pleine interview |
+| 13/10 | David Lisnard revendique plus d’adhérents qu’Edouard Philippe mais n’en apporte aucune preuve |
+| 07/10 | «Il se passe quelque chose» : quand les partisans de David Lisnard veulent s’autopersuader de sa popularité |
+| 28/09 | Refus de marier un étranger sous OQTF : jugé mercredi, Robert Ménard veut faire de son procès une tribune (chapô) |
+| 23/09 | « Ce qui se passe avec Trump et Milei a fini par en convaincre certains » : plongée dans les réseaux qui inspirent les libéraux conservateurs, de David Lisnard à Sarah Knafo |
+| 11/09 | David Lisnard pense déjà à se recaser en cas de non-victoire à la présidentielle |
+| 02/09 | «Mais pour qui il se prend, ce type ?» : le comportement de David Lisnard exaspère le patron du Medef |
+| 07/08 | «Une démarche antimusulmane inquiétante» : la justice suspend, comme chaque année, l’interdiction du burkini à Mandelieu-la-Napoule (chapô) |
+| 29/07 | «La grande priorité, c’est la présidentielle» : comment les libéraux veulent imposer leurs idées pour 2027 (chapô) |
+| 24/07 | Retailleau espère le ralliement de Lisnard, partisan de l’«union des droites» à laquelle il s’oppose |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=David+Lisnard, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

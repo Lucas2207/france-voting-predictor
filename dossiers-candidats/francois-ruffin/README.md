@@ -102,6 +102,35 @@ Total : 1 article.
 |---|---|
 | 08/09 | «Sans ton crime de lèse-majesté, tu serais encore à LFI» : l'ancien macroniste Sacha Houlié, désormais soutien de Raphaël Glucksmann, charge François Ruffin |
 
+## Libération (liberation.fr)
+
+Source : https://www.liberation.fr/recherche/?searchKeywords=Fran%C3%A7ois%20Ruffin&sort=date (recherche du site, filtrée sur la période du 1er juillet au 1er novembre 2026). Un article est compté si « Ruffin » figure dans son titre ou dans son chapô ; un article dont le nom n'apparaît que dans le chapô est marqué « (chapô) ».
+
+Total : 20 articles.
+
+| Date (2026) | Titre |
+|---|---|
+| 30/10 | Livre : François Ruffin, eh oh, eh oh, le chantre du «boulot» |
+| 30/10 | François Ruffin : «Je suis là pour mettre mes sujets dans les pattes des grands candidats» |
+| 08/10 | «On met de l’IA partout, on fonce, et on verra les dégâts après» : la fronde contre les data centers prend de l’ampleur en France (chapô) |
+| 05/10 | Présidentielle 2027 : François Ruffin veut «passer du Front populaire au CNR» |
+| 12/09 | Dans une Fête de l’Humanité dominée par Mélenchon, Ruffin et Tondelier en quête d’une voie pour sortir de l’impasse |
+| 10/09 | Comment François Ruffin cherche à faire dérailler la primaire du PS |
+| 09/09 | Primaire des socialistes : l’aile gauche du PS d’accord avec Ruffin et Faure pour embrouiller Glucksmann |
+| 08/09 | Olivier Faure remet une pièce de 2 euros dans la machine à bordel de la primaire socialiste (chapô) |
+| 05/09 | La semaine vue par Coco : le débat Ruffin-Villepin, la présidentielle et le Népal |
+| 02/09 | «Libé 2027» : le premier débat entre François Ruffin et Dominique de Villepin |
+| 02/09 | Débat Ruffin-Villepin : taxe carbone, géopolitique, rapprochement… Les 5 moments marquants de la rencontre organisée par Libé |
+| 02/09 | Présidentielle 2027 : revivez le débat Ruffin-Villepin organisé par «Libération» |
+| 01/09 | François Ruffin-Dominique de Villepin : un débat d’inclassables |
+| 01/09 | François Ruffin, le pari sans les partis pour la présidentielle 2027 |
+| 01/09 | Dominique de Villepin à la présidentielle : ira ou n’ira pas ? (chapô) |
+| 29/08 | «Un suffrage censitaire» : à Blois, Ruffin critique la primaire du PS et du camp Glucksmann |
+| 21/08 | La situation climatique est radicale : notre responsabilité doit être à sa hauteur, par les maires de Grenoble, de Lyon et de Tours (chapô) |
+| 12/07 | Ruffin, Philippe, Attal, Hollande… A neuf mois de la présidentielle, tout le monde veut son bout de Tour de France |
+| 09/07 | «C’est la première fois que je fais une signature sur un cubi» : aux Flots Bleus, François Ruffin entame sa «tournée d’été» en vue de la présidentielle |
+| 01/07 | Indépendance de la justice, avantages du Président, nominations… François Ruffin défend une loi «de séparation de l’argent et de l’Etat» |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Fran%C3%A7ois+Ruffin, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

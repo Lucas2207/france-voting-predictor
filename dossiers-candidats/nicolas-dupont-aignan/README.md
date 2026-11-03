@@ -89,6 +89,16 @@ Total : 20 articles.
 | 03/07 | «L'État doit reprendre en main la protection de nos enfants», exhorte Nicolas Dupont-Aignan |
 | 03/07 | Canicule : «Ce qui est insupportable c'est cette incapacité à anticiper quoi que ce soit», souligne Nicolas Dupont-Aignan |
 
+## Libération (liberation.fr)
+
+Source : https://www.liberation.fr/recherche/?searchKeywords=Nicolas%20Dupont-Aignan&sort=date (recherche du site, filtrée sur la période du 1er juillet au 1er novembre 2026). Un article est compté si « Dupont-Aignan » figure dans son titre ou dans son chapô ; un article dont le nom n'apparaît que dans le chapô est marqué « (chapô) ».
+
+Total : 1 article.
+
+| Date (2026) | Titre |
+|---|---|
+| 19/09 | Présidentielle 2027 : Nicolas Dupont-Aignan vers une quatrième candidature |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Nicolas+Dupont-Aignan, parcouru jusqu'au 1er juillet 2026.

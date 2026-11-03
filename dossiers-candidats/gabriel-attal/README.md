@@ -334,6 +334,79 @@ Total : 55 articles.
 | 01/07 | Présidentielle 2027 : Edouard Philippe estime que «ce serait dangereux» que Gabriel Attal et lui soient candidats |
 | 01/07 | Présidentielle 2027 : entre Gabriel Attal, Edouard Philippe et Bruno Retailleau, les ministres du gouvernement commencent à se positionner |
 
+## Libération (liberation.fr)
+
+Source : https://www.liberation.fr/recherche/?searchKeywords=Gabriel%20Attal&sort=date (recherche du site, filtrée sur la période du 1er juillet au 1er novembre 2026). Un article est compté si « Attal » figure dans son titre ou dans son chapô ; un article dont le nom n'apparaît que dans le chapô est marqué « (chapô) ».
+
+Total : 64 articles.
+
+| Date (2026) | Titre |
+|---|---|
+| 01/11 | Présidentielle : Edouard Philippe dit (encore) non à une primaire de la droite et du centre (chapô) |
+| 30/10 | Rassemblement contre le racisme à Trappes : les bonnes excuses d’Attal, Philippe et Retailleau pour sécher l’hommage |
+| 30/10 | Quand Attal refusait toute alliance avec Retailleau… qu’il implore désormais de participer à sa primaire |
+| 28/10 | Avec son appel à une «grande primaire», Attal joint sa voix à ceux qui veulent faire craquer Philippe |
+| 15/10 | Attal, Retailleau, Philippe… Des candidats à la présidentielle 2027 au chevet de la presse écrite en souffrance |
+| 11/10 | Lâchage de Zelensky par Trump : une classe politique française en soutien de l’Ukraine, l’Elysée discret (chapô) |
+| 10/10 | Face à LFI, Gabriel Attal dégaine son «pacte pour la jeunesse» en meeting à Lyon |
+| 09/10 | Présidentielle : le match Attal-Philippe s’étend au mouvement lycéen |
+| 08/10 | Comment le magazine d’extrême droite l’Infiltré s’invite dans la guerre larvée entre Attal et Macron |
+| 05/10 | Présidentielle 2027 : Edouard Philippe et Gabriel Attal jouent à rassemble-moi si tu peux |
+| 04/10 | «Même pas en rêve» : le camp Glucksmann rejette la main tendue par Gabriel Attal aux électeurs socio-démocrates |
+| 04/10 | Sceptique sur l’offre proposée par Philippe, Attal appelle à rassembler «de la gauche sociale-démocrate à la droite républicaine» |
+| 01/10 | Budget : la députée attaliste Prisca Thevenot est contre mais aussi pour taxer le sucre (chapô) |
+| 30/09 | Retraites : Gabriel Attal trouve que la réforme proposée par Edouard Philippe relève «des soins palliatifs» |
+| 22/09 | Quand Edouard Philippe cartonne Gabriel Attal sur son faible pedigree électoral |
+| 21/09 | Crise des carburants : Edouard Philippe et Gabriel Attal ne veulent pas se faire rouler dessus |
+| 17/09 | A Reims, Attal plaide pour des «Etats-Unis d’Europe», le «projet d’une génération» |
+| 13/09 | Wauquiez, Darmanin, Attal… Le pitoyable défilé de la droite et du centre pour baiser l’anneau de Vincent Bolloré |
+| 11/09 | Philippe, Attal, Pécresse… Les concerts de Céline Dion, l’occasion pour les politiques de «casser leur style un peu trop techno» |
+| 11/09 | Edouard Philippe et le repos avant l’Elysée : pour une fois qu’un responsable de droite ne se complaît pas dans l’éloge de l’effort à tout prix… (chapô) |
+| 10/09 | A Paris, l’équipe de Gabriel Attal lance son opération «1 000 bistrots» dans une brasserie chic à 12 euros la pinte |
+| 09/09 | Union de la droite et du centre : Gabriel Attal et Bruno Retailleau renvoient Edouard Philippe dans les cordes |
+| 09/09 | 2027 : Edouard Philippe tend la main à LR et au bloc central et se prend une crampe (chapô) |
+| 08/09 | Présidentielle 2027 : Edouard Philippe invite Gabriel Attal et Bruno Retailleau à la Toussaint pour enterrer leurs ambitions |
+| 08/09 | A défaut de ralliements, Bruno Retailleau dévoile son carré de porte-paroles (chapô) |
+| 07/09 | LFI veut revenir sur l’interdiction de l’abaya à l’école et s’attire les critiques de Le Pen, Attal et Philippe |
+| 03/09 | Faute de soutiens de poids, Attal présente son équipe de campagne |
+| 03/09 | Présidentielle 2027 : à droite et au centre, privés de primaire, les unitaires amers (chapô) |
+| 01/09 | Gabriel Attal recrute l’ancienne judoka et présentatrice Céline Géraud dans son équipe de campagne |
+| 01/09 | Rentrée scolaire : pour Attal et Philippe, des hausses de salaire pour les enseignants à double tranchant |
+| 31/08 | A Châlons-en-Champagne, Edouard Philippe fustige «ceux qui n’auront pas joué le jeu du rassemblement» (chapô) |
+| 28/08 | A la foire de Châlons-en-Champagne, Bruno Retailleau doit déjà lever les doutes sur sa candidature (chapô) |
+| 26/08 | Entre Gabriel Attal et Edouard Philippe, la surenchère droitière |
+| 25/08 | Groupes de niveau, uniforme, pacte enseignant… Gabriel Attal, le grand pschitt de l’éducation |
+| 25/08 | Attal, Philippe et la fiction délétère du «lui c’est lui, et moi c’est moi» |
+| 18/08 | Soupçons d’ingérence russe ciblant Edouard Philippe et Gabriel Attal : le parquet de Paris lance une enquête |
+| 16/08 | Gabriel Attal appelle à un référendum sur l’interdiction des réseaux sociaux aux moins de 15 ans |
+| 16/08 | «Aujourd’hui, le racisme est bien pire» : les gens du voyage encore dans le viseur des candidats à la présidentielle (chapô) |
+| 14/08 | «Foutre au feu» la dette, un projet de «banqueroute totale» du pays : Mélenchon et Attal poursuivent leur feuilleton estival |
+| 11/08 | Le démagogisme de Gabriel Attal qui veut «faire du maire l’élu le plus puissant de France» |
+| 11/08 | Sur l’immigration, Attal et Philippe durcissent encore un peu plus leurs discours |
+| 08/08 | Deepfakes, faux reportages vidéo, fausses unes de journaux : Gabriel Attal porte plainte, dénonçant une ingérence russe |
+| 07/08 | Attal, Philippe, de Villepin… Qui sont les candidats à la présidentielle déclarés ou potentiels du centre et de droite ? |
+| 06/08 | Gabriel Attal, conseiller municipal… à mi-temps |
+| 06/08 | Philippe, Attal et Glucksmann ciblés par des ingérences russes : la campagne présidentielle dans les enfumages du Kremlin |
+| 06/08 | Ingérences prorusses dans la campagne présidentielle française : qu’appelle-t-on «Storm-1516» ou «Matriochka» ? (chapô) |
+| 05/08 | Présidentielle 2027 : Gabriel Attal visé à son tour par «une ingérence en provenance de Russie» |
+| 04/08 | Présidentielle 2027 : cet été, Gabriel Attal passe son rattrapage |
+| 04/08 | Présidentielle 2027 : Gabriel Attal l’aoûtsider |
+| 04/08 | «C’est pas chez vous ici, monsieur» : en Vendée, Gabriel Attal dénonce les occupations illégales des gens du voyage |
+| 04/08 | Présidentielle 2027 : entre les programmes d’Attal et de Philippe, le jeu des sept différences |
+| 03/08 | Entre Gabriel Attal et Edouard Philippe, une compétition à l’extrême centre |
+| 03/08 | Attal souhaite un «spoil system à la française», Mélenchon dénonce un «système de nomination-copinage généralisé» |
+| 02/08 | Présidentielle : 350 députés, retraite par capitalisation, «quotas limitatifs» pour l’immigration... les propositions au pas de charge de Gabriel Attal |
+| 23/07 | L’ex-communicant d’Attal révèle ses ambitions politiques et ses anciennes addictions |
+| 23/07 | La boulette téléphonique de la ministre Genevard avec Attal |
+| 17/07 | Feux de forêt : les petits arrangements avec la vérité de Gabriel Attal, accusé d’avoir empêché l’achat de deux Canadair |
+| 15/07 | Attal assigne Le Pen pour l’utilisation du nom «Renaissance» sur son affiche de campagne |
+| 08/07 | «Ça rend plus pertinent que jamais l’union de la droite et du centre» : comment la candidature Le Pen change la donne pour Philippe, Attal et Retailleau |
+| 07/07 | Après Philippe et Attal, Bruno Retailleau se met à son tour à l’IA : «La grande bataille technologique de notre histoire» |
+| 03/07 | Face à Attal, Philippe étale ses soutiens venus de divers horizons |
+| 02/07 | A Villers-Cotterêts, Gabriel Attal poursuit son offensive contre le RN et LFI |
+| 01/07 | Nétanyahou à Paris ? L’incroyable indulgence de Gabriel Attal envers l’accusé de crime contre l’humanité |
+| 01/07 | Aller sans retour pour Maud Bregeon, qui sera punie par Renaissance pour son soutien à Edouard Philippe (chapô) |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Gabriel+Attal, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

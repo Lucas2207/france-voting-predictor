@@ -70,6 +70,16 @@ Total : 0 articles.
 
 Aucun article de la période ne porte le nom du candidat dans son titre.
 
+## Libération (liberation.fr)
+
+Source : https://www.liberation.fr/recherche/?searchKeywords=Nathalie%20Arthaud&sort=date (recherche du site, filtrée sur la période du 1er juillet au 1er novembre 2026). Un article est compté si « Arthaud » figure dans son titre ou dans son chapô ; un article dont le nom n'apparaît que dans le chapô est marqué « (chapô) ».
+
+Total : 1 article.
+
+| Date (2026) | Titre |
+|---|---|
+| 30/07 | Campagne pour 2027 : zut, le Medef a oublié d’inviter Lutte ouvrière à son débat de rentrée (chapô) |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Nathalie+Arthaud, parcouru jusqu'au 1er juillet 2026.

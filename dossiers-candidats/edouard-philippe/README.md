@@ -342,6 +342,81 @@ Total : 33 articles.
 | 01/07 | Présidentielle 2027 : Edouard Philippe estime que «ce serait dangereux» que Gabriel Attal et lui soient candidats |
 | 01/07 | Présidentielle 2027 : entre Gabriel Attal, Edouard Philippe et Bruno Retailleau, les ministres du gouvernement commencent à se positionner |
 
+## Libération (liberation.fr)
+
+Source : https://www.liberation.fr/recherche/?searchKeywords=%C3%89douard%20Philippe&sort=date (recherche du site, filtrée sur la période du 1er juillet au 1er novembre 2026). Un article est compté si « Édouard Philippe » figure dans son titre ou dans son chapô ; un article dont le nom n'apparaît que dans le chapô est marqué « (chapô) ».
+
+Total : 66 articles.
+
+| Date (2026) | Titre |
+|---|---|
+| 01/11 | Présidentielle : Edouard Philippe dit (encore) non à une primaire de la droite et du centre |
+| 31/10 | «Voir ce que l’on voit» : sur les pillages, Edouard Philippe en perdition idéologique |
+| 30/10 | «Pas de volonté de participer à un meeting politique» : Edouard Philippe boude le rassemblement à Trappes après l’attentat raciste |
+| 30/10 | Résultats définitifs en Israël, Edouard Philippe témoin assisté, cyberattaque massive dans les cryptomonnaies… L’actu de ce vendredi 30 octobre au matin |
+| 29/10 | Accusations de détournement de fonds publics : Edouard Philippe placé sous le statut de témoin assisté |
+| 29/10 | Quatre jours plus tard, Edouard Philippe qualifie l’attentat de Trappes de «raciste» |
+| 23/10 | Présidentielle 2027 : Edouard Philippe lance ses idées sans imprimer |
+| 22/10 | Edouard Philippe snobe un débat entre présidentiables pour cause de conseil municipal au Havre |
+| 15/10 | «Une question assez explosive» : Edouard Philippe évoque des vacances plus courtes et un apprentissage concentré le matin |
+| 15/10 | «Mon intuition continue à me dire, ça pue» : la lanceuse d’alerte de l’affaire Edouard Philippe témoigne |
+| 15/10 | Bruno Retailleau met encore un vent à Edouard Philippe |
+| 13/10 | David Lisnard revendique plus d’adhérents qu’Edouard Philippe mais n’en apporte aucune preuve |
+| 08/10 | Défiscalisation des heures sup' et allocation familiale unique de 350 euros dès le premier enfant : Edouard Philippe ouvre (un peu) le carnet de chèque |
+| 08/10 | Edouard Philippe, un passage à «l’Heure de vérité» pour tenter de renouer avec les Français |
+| 05/10 | Présidentielle 2027 : Edouard Philippe et Gabriel Attal jouent à rassemble-moi si tu peux |
+| 30/09 | Retraites : Gabriel Attal trouve que la réforme proposée par Edouard Philippe relève «des soins palliatifs» |
+| 29/09 | «Je sais que ce n’est pas comme ça qu’on gagne des points dans les sondages» : Edouard Philippe assume sa réforme des retraites à 65 ans |
+| 29/09 | Retraite à 65 ans et 45 ans de cotisation : pourquoi Edouard Philippe a arraché le sparadrap des 67 ans |
+| 22/09 | Quand Edouard Philippe cartonne Gabriel Attal sur son faible pedigree électoral |
+| 21/09 | Crise des carburants : Edouard Philippe et Gabriel Attal ne veulent pas se faire rouler dessus |
+| 17/09 | «Politique de sécurité climatique» : sur les bords de Loire, Edouard Philippe tente d’inventer une écologie de droite |
+| 12/09 | A Nogent-sur-Marne, Bruno Retailleau bat en brèche l’idée d’un ralliement à Edouard Philippe pour la présidentielle |
+| 11/09 | Edouard Philippe et le repos avant l’Elysée : pour une fois qu’un responsable de droite ne se complaît pas dans l’éloge de l’effort à tout prix… |
+| 11/09 | Non, Edouard Philippe n’a pas proposé de reporter à septembre la prise de fonction du prochain président pour se reposer |
+| 09/09 | 2027 : Edouard Philippe tend la main à LR et au bloc central et se prend une crampe |
+| 09/09 | Union de la droite et du centre : Gabriel Attal et Bruno Retailleau renvoient Edouard Philippe dans les cordes |
+| 08/09 | Présidentielle 2027 : Edouard Philippe invite Gabriel Attal et Bruno Retailleau à la Toussaint pour enterrer leurs ambitions |
+| 08/09 | A défaut de ralliements, Bruno Retailleau dévoile son carré de porte-paroles (chapô) |
+| 07/09 | Accusations de harcèlement envers les allocataires du RSA : le président du Finistère relaxé (chapô) |
+| 03/09 | Bruno Retailleau n’est pas un potentiel allié d’Edouard Philippe, c’est un agent électoral du RN |
+| 03/09 | Présidentielle 2027 : à droite et au centre, privés de primaire, les unitaires amers (chapô) |
+| 03/09 | Faute de soutiens de poids, Attal présente son équipe de campagne (chapô) |
+| 31/08 | A Châlons-en-Champagne, Edouard Philippe fustige «ceux qui n’auront pas joué le jeu du rassemblement» |
+| 30/08 | A Tourcoing, Edouard Philippe promet à Gérald Darmanin un «rôle central» dans la «recomposition» politique |
+| 30/08 | Chez Darmanin, Edouard Philippe annonce vouloir créer «un nouveau parti» avec des «candidats uniques» pour les législatives |
+| 29/08 | Présidentielle 2027 : à Sens, Edouard Philippe et François Hollande font campagne pour le rassemblement de leurs camps |
+| 28/08 | A la Réunion, polémique après de nouveaux propos d’Edouard Philippe sur la colonisation |
+| 28/08 | A la foire de Châlons-en-Champagne, Bruno Retailleau doit déjà lever les doutes sur sa candidature (chapô) |
+| 27/08 | «Mettre fin à l’open bar» : Edouard Philippe veut abaisser la durée d’indemnisation du chômage et limiter les arrêts de travail |
+| 27/08 | Débat présidentiel du Medef : salaires, retraites, économies, dette… Revivez les échanges entre candidats à Roland-Garros (chapô) |
+| 27/08 | Mayotte, le «laboratoire inhumain» des politiques migratoires de la droite et de l’extrême droite (chapô) |
+| 26/08 | Entre Gabriel Attal et Edouard Philippe, la surenchère droitière |
+| 23/08 | Universités d’été de la gauche, Edouard Philippe à Mayotte, guerre commerciale entre les Etats-Unis et le Canada… L’actu de ce week-end des 22 et 23 août |
+| 23/08 | «Une fois que l’heure sera passée, ce sera trop tard» : Edouard Philippe prédit un rassemblement de la droite et du centre entre «novembre et février» |
+| 22/08 | A Mayotte, Edouard Philippe promet de mettre fin à l’«appel d’air» de l’immigration et tacle Mélenchon |
+| 21/08 | Villa en Sicile : Edouard Philippe ciblé par une nouvelle campagne russe de désinformation |
+| 20/08 | Edouard Philippe dit vouloir fermer «totalement» les «vannes de l’immigration» à Mayotte |
+| 18/08 | Soupçons d’ingérence russe ciblant Edouard Philippe et Gabriel Attal : le parquet de Paris lance une enquête |
+| 17/08 | «J’ai décidé de ne pas rajouter de la division» : Gérald Darmanin soutient Edouard Philippe pour la présidentielle |
+| 04/08 | Présidentielle 2027 : cet été, Gabriel Attal passe son rattrapage (chapô) |
+| 04/08 | Présidentielle 2027 : Gabriel Attal l’aoûtsider (chapô) |
+| 03/08 | Entre Gabriel Attal et Edouard Philippe, une compétition à l’extrême centre |
+| 02/08 | Présidentielle : 350 députés, retraite par capitalisation, «quotas limitatifs» pour l’immigration... les propositions au pas de charge de Gabriel Attal (chapô) |
+| 24/07 | Présidentielle 2027 : une opération de désinformation russe visant Edouard Philippe |
+| 18/07 | Présidentielle : entre araignées de mer et burger au sarrasin, la campagne sans vague d’Edouard Philippe à La Baule et Guérande |
+| 18/07 | Enquête du PNF sur Edouard Philippe : le statut de la lanceuse d’alerte maintenu, malgré la demande d’annulation du Havre |
+| 12/07 | Ruffin, Philippe, Attal, Hollande… A neuf mois de la présidentielle, tout le monde veut son bout de Tour de France (chapô) |
+| 06/07 | «Croire en nous» : Edouard Philippe fait du Balladur et du Macron en même temps |
+| 06/07 | Christophe Béchu : «L’adaptation au changement climatique sera un sujet de la présidentielle» (chapô) |
+| 05/07 | Présidentielle : dans son premier meeting destiné à séduire la droite, Edouard Philippe demande «un peu de sueur» pour «l’avenir des enfants» |
+| 04/07 | Edouard Philippe : un meeting pour briser la glace ce dimanche à Paris ? |
+| 04/07 | «Tant qu’il ne sera pas le chef, il essaiera de tuer tout ce qui bouge» : Wauquiez, l’incendiaire de LR (chapô) |
+| 02/07 | Quand Laurent Wauquiez promettait de ne «jamais» s’allier avec Edouard Philippe |
+| 02/07 | A Villers-Cotterêts, Gabriel Attal poursuit son offensive contre le RN et LFI (chapô) |
+| 01/07 | Présidentielle : pour Laurent Wauquiez, Edouard Philippe «peut incarner l’ordre et le sérieux» pour «redresser la France» |
+| 01/07 | Aller sans retour pour Maud Bregeon, qui sera punie par Renaissance pour son soutien à Edouard Philippe |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=%C3%89douard+Philippe, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

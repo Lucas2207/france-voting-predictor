@@ -92,6 +92,19 @@ Total : 2 articles.
 | 20/10 | Violences urbaines : «Il y a eu une faille tragique du renseignement», dénonce Natacha Polony |
 | 14/10 | Présidentielle 2027 : l'essayiste Natacha Polony annonce sa candidature |
 
+## Libération (liberation.fr)
+
+Source : https://www.liberation.fr/recherche/?searchKeywords=Natacha%20Polony&sort=date (recherche du site, filtrée sur la période du 1er juillet au 1er novembre 2026). Un article est compté si « Polony » figure dans son titre ou dans son chapô ; un article dont le nom n'apparaît que dans le chapô est marqué « (chapô) ».
+
+Total : 4 articles.
+
+| Date (2026) | Titre |
+|---|---|
+| 18/10 | Natacha Polony, candidate des médias… et de l’IA, par Daniel Schneidermann |
+| 17/10 | La vraie France... en IA (chapô) |
+| 14/10 | Natacha Polony se sent «obligée» d’ajouter une énième candidature à l’élection présidentielle |
+| 31/08 | Natacha Polony candidate ? Laurent Ruquier, ce dénicheur de futurs politiques |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Natacha+Polony, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

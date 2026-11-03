@@ -412,6 +412,108 @@ Total : 19 articles.
 | 22/08 | Présidentielle 2027 : Raphaël Glucksmann devrait annoncer sa candidature ce dimanche |
 | 05/08 | Présidentielle 2027 : après Edouard Philippe et Raphaël Glucksmann, Gabriel Attal visé par «une ingérence en provenance de Russie» |
 
+## Libération (liberation.fr)
+
+Source : https://www.liberation.fr/recherche/?searchKeywords=Rapha%C3%ABl%20Glucksmann&sort=date (recherche du site, filtrée sur la période du 1er juillet au 1er novembre 2026). Un article est compté si « Glucksmann » figure dans son titre ou dans son chapô ; un article dont le nom n'apparaît que dans le chapô est marqué « (chapô) ».
+
+Total : 93 articles.
+
+| Date (2026) | Titre |
+|---|---|
+| 30/10 | François Ruffin : «Je suis là pour mettre mes sujets dans les pattes des grands candidats» (chapô) |
+| 30/10 | «S’ils ne se corrigent pas, ils dégagent» : Yannick Jadot réclame des sanctions plus dures contre le racisme sur CNews (chapô) |
+| 29/10 | Raphaël Glucksmann fait une synthèse à la Hollande |
+| 29/10 | Le Pen et Mélenchon dominent largement l’espace médiatique (chapô) |
+| 28/10 | Le porte-parole de Raphaël Glucksmann propose par erreur d’augmenter le Smic de 100 euros… par an |
+| 28/10 | Emmanuel Maurel, député : l’âme à gauche (chapô) |
+| 26/10 | Glucksmann dit être victime d’une «campagne de harcèlement» de LFI, qui l’accuse de forcer «une confrontation» |
+| 26/10 | Opposition au budget : après les divisions de la primaire, les députés socialistes font bloc (chapô) |
+| 23/10 | «On ne va pas faire campagne pendant six mois comme ça» : à Amiens, Raphaël Glucksmann consacre à la jeunesse son (rapide) premier déplacement |
+| 22/10 | Absent des mobilisations, Raphaël Glucksmann joue la distance au risque de se faire distancer |
+| 21/10 | Matthieu Pigasse s’en prend à son tour à Raphaël Glucksmann : «C’est “Bismillah, c’est les ténèbres”» |
+| 15/10 | «Personne n’a envie d’être Manuel Valls» : chez les socialistes, Olivier Faure effacé mais loin d’être évincé (chapô) |
+| 13/10 | Boris Vallaud compare Raphaël Glucksmann à François Mitterrand (mais celui de 1965) |
+| 12/10 | Comment Raphaël Glucksmann peut-il transformer sa victoire à la primaire en dynamique de campagne ? |
+| 12/10 | Raphaël Glucksmann peut-il rendre désirable la social-démocratie ? |
+| 12/10 | Primaire PS : pourquoi la victoire de Raphaël Glucksmann est une bonne nouvelle pour Jean-Luc Mélenchon |
+| 12/10 | «Si ça dérive vers le macronisme, ce sera sans moi» : au lendemain de sa défaite, Royal menace déjà de ne pas faire la campagne de Glucksmann |
+| 12/10 | Glucksmann enfariné : Bardella ne rit plus des attaques alimentaires contre les hommes politiques |
+| 12/10 | Après avoir fait main basse sur le PS, le numéro vert de Glucksmann |
+| 12/10 | Glucksmann survole la primaire, nouvelle semaine de mobilisation lycéenne, la réforme des tickets restos à l’Assemblée… L’actu de ce lundi 12 octobre au matin |
+| 12/10 | Pourquoi la victoire de Glucksmann est une bonne nouvelle pour Mélenchon |
+| 11/10 | Raphaël Glucksmann remporte la primaire des socialistes |
+| 11/10 | Primaire du PS et de ses alliés : pour Raphaël Glucksmann, un premier pari réussi |
+| 11/10 | Primaire PS : avec sa large victoire, Raphaël Glucksmann assoit sa légitimité, mais le plus dur commence |
+| 11/10 | A la soirée de la primaire socialiste, remportée par Raphaël Glucksmann : «Laissez-nous savourer la victoire !» |
+| 11/10 | Vainqueur de la primaire, Raphaël Glucksmann promet «une campagne punk» pour la présidentielle |
+| 11/10 | Résultats de la primaire socialiste : Raphaël Glucksmann élu dès le premier tour et propulsé vers la présidentielle |
+| 11/10 | Glucksmann vainqueur de la primaire de la gauche, Trump et l’Ukraine, attaques Houthis à Riyad… L’actu de ce week-end des 10 et 11 octobre |
+| 09/10 | Primaire sociale-démocrate : Raphaël Glucksmann se sent favori de pied en cap clair |
+| 08/10 | Primaire socialiste et sociale-démocrate : les troublantes ressemblances entre Jadot 2021 et Glucksmann 2026 |
+| 08/10 | Primaire à gauche : malgré un favori, un scrutin qui rend flou (chapô) |
+| 08/10 | Primaire de la gauche : à la veille du vote, la grande inconnue (chapô) |
+| 05/10 | Raphaël Glucksmann : après cette primaire, la gauche peut-elle encore s'unir ? |
+| 05/10 | «Pisser» sur LFI et «danse du ventre» de Royal : le camp Glucksmann pense que la polémique ne le dessert pas, bien au contraire |
+| 05/10 | Flavio Bolsonaro devance Lula au Brésil, les excuses de Glucksmann à Royal, des centaines de lycées perturbés… L’actu de ce lundi 5 octobre au matin |
+| 04/10 | Propos polémiques de Glucksmann, LFI, lycées, retraites, Hollande : les 5 moments marquants du troisième débat de la primaire PS |
+| 04/10 | «Même pas en rêve» : le camp Glucksmann rejette la main tendue par Gabriel Attal aux électeurs socio-démocrates |
+| 04/10 | «On leur pisse dessus», «danse du ventre» : des propos de Glucksmann révélés à son insu font bondir Mélenchon et Royal |
+| 04/10 | Présidentielle 2027 : revivez le troisième débat de la primaire de la gauche (chapô) |
+| 02/10 | Primaire socialiste et sociale-démocrate : les partisans de Raphaël Glucksmann ultra-optimistes |
+| 02/10 | Primaire PS : le SAV-qui-peut du camp Glucksmann en plein débat |
+| 01/10 | De Gaza aux insoumis : les candidats rejouent les mêmes disputes au deuxième débat de la primaire PS (chapô) |
+| 01/10 | Salaires, Ukraine, Gaza, LFI : les 4 moments marquants du deuxième débat de la primaire à gauche (chapô) |
+| 01/10 | Revivez le deuxième débat de la primaire de gauche : des candidats moins unis que jamais (chapô) |
+| 30/09 | Présidentielle 2027 : «Vous président», suivez dimanche soir la dernière rencontre des candidats avant le vote à la primaire de la gauche sociale-démocrate (chapô) |
+| 25/09 | Raphaël Glucksmann en campagne dans le Nord et le Pas-de-Calais : «On n’abandonnera aucune terre au RN» |
+| 25/09 | Yannick Jadot temporairement suspendu des Ecologistes pour son soutien à Raphaël Glucksmann |
+| 25/09 | Ségolène Royal et Raphaël Glucksmann, suivez l’exemple de Pedro Sánchez |
+| 25/09 | Mayada Boulos, directrice de Havas : en com et encore (chapô) |
+| 23/09 | «Ce n’est pas quelqu’un à l’extérieur du PS qui va définir la refondation de la gauche» : Glucksmann endure les attaques de Royal lors du premier débat de la primaire socialiste |
+| 23/09 | Royal, Gaza, Ukraine, LFI… Les 4 moments marquants du premier débat de la primaire socialiste (chapô) |
+| 23/09 | Présidentielle 2027 : revivez le premier débat de la primaire de la gauche sociale-démocrate (chapô) |
+| 23/09 | Primaire socialiste et sociale-démocrate : date, prix, candidats… Le mode d’emploi du scrutin (chapô) |
+| 21/09 | La riposte de Raphaël Glucksmann à Ségolène Royal qui le relègue au rang de «stagiaire» : «Moi je ne quémande pas des postes depuis 45 ans» |
+| 20/09 | Ségolène Royal : «Raphaël Glucksmann ? Vous ne mettez pas un stagiaire à la tête d’une entreprise» |
+| 19/09 | Présidentielle : sur les terres de Carole Delga, Raphaël Glucksmann veut «refonder la gauche» |
+| 18/09 | Carole Delga : «Raphaël Glucksmann est le mieux placé d’entre nous pour gagner la présidentielle» |
+| 13/09 | Présidentielle 2027 : Olivier Faure reproche à Hollande et Glucksmann de se tourner vers le centre droit |
+| 10/09 | Comment François Ruffin cherche à faire dérailler la primaire du PS (chapô) |
+| 09/09 | Primaire des socialistes : l’aile gauche du PS d’accord avec Ruffin et Faure pour embrouiller Glucksmann |
+| 08/09 | Primaire du PS : les sept pièges à éviter pour Raphaël Glucksmann |
+| 08/09 | Olivier Faure remet une pièce de 2 euros dans la machine à bordel de la primaire socialiste (chapô) |
+| 04/09 | Raphaël Glucksmann ouvre la porte à plusieurs débats pour la primaire PS |
+| 04/09 | Présidentielle : le député Emmanuel Maurel annonce sa candidature à la primaire socialiste (chapô) |
+| 02/09 | «C’est un coup de force du camp Glucksmann» : au PS, on tient à trois débats télévisés pour la primaire |
+| 01/09 | Sauvons l’école publique, par Raphaël Glucksmann |
+| 30/08 | Présidentielle 2027 : Olivier Faure candidat à la primaire du PS et de Place publique, Glucksmann attend un moment de «clarification» |
+| 29/08 | «Un suffrage censitaire» : à Blois, Ruffin critique la primaire du PS et du camp Glucksmann |
+| 28/08 | Raphaël Glucksmann et la primaire : rampe de lancement ou sables mouvants ? |
+| 27/08 | Boris Vallaud soutient Raphaël Glucksmann pour la primaire du PS et de Place publique |
+| 27/08 | Débat présidentiel du Medef : salaires, retraites, économies, dette… Revivez les échanges entre candidats à Roland-Garros (chapô) |
+| 26/08 | Rivalité Mélenchon-Glucksmann : une logique perdante pour les électeurs de gauche |
+| 25/08 | Dans le Marais poitevin, Raphaël Glucksmann s’affiche avec Yannick Jadot et sort la carte verte |
+| 24/08 | Candidature de Raphaël Glucksmann, interdiction du portable au lycée, mort de Philippe Bouvard… L’actu de ce lundi 24 août |
+| 24/08 | «Le débat peut commencer entre plusieurs lignes politiques» : la candidature de Raphaël Glucksmann lance la primaire |
+| 24/08 | Léa Salamé se met en retrait du «20 heures» de France 2 après l’annonce de candidature de Raphaël Glucksmann |
+| 24/08 | Coalition des volontaires en Ukraine, Raphaël Glucksmann candidat, le tennisman français Arthur Fils sacré à Cincinatti… L’actu de ce lundi 24 août au matin |
+| 24/08 | Glucksmann candidat à la présidentielle : l’écologiste Yannick Jadot annonce son ralliement au chef de Place publique |
+| 23/08 | Présidentielle : Raphaël Glucksmann est bel et bien candidat |
+| 23/08 | Raphaël Glucksmann en campagne pour 2027 : ce n’est pas le tout d’être candidat |
+| 23/08 | Entre Glucksmann et Mélenchon, l’avantage reviendra au plus ambitieux sur l’écologie |
+| 19/08 | Yannick Jadot annonce «une initiative pour refonder la gauche autour de la social-écologie» (chapô) |
+| 18/08 | Présidentielle : Raphaël Glucksmann devrait déclarer sa candidature dans les prochains jours, selon plusieurs médias |
+| 18/08 | Soupçons d’ingérence russe ciblant Edouard Philippe et Gabriel Attal : le parquet de Paris lance une enquête (chapô) |
+| 13/08 | Auprès des sinistrés de l’incendie dans l’Aude, Raphaël Glucksmann prend son élan avant la rentrée |
+| 13/08 | Macron et Glucksmann en une de «Paris Match» : qu’on en finisse avec la «peopolitique» |
+| 12/08 | Pour sa rentrée, François Hollande veut prouver qu’il est «prêt» à être le recours en 2027 (chapô) |
+| 06/08 | Philippe, Attal et Glucksmann ciblés par des ingérences russes : la campagne présidentielle dans les enfumages du Kremlin |
+| 05/08 | Ingérences : Raphaël Glucksmann appelle les autorités à ne pas avoir «la main qui tremble» face à TikTok et X |
+| 04/08 | Copier-coller de «Blast» et faux Edwy Plenel : Raphaël Glucksmann et Léa Salamé visés par une «opération russe de déstabilisation» |
+| 15/07 | «Etre français, c’est avant tout être libre» : à Izon, sous le soleil de Gironde, Raphaël Glucksmann fête le retour d’une statue de la Liberté |
+| 10/07 | Présidentielle : Raphaël Glucksmann demande des garanties pour participer à la désignation avec le PS |
+| 05/07 | Raphaël Glucksmann «sacrément privilégié», les «zadistes» de l’aile droite du PS… Marine Tondelier se paie les anti-union de la gauche |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Rapha%C3%ABl+Glucksmann, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

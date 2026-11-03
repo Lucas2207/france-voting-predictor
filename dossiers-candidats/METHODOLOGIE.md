@@ -133,13 +133,29 @@ Relevé le 1er novembre 2026. Période visée : du 1er juillet 2026 à aujourd'h
 
 **Contrôles :** nombre de lignes de chaque section CNEWS comparé au total annoncé. Aucun article de la période pour Nathalie Arthaud ; un seul pour François Ruffin.
 
-## 7. Ce qui n'est pas fait
+## 7. Libération (liberation.fr)
+
+**Source :** la recherche avancée du site, `https://www.liberation.fr/recherche/?searchKeywords=<nom complet>&sort=date`, avec les champs « Du » et « Au » réglés sur le 01/07/2026 et le 01/11/2026 (`startDate` et `endDate` dans l'adresse). Les mêmes bornes sont envoyées à l'interface de recherche du site.
+
+**Relevé :**
+- l'interface renvoie au plus 29 contenus par requête, sans pagination exploitable. Le relevé découpe donc la période en fenêtres de dates de plus en plus fines, jusqu'à ce qu'une fenêtre renvoie moins de 29 contenus. Chaque article est ainsi récupéré une fois, sans trou dans la période ;
+- date lue dans la réponse du site (`displayDate`) ;
+- sont retenus les articles datés du 1er juillet au 1er novembre 2026 dont le nom du candidat figure dans le titre ou dans le chapô. Un article dont le nom n'apparaît que dans le chapô est marqué « (chapô) ».
+
+**Limites :**
+- la recherche porte sur le texte des articles : un article qui cite le candidat seulement dans le corps du texte n'est pas retenu ;
+- le filtre sur le nom de famille suit la même convention que pour les autres médias : « Le Pen » peut retenir des titres sur Jean-Marie ou Marie-Caroline Le Pen, et les titres qui en portent le nom sont écartés ;
+- un article peut être compté pour plusieurs candidats s'il les cite tous les deux.
+
+**Contrôles :** nombre de lignes de chaque section Libération comparé au total annoncé.
+
+## 8. Ce qui n'est pas fait
 
 - pas d'ouverture des articles un par un : le classement se base sur le titre et le chapô ou l'adresse ;
 - pas de couverture de BFMTV pour juillet à septembre 2026 ;
 - les dossiers Radio France ne sont pas tous à jour pour les personnalités sans page propre (Zemmour, Lisnard, Roussel) : ils sont couverts par les pages des autres personnalités citées dans les chapôs.
 
-## 8. Fichiers
+## 9. Fichiers
 
 - Dossiers par candidat : `dossiers-candidats/<nom>/README.md`
 - Tableaux Radio France : section « Radio France » de chaque dossier (les anciens fichiers `radio-france-<nom>-emissions.md` à la racine ont été supprimés une fois repris dans les dossiers)

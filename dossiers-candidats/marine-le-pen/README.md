@@ -642,6 +642,139 @@ Total : 95 articles.
 | 02/07 | «Il faut être totalement libre» : Marine Le Pen exclut de faire campagne en 2027 avec un bracelet électronique |
 | 01/07 | Procès en appel des assistants parlementaires du RN : Marine Le Pen assure ne pas avoir «peur» à quelques jours de son jugement |
 
+## Libération (liberation.fr)
+
+Source : https://www.liberation.fr/recherche/?searchKeywords=Marine%20Le%20Pen&sort=date (recherche du site, filtrée sur la période du 1er juillet au 1er novembre 2026). Un article est compté si « Le Pen » figure dans son titre ou dans son chapô ; un article dont le nom n'apparaît que dans le chapô est marqué « (chapô) ».
+
+Total : 124 articles.
+
+| Date (2026) | Titre |
+|---|---|
+| 29/10 | La Serp : quand les soeurs Le Pen éditaient des disques pro-nazis |
+| 29/10 | Discours fascistes, chants de la Waffen-SS… Quand la société des sœurs Le Pen vendait des disques antisémites et pro-nazis |
+| 29/10 | Le Pen et Mélenchon dominent largement l’espace médiatique |
+| 29/10 | Etats-Unis : après une série de panne de congélateurs sur des bases militaires, le Pentagone soupçonne une cyberattaque |
+| 28/10 | Liberté d’expression sur les réseaux sociaux : «Ça commence où, l’insurrection, si c’est Le Pen au pouvoir dans six mois ?» |
+| 25/10 | A Orléans, Marine Le Pen sort la carte «optimisme» pour relancer sa campagne présidentielle |
+| 24/10 | Entre le Rassemblement national et la macronie, le nouvel en même temps (chapô) |
+| 23/10 | Surprise : Trump et Nétanyahou ont la même analyse du 17 octobre que Retailleau, Le Pen ou Zemmour |
+| 22/10 | Jordan Bardella ou le retour au second rôle : «Il n’est pas mort tant qu’elle n’a pas décidé qu’il l’était» (chapô) |
+| 20/10 | Mobilisation du 17 octobre : la contre-attaque indécente de la macronie ouvre un boulevard à Marine Le Pen |
+| 19/10 | Chers casseurs, vous êtes les meilleurs agents électoraux de Marine Le Pen |
+| 19/10 | «Un avant-goût de ce qu’on va subir si Le Pen l’emporte en 2027» : à Amilly, le maire RN sabre les subventions du centre d’art des Tanneries |
+| 16/10 | Finalement, Marine Le Pen est prête à faire campagne sous bracelet électronique |
+| 15/10 | Quand le sage Ferrand montre la Constitution, Le Pen regarde le doigt |
+| 15/10 | Si elle est élue en 2027, Marine Le Pen entend bien couper les aides à l’Ukraine |
+| 14/10 | Julia Cagé et Alain Finkielkraut en débat : «Pour la gauche, éviter l’élection de Marine Le Pen n’est pas un programme politique» |
+| 09/10 | L’armée américaine veut diffuser en direct l’exécution d’un condamné, l’ONU dénonce une forme de «torture» (chapô) |
+| 07/10 | Logement : non, Marine Le Pen, le droit de vivre dignement ne se mesure pas à la nationalité |
+| 03/10 | Dédiabolisation du RN : derrière la vitrine, la lèpre, par Daniel Schneidermann (chapô) |
+| 02/10 | «Personne n’est vraiment surpris» : les messages antisémites attribués à Jordan Bardella vus par la presse étrangère (chapô) |
+| 02/10 | Retailleau révèle qu’en fait, il fait barrage à Le Pen depuis le début |
+| 30/09 | Affaire Bardella : après des propos de Marine Le Pen contre «Mediapart», une députée écologiste dénonce une «incitation à la violence» et saisit la justice |
+| 29/09 | EDF : la CGT «condamne» des rencontres entre le PDG Bernard Fontana et des responsables d’extrême droite (chapô) |
+| 29/09 | Jordan Bardella, le Monsieur Propre du RN, serait en fait une «brebis galeuse» : quelle surprise ! (chapô) |
+| 28/09 | Jordan Bardella avoue sa déception de ne pas être candidat en 2027 (chapô) |
+| 22/09 | La droite et l’extrême droite veulent en finir avec le droit du sol ? A la gauche de prendre le chemin inverse (chapô) |
+| 21/09 | Après le récent changement de cap de Le Pen et Bardella, Dmitri Medvedev voit désormais dans le RN un parti «russophobe» |
+| 20/09 | François Bayrou poursuit son plaidoyer solitaire pour une primaire «des sociaux-démocrates aux gaullistes» (chapô) |
+| 18/09 | Bardella face à la préférence familiale, par Mathieu Lindon (chapô) |
+| 17/09 | Référendum contre l’immigration : le «plan B» du RN pour contourner le Conseil constitutionnel (chapô) |
+| 17/09 | Cécile Alduy : «Pour l’extrême droite de Trump à Le Pen, la purification lexicale va de pair avec la purification ethnique» |
+| 15/09 | Budget 2027 : pour Sébastien Lecornu, le danger d’un RN en fourbe-fête (chapô) |
+| 15/09 | Guerre en Iran : le Pentagone reconnaît une «pénurie» de munitions et chiffre les affrontements à 33 milliards de dollars |
+| 14/09 | Cette proposition de Marine Le Pen sur le logement ne va pas plaire à son allié Eric Ciotti |
+| 14/09 | Quand le député lepéniste Frédéric Falcon défendait «l’attachement du RN à la loi SRU» (chapô) |
+| 13/09 | En meeting à Hénin-Beaumont, Marine Le Pen lance une campagne mariniste sous les yeux de Jordan Bardella |
+| 13/09 | Fête de l’Humanité : pour Jean-Luc Mélenchon, l’occasion manquée de l’appel au rassemblement (chapô) |
+| 12/09 | La semaine vue par Coco : Dati-Ghosn, Bardella-Le Pen et les autres |
+| 11/09 | Le retour de Marion Maréchal au RN, un sujet qui déchaîne les crispations (chapô) |
+| 10/09 | Un enfant caché dans la famille du leader nord-coréen ? Les espions du Sud le pensent |
+| 08/09 | Il reste huit mois pour arrêter l’ascension de Marine Le Pen (et c’est possible), par Bernard Guetta |
+| 08/09 | «Pressure» d’Anthony Maras, un D-Day dans l’air du temps (chapô) |
+| 07/09 | «C’est assumé, on ne peut pas être au four et au moulin dans une élection» : pourquoi le camp Philippe dédaigne les sociaux-démocrates (chapô) |
+| 07/09 | LFI veut revenir sur l’interdiction de l’abaya à l’école et s’attire les critiques de Le Pen, Attal et Philippe |
+| 04/09 | Jordan Bardella, le RN version jet-set (chapô) |
+| 04/09 | «C’est elle ou moi» : le retour de Marion Maréchal fait dérailler le duo Le Pen-Bardella |
+| 03/09 | Bicentenaire de la photographie : le premier cliché de l’histoire va faire son retour en France (chapô) |
+| 01/09 | Pénalisation du voile par le RN : une proposition contraire à la Constitution (chapô) |
+| 01/09 | Interdiction du voile islamique : le RN retourne à la ligne dure au risque de la rediabolisation (chapô) |
+| 30/08 | L’extrême droite «sociale» de Marine Le Pen, une supercherie efficace |
+| 29/08 | Des funérailles de Jean-Marie Le Pen au dossier Aramburu : Jean-Philippe Husté, un mystérieux et omniprésent parrain de l’extrême droite (chapô) |
+| 27/08 | «On n’a pas gagné au change» : derrière Marine Le Pen à la rentrée d’été des patrons, le fantôme Bardella rôde |
+| 27/08 | Deauville : le retrait d’une photo de Gaza à un festival a été précédé d’une campagne d’un militant pro-israélien (chapô) |
+| 23/08 | «Une fois que l’heure sera passée, ce sera trop tard» : Edouard Philippe prédit un rassemblement de la droite et du centre entre «novembre et février» (chapô) |
+| 23/08 | Médias et extrême droite, quelques glissements d’été, par Daniel Schneidermann (chapô) |
+| 20/08 | Pour préparer sa rentrée, Marine Le Pen avance bille en dette |
+| 15/08 | Souviens-toi l’été d’avant la présidentielle : 2021, Zemmour tente de tuer la maison Le Pen |
+| 11/08 | Dominique Libault, haut fonctionnaire et pionnier de la protection sociale, est mort à 64 ans (chapô) |
+| 10/08 | Présidentielle 2027 : François Bayrou appelle à organiser une grande primaire entre «tous ceux qui rejettent les extrêmes» (chapô) |
+| 10/08 | Souviens-toi l’été d’avant la présidentielle : en 2006, et si Mélenchon avait raté le coche avec les anticapitalistes ? (chapô) |
+| 08/08 | Le Pen, Zemmour, Philippot… Qui sont les candidats d’extrême droite à l’élection présidentielle ? |
+| 07/08 | Avec «le Camp des saints», l’extrême droite relit son classique sur l’immigration (chapô) |
+| 05/08 | Comment «l’arc républicain» pave la voie de Marine Le Pen au pouvoir, par Michel Feher |
+| 30/07 | «Bardella sera président», annonce Julien Odoul, porte-parole du RN (chapô) |
+| 30/07 | Mort de Raoul Vaneigem, philosophe libertaire et inspirateur de Mai 68 (chapô) |
+| 21/07 | «Je présente Marine Le Pen $LEPEN» : le compte X de la candidate d’extrême droite piraté, le parti également visé |
+| 19/07 | Présidentielle : Le Pen-Bardella, un ticket à l’américaine non valide |
+| 18/07 | Présidentielle 2027 : l’été de la déraison, par Denis Pingaud (chapô) |
+| 17/07 | A l’approche de la présidentielle, le RN en grande vacance sur son programme (chapô) |
+| 17/07 | Nigel Farage le Britannique, Alice Weidel l’Allemande, Javier Milei l’Argentin… Ces figures de droite radicale qu’Elon Musk défend à l’étranger (chapô) |
+| 16/07 | Marine Le Pen face au baiser de la mort d’Elon Musk |
+| 16/07 | Soutien d’Elon Musk à Marine Le Pen : pour le RN, y a comme un X |
+| 16/07 | Soutien d’Elon Musk à Marine Le Pen : «Il donne son soutien à la figure de l’extrême droite qui a le plus de chances de l’emporter» |
+| 16/07 | Marine Le Pen «dernier espoir de la France» selon Elon Musk : un soutien fâcheux pour le RN |
+| 16/07 | Poil à gratter ou pâle porte-parole : quel rôle pour Bardella dans la campagne ? (chapô) |
+| 15/07 | Condamnation de Marine Le Pen : le parquet général de la cour d’appel de Paris a décidé de ne pas former de pourvoi en cassation |
+| 15/07 | Attal assigne Le Pen pour l’utilisation du nom «Renaissance» sur son affiche de campagne |
+| 14/07 | Venue controversée de Le Pen, cérémonie avec Macron, minute de silence avant France-Espagne : 10 ans après, Nice se souvient de l’attentat du 14 juillet 2016 |
+| 14/07 | Mbappé, président ! par Luc Le Vaillant (chapô) |
+| 13/07 | Affaire Marine Le Pen : les juges ont renoncé à exercer leur rôle de contre-pouvoir, par Jérôme Karsenti |
+| 12/07 | Bardella se rêve à la tête d’un gouvernement «d’union nationale» au-delà du RN (chapô) |
+| 11/07 | La semaine vue par Coco : Marine Le Pen condamnée et la France caniculée |
+| 10/07 | Affiche de campagne de Marine Le Pen : le Corcovado ou le culte de la personnalité |
+| 10/07 | Le Pen condamnée, mais déjà gagnante dans les télés, par Daniel Schneidermann |
+| 10/07 | Coupe du monde de foot : les joyeuses identités mêlées du match France-Maroc (chapô) |
+| 09/07 | Marine Le Pen candidate : les trois éléments de langage du RN pour faire oublier sa condamnation |
+| 09/07 | Marine Le Pen et Nigel Farage, deux populistes qui s’érigent en martyrs politiques |
+| 09/07 | Marine Le Pen condamnée en appel, mais éligible : une «décision troublante» et «une peine inhabituellement basse» |
+| 09/07 | Marine Le Pen candidate en 2027 : pour la galaxie médiatico-politique Bolloré, une OPA ratée sur le RN |
+| 08/07 | Condamnation de Marine Le Pen : la Cour de cassation «pourrait» se prononcer «au plus tard début avril 2027» sur son pourvoi |
+| 08/07 | Pourvoi en cassation : Marine Le Pen est-elle toujours présumée innocente ? |
+| 08/07 | Candidature de Marine Le Pen à la présidentielle : la balle est dans son clan |
+| 08/07 | Pour son pourvoi en cassation, Marine Le Pen désigne l’ancien avocat de François Fillon |
+| 08/07 | «Elle n’a rien fait» : à Liévin, la béatitude inébranlée des électeurs de Marine Le Pen |
+| 08/07 | Marine Le Pen candidate : le clan de la cheffe de file du RN en ordre de marche |
+| 08/07 | Condamnée en appel, mais candidate en 2027 : un risque juridique demeure pour Marine Le Pen, par Jean-Philippe Derosier |
+| 08/07 | «Ça rend plus pertinent que jamais l’union de la droite et du centre» : comment la candidature Le Pen change la donne pour Philippe, Attal et Retailleau |
+| 08/07 | «On est un peu les Astérix et Obélix d’ici» : une journée à Hénin-Beaumont avec les pro et anti-Le Pen |
+| 08/07 | Le Pen candidate à la présidentielle, l’Argentine en quart, nouvelles frappes américaines en Iran… L’actu de ce mercredi 8 juillet au matin |
+| 07/07 | «Il n’y a plus de scénario où je ne pourrai pas me présenter», assure Marine Le Pen, qui va se pourvoir en cassation |
+| 07/07 | Après sa condamnation en appel, Marine Le Pen reste candidate et se pourvoit en cassation |
+| 07/07 | Marine Le Pen, une femme politique de la trempe de trompe-la-mort |
+| 07/07 | Marine Le Pen condamnée : coupable mais présidentiable |
+| 07/07 | Marine Le Pen, la forcenée |
+| 07/07 | Marine Le Pen condamnée mais candidate pour 2027 : le RN soulagé et ses concurrents embarrassés |
+| 07/07 | Marine Le Pen condamnée mais pas évincée, la canicule s’étend, enquête après les insultes racistes contre Mbappé… L’actu de ce mardi 7 juillet |
+| 07/07 | Marine Le Pen, Julien Odoul, Bruno Gollnisch… La liste des condamnations après le procès en appel des assistants parlementaires du FN |
+| 07/07 | Marine Le Pen condamnée : sur la route du Tour de France, «on vote RN, peu importe qui est candidat» |
+| 07/07 | Marine Le Pen peut-elle faire campagne sous bracelet électronique ? |
+| 07/07 | Marine Le Pen condamnée : la presse étrangère scrute «la chute de la maison Le Pen» |
+| 07/07 | Condamnation de Marine Le Pen en appel : pourquoi elle pourrait se présenter à la présidentielle |
+| 07/07 | Marine Le Pen hors jeu pour 2027 ? Cela n’aurait rien d’une injustice |
+| 07/07 | «La seule chose qui l’intéresse, c’est la formule, l’image» : autour de Jordan Bardella, il y a comme un doute (chapô) |
+| 07/07 | Une «délinquante» qui «ne peut se permettre de se présenter» : à gauche, Le Pen disqualifiée pour la présidentielle |
+| 07/07 | Décision dans le procès Le Pen, vigilance orange canicule pour plus de la moitié de la France, l’Espagne sort le Portugal du Mondial… L’actu de ce mardi 7 juillet au matin |
+| 06/07 | Délibéré du procès en appel de Marine Le Pen : les magistrats craignent la reprise des menaces |
+| 06/07 | Marine Le Pen cite le «Chant des partisans» et rencontre évidemment une forte résistance |
+| 06/07 | Suspendu à l’appel qui scellera le sort de Marine Le Pen, le RN patauge et multiplie les couacs |
+| 06/07 | Affaire des assistants parlementaires du FN : une arnaque de père en fille (chapô) |
+| 05/07 | Marine Le Pen définitivement inéligible en 2027 ? Une page de l’histoire peut-être en train de se tourner |
+| 05/07 | «Quoi qu’il arrive, ma voix ira au RN» : les électeurs partagés entre Bardella le jeune loup et Marine Le Pen l’expérimentée |
+| 05/07 | «Ce sera peut-être un coup de poignard, mais ça tranchera» : comment les deux clans du RN attendent le jugement de «la délivrance» (chapô) |
+| 04/07 | La semaine vue par Coco : François Hollande sur le retour, Marine Le Pen tutrice, canicule en Ukraine |
+| 01/07 | Assistants fictifs du RN : même éligible, Le Pen n’estime «pas possible» de faire la présidentielle avec un bracelet électronique |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Marine+Le+Pen, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

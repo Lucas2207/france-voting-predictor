@@ -406,6 +406,110 @@ Total : 33 articles.
 | 09/07 | Présidentielle 2027 : Marine Le Pen en tête des intentions de vote au premier tour, loin devant Edouard Philippe et Jean-Luc Mélenchon |
 | 05/07 | Présidentielle 2027 : Jean-Luc Mélenchon certain de battre le RN, peut-être même «dès le premier tour» |
 
+## Libération (liberation.fr)
+
+Source : https://www.liberation.fr/recherche/?searchKeywords=Jean-Luc%20M%C3%A9lenchon&sort=date (recherche du site, filtrée sur la période du 1er juillet au 1er novembre 2026). Un article est compté si « Mélenchon » figure dans son titre ou dans son chapô ; un article dont le nom n'apparaît que dans le chapô est marqué « (chapô) ».
+
+Total : 95 articles.
+
+| Date (2026) | Titre |
+|---|---|
+| 30/10 | François Ruffin : «Je suis là pour mettre mes sujets dans les pattes des grands candidats» (chapô) |
+| 29/10 | Montage mensonger visant Jean-Luc Mélenchon sur France Culture : l’Arcom met en garde Radio France |
+| 29/10 | Le Pen et Mélenchon dominent largement l’espace médiatique |
+| 28/10 | L’inspiration brésilienne des insoumis pour contrer l’extrême droite sur les réseaux sociaux (chapô) |
+| 27/10 | Jean-Luc Mélenchon et la Russie : un relativisme toujours aussi problématique |
+| 21/10 | Partis politiques à Matignon après les violences : «On va y aller, on va te pourrir la réunion», lance Mélenchon à Lecornu |
+| 20/10 | Sous le feu des attaques après le 17 octobre, LFI fait «monter la pression» sur le gouvernement (chapô) |
+| 20/10 | David Lisnard fantasme sur «des camps d’entraînement» dans le Limousin pour les «terroristes» de gauche (chapô) |
+| 19/10 | 17 octobre : comment Jean-Luc Mélenchon s’est retrouvé à porter le costume du coupable idéal |
+| 19/10 | Mobilisations du 17 octobre : LFI est un bouc émissaire bien trop facile (chapô) |
+| 16/10 | «Vive le 17 octobre» : le site des Républicains brièvement transformé en appel à la mobilisation (chapô) |
+| 15/10 | Sur l’économie, Mélenchon poursuit son duel avec le «banquier central français» Emmanuel Moulin |
+| 15/10 | Macron repeint en «Gulliver», Mélenchon diabolisé et une conversation avec son ânesse : on a lu «De combats et d’espoir», le dernier livre de Bruno Retailleau |
+| 14/10 | En cas de victoire à la présidentielle : LFI prévoit 106 milliards de recettes supplémentaires et 82 milliards de dépenses nouvelles pour 2027 (chapô) |
+| 12/10 | Primaire PS : pourquoi la victoire de Raphaël Glucksmann est une bonne nouvelle pour Jean-Luc Mélenchon |
+| 12/10 | Pourquoi la victoire de Glucksmann est une bonne nouvelle pour Mélenchon |
+| 11/10 | Pendant ce temps-là, à Clermont-Ferrand, Mélenchon ignore le PS et attaque d’abord Philippe et Attal |
+| 11/10 | Primaire PS : avec sa large victoire, Raphaël Glucksmann assoit sa légitimité, mais le plus dur commence (chapô) |
+| 11/10 | Lâchage de Zelensky par Trump : une classe politique française en soutien de l’Ukraine, l’Elysée discret (chapô) |
+| 10/10 | Face à LFI, Gabriel Attal dégaine son «pacte pour la jeunesse» en meeting à Lyon (chapô) |
+| 09/10 | Pour les meetings de Mélenchon, LFI veut coller aux basques de ses adversaires |
+| 09/10 | Dans le Puy-de-Dôme, des insoumis en campagne «bal trad» (chapô) |
+| 09/10 | Mélenchon juge Attal «personnellement responsable» d’une partie de la révolte lycéenne, à cause de Parcoursup |
+| 08/10 | Elwan B., tête d’affiche du mouvement lycéen : «C’est sûr qu’on va le revoir en politique» (chapô) |
+| 06/10 | «Le pape ne fait pas mieux» : à la manifestation lycéenne, le triomphe de Jean-Luc Mélenchon |
+| 04/10 | Primaire à gauche : une thérapie collective pour les cinq candidats en guise de dernier débat (chapô) |
+| 04/10 | «On leur pisse dessus», «danse du ventre» : des propos de Glucksmann révélés à son insu font bondir Mélenchon et Royal |
+| 03/10 | Jean-Luc Mélenchon appelle les parents à porter des brassards blancs pour protéger les manifestants lycéens |
+| 02/10 | Dernier débat pour la primaire socialiste : quelle vie en rose ? (chapô) |
+| 01/10 | «Interdire LFI» ? Bruno Retailleau dérive toujours plus loin pour se faire entendre (chapô) |
+| 01/10 | Mobilisation des lycéens : en quête de stratégie, le gouvernement cible LFI (chapô) |
+| 29/09 | Blocages des lycées : face aux procès en agitation, LFI nie toute récupération (chapô) |
+| 29/09 | Mélenchon, Bergé, Faure… après les accusations d’antisémitisme de «Mediapart», Jordan Bardella sous le feu des critiques |
+| 28/09 | Forces de l’ordre sur le pied de guerre, passe d’armes entre Lecornu et Mélenchon, appel à la mobilisation nationale… Le blocus des lycées franciliens fait des remous |
+| 25/09 | La prophétie de Mélenchon sur le mouvement social qui vient : «Les gilets jaunes, c’est presque gentil à côté» |
+| 23/09 | L’Allemagne est-elle vraiment championne des arrêts maladie en Europe, loin devant la France, comme l’affirme Mélenchon ? |
+| 23/09 | Sénatoriales : dans le Rhône, Gabriel Amard, cadre LFI et «gendre de», veut faire entrer les insoumis au Sénat (chapô) |
+| 22/09 | Présidentielle 2027 : une campagne marathon, mais pour certains déjà un sprint décisif (chapô) |
+| 20/09 | François Bayrou poursuit son plaidoyer solitaire pour une primaire «des sociaux-démocrates aux gaullistes» (chapô) |
+| 18/09 | Présidentielle : Clémence Guetté évoque ces hauts fonctionnaires anonymes qui «aident» à la campagne de Jean-Luc Mélenchon |
+| 16/09 | Il s’en faut de Peu pour que le PCF soutienne Mélenchon |
+| 15/09 | «Aucun député LFI ne devrait publier» chez Bolloré, répond Mathilde Panot au sujet du livre de l’insoumis Aurélien Taché chez Fayard (chapô) |
+| 14/09 | Rémi Lefebvre, politiste : «LFI et Renaissance sont deux machines présidentielles qui ont une peur absolue des contre-pouvoirs» (chapô) |
+| 13/09 | Fête de l’Humanité : pour Jean-Luc Mélenchon, l’occasion manquée de l’appel au rassemblement |
+| 13/09 | Présidentielle 2027 : Olivier Faure reproche à Hollande et Glucksmann de se tourner vers le centre droit (chapô) |
+| 13/09 | Mise en cause par LFI, la Banque de France dément toute vente de dette publique sur les marchés (chapô) |
+| 12/09 | Dans une Fête de l’Humanité dominée par Mélenchon, Ruffin et Tondelier en quête d’une voie pour sortir de l’impasse |
+| 12/09 | A la Fête de l’Huma, Mélenchon et Roussel se disputent le peuple de gauche |
+| 10/09 | LFI boycotte BFMTV cette semaine, la chaîne dit sa «surprise» (chapô) |
+| 08/09 | LFI dresse le cordon sanitaire autour de l’Allemande Sahra Wagenknecht et BSW : «Ce ne sont pas des amis du tout» (chapô) |
+| 07/09 | Retailleau très favorable à un débat face à Mélenchon, qui le refuse catégoriquement |
+| 07/09 | Les bons et les mauvais prix Nobel selon LFI (chapô) |
+| 06/09 | Présidentielle 2027 : Fabien Roussel repart en campagne (chapô) |
+| 05/09 | Présidentielle 2027 : Jean-Luc Mélenchon à la braderie de Lille, à fond sur le pouvoir d’achat |
+| 02/09 | Voile islamique : Mélenchon reconnaît avoir «changé d’avis» au fil des années |
+| 01/09 | Comment le site de campagne de Jean-Luc Mélenchon a-t-il été qualifié de «dangereux» sur X ? |
+| 30/08 | Peut-on vraiment effacer la dette publique tel que le préconise Jean-Luc Mélenchon ? |
+| 27/08 | Débat présidentiel du Medef : salaires, retraites, économies, dette… Revivez les échanges entre candidats à Roland-Garros (chapô) |
+| 26/08 | Rivalité Mélenchon-Glucksmann : une logique perdante pour les électeurs de gauche |
+| 26/08 | Hausse des salaires, effacement de la dette… A la rentrée du Medef, les mesures de Mélenchon effraient les grands patrons |
+| 25/08 | Jean-Luc Mélenchon, le candidat assiégé prêt à transformer sa survie en victoire |
+| 23/08 | Entre Glucksmann et Mélenchon, l’avantage reviendra au plus ambitieux sur l’écologie |
+| 23/08 | Présidentielle 2027 : l’écologie et l’économie, fers de lance de la campagne de Mélenchon |
+| 23/08 | «Une fois que l’heure sera passée, ce sera trop tard» : Edouard Philippe prédit un rassemblement de la droite et du centre entre «novembre et février» (chapô) |
+| 23/08 | Raphaël Glucksmann en campagne pour 2027 : ce n’est pas le tout d’être candidat (chapô) |
+| 22/08 | «Nous allons fonder l’Etat écologique» : au JT de TF1, Jean-Luc Mélenchon promet que le pays sera prêt pour le prochain été |
+| 22/08 | Aux journées d’été des verts, l’intervention d’Olivier Faure court-circuitée par un débat en coulisses sur une alliance avec LFI (chapô) |
+| 22/08 | A Mayotte, Edouard Philippe promet de mettre fin à l’«appel d’air» de l’immigration et tacle Mélenchon |
+| 21/08 | Rentrée des insoumis : Jean-Luc Mélenchon prend son clash en patience |
+| 21/08 | Présidentielle 2027 : clivant ou rassembleur, Jean-Luc Mélenchon sème le double |
+| 21/08 | «J’ai voté pour Mélenchon et…» : Paroles d’électeurs, convaincus ou non, de revoter pour lui en 2027 |
+| 21/08 | Rentrée à gauche : LFI voit le vert à moitié plein (chapô) |
+| 19/08 | Sandrine Rousseau : «Si LFI veut gagner, il va falloir ouvrir le dialogue» (chapô) |
+| 18/08 | Monique Barbut refuse l’invitation de Manuel Bompard aux universités d’été insoumises après son interview dans «Libé» (chapô) |
+| 15/08 | «Noir et LFI, c’est trop» : Jean-Luc Mélenchon dénonce le «racisme systémique» dont font l’objet Bally Bagayoko et Aly Diouara |
+| 14/08 | «Foutre au feu» la dette, un projet de «banqueroute totale» du pays : Mélenchon et Attal poursuivent leur feuilleton estival |
+| 11/08 | Yann Tiersen, Anna Mouglalis, Pierre Lemaitre, Adèle Yon… : La France insoumise dévoile le casting de ses universités d’été (chapô) |
+| 10/08 | Souviens-toi l’été d’avant la présidentielle : en 2006, et si Mélenchon avait raté le coche avec les anticapitalistes ? |
+| 10/08 | Présidentielle 2027 : François Bayrou appelle à organiser une grande primaire entre «tous ceux qui rejettent les extrêmes» (chapô) |
+| 06/08 | Gabriel Attal, conseiller municipal… à mi-temps (chapô) |
+| 03/08 | Attal souhaite un «spoil system à la française», Mélenchon dénonce un «système de nomination-copinage généralisé» |
+| 28/07 | Eric Piolle sur l’action de LFI contre Barbara Butch : «Cher Jean-Luc Mélenchon, c’est une opportunité pour toi de reconnaître une erreur» |
+| 18/07 | Présidentielle 2027 : l’été de la déraison, par Denis Pingaud (chapô) |
+| 17/07 | Non, Mélenchon n’a pas proposé Matignon à Montebourg chez Ruquier en 2017 |
+| 16/07 | La primaire à gauche enterrée, LFI joue le rapport de force (chapô) |
+| 15/07 | Clémentine Autain : «Le rôle de Jean-Luc Mélenchon est de fédérer plutôt que de cliver» |
+| 11/07 | Au Festival d’Avignon, Jean-Luc Mélenchon fait son show en dilettante |
+| 11/07 | Présidentielle : Clémentine Autain renonce à sa candidature après le plantage de la primaire à gauche (chapô) |
+| 10/07 | Festival d’Avignon, jour 7 : Rimbaud, Baudelaire et des bestioles sont sur un plateau (chapô) |
+| 09/07 | «Le méga canal est un méga scandale» : dans le Nord, les opposants au canal Seine-Nord Europe se mobilisent tout le week-end (chapô) |
+| 09/07 | Primaire à gauche : cinq épisodes pour un enterrement (chapô) |
+| 05/07 | Jean-Luc Mélenchon assure pouvoir «éliminer» le candidat RN «peut être» dès le premier tour |
+| 04/07 | Au congrès de Lille, les communistes encore loin de la réconciliation avec Jean-Luc Mélenchon |
+| 03/07 | Sanction disciplinaire pour Guillaume Erner, maintenu à la matinale de France Culture mais sans son billet d’humeur (chapô) |
+| 02/07 | Ecorégions, VIe République… Jean-Luc Mélenchon ressort l’appeau à écolos |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Jean-Luc+M%C3%A9lenchon, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.
