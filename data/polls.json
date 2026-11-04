@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-03T13:30+01:00",
+ "fetched": "2026-11-04T13:40+01:00",
  "source": "https://fr.wikipedia.org/wiki/Liste_de_sondages_sur_l'élection_présidentielle_française_de_2027",
  "polls": [
   {
@@ -1359,6 +1359,28 @@
    },
    "scenarios": 3,
    "scenarios_used": 3
+  },
+  {
+   "pollster": "Ifop",
+   "end_date": "2026-10-29",
+   "sample": 1501,
+   "url": "https://www.tf1info.fr/politique/elections/presidentielle/sondage-lci-a-six-mois-de-la-presidentielle-2027-marine-le-pen-et-jean-luc-melenchon-sans-adversaires-au-premier-tour-philippe-attal-retailleau-lisnard-2473663.html",
+   "scores": {
+    "Nathalie Arthaud": 0.5,
+    "Jean-Luc Mélenchon": 17.75,
+    "Fabien Roussel": 2.0,
+    "Marine Tondelier": 3.0,
+    "Raphaël Glucksmann": 11.5,
+    "Gabriel Attal": 7.0,
+    "Édouard Philippe": 9.5,
+    "David Lisnard": 7.25,
+    "Bruno Retailleau": 4.5,
+    "Nicolas Dupont-Aignan": 1.75,
+    "Marine Le Pen": 35.5,
+    "Éric Zemmour": 4.5
+   },
+   "scenarios": 4,
+   "scenarios_used": 2
   }
  ],
  "notes": [
