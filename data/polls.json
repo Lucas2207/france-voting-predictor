@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-08T12:36+01:00",
+ "fetched": "2026-11-09T14:29+01:00",
  "source": "https://fr.wikipedia.org/wiki/Liste_de_sondages_sur_l'élection_présidentielle_française_de_2027",
  "polls": [
   {
@@ -1381,6 +1381,29 @@
    },
    "scenarios": 4,
    "scenarios_used": 2
+  },
+  {
+   "pollster": "Harris Interactive",
+   "end_date": "2026-11-05",
+   "sample": 2101,
+   "url": "https://tolunacorporate.com/wp-content/uploads/2026/11/Rapport-Toluna-Barometre-Presidentielle-2027-Vague-9-M6-RTL-9-novembre-2026.pdf",
+   "scores": {
+    "Nathalie Arthaud": 1.0,
+    "Jean-Luc Mélenchon": 18.67,
+    "Fabien Roussel": 1.33,
+    "Marine Tondelier": 2.0,
+    "Raphaël Glucksmann": 11.33,
+    "Édouard Philippe": 11.5,
+    "David Lisnard": 9.0,
+    "Bruno Retailleau": 6.0,
+    "Nicolas Dupont-Aignan": 1.33,
+    "Marine Le Pen": 35.0,
+    "Éric Zemmour": 3.33,
+    "Dominique de Villepin": 2.0,
+    "Gabriel Attal": 7.5
+   },
+   "scenarios": 5,
+   "scenarios_used": 3
   }
  ],
  "notes": [
