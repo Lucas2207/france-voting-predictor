@@ -22,12 +22,12 @@
  {
   "outlet": "franceinfo",
   "ok": true,
-  "items": 20
+  "items": 19
  },
  {
   "outlet": "France 24",
-  "ok": false,
-  "error": "403 Client Error: Forbidden for url: https://www.france24.com/fr/france/rss"
+  "ok": true,
+  "items": 30
  },
  {
   "outlet": "RFI",
@@ -127,7 +127,7 @@
  {
   "outlet": "Google Actualités (recherche par candidat)",
   "ok": true,
-  "items": 4461,
+  "items": 4373,
   "error": null
  }
 ]
