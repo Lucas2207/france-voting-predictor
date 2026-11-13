@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-12T14:27+01:00",
+ "fetched": "2026-11-13T13:43+01:00",
  "source": "https://fr.wikipedia.org/wiki/Liste_de_sondages_sur_l'élection_présidentielle_française_de_2027",
  "polls": [
   {
@@ -1406,10 +1406,32 @@
    "scenarios_used": 3
   },
   {
+   "pollster": "OpinionWay",
+   "end_date": "2026-11-10",
+   "sample": 982,
+   "url": "https://f.dviz.factoviz.com/UserFiles/0/9/2/2027/OpinionWay%20pour%20Les%20Echos%20et%20Radio%20Classique%20-%20Barom%C3%A8tre%20Pr%C3%A9sitrack%202027%20Vague%204%20-%20Novembre%202026.pdf",
+   "scores": {
+    "Nathalie Arthaud": 1.0,
+    "Jean-Luc Mélenchon": 16.33,
+    "Fabien Roussel": 1.33,
+    "Marine Tondelier": 3.0,
+    "Raphaël Glucksmann": 12.0,
+    "Gabriel Attal": 7.0,
+    "Édouard Philippe": 11.5,
+    "David Lisnard": 11.0,
+    "Bruno Retailleau": 4.67,
+    "Nicolas Dupont-Aignan": 1.33,
+    "Marine Le Pen": 34.0,
+    "Éric Zemmour": 3.0
+   },
+   "scenarios": 3,
+   "scenarios_used": 3
+  },
+  {
    "pollster": "Cluster17",
    "end_date": "2026-11-10",
    "sample": 1164,
-   "url": "https://www.politico.eu/article/sondage-exclusif-2027-christine-lagarde-bien-accueillie-par-les-electeurs-du-centre/",
+   "url": "https://cluster17.com/wp-content/uploads/2026/11/Sondage_Cluster17_ITV_P2027-Politico.pdf",
    "scores": {
     "Nathalie Arthaud": 0.5,
     "Jean-Luc Mélenchon": 19.0,
@@ -1430,7 +1452,7 @@
     "François Ruffin": 1.5,
     "Dominique de Villepin": 1.0
    },
-   "scenarios": 3,
+   "scenarios": 4,
    "scenarios_used": 1
   }
  ],
