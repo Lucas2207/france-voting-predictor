@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-13T13:43+01:00",
+ "fetched": "2026-11-14T12:51+01:00",
  "source": "https://fr.wikipedia.org/wiki/Liste_de_sondages_sur_l'élection_présidentielle_française_de_2027",
  "polls": [
   {
@@ -1454,6 +1454,30 @@
    },
    "scenarios": 4,
    "scenarios_used": 1
+  },
+  {
+   "pollster": "OpinionWay",
+   "end_date": "2026-11-12",
+   "sample": 1001,
+   "url": "http://www.commission-des-sondages.fr/notices/files/notices/2026/novembre/10371-pres-iv-opinionway-cnews-12-novembre.pdf",
+   "scores": {
+    "Nathalie Arthaud": 1.0,
+    "Jean-Luc Mélenchon": 16.0,
+    "Fabien Roussel": 1.5,
+    "Marine Tondelier": 3.0,
+    "Raphaël Glucksmann": 10.5,
+    "Gabriel Attal": 3.5,
+    "Édouard Philippe": 12.0,
+    "David Lisnard": 9.5,
+    "Bruno Retailleau": 4.5,
+    "Nicolas Dupont-Aignan": 2.0,
+    "Marine Le Pen": 31.5,
+    "Éric Zemmour": 2.5,
+    "Teddy Riner": 4.0,
+    "Karim Bouamrane": 1.0
+   },
+   "scenarios": 2,
+   "scenarios_used": 2
   }
  ],
  "notes": [
