@@ -51,8 +51,8 @@
  },
  {
   "outlet": "Marianne",
-  "ok": false,
-  "error": "405 Client Error: Not Allowed for url: https://www.marianne.net/rss.xml"
+  "ok": true,
+  "items": 20
  },
  {
   "outlet": "BFMTV",
@@ -127,7 +127,7 @@
  {
   "outlet": "Google Actualités (recherche par candidat)",
   "ok": true,
-  "items": 4079,
+  "items": 4128,
   "error": null
  }
 ]
