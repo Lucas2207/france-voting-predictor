@@ -1369,6 +1369,35 @@ Total : 1 article.
 |---|---|
 | 17/10 | Le défenseur du PSG Illia Zabarnyi prend position après les déclarations de Marine Le Pen : « J'espère que le nouveau président continuera d'aider l'Ukraine » |
 
+## Les Échos (lesechos.fr)
+
+Source : la recherche du site (`/recherche?order_by=relevance&search=<nom>&searchType=posts`), deux requêtes par candidat (le nom, puis le nom suivi de « présidentielle 2027 »). Le moteur ne renvoie que 20 résultats par requête, sans pagination : le relevé est donc partiel et ne garantit pas d'avoir tous les articles de la période. Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 et que le nom du candidat figure dans son titre. Voir la section 16 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 20 articles (relevé partiel).
+
+| Date (2026) | Titre |
+|---|---|
+| 27/10 | Nucléaire : passe d'armes entre Marine Le Pen et le gouvernement sur les négociations avec Bruxelles pour les EPR2 d'EDF |
+| 24/10 | « Toute la stratégie de Marine Le Pen est d'osciller entre radicalité et crédibilité » |
+| 16/10 | Présidentielle 2027 : Marine Le Pen, très critiquée, assume de vouloir couper l'aide à l'Ukraine |
+| 15/10 | Présidentielle 2027 : comment Marine Le Pen veut modifier la Constitution sans passer par le Parlement |
+| 14/10 | Présidentielle 2027 : comment Marine Le Pen veut réduire la contribution de la France à l'Union européenne |
+| 07/10 | Présidentielle 2027 : duel au centre, qui peut battre Marine Le Pen ? |
+| 24/09 | Présidentielle 2027 : Marine Le Pen peine à convaincre sur sa capacité à résoudre la crise du logement |
+| 17/09 | Marine Le Pen, l'à-peu-présidentiable |
+| 01/08 | Marine Le Pen, Coupe du monde, amende record pour Google, guerre au Moyen-Orient… Ce qu'il ne fallait pas rater en juillet 2026 |
+| 11/07 | Présidentielle 2027 : les milieux d'affaires entre sidération et indifférence après la candidature de Marine Le Pen |
+| 09/07 | SONDAGE EXCLUSIF - Présidentielle 2027 : Marine Le Pen largement en tête, avantage Edouard Philippe à droite et au centre |
+| 09/07 | Présidentielle 2027 : Bruno Retailleau mise sur l'économie pour tenter de contrer Marine Le Pen |
+| 08/07 | Procès RN : la Cour de cassation « pourrait » se prononcer « au plus tard début avril 2027 » sur le sort de Marine Le Pen |
+| 08/07 | Présidentielle 2027 : Marine Le Pen tente de lancer sa campagne et de tourner la page de ses déboires judiciaires |
+| 08/07 | « Quelle bombe ! » : comment la presse étrangère réagit au pari très risqué de Marine Le Pen |
+| 07/07 | Procès de Marine Le Pen et du RN : ce qu'il faut savoir |
+| 07/07 | Présidentielle 2027 : condamnée mais éligible, Marine Le Pen se pourvoit en cassation et se déclare candidate |
+| 07/07 | Présidentielle 2027 : « c'est une délinquante », la gauche étrille Marine Le Pen après sa condamnation, la droite garde le silence |
+| 07/07 | « Démocratie en otage », « nouveau reniement »… La candidature de Marine Le Pen à la présidentielle malgré sa condamnation secoue la classe politique |
+| 06/07 | Présidentielle 2027 : Jordan Bardella ou Marine Le Pen, les candidats impatients de connaître leur adversaire |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Marine+Le+Pen, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

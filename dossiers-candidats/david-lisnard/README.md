@@ -312,6 +312,18 @@ Total : 0 article.
 
 Aucun article daté du 1er juillet au 1er novembre 2026 ne porte le nom du candidat dans son titre.
 
+## Les Échos (lesechos.fr)
+
+Source : la recherche du site (`/recherche?order_by=relevance&search=<nom>&searchType=posts`), deux requêtes par candidat (le nom, puis le nom suivi de « présidentielle 2027 »). Le moteur ne renvoie que 20 résultats par requête, sans pagination : le relevé est donc partiel et ne garantit pas d'avoir tous les articles de la période. Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 et que le nom du candidat figure dans son titre. Voir la section 16 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 3 articles (relevé partiel).
+
+| Date (2026) | Titre |
+|---|---|
+| 17/10 | Présidentielle 2027 : David Lisnard, une épine de plus pour Bruno Retailleau |
+| 26/09 | Présidentielle 2027 : David Lisnard, le trublion de la droite qui rêve de mener « la révolution de la liberté » |
+| 08/09 | Présidentielle 2027 : David Lisnard à l'école Milei |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=David+Lisnard, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

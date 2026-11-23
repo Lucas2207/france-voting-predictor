@@ -34,3 +34,14 @@ Total : 22 articles.
 | 29/07 | Deux ans après les JO de Paris 2024, Teddy Riner va faire son retour à la compétition au Grand Prix de Lima en août |
 | 06/07 | Teddy Riner, absent en individuel depuis les JO 2024, et Clarisse Agbégnénou au Grand Chelem de Lausanne |
 | 03/07 | Équipe de France : des Mondiaux sans Amandine Buchard mais avec Clarisse Agbégnénou et Teddy Riner |
+
+## Les Échos (lesechos.fr)
+
+Source : la recherche du site (`/recherche?order_by=relevance&search=<nom>&searchType=posts`), deux requêtes par candidat (le nom, puis le nom suivi de « présidentielle 2027 »). Le moteur ne renvoie que 20 résultats par requête, sans pagination : le relevé est donc partiel et ne garantit pas d'avoir tous les articles de la période. Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 et que le nom du candidat figure dans son titre. Voir la section 16 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 2 articles (relevé partiel).
+
+| Date (2026) | Titre |
+|---|---|
+| 04/10 | Teddy Riner, Pascal Praud, Zinédine Zidane : les people croqués par Philippe Besson |
+| 15/09 | French Tech : Teddy Riner lance son application de fitness |

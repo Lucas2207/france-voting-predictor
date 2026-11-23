@@ -731,6 +731,32 @@ Total : 0 article.
 
 Aucun article daté du 1er juillet au 1er novembre 2026 ne porte le nom du candidat dans son titre.
 
+## Les Échos (lesechos.fr)
+
+Source : la recherche du site (`/recherche?order_by=relevance&search=<nom>&searchType=posts`), deux requêtes par candidat (le nom, puis le nom suivi de « présidentielle 2027 »). Le moteur ne renvoie que 20 résultats par requête, sans pagination : le relevé est donc partiel et ne garantit pas d'avoir tous les articles de la période. Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 et que le nom du candidat figure dans son titre. Voir la section 16 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 17 articles (relevé partiel).
+
+| Date (2026) | Titre |
+|---|---|
+| 31/10 | Présidentielle 2027 : Edouard Philippe, Raphaël Glucksmann et la quête fébrile de l'électorat modéré |
+| 29/10 | Edouard Philippe placé sous le statut de témoin assisté dans l'enquête pour détournement de fonds publics au Havre |
+| 29/10 | Présidentielle 2027 : avec sa « grande primaire », Gabriel Attal cherche à bousculer Edouard Philippe |
+| 22/10 | Présidentielle 2027 : à Charleville-Mézières, Edouard Philippe teste ses propositions pour les familles |
+| 21/10 | Présidentielle 2027 : Edouard Philippe et Gabriel Attal à la peine après les violences du 17 octobre |
+| 11/10 | Présidentielle 2027 : à Dijon, Edouard Philippe et Gabriel Attal appellent au rassemblement, sans dire comment |
+| 08/10 | Présidentielle 2027 : impôts, heures sup, familles… Edouard Philippe apporte une touche de sucré « après le salé des retraites » |
+| 08/10 | Edouard Philippe a-t-il raison de choisir la raison ? |
+| 29/09 | Présidentielle 2027 : pourquoi Edouard Philippe assume d'aller plus loin que les autres sur les retraites |
+| 22/09 | Présidentielle 2027 : Edouard Philippe, arrêtez de jouer la comédie |
+| 17/09 | Présidentielle 2027 : Edouard Philippe défend une vision de l'écologie compatible avec le capitalisme |
+| 08/09 | Présidentielle 2027 : Edouard Philippe passe à l'offensive pour réunir la droite et le centre |
+| 07/09 | Présidentielle 2027 : Edouard Philippe laboure à droite et continue d'asphyxier la candidature de Bruno Retailleau |
+| 27/08 | Présidentielle 2027 : Edouard Philippe veut marquer l'opinion avec ses propositions choc |
+| 19/07 | Présidentielle 2027 : depuis La Baule, fief de la droite, Edouard Philippe « envoie une carte postale » pour rassembler son camp |
+| 09/07 | SONDAGE EXCLUSIF - Présidentielle 2027 : Marine Le Pen largement en tête, avantage Edouard Philippe à droite et au centre |
+| 05/07 | Edouard Philippe : la politique repensée pour nos enfants |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=%C3%89douard+Philippe, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

@@ -560,6 +560,24 @@ Total : 0 article.
 
 Aucun article daté du 1er juillet au 1er novembre 2026 ne porte le nom du candidat dans son titre.
 
+## Les Échos (lesechos.fr)
+
+Source : la recherche du site (`/recherche?order_by=relevance&search=<nom>&searchType=posts`), deux requêtes par candidat (le nom, puis le nom suivi de « présidentielle 2027 »). Le moteur ne renvoie que 20 résultats par requête, sans pagination : le relevé est donc partiel et ne garantit pas d'avoir tous les articles de la période. Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 et que le nom du candidat figure dans son titre. Voir la section 16 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 9 articles (relevé partiel).
+
+| Date (2026) | Titre |
+|---|---|
+| 17/10 | Présidentielle 2027 : David Lisnard, une épine de plus pour Bruno Retailleau |
+| 16/10 | Présidentielle 2027 : Bruno Retailleau se livre sur ses « combats » dans l'« espoir » de remonter la pente |
+| 12/10 | Présidentielle 2027 - « C'est ça ou la Grèce… » : Bruno Retailleau promet un régime sec de 197 milliards d'euros d'économies |
+| 09/09 | Présidentielle 2027 : avec la suppression du droit du sol, Bruno Retailleau persiste dans la surenchère à droite |
+| 07/09 | Présidentielle 2027 : Edouard Philippe laboure à droite et continue d'asphyxier la candidature de Bruno Retailleau |
+| 04/09 | Présidentielle 2027 : Bruno Retailleau gêne le bloc central avec ses propositions sur la Constitution |
+| 31/08 | Présidentielle 2027 : la rentrée compliquée de Bruno Retailleau, sous pression des sondages |
+| 09/07 | Présidentielle 2027 : Bruno Retailleau mise sur l'économie pour tenter de contrer Marine Le Pen |
+| 07/07 | Présidentielle 2027 : à Station F, Bruno Retailleau se lance à son tour dans la « bataille de l'IA » |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Bruno+Retailleau, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

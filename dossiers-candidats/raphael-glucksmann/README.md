@@ -834,6 +834,25 @@ Total : 0 article.
 
 Aucun article daté du 1er juillet au 1er novembre 2026 ne porte le nom du candidat dans son titre.
 
+## Les Échos (lesechos.fr)
+
+Source : la recherche du site (`/recherche?order_by=relevance&search=<nom>&searchType=posts`), deux requêtes par candidat (le nom, puis le nom suivi de « présidentielle 2027 »). Le moteur ne renvoie que 20 résultats par requête, sans pagination : le relevé est donc partiel et ne garantit pas d'avoir tous les articles de la période. Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 et que le nom du candidat figure dans son titre. Voir la section 16 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 10 articles (relevé partiel).
+
+| Date (2026) | Titre |
+|---|---|
+| 31/10 | Présidentielle 2027 : Edouard Philippe, Raphaël Glucksmann et la quête fébrile de l'électorat modéré |
+| 15/10 | SONDAGE EXCLUSIF - Présidentielle 2027 : Glucksmann fait une percée, la deuxième place se joue dans un mouchoir |
+| 12/10 | Présidentielle 2027 : après la primaire, Raphaël Glucksmann face au laborieux défi de rassembler |
+| 12/10 | Présidentielle 2027 : Glucksmann, les inconnues des jours d'après |
+| 11/10 | « Ce soir, la bataille de France commence » : Raphaël Glucksmann remporte la primaire socialiste dès le premier tour |
+| 30/08 | Présidentielle 2027 : Olivier Faure se lance, Raphaël Glucksmann sur sa route |
+| 29/08 | Présidentielle 2027 : à Blois, le duel Glucksmann-Faure prend forme |
+| 24/08 | Présidentielle 2027 : le chemin escarpé de Raphaël Glucksmann, désormais candidat |
+| 23/08 | « Pour relever la France », Raphaël Glucksmann officialise sa candidature à la présidentielle 2027 |
+| 19/08 | Présidentielle 2027 : la candidature de Raphaël Glucksmann se précise |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Rapha%C3%ABl+Glucksmann, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

@@ -223,6 +223,17 @@ Total : 0 article.
 
 Aucun article daté du 1er juillet au 1er novembre 2026 ne porte le nom du candidat dans son titre.
 
+## Les Échos (lesechos.fr)
+
+Source : la recherche du site (`/recherche?order_by=relevance&search=<nom>&searchType=posts`), deux requêtes par candidat (le nom, puis le nom suivi de « présidentielle 2027 »). Le moteur ne renvoie que 20 résultats par requête, sans pagination : le relevé est donc partiel et ne garantit pas d'avoir tous les articles de la période. Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 et que le nom du candidat figure dans son titre. Voir la section 16 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 2 articles (relevé partiel).
+
+| Date (2026) | Titre |
+|---|---|
+| 07/09 | Présidentielle 2027 : le pari contesté de Fabien Roussel |
+| 06/09 | Fabien Roussel officialise sa candidature pour 2027 |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Fabien+Roussel, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

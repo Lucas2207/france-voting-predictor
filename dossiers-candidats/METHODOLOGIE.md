@@ -291,14 +291,34 @@ Pour garder une méthode commune avec les journaux, ARTE n'est pas intégré aux
 - Fabien Roussel : « Mon All Time, avec Robin Roussel » (21 juillet) est un homonyme et n'est pas retenu ;
 - les parties de la période affichées sans année sont supposées de 2026 : le tri par date les place avant les articles de 2025 et antérieurs.
 
-## 16. Ce qui n'est pas fait
+## 16. Les Échos (lesechos.fr)
+
+**Source :** la recherche du site, `https://www.lesechos.fr/recherche?order_by=relevance&search=<nom>&searchType=posts`. Cookies : le site propose seulement « Accepter » ou un abonnement payant ; « Accepter » a été retenu avec l'accord de l'utilisateur.
+
+**Limite majeure :** le moteur ne renvoie que **20 résultats par requête**, sans pagination (le paramètre `page` est ignoré, le défilement ne charge rien). Le tri par date ne permet pas de remonter à la période (il commence en novembre 2026), le filtre « Période de publication » se limite à aujourd'hui, une semaine ou un mois, les archives datées s'arrêtent à 2020 (`/2026/10/15` renvoie une erreur 404) et le plan de site n'est pas à jour. **Le moteur de recherche du site ne garantit donc pas d'obtenir tous les articles : le décompte est un minimum, pas un total.**
+
+**Relevé :**
+- deux requêtes par candidat, tri par pertinence : le nom (« Marine Le Pen »), puis le nom suivi de « présidentielle 2027 » ;
+- les résultats sont regroupés, puis attribués à chaque candidat dont le nom figure dans le titre (un article qui cite deux candidats compte pour chacun) ;
+- critères de période : l'article doit être daté du 1er juillet au 1er novembre 2026 ; les dates affichées sans année sont celles de 2026 ;
+- homonymes écartés : Philippe Besson, Philippe Brun (pour Édouard Philippe, le nom complet est exigé) ;
+- les articles réservés aux abonnés sont comptés quand leur titre est visible.
+
+**Résultat :** 85 lignes dans la période (un article qui cite deux candidats compte deux fois) ; Marine Le Pen (20) et Édouard Philippe (17) sont les plus couverts, puis Gabriel Attal (13), Raphaël Glucksmann (10) et Bruno Retailleau (9). Aucun titre de la période ne porte le nom de Villepin, François Ruffin, Nathalie Arthaud ni Nicolas Dupont-Aignan parmi les résultats renvoyés, ce qui ne prouve pas leur absence du journal.
+
+**Limites :**
+- un candidat très présent (Le Pen, Philippe) peut dépasser largement ce que les 40 résultats permettent de voir ;
+- le classement par pertinence mélange toutes les années (2022 à 2026) : une part des 20 résultats est hors période ;
+- le chapô n'est pas lu.
+
+## 17. Ce qui n'est pas fait
 
 - pas d'ouverture des articles un par un : le classement se base sur le titre et le chapô ou l'adresse ;
 - pas de couverture de BFMTV pour juillet à septembre 2026 ;
 - Dominique de Villepin et Teddy Riner (candidats ajoutés le 23 novembre 2026) ne sont relevés que pour les médias traités depuis (L'Équipe pour l'instant) ; Radio France, BFMTV, TF1, franceinfo, Le Monde, CNEWS, Libération, Ouest-France, Europe 1, La Dépêche, RMC, Sud Ouest, ARTE et Canal+ restent à faire pour eux ;
 - les dossiers Radio France ne sont pas tous à jour pour les personnalités sans page propre (Zemmour, Lisnard, Roussel) : ils sont couverts par les pages des autres personnalités citées dans les chapôs.
 
-## 17. Fichiers
+## 18. Fichiers
 
 - Dossiers par candidat : `dossiers-candidats/<nom>/README.md`
 - Tableaux Radio France : section « Radio France » de chaque dossier (les anciens fichiers `radio-france-<nom>-emissions.md` à la racine ont été supprimés une fois repris dans les dossiers)

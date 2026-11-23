@@ -676,6 +676,28 @@ Total : 1 article.
 |---|---|
 | 01/09 | L'ancienne présentatrice de « Stade 2 » Céline Géraud rejoint l'équipe de campagne de Gabriel Attal |
 
+## Les Échos (lesechos.fr)
+
+Source : la recherche du site (`/recherche?order_by=relevance&search=<nom>&searchType=posts`), deux requêtes par candidat (le nom, puis le nom suivi de « présidentielle 2027 »). Le moteur ne renvoie que 20 résultats par requête, sans pagination : le relevé est donc partiel et ne garantit pas d'avoir tous les articles de la période. Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 et que le nom du candidat figure dans son titre. Voir la section 16 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 13 articles (relevé partiel).
+
+| Date (2026) | Titre |
+|---|---|
+| 29/10 | Présidentielle 2027 : avec sa « grande primaire », Gabriel Attal cherche à bousculer Edouard Philippe |
+| 28/10 | Présidentielle 2027 : Gabriel Attal défend un projet économique de « rupture » axé sur l'innovation |
+| 21/10 | Présidentielle 2027 : Edouard Philippe et Gabriel Attal à la peine après les violences du 17 octobre |
+| 14/10 | « La France doit arrêter de vivre à crédit » : la lettre de Gabriel Attal pour alerter les Français |
+| 11/10 | Présidentielle 2027 : à Dijon, Edouard Philippe et Gabriel Attal appellent au rassemblement, sans dire comment |
+| 10/10 | « Elle est la fougue, le courage » : à Lyon, Attal se pose en candidat de la jeunesse pour contrer Mélenchon à la présidentielle 2027 |
+| 04/10 | Présidentielle 2027 : Gabriel Attal tente de reprendre la main en poussant l'idée d'une primaire |
+| 21/09 | Présidentielle 2027 : malgré une campagne tous azimuts, Gabriel Attal ne décolle pas |
+| 25/08 | Présidentielle 2027 : Benjamin Huin Morales, maire et architecte du programme de Gabriel Attal |
+| 08/08 | « Deepfakes, faux reportages vidéo » : Gabriel Attal porte plainte et dénonce une ingérence russe en vue de la présidentielle 2027 |
+| 05/08 | Présidentielle 2027 : au coeur de l'été, Gabriel Attal envoie des cartes postales à la droite |
+| 24/07 | Présidentielle 2027 : Gabriel Attal, un « challenger » en campagne tout l'été |
+| 15/07 | Présidentielle 2027 : « Pour la France, la renaissance », le parti de Gabriel Attal attaque le RN pour « contrefaçon » |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Gabriel+Attal, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

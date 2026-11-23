@@ -858,6 +858,21 @@ Total : 0 article.
 
 Aucun article daté du 1er juillet au 1er novembre 2026 ne porte le nom du candidat dans son titre.
 
+## Les Échos (lesechos.fr)
+
+Source : la recherche du site (`/recherche?order_by=relevance&search=<nom>&searchType=posts`), deux requêtes par candidat (le nom, puis le nom suivi de « présidentielle 2027 »). Le moteur ne renvoie que 20 résultats par requête, sans pagination : le relevé est donc partiel et ne garantit pas d'avoir tous les articles de la période. Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 et que le nom du candidat figure dans son titre. Voir la section 16 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 6 articles (relevé partiel).
+
+| Date (2026) | Titre |
+|---|---|
+| 27/10 | Présidentielle 2027 : Mélenchon ou la peur de mourir |
+| 10/10 | « Elle est la fougue, le courage » : à Lyon, Attal se pose en candidat de la jeunesse pour contrer Mélenchon à la présidentielle 2027 |
+| 29/09 | Loyers encadrés, réquisitions, subventions : Jean-Luc Mélenchon dévoile à son tour ses propositions pour le logement |
+| 12/09 | Présidentielle 2027 : Mélenchon règle ses comptes avec les détracteurs de son projet économique |
+| 21/08 | Dette : pourquoi l'annulation proposée par Jean-Luc Mélenchon ne peut pas fonctionner |
+| 25/07 | Présidentielle 2027 : Jean-Luc Mélenchon toujours déterminé à rallier les Ecologistes à sa candidature |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Jean-Luc+M%C3%A9lenchon, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.
