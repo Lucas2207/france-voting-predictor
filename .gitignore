@@ -1,3 +1,6 @@
 __pycache__/
 *.pyc
 .venv/
+
+# Données locales, non publiées (liste des entretiens repérés)
+data/local/

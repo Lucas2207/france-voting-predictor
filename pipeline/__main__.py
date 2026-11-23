@@ -240,6 +240,8 @@ def main():
     # 5. Modèle et sortie
     days = {d: news.load_day(d) for d in news.all_days()}
     survey = _load(Path("data/medias_candidats.json"), {"rows": []})
+    # Liste des entretiens repérés : pour nous seulement, pas publiée sur la page
+    _save(Path("data/local/entretiens_reperes.json"), {"entretiens": interview_titles.find_interviews(days, candidates)})
     history, projection = model.build(poll_data["polls"], days, candidates, today,
                                       history_start=today - timedelta(days=HISTORY_DAYS),
                                       dossier_rows=survey["rows"])
@@ -286,7 +288,6 @@ def main():
         "polls": [p for p in poll_data["polls"] if p["end_date"] >= (today - timedelta(days=HISTORY_DAYS)).isoformat()],
         "media_daily": model.daily_media(days, candidates),
         "media_monthly": model.monthly_subjects(days, candidates),
-        "interviews_found": interview_titles.find_interviews(days, candidates),
         "medias_candidats": survey,
         "media_by_outlet": model.outlet_matrix(days, candidates, today, window=(today - START_DATE).days + 1),
         "events": all_events[:40],
