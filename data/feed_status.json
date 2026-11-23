@@ -106,8 +106,8 @@
  },
  {
   "outlet": "Europe 1",
-  "ok": true,
-  "items": 50
+  "ok": false,
+  "error": "404 Client Error: Not Found for url: https://www.europe1.fr/rss.xml"
  },
  {
   "outlet": "Sud Radio",
@@ -127,7 +127,7 @@
  {
   "outlet": "Google Actualités (recherche par candidat)",
   "ok": true,
-  "items": 4914,
+  "items": 4553,
   "error": null
  }
 ]
