@@ -666,6 +666,16 @@ Total : 1 contenu.
 |---|---|
 | 01/09 | Gabriel Attal répond aux questions de Rémy Buisine sur Brut |
 
+## L'Équipe (lequipe.fr)
+
+Source : la recherche du site, https://www.lequipe.fr/recherche/?q=<nom>&f=publishedAt&o=desc (tri par date, liste chargée par défilement jusqu'à une date antérieure au 1er juillet 2026). Un article est compté si le nom du candidat figure dans son titre ; le chapô n'est pas relevé. Les homonymes sont écartés. Voir la section 15 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 1 article.
+
+| Date (2026) | Titre |
+|---|---|
+| 01/09 | L'ancienne présentatrice de « Stade 2 » Céline Géraud rejoint l'équipe de campagne de Gabriel Attal |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Gabriel+Attal, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

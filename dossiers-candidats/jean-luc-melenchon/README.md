@@ -850,6 +850,14 @@ Total : 1 contenu.
 |---|---|
 | 01/09 | Jean-Luc Mélenchon répond aux questions de Rémy Buisine sur Brut |
 
+## L'Équipe (lequipe.fr)
+
+Source : la recherche du site, https://www.lequipe.fr/recherche/?q=<nom>&f=publishedAt&o=desc (tri par date, liste chargée par défilement jusqu'à une date antérieure au 1er juillet 2026). Un article est compté si le nom du candidat figure dans son titre ; le chapô n'est pas relevé. Les homonymes sont écartés. Voir la section 15 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 0 article.
+
+Aucun article daté du 1er juillet au 1er novembre 2026 ne porte le nom du candidat dans son titre.
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Jean-Luc+M%C3%A9lenchon, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

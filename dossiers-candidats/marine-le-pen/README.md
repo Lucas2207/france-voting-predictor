@@ -1359,6 +1359,16 @@ Total : 0 contenus.
 
 Aucun contenu des onglets « Info », « Divertissement » ou « Docs » ne porte le nom du candidat dans son titre.
 
+## L'Équipe (lequipe.fr)
+
+Source : la recherche du site, https://www.lequipe.fr/recherche/?q=<nom>&f=publishedAt&o=desc (tri par date, liste chargée par défilement jusqu'à une date antérieure au 1er juillet 2026). Un article est compté si le nom du candidat figure dans son titre ; le chapô n'est pas relevé. Les homonymes sont écartés. Voir la section 15 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 1 article.
+
+| Date (2026) | Titre |
+|---|---|
+| 17/10 | Le défenseur du PSG Illia Zabarnyi prend position après les déclarations de Marine Le Pen : « J'espère que le nouveau président continuera d'aider l'Ukraine » |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Marine+Le+Pen, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

@@ -272,13 +272,33 @@ Pour garder une méthode commune avec les journaux, ARTE n'est pas intégré aux
 - la recherche renvoie un catalogue de programmes (environ 100 résultats par requête, « améliorés grâce à l'IA »), où la plupart des résultats n'ont aucun lien avec le nom saisi : le relevé peut être incomplet ;
 - une page de programme (comme « BFM Politique Mag. ») n'est pas comptée, car elle ne donne pas la liste des épisodes qui citent le candidat.
 
-## 15. Ce qui n'est pas fait
+## 15. L'Équipe (lequipe.fr)
+
+**Source :** la recherche du site, `https://www.lequipe.fr/recherche/?q=<nom>&f=publishedAt&o=desc`. Le tri par date (« les plus récents ») donne les résultats du plus récent au plus ancien ; la liste se charge par blocs de 30 quand on fait défiler la page.
+
+**Relevé :**
+- chargement de la liste jusqu'à une entrée antérieure au 1er juillet 2026 ;
+- les dates sans année sont celles de l'année en cours (2026) ;
+- sont retenus les articles datés du 1er juillet au 1er novembre 2026 dont le nom du candidat figure dans le titre. Les doublons (même titre, même date, souvent une vidéo et un article) sont comptés une fois ;
+- Marine Le Pen : requête « Marine Le Pen » ; Édouard Philippe : « Édouard Philippe » ; les autres candidats : le nom de famille.
+
+**Résultat :** 3 candidats ont des articles dans la période : Teddy Riner (22), Marine Le Pen (1) et Gabriel Attal (1). Aucun résultat pour les autres ; la recherche « Polony » ne renvoie rien.
+
+**Limites :**
+- le chapô n'est pas lu, seul le titre compte ;
+- le moteur renvoie aussi des articles où le nom n'est cité que dans le texte : ils ne sont pas retenus ;
+- Teddy Riner étant judoka, la plupart de ses articles de la période portent sur sa carrière sportive, pas sur la politique : sa candidature n'est annoncée que le 9 novembre 2026, après la période ;
+- Fabien Roussel : « Mon All Time, avec Robin Roussel » (21 juillet) est un homonyme et n'est pas retenu ;
+- les parties de la période affichées sans année sont supposées de 2026 : le tri par date les place avant les articles de 2025 et antérieurs.
+
+## 16. Ce qui n'est pas fait
 
 - pas d'ouverture des articles un par un : le classement se base sur le titre et le chapô ou l'adresse ;
 - pas de couverture de BFMTV pour juillet à septembre 2026 ;
+- Dominique de Villepin et Teddy Riner (candidats ajoutés le 23 novembre 2026) ne sont relevés que pour les médias traités depuis (L'Équipe pour l'instant) ; Radio France, BFMTV, TF1, franceinfo, Le Monde, CNEWS, Libération, Ouest-France, Europe 1, La Dépêche, RMC, Sud Ouest, ARTE et Canal+ restent à faire pour eux ;
 - les dossiers Radio France ne sont pas tous à jour pour les personnalités sans page propre (Zemmour, Lisnard, Roussel) : ils sont couverts par les pages des autres personnalités citées dans les chapôs.
 
-## 16. Fichiers
+## 17. Fichiers
 
 - Dossiers par candidat : `dossiers-candidats/<nom>/README.md`
 - Tableaux Radio France : section « Radio France » de chaque dossier (les anciens fichiers `radio-france-<nom>-emissions.md` à la racine ont été supprimés une fois repris dans les dossiers)
