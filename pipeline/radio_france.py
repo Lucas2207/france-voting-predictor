@@ -27,6 +27,8 @@ DOSSIERS = {
     "retailleau": "bruno-retailleau", "lisnard": "david-lisnard", "roussel": "fabien-roussel",
     "arthaud": "nathalie-arthaud", "ruffin": "francois-ruffin", "dupontaignan": "nicolas-dupont-aignan",
     "polony": "natacha-polony",
+    "villepin": "dominique-de-villepin",
+    "riner": "teddy-riner",
 }
 
 
