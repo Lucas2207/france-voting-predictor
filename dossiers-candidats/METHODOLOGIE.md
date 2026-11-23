@@ -255,13 +255,30 @@ Relevé le 1er novembre 2026. Période visée : du 1er juillet 2026 à aujourd'h
 
 Pour garder une méthode commune avec les journaux, ARTE n'est pas intégré aux dossiers : aucune ligne ARTE n'y figure.
 
-## 14. Ce qui n'est pas fait
+## 14. Canal+ (canalplus.com)
+
+**Source :** la recherche du site (icône de loupe du menu), saisie du nom du candidat. La page ne change pas d'adresse : les résultats s'affichent dans le navigateur, par onglets (Meilleurs résultats, Cinéma, Séries, Jeunesse, Docs, Divertissement, Info). Le bandeau de cookies a été fermé sans accepter (« Continue without agreeing »).
+
+**Périmètre :** seuls les onglets Info, Divertissement et Docs sont lus. Les autres sont de la fiction.
+
+**Relevé :**
+- pour chaque candidat, les contenus de ces trois onglets dont le titre contient le nom sont retenus ;
+- la date est la date de mise en ligne (`uploadDate`) lue sur la page du contenu ; seuls les contenus datés du 1er juillet au 1er novembre 2026 sont comptés ;
+- il s'agit de contenus audiovisuels (interviews, documentaires), et non d'articles : le décompte n'est pas comparable à celui des journaux.
+
+**Résultat :** trois contenus dans la période : l'interview de Jean-Luc Mélenchon par Rémy Buisine sur Brut (1er septembre), celle de Gabriel Attal (1er septembre) et le documentaire « Bruno Retailleau, l'homme de Beauvau » (23 octobre). Aucun contenu pour les dix autres candidats.
+
+**Limites :**
+- la recherche renvoie un catalogue de programmes (environ 100 résultats par requête, « améliorés grâce à l'IA »), où la plupart des résultats n'ont aucun lien avec le nom saisi : le relevé peut être incomplet ;
+- une page de programme (comme « BFM Politique Mag. ») n'est pas comptée, car elle ne donne pas la liste des épisodes qui citent le candidat.
+
+## 15. Ce qui n'est pas fait
 
 - pas d'ouverture des articles un par un : le classement se base sur le titre et le chapô ou l'adresse ;
 - pas de couverture de BFMTV pour juillet à septembre 2026 ;
 - les dossiers Radio France ne sont pas tous à jour pour les personnalités sans page propre (Zemmour, Lisnard, Roussel) : ils sont couverts par les pages des autres personnalités citées dans les chapôs.
 
-## 15. Fichiers
+## 16. Fichiers
 
 - Dossiers par candidat : `dossiers-candidats/<nom>/README.md`
 - Tableaux Radio France : section « Radio France » de chaque dossier (les anciens fichiers `radio-france-<nom>-emissions.md` à la racine ont été supprimés une fois repris dans les dossiers)

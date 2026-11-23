@@ -656,6 +656,16 @@ Total : 39 articles.
 
 **Recherche impossible.** La recherche d'ARTE renvoie une vingtaine de programmes, sans pagination et presque sans date : ARTE n'est donc pas intégré au décompte des articles de ce dossier (voir la section 13 de [METHODOLOGIE.md](../METHODOLOGIE.md)).
 
+## Canal+ (canalplus.com)
+
+Source : la recherche du site (loupe du menu), avec le nom du candidat ; seuls les onglets « Info », « Divertissement » et « Docs » sont lus, les autres (cinéma, séries, jeunesse) étant de la fiction. La date est celle de mise en ligne lue sur la page du contenu. Un contenu est compté si le nom du candidat figure dans son titre. Il s'agit d'interviews et de documentaires, pas d'articles (voir la section 14 de [METHODOLOGIE.md](../METHODOLOGIE.md)).
+
+Total : 1 contenu.
+
+| Date (2026) | Titre |
+|---|---|
+| 01/09 | Gabriel Attal répond aux questions de Rémy Buisine sur Brut |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Gabriel+Attal, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.
