@@ -203,6 +203,10 @@ Total : 5 articles.
 | 22/08 | Présidentielle 2027 : Fabien Roussel veut « se débarrasser » de la politique d’Emmanuel Macron et appelle « à une véritable révolution sociale et écologique » |
 | 05/07 | Fabien Roussel a été réélu ce dimanche à la tête du Parti communiste français, et bientôt candidat à l’élection présidentielle de 2027 ? |
 
+## ARTE (arte.tv)
+
+**Recherche impossible.** La recherche d'ARTE renvoie une vingtaine de programmes, sans pagination et presque sans date : ARTE n'est donc pas intégré au décompte des articles de ce dossier (voir la section 13 de [METHODOLOGIE.md](../METHODOLOGIE.md)).
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Fabien+Roussel, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

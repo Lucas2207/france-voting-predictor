@@ -836,6 +836,10 @@ Total : 47 articles.
 | 05/07 | Présidentielle 2027 : Jean-Luc Mélenchon se dit capable « d’éliminer » le candidat du RN, « peut-être » même dès le premier tour |
 | 03/07 | Dématérialisation des jeux sur PlayStation : Jean-Luc Mélenchon dénonce un « triomphe de la marchandisation totale » |
 
+## ARTE (arte.tv)
+
+**Recherche impossible.** La recherche d'ARTE renvoie une vingtaine de programmes, sans pagination et presque sans date : ARTE n'est donc pas intégré au décompte des articles de ce dossier (voir la section 13 de [METHODOLOGIE.md](../METHODOLOGIE.md)).
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Jean-Luc+M%C3%A9lenchon, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

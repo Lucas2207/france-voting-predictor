@@ -166,6 +166,10 @@ Total : 1 article.
 |---|---|
 | 19/09 | Présidentielle 2027 : Nicolas Dupont-Aignan promet de « décoloniser la France » en sortant de l’Union européenne |
 
+## ARTE (arte.tv)
+
+**Recherche impossible.** La recherche d'ARTE renvoie une vingtaine de programmes, sans pagination et presque sans date : ARTE n'est donc pas intégré au décompte des articles de ce dossier (voir la section 13 de [METHODOLOGIE.md](../METHODOLOGIE.md)).
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Nicolas+Dupont-Aignan, parcouru jusqu'au 1er juillet 2026.

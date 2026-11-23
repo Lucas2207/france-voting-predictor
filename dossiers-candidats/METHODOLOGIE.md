@@ -244,13 +244,24 @@ Relevé le 1er novembre 2026. Période visée : du 1er juillet 2026 à aujourd'h
 
 **Contrôles :** le nombre de lignes de chaque section Sud Ouest est comparé au total annoncé dans le dossier.
 
-## 13. Ce qui n'est pas fait
+## 13. ARTE (arte.tv) : non intégré
+
+**Source :** le champ de recherche du site, `https://www.arte.tv/fr/search?q=<nom>`. Le bandeau de cookies a été refusé.
+
+**Pourquoi ARTE n'est pas dans le décompte :**
+- ARTE est une plateforme de programmes (documentaires, émissions, fictions), et non un journal publiant des articles. Les résultats sont des émissions et des vidéos ;
+- la recherche renvoie une vingtaine de liens au maximum, sans pagination ni « voir plus ». Pour Jean-Luc Mélenchon, 25 liens et un seul daté (janvier 2024) ; pour Marine Le Pen, 25 environ, dont 3 émissions datées de la période (« 28 minutes » du 4 septembre, du 16 octobre et du 30 octobre 2026), mais la liste n'est pas exhaustive ;
+- la page brute du site ne change pas avec la requête : seul le champ de recherche rend des résultats, et leur nombre ne permet pas de couvrir la période.
+
+Pour garder une méthode commune avec les journaux, ARTE n'est pas intégré aux dossiers : aucune ligne ARTE n'y figure.
+
+## 14. Ce qui n'est pas fait
 
 - pas d'ouverture des articles un par un : le classement se base sur le titre et le chapô ou l'adresse ;
 - pas de couverture de BFMTV pour juillet à septembre 2026 ;
 - les dossiers Radio France ne sont pas tous à jour pour les personnalités sans page propre (Zemmour, Lisnard, Roussel) : ils sont couverts par les pages des autres personnalités citées dans les chapôs.
 
-## 14. Fichiers
+## 15. Fichiers
 
 - Dossiers par candidat : `dossiers-candidats/<nom>/README.md`
 - Tableaux Radio France : section « Radio France » de chaque dossier (les anciens fichiers `radio-france-<nom>-emissions.md` à la racine ont été supprimés une fois repris dans les dossiers)

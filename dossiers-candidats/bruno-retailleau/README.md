@@ -538,6 +538,10 @@ Total : 24 articles.
 | 01/07 | Présidentielle 2027 : Laurent Wauquiez porte un coup à la candidature de Bruno Retailleau en tendant la main à Édouard Philippe |
 | 01/07 | Présidentielle 2027 : Bruno Retailleau se dit favorable à la suppression du droit du sol |
 
+## ARTE (arte.tv)
+
+**Recherche impossible.** La recherche d'ARTE renvoie une vingtaine de programmes, sans pagination et presque sans date : ARTE n'est donc pas intégré au décompte des articles de ce dossier (voir la section 13 de [METHODOLOGIE.md](../METHODOLOGIE.md)).
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Bruno+Retailleau, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

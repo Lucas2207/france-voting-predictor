@@ -652,6 +652,10 @@ Total : 39 articles.
 | 23/07 | Présidentielle 2027 : en visite en Bretagne, Gabriel Attal appelle à un « choc des salaires » |
 | 15/07 | Présidentielle 2027 : Marine Le Pen utilise le mot « Renaissance » sur son affiche électorale, Gabriel Attal l’assigne pour « contrefaçon » |
 
+## ARTE (arte.tv)
+
+**Recherche impossible.** La recherche d'ARTE renvoie une vingtaine de programmes, sans pagination et presque sans date : ARTE n'est donc pas intégré au décompte des articles de ce dossier (voir la section 13 de [METHODOLOGIE.md](../METHODOLOGIE.md)).
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Gabriel+Attal, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

@@ -200,6 +200,10 @@ Total : 5 articles.
 | 03/09 | Présidentielle 2027 : Éric Zemmour prévoit d’annoncer sa candidature « avant décembre » |
 | 07/07 | Violation des valeurs de l’UE : les eurodéputés lancent une procédure contre la famille politique d’Eric Zemmour, une première |
 
+## ARTE (arte.tv)
+
+**Recherche impossible.** La recherche d'ARTE renvoie une vingtaine de programmes, sans pagination et presque sans date : ARTE n'est donc pas intégré au décompte des articles de ce dossier (voir la section 13 de [METHODOLOGIE.md](../METHODOLOGIE.md)).
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=%C3%89ric+Zemmour, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.
