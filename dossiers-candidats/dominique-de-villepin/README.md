@@ -187,3 +187,13 @@ Total : 6 article(s) (6 par le titre, 0 par le chapô seul).
 | 30/08 | Pour Dominique de Villepin, la « surenchère » d'Édouard Philippe « fait le jeu » de Marine Le Pen |
 | 27/07 | Affaire des statuettes : Dominique de Villepin a été entendu en audition libre mi-juillet |
 | 16/07 | Il sert de grands vins à Dominique de Villepin ou Thierry Henry : le Bressan Victor Petiot est devenu Meilleur sommelier du monde |
+
+## La Voix du Nord (lavoixdunord.fr)
+
+Source : la recherche d'archives du site (`/archives/recherche?datefilter=lastyear&sort=date+desc&word=<nom>&start=<n>`, triée par date décroissante), pages parcourues jusqu'aux articles antérieurs au 1er juillet 2026, relevé le 24 novembre 2026. Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 (date affichée) et que le nom du candidat figure dans son **titre** ; un article qui cite plusieurs candidats compte pour chacun. Voir la section 27 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 1 article(s) (1 par le titre).
+
+| Date (2026) | Titre |
+|---|---|
+| 27/07 | Dominique de Villepin a été entendu en audition libre dans le cadre de l’enquête sur les statuettes de Napoléon |

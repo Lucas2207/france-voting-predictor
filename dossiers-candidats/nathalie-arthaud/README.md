@@ -255,6 +255,19 @@ Total : 0 article(s) (0 par le titre, 0 par le chapô seul).
 | Date (2026) | Titre |
 |---|---|
 
+## La Voix du Nord (lavoixdunord.fr)
+
+Source : la recherche d'archives du site (`/archives/recherche?datefilter=lastyear&sort=date+desc&word=<nom>&start=<n>`, triée par date décroissante), pages parcourues jusqu'aux articles antérieurs au 1er juillet 2026, relevé le 24 novembre 2026. Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 (date affichée) et que le nom du candidat figure dans son **titre** ; un article qui cite plusieurs candidats compte pour chacun. Voir la section 27 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 4 article(s) (4 par le titre).
+
+| Date (2026) | Titre |
+|---|---|
+| 01/11 | Nathalie Arthaud et Lutte ouvrière en meeting à Roubaix le mardi 3 novembre |
+| 22/10 | Nathalie Arthaud, candidate de Lutte ouvrière à la présidentielle, à Valenciennes le 5 novembre |
+| 11/10 | Une réunion publique avec Nathalie Arthaud à Maubeuge le 15 octobre |
+| 10/10 | Nathalie Arthaud, à nouveau candidate de Lutte ouvrière à l’élection présidentielle, à Douai le 14 octobre |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Nathalie+Arthaud, parcouru jusqu'au 1er juillet 2026.

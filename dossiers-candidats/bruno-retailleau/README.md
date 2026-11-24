@@ -804,6 +804,20 @@ Total : 13 article(s) (12 par le titre, 1 par le chapô seul).
 | 09/07 | Après une polémique, un ministre annule une réception pour l'adoption de la loi sur la fin de vie |
 | 01/07 | « Il faut savoir se retirer » : Wauquiez tance Retailleau et tend la main à Philippe |
 
+## La Voix du Nord (lavoixdunord.fr)
+
+Source : la recherche d'archives du site (`/archives/recherche?datefilter=lastyear&sort=date+desc&word=<nom>&start=<n>`, triée par date décroissante), pages parcourues jusqu'aux articles antérieurs au 1er juillet 2026, relevé le 24 novembre 2026. Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 (date affichée) et que le nom du candidat figure dans son **titre** ; un article qui cite plusieurs candidats compte pour chacun. Voir la section 27 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 5 article(s) (5 par le titre).
+
+| Date (2026) | Titre |
+|---|---|
+| 16/10 | « Un lifting » : les LR piratés, le parti de Bruno Retailleau a malgré lui appelé à manifester ce samedi 17 octobre |
+| 12/10 | Un tweet menaçant Bruno Retailleau vaut 500 euros d’amende à un Béthunois |
+| 13/09 | Le maire de Marck Pierre-Henri Dumont porte-parole du candidat à la présidentielle Bruno Retailleau |
+| 08/09 | Présidentielle : Philippe veut organiser une réunion « du Modem à Nouvelle Énergie », Retailleau dit qu’il n’ira pas |
+| 01/07 | Présidentielle 2027 : Laurent Wauquiez fait un pas vers Édouard Philippe malgré la candidature de Bruno Retailleau chez LR |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Bruno+Retailleau, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

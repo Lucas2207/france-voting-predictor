@@ -2124,6 +2124,39 @@ Total : 60 article(s) (53 par le titre, 7 par le chapô seul).
 | 04/07 | « Total soutien » : Bardella « espère » voir Marine Le Pen élue à l'élection présidentielle |
 | 01/07 | Marine Le Pen n'estime « pas possible » de faire campagne avec un bracelet électronique |
 
+## La Voix du Nord (lavoixdunord.fr)
+
+Source : la recherche d'archives du site (`/archives/recherche?datefilter=lastyear&sort=date+desc&word=<nom>&start=<n>`, triée par date décroissante), pages parcourues jusqu'aux articles antérieurs au 1er juillet 2026, relevé le 24 novembre 2026. Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 (date affichée) et que le nom du candidat figure dans son **titre** ; un article qui cite plusieurs candidats compte pour chacun. Voir la section 27 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 24 article(s) (24 par le titre).
+
+| Date (2026) | Titre |
+|---|---|
+| 25/10 | Congrès du RN : Marine Le Pen lance sa campagne sur le thème de « la renaissance pour la France » |
+| 14/10 | Présidentielle : le duel Le Pen - Mélenchon se dessine dans une France plongée dans l’indécision |
+| 04/10 | Messages antisémites : « totalement confiance en Jordan », Marine Le Pen maintient son soutien à Bardella dans une courte déclaration |
+| 29/09 | Selon Marine Le Pen, Mediapart devrait « enfiler son costard en Kevlar », une députée saisit le procureur |
+| 13/09 | « Notre ambition est d’aller vers une société de propriétaires » : Marine Le Pen fait sa rentrée politique à Hénin-Beaumont |
+| 13/09 | François Hollande près des socialistes à Carvin… et pas très loin de Marine Le Pen |
+| 10/09 | Le Touquet : le RN organise sa rentrée parlementaire ce week-end, Marine Le Pen et Jordan Bardella attendus |
+| 05/09 | « Ça va très très bien » : du rififi avec Marine Le Pen, Jordan Bardella obligé de rassurer depuis l’Italie |
+| 21/07 | Piratages en série pour le Rassemblement national : le compte X de Marine Le Pen visé, le site du parti plus tôt dans la journée |
+| 16/07 | Interdiction du voile : pourquoi la promesse de Marine Le Pen est quasi impossible à tenir |
+| 15/07 | Marine Le Pen : le parquet général ne se pourvoira pas en cassation, contrairement à la candidate RN |
+| 09/07 | « Elle joue la montre » : inéligibilité, cassation… le politologue Benjamin Morel décrypte la stratégie de Marine Le Pen |
+| 08/07 | « Je ne dirais pas que je ferme les yeux mais… » : Marine Le Pen candidate, des électeurs entre soutien et dégoût de la politique |
+| 08/07 | Condamnation de Marine Le Pen : la Cour de cassation pense pouvoir se prononcer avant avril 2027 |
+| 08/07 | Chaleur étouffante et nerfs à vif : dans les coulisses du jugement de Marine Le Pen |
+| 07/07 | « Je suis candidate à l’élection présidentielle » : ce qu’a annoncé Marine Le Pen au 20 Heures de TF1 |
+| 07/07 | « Je suis candidate » : le pari présidentiel risqué de Marine Le Pen |
+| 07/07 | VIDÉO. Marine Le Pen et le Nord - Pas-de-Calais : retour sur 25 ans d’histoire à l’heure du verdict du procès des assistants parlementaires |
+| 07/07 | Relaxe, inéligibilité, cassation… : quels sont les scénarios possibles du délibéré du procès de Marine Le Pen ? |
+| 07/07 | Marine Le Pen condamnée mais candidate à l’élection présidentielle |
+| 07/07 | Le camp Le Pen « combatif », ses adversaires attaquent sur la « probité » |
+| 06/07 | Le verdict du procès des assistants parlementaires du FN ce mardi pourrait barrer la route de la présidentielle à Marine Le Pen |
+| 03/07 | Marine Le Pen et Jordan Bardella annoncés à Liévin pour une « fête champêtre » du RN du Pas-de-Calais |
+| 01/07 | Marine Le Pen n’a « pas peur » de son jugement mais ne fera pas campagne avec un bracelet électronique |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Marine+Le+Pen, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

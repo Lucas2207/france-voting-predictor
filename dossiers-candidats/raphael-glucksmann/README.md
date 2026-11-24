@@ -1238,6 +1238,30 @@ Total : 25 article(s) (22 par le titre, 3 par le chapô seul).
 | 04/08 | Vidéos truquées : Raphaël Glucksmann dénonce une opération russe de « déstabilisation » le visant |
 | 03/08 | Raphaël Glucksmann, Léa Salamé et Edwy Plenel et Salomé Saqué victimes de vidéos truquées |
 
+## La Voix du Nord (lavoixdunord.fr)
+
+Source : la recherche d'archives du site (`/archives/recherche?datefilter=lastyear&sort=date+desc&word=<nom>&start=<n>`, triée par date décroissante), pages parcourues jusqu'aux articles antérieurs au 1er juillet 2026, relevé le 24 novembre 2026. Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 (date affichée) et que le nom du candidat figure dans son **titre** ; un article qui cite plusieurs candidats compte pour chacun. Voir la section 27 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 15 article(s) (15 par le titre).
+
+| Date (2026) | Titre |
+|---|---|
+| 26/10 | « Pourquoi moi ? » : Raphaël Glucksmann se dit victime d’une «campagne de harcèlement» de LFI, « ce n’est pas vrai », dit le parti |
+| 15/10 | Bientôt la création d’une section du parti de Raphaël Glucksmann Place publique dans le Calaisis |
+| 12/10 | Raphaël Glucksmann candidat à la présidentielle : le PS de Calais croit en un nouvel élan à gauche |
+| 11/10 | Présidentielle : plébiscité par la primaire, Raphaël Glucksmann désormais au défi de l’union de la gauche |
+| 11/10 | Présidentielle 2027 : Raphaël Glucksmann remporte la primaire de la gauche dès le premier tour |
+| 08/10 | Primaire de la gauche : à la veille du premier tour, Raphaël Glucksmann est favori... mais ne convainc pas complètement |
+| 26/09 | Raphaël Glucksmann, candidat à la présidentielle, s’est rendu à la rencontre des habitants d’Hornaing |
+| 25/09 | « Une stratégie funeste » : Yannick Jadot suspendu des Écologistes après son soutien à Raphaël Glucksmann |
+| 21/09 | « Stagiaire » en politique : Ségolène Royal recadrée par la commission après son attaque contre Raphaël Glucksmann, qui riposte |
+| 26/08 | Primaire de la gauche : le PS et Raphaël Glucksmann s’accordent, sans effacer leurs divergences |
+| 24/08 | « Évident et difficile » : Léa Salamé se retire du 20h de France 2 après la candidature de son compagnon Raphaël Glucksmann |
+| 23/08 | Élection présidentielle : Raphaël Glucksmann annonce sa candidature en passant par une primaire socialiste |
+| 18/08 | Raphaël Glucksmann pourrait officialiser sa candidature à l’élection présidentielle dans les prochains jours |
+| 07/08 | Philippe, Glucksmann, Attal… : que faire contre les ingérences russes qui se multiplient avant la présidentielle ? |
+| 04/08 | « Une attaque du groupe Storm-1516 » : Raphaël Glucksmann visé par des fake news russes |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Rapha%C3%ABl+Glucksmann, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

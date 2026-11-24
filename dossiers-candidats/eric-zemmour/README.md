@@ -381,6 +381,19 @@ Total : 6 article(s) (4 par le titre, 2 par le chapô seul).
 | 13/09 | Marine Le Pen met l'accent sur le logement, Éric Zemmour prépare sa candidature |
 | 05/07 | Marche blanche pour Louis : des milliers de personnes rassemblées, les adieux d'une mère à son fils |
 
+## La Voix du Nord (lavoixdunord.fr)
+
+Source : la recherche d'archives du site (`/archives/recherche?datefilter=lastyear&sort=date+desc&word=<nom>&start=<n>`, triée par date décroissante), pages parcourues jusqu'aux articles antérieurs au 1er juillet 2026, relevé le 24 novembre 2026. Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 (date affichée) et que le nom du candidat figure dans son **titre** ; un article qui cite plusieurs candidats compte pour chacun. Voir la section 27 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 4 article(s) (4 par le titre).
+
+| Date (2026) | Titre |
+|---|---|
+| 03/10 | « + d’amour, – de Zemmour » : des dizaines de milliers de personnes défilent à Paris pour les droits LGBT+ |
+| 18/09 | « L’appel à la haine », du « fiel raciste » : Mbappé est devenu la cible de Zemmour sur BFMTV, l’Arcom est saisi |
+| 18/09 | « Je suis candidat » : Éric Zemmour confirme qu’il participera à la prochaine élection présidentielle |
+| 05/07 | Benoît de Sinety : « Je m’oppose à des gens qui se disent chrétiens comme Vincent Bolloré ou Éric Zemmour » |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=%C3%89ric+Zemmour, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

@@ -1324,6 +1324,25 @@ Total : 35 article(s) (33 par le titre, 2 par le chapô seul).
 | 03/07 | « Reprenons le contrôle » : Jean-Luc Mélenchon critique la fin des jeux physiques sur PlayStation |
 | 02/07 | « Elles sont dépassées » : Jean-Luc Mélenchon veut redessiner les régions |
 
+## La Voix du Nord (lavoixdunord.fr)
+
+Source : la recherche d'archives du site (`/archives/recherche?datefilter=lastyear&sort=date+desc&word=<nom>&start=<n>`, triée par date décroissante), pages parcourues jusqu'aux articles antérieurs au 1er juillet 2026, relevé le 24 novembre 2026. Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 (date affichée) et que le nom du candidat figure dans son **titre** ; un article qui cite plusieurs candidats compte pour chacun. Voir la section 27 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 10 article(s) (10 par le titre).
+
+| Date (2026) | Titre |
+|---|---|
+| 21/10 | Violences du 17 octobre : « On va te pourrir la réunion », Mélenchon prévient Lecornu alors que les partis sont invités à Matignon |
+| 17/10 | Violences en marge du 17 octobre : Lecornu et Mélenchon s’écharpent sur les responsabilités du chaos |
+| 14/10 | Présidentielle : le duel Le Pen - Mélenchon se dessine dans une France plongée dans l’indécision |
+| 05/10 | « Jean-Luc Mélenchon n’est pas Voldemort » : LFI au centre des débats de la primaire sociale-démocrate |
+| 10/09 | Le « Nobel d’économie » est-il un prix différent des autres, comme l’affirme Jean-Luc Mélenchon ? |
+| 06/09 | La Braderie de Lille, scène d’une démonstration de force de Jean-Luc Mélenchon |
+| 03/09 | Meeting de Jean-Luc Mélenchon prévu samedi à la Braderie : y a-t-il lieu à polémique ? |
+| 24/08 | Présidentielle 2027 : en clôture de son université d’été, Jean-Luc Mélenchon à l’offensive sur l’écologie et le budget |
+| 18/08 | « Je n’ai pas encensé le programme de Jean-Luc Mélenchon » : Monique Barbut refuse un débat avec LFI |
+| 09/07 | « C’est un moment-clé, on est à l’os » : Jean-Luc Mélenchon promet la « fin des coupes budgétaires » dans la culture s’il est élu |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Jean-Luc+M%C3%A9lenchon, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

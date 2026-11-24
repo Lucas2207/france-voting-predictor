@@ -203,3 +203,17 @@ Total : 5 article(s) (5 par le titre, 0 par le chapô seul).
 | 16/09 | Teddy Riner, de retour au Paris Saint-Germain : « Le maître mot, c’est patienter » |
 | 05/09 | « Un petit bout d'os qui se balade » : Teddy Riner déclare forfait pour les championnats du monde |
 | 03/07 | Le grand retour de Riner et Agbégnénou, Buchard non retenue... la liste des sélectionnés pour les Mondiaux |
+
+## La Voix du Nord (lavoixdunord.fr)
+
+Source : la recherche d'archives du site (`/archives/recherche?datefilter=lastyear&sort=date+desc&word=<nom>&start=<n>`, triée par date décroissante), pages parcourues jusqu'aux articles antérieurs au 1er juillet 2026, relevé le 24 novembre 2026. Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 (date affichée) et que le nom du candidat figure dans son **titre** ; un article qui cite plusieurs candidats compte pour chacun. Voir la section 27 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 5 article(s) (5 par le titre).
+
+| Date (2026) | Titre |
+|---|---|
+| 10/10 | « Ce n’est pas l’argent qui va me faire changer » : quel pont d’or refuse Teddy Riner alors qu’il est dragué par une autre discipline ? |
+| 24/09 | Judo : messages haineux ciblant Teddy Riner, une enquête ouverte pour injures publiques racistes et cyberharcèlement |
+| 23/09 | Teddy Riner visé par des messages haineux et racistes sur les réseaux sociaux : une enquête ouverte |
+| 19/09 | ANALYSE. Riner, Mbappé, Marchand : libres de se taire et libres de parler ? |
+| 17/09 | Teddy Riner : il y a quelque chose qui l’angoisse beaucoup plus que son épaule, « il faut appeler un chat un chat » |

@@ -1140,6 +1140,28 @@ Total : 27 article(s) (21 par le titre, 6 par le chapô seul).
 | 02/07 | Édouard Philippe et Gabriel Attal, deux hommes pour un « même espace politique » |
 | 01/07 | « Il faut savoir se retirer » : Wauquiez tance Retailleau et tend la main à Philippe |
 
+## La Voix du Nord (lavoixdunord.fr)
+
+Source : la recherche d'archives du site (`/archives/recherche?datefilter=lastyear&sort=date+desc&word=<nom>&start=<n>`, triée par date décroissante), pages parcourues jusqu'aux articles antérieurs au 1er juillet 2026, relevé le 24 novembre 2026. Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 (date affichée) et que le nom du candidat figure dans son **titre** ; un article qui cite plusieurs candidats compte pour chacun. Voir la section 27 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 13 article(s) (13 par le titre).
+
+| Date (2026) | Titre |
+|---|---|
+| 01/11 | « Je pense qu’elle n’aura pas lieu » : Édouard Philippe opposé à une primaire avant la présidentielle |
+| 29/10 | Soupçons de détournement de fonds publics : Édouard Philippe placé sous le statut de témoin assisté |
+| 13/10 | Édouard Philippe : « Le pronostic vital de l’automobile française est engagé » |
+| 05/09 | Tacle à Edouard Philippe, appel à l’union de la gauche… les messages de Gabriel Attal et Marine Tondelier à la Braderie de Lille |
+| 30/08 | Présidentielle 2027 : à Tourcoing, Édouard Philippe et Gérald Darmanin mettent en scène leur ralliement |
+| 26/08 | Élection présidentielle : Christian Poiret se rallie à Édouard Philippe |
+| 18/08 | « Sa confiance m’honore » : Édouard Philippe réagit au soutien de Gérald Darmanin pour la présidentielle |
+| 18/08 | Le parquet de Paris ouvre une enquête sur les soupçons d’ingérence russe ciblant Edouard Philippe et Gabriel Attal |
+| 18/08 | EXCLUSIF. « Avec Xavier Bertrand, c’est le bon duo » : Gérald Darmanin soutient Edouard Philippe pour la présidentielle |
+| 17/08 | EXCLUSIF. Gérald Darmanin se rallie à Édouard Philippe pour la présidentielle : « J’ai décidé de ne pas rajouter de la division » |
+| 19/07 | Édouard Philippe soupçonné de détournement de fonds publics : le tribunal maintient le statut de la lanceuse d’alerte |
+| 05/07 | Élection présidentielle : Édouard Philippe promet de « reprendre en main le destin de notre pays » |
+| 01/07 | Présidentielle 2027 : Laurent Wauquiez fait un pas vers Édouard Philippe malgré la candidature de Bruno Retailleau chez LR |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=%C3%89douard+Philippe, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

@@ -398,6 +398,19 @@ Total : 5 article(s) (5 par le titre, 0 par le chapô seul).
 | 06/09 | « Un choix largement réfléchi » : le communiste Fabien Roussel annonce sa candidature |
 | 05/07 | Fabien Roussel réélu à la tête du Parti communiste |
 
+## La Voix du Nord (lavoixdunord.fr)
+
+Source : la recherche d'archives du site (`/archives/recherche?datefilter=lastyear&sort=date+desc&word=<nom>&start=<n>`, triée par date décroissante), pages parcourues jusqu'aux articles antérieurs au 1er juillet 2026, relevé le 24 novembre 2026. Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 (date affichée) et que le nom du candidat figure dans son **titre** ; un article qui cite plusieurs candidats compte pour chacun. Voir la section 27 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 4 article(s) (4 par le titre).
+
+| Date (2026) | Titre |
+|---|---|
+| 09/09 | Fabien Roussel, une candidature qui passe mal : « Les grands perdants, dans tout ça, ce seront les Amandinois » |
+| 06/09 | « Oui, je suis candidat à la présidentielle » : le Nordiste Fabien Roussel rempile |
+| 05/07 | Fabien Roussel, candidat à l’élection présidentielle : « Cette bataille, je vais la mener avec vous ! » |
+| 03/07 | « J’ai dit que j’étais prêt » : à Lille, Fabien Roussel se pose en candidat naturel du PCF pour 2027 |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Fabien+Roussel, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

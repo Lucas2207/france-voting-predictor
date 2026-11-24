@@ -1033,6 +1033,26 @@ Total : 21 article(s) (21 par le titre, 0 par le chapô seul).
 | 02/07 | Édouard Philippe et Gabriel Attal, deux hommes pour un « même espace politique » |
 | 02/07 | 100 000 départs de fonctionnaires, impunité budgétaire zéro... le plan de Gabriel Attal |
 
+## La Voix du Nord (lavoixdunord.fr)
+
+Source : la recherche d'archives du site (`/archives/recherche?datefilter=lastyear&sort=date+desc&word=<nom>&start=<n>`, triée par date décroissante), pages parcourues jusqu'aux articles antérieurs au 1er juillet 2026, relevé le 24 novembre 2026. Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 (date affichée) et que le nom du candidat figure dans son **titre** ; un article qui cite plusieurs candidats compte pour chacun. Voir la section 27 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 11 article(s) (11 par le titre).
+
+| Date (2026) | Titre |
+|---|---|
+| 28/10 | Présidentielle : Gabriel Attal appelle à une « grande primaire des démocrates » pour éviter un duel entre le RN et LFI |
+| 16/09 | « Tout est parti en live avec cette dissolution » : sans le citer, Gabriel Attal prend encore ses distances avec Emmanuel Macron |
+| 16/09 | La tournée des bistrots du candidat Gabriel Attal fait étape à Valenciennes… sans Gabriel Attal |
+| 11/09 | Gabriel Attal qui boit une bière : est-ce que son clip de promo de l’opération « 1000 bistrots » viole la loi Evin ? |
+| 05/09 | Tacle à Edouard Philippe, appel à l’union de la gauche… les messages de Gabriel Attal et Marine Tondelier à la Braderie de Lille |
+| 04/09 | Le RN envisage de « couper le robinet » à l’Ukraine, « c’est laisser Poutine gagner », répondent Attal, Philippe et une partie de la gauche |
+| 21/08 | « Une succession de vidéos » : Gabriel Attal a de nouveau ciblé par une campagne de désinformation russe sur les réseaux sociaux |
+| 18/08 | Le parquet de Paris ouvre une enquête sur les soupçons d’ingérence russe ciblant Edouard Philippe et Gabriel Attal |
+| 08/08 | « L’élection peut être faussée » : Gabriel Attal porte plainte après avoir été visé par une campagne de désinformation pro-russe |
+| 07/08 | Philippe, Glucksmann, Attal… : que faire contre les ingérences russes qui se multiplient avant la présidentielle ? |
+| 16/07 | Gabriel Attal a-t-il annulé des commandes de Canadair lorsqu’il était Premier ministre ? |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Gabriel+Attal, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

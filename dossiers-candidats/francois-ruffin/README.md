@@ -349,6 +349,17 @@ Total : 2 article(s) (2 par le titre, 0 par le chapô seul).
 | 28/10 | Prix Press club de l'humour politique 2026 : Lisnard, Ruffin, Philippe... découvrez la nouvelle sélection |
 | 02/09 | « Il y a un diagnostic partagé » : en débat, Ruffin et Villepin révèlent leurs convergences |
 
+## La Voix du Nord (lavoixdunord.fr)
+
+Source : la recherche d'archives du site (`/archives/recherche?datefilter=lastyear&sort=date+desc&word=<nom>&start=<n>`, triée par date décroissante), pages parcourues jusqu'aux articles antérieurs au 1er juillet 2026, relevé le 24 novembre 2026. Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 (date affichée) et que le nom du candidat figure dans son **titre** ; un article qui cite plusieurs candidats compte pour chacun. Voir la section 27 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 2 article(s) (2 par le titre).
+
+| Date (2026) | Titre |
+|---|---|
+| 16/10 | « Total soutien » de François Ruffin à Klégé Bapaume, les repreneurs optimistes |
+| 08/07 | Piscine moins chère durant la canicule : la proposition de Jérémie Ruffin au Pays solesmois a fait plouf |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Fran%C3%A7ois+Ruffin, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

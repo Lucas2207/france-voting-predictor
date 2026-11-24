@@ -466,14 +466,28 @@ Pour garder une méthode commune avec les journaux, ARTE n'est pas intégré aux
 - un arrêt anticipé de la pagination sur un tri imparfait peut omettre quelques articles.
 - une requête de pagination avait échoué après trois tentatives lors du premier passage : le relevé de Raphaël Glucksmann (14 articles) a été refait avec davantage de tentatives (25 articles). Les autres candidats n'ont pas été revérifiés.
 
-## 27. Ce qui n'est pas fait
+## 27. La Voix du Nord (lavoixdunord.fr)
+
+**Source :** la recherche du site, qui renvoie vers `https://www.lavoixdunord.fr/archives/recherche?datefilter=lastyear&sort=date+desc&word=<nom>&start=<n>` (10 résultats par page, décalage `start`). Le tri par date décroissante est celui du site ; le filtre « dernière année » borne la recherche. La bannière de cookies n'a pas été acceptée : les pages de résultats se lisent sans.
+
+**Relevé :**
+- une requête par candidat (nom complet, ou « Villepin » et « Riner ») ; pour Natacha Polony, François Ruffin, Nathalie Arthaud et Nicolas Dupont-Aignan, requête sur le seul nom de famille, car le prénom seul ramenait des centaines de résultats sans rapport ;
+- règle de décompte : le nom du candidat dans le **titre** de l'article. L'extrait affiché sous le titre n'est pas le chapô mais un passage du corps du texte contenant les mots recherchés : il n'est pas utilisé, contrairement aux autres journaux du groupe Ebra ;
+- un article qui cite plusieurs candidats compte pour chacun ;
+- homonymes écartés : Robin Roussel, Jean-Marie Le Pen, Marion Maréchal-Le Pen ; pour Édouard Philippe, le nom complet est exigé.
+
+**Limites :**
+- la recherche est approximative (elle ramène des résultats sans le nom exact) : seuls les titres contenant le nom sont comptés ;
+- le décompte est par titre : il sous-estime les articles qui ne citent le candidat que dans le texte.
+
+## 28. Ce qui n'est pas fait
 
 - pas d'ouverture des articles un par un : le classement se base sur le titre et le chapô ou l'adresse ;
 - pas de couverture de BFMTV pour juillet à septembre 2026 ;
 - Dominique de Villepin et Teddy Riner (candidats ajoutés le 23 novembre 2026) ne sont relevés que pour les médias traités depuis (L'Équipe pour l'instant) ; Radio France, BFMTV, TF1, franceinfo, Le Monde, CNEWS, Libération, Ouest-France, Europe 1, La Dépêche, RMC, Sud Ouest, ARTE et Canal+ restent à faire pour eux ;
 - les dossiers Radio France ne sont pas tous à jour pour les personnalités sans page propre (Zemmour, Lisnard, Roussel) : ils sont couverts par les pages des autres personnalités citées dans les chapôs.
 
-## 28. Fichiers
+## 29. Fichiers
 
 - Dossiers par candidat : `dossiers-candidats/<nom>/README.md`
 - Tableaux Radio France : section « Radio France » de chaque dossier (les anciens fichiers `radio-france-<nom>-emissions.md` à la racine ont été supprimés une fois repris dans les dossiers)
