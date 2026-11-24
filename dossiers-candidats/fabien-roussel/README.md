@@ -384,6 +384,20 @@ Total : 5 article(s) (5 par le titre, 0 par le chapô seul).
 | 06/09 | « Un choix largement réfléchi » : le communiste Fabien Roussel annonce sa candidature |
 | 05/07 | Fabien Roussel réélu à la tête du Parti communiste |
 
+## Le Journal de Saône-et-Loire (lejsl.com)
+
+Source : la recherche du site (`/recherche?q=<nom>&page=<n>`), toutes les pages parcourues jusqu'aux articles antérieurs au 1er juillet 2026, relevé le 24 novembre 2026. Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 (date lue dans l'adresse) et que le nom du candidat figure dans son titre ou dans le début de son chapô ; un article qui cite plusieurs candidats compte pour chacun. Voir la section 26 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 5 article(s) (5 par le titre, 0 par le chapô seul).
+
+| Date (2026) | Titre |
+|---|---|
+| 01/10 | Cancer du sein : Fabien Roussel exige la prise en charge intégrale des dépenses |
+| 12/09 | Marine Le Pen fait une ouverture sur le budget, Fabien Roussel appelle à la mobilisation |
+| 12/09 | Duel Mélenchon-Roussel : la gauche affiche ses divisions à la Fête de l’Humanité |
+| 06/09 | « Un choix largement réfléchi » : le communiste Fabien Roussel annonce sa candidature |
+| 05/07 | Fabien Roussel réélu à la tête du Parti communiste |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Fabien+Roussel, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

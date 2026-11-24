@@ -1003,6 +1003,36 @@ Total : 24 article(s) (22 par le titre, 2 par le chapô seul).
 | 02/07 | Édouard Philippe et Gabriel Attal, deux hommes pour un « même espace politique » |
 | 02/07 | 100 000 départs de fonctionnaires, impunité budgétaire zéro... le plan de Gabriel Attal |
 
+## Le Journal de Saône-et-Loire (lejsl.com)
+
+Source : la recherche du site (`/recherche?q=<nom>&page=<n>`), toutes les pages parcourues jusqu'aux articles antérieurs au 1er juillet 2026, relevé le 24 novembre 2026. Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 (date lue dans l'adresse) et que le nom du candidat figure dans son titre ou dans le début de son chapô ; un article qui cite plusieurs candidats compte pour chacun. Voir la section 26 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 21 article(s) (21 par le titre, 0 par le chapô seul).
+
+| Date (2026) | Titre |
+|---|---|
+| 01/11 | « Elle n'aura pas lieu » : Édouard Philippe refuse la primaire proposée par Gabriel Attal |
+| 29/10 | Primaire proposée par Gabriel Attal : Retailleau, de Villepin, Glucksmann… ils déclinent l'invitation |
+| 28/10 | Gabriel Attal plaide pour une « grande primaire des démocrates » pour éviter un second tour RN-LFI |
+| 15/10 | À la traîne dans les sondages, Gabriel Attal en quête de dynamique |
+| 10/10 | En meeting à Lyon, Gabriel Attal mise sur la jeunesse pour rester dans le match |
+| 09/10 | Gabriel Attal en meeting à Lyon samedi pour tenter de rebondir |
+| 03/10 | Attal plaide pour une « grande coalition » de la gauche sociale-démocrate à la droite |
+| 24/09 | Benjamin Dirx, référent départemental Renaissance, le parti de Gabriel Attal |
+| 19/09 | Retailleau, Philippe et Attal se livrent à une primaire sauvage, mais qui l'emportera? |
+| 08/09 | Édouard Philippe accélère, Gabriel Attal temporise : la guerre du bloc central est déclarée |
+| 01/09 | « Tu retrouves tes potes et tes amis » : Gabriel Attal reprend un extrait culte de l'équipe de France |
+| 18/08 | Ingérence russe : enquête ouverte sur les opérations visant Édouard Philippe et Gabriel Attal |
+| 08/08 | Deepfakes, fausses unes… Gabriel Attal porte plainte après des soupçons d'ingérence russe |
+| 05/08 | Gabriel Attal ciblé à son tour par une « ingérence en provenance de la Russie » |
+| 02/08 | Décentralisation, justice... Gabriel Attal promet une « grande réforme institutionnelle » |
+| 30/07 | Gabriel Attal débouté par la justice, le RN autorisé à utiliser le mot « renaissance » |
+| 28/07 | Incendies : le gouvernement de Gabriel Attal a-t-il vraiment empêché l’achat de nouveaux Canadair ? |
+| 26/07 | Gabriel Attal : « Pas de candidat qui plie le match dans mon camp » |
+| 15/07 | « La renaissance » : Gabriel Attal assigne Marine Le Pen pour « contrefaçon de marque » |
+| 02/07 | Édouard Philippe et Gabriel Attal, deux hommes pour un « même espace politique » |
+| 02/07 | 100 000 départs de fonctionnaires, impunité budgétaire zéro... le plan de Gabriel Attal |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Gabriel+Attal, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

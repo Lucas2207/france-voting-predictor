@@ -366,6 +366,21 @@ Total : 7 article(s) (4 par le titre, 3 par le chapô seul).
 | 13/09 | Marine Le Pen met l'accent sur le logement, Éric Zemmour prépare sa candidature |
 | 05/07 | Marche blanche pour Louis : des milliers de personnes rassemblées, les adieux d'une mère à son fils |
 
+## Le Journal de Saône-et-Loire (lejsl.com)
+
+Source : la recherche du site (`/recherche?q=<nom>&page=<n>`), toutes les pages parcourues jusqu'aux articles antérieurs au 1er juillet 2026, relevé le 24 novembre 2026. Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 (date lue dans l'adresse) et que le nom du candidat figure dans son titre ou dans le début de son chapô ; un article qui cite plusieurs candidats compte pour chacun. Voir la section 26 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 6 article(s) (4 par le titre, 2 par le chapô seul).
+
+| Date (2026) | Titre |
+|---|---|
+| 25/10 | La France insoumise accuse BFMTV de propager des propos « racistes », la chaîne monte au créneau |
+| 12/10 | Propos antisémites attribués à Jordan Bardella : Éric Zemmour ne le croit « pas vraiment » sincère |
+| 21/09 | « Des robots à la place des immigrés » : pourquoi la proposition d’Éric Zemmour est irréaliste |
+| 17/09 | « Je serai candidat », annonce le président de Reconquête Éric Zemmour |
+| 13/09 | Marine Le Pen met l'accent sur le logement, Éric Zemmour prépare sa candidature |
+| 05/07 | Marche blanche pour Louis : des milliers de personnes rassemblées, les adieux d'une mère à son fils |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=%C3%89ric+Zemmour, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.
