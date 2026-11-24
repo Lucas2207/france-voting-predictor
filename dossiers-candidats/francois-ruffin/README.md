@@ -294,6 +294,17 @@ Total : 9 article(s) (9 par le titre, 0 par le chapô seul).
 | 18/07 | François Ruffin à propos de l'épisode de grêle en Ardèche : « Il doit y avoir un État qui rassure et qui se porte garant » |
 | 18/07 | François Ruffin en campagne au Festival d'Avignon : « Si l’extrême droite arrive au pouvoir, le premier lieu de bataille sera celui de la culture » |
 
+## Dernières Nouvelles d'Alsace (dna.fr)
+
+Source : la recherche du site (`/recherche?q=<nom>&page=<n>`), toutes les pages parcourues jusqu'aux articles antérieurs au 1er juillet 2026, relevé le 24 novembre 2026. Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 (date lue dans l'adresse) et que le nom du candidat figure dans son titre ou dans le début de son chapô ; un article qui cite plusieurs candidats compte pour chacun. Voir la section 22 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 2 article(s) (2 par le titre, 0 par le chapô seul).
+
+| Date (2026) | Titre |
+|---|---|
+| 28/10 | Prix Press club de l'humour politique 2026 : Lisnard, Ruffin, Philippe... découvrez la nouvelle sélection |
+| 02/09 | « Il y a un diagnostic partagé » : en débat, Ruffin et Villepin révèlent leurs convergences |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Fran%C3%A7ois+Ruffin, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

@@ -260,6 +260,17 @@ Total : 5 article(s) (3 par le titre, 2 par le chapô seul).
 | 14/10 | L'essayiste Natacha Polony se lance dans la course à l'Élysée |
 | 10/10 | Un théâtre renonce à accueillir Sarah Knafo et François Fillon, le préfet s'en mêle |
 
+## Dernières Nouvelles d'Alsace (dna.fr)
+
+Source : la recherche du site (`/recherche?q=<nom>&page=<n>`), toutes les pages parcourues jusqu'aux articles antérieurs au 1er juillet 2026, relevé le 24 novembre 2026. Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 (date lue dans l'adresse) et que le nom du candidat figure dans son titre ou dans le début de son chapô ; un article qui cite plusieurs candidats compte pour chacun. Voir la section 22 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 2 article(s) (2 par le titre, 0 par le chapô seul).
+
+| Date (2026) | Titre |
+|---|---|
+| 14/10 | L'essayiste Natacha Polony se lance dans la course à l'Élysée |
+| 20/09 | Possible candidate à l'Elysée en 2027, Natacha Polony estime que « l’Alsace a la légitimité d’avoir une région » |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Natacha+Polony, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.
