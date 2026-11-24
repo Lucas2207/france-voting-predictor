@@ -22,7 +22,7 @@
  {
   "outlet": "franceinfo",
   "ok": true,
-  "items": 20
+  "items": 19
  },
  {
   "outlet": "France 24",
@@ -51,8 +51,8 @@
  },
  {
   "outlet": "Marianne",
-  "ok": true,
-  "items": 20
+  "ok": false,
+  "error": "405 Client Error: Not Allowed for url: https://www.marianne.net/rss.xml"
  },
  {
   "outlet": "BFMTV",
@@ -127,7 +127,7 @@
  {
   "outlet": "Google Actualités (recherche par candidat)",
   "ok": true,
-  "items": 7067,
-  "error": null
+  "items": 7581,
+  "error": "1 requête(s) en échec sur 150"
  }
 ]
