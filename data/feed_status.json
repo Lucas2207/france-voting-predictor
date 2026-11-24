@@ -102,12 +102,12 @@
  {
   "outlet": "France Culture",
   "ok": true,
-  "items": 18
+  "items": 20
  },
  {
   "outlet": "Europe 1",
-  "ok": false,
-  "error": "404 Client Error: Not Found for url: https://www.europe1.fr/rss.xml"
+  "ok": true,
+  "items": 50
  },
  {
   "outlet": "Sud Radio",
@@ -127,7 +127,7 @@
  {
   "outlet": "Google Actualités (recherche par candidat)",
   "ok": true,
-  "items": 7105,
-  "error": "1 requête(s) en échec sur 150"
+  "items": 7067,
+  "error": null
  }
 ]
