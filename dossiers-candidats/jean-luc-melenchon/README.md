@@ -1037,6 +1037,65 @@ Total : 39 article(s) (36 par le titre, 3 par le chapô seul).
 | 03/07 | « Reprenons le contrôle » : Jean-Luc Mélenchon critique la fin des jeux physiques sur PlayStation |
 | 02/07 | « Elles sont dépassées » : Jean-Luc Mélenchon veut redessiner les régions |
 
+## Le Dauphiné Libéré (ledauphine.com)
+
+Source : la recherche du site (`/recherche?q=<nom>&page=<n>`), toutes les pages parcourues jusqu'aux articles antérieurs au 1er juillet 2026, relevé le 24 novembre 2026. Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 (date lue dans l'adresse) et que le nom du candidat figure dans son titre ou dans le début de son chapô ; un article qui cite plusieurs candidats compte pour chacun. Voir la section 21 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 50 article(s) (46 par le titre, 4 par le chapô seul).
+
+| Date (2026) | Titre |
+|---|---|
+| 28/10 | Jean-Luc Mélenchon veut remplacer le patron de Bpifrance qui « n'en fait qu'à sa tête » |
+| 26/10 | Un sondage place de nouveau Édouard Philippe derrière Mélenchon, Le Pen creuse l'écart |
+| 23/10 | En cas de duel au second tour, Marine Le Pen toujours loin devant Jean-Luc Mélenchon |
+| 21/10 | « Une fixation sur LFI » : le parti de Jean-Luc Mélenchon critiqué depuis le 17 octobre, mais pas déstabilisé |
+| 17/10 | Plus de 350 personnes pour lancer la campagne présidentielle des Insoumis à Avignon |
+| 15/10 | Vers un duel Marine Le Pen-Jean-Luc Mélenchon au second tour ? Ce que révèle notre sondage |
+| 15/10 | Glucksmann pour la première fois au coude-à-coude avec Mélenchon pour accéder au second tour |
+| 15/10 | Et si la victoire de Glucksmann n'était pas une mauvaise nouvelle pour Mélenchon |
+| 11/10 | En position de force, Jean-Luc Mélenchon mobilise autour de sa « Nouvelle France » à Clermont-Ferrand |
+| 09/10 | Le mouvement lycéen connaît-il plus d’interpellations que les gilets jaunes et Mai-68 ? |
+| 09/10 | Jean-Luc Mélenchon : « La théorie du complot pour expliquer les mouvements sociaux est une très vieille rengaine des réactionnaires » |
+| 08/10 | « Défier Édouard Philippe » : Jean-Luc Mélenchon en meeting au Havre le 5 décembre |
+| 07/10 | Le président du Medef « prêt » à quitter la France en cas de victoire de Jean-Luc Mélenchon |
+| 03/10 | Quand Glucksmann dit « pisser » sur Mélenchon et accuse Royal de faire la « danse du ventre » |
+| 03/10 | Blocus des lycées : Mélenchon voit le 6 octobre comme un « point de départ » |
+| 30/09 | Mélenchon, Le Pen, Mbappé, Niney... Que sait-on du site pirate qui dévoile leurs coordonnées ? |
+| 29/09 | Les numéros de téléphone de Le Pen et Mélenchon fuitent sur un moteur de recherche pirate |
+| 28/09 | Un duel Le Pen-Mélenchon au second tour s'impose dans (presque) tous les scénarios |
+| 28/09 | Pourquoi Jean-Luc Mélenchon s'en prend aux « lamentables Verts allemands » ? |
+| 24/09 | Loin derrière Le Pen, Mélenchon et Philippe sont au coude-à-coude, selon un sondage |
+| 14/09 | Des « manipulations politiques » : Mélenchon s'insurge alors que deux victoires aux municipales de LFI sont menacées |
+| 12/09 | Duel Mélenchon-Roussel : la gauche affiche ses divisions à la Fête de l’Humanité |
+| 12/09 | Contrairement à ce que dit Jean-Luc Mélenchon : « Annuler la dette serait inutile et risqué » |
+| 11/09 | « Dangereux et inutile » : Mélenchon recadré sur sa proposition d'effacement de la dette |
+| 04/09 | Bompard certain que Mélenchon aura ses 500 parrainages, malgré un « processus compliqué » |
+| 02/09 | « Je n'avais pas compris » : Jean-Luc Mélenchon reconnaît avoir « changé d'avis » sur le port du voile |
+| 28/08 | Près de deux heures pour quitter le meeting de Jean-Luc Mélenchon à Châteauneuf-sur-Isère |
+| 27/08 | De Mélenchon à Le Pen : qu'attendre du débat entre sept candidats organisé par le Medef ? |
+| 26/08 | Promesse miracle, débat explosif… Peut-on effacer une partie de la dette, comme le réclame LFI ? |
+| 25/08 | L'homme qui a décidé de dire non à Jean-Luc Mélenchon |
+| 23/08 | À l'université d'été de LFI dans la Drôme, Jean-Luc Mélenchon promet de censurer le prochain budget |
+| 23/08 | « La victoire est possible » : Jean-Luc Mélenchon conquérant devant une foule record aux universités d’été de LFI |
+| 22/08 | « Qu'il vienne ici » : Philippe répond à Mélenchon sur l'immigration à Mayotte |
+| 22/08 | Jean-Luc Mélenchon tend la main aux Verts et ses électeurs : « Toute aide sera la bienvenue » assure-t-il |
+| 22/08 | Cyrielle Châtelain aux côtés de Mélenchon : l’appel du pied des Insoumis aux Écologistes |
+| 21/08 | « L’union de toute la gauche, c’est impossible » : quand Jadot se paie Mélenchon |
+| 21/08 | Jean-Luc Mélenchon est arrivé aux universités d'été de La France insoumise |
+| 20/08 | Mélenchon ou Glucksmann ? Les écolos, réunis à Grenoble, face au choix cornélien |
+| 18/08 | Monique Barbut invitée aux journées d'été de LFI, après son compliment à Jean-Luc Mélenchon |
+| 15/08 | Les LFI Bagayoko et Diouara font l'objet d'un « racisme systémique », selon Mélenchon |
+| 13/08 | La France insoumise présente sa candidate pour les Sénatoriales |
+| 29/07 | « Le paquebot de LFI ne bouge pas » : pourquoi Eric Piolle écrit à Mélenchon |
+| 25/07 | Mélenchon, de Villepin, Ruffin... Avignon, le festival aussi des prétendants à la présidentielle |
+| 20/07 | Suicide de Joris : Jean-Luc Mélenchon et Olivier Faure réagissent |
+| 09/07 | Jean-Luc Mélenchon à Avignon aux côtés des syndicats du spectacle, mobilisés |
+| 09/07 | Jean-Luc Mélenchon en campagne au Festival d'Avignon : « Je ne sais pas vous dire pourquoi, mais j’ai confiance » |
+| 05/07 | Mélenchon appelle à boycotter France Culture après un montage trompeur, Radio France contre-attaque |
+| 03/07 | « Reprenons le contrôle » : Jean-Luc Mélenchon critique la fin des jeux physiques sur PlayStation |
+| 02/07 | « Elles sont dépassées » : Jean-Luc Mélenchon veut redessiner les régions |
+| 01/07 | Le record de Jordan Bardella, le piège de Jean-Luc Mélenchon ? |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Jean-Luc+M%C3%A9lenchon, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

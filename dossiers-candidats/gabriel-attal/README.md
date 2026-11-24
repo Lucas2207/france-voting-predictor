@@ -828,6 +828,47 @@ Total : 25 article(s) (24 par le titre, 1 par le chapô seul).
 | 02/07 | Édouard Philippe et Gabriel Attal, deux hommes pour un « même espace politique » |
 | 02/07 | 100 000 départs de fonctionnaires, impunité budgétaire zéro... le plan de Gabriel Attal |
 
+## Le Dauphiné Libéré (ledauphine.com)
+
+Source : la recherche du site (`/recherche?q=<nom>&page=<n>`), toutes les pages parcourues jusqu'aux articles antérieurs au 1er juillet 2026, relevé le 24 novembre 2026. Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 (date lue dans l'adresse) et que le nom du candidat figure dans son titre ou dans le début de son chapô ; un article qui cite plusieurs candidats compte pour chacun. Voir la section 21 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 32 article(s) (32 par le titre, 0 par le chapô seul).
+
+| Date (2026) | Titre |
+|---|---|
+| 01/11 | « Elle n'aura pas lieu » : Édouard Philippe refuse la primaire proposée par Gabriel Attal |
+| 29/10 | Primaire proposée par Gabriel Attal : Retailleau, de Villepin, Glucksmann… ils déclinent l'invitation |
+| 28/10 | Gabriel Attal plaide pour une « grande primaire des démocrates » pour éviter un second tour RN-LFI |
+| 15/10 | À la traîne dans les sondages, Gabriel Attal en quête de dynamique |
+| 11/10 | Le maire DVD de Montélimar Julien Cornillet soutient Gabriel Attal, « stupéfaction » chez ses adversaires |
+| 10/10 | En meeting à Lyon, Gabriel Attal mise sur la jeunesse pour rester dans le match |
+| 09/10 | Présidentielle : le maire de Montélimar, Julien Cornillet, va prendre la parole au meeting de Gabriel Attal |
+| 09/10 | Gabriel Attal en meeting à Lyon samedi pour tenter de rebondir |
+| 03/10 | Attal plaide pour une « grande coalition » de la gauche sociale-démocrate à la droite |
+| 24/09 | Le maire d'Annecy Antoine Armand rejoint la campagne de Gabriel Attal |
+| 19/09 | Retailleau, Philippe et Attal se livrent à une primaire sauvage, mais qui l'emportera? |
+| 08/09 | Édouard Philippe accélère, Gabriel Attal temporise : la guerre du bloc central est déclarée |
+| 01/09 | Gabriel Attal reprend un extrait culte de l'équipe de France : a-t-il vraiment le droit ? |
+| 22/08 | Chris Hemsworth, Estelle Denis, Gabriel Attal... Ils ont passé une partie de leurs vacances chez nous |
+| 18/08 | Ingérence russe : enquête ouverte sur les opérations visant Édouard Philippe et Gabriel Attal |
+| 08/08 | Deepfakes, fausses unes… Gabriel Attal porte plainte après des soupçons d'ingérence russe |
+| 07/08 | Gabriel Attal et les routards de la présidentielle |
+| 06/08 | « Rencontrer les Français qui travaillent l'été » : Gabriel Attal a échangé avec le monde agricole à Châteaurenard |
+| 06/08 | « Il faut que les agriculteurs puissent vivre de leur travail » : Gabriel Attal face au blues des paysans |
+| 06/08 | Gabriel Attal visé par des ingérences russes : « Je m’attends à ce que le régime du Kremlin continue pour soutenir Marine Le Pen » |
+| 05/08 | Gabriel Attal ciblé à son tour par une « ingérence en provenance de la Russie » |
+| 02/08 | Décentralisation, justice... Gabriel Attal promet une « grande réforme institutionnelle » |
+| 30/07 | Gabriel Attal débouté par la justice, le RN autorisé à utiliser le mot « renaissance » |
+| 28/07 | Incendies : le gouvernement de Gabriel Attal a-t-il vraiment empêché l’achat de nouveaux Canadair ? |
+| 28/07 | Après la visite de Gabriel Attal, la gauche annécienne tire à boulets rouges sur Antoine Armand et sa majorité |
+| 27/07 | Présidentielle 2027 : à Annecy, Gabriel Attal promet le retour de la visibilité |
+| 26/07 | Gabriel Attal : « Pas de candidat qui plie le match dans mon camp » |
+| 24/07 | Présidentielle : le candidat Gabriel Attal en déplacement marathon à Annecy lundi 27 juillet |
+| 21/07 | Suicide de Joris : Gabriel Attal, Mathilde Panot… les réactions politiques continuent d’affluer |
+| 15/07 | « La renaissance » : Gabriel Attal assigne Marine Le Pen pour « contrefaçon de marque » |
+| 02/07 | Édouard Philippe et Gabriel Attal, deux hommes pour un « même espace politique » |
+| 02/07 | 100 000 départs de fonctionnaires, impunité budgétaire zéro... le plan de Gabriel Attal |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Gabriel+Attal, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

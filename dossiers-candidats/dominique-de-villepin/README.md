@@ -99,3 +99,20 @@ Total : 6 article(s) (6 par le titre, 0 par le chapô seul).
 | 02/09 | « Il y a un diagnostic partagé » : en débat, Ruffin et Villepin révèlent leurs convergences |
 | 30/08 | Pour Dominique de Villepin, la « surenchère » d'Édouard Philippe « fait le jeu » de Marine Le Pen |
 | 27/07 | Affaire des statuettes : Dominique de Villepin a été entendu en audition libre mi-juillet |
+
+## Le Dauphiné Libéré (ledauphine.com)
+
+Source : la recherche du site (`/recherche?q=<nom>&page=<n>`), toutes les pages parcourues jusqu'aux articles antérieurs au 1er juillet 2026, relevé le 24 novembre 2026. Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 (date lue dans l'adresse) et que le nom du candidat figure dans son titre ou dans le début de son chapô ; un article qui cite plusieurs candidats compte pour chacun. Voir la section 21 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 8 article(s) (8 par le titre, 0 par le chapô seul).
+
+| Date (2026) | Titre |
+|---|---|
+| 29/10 | Primaire proposée par Gabriel Attal : Retailleau, de Villepin, Glucksmann… ils déclinent l'invitation |
+| 30/09 | Rosa Belaïdi devient correspondante départementale du mouvement de Dominique de Villepin |
+| 27/09 | Dominique de Villepin veut constitutionnaliser la négociation avec les syndicats |
+| 02/09 | « Il y a un diagnostic partagé » : en débat, Ruffin et Villepin révèlent leurs convergences |
+| 30/08 | Pour Dominique de Villepin, la « surenchère » d'Édouard Philippe « fait le jeu » de Marine Le Pen |
+| 27/07 | Affaire des statuettes : Dominique de Villepin a été entendu en audition libre mi-juillet |
+| 25/07 | Mélenchon, de Villepin, Ruffin... Avignon, le festival aussi des prétendants à la présidentielle |
+| 23/07 | Dominique de Villepin au Festival d'Avignon : « Un candidat non déclaré, mais très déterminé » |

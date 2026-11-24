@@ -276,6 +276,24 @@ Total : 3 article(s) (3 par le titre, 0 par le chapô seul).
 | 29/09 | Debout ! le mouvement de François Ruffin s’implante dans le département |
 | 02/09 | « Il y a un diagnostic partagé » : en débat, Ruffin et Villepin révèlent leurs convergences |
 
+## Le Dauphiné Libéré (ledauphine.com)
+
+Source : la recherche du site (`/recherche?q=<nom>&page=<n>`), toutes les pages parcourues jusqu'aux articles antérieurs au 1er juillet 2026, relevé le 24 novembre 2026. Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 (date lue dans l'adresse) et que le nom du candidat figure dans son titre ou dans le début de son chapô ; un article qui cite plusieurs candidats compte pour chacun. Voir la section 21 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 9 article(s) (9 par le titre, 0 par le chapô seul).
+
+| Date (2026) | Titre |
+|---|---|
+| 28/10 | Prix Press club de l'humour politique 2026 : Lisnard, Ruffin, Philippe... découvrez la nouvelle sélection |
+| 14/09 | La maire de Grenoble Laurence Ruffin : est-ce son frère François qui en parle le mieux ? |
+| 13/09 | François Ruffin loue sa soeur Laurence Ruffin, maire de Grenoble : « Elle devrait être au ministère de l'Économie » |
+| 02/09 | « Il y a un diagnostic partagé » : en débat, Ruffin et Villepin révèlent leurs convergences |
+| 25/07 | Mélenchon, de Villepin, Ruffin... Avignon, le festival aussi des prétendants à la présidentielle |
+| 20/07 | Concert interrompu de Barbara Butch : Laurence Ruffin, Manuel Bompard, Olivier Faure et Marine Le Pen réagissent |
+| 18/07 | « S’il n’y a pas de primaire, j’y vais ! » : François Ruffin évoque sa candidature à la présidentielle |
+| 18/07 | François Ruffin à propos de l'épisode de grêle en Ardèche : « Il doit y avoir un État qui rassure et qui se porte garant » |
+| 18/07 | François Ruffin en campagne au Festival d'Avignon : « Si l’extrême droite arrive au pouvoir, le premier lieu de bataille sera celui de la culture » |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Fran%C3%A7ois+Ruffin, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

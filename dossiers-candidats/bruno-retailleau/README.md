@@ -663,6 +663,35 @@ Total : 15 article(s) (14 par le titre, 1 par le chapô seul).
 | 09/07 | Après une polémique, un ministre annule une réception pour l'adoption de la loi sur la fin de vie |
 | 01/07 | « Il faut savoir se retirer » : Wauquiez tance Retailleau et tend la main à Philippe |
 
+## Le Dauphiné Libéré (ledauphine.com)
+
+Source : la recherche du site (`/recherche?q=<nom>&page=<n>`), toutes les pages parcourues jusqu'aux articles antérieurs au 1er juillet 2026, relevé le 24 novembre 2026. Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 (date lue dans l'adresse) et que le nom du candidat figure dans son titre ou dans le début de son chapô ; un article qui cite plusieurs candidats compte pour chacun. Voir la section 21 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 20 article(s) (19 par le titre, 1 par le chapô seul).
+
+| Date (2026) | Titre |
+|---|---|
+| 29/10 | Primaire proposée par Gabriel Attal : Retailleau, de Villepin, Glucksmann… ils déclinent l'invitation |
+| 27/10 | « Bordélisation » : la date du second tour à nouveau contestée par Bruno Retailleau |
+| 22/10 | Marie-Hélène Thoraval apprécie Lisnard, Retailleau et surtout Philippe |
+| 12/10 | « Un coup de frein » de 197 milliards : Retailleau présente à son tour un plan d'économies |
+| 10/10 | « Bruno Retailleau sera candidat jusqu’au bout avec un vrai projet de rupture » |
+| 08/10 | Le rival socialiste de Bruno Retailleau demande d'annuler l'élection sénatoriale en Vendée |
+| 04/10 | Présidentielle 2027 : les Républicains se mobilisent autour de Bruno Retailleau |
+| 03/10 | Comment Bruno Retailleau peut accéder à l’Élysée |
+| 02/10 | Retailleau, deuxième et dernier candidat à l’Élysée en visite |
+| 01/10 | « Un parti fasciné par la violence » : Bruno Retailleau veut faire interdire LFI |
+| 01/10 | Bruno Retailleau : « Le mouvement des lycéens est totalement dévoyé et instrumentalisé par LFI » |
+| 20/09 | Ciotti tend la main à Retailleau et redoute qu'il ne se rallie à Philippe |
+| 19/09 | Retailleau, Philippe et Attal se livrent à une primaire sauvage, mais qui l'emportera? |
+| 12/09 | À la peine dans le sondages, Bruno Retailleau espère renverser la vapeur grâce à la jeunesse |
+| 12/09 | « La campagne n’a pas encore commencé » : pour sa rentrée, Bruno Retailleau veut croire au miracle |
+| 08/09 | « Main tendue » et « initiative » : Philippe appelle au rassemblement, Retailleau n'ira pas |
+| 08/09 | « En travaillant plus, on va redresser le pays » : l'équipe de Bruno Retailleau dévoile son plan économique |
+| 31/08 | Ils soutiennent Bruno Retailleau, « l’un des seuls à tenir un discours de vérité » |
+| 09/07 | Après une polémique, un ministre annule une réception pour l'adoption de la loi sur la fin de vie |
+| 01/07 | « Il faut savoir se retirer » : Wauquiez tance Retailleau et tend la main à Philippe |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Bruno+Retailleau, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

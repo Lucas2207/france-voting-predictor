@@ -246,6 +246,20 @@ Total : 1 article(s) (1 par le titre, 0 par le chapô seul).
 |---|---|
 | 14/10 | L'essayiste Natacha Polony se lance dans la course à l'Élysée |
 
+## Le Dauphiné Libéré (ledauphine.com)
+
+Source : la recherche du site (`/recherche?q=<nom>&page=<n>`), toutes les pages parcourues jusqu'aux articles antérieurs au 1er juillet 2026, relevé le 24 novembre 2026. Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 (date lue dans l'adresse) et que le nom du candidat figure dans son titre ou dans le début de son chapô ; un article qui cite plusieurs candidats compte pour chacun. Voir la section 21 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 5 article(s) (3 par le titre, 2 par le chapô seul).
+
+| Date (2026) | Titre |
+|---|---|
+| 17/10 | Au moins, Bob l’éponge n’est pas candidat à la présidentielle |
+| 17/10 | Université de rentrée d'Oser la France : pour Natacha Polony « beaucoup de candidats incarnent une vision qui a échoué » |
+| 17/10 | Policier blessé évacué, centre-ville d'Avignon gazé, Natacha Polony présente... Revivez la journée de mobilisation du 17 octobre |
+| 14/10 | L'essayiste Natacha Polony se lance dans la course à l'Élysée |
+| 10/10 | Un théâtre renonce à accueillir Sarah Knafo et François Fillon, le préfet s'en mêle |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Natacha+Polony, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

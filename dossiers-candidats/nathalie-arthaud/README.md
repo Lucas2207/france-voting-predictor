@@ -199,6 +199,15 @@ Total : 4 article(s) (3 par le titre, 1 par le chapô seul).
 | 27/09 | Nathalie Arthaud annonce sa quatrième candidature à la Présidentielle à la fête lyonnaise de Lutte ouvrière |
 | 31/08 | Deux nouvelles enseignantes font leur rentrée à l’école |
 
+## Le Dauphiné Libéré (ledauphine.com)
+
+Source : la recherche du site (`/recherche?q=<nom>&page=<n>`), toutes les pages parcourues jusqu'aux articles antérieurs au 1er juillet 2026, relevé le 24 novembre 2026. Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 (date lue dans l'adresse) et que le nom du candidat figure dans son titre ou dans le début de son chapô ; un article qui cite plusieurs candidats compte pour chacun. Voir la section 21 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 0 article(s) (0 par le titre, 0 par le chapô seul).
+
+| Date (2026) | Titre |
+|---|---|
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Nathalie+Arthaud, parcouru jusqu'au 1er juillet 2026.
