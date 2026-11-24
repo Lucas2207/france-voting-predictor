@@ -53,6 +53,8 @@ Relevé le 1er novembre 2026. Période visée : du 1er juillet 2026 à aujourd'h
 
 **Contrôles :** nombre de lignes de chaque dossier comparé au total annoncé ; le total a été aligné sur les lignes du tableau.
 
+**Mise à jour du 24 novembre 2026 (Villepin, Riner) :** la rubrique ne remontait plus qu'à août/novembre ; aucun article de la période pour ces deux candidats.
+
 ## 3. TF1 (tf1info.fr)
 
 **Source :** la recherche du site, `https://www.tf1info.fr/recherche/?query=<nom complet>`. Une page affiche 10 résultats ; le bouton « Voir plus de résultats » en ajoute 10.
@@ -271,6 +273,8 @@ Pour garder une méthode commune avec les journaux, ARTE n'est pas intégré aux
 **Limites :**
 - la recherche renvoie un catalogue de programmes (environ 100 résultats par requête, « améliorés grâce à l'IA »), où la plupart des résultats n'ont aucun lien avec le nom saisi : le relevé peut être incomplet ;
 - une page de programme (comme « BFM Politique Mag. ») n'est pas comptée, car elle ne donne pas la liste des épisodes qui citent le candidat.
+
+**Mise à jour du 24 novembre 2026 (Villepin, Riner) :** recherche « Villepin » et « Riner », onglets Docs et Divertissement : aucun contenu.
 
 ## 15. L'Équipe (lequipe.fr)
 
