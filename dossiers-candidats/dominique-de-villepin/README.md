@@ -63,3 +63,12 @@ Total : 11 contenu(s) (9 par le titre, 2 par le chapô seul).
 | 21/08 | À 72 ans, Dominique de Villepin vit une seconde jeunesse |
 | 18/08 | "Un bourgeois qui se prend pour un révolutionnaire" : Dominique de Villepin va-t-il se lancer en campagne en 2027 ? |
 | 27/07 | Affaire des statuettes : Dominique de Villepin a été entendu en audition libre mi-juillet par le parquet financier |
+
+## La Croix (la-croix.com)
+
+Source : la recherche du site (`/recherche/?texte=<nom>&periode=longue`, 3 dernières années), toutes les pages parcourues, relevé le 24 novembre 2026. Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 et que le nom du candidat figure dans son titre ou dans son chapô ; un article qui cite plusieurs candidats compte pour chacun. Le moteur est limité (voir la section 18 de [METHODOLOGIE.md](../METHODOLOGIE.md)) : le décompte est un minimum.
+
+Total : 0 article(s) (0 par le titre, 0 par le chapô seul).
+
+| Date (2026) | Titre |
+|---|---|

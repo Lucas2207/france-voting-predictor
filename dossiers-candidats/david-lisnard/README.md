@@ -345,6 +345,19 @@ Total : 12 contenu(s) (9 par le titre, 3 par le chapô seul).
 | 21/07 | "On n'est pas à Medellín dans les années 2000" : sur RTL, David Lisnard appelle à "se bouger” après l'exfiltration du ma … |
 | 03/07 | Présidentielle 2027 : David Lisnard dénonce "une caste prête à tout" pour se maintenir au pouvoir |
 
+## La Croix (la-croix.com)
+
+Source : la recherche du site (`/recherche/?texte=<nom>&periode=longue`, 3 dernières années), toutes les pages parcourues, relevé le 24 novembre 2026. Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 et que le nom du candidat figure dans son titre ou dans son chapô ; un article qui cite plusieurs candidats compte pour chacun. Le moteur est limité (voir la section 18 de [METHODOLOGIE.md](../METHODOLOGIE.md)) : le décompte est un minimum.
+
+Total : 4 article(s) (3 par le titre, 1 par le chapô seul).
+
+| Date (2026) | Titre |
+|---|---|
+| 18/10 | Limoges: des milliers de personnes rassemblées après l'incendie, Lisnard cible LFI |
+| 16/10 | Présidentielle 2027 : à droite, David Lisnard bouscule la candidature de Bruno Retailleau |
+| 12/10 | Bruno Retailleau veut rétablir l’ordre, y compris dans les finances publiques |
+| 11/09 | Présidentielle 2027 : David Lisnard, l’exercice périlleux d’une double candidature |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=David+Lisnard, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

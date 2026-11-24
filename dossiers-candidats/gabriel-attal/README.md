@@ -753,6 +753,29 @@ Total : 46 contenu(s) (41 par le titre, 5 par le chapô seul).
 | 09/07 | Marine Le Pen condamnée : sur RTL, Gabriel Attal considère que cette "chronique judiciaire fatigue déjà les Français" |
 | 03/07 | Présidentielle 2027 : David Lisnard dénonce "une caste prête à tout" pour se maintenir au pouvoir |
 
+## La Croix (la-croix.com)
+
+Source : la recherche du site (`/recherche/?texte=<nom>&periode=longue`, 3 dernières années), toutes les pages parcourues, relevé le 24 novembre 2026. Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 et que le nom du candidat figure dans son titre ou dans son chapô ; un article qui cite plusieurs candidats compte pour chacun. Le moteur est limité (voir la section 18 de [METHODOLOGIE.md](../METHODOLOGIE.md)) : le décompte est un minimum.
+
+Total : 14 article(s) (10 par le titre, 4 par le chapô seul).
+
+| Date (2026) | Titre |
+|---|---|
+| 29/10 | Présidentielle 2027 : Attal propose une « primaire des démocrates », sans convaincre |
+| 11/10 | Attal et Philippe appellent au rassemblement, chacun dans son couloir |
+| 10/10 | Présidentielle : Attal, Mélenchon... pour les candidats, l'atout ou le péril jeune |
+| 10/10 | Présidentielle 2027 : avec son « pacte pour la jeunesse » Gabriel Attal espère relancer sa campagne |
+| 10/10 | Présidentielle 2027 : Gabriel Attal mise sur la carte « jeunes » et son plan pour l’école |
+| 29/09 | Crise du logement : ces candidats à la présidentielle qui promettent de renverser la table |
+| 24/09 | Présidentielle 2027 : au centre, Édouard Philippe et Gabriel Attal en quête d’élan |
+| 09/09 | Présidentielle 2027 : pourquoi Édouard Philippe pousse au rassemblement du « bloc central » |
+| 18/08 | Ingérence russe : la justice ouvre une enquête sur des attaques ciblant Édouard Philippe et Gabriel Attal |
+| 14/08 | Les gens du voyage sont-ils traités comme des citoyens de seconde zone ? |
+| 07/08 | Ingérences russes : Gabriel Attal et Raphaël Glucksmann font-ils le jeu de la désinformation ? |
+| 05/08 | Glucksmann, Macron, Philippe, Attal : comment le réseau prorusse Storm-1516 mène ses opérations de déstabilisation |
+| 04/08 | Référendums, quotas migratoires : comment Gabriel Attal cherche à se démarquer du macronisme |
+| 31/07 | Présidentielle 2027 : les animaux, une cause de plus en plus politique |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Gabriel+Attal, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

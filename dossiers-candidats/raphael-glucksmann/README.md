@@ -914,6 +914,38 @@ Total : 52 contenu(s) (46 par le titre, 6 par le chapô seul).
 | 10/07 | "Une main tendue" : Raphaël Glucksmann se résout à participer à la primaire actée par le PS, mais à certaines conditions … |
 | 09/07 | Xenia Fedorova est-elle "une agente russe" comme le dit Raphaël Glucksmann ? |
 
+## La Croix (la-croix.com)
+
+Source : la recherche du site (`/recherche/?texte=<nom>&periode=longue`, 3 dernières années), toutes les pages parcourues, relevé le 24 novembre 2026. Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 et que le nom du candidat figure dans son titre ou dans son chapô ; un article qui cite plusieurs candidats compte pour chacun. Le moteur est limité (voir la section 18 de [METHODOLOGIE.md](../METHODOLOGIE.md)) : le décompte est un minimum.
+
+Total : 23 article(s) (19 par le titre, 4 par le chapô seul).
+
+| Date (2026) | Titre |
+|---|---|
+| 12/10 | Vainqueur de la primaire, Raphaël Glucksmann réinstalle l’hypothèse d’une gauche de gouvernement |
+| 12/10 | Après une primaire réussie, les choses sérieuses commencent pour Glucksmann |
+| 11/10 | Une victoire éclatante pour Raphaël Glucksmann mais des défis déjà nombreux |
+| 11/10 | Présidentielle: Glucksmann désigné dès le premier tour comme le candidat de la gauche sociale-démocrate |
+| 11/10 | Glucksmann largement élu candidat de la gauche sociale-démocrate à la présidentielle |
+| 09/10 | Primaire sociale-démocrate : le vote prolongé jusqu’à dimanche soir |
+| 23/09 | Raphaël Glucksmann, l’homme qui fait trop parisien |
+| 17/09 | Présidentielle 2027 : Olivier Faure veut remporter la primaire avec un programme ancré à gauche |
+| 31/08 | Présidentielle 2027 : Raphaël Glucksmann ou Olivier Faure, la gauche modérée cherche son candidat |
+| 29/08 | Présidentielle 2027 : à Blois, la rivalité Faure-Glucksmann prend corps avant la primaire |
+| 27/08 | Élection présidentielle : Boris Vallaud apporte son soutien à Raphaël Glucksmann |
+| 26/08 | Présidentielle 2027 : quels sont les candidats déclarés à gauche ? |
+| 24/08 | Léa Salamé, Anne Sinclair… Ces journalistes qui s’éclipsent pour la carrière politique de leur partenaire |
+| 24/08 | Présidentielle 2027 : l’écologiste Yannick Jadot annonce se rallier à Raphaël Glucksmann |
+| 24/08 | Présidentielle 2027 : entre Mélenchon et Glucksmann, la gauche se prépare à jouer désunie |
+| 24/08 | Présidentielle 2027 : Raphaël Glucksmann, un homme de conviction qui va devoir parler aux Français |
+| 24/08 | Présidentielle 2027 : Raphaël Glucksmann et Jean-Luc Mélenchon, deux gauches inconciliables |
+| 24/08 | Présidentielle 2027 : Raphaël Glucksmann annonce sa candidature « pour relever la France » |
+| 23/08 | Présidentielle : Raphaël Glucksmann, candidat pour "relever la France" |
+| 23/08 | Présidentielle 2027 : Raphaël Glucksmann sur le chemin d’une candidature |
+| 07/08 | Ingérences russes : Gabriel Attal et Raphaël Glucksmann font-ils le jeu de la désinformation ? |
+| 05/08 | Piratage russe contre Raphaël Glucksmann : comment l’exécutif tente de se prémunir des risques d’ingérence |
+| 05/08 | Glucksmann, Macron, Philippe, Attal : comment le réseau prorusse Storm-1516 mène ses opérations de déstabilisation |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Rapha%C3%ABl+Glucksmann, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

@@ -85,3 +85,13 @@ Total : 7 contenu(s) (7 par le titre, 0 par le chapô seul).
 | 17/09 | Rihanna dansant sur "Pour que tu m'aimes encore", Kim Kardashian, Teddy Riner... Myriade de stars au deuxième concert de … |
 | 16/09 | "On va y arriver" : Teddy Riner confiant pour les JO 2028 malgré son épaule qui "grince" |
 | 05/09 | Teddy Riner, blessé à l'épaule, déclare forfait pour les Championnats du monde de judo |
+
+## La Croix (la-croix.com)
+
+Source : la recherche du site (`/recherche/?texte=<nom>&periode=longue`, 3 dernières années), toutes les pages parcourues, relevé le 24 novembre 2026. Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 et que le nom du candidat figure dans son titre ou dans son chapô ; un article qui cite plusieurs candidats compte pour chacun. Le moteur est limité (voir la section 18 de [METHODOLOGIE.md](../METHODOLOGIE.md)) : le décompte est un minimum.
+
+Total : 1 article(s) (1 par le titre, 0 par le chapô seul).
+
+| Date (2026) | Titre |
+|---|---|
+| 23/09 | Cyberharcèlement : enquête ouverte pour injures publiques racistes contre Teddy Riner |

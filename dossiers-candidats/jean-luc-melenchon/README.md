@@ -938,6 +938,34 @@ Total : 56 contenu(s) (41 par le titre, 15 par le chapô seul).
 | 01/07 | "Il s’impose comme le numéro un" : Jean-Luc Mélenchon améliore sa popularité auprès des sympathisants de gauche pour la … |
 | 01/07 | "Ce serait dangereux" : sur RTL, Édouard Philippe dit vouloir éviter la multiplication des candidatures et le "cauchemar … |
 
+## La Croix (la-croix.com)
+
+Source : la recherche du site (`/recherche/?texte=<nom>&periode=longue`, 3 dernières années), toutes les pages parcourues, relevé le 24 novembre 2026. Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 et que le nom du candidat figure dans son titre ou dans son chapô ; un article qui cite plusieurs candidats compte pour chacun. Le moteur est limité (voir la section 18 de [METHODOLOGIE.md](../METHODOLOGIE.md)) : le décompte est un minimum.
+
+Total : 19 article(s) (13 par le titre, 6 par le chapô seul).
+
+| Date (2026) | Titre |
+|---|---|
+| 27/10 | Présidentielle 2027 : desservi par la crise, Édouard Philippe peine à s’imposer |
+| 12/10 | À Clermont-Ferrand, Mélenchon cible la macronie et courtise la jeunesse |
+| 11/10 | À Clermont-Ferrand, Mélenchon fait salle comble pour dénoncer "l'ignominie" Parcoursup |
+| 10/10 | Présidentielle : Attal, Mélenchon... pour les candidats, l'atout ou le péril jeune |
+| 05/10 | Mélenchon encore et toujours au centre des débats de la primaire sociale-démocrate |
+| 29/09 | Crise du logement : ces candidats à la présidentielle qui promettent de renverser la table |
+| 12/09 | Présidentielle 2027 : Mélenchon et Roussel se livrent un duel à distance à la Fête de l’Humanité |
+| 10/09 | « Notre projet, c’est de montrer la crédibilité » de LFI : les « Phrygiens », ces hauts fonctionnaires qui conseillent le parti |
+| 03/09 | Signe de soumission ou acte de foi : comment Mélenchon a évolué sur le voile islamique |
+| 02/09 | « Jean-Luc Mélenchon est à la dette ce que le professeur Raoult était aux maladies infectieuses » |
+| 02/09 | Présidentielle 2027 : pourquoi le site Internet de Mélenchon s’est retrouvé classé « dangereux » |
+| 31/08 | Présidentielle 2027 : Raphaël Glucksmann ou Olivier Faure, la gauche modérée cherche son candidat |
+| 26/08 | Présidentielle 2027 : quels sont les candidats déclarés à gauche ? |
+| 24/08 | Présidentielle 2027 : entre Mélenchon et Glucksmann, la gauche se prépare à jouer désunie |
+| 24/08 | Présidentielle 2027 : Raphaël Glucksmann et Jean-Luc Mélenchon, deux gauches inconciliables |
+| 23/08 | Présidentielle: Mélenchon colore sa rentrée en vert en proposant la "conscription écologique" |
+| 23/08 | En meeting, Mélenchon promet la censure pour le budget 2027 de l'Etat |
+| 16/08 | Peut-on annuler la part de dette française détenue par la Banque de France, comme le suggère Jean-Luc Mélenchon ? |
+| 24/07 | Concert interrompu de Barbara Butch : quelle relation entre LFI et le milieu culturel ? |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Jean-Luc+M%C3%A9lenchon, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

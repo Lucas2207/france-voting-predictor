@@ -248,6 +248,21 @@ Total : 5 contenu(s) (4 par le titre, 1 par le chapô seul).
 | 21/08 | Fabien Roussel, coco solo |
 | 13/08 | "C'est un mec de droite infiltré pour tuer le PCF" : Fabien Roussel, une candidature qui risque encore plus de diviser l … |
 
+## La Croix (la-croix.com)
+
+Source : la recherche du site (`/recherche/?texte=<nom>&periode=longue`, 3 dernières années), toutes les pages parcourues, relevé le 24 novembre 2026. Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 et que le nom du candidat figure dans son titre ou dans son chapô ; un article qui cite plusieurs candidats compte pour chacun. Le moteur est limité (voir la section 18 de [METHODOLOGIE.md](../METHODOLOGIE.md)) : le décompte est un minimum.
+
+Total : 6 article(s) (5 par le titre, 1 par le chapô seul).
+
+| Date (2026) | Titre |
+|---|---|
+| 04/10 | Roussel (PCF) appelle à soutenir et accompagner les lycéens mardi |
+| 12/09 | Présidentielle 2027 : Mélenchon et Roussel se livrent un duel à distance à la Fête de l’Humanité |
+| 03/09 | Présidentielle 2027 : le communiste Fabien Roussel repart en solitaire |
+| 26/08 | Présidentielle 2027 : quels sont les candidats déclarés à gauche ? |
+| 05/07 | Réélu à la tête du PCF, Fabien Roussel s’avance vers une candidature à la présidentielle |
+| 05/07 | Fabien Roussel, reconduit à la tête du PCF et "à 85%" candidat à la présidentielle |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Fabien+Roussel, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

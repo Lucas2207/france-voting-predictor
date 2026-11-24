@@ -168,6 +168,15 @@ Total : 2 contenu(s) (2 par le titre, 0 par le chapô seul).
 | 21/08 | Nathalie Arthaud refuse le "cirque électoral" et le barrage à l'extrême droite |
 | 07/08 | Renverser le système capitaliste et mettre en place la révolution des travailleurs : l'exercice rodé pour Nathalie Artha … |
 
+## La Croix (la-croix.com)
+
+Source : la recherche du site (`/recherche/?texte=<nom>&periode=longue`, 3 dernières années), toutes les pages parcourues, relevé le 24 novembre 2026. Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 et que le nom du candidat figure dans son titre ou dans son chapô ; un article qui cite plusieurs candidats compte pour chacun. Le moteur est limité (voir la section 18 de [METHODOLOGIE.md](../METHODOLOGIE.md)) : le décompte est un minimum.
+
+Total : 0 article(s) (0 par le titre, 0 par le chapô seul).
+
+| Date (2026) | Titre |
+|---|---|
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Nathalie+Arthaud, parcouru jusqu'au 1er juillet 2026.

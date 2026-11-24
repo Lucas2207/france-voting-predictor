@@ -1506,6 +1506,56 @@ Total : 99 contenu(s) (81 par le titre, 18 par le chapô seul).
 | 01/07 | Procès en appel du RN : les scénarios qui menacent la candidature de Marine Le Pen |
 | 01/07 | "Ce serait dangereux" : sur RTL, Édouard Philippe dit vouloir éviter la multiplication des candidatures et le "cauchemar … |
 
+## La Croix (la-croix.com)
+
+Source : la recherche du site (`/recherche/?texte=<nom>&periode=longue`, 3 dernières années), toutes les pages parcourues, relevé le 24 novembre 2026. Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 et que le nom du candidat figure dans son titre ou dans son chapô ; un article qui cite plusieurs candidats compte pour chacun. Le moteur est limité (voir la section 18 de [METHODOLOGIE.md](../METHODOLOGIE.md)) : le décompte est un minimum.
+
+Total : 41 article(s) (34 par le titre, 7 par le chapô seul).
+
+| Date (2026) | Titre |
+|---|---|
+| 31/10 | Jet de molotov contre les forces de l'ordre: Le Pen et Retailleau dénoncent un acte "insupportable" |
+| 25/10 | Présidentielle 2027 : Marine Le Pen surjoue la carte de l’optimisme |
+| 25/10 | Pour son premier meeting sous tension, Le Pen promet une "renaissance" sans "rupture brutale" |
+| 24/10 | Présidentielle 2027 : Marine Le Pen et Jordan Bardella continuent de mettre en scène leur tandem |
+| 16/10 | Présidentielle 2027 : pourquoi Marine Le Pen accélère sa campagne |
+| 29/09 | Crise du logement : ces candidats à la présidentielle qui promettent de renverser la table |
+| 22/09 | Présidentielle 2027 : le Rassemblement national toujours en quête d’un prêt bancaire |
+| 20/09 | Jean-Philippe Tanguy, un fidèle de Marine Le Pen aux manettes du budget |
+| 14/09 | Présidentielle 2027 : qu’est-ce que la « priorité nationale » sur le logement de Marine Le Pen ? |
+| 14/09 | Présidentielle 2027 : Marine Le Pen et le salut du monde |
+| 13/09 | Présidentielle 2027 : pour sa rentrée, Marine Le Pen assume son ADN populiste |
+| 13/09 | Marine Le Pen met l'accent sur le logement et les fondamentaux du RN |
+| 11/09 | La rentrée politique ratée du Rassemblement national |
+| 01/09 | Peut-on interdire le port du voile dans l’espace public ? |
+| 28/08 | Présidentielle 2027 : Bruno Retailleau en campagne dans les pas de François Fillon |
+| 28/08 | Présidentielle 2027 : Marine Le Pen en équilibriste sur son programme économique |
+| 27/08 | Présidentielle 2027 : les grands patrons inquiets face à la candidature de Marine Le Pen |
+| 09/08 | Marine Le Pen, un clan au-dessus des autres au RN |
+| 11/07 | Sur le terrain, le RN tente de défendre la candidature de Marine Le Pen |
+| 09/07 | Présidentielle 2027 : Marine Le Pen candidate, ses adversaires contraints de s’adapter |
+| 09/07 | Marine Le Pen candidate en 2027 : Jordan Bardella, le dauphin qui attendait son heure |
+| 09/07 | Marine Le Pen candidate : au sein du RN, une annonce vue comme un « soulagement » |
+| 08/07 | « Séisme », « coup de poker »… Le maintien de la candidature de Marine Le Pen vu par la presse européenne |
+| 08/07 | « Les Le Pen ont su offrir à l’extrême droite française la permanence d’un parti compétitif » |
+| 08/07 | Procès Marine Le Pen : la Cour de cassation se prononcera « au plus tard » début avril 2027 |
+| 08/07 | Marine Le Pen candidate : les électeurs sont-ils plus légitimes que les juges ? |
+| 08/07 | Marine Le Pen : les questions soulevées par le pourvoi en cassation de la candidate du RN |
+| 07/07 | « Je suis candidate » : ce qu’il faut retenir des annonces de Marine Le Pen sur TF1 |
+| 07/07 | Procès du RN : l’affaire qui décide de l’avenir politique de Marine Le Pen |
+| 07/07 | Procès de Marine Le Pen : l’ex-présidente du RN condamnée mais éligible pour 2027 |
+| 07/07 | Procès de Marine Le Pen : inéligibilité, bracelet électronique... La décision de la cour d’appel décryptée |
+| 07/07 | Marine Le Pen, trente ans de combat politique et une quatrième candidature à la présidentielle |
+| 07/07 | Marine Le Pen condamnée : que peut-on faire ou non sous bracelet électronique ? |
+| 07/07 | Le trouble jeu de Marine Le Pen |
+| 07/07 | Jordan Bardella ou Marine Le Pen ? Pour les sympathisants du RN, l’essentiel est d’arriver au pouvoir |
+| 07/07 | Condamnation de Marine Le Pen : que dit le communiqué de la cour d’appel qui justifie la décision |
+| 06/07 | « Il revient au juge et non à l’électeur de décider si un candidat à la présidentielle respecte la loi » |
+| 06/07 | Présidentielle 2027 : entre Marine Le Pen et Jordan Bardella, la classe politique fait son choix |
+| 05/07 | « Marine, Jordan ou quelqu’un d’autre c’est pareil » : à Liévin, un air de passage de flambeau pour le RN |
+| 04/07 | Trois jours avant le jugement, un dernier banquet à Liévin pour Le Pen et Bardella |
+| 02/07 | Avant son jugement, Marine Le Pen déclare qu’elle n’a « pas peur » et exclut une campagne avec un bracelet électronique |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Marine+Le+Pen, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

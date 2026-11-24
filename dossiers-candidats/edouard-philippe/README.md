@@ -809,6 +809,36 @@ Total : 43 contenu(s) (35 par le titre, 8 par le chapô seul).
 | 01/07 | Présidentielle 2027 : Laurent Wauquiez estime que Bruno Retailleau doit "savoir se retirer" et tend la main à Édouard Ph … |
 | 01/07 | "Ce serait dangereux" : sur RTL, Édouard Philippe dit vouloir éviter la multiplication des candidatures et le "cauchemar … |
 
+## La Croix (la-croix.com)
+
+Source : la recherche du site (`/recherche/?texte=<nom>&periode=longue`, 3 dernières années), toutes les pages parcourues, relevé le 24 novembre 2026. Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 et que le nom du candidat figure dans son titre ou dans son chapô ; un article qui cite plusieurs candidats compte pour chacun. Le moteur est limité (voir la section 18 de [METHODOLOGIE.md](../METHODOLOGIE.md)) : le décompte est un minimum.
+
+Total : 21 article(s) (13 par le titre, 8 par le chapô seul).
+
+| Date (2026) | Titre |
+|---|---|
+| 30/10 | Accusations de détournement de fonds publics : Édouard Philippe placé sous le statut de témoin assisté |
+| 29/10 | Présidentielle 2027 : Attal propose une « primaire des démocrates », sans convaincre |
+| 27/10 | Présidentielle 2027 : desservi par la crise, Édouard Philippe peine à s’imposer |
+| 10/10 | Présidentielle 2027 : avec son « pacte pour la jeunesse » Gabriel Attal espère relancer sa campagne |
+| 30/09 | Retraite à 62 ou 67 ans ? Les différentes pistes des candidats pour la présidentielle |
+| 29/09 | Présidentielle 2027 : Édouard Philippe assume le risque de porter l’âge de la retraite à 65 ans |
+| 29/09 | Départ à 65 ans, durée de cotisation : comment Édouard Philippe veut réformer les retraites |
+| 24/09 | Présidentielle 2027 : au centre, Édouard Philippe et Gabriel Attal en quête d’élan |
+| 17/09 | Présidentielle 2027 : Édouard Philippe présente son programme pour l’adaptation climatique |
+| 12/09 | Présidentielle 2027 : pour Bruno Retailleau, l’indépendance de la droite « jusqu’au bout » |
+| 12/09 | Présidentielle 2027 : Bruno Retailleau se pose en candidat « de la reconstruction » devant des militants indécis |
+| 09/09 | Présidentielle 2027 : pourquoi Édouard Philippe pousse au rassemblement du « bloc central » |
+| 30/08 | Présidentielle 2027 : les politiques font leur rentrée, les candidatures se précisent |
+| 28/08 | Présidentielle 2027 : Bruno Retailleau en campagne dans les pas de François Fillon |
+| 21/08 | Mayotte : est-il possible de fermer « totalement » l’immigration, comme le propose Édouard Philippe ? |
+| 18/08 | Présidentielle 2027 : Gérald Darmanin, un soutien de taille pour Édouard Philippe |
+| 18/08 | Ingérence russe : la justice ouvre une enquête sur des attaques ciblant Édouard Philippe et Gabriel Attal |
+| 17/08 | Présidentielle 2027 : Gérald Darmanin ne sera pas candidat et soutient Édouard Philippe |
+| 05/08 | Piratage russe contre Raphaël Glucksmann : comment l’exécutif tente de se prémunir des risques d’ingérence |
+| 07/07 | Meeting d’Édouard Philippe : le poing levé, c’est toute une tradition |
+| 05/07 | Présidentielle 2027 : Edouard Philippe se livre et promet des « efforts justes » |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=%C3%89douard+Philippe, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

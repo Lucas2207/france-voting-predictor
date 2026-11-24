@@ -217,6 +217,16 @@ Total : 5 contenu(s) (5 par le titre, 0 par le chapô seul).
 | 31/08 | Philippe Caverivière à Natacha Polony : "Éric Zemmour est tellement à droite qu'il est sur la bande d'arrêt d'urgence" |
 | 31/08 | "J'en ai assez de commenter le désastre" : sur RTL, Natacha Polony dit vouloir "rassembler ceux qui ne sont pas représen … |
 
+## La Croix (la-croix.com)
+
+Source : la recherche du site (`/recherche/?texte=<nom>&periode=longue`, 3 dernières années), toutes les pages parcourues, relevé le 24 novembre 2026. Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 et que le nom du candidat figure dans son titre ou dans son chapô ; un article qui cite plusieurs candidats compte pour chacun. Le moteur est limité (voir la section 18 de [METHODOLOGIE.md](../METHODOLOGIE.md)) : le décompte est un minimum.
+
+Total : 1 article(s) (1 par le titre, 0 par le chapô seul).
+
+| Date (2026) | Titre |
+|---|---|
+| 14/10 | Élection présidentielle 2027 : l’essayiste Natacha Polony annonce sa candidature |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Natacha+Polony, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

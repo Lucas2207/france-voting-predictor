@@ -602,6 +602,25 @@ Total : 15 contenu(s) (14 par le titre, 1 par le chapô seul).
 | 03/07 | "Tout le monde essaie de voir ce qui va se passer" : Bruno Retailleau est-il en train de perdre le soutien de la droite … |
 | 01/07 | Présidentielle 2027 : Laurent Wauquiez estime que Bruno Retailleau doit "savoir se retirer" et tend la main à Édouard Ph … |
 
+## La Croix (la-croix.com)
+
+Source : la recherche du site (`/recherche/?texte=<nom>&periode=longue`, 3 dernières années), toutes les pages parcourues, relevé le 24 novembre 2026. Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 et que le nom du candidat figure dans son titre ou dans son chapô ; un article qui cite plusieurs candidats compte pour chacun. Le moteur est limité (voir la section 18 de [METHODOLOGIE.md](../METHODOLOGIE.md)) : le décompte est un minimum.
+
+Total : 10 article(s) (7 par le titre, 3 par le chapô seul).
+
+| Date (2026) | Titre |
+|---|---|
+| 31/10 | Jet de molotov contre les forces de l'ordre: Le Pen et Retailleau dénoncent un acte "insupportable" |
+| 29/10 | Présidentielle 2027 : Attal propose une « primaire des démocrates », sans convaincre |
+| 27/10 | Présidentielle 2027 : peut-on encore modifier la date de l’élection ? |
+| 26/10 | « Notre pays n’est pas islamophobe » : quand Bruno Retailleau écrit aux musulmans français |
+| 16/10 | Présidentielle 2027 : à droite, David Lisnard bouscule la candidature de Bruno Retailleau |
+| 12/10 | Bruno Retailleau veut rétablir l’ordre, y compris dans les finances publiques |
+| 12/09 | Présidentielle 2027 : pour Bruno Retailleau, l’indépendance de la droite « jusqu’au bout » |
+| 12/09 | Présidentielle 2027 : Bruno Retailleau se pose en candidat « de la reconstruction » devant des militants indécis |
+| 09/09 | Présidentielle 2027 : pourquoi Édouard Philippe pousse au rassemblement du « bloc central » |
+| 28/08 | Présidentielle 2027 : Bruno Retailleau en campagne dans les pas de François Fillon |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Bruno+Retailleau, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

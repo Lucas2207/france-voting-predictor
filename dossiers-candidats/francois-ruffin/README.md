@@ -237,6 +237,16 @@ Total : 6 contenu(s) (6 par le titre, 0 par le chapô seul).
 | 17/07 | Un président de la République payé au SMIC : François Ruffin, un candidat populaire à gauche mais isolé pour la présiden … |
 | 09/07 | "Un seuil de décence a été dépassé" : François Ruffin estime sur RTL que la France a "perdu le contrôle de la corruption … |
 
+## La Croix (la-croix.com)
+
+Source : la recherche du site (`/recherche/?texte=<nom>&periode=longue`, 3 dernières années), toutes les pages parcourues, relevé le 24 novembre 2026. Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 et que le nom du candidat figure dans son titre ou dans son chapô ; un article qui cite plusieurs candidats compte pour chacun. Le moteur est limité (voir la section 18 de [METHODOLOGIE.md](../METHODOLOGIE.md)) : le décompte est un minimum.
+
+Total : 1 article(s) (1 par le titre, 0 par le chapô seul).
+
+| Date (2026) | Titre |
+|---|---|
+| 14/07 | Présidentielle 2027 : François Ruffin veut tracer sa voie entre « les trop mous et les trop fous » |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Fran%C3%A7ois+Ruffin, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.
