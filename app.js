@@ -1031,6 +1031,9 @@ function candidateHead(c) {
     : `<span class="block">${esc(first)}</span>${party}`;
 }
 
+/** Nom de média sans article initial (Le, La, Les, L'), pour le tri alphabétique. @param {string} label */
+const articleFree = (label) => label.replace(/^(les|le|la|l['’])\s*/i, '');
+
 /** Échelle de couleur des cases : du bleu clair (peu d'articles) au rouge foncé (le plus d'articles).
  * La racine carrée étale les couleurs chaudes sur davantage de valeurs.
  * @param {number} t entre 0 et 1 */
@@ -1077,7 +1080,7 @@ function renderMatrix(id, rows, cols, value, empty, redraw) {
   const total = (/** @type {string} */ rk) => cols.reduce((x, c) => x + value(rk, c.key), 0);
   const sign = st.dir === 'asc' ? 1 : -1;
   const sortedRows = st.axis === 'alpha'
-    ? [...rows].sort((x, y) => sign * x.label.localeCompare(y.label, 'fr'))
+    ? [...rows].sort((x, y) => sign * articleFree(x.label).localeCompare(articleFree(y.label), 'fr'))
     : [...rows].sort((x, y) => {
       const vx = st.axis === 'rows' && st.key ? value(x.key, st.key) : total(x.key);
       const vy = st.axis === 'rows' && st.key ? value(y.key, st.key) : total(y.key);
