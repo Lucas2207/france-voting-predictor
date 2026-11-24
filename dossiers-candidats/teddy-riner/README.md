@@ -162,3 +162,16 @@ Total : 5 article(s) (5 par le titre, 0 par le chapô seul).
 | 16/09 | Teddy Riner, de retour au Paris Saint-Germain : « Le maître mot, c’est patienter » |
 | 05/09 | « Un petit bout d'os qui se balade » : Teddy Riner déclare forfait pour les championnats du monde |
 | 03/07 | Le grand retour de Riner et Agbégnénou, Buchard non retenue... la liste des sélectionnés pour les Mondiaux |
+
+## Le Républicain Lorrain (republicain-lorrain.fr)
+
+Source : la recherche du site (`/recherche?q=<nom>&page=<n>`), toutes les pages parcourues jusqu'aux articles antérieurs au 1er juillet 2026, relevé le 24 novembre 2026. Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 (date lue dans l'adresse) et que le nom du candidat figure dans son titre ou dans le début de son chapô ; un article qui cite plusieurs candidats compte pour chacun. Voir la section 24 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 4 article(s) (4 par le titre, 0 par le chapô seul).
+
+| Date (2026) | Titre |
+|---|---|
+| 18/09 | Attaqué par Pascal Praud sur son « angoisse » de l'extrême droite, Teddy Riner riposte |
+| 16/09 | Teddy Riner, de retour au Paris Saint-Germain : « Le maître mot, c’est patienter » |
+| 05/09 | « Un petit bout d'os qui se balade » : Teddy Riner déclare forfait pour les championnats du monde |
+| 03/07 | Le grand retour de Riner et Agbégnénou, Buchard non retenue... La liste des sélectionnés pour les Mondiaux |

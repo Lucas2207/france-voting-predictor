@@ -1024,6 +1024,49 @@ Total : 36 article(s) (26 par le titre, 10 par le chapô seul).
 | 02/07 | Édouard Philippe et Gabriel Attal, deux hommes pour un « même espace politique » |
 | 01/07 | « Il faut savoir se retirer » : Wauquiez tance Retailleau et tend la main à Philippe |
 
+## Le Républicain Lorrain (republicain-lorrain.fr)
+
+Source : la recherche du site (`/recherche?q=<nom>&page=<n>`), toutes les pages parcourues jusqu'aux articles antérieurs au 1er juillet 2026, relevé le 24 novembre 2026. Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 (date lue dans l'adresse) et que le nom du candidat figure dans son titre ou dans le début de son chapô ; un article qui cite plusieurs candidats compte pour chacun. Voir la section 24 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 34 article(s) (24 par le titre, 10 par le chapô seul).
+
+| Date (2026) | Titre |
+|---|---|
+| 01/11 | « Elle n'aura pas lieu » : Édouard Philippe refuse la primaire proposée par Gabriel Attal |
+| 29/10 | Enquête pour détournement de fonds public : Édouard Philippe placé sous le statut de témoin assisté |
+| 26/10 | Un sondage place de nouveau Édouard Philippe derrière Mélenchon, Le Pen creuse l'écart |
+| 22/10 | « Antisémite et factieux » : un porte-parole d'Édouard Philippe relaxé après ses propos visant un insoumis |
+| 13/10 | Courrier sans réponse, négociations bloquées... Une énième main tendue d’Édouard Philippe reste lettre morte |
+| 12/10 | À Dijon, Édouard Philippe remercie (deux fois) « Monsieur le maire »... qui est une femme |
+| 08/10 | « Défier Édouard Philippe » : Jean-Luc Mélenchon en meeting au Havre le 5 décembre |
+| 08/10 | 350 euros dès le premier enfant, 3 000 euros de réduction d'impôt : Édouard Philippe dévoile son « plan famille » |
+| 29/09 | « Je sais que c’est impopulaire » : Édouard Philippe fait des retraites un marqueur de sa campagne |
+| 29/09 | Réforme des retraites : Édouard Philippe veut relever l'âge légal de départ à 65 ans |
+| 24/09 | Loin derrière Le Pen, Mélenchon et Philippe sont au coude-à-coude, selon un sondage |
+| 12/09 | Édouard Philippe trace son sillon en Terres de Jim |
+| 10/09 | L’édito. Écouter nos cœurs battre |
+| 09/09 | À droite et au centre, près des trois quarts des électeurs favorables à une primaire |
+| 08/09 | Édouard Philippe accélère, Gabriel Attal temporise : la guerre du bloc central est déclarée |
+| 31/08 | Édouard Philippe « le mieux placé » pour 2027, carburants, budget... Maud Bregeon se livre |
+| 30/08 | Philippe s'offre Darmanin (et des frites) pour illustrer son rassemblement de la droite et du centre |
+| 30/08 | Pour Dominique de Villepin, la « surenchère » d'Édouard Philippe « fait le jeu » de Marine Le Pen |
+| 29/08 | Avec Edouard Philippe et François Hollande, le retour droite-gauche |
+| 26/08 | Le dessin du jour : copier-coller |
+| 22/08 | « Qu'il vienne ici » : Philippe répond à Mélenchon sur l'immigration à Mayotte |
+| 22/08 | Philippe presse la droite et le centre de se rassembler avant qu'il ne soit « trop tard » |
+| 21/08 | « Il faut fermer les vannes » : Édouard Philippe durcit sa ligne sur l’immigration à Mayotte |
+| 18/08 | Ingérence russe : enquête ouverte sur les opérations visant Édouard Philippe et Gabriel Attal |
+| 17/08 | Gérald Darmanin ne sera pas candidat et annonce son soutien à Édouard Philippe |
+| 01/08 | L’édito : Le fléau des ingérences russes |
+| 01/08 | Édouard Philippe visé par une campagne de désinformation russe |
+| 13/07 | « Je suis adhérente de la première heure » : Amandine Guérin prend la tête du comité local Horizons |
+| 05/07 | Édouard Philippe lance sa campagne lors d'un grand meeting pour « croire en nous » |
+| 05/07 | Avec son grand meeting ce dimanche, Édouard Philippe souhaite accélérer la dynamique |
+| 04/07 | Présidentielle : Édouard Philippe profite de la guéguerre entre Wauquiez et Retailleau |
+| 02/07 | Édouard Philippe et Gabriel Attal, deux hommes pour un « même espace politique » |
+| 02/07 | Présidentielle 2027 : Alexandre Cassaro, maire de Forbach, apporte son soutien à Édouard Philippe |
+| 01/07 | « Il faut savoir se retirer » : Wauquiez tance Retailleau et tend la main à Philippe |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=%C3%89douard+Philippe, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.
