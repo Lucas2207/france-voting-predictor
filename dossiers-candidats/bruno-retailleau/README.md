@@ -870,6 +870,16 @@ Total : 22 article(s) (18 par le titre, 4 par le chapô seul).
 | 01/07 | « Je ne suis pas dans le bloc central » : en déplacement à Brest, Bruno Retailleau maintient le cap de son ambition et de ses valeurs |
 | 01/07 | « Il faut, le plus tôt possible, savoir se retirer si c’est nécessaire » : Laurent Wauquiez vise sans le nommer Bruno Retailleau, candidat à la présidentielle |
 
+## La Provence (laprovence.com)
+
+Source : la recherche du site (`/recherche?query=<nom>`), deux requêtes par candidat (le nom, puis le nom suivi de « présidentielle 2027 »), relevé le 24 novembre 2026. Le moteur ne renvoie que **20 résultats par requête**, sans pagination ni date : le relevé est donc partiel et ne garantit pas d'avoir tous les articles de la période. Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 (date de publication lue sur la page de l'article) et que le nom du candidat figure dans son titre ou dans son chapô. Voir la section 30 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 1 article(s) (0 par le titre, 1 par le chapô seul) (relevé partiel).
+
+| Date (2026) | Titre |
+|---|---|
+| 29/10 | Présidentielle 2027 : Dominique de Villepin refuse de participer à la primaire proposée par Gabriel Attal |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Bruno+Retailleau, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

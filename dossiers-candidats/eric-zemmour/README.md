@@ -420,6 +420,17 @@ Total : 5 article(s) (3 par le titre, 2 par le chapô seul).
 | 31/07 | Sénatoriales dans le Finistère : le Reconquête ! Yann Leriche tête de liste |
 | 05/07 | « La racaille en prison, ni oubli ni pardon » : à Narbonne, 4 500 personnes lors d’une marche blanche pour Louis, tué dans un guet-apens |
 
+## La Provence (laprovence.com)
+
+Source : la recherche du site (`/recherche?query=<nom>`), deux requêtes par candidat (le nom, puis le nom suivi de « présidentielle 2027 »), relevé le 24 novembre 2026. Le moteur ne renvoie que **20 résultats par requête**, sans pagination ni date : le relevé est donc partiel et ne garantit pas d'avoir tous les articles de la période. Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 (date de publication lue sur la page de l'article) et que le nom du candidat figure dans son titre ou dans son chapô. Voir la section 30 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 2 article(s) (0 par le titre, 2 par le chapô seul) (relevé partiel).
+
+| Date (2026) | Titre |
+|---|---|
+| 01/11 | ÉDITO. Présidentielle 2027 : la passe Lisnard |
+| 16/10 | Le parti Reconquête ! à la conquête du Vaucluse |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=%C3%89ric+Zemmour, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

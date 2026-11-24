@@ -1366,6 +1366,17 @@ Total : 36 article(s) (27 par le titre, 9 par le chapô seul).
 | 05/08 | Ingérences dans la présidentielle : il ne faut pas avoir « la main qui tremble » face à TikTok et X, exhorte Glucksmann |
 | 04/08 | Ingérences russes : un deepfake sonore de Léa Salamé et d’Edwy Plenel vise le candidat à l’élection présidentielle Raphaël Glucksmann |
 
+## La Provence (laprovence.com)
+
+Source : la recherche du site (`/recherche?query=<nom>`), deux requêtes par candidat (le nom, puis le nom suivi de « présidentielle 2027 »), relevé le 24 novembre 2026. Le moteur ne renvoie que **20 résultats par requête**, sans pagination ni date : le relevé est donc partiel et ne garantit pas d'avoir tous les articles de la période. Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 (date de publication lue sur la page de l'article) et que le nom du candidat figure dans son titre ou dans son chapô. Voir la section 30 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 2 article(s) (1 par le titre, 1 par le chapô seul) (relevé partiel).
+
+| Date (2026) | Titre |
+|---|---|
+| 19/10 | Présidentielle 2027 : Marine Le Pen nettement en tête au 1er tour devant Édouard Philippe, d'après un sondage |
+| 16/09 | Primaire de la gauche : Glucksmann, Royal, Faure... la liste définitive pour la bataille sociale-démocrate |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Rapha%C3%ABl+Glucksmann, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

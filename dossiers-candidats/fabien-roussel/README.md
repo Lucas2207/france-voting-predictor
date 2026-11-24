@@ -474,6 +474,18 @@ Total : 37 article(s) (21 par le titre, 16 par le chapô seul).
 | 05/07 | Fabien Roussel, reconduit à la tête du PCF et « à 85 % » candidat à la présidentielle |
 | 03/07 | Olivier Roussel et Philippe Quéméner, nouveaux co-présidents, du Relecq-Kerhuon Rugby |
 
+## La Provence (laprovence.com)
+
+Source : la recherche du site (`/recherche?query=<nom>`), deux requêtes par candidat (le nom, puis le nom suivi de « présidentielle 2027 »), relevé le 24 novembre 2026. Le moteur ne renvoie que **20 résultats par requête**, sans pagination ni date : le relevé est donc partiel et ne garantit pas d'avoir tous les articles de la période. Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 (date de publication lue sur la page de l'article) et que le nom du candidat figure dans son titre ou dans son chapô. Voir la section 30 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 3 article(s) (3 par le titre, 0 par le chapô seul) (relevé partiel).
+
+| Date (2026) | Titre |
+|---|---|
+| 20/10 | Violences du 17 octobre : les couvre-feux, un "aveu d’impuissance" pour Fabien Roussel |
+| 18/09 | Attal, Philippe, Roussel, Le Pen... qui propose quoi pour faire vite baisser le prix des carburants ? |
+| 06/09 | Présidentielle 2027 : Fabien Roussel, secrétaire national du Parti communiste, officialise sa candidature |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Fabien+Roussel, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

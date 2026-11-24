@@ -2276,6 +2276,22 @@ Total : 47 article(s) (32 par le titre, 15 par le chapô seul).
 | 05/07 | Match tendu pour les Bleus, orthographe au bac, unité du RN : le point à la mi-journée |
 | 05/07 | À l’approche du jugement, Le Pen et Bardella se jurent « confiance » et « amitié » |
 
+## La Provence (laprovence.com)
+
+Source : la recherche du site (`/recherche?query=<nom>`), deux requêtes par candidat (le nom, puis le nom suivi de « présidentielle 2027 »), relevé le 24 novembre 2026. Le moteur ne renvoie que **20 résultats par requête**, sans pagination ni date : le relevé est donc partiel et ne garantit pas d'avoir tous les articles de la période. Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 (date de publication lue sur la page de l'article) et que le nom du candidat figure dans son titre ou dans son chapô. Voir la section 30 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 7 article(s) (6 par le titre, 1 par le chapô seul) (relevé partiel).
+
+| Date (2026) | Titre |
+|---|---|
+| 19/10 | Présidentielle 2027 : Marine Le Pen nettement en tête au 1er tour devant Édouard Philippe, d'après un sondage |
+| 29/09 | Accusations contre Bardella : Tanguy (RN) s’en prend à "la racaille antisémite qui a été purgée par Marine Le Pen" |
+| 28/09 | Présidentielle 2027 : Marine Le Pen creuse l’écart et domine largement, selon un nouveau sondage |
+| 18/09 | Attal, Philippe, Roussel, Le Pen... qui propose quoi pour faire vite baisser le prix des carburants ? |
+| 08/09 | Présidentielle 2027 : "Le duel Mélenchon-Le Pen n’est pas l’unique scénario" |
+| 30/08 | Présidentielle 2027 : "Oui bien sûr", Dominique de Villepin "veut être candidat" au scrutin |
+| 09/08 | Marine Le Pen, un clan au-dessus des autres au RN |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Marine+Le+Pen, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

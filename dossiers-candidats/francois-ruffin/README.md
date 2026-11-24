@@ -383,6 +383,17 @@ Total : 5 article(s) (5 par le titre, 0 par le chapô seul).
 | 27/07 | L’Alréenne Françoise Charpentier référente de François Ruffin, candidat à l’élection présidentielle |
 | 06/07 | « Nicolas Sarkozy et François Hollande coûtent aux Français plus de quatre millions d’euros par an » : François Ruffin veut mettre fin aux « privilèges » des anciens présidents |
 
+## La Provence (laprovence.com)
+
+Source : la recherche du site (`/recherche?query=<nom>`), deux requêtes par candidat (le nom, puis le nom suivi de « présidentielle 2027 »), relevé le 24 novembre 2026. Le moteur ne renvoie que **20 résultats par requête**, sans pagination ni date : le relevé est donc partiel et ne garantit pas d'avoir tous les articles de la période. Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 (date de publication lue sur la page de l'article) et que le nom du candidat figure dans son titre ou dans son chapô. Voir la section 30 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 2 article(s) (2 par le titre, 0 par le chapô seul) (relevé partiel).
+
+| Date (2026) | Titre |
+|---|---|
+| 25/09 | Présidentielle : "Le coût du logement est devenu le premier contraceptif de France", s’alarme François Ruffin à Marseille |
+| 03/09 | Présidentielle 2027 : "On se renifle", "premier rendez-vous Tinder"... Villepin et Ruffin testent leurs convergences |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Fran%C3%A7ois+Ruffin, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

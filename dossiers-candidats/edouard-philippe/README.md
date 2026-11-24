@@ -1282,6 +1282,21 @@ Total : 64 article(s) (31 par le titre, 33 par le chapô seul).
 | 03/07 | Wauquiez « me rend plus sympathique chaque jour », répond Retailleau |
 | 03/07 | Édouard Philippe, impopulaire et mal placé pour incarner la rupture avec le macronisme, selon un sondage |
 
+## La Provence (laprovence.com)
+
+Source : la recherche du site (`/recherche?query=<nom>`), deux requêtes par candidat (le nom, puis le nom suivi de « présidentielle 2027 »), relevé le 24 novembre 2026. Le moteur ne renvoie que **20 résultats par requête**, sans pagination ni date : le relevé est donc partiel et ne garantit pas d'avoir tous les articles de la période. Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 (date de publication lue sur la page de l'article) et que le nom du candidat figure dans son titre ou dans son chapô. Voir la section 30 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 6 article(s) (2 par le titre, 4 par le chapô seul) (relevé partiel).
+
+| Date (2026) | Titre |
+|---|---|
+| 01/11 | Édouard Philippe refuse la primaire, renvoie les choix à février |
+| 29/10 | Présidentielle 2027 : Dominique de Villepin refuse de participer à la primaire proposée par Gabriel Attal |
+| 19/10 | Présidentielle 2027 : Marine Le Pen nettement en tête au 1er tour devant Édouard Philippe, d'après un sondage |
+| 28/09 | Présidentielle 2027 : Marine Le Pen creuse l’écart et domine largement, selon un nouveau sondage |
+| 30/08 | Présidentielle 2027 : "Oui bien sûr", Dominique de Villepin "veut être candidat" au scrutin |
+| 06/08 | En plein été, Gabriel Attal omniprésent sur le terrain et à portée des critiques |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=%C3%89douard+Philippe, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

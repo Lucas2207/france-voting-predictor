@@ -507,14 +507,28 @@ Pour garder une méthode commune avec les journaux, ARTE n'est pas intégré aux
 - le moteur classe les résultats de façon approximative : la limite de 40 pages par requête (1 200 résultats) peut couper des articles de la période pour les candidats très cités ;
 - le chapô de la liste est le chapô de l'article ; un candidat cité seulement dans le corps du texte n'est pas compté.
 
-## 30. Ce qui n'est pas fait
+## 30. La Provence (laprovence.com)
+
+**Source :** la recherche du site, `https://www.laprovence.com/recherche?query=<nom>` (moteur Algolia affiché dans la page). Cookies : la bannière n'a pas été acceptée ; la saisie dans le champ a été faite par script, car la bannière masquait le champ.
+
+**Limite majeure :** le moteur n'affiche que **20 résultats par requête**, sans pagination (le défilement ne charge rien), ni date dans la liste. Le rubrique « Présidentielle 2027 » ne montre que les articles du jour. **Le décompte est donc un minimum, pas un total.**
+
+**Relevé :**
+- deux requêtes par candidat, le nom (« Marine Le Pen »), puis le nom suivi de « présidentielle 2027 » (pour Villepin et Riner : « Dominique de Villepin » et « Teddy Riner ») ; les 30 requêtes ont donné 173 articles distincts, dont 43 de la période ;
+- la date de chaque article est lue sur sa page (`article:published_time`) ; seuls les articles du 1er juillet au 1er novembre 2026 sont gardés ;
+- règle de décompte : le nom du candidat dans le **titre ou le chapô** (sous-titre de la liste) ; un article qui cite plusieurs candidats compte pour chacun ;
+- homonymes écartés : Jean-Marie Le Pen, Marion Maréchal-Le Pen, Marie-Caroline Le Pen, Michaël Zemmour, Jean-François Roussel, Robin Roussel, Jean-Christophe Ruffin, « Ruffine ».
+
+**Limites :** les articles les plus anciens renvoyés datent d'août 2026 : juillet est probablement mal couvert. Aucun article pour Raphaël Glucksmann (hors un titre cité), Éric Zemmour (hors chapô), Nathalie Arthaud ni Teddy Riner ne ressort de la période, ce qui ne prouve pas leur absence du journal.
+
+## 31. Ce qui n'est pas fait
 
 - pas d'ouverture des articles un par un : le classement se base sur le titre et le chapô ou l'adresse ;
 - pas de couverture de BFMTV pour juillet à septembre 2026 ;
 - Dominique de Villepin et Teddy Riner (candidats ajoutés le 23 novembre 2026) ne sont relevés que pour les médias traités depuis (L'Équipe pour l'instant) ; Radio France, BFMTV, TF1, franceinfo, Le Monde, CNEWS, Libération, Ouest-France, Europe 1, La Dépêche, RMC, Sud Ouest, ARTE et Canal+ restent à faire pour eux ;
 - les dossiers Radio France ne sont pas tous à jour pour les personnalités sans page propre (Zemmour, Lisnard, Roussel) : ils sont couverts par les pages des autres personnalités citées dans les chapôs.
 
-## 31. Fichiers
+## 32. Fichiers
 
 - Dossiers par candidat : `dossiers-candidats/<nom>/README.md`
 - Tableaux Radio France : section « Radio France » de chaque dossier (les anciens fichiers `radio-france-<nom>-emissions.md` à la racine ont été supprimés une fois repris dans les dossiers)

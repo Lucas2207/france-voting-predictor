@@ -222,3 +222,16 @@ Total : 5 article(s) (5 par le titre, 0 par le chapô seul).
 | 30/08 | Dominique de Villepin « veut être candidat » à la présidentielle pour 2027 et tacle Édouard Philippe sur l’immigration |
 | 28/08 | « Une société puissante, pourtant condamnée » : pour sortir d’un système « féodal », Dominique de Villepin propose un « big bang » fiscal |
 | 27/07 | Villepin entendu en audition libre mi-juillet dans le cadre de l’affaire des statuettes |
+
+## La Provence (laprovence.com)
+
+Source : la recherche du site (`/recherche?query=<nom>`), deux requêtes par candidat (le nom, puis le nom suivi de « présidentielle 2027 »), relevé le 24 novembre 2026. Le moteur ne renvoie que **20 résultats par requête**, sans pagination ni date : le relevé est donc partiel et ne garantit pas d'avoir tous les articles de la période. Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 (date de publication lue sur la page de l'article) et que le nom du candidat figure dans son titre ou dans son chapô. Voir la section 30 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 4 article(s) (4 par le titre, 0 par le chapô seul) (relevé partiel).
+
+| Date (2026) | Titre |
+|---|---|
+| 29/10 | Présidentielle 2027 : Dominique de Villepin refuse de participer à la primaire proposée par Gabriel Attal |
+| 05/10 | Dominique de Villepin ne croit pas "que l'on doive réprimer des manifestations de lycéens" : "Il vaut mieux les laisser" |
+| 03/09 | Présidentielle 2027 : "On se renifle", "premier rendez-vous Tinder"... Villepin et Ruffin testent leurs convergences |
+| 30/08 | Présidentielle 2027 : "Oui bien sûr", Dominique de Villepin "veut être candidat" au scrutin |
