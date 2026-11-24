@@ -268,6 +268,15 @@ Total : 4 article(s) (4 par le titre).
 | 11/10 | Une réunion publique avec Nathalie Arthaud à Maubeuge le 15 octobre |
 | 10/10 | Nathalie Arthaud, à nouveau candidate de Lutte ouvrière à l’élection présidentielle, à Douai le 14 octobre |
 
+## Midi Libre (midilibre.fr)
+
+Source : la recherche du site (`/recherche?q=<nom>&year=2026&pg=<n>`, 20 résultats par page), relevé le 24 novembre 2026, deux requêtes par candidat (nom complet puis nom de famille), résultats fusionnés. Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 (date lue dans l'adresse) et que le nom du candidat figure dans son **titre** ; un article qui cite plusieurs candidats compte pour chacun. Voir la section 28 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 0 article(s) (0 par le titre).
+
+| Date (2026) | Titre |
+|---|---|
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Nathalie+Arthaud, parcouru jusqu'au 1er juillet 2026.

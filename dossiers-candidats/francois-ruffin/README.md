@@ -360,6 +360,15 @@ Total : 2 article(s) (2 par le titre).
 | 16/10 | « Total soutien » de François Ruffin à Klégé Bapaume, les repreneurs optimistes |
 | 08/07 | Piscine moins chère durant la canicule : la proposition de Jérémie Ruffin au Pays solesmois a fait plouf |
 
+## Midi Libre (midilibre.fr)
+
+Source : la recherche du site (`/recherche?q=<nom>&year=2026&pg=<n>`, 20 résultats par page), relevé le 24 novembre 2026, deux requêtes par candidat (nom complet puis nom de famille), résultats fusionnés. Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 (date lue dans l'adresse) et que le nom du candidat figure dans son **titre** ; un article qui cite plusieurs candidats compte pour chacun. Voir la section 28 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 0 article(s) (0 par le titre).
+
+| Date (2026) | Titre |
+|---|---|
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Fran%C3%A7ois+Ruffin, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

@@ -1053,6 +1053,45 @@ Total : 11 article(s) (11 par le titre).
 | 07/08 | Philippe, Glucksmann, Attal… : que faire contre les ingérences russes qui se multiplient avant la présidentielle ? |
 | 16/07 | Gabriel Attal a-t-il annulé des commandes de Canadair lorsqu’il était Premier ministre ? |
 
+## Midi Libre (midilibre.fr)
+
+Source : la recherche du site (`/recherche?q=<nom>&year=2026&pg=<n>`, 20 résultats par page), relevé le 24 novembre 2026, deux requêtes par candidat (nom complet puis nom de famille), résultats fusionnés. Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 (date lue dans l'adresse) et que le nom du candidat figure dans son **titre** ; un article qui cite plusieurs candidats compte pour chacun. Voir la section 28 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 30 article(s) (30 par le titre).
+
+| Date (2026) | Titre |
+|---|---|
+| 01/11 | Présidentielle 2027 : "C’est une primaire de la division et de la confusion" : Édouard Philippe balaie le projet de Gabriel Attal en direct sur TF1 |
+| 31/10 | Présidentielle 2027 : avec son projet de primaire, Gabriel Attal veut redonner de la "force" et faire remonter le "centre et la droite" dans les sondages |
+| 29/10 | Présidentielle 2027 : Gabriel Attal veut une "primaire des démocrates", la proposition de l’ex-Premier ministre peut-elle aboutir ? |
+| 29/10 | Présidentielle 2027 : Gabriel Attal souhaite une "primaire des démocrates", trois questions pour comprendre cette proposition controversée |
+| 29/10 | "La France ne se relèverait pas d’avoir le RN à l’Élysée" : à Nîmes, Prisca Thevenot soutient l’appel à la primaire de Gabriel Attal |
+| 27/10 | Présidentielle 2027 : Prisca Thévenot en déplacement à Nîmes pour soutenir la candidature de Gabriel Attal |
+| 12/10 | SONDAGE Présidentielle 2027 : effondrement de Bruno Retailleau et de Gabriel Attal, Raphaël Glucksmann absent du second tour… les dernières intentions de vote |
+| 10/10 | Blocus des lycées : Jean-Luc Mélenchon accuse Gabriel Attal d’être "personnellement​ responsable" du mouvement, l’ex-ministre dénonce son "cynisme" |
+| 26/09 | Présidentielle 2027 : Marine Le Pen, Jean-Luc Mélenchon, Edouard Philippe, Gabriel Attal… quels candidats ont assisté à la messe du pape ? |
+| 24/09 | SONDAGE Présidentielle 2027 : Marine Le Pen toujours favorite, un record possible pour Jean-Luc Mélenchon face à Gabriel Attal, d’après un sondage |
+| 22/09 | Présidentielle 2027 : seulement 16 inscrits à Nîmes, une vingtaine de présents à Toulouse… les rendez-vous au "bistrot" de Gabriel Attal n’attirent pas les foules |
+| 22/09 | Présidentielle 2027 : "Je suis meilleur en campagne", "Il est très immature"… Edouard Philippe et Gabriel Attal se livrent à un véritable "combat de coqs" |
+| 16/09 | Présidentielle 2027 : "Tout est parti en live…", Gabriel Attal dézingue Emmanuel Macron et l’accuse d’avoir "flingué l’économie" |
+| 13/09 | SONDAGE Présidentielle 2027 : Mélenchon au second tour dans la plupart des scénarios, Attal jamais qualifié |
+| 11/09 | SONDAGE Présidentielle 2027 : Édouard Philippe et Jean-Luc Mélenchon au coude-à-coude, Gabriel Attal distancé… ce que révèle cette nouvelle enquête d’opinion |
+| 11/09 | "Abus d’autorité et association de malfaiteurs" : six militants kanaks déposent plainte contre quatre ministres du gouvernement Attal |
+| 08/09 | Présidentielle 2027 : le clip de campagne de Gabriel Attal, bière à la main pour le lancement de son opération "1 000 bistrots", fait beaucoup parler |
+| 06/09 | Présidentielle 2027 : vers un rapprochement entre Édouard Philippe, Bruno Retailleau et Gabriel Attal ? "Le plus tôt possible", espère Maud Bregeon |
+| 31/08 | Présidentielle 2027 : il "est de très loin le mieux placé"… Maud Bregeon estime qu’il n’y a "pas match" entre Édouard Philippe et Gabriel Attal |
+| 25/08 | Présidentielle 2027 : passe d’armes entre Édouard Philippe et Gabriel Attal sur l’éducation, que proposent vraiment les deux candidats ? |
+| 21/08 | Présidentielle 2027 : le candidat Gabriel Attal de nouveau victime d’ingérence russe, la quatrième attaque en deux semaines |
+| 18/08 | Présidentielle 2027 : le parquet de Paris ouvre une enquête sur les soupçons d’ingérence russe ciblant Édouard Philippe et Gabriel Attal |
+| 17/08 | Gabriel Attal a-t-il versé 50 millions d’euros aux secours tunisiens au lieu d’acheter deux Canadair pour la lutte contre les incendies ? |
+| 13/08 | Présidentielle 2027 : "Les autres candidats ont décidé de partir en vacances, ce n’est pas mon choix"… Gabriel Attal s’offre une escale dans l’Hérault |
+| 09/08 | Présidentielle 2027 : chasse aux gâchis, bouclier tarifaire… que contient le plan massif pour la gestion de l’eau promis par Gabriel Attal ? |
+| 08/08 | Présidentielle 2027 : Gabriel Attal porte plainte après avoir été visé par une campagne de désinformation pro-russe sur les réseaux sociaux |
+| 07/08 | Présidentielle 2027 : après Glucksmann, Philippe et Attal, jusqu’où ira la Russie dans sa volonté de perturber les élections françaises ? |
+| 05/08 | Présidentielle 2027 : après Édouard Philippe et Raphaël Glucksmann, Gabriel Attal également visé par une opération de déstabilisation russe |
+| 04/08 | "Tu dégrades, tu paies" : Gabriel Attal veut s’attaquer aux gens du voyage et facturer les emplacements au prix d’un "camping" |
+| 31/07 | Présidentielle 2027 : la justice autorise le RN et Marine Le Pen à utiliser le terme "renaissance", malgré la plainte du parti de Gabriel Attal |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Gabriel+Attal, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

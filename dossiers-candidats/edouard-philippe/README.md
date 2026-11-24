@@ -1162,6 +1162,53 @@ Total : 13 article(s) (13 par le titre).
 | 05/07 | Élection présidentielle : Édouard Philippe promet de « reprendre en main le destin de notre pays » |
 | 01/07 | Présidentielle 2027 : Laurent Wauquiez fait un pas vers Édouard Philippe malgré la candidature de Bruno Retailleau chez LR |
 
+## Midi Libre (midilibre.fr)
+
+Source : la recherche du site (`/recherche?q=<nom>&year=2026&pg=<n>`, 20 résultats par page), relevé le 24 novembre 2026, deux requêtes par candidat (nom complet puis nom de famille), résultats fusionnés. Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 (date lue dans l'adresse) et que le nom du candidat figure dans son **titre** ; un article qui cite plusieurs candidats compte pour chacun. Voir la section 28 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 38 article(s) (38 par le titre).
+
+| Date (2026) | Titre |
+|---|---|
+| 01/11 | Présidentielle 2027 : "C’est une primaire de la division et de la confusion" : Édouard Philippe balaie le projet de Gabriel Attal en direct sur TF1 |
+| 29/10 | Soupçons de détournement de fonds publics au Havre : le candidat à la présidentielle Édouard Philippe placé sous le statut de témoin assisté |
+| 26/10 | SONDAGE Présidentielle 2027 : Édouard Philippe décroche, Jean-Luc Mélenchon loin devant Raphaël Glucksmann… Les enseignements de cette dernière étude |
+| 24/10 | SONDAGE Présidentielle 2027 : Jean-Luc Mélenchon se détache d’Édouard Philippe et se qualifie au second tour dans toutes les hypothèses |
+| 18/10 | SONDAGE Présidentielle 2027 : plus de 30 % pour Marine Le Pen, c’est serré pour Édouard Philippe, Raphaël Glucksmann et Jean-Luc Mélenchon |
+| 16/10 | SONDAGE Présidentielle 2027 : l’énorme percée de Raphaël Glucksmann face à Jean-Luc Mélenchon et Edouard Philippe dans cette dernière enquête |
+| 15/10 | SONDAGE Présidentielle 2027 : Marine Le Pen grimpe encore, Jean-Luc Mélenchon passe devant Édouard Philippe… ce que révèle cette nouvelle enquête d’opinion |
+| 14/10 | SONDAGE Présidentielle 2027 : Raphaël Glucksmann progresse après sa victoire à la primaire, Edouard Philippe au second tour |
+| 30/09 | SONDAGE Présidentielle 2027 : Édouard Philippe devant Jean-Luc Mélenchon au premier tour, dans tous les scénarios, Marine Le Pen toujours leadeuse |
+| 29/09 | Présidentielle 2027 : retarder le départ à la retraite à 65 ans ? Ce que propose Edouard Philippe pour faire des économies |
+| 28/09 | SONDAGE Présidentielle 2027 : Jean-Luc Mélenchon devance Edouard Philippe dans tous les cas de figure testés lors de cette nouvelle enquête d’opinion |
+| 27/09 | SONDAGE Présidentielle 2027 : Marine Le Pen, Jean-Luc Mélenchon, Edouard Philippe… les principaux candidats sont rejetés par la majorité des Français |
+| 26/09 | Présidentielle 2027 : Marine Le Pen, Jean-Luc Mélenchon, Edouard Philippe, Gabriel Attal… quels candidats ont assisté à la messe du pape ? |
+| 22/09 | Présidentielle 2027 : "Je suis meilleur en campagne", "Il est très immature"… Edouard Philippe et Gabriel Attal se livrent à un véritable "combat de coqs" |
+| 11/09 | SONDAGE Présidentielle 2027 : Édouard Philippe et Jean-Luc Mélenchon au coude-à-coude, Gabriel Attal distancé… ce que révèle cette nouvelle enquête d’opinion |
+| 11/09 | Présidentielle 2027 : des vacances après l’élection… Pourquoi Edouard Philippe estime que le candidat élu aura besoin "de repos" avant de gouverner |
+| 08/09 | Présidentielle 2027 : "Sans rassemblement, il n’y aura de victoire pour personne", Édouard Philippe lance un appel à l’union de la droite et du centre |
+| 07/09 | État d’urgence narco, sanctions, offensive contre les trafiquants… ce que vient annoncer le candidat à la présidentielle, Édouard Philippe, à Alès |
+| 07/09 | Le lycée ferme à cause de la canicule, dons records pour le Zevent 2026, Edouard Philippe vient parler narcotrafic : l’essentiel de l’actu en région |
+| 07/09 | "Reprendre le contrôle" : Édouard Philippe à Alès pour soutenir Christophe Rivenq et détailler ses propositions face au narcotrafic |
+| 07/09 | "C’est aussi un message de soutien et d’amitié" : Édouard Philippe à Alès aux côtés de Christophe Rivenq |
+| 06/09 | Présidentielle 2027 : vers un rapprochement entre Édouard Philippe, Bruno Retailleau et Gabriel Attal ? "Le plus tôt possible", espère Maud Bregeon |
+| 04/09 | Édouard Philippe à Alès lundi : Christophe Rivenq confirme sa venue, mais n’a "pas encore" choisi son candidat |
+| 04/09 | Présidentielle 2027 : Edouard Philippe attendu lundi dans le Gard pour soutenir un maire menacé et détailler son plan contre le narcotrafic |
+| 31/08 | Présidentielle 2027 : il "est de très loin le mieux placé"… Maud Bregeon estime qu’il n’y a "pas match" entre Édouard Philippe et Gabriel Attal |
+| 31/08 | Présidentielle 2027 : autour d’un atelier de frites, Edouard Philippe et Gerald Darmanin ont tenté de mettre en scène leur alliance |
+| 30/08 | Présidentielle 2027 : chez Darmanin, Édouard Philippe annonce vouloir fonder "un nouveau parti" ou "une confédération de partis" |
+| 27/08 | Élection présidentielle : le Medef accueille Marine Le Pen, Jean-Luc Mélenchon et Edouard Philippe pour un débat inédit |
+| 27/08 | Présidentielle 2027 : fin de "l’open bar des arrêts de travail", durée d’indemnisation du chômage… Édouard Philippe pose les contours de son programme |
+| 25/08 | Présidentielle 2027 : passe d’armes entre Édouard Philippe et Gabriel Attal sur l’éducation, que proposent vraiment les deux candidats ? |
+| 23/08 | Présidentielle 2027 : Édouard Philippe envisage un rassemblement de la droite et du centre entre "novembre et février" sinon "ce sera trop tard" |
+| 22/08 | VIDÉO Présidentielle 2027 : "Qu’il vienne ici et constate la crise migratoire"… passe d’armes entre Edouard Philippe et Jean-Luc Mélenchon sur Mayotte |
+| 21/08 | Demandes d’asile, suspension du droit du sol… Les mesures d’Édouard Philippe sur l’immigration pour stopper "l’appel d’air" à Mayotte |
+| 18/08 | Présidentielle 2027 : le parquet de Paris ouvre une enquête sur les soupçons d’ingérence russe ciblant Édouard Philippe et Gabriel Attal |
+| 17/08 | Présidentielle 2027 : Gérald Darmanin renonce à se présenter seul et se rallie à Édouard Philippe |
+| 05/08 | Présidentielle 2027 : après Édouard Philippe et Raphaël Glucksmann, Gabriel Attal également visé par une opération de déstabilisation russe |
+| 05/07 | Présidentielle 2027: "Clairvoyant, sincère, vraiment de droite"… Les avis des curieux et soutiens qui ont assisté au premier grand meeting d’Edouard Philippe |
+| 05/07 | Présidentielle 2027 : "Croire en nous", Edouard Philippe lance sa campagne devant 5 000 partisans à Paris |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=%C3%89douard+Philippe, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

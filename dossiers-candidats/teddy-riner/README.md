@@ -217,3 +217,17 @@ Total : 5 article(s) (5 par le titre).
 | 23/09 | Teddy Riner visé par des messages haineux et racistes sur les réseaux sociaux : une enquête ouverte |
 | 19/09 | ANALYSE. Riner, Mbappé, Marchand : libres de se taire et libres de parler ? |
 | 17/09 | Teddy Riner : il y a quelque chose qui l’angoisse beaucoup plus que son épaule, « il faut appeler un chat un chat » |
+
+## Midi Libre (midilibre.fr)
+
+Source : la recherche du site (`/recherche?q=<nom>&year=2026&pg=<n>`, 20 résultats par page), relevé le 24 novembre 2026, deux requêtes par candidat (nom complet puis nom de famille), résultats fusionnés. Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 (date lue dans l'adresse) et que le nom du candidat figure dans son **titre** ; un article qui cite plusieurs candidats compte pour chacun. Voir la section 28 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 5 article(s) (5 par le titre).
+
+| Date (2026) | Titre |
+|---|---|
+| 23/09 | Présidentielle 2027 : "On n’est jamais obligé de répondre"… David Douillet recadre Teddy Riner après sa sortie politique, le champion l’ignore |
+| 17/09 | "Comportement de petite racaille" : Kylian Mbappé et Teddy Riner sous le feu des critiques ciblées de l’extrême droite |
+| 05/09 | Teddy Riner forfait pour les Mondiaux 2026 à Bakou : blessure à l’épaule met fin à ses espoirs de 12e titre mondial |
+| 12/08 | Nouveau coup dur pour Teddy Riner : le champion renonce de nouveau à son grand retour à la compétition après sa blessure à l’épaule |
+| 05/08 | Blessé à l’entraînement, le roi du judo Teddy Riner contraint de reporter son grand retour à la compétition après les JO de Paris |

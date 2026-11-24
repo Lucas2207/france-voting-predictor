@@ -1343,6 +1343,61 @@ Total : 10 article(s) (10 par le titre).
 | 18/08 | « Je n’ai pas encensé le programme de Jean-Luc Mélenchon » : Monique Barbut refuse un débat avec LFI |
 | 09/07 | « C’est un moment-clé, on est à l’os » : Jean-Luc Mélenchon promet la « fin des coupes budgétaires » dans la culture s’il est élu |
 
+## Midi Libre (midilibre.fr)
+
+Source : la recherche du site (`/recherche?q=<nom>&year=2026&pg=<n>`, 20 résultats par page), relevé le 24 novembre 2026, deux requêtes par candidat (nom complet puis nom de famille), résultats fusionnés. Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 (date lue dans l'adresse) et que le nom du candidat figure dans son **titre** ; un article qui cite plusieurs candidats compte pour chacun. Voir la section 28 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 46 article(s) (46 par le titre).
+
+| Date (2026) | Titre |
+|---|---|
+| 28/10 | Présidentielle 2027 : Marine Le Pen ou Jean-Luc Mélenchon, qui gagne le match populiste ? |
+| 27/10 | SONDAGE Présidentielle 2027 : Marine Le Pen, David Lisnard, Jean-Luc Mélenchon… qui a tiré le plus profit des violences du 17 octobre ? |
+| 26/10 | SONDAGE Présidentielle 2027 : Édouard Philippe décroche, Jean-Luc Mélenchon loin devant Raphaël Glucksmann… Les enseignements de cette dernière étude |
+| 24/10 | SONDAGE Présidentielle 2027 : Jean-Luc Mélenchon se détache d’Édouard Philippe et se qualifie au second tour dans toutes les hypothèses |
+| 23/10 | SONDAGE Présidentielle 2026 : Jean-Luc Mélenchon reprend l’avantage sur Raphaël Glucksmann, David Lisnard récolte quelques voix |
+| 21/10 | SONDAGE Présidentielle 2027 : jusqu’à 38 % pour Marine Le Pen, Jean-Luc Mélenchon au second tour… à qui profitent les violences du 17 octobre ? |
+| 20/10 | "La question de l’interdiction de LFI peut être posée" : Gérard Larcher dénonce le discours de haine du parti de Jean-Luc Mélenchon |
+| 18/10 | SONDAGE Présidentielle 2027 : plus de 30 % pour Marine Le Pen, c’est serré pour Édouard Philippe, Raphaël Glucksmann et Jean-Luc Mélenchon |
+| 16/10 | SONDAGE Présidentielle 2027 : l’énorme percée de Raphaël Glucksmann face à Jean-Luc Mélenchon et Edouard Philippe dans cette dernière enquête |
+| 16/10 | SONDAGE Présidentielle 2027 : Le Pen, Mélenchon, Philippe… la carte des intentions de vote, région par région, selon cette enquête |
+| 15/10 | SONDAGE Présidentielle 2027 : Marine Le Pen grimpe encore, Jean-Luc Mélenchon passe devant Édouard Philippe… ce que révèle cette nouvelle enquête d’opinion |
+| 14/10 | SONDAGE Présidentielle 2027 : Le Pen, Mélenchon, Philippe, Glucksmann… Voici l’évolution des intentions de vote depuis huit mois |
+| 13/10 | Blocus des lycées : Sébastien Lecornu a-t-il tenté de poursuivre Jean-Luc Mélenchon pour "incitation à la rébellion" ? |
+| 10/10 | Blocus des lycées : Jean-Luc Mélenchon accuse Gabriel Attal d’être "personnellement​ responsable" du mouvement, l’ex-ministre dénonce son "cynisme" |
+| 05/10 | Présidentielle 2027 : "Oui j’assume"… la réponse de Raphaël Glucksmann après ses propos envers Ségolène Royal et Jean-Luc Mélenchon |
+| 04/10 | Présidentielle 2027 : Le Pen, Mélenchon, Philippe… À sept mois du scrutin, malgré les sondages, les jeux ne sont pas faits |
+| 04/10 | Présidentielle 2027 : "Raphaël Glucksmann prétend qu’il me pisse dessus"… Les propos volés du candidat font réagir Jean-Luc Mélenchon et Ségolène Royal |
+| 01/10 | Présidentielle 2027 : Gaza, Ukraine et Mélenchon… Un nouveau débat sous haute tension pour les 5 candidats à la primaire de la gauche ce jeudi soir |
+| 30/09 | SONDAGE Présidentielle 2027 : Édouard Philippe devant Jean-Luc Mélenchon au premier tour, dans tous les scénarios, Marine Le Pen toujours leadeuse |
+| 28/09 | SONDAGE Présidentielle 2027 : Jean-Luc Mélenchon devance Edouard Philippe dans tous les cas de figure testés lors de cette nouvelle enquête d’opinion |
+| 27/09 | SONDAGE Présidentielle 2027 : Marine Le Pen, Jean-Luc Mélenchon, Edouard Philippe… les principaux candidats sont rejetés par la majorité des Français |
+| 27/09 | Présidentielle 2027 : "Jean-Luc Mélenchon et Marine Le Pen ont choisi leur camp", celui de la Russie face à l’Ukraine, accuse Jean-Noël Barrot |
+| 26/09 | Présidentielle 2027 : grosse frayeur pour Jean-Luc Mélenchon… un écran géant de plusieurs dizaines de kilos s’écrase juste devant le candidat |
+| 26/09 | Présidentielle 2027 : Marine Le Pen, Jean-Luc Mélenchon, Edouard Philippe, Gabriel Attal… quels candidats ont assisté à la messe du pape ? |
+| 24/09 | SONDAGE Présidentielle 2027 : Marine Le Pen toujours favorite, un record possible pour Jean-Luc Mélenchon face à Gabriel Attal, d’après un sondage |
+| 24/09 | Guerre en Ukraine : "Arrêtons de trouver des excuses à l’agresseur"… Marine Tondelier répond à Jean-Luc Mélenchon sur la menace russe |
+| 23/09 | Guerre en Ukraine : le candidat Jean-Luc Mélenchon voit "peut-être" un rapport entre la menace russe et les "tirs en profondeur" de Kiev |
+| 22/09 | DÉCRYPTAGE Présidentielle 2027 : "Il s’agit de ne pas l’épuiser"… pourquoi Jean-Luc Mélenchon fait le pari de moins se montrer que ses adversaires |
+| 13/09 | SONDAGE Présidentielle 2027 : Mélenchon au second tour dans la plupart des scénarios, Attal jamais qualifié |
+| 12/09 | Élection présidentielle 2027 : comment Jean-Luc Mélenchon et Marine Le Pen orchestrent leur duel politique |
+| 12/09 | Présidentielle 2027 : le PCF plus radical que La France Insoumise ? À la fête de l’Huma, le duel à distance entre Jean-Luc Mélenchon et Fabien Roussel |
+| 11/09 | SONDAGE Présidentielle 2027 : Édouard Philippe et Jean-Luc Mélenchon au coude-à-coude, Gabriel Attal distancé… ce que révèle cette nouvelle enquête d’opinion |
+| 30/08 | Présidentielle 2027 : Marine Le Pen donnée gagnante face à tous ses rivaux, Jean-Luc Mélenchon chute au profit de Raphaël Glucksmann |
+| 27/08 | Élection présidentielle : le Medef accueille Marine Le Pen, Jean-Luc Mélenchon et Edouard Philippe pour un débat inédit |
+| 24/08 | Présidentielle 2027 : lors de son grand discours, Jean-Luc Mélenchon a tenté de séduire les écologistes |
+| 24/08 | Présidentielle 2027 : Jean-Luc Mélenchon se qualifie au second tour face à Marine Le Pen dans un dernier sondage… les résultats des autres candidats |
+| 23/08 | Budget 2027 : Sébastien Lecornu veut le faire adopter coûte que coûte, Jean-Luc Mélenchon promet déjà la censure |
+| 23/08 | "Il suffit de les foutre au feu" : la France peut-elle vraiment annuler une partie de sa dette comme le proposent Matthieu Pigasse et Jean-Luc Mélenchon ? |
+| 22/08 | VIDÉO Présidentielle 2027 : "Qu’il vienne ici et constate la crise migratoire"… passe d’armes entre Edouard Philippe et Jean-Luc Mélenchon sur Mayotte |
+| 22/08 | Présidentielle 2027 : les écologistes doivent-ils se rapprocher de Jean-Luc Mélenchon ou de Raphaël Glucksmann ? Ce qu’en pensent les militants |
+| 22/08 | Présidentielle 2027 : "Là, clairement, on sent une dynamique"… Aux universités d’été LFI, les militants sûrs des chances de Jean-Luc Mélenchon |
+| 07/08 | Présidentielle 2027 : ce régime très strict que Jean-Luc Mélenchon s’impose avant le début de la campagne électorale |
+| 11/07 | Présidentielle 2027 : Le Pen largement en tête, Mélenchon se rapproche… Qui sont les mieux placés pour accéder au second tour selon ce sondage ? |
+| 09/07 | "Les coupes budgétaires, c’est fini" : la promesse de Jean-Luc Mélenchon pour la culture en 2027 |
+| 05/07 | Réélu à la tête du Parti communiste, Fabien Roussel met le cap sur 2027 au détriment de Mélenchon |
+| 04/07 | Présidentielle 2027 : coup de théâtre à gauche, François Hollande passe devant Jean-Luc Mélenchon dans ce nouveau sondage |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Jean-Luc+M%C3%A9lenchon, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

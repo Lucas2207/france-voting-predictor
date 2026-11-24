@@ -483,6 +483,23 @@ Total : 0 article(s) (0 par le titre).
 | Date (2026) | Titre |
 |---|---|
 
+## Midi Libre (midilibre.fr)
+
+Source : la recherche du site (`/recherche?q=<nom>&year=2026&pg=<n>`, 20 résultats par page), relevé le 24 novembre 2026, deux requêtes par candidat (nom complet puis nom de famille), résultats fusionnés. Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 (date lue dans l'adresse) et que le nom du candidat figure dans son **titre** ; un article qui cite plusieurs candidats compte pour chacun. Voir la section 28 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 8 article(s) (8 par le titre).
+
+| Date (2026) | Titre |
+|---|---|
+| 27/10 | SONDAGE Présidentielle 2027 : Marine Le Pen, David Lisnard, Jean-Luc Mélenchon… qui a tiré le plus profit des violences du 17 octobre ? |
+| 23/10 | SONDAGE Présidentielle 2026 : Jean-Luc Mélenchon reprend l’avantage sur Raphaël Glucksmann, David Lisnard récolte quelques voix |
+| 22/10 | Présidentielle 2027 : Éric Ciotti appelle Bruno Retailleau et David Lisnard à se ranger derrière Marine Le Pen, "seule" capable de l’emporter à droite |
+| 14/10 | Présidentielle 2027 : le maire de Mende apporte son parrainage et son soutien à David Lisnard |
+| 13/10 | VIDEO Présidentielle 2027 : David Lisnard débarque en retard sur le plateau de BFMTV et se fait sévèrement recadrer par Apolline de Malherbe |
+| 26/09 | David Lisnard et Eric Ciotti parmi les cosignataires d’une tribune du maire de Sète Hervé Marquès en soutien aux pêcheurs de Méditerranée en crise |
+| 06/08 | David Lisnard : "Ceux qui disent vouloir renverser la table, je trouve qu’ils sont ingrats avec la table qui les nourrit depuis 20 ans" |
+| 18/07 | Présidentielle 2027 : "Le Milei du pauvre"… Clément Beaune répond à David Lisnard après ses propos sur le haut-commissaire au Plan |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=David+Lisnard, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

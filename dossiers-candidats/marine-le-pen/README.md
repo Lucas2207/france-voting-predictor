@@ -2157,6 +2157,69 @@ Total : 24 article(s) (24 par le titre).
 | 03/07 | Marine Le Pen et Jordan Bardella annoncés à Liévin pour une « fête champêtre » du RN du Pas-de-Calais |
 | 01/07 | Marine Le Pen n’a « pas peur » de son jugement mais ne fera pas campagne avec un bracelet électronique |
 
+## Midi Libre (midilibre.fr)
+
+Source : la recherche du site (`/recherche?q=<nom>&year=2026&pg=<n>`, 20 résultats par page), relevé le 24 novembre 2026, deux requêtes par candidat (nom complet puis nom de famille), résultats fusionnés. Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 (date lue dans l'adresse) et que le nom du candidat figure dans son **titre** ; un article qui cite plusieurs candidats compte pour chacun. Voir la section 28 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 54 article(s) (54 par le titre).
+
+| Date (2026) | Titre |
+|---|---|
+| 01/11 | Manifestation du 31 octobre : "une tentative de meurtre", un gendarme s’enflamme après le jet d’un cocktail Molotov, Retailleau et Le Pen condamnent |
+| 30/10 | Présidentielle 2027 : "Je confie pas mes petits-enfants à Mathilde Panot ou Marine Le Pen"… Patrick Sébastien dévoile qui est son candidat préféré |
+| 28/10 | Présidentielle 2027 : Marine Le Pen ou Jean-Luc Mélenchon, qui gagne le match populiste ? |
+| 28/10 | Présidentielle 2027 : "Marine Le Pen est toujours inéligible !"... déclaration d'un haut-magistrat, réplique du RN, ce que l'on sait |
+| 27/10 | SONDAGE Présidentielle 2027 : Marine Le Pen, David Lisnard, Jean-Luc Mélenchon… qui a tiré le plus profit des violences du 17 octobre ? |
+| 27/10 | Présidentielle 2027 : le député de l’Hérault Charles Alloncle nommé porte-parole de campagne de Marine Le Pen |
+| 25/10 | Présidentielle 2027 : priorité nationale, Jordan Bardella Premier ministre, référendum… que retenir du premier meeting de Marine Le Pen |
+| 22/10 | Présidentielle 2027 : Éric Ciotti appelle Bruno Retailleau et David Lisnard à se ranger derrière Marine Le Pen, "seule" capable de l’emporter à droite |
+| 21/10 | SONDAGE Présidentielle 2027 : jusqu’à 38 % pour Marine Le Pen, Jean-Luc Mélenchon au second tour… à qui profitent les violences du 17 octobre ? |
+| 18/10 | SONDAGE Présidentielle 2027 : plus de 30 % pour Marine Le Pen, c’est serré pour Édouard Philippe, Raphaël Glucksmann et Jean-Luc Mélenchon |
+| 18/10 | Mobilisation du 17 octobre : "Il y a clairement un risque d’embrasement"… Pourquoi le chaos de ce samedi pourrait profiter à Marine Le Pen ? |
+| 16/10 | SONDAGE Présidentielle 2027 : Le Pen, Mélenchon, Philippe… la carte des intentions de vote, région par région, selon cette enquête |
+| 15/10 | SONDAGE Présidentielle 2027 : Marine Le Pen grimpe encore, Jean-Luc Mélenchon passe devant Édouard Philippe… ce que révèle cette nouvelle enquête d’opinion |
+| 15/10 | Guerre en Ukraine : "La France n’a plus les moyens"… Marine Le Pen coupera les aides à Kiev au bout de six mois si elle est élue |
+| 14/10 | SONDAGE Présidentielle 2027 : Le Pen, Mélenchon, Philippe, Glucksmann… Voici l’évolution des intentions de vote depuis huit mois |
+| 08/10 | SONDAGE Présidentielle 2027 : Jordan Bardella et Marine Le Pen chutent dans l’opinion selon cette étude, la droite leur tourne-t-elle le dos ? |
+| 06/10 | Présidentielle 2027 : Marine Le Pen dévoile son programme budgétaire "radical", l’opposition fustige un plan "qui ne tient pas la route" |
+| 04/10 | Présidentielle 2027 : Le Pen, Mélenchon, Philippe… À sept mois du scrutin, malgré les sondages, les jeux ne sont pas faits |
+| 04/10 | Affaire Jordan Bardella : "J’ai totalement confiance", Marine Le Pen réaffirme son soutien au président du RN après les nouvelles preuves de Mediapart |
+| 02/10 | Jordan Bardella accusé d’écrits antisémites : "Marine Le Pen doit tirer la chasse", "imposture"… Les appels à la démission se multiplient |
+| 30/09 | SONDAGE Présidentielle 2027 : Édouard Philippe devant Jean-Luc Mélenchon au premier tour, dans tous les scénarios, Marine Le Pen toujours leadeuse |
+| 27/09 | SONDAGE Présidentielle 2027 : Marine Le Pen, Jean-Luc Mélenchon, Edouard Philippe… les principaux candidats sont rejetés par la majorité des Français |
+| 27/09 | Présidentielle 2027 : "Jean-Luc Mélenchon et Marine Le Pen ont choisi leur camp", celui de la Russie face à l’Ukraine, accuse Jean-Noël Barrot |
+| 26/09 | Présidentielle 2027 : Marine Le Pen, Jean-Luc Mélenchon, Edouard Philippe, Gabriel Attal… quels candidats ont assisté à la messe du pape ? |
+| 25/09 | Présidentielle 2027 : "Nous ne pouvons plus aider financièrement l’Ukraine"… Marine Le Pen assume un virage radical sur le soutien français à Kiev |
+| 24/09 | SONDAGE Présidentielle 2027 : Marine Le Pen toujours favorite, un record possible pour Jean-Luc Mélenchon face à Gabriel Attal, d’après un sondage |
+| 21/09 | "La Russie ne menace pas la France" : après les propos de Marine Le Pen et Jordan Bardella, Moscou répond au RN et exprime son "désaccord" |
+| 17/09 | "On a tout raconté à Marine Le Pen" mais le parti n’a pas réagi : un député RN accusé d’avoir détourné les primes de ses assistants |
+| 14/09 | Présidentielle 2027 : un baiser pour sauver les apparences ? Cette photo entre Marine Le Pen et Jordan Bardella qui fait beaucoup parler |
+| 14/09 | Présidentielle 2027 : Marine Le Pen souhaite réserver les HLM aux Français… "une lubie xénophobe" tacle une ancienne ministre |
+| 12/09 | Élection présidentielle 2027 : comment Jean-Luc Mélenchon et Marine Le Pen orchestrent leur duel politique |
+| 05/09 | Présidentielle 2027 : "J’en ai longuement discuté avec elle"… Éric Ciotti favorable à un "pacte d’alliance" avec Marine Le Pen |
+| 04/09 | Présidentielle 2027 : "Des sensibilités différentes"… Jordan Bardella et Marine Le Pen sont-ils encore vraiment sur la même ligne ? |
+| 04/09 | "On ne veut pas d’un pays qui ressemble à ça"… Raphaël Glucksmann dézingue la proposition de Marine Le Pen sur le port du voile |
+| 30/08 | Présidentielle 2027 : Marine Le Pen donnée gagnante face à tous ses rivaux, Jean-Luc Mélenchon chute au profit de Raphaël Glucksmann |
+| 27/08 | Élection présidentielle : le Medef accueille Marine Le Pen, Jean-Luc Mélenchon et Edouard Philippe pour un débat inédit |
+| 24/08 | Présidentielle 2027 : Jean-Luc Mélenchon se qualifie au second tour face à Marine Le Pen dans un dernier sondage… les résultats des autres candidats |
+| 31/07 | Présidentielle 2027 : la justice autorise le RN et Marine Le Pen à utiliser le terme "renaissance", malgré la plainte du parti de Gabriel Attal |
+| 30/07 | Présidentielle 2027 : pourquoi Sébastien Lecornu veut-il aider Marine Le Pen à financer sa campagne ? |
+| 15/07 | Marine Le Pen condamnée : le parquet général ne se pourvoit pas en cassation et lève un obstacle supplémentaire pour la course à la présidentielle |
+| 11/07 | Présidentielle 2027 : Le Pen largement en tête, Mélenchon se rapproche… Qui sont les mieux placés pour accéder au second tour selon ce sondage ? |
+| 09/07 | "Elle est pour l’assistanat" : Bruno Retailleau attaque Marine Le Pen dès l’annonce de sa candidature |
+| 08/07 | Marine Le Pen condamnée : pourquoi la cheffe de file du RN se pourvoit en cassation et annonce sa candidature à l’élection présidentielle |
+| 08/07 | Marine Le Pen condamnée : la Cour de cassation annonce pouvoir se prononcer "au plus tard début avril 2027" |
+| 07/07 | REPLAY Marine Le Pen condamnée : "Ce soir je suis candidate à la présidentielle", confirme la cheffe de file du RN |
+| 07/07 | Présidentielle 2027 : condamnée, Marine Le Pen annoncera ce soir si elle se présente ou pas au "20 Heures" de TF1 |
+| 07/07 | Présidentielle 2027 : comment Marine Le Pen "vient de se mettre en position d’aller jusqu’au bout" |
+| 07/07 | Présidentielle 2027 : ce pourvoi en cassation de Marine Le Pen, fait-il vraiment sauter ce bracelet électronique ? |
+| 07/07 | Marine Le Pen condamnée en appel : la patronne du RN peut théoriquement se présenter à l’élection présidentielle de 2027 |
+| 07/07 | Marine Le Pen condamnée : que se passerait-il si la cheffe de file du RN se pourvoyait en cassation (et pourquoi elle risquerait très gros) ? |
+| 07/07 | Marine Le Pen condamnée : que peut-on vraiment faire avec un bracelet électronique ? |
+| 07/07 | Marine Le Pen condamnée : Louis Aliot, Julien Odoul, Bruno Gollnisch… Quelles sont les peines des autres cadres du FN ? |
+| 07/07 | Affaire des assistants parlementaires européens du FN : décision rendue ce mardi 7 juillet, quelles conséquences pour Marine Le Pen ? |
+| 02/07 | Marine Le Pen inéligible : "Je continuerai à mener le combat, je n’ai pas peur", assure la cheffe de file du RN avant la décision de sa condamnation en appel |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Marine+Le+Pen, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

@@ -818,6 +818,27 @@ Total : 5 article(s) (5 par le titre).
 | 08/09 | Présidentielle : Philippe veut organiser une réunion « du Modem à Nouvelle Énergie », Retailleau dit qu’il n’ira pas |
 | 01/07 | Présidentielle 2027 : Laurent Wauquiez fait un pas vers Édouard Philippe malgré la candidature de Bruno Retailleau chez LR |
 
+## Midi Libre (midilibre.fr)
+
+Source : la recherche du site (`/recherche?q=<nom>&year=2026&pg=<n>`, 20 résultats par page), relevé le 24 novembre 2026, deux requêtes par candidat (nom complet puis nom de famille), résultats fusionnés. Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 (date lue dans l'adresse) et que le nom du candidat figure dans son **titre** ; un article qui cite plusieurs candidats compte pour chacun. Voir la section 28 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 12 article(s) (12 par le titre).
+
+| Date (2026) | Titre |
+|---|---|
+| 01/11 | Manifestation du 31 octobre : "une tentative de meurtre", un gendarme s’enflamme après le jet d’un cocktail Molotov, Retailleau et Le Pen condamnent |
+| 28/10 | Présidentielle 2027 : faut-il changer la date du second tour ? Le gouvernement répond à la proposition de Bruno Retailleau |
+| 22/10 | Présidentielle 2027 : Éric Ciotti appelle Bruno Retailleau et David Lisnard à se ranger derrière Marine Le Pen, "seule" capable de l’emporter à droite |
+| 20/10 | Présidentielle 2027 : pourquoi Bruno Retailleau veut changer la date du second tour du scrutin |
+| 12/10 | SONDAGE Présidentielle 2027 : effondrement de Bruno Retailleau et de Gabriel Attal, Raphaël Glucksmann absent du second tour… les dernières intentions de vote |
+| 30/09 | Bruno Retailleau à la rencontre des pêcheurs de Palavas |
+| 23/09 | Présidentielle 2027 : retraite à 63 ans minimum, taux plein à 65 ans… les propositions de Bruno Retailleau |
+| 06/09 | Présidentielle 2027 : vers un rapprochement entre Édouard Philippe, Bruno Retailleau et Gabriel Attal ? "Le plus tôt possible", espère Maud Bregeon |
+| 03/09 | Présidentielle 2027 : Bruno Retailleau veut rendre l’apprentissage accessible dès 14 ans… voici ce que sa proposition impliquerait |
+| 27/08 | Présidentielle 2027 : "C’est un parti de collabos", Bruno Retailleau charge une nouvelle fois LFI… et maintient sa candidature à l’Elysée |
+| 09/07 | "Elle est pour l’assistanat" : Bruno Retailleau attaque Marine Le Pen dès l’annonce de sa candidature |
+| 03/07 | Entre peau de banane et croc-en-jambe : quand Laurent Wauquiez savonne la planche de Bruno Retailleau pour la présidentielle |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Bruno+Retailleau, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

@@ -197,3 +197,14 @@ Total : 1 article(s) (1 par le titre).
 | Date (2026) | Titre |
 |---|---|
 | 27/07 | Dominique de Villepin a été entendu en audition libre dans le cadre de l’enquête sur les statuettes de Napoléon |
+
+## Midi Libre (midilibre.fr)
+
+Source : la recherche du site (`/recherche?q=<nom>&year=2026&pg=<n>`, 20 résultats par page), relevé le 24 novembre 2026, deux requêtes par candidat (nom complet puis nom de famille), résultats fusionnés. Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 (date lue dans l'adresse) et que le nom du candidat figure dans son **titre** ; un article qui cite plusieurs candidats compte pour chacun. Voir la section 28 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 2 article(s) (2 par le titre).
+
+| Date (2026) | Titre |
+|---|---|
+| 27/09 | Présidentielle 2027 : qu’est-ce que la "négociation sociale", ce principe que Dominique de Villepin veut inscrire dans la Constitution ? |
+| 30/08 | Présidentielle 2027 : "Je veux être candidat à l’élection"… Dominique de Villepin confirme sa volonté de se présenter au scrutin |

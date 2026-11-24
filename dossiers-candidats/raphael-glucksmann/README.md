@@ -1262,6 +1262,65 @@ Total : 15 article(s) (15 par le titre).
 | 07/08 | Philippe, Glucksmann, Attal… : que faire contre les ingérences russes qui se multiplient avant la présidentielle ? |
 | 04/08 | « Une attaque du groupe Storm-1516 » : Raphaël Glucksmann visé par des fake news russes |
 
+## Midi Libre (midilibre.fr)
+
+Source : la recherche du site (`/recherche?q=<nom>&year=2026&pg=<n>`, 20 résultats par page), relevé le 24 novembre 2026, deux requêtes par candidat (nom complet puis nom de famille), résultats fusionnés. Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 (date lue dans l'adresse) et que le nom du candidat figure dans son **titre** ; un article qui cite plusieurs candidats compte pour chacun. Voir la section 28 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 50 article(s) (50 par le titre).
+
+| Date (2026) | Titre |
+|---|---|
+| 26/10 | SONDAGE Présidentielle 2027 : Édouard Philippe décroche, Jean-Luc Mélenchon loin devant Raphaël Glucksmann… Les enseignements de cette dernière étude |
+| 23/10 | SONDAGE Présidentielle 2026 : Jean-Luc Mélenchon reprend l’avantage sur Raphaël Glucksmann, David Lisnard récolte quelques voix |
+| 18/10 | SONDAGE Présidentielle 2027 : plus de 30 % pour Marine Le Pen, c’est serré pour Édouard Philippe, Raphaël Glucksmann et Jean-Luc Mélenchon |
+| 16/10 | SONDAGE Présidentielle 2027 : l’énorme percée de Raphaël Glucksmann face à Jean-Luc Mélenchon et Edouard Philippe dans cette dernière enquête |
+| 14/10 | SONDAGE Présidentielle 2027 : Raphaël Glucksmann progresse après sa victoire à la primaire, Edouard Philippe au second tour |
+| 14/10 | SONDAGE Présidentielle 2027 : Le Pen, Mélenchon, Philippe, Glucksmann… Voici l’évolution des intentions de vote depuis huit mois |
+| 13/10 | Présidentielle 2027 : Raphaël Glucksmann désormais au défi de rallier à sa cause l’ensemble de la gauche hors-LFI |
+| 13/10 | Présidentielle 2027 : "On va devenir la poubelle"… Sur les voitures électriques, Raphaël Glucksmann prône le "rapport de force" avec la Chine |
+| 12/10 | Élection présidentielle : après la primaire de la gauche et la victoire de Raphaël Glucksmann, Place Publique Gard se met "pleinement au travail" |
+| 12/10 | VIDÉO Primaire de la gauche : Raphaël Glucksmann enfariné après sa victoire au premier tour |
+| 12/10 | SONDAGE Présidentielle 2027 : effondrement de Bruno Retailleau et de Gabriel Attal, Raphaël Glucksmann absent du second tour… les dernières intentions de vote |
+| 12/10 | Primaire de la gauche : éjection du 20 h, émission modifiée… Ce qui attend Léa Salamé après la victoire de Raphaël Glucksmann |
+| 12/10 | "Raphaël Glucksmann incarne le chemin de la victoire" : Michaël Delafosse se réjouit du résultat sans appel de la primaire de la gauche |
+| 11/10 | Primaire de la gauche : majorité absolue pour Raphaël Glucksmann avec 66 %, la primaire prend fin dès ce premier tour |
+| 11/10 | Primaire de la gauche : après la victoire de Raphaël Glucksmann, les mots d’Olivier Faure, Ségolène Royal, Jérôme Guedj et Emmanuel Maurel |
+| 09/10 | SONDAGE Présidentielle 2027 : Glucksmann, Faure, Royal… qui sont les favoris de la primaire de la gauche ? Voici les dernières intentions de vote |
+| 09/10 | "Ségolène Royal se livre à un triste spectacle" : Delafosse maintient son soutien à Raphaël Glucksmann à la primaire de la gauche |
+| 08/10 | Présidentielle 2027 : "Un grand mensonge"… Olivier Faure attaque encore Raphaël Glucksmann à la veille de la primaire sociale-démocrate |
+| 07/10 | Présidentielle 2027 : qui sont ces élus "sans étiquette" d’Occitanie qui veulent faire barrage aux "extrêmes" derrière Raphaël Glucksmann |
+| 07/10 | "Des adhésions arrivent après chaque prise de parole de Raphaël Glucksmann" : au niveau local, les militants gardois de Place Publique se projettent dans l’avenir |
+| 05/10 | Présidentielle 2027 : "Oui j’assume"… la réponse de Raphaël Glucksmann après ses propos envers Ségolène Royal et Jean-Luc Mélenchon |
+| 04/10 | Présidentielle 2027 : "Raphaël Glucksmann prétend qu’il me pisse dessus"… Les propos volés du candidat font réagir Jean-Luc Mélenchon et Ségolène Royal |
+| 29/09 | "C’est le seul candidat à pouvoir gagner": les Socialistes de Millau appellent à voter pour Raphaël Glucksmann à la primaire de la gauche |
+| 25/09 | Présidentielle 2027 : "Nous te demandons de ne plus communiquer"… Yannick Jadot suspendu des Écologistes pour son soutien à Raphaël Glucksmann |
+| 21/09 | Présidentielle 2027 : Ségolène Royal compare Raphaël Glucksmann à un "stagiaire", elle se fait reprocher son manque de "camaraderie" |
+| 21/09 | Présidentielle 2027 : "Je n’ai pas quémandé des postes depuis 45 ans"… Raphaël Glucksmann recadre Ségolène Royal après s’être fait traiter de "stagiaire" |
+| 19/09 | Un accueil triomphal pour Raphaël Glucksmann, en terrain conquis aux Rencontres de la gauche à Bram |
+| 19/09 | Présidentielle 2027 : Raphaël Glucksmann en terrain conquis aux Rencontres de la gauche organisées à Bram par Carole Delga |
+| 18/09 | "Rallumer tous les soleils, voilà ta mission cher Raphaël" : tapis rouge pour Glucksmann à Montpellier avant la primaire de la gauche |
+| 17/09 | Présidentielle 2027 : "Je viens dire à Bram que cette fois, le vote utile, ce sera nous", annonce Raphaël Glucksmann |
+| 08/09 | Présidentielle 2027 : à l’invitation de Carole Delga, Raphaël Glucksmann, Ségolène Royal, ou Yannick Jadot, participeront aux rencontres de la gauche à Bram |
+| 08/09 | Présidentielle 2027 : "Tu fais pas ta campagne ici, tu dégages !"… Raphaël Glucksmann pris à partie en pleine manifestation |
+| 06/09 | Bruel, Nicollin, Glucksmann, Bourgi et Frêche… Toutes les confidences de Michaël Delafosse |
+| 04/09 | "On ne veut pas d’un pays qui ressemble à ça"… Raphaël Glucksmann dézingue la proposition de Marine Le Pen sur le port du voile |
+| 31/08 | Présidentielle 2027 : le maire de Montpellier, Michaël Delafosse, soutient officiellement la candidature de Raphaël Glucksmann à la présidentielle |
+| 30/08 | Présidentielle 2027 : Marine Le Pen donnée gagnante face à tous ses rivaux, Jean-Luc Mélenchon chute au profit de Raphaël Glucksmann |
+| 30/08 | Présidentielle 2027 : "J’ai pris la décision de me présenter", Olivier Faure candidat à la primaire de la gauche et affrontera Raphaël Glucksmann |
+| 29/08 | Présidentielles 2027 : lâché par des ténors du PS qui ont décidé de soutenir Raphaël Glucksmann, Olivier Faure se redonne de l’allant à Blois avant la primaire |
+| 29/08 | "C’est lamentable" : au Parti socialiste, une concorde de façade, la primaire du PS entre Glucksmann et Faure est déjà lancée |
+| 27/08 | Présidentielle 2027 : le socialiste Boris Vallaud ne sera pas candidat à la primaire social-démocrate et adresse son soutien à Raphaël Glucksmann |
+| 27/08 | Présidentielle 2027 : "C’est le meilleur candidat à gauche"… Carole Delga officialise son soutien à Raphaël Glucksmann |
+| 24/08 | Présidentielle 2027 : "Il peut gagner cette élection"… l’écologiste Yannick Jadot se rallie officiellement à Raphaël Glucksmann |
+| 23/08 | Présidentielle 2027 : il s’était donné trois mois pour réfléchir… Raphaël Glucksmann va-t-il se déclarer candidat ce dimanche ? |
+| 23/08 | Présidentielle 2027 : Delga, Delafosse… pourquoi en Occitanie de nombreux socialistes sont favorables à la candidature de Raphaël Glucksmann |
+| 23/08 | Présidentielle 2027 : "Je veux relever la France"… Raphaël Glucksmann officialise sa candidature sur TF1 |
+| 22/08 | Présidentielle 2027 : les écologistes doivent-ils se rapprocher de Jean-Luc Mélenchon ou de Raphaël Glucksmann ? Ce qu’en pensent les militants |
+| 18/08 | Présidentielle 2027 : Raphaël Glucksmann pourrait officialiser sa candidature plus tôt que prévu |
+| 07/08 | Présidentielle 2027 : après Glucksmann, Philippe et Attal, jusqu’où ira la Russie dans sa volonté de perturber les élections françaises ? |
+| 05/08 | Présidentielle 2027 : après Édouard Philippe et Raphaël Glucksmann, Gabriel Attal également visé par une opération de déstabilisation russe |
+| 04/08 | "Une attaque russe pour déstabiliser la Présidentielle" : Raphaël Glucksmann et Léa Salamé victimes d’une vidéo truquée |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Rapha%C3%ABl+Glucksmann, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

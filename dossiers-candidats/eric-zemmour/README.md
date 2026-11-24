@@ -394,6 +394,18 @@ Total : 4 article(s) (4 par le titre).
 | 18/09 | « Je suis candidat » : Éric Zemmour confirme qu’il participera à la prochaine élection présidentielle |
 | 05/07 | Benoît de Sinety : « Je m’oppose à des gens qui se disent chrétiens comme Vincent Bolloré ou Éric Zemmour » |
 
+## Midi Libre (midilibre.fr)
+
+Source : la recherche du site (`/recherche?q=<nom>&year=2026&pg=<n>`, 20 résultats par page), relevé le 24 novembre 2026, deux requêtes par candidat (nom complet puis nom de famille), résultats fusionnés. Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 (date lue dans l'adresse) et que le nom du candidat figure dans son **titre** ; un article qui cite plusieurs candidats compte pour chacun. Voir la section 28 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 3 article(s) (3 par le titre).
+
+| Date (2026) | Titre |
+|---|---|
+| 18/09 | Présidentielle 2027 : Éric Zemmour annonce sa candidature et dresse une liste des catégories d’étrangers qu’il aimerait expulser |
+| 18/09 | Présidentielle 2027 : "Il prend parti pour les migrants"… Éric Zemmour accuse Kylian Mbappé de "solidarité islamique" et déclenche une tempête à gauche |
+| 03/09 | Présidentielle 2027 : "Ca sera avant décembre", Éric Zemmour prévoit d’annoncer prochainement sa candidature |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=%C3%89ric+Zemmour, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

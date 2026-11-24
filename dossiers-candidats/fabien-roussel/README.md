@@ -411,6 +411,23 @@ Total : 4 article(s) (4 par le titre).
 | 05/07 | Fabien Roussel, candidat à l’élection présidentielle : « Cette bataille, je vais la mener avec vous ! » |
 | 03/07 | « J’ai dit que j’étais prêt » : à Lille, Fabien Roussel se pose en candidat naturel du PCF pour 2027 |
 
+## Midi Libre (midilibre.fr)
+
+Source : la recherche du site (`/recherche?q=<nom>&year=2026&pg=<n>`, 20 résultats par page), relevé le 24 novembre 2026, deux requêtes par candidat (nom complet puis nom de famille), résultats fusionnés. Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 (date lue dans l'adresse) et que le nom du candidat figure dans son **titre** ; un article qui cite plusieurs candidats compte pour chacun. Voir la section 28 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 8 article(s) (8 par le titre).
+
+| Date (2026) | Titre |
+|---|---|
+| 21/09 | L’Adil 48 prend ses quartiers boulevard Théophile-Roussel et gagne en capacité d’accueil |
+| 15/09 | Mathilde Roussel, jeune prodige de gymnastique rythmique |
+| 12/09 | Présidentielle 2027 : le PCF plus radical que La France Insoumise ? À la fête de l’Huma, le duel à distance entre Jean-Luc Mélenchon et Fabien Roussel |
+| 08/09 | Trophées du rugby amateur dans l’Hérault : Maeva Delfosse, Margot Huet, Emilie Roussel… élisez la meilleure joueuse sur la saison 2025-2026 |
+| 06/09 | Présidentielle 2027 : Fabien Roussel annonce sa candidature, le secrétaire national du Parti communiste briguera l’Élysée |
+| 05/09 | Théophile-Roussel : rentrée sous de bons auspices |
+| 31/08 | De Mérimée aux éoliennes, Michel Roussel questionne notre rapport au patrimoine |
+| 05/07 | Réélu à la tête du Parti communiste, Fabien Roussel met le cap sur 2027 au détriment de Mélenchon |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Fabien+Roussel, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

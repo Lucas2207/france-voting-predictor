@@ -328,6 +328,19 @@ Total : 2 article(s) (2 par le titre).
 | 14/10 | L’essayiste Natacha Polony annonce sa candidature à l’élection présidentielle |
 | 31/08 | La journaliste Natacha Polony se lance en politique et n’exclut pas d’être candidate à la présidentielle |
 
+## Midi Libre (midilibre.fr)
+
+Source : la recherche du site (`/recherche?q=<nom>&year=2026&pg=<n>`, 20 résultats par page), relevé le 24 novembre 2026, deux requêtes par candidat (nom complet puis nom de famille), résultats fusionnés. Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 (date lue dans l'adresse) et que le nom du candidat figure dans son **titre** ; un article qui cite plusieurs candidats compte pour chacun. Voir la section 28 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 4 article(s) (4 par le titre).
+
+| Date (2026) | Titre |
+|---|---|
+| 01/11 | Présidentielle 2027 : Natacha Polony assurait pouvoir réunir les 500 promesses de parrainage d’ici le printemps prochain, voici où elle en est |
+| 15/10 | Présidentielle 2027 : "Bien sûr ! Évidemment"… Candidate à l’élection, l’essayiste Natacha Polony assure pouvoir réunir les 500 signatures |
+| 14/10 | Présidentielle 2027 : quels sont les premiers défis que va devoir relever Natacha Polony, une candidate pas forcément attendue ? |
+| 14/10 | Présidentielle 2027 : Natacha Polony annonce sa candidature pour "rassembler les orphelins de la politique" |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Natacha+Polony, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.
