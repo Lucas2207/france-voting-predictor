@@ -369,6 +369,20 @@ Total : 0 article(s) (0 par le titre).
 | Date (2026) | Titre |
 |---|---|
 
+## Le Télégramme (letelegramme.fr)
+
+Source : la recherche du site (`/recherche/pages/main-<n>/?orderBy=date&query=<nom>`, 30 résultats par page, jusqu'à 40 pages par requête), relevé le 24 novembre 2026. Une requête par candidat (nom de famille, ou nom complet pour Édouard Philippe). Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 (date de publication lue sur la page de l'article) et que le nom du candidat figure dans son titre ou dans son chapô ; un article qui cite plusieurs candidats compte pour chacun. Voir la section 29 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 5 article(s) (5 par le titre, 0 par le chapô seul).
+
+| Date (2026) | Titre |
+|---|---|
+| 05/10 | Lycéens : Villepin et Ruffin appellent conjointement à un budget sanctuarisé et à la fin de Parcoursup |
+| 02/09 | Présidentielle : en débat, Villepin et Ruffin testent leurs convergences |
+| 29/08 | François Ruffin critique la primaire du PS et Place publique : « C’est un suffrage censitaire » et « antipopulaire » |
+| 27/07 | L’Alréenne Françoise Charpentier référente de François Ruffin, candidat à l’élection présidentielle |
+| 06/07 | « Nicolas Sarkozy et François Hollande coûtent aux Français plus de quatre millions d’euros par an » : François Ruffin veut mettre fin aux « privilèges » des anciens présidents |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Fran%C3%A7ois+Ruffin, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

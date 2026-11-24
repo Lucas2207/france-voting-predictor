@@ -231,3 +231,12 @@ Total : 5 article(s) (5 par le titre).
 | 05/09 | Teddy Riner forfait pour les Mondiaux 2026 à Bakou : blessure à l’épaule met fin à ses espoirs de 12e titre mondial |
 | 12/08 | Nouveau coup dur pour Teddy Riner : le champion renonce de nouveau à son grand retour à la compétition après sa blessure à l’épaule |
 | 05/08 | Blessé à l’entraînement, le roi du judo Teddy Riner contraint de reporter son grand retour à la compétition après les JO de Paris |
+
+## Le Télégramme (letelegramme.fr)
+
+Source : la recherche du site (`/recherche/pages/main-<n>/?orderBy=date&query=<nom>`, 30 résultats par page, jusqu'à 40 pages par requête), relevé le 24 novembre 2026. Une requête par candidat (nom de famille, ou nom complet pour Édouard Philippe). Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 (date de publication lue sur la page de l'article) et que le nom du candidat figure dans son titre ou dans son chapô ; un article qui cite plusieurs candidats compte pour chacun. Voir la section 29 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 0 article(s) (0 par le titre, 0 par le chapô seul).
+
+| Date (2026) | Titre |
+|---|---|

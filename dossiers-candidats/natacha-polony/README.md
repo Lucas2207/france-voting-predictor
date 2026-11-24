@@ -341,6 +341,18 @@ Total : 4 article(s) (4 par le titre).
 | 14/10 | Présidentielle 2027 : quels sont les premiers défis que va devoir relever Natacha Polony, une candidate pas forcément attendue ? |
 | 14/10 | Présidentielle 2027 : Natacha Polony annonce sa candidature pour "rassembler les orphelins de la politique" |
 
+## Le Télégramme (letelegramme.fr)
+
+Source : la recherche du site (`/recherche/pages/main-<n>/?orderBy=date&query=<nom>`, 30 résultats par page, jusqu'à 40 pages par requête), relevé le 24 novembre 2026. Une requête par candidat (nom de famille, ou nom complet pour Édouard Philippe). Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 (date de publication lue sur la page de l'article) et que le nom du candidat figure dans son titre ou dans son chapô ; un article qui cite plusieurs candidats compte pour chacun. Voir la section 29 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 3 article(s) (3 par le titre, 0 par le chapô seul).
+
+| Date (2026) | Titre |
+|---|---|
+| 14/10 | Remous à Diwan, colère lycéenne en Bretagne, Polony candidate à la présidentielle : le point à la mi-journée |
+| 14/10 | Natacha Polony annonce sa candidature à l’élection présidentielle |
+| 31/08 | La journaliste Natacha Polony se lance en politique pour « perturber l’entre-soi » |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Natacha+Polony, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

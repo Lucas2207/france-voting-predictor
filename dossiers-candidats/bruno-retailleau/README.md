@@ -839,6 +839,37 @@ Total : 12 article(s) (12 par le titre).
 | 09/07 | "Elle est pour l’assistanat" : Bruno Retailleau attaque Marine Le Pen dès l’annonce de sa candidature |
 | 03/07 | Entre peau de banane et croc-en-jambe : quand Laurent Wauquiez savonne la planche de Bruno Retailleau pour la présidentielle |
 
+## Le Télégramme (letelegramme.fr)
+
+Source : la recherche du site (`/recherche/pages/main-<n>/?orderBy=date&query=<nom>`, 30 résultats par page, jusqu'à 40 pages par requête), relevé le 24 novembre 2026. Une requête par candidat (nom de famille, ou nom complet pour Édouard Philippe). Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 (date de publication lue sur la page de l'article) et que le nom du candidat figure dans son titre ou dans son chapô ; un article qui cite plusieurs candidats compte pour chacun. Voir la section 29 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 22 article(s) (18 par le titre, 4 par le chapô seul).
+
+| Date (2026) | Titre |
+|---|---|
+| 28/10 | Un programme qui « ruinerait la France » : Bruno Retailleau n’apporterait pas son « concours » à un gouvernement dirigé par le RN |
+| 27/10 | « L’expression de la démocratie mérite du calme, mérite de la sérénité » : du 17 octobre au 1er mai, les dates de la présidentielle contestées |
+| 21/10 | « Seule Marine Le Pen peut gagner l’élection présidentielle » : Ciotti appelle Retailleau et Lisnard à abandonner « leurs candidatures de témoignages » |
+| 16/10 | Présidentielle 2027 : Bruno Retailleau bientôt en campagne dans le Morbihan |
+| 12/10 | « C’est ça ou la Grèce » : Retailleau sort le « bulldozer » pour réduire la dépense publique |
+| 01/10 | Colère lycéenne en Bretagne, « interdiction de LFI », présentation du budget 2027 : le point à la mi-journée |
+| 01/10 | Violences devant les lycées : Retailleau veut faire interdire LFI |
+| 30/09 | Bruno Retailleau veut placer le droit européen « en dessous » de la Constitution française |
+| 25/09 | Retailleau, Amard, Malhuret… Les figures des sénatoriales |
+| 20/09 | Ciotti appelle Retailleau à le rejoindre « dans une maison de droite forte » |
+| 16/09 | « Produire en France, c’est la meilleure des solutions écologiques » : attendu au Space à Rennes, Bruno Retailleau détaille ses propositions pour le monde agricole |
+| 11/09 | Présidentielle : Bruno Retailleau attendu au Space, le salon de l’élevage de Rennes |
+| 09/09 | Présidentielle : Retailleau « prêt » à débattre avec Philippe |
+| 08/09 | Présidentielle : Philippe veut réunir dans un « comité » tous les partis « de la droite et du centre », Retailleau dit qu’il refusera l’invitation |
+| 06/09 | Présidentielle : Bregeon appelle Attal et Retailleau à se ranger « le plus tôt possible » derrière Philippe |
+| 02/09 | Présidentielle : les patrons de la grande distribution passent au crible les candidats |
+| 07/07 | « Un État plus efficace » : grâce à l’IA, Bruno Retailleau pense pouvoir ne pas remplacer 125 000 départs de fonctionnaires à la retraite |
+| 03/07 | Wauquiez « me rend plus sympathique chaque jour », répond Retailleau |
+| 02/07 | Près de Brest, le candidat à la présidentielle Bruno Retailleau dénonce « des petites trahisons » |
+| 01/07 | « Un vrai malin » : en poste seulement sept mois, le préfet Franck Robine aura marqué la Bretagne |
+| 01/07 | « Je ne suis pas dans le bloc central » : en déplacement à Brest, Bruno Retailleau maintient le cap de son ambition et de ses valeurs |
+| 01/07 | « Il faut, le plus tôt possible, savoir se retirer si c’est nécessaire » : Laurent Wauquiez vise sans le nommer Bruno Retailleau, candidat à la présidentielle |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Bruno+Retailleau, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

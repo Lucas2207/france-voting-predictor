@@ -406,6 +406,20 @@ Total : 3 article(s) (3 par le titre).
 | 18/09 | Présidentielle 2027 : "Il prend parti pour les migrants"… Éric Zemmour accuse Kylian Mbappé de "solidarité islamique" et déclenche une tempête à gauche |
 | 03/09 | Présidentielle 2027 : "Ca sera avant décembre", Éric Zemmour prévoit d’annoncer prochainement sa candidature |
 
+## Le Télégramme (letelegramme.fr)
+
+Source : la recherche du site (`/recherche/pages/main-<n>/?orderBy=date&query=<nom>`, 30 résultats par page, jusqu'à 40 pages par requête), relevé le 24 novembre 2026. Une requête par candidat (nom de famille, ou nom complet pour Édouard Philippe). Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 (date de publication lue sur la page de l'article) et que le nom du candidat figure dans son titre ou dans son chapô ; un article qui cite plusieurs candidats compte pour chacun. Voir la section 29 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 5 article(s) (3 par le titre, 2 par le chapô seul).
+
+| Date (2026) | Titre |
+|---|---|
+| 18/09 | Présidentielle 2027 : Zemmour veut expulser les chômeurs étrangers |
+| 18/09 | Garde à vue du maire de Concarneau prolongée, record pour le prix du gazole, Zemmour candidat à la présidentielle : le point à la mi-journée |
+| 02/09 | « Elle n’est plus dans l’ombre de Zemmour » : Sarah Knafo lance son « Casse du Siècle » |
+| 31/07 | Sénatoriales dans le Finistère : le Reconquête ! Yann Leriche tête de liste |
+| 05/07 | « La racaille en prison, ni oubli ni pardon » : à Narbonne, 4 500 personnes lors d’une marche blanche pour Louis, tué dans un guet-apens |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=%C3%89ric+Zemmour, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

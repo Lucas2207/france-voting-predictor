@@ -1321,6 +1321,51 @@ Total : 50 article(s) (50 par le titre).
 | 05/08 | Présidentielle 2027 : après Édouard Philippe et Raphaël Glucksmann, Gabriel Attal également visé par une opération de déstabilisation russe |
 | 04/08 | "Une attaque russe pour déstabiliser la Présidentielle" : Raphaël Glucksmann et Léa Salamé victimes d’une vidéo truquée |
 
+## Le Télégramme (letelegramme.fr)
+
+Source : la recherche du site (`/recherche/pages/main-<n>/?orderBy=date&query=<nom>`, 30 résultats par page, jusqu'à 40 pages par requête), relevé le 24 novembre 2026. Une requête par candidat (nom de famille, ou nom complet pour Édouard Philippe). Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 (date de publication lue sur la page de l'article) et que le nom du candidat figure dans son titre ou dans son chapô ; un article qui cite plusieurs candidats compte pour chacun. Voir la section 29 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 36 article(s) (27 par le titre, 9 par le chapô seul).
+
+| Date (2026) | Titre |
+|---|---|
+| 26/10 | Présidentielle 2027 : Glucksmann accuse LFI de mener une « campagne de harcèlement » contre lui |
+| 20/10 | Présidentielle : Jean-Luc Mélenchon au second tour dans quasi tous les cas de figure dans un nouveau sondage |
+| 16/10 | [Édito] L’automne des outsiders |
+| 15/10 | « En France, le travail doit payer » : en cas d’arrivée à l’Élysée, Glucksmann promet de passer à 1 000 € mensuels la rémunération de certains stagiaires |
+| 12/10 | [Les carnets] Glucksmann, on a envie d’y croire |
+| 12/10 | Enfariné après sa victoire dimanche soir, Glucksmann demande à Mélenchon de « désavouer » la violence de « ses supporters » [Vidéo] |
+| 11/10 | [Édito] Pour Glucksmann, le plus dur commence |
+| 11/10 | Raphaël Glucksmann, candidat de la gauche sociale-démocrate, désormais au défi de dissiper les doutes |
+| 11/10 | Raphaël Glucksmann élu candidat de la gauche sociale-démocrate à la présidentielle |
+| 02/10 | Deuxième débat de la primaire de la gauche : vives tensions entre Glucksmann et Faure, LFI au cœur des divisions |
+| 30/09 | Un « costard en Kevlar » pour Mediapart ? Glucksmann juge que la violence est dans l'« ADN » du RN |
+| 30/09 | Lycées bloqués : Glucksmann comprend la « colère » mais condamne « toute forme de violence », Attal accuse LFI de se servir de la jeunesse « comme de la chair à canon » |
+| 25/09 | Yannick Jadot suspendu temporairement des Écologistes, pour son soutien à Raphaël Glucksmann à l’élection présidentielle 2027 |
+| 21/09 | [Les carnets] Ségolène Royal : reine ou sorcière ? |
+| 21/09 | Traité de « stagiaire », Glucksmann renvoie Royal à des postes « quémandés » |
+| 16/09 | Primaire de la gauche : cinq candidats en lice, finalement |
+| 10/09 | « Ce serait l’honneur de la France » : depuis Saint-Malo, Raphaël Glucksmann appelle Paris à « protéger » le ciel ukrainien |
+| 10/09 | Présidentielle : Gabriel Attal et Raphaël Glucksmann, deux styles en opération séduction auprès des patrons bretons |
+| 08/09 | Présidentielle 2027 : Gabriel Attal et Raphaël Glucksmann font étape au Forum économique breton |
+| 04/09 | Voile : Raphaël Glucksmann estime que la laïcité ne revient pas à faire « la police des vêtements » |
+| 30/08 | « Je me bats contre la droite et contre l’extrême droite » : Olivier Faure candidat à la primaire de la gauche |
+| 27/08 | Présidentielle : Vallaud choisit Glucksmann pour la primaire, « la candidature la plus sérieuse » |
+| 27/08 | Présidentielle : Delga officialise son soutien à Glucksmann |
+| 25/08 | [Les carnets] Le sourire indécidable de Glucksmann |
+| 24/08 | Une décision « évidente et difficile » : Salamé se retire du 20 h de France 2 après la candidature de Gluksmann pour la présidentielle |
+| 24/08 | « Convaincu qu’il peut gagner », Jadot se rallie à Glucksmann pour la présidentielle |
+| 23/08 | Raphaël Glucksmann candidat à la présidentielle « pour relever la France » |
+| 22/08 | Présidentielle : Glucksmann au 20 h de TF1 dimanche pour annoncer probablement sa candidature |
+| 18/08 | « Pourquoi pas lui » : François Hollande, recours du PS pour la présidentielle ? |
+| 18/08 | Le parquet de Paris annonce enquêter sur les soupçons d’ingérence russe ciblant Édouard Philippe et Gabriel Attal |
+| 12/08 | Glucksmann confirme avoir porté plainte après une ingérence russe le visant |
+| 10/08 | Présidentielle : Cohn-Bendit soutient Glucksmann, qui apporte « un positionnement nouveau » |
+| 06/08 | Soupçons d’ingérence russe visant Glucksmann : le parquet de Paris ouvre une enquête |
+| 05/08 | L’ancien Premier ministre Gabriel Attal à son tour visé par « une ingérence en provenance de Russie » |
+| 05/08 | Ingérences dans la présidentielle : il ne faut pas avoir « la main qui tremble » face à TikTok et X, exhorte Glucksmann |
+| 04/08 | Ingérences russes : un deepfake sonore de Léa Salamé et d’Edwy Plenel vise le candidat à l’élection présidentielle Raphaël Glucksmann |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Rapha%C3%ABl+Glucksmann, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

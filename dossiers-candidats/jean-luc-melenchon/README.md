@@ -1398,6 +1398,71 @@ Total : 46 article(s) (46 par le titre).
 | 05/07 | Réélu à la tête du Parti communiste, Fabien Roussel met le cap sur 2027 au détriment de Mélenchon |
 | 04/07 | Présidentielle 2027 : coup de théâtre à gauche, François Hollande passe devant Jean-Luc Mélenchon dans ce nouveau sondage |
 
+## Le Télégramme (letelegramme.fr)
+
+Source : la recherche du site (`/recherche/pages/main-<n>/?orderBy=date&query=<nom>`, 30 résultats par page, jusqu'à 40 pages par requête), relevé le 24 novembre 2026. Une requête par candidat (nom de famille, ou nom complet pour Édouard Philippe). Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 (date de publication lue sur la page de l'article) et que le nom du candidat figure dans son titre ou dans son chapô ; un article qui cite plusieurs candidats compte pour chacun. Voir la section 29 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 56 article(s) (40 par le titre, 16 par le chapô seul).
+
+| Date (2026) | Titre |
+|---|---|
+| 01/11 | « Calomnies racistes » : fâché contre TF1 et l’interview d’Édouard Philippe, Mélenchon annule un passage au 20 h de TF1 |
+| 30/10 | « On voit beaucoup de nouvelles têtes » : à Brest, Clémence Guetté, vice-présidente de l’Assemblée nationale lance la campagne présidentielle de Jean-Luc Mélenchon |
+| 27/10 | Sondage : la colère du 17 octobre propulse Le Pen et Mélenchon, et fait s’effondrer Macron |
+| 26/10 | Présidentielle 2027 : un sondage place de nouveau Philippe troisième derrière Mélenchon |
+| 24/10 | Présidentielle : un nouveau sondage place Mélenchon au 2e tour dans toutes les configurations |
+| 20/10 | Présidentielle : Jean-Luc Mélenchon au second tour dans quasi tous les cas de figure dans un nouveau sondage |
+| 20/10 | Partis politiques à Matignon : « On va y aller, on va te pourrir la réunion », dit Mélenchon à Lecornu |
+| 19/10 | Présidentielle 2027 : une campagne inédite dans un climat insurrectionnel |
+| 19/10 | « Mélenchon en prison » : à Quimperlé, le rassemblement devant la mairie vire au dérapage politique |
+| 15/10 | « L’usine, les ouvriers et le site doivent être maintenus par une nationalisation temporaire », plaide Mélenchon après la liquidation de la Fonderie de Bretagne |
+| 14/10 | Présidentielle : LFI prévoit 106 milliards de recettes et 82 milliards de dépenses pour 2027 |
+| 14/10 | Duel des extrêmes ou pas, Marine Le Pen grande favorite de la présidentielle 2027 [Sondage] |
+| 12/10 | Enfariné après sa victoire dimanche soir, Glucksmann demande à Mélenchon de « désavouer » la violence de « ses supporters » [Vidéo] |
+| 11/10 | [Édito] Pour Glucksmann, le plus dur commence |
+| 11/10 | À Clermont-Ferrand, Mélenchon fait salle comble pour dénoncer « l’ignominie » Parcoursup |
+| 10/10 | Présidentielle : Attal présente son « pacte pour la jeunesse » et vise Mélenchon |
+| 07/10 | À Concarneau, La France Insoumise invite les « forces de gauche » à discuter en vue de la présidentielle |
+| 07/10 | « L’hypothèse d’un second tour entre Le Pen et Mélenchon ne rassure pas les investisseurs » : pourquoi la France emprunte toujours plus cher |
+| 07/10 | « Je ne me laisserai pas intimider », répond le gouverneur de la Banque de France à Mélenchon |
+| 04/10 | « Un boulet » pour la gauche : Mélenchon encore et toujours au centre des débats de la primaire sociale-démocrate |
+| 03/10 | Blocage des lycées : Mélenchon y voit un « point de départ » et appelle à « accompagner » la mobilisation |
+| 02/10 | Lycéens en colère : Mélenchon, l’équilibriste qui regarde vers 2027 |
+| 28/09 | Action spectaculaire des Femen à Concarneau, « ras-le-bol du fonctionnaire bashing », blocus des lycées : le point à la mi-journée |
+| 28/09 | Présidentielle 2027 : Marine Le Pen creuse l’écart au second tour face à Édouard Philippe et Jean-Luc Mélenchon |
+| 27/09 | « Leur camp, ce n’est pas celui de l’Ukraine » : Jean-Noël Barrot critique le positionnement de Marine Le Pen et Jean-Luc Mélenchon |
+| 25/09 | Retailleau, Amard, Malhuret… Les figures des sénatoriales |
+| 25/09 | Envoi de militaires français en Arabie Saoudite : « Pas une bonne idée », pour le RN, Mélenchon réclame un vote au parlement |
+| 25/09 | Emmanuel Macron prône une « organisation internationale » pour éviter une IA concentrée dans « quelques mains », Jean-Luc Mélenchon et Olivier Faure sur la même ligne |
+| 24/09 | Présidentielle 2027 : Mélenchon et Philippe à égalité, loin derrière Le Pen, selon un sondage |
+| 14/09 | Deux conquêtes municipales de LFI menacées en justice près de Lyon : Mélenchon dénonce des « manipulations politiques » |
+| 13/09 | Présidentielle : Le Pen toujours nettement en tête, Mélenchon au second tour dans plusieurs scénarios, selon un sondage |
+| 12/09 | Suite au procès en diffamation de Maël de Calan, les délégués brestois Les Républicains lui apportent leur soutien |
+| 12/09 | Mélenchon et Roussel cherchent à séduire la gauche de la gauche à la Fête de L’Humanité |
+| 11/09 | La proposition de Mélenchon d’effacer la dette serait « illégale, dangereuse et inutile », s’inquiète le gouverneur de la Banque de France |
+| 06/09 | Présidentielle : Bregeon appelle Attal et Retailleau à se ranger « le plus tôt possible » derrière Philippe |
+| 05/09 | Moules, frites et politique : ambiance présidentielle à la braderie de Lille |
+| 28/08 | La France Insoumise organise un pique-nique populaire le 6 septembre à Lamballe |
+| 28/08 | Mélenchon : objectif 1er et 3e tours [Édito] |
+| 24/08 | Présidentielle : Philippe « en train de perdre son pari » dans le bloc central, estime l’entourage d’Attal |
+| 24/08 | Présidentielle : Mélenchon en position de se qualifier pour le second tour, selon un sondage |
+| 23/08 | « Lecornu prépare un nouveau bûcher de coupes rases qui va aggraver tous les maux » : Mélenchon promet la censure pour le budget de l’État |
+| 23/08 | [Édito] La séduction trumpiste de Mélenchon |
+| 23/08 | Présidentielle : Mélenchon colore sa rentrée en vert en proposant la « conscription écologique » |
+| 23/08 | Breton en or, discours de Mélenchon, « triste bilan » des noyades : le point à la mi-journée |
+| 22/08 | Aux universités d’été de LFI, des militants plus confiants et nombreux que jamais |
+| 22/08 | « Il m’arrive d’être souvent très en désaccord avec lui » : critiqué par Jean-Luc Mélenchon, Édouard Philippe l’encourage à venir à Mayotte |
+| 22/08 | Badiste breton dans l’histoire, « terreur planifiée » de la Russie, Philippe répond à Mélenchon : le point à la mi-journée |
+| 21/08 | « La police et la justice font mieux leur travail » : à Vannes, Gérald Darmanin défend ses réformes et en promet d’autres |
+| 19/08 | Universités, discours, meeting… LFI et Jean-Luc Mélenchon font leur rentrée ce jeudi |
+| 15/08 | Pour Mélenchon, Bally Bagayoko et Aly Diouara font l’objet d’un « racisme systémique » |
+| 10/08 | Présidentielle : Cohn-Bendit soutient Glucksmann, qui apporte « un positionnement nouveau » |
+| 29/07 | « Pacte productif », impôt sur les sociétés, retraite à 60 ans… En ce début de campagne présidentielle, LFI cherche le dialogue avec le monde économique |
+| 14/07 | En Bretagne, Mélenchon fustige « la stupidité du capitalisme » qui cause des incendies |
+| 11/07 | Sondage : Le Pen largement en tête, Mélenchon se rapproche du second tour |
+| 03/07 | [Édito] Mélenchon, le féroce tranquille |
+| 02/07 | Jean-Luc Mélenchon sera présent le 14 juillet en Bretagne : voici où |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Jean-Luc+M%C3%A9lenchon, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

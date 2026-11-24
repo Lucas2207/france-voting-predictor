@@ -494,14 +494,27 @@ Pour garder une méthode commune avec les journaux, ARTE n'est pas intégré aux
 - les résultats varient d'une requête à l'autre ; la fusion de deux requêtes réduit le risque d'oubli sans l'annuler ;
 - le décompte par titre sous-estime les articles qui ne citent le candidat que dans le texte.
 
-## 29. Ce qui n'est pas fait
+## 29. Le Télégramme (letelegramme.fr)
+
+**Source :** la recherche du site, `https://www.letelegramme.fr/recherche/pages/main-<n>/?orderBy=date&query=<nom>` (30 résultats par page). Les pages de résultats se lisent sans accepter la bannière de cookies ; la date de publication est lue sur la page de chaque article retenu (`article:published_time`), car la liste n'affiche pas les dates.
+
+**Relevé :**
+- une requête par candidat (nom de famille, ou nom complet pour Édouard Philippe), jusqu'à 40 pages ou jusqu'à la fin des résultats ; l'ordre « par date » n'est qu'approximatif (la page 1 mélange des articles très récents et des articles plus anciens), donc la pagination n'est pas arrêtée sur une date ;
+- seuls les résultats dont le titre ou le chapô contient le nom du candidat sont gardés, puis datés ; règle de décompte : titre ou chapô, du 1er juillet au 1er novembre 2026 ; un article qui cite plusieurs candidats compte pour chacun ;
+- homonymes écartés : Jean-Marie Le Pen, Marion Maréchal-Le Pen, Marie-Caroline Le Pen, Michaël Zemmour, Jean-François Roussel, Robin Roussel, Jean-Christophe Ruffin, « Ruffine ».
+
+**Limites :**
+- le moteur classe les résultats de façon approximative : la limite de 40 pages par requête (1 200 résultats) peut couper des articles de la période pour les candidats très cités ;
+- le chapô de la liste est le chapô de l'article ; un candidat cité seulement dans le corps du texte n'est pas compté.
+
+## 30. Ce qui n'est pas fait
 
 - pas d'ouverture des articles un par un : le classement se base sur le titre et le chapô ou l'adresse ;
 - pas de couverture de BFMTV pour juillet à septembre 2026 ;
 - Dominique de Villepin et Teddy Riner (candidats ajoutés le 23 novembre 2026) ne sont relevés que pour les médias traités depuis (L'Équipe pour l'instant) ; Radio France, BFMTV, TF1, franceinfo, Le Monde, CNEWS, Libération, Ouest-France, Europe 1, La Dépêche, RMC, Sud Ouest, ARTE et Canal+ restent à faire pour eux ;
 - les dossiers Radio France ne sont pas tous à jour pour les personnalités sans page propre (Zemmour, Lisnard, Roussel) : ils sont couverts par les pages des autres personnalités citées dans les chapôs.
 
-## 30. Fichiers
+## 31. Fichiers
 
 - Dossiers par candidat : `dossiers-candidats/<nom>/README.md`
 - Tableaux Radio France : section « Radio France » de chaque dossier (les anciens fichiers `radio-france-<nom>-emissions.md` à la racine ont été supprimés une fois repris dans les dossiers)

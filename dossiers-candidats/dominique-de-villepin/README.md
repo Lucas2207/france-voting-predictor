@@ -208,3 +208,17 @@ Total : 2 article(s) (2 par le titre).
 |---|---|
 | 27/09 | Présidentielle 2027 : qu’est-ce que la "négociation sociale", ce principe que Dominique de Villepin veut inscrire dans la Constitution ? |
 | 30/08 | Présidentielle 2027 : "Je veux être candidat à l’élection"… Dominique de Villepin confirme sa volonté de se présenter au scrutin |
+
+## Le Télégramme (letelegramme.fr)
+
+Source : la recherche du site (`/recherche/pages/main-<n>/?orderBy=date&query=<nom>`, 30 résultats par page, jusqu'à 40 pages par requête), relevé le 24 novembre 2026. Une requête par candidat (nom de famille, ou nom complet pour Édouard Philippe). Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 (date de publication lue sur la page de l'article) et que le nom du candidat figure dans son titre ou dans son chapô ; un article qui cite plusieurs candidats compte pour chacun. Voir la section 29 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 5 article(s) (5 par le titre, 0 par le chapô seul).
+
+| Date (2026) | Titre |
+|---|---|
+| 05/10 | Lycéens : Villepin et Ruffin appellent conjointement à un budget sanctuarisé et à la fin de Parcoursup |
+| 02/09 | Présidentielle : en débat, Villepin et Ruffin testent leurs convergences |
+| 30/08 | Dominique de Villepin « veut être candidat » à la présidentielle pour 2027 et tacle Édouard Philippe sur l’immigration |
+| 28/08 | « Une société puissante, pourtant condamnée » : pour sortir d’un système « féodal », Dominique de Villepin propose un « big bang » fiscal |
+| 27/07 | Villepin entendu en audition libre mi-juillet dans le cadre de l’affaire des statuettes |

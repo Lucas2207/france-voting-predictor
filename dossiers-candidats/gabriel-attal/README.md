@@ -1092,6 +1092,72 @@ Total : 30 article(s) (30 par le titre).
 | 04/08 | "Tu dégrades, tu paies" : Gabriel Attal veut s’attaquer aux gens du voyage et facturer les emplacements au prix d’un "camping" |
 | 31/07 | Présidentielle 2027 : la justice autorise le RN et Marine Le Pen à utiliser le terme "renaissance", malgré la plainte du parti de Gabriel Attal |
 
+## Le Télégramme (letelegramme.fr)
+
+Source : la recherche du site (`/recherche/pages/main-<n>/?orderBy=date&query=<nom>`, 30 résultats par page, jusqu'à 40 pages par requête), relevé le 24 novembre 2026. Une requête par candidat (nom de famille, ou nom complet pour Édouard Philippe). Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 (date de publication lue sur la page de l'article) et que le nom du candidat figure dans son titre ou dans son chapô ; un article qui cite plusieurs candidats compte pour chacun. Voir la section 29 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 57 article(s) (51 par le titre, 6 par le chapô seul).
+
+| Date (2026) | Titre |
+|---|---|
+| 01/11 | Présidentielle 2027 : Édouard Philippe refuse de participer à une primaire du centre et de la droite, source de « division » |
+| 31/10 | Brève escale à Saint-Malo, sur le village du Rhum, pour Gabriel Attal |
+| 30/10 | « J’ai la conviction qu’elle aura lieu » : en visite près de Dinan, Gabriel Attal plaide pour une primaire |
+| 30/10 | Deux lignes à l’arrêt chez Gavottes : à Lanvallay, la sécheresse s’invite dans la visite de Gabriel Attal |
+| 29/10 | Gabriel Attal visitera l’usine Gavottes à Lanvallay ce vendredi 30 octobre |
+| 28/10 | Présidentielle 2027 : Gabriel Attal plaide pour l’organisation d’une « grande primaire des démocrates » |
+| 27/10 | Gabriel Attal de retour en Bretagne |
+| 24/10 | Présidentielle : un nouveau sondage place Mélenchon au 2e tour dans toutes les configurations |
+| 10/10 | Présidentielle : Attal présente son « pacte pour la jeunesse » et vise Mélenchon |
+| 04/10 | Élection scrutée à Plouasne, appel au rassemblement lancé par Attal, « changements » chez les Bleus : le point à la mi-journée |
+| 04/10 | Présidentielle 2027 : Attal plaide pour un candidat unique rassemblant gauche sociale-démocrate et droite républicaine |
+| 30/09 | Lycées bloqués : Glucksmann comprend la « colère » mais condamne « toute forme de violence », Attal accuse LFI de se servir de la jeunesse « comme de la chair à canon » |
+| 30/09 | Gabriel Attal critique la réforme des retraites d’Édouard Philippe qui reprend « la réforme Macron de 2022 » |
+| 27/09 | Présidentielle 2027 : « Le match ne se résume pas à un affrontement entre Gabriel Attal et Édouard Philippe », insiste la députée bretonne Sandrine Le Feur |
+| 27/09 | Gabriel Attal, un automne pour convaincre |
+| 24/09 | Présidentielle 2027 : qui sont les sept Bretons de l’équipe de campagne de Gabriel Attal ? |
+| 23/09 | Dans le Morbihan, Renaissance nomme ses deux référents pour la campagne présidentielle |
+| 16/09 | La dissolution a « contribué à quasiment flinguer l’économie française », assure Attal sans citer Macron |
+| 16/09 | Immigration : un député du groupe de Gabriel Attal favorable à la création de centres de rétention « géants » |
+| 14/09 | Gabriel Attal ne se rendra pas dans un bistrot de Dinard ce mardi |
+| 10/09 | Présidentielle : Gabriel Attal et Raphaël Glucksmann, deux styles en opération séduction auprès des patrons bretons |
+| 09/09 | « Je suis prête pour un quatrième mandat » : la députée du Finistère Annaïg Le Meur appelle à une union « du PS aux Républicains » |
+| 09/09 | « On doit assumer de confier davantage de responsabilités aux collectivités locales », estime Gabriel Attal depuis Saint-Malo |
+| 09/09 | « La République s’est aussi forgée dans les bistrots et dans les cafés » : Gabriel Attal au bistrot à Saint-Malo |
+| 08/09 | Présidentielle 2027 : Gabriel Attal et Raphaël Glucksmann font étape au Forum économique breton |
+| 06/09 | Présidentielle : Bregeon appelle Attal et Retailleau à se ranger « le plus tôt possible » derrière Philippe |
+| 05/09 | Moules, frites et politique : ambiance présidentielle à la braderie de Lille |
+| 05/09 | Présidentielle 2027 : Le Pen largement en tête, Philippe toujours préféré à Attal |
+| 02/09 | Présidentielle : les patrons de la grande distribution passent au crible les candidats |
+| 27/08 | Présidentielle : Attal « n’a pas peur » d’une primaire et renvoie la responsabilité sur Philippe |
+| 25/08 | Salaire, groupes de niveau, autonomie… Les propositions de Gabriel Attal et Édouard Philippe pour l’école |
+| 24/08 | Présidentielle : Philippe « en train de perdre son pari » dans le bloc central, estime l’entourage d’Attal |
+| 21/08 | Gabriel Attal, candidat à la présidentielle, de nouveau ciblé par des opérations de désinformation prorusses |
+| 18/08 | Le parquet de Paris annonce enquêter sur les soupçons d’ingérence russe ciblant Édouard Philippe et Gabriel Attal |
+| 15/08 | Gabriel Attal appelle à un référendum sur l’interdiction des réseaux aux moins de 15 ans |
+| 08/08 | Présidentielle : Gabriel Attal porte plainte, dénonçant une ingérence russe |
+| 05/08 | L’ancien Premier ministre Gabriel Attal à son tour visé par « une ingérence en provenance de Russie » |
+| 03/08 | « Tu dégrades, tu paies » : Attal veut s’attaquer aux installations illégales des gens du voyage |
+| 02/08 | Foule pour la Grande Parade du Festival interceltique de Lorient, situation stable dans le Var et en Gironde, promesse de Gabriel Attal : le point à la mi-journée |
+| 02/08 | Attal promet « la plus grande réforme institutionnelle depuis 1958 » s’il accède à l’Élysée |
+| 30/07 | La justice déboute Attal sur l’utilisation du mot renaissance par Le Pen pour sa campagne |
+| 25/07 | Gabriel Attal en escale à Vannes pour clore son Tro Breizh de campagne |
+| 24/07 | « Son discours peut me séduire » : le candidat à la présidentielle Gabriel Attal a déjeuné avec des chefs d’entreprise à Larmor-Plage |
+| 24/07 | « On se retrouve au pied du mur » : face à Gabriel Attal, le cri d’alarme de la filière pêche du Pays bigouden |
+| 24/07 | « Des équipes fatiguées » : comment Gabriel Attal tente de redynamiser un parti à la traîne à Rennes |
+| 24/07 | [Édito] Attal, la leçon bretonne |
+| 24/07 | Poissons morts, rond-point en travaux et Gabriel Attal : Bonjour Brest ! |
+| 24/07 | Loi d’urgence agricole : au Guilvinec, des militants perturbent la venue de Gabriel Attal [Vidéo] |
+| 24/07 | Feu XXL en Gironde, Attal hué au Guilvinec, noyades mortelles : le point à la mi-journée |
+| 23/07 | À la criée de Brest, Gabriel Attal prend le frais, avant le panier de crabes de la présidentielle de 2027 [Vidéo] |
+| 23/07 | À Douarnenez, Baie de Douarnenez Environnement et Cancer Colère ont attendu en vain Gabriel Attal et Liliana Tanguy près du site des Fêtes maritimes |
+| 23/07 | « J’entretiens avec lui des relations amicales et intellectuelles » : Gabriel Attal de passage à Landerneau à l’invitation de Michel-Édouard Leclerc |
+| 22/07 | « L’écart entre le net et le brut est devenu un scandale français ! » : un déplacement de trois jours en Bretagne sur le thème des salaires pour Gabriel Attal |
+| 22/07 | [Édito] L’Armorique, la nouvelle Damas pour Édouard Philippe et Gabriel Attal |
+| 21/07 | De Brest à Lorient, en passant par Douarnenez et Le Guilvinec… Gabriel Attal se rend en Bretagne de jeudi à samedi |
+| 21/07 | Attal en campagne, débrayage au CHU et mers extraordinaires : Bonjour Brest ! |
+| 15/07 | Pourquoi Gabriel Attal assigne Marine Le Pen en justice ? |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Gabriel+Attal, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

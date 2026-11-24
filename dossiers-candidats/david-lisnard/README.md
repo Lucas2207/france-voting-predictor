@@ -500,6 +500,22 @@ Total : 8 article(s) (8 par le titre).
 | 06/08 | David Lisnard : "Ceux qui disent vouloir renverser la table, je trouve qu’ils sont ingrats avec la table qui les nourrit depuis 20 ans" |
 | 18/07 | Présidentielle 2027 : "Le Milei du pauvre"… Clément Beaune répond à David Lisnard après ses propos sur le haut-commissaire au Plan |
 
+## Le Télégramme (letelegramme.fr)
+
+Source : la recherche du site (`/recherche/pages/main-<n>/?orderBy=date&query=<nom>`, 30 résultats par page, jusqu'à 40 pages par requête), relevé le 24 novembre 2026. Une requête par candidat (nom de famille, ou nom complet pour Édouard Philippe). Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 (date de publication lue sur la page de l'article) et que le nom du candidat figure dans son titre ou dans son chapô ; un article qui cite plusieurs candidats compte pour chacun. Voir la section 29 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 7 article(s) (6 par le titre, 1 par le chapô seul).
+
+| Date (2026) | Titre |
+|---|---|
+| 28/10 | Présidentielle 2027 : David Lisnard appelle Éric Ciotti à « se séparer » du RN et à le rejoindre |
+| 21/10 | « Seule Marine Le Pen peut gagner l’élection présidentielle » : Ciotti appelle Retailleau et Lisnard à abandonner « leurs candidatures de témoignages » |
+| 20/10 | « J’en ai rien à foutre, j’en ai rien à cirer, j’étais pas né » : quand David Lisnard s’agace sur le plateau de LCI [Vidéo] |
+| 20/10 | Présidentielle. Deux porte-voix du parti de David Lisnard en réunion publique, ce vendredi à Châteaulin |
+| 16/10 | [Édito] L’automne des outsiders |
+| 02/09 | Présidentielle : David Lisnard assure avoir déjà recueilli 500 promesses de parrainages |
+| 25/08 | Présidentielle : David Lisnard relance l’idée d’une primaire de la droite et du centre |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=David+Lisnard, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

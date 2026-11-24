@@ -1209,6 +1209,79 @@ Total : 38 article(s) (38 par le titre).
 | 05/07 | Présidentielle 2027: "Clairvoyant, sincère, vraiment de droite"… Les avis des curieux et soutiens qui ont assisté au premier grand meeting d’Edouard Philippe |
 | 05/07 | Présidentielle 2027 : "Croire en nous", Edouard Philippe lance sa campagne devant 5 000 partisans à Paris |
 
+## Le Télégramme (letelegramme.fr)
+
+Source : la recherche du site (`/recherche/pages/main-<n>/?orderBy=date&query=<nom>`, 30 résultats par page, jusqu'à 40 pages par requête), relevé le 24 novembre 2026. Une requête par candidat (nom de famille, ou nom complet pour Édouard Philippe). Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 (date de publication lue sur la page de l'article) et que le nom du candidat figure dans son titre ou dans son chapô ; un article qui cite plusieurs candidats compte pour chacun. Voir la section 29 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 64 article(s) (31 par le titre, 33 par le chapô seul).
+
+| Date (2026) | Titre |
+|---|---|
+| 01/11 | « Calomnies racistes » : fâché contre TF1 et l’interview d’Édouard Philippe, Mélenchon annule un passage au 20 h de TF1 |
+| 01/11 | [Édito] La mauvaise passe d’Édouard Philippe |
+| 01/11 | Présidentielle 2027 : Édouard Philippe refuse de participer à une primaire du centre et de la droite, source de « division » |
+| 29/10 | Soupçons de détournement de fonds publics : Édouard Philippe placé sous le statut de témoin assisté |
+| 26/10 | Présidentielle 2027 : un sondage place de nouveau Philippe troisième derrière Mélenchon |
+| 22/10 | « Pas le moment de lui taper dessus » : en baisse dans les sondages, Édouard Philippe domine toujours le match à droite et au centre |
+| 20/10 | Présidentielle : Jean-Luc Mélenchon au second tour dans quasi tous les cas de figure dans un nouveau sondage |
+| 16/10 | Rythmes scolaires : Édouard Philippe plaide pour un apprentissage concentré en matinée et des vacances plus courtes |
+| 14/10 | Duel des extrêmes ou pas, Marine Le Pen grande favorite de la présidentielle 2027 [Sondage] |
+| 09/10 | Présidentielle 2027 : Édouard Philippe veut « diviser par deux l’immigration légale » et propose un moratoire sur le regroupement familial |
+| 30/09 | [Édito] Agitation lycéenne et politicienne |
+| 30/09 | Gabriel Attal critique la réforme des retraites d’Édouard Philippe qui reprend « la réforme Macron de 2022 » |
+| 29/09 | Retraites : Édouard Philippe propose de « porter progressivement la durée de cotisation à 45 ans et l’âge de départ à 65 ans » |
+| 28/09 | Présidentielle 2027 : Marine Le Pen creuse l’écart au second tour face à Édouard Philippe et Jean-Luc Mélenchon |
+| 27/09 | Gabriel Attal, un automne pour convaincre |
+| 27/09 | Présidentielle 2027 : « Le match ne se résume pas à un affrontement entre Gabriel Attal et Édouard Philippe », insiste la députée bretonne Sandrine Le Feur |
+| 24/09 | « J’ai toujours combattu la démagogie et les propositions des extrêmes » : Maël de Calan, le président du conseil départemental du Finistère, explique et assume ses combats |
+| 24/09 | Présidentielle 2027 : Mélenchon et Philippe à égalité, loin derrière Le Pen, selon un sondage |
+| 18/09 | Olivier Faure et Marine Tondelier portent plainte contre Maël de Calan |
+| 15/09 | « Édouard le flemmard » : le RN teste la méthode Trump contre Philippe |
+| 13/09 | Présidentielle : Le Pen toujours nettement en tête, Mélenchon au second tour dans plusieurs scénarios, selon un sondage |
+| 09/09 | Présidentielle : Retailleau « prêt » à débattre avec Philippe |
+| 09/09 | Présidentielle : 70 % des électeurs de droite et du centre favorables à une primaire, selon un sondage |
+| 07/09 | En campagne à Alès, Édouard Philippe prône un « état d’urgence narcotrafic » |
+| 06/09 | Présidentielle : Bregeon appelle Attal et Retailleau à se ranger « le plus tôt possible » derrière Philippe |
+| 06/09 | Les retraites, « l’éléphant dans la pièce » de la campagne de Philippe |
+| 05/09 | Présidentielle 2027 : Le Pen largement en tête, Philippe toujours préféré à Attal |
+| 04/09 | Le RN veut « couper le robinet » de l’aide à l’Ukraine, passe d’armes entre Le Pen et Philippe |
+| 31/08 | « Personne ne peut considérer qu’il est une évidence » : Morin invite Philippe à une primaire de la droite et du centre |
+| 31/08 | [Édito] L’équation complexe de Philippe |
+| 31/08 | [Les carnets] Entre Trump et Chirac, Philippe cherche sa recette |
+| 30/08 | « La seule personne qui peut avoir une majorité » à l’Assemblée, « c’est Édouard Philippe », estime Gérald Darmanin |
+| 30/08 | Dominique de Villepin « veut être candidat » à la présidentielle pour 2027 et tacle Édouard Philippe sur l’immigration |
+| 29/08 | Philippe refuse le moratoire général sur l’immigration légale demandé par Darmanin |
+| 27/08 | Présidentielle : Attal « n’a pas peur » d’une primaire et renvoie la responsabilité sur Philippe |
+| 27/08 | Durée de l’indemnisation chômage abaissée à 12 mois, fin de « l’open bar » des arrêts de travail : le message d’Édouard Philippe aux entrepreneurs |
+| 26/08 | Présidentielle : Haddad va soutenir Philippe, « le mieux placé » pour « rassembler » au centre et « élargir » à la droite |
+| 26/08 | Le maire de Vannes se dit « fatigué, exaspéré par les commentaires de certains commerçants » [Entretien] |
+| 25/08 | Salaire, groupes de niveau, autonomie… Les propositions de Gabriel Attal et Édouard Philippe pour l’école |
+| 24/08 | Présidentielle : Philippe « en train de perdre son pari » dans le bloc central, estime l’entourage d’Attal |
+| 24/08 | Édouard Philippe veut augmenter de 20 % la rémunération moyenne des enseignants sur un quinquennat |
+| 22/08 | Badiste breton dans l’histoire, « terreur planifiée » de la Russie, Philippe répond à Mélenchon : le point à la mi-journée |
+| 22/08 | « Il m’arrive d’être souvent très en désaccord avec lui » : critiqué par Jean-Luc Mélenchon, Édouard Philippe l’encourage à venir à Mayotte |
+| 21/08 | À Mayotte, Édouard Philippe promet de mettre fin à l'« appel d’air » de l’immigration |
+| 20/08 | Philippe pour la fermeture totale des « vannes de l’immigration » à Mayotte |
+| 18/08 | Le parquet de Paris annonce enquêter sur les soupçons d’ingérence russe ciblant Édouard Philippe et Gabriel Attal |
+| 17/08 | Présidentielle : Gérald Darmanin apporte son soutien à Édouard Philippe |
+| 10/08 | Un « verrou Schengen » et droit d’asile : après Ceuta, Édouard Philippe veut un tour de vis sur l’immigration |
+| 05/08 | L’ancien Premier ministre Gabriel Attal à son tour visé par « une ingérence en provenance de Russie » |
+| 24/07 | Une opération de désinformation russe a visé Édouard Philippe, une première pour un candidat à la présidentielle de 2027 |
+| 23/07 | Maël de Calan parmi les porte-paroles d’Édouard Philippe pour la présidentielle |
+| 22/07 | « Un trou de fourmi » : comment François Hollande espère encore s’imposer pour la présidentielle |
+| 22/07 | [Édito] L’Armorique, la nouvelle Damas pour Édouard Philippe et Gabriel Attal |
+| 20/07 | « Il faut arrêter de se taire » : à Nantes, l’agression d’un collaborateur politique relance le débat sur l’insécurité |
+| 18/07 | Enquête PNF : Édouard Philippe désavoué par le tribunal face à la lanceuse d’alerte |
+| 11/07 | Sondage : Le Pen largement en tête, Mélenchon se rapproche du second tour |
+| 07/07 | [Les carnets] Le « Édouard » de l’Adidas Arena |
+| 05/07 | [Édito] Peut-on gagner sans faire rêver ? |
+| 05/07 | Édouard Philippe, l’ex-« pote de droite » de Macron qui ambitionne de lui succéder à l’Élysée |
+| 05/07 | « Sueur, sérieux et détermination » : Édouard Philippe monte sur le ring de la présidentielle |
+| 05/07 | « Oui, il a fendu l’armure » : les soutiens bretons d’Édouard Philippe croient en leur champion |
+| 05/07 | Présidentielle : Édouard Philippe proposera « une refonte massive de l’école », « la plus importante peut-être depuis Jules Ferry » |
+| 03/07 | Wauquiez « me rend plus sympathique chaque jour », répond Retailleau |
+| 03/07 | Édouard Philippe, impopulaire et mal placé pour incarner la rupture avec le macronisme, selon un sondage |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=%C3%89douard+Philippe, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

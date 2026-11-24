@@ -428,6 +428,52 @@ Total : 8 article(s) (8 par le titre).
 | 31/08 | De Mérimée aux éoliennes, Michel Roussel questionne notre rapport au patrimoine |
 | 05/07 | Réélu à la tête du Parti communiste, Fabien Roussel met le cap sur 2027 au détriment de Mélenchon |
 
+## Le Télégramme (letelegramme.fr)
+
+Source : la recherche du site (`/recherche/pages/main-<n>/?orderBy=date&query=<nom>`, 30 résultats par page, jusqu'à 40 pages par requête), relevé le 24 novembre 2026. Une requête par candidat (nom de famille, ou nom complet pour Édouard Philippe). Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 (date de publication lue sur la page de l'article) et que le nom du candidat figure dans son titre ou dans son chapô ; un article qui cite plusieurs candidats compte pour chacun. Voir la section 29 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 37 article(s) (21 par le titre, 16 par le chapô seul).
+
+| Date (2026) | Titre |
+|---|---|
+| 01/11 | À 14 ans, le Ploemelois Tom Roussel sacré champion de Bretagne de vitesse moto |
+| 30/10 | Brioche, pain 100 % sarrasin au feu de bois… Zoé Roussel et sa compagne Vanessa perpétuent la tradition en reprenant la boulangerie Bara Poul' à Loqueffret |
+| 26/10 | « J’ai toujours écrit avec une imagination délirante et joyeuse » : le Saint-Politain Alain Roussel publie un recueil de nouvelles sur l’ironie du quotidien |
+| 03/10 | Le samedi 17 octobre, feu d’artifice aux Grands Sables, à Locmaria, en hommage à Dominique Rousselot |
+| 23/09 | Deux nouveaux visages arrivent en service civique au tiers-lieu « La Serre », à Plougastel-Daoulas |
+| 22/09 | À Morlaix, le Centre généalogique du Finistère propose une mini-série de conférences, dès le samedi 3 octobre |
+| 20/09 | À Goudelin, Elyne Roussel et Mathis Le Berre, marraine et parrain de la 4e Gentlemen Michel-Etiemble, le 3 octobre |
+| 20/09 | Tété, Cat Power, Gaëtan Roussel… Ce que réserve la nouvelle saison de Quai Ouest Musiques à Brest |
+| 19/09 | Fabien Roussel dénonce un « racket » sur les carburants et réclame une baisse de la TVA, appelant les Français à la mobilisation |
+| 17/09 | « Cette île m’a révélée » : à Sein, elle rend hommage aux femmes « abîmées par les épreuves de la vie » avec une œuvre éphémère |
+| 16/09 | Effectifs stables, grands chantiers et défi de l’IA… Rennes II a fait sa rentrée au campus Mazier de Saint-Brieuc |
+| 16/09 | Elyne Roussel prolonge son contrat avec son équipe Saint Michel-Preference Home |
+| 12/09 | Mélenchon et Roussel cherchent à séduire la gauche de la gauche à la Fête de L’Humanité |
+| 11/09 | Hausse des prix de l’énergie : Fabien Roussel appelle les Français à « se mobiliser sur les ronds-points » si le gouvernement n’agit pas rapidement |
+| 09/09 | « Je n’accepte pas qu’une caution scientifique soit donnée à un tel document » : à Arzon, à peine adoptées les cartes du trait de côte sont déjà contestées |
+| 08/09 | [Les carnets] Fabien Roussel et le « régime champion » |
+| 07/09 | À Lanester, les communistes préparent la présidentielle et la Fête de l’Humanité |
+| 06/09 | À Botsorhel, pour cette rentrée 2026, Sarah Hamon prend le poste de directrice de l’école Skol an Avel |
+| 06/09 | Présidentielle : Fabien Roussel, secrétaire national du Parti communiste, officialise sa candidature |
+| 04/09 | Elyne Roussel et la Pointe du Raz Ladies Classic : une histoire intimement liée |
+| 02/09 | L’école du Gué accueille 104 élèves à Saint-Carreuc |
+| 13/08 | Immersion dans l’église Notre-Dame du Cloître Saint-Thégonnec avec Claude Youenn Roussel |
+| 10/08 | « C’était mon rêve d’enfant » : en Bretagne, il rachète ce château et cartonne avec son concept unique en Europe |
+| 03/08 | Une 36e édition du festival Au Pont du Rock riche en émotion |
+| 29/07 | « Je travaille avec un chimiste de la terre, des moines fromagers et des producteurs qui soignent leurs produits » : il ouvre son irréductible restaurant celte, à Locminé |
+| 28/07 | « Le bâtiment revit, c’est très très chouette » : il a sauvé l’immeuble Art Déco du 26, rue Paul Bert à Lorient |
+| 27/07 | La Bretonne Elyne Roussel non retenue pour le Tour de France |
+| 18/07 | À Locmaria, un conseil municipal est programmé mardi 21 juillet à 19 h 30 |
+| 16/07 | Plus de 600 personnes aux obsèques de Dominique Rousselot, le maire de Locmaria |
+| 11/07 | Au Foeil, le chemin rural du Bois Roussel reste communal et accessible à tous |
+| 07/07 | « Dominique nous a quittés brutalement laissant beaucoup d’entre nous abasourdi », Véronique Bertho, ancienne maire de Locmaria rend hommage à celui qui fut son adjoint |
+| 06/07 | « Un choc pour tout Belle-Île » : les habitants attristés par le décès du maire de Locmaria |
+| 06/07 | Mort du maire de Locmaria : de nombreux hommages et une cellule psychologique mise en place [Vidéo] |
+| 05/07 | « Son énergie sans faille pour faire vivre Locmaria » : après le décès de Dominique Rousselot, les trois autres maires de Belle-Ile lui rendent hommage |
+| 05/07 | Le maire de Locmaria, Dominique Rousselot, est décédé à la suite d’une altercation : un plaisancier placé en garde à vue [Vidéo] |
+| 05/07 | Fabien Roussel, reconduit à la tête du PCF et « à 85 % » candidat à la présidentielle |
+| 03/07 | Olivier Roussel et Philippe Quéméner, nouveaux co-présidents, du Relecq-Kerhuon Rugby |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Fabien+Roussel, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

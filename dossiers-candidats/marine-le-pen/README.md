@@ -2220,6 +2220,62 @@ Total : 54 article(s) (54 par le titre).
 | 07/07 | Affaire des assistants parlementaires européens du FN : décision rendue ce mardi 7 juillet, quelles conséquences pour Marine Le Pen ? |
 | 02/07 | Marine Le Pen inéligible : "Je continuerai à mener le combat, je n’ai pas peur", assure la cheffe de file du RN avant la décision de sa condamnation en appel |
 
+## Le Télégramme (letelegramme.fr)
+
+Source : la recherche du site (`/recherche/pages/main-<n>/?orderBy=date&query=<nom>`, 30 résultats par page, jusqu'à 40 pages par requête), relevé le 24 novembre 2026. Une requête par candidat (nom de famille, ou nom complet pour Édouard Philippe). Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 (date de publication lue sur la page de l'article) et que le nom du candidat figure dans son titre ou dans son chapô ; un article qui cite plusieurs candidats compte pour chacun. Voir la section 29 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 47 article(s) (32 par le titre, 15 par le chapô seul).
+
+| Date (2026) | Titre |
+|---|---|
+| 01/11 | La crise politique en Pologne fait réagir les candidats à la présidentielle française : Marine Le Pen déplore « une prise de contrôle forcée » |
+| 27/10 | Sondage : la colère du 17 octobre propulse Le Pen et Mélenchon, et fait s’effondrer Macron |
+| 26/10 | Présidentielle 2027 : un sondage place de nouveau Philippe troisième derrière Mélenchon |
+| 25/10 | [Édito] La partition de Le Pen |
+| 24/10 | Présidentielle : un nouveau sondage place Mélenchon au 2e tour dans toutes les configurations |
+| 23/10 | Sondages : Marine Le Pen marque encore des points |
+| 21/10 | « Seule Marine Le Pen peut gagner l’élection présidentielle » : Ciotti appelle Retailleau et Lisnard à abandonner « leurs candidatures de témoignages » |
+| 20/10 | Présidentielle : Jean-Luc Mélenchon au second tour dans quasi tous les cas de figure dans un nouveau sondage |
+| 19/10 | Présidentielle 2027 : une campagne inédite dans un climat insurrectionnel |
+| 14/10 | Duel des extrêmes ou pas, Marine Le Pen grande favorite de la présidentielle 2027 [Sondage] |
+| 07/10 | « L’hypothèse d’un second tour entre Le Pen et Mélenchon ne rassure pas les investisseurs » : pourquoi la France emprunte toujours plus cher |
+| 06/10 | Économie : le programme en pente raide du RN |
+| 06/10 | Présidentielle 2027 : Marine Le Pen promet « 140 milliards d’euros nets d’économies » d’ici 2032 |
+| 02/10 | À Treffiagat-Léchiagat, Le Pen Tach met le cap sur la baie de Saint-Brieuc pour la saison de la coquille |
+| 30/09 | Un « costard en Kevlar » pour Mediapart ? Glucksmann juge que la violence est dans l'« ADN » du RN |
+| 29/09 | Affaire Bardella : « Il va falloir dire à Mediapart d’enfiler son costard en Kevlar » selon Le Pen, le média dénonce la « violence sidérante » du RN |
+| 28/09 | Présidentielle 2027 : Marine Le Pen creuse l’écart au second tour face à Édouard Philippe et Jean-Luc Mélenchon |
+| 27/09 | « Leur camp, ce n’est pas celui de l’Ukraine » : Jean-Noël Barrot critique le positionnement de Marine Le Pen et Jean-Luc Mélenchon |
+| 24/09 | Présidentielle 2027 : Mélenchon et Philippe à égalité, loin derrière Le Pen, selon un sondage |
+| 19/09 | « La politique étrangère de la France se décide à Paris, pas à Moscou » : le RN hausse le ton face à la Russie mais est accusé de « double discours » |
+| 17/09 | Interdiction du voile : Marine Le Pen veut « le faire de manière progressive » avec une mesure incluse dans un référendum |
+| 13/09 | Présidentielle : Le Pen toujours nettement en tête, Mélenchon au second tour dans plusieurs scénarios, selon un sondage |
+| 06/09 | Présidentielle : Bregeon appelle Attal et Retailleau à se ranger « le plus tôt possible » derrière Philippe |
+| 05/09 | Présidentielle 2027 : Le Pen largement en tête, Philippe toujours préféré à Attal |
+| 04/09 | Présidentielle 2027 : Knafo (Reconquête) n'exclut pas de participer à un gouvernement Bardella |
+| 04/09 | Le RN veut « couper le robinet » de l’aide à l’Ukraine, passe d’armes entre Le Pen et Philippe |
+| 03/09 | [Édito] Le Pen au centre du jeu |
+| 03/09 | Présidentielle 2027 : malgré déjà 400 signatures pour Marine Le Pen, Louis Aliot (RN) pointe le « système très imparfait » des parrainages |
+| 01/09 | « Un mentor, un ami », « un homme d’État », « une figure majeure de la Ve République » : le monde politique rend hommage à Édouard Balladur |
+| 27/08 | Finances publiques : quand les patrons s’en mêlent [Édito] |
+| 27/08 | [Édito] Le Pen au défi de la crédibilité |
+| 25/08 | La CFDT favorable à une taxe sur les héritages dès le premier euro |
+| 24/08 | Présidentielle : Philippe « en train de perdre son pari » dans le bloc central, estime l’entourage d’Attal |
+| 21/08 | « La police et la justice font mieux leur travail » : à Vannes, Gérald Darmanin défend ses réformes et en promet d’autres |
+| 20/08 | [Édito] Pourquoi Marine Le Pen change déjà de pied sur les finances publiques |
+| 19/08 | Le Pen déplore les « taux records » de la dette française, promet de « nettoyer les écuries d’Augias » |
+| 30/07 | La justice déboute Attal sur l’utilisation du mot renaissance par Le Pen pour sa campagne |
+| 30/07 | La cote de popularité de Marine Le Pen en baisse de quatre points, en deuxième place des personnalités politiques préférées des Français |
+| 15/07 | Pourquoi Gabriel Attal assigne Marine Le Pen en justice ? |
+| 11/07 | Sondage : Le Pen largement en tête, Mélenchon se rapproche du second tour |
+| 08/07 | Direct Candidature de Marine Le Pen à la présidentielle : Jordan Bardella se "réjouit que Marine puisse porter nos couleurs" |
+| 07/07 | « Ce soir, je suis candidate » : malgré sa condamnation, Marine Le Pen décide de se maintenir dans la course à l’élection présidentielle 2027 |
+| 07/07 | Marine Le Pen candidate à la présidentielle, ça change tout pour ses opposants |
+| 07/07 | Direct Procès en appel de Marine Le Pen : "Ce soir je suis candidate à l'élection présidentielle", annonce la cheffe de file du Rassemblement national |
+| 06/07 | Procès en appel de Marine Le Pen : « Un événement totalement unique » dans la Ve République, retrace l’historien Jean Garrigues |
+| 05/07 | Match tendu pour les Bleus, orthographe au bac, unité du RN : le point à la mi-journée |
+| 05/07 | À l’approche du jugement, Le Pen et Bardella se jurent « confiance » et « amitié » |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Marine+Le+Pen, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.
