@@ -69,3 +69,19 @@ Total : 2 articles (relevé partiel).
 |---|---|
 | 04/10 | Teddy Riner, Pascal Praud, Zinédine Zidane : les people croqués par Philippe Besson |
 | 15/09 | French Tech : Teddy Riner lance son application de fitness |
+
+## RTL (rtl.fr)
+
+Source : la recherche du site (`https://www.rtl.fr/recherche`), tri par date, onglets « Articles » et « Replays » (podcasts), relevé le 24 novembre 2026. Un contenu est compté s'il est daté du 1er juillet au 1er novembre 2026 (date de publication lue sur la page) et que le nom du candidat figure dans son titre ou dans son chapô. Un contenu qui cite plusieurs candidats compte pour chacun. Voir la section 17 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 7 contenu(s) (7 par le titre, 0 par le chapô seul).
+
+| Date (2026) | Titre |
+|---|---|
+| 03/10 | Il ne faut pas faire "le procès de toute une génération" : Teddy Riner soutient le mouvement des lycéens tout en dénonça … |
+| 29/09 | Lilian Thuram sur RTL : "Teddy Riner, Mbappé ou moi, on peut vous alerter sur la violence de l'extrême droite" |
+| 24/09 | "Je continuerai à m'exprimer librement" : Teddy Riner dénonce des messages haineux et racistes après avoir alerté sur "l … |
+| 23/09 | Teddy Riner visé par des messages haineux : le parquet de Paris ouvre une enquête pour injures publiques racistes et cyb … |
+| 17/09 | Rihanna dansant sur "Pour que tu m'aimes encore", Kim Kardashian, Teddy Riner... Myriade de stars au deuxième concert de … |
+| 16/09 | "On va y arriver" : Teddy Riner confiant pour les JO 2028 malgré son épaule qui "grince" |
+| 05/09 | Teddy Riner, blessé à l'épaule, déclare forfait pour les Championnats du monde de judo |

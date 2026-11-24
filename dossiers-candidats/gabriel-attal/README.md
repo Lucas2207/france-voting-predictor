@@ -698,6 +698,61 @@ Total : 13 articles (relevé partiel).
 | 24/07 | Présidentielle 2027 : Gabriel Attal, un « challenger » en campagne tout l'été |
 | 15/07 | Présidentielle 2027 : « Pour la France, la renaissance », le parti de Gabriel Attal attaque le RN pour « contrefaçon » |
 
+## RTL (rtl.fr)
+
+Source : la recherche du site (`https://www.rtl.fr/recherche`), tri par date, onglets « Articles » et « Replays » (podcasts), relevé le 24 novembre 2026. Un contenu est compté s'il est daté du 1er juillet au 1er novembre 2026 (date de publication lue sur la page) et que le nom du candidat figure dans son titre ou dans son chapô. Un contenu qui cite plusieurs candidats compte pour chacun. Voir la section 17 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 46 contenu(s) (41 par le titre, 5 par le chapô seul).
+
+| Date (2026) | Titre |
+|---|---|
+| 31/10 | "Il n'est pas trop tard" : Aurore Bergé appelle, comme Gabriel Attal, à une "primaire des démocrates" et n'exclut pas d' … |
+| 30/10 | Il estime qu'il n'y a pas "mille solutions" : en coulisses, Emmanuel Macron est lui aussi favorable à une primaire |
+| 29/10 | "Une sortie par le haut" : pourquoi l'organisation d'une grande primaire prend des airs d'opération de la dernière chanc … |
+| 27/10 | "Pourquoi est-ce que Gabriel Attal se retirerait au profit d'Edouard Philippe ?" : malgré un "trou d'air", le candidat R … |
+| 24/10 | Présidentielle 2027 : Le Pen et Mélenchon au second tour dans tous les cas de figure, Philippe et Attal en difficulté, s … |
+| 20/10 | Couper les réseaux sociaux pour empêcher les violences : jusqu'où la France peut-elle aller ? |
+| 19/10 | "Pas une nuit de plus" : sur RTL, Gabriel Attal constate "une faillite" dans l'anticipation du 17 octobre et exige qu'il … |
+| 18/10 | Présidentielle 2027 : que disent les sondages à six mois jour pour jour du premier tour ? |
+| 18/10 | Présidentielle 2027 : loin derrière Le Pen, Philippe, Mélenchon et Glucksmann dans un mouchoir de poche, selon un sondag … |
+| 15/10 | Pourquoi Gabriel Attal s'imagine président, il se raconte à Marc-Olivier Fogiel |
+| 11/10 | Présidentielle 2027 : la stratégie de Mélenchon derrière ses meetings face à Attal, Le Pen et Philippe |
+| 11/10 | "Je veux bien faire le tiers de confiance" : Jean-Louis Borloo se propose comme médiateur entre Gabriel Attal et Édouard … |
+| 03/10 | Présidentielle 2027 : Gabriel Attal plaide pour "une grande coalition" allant de la gauche sociale-démocrate à la droite … |
+| 30/09 | Des lycéens devenus "de la chair à canon" pour LFI : Gabriel Attal accuse les Insoumis de ne chercher qu'à "mettre le bo … |
+| 26/09 | Le pape en France : de Gabriel Attal à Marine Le Pen en passant par Bruno Retailleau, foule de candidats à la présidenti … |
+| 25/09 | Prix des carburants : sur RTL, Gabriel Attal dit soutenir le système des "aides ciblées" plutôt que de proposer de "popu … |
+| 25/09 | "Marine Le Pen agit comme un proxy du Kremlin" : sur RTL, Gabriel Attal critique la candidate RN qui affirme que la Fran … |
+| 22/09 | 16 inscrits à Lorient et Nîmes, 10 dans le VIe arrondissement de Paris : l'opération "1.000 bistrots" lancée par Gabriel … |
+| 21/09 | Philippe Caverivière : "On n'entend plus parler de Gabriel Attal depuis sa tournée des bistrots... Peut-être en coma éth … |
+| 10/09 | Alex Vizorek : "Bruno Le Maire veut avancer la maternelle à 1 an, il ne ferait pas la tournée des bistrots avec Gabriel … |
+| 09/09 | "De la tambouille politicienne" : Gabriel Attal balaie la proposition d'Édouard Philippe, qui veut réunir les candidats … |
+| 07/09 | Réautoriser l'abaya à l'école ? Le Pen, Attal et Philippe dénoncent la proposition de LFI |
+| 06/09 | "Le mieux placé pour gagner la présidentielle" : sur RTL, Maud Bregeon appelle Gabriel Attal et Bruno Retailleau à "trav … |
+| 05/09 | "J'ai une professeure de chant..." : le drôle d'entraînement vocal de Gabriel Attal pour gérer son stress avant une pris … |
+| 05/09 | "Il va encore nous servir un bon mois" : pourquoi le duel à distance entre Jean-Luc Mélenchon et Gabriel Attal arrange l … |
+| 03/09 | "Je ne veux pas prendre les gens pour des imbéciles" : Gabriel Attal est-il un "Macron bis"? Le candidat à la présidenti … |
+| 31/08 | Présidentielle 2027 : le ton monte entre Gabriel Attal et Édouard Philippe relançant la bataille du bloc central |
+| 31/08 | "Je ne critiquerai pas des concurrents qui ont du talent" : la mise au point d'Édouard Philippe sur RTL après la pique d … |
+| 27/08 | Présidentielle 2027 : Mélenchon et Philippe s'affrontent sur la dette, Le Pen et Attal sur les salaires, Glucksmann mise … |
+| 27/08 | La droite à domicile, "Le Pen qui montre patte blanche" et "match entre Attal et Philippe" : quel candidat a remporté le … |
+| 21/08 | Gabriel Attal, l'homme pressé |
+| 18/08 | Ingérence russe contre Édouard Philippe et Gabriel Attal : une enquête ouverte par le parquet de Paris |
+| 11/08 | "Il raconte n'importe quoi" : sur RTL, la députée RN Edwige Diaz réfute les propos de Gabriel Attal sur les ingérences r … |
+| 08/08 | Porter atteinte à "la sincérité du scrutin présidentiel à venir" : visé par une opération d'ingérence attribuée à des ré … |
+| 06/08 | "Pas une surprise" : visé par une ingérence russe, Gabriel Attal accuse Moscou sur RTL de vouloir "voler l'élection aux … |
+| 06/08 | "Il faut s’attendre à une ingérence du Kremlin pour certains candidats" en 2027 : pourquoi Gabriel Attal vise le RN |
+| 05/08 | "Cette campagne va être d'une violence et d'un niveau de manipulation inouïs" : Attal à son tour visé par "une ingérence … |
+| 04/08 | Effacer l'ombre de Macron, distancer le rival Attal : "le diesel" Édouard Philippe face à deux grands défis pour la prés … |
+| 03/08 | "Je vous transmets cette facture" : David Lisnard accuse Gabriel Attal de lui avoir volé son idée et réclame des droits … |
+| 30/07 | "Renaissance" : la justice autorise Marine Le Pen à utiliser ce mot sur son affiche, le parti de Gabriel Attal annonce f … |
+| 16/07 | Présidentielle 2027 : Gabriel Attal, l'homme pressé qui tente de s'imposer face à Édouard Philippe |
+| 16/07 | Gabriel Attal a-t-il vraiment annulé l’achat de deux Canadair, comme l'affirment LFI et le RN ? |
+| 16/07 | Attal assigne en référé Le Pen et le RN pour "contrefaçon de marque" : sur RTL, Jean-Philippe Tanguy dénonce une décisio … |
+| 15/07 | INFO RTL - "Pour la France. La Renaissance" : le parti de Gabriel Attal poursuit Marine Le Pen et le RN pour "parasitism … |
+| 09/07 | Marine Le Pen condamnée : sur RTL, Gabriel Attal considère que cette "chronique judiciaire fatigue déjà les Français" |
+| 03/07 | Présidentielle 2027 : David Lisnard dénonce "une caste prête à tout" pour se maintenir au pouvoir |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Gabriel+Attal, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

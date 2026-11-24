@@ -1398,6 +1398,114 @@ Total : 20 articles (relevé partiel).
 | 07/07 | « Démocratie en otage », « nouveau reniement »… La candidature de Marine Le Pen à la présidentielle malgré sa condamnation secoue la classe politique |
 | 06/07 | Présidentielle 2027 : Jordan Bardella ou Marine Le Pen, les candidats impatients de connaître leur adversaire |
 
+## RTL (rtl.fr)
+
+Source : la recherche du site (`https://www.rtl.fr/recherche`), tri par date, onglets « Articles » et « Replays » (podcasts), relevé le 24 novembre 2026. Un contenu est compté s'il est daté du 1er juillet au 1er novembre 2026 (date de publication lue sur la page) et que le nom du candidat figure dans son titre ou dans son chapô. Un contenu qui cite plusieurs candidats compte pour chacun. Voir la section 17 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 99 contenu(s) (81 par le titre, 18 par le chapô seul).
+
+| Date (2026) | Titre |
+|---|---|
+| 28/10 | "Marine Le Pen est toujours inéligible" : la candidate RN saisit le Conseil supérieur de la magistrature après les propo … |
+| 28/10 | "Je ne confie pas mes petits-enfants à Mathilde Panot ou à Marine Le Pen" : Patrick Sébastien révèle son favori pour la … |
+| 27/10 | "Pourquoi est-ce que Gabriel Attal se retirerait au profit d'Edouard Philippe ?" : malgré un "trou d'air", le candidat R … |
+| 26/10 | "Pour toute commande, nous offrons une matraque, une grenade ou un mortier" : imité par Laurent Gerra, Pierre Bellemare … |
+| 25/10 | Congrès du Rassemblement national à Orléans : Marine Le Pen promet un gouvernement "d'union nationale" "pluraliste" diri … |
+| 25/10 | "Une lourde responsabilité" : Olivier Faure dénonce sur RTL le "climat" entretenu par "l'extrême droite" après l'attenta … |
+| 24/10 | Présidentielle 2027 : Le Pen et Mélenchon au second tour dans tous les cas de figure, Philippe et Attal en difficulté, s … |
+| 24/10 | Pourquoi le RN a-t-il choisi Orléans pour tenir son congrès et le premier grand meeting de Marine Le Pen ? |
+| 24/10 | "Le RN ne sera jamais un parti comme les autres" : Bagayoko, Faure, Binet... À Orléans, la gauche en embuscade contre le … |
+| 23/10 | SONDAGE RTL - Présidentielle 2027 : Le Pen, Mélenchon, Philippe... Les violences du 17 octobre n'ont pas rebattu les car … |
+| 22/10 | "Elle n'apporte aucune voix" : le retour de Marion Maréchal auprès du clan Le Pen agace les proches de Jordan Bardella a … |
+| 19/10 | "Je rétablirai l’ORTF, le franc et le Certificat d’études" : imité par Laurent Gerra, Michel Drucker devient candidat à … |
+| 18/10 | Violences du 17 octobre : Marine Le Pen dénonce une "crise profonde de confiance" qui "fait peser une menace sur la démo … |
+| 18/10 | Présidentielle 2027 : que disent les sondages à six mois jour pour jour du premier tour ? |
+| 18/10 | Présidentielle 2027 : loin derrière Le Pen, Philippe, Mélenchon et Glucksmann dans un mouchoir de poche, selon un sondag … |
+| 17/10 | Procès des assistants parlementaires du RN : la Cour de cassation examinera les QPC le 16 décembre, une date cruciale po … |
+| 16/10 | "Nous cesserons l'aide financière à l'Ukraine" : l'élément nouveau dans le discours de Marine Le Pen pour la présidentie … |
+| 14/10 | "N’est pas de Gaulle qui veut" : pourquoi Marine Le Pen appelle Richard Ferrand à la démission du Conseil constitutionne … |
+| 13/10 | Marine Le Pen privée de prêt bancaire : meetings, voyages... Le RN contraint de serrer les dépenses de campagne |
+| 12/10 | SONDAGE RTL - Présidentielle 2027 : vers un duel Le Pen-Mélenchon, l'affaire Bardella sans effet sur les intentions de v … |
+| 11/10 | Présidentielle 2027 : la stratégie de Mélenchon derrière ses meetings face à Attal, Le Pen et Philippe |
+| 07/10 | Philippe Caverivière : "Marine Le Pen propose 140 milliards d'économies, une Rolex pour tous les fonctionnaires et une r … |
+| 07/10 | Contre-budget du Rassemblement national : François Lenglet décrypte le pari à 140 milliards de Marine Le Pen |
+| 06/10 | 140 milliards d'euros d'efforts, baisses d'impôts, retraite à 62 ou 60 ans... Le plan choc de Marine Le Pen pour redress … |
+| 03/10 | Présidentielle 2027 : Gabriel Attal plaide pour "une grande coalition" allant de la gauche sociale-démocrate à la droite … |
+| 03/10 | Marine Le Pen assure avoir "totalement confiance" en Jordan Bardella, accusé d'avoir écrit des messages antisémites |
+| 03/10 | "Un début de campagne particulièrement chaotique" : les révélations de "Mediapart" sur Jordan Bardella peuvent-elles inf … |
+| 29/09 | "Ça me fait rire" : Marine Le Pen pas raciste ? Lilian Thuram rappelle que le l'extrême droite est "historiquement antis … |
+| 29/09 | "La racaille antisémite" : Tanguy accuse les purgés du RN d'être à l'origine des révélations de "Mediapart" sur Bardella … |
+| 28/09 | SONDAGE RTL - Présidentielle 2027 : Marine Le Pen face à Jean-Luc Mélenchon au second tour dans tous les cas de figure |
+| 27/09 | Ukraine : Jean-Noël Barrot accuse Jean-Luc Mélenchon et Marine Le Pen d'avoir "choisi leur camp", celui de Moscou |
+| 27/09 | Sénatoriales 2026 : le Rassemblement national en mesure de constituer un groupe pour la première fois, Marine Le Pen sal … |
+| 27/09 | "Nous entrerons dans des eaux tumultueuses" : sur RTL, Dominique de Villepin alerte sur une éventuelle accession au pouv … |
+| 26/09 | Le pape en France : de Gabriel Attal à Marine Le Pen en passant par Bruno Retailleau, foule de candidats à la présidenti … |
+| 25/09 | Alex Vizorek : "Marine Le Pen est la plus proche du Christ... Condamnée, clouée, et ressuscitée à la surprise de Judas B … |
+| 25/09 | "Marine Le Pen agit comme un proxy du Kremlin" : sur RTL, Gabriel Attal critique la candidate RN qui affirme que la Fran … |
+| 22/09 | Philippe Caverivière : "Marine Le Pen va publier son livre 'Il faut niquer le soldat Jordan'" |
+| 21/09 | Un parti qui prône la "division et la haine" : Adèle Exarchopoulos fera "tout pour faire barrage au RN" à la présidentie … |
+| 21/09 | Budget 2027 : y a-t-il un pacte entre Sébastien Lecornu et Marine Le Pen ? |
+| 19/09 | La Russie ne peut "dicter" la politique de la France : Marine Le Pen et Jordan Bardella condamnent les actes d'"hostilit … |
+| 17/09 | "Couper le robinet à l'Ukraine" : la proposition du RN ravive les critiques sur sa proximité avec la Russie |
+| 15/09 | Appliquer la préférence nationale pour attribuer les logements sociaux : la proposition de Marine Le Pen est-elle légale … |
+| 14/09 | SONDAGE RTL - Présidentielle 2027 : Marine Le Pen en léger recul pour la première fois, Jean-Luc Mélenchon se stabilise … |
+| 14/09 | Philippe Caverivière : "Vu les sondages, Marine Le Pen pourrait sortir avec Cédric Jubillar et détester Céline Dion, ell … |
+| 14/09 | APL, HLM, rénovation... : Marine Le Pen développe sa "priorité nationale" sur le logement, une "lubie xénophobe" contre- … |
+| 14/09 | "Il fait la gueule" : quand Laurent Gerra imite Marine Le Pen révélant la frustration de Jordan Bardella, privé de prési … |
+| 13/09 | Présidentielle 2027 : entre couacs à répétition et retour du clan Le Pen, Jordan Bardella est-il l'atout devenu encombra … |
+| 13/09 | Présidentielle 2027 : Marine Le Pen nettement en tête des intentions de vote, Jean-Luc Mélenchon s'impose à gauche, selo … |
+| 12/09 | "Nous exigerons des économies" : Marine Le Pen préfère un budget "imparfait, opérationnel" avant 2027 plutôt qu'une loi … |
+| 07/09 | Réautoriser l'abaya à l'école ? Le Pen, Attal et Philippe dénoncent la proposition de LFI |
+| 07/09 | "Stopper l'escalade fiscale" : Marine Le Pen veut "geler" les taxes sur le tabac, véritable proposition ou manœuvre poli … |
+| 06/09 | Présidentielle 2027 : Marine Le Pen caracole en tête, Édouard Philippe devant Mélenchon pour se qualifier au second tour … |
+| 05/09 | "Couper le robinet" de l'aide à l'Ukraine : le RN dans l'embarras après la proposition polémique de Louis Aliot |
+| 30/08 | Présidentielle 2027 : Marine Le Pen largement en tête, Édouard Philippe devant Jean-Luc Mélenchon, selon un sondage |
+| 29/08 | "Nous allons mener cette campagne côte à côte" : Jordan Bardella affirme qu'il sera "le premier soutien" de Marine Le Pe … |
+| 28/08 | "Ça a été dur" : Jordan Bardella a-t-il digéré son retour dans l'ombre de Marine Le Pen ? Comment le président du RN pré … |
+| 27/08 | “Le PIB ? Je ne sais pas. Je n'ai qu'un seul pays, c'est la France, madame” : Quand Marine Le Pen se lance dans l’économ … |
+| 27/08 | Présidentielle 2027 : Mélenchon et Philippe s'affrontent sur la dette, Le Pen et Attal sur les salaires, Glucksmann mise … |
+| 27/08 | La droite à domicile, "Le Pen qui montre patte blanche" et "match entre Attal et Philippe" : quel candidat a remporté le … |
+| 24/08 | SONDAGE RTL - Présidentielle 2027 : un duel Le Pen-Mélenchon ? La candidate RN largement en tête, le leader insoumis mie … |
+| 22/08 | "Si c'est après, ce sera trop tard" : Édouard Philippe envisage un rassemblement de la droite et du centre entre "novemb … |
+| 21/08 | Marine Le Pen nourrit le secret espoir que se produise un miracle : l'oubli |
+| 11/08 | "Il raconte n'importe quoi" : sur RTL, la députée RN Edwige Diaz réfute les propos de Gabriel Attal sur les ingérences r … |
+| 10/08 | "Du PS, jusqu'aux gaullistes" : à moins d'un an de la présidentielle, François Bayrou souhaite une grande primaire entre … |
+| 06/08 | "Il faut s’attendre à une ingérence du Kremlin pour certains candidats" en 2027 : pourquoi Gabriel Attal vise le RN |
+| 06/08 | "Est-elle toujours du côté des classes populaires ou du système ?" : favorite des sondages malgré sa condamnation, Marin … |
+| 30/07 | "Renaissance" : la justice autorise Marine Le Pen à utiliser ce mot sur son affiche, le parti de Gabriel Attal annonce f … |
+| 27/07 | "C'est désagréable d'imaginer sa propre fin" : quel rôle Emmanuel Macron peut-il jouer dans la campagne pour l'élection … |
+| 23/07 | Présidentielle 2027 : adversaire naturelle de Marine Le Pen, Marine Tondelier veut s'imposer comme "la vraie Marine d'Hé … |
+| 22/07 | Présidentielle 2027 : Jordan Bardella, itinéraire d’un presque candidat, cantonné à un ticket avec Marine Le Pen |
+| 21/07 | Promotion de cryptomonnaie, vol de données... Le compte X de Marine Le Pen et le site du RN piratés à 8 mois de la prési … |
+| 21/07 | Procès en appel du RN : tous les condamnés, dont Marine Le Pen, se sont pourvus en cassation |
+| 17/07 | Présidentielle 2027 : Emmanuel Macron appelle à se "méfier" des sondages donnant Marine Le Pen gagnante |
+| 16/07 | Attal assigne en référé Le Pen et le RN pour "contrefaçon de marque" : sur RTL, Jean-Philippe Tanguy dénonce une décisio … |
+| 15/07 | Procès RN : pas de pourvoi en cassation du parquet général contre la décision de la cour d'appel |
+| 15/07 | INFO RTL - "Pour la France. La Renaissance" : le parti de Gabriel Attal poursuit Marine Le Pen et le RN pour "parasitism … |
+| 09/07 | Marine Le Pen condamnée : sur RTL, Gabriel Attal considère que cette "chronique judiciaire fatigue déjà les Français" |
+| 09/07 | "Un seuil de décence a été dépassé" : François Ruffin estime sur RTL que la France a "perdu le contrôle de la corruption … |
+| 08/07 | SONDAGE RTL - Présidentielle 2027 : Marine Le Pen progresse dans les intentions de vote après la confirmation de sa cand … |
+| 08/07 | Marine Le Pen joue-t-elle la montre avant la présidentielle ? 6 questions pour comprendre ce que son pourvoi en cassatio … |
+| 08/07 | Marine Le Pen définitivement condamnée pendant la campagne ? La Cour de cassation "pourrait" se prononcer sur son pourvo … |
+| 08/07 | Marine Le Pen condamnée mais candidate : pourquoi le calendrier de la Cour de cassation éloigne la perspective d'une cam … |
+| 08/07 | Marine Le Pen condamnée en appel : la Cour de cassation "pourrait" se prononcer sur son pourvoi "au plus tard début avri … |
+| 08/07 | "On a pris de l'avance" : affiche, slogan, déplacement.. La machine RN lancée pour soutenir la candidature de Marine Le … |
+| 07/07 | Présidentielle 2027 : Marine Le Pen condamnée en appel dans l'affaire des assistants d'eurodéputés du RN, mais garde la … |
+| 07/07 | Marine Le Pen condamnée en appel : combien de temps devra-t-elle porter un bracelet électronique ? |
+| 07/07 | Marine Le Pen candidate sous bracelet électronique ? Quand la cheffe de file du RN assurait ne pas pouvoir faire "campag … |
+| 07/07 | Marine Le Pen annonce sa candidature à l'élection présidentielle et son pourvoi en cassation après sa condamnation |
+| 07/07 | Jordan Bardella en "pole position" : "Les Français ont intégré que Marine Le Pen ne sera pas candidate", ce que révèlent … |
+| 07/07 | Influent sur TikTok, une origine modeste mise en avant et un "côté bling bling" : qui est vraiment Jordan Bardella ? |
+| 07/07 | "Un ticket gagnant" : candidate à l'élection, Marine Le Pen confirme que Jordan Bardella sera son premier ministre si el … |
+| 07/07 | "Un tapis avec une paire de 4" : pourquoi la candidature de Marine Le Pen malgré sa condamnation est un coup de poker |
+| 07/07 | "Je ferai campagne sans bracelet électronique " : malgré sa condamnation, Marine Le Pen annonce se lancer dans la course … |
+| 07/07 | "Comment imaginer une candidate à l'élection présidentielle qui fait campagne avec ce boîtier à la cheville ?" : les réa … |
+| 06/07 | Marine Le Pen sera-t-elle candidate en 2027 ? "Le grand calme avant la tempête" : une échéance redoutée au RN et attendu … |
+| 04/07 | "J'espère bien la voir élue" : Jordan Bardella assure à Marine Le Pen son "total soutien" à trois jours du jugement qui … |
+| 02/07 | "Jamais de ma vie, je ne me vois dans la position d'une tutrice" : Le Pen assure que Bardella sera "totalement libre" si … |
+| 01/07 | Procès en appel du RN : les scénarios qui menacent la candidature de Marine Le Pen |
+| 01/07 | "Ce serait dangereux" : sur RTL, Édouard Philippe dit vouloir éviter la multiplication des candidatures et le "cauchemar … |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Marine+Le+Pen, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

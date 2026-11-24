@@ -578,6 +578,30 @@ Total : 9 articles (relevé partiel).
 | 09/07 | Présidentielle 2027 : Bruno Retailleau mise sur l'économie pour tenter de contrer Marine Le Pen |
 | 07/07 | Présidentielle 2027 : à Station F, Bruno Retailleau se lance à son tour dans la « bataille de l'IA » |
 
+## RTL (rtl.fr)
+
+Source : la recherche du site (`https://www.rtl.fr/recherche`), tri par date, onglets « Articles » et « Replays » (podcasts), relevé le 24 novembre 2026. Un contenu est compté s'il est daté du 1er juillet au 1er novembre 2026 (date de publication lue sur la page) et que le nom du candidat figure dans son titre ou dans son chapô. Un contenu qui cite plusieurs candidats compte pour chacun. Voir la section 17 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 15 contenu(s) (14 par le titre, 1 par le chapô seul).
+
+| Date (2026) | Titre |
+|---|---|
+| 27/10 | "Je suis persuadé que je le battrais" : même distancé dans les sondages, Bruno Retailleau ne doute pas d'une victoire co … |
+| 20/10 | Alex Vizorek à David Lisnard : "Dépasser Retailleau en popularité c'est comme être plus digérable qu'une pissaladière. C … |
+| 15/10 | Pourquoi Bruno Retailleau croit en son destin présidentiel, il se confie à Marc-Olivier Fogiel |
+| 15/10 | "Il se passe quelque chose, je le sens, je le vis" : existe-t-il vraiment une dynamique David Lisnard pour la présidenti … |
+| 30/09 | Refus de marier un Algérien sous OQTF : Robert Ménard face à la justice avec le soutien de David Lisnard et Bruno Retail … |
+| 26/09 | Le pape en France : de Gabriel Attal à Marine Le Pen en passant par Bruno Retailleau, foule de candidats à la présidenti … |
+| 06/09 | "Le mieux placé pour gagner la présidentielle" : sur RTL, Maud Bregeon appelle Gabriel Attal et Bruno Retailleau à "trav … |
+| 01/09 | Philippe Caverivière à Bruno Retailleau : "Glucksmann a le charisme d'un horodateur en panne" |
+| 01/09 | "C'est du populisme" : sur RTL, Bruno Retailleau fustige la proposition "inapplicable" du Rassemblement national qui veu … |
+| 27/08 | Présidentielle 2027 : Mélenchon et Philippe s'affrontent sur la dette, Le Pen et Attal sur les salaires, Glucksmann mise … |
+| 21/08 | Bruno Retailleau, un homme têtu, très têtu |
+| 21/08 | "On ne va pas le changer" : la stratégie de Bruno Retailleau pour surmonter les doutes avant la présidentielle 2027 |
+| 17/07 | Visas pour les Algériens : Bardella et Retailleau dénoncent la hausse envisagée par Paris |
+| 03/07 | "Tout le monde essaie de voir ce qui va se passer" : Bruno Retailleau est-il en train de perdre le soutien de la droite … |
+| 01/07 | Présidentielle 2027 : Laurent Wauquiez estime que Bruno Retailleau doit "savoir se retirer" et tend la main à Édouard Ph … |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Bruno+Retailleau, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

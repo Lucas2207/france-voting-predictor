@@ -157,6 +157,17 @@ Total : 0 article (relevé partiel).
 
 Aucun article de la période ne porte le nom du candidat dans son titre parmi les résultats renvoyés.
 
+## RTL (rtl.fr)
+
+Source : la recherche du site (`https://www.rtl.fr/recherche`), tri par date, onglets « Articles » et « Replays » (podcasts), relevé le 24 novembre 2026. Un contenu est compté s'il est daté du 1er juillet au 1er novembre 2026 (date de publication lue sur la page) et que le nom du candidat figure dans son titre ou dans son chapô. Un contenu qui cite plusieurs candidats compte pour chacun. Voir la section 17 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 2 contenu(s) (2 par le titre, 0 par le chapô seul).
+
+| Date (2026) | Titre |
+|---|---|
+| 21/08 | Nathalie Arthaud refuse le "cirque électoral" et le barrage à l'extrême droite |
+| 07/08 | Renverser le système capitaliste et mettre en place la révolution des travailleurs : l'exercice rodé pour Nathalie Artha … |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Nathalie+Arthaud, parcouru jusqu'au 1er juillet 2026.

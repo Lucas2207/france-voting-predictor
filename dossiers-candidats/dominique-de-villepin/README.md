@@ -43,3 +43,23 @@ Source : la recherche du site (`/recherche?order_by=relevance&search=<nom>&searc
 Total : 0 article (relevé partiel).
 
 Aucun article de la période ne porte le nom du candidat dans son titre parmi les résultats renvoyés.
+
+## RTL (rtl.fr)
+
+Source : la recherche du site (`https://www.rtl.fr/recherche`), tri par date, onglets « Articles » et « Replays » (podcasts), relevé le 24 novembre 2026. Un contenu est compté s'il est daté du 1er juillet au 1er novembre 2026 (date de publication lue sur la page) et que le nom du candidat figure dans son titre ou dans son chapô. Un contenu qui cite plusieurs candidats compte pour chacun. Voir la section 17 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 11 contenu(s) (9 par le titre, 2 par le chapô seul).
+
+| Date (2026) | Titre |
+|---|---|
+| 30/10 | 756.000 euros pour Sarkozy, 210.000 pour Villepin… Les anciens présidents et premiers ministres coûtent encore des milli … |
+| 28/10 | "Terriblement révélateur de notre basculement politique" : Dominique de Villepin dénonce les propos d'Édouard Philippe s … |
+| 28/10 | "C’est plus Moulin, c’est Mouloud" : quand Laurent Gerra imite Enrico Macias évoquant le film sur le héros de la Résista … |
+| 26/10 | Attentat raciste de Trappes : sur RTL, Dominique de Villepin estime que "le RN porte une responsabilité dans la polarisa … |
+| 26/10 | "On s'en prend aux islamistes, pas aux musulmans" : le RN balaie les accusations de Dominique de Villepin sur RTL après … |
+| 15/10 | Süvy, "protéines de l'espace", gnocchis Mousline... Ces nouveaux aliments vont arriver demain dans votre assiette |
+| 05/10 | Fin de Parcoursup, vote à 16 ans, interdiction du LBD : Villepin et Ruffin font front commun aux côtés des lycéens |
+| 27/09 | "Nous entrerons dans des eaux tumultueuses" : sur RTL, Dominique de Villepin alerte sur une éventuelle accession au pouv … |
+| 21/08 | À 72 ans, Dominique de Villepin vit une seconde jeunesse |
+| 18/08 | "Un bourgeois qui se prend pour un révolutionnaire" : Dominique de Villepin va-t-il se lancer en campagne en 2027 ? |
+| 27/07 | Affaire des statuettes : Dominique de Villepin a été entendu en audition libre mi-juillet par le parquet financier |

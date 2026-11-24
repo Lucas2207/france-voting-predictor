@@ -315,14 +315,30 @@ Pour garder une méthode commune avec les journaux, ARTE n'est pas intégré aux
 - le classement par pertinence mélange toutes les années (2022 à 2026) : une part des 20 résultats est hors période ;
 - le chapô n'est pas lu.
 
-## 17. Ce qui n'est pas fait
+## 17. RTL (rtl.fr)
+
+**Source :** la recherche du site, `https://www.rtl.fr/recherche` (la page n'exécute la requête que si le nom est saisi dans le champ ; le paramètre `q` de l'adresse seul ne suffit pas). Cookies : « Continuer sans accepter ».
+
+**Relevé :**
+- une requête par candidat (nom complet, ou « Villepin » et « Riner »), tri « Date », onglets « Articles » et « Replays » (podcasts de l'antenne), avec « Voir plus » jusqu'à dépasser six mois d'ancienneté ;
+- la page de résultats n'affiche que des dates relatives (« Il y a 2 mois ») : la date exacte est lue sur la page de chaque contenu (`article:published_time`), puis seuls les contenus du 1er juillet au 1er novembre 2026 sont gardés ;
+- **règle de décompte propre à RTL :** le nom du candidat doit figurer dans le **titre ou dans le chapô** (description de la page). Un contenu qui cite plusieurs candidats compte pour chacun. Cette règle est plus large que celle du titre seul appliquée aux autres médias : le décompte RTL n'est donc pas strictement comparable (le total du dossier distingue les contenus retenus par le titre et ceux retenus par le chapô seul) ;
+- homonymes écartés : Robin Roussel, Jean-Marie Le Pen et Marion Maréchal-Le Pen ; pour Édouard Philippe, le nom complet est exigé.
+
+**Limites :**
+- le chapô est celui de la page (description), parfois court ; un candidat cité seulement dans le corps du texte n'est pas compté ;
+- un chapô qui cite un candidat sans que le contenu le concerne vraiment (imitation par Laurent Gerra, revue de presse, liste de réactions) est compté tel quel ;
+- Teddy Riner : sa candidature n'est annoncée que le 9 novembre 2026 ; ses contenus de la période portent sur sa carrière sportive ou sur ses prises de parole publiques ;
+- Nicolas Dupont-Aignan : aucun contenu trouvé.
+
+## 18. Ce qui n'est pas fait
 
 - pas d'ouverture des articles un par un : le classement se base sur le titre et le chapô ou l'adresse ;
 - pas de couverture de BFMTV pour juillet à septembre 2026 ;
 - Dominique de Villepin et Teddy Riner (candidats ajoutés le 23 novembre 2026) ne sont relevés que pour les médias traités depuis (L'Équipe pour l'instant) ; Radio France, BFMTV, TF1, franceinfo, Le Monde, CNEWS, Libération, Ouest-France, Europe 1, La Dépêche, RMC, Sud Ouest, ARTE et Canal+ restent à faire pour eux ;
 - les dossiers Radio France ne sont pas tous à jour pour les personnalités sans page propre (Zemmour, Lisnard, Roussel) : ils sont couverts par les pages des autres personnalités citées dans les chapôs.
 
-## 18. Fichiers
+## 19. Fichiers
 
 - Dossiers par candidat : `dossiers-candidats/<nom>/README.md`
 - Tableaux Radio France : section « Radio France » de chaque dossier (les anciens fichiers `radio-france-<nom>-emissions.md` à la racine ont été supprimés une fois repris dans les dossiers)

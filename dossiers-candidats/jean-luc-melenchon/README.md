@@ -873,6 +873,71 @@ Total : 6 articles (relevé partiel).
 | 21/08 | Dette : pourquoi l'annulation proposée par Jean-Luc Mélenchon ne peut pas fonctionner |
 | 25/07 | Présidentielle 2027 : Jean-Luc Mélenchon toujours déterminé à rallier les Ecologistes à sa candidature |
 
+## RTL (rtl.fr)
+
+Source : la recherche du site (`https://www.rtl.fr/recherche`), tri par date, onglets « Articles » et « Replays » (podcasts), relevé le 24 novembre 2026. Un contenu est compté s'il est daté du 1er juillet au 1er novembre 2026 (date de publication lue sur la page) et que le nom du candidat figure dans son titre ou dans son chapô. Un contenu qui cite plusieurs candidats compte pour chacun. Voir la section 17 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 56 contenu(s) (41 par le titre, 15 par le chapô seul).
+
+| Date (2026) | Titre |
+|---|---|
+| 31/10 | "Il devra céder ou partir" : Jean-Luc Mélenchon défie Emmanuel Macron après la manifestation du 31 octobre, et accuse le … |
+| 30/10 | "Tout arrive" : Mélenchon, Glucksmann, Faure... La gauche met ses divisions de côté pour faire bloc contre le racisme à … |
+| 29/10 | De la polémique Assassin's Creed à la conquête des gamers : pourquoi Jean-Luc Mélenchon et LFI misent sur les jeux vidéo … |
+| 28/10 | Philippe Caverivière : "Si LFI arrive au pouvoir, les couilles en or de Bernard Arnault deviendront en argent dès fin 20 … |
+| 27/10 | "Pourquoi est-ce que Gabriel Attal se retirerait au profit d'Edouard Philippe ?" : malgré un "trou d'air", le candidat R … |
+| 26/10 | "Il faut qu'on sorte de notre mollesse" : sur RTL, Raphaël Glucksmann évoque "un enjeu de radicalité" pour reconquérir l … |
+| 24/10 | Présidentielle 2027 : Le Pen et Mélenchon au second tour dans tous les cas de figure, Philippe et Attal en difficulté, s … |
+| 23/10 | SONDAGE RTL - Présidentielle 2027 : Le Pen, Mélenchon, Philippe... Les violences du 17 octobre n'ont pas rebattu les car … |
+| 21/10 | "Insoumises et insoumis, vous êtes tous réquisitionnés" : Jean-Luc Mélenchon lance un appel à ses militants avant l'acte … |
+| 18/10 | Présidentielle 2027 : que disent les sondages à six mois jour pour jour du premier tour ? |
+| 18/10 | Présidentielle 2027 : loin derrière Le Pen, Philippe, Mélenchon et Glucksmann dans un mouchoir de poche, selon un sondag … |
+| 16/10 | "La France du chaos" derrière Jean-Luc Mélenchon : Jordan Bardella attaque la mobilisation du 17 octobre |
+| 14/10 | "Il faut fêter Noël le 15 novembre" : quand Chevallier et Laspalès, imités par Gerra, cherchent des solutions aux tarifs … |
+| 12/10 | SONDAGE RTL - Présidentielle 2027 : vers un duel Le Pen-Mélenchon, l'affaire Bardella sans effet sur les intentions de v … |
+| 11/10 | Présidentielle 2027 : la stratégie de Mélenchon derrière ses meetings face à Attal, Le Pen et Philippe |
+| 07/10 | "L'Amérique de Trump" : le gouverneur de la Banque de France répond aux menaces de Jean-Luc Mélenchon |
+| 04/10 | "Ni très classe, ni très lucide" : sur RTL Clémence Guetté étrille Raphaël Glucksmann et ses propos "lamentables" contre … |
+| 03/10 | Présidentielle 2027 : Gabriel Attal plaide pour "une grande coalition" allant de la gauche sociale-démocrate à la droite … |
+| 03/10 | Il "pisse" sur Jean-Luc Mélenchon et accuse Ségolène Royal d'avoir "fait la danse du ventre" devant Emmanuel Macron : de … |
+| 02/10 | "Ça ne sert à rien de mettre le feu" : Jean-Luc Mélenchon appelle les lycéens à avoir recours "à des méthodes de lutte n … |
+| 30/09 | Des lycéens devenus "de la chair à canon" pour LFI : Gabriel Attal accuse les Insoumis de ne chercher qu'à "mettre le bo … |
+| 29/09 | Philippe Caverivière : "Si Jordan Bardella est antisémite, il va voter Jean-Luc Mélenchon... Le traître !" |
+| 29/09 | "Les chauffer et créer de l'agitation" : sur RTL, Jean-François Copé attaque les Insoumis et les accuse de "manipuler" d … |
+| 28/09 | SONDAGE RTL - Présidentielle 2027 : Marine Le Pen face à Jean-Luc Mélenchon au second tour dans tous les cas de figure |
+| 28/09 | Blocus des lycées : Jean-Luc Mélenchon dénonce une "répression" du gouvernement "avec un arrière-goût raciste évident" |
+| 28/09 | "Le pape est de notre côté" : dans la peau de Laurent Gerra, Jean-Luc Mélenchon commente la venue du souverain pontif à … |
+| 27/09 | Ukraine : Jean-Noël Barrot accuse Jean-Luc Mélenchon et Marine Le Pen d'avoir "choisi leur camp", celui de Moscou |
+| 27/09 | Sénatoriales 2026 : percée du Rassemblement national, un premier sénateur LFI... les principaux enseignements du scrutin … |
+| 14/09 | SONDAGE RTL - Présidentielle 2027 : Marine Le Pen en léger recul pour la première fois, Jean-Luc Mélenchon se stabilise … |
+| 13/09 | Présidentielle 2027 : Marine Le Pen nettement en tête des intentions de vote, Jean-Luc Mélenchon s'impose à gauche, selo … |
+| 11/09 | "Illégale, dangereuse et inutile" : sur RTL, le gouverneur de la Banque de France tacle la proposition de Mélenchon d'ef … |
+| 06/09 | “Catastrophique démonstration” : après la percée de l’AfD en Saxe-Anhalt, les réactions se multiplient dans la classe po … |
+| 06/09 | Présidentielle 2027 : Marine Le Pen caracole en tête, Édouard Philippe devant Mélenchon pour se qualifier au second tour … |
+| 05/09 | "Il va encore nous servir un bon mois" : pourquoi le duel à distance entre Jean-Luc Mélenchon et Gabriel Attal arrange l … |
+| 03/09 | "Une erreur terrible" : comment Jean-Luc Mélenchon a changé de position sur le port du voile |
+| 30/08 | Présidentielle 2027 : Marine Le Pen largement en tête, Édouard Philippe devant Jean-Luc Mélenchon, selon un sondage |
+| 30/08 | Geler une partie de la dette ? Manuel Bompard explique sur RTL comment LFI mise sur une "coalition à l'échelle européenn … |
+| 30/08 | Faut-il "brûler" une partie de la dette ? Comment Jean-Luc Mélenchon a réussi à installer son sujet dans la campagne pré … |
+| 27/08 | Présidentielle 2027 : Mélenchon et Philippe s'affrontent sur la dette, Le Pen et Attal sur les salaires, Glucksmann mise … |
+| 24/08 | SONDAGE RTL - Présidentielle 2027 : un duel Le Pen-Mélenchon ? La candidate RN largement en tête, le leader insoumis mie … |
+| 24/08 | "La Matinale de RTL, c'est comme un camping libertin au Cap d'Agde" : Laurent Gerra imite Patrick Sébastien souhaitant l … |
+| 24/08 | "Ce serait un Frexit" : la France peut-elle vraiment effacer une partie de sa dette comme le proposent Jean-Luc Mélencho … |
+| 23/08 | "Il est vital que tout change" : Jean-Luc Mélenchon promet de censurer le budget 2027 et fustige le bilan d'Emmanuel Mac … |
+| 22/08 | "Si c'est après, ce sera trop tard" : Édouard Philippe envisage un rassemblement de la droite et du centre entre "novemb … |
+| 21/08 | Jean-Luc Mélenchon, l'agitateur se rêve en rempart contre l'extrême droite |
+| 21/08 | "Ça ne fait pas un programme" : sur RTL, Manuel Bompard dénonce la "détestation" de Jean-Luc Mélenchon orchestrée par le … |
+| 17/08 | De l'"hyper sectaire" au "papy gentil" : comment Jean-Luc Mélenchon se rêve en rempart contre l'extrême droite en 2027 |
+| 17/08 | "Jean-Luc Mélenchon est celui qui intègre le plus la question du climat" dans son programme présidentiel : la déclaratio … |
+| 10/08 | "Du PS, jusqu'aux gaullistes" : à moins d'un an de la présidentielle, François Bayrou souhaite une grande primaire entre … |
+| 23/07 | "Ils nous ont parlé comme si nous allions gouverner" : Jean-Luc Mélenchon a diné avec des grands patrons |
+| 16/07 | Gabriel Attal a-t-il vraiment annulé l’achat de deux Canadair, comme l'affirment LFI et le RN ? |
+| 11/07 | "Il n'y aura pas de primaire" : Clémentine Autain renonce à être candidate à la présidentielle et n'exclut pas de souten … |
+| 05/07 | "La France n'est pas un pays raciste" : Jean-Luc Mélenchon assure qu'il "battra" le RN, qui pourrait même être "éliminé" … |
+| 03/07 | La fin des jeux PlayStation physiques déclenche la colère des joueurs et... de Jean-Luc Mélenchon |
+| 01/07 | "Il s’impose comme le numéro un" : Jean-Luc Mélenchon améliore sa popularité auprès des sympathisants de gauche pour la … |
+| 01/07 | "Ce serait dangereux" : sur RTL, Édouard Philippe dit vouloir éviter la multiplication des candidatures et le "cauchemar … |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Jean-Luc+M%C3%A9lenchon, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

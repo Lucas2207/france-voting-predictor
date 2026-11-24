@@ -757,6 +757,58 @@ Total : 17 articles (relevé partiel).
 | 09/07 | SONDAGE EXCLUSIF - Présidentielle 2027 : Marine Le Pen largement en tête, avantage Edouard Philippe à droite et au centre |
 | 05/07 | Edouard Philippe : la politique repensée pour nos enfants |
 
+## RTL (rtl.fr)
+
+Source : la recherche du site (`https://www.rtl.fr/recherche`), tri par date, onglets « Articles » et « Replays » (podcasts), relevé le 24 novembre 2026. Un contenu est compté s'il est daté du 1er juillet au 1er novembre 2026 (date de publication lue sur la page) et que le nom du candidat figure dans son titre ou dans son chapô. Un contenu qui cite plusieurs candidats compte pour chacun. Voir la section 17 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 43 contenu(s) (35 par le titre, 8 par le chapô seul).
+
+| Date (2026) | Titre |
+|---|---|
+| 01/11 | "Elle n'aura pas lieu" : Édouard Philippe rejette l'idée d'une primaire du bloc central pour la présidentielle, source d … |
+| 30/10 | Hommages aux victimes de l'attentat raciste : Édouard Philippe présent à la Verrière mais pas à Trappes |
+| 29/10 | Édouard Philippe placé sous le statut de témoin assisté dans l'enquête sur des soupçons de détournement de fonds publics … |
+| 29/10 | "Une sortie par le haut" : pourquoi l'organisation d'une grande primaire prend des airs d'opération de la dernière chanc … |
+| 28/10 | "Terriblement révélateur de notre basculement politique" : Dominique de Villepin dénonce les propos d'Édouard Philippe s … |
+| 27/10 | "Pourquoi est-ce que Gabriel Attal se retirerait au profit d'Edouard Philippe ?" : malgré un "trou d'air", le candidat R … |
+| 27/10 | "Je suis persuadé que je le battrais" : même distancé dans les sondages, Bruno Retailleau ne doute pas d'une victoire co … |
+| 24/10 | Présidentielle 2027 : Le Pen et Mélenchon au second tour dans tous les cas de figure, Philippe et Attal en difficulté, s … |
+| 18/10 | Présidentielle 2027 : que disent les sondages à six mois jour pour jour du premier tour ? |
+| 18/10 | Présidentielle 2027 : loin derrière Le Pen, Philippe, Mélenchon et Glucksmann dans un mouchoir de poche, selon un sondag … |
+| 16/10 | "Une question assez explosive" : Édouard Philippe prône des vacances plus courtes et un apprentissage concentré le matin … |
+| 11/10 | Présidentielle 2027 : la stratégie de Mélenchon derrière ses meetings face à Attal, Le Pen et Philippe |
+| 11/10 | "Je veux bien faire le tiers de confiance" : Jean-Louis Borloo se propose comme médiateur entre Gabriel Attal et Édouard … |
+| 09/10 | "Un certain nombre de nos services publics sont saturés" : Édouard Philippe veut "diviser par deux l'immigration légale" … |
+| 08/10 | Le retour de "L'Heure de vérité" sur France 2 : comment cette émission politique a marqué l'histoire du PAF |
+| 29/09 | Édouard Philippe dévoile sa réforme des retraites et propose de "porter progressivement la durée de cotisation à 45 ans … |
+| 29/09 | "Il n'y a jamais de bon moment" : Édouard Philippe se jette à l'eau avec sa réforme des retraites, un pari politique à h … |
+| 28/09 | "C'est ridicule, ça fait rigoler" : Édouard Philippe se confie sur sa peur "panique" des requins |
+| 24/09 | "La crise va durer" : sur RTL, Édouard Philippe appelle à financer 450 millions d'euros d'aides ciblées sur les carburan … |
+| 11/09 | "Se reposer, décompresser" mais pas que : pourquoi Édouard Philippe aimerait repousser la prise de fonctions du présiden … |
+| 09/09 | "De la tambouille politicienne" : Gabriel Attal balaie la proposition d'Édouard Philippe, qui veut réunir les candidats … |
+| 08/09 | "Il tend la main au-delà d'Horizons" : Édouard Philippe quitte la présidence du parti et veut fédérer la droite et le ce … |
+| 06/09 | Présidentielle 2027 : Marine Le Pen caracole en tête, Édouard Philippe devant Mélenchon pour se qualifier au second tour … |
+| 06/09 | "Le mieux placé pour gagner la présidentielle" : sur RTL, Maud Bregeon appelle Gabriel Attal et Bruno Retailleau à "trav … |
+| 02/09 | Philippe Caverivière et le monde agricole : "Attention, si vous pincez les tétons d'Édouard Philippe, vous n'obtiendrez … |
+| 31/08 | Présidentielle 2027 : le ton monte entre Gabriel Attal et Édouard Philippe relançant la bataille du bloc central |
+| 31/08 | "Je ne critiquerai pas des concurrents qui ont du talent" : la mise au point d'Édouard Philippe sur RTL après la pique d … |
+| 31/08 | "Cela coûte 18 milliards d'euros à l'État" : pourquoi Édouard Philippe veut mettre un terme à "l'open bar" des arrêts ma … |
+| 30/08 | Présidentielle 2027 : Marine Le Pen largement en tête, Édouard Philippe devant Jean-Luc Mélenchon, selon un sondage |
+| 27/08 | "Faire comme l'Allemagne" : Édouard Philippe veut abaisser à 12 mois la durée de l'indemnisation chômage pour les moins … |
+| 22/08 | "Si c'est après, ce sera trop tard" : Édouard Philippe envisage un rassemblement de la droite et du centre entre "novemb … |
+| 21/08 | Édouard Philippe face au défi du bon tempo |
+| 21/08 | Présidentielle 2027 : en déplacement à Mayotte, Édouard Philippe promet de mettre fin à l’"appel d’air" migratoire |
+| 18/08 | Ingérence russe contre Édouard Philippe et Gabriel Attal : une enquête ouverte par le parquet de Paris |
+| 18/08 | "Il sera très présent" : quel rôle va jouer Gérald Darmanin dans la campagne d'Édouard Philippe pour la présidentielle d … |
+| 17/08 | "Édouard Philippe m'a permis d'être ministre" : "loyal", Gérald Darmanin apporte son soutien au candidat Horizons pour l … |
+| 04/08 | Effacer l'ombre de Macron, distancer le rival Attal : "le diesel" Édouard Philippe face à deux grands défis pour la prés … |
+| 16/07 | Présidentielle 2027 : Gabriel Attal, l'homme pressé qui tente de s'imposer face à Édouard Philippe |
+| 03/07 | Présidentielle 2027 : David Lisnard dénonce "une caste prête à tout" pour se maintenir au pouvoir |
+| 03/07 | "Tout le monde essaie de voir ce qui va se passer" : Bruno Retailleau est-il en train de perdre le soutien de la droite … |
+| 01/07 | Retraites : Édouard Philippe estime sur RTL qu’il n’y a "aucune hypothèse où on s’en sort" sans "travailler un peu plus" … |
+| 01/07 | Présidentielle 2027 : Laurent Wauquiez estime que Bruno Retailleau doit "savoir se retirer" et tend la main à Édouard Ph … |
+| 01/07 | "Ce serait dangereux" : sur RTL, Édouard Philippe dit vouloir éviter la multiplication des candidatures et le "cauchemar … |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=%C3%89douard+Philippe, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

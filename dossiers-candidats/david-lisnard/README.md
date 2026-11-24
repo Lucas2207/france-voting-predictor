@@ -324,6 +324,27 @@ Total : 3 articles (relevé partiel).
 | 26/09 | Présidentielle 2027 : David Lisnard, le trublion de la droite qui rêve de mener « la révolution de la liberté » |
 | 08/09 | Présidentielle 2027 : David Lisnard à l'école Milei |
 
+## RTL (rtl.fr)
+
+Source : la recherche du site (`https://www.rtl.fr/recherche`), tri par date, onglets « Articles » et « Replays » (podcasts), relevé le 24 novembre 2026. Un contenu est compté s'il est daté du 1er juillet au 1er novembre 2026 (date de publication lue sur la page) et que le nom du candidat figure dans son titre ou dans son chapô. Un contenu qui cite plusieurs candidats compte pour chacun. Voir la section 17 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 12 contenu(s) (9 par le titre, 3 par le chapô seul).
+
+| Date (2026) | Titre |
+|---|---|
+| 30/10 | "Soit on est candidat à la présidentielle, soit à l'AMF" : la double ambition de David Lisnard vire à la bataille politi … |
+| 28/10 | "Je ne confie pas mes petits-enfants à Mathilde Panot ou à Marine Le Pen" : Patrick Sébastien révèle son favori pour la … |
+| 22/10 | "Je m'en fous, j'étais pas né, j'ai des potes Algériens" : critiqué pour ses propos sur le 17 octobre 1961, David Lisnar … |
+| 20/10 | Un "quart de finale" : à six mois de l'élection présidentielle, la droite et le centre n'ont pas définitivement tranché … |
+| 20/10 | Alex Vizorek à David Lisnard : "Dépasser Retailleau en popularité c'est comme être plus digérable qu'une pissaladière. C … |
+| 20/10 | "Des camps d'entraînement terroristes" : sur RTL, David Lisnard évoque "une gangrène" sur le plateau de Millevaches où d … |
+| 15/10 | "Il se passe quelque chose, je le sens, je le vis" : existe-t-il vraiment une dynamique David Lisnard pour la présidenti … |
+| 30/09 | Refus de marier un Algérien sous OQTF : Robert Ménard face à la justice avec le soutien de David Lisnard et Bruno Retail … |
+| 14/09 | Figure de Twitch, fan de League of Legends et "libéral" revendiqué... Qui est Sardoche, le streamer controversé qui s'as … |
+| 03/08 | "Je vous transmets cette facture" : David Lisnard accuse Gabriel Attal de lui avoir volé son idée et réclame des droits … |
+| 21/07 | "On n'est pas à Medellín dans les années 2000" : sur RTL, David Lisnard appelle à "se bouger” après l'exfiltration du ma … |
+| 03/07 | Présidentielle 2027 : David Lisnard dénonce "une caste prête à tout" pour se maintenir au pouvoir |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=David+Lisnard, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

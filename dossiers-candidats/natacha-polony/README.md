@@ -203,6 +203,20 @@ Total : 1 article (relevé partiel).
 |---|---|
 | 14/10 | Présidentielle 2027 : la journaliste et essayiste Natacha Polony se déclare candidate pour « prioriser la production française » |
 
+## RTL (rtl.fr)
+
+Source : la recherche du site (`https://www.rtl.fr/recherche`), tri par date, onglets « Articles » et « Replays » (podcasts), relevé le 24 novembre 2026. Un contenu est compté s'il est daté du 1er juillet au 1er novembre 2026 (date de publication lue sur la page) et que le nom du candidat figure dans son titre ou dans son chapô. Un contenu qui cite plusieurs candidats compte pour chacun. Voir la section 17 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 5 contenu(s) (5 par le titre, 0 par le chapô seul).
+
+| Date (2026) | Titre |
+|---|---|
+| 01/11 | "La souveraineté du peuple n’a pas été entendue depuis des décennies" : sur RTL, Natacha Polony estime que la mobilisati … |
+| 14/10 | "La situation m'oblige" : l'essayiste Natacha Polony officialise sa candidature à l'élection présidentielle 2027 |
+| 30/09 | INFO RTL - Présidentielle 2027 : Natacha Polony a créé son association de financement pour être candidate |
+| 31/08 | Philippe Caverivière à Natacha Polony : "Éric Zemmour est tellement à droite qu'il est sur la bande d'arrêt d'urgence" |
+| 31/08 | "J'en ai assez de commenter le désastre" : sur RTL, Natacha Polony dit vouloir "rassembler ceux qui ne sont pas représen … |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Natacha+Polony, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

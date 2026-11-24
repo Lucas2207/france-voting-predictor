@@ -234,6 +234,20 @@ Total : 2 articles (relevé partiel).
 | 07/09 | Présidentielle 2027 : le pari contesté de Fabien Roussel |
 | 06/09 | Fabien Roussel officialise sa candidature pour 2027 |
 
+## RTL (rtl.fr)
+
+Source : la recherche du site (`https://www.rtl.fr/recherche`), tri par date, onglets « Articles » et « Replays » (podcasts), relevé le 24 novembre 2026. Un contenu est compté s'il est daté du 1er juillet au 1er novembre 2026 (date de publication lue sur la page) et que le nom du candidat figure dans son titre ou dans son chapô. Un contenu qui cite plusieurs candidats compte pour chacun. Voir la section 17 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 5 contenu(s) (4 par le titre, 1 par le chapô seul).
+
+| Date (2026) | Titre |
+|---|---|
+| 14/10 | Philippe Caverivière : "Raphaël Glucksmann a été victime d'un attentat à la hauteur de son charisme... Sûrement un coup … |
+| 14/10 | "On se bat pour un véhicule populaire" : sur RTL, Fabien Roussel réclame que la nouvelle 2 CV électrique "soit produite … |
+| 06/09 | "Je suis candidat" : Fabien Roussel se lance dans la course à la présidentielle 2027 |
+| 21/08 | Fabien Roussel, coco solo |
+| 13/08 | "C'est un mec de droite infiltré pour tuer le PCF" : Fabien Roussel, une candidature qui risque encore plus de diviser l … |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Fabien+Roussel, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

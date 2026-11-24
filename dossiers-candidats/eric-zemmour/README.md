@@ -231,6 +231,23 @@ Total : 2 articles (relevé partiel).
 | 18/09 | Présidentielle 2027 : Eric Zemmour durcit encore son discours sur l'immigration |
 | 04/09 | Présidentielle 2027 : Sarah Knafo lance la précampagne de Reconquête et d'Eric Zemmour avec son livre |
 
+## RTL (rtl.fr)
+
+Source : la recherche du site (`https://www.rtl.fr/recherche`), tri par date, onglets « Articles » et « Replays » (podcasts), relevé le 24 novembre 2026. Un contenu est compté s'il est daté du 1er juillet au 1er novembre 2026 (date de publication lue sur la page) et que le nom du candidat figure dans son titre ou dans son chapô. Un contenu qui cite plusieurs candidats compte pour chacun. Voir la section 17 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 8 contenu(s) (6 par le titre, 2 par le chapô seul).
+
+| Date (2026) | Titre |
+|---|---|
+| 28/10 | "Le 17 octobre a radicalisé sur la droite" : un sondage révèle les candidats à la présidentielle les plus rejetés par le … |
+| 12/10 | Philippe Caverivière : "Éric Zemmour et Sarah Knafo sont les Bill et Hillary Clinton français... sauf pour l'affaire Eps … |
+| 12/10 | "Il n'entrera pas à Matignon, c'est fini" : sur RTL, Éric Zemmour assure que "Jordan Bardella est en voie de marginalisa … |
+| 18/09 | "Je serai candidat" : Éric Zemmour confirme qu'il se présentera à la présidentielle 2027 et donne les premières pistes d … |
+| 14/09 | Figure de Twitch, fan de League of Legends et "libéral" revendiqué... Qui est Sardoche, le streamer controversé qui s'as … |
+| 06/09 | “Catastrophique démonstration” : après la percée de l’AfD en Saxe-Anhalt, les réactions se multiplient dans la classe po … |
+| 31/08 | Philippe Caverivière à Natacha Polony : "Éric Zemmour est tellement à droite qu'il est sur la bande d'arrêt d'urgence" |
+| 29/07 | Sarah Knafo vouée à s'effacer derrière Éric Zemmour pour 2027 après sa percée aux municipales ? "Elle a réussi à innover … |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=%C3%89ric+Zemmour, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

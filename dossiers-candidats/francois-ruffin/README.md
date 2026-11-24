@@ -222,6 +222,21 @@ Total : 0 article (relevé partiel).
 
 Aucun article de la période ne porte le nom du candidat dans son titre parmi les résultats renvoyés.
 
+## RTL (rtl.fr)
+
+Source : la recherche du site (`https://www.rtl.fr/recherche`), tri par date, onglets « Articles » et « Replays » (podcasts), relevé le 24 novembre 2026. Un contenu est compté s'il est daté du 1er juillet au 1er novembre 2026 (date de publication lue sur la page) et que le nom du candidat figure dans son titre ou dans son chapô. Un contenu qui cite plusieurs candidats compte pour chacun. Voir la section 17 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 6 contenu(s) (6 par le titre, 0 par le chapô seul).
+
+| Date (2026) | Titre |
+|---|---|
+| 05/10 | Fin de Parcoursup, vote à 16 ans, interdiction du LBD : Villepin et Ruffin font front commun aux côtés des lycéens |
+| 09/09 | Primaire de la gauche : sur RTL, François Ruffin se dit "toujours prêt à y aller" et regrette que Raphaël Glucksmann "ai … |
+| 09/09 | Philippe Caverivière à François Ruffin : "Vous êtes un peu comme Renaud qui tente d'aller chercher la note de 'All by My … |
+| 21/08 | François Ruffin, populaire mais solitiaire |
+| 17/07 | Un président de la République payé au SMIC : François Ruffin, un candidat populaire à gauche mais isolé pour la présiden … |
+| 09/07 | "Un seuil de décence a été dépassé" : François Ruffin estime sur RTL que la France a "perdu le contrôle de la corruption … |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Fran%C3%A7ois+Ruffin, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

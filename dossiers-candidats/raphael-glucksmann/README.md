@@ -853,6 +853,67 @@ Total : 10 articles (relevé partiel).
 | 23/08 | « Pour relever la France », Raphaël Glucksmann officialise sa candidature à la présidentielle 2027 |
 | 19/08 | Présidentielle 2027 : la candidature de Raphaël Glucksmann se précise |
 
+## RTL (rtl.fr)
+
+Source : la recherche du site (`https://www.rtl.fr/recherche`), tri par date, onglets « Articles » et « Replays » (podcasts), relevé le 24 novembre 2026. Un contenu est compté s'il est daté du 1er juillet au 1er novembre 2026 (date de publication lue sur la page) et que le nom du candidat figure dans son titre ou dans son chapô. Un contenu qui cite plusieurs candidats compte pour chacun. Voir la section 17 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 52 contenu(s) (46 par le titre, 6 par le chapô seul).
+
+| Date (2026) | Titre |
+|---|---|
+| 30/10 | "Tout arrive" : Mélenchon, Glucksmann, Faure... La gauche met ses divisions de côté pour faire bloc contre le racisme à … |
+| 28/10 | Présidentielle 2027 : pourquoi Raphaël Glucksmann veut régulariser 300.000 travailleurs sans-papiers s'il est élu |
+| 26/10 | "Pas un pas que je puisse faire..." : absent des manifestations, Raphaël Glucksmann se dit victime d'une "campagne de ha … |
+| 26/10 | "Il faut qu'on sorte de notre mollesse" : sur RTL, Raphaël Glucksmann évoque "un enjeu de radicalité" pour reconquérir l … |
+| 25/10 | "Je ne suis pas Manuel Valls" : Olivier Faure assure sur RTL qu'il ne sera pas "celui qui trahit" la primaire et confirm … |
+| 24/10 | Présidentielle 2027 : Le Pen et Mélenchon au second tour dans tous les cas de figure, Philippe et Attal en difficulté, s … |
+| 23/10 | Alex Vizorek à Marine Tondelier : "Votre bébé est ravi d'être là sans comprendre ce qu'il se passe. Il me fait penser à … |
+| 19/10 | "Emmanuel Macron doit répondre au chaos" : sur RTL, Raphaël Glucksmann fustige "un président qui commentait son impuissa … |
+| 18/10 | Présidentielle 2027 : que disent les sondages à six mois jour pour jour du premier tour ? |
+| 18/10 | Présidentielle 2027 : loin derrière Le Pen, Philippe, Mélenchon et Glucksmann dans un mouchoir de poche, selon un sondag … |
+| 16/10 | Hollande, Cazeneuve, Duflot… Raphaël Glucksmann à la chasse aux ralliements après sa victoire à la primaire |
+| 16/10 | "Il va falloir beaucoup de câlins" : battu par Raphaël Glucksmann, Olivier Faure digère mal sa défaite à la primaire soc … |
+| 14/10 | Philippe Caverivière : "Raphaël Glucksmann a été victime d'un attentat à la hauteur de son charisme... Sûrement un coup … |
+| 12/10 | VIDÉO - Enfarinage et jet de riz : la soirée mouvementée de Raphaël Glucksmann après sa victoire à la primaire de la gau … |
+| 12/10 | "Ne pas négliger François Hollande" : après la victoire de Raphaël Glucksmann à la primaire, la candidature de l'ex-prés … |
+| 11/10 | Primaire de la gauche sociale-démocrate : Raphaël Glucksmann élu au premier tour avec plus de 66% des voix |
+| 11/10 | Primaire de la gauche : Faure salue un Glucksmann qui "a su convaincre", Royal appelle à un "rassemblement de la gauche" … |
+| 11/10 | "Très déçue" de sa défaite à la primaire sociale-démocrate, Ségolène Royal assure qu’elle "aidera au rassemblement de la … |
+| 11/10 | "La bataille de France commence": pour Raphaël Glucksmann, sa victoire à la primaire sociale-démocrate prouve qu'une "ga … |
+| 09/10 | SONDAGE RTL - Primaire de la gauche pour la présidentielle 2027 : Raphaël Glucksmann favori mais loin d'avoir levé tous … |
+| 08/10 | Primaire de la gauche sociale-démocrate : candidats, favori, programme… Tout ce qu’il faut savoir avant le vote |
+| 05/10 | "La danse du ventre à Macron" : Raphaël Glucksmann concède des propos "inélégants", Ségolène Royal se dit "particulièrem … |
+| 04/10 | "Ni très classe, ni très lucide" : sur RTL Clémence Guetté étrille Raphaël Glucksmann et ses propos "lamentables" contre … |
+| 03/10 | Il "pisse" sur Jean-Luc Mélenchon et accuse Ségolène Royal d'avoir "fait la danse du ventre" devant Emmanuel Macron : de … |
+| 25/09 | "Une stratégie funeste de résignation à être des observateurs passifs" : Yannick Jadot suspendu temporairement des Écolo … |
+| 21/09 | Comparé à un "stagiaire" par Ségolène Royal, Raphaël Glucksmann la renvoie à ses postes "quémandés" |
+| 14/09 | Léa Salamé de retour au JT en cas d'échec de Raphaël Glucksmann à la primaire de la gauche ? Sur RTL, la journaliste con … |
+| 14/09 | "C'est pas forcément facile" : sur RTL, Léa Salamé se confie sur son retrait du 20 Heures de France 2 après l'annonce de … |
+| 09/09 | Primaire de la gauche : sur RTL, François Ruffin se dit "toujours prêt à y aller" et regrette que Raphaël Glucksmann "ai … |
+| 09/09 | "Ils sont jaloux..." : imité par Laurent Gerra, Raphaël Glucksmann se pose en favori de la primaire à gauche |
+| 08/09 | François Hollande candidat embusqué en vue de la présidentielle de 2027 ? "Je n'ose l'imaginer", tacle Raphaël Glucksman … |
+| 08/09 | "Nos démocraties sont menacées" : sur RTL, Raphaël Glucksmann assure "mettre le RN dans le même sac" que le parti d'extr … |
+| 01/09 | Philippe Caverivière à Bruno Retailleau : "Glucksmann a le charisme d'un horodateur en panne" |
+| 30/08 | Présidentielle 2027 : Marine Le Pen largement en tête, Édouard Philippe devant Jean-Luc Mélenchon, selon un sondage |
+| 29/08 | "Il n'y aura pas de sang sur les murs" : à Blois, le match est lancé entre Raphaël Glucksmann et Olivier Faure dans la c … |
+| 27/08 | Présidentielle 2027 : Mélenchon et Philippe s'affrontent sur la dette, Le Pen et Attal sur les salaires, Glucksmann mise … |
+| 26/08 | "J'imagine qu'il voit l'écologie de haut" : Sandrine Rousseau ironise sur le déplacement de Raphaël Glucksmann dans un p … |
+| 25/08 | Taxer les "méga-héritages" pour augmenter les salaires ? L'avertissement de François Lenglet sur la taxe Glucksmann |
+| 25/08 | Glucksmann favori, 4 candidats, vote payant... Ce qui se prépare pour la primaire du PS pour 2027 |
+| 24/08 | ÉDITO - "Mais qu’est-il allé faire dans cette galère ?" : pour Étienne Gernelle, Raphaël Glucksmann se piège en passant … |
+| 24/08 | Alex Vizorek sur la candidature de Raphaël Glucksmann à l'élection présidentielle : "Plus personne ne croyait en rien et … |
+| 23/08 | "Je suis candidat" : Raphaël Glucksmann se lance dans la course à la présidentielle 2027 |
+| 23/08 | "Je sais ce que ma décision implique pour ma compagne" : Léa Salamé se retire du 20H de France 2 après l'annonce de cand … |
+| 21/08 | D'intello à présidentiable, Raphaël Glucksmann au défi de faire sa mue |
+| 19/08 | "Vivement qu'on puisse le dire" : vers une officialisation de la candidature de Raphaël Glucksmann à la présidentielle 2 … |
+| 14/08 | "Personne ne fera rien sans lui" : entre union de la gauche et rêve de l'Élysée, Olivier Faure aura un rôle crucial lors … |
+| 05/08 | "La Russie veut déstabiliser la France" : visé par par une vidéo truquée, Raphaël Glucksmann estime sur RTL que "ce n'es … |
+| 05/08 | "Cette campagne va être d'une violence et d'un niveau de manipulation inouïs" : Attal à son tour visé par "une ingérence … |
+| 04/08 | "La campagne présidentielle de 2027 sera marquée par des ingérences massives" : Glucksmann dénonce une opération russe d … |
+| 20/07 | "Il pensait survoler tout le monde" : Raphaël Glucksmann face au défi de convaincre la gauche pour la présidentielle |
+| 10/07 | "Une main tendue" : Raphaël Glucksmann se résout à participer à la primaire actée par le PS, mais à certaines conditions … |
+| 09/07 | Xenia Fedorova est-elle "une agente russe" comme le dit Raphaël Glucksmann ? |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Rapha%C3%ABl+Glucksmann, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.
