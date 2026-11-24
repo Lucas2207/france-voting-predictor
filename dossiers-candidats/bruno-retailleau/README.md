@@ -621,6 +621,24 @@ Total : 10 article(s) (7 par le titre, 3 par le chapô seul).
 | 09/09 | Présidentielle 2027 : pourquoi Édouard Philippe pousse au rassemblement du « bloc central » |
 | 28/08 | Présidentielle 2027 : Bruno Retailleau en campagne dans les pas de François Fillon |
 
+## L'Humanité (humanite.fr)
+
+Source : la recherche du site avec le filtre de dates du site (`/?s=<nom>&start_date=2026-07-01&end_date=2026-11-01`), toutes les pages parcourues, relevé le 24 novembre 2026. Un article est compté s'il figure parmi les résultats et que le nom du candidat est dans son titre ou dans son chapô (description de la page) ; un article qui cite plusieurs candidats compte pour chacun. Voir la section 19 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 9 article(s) (7 par le titre, 2 par le chapô seul).
+
+| Date (2026) | Titre |
+|---|---|
+| 13/10 | « C’est ça, ou la Grèce » : pour le budget 2027, Bruno Retailleau et Édouard Philippe rivalisent d’idées pour toujours plus d’austérité |
+| 01/10 | Blocage des lycées : Bruno Retailleau veut faire interdire LFI, « un parti fasciné par la violence » |
+| 30/09 | Pourquoi la France veut (enfin) mettre fin à l’accord d’échange de migrants avec le Royaume-Uni |
+| 24/09 | « Une atteinte grave à une liberté fondamentale » : la maire LR de Villeneuve Saint-Georges interdit la distribution de tracts dans sa commune |
+| 23/09 | Retraite à 65 ans, capitalisation pour les jeunes : le grand braquage de Retailleau |
+| 21/09 | Ségolène Royal vise Glucksmann, Éric Ciotti drague Retailleau, François Bayrou s’accroche à un « bloc central »… Les dernières actus de la présidentielle 2027 |
+| 08/09 | Présidentielle 2027 : quand Bruno Retailleau et Marine Le Pen veulent faire du référendum une arme contre l’État de droit |
+| 19/07 | Loi « permis de tuer » : le Syndicat de la magistrature appelle à manifester, Bruno Retailleau voit rouge |
+| 02/07 | Présidentielle 2027 : Laurent Wauquiez tend la main à Édouard Philippe… pour mieux affaiblir Bruno Retailleau |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Bruno+Retailleau, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

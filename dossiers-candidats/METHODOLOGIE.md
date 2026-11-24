@@ -346,14 +346,28 @@ Pour garder une méthode commune avec les journaux, ARTE n'est pas intégré aux
 - les articles réservés aux abonnés sont comptés quand leur titre et leur chapô sont visibles ;
 - un chapô qui cite un candidat sans que l'article le concerne vraiment (liste de candidats, réaction) est compté tel quel.
 
-## 19. Ce qui n'est pas fait
+## 19. L'Humanité (humanite.fr)
+
+**Source :** la recherche du site, `https://www.humanite.fr/?s=<nom>&start_date=2026-07-01&end_date=2026-11-01&page=<n>` (20 résultats par page). Le site permet de filtrer par date, ce qui borne la période. Aucune bannière de cookies à accepter pour lire les résultats.
+
+**Relevé :**
+- une requête par candidat (nom complet, ou « Villepin » et « Riner »), toutes les pages jusqu'à épuisement ;
+- la recherche porte sur le texte intégral : la page de chaque résultat est relue pour lire son chapô (balise de description) ;
+- règle de décompte : le nom du candidat dans le **titre ou le chapô** ; un article qui cite plusieurs candidats compte pour chacun ; les articles qui ne citent le candidat que dans le corps du texte ne sont pas comptés ;
+- homonymes écartés : Robin Roussel, Jean-Marie Le Pen, Marion Maréchal-Le Pen ; pour Édouard Philippe, le nom complet est exigé.
+
+**Limites :**
+- un chapô qui cite un candidat sans que l'article le concerne vraiment (réaction, liste de candidats) est compté tel quel ;
+- aucun résultat pour Nicolas Dupont-Aignan, Nathalie Arthaud ni Natacha Polony dans leur titre ou chapô sur la période.
+
+## 20. Ce qui n'est pas fait
 
 - pas d'ouverture des articles un par un : le classement se base sur le titre et le chapô ou l'adresse ;
 - pas de couverture de BFMTV pour juillet à septembre 2026 ;
 - Dominique de Villepin et Teddy Riner (candidats ajoutés le 23 novembre 2026) ne sont relevés que pour les médias traités depuis (L'Équipe pour l'instant) ; Radio France, BFMTV, TF1, franceinfo, Le Monde, CNEWS, Libération, Ouest-France, Europe 1, La Dépêche, RMC, Sud Ouest, ARTE et Canal+ restent à faire pour eux ;
 - les dossiers Radio France ne sont pas tous à jour pour les personnalités sans page propre (Zemmour, Lisnard, Roussel) : ils sont couverts par les pages des autres personnalités citées dans les chapôs.
 
-## 20. Fichiers
+## 21. Fichiers
 
 - Dossiers par candidat : `dossiers-candidats/<nom>/README.md`
 - Tableaux Radio France : section « Radio France » de chaque dossier (les anciens fichiers `radio-france-<nom>-emissions.md` à la racine ont été supprimés une fois repris dans les dossiers)

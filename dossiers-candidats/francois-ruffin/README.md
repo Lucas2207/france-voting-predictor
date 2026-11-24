@@ -247,6 +247,23 @@ Total : 1 article(s) (1 par le titre, 0 par le chapô seul).
 |---|---|
 | 14/07 | Présidentielle 2027 : François Ruffin veut tracer sa voie entre « les trop mous et les trop fous » |
 
+## L'Humanité (humanite.fr)
+
+Source : la recherche du site avec le filtre de dates du site (`/?s=<nom>&start_date=2026-07-01&end_date=2026-11-01`), toutes les pages parcourues, relevé le 24 novembre 2026. Un article est compté s'il figure parmi les résultats et que le nom du candidat est dans son titre ou dans son chapô (description de la page) ; un article qui cite plusieurs candidats compte pour chacun. Voir la section 19 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 8 article(s) (8 par le titre, 0 par le chapô seul).
+
+| Date (2026) | Titre |
+|---|---|
+| 05/10 | « Nous devons arrêter le train de la fatalité qui mène Le Pen à l’Élysée » : François Ruffin invite à un large rassemblement au delà de la gauche pour 2027 |
+| 05/10 | Mouvement lycéen : François Ruffin et Dominique de Villepin se mettent d'accord sur cinq propositions |
+| 20/09 | « Puy du fou de gauche » : François Ruffin face à trois historiens – Fête de l’Humanité 2026 |
+| 14/09 | Les nouveaux maires au défi du municipalisme – B. Bagayoko, L. Ruffin, V. Bouget, et L. Castets |
+| 12/09 | Présidentielle 2027 : François Ruffin tacle le « plafond de béton » de Jean-Luc Mélenchon |
+| 09/09 | Primaire socialiste : un match Ruffin-Glucksmann à prévoir ? |
+| 03/09 | « On se renifle » : De Villepin et Ruffin se draguent en vue de la présidentielle |
+| 02/07 | Présidentielle 2027 : François Ruffin veut « séparer l’argent de l’État » |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Fran%C3%A7ois+Ruffin, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

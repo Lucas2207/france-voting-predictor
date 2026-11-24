@@ -966,6 +966,29 @@ Total : 19 article(s) (13 par le titre, 6 par le chapô seul).
 | 16/08 | Peut-on annuler la part de dette française détenue par la Banque de France, comme le suggère Jean-Luc Mélenchon ? |
 | 24/07 | Concert interrompu de Barbara Butch : quelle relation entre LFI et le milieu culturel ? |
 
+## L'Humanité (humanite.fr)
+
+Source : la recherche du site avec le filtre de dates du site (`/?s=<nom>&start_date=2026-07-01&end_date=2026-11-01`), toutes les pages parcourues, relevé le 24 novembre 2026. Un article est compté s'il figure parmi les résultats et que le nom du candidat est dans son titre ou dans son chapô (description de la page) ; un article qui cite plusieurs candidats compte pour chacun. Voir la section 19 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 14 article(s) (13 par le titre, 1 par le chapô seul).
+
+| Date (2026) | Titre |
+|---|---|
+| 28/10 | Présidentielle 2027 : tout comprendre au « pôle bancaire public » que veut créer Jean-Luc Mélenchon pour échapper à la « dictature des marchés » |
+| 16/10 | Entre Mélenchon et Glucksmann : l'heure du choix chez les Écolos ? |
+| 15/10 | Présidentielle 2027 : 2 000 citoyens appellent à une « campagne communiste pour Jean-Luc Mélenchon » |
+| 14/10 | Le plan de Jean-Luc Mélenchon pour « remettre de l’ordre » dans les comptes publics |
+| 12/10 | Voter dès 16 ans : pourquoi cette revendication de la gauche pourrait répondre au mouvement lycéen |
+| 12/10 | Meetings d’Attal et Mélenchon : la bataille d’AURA |
+| 11/10 | En meeting à Clermont-Ferrand, Jean-Luc Mélenchon installe la jeunesse comme moteur de sa campagne |
+| 02/10 | Alternative communiste appelle à voter Mélenchon à la présidentielle |
+| 12/09 | « Nous sommes prêts à gouverner » : à la Fête de l’Humanité, Jean-Luc Mélenchon galvanise ses troupes et se projette au pouvoir |
+| 12/09 | Présidentielle 2027 : François Ruffin tacle le « plafond de béton » de Jean-Luc Mélenchon |
+| 11/09 | Jean-Luc Mélenchon face à l’Huma en direct de la Fête de l'Humanité |
+| 11/09 | Ce qu'il faut retenir de l’entretien de Jean-Luc Mélenchon face à la rédaction de « l’Humanité » |
+| 06/07 | Présidentielle 2027 : Jean-Luc Mélenchon fixe un ultimatum aux autres forces de gauche pour un éventuel ralliement |
+| 02/07 | Présidentielle 2027 : avec les écorégions, Jean-Luc Mélenchon esquisse son projet de réforme territoriale |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Jean-Luc+M%C3%A9lenchon, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

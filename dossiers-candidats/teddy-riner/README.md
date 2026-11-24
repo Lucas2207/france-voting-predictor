@@ -95,3 +95,13 @@ Total : 1 article(s) (1 par le titre, 0 par le chapô seul).
 | Date (2026) | Titre |
 |---|---|
 | 23/09 | Cyberharcèlement : enquête ouverte pour injures publiques racistes contre Teddy Riner |
+
+## L'Humanité (humanite.fr)
+
+Source : la recherche du site avec le filtre de dates du site (`/?s=<nom>&start_date=2026-07-01&end_date=2026-11-01`), toutes les pages parcourues, relevé le 24 novembre 2026. Un article est compté s'il figure parmi les résultats et que le nom du candidat est dans son titre ou dans son chapô (description de la page) ; un article qui cite plusieurs candidats compte pour chacun. Voir la section 19 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 1 article(s) (1 par le titre, 0 par le chapô seul).
+
+| Date (2026) | Titre |
+|---|---|
+| 24/09 | « Je continuerai à m’exprimer librement, avec respect et sans haine » : visé par une cabale raciste, Teddy Riner réaffirme son opposition à l’extrême droite |

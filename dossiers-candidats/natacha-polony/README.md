@@ -227,6 +227,15 @@ Total : 1 article(s) (1 par le titre, 0 par le chapô seul).
 |---|---|
 | 14/10 | Élection présidentielle 2027 : l’essayiste Natacha Polony annonce sa candidature |
 
+## L'Humanité (humanite.fr)
+
+Source : la recherche du site avec le filtre de dates du site (`/?s=<nom>&start_date=2026-07-01&end_date=2026-11-01`), toutes les pages parcourues, relevé le 24 novembre 2026. Un article est compté s'il figure parmi les résultats et que le nom du candidat est dans son titre ou dans son chapô (description de la page) ; un article qui cite plusieurs candidats compte pour chacun. Voir la section 19 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 0 article(s) (0 par le titre, 0 par le chapô seul).
+
+| Date (2026) | Titre |
+|---|---|
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Natacha+Polony, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

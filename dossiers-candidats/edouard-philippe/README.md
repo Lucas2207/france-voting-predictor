@@ -839,6 +839,28 @@ Total : 21 article(s) (13 par le titre, 8 par le chapô seul).
 | 07/07 | Meeting d’Édouard Philippe : le poing levé, c’est toute une tradition |
 | 05/07 | Présidentielle 2027 : Edouard Philippe se livre et promet des « efforts justes » |
 
+## L'Humanité (humanite.fr)
+
+Source : la recherche du site avec le filtre de dates du site (`/?s=<nom>&start_date=2026-07-01&end_date=2026-11-01`), toutes les pages parcourues, relevé le 24 novembre 2026. Un article est compté s'il figure parmi les résultats et que le nom du candidat est dans son titre ou dans son chapô (description de la page) ; un article qui cite plusieurs candidats compte pour chacun. Voir la section 19 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 13 article(s) (12 par le titre, 1 par le chapô seul).
+
+| Date (2026) | Titre |
+|---|---|
+| 13/10 | « C’est ça, ou la Grèce » : pour le budget 2027, Bruno Retailleau et Édouard Philippe rivalisent d’idées pour toujours plus d’austérité |
+| 09/10 | Présidentielle 2027 : Édouard Philippe est-il un Nicolas Sarkozy 2.0 ? |
+| 05/10 | Opération 1 000 bistrots : quand Gabriel Attal paie sa tournée de campagne |
+| 03/10 | Dette publique : pourquoi Édouard Philippe et les médias libéraux agitent la menace d’une crise financière |
+| 30/09 | Retraites : Édouard Philippe veut ressusciter la réforme Borne… en pire |
+| 29/08 | Édouard Philippe et François Hollande, un débat cordial entre « ex » |
+| 26/08 | Présidentielle 2027 : Gabriel Attal et Édouard Philippe peinent à faire oublier leur triste bilan en matière d’éducation |
+| 23/08 | À Mayotte, Édouard Philippe veut réunir la droite en s’attaquant au droit du sol |
+| 17/08 | Présidentielle 2027 : Gérald Darmanin renonce à une candidature et annonce son soutien à Édouard Philippe |
+| 06/08 | Présidentielle 2027 : Gabriel Attal, Raphaël Glucksmann et Édouard Philippe visés par des tentatives de déstabilisation russes |
+| 08/07 | Présidentielle 2027 : ces propositions d’Édouard Philippe qui s’alignent sur celles du RN |
+| 05/07 | Présidentielle 2027 : en meeting, Édouard Philippe promet de la « sueur » pour les travailleurs et la « liberté » pour les entreprises |
+| 02/07 | Présidentielle 2027 : Laurent Wauquiez tend la main à Édouard Philippe… pour mieux affaiblir Bruno Retailleau |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=%C3%89douard+Philippe, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

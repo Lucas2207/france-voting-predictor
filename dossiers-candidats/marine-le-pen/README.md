@@ -1556,6 +1556,56 @@ Total : 41 article(s) (34 par le titre, 7 par le chapô seul).
 | 04/07 | Trois jours avant le jugement, un dernier banquet à Liévin pour Le Pen et Bardella |
 | 02/07 | Avant son jugement, Marine Le Pen déclare qu’elle n’a « pas peur » et exclut une campagne avec un bracelet électronique |
 
+## L'Humanité (humanite.fr)
+
+Source : la recherche du site avec le filtre de dates du site (`/?s=<nom>&start_date=2026-07-01&end_date=2026-11-01`), toutes les pages parcourues, relevé le 24 novembre 2026. Un article est compté s'il figure parmi les résultats et que le nom du candidat est dans son titre ou dans son chapô (description de la page) ; un article qui cite plusieurs candidats compte pour chacun. Voir la section 19 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 41 article(s) (34 par le titre, 7 par le chapô seul).
+
+| Date (2026) | Titre |
+|---|---|
+| 27/10 | Présidentielle 2027 : pourquoi Marine Le Pen pourrait finalement être inéligible |
+| 26/10 | Présidentielle 2027 : à Orléans, Marine Le Pen polit les fondamentaux de l’extrême droite |
+| 25/10 | Au congrès du RN à Orléans, des journalistes agressés et la promesse d’un État autoritaire |
+| 12/10 | Jordan Bardella : le boulet de Marine Le Pen ? |
+| 06/10 | Haro sur la sécurité sociale, les services publics et les étrangers : le RN présente son nouveau projet économique |
+| 05/10 | « Nous devons arrêter le train de la fatalité qui mène Le Pen à l’Élysée » : François Ruffin invite à un large rassemblement au delà de la gauche pour 2027 |
+| 04/10 | Présidentielle 2027 : Marine Le Pen veut l’austérité et l’assume |
+| 04/10 | Marine Le Pen renouvelle sa « confiance » à Bardella, le mouvement lycéen méprisé sur les chaînes d’info, l’Espagne suspendue à des législatives… Ce qu’il ne fallait pas manquer ce week-end |
+| 04/10 | Antisémitisme : Marine Le Pen renouvelle sa « confiance » à Jordan Bardella... non sans ambiguïtés |
+| 03/10 | Affaire Bardella : après deux jours de silence, Marine Le Pen fait du Trump |
+| 02/10 | Les sociétés de journalistes dénoncent les menaces de Marine Le Pen contre leur profession |
+| 30/09 | Avec Le Pen au pouvoir, la presse en gilet pare-balles |
+| 28/09 | RN : Mediapart exhume des propos antisémites de Jordan Bardella |
+| 16/09 | Loi SRU : menacée d'assouplissement, la Confédération nationale du logement propose un permis à points pour contraindre les maires à la respecter |
+| 13/09 | Présidentielle 2027 : Bétonner et expulser, Marine Le Pen détaille son projet pour le logement |
+| 11/09 | « Marine Le Pen, c’est l’arnaque sociale du siècle » : le journaliste Pierre Joigneaux documente les aspirations des électeurs du RN |
+| 08/09 | Présidentielle 2027 : quand Bruno Retailleau et Marine Le Pen veulent faire du référendum une arme contre l’État de droit |
+| 07/09 | Guerre en Ukraine, immigration, retraites : au RN, une ligne qui ne tient plus |
+| 03/09 | La TVA sociale, ou le pari insensé de la droite face à Le Pen |
+| 31/08 | Bardella / Le Pen : l'extrême droite commence-t-elle à se diviser ? |
+| 30/08 | Au RN, la bataille entre Marine Le Pen et Jordan Bardella se joue aussi sur l’économie |
+| 28/08 | De Henri VIII à Marine Le Pen, quand les politiques donnent leur langue au chat |
+| 16/07 | Ingérence et salut nazi, pourquoi le soutien d’Elon Musk à Marine le Pen pour la présidentielle 2027 embarrasse le RN |
+| 13/07 | Ce que sera le rôle de Jordan Bardella maintenant que Marine Le Pen est candidate |
+| 11/07 | Condamnation de Marine Le Pen : « Face à un cas sans précédent, tout le monde attendra l’arrêt de la cour de cassation », explique Robert Gelli |
+| 08/07 | À gauche comme à droite, tout le monde dézingue la candidature de Marine Le Pen après sa condamnation |
+| 08/07 | Marine Le Pen coupable mais candidate : qu'est-ce que ça change ? |
+| 08/07 | Marine Le Pen condamnée mais candidate forcenée |
+| 07/07 | Présidentielle 2027 : malgré sa condamnation, Marine Le Pen sera bien candidate |
+| 07/07 | Présidentielle 2027 : Marine Le Pen, condamnée et candidate en sursis |
+| 07/07 | Marine Le Pen se pourvoit en cassation et sera bien candidate en 2027 malgré sa condamnation |
+| 07/07 | Marine Le Pen condamnée… Mais pas complètement écartée de la présidentielle de 2027 |
+| 07/07 | Marine Le Pen condamnée mais potentiellement candidate en 2027 : on vous explique |
+| 07/07 | Marine Le Pen condamnée et en campagne, un boulet au pied |
+| 07/07 | Affaire des assistants parlementaires : Marine Le Pen est bien « l’instigatrice d’un système » pour la cour d'appel |
+| 06/07 | Affaire des assistants parlementaires : les 5 moments clés du procès en appel de Marine le Pen et du RN |
+| 06/07 | Quand Marine Le Pen reprend « le Chant des partisans » |
+| 06/07 | Marine Le Pen ou Jordan Bardella ? Ce que peut changer le verdict de la Cour d’appel pour la présidentielle 2027 |
+| 06/07 | Candidate ou empêchée ? Tous les scénarios possibles pour Marine Le Pen avant le verdict de son procès en appel |
+| 06/07 | 2027 : quels scénarios pour Marine Le Pen après le verdict ? |
+| 05/07 | À Liévin, Bardella et Le Pen main dans la main avant le verdict dans l’affaire des assistants parlementaires |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Marine+Le+Pen, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

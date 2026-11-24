@@ -72,3 +72,15 @@ Total : 0 article(s) (0 par le titre, 0 par le chapô seul).
 
 | Date (2026) | Titre |
 |---|---|
+
+## L'Humanité (humanite.fr)
+
+Source : la recherche du site avec le filtre de dates du site (`/?s=<nom>&start_date=2026-07-01&end_date=2026-11-01`), toutes les pages parcourues, relevé le 24 novembre 2026. Un article est compté s'il figure parmi les résultats et que le nom du candidat est dans son titre ou dans son chapô (description de la page) ; un article qui cite plusieurs candidats compte pour chacun. Voir la section 19 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 3 article(s) (3 par le titre, 0 par le chapô seul).
+
+| Date (2026) | Titre |
+|---|---|
+| 05/10 | Mouvement lycéen : François Ruffin et Dominique de Villepin se mettent d'accord sur cinq propositions |
+| 03/09 | « On se renifle » : De Villepin et Ruffin se draguent en vue de la présidentielle |
+| 30/08 | Présidentielle 2027 : avec son « Big Bang » fiscal, Dominique de Villepin se rêve en coupeur de dettes |

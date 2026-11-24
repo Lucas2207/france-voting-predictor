@@ -776,6 +776,24 @@ Total : 14 article(s) (10 par le titre, 4 par le chapô seul).
 | 04/08 | Référendums, quotas migratoires : comment Gabriel Attal cherche à se démarquer du macronisme |
 | 31/07 | Présidentielle 2027 : les animaux, une cause de plus en plus politique |
 
+## L'Humanité (humanite.fr)
+
+Source : la recherche du site avec le filtre de dates du site (`/?s=<nom>&start_date=2026-07-01&end_date=2026-11-01`), toutes les pages parcourues, relevé le 24 novembre 2026. Un article est compté s'il figure parmi les résultats et que le nom du candidat est dans son titre ou dans son chapô (description de la page) ; un article qui cite plusieurs candidats compte pour chacun. Voir la section 19 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 9 article(s) (8 par le titre, 1 par le chapô seul).
+
+| Date (2026) | Titre |
+|---|---|
+| 29/10 | Une primaire du "centre" peut-elle vraiment avoir lieu ? |
+| 12/10 | Meetings d’Attal et Mélenchon : la bataille d’AURA |
+| 05/10 | Opération 1 000 bistrots : quand Gabriel Attal paie sa tournée de campagne |
+| 18/09 | Roussel, Bompard, Tondelier, Attal, Philippe… Qu’ont dit les candidats à la présidentielle et leur bras droit lors de la rencontre avec Emmanuel Macron |
+| 10/09 | « Association de malfaiteurs », « abus d’autorité aggravé »… Christian Tein et cinq autres militants kanak portent plainte contre Attal, Darmanin, Lecornu et Dupond-Moretti |
+| 26/08 | Présidentielle 2027 : Gabriel Attal et Édouard Philippe peinent à faire oublier leur triste bilan en matière d’éducation |
+| 06/08 | Présidentielle 2027 : Gabriel Attal, Raphaël Glucksmann et Édouard Philippe visés par des tentatives de déstabilisation russes |
+| 05/08 | Gabriel Attal emprunte les thèmes de prédilection du RN pour lui piquer des électeurs |
+| 04/08 | Présidentielle 2027 : Gabriel Attal prend les gens du voyage pour cible… C’est petit |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Gabriel+Attal, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

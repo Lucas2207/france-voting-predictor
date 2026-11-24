@@ -258,6 +258,18 @@ Total : 1 article(s) (1 par le titre, 0 par le chapô seul).
 |---|---|
 | 18/09 | Présidentielle 2027 : Éric Zemmour confirme qu’il sera candidat |
 
+## L'Humanité (humanite.fr)
+
+Source : la recherche du site avec le filtre de dates du site (`/?s=<nom>&start_date=2026-07-01&end_date=2026-11-01`), toutes les pages parcourues, relevé le 24 novembre 2026. Un article est compté s'il figure parmi les résultats et que le nom du candidat est dans son titre ou dans son chapô (description de la page) ; un article qui cite plusieurs candidats compte pour chacun. Voir la section 19 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 3 article(s) (1 par le titre, 2 par le chapô seul).
+
+| Date (2026) | Titre |
+|---|---|
+| 23/10 | « Ils veulent faire de l’école un levier d’endoctrinement néofasciste » : prof attaquée par la fachosphère, Sophie Djigo dissèque le projet de l’extrême droite pour l’éducation |
+| 14/09 | Zemmour veut remplacer les immigrés par des robots |
+| 05/07 | « Français, défends-toi, tu es ici chez toi » : à Narbonne, l’extrême droite en nombre à la marche blanche en hommage à Louis |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=%C3%89ric+Zemmour, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

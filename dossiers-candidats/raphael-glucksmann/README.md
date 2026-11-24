@@ -946,6 +946,35 @@ Total : 23 article(s) (19 par le titre, 4 par le chapô seul).
 | 05/08 | Piratage russe contre Raphaël Glucksmann : comment l’exécutif tente de se prémunir des risques d’ingérence |
 | 05/08 | Glucksmann, Macron, Philippe, Attal : comment le réseau prorusse Storm-1516 mène ses opérations de déstabilisation |
 
+## L'Humanité (humanite.fr)
+
+Source : la recherche du site avec le filtre de dates du site (`/?s=<nom>&start_date=2026-07-01&end_date=2026-11-01`), toutes les pages parcourues, relevé le 24 novembre 2026. Un article est compté s'il figure parmi les résultats et que le nom du candidat est dans son titre ou dans son chapô (description de la page) ; un article qui cite plusieurs candidats compte pour chacun. Voir la section 19 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 20 article(s) (17 par le titre, 3 par le chapô seul).
+
+| Date (2026) | Titre |
+|---|---|
+| 16/10 | Entre Mélenchon et Glucksmann : l'heure du choix chez les Écolos ? |
+| 12/10 | Glucksmann écrase la primaire sociale-démocrate et acte la rupture avec LFI |
+| 11/10 | « Ce résultat dit quelque chose de puissant » : Raphaël Glucksmann écrase la primaire sociale-démocrate et acte la rupture avec LFI |
+| 11/10 | Raphaël Glucksmann désigné candidat social-démocrate dès le premier tour avec 66 % des voix |
+| 11/10 | Glucksmann désigné candidat social-démocrate au premier tour, le gouvernement menace de recourir aux ordonnances sur le budget 2027… Ce qu’il ne fallait pas manquer ce week-end |
+| 11/10 | Faure, le chef, Royal, l'ancienne gloire ou Glucksmann, « le stagiaire en burn-out »... Qui sera le grand vainqueur de la primaire du PS ? |
+| 05/10 | Ultime débat de la « primaire de gauche » : ce qu’il faut en retenir |
+| 02/10 | Que faut-il retenir du deuxième débat de la « primaire de gauche » ? Notre débrief |
+| 24/09 | Primaire des sociaux-démocrates : le débrief du 1ᵉʳ débat de Glucksmann, Royal, Faure, Guedj et Maurel |
+| 21/09 | Ségolène Royal vise Glucksmann, Éric Ciotti drague Retailleau, François Bayrou s’accroche à un « bloc central »… Les dernières actus de la présidentielle 2027 |
+| 09/09 | Primaire socialiste : un match Ruffin-Glucksmann à prévoir ? |
+| 08/09 | Présidentielle 2027 : Raphaël Glucksmann pris dans la nasse socialiste |
+| 30/08 | Olivier Faure officiellement candidat à la primaire socialiste |
+| 30/08 | Université d’été du PS : à Blois, le duel Glucksmann-Faure se met en place |
+| 27/08 | Primaire socialiste : Boris Vallaud rallie Raphaël Glucksmann et renonce à sa candidature |
+| 24/08 | Présidentielle 2027 : contraint de passer par la primaire du PS, Raphaël Glucksmann cherche à convaincre |
+| 24/08 | Présidentielle 2027 : Yannick Jadot confirme son soutien à Raphaël Glucksmann |
+| 23/08 | Présidentielle 2027 : ce qu’il faut retenir de l’annonce de candidature de Raphaël Glucksmann |
+| 06/08 | Présidentielle 2027 : Gabriel Attal, Raphaël Glucksmann et Édouard Philippe visés par des tentatives de déstabilisation russes |
+| 10/07 | Le PS choisit une primaire fermée : bonne nouvelle pour Glucksmann ? |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Rapha%C3%ABl+Glucksmann, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

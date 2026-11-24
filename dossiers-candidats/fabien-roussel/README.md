@@ -263,6 +263,39 @@ Total : 6 article(s) (5 par le titre, 1 par le chapô seul).
 | 05/07 | Réélu à la tête du PCF, Fabien Roussel s’avance vers une candidature à la présidentielle |
 | 05/07 | Fabien Roussel, reconduit à la tête du PCF et "à 85%" candidat à la présidentielle |
 
+## L'Humanité (humanite.fr)
+
+Source : la recherche du site avec le filtre de dates du site (`/?s=<nom>&start_date=2026-07-01&end_date=2026-11-01`), toutes les pages parcourues, relevé le 24 novembre 2026. Un article est compté s'il figure parmi les résultats et que le nom du candidat est dans son titre ou dans son chapô (description de la page) ; un article qui cite plusieurs candidats compte pour chacun. Voir la section 19 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 24 article(s) (23 par le titre, 1 par le chapô seul).
+
+| Date (2026) | Titre |
+|---|---|
+| 20/10 | « La République, ce n’est pas le régime de la matraque » : Fabien Roussel présente ses propositions face aux « légitimes revendications » du 17 octobre |
+| 15/10 | Présidentielle 2027 : Fabien Roussel souhaite une voiture électrique à moins de 10 000 euros fabriquée en France |
+| 06/10 | Fabien Roussel présente son plan pour permettre à chaque jeune « de se cultiver, de se former, d’être libre » |
+| 29/09 | Ian Brossat : « Des marges qui explosent et zéro impôt, face à ce scandale absolu, il faut nationaliser Total » |
+| 28/09 | Fabien Roussel aux côtés des pompiers réunis sur le Champ-de-Mars à Paris |
+| 22/09 | Présidentielle 2027 : « l'opération carburant » de Fabien Roussel pour faire baisser la TVA et les marges de TotalEnergies |
+| 18/09 | Roussel, Bompard, Tondelier, Attal, Philippe… Qu’ont dit les candidats à la présidentielle et leur bras droit lors de la rencontre avec Emmanuel Macron |
+| 14/09 | Nationalisation, partage de richesses… Le « match retour » entre Fabien Roussel et Patrick Martin, président du Medef |
+| 12/09 | Présidentielle 2027 : ce qu’il faut retenir du meeting de Fabien Roussel |
+| 11/09 | « Soit Total crée les conditions d’une diminution des prix du carburant, soit on nationalise » : le « j’accuse » de Fabien Roussel contre le groupe pétrolier |
+| 11/09 | « Des richesses socialement utiles pour l’humain et la planète » : entre Fabien Roussel et Patrick Martin, des échanges tendus sur le partage de la richesse |
+| 11/09 | Fabien Roussel face à Patrick Martin – L'HUMATCH en direct de la Fête de l'Huma |
+| 06/09 | Présidentielle 2027 : Fabien Roussel désigné candidat par les militants du PCF à 72 % |
+| 03/09 | Présidentielle 2027 : les adhérents du PCF votent sur la candidature de Fabien Roussel |
+| 27/08 | À l'université d'été du Medef, Fabien Roussel oppose la « planification » à la casse de l’État défendue par David Lisnard |
+| 23/08 | À l’université d’été du PCF, Fabien Roussel parie sur « l’élargissement du socle électoral de la gauche » |
+| 22/08 | « Une France verte, libre et indépendante » : à Toulouse, Fabien Roussel appelle les communistes à « renverser la table » |
+| 06/08 | Fabien Roussel, secrétaire national du PCF : « Nos forêts brûlent, arrachons-les à la loi du profit » |
+| 24/07 | Fabien Roussel (PCF) : « Profits de guerre, il est temps de nationaliser TotalEnergies ! » |
+| 05/07 | Fabien Roussel réélu à la tête du PCF, les Bleus se qualifient pour les quarts, le retour de la canicule… Ce qu’il ne fallait pas manquer ce week-end |
+| 05/07 | Congrès du PCF : Fabien Roussel réélu, les communistes se lancent dans la bataille de la présidentielle 2027 |
+| 05/07 | Congrès du PCF : Fabien Roussel réélu secrétaire national du Parti communiste |
+| 03/07 | Congrès du PCF : Fabien Roussel ouvre le congrès des communistes avec la présidentielle en ligne de mire |
+| 02/07 | Présidentielle 2027 : « Si nous sommes candidats, nous devons aller jusqu’au bout », estime Fabien Roussel |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Fabien+Roussel, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

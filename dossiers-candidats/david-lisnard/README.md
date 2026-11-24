@@ -358,6 +358,20 @@ Total : 4 article(s) (3 par le titre, 1 par le chapô seul).
 | 12/10 | Bruno Retailleau veut rétablir l’ordre, y compris dans les finances publiques |
 | 11/09 | Présidentielle 2027 : David Lisnard, l’exercice périlleux d’une double candidature |
 
+## L'Humanité (humanite.fr)
+
+Source : la recherche du site avec le filtre de dates du site (`/?s=<nom>&start_date=2026-07-01&end_date=2026-11-01`), toutes les pages parcourues, relevé le 24 novembre 2026. Un article est compté s'il figure parmi les résultats et que le nom du candidat est dans son titre ou dans son chapô (description de la page) ; un article qui cite plusieurs candidats compte pour chacun. Voir la section 19 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 5 article(s) (5 par le titre, 0 par le chapô seul).
+
+| Date (2026) | Titre |
+|---|---|
+| 30/10 | Les maires communistes demandent le retrait de David Lisnard à la présidence de l’AMF : la pression s’accentue sur le candidat à l’élection présidentielle |
+| 21/10 | Lettre ouverte à David Lisnard : « Pourquoi ce mépris lorsqu’il s’agit des victimes algériennes du 17 octobre 1961 ? » |
+| 20/10 | « J’en ai rien à foutre, j’étais pas né » : après les déclarations de David Lisnard sur le 17 octobre 1961, 61 maires demandent sa démission |
+| 27/08 | À l'université d'été du Medef, Fabien Roussel oppose la « planification » à la casse de l’État défendue par David Lisnard |
+| 25/08 | Cannes veut dépister le protoxyde d’azote au volant : le dispositif controversé de David Lisnard |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=David+Lisnard, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.
