@@ -531,7 +531,7 @@ function wireChartControls() {
   document.addEventListener('click', (ev) => {
     const el = ev.target;
     if (!(el instanceof HTMLElement) || !el.dataset.matrix) return;
-    matrixSort[el.dataset.matrix] = { axis: /** @type {'rows' | 'cols'} */ (el.dataset.axis), key: el.dataset.key || '', dir: /** @type {'asc' | 'desc'} */ (el.dataset.dir) };
+    matrixSort[el.dataset.matrix] = { axis: /** @type {'rows' | 'cols' | 'alpha' | 'coltotal'} */ (el.dataset.axis), key: el.dataset.key || '', dir: /** @type {'asc' | 'desc'} */ (el.dataset.dir) };
     if (tableRedraw[el.dataset.matrix]) tableRedraw[el.dataset.matrix]();
   });
   document.addEventListener('click', (ev) => {
@@ -1048,11 +1048,11 @@ const heatText = (/** @type {number} */ t) => Math.sqrt(Math.min(1, Math.max(0, 
 
 /** Nombre d'articles de chaque média retenu qui citent chaque candidat (présence, sans tonalité). */
 /** Tri des matrices : axe (« rows » = lignes triées par une colonne, « cols » = colonnes triées par une ligne). */
-/** @type {Record<string, { axis: 'rows' | 'cols' | 'alpha', key: string, dir: 'asc' | 'desc' }>} */
+/** @type {Record<string, { axis: 'rows' | 'cols' | 'alpha' | 'coltotal', key: string, dir: 'asc' | 'desc' }>} */
 const matrixSort = {};
 
 /** Boutons de tri : ▲ croissant, ▼ décroissant (A→Z et Z→A pour l'ordre alphabétique). Bouton actif en couleur.
- * @param {string} id @param {'rows' | 'cols' | 'alpha'} axis @param {string} key */
+ * @param {string} id @param {'rows' | 'cols' | 'alpha' | 'coltotal'} axis @param {string} key */
 function sortArrows(id, axis, key) {
   const st = matrixSort[id];
   const active = (/** @type {string} */ dir) => st && st.axis === axis && st.key === key && st.dir === dir;
@@ -1083,9 +1083,12 @@ function renderMatrix(id, rows, cols, value, empty, redraw) {
       const vy = st.axis === 'rows' && st.key ? value(y.key, st.key) : total(y.key);
       return sign * (vx - vy);
     });
+  const colTotal = (/** @type {string} */ ck) => rows.reduce((x, r) => x + value(r.key, ck), 0);
   const sortedCols = st.axis === 'cols' && st.key
     ? [...cols].sort((x, y) => sign * (value(st.key, x.key) - value(st.key, y.key)))
-    : cols;
+    : st.axis === 'coltotal'
+      ? [...cols].sort((x, y) => sign * (colTotal(x.key) - colTotal(y.key)))
+      : cols;
   const max = Math.max(1, ...rows.flatMap(r => cols.map(c => value(r.key, c.key))));
   const cell = (/** @type {number} */ n) => n
     ? `<td class="px-2 py-1 text-right font-semibold" style="background:${heatColor(n / max)};color:${heatText(n / max)}">${n}</td>`
@@ -1099,7 +1102,7 @@ function renderMatrix(id, rows, cols, value, empty, redraw) {
       ${sortedCols.map(c => cell(value(r.key, c.key))).join('')}
       <td class="px-2 py-1 text-right font-bold">${total(r.key)}</td></tr>`).join('') || `<tr><td class="py-2 text-slate-400">${esc(empty)}</td></tr>`}</tbody>
     <tfoot><tr class="border-t-2 border-slate-300 font-bold">
-      <td class="px-2 py-1 text-left">${t('exposure.th.total')}</td>
+      <td class="px-2 py-1 text-left whitespace-nowrap">${t('exposure.th.total')}${sortArrows(id, 'coltotal', '')}</td>
       ${sortedCols.map(c => `<td class="px-2 py-1 text-right">${rows.reduce((x, r) => x + value(r.key, c.key), 0)}</td>`).join('')}
       <td class="px-2 py-1 text-right">${rows.reduce((x, r) => x + total(r.key), 0)}</td></tr></tfoot>`;
 }
