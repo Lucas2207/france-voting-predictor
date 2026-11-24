@@ -217,6 +217,17 @@ Total : 0 article(s) (0 par le titre, 0 par le chapô seul).
 | Date (2026) | Titre |
 |---|---|
 
+## L'Est Républicain (estrepublicain.fr)
+
+Source : la recherche du site (`/recherche?q=<nom>&page=<n>`), toutes les pages parcourues jusqu'aux articles antérieurs au 1er juillet 2026, relevé le 24 novembre 2026. Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 (date lue dans l'adresse) et que le nom du candidat figure dans son titre ou dans le début de son chapô ; un article qui cite plusieurs candidats compte pour chacun. Voir la section 23 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 2 article(s) (2 par le titre, 0 par le chapô seul).
+
+| Date (2026) | Titre |
+|---|---|
+| 28/10 | Réunion publique avec Nathalie Arthaud (LO) |
+| 21/10 | Présidentielle 2027 : Nathalie Arthaud (Lutte ouvrière) à Belfort le 10 novembre |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Nathalie+Arthaud, parcouru jusqu'au 1er juillet 2026.

@@ -418,6 +418,19 @@ Total : 6 article(s) (6 par le titre, 0 par le chapô seul).
 | 13/09 | Conférence pro-Poutine, les ambitions de Philipps, soutiens de Larcher et Lisnard : les chuchotements politiques de la semaine |
 | 10/09 | David Lisnard, candidat à la présidentielle, brigue un nouveau mandat à la tête des Maires de France |
 
+## L'Est Républicain (estrepublicain.fr)
+
+Source : la recherche du site (`/recherche?q=<nom>&page=<n>`), toutes les pages parcourues jusqu'aux articles antérieurs au 1er juillet 2026, relevé le 24 novembre 2026. Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 (date lue dans l'adresse) et que le nom du candidat figure dans son titre ou dans le début de son chapô ; un article qui cite plusieurs candidats compte pour chacun. Voir la section 23 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 4 article(s) (4 par le titre, 0 par le chapô seul).
+
+| Date (2026) | Titre |
+|---|---|
+| 28/10 | « Les gens le découvrent » : David Lisnard, l’invité surprise de la campagne |
+| 28/10 | Prix Press club de l'humour politique 2026 : Lisnard, Ruffin, Philippe... découvrez la nouvelle sélection |
+| 15/10 | David Lisnard : il se passe quelque chose… mais quoi, au juste ? |
+| 10/09 | David Lisnard, candidat à la présidentielle, brigue un nouveau mandat à la tête des Maires de France |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=David+Lisnard, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.
