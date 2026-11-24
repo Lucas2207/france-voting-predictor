@@ -1096,7 +1096,7 @@ function renderMatrix(id, rows, cols, value, empty, redraw) {
   $(id).innerHTML = `<thead><tr class="text-[10px] uppercase tracking-wider text-slate-500 border-b border-slate-200">
       <th class="px-2 py-1 text-left align-bottom whitespace-nowrap">${t(id === 'radioFranceMatrix' ? 'radiofr.th.media' : 'exposure.th.media')}${sortArrows(id, 'alpha', '')}</th>
       ${sortedCols.map(c => `<th class="px-2 py-1 text-right align-bottom leading-tight normal-case tracking-normal text-slate-700">${c.head}${sortArrows(id, 'rows', c.key)}</th>`).join('')}
-      <th class="px-2 py-1 text-right align-bottom">${t('exposure.th.total')}</th></tr></thead>
+      <th class="px-2 py-1 text-right align-bottom">${t('exposure.th.total')}${sortArrows(id, 'rows', '')}</th></tr></thead>
     <tbody>${sortedRows.map(r => `<tr class="border-b border-slate-100">
       <td class="px-2 py-1 font-semibold whitespace-nowrap">${esc(r.label)}${sortArrows(id, 'cols', r.key)}</td>
       ${sortedCols.map(c => cell(value(r.key, c.key))).join('')}
