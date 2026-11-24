@@ -975,6 +975,45 @@ Total : 20 article(s) (17 par le titre, 3 par le chapô seul).
 | 06/08 | Présidentielle 2027 : Gabriel Attal, Raphaël Glucksmann et Édouard Philippe visés par des tentatives de déstabilisation russes |
 | 10/07 | Le PS choisit une primaire fermée : bonne nouvelle pour Glucksmann ? |
 
+## Le Progrès (leprogres.fr)
+
+Source : la recherche du site (`/recherche?q=<nom>&page=<n>`), toutes les pages parcourues jusqu'aux articles antérieurs au 1er juillet 2026, relevé le 24 novembre 2026. Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 (date lue dans l'adresse) et que le nom du candidat figure dans son titre ou dans le début de son chapô ; un article qui cite plusieurs candidats compte pour chacun. Voir la section 20 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 30 article(s) (26 par le titre, 4 par le chapô seul).
+
+| Date (2026) | Titre |
+|---|---|
+| 29/10 | Primaire proposée par Gabriel Attal : Retailleau, de Villepin, Glucksmann… ils déclinent l'invitation |
+| 23/10 | « Notre candidat sera au second tour » : le PS et Place publique lancent la campagne de Raphaël Glucksmann |
+| 15/10 | Glucksmann pour la première fois au coude-à-coude avec Mélenchon pour accéder au second tour |
+| 12/10 | Primaire de la gauche : « Place au rassemblement », affiche Willy Bourgeois |
+| 12/10 | Victoire de Raphaël Glucksmann à la primaire : le Parti socialiste peut-il survivre ? |
+| 12/10 | Raphaël Glucksmann enfariné : comment est assurée la sécurité des candidats ? |
+| 12/10 | La grand-mère de Raphaël Glucksmann était « une figure intellectuelle reconnue à Lyon » |
+| 11/10 | Raphaël Glucksmann, désigné candidat de la gauche sociale-démocrate, enfariné après sa victoire |
+| 11/10 | Raphaël Glucksmann vainqueur de la primaire : les socialistes de l’Ain appellent à élargir le rassemblement à gauche |
+| 11/10 | Primaire socialiste : « La victoire de Raphaël Glucksmann est nette et incontestable » |
+| 11/10 | Primaire socialiste : Glucksmann vise une victoire dès ce dimanche, plus de 116 000 votants à 14h |
+| 11/10 | Primaire sociale-démocrate : comment Raphaël Glucksmann a écrasé le match |
+| 05/10 | Primaire socialiste : les temps forts du dernier débat, plus de 140 000 inscrits au vote |
+| 03/10 | Quand Glucksmann accuse Royal de faire la « danse du ventre » et dit « pisser » sur Mélenchon et Le Pen |
+| 01/10 | Raphaël Glucksmann-Olivier Faure : le vrai duel de la primaire socialiste |
+| 25/09 | Jugé trop proche de Glucksmann, Yannick Jadot suspendu temporairement des Écologistes |
+| 23/09 | Primaire socialiste : premier débat télévisé ce mercredi, Philippe Brun définitivement écarté |
+| 20/09 | Royal n'épargne pas Glucksmann : « Vous ne mettez pas un stagiaire à la tête d'une entreprise » |
+| 15/09 | Primaire de la gauche : quatre candidats assurent avoir les parrainages pour y participer |
+| 09/09 | Primaire de la gauche : faut-il l'élargir ? Ce débat qui cache un front anti-Glucksmann |
+| 30/08 | « Jusqu'à 25% » : Raphaël Glucksmann veut augmenter les salaires des enseignants |
+| 24/08 | Raphaël Glucksmann candidat à la présidentielle : Léa Salamé se met en retrait du 20h de France 2 |
+| 23/08 | « On va gagner l'élection » : Raphaël Glucksmann est officiellement candidat |
+| 22/08 | Raphaël Glucksmann va officiellement se lancer dans la course à l'Élysée, ce dimanche |
+| 19/08 | Léa Salamé en passe de quitter le JT si son conjoint, Raphaël Glucksmann, se présente en 2027 |
+| 06/08 | Une enquête ouverte concernant les soupçons d'ingérence russe visant Raphaël Glucksmann |
+| 05/08 | Face aux ingérences étrangères, Raphaël Glucksmann veut sanctionner X et TikTok |
+| 04/08 | Vidéos truquées : Raphaël Glucksmann dénonce une opération russe de « déstabilisation » le visant |
+| 04/08 | Raphaël Glucksmann ciblé par la Russie : faut-il craindre les ingérences numériques ? |
+| 03/08 | Raphaël Glucksmann, Léa Salamé et Edwy Plenel et Salomé Saqué victimes de vidéos truquées |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Rapha%C3%ABl+Glucksmann, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

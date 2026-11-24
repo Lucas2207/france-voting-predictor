@@ -264,6 +264,18 @@ Total : 8 article(s) (8 par le titre, 0 par le chapô seul).
 | 03/09 | « On se renifle » : De Villepin et Ruffin se draguent en vue de la présidentielle |
 | 02/07 | Présidentielle 2027 : François Ruffin veut « séparer l’argent de l’État » |
 
+## Le Progrès (leprogres.fr)
+
+Source : la recherche du site (`/recherche?q=<nom>&page=<n>`), toutes les pages parcourues jusqu'aux articles antérieurs au 1er juillet 2026, relevé le 24 novembre 2026. Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 (date lue dans l'adresse) et que le nom du candidat figure dans son titre ou dans le début de son chapô ; un article qui cite plusieurs candidats compte pour chacun. Voir la section 20 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 3 article(s) (3 par le titre, 0 par le chapô seul).
+
+| Date (2026) | Titre |
+|---|---|
+| 28/10 | Prix Press club de l'humour politique 2026 : Lisnard, Ruffin, Philippe... découvrez la nouvelle sélection |
+| 29/09 | Debout ! le mouvement de François Ruffin s’implante dans le département |
+| 02/09 | « Il y a un diagnostic partagé » : en débat, Ruffin et Villepin révèlent leurs convergences |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Fran%C3%A7ois+Ruffin, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.
