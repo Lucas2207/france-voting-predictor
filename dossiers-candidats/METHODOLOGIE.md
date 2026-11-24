@@ -511,7 +511,7 @@ Pour garder une méthode commune avec les journaux, ARTE n'est pas intégré aux
 
 **Source :** la recherche du site, `https://www.laprovence.com/recherche?query=<nom>` (moteur Algolia affiché dans la page). Cookies : la bannière n'a pas été acceptée ; la saisie dans le champ a été faite par script, car la bannière masquait le champ.
 
-**Limite majeure :** le moteur n'affiche que **20 résultats par requête**, sans pagination (le défilement ne charge rien), ni date dans la liste. Le rubrique « Présidentielle 2027 » ne montre que les articles du jour. **Le décompte est donc un minimum, pas un total.**
+**Limite majeure :** le moteur n'affiche que **20 résultats par requête**, sans pagination (le défilement ne charge rien), ni date dans la liste. La rubrique « Présidentielle 2027 » ne montre que les articles du jour. **Le décompte est donc un minimum, pas un total.**
 
 **Relevé :**
 - deux requêtes par candidat, le nom (« Marine Le Pen »), puis le nom suivi de « présidentielle 2027 » (pour Villepin et Riner : « Dominique de Villepin » et « Teddy Riner ») ; les 30 requêtes ont donné 173 articles distincts, dont 43 de la période ;
@@ -519,7 +519,7 @@ Pour garder une méthode commune avec les journaux, ARTE n'est pas intégré aux
 - règle de décompte : le nom du candidat dans le **titre ou le chapô** (sous-titre de la liste) ; un article qui cite plusieurs candidats compte pour chacun ;
 - homonymes écartés : Jean-Marie Le Pen, Marion Maréchal-Le Pen, Marie-Caroline Le Pen, Michaël Zemmour, Jean-François Roussel, Robin Roussel, Jean-Christophe Ruffin, « Ruffine ».
 
-**Limites :** les articles les plus anciens renvoyés datent d'août 2026 : juillet est probablement mal couvert. Aucun article pour Raphaël Glucksmann (hors un titre cité), Éric Zemmour (hors chapô), Nathalie Arthaud ni Teddy Riner ne ressort de la période, ce qui ne prouve pas leur absence du journal.
+**Limites :** les articles les plus anciens renvoyés datent d'août 2026 : juillet est probablement mal couvert. Aucun article de la période ne ressort pour Nathalie Arthaud ni pour Teddy Riner, ce qui ne prouve pas leur absence du journal.
 
 ## 31. Ce qui n'est pas fait
 
