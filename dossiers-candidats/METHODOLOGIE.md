@@ -464,7 +464,7 @@ Pour garder une méthode commune avec les journaux, ARTE n'est pas intégré aux
 - le chapô tronqué fait manquer les candidats cités plus loin dans le texte ;
 - le journal publie des éditions locales : les doublons éventuels sont fusionnés par titre et par date ;
 - un arrêt anticipé de la pagination sur un tri imparfait peut omettre quelques articles.
-- une requête de pagination a échoué après trois tentatives : un candidat peut avoir une page de résultats de moins que prévu.
+- une requête de pagination avait échoué après trois tentatives lors du premier passage : le relevé de Raphaël Glucksmann (14 articles) a été refait avec davantage de tentatives (25 articles). Les autres candidats n'ont pas été revérifiés.
 
 ## 27. Ce qui n'est pas fait
 
