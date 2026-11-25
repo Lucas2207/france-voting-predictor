@@ -24,7 +24,7 @@
  * @typedef {{ period: string, fetched: string, total_tv: number | null, shares: Record<string, number> }} TvWeek
  * @typedef {{ id: string, name: string, platforms: Record<string, number>, total: number }} PartyPage
  * @typedef {{ video_id: string, title: string, channel: string, published: string, candidates: string[], views: number, url: string }} OwnVideo
- * @typedef {{ last_updated: string, own_videos: OwnVideo[], party_pages: PartyPage[], tv_weekly: TvWeek | null, today: string, candidates: Candidate[], parties: Party[], influencers: Influencer[], youtube: YouTube, projection: Projection[], history: HistoryEntry[], polls: Poll[], media_daily: MediaDay[], media_by_outlet: Record<string, Record<string, number>>, events: CampaignEvent[], followers: Followers, interviews: Interview[], interview_summary: InterviewSummary, media_monthly: { months: string[], candidates: Record<string, number[]> }, medias_candidats: { surveyed?: string[], rows: { candidate: string, date: string, emission: string, station: string, title: string, subject: 'oui' | 'partiellement' | 'non' }[] }, sources: Sources, parameters?: Record<string, number> }} LiveData
+ * @typedef {{ last_updated: string, own_videos: OwnVideo[], party_pages: PartyPage[], tv_weekly: TvWeek | null, today: string, candidates: Candidate[], parties: Party[], influencers: Influencer[], youtube: YouTube, projection: Projection[], history: HistoryEntry[], polls: Poll[], media_daily: MediaDay[], media_by_outlet: Record<string, Record<string, number>>, events: CampaignEvent[], followers: Followers, interviews: Interview[], interview_summary: InterviewSummary, media_monthly: { months: string[], candidates: Record<string, number[]> }, medias_candidats: { surveyed?: string[], articles_distincts?: number, rows: { candidate: string, date: string, station: string, subject: 'oui' | 'partiellement' | 'non', key: string }[] }, sources: Sources, parameters?: Record<string, number> }} LiveData
  */
 
 /** @type {LiveData} */
@@ -881,7 +881,7 @@ function renderRadioFrance() {
   const shown = rf.rows.filter(r => !radioFranceMonth || r.date.startsWith(radioFranceMonth));
   const count = (/** @type {string} */ k) => shown.filter(r => r.subject === k).length;
   $('radioFranceNote').textContent = shown.length
-    ? t('radiofr.note', { n: shown.length, yes: count('oui'), part: count('partiellement'), no: count('non') })
+    ? t('radiofr.note', { d: new Set(shown.map(r => `${r.station}|${r.date}|${r.key}`)).size, n: shown.length, yes: count('oui'), part: count('partiellement'), no: count('non') })
     : t('radiofr.none');
 
   // Matrice : une émission compte si le candidat est au moins un thème (sujet principal ou parmi d'autres)
@@ -893,8 +893,10 @@ function renderRadioFrance() {
   });
   const surveyed = rf.surveyed || [...new Set(rf.rows.map(r => r.candidate))];
   const cands = data.candidates.filter(c => surveyed.includes(c.id));
+  matrix.__total = {};
+  shown.forEach(r => { matrix.__total[r.candidate] = (matrix.__total[r.candidate] || 0) + 1; });
   renderMatrix('radioFranceMatrix',
-    Object.keys(matrix).map(st => ({ key: st, label: st })),
+    Object.keys(matrix).filter(st => shown.length).map(st => ({ key: st, label: st === '__total' ? t('radiofr.total') : st })),
     cands.map(c => ({ key: c.id, head: candidateHead(c) })),
     (st, c) => (matrix[st] && matrix[st][c]) || 0,
     t('radiofr.none'), renderRadioFrance);

@@ -10,6 +10,7 @@
    L'ajustement est une hypothèse de travail NON calibrée : il reste à zéro tant
    que l'historique médiatique est insuffisant.
 """
+import hashlib
 import math
 import re
 from datetime import date, timedelta
@@ -59,8 +60,13 @@ def _article_key(title):
     return re.sub(r"[^a-z0-9]", "", normalize(title or ""))[:40]
 
 
+def article_hash(title):
+    """Empreinte d'un titre : permet de repérer les doublons sans publier le titre."""
+    return hashlib.sha1(str(_article_key(title)).encode("utf-8")).hexdigest()[:12]
+
+
 def window_keys(days, dossier_rows, start, end):
-    """Par candidat : ensemble des (date, titre) cités sur [start, end], collecte automatique et dossiers réunis.
+    """Par candidat : ensemble des (date, empreinte du titre) cités sur [start, end], collecte automatique et dossiers réunis.
 
     Une même date et un même titre ne comptent qu'une fois pour un candidat, quelle que soit la source.
     """
@@ -72,10 +78,11 @@ def window_keys(days, dossier_rows, start, end):
             if canonical_outlet(a.get("outlet")) is None:
                 continue
             for cid in a.get("mentions") or []:
-                keys.setdefault(cid, set()).add((day, _article_key(a.get("title"))))
+                keys.setdefault(cid, set()).add((day, article_hash(a.get("title"))))
     for r in dossier_rows:
         if start <= _d(r["date"]) <= end:
-            keys.setdefault(r["candidate"], set()).add((r["date"], _article_key(r["title"])))
+            key = r.get("key") or article_hash(r.get("title"))
+            keys.setdefault(r["candidate"], set()).add((r["date"], key))
     return keys
 
 

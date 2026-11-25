@@ -11,7 +11,7 @@ import json
 import re
 from pathlib import Path
 
-from .model import canonical_outlet
+from .model import article_hash, canonical_outlet
 
 MONTHS = {"janv": 1, "févr": 2, "mars": 3, "avr": 4, "mai": 5, "juin": 6, "juil": 7, "août": 8,
           "sept": 9, "oct": 10, "nov": 11, "déc": 12}
@@ -19,6 +19,8 @@ YEAR = 2026
 STATIONS = {"FI": "France Inter", "FC": "France Culture", "fi": "franceinfo", "franceinfo": "franceinfo"}
 SUBJECTS = {"oui": "oui", "partiellement": "partiellement", "non": "non"}
 OUTPUT = Path("data/medias_candidats.json")
+# Listes détaillées (avec titres) : gardées sur la machine, jamais publiées (data/local/ est ignoré par git)
+DETAIL = Path("data/local/medias_candidats_detail.json")
 
 # candidat -> dossier
 DOSSIERS = {
@@ -124,8 +126,16 @@ def _files():
         yield candidate, Path("dossiers-candidats") / folder / "README.md"
 
 
+def public_counts(surveyed, rows):
+    """Ce qui est publié : candidat, date, média, classement et empreinte (pour compter les articles distincts)."""
+    public = [{"candidate": r["candidate"], "date": r["date"], "station": r["station"], "subject": r["subject"],
+               "key": article_hash(r["title"])} for r in rows]
+    distinct = {(r["station"], r["date"], r["key"]) for r in public}
+    return {"surveyed": surveyed, "articles_distincts": len(distinct), "rows": public}
+
+
 def build(root=Path(".")):
-    """Lit les dossiers, retire les doublons, écrit data/medias_candidats.json."""
+    """Lit les dossiers (locaux), retire les doublons, écrit les décomptes publics sans aucun titre."""
     rows, seen, surveyed = [], set(), []
     for candidate, rel in _files():
         path = root / rel
@@ -139,8 +149,12 @@ def build(root=Path(".")):
                 continue
             seen.add(key)
             rows.append(row)
+    if not rows:
+        raise SystemExit("Aucun dossier local trouvé : les décomptes publiés ne sont pas modifiés.")
+    DETAIL.parent.mkdir(parents=True, exist_ok=True)
+    DETAIL.write_text(json.dumps({"surveyed": surveyed, "rows": rows}, ensure_ascii=False, indent=1), encoding="utf-8")
     OUTPUT.parent.mkdir(parents=True, exist_ok=True)
-    OUTPUT.write_text(json.dumps({"surveyed": surveyed, "rows": rows}, ensure_ascii=False, indent=1), encoding="utf-8")
+    OUTPUT.write_text(json.dumps(public_counts(surveyed, rows), ensure_ascii=False, indent=1), encoding="utf-8")
     return rows
 
 

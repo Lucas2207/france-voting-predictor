@@ -4,3 +4,6 @@ __pycache__/
 
 # Données locales, non publiées (liste des entretiens repérés)
 data/local/
+
+# Dossiers détaillés (titres des articles) : gardés en local, seuls les décomptes sont publiés
+dossiers-candidats/*/

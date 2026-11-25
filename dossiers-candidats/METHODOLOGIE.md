@@ -2,6 +2,8 @@
 
 Relevé le 1er novembre 2026. Période visée : du 1er juillet 2026 à aujourd'hui.
 
+**Publication (26 novembre 2026) :** seuls les décomptes sont publiés (`data/medias_candidats.json` : candidat, date, média, classement et empreinte illisible du titre). Les dossiers détaillés avec les titres, cités dans ce document, sont gardés en local. L'historique Git antérieur n'a pas été réécrit.
+
 ## 1. Radio France (radiofrance.fr)
 
 **Source :** la page personnelle de chaque personnalité (`/personnes/<nom>` ou `/personnes/<nom>-politique` pour Fabien Roussel). Elle liste les émissions et articles rattachés à la personne, sur plusieurs pages (`?p=2`, `?p=3`…).
