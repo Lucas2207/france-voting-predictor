@@ -562,14 +562,34 @@ Pour garder une méthode commune avec les journaux, ARTE n'est pas intégré aux
 - la recherche est approximative et peut ne pas tout renvoyer : le décompte est un minimum ;
 - le décompte par titre sous-estime les articles qui ne citent le candidat que dans le texte.
 
-## 34. Ce qui n'est pas fait
+## 34. Accès autorisé par les sites (robots.txt)
+
+**Constat du 26 novembre 2026.** Les relevés ont été faits avec un agent Claude (navigateur et scripts) **sans vérifier au préalable le fichier `robots.txt` des sites**. Il a été lu après coup. Les données déjà collectées sont conservées (décision de l'auteur du projet) ; ce paragraphe dit, média par média, ce que le site demande. L'analyse est simplifiée et porte sur les adresses notées dans ce document, au 26 novembre 2026.
+
+**1. Le site interdit nommément `Claude-User` (agent agissant pour un utilisateur) :**
+- relevés : BFMTV, TF1, franceinfo, Le Monde, Ouest-France, RMC, Les Échos, L'Humanité, Le Télégramme, Le Figaro (`www.lefigaro.fr`) ;
+- non relevés ou interrompus : France 3 Régions, Nice-Matin ;
+- ARTE : interdit à `Claude-User` la recherche (non intégré).
+
+**2. Le site interdit d'autres robots d'Anthropic (`anthropic-ai`, `ClaudeBot`) et la page de recherche à tous les robots :** Radio France, Libération, La Dépêche du Midi, Midi Libre, Le Parisien, Le Progrès, Le Dauphiné Libéré, Dernières Nouvelles d'Alsace, L'Est Républicain, Le Républicain Lorrain, L'Alsace, Le Journal de Saône-et-Loire ; Radio Classique (non relevé).
+
+**3. Le site ne nomme pas Claude mais interdit la page de recherche à tous les robots :** RTL, La Croix, La Nouvelle République (et le sous-domaine `recherche.lefigaro.fr`).
+
+**4. Aucune restriction trouvée :** CNEWS, Europe 1, La Provence.
+
+**5. `robots.txt` illisible par script (réponse 403), situation inconnue :** Sud Ouest, Canal+, L'Équipe, La Voix du Nord, La Montagne, L'Union - L'Ardennais.
+
+**Règle pour la suite :** vérifier le `robots.txt` avant tout relevé ; ne pas relever automatiquement les médias des groupes 1 à 3. Voies possibles : flux RSS prévus par les médias (conditions à vérifier), service de veille presse sous licence, ou recherche faite à la main par une personne.
+
+## 35. Ce qui n'est pas fait
 
 - pas d'ouverture des articles un par un : le classement se base sur le titre et le chapô ou l'adresse ;
 - pas de couverture de BFMTV pour juillet à septembre 2026 ;
-- Dominique de Villepin et Teddy Riner (candidats ajoutés le 23 novembre 2026) ne sont relevés que pour les médias traités depuis (L'Équipe pour l'instant) ; Radio France, BFMTV, TF1, franceinfo, Le Monde, CNEWS, Libération, Ouest-France, Europe 1, La Dépêche, RMC, Sud Ouest, ARTE et Canal+ restent à faire pour eux ;
+- Dominique de Villepin et Teddy Riner (candidats ajoutés le 23 novembre 2026) ne sont relevés que pour les médias traités à partir de cette date (et BFMTV, Canal+). Restent sans relevé pour eux : Radio France, TF1, franceinfo, Le Monde, CNEWS, Libération, Ouest-France, Europe 1, La Dépêche, RMC, Sud Ouest, ARTE, Le Parisien. Leurs totaux ne sont donc pas comparables à ceux des autres candidats ;
+- France 3 Régions et Radio Classique ne sont pas relevés, et le relevé de Nice-Matin, interrompu, n'a rien produit (voir la section 34) ;
 - les dossiers Radio France ne sont pas tous à jour pour les personnalités sans page propre (Zemmour, Lisnard, Roussel) : ils sont couverts par les pages des autres personnalités citées dans les chapôs.
 
-## 35. Fichiers
+## 36. Fichiers
 
 - Dossiers par candidat : `dossiers-candidats/<nom>/README.md`
 - Tableaux Radio France : section « Radio France » de chaque dossier (les anciens fichiers `radio-france-<nom>-emissions.md` à la racine ont été supprimés une fois repris dans les dossiers)
