@@ -587,7 +587,18 @@ Pour garder une méthode commune avec les journaux, ARTE n'est pas intégré aux
 
 **Règle pour la suite :** vérifier le `robots.txt` avant tout relevé ; ne pas relever automatiquement les médias des groupes 1 à 3. Voies possibles : flux RSS prévus par les médias (conditions à vérifier), service de veille presse sous licence, ou recherche faite à la main par une personne.
 
-## 35. Ce qui n'est pas fait
+## 35. Radios musicales (26 novembre 2026)
+
+**RFM et Europe 2 :** recherche du site (`/search/<nom>`), les 15 candidats (nom de famille), titres des résultats. **Aucun article daté du 1er juillet au 1er novembre 2026** : les seuls titres contenant un nom sont antérieurs (2022 à 2024), et pour « Attal » sur RFM il s'agit d'Yvan Attal. La recherche de ces sites renvoie surtout des contenus musicaux et peut ne pas tout retrouver.
+
+**Non relevés à ce jour :**
+- Skyrock : aucune adresse de recherche trouvée (erreur 404) ;
+- Radio Nova : la recherche interrogée par script ne renvoie aucun résultat, même pour un mot courant : elle n'est pas exploitable ainsi ;
+- Nostalgie, Rire et Chansons : la recherche ne fonctionne que dans un navigateur ;
+- NRJ, Chérie FM : accès par script refusé (403) ;
+- RTL2, Fun Radio : le `robots.txt` interdit la page de recherche à tous les robots.
+
+## 36. Ce qui n'est pas fait
 
 - pas d'ouverture des articles un par un : le classement se base sur le titre et le chapô ou l'adresse ;
 - pas de couverture de BFMTV pour juillet à septembre 2026 ;
@@ -595,7 +606,7 @@ Pour garder une méthode commune avec les journaux, ARTE n'est pas intégré aux
 - France 3 Régions et Radio Classique ne sont pas relevés, et le relevé de Nice-Matin, interrompu, n'a rien produit (voir la section 34) ;
 - les dossiers Radio France ne sont pas tous à jour pour les personnalités sans page propre (Zemmour, Lisnard, Roussel) : ils sont couverts par les pages des autres personnalités citées dans les chapôs.
 
-## 36. Fichiers
+## 37. Fichiers
 
 - Dossiers par candidat : `dossiers-candidats/<nom>/README.md`
 - Tableaux Radio France : section « Radio France » de chaque dossier (les anciens fichiers `radio-france-<nom>-emissions.md` à la racine ont été supprimés une fois repris dans les dossiers)
