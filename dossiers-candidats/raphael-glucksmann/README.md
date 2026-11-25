@@ -1377,6 +1377,36 @@ Total : 2 article(s) (1 par le titre, 1 par le chapô seul) (relevé partiel).
 | 19/10 | Présidentielle 2027 : Marine Le Pen nettement en tête au 1er tour devant Édouard Philippe, d'après un sondage |
 | 16/09 | Primaire de la gauche : Glucksmann, Royal, Faure... la liste définitive pour la bataille sociale-démocrate |
 
+## La Montagne (lamontagne.fr)
+
+Source : la recherche du site (menu, champ « Recherche »), tri « Les plus récents », résultats chargés jusqu'avant juin 2026, relevé le 25 novembre 2026. Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 (date de publication lue sur la page de l'article) et que le nom du candidat figure dans son **titre** (la liste n'affiche pas de chapô) ; un article qui cite plusieurs candidats compte pour chacun. Voir la section 31 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 21 article(s) (21 par le titre).
+
+| Date (2026) | Titre |
+|---|---|
+| 29/10 | Primaire des démocrates : de Villepin, Retailleau et Glucksmann opposés, Lisnard et Attal favorables… on fait le point |
+| 26/10 | “Pourquoi ils me ciblent moi ?” : absent des cortèges lycéens, Raphaël Glucksmann pointe “l’hostilité” de La France insoumise |
+| 19/10 | Après la désignation de Raphaël Glucksmann, quel avenir pour le PS ? « Il ne compte pas sur le parti, mais ses soutiens veulent règler leurs comptes » |
+| 14/10 | Élection présidentielle : Glucksmann talonne Mélenchon et Le Pen écrase tout au second tour dans les derniers sondages |
+| 12/10 | Raphaël Glucksmann désigné par les sociaux-démocrates : pourquoi les primaires ne sont pas forcément des machines à perdre |
+| 12/10 | Glucksmann écrase ses rivaux, Mélenchon à Clermont-Ferrand, l’ASM cherche l’étincelle... L’actu de ce lundi |
+| 11/10 | Primaire à gauche : Glucksmann écrase ses rivaux avec 66 %, Royal et Faure loin derrière |
+| 11/10 | La soirée de victoire de Raphaël Glucksmann perturbée par un jet de farine devant les caméras |
+| 11/10 | Après une cyberattaque inédite, Glucksmann va-t-il écraser ses rivaux à la primaire socialiste ce dimanche ? |
+| 08/10 | Glucksmann en favori et 140.000 électeurs inscrits : la gauche socialiste vote pour son candidat à la présidentielle 2027 |
+| 03/10 | “Danse du ventre”, “méga à la ramasse” : des propos privés de Raphaël Glucksmann font bondir Jean-Luc Mélenchon et Ségolène Royal |
+| 25/09 | Présidentielle 2027 : Yannick Jadot suspendu temporairement des Écologistes, pour son soutien à Glucksmann |
+| 23/09 | Glucksmann traité de "stagiaire" par Royal : le favori de la primaire socialiste sous pression avant le premier débat |
+| 20/09 | “Vous ne mettez pas un stagiaire à la tête d’une entreprise” : quand Ségolène Royal dézingue Raphaël Glucksmann avant la primaire |
+| 16/09 | Primaire socialiste en vue de la Présidentielle : Royal, Glucksmann, Guedj... Qui sont les cinq candidats officiels ? |
+| 09/09 | Glucksmann, Faure, Hollande... cinq questions pour (essayer de) tout comprendre à la primaire de la gauche avant la présidentielle |
+| 29/08 | Présidentielle : derrière Marine Le Pen, Jean-Luc Mélenchon recule et Raphaël Glucksmann progresse |
+| 24/08 | Une décision “difficile” : Léa Salamé annonce son retrait du 20H après la candidature de son compagnon Raphaël Glucksmann |
+| 23/08 | Raphaël Glucksmann pourrait annoncer ce dimanche soir sa candidature à la présidentielle sur TF1 |
+| 23/08 | Présidentielle 2027 : Raphaël Glucksmann déclare officiellement sa candidature “pour relever la France” |
+| 18/08 | Édouard Philippe, Gabriel Attal et Raphaël Glucksmann dans le viseur de l’ingérence russe : la justice parisienne s’en saisit |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Rapha%C3%ABl+Glucksmann, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

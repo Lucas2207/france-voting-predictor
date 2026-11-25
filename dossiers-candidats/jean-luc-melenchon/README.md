@@ -1476,6 +1476,50 @@ Total : 4 article(s) (2 par le titre, 2 par le chapô seul) (relevé partiel).
 | 08/09 | Présidentielle 2027 : "Le duel Mélenchon-Le Pen n’est pas l’unique scénario" |
 | 07/09 | Présidentielle 2027 : pour Manuel Bompard, les électeurs communistes voteront Mélenchon |
 
+## La Montagne (lamontagne.fr)
+
+Source : la recherche du site (menu, champ « Recherche »), tri « Les plus récents », résultats chargés jusqu'avant juin 2026, relevé le 25 novembre 2026. Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 (date de publication lue sur la page de l'article) et que le nom du candidat figure dans son **titre** (la liste n'affiche pas de chapô) ; un article qui cite plusieurs candidats compte pour chacun. Voir la section 31 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 35 article(s) (35 par le titre).
+
+| Date (2026) | Titre |
+|---|---|
+| 31/10 | Menaces de mort contre l'ancienne députée Catherine Couturier et Jean-Luc Mélenchon : le Collectif Antifa alerte le préfet de la Creuse |
+| 29/10 | Mélenchon en Creuse : la présidente du Département écrit au gouvernement pour éviter un "point de fixation d'affrontements" |
+| 23/10 | Mélenchon en Creuse : la présidente du Département veut demander l'interdiction des manifestations prévues à Gentioux-Pigerolles |
+| 19/10 | Que vient faire Jean-Luc Mélenchon en Creuse, le 11 novembre prochain ? |
+| 19/10 | Emeutes en France : "Marine Le Pen grande gagnante", "Mélenchon assimilé au chaos"... le décryptage du politologue Benjamin Morel |
+| 18/10 | "Mélenchon est mon seul adversaire" : décroché dans les sondages, Bruno Retailleau chasse sur les terres du RN |
+| 15/10 | L'éditorial de Dominique Diogon : "La mélodie pré-révolutionnaire de Mélenchon trouve un écho profond dans une jeunesse déboussolée" |
+| 14/10 | Élection présidentielle : Glucksmann talonne Mélenchon et Le Pen écrase tout au second tour dans les derniers sondages |
+| 14/10 | "Il arrive à parler de notre avenir" : comment Jean-Luc Mélenchon est devenu le candidat préféré d'une jeunesse révoltée |
+| 12/10 | Premier meeting de la présidentielle à Clermont-Ferrand pour Jean-Luc Mélenchon (LFI): "Nous sommes le camp des oubliés" |
+| 12/10 | Glucksmann écrase ses rivaux, Mélenchon à Clermont-Ferrand, l’ASM cherche l’étincelle... L’actu de ce lundi |
+| 11/10 | Âge, parcours, engagement politique... Qui sont ceux venus assister au meeting de Mélenchon à Clermont-Ferrand ? |
+| 11/10 | Mélenchon en meeting au zénith d'Auvergne, mais absent du Sommet de l'élevage... la gauche a-t-elle abandonné les agriculteurs ? |
+| 11/10 | "Abolir" Parcoursup, vote à 16 ans, souveraineté face à l'IA... Ce qu'il faut retenir du meeting de Mélenchon à Clermont-Ferrand |
+| 10/10 | Jean-Luc Mélenchon annonce un meeting "fondateur" ce dimanche au Zénith d'Auvergne : à quoi s'attendre ? |
+| 09/10 | Entretien exclusif avec Mélenchon, mouvement lycéen, les choix de l'ASM ne font pas l’unanimité... L'actu de ce vendredi |
+| 09/10 | Accusé de "bordéliser" le pays, Jean-Luc Mélenchon contre-attaque dans un entretien exclusif : "Le gouvernement n’a rien vu venir" |
+| 04/10 | Le nouveau sénateur LFI Gabriel Amard a épousé la fille de Jean-Luc Mélenchon dans une commune du Puy-de-Dôme |
+| 03/10 | “Danse du ventre”, “méga à la ramasse” : des propos privés de Raphaël Glucksmann font bondir Jean-Luc Mélenchon et Ségolène Royal |
+| 30/09 | Mobilisation dans les lycées : Jean-Luc Mélenchon appelle à “la non-violence des méthodes de lutte” |
+| 27/09 | “Heureux augure pour 2027” : LFI et son candidat pour la présidentielle Jean-Luc Mélenchon annoncent entrer au Sénat |
+| 02/09 | “On va se faire peur” : Jean-Luc Mélenchon encore (très) loin des 500 parrainages pour la présidentielle 2027 |
+| 29/08 | Présidentielle : derrière Marine Le Pen, Jean-Luc Mélenchon recule et Raphaël Glucksmann progresse |
+| 27/08 | Le Pen, Mélenchon, Philippe, Attal… À huit mois du premier tour, un premier débat présidentiel commence sur les entreprises |
+| 27/08 | "Maintenant, ça urge" : à Blois, le PS en quête d'un candidat pour éviter un duel Mélenchon-Le Pen |
+| 25/08 | Présidentielle 2027 : Mélenchon (LFI) tiendra le premier grand meeting de sa campagne près de Clermont-Ferrand en octobre |
+| 25/08 | Mélenchon a choisi Clermont-Ferrand pour lancer sa campagne présidentielle et ce n'est pas un hasard |
+| 23/08 | Budget 2027 : Mélenchon promet de censurer le gouvernement Lecornu, qu’il accuse de “plonger” l‘économie française |
+| 22/08 | Présidentielle 2027 : Mélenchon se dit “tranquille” face à la multiplication des candidatures à gauche et tacle Philippe |
+| 19/08 | "L’extrême droite et l’extrême gauche sont deux poisons mortels" : Jean-Noël Barrot "récuse" un duel Le Pen - Mélenchon en 2027 |
+| 18/08 | Mélenchon “intègre le plus la question du climat” : Monique Barbut, invitée aux universités d’été de LFI, décline la proposition |
+| 15/08 | “Emploi fictif”, “occupation d’un logement social” : Mélenchon dénonce un racisme systémique contre Bally Bagayoko et Aly Diouara |
+| 20/07 | Après le suicide de Joris, 21 ans, harcelé pour ses origines algériennes, Jean-Luc Mélenchon et Olivier Faure réagissent |
+| 14/07 | “Attendez que je sois élu” : Mélenchon promet des Canadair français face aux incendies qui ravagent la France |
+| 08/07 | Condamnation de Marine Le Pen : “Je ne me suis pas payé un majordome”, Jean-Luc Mélenchon furieux après ses accusations |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Jean-Luc+M%C3%A9lenchon, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

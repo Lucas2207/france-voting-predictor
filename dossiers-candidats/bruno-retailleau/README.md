@@ -880,6 +880,19 @@ Total : 1 article(s) (0 par le titre, 1 par le chapô seul) (relevé partiel).
 |---|---|
 | 29/10 | Présidentielle 2027 : Dominique de Villepin refuse de participer à la primaire proposée par Gabriel Attal |
 
+## La Montagne (lamontagne.fr)
+
+Source : la recherche du site (menu, champ « Recherche »), tri « Les plus récents », résultats chargés jusqu'avant juin 2026, relevé le 25 novembre 2026. Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 (date de publication lue sur la page de l'article) et que le nom du candidat figure dans son **titre** (la liste n'affiche pas de chapô) ; un article qui cite plusieurs candidats compte pour chacun. Voir la section 31 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 4 article(s) (4 par le titre).
+
+| Date (2026) | Titre |
+|---|---|
+| 29/10 | Primaire des démocrates : de Villepin, Retailleau et Glucksmann opposés, Lisnard et Attal favorables… on fait le point |
+| 27/10 | Second tour le 2 mai, lendemain des manifestations : Retailleau et le RN accusent Macron de vouloir “bordéliser” la présidentielle |
+| 18/10 | "Mélenchon est mon seul adversaire" : décroché dans les sondages, Bruno Retailleau chasse sur les terres du RN |
+| 28/08 | Présidentielle 2027 : avec seulement 10 % dans les sondages, Bruno Retailleau quand même favorable pour une primaire à droite |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Bruno+Retailleau, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

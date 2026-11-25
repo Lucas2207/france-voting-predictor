@@ -249,3 +249,13 @@ Total : 0 article(s) (0 par le titre, 0 par le chapô seul) (relevé partiel).
 
 | Date (2026) | Titre |
 |---|---|
+
+## La Montagne (lamontagne.fr)
+
+Source : la recherche du site (menu, champ « Recherche »), tri « Les plus récents », résultats chargés jusqu'avant juin 2026, relevé le 25 novembre 2026. Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 (date de publication lue sur la page de l'article) et que le nom du candidat figure dans son **titre** (la liste n'affiche pas de chapô) ; un article qui cite plusieurs candidats compte pour chacun. Voir la section 31 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 1 article(s) (1 par le titre).
+
+| Date (2026) | Titre |
+|---|---|
+| 17/09 | “La honte”, “petite racaille” : le RN se déchaîne contre Kylian Mbappé et Teddy Riner après leurs prises de position |

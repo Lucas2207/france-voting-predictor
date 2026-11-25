@@ -486,6 +486,19 @@ Total : 3 article(s) (3 par le titre, 0 par le chapô seul) (relevé partiel).
 | 18/09 | Attal, Philippe, Roussel, Le Pen... qui propose quoi pour faire vite baisser le prix des carburants ? |
 | 06/09 | Présidentielle 2027 : Fabien Roussel, secrétaire national du Parti communiste, officialise sa candidature |
 
+## La Montagne (lamontagne.fr)
+
+Source : la recherche du site (menu, champ « Recherche »), tri « Les plus récents », résultats chargés jusqu'avant juin 2026, relevé le 25 novembre 2026. Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 (date de publication lue sur la page de l'article) et que le nom du candidat figure dans son **titre** (la liste n'affiche pas de chapô) ; un article qui cite plusieurs candidats compte pour chacun. Voir la section 31 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 4 article(s) (4 par le titre).
+
+| Date (2026) | Titre |
+|---|---|
+| 08/10 | Roussel, Polony, Lisnard... le défilé des candidats à l'élection présidentielle se poursuit dans les allées du Sommet de l'élevage à Cournon |
+| 04/10 | Le Pen, Roussel, Attal, Philippe, Bertrand... un défilé politique attendu au Sommet de l'élevage à Cournon et Clermont-Ferrand |
+| 06/09 | “Un choix largement réfléchi” : le communiste Fabien Roussel officialise sa candidature à la présidentielle 2027 |
+| 05/07 | Le suspense était faible : Fabien Roussel réélu à la tête du Parti communiste, un pas de plus vers la présidentielle |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Fabien+Roussel, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

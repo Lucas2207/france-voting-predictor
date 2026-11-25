@@ -2292,6 +2292,64 @@ Total : 7 article(s) (6 par le titre, 1 par le chapô seul) (relevé partiel).
 | 30/08 | Présidentielle 2027 : "Oui bien sûr", Dominique de Villepin "veut être candidat" au scrutin |
 | 09/08 | Marine Le Pen, un clan au-dessus des autres au RN |
 
+## La Montagne (lamontagne.fr)
+
+Source : la recherche du site (menu, champ « Recherche »), tri « Les plus récents », résultats chargés jusqu'avant juin 2026, relevé le 25 novembre 2026. Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 (date de publication lue sur la page de l'article) et que le nom du candidat figure dans son **titre** (la liste n'affiche pas de chapô) ; un article qui cite plusieurs candidats compte pour chacun. Voir la section 31 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 49 article(s) (49 par le titre).
+
+| Date (2026) | Titre |
+|---|---|
+| 27/10 | Soutien à Marine Le Pen, obsession de l’immigration… Des messages prouvent l’adhésion de l’assassin de Trappes aux thèses du RN |
+| 25/10 | « Vous êtes un danger pour la France » : des militants anti-RN évacués de la salle lors du meeting de Marine Le Pen à Orléans |
+| 25/10 | Près de 8.500 partisans à Orléans : Marine Le Pen lance sa campagne pour la "renaissance" de la France |
+| 23/10 | Au congrès du RN à Orléans, Jordan Bardella, un président plébiscité mais en marge du clan Le Pen |
+| 21/10 | Congrès du RN à Orléans : Marine Le Pen n’a “pas d’inquiétude” sur la sécurité |
+| 19/10 | Emeutes en France : "Marine Le Pen grande gagnante", "Mélenchon assimilé au chaos"... le décryptage du politologue Benjamin Morel |
+| 14/10 | Élection présidentielle : Glucksmann talonne Mélenchon et Le Pen écrase tout au second tour dans les derniers sondages |
+| 08/10 | Marine Le Pen jugée la plus “présidentiable” devant Édouard Philippe, selon un dernier sondage |
+| 07/10 | Wauquiez, Le Pen, Ruffin, Zemmour... Le grand défilé des politiques se lance au Sommet de l'élevage à Cournon |
+| 07/10 | Au Sommet de l’élevage, Marine Le Pen récolte les fruits de la colère agricole |
+| 04/10 | Le Pen, Roussel, Attal, Philippe, Bertrand... un défilé politique attendu au Sommet de l'élevage à Cournon et Clermont-Ferrand |
+| 03/10 | “J’ai totalement confiance” : Marine Le Pen loin de lâcher Jordan Bardella, accusé d’écrits antisémites |
+| 29/09 | Jordan Bardella "fasciné" par Alain Soral ? L'ombre du polémiste antisémite empoisonne le RN et menace Marine Le Pen |
+| 28/09 | Une “dinguerie” : face aux messages antisémites attribués à Jordan Bardella, Marine Le Pen balaie les révélations de Mediapart |
+| 21/09 | Orbán, Meloni, Wilders : ce chercheur du CNRS explique à qui Marine Le Pen ressemble vraiment |
+| 14/09 | HLM réservés aux Français : la présidente des bailleurs sociaux voit en la mesure de Marine Le Pen une “lubie xénophobe” |
+| 13/09 | Marine Le Pen promet la “priorité” aux Français pour le logement social et l’abrogation de la loi SRU |
+| 05/09 | Des tensions en interne entre Marine Le Pen et Jordan Bardella ? “Tout va très très bien”, assure le président du RN |
+| 29/08 | Présidentielle : derrière Marine Le Pen, Jean-Luc Mélenchon recule et Raphaël Glucksmann progresse |
+| 27/08 | Le Pen, Mélenchon, Philippe, Attal… À huit mois du premier tour, un premier débat présidentiel commence sur les entreprises |
+| 27/08 | "Maintenant, ça urge" : à Blois, le PS en quête d'un candidat pour éviter un duel Mélenchon-Le Pen |
+| 25/08 | Le RN présente une liste “Le Pen-de Gaulle” aux sénatoriales, un paradoxe historique assumé |
+| 19/08 | "L’extrême droite et l’extrême gauche sont deux poisons mortels" : Jean-Noël Barrot "récuse" un duel Le Pen - Mélenchon en 2027 |
+| 21/07 | Marine Le Pen et ses onze coprévenus se pourvoient en cassation, la menace du bracelet électronique s'éloigne avant 2027 |
+| 21/07 | Le RN victime d’un piratage informatique : des chats vêtus de drapeaux algériens et marocains remplacent Marine Le Pen |
+| 15/07 | Présidentielle 2027 : le parquet renonce à se pourvoir en cassation, Marine Le Pen peut rester candidate |
+| 12/07 | Marine Le Pen, Gabriel Attal, Edouard Philippe... TikTok peut-il faire gagner (ou perdre) la présidentielle ? |
+| 12/07 | La chronique politique de Jean-Michel Aphatie : "Marine Le Pen est indigne" |
+| 08/07 | Marine Le Pen peut-elle éviter le bracelet électronique ? Le casse-tête du pourvoi en cassation |
+| 08/07 | Marine Le Pen candidate : "La morale n'est plus un sujet" |
+| 08/07 | Les Le Pen à la présidentielle : une saga familiale qui dure depuis plus de 50 ans |
+| 08/07 | Le Pen candidate RN à la présidentielle : Bardella “se réjouit que Marine puisse porter nos couleurs” |
+| 08/07 | Des annulations en chaîne de feux d'artifice, des moissons précoces, le pari présidentiel de Marine Le Pen... L'actu de ce mercredi |
+| 08/07 | Condamnation de Marine Le Pen : “Je ne me suis pas payé un majordome”, Jean-Luc Mélenchon furieux après ses accusations |
+| 08/07 | Condamnation de Marine Le Pen : la Cour de cassation “pourrait” se prononcer “au plus tard début avril 2027” |
+| 08/07 | Avec cette peine prononcée contre Marine Le Pen, « l’institution judiciaire transfère la décision politique aux citoyens » |
+| 07/07 | “Ticket gagnant” avec Bardella, pourvoi en cassation... ce qu’il faut retenir de la candidature à la présidentielle de Marine Le Pen |
+| 07/07 | « Quoi qu'il arrive, je ne serai pas morte » : Comment Marine Le Pen a changé sa défense au procès en appel des assistants parlementaires du FN |
+| 07/07 | Marine Le Pen condamnée à un an ferme sous bracelet électronique : concrètement, peut-elle se présenter à la présidentielle ? |
+| 07/07 | Marine Le Pen bloquée chez elle ? Quand le bracelet sera-t-il posé ? On fait le point sur les questions qui se posent |
+| 07/07 | Elle n'est plus inéligible : Marine Le Pen va-t-elle décider d'être candidate à la présidentielle en 2027 ? |
+| 07/07 | Creuse : dans le petit village de Viersat, terre de vote RN, les habitants oscillent entre Marine Le Pen et Jordan Bardella |
+| 07/07 | Condamnée, Marine Le Pen annonce sa candidature à l’élection présidentielle, les réactions politiques sont sévères |
+| 07/07 | Condamnée mais candidate : du palais de justice au 20 heures, le pari présidentiel de Marine Le Pen |
+| 07/07 | 61 départements en vigilance orange canicule, Marine Le Pen fixée sur son avenir présidentiel... L'actu marquante de ce mardi |
+| 06/07 | “Nous avons anticipé les différents scénarios” : Jordan Bardella affiche sa sérénité avant le jugement de Marine Le Pen |
+| 06/07 | Bracelet électronique, inéligibilité, relaxe : Marine Le Pen fixée mardi sur son avenir présidentiel |
+| 05/07 | "Si c’est pas Marine Le Pen, c’est Jordan Bardella de toute façon" : le RN fait bloc avant la décision de la cour d'appel de Paris |
+| 04/07 | Inéligibilité, jet-set, retraites : ce qui sépare vraiment Marine Le Pen et Jordan Bardella pour 2027 |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Marine+Le+Pen, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

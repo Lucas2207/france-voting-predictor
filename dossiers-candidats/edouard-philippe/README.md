@@ -1297,6 +1297,27 @@ Total : 6 article(s) (2 par le titre, 4 par le chapô seul) (relevé partiel).
 | 30/08 | Présidentielle 2027 : "Oui bien sûr", Dominique de Villepin "veut être candidat" au scrutin |
 | 06/08 | En plein été, Gabriel Attal omniprésent sur le terrain et à portée des critiques |
 
+## La Montagne (lamontagne.fr)
+
+Source : la recherche du site (menu, champ « Recherche »), tri « Les plus récents », résultats chargés jusqu'avant juin 2026, relevé le 25 novembre 2026. Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 (date de publication lue sur la page de l'article) et que le nom du candidat figure dans son **titre** (la liste n'affiche pas de chapô) ; un article qui cite plusieurs candidats compte pour chacun. Voir la section 31 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 12 article(s) (12 par le titre).
+
+| Date (2026) | Titre |
+|---|---|
+| 30/10 | Édouard Philippe placé sous le statut de témoin assisté : ce que cela implique pour le candidat à la présidentielle |
+| 09/10 | Édouard Philippe à Chamalières: "Les exemples présidentiels sont toujours à méditer" |
+| 09/10 | "On est tous paumés" : au Sommet de l'élevage, Édouard Philippe face à des agriculteurs qui ne savent plus pour qui voter |
+| 08/10 | Marine Le Pen jugée la plus “présidentiable” devant Édouard Philippe, selon un dernier sondage |
+| 13/09 | "Il n'y a que les imbéciles qui ne changent pas d’avis" : Édouard Philippe coincé par Gabriel Attal dans une primaire sauvage |
+| 08/09 | Présidentielle 2027 : Édouard Philippe veut réunir dans un “comité” tous les partis “de la droite et du centre” à la Toussaint |
+| 30/08 | Une “confédération de partis” : Edouard Philippe veut créer une nouvelle formation politique en vue de la présidentielle |
+| 24/08 | Présidentielle 2027 : + 20 % sur le salaire des profs, amende pour les parents... les propositions d’Édouard Philippe pour l’école |
+| 20/08 | “Absurde, hypocrite et dangereux” : Édouard Philippe promet de fermer totalement l’immigration à Mayotte s’il accède à l‘Élysée |
+| 18/08 | Édouard Philippe, Gabriel Attal et Raphaël Glucksmann dans le viseur de l’ingérence russe : la justice parisienne s’en saisit |
+| 17/08 | “Je ne veux pas rajouter de la division” : Darmanin renonce à la présidentielle et soutient Édouard Philippe |
+| 12/07 | Marine Le Pen, Gabriel Attal, Edouard Philippe... TikTok peut-il faire gagner (ou perdre) la présidentielle ? |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=%C3%89douard+Philippe, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

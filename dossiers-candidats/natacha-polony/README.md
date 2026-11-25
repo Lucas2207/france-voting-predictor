@@ -364,6 +364,19 @@ Total : 2 article(s) (2 par le titre, 0 par le chapô seul) (relevé partiel).
 | 17/10 | Natacha Polony à Avignon : "Il faut entendre les gens qui souffrent" |
 | 14/10 | Présidentielle 2027 : l’essayiste Natacha Polony annonce sa candidature |
 
+## La Montagne (lamontagne.fr)
+
+Source : la recherche du site (menu, champ « Recherche »), tri « Les plus récents », résultats chargés jusqu'avant juin 2026, relevé le 25 novembre 2026. Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 (date de publication lue sur la page de l'article) et que le nom du candidat figure dans son **titre** (la liste n'affiche pas de chapô) ; un article qui cite plusieurs candidats compte pour chacun. Voir la section 31 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 4 article(s) (4 par le titre).
+
+| Date (2026) | Titre |
+|---|---|
+| 14/10 | Natacha Polony entre dans la course à l‘Élysée : l’ex-directrice de Marianne veut “rassembler les orphelins de la politique” |
+| 08/10 | Roussel, Polony, Lisnard... le défilé des candidats à l'élection présidentielle se poursuit dans les allées du Sommet de l'élevage à Cournon |
+| 08/10 | Natacha Polony au Sommet de l'élevage, à Cournon-d'Auvergne : "Je crois qu'il est temps de passer à l'action" |
+| 31/08 | La journaliste Natacha Polony se lance en politique et “n’exclut rien” pour la présidentielle de 2027 |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Natacha+Polony, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

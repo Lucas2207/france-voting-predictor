@@ -431,6 +431,20 @@ Total : 2 article(s) (0 par le titre, 2 par le chapô seul) (relevé partiel).
 | 01/11 | ÉDITO. Présidentielle 2027 : la passe Lisnard |
 | 16/10 | Le parti Reconquête ! à la conquête du Vaucluse |
 
+## La Montagne (lamontagne.fr)
+
+Source : la recherche du site (menu, champ « Recherche »), tri « Les plus récents », résultats chargés jusqu'avant juin 2026, relevé le 25 novembre 2026. Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 (date de publication lue sur la page de l'article) et que le nom du candidat figure dans son **titre** (la liste n'affiche pas de chapô) ; un article qui cite plusieurs candidats compte pour chacun. Voir la section 31 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 5 article(s) (5 par le titre).
+
+| Date (2026) | Titre |
+|---|---|
+| 30/10 | Théorie complotiste, idéologie raciste : comment est né le concept de remigration porté par Éric Zemmour |
+| 07/10 | « Sur mes idées, il est d'accord, mais la solution, il ne l'a pas » : Eric Zemmour à la conquête du vote agricole |
+| 07/10 | Wauquiez, Le Pen, Ruffin, Zemmour... Le grand défilé des politiques se lance au Sommet de l'élevage à Cournon |
+| 18/09 | “Petit homme, gros raciste” : les propos de Zemmour sur Mbappé suscitent l’indignation de la classe politique |
+| 18/09 | Eric Zemmour confirme qu’il sera candidat à la Présidentielle et durcit encore son discours sur l’immigration |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=%C3%89ric+Zemmour, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

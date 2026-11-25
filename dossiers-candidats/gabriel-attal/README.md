@@ -1171,6 +1171,23 @@ Total : 4 article(s) (3 par le titre, 1 par le chapô seul) (relevé partiel).
 | 18/09 | Attal, Philippe, Roussel, Le Pen... qui propose quoi pour faire vite baisser le prix des carburants ? |
 | 06/08 | En plein été, Gabriel Attal omniprésent sur le terrain et à portée des critiques |
 
+## La Montagne (lamontagne.fr)
+
+Source : la recherche du site (menu, champ « Recherche »), tri « Les plus récents », résultats chargés jusqu'avant juin 2026, relevé le 25 novembre 2026. Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 (date de publication lue sur la page de l'article) et que le nom du candidat figure dans son **titre** (la liste n'affiche pas de chapô) ; un article qui cite plusieurs candidats compte pour chacun. Voir la section 31 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 8 article(s) (8 par le titre).
+
+| Date (2026) | Titre |
+|---|---|
+| 29/10 | Primaire des démocrates : de Villepin, Retailleau et Glucksmann opposés, Lisnard et Attal favorables… on fait le point |
+| 04/10 | Le Pen, Roussel, Attal, Philippe, Bertrand... un défilé politique attendu au Sommet de l'élevage à Cournon et Clermont-Ferrand |
+| 13/09 | "Il n'y a que les imbéciles qui ne changent pas d’avis" : Édouard Philippe coincé par Gabriel Attal dans une primaire sauvage |
+| 27/08 | Le Pen, Mélenchon, Philippe, Attal… À huit mois du premier tour, un premier débat présidentiel commence sur les entreprises |
+| 18/08 | Édouard Philippe, Gabriel Attal et Raphaël Glucksmann dans le viseur de l’ingérence russe : la justice parisienne s’en saisit |
+| 08/08 | “L’élection peut être faussée” : Gabriel Attal porte plainte après deux opérations d’ingérence russe en une semaine |
+| 03/08 | Installations illégales, saisie de caravanes, amendes : le projet de Gabriel Attal contre les gens du voyage |
+| 12/07 | Marine Le Pen, Gabriel Attal, Edouard Philippe... TikTok peut-il faire gagner (ou perdre) la présidentielle ? |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Gabriel+Attal, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

@@ -301,6 +301,17 @@ Total : 0 article(s) (0 par le titre, 0 par le chapô seul) (relevé partiel).
 | Date (2026) | Titre |
 |---|---|
 
+## La Montagne (lamontagne.fr)
+
+Source : la recherche du site (menu, champ « Recherche »), tri « Les plus récents », résultats chargés jusqu'avant juin 2026, relevé le 25 novembre 2026. Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 (date de publication lue sur la page de l'article) et que le nom du candidat figure dans son **titre** (la liste n'affiche pas de chapô) ; un article qui cite plusieurs candidats compte pour chacun. Voir la section 31 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 2 article(s) (2 par le titre).
+
+| Date (2026) | Titre |
+|---|---|
+| 19/09 | Jean-Pierre Mercier à Clermont-Ferrand : "La candidature Lutte ouvrière de Nathalie Arthaud à la présidentielle est la plus utile" |
+| 11/08 | 30 millions de lunettes en 1999, pénurie en 2026 : Marine Tondelier et Nathalie Arthaud s’indignent avant l'éclipse |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Nathalie+Arthaud, parcouru jusqu'au 1er juillet 2026.

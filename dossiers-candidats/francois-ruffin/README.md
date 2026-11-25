@@ -394,6 +394,18 @@ Total : 2 article(s) (2 par le titre, 0 par le chapô seul) (relevé partiel).
 | 25/09 | Présidentielle : "Le coût du logement est devenu le premier contraceptif de France", s’alarme François Ruffin à Marseille |
 | 03/09 | Présidentielle 2027 : "On se renifle", "premier rendez-vous Tinder"... Villepin et Ruffin testent leurs convergences |
 
+## La Montagne (lamontagne.fr)
+
+Source : la recherche du site (menu, champ « Recherche »), tri « Les plus récents », résultats chargés jusqu'avant juin 2026, relevé le 25 novembre 2026. Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 (date de publication lue sur la page de l'article) et que le nom du candidat figure dans son **titre** (la liste n'affiche pas de chapô) ; un article qui cite plusieurs candidats compte pour chacun. Voir la section 31 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 3 article(s) (3 par le titre).
+
+| Date (2026) | Titre |
+|---|---|
+| 30/10 | “Il ne devrait plus y avoir un rond pour Macron à la sortie de l'Élysée” : François Ruffin dénonce les avantages du Président |
+| 07/10 | Wauquiez, Le Pen, Ruffin, Zemmour... Le grand défilé des politiques se lance au Sommet de l'élevage à Cournon |
+| 03/09 | Présidentielle 2027 : “Premier rendez-vous Tinder” entre François Ruffin et Dominique de Villepin qui ont testé leurs convergences |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Fran%C3%A7ois+Ruffin, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.
