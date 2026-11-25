@@ -1318,6 +1318,46 @@ Total : 12 article(s) (12 par le titre).
 | 17/08 | “Je ne veux pas rajouter de la division” : Darmanin renonce à la présidentielle et soutient Édouard Philippe |
 | 12/07 | Marine Le Pen, Gabriel Attal, Edouard Philippe... TikTok peut-il faire gagner (ou perdre) la présidentielle ? |
 
+## La Nouvelle République (lanouvellerepublique.fr)
+
+Source : la recherche du site (`/recherche?query=<nom>&tri=date&page=<n>`, 20 résultats par page), relevé le 25 novembre 2026. Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 (date affichée dans la liste) et que le nom du candidat figure dans son titre ou dans son chapô ; un article qui cite plusieurs candidats compte pour chacun. Voir la section 32 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 31 article(s) (22 par le titre, 9 par le chapô seul).
+
+| Date (2026) | Titre |
+|---|---|
+| 01/11 | Édouard Philippe, le « meilleur d’entre eux », comme son mentor |
+| 01/11 | « Je ne crois pas que cette primaire aura lieu » estime Edouard Philippe |
+| 30/10 | Soupçons de détournement de fonds publics : Edouard Philippe placé sous le statut de témoin assisté |
+| 29/09 | Âge de départ, nombre d’annuités, capitalisation : que contient le projet de réforme des retraites d’Édouard Philippe ? |
+| 29/09 | En quête d’un second souffle, Édouard Philippe promet de la sueur |
+| 26/09 | DÉSINFOX. Les Allemands sont-ils les « champions d’Europe des arrêts maladie », loin devant les salariés Français ? |
+| 24/09 | Présidentielle 2027 : Mélenchon et Philippe à égalité, loin derrière Le Pen, selon un sondage |
+| 20/09 | Large primaire au centre, « seconds couteaux », « grossièreté », « stagiaire »… Un dimanche de campagne présidentielle musclé |
+| 20/09 | Dix ans après l’alliance, le MoDem de François Bayrou veut survivre à Emmanuel Macron |
+| 18/09 | Présidentielle 2027 : Édouard Philippe veut que la France se dote d’une « politique de sécurité climatique » |
+| 04/09 | Aide à l’Ukraine : le RN veut « couper le robinet », passe d’armes entre Marine Le Pen et Édouard Philippe |
+| 03/09 | Mélenchon et Le Pen, deux candidats épargnés par Poutine |
+| 02/09 | « Je tire à balles réelles » : Vincent Louault, le sénateur-sniper d’Indre-et-Loire, fait la campagne présidentielle d’Édouard Philippe |
+| 30/08 | Présidentielle : Attal assume ses « différences » avec Philippe et ses « idées d’il y a 20 ans » |
+| 29/08 | Présidentielle : Édouard Philippe opposé au moratoire général sur l’immigration légale proposé par Gérald Darmanin |
+| 23/08 | Présidentielle 2027 : Édouard Philippe envisage un rassemblement de la droite et du centre entre « novembre et février » |
+| 22/08 | En visite à Mayotte, Édouard Philippe promet de mettre fin à l'« appel d’air » de l’immigration |
+| 18/08 | Présidentielle 2027 : le parquet de Paris se penche sur les soupçons d’ingérence russe visant Gabriel Attal et Édouard Philippe |
+| 17/08 | Présidentielle : Gérald Darmanin apporte son soutien à Édouard Philippe |
+| 16/08 | Présidentielle 2027 : la stratégie du troisième homme pour le bloc central ? |
+| 10/08 | Présidentielle 2027 : la France est-elle prête face aux ingérences étrangères ? |
+| 10/08 | Présidentielle 2027 : après la crise de Ceuta, Édouard Philippe veut un tour de vis sur l’immigration en proposant un « verrou Schengen » |
+| 24/07 | Une opération de désinformation russe vise Édouard Philippe, la première pour un candidat à la présidentielle en France |
+| 18/07 | Enquête du PNF sur Édouard Philippe : un tribunal maintient le statut de la lanceuse d’alerte |
+| 07/07 | Présidentielles 2027 : Édouard Philippe, Gabriel Attal… les premières réactions à la candidature de Marine Le Pen |
+| 06/07 | « Quand on veut rassembler le pays, on commence par rassembler sa famille » : Nicolas Forissier tacle Bruno Retailleau |
+| 05/07 | « Le bonheur de nos enfants avant notre confort » : Édouard Philippe se place en défenseur de la jeunesse |
+| 05/07 | « Je ne changerai pas de priorité tous les six mois » : Édouard Philippe lance sa campagne présidentielle depuis Paris |
+| 05/07 | Quand Édouard Philippe ménage Gérald Darmanin |
+| 01/07 | Présidentielle : pour Édouard Philippe, ce serait « dangereux » si Attal et lui se présentaient au premier tour |
+| 01/07 | Présidentielle 2027 : Édouard Philippe « peut incarner l’ordre et le sérieux permettant de redresser la France », affirme Laurent Wauquiez |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=%C3%89douard+Philippe, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

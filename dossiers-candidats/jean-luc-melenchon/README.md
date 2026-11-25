@@ -1520,6 +1520,38 @@ Total : 35 article(s) (35 par le titre).
 | 14/07 | “Attendez que je sois élu” : Mélenchon promet des Canadair français face aux incendies qui ravagent la France |
 | 08/07 | Condamnation de Marine Le Pen : “Je ne me suis pas payé un majordome”, Jean-Luc Mélenchon furieux après ses accusations |
 
+## La Nouvelle République (lanouvellerepublique.fr)
+
+Source : la recherche du site (`/recherche?query=<nom>&tri=date&page=<n>`, 20 résultats par page), relevé le 25 novembre 2026. Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 (date affichée dans la liste) et que le nom du candidat figure dans son titre ou dans son chapô ; un article qui cite plusieurs candidats compte pour chacun. Voir la section 32 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 23 article(s) (14 par le titre, 9 par le chapô seul).
+
+| Date (2026) | Titre |
+|---|---|
+| 27/10 | La colère sociale fait s’effondrer la cote d’Emmanuel Macron, tandis que Marine Le Pen et Jean-Luc Mélenchon progressent |
+| 18/10 | Violences en marge du 17 octobre : virulente passe d’armes entre Lecornu et Mélenchon |
+| 14/10 | Présidentielle 2027 : Mélenchon passe devant Philippe au premier tour, Le Pen reste largement favorite, selon le dernier sondage Odoxa |
+| 11/10 | À Gergovie, les leçons d’histoire à double tranchant de Mélenchon |
+| 11/10 | VIDÉO. Dans les coulisses du meeting de Jean-Luc Mélenchon en Auvergne |
+| 11/10 | En Auvergne, Jean-Luc Mélenchon redit combien il compte sur la jeunesse pour l’avenir et celui de sa campagne |
+| 30/09 | « La victoire est possible » : les militants insoumis d’Indre-et-Loire gonflés à bloc pour la présidentielle |
+| 26/09 | DÉSINFOX. Les Allemands sont-ils les « champions d’Europe des arrêts maladie », loin devant les salariés Français ? |
+| 24/09 | Présidentielle 2027 : Mélenchon et Philippe à égalité, loin derrière Le Pen, selon un sondage |
+| 22/09 | « Il n’a pas besoin de s’agiter à chaque foire à la saucisse » : Jean-Luc Mélenchon, une campagne discrète mais jusqu’ici efficace |
+| 20/09 | Large primaire au centre, « seconds couteaux », « grossièreté », « stagiaire »… Un dimanche de campagne présidentielle musclé |
+| 12/09 | Présidentielle : Retailleau accuse le RN « qui se réclamait de Jeanne d’Arc de s’être vendu aux Anglais » |
+| 12/09 | Présidentielle : à la Fête de l’humanité, Jean-Luc Mélenchon appelle à une « révolution citoyenne » |
+| 05/09 | Présidentielle 2027 : plusieurs candidats sont attendus à la braderie de Lille samedi |
+| 05/09 | Blocage des prix, cantine gratuite ou salaires mobiles… à Lille, Jean-Luc Mélenchon se pose en défenseur du pouvoir d’achat. |
+| 03/09 | Mélenchon et Le Pen, deux candidats épargnés par Poutine |
+| 28/08 | « Mélenchon est l’épouvantail idéal de l’extrême droite » : Olivier Faure s’exprime dans la NR avant le CamPuS 2026 de Blois |
+| 24/08 | Présidentielle 2027 : courage et économie au cœur du premier débat organisé par le Medef |
+| 23/08 | En meeting, Jean-Luc Mélenchon promet de censurer le gouvernement de Sébastien Lecornu sur son budget 2027 |
+| 22/08 | « On va gagner » : comment la ferveur des 8.000 militants LFI à leur université d’été dans la Drôme porte leur espoir de victoire |
+| 22/08 | « Notre responsabilité est de nous mettre, chacun, au service de quelque chose de plus grand » : la gauche divisée pour la présidentielle de 2027 |
+| 22/08 | Présidentielle : les leaders clairement identifiés… et les autres |
+| 19/08 | LFI et Jean-Luc Mélenchon font leur rentrée, Raphaël Glucksmann prépare sa candidature |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Jean-Luc+M%C3%A9lenchon, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

@@ -2350,6 +2350,77 @@ Total : 49 article(s) (49 par le titre).
 | 05/07 | "Si c’est pas Marine Le Pen, c’est Jordan Bardella de toute façon" : le RN fait bloc avant la décision de la cour d'appel de Paris |
 | 04/07 | Inéligibilité, jet-set, retraites : ce qui sépare vraiment Marine Le Pen et Jordan Bardella pour 2027 |
 
+## La Nouvelle République (lanouvellerepublique.fr)
+
+Source : la recherche du site (`/recherche?query=<nom>&tri=date&page=<n>`, 20 résultats par page), relevé le 25 novembre 2026. Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 (date affichée dans la liste) et que le nom du candidat figure dans son titre ou dans son chapô ; un article qui cite plusieurs candidats compte pour chacun. Voir la section 32 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 62 article(s) (49 par le titre, 13 par le chapô seul).
+
+| Date (2026) | Titre |
+|---|---|
+| 29/10 | INFO NR. Affiche « C’est beau, c’est Français ! » : le château de Chenonceau met en demeure le Rassemblement national |
+| 27/10 | Présidentielle 2027 : le conseiller municipal RN de Tours Aleksandar Nikolic chargé d’établir le programme sportif de Marine Le Pen |
+| 27/10 | La colère sociale fait s’effondrer la cote d’Emmanuel Macron, tandis que Marine Le Pen et Jean-Luc Mélenchon progressent |
+| 25/10 | À Orléans, Marine Le Pen minimise la radicalité du RN |
+| 25/10 | À Orléans, Marine Le Pen lance sa campagne présidentielle et dévoile les contours de sa « Renaissance pour la France » |
+| 25/10 | « Je me retrouve dans son parcours de vie » : au meeting du RN à Orléans, des militants convaincus par Marine Le Pen |
+| 21/10 | DÉSINFOX. À Tours, est-il vrai que « quasiment » toutes les personnes interpellées le 17 octobre ont bénéficié d’un classement sans suite ? |
+| 21/10 | Après les violences du 17 octobre, Marine Le Pen « n’a pas d’inquiétude » sur la sécurité du congrès du RN à Orléans |
+| 16/10 | Suspension de l’aide à l’Ukraine : Marine Le Pen persiste, ses lieutenants montent au front |
+| 14/10 | Présidentielle 2027 : Mélenchon passe devant Philippe au premier tour, Le Pen reste largement favorite, selon le dernier sondage Odoxa |
+| 14/10 | Marine Le Pen court vers l’Élysée dans une relative indifférence |
+| 06/10 | Contre-budget du RN : face à « l’illusion du sérieux », un plan « bancal et très fragile » |
+| 04/10 | Présidentielle 2027 : Marine Le Pen maintient « totalement » sa « confiance » à Jordan Bardella, accusé d’écrits antisémites |
+| 02/10 | Accusations d’antisémitisme : Jordan Bardella « ment éhontément » aux Français, accusent Gérald Darmanin et Olivier Faure |
+| 02/10 | Le chaos ambiant sert les desseins de Marine Le Pen |
+| 30/09 | « La victoire est possible » : les militants insoumis d’Indre-et-Loire gonflés à bloc pour la présidentielle |
+| 29/09 | Pour Marine Le Pen et Jordan Bardella, la réunion de la victoire s’est transformée en cellule de communication de crise |
+| 28/09 | Mediapart rapporte des écrits antisémites de Jordan Bardella datant de 2013, le président du RN dément |
+| 27/09 | Élections sénatoriales : le RN « va constituer un groupe » avec l’UDR, « une étape majeure » se réjouit Marine Le Pen |
+| 24/09 | Présidentielle 2027 : Mélenchon et Philippe à égalité, loin derrière Le Pen, selon un sondage |
+| 21/09 | DÉSINFOX. Logement social : « Seulement 11 % des Français » en bénéficient-ils, comme l’affirme Marine Le Pen ? |
+| 18/09 | « C’est un peu difficile dans l’Indre » : Jean-Philippe Tanguy, fidèle de Marine Le Pen, en visite dans le Berry |
+| 17/09 | Mégafeu en Gironde : au Porge, Marine Le Pen dénonce des « défaillances » |
+| 14/09 | HLM réservés aux Français : la proposition de Marine Le Pen relève de la « lubie xénophobe », juge la numéro un des bailleurs sociaux |
+| 13/09 | « Priorité au logement » et « priorité nationale » : en tête des sondages, Marine Le Pen revient à ses fondamentaux |
+| 13/09 | Présidentielle : à Hénin-Beaumont, Marine Le Pen érige la « priorité nationale » comme premier chantier |
+| 12/09 | Marine Le Pen préfère un budget même « imparfait » avant la présidentielle, mais pose de multiples lignes rouges |
+| 11/09 | Bardella - Le Pen : des dissonances qui s’entendent |
+| 07/09 | Dans une lettre aux buralistes, Marine Le Pen défend le « gel » des taxes sur le tabac |
+| 06/09 | Jordan Bardella : une leçon d’anglais difficile à digérer |
+| 05/09 | Présidentielle 2027 : Jordan Bardella réaffirme son « affinité politique et personnelle indéfectible » envers Marine Le Pen |
+| 04/09 | Aide à l’Ukraine : le RN veut « couper le robinet », passe d’armes entre Marine Le Pen et Édouard Philippe |
+| 03/09 | Mélenchon et Le Pen, deux candidats épargnés par Poutine |
+| 29/08 | Présidentielle : Jordan Bardella accuse la gauche de « remettre en cause la paix civile » |
+| 24/08 | Présidentielle 2027 : courage et économie au cœur du premier débat organisé par le Medef |
+| 22/08 | Présidentielle : les leaders clairement identifiés… et les autres |
+| 12/08 | Présidentielle 2027 : Marine Le Pen, un clan au-dessus des autres |
+| 26/07 | « Retailleau ou Le Pen » en 2027 : la conviction du nouveau délégué LR qui veut réveiller la droite du côté de Vendôme |
+| 15/07 | Six lecteurs analysent la candidature officielle de Marine le Pen à la présidentielle |
+| 15/07 | Procès RN : pas de pourvoi en cassation du parquet général contre la décision de la cour d’appel |
+| 10/07 | Des deux côtés de la Manche, le populisme en action |
+| 09/07 | « Les délinquants en prison » : le premier déplacement de Marine Le Pen chahuté, la candidate écourte sa visite à La Flèche |
+| 09/07 | Procès en appel du RN : devant la cour, Marine Le Pen parvient à échapper à l’inéligibilité |
+| 09/07 | Marine Le Pen : la Cour de cassation « fera tout » pour rendre sa décision avant l’élection présidentielle |
+| 08/07 | VIDEO. Procès Marine Le Pen : dans les coulisses de la cour d'appel |
+| 08/07 | Présidentielle : la Cour de cassation « pourrait » se prononcer sur le pourvoi de Marine Le Pen « au plus tard début avril 2027 » |
+| 08/07 | Présidentielle : Marine Le Pen, condamnée, « prend en otage la campagne » et « n’a aucune parole », dénoncent ses adversaires |
+| 08/07 | Bracelet électronique, pourvoi en cassation : les questions en suspens pour Marine Le Pen, candidate déclarée à la présidentielle |
+| 07/07 | « Une très bonne nouvelle » : la déléguée du RN dans les Deux-Sèvres salue la candidature de Marine Le Pen à la présidentielle |
+| 07/07 | « Si on devait condamner tous ceux qui ont fait les mêmes délits » : la réaction de la cheffe du RN de la Vienne à l’annonce de la candidature de Marine Le Pen |
+| 07/07 | « Il n’y a plus de scénario où je ne pourrai pas me présenter en 2027 » : Marine Le Pen ne doute pas de mener une campagne sans souci judiciaire |
+| 07/07 | Présidentielles 2027 : Édouard Philippe, Gabriel Attal… les premières réactions à la candidature de Marine Le Pen |
+| 07/07 | Procès en appel du RN : la gauche étrille Marine Le Pen, Emmanuel Macron refuse de commenter la décision de la cour |
+| 07/07 | Procès en appel de Marine Le Pen : les politiques de l’Indre peu enclins à commenter la décision rendue ce mardi 7 juillet |
+| 07/07 | Marine Le Pen, la candidate forcenée |
+| 07/07 | Marine Le Pen condamnée et candidate : les réactions en Loir-et-Cher |
+| 07/07 | Marine Le Pen candidate : qu’en pensent les élus d’Indre-et-Loire ? |
+| 07/07 | DIRECT. « Ce soir, je suis candidate à l’élection présidentielle », annonce Marine Le Pen sur TF1 |
+| 06/07 | Marine Le Pen joue son avenir politique : la cour d’appel s’apprête à rendre son jugement dans le procès du RN |
+| 05/07 | Présidentielle 2027 : Marine Le Pen et Jordan Bardella affichent leur unité avant le couperet judiciaire |
+| 05/07 | Procès du RN en appel : dans quels cas Marine Le Pen pourra-t-elle se présenter à l’élection présidentielle ? |
+| 04/07 | Procès du RN et de Marine Le Pen : retour sur un feuilleton judiciaire de onze ans |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Marine+Le+Pen, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

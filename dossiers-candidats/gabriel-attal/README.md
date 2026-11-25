@@ -1188,6 +1188,38 @@ Total : 8 article(s) (8 par le titre).
 | 03/08 | Installations illégales, saisie de caravanes, amendes : le projet de Gabriel Attal contre les gens du voyage |
 | 12/07 | Marine Le Pen, Gabriel Attal, Edouard Philippe... TikTok peut-il faire gagner (ou perdre) la présidentielle ? |
 
+## La Nouvelle République (lanouvellerepublique.fr)
+
+Source : la recherche du site (`/recherche?query=<nom>&tri=date&page=<n>`, 20 résultats par page), relevé le 25 novembre 2026. Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 (date affichée dans la liste) et que le nom du candidat figure dans son titre ou dans son chapô ; un article qui cite plusieurs candidats compte pour chacun. Voir la section 32 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 23 article(s) (17 par le titre, 6 par le chapô seul).
+
+| Date (2026) | Titre |
+|---|---|
+| 01/11 | « Je ne crois pas que cette primaire aura lieu » estime Edouard Philippe |
+| 29/10 | Présidentielle 2027 : Gabriel Attal propose une « grande primaire » mais reçoit un accueil mitigé |
+| 10/10 | Temps scolaire, changement climatique, enseignement supérieur… À Lyon, Gabriel Attal a présenté son « pacte » pour la jeunesse |
+| 03/10 | DIRECT. Face aux lecteurs de la NR : « On ne peut jamais accepter la violence », dit Gabriel Attal à propos de la mobilisation lycéenne |
+| 02/10 | « Énervant », « animal politique », « ouvert à la discussion » : les lecteurs se confient après avoir fait face à Gabriel Attal |
+| 02/10 | Gabriel Attal face aux lecteurs de la NR : « La figure de l’enseignant et du savoir a été affaiblie » |
+| 21/09 | Présidentielle 2027 : le député des Deux-Sèvres Jean-Marie Fiévet rejoint l’équipe de campagne de Gabriel Attal |
+| 20/09 | Dix ans après l’alliance, le MoDem de François Bayrou veut survivre à Emmanuel Macron |
+| 11/09 | « Une très très forte inspiration c’est certain » : Gabriel Attal a-t-il plagié le maire de Châteauroux ? |
+| 05/09 | Présidentielle 2027 : plusieurs candidats sont attendus à la braderie de Lille samedi |
+| 03/09 | Mélenchon et Le Pen, deux candidats épargnés par Poutine |
+| 30/08 | Présidentielle : Attal assume ses « différences » avec Philippe et ses « idées d’il y a 20 ans » |
+| 21/08 | Présidentielle 2027 : Gabriel Attal de nouveau ciblé par des opérations de désinformation prorusses |
+| 18/08 | Présidentielle 2027 : le parquet de Paris se penche sur les soupçons d’ingérence russe visant Gabriel Attal et Édouard Philippe |
+| 16/08 | Présidentielle 2027 : la stratégie du troisième homme pour le bloc central ? |
+| 16/08 | « Une course contre la montre » : pourquoi Gabriel Attal veut un référendum sur l’interdiction des réseaux aux moins de 15 ans |
+| 10/08 | Présidentielle 2027 : la France est-elle prête face aux ingérences étrangères ? |
+| 08/08 | Présidentielle : Gabriel Attal porte plainte, dénonçant une ingérence russe |
+| 05/08 | Présidentielle 2027 : Gabriel Attal à son tour visé par « une ingérence en provenance de Russie » |
+| 17/07 | Gabriel Attal, l’aplomb du bon élève |
+| 07/07 | Présidentielles 2027 : Édouard Philippe, Gabriel Attal… les premières réactions à la candidature de Marine Le Pen |
+| 04/07 | Gabriel Attal et Bernard Cazeneuve annoncés dans la Vienne le 25 juillet |
+| 01/07 | Présidentielle : pour Édouard Philippe, ce serait « dangereux » si Attal et lui se présentaient au premier tour |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Gabriel+Attal, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

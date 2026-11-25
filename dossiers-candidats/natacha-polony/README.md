@@ -377,6 +377,20 @@ Total : 4 article(s) (4 par le titre).
 | 08/10 | Natacha Polony au Sommet de l'élevage, à Cournon-d'Auvergne : "Je crois qu'il est temps de passer à l'action" |
 | 31/08 | La journaliste Natacha Polony se lance en politique et “n’exclut rien” pour la présidentielle de 2027 |
 
+## La Nouvelle République (lanouvellerepublique.fr)
+
+Source : la recherche du site (`/recherche?query=<nom>&tri=date&page=<n>`, 20 résultats par page), relevé le 25 novembre 2026. Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 (date affichée dans la liste) et que le nom du candidat figure dans son titre ou dans son chapô ; un article qui cite plusieurs candidats compte pour chacun. Voir la section 32 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 5 article(s) (5 par le titre, 0 par le chapô seul).
+
+| Date (2026) | Titre |
+|---|---|
+| 29/10 | Anny Duperey, Natacha Polony, Claude Sérillon : un casting de célébrités pour la 5e édition du Salon du livre de Chinon |
+| 15/10 | Présidentielle 2027 : Natacha Polony, une souverainiste en campagne |
+| 14/10 | Présidentielle 2027 : « Je suis candidate, la situation m’oblige », annonce la journaliste Natacha Polony |
+| 14/10 | Natacha Polony a déjà son comité de soutien formé depuis cet été à Romorantin |
+| 31/08 | Présidentielle 2027 : la Tourangelle « d’adoption » Natacha Polony, future candidate ? |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Natacha+Polony, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

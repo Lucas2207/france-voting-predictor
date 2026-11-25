@@ -259,3 +259,12 @@ Total : 1 article(s) (1 par le titre).
 | Date (2026) | Titre |
 |---|---|
 | 17/09 | “La honte”, “petite racaille” : le RN se déchaîne contre Kylian Mbappé et Teddy Riner après leurs prises de position |
+
+## La Nouvelle République (lanouvellerepublique.fr)
+
+Source : la recherche du site (`/recherche?query=<nom>&tri=date&page=<n>`, 20 résultats par page), relevé le 25 novembre 2026. Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 (date affichée dans la liste) et que le nom du candidat figure dans son titre ou dans son chapô ; un article qui cite plusieurs candidats compte pour chacun. Voir la section 32 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 0 article(s) (0 par le titre, 0 par le chapô seul).
+
+| Date (2026) | Titre |
+|---|---|

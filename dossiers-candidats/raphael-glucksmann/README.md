@@ -1407,6 +1407,47 @@ Total : 21 article(s) (21 par le titre).
 | 23/08 | Présidentielle 2027 : Raphaël Glucksmann déclare officiellement sa candidature “pour relever la France” |
 | 18/08 | Édouard Philippe, Gabriel Attal et Raphaël Glucksmann dans le viseur de l’ingérence russe : la justice parisienne s’en saisit |
 
+## La Nouvelle République (lanouvellerepublique.fr)
+
+Source : la recherche du site (`/recherche?query=<nom>&tri=date&page=<n>`, 20 résultats par page), relevé le 25 novembre 2026. Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 (date affichée dans la liste) et que le nom du candidat figure dans son titre ou dans son chapô ; un article qui cite plusieurs candidats compte pour chacun. Voir la section 32 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 32 article(s) (26 par le titre, 6 par le chapô seul).
+
+| Date (2026) | Titre |
+|---|---|
+| 12/10 | « Je ne m’attendais pas à un tel score » : à Blois, la victoire de Raphaël Glucksmann à la primaire PS surprend et divise |
+| 12/10 | Raphaël Glucksmann candidat de la gauche sociale-démocrate à la présidentielle 2027 : « Cette clarification politique était nécessaire », selon le PRG 79 |
+| 11/10 | « Ça éclaircit les choses » : la satisfaction de Place Publique dans les Deux-Sèvres après la victoire de Raphaël Glucksmann |
+| 11/10 | « On ne va pas perdre une semaine de plus » : le soulagement du numéro 1 des socialistes de l’Indre après la victoire de Glucksmann dès le premier tour de la primaire |
+| 11/10 | « Immense joie », « grosses craintes » : Place publique et Parti socialiste de la Vienne réagissent à la victoire de Glucksmann à la primaire |
+| 11/10 | « Cette première place m’oblige » : Raphaël Glucksmann désigné candidat de la gauche sociale-démocrate à la présidentielle |
+| 11/10 | Primaire sociale-démocrate : Raphaël Glucksmann désigné candidat à la présidentielle dès le premier tour |
+| 11/10 | Primaire de la gauche : plus de 110.000 personnes ont déjà voté, Raphaël Glucksmann espère l’emporter dès le premier tour |
+| 11/10 | Désignation de Raphaël Glucksmann : satisfaction chez Place publique et au Parti socialiste d’Indre-et-Loire |
+| 05/10 | Primaire socialiste : ce qu’il faut retenir du troisième débat, avant le premier tour des 9 et 10 octobre |
+| 02/10 | Primaire du PS : ce qu’il faut retenir du deuxième débat entre les cinq candidats |
+| 22/09 | Primaire de la gauche : Sacha Houlié accuse Ségolène Royal « d’avoir ruiné la région Poitou-Charentes » |
+| 21/09 | « Elle ne gagnera absolument pas cette primaire » : traité de « stagiaire », Glucksmann renvoie Royal à des postes « quémandés » |
+| 18/09 | Enseignante, boulanger, élus : à Loches, des citoyens s’unissent derrière Glucksmann pour faire barrage à l’extrême droite |
+| 16/09 | La solitaire quête de François Ruffin pour la présidentielle, écarté des cinq candidats de la primaire de la gauche |
+| 16/09 | Des élus socialistes d’Indre-et-Loire apportent leur soutien à Raphaël Glucksmann pour la primaire socialiste |
+| 14/09 | VIDÉO. Orages, Raphaël Glucksmann et familles afghanes : ce qu'il faut retenir cette semaine dans les Deux-Sèvres |
+| 27/08 | Présidentielle 2027 : Yannick Jadot, Boris Vallaud, Carole Delga, ces politiques qui soutiennent la candidature de Raphaël Glucksmann |
+| 26/08 | « Nous attendons de sa part une rupture claire avec le macronisme », le patron des socialistes de Loir-et-Cher demande une clarification à Raphaël Glucksmann |
+| 25/08 | Un premier déplacement aux accents écologistes pour le candidat à la présidentielle Raphaël Glucksmann, au cœur du Marais poitevin |
+| 25/08 | Primaire au Parti socialiste : François Bonneau, président du Centre-Val de Loire Val de Loire, soutient Raphaël Glucksmann |
+| 25/08 | Avec la visite de Raphaël Glucksmann, le Marais poitevin symbole des enjeux écologiques pour la campagne présidentielle |
+| 24/08 | L’ex-macroniste Sacha Houlié sera l’un des porte-parole de la campagne électorale de Raphaël Glucksmann |
+| 24/08 | Léa Salamé se retire du 20 h de France 2 après la candidature à la présidentielle de son compagnon Raphaël Glucksmann |
+| 23/08 | « Ce que nous avons à faire ensemble est historique » : le pari de Glucksmann pour rassembler la gauche en France pour 2027 |
+| 23/08 | Présidentielle 2027 : Raphaël Glucksmann devrait annoncer sa candidature ce dimanche soir |
+| 23/08 | Présidentielle 2027 : Raphaël Glucksmann attendu mardi dans le Marais poitevin près de Niort |
+| 19/08 | LFI et Jean-Luc Mélenchon font leur rentrée, Raphaël Glucksmann prépare sa candidature |
+| 18/08 | Présidentielle 2027 : le parquet de Paris se penche sur les soupçons d’ingérence russe visant Gabriel Attal et Édouard Philippe |
+| 10/08 | Présidentielle 2027 : la France est-elle prête face aux ingérences étrangères ? |
+| 04/08 | Présidentielle 2027 : Raphaël Glucksmann dénonce une opération russe de « déstabilisation » le visant |
+| 10/07 | Présidentielle 2027: le PS choisit une primaire fermée, Ségolène Royal est candidate, Raphaël Glucksmann se fait désirer |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Rapha%C3%ABl+Glucksmann, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

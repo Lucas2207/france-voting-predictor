@@ -499,6 +499,19 @@ Total : 4 article(s) (4 par le titre).
 | 06/09 | “Un choix largement réfléchi” : le communiste Fabien Roussel officialise sa candidature à la présidentielle 2027 |
 | 05/07 | Le suspense était faible : Fabien Roussel réélu à la tête du Parti communiste, un pas de plus vers la présidentielle |
 
+## La Nouvelle République (lanouvellerepublique.fr)
+
+Source : la recherche du site (`/recherche?query=<nom>&tri=date&page=<n>`, 20 résultats par page), relevé le 25 novembre 2026. Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 (date affichée dans la liste) et que le nom du candidat figure dans son titre ou dans son chapô ; un article qui cite plusieurs candidats compte pour chacun. Voir la section 32 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 4 article(s) (3 par le titre, 1 par le chapô seul).
+
+| Date (2026) | Titre |
+|---|---|
+| 12/09 | Présidentielle : à la Fête de l’humanité, Jean-Luc Mélenchon appelle à une « révolution citoyenne » |
+| 07/09 | Présidentielle 2027 : Fabien Roussel, secrétaire national du Parti communiste, officialise sa candidature |
+| 23/08 | Présidentielle 2027 : Fabien Roussel, leader du parti communiste, appelle à « se débarrasser » d’Emmanuel Macron et de sa politique |
+| 05/07 | Fabien Roussel est réélu à la tête du Parti communiste, avec la présidentielle en ligne de mire |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Fabien+Roussel, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

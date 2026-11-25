@@ -538,6 +538,18 @@ Total : 3 article(s) (3 par le titre).
 | 29/10 | Primaire des démocrates : de Villepin, Retailleau et Glucksmann opposés, Lisnard et Attal favorables… on fait le point |
 | 08/10 | Roussel, Polony, Lisnard... le défilé des candidats à l'élection présidentielle se poursuit dans les allées du Sommet de l'élevage à Cournon |
 
+## La Nouvelle République (lanouvellerepublique.fr)
+
+Source : la recherche du site (`/recherche?query=<nom>&tri=date&page=<n>`, 20 résultats par page), relevé le 25 novembre 2026. Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 (date affichée dans la liste) et que le nom du candidat figure dans son titre ou dans son chapô ; un article qui cite plusieurs candidats compte pour chacun. Voir la section 32 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 3 article(s) (3 par le titre, 0 par le chapô seul).
+
+| Date (2026) | Titre |
+|---|---|
+| 27/10 | Le mouvement de David Lisnard, Nouvelle Énergie, s’implante dans la Vienne |
+| 22/10 | À Blois, première réunion publique pour les co-relais de Nouvelle Énergie : « David Lisnard a bousculé et renversé la table » |
+| 05/10 | « Il y a quatre ans, nous étions quatre ou cinq » : comment le parti de David Lisnard tisse sa toile en Touraine |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=David+Lisnard, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

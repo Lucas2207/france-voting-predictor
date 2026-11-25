@@ -247,3 +247,15 @@ Total : 3 article(s) (3 par le titre).
 | 29/10 | Primaire des démocrates : de Villepin, Retailleau et Glucksmann opposés, Lisnard et Attal favorables… on fait le point |
 | 03/09 | Présidentielle 2027 : “Premier rendez-vous Tinder” entre François Ruffin et Dominique de Villepin qui ont testé leurs convergences |
 | 27/07 | Enquête financière sur les statuettes de Napoléon : Dominique de Villepin dans la tourmente à un an de la présidentielle |
+
+## La Nouvelle République (lanouvellerepublique.fr)
+
+Source : la recherche du site (`/recherche?query=<nom>&tri=date&page=<n>`, 20 résultats par page), relevé le 25 novembre 2026. Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 (date affichée dans la liste) et que le nom du candidat figure dans son titre ou dans son chapô ; un article qui cite plusieurs candidats compte pour chacun. Voir la section 32 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 3 article(s) (3 par le titre, 0 par le chapô seul).
+
+| Date (2026) | Titre |
+|---|---|
+| 27/09 | Présidentielle 2027 : Dominique de Villepin veut inscrire le principe de la négociation sociale dans la Constitution française |
+| 01/09 | « L’urgence est d’obtenir des parrainages » : les soutiens de Dominique de Villepin se structurent en Indre-et-Loire |
+| 01/07 | Le virus de la politique ne le quitte pas, après avoir été candidat à Blois, Gildas Vieira s’engage pour Dominique de Villepin |

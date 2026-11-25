@@ -445,6 +445,16 @@ Total : 5 article(s) (5 par le titre).
 | 18/09 | “Petit homme, gros raciste” : les propos de Zemmour sur Mbappé suscitent l’indignation de la classe politique |
 | 18/09 | Eric Zemmour confirme qu’il sera candidat à la Présidentielle et durcit encore son discours sur l’immigration |
 
+## La Nouvelle République (lanouvellerepublique.fr)
+
+Source : la recherche du site (`/recherche?query=<nom>&tri=date&page=<n>`, 20 résultats par page), relevé le 25 novembre 2026. Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 (date affichée dans la liste) et que le nom du candidat figure dans son titre ou dans son chapô ; un article qui cite plusieurs candidats compte pour chacun. Voir la section 32 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 1 article(s) (1 par le titre, 0 par le chapô seul).
+
+| Date (2026) | Titre |
+|---|---|
+| 18/09 | Présidentielle 2027 : Éric Zemmour confirme qu’il sera candidat et durcit encore son discours sur l’immigration |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=%C3%89ric+Zemmour, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

@@ -893,6 +893,23 @@ Total : 4 article(s) (4 par le titre).
 | 18/10 | "Mélenchon est mon seul adversaire" : décroché dans les sondages, Bruno Retailleau chasse sur les terres du RN |
 | 28/08 | Présidentielle 2027 : avec seulement 10 % dans les sondages, Bruno Retailleau quand même favorable pour une primaire à droite |
 
+## La Nouvelle République (lanouvellerepublique.fr)
+
+Source : la recherche du site (`/recherche?query=<nom>&tri=date&page=<n>`, 20 résultats par page), relevé le 25 novembre 2026. Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 (date affichée dans la liste) et que le nom du candidat figure dans son titre ou dans son chapô ; un article qui cite plusieurs candidats compte pour chacun. Voir la section 32 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 8 article(s) (6 par le titre, 2 par le chapô seul).
+
+| Date (2026) | Titre |
+|---|---|
+| 29/10 | Le programme du RN jugé trop à gauche, une ex-élue se rétracte et un maire se distingue dans le monde l’IA : découvrez les échos politiques de la semaine dans l’Indre |
+| 12/10 | Présidentielle : Bruno Retailleau promet un plan d’économies de près de 200 milliards d’euros en cinq ans |
+| 01/10 | Blocus des lycées : Bruno Retailleau veut faire interdire LFI après les violences devant des établissements scolaires |
+| 12/09 | Présidentielle : Retailleau accuse le RN « qui se réclamait de Jeanne d’Arc de s’être vendu aux Anglais » |
+| 12/08 | « À fond derrière Retailleau » : l’engagement de Sacha Gouron, nouveau responsable des Jeunes Républicains de l’Indre |
+| 26/07 | « Retailleau ou Le Pen » en 2027 : la conviction du nouveau délégué LR qui veut réveiller la droite du côté de Vendôme |
+| 06/07 | « Quand on veut rassembler le pays, on commence par rassembler sa famille » : Nicolas Forissier tacle Bruno Retailleau |
+| 01/07 | Présidentielle 2027 : Édouard Philippe « peut incarner l’ordre et le sérieux permettant de redresser la France », affirme Laurent Wauquiez |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Bruno+Retailleau, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

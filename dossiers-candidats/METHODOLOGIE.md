@@ -535,14 +535,28 @@ Pour garder une méthode commune avec les journaux, ARTE n'est pas intégré aux
 - le chapô n'est pas relevé : le décompte sous-estime les articles qui ne citent le candidat que dans le texte ;
 - le numéro d'article ne suit pas exactement la date : quelques articles de début juillet peuvent manquer.
 
-## 32. Ce qui n'est pas fait
+## 32. La Nouvelle République (lanouvellerepublique.fr)
+
+**Source :** la recherche du site, `https://www.lanouvellerepublique.fr/recherche?query=<nom>&tri=date&page=<n>` (20 résultats par page, tri par date). Cookies : « Continuer sans accepter ».
+
+**Relevé :**
+- une requête par candidat (nom complet, ou « Villepin » et « Riner »), pages parcourues jusqu'à passer avant le 1er juillet 2026 (8 pages au plus) ;
+- titre, chapô et date sont lus dans la liste des résultats ;
+- règle de décompte : le nom du candidat dans le **titre ou le chapô** ; un article qui cite plusieurs candidats compte pour chacun ;
+- homonymes écartés : Jean-Marie Le Pen, Marion Maréchal-Le Pen, Marie-Caroline Le Pen, Michaël Zemmour, Jean-François Roussel, Robin Roussel, Jean-Christophe Ruffin, « Ruffine ».
+
+**Limites :**
+- le texte de la liste comprend aussi les rubriques et la signature : un candidat cité seulement dans le corps de l'article n'est pas compté ;
+- la recherche s'appuie sur un moteur externe qui peut ne pas renvoyer tous les articles : le décompte est à lire comme un minimum.
+
+## 33. Ce qui n'est pas fait
 
 - pas d'ouverture des articles un par un : le classement se base sur le titre et le chapô ou l'adresse ;
 - pas de couverture de BFMTV pour juillet à septembre 2026 ;
 - Dominique de Villepin et Teddy Riner (candidats ajoutés le 23 novembre 2026) ne sont relevés que pour les médias traités depuis (L'Équipe pour l'instant) ; Radio France, BFMTV, TF1, franceinfo, Le Monde, CNEWS, Libération, Ouest-France, Europe 1, La Dépêche, RMC, Sud Ouest, ARTE et Canal+ restent à faire pour eux ;
 - les dossiers Radio France ne sont pas tous à jour pour les personnalités sans page propre (Zemmour, Lisnard, Roussel) : ils sont couverts par les pages des autres personnalités citées dans les chapôs.
 
-## 33. Fichiers
+## 34. Fichiers
 
 - Dossiers par candidat : `dossiers-candidats/<nom>/README.md`
 - Tableaux Radio France : section « Radio France » de chaque dossier (les anciens fichiers `radio-france-<nom>-emissions.md` à la racine ont été supprimés une fois repris dans les dossiers)
