@@ -391,6 +391,17 @@ Total : 5 article(s) (5 par le titre, 0 par le chapô seul).
 | 14/10 | Natacha Polony a déjà son comité de soutien formé depuis cet été à Romorantin |
 | 31/08 | Présidentielle 2027 : la Tourangelle « d’adoption » Natacha Polony, future candidate ? |
 
+## L'Union - L'Ardennais (lunion.fr)
+
+Source : la recherche d'archives du site (`/archives/recherche?datefilter=lastyear&sort=date+desc&word=<nom>&start=<n>`, triée par date décroissante), relevé le 25 novembre 2026. Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 (date affichée) et que le nom du candidat figure dans son **titre** ; un article qui cite plusieurs candidats compte pour chacun. Voir la section 33 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 2 article(s) (2 par le titre).
+
+| Date (2026) | Titre |
+|---|---|
+| 14/10 | Natacha Polony annonce sa candidature à l’élection présidentielle de 2027 |
+| 14/10 | L’actualité vue par Alex : Natacha Polony nouvelle candidate à la présidentielle 2027 |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Natacha+Polony, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

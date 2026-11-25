@@ -910,6 +910,23 @@ Total : 8 article(s) (6 par le titre, 2 par le chapô seul).
 | 06/07 | « Quand on veut rassembler le pays, on commence par rassembler sa famille » : Nicolas Forissier tacle Bruno Retailleau |
 | 01/07 | Présidentielle 2027 : Édouard Philippe « peut incarner l’ordre et le sérieux permettant de redresser la France », affirme Laurent Wauquiez |
 
+## L'Union - L'Ardennais (lunion.fr)
+
+Source : la recherche d'archives du site (`/archives/recherche?datefilter=lastyear&sort=date+desc&word=<nom>&start=<n>`, triée par date décroissante), relevé le 25 novembre 2026. Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 (date affichée) et que le nom du candidat figure dans son **titre** ; un article qui cite plusieurs candidats compte pour chacun. Voir la section 33 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 8 article(s) (8 par le titre).
+
+| Date (2026) | Titre |
+|---|---|
+| 10/10 | « La partie d’échecs, c’est au dernier coup qu’elle est gagnée » : François Baroin soutient Bruno Retailleau à Troyes |
+| 10/10 | Bruno Retailleau devant les militants LR à Troyes : « Ne croyez pas les sondages ! » |
+| 09/10 | Les sénateurs Les Républicains font leur rentrée à Troyes avec Bruno Retailleau |
+| 19/09 | Présidentielle : François Baroin apporte son parrainage à Bruno Retailleau |
+| 09/09 | Présidentielle 2027 : Édouard Philippe « tend la main » à la droite et au centre, Retailleau la refuse |
+| 28/08 | « Je plafonnerai les aides à 70 % du Smic » : Bruno Retailleau, candidat à la présidentielle, attendu à la Foire de Châlons |
+| 28/08 | En tête à tête avec les militants LR à la Foire de Châlons, Bruno Retailleau flatte la « France qui se lève tôt » |
+| 11/08 | Bruno Retailleau sera à la Foire de Châlons le 28 août |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Bruno+Retailleau, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

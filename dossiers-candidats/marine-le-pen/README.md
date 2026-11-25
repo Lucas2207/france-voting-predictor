@@ -2421,6 +2421,37 @@ Total : 62 article(s) (49 par le titre, 13 par le chapô seul).
 | 05/07 | Procès du RN en appel : dans quels cas Marine Le Pen pourra-t-elle se présenter à l’élection présidentielle ? |
 | 04/07 | Procès du RN et de Marine Le Pen : retour sur un feuilleton judiciaire de onze ans |
 
+## L'Union - L'Ardennais (lunion.fr)
+
+Source : la recherche d'archives du site (`/archives/recherche?datefilter=lastyear&sort=date+desc&word=<nom>&start=<n>`, triée par date décroissante), relevé le 25 novembre 2026. Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 (date affichée) et que le nom du candidat figure dans son **titre** ; un article qui cite plusieurs candidats compte pour chacun. Voir la section 33 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 22 article(s) (22 par le titre).
+
+| Date (2026) | Titre |
+|---|---|
+| 25/10 | L’actualité vue par Alex : premier discours de campagne de Marine Le Pen |
+| 14/10 | SONDAGE. Présidentielle 2027 : Marine Le Pen favorite en France et dans le Grand Est, peu importe les scénarios |
+| 29/08 | Présidentielle 2027 : Bardella en campagne pour Le Pen à la Foire de Châlons |
+| 29/08 | L’actualité vue par Chaunu : Mélenchon, Le Pen et le Medef |
+| 07/08 | L’actualité vue par Alex : Marine Le Pen et ses soutiens |
+| 27/07 | L’actualité vue par Alex : La France brûle, et Marine Le Pen est là pour « raviver la flamme » |
+| 23/07 | Jordan Bardella viendra à la foire de Châlons samedi 29 août, pour Marine Le Pen le flou demeure |
+| 21/07 | Marine Le Pen et le Rassemblement national victimes de piratages informatiques |
+| 16/07 | L’actualité vue par Chaunu : ce soutien dont Marine Le Pen se serait bien passée |
+| 09/07 | Pourvoi de Marine Le Pen : la Cour de cassation « fera tout » pour rendre sa décision avant le premier tour de l’élection présidentielle |
+| 09/07 | L’actualité vue par Alex : après le jugement, Marine Le Pen et le RN pressés de « tourner la page » |
+| 09/07 | Le Pen relaxée par ses électeurs |
+| 08/07 | Pourvoi de Marine Le Pen : la Cour de cassation « pourrait » se prononcer « au plus tard début avril 2027 » |
+| 08/07 | L’actualité vue par Chaunu : Marine Le Pen, une campagne sans bracelet mais avec son « ticket » |
+| 07/07 | Marine Le Pen, condamnée à 15 mois ferme d’inéligibilité, peut a priori être candidate à la présidentielle |
+| 07/07 | Malgré sa condamnation, Marine Le Pen sera candidate à l’élection présidentielle de 2027 |
+| 07/07 | L’actualité vue par Chaunu : Marine Le Pen annonce sa candidature sous la menace du bracelet électronique |
+| 07/07 | L’actualité vue par Alex : Marine Le Pen sera candidate à la présidentielle de 2027 malgré sa condamnation en appel |
+| 07/07 | Délibéré du procès de Marine Le Pen : quels sont les différents scénarios possibles ? |
+| 06/07 | « Je souhaite que ce soit Marine Le Pen qui soit candidate en 2027 », affirme Franck Briffaut, figure axonaise du RN |
+| 06/07 | L’actualité vue par Chaunu : Marine Le Pen va savoir si elle peut se présenter à la présidentielle de 2027 |
+| 05/07 | L’actualité vue par Chaunu : Bardella-Le Pen, un tandem qui vise le pouvoir |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Marine+Le+Pen, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

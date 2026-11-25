@@ -259,3 +259,17 @@ Total : 3 article(s) (3 par le titre, 0 par le chapô seul).
 | 27/09 | Présidentielle 2027 : Dominique de Villepin veut inscrire le principe de la négociation sociale dans la Constitution française |
 | 01/09 | « L’urgence est d’obtenir des parrainages » : les soutiens de Dominique de Villepin se structurent en Indre-et-Loire |
 | 01/07 | Le virus de la politique ne le quitte pas, après avoir été candidat à Blois, Gildas Vieira s’engage pour Dominique de Villepin |
+
+## L'Union - L'Ardennais (lunion.fr)
+
+Source : la recherche d'archives du site (`/archives/recherche?datefilter=lastyear&sort=date+desc&word=<nom>&start=<n>`, triée par date décroissante), relevé le 25 novembre 2026. Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 (date affichée) et que le nom du candidat figure dans son **titre** ; un article qui cite plusieurs candidats compte pour chacun. Voir la section 33 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 5 article(s) (5 par le titre).
+
+| Date (2026) | Titre |
+|---|---|
+| 26/10 | Dominique de Villepin en précampagne dans l’Aube |
+| 23/10 | Tirs mortels à Trappes et La Verrière : la réaction de Dominique de Villepin en visite dans l’Aube |
+| 19/09 | Olivier Girardin signe un appel en faveur de la candidature de Dominique de Villepin à la présidentielle |
+| 04/09 | L’actualité vue par Alex : François Ruffin ouvre la voie à un rapprochement avec Dominique de Villepin |
+| 27/07 | Olivier Girardin quitte la direction du PS aubois et se rapproche de Dominique de Villepin |

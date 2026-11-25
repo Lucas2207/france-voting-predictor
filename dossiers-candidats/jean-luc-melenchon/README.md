@@ -1552,6 +1552,25 @@ Total : 23 article(s) (14 par le titre, 9 par le chapô seul).
 | 22/08 | Présidentielle : les leaders clairement identifiés… et les autres |
 | 19/08 | LFI et Jean-Luc Mélenchon font leur rentrée, Raphaël Glucksmann prépare sa candidature |
 
+## L'Union - L'Ardennais (lunion.fr)
+
+Source : la recherche d'archives du site (`/archives/recherche?datefilter=lastyear&sort=date+desc&word=<nom>&start=<n>`, triée par date décroissante), relevé le 25 novembre 2026. Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 (date affichée) et que le nom du candidat figure dans son **titre** ; un article qui cite plusieurs candidats compte pour chacun. Voir la section 33 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 10 article(s) (10 par le titre).
+
+| Date (2026) | Titre |
+|---|---|
+| 28/10 | Un Ardennais condamné pour avoir menacé de mort Jean-Luc Mélenchon sur les réseaux sociaux |
+| 20/10 | L’actualité vue par Chaunu : Jean-Luc Mélenchon accusé de jeter de l’huile sur le feu |
+| 11/10 | L’actualité vue par Chaunu : Jean-Luc Mélenchon fait salle comble à Clermont-Ferrand |
+| 02/10 | L’actualité vue par Chaunu : quel positionnement pour Jean-Luc Mélenchon dans la campagne présidentielle ? |
+| 11/09 | « Illégale, dangereuse et inutile » : le gouverneur de la Banque de France fustige la proposition de Jean-Luc Mélenchon d’effacer la dette |
+| 05/09 | L’actualité vue par Alex : Marine Tondelier, Jean-Luc Mélenchon et Gabriel Attal en campagne à la braderie de Lille |
+| 29/08 | L’actualité vue par Chaunu : Mélenchon, Le Pen et le Medef |
+| 23/08 | En meeting, Jean-Luc Mélenchon promet la censure pour le budget 2027 de l’État et propose une « conscription écologique » |
+| 22/08 | Accusé de céder à la « démagogie », Édouard Philippe invite Mélenchon à venir à Mayotte constater la « crise migratoire » |
+| 21/08 | L’actualité vue par Chaunu : discussions entre Mélenchon et Tondelier pour une alliance à gauche ? |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Jean-Luc+M%C3%A9lenchon, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

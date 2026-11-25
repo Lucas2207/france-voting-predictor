@@ -512,6 +512,16 @@ Total : 4 article(s) (3 par le titre, 1 par le chapô seul).
 | 23/08 | Présidentielle 2027 : Fabien Roussel, leader du parti communiste, appelle à « se débarrasser » d’Emmanuel Macron et de sa politique |
 | 05/07 | Fabien Roussel est réélu à la tête du Parti communiste, avec la présidentielle en ligne de mire |
 
+## L'Union - L'Ardennais (lunion.fr)
+
+Source : la recherche d'archives du site (`/archives/recherche?datefilter=lastyear&sort=date+desc&word=<nom>&start=<n>`, triée par date décroissante), relevé le 25 novembre 2026. Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 (date affichée) et que le nom du candidat figure dans son **titre** ; un article qui cite plusieurs candidats compte pour chacun. Voir la section 33 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 1 article(s) (1 par le titre).
+
+| Date (2026) | Titre |
+|---|---|
+| 06/09 | Présidentielle : Fabien Roussel, secrétaire national du Parti communiste, officialise sa candidature |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Fabien+Roussel, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

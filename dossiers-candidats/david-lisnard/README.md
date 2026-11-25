@@ -550,6 +550,20 @@ Total : 3 article(s) (3 par le titre, 0 par le chapô seul).
 | 22/10 | À Blois, première réunion publique pour les co-relais de Nouvelle Énergie : « David Lisnard a bousculé et renversé la table » |
 | 05/10 | « Il y a quatre ans, nous étions quatre ou cinq » : comment le parti de David Lisnard tisse sa toile en Touraine |
 
+## L'Union - L'Ardennais (lunion.fr)
+
+Source : la recherche d'archives du site (`/archives/recherche?datefilter=lastyear&sort=date+desc&word=<nom>&start=<n>`, triée par date décroissante), relevé le 25 novembre 2026. Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 (date affichée) et que le nom du candidat figure dans son **titre** ; un article qui cite plusieurs candidats compte pour chacun. Voir la section 33 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 5 article(s) (5 par le titre).
+
+| Date (2026) | Titre |
+|---|---|
+| 28/10 | « Remettre du bon sens partout et ras-le-bol des normes », comment le projet de David Lisnard intéresse dans le Barséquanais |
+| 29/09 | Nouvelle Énergie, le parti de David Lisnard, renforce son organisation dans l’Aube |
+| 03/09 | David Lisnard se rêve en candidat du « pays réel » |
+| 02/09 | Marine Tondelier, David Lisnard et Claudio Capéo... revivez cette sixième journée de la Foire de Châlons |
+| 24/08 | David Lisnard et Éric Zemmour s’ajoutent à la liste des visiteurs politiques de la Foire de Châlons 2026 |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=David+Lisnard, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

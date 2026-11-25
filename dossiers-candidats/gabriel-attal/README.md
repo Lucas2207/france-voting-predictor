@@ -1220,6 +1220,30 @@ Total : 23 article(s) (17 par le titre, 6 par le chapô seul).
 | 04/07 | Gabriel Attal et Bernard Cazeneuve annoncés dans la Vienne le 25 juillet |
 | 01/07 | Présidentielle : pour Édouard Philippe, ce serait « dangereux » si Attal et lui se présentaient au premier tour |
 
+## L'Union - L'Ardennais (lunion.fr)
+
+Source : la recherche d'archives du site (`/archives/recherche?datefilter=lastyear&sort=date+desc&word=<nom>&start=<n>`, triée par date décroissante), relevé le 25 novembre 2026. Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 (date affichée) et que le nom du candidat figure dans son **titre** ; un article qui cite plusieurs candidats compte pour chacun. Voir la section 33 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 15 article(s) (15 par le titre).
+
+| Date (2026) | Titre |
+|---|---|
+| 18/09 | L’actualité vue par Alex : la campagne bistrot de Gabriel Attal |
+| 17/09 | Pourquoi et comment Gabriel Attal prône des « États-Unis d’Europe » |
+| 17/09 | Depuis Reims, Gabriel Attal propose la création des « États-Unis d’Europe » |
+| 11/09 | Présidentielle 2027 : Gabriel Attal enfreint-il la loi Evin en trinquant, une pinte de bière à la main, dans un clip de campagne ? |
+| 05/09 | L’actualité vue par Alex : Marine Tondelier, Jean-Luc Mélenchon et Gabriel Attal en campagne à la braderie de Lille |
+| 30/08 | À la Foire de Châlons, Gabriel Attal a aussi « fusillé » Édouard Philippe |
+| 30/08 | L’actualité vue par Chaunu : dur dur pour Darmanin de racommoder Philippe et Attal |
+| 30/08 | Gabriel Attal a fait le job à la Foire de Châlons |
+| 27/08 | Édouard Philippe, Gabriel Attal, le RN, Karim Bouamrane ou François Hollande… Élysée en vue depuis la Foire de Châlons |
+| 16/08 | Réseaux sociaux : Attal alimente le débat sur le référendum |
+| 08/08 | « L’élection peut être faussée » : Gabriel Attal porte plainte, dénonçant une ingérence russe avant la présidentielle |
+| 23/07 | Gabriel Attal bientôt de retour à Villers-Cotterêts ? |
+| 10/07 | Présidentielle 2027 : les partisans de Gabriel Attal et d’Edouard Philippe s’organisent en Haute-Marne |
+| 02/07 | « C’est une ville qui montre qu’il n’y a pas de fatalité en politique » : Gabriel Attal, encore un candidat en campagne à Villers-Cotterêts |
+| 02/07 | Gabriel Attal en campagne à Villers-Cotterêts : « le RN n’est pas une fatalité » |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Gabriel+Attal, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

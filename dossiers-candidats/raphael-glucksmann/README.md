@@ -1448,6 +1448,27 @@ Total : 32 article(s) (26 par le titre, 6 par le chapô seul).
 | 04/08 | Présidentielle 2027 : Raphaël Glucksmann dénonce une opération russe de « déstabilisation » le visant |
 | 10/07 | Présidentielle 2027: le PS choisit une primaire fermée, Ségolène Royal est candidate, Raphaël Glucksmann se fait désirer |
 
+## L'Union - L'Ardennais (lunion.fr)
+
+Source : la recherche d'archives du site (`/archives/recherche?datefilter=lastyear&sort=date+desc&word=<nom>&start=<n>`, triée par date décroissante), relevé le 25 novembre 2026. Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 (date affichée) et que le nom du candidat figure dans son **titre** ; un article qui cite plusieurs candidats compte pour chacun. Voir la section 33 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 12 article(s) (12 par le titre).
+
+| Date (2026) | Titre |
+|---|---|
+| 13/10 | L’actualité vue par Alex : Raphaël Glucksmann cible LFI après son « enfarinage » le soir de sa victoire à la primaire |
+| 12/10 | Présidentielle 2027 : Raphaël Glucksmann l’emporte dès le premier tour de la primaire du PS et de Place publique avec 66 % des suffrages exprimés |
+| 12/10 | L’actualité vue par Chaunu : après une primaire réussie, les choses sérieuses commencent pour Glucksmann |
+| 12/10 | Désignation de Raphaël Glucksmann lors de la primaire de la gauche : « On a un candidat, il faut se rassembler derrière », réagit Émilie Gesnot, première secrétaire fédérale du PS dans l’Aube |
+| 17/09 | Présidentielle 2027 : dans la Marne, le chef de file du Parti socialiste, Éric Quénard, s’engage en faveur de Raphaël Glucksmann |
+| 05/09 | Raphaël Glucksmann : le destin de la France, « c’est d’être le moteur d’une Europe libre » |
+| 05/09 | Concert survolté de Mika, venue de Raphaël Glucksmann... Revivez la 9e journée la Foire de Châlons |
+| 02/09 | Foire de Châlons 2026 : Raphaël Glucksmann et François Hollande confirment leur venue |
+| 24/08 | « J’en avais pris l’engagement dès le premier jour » : Léa Salamé annonce son retrait du 20H de France 2 après la candidature de Raphaël Glucksmann à la présidentielle |
+| 24/08 | Présidentielle 2027 : l’écologiste Yannick Jadot annonce son ralliement à Raphaël Glucksmann |
+| 23/08 | Présidentielle 2027 : Raphaël Glucksmann est candidat |
+| 23/08 | L’actualité vue par Alex : Glucksmann officiellement candidat à l’élection présidentielle |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=Rapha%C3%ABl+Glucksmann, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

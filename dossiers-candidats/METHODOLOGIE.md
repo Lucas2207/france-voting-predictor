@@ -549,14 +549,27 @@ Pour garder une méthode commune avec les journaux, ARTE n'est pas intégré aux
 - le texte de la liste comprend aussi les rubriques et la signature : un candidat cité seulement dans le corps de l'article n'est pas compté ;
 - la recherche s'appuie sur un moteur externe qui peut ne pas renvoyer tous les articles : le décompte est à lire comme un minimum.
 
-## 33. Ce qui n'est pas fait
+## 33. L'Union - L'Ardennais (lunion.fr)
+
+**Source :** la recherche du site, `https://www.lunion.fr/archives/recherche?datefilter=lastyear&sort=date+desc&word=<nom>&start=<n>` (même moteur que La Voix du Nord, 10 résultats par page). Le site refuse l'accès par script (« 403 Forbidden ») : le relevé a été fait dans le navigateur, sans accepter de bannière.
+
+**Relevé :**
+- une requête par candidat (nom complet ; nom de famille seul pour Polony, Ruffin, Arthaud et Dupont-Aignan ; « Villepin » et « Riner »), pages parcourues jusqu'à une page entièrement antérieure au 1er juillet 2026 (80 pages au plus) ;
+- règle de décompte : le nom du candidat dans le **titre** (l'extrait affiché est un passage du texte, pas le chapô) ; un article qui cite plusieurs candidats compte pour chacun ;
+- homonymes écartés : Jean-Marie Le Pen, Marion Maréchal-Le Pen, Marie-Caroline Le Pen, Michaël Zemmour, Jean-François Roussel, Robin Roussel, Jean-Christophe Ruffin, « Ruffine ».
+
+**Limites :**
+- la recherche est approximative et peut ne pas tout renvoyer : le décompte est un minimum ;
+- le décompte par titre sous-estime les articles qui ne citent le candidat que dans le texte.
+
+## 34. Ce qui n'est pas fait
 
 - pas d'ouverture des articles un par un : le classement se base sur le titre et le chapô ou l'adresse ;
 - pas de couverture de BFMTV pour juillet à septembre 2026 ;
 - Dominique de Villepin et Teddy Riner (candidats ajoutés le 23 novembre 2026) ne sont relevés que pour les médias traités depuis (L'Équipe pour l'instant) ; Radio France, BFMTV, TF1, franceinfo, Le Monde, CNEWS, Libération, Ouest-France, Europe 1, La Dépêche, RMC, Sud Ouest, ARTE et Canal+ restent à faire pour eux ;
 - les dossiers Radio France ne sont pas tous à jour pour les personnalités sans page propre (Zemmour, Lisnard, Roussel) : ils sont couverts par les pages des autres personnalités citées dans les chapôs.
 
-## 34. Fichiers
+## 35. Fichiers
 
 - Dossiers par candidat : `dossiers-candidats/<nom>/README.md`
 - Tableaux Radio France : section « Radio France » de chaque dossier (les anciens fichiers `radio-france-<nom>-emissions.md` à la racine ont été supprimés une fois repris dans les dossiers)

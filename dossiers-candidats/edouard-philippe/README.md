@@ -1358,6 +1358,38 @@ Total : 31 article(s) (22 par le titre, 9 par le chapô seul).
 | 01/07 | Présidentielle : pour Édouard Philippe, ce serait « dangereux » si Attal et lui se présentaient au premier tour |
 | 01/07 | Présidentielle 2027 : Édouard Philippe « peut incarner l’ordre et le sérieux permettant de redresser la France », affirme Laurent Wauquiez |
 
+## L'Union - L'Ardennais (lunion.fr)
+
+Source : la recherche d'archives du site (`/archives/recherche?datefilter=lastyear&sort=date+desc&word=<nom>&start=<n>`, triée par date décroissante), relevé le 25 novembre 2026. Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 (date affichée) et que le nom du candidat figure dans son **titre** ; un article qui cite plusieurs candidats compte pour chacun. Voir la section 33 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 23 article(s) (23 par le titre).
+
+| Date (2026) | Titre |
+|---|---|
+| 01/11 | Présidentielle 2027 : Édouard Philippe refuse de participer à une primaire de la droite et du centre, source de « division » |
+| 29/10 | Accusations de détournement de fonds publics : Édouard Philippe placé sous le statut de témoin assisté |
+| 22/10 | Présidentielle 2027 : À Charleville, Édouard Philippe défend sa vision de la sécurité aux côtés de Boris Ravignon |
+| 22/10 | Présidentielle 2027 : natalité, retraites et aide à l’Ukraine… Édouard Philippe face aux Ardennais |
+| 22/10 | Manifestations : « L’ordre doit revenir » pour le candidat à la présidentielle Édouard Philippe |
+| 21/10 | Présidentielle 2027 : revivez la journée d’Édouard Philippe dans les Ardennes |
+| 20/10 | Présidentielle 2027 : quel programme pour Édouard Philippe dans les Ardennes ce mercredi et jeudi ? |
+| 18/10 | Champagne Day, Édouard Philippe dans les Ardennes, procès de Joseph Afribo : l’agenda de cette semaine |
+| 29/09 | Âge de départ à 65 ans, 45 annuités de cotisation... Édouard Philippe dévoile son projet de réforme des retraites |
+| 10/09 | Présidentielle : Boris Ravignon, l’Ardennais qui entre dans le premier cercle d’Édouard Philippe |
+| 09/09 | Présidentielle 2027 : Édouard Philippe « tend la main » à la droite et au centre, Retailleau la refuse |
+| 01/09 | À la Foire de Châlons, Édouard Philippe met en garde contre la division : « Qu’on garde nos critiques pour ceux qui sont véritablement nos adversaires » |
+| 01/09 | « J’ai la tronche d’un ticket ? » : Xavier Bertrand recadre Gérald Darmanin, soutien à Edouard Philippe |
+| 31/08 | « Je suis convaincu que le rassemblement de la droite et du centre est indispensable » : Édouard Philippe répond à nos questions à la Foire de Châlons |
+| 31/08 | Visite du candidat Édouard Philippe, concert de Chico & the Gypsies... Revivez ce lundi 31 août à la Foire de Châlons |
+| 30/08 | À la Foire de Châlons, Gabriel Attal a aussi « fusillé » Édouard Philippe |
+| 27/08 | Édouard Philippe, Gabriel Attal, le RN, Karim Bouamrane ou François Hollande… Élysée en vue depuis la Foire de Châlons |
+| 22/08 | Accusé de céder à la « démagogie », Édouard Philippe invite Mélenchon à venir à Mayotte constater la « crise migratoire » |
+| 17/08 | Présidentielle 2027 : Gérald Darmanin se range derrière Édouard Philippe |
+| 17/08 | L’actualité vue par Alex : Gérald Darmanin ne sera pas candidat à l’élection présidentielle de 2027 et apporte son soutien à Édouard Philippe |
+| 18/07 | Édouard Philippe sera présent à la Foire de Châlons en tant que candidat à l’élection présidentielle |
+| 10/07 | Présidentielle 2027 : les partisans de Gabriel Attal et d’Edouard Philippe s’organisent en Haute-Marne |
+| 05/07 | L’actualité vue par Alex : Edouard Philippe croit en ses chances pour la présidentielle |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=%C3%89douard+Philippe, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.

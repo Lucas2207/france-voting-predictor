@@ -455,6 +455,18 @@ Total : 1 article(s) (1 par le titre, 0 par le chapô seul).
 |---|---|
 | 18/09 | Présidentielle 2027 : Éric Zemmour confirme qu’il sera candidat et durcit encore son discours sur l’immigration |
 
+## L'Union - L'Ardennais (lunion.fr)
+
+Source : la recherche d'archives du site (`/archives/recherche?datefilter=lastyear&sort=date+desc&word=<nom>&start=<n>`, triée par date décroissante), relevé le 25 novembre 2026. Un article est compté s'il est daté du 1er juillet au 1er novembre 2026 (date affichée) et que le nom du candidat figure dans son **titre** ; un article qui cite plusieurs candidats compte pour chacun. Voir la section 33 de [METHODOLOGIE.md](../METHODOLOGIE.md).
+
+Total : 3 article(s) (3 par le titre).
+
+| Date (2026) | Titre |
+|---|---|
+| 17/09 | Présidentielle 2027 : Éric Zemmour déclare officiellement sa candidature |
+| 03/09 | Selfies et caméras, Éric Zemmour attire les foules à la Foire de Châlons |
+| 24/08 | David Lisnard et Éric Zemmour s’ajoutent à la liste des visiteurs politiques de la Foire de Châlons 2026 |
+
 ## Le Parisien
 
 Source : moteur de recherche de https://www.leparisien.fr/recherche/?q=%C3%89ric+Zemmour, parcouru jusqu'au 1er juillet 2026. Titres reconstitués à partir des adresses.
