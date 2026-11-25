@@ -137,6 +137,8 @@ Relevé le 1er novembre 2026. Période visée : du 1er juillet 2026 à aujourd'h
 
 **Contrôles :** nombre de lignes de chaque section CNEWS comparé au total annoncé. Aucun article de la période pour Nathalie Arthaud ; un seul pour François Ruffin.
 
+**Villepin et Riner (26 novembre 2026) :** relevés avec la requête sur le seul nom de famille.
+
 ## 7. Libération (liberation.fr)
 
 **Source :** la recherche avancée du site, `https://www.liberation.fr/recherche/?searchKeywords=<nom complet>&sort=date`, avec les champs « Du » et « Au » réglés sur le 01/07/2026 et le 01/11/2026 (`startDate` et `endDate` dans l'adresse). Les mêmes bornes sont envoyées à l'interface de recherche du site.
@@ -191,6 +193,8 @@ Relevé le 1er novembre 2026. Période visée : du 1er juillet 2026 à aujourd'h
 - un article peut être compté pour plusieurs candidats s'il les cite tous les deux.
 
 **Contrôles :** nombre de lignes de chaque section Europe 1 comparé au total annoncé. Aucun article de la période pour François Ruffin ni pour Nathalie Arthaud.
+
+**Villepin et Riner (26 novembre 2026) :** relevés avec la requête sur le seul nom de famille.
 
 ## 10. La Dépêche (ladepeche.fr)
 
@@ -587,7 +591,7 @@ Pour garder une méthode commune avec les journaux, ARTE n'est pas intégré aux
 
 - pas d'ouverture des articles un par un : le classement se base sur le titre et le chapô ou l'adresse ;
 - pas de couverture de BFMTV pour juillet à septembre 2026 ;
-- Dominique de Villepin et Teddy Riner (candidats ajoutés le 23 novembre 2026) ne sont relevés que pour les médias traités à partir de cette date (et BFMTV, Canal+). Restent sans relevé pour eux : Radio France, TF1, franceinfo, Le Monde, CNEWS, Libération, Ouest-France, Europe 1, La Dépêche, RMC, Sud Ouest, ARTE, Le Parisien. Leurs totaux ne sont donc pas comparables à ceux des autres candidats ;
+- Dominique de Villepin et Teddy Riner (candidats ajoutés le 23 novembre 2026) ne sont relevés que pour les médias traités à partir de cette date (et BFMTV, Canal+). Restent sans relevé pour eux : Radio France, TF1, franceinfo, Le Monde, Libération, Ouest-France, La Dépêche, RMC, Sud Ouest, ARTE, Le Parisien. Leurs totaux ne sont donc pas comparables à ceux des autres candidats ;
 - France 3 Régions et Radio Classique ne sont pas relevés, et le relevé de Nice-Matin, interrompu, n'a rien produit (voir la section 34) ;
 - les dossiers Radio France ne sont pas tous à jour pour les personnalités sans page propre (Zemmour, Lisnard, Roussel) : ils sont couverts par les pages des autres personnalités citées dans les chapôs.
 
