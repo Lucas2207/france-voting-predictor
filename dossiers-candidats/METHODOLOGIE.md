@@ -591,11 +591,16 @@ Pour garder une méthode commune avec les journaux, ARTE n'est pas intégré aux
 
 **RFM et Europe 2 :** recherche du site (`/search/<nom>`), les 15 candidats (nom de famille), titres des résultats. **Aucun article daté du 1er juillet au 1er novembre 2026** : les seuls titres contenant un nom sont antérieurs (2022 à 2024), et pour « Attal » sur RFM il s'agit d'Yvan Attal. La recherche de ces sites renvoie surtout des contenus musicaux et peut ne pas tout retrouver.
 
+**Radio Nova, Nostalgie, Rire et Chansons :** la recherche de Nova n'est pas exploitable par script, et le `robots.txt` de Nostalgie et Rire et Chansons interdit leur recherche aux robots. Le relevé passe donc par les plans de site qu'ils publient : nom de famille cherché dans l'adresse de la page (formée à partir du titre), date vérifiée sur la page.
+- Radio Nova : aucun contenu dans la période (une seule adresse correspondante, « Fattal », sans rapport) ;
+- Nostalgie : aucun contenu dans la période ;
+- Rire et Chansons : **1 contenu** (vidéo, 18 septembre, Mélenchon).
+
+Limites : un nom cité seulement dans le chapô ou le texte n'est pas trouvé, et la complétude des plans de site n'est pas garantie.
+
 **Non relevés à ce jour :**
 - Skyrock : aucune adresse de recherche trouvée (erreur 404) ;
-- Radio Nova : la recherche interrogée par script ne renvoie aucun résultat, même pour un mot courant : elle n'est pas exploitable ainsi ;
-- Nostalgie, Rire et Chansons : la recherche ne fonctionne que dans un navigateur ;
-- NRJ, Chérie FM : accès par script refusé (403) ;
+- NRJ, Chérie FM : le `robots.txt` interdit la recherche aux robots et les plans de site refusent l'accès par script (403) ; un essai du plan de site de NRJ dans le navigateur intégré n'a pas abouti (l'onglet s'est fermé) ;
 - RTL2, Fun Radio : le `robots.txt` interdit la page de recherche à tous les robots.
 
 ## 36. Ce qui n'est pas fait
