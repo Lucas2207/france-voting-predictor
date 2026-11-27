@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-11-27 15:15",
+ "last_updated": "2026-11-27 15:20",
  "today": "2026-11-27",
  "candidates": [
   {
@@ -239,95 +239,95 @@
  "projection": [
   {
    "id": "lepen",
-   "poll_avg": 31.7,
-   "poll_lo": 25.8,
-   "poll_hi": 37.6,
-   "n_polls": 5,
-   "change_7d": -0.1,
+   "poll_avg": 31.2,
+   "poll_lo": 27.8,
+   "poll_hi": 34.7,
+   "n_polls": 6,
+   "change_7d": 0.2,
    "media": {
-    "articles_7d": 274,
-    "share_7d": 0.16,
+    "articles_7d": 286,
+    "share_7d": 0.164,
     "adjustment": 0.0,
     "status": "ok"
    },
-   "projected": 31.7,
-   "projected_lo": 25.8,
-   "projected_hi": 37.6
+   "projected": 31.2,
+   "projected_lo": 27.8,
+   "projected_hi": 34.7
   },
   {
    "id": "melenchon",
-   "poll_avg": 17.6,
-   "poll_lo": 15.3,
-   "poll_hi": 20.0,
-   "n_polls": 5,
-   "change_7d": 0.0,
+   "poll_avg": 17.4,
+   "poll_lo": 15.1,
+   "poll_hi": 19.6,
+   "n_polls": 6,
+   "change_7d": -0.1,
    "media": {
-    "articles_7d": 228,
+    "articles_7d": 232,
     "share_7d": 0.133,
     "adjustment": 0.0,
     "status": "ok"
    },
-   "projected": 17.6,
-   "projected_lo": 15.3,
-   "projected_hi": 20.0
-  },
-  {
-   "id": "glucksmann",
-   "poll_avg": 10.3,
-   "poll_lo": 7.8,
-   "poll_hi": 12.8,
-   "n_polls": 5,
-   "change_7d": -0.3,
-   "media": {
-    "articles_7d": 77,
-    "share_7d": 0.045,
-    "adjustment": 0.0,
-    "status": "ok"
-   },
-   "projected": 10.3,
-   "projected_lo": 7.8,
-   "projected_hi": 12.8
-  },
-  {
-   "id": "philippe",
-   "poll_avg": 10.1,
-   "poll_lo": 7.2,
-   "poll_hi": 13.1,
-   "n_polls": 5,
-   "change_7d": -0.3,
-   "media": {
-    "articles_7d": 207,
-    "share_7d": 0.121,
-    "adjustment": 0.0,
-    "status": "ok"
-   },
-   "projected": 10.1,
-   "projected_lo": 7.2,
-   "projected_hi": 13.1
+   "projected": 17.4,
+   "projected_lo": 15.1,
+   "projected_hi": 19.6
   },
   {
    "id": "lisnard",
-   "poll_avg": 8.4,
-   "poll_lo": 6.8,
-   "poll_hi": 10.0,
-   "n_polls": 5,
-   "change_7d": 0.1,
+   "poll_avg": 9.7,
+   "poll_lo": 6.3,
+   "poll_hi": 13.2,
+   "n_polls": 6,
+   "change_7d": 0.7,
    "media": {
-    "articles_7d": 404,
-    "share_7d": 0.235,
+    "articles_7d": 408,
+    "share_7d": 0.234,
     "adjustment": 0.0,
     "status": "ok"
    },
-   "projected": 8.4,
-   "projected_lo": 6.8,
-   "projected_hi": 10.0
+   "projected": 9.7,
+   "projected_lo": 6.3,
+   "projected_hi": 13.2
+  },
+  {
+   "id": "glucksmann",
+   "poll_avg": 9.6,
+   "poll_lo": 7.2,
+   "poll_hi": 12.0,
+   "n_polls": 6,
+   "change_7d": -0.2,
+   "media": {
+    "articles_7d": 80,
+    "share_7d": 0.046,
+    "adjustment": 0.0,
+    "status": "ok"
+   },
+   "projected": 9.6,
+   "projected_lo": 7.2,
+   "projected_hi": 12.0
+  },
+  {
+   "id": "philippe",
+   "poll_avg": 8.8,
+   "poll_lo": 6.6,
+   "poll_hi": 10.9,
+   "n_polls": 6,
+   "change_7d": -0.8,
+   "media": {
+    "articles_7d": 208,
+    "share_7d": 0.119,
+    "adjustment": 0.0,
+    "status": "ok"
+   },
+   "projected": 8.8,
+   "projected_lo": 6.6,
+   "projected_hi": 10.9
   },
   {
    "id": "retailleau",
-   "poll_avg": 4.8,
-   "poll_lo": 3.3,
-   "poll_hi": 6.3,
-   "n_polls": 5,
+   "poll_avg": 4.5,
+   "poll_lo": 3.0,
+   "poll_hi": 5.9,
+   "n_polls": 6,
    "change_7d": -0.3,
    "media": {
     "articles_7d": 71,
@@ -335,88 +335,71 @@
     "adjustment": 0.0,
     "status": "ok"
    },
-   "projected": 4.8,
-   "projected_lo": 3.3,
-   "projected_hi": 6.3
+   "projected": 4.5,
+   "projected_lo": 3.0,
+   "projected_hi": 5.9
   },
   {
    "id": "attal",
-   "poll_avg": 4.6,
-   "poll_lo": 0.6,
-   "poll_hi": 8.6,
-   "n_polls": 5,
-   "change_7d": -0.2,
+   "poll_avg": 4.2,
+   "poll_lo": 2.3,
+   "poll_hi": 6.2,
+   "n_polls": 6,
+   "change_7d": -0.1,
    "media": {
     "articles_7d": 75,
-    "share_7d": 0.044,
+    "share_7d": 0.043,
     "adjustment": 0.0,
     "status": "ok"
    },
-   "projected": 4.6,
-   "projected_lo": 0.6,
-   "projected_hi": 8.6
+   "projected": 4.2,
+   "projected_lo": 2.3,
+   "projected_hi": 6.2
   },
   {
    "id": "riner",
-   "poll_avg": 3.6,
-   "poll_lo": 1.4,
-   "poll_hi": 5.8,
-   "n_polls": 3,
-   "change_7d": 0.0,
+   "poll_avg": 3.4,
+   "poll_lo": 1.3,
+   "poll_hi": 5.4,
+   "n_polls": 6,
+   "change_7d": -0.4,
    "media": {
-    "articles_7d": 112,
+    "articles_7d": 114,
     "share_7d": 0.065,
     "adjustment": 0.0,
     "status": "ok"
    },
-   "projected": 3.6,
-   "projected_lo": 1.4,
-   "projected_hi": 5.8
+   "projected": 3.4,
+   "projected_lo": 1.3,
+   "projected_hi": 5.4
   },
   {
    "id": "zemmour",
    "poll_avg": 3.0,
-   "poll_lo": 1.4,
-   "poll_hi": 4.5,
-   "n_polls": 5,
+   "poll_lo": 2.0,
+   "poll_hi": 4.0,
+   "n_polls": 6,
    "change_7d": -0.1,
    "media": {
     "articles_7d": 93,
-    "share_7d": 0.054,
+    "share_7d": 0.053,
     "adjustment": 0.0,
     "status": "ok"
    },
    "projected": 3.0,
-   "projected_lo": 1.4,
-   "projected_hi": 4.5
+   "projected_lo": 2.0,
+   "projected_hi": 4.0
   },
   {
-   "id": "polony",
-   "poll_avg": 1.9,
-   "poll_lo": 0.8,
-   "poll_hi": 3.0,
-   "n_polls": 2,
-   "change_7d": 0.0,
-   "media": {
-    "articles_7d": 21,
-    "share_7d": 0.012,
-    "adjustment": 0.0,
-    "status": "ok"
-   },
-   "projected": 1.9,
-   "projected_lo": 0.8,
-   "projected_hi": 3.0
-  },
-  {
-   "id": "dupontaignan",
+   "id": "ruffin",
    "poll_avg": 1.8,
    "poll_lo": 0.8,
    "poll_hi": 2.8,
-   "n_polls": 5,
+   "n_polls": 2,
    "change_7d": 0.0,
    "media": {
-    "articles_7d": 14,
-    "share_7d": 0.008,
+    "articles_7d": 70,
+    "share_7d": 0.04,
     "adjustment": 0.0,
     "status": "ok"
    },
@@ -425,62 +408,79 @@
    "projected_hi": 2.8
   },
   {
-   "id": "roussel",
-   "poll_avg": 1.5,
-   "poll_lo": 0.5,
-   "poll_hi": 2.5,
-   "n_polls": 5,
-   "change_7d": -0.1,
-   "media": {
-    "articles_7d": 16,
-    "share_7d": 0.009,
-    "adjustment": 0.0,
-    "status": "ok"
-   },
-   "projected": 1.5,
-   "projected_lo": 0.5,
-   "projected_hi": 2.5
-  },
-  {
-   "id": "ruffin",
-   "poll_avg": 1.5,
-   "poll_lo": 0.5,
-   "poll_hi": 2.5,
-   "n_polls": 1,
+   "id": "dupontaignan",
+   "poll_avg": 1.7,
+   "poll_lo": 0.7,
+   "poll_hi": 2.7,
+   "n_polls": 6,
    "change_7d": 0.0,
    "media": {
-    "articles_7d": 70,
-    "share_7d": 0.041,
+    "articles_7d": 14,
+    "share_7d": 0.008,
     "adjustment": 0.0,
     "status": "ok"
    },
-   "projected": 1.5,
-   "projected_lo": 0.5,
-   "projected_hi": 2.5
+   "projected": 1.7,
+   "projected_lo": 0.7,
+   "projected_hi": 2.7
   },
   {
    "id": "villepin",
-   "poll_avg": 1.5,
-   "poll_lo": 0.4,
-   "poll_hi": 2.6,
-   "n_polls": 2,
-   "change_7d": 0.0,
+   "poll_avg": 1.7,
+   "poll_lo": 0.7,
+   "poll_hi": 2.7,
+   "n_polls": 5,
+   "change_7d": 0.1,
    "media": {
     "articles_7d": 52,
     "share_7d": 0.03,
     "adjustment": 0.0,
     "status": "ok"
    },
-   "projected": 1.5,
-   "projected_lo": 0.4,
+   "projected": 1.7,
+   "projected_lo": 0.7,
+   "projected_hi": 2.7
+  },
+  {
+   "id": "roussel",
+   "poll_avg": 1.6,
+   "poll_lo": 0.6,
+   "poll_hi": 2.6,
+   "n_polls": 6,
+   "change_7d": 0.1,
+   "media": {
+    "articles_7d": 16,
+    "share_7d": 0.009,
+    "adjustment": 0.0,
+    "status": "ok"
+   },
+   "projected": 1.6,
+   "projected_lo": 0.6,
    "projected_hi": 2.6
+  },
+  {
+   "id": "polony",
+   "poll_avg": 1.5,
+   "poll_lo": 0.3,
+   "poll_hi": 2.8,
+   "n_polls": 3,
+   "change_7d": 0.0,
+   "media": {
+    "articles_7d": 21,
+    "share_7d": 0.012,
+    "adjustment": 0.0,
+    "status": "ok"
+   },
+   "projected": 1.5,
+   "projected_lo": 0.3,
+   "projected_hi": 2.8
   },
   {
    "id": "arthaud",
    "poll_avg": 0.7,
    "poll_lo": 0,
    "poll_hi": 1.7,
-   "n_polls": 5,
+   "n_polls": 6,
    "change_7d": 0.0,
    "media": {
     "articles_7d": 2,
@@ -13019,69 +13019,69 @@
    "date": "2026-11-04",
    "polls": {
     "lepen": {
-     "mean": 34.2,
-     "lo": 30.7,
-     "hi": 37.7,
+     "mean": 34.8,
+     "lo": 30.4,
+     "hi": 39.2,
      "n_polls": 8
     },
     "melenchon": {
      "mean": 17.1,
-     "lo": 13.8,
-     "hi": 20.3,
+     "lo": 14.0,
+     "hi": 20.2,
      "n_polls": 8
     },
     "philippe": {
-     "mean": 13.4,
-     "lo": 7.6,
-     "hi": 19.1,
+     "mean": 15.4,
+     "lo": 9.5,
+     "hi": 21.4,
      "n_polls": 8
     },
     "glucksmann": {
-     "mean": 12.8,
-     "lo": 9.9,
-     "hi": 15.8,
+     "mean": 13.8,
+     "lo": 10.3,
+     "hi": 17.4,
      "n_polls": 8
     },
     "attal": {
-     "mean": 8.0,
-     "lo": 3.2,
-     "hi": 12.8,
+     "mean": 9.4,
+     "lo": 3.3,
+     "hi": 15.5,
      "n_polls": 8
     },
     "zemmour": {
      "mean": 4.3,
-     "lo": 3.1,
+     "lo": 3.2,
      "hi": 5.4,
      "n_polls": 8
     },
     "retailleau": {
-     "mean": 6.5,
-     "lo": 3.4,
-     "hi": 9.6,
+     "mean": 8.7,
+     "lo": 2.3,
+     "hi": 15.1,
      "n_polls": 8
     },
     "lisnard": {
-     "mean": 6.8,
-     "lo": 4.6,
-     "hi": 9.0,
+     "mean": 8.6,
+     "lo": 1.9,
+     "hi": 15.4,
      "n_polls": 7
     },
     "roussel": {
-     "mean": 1.8,
+     "mean": 2.1,
      "lo": 0.8,
-     "hi": 2.8,
+     "hi": 3.4,
      "n_polls": 8
     },
     "dupontaignan": {
-     "mean": 2.0,
-     "lo": 0.6,
+     "mean": 2.1,
+     "lo": 0.8,
      "hi": 3.3,
      "n_polls": 8
     },
     "arthaud": {
-     "mean": 0.6,
+     "mean": 0.7,
      "lo": 0,
-     "hi": 1.6,
+     "hi": 1.7,
      "n_polls": 8
     },
     "ruffin": {
@@ -13108,33 +13108,33 @@
    "date": "2026-11-05",
    "polls": {
     "lepen": {
-     "mean": 34.5,
-     "lo": 31.2,
-     "hi": 37.7,
+     "mean": 35.0,
+     "lo": 31.0,
+     "hi": 39.0,
      "n_polls": 8
     },
     "melenchon": {
      "mean": 17.5,
-     "lo": 14.2,
-     "hi": 20.8,
+     "lo": 14.3,
+     "hi": 20.7,
      "n_polls": 8
     },
     "philippe": {
-     "mean": 12.8,
-     "lo": 7.2,
-     "hi": 18.3,
+     "mean": 14.6,
+     "lo": 8.1,
+     "hi": 21.1,
      "n_polls": 8
     },
     "glucksmann": {
-     "mean": 12.5,
+     "mean": 13.4,
      "lo": 9.4,
-     "hi": 15.5,
+     "hi": 17.3,
      "n_polls": 8
     },
     "attal": {
-     "mean": 7.9,
-     "lo": 3.4,
-     "hi": 12.4,
+     "mean": 9.2,
+     "lo": 3.3,
+     "hi": 15.0,
      "n_polls": 8
     },
     "zemmour": {
@@ -13144,27 +13144,27 @@
      "n_polls": 8
     },
     "retailleau": {
-     "mean": 6.6,
-     "lo": 3.8,
-     "hi": 9.3,
+     "mean": 8.5,
+     "lo": 2.4,
+     "hi": 14.5,
      "n_polls": 8
     },
     "lisnard": {
-     "mean": 7.3,
-     "lo": 4.4,
-     "hi": 10.2,
+     "mean": 8.9,
+     "lo": 2.7,
+     "hi": 15.1,
      "n_polls": 7
     },
     "roussel": {
-     "mean": 1.7,
-     "lo": 0.7,
-     "hi": 2.7,
+     "mean": 2.0,
+     "lo": 0.6,
+     "hi": 3.4,
      "n_polls": 8
     },
     "dupontaignan": {
-     "mean": 1.9,
-     "lo": 0.6,
-     "hi": 3.2,
+     "mean": 2.0,
+     "lo": 0.7,
+     "hi": 3.3,
      "n_polls": 8
     },
     "arthaud": {
@@ -13197,33 +13197,33 @@
    "date": "2026-11-06",
    "polls": {
     "lepen": {
-     "mean": 34.5,
-     "lo": 31.2,
-     "hi": 37.7,
+     "mean": 35.0,
+     "lo": 31.0,
+     "hi": 39.0,
      "n_polls": 8
     },
     "melenchon": {
      "mean": 17.5,
-     "lo": 14.2,
-     "hi": 20.8,
+     "lo": 14.3,
+     "hi": 20.7,
      "n_polls": 8
     },
     "philippe": {
-     "mean": 12.8,
-     "lo": 7.2,
-     "hi": 18.3,
+     "mean": 14.6,
+     "lo": 8.1,
+     "hi": 21.1,
      "n_polls": 8
     },
     "glucksmann": {
-     "mean": 12.5,
+     "mean": 13.4,
      "lo": 9.4,
-     "hi": 15.5,
+     "hi": 17.3,
      "n_polls": 8
     },
     "attal": {
-     "mean": 7.9,
-     "lo": 3.4,
-     "hi": 12.4,
+     "mean": 9.2,
+     "lo": 3.3,
+     "hi": 15.0,
      "n_polls": 8
     },
     "zemmour": {
@@ -13233,27 +13233,27 @@
      "n_polls": 8
     },
     "retailleau": {
-     "mean": 6.6,
-     "lo": 3.8,
-     "hi": 9.3,
+     "mean": 8.5,
+     "lo": 2.4,
+     "hi": 14.5,
      "n_polls": 8
     },
     "lisnard": {
-     "mean": 7.3,
-     "lo": 4.4,
-     "hi": 10.2,
+     "mean": 8.9,
+     "lo": 2.7,
+     "hi": 15.1,
      "n_polls": 7
     },
     "roussel": {
-     "mean": 1.7,
-     "lo": 0.7,
-     "hi": 2.7,
+     "mean": 2.0,
+     "lo": 0.6,
+     "hi": 3.4,
      "n_polls": 8
     },
     "dupontaignan": {
-     "mean": 1.9,
-     "lo": 0.6,
-     "hi": 3.2,
+     "mean": 2.0,
+     "lo": 0.7,
+     "hi": 3.3,
      "n_polls": 8
     },
     "arthaud": {
@@ -13286,62 +13286,62 @@
    "date": "2026-11-07",
    "polls": {
     "lepen": {
-     "mean": 34.2,
-     "lo": 31.3,
-     "hi": 37.2,
+     "mean": 34.8,
+     "lo": 30.9,
+     "hi": 38.7,
      "n_polls": 7
     },
     "melenchon": {
-     "mean": 17.4,
-     "lo": 14.0,
-     "hi": 20.9,
+     "mean": 17.5,
+     "lo": 14.1,
+     "hi": 20.8,
      "n_polls": 7
     },
     "philippe": {
-     "mean": 12.5,
-     "lo": 7.2,
-     "hi": 17.7,
+     "mean": 14.4,
+     "lo": 7.9,
+     "hi": 21.0,
      "n_polls": 7
     },
     "glucksmann": {
-     "mean": 12.7,
-     "lo": 9.8,
-     "hi": 15.5,
+     "mean": 13.6,
+     "lo": 10.0,
+     "hi": 17.2,
      "n_polls": 7
     },
     "attal": {
-     "mean": 7.7,
-     "lo": 3.4,
-     "hi": 12.0,
+     "mean": 9.0,
+     "lo": 3.1,
+     "hi": 15.0,
      "n_polls": 7
     },
     "zemmour": {
-     "mean": 3.8,
-     "lo": 2.8,
-     "hi": 4.8,
+     "mean": 3.9,
+     "lo": 2.9,
+     "hi": 4.9,
      "n_polls": 7
     },
     "retailleau": {
-     "mean": 6.5,
-     "lo": 3.7,
-     "hi": 9.3,
+     "mean": 8.5,
+     "lo": 2.3,
+     "hi": 14.8,
      "n_polls": 7
     },
     "lisnard": {
-     "mean": 7.3,
-     "lo": 4.4,
-     "hi": 10.2,
+     "mean": 8.9,
+     "lo": 2.7,
+     "hi": 15.1,
      "n_polls": 7
     },
     "roussel": {
-     "mean": 1.7,
-     "lo": 0.7,
-     "hi": 2.7,
+     "mean": 2.0,
+     "lo": 0.5,
+     "hi": 3.4,
      "n_polls": 7
     },
     "dupontaignan": {
-     "mean": 1.9,
-     "lo": 0.5,
+     "mean": 2.0,
+     "lo": 0.6,
      "hi": 3.3,
      "n_polls": 7
     },
@@ -13375,62 +13375,62 @@
    "date": "2026-11-08",
    "polls": {
     "lepen": {
-     "mean": 34.2,
-     "lo": 31.3,
-     "hi": 37.2,
+     "mean": 34.8,
+     "lo": 30.9,
+     "hi": 38.7,
      "n_polls": 7
     },
     "melenchon": {
-     "mean": 17.4,
-     "lo": 14.0,
-     "hi": 20.9,
+     "mean": 17.5,
+     "lo": 14.1,
+     "hi": 20.8,
      "n_polls": 7
     },
     "philippe": {
-     "mean": 12.5,
-     "lo": 7.2,
-     "hi": 17.7,
+     "mean": 14.4,
+     "lo": 7.9,
+     "hi": 21.0,
      "n_polls": 7
     },
     "glucksmann": {
-     "mean": 12.7,
-     "lo": 9.8,
-     "hi": 15.5,
+     "mean": 13.6,
+     "lo": 10.0,
+     "hi": 17.2,
      "n_polls": 7
     },
     "attal": {
-     "mean": 7.7,
-     "lo": 3.4,
-     "hi": 12.0,
+     "mean": 9.0,
+     "lo": 3.1,
+     "hi": 15.0,
      "n_polls": 7
     },
     "zemmour": {
-     "mean": 3.8,
-     "lo": 2.8,
-     "hi": 4.8,
+     "mean": 3.9,
+     "lo": 2.9,
+     "hi": 4.9,
      "n_polls": 7
     },
     "retailleau": {
-     "mean": 6.5,
-     "lo": 3.7,
-     "hi": 9.3,
+     "mean": 8.5,
+     "lo": 2.3,
+     "hi": 14.8,
      "n_polls": 7
     },
     "lisnard": {
-     "mean": 7.3,
-     "lo": 4.4,
-     "hi": 10.2,
+     "mean": 8.9,
+     "lo": 2.7,
+     "hi": 15.1,
      "n_polls": 7
     },
     "roussel": {
-     "mean": 1.7,
-     "lo": 0.7,
-     "hi": 2.7,
+     "mean": 2.0,
+     "lo": 0.5,
+     "hi": 3.4,
      "n_polls": 7
     },
     "dupontaignan": {
-     "mean": 1.9,
-     "lo": 0.5,
+     "mean": 2.0,
+     "lo": 0.6,
      "hi": 3.3,
      "n_polls": 7
     },
@@ -13464,62 +13464,62 @@
    "date": "2026-11-09",
    "polls": {
     "lepen": {
-     "mean": 34.2,
-     "lo": 31.3,
-     "hi": 37.2,
+     "mean": 34.8,
+     "lo": 30.9,
+     "hi": 38.7,
      "n_polls": 7
     },
     "melenchon": {
-     "mean": 17.4,
-     "lo": 14.0,
-     "hi": 20.9,
+     "mean": 17.5,
+     "lo": 14.1,
+     "hi": 20.8,
      "n_polls": 7
     },
     "philippe": {
-     "mean": 12.5,
-     "lo": 7.2,
-     "hi": 17.7,
+     "mean": 14.4,
+     "lo": 7.9,
+     "hi": 21.0,
      "n_polls": 7
     },
     "glucksmann": {
-     "mean": 12.7,
-     "lo": 9.8,
-     "hi": 15.5,
+     "mean": 13.6,
+     "lo": 10.0,
+     "hi": 17.2,
      "n_polls": 7
     },
     "attal": {
-     "mean": 7.7,
-     "lo": 3.4,
-     "hi": 12.0,
+     "mean": 9.0,
+     "lo": 3.1,
+     "hi": 15.0,
      "n_polls": 7
     },
     "zemmour": {
-     "mean": 3.8,
-     "lo": 2.8,
-     "hi": 4.8,
+     "mean": 3.9,
+     "lo": 2.9,
+     "hi": 4.9,
      "n_polls": 7
     },
     "retailleau": {
-     "mean": 6.5,
-     "lo": 3.7,
-     "hi": 9.3,
+     "mean": 8.5,
+     "lo": 2.3,
+     "hi": 14.8,
      "n_polls": 7
     },
     "lisnard": {
-     "mean": 7.3,
-     "lo": 4.4,
-     "hi": 10.2,
+     "mean": 8.9,
+     "lo": 2.7,
+     "hi": 15.1,
      "n_polls": 7
     },
     "roussel": {
-     "mean": 1.7,
-     "lo": 0.7,
-     "hi": 2.7,
+     "mean": 2.0,
+     "lo": 0.5,
+     "hi": 3.4,
      "n_polls": 7
     },
     "dupontaignan": {
-     "mean": 1.9,
-     "lo": 0.5,
+     "mean": 2.0,
+     "lo": 0.6,
      "hi": 3.3,
      "n_polls": 7
     },
@@ -13553,63 +13553,63 @@
    "date": "2026-11-10",
    "polls": {
     "lepen": {
-     "mean": 32.8,
-     "lo": 26.5,
-     "hi": 39.0,
+     "mean": 33.3,
+     "lo": 26.4,
+     "hi": 40.2,
      "n_polls": 7
     },
     "melenchon": {
-     "mean": 17.4,
-     "lo": 14.2,
-     "hi": 20.7,
+     "mean": 17.5,
+     "lo": 14.3,
+     "hi": 20.6,
      "n_polls": 7
     },
     "philippe": {
-     "mean": 10.8,
-     "lo": 6.3,
-     "hi": 15.3,
+     "mean": 12.5,
+     "lo": 5.1,
+     "hi": 20.0,
      "n_polls": 7
     },
     "glucksmann": {
-     "mean": 11.4,
-     "lo": 7.1,
-     "hi": 15.7,
+     "mean": 12.2,
+     "lo": 6.8,
+     "hi": 17.7,
      "n_polls": 7
     },
     "attal": {
-     "mean": 6.0,
-     "lo": 1.8,
-     "hi": 10.3,
+     "mean": 7.2,
+     "lo": 0.4,
+     "hi": 14.0,
      "n_polls": 7
     },
     "zemmour": {
-     "mean": 3.3,
+     "mean": 3.4,
      "lo": 1.6,
-     "hi": 5.0,
+     "hi": 5.1,
      "n_polls": 7
     },
     "retailleau": {
-     "mean": 5.6,
-     "lo": 3.2,
-     "hi": 8.0,
+     "mean": 7.3,
+     "lo": 0.7,
+     "hi": 14.0,
      "n_polls": 7
     },
     "lisnard": {
-     "mean": 8.2,
-     "lo": 4.5,
-     "hi": 11.9,
+     "mean": 9.4,
+     "lo": 3.8,
+     "hi": 15.0,
      "n_polls": 7
     },
     "roussel": {
-     "mean": 1.6,
-     "lo": 0.6,
-     "hi": 2.6,
+     "mean": 1.8,
+     "lo": 0.5,
+     "hi": 3.2,
      "n_polls": 7
     },
     "dupontaignan": {
-     "mean": 1.7,
-     "lo": 0.7,
-     "hi": 2.7,
+     "mean": 1.8,
+     "lo": 0.8,
+     "hi": 2.8,
      "n_polls": 7
     },
     "arthaud": {
@@ -13648,63 +13648,63 @@
    "date": "2026-11-11",
    "polls": {
     "lepen": {
-     "mean": 32.8,
-     "lo": 26.5,
-     "hi": 39.0,
+     "mean": 33.3,
+     "lo": 26.4,
+     "hi": 40.2,
      "n_polls": 7
     },
     "melenchon": {
-     "mean": 17.4,
-     "lo": 14.2,
-     "hi": 20.7,
+     "mean": 17.5,
+     "lo": 14.3,
+     "hi": 20.6,
      "n_polls": 7
     },
     "philippe": {
-     "mean": 10.8,
-     "lo": 6.3,
-     "hi": 15.3,
+     "mean": 12.5,
+     "lo": 5.1,
+     "hi": 20.0,
      "n_polls": 7
     },
     "glucksmann": {
-     "mean": 11.4,
-     "lo": 7.1,
-     "hi": 15.7,
+     "mean": 12.2,
+     "lo": 6.8,
+     "hi": 17.7,
      "n_polls": 7
     },
     "attal": {
-     "mean": 6.0,
-     "lo": 1.8,
-     "hi": 10.3,
+     "mean": 7.2,
+     "lo": 0.4,
+     "hi": 14.0,
      "n_polls": 7
     },
     "zemmour": {
-     "mean": 3.3,
+     "mean": 3.4,
      "lo": 1.6,
-     "hi": 5.0,
+     "hi": 5.1,
      "n_polls": 7
     },
     "retailleau": {
-     "mean": 5.6,
-     "lo": 3.2,
-     "hi": 8.0,
+     "mean": 7.3,
+     "lo": 0.7,
+     "hi": 14.0,
      "n_polls": 7
     },
     "lisnard": {
-     "mean": 8.2,
-     "lo": 4.5,
-     "hi": 11.9,
+     "mean": 9.4,
+     "lo": 3.8,
+     "hi": 15.0,
      "n_polls": 7
     },
     "roussel": {
-     "mean": 1.6,
-     "lo": 0.6,
-     "hi": 2.6,
+     "mean": 1.8,
+     "lo": 0.5,
+     "hi": 3.2,
      "n_polls": 7
     },
     "dupontaignan": {
-     "mean": 1.7,
-     "lo": 0.7,
-     "hi": 2.7,
+     "mean": 1.8,
+     "lo": 0.8,
+     "hi": 2.8,
      "n_polls": 7
     },
     "arthaud": {
@@ -13743,63 +13743,63 @@
    "date": "2026-11-12",
    "polls": {
     "lepen": {
-     "mean": 32.3,
-     "lo": 26.2,
-     "hi": 38.4,
+     "mean": 32.8,
+     "lo": 25.9,
+     "hi": 39.8,
      "n_polls": 7
     },
     "melenchon": {
-     "mean": 17.3,
-     "lo": 14.0,
+     "mean": 17.4,
+     "lo": 14.2,
      "hi": 20.6,
      "n_polls": 7
     },
     "philippe": {
-     "mean": 10.9,
-     "lo": 6.4,
-     "hi": 15.5,
+     "mean": 12.6,
+     "lo": 5.3,
+     "hi": 20.0,
      "n_polls": 7
     },
     "glucksmann": {
-     "mean": 11.1,
-     "lo": 6.9,
-     "hi": 15.3,
+     "mean": 11.9,
+     "lo": 6.4,
+     "hi": 17.5,
      "n_polls": 7
     },
     "attal": {
-     "mean": 5.3,
-     "lo": 0.8,
-     "hi": 9.8,
+     "mean": 6.5,
+     "lo": 0,
+     "hi": 13.9,
      "n_polls": 7
     },
     "zemmour": {
      "mean": 3.2,
      "lo": 1.4,
-     "hi": 5.0,
+     "hi": 5.1,
      "n_polls": 7
     },
     "retailleau": {
-     "mean": 5.5,
-     "lo": 3.1,
-     "hi": 8.0,
+     "mean": 7.2,
+     "lo": 0.5,
+     "hi": 13.9,
      "n_polls": 7
     },
     "lisnard": {
-     "mean": 7.9,
-     "lo": 5.0,
-     "hi": 10.9,
+     "mean": 9.1,
+     "lo": 3.8,
+     "hi": 14.5,
      "n_polls": 7
     },
     "roussel": {
-     "mean": 1.6,
+     "mean": 1.9,
      "lo": 0.6,
-     "hi": 2.6,
+     "hi": 3.2,
      "n_polls": 7
     },
     "dupontaignan": {
-     "mean": 1.8,
-     "lo": 0.8,
-     "hi": 2.8,
+     "mean": 1.9,
+     "lo": 0.9,
+     "hi": 2.9,
      "n_polls": 7
     },
     "arthaud": {
@@ -13838,63 +13838,63 @@
    "date": "2026-11-13",
    "polls": {
     "lepen": {
-     "mean": 32.0,
-     "lo": 26.3,
-     "hi": 37.6,
+     "mean": 32.5,
+     "lo": 25.9,
+     "hi": 39.0,
      "n_polls": 7
     },
     "melenchon": {
      "mean": 17.4,
-     "lo": 14.5,
-     "hi": 20.3,
+     "lo": 14.6,
+     "hi": 20.2,
      "n_polls": 7
     },
     "philippe": {
-     "mean": 10.3,
-     "lo": 6.8,
-     "hi": 13.9,
+     "mean": 11.8,
+     "lo": 4.8,
+     "hi": 18.7,
      "n_polls": 7
     },
     "glucksmann": {
-     "mean": 10.7,
-     "lo": 7.6,
-     "hi": 13.7,
+     "mean": 11.4,
+     "lo": 6.6,
+     "hi": 16.2,
      "n_polls": 7
     },
     "attal": {
-     "mean": 4.8,
-     "lo": 0.9,
-     "hi": 8.8,
+     "mean": 5.9,
+     "lo": 0,
+     "hi": 12.9,
      "n_polls": 7
     },
     "zemmour": {
-     "mean": 3.1,
+     "mean": 3.2,
      "lo": 1.5,
-     "hi": 4.8,
+     "hi": 4.9,
      "n_polls": 7
     },
     "retailleau": {
-     "mean": 5.1,
-     "lo": 2.8,
-     "hi": 7.3,
+     "mean": 6.5,
+     "lo": 0,
+     "hi": 13.2,
      "n_polls": 7
     },
     "lisnard": {
-     "mean": 8.1,
-     "lo": 5.6,
-     "hi": 10.6,
+     "mean": 9.1,
+     "lo": 4.3,
+     "hi": 13.8,
      "n_polls": 7
     },
     "roussel": {
-     "mean": 1.6,
+     "mean": 1.8,
      "lo": 0.6,
-     "hi": 2.6,
+     "hi": 3.0,
      "n_polls": 7
     },
     "dupontaignan": {
-     "mean": 1.8,
-     "lo": 0.8,
-     "hi": 2.8,
+     "mean": 1.9,
+     "lo": 0.9,
+     "hi": 2.9,
      "n_polls": 7
     },
     "arthaud": {
@@ -13933,63 +13933,63 @@
    "date": "2026-11-14",
    "polls": {
     "lepen": {
-     "mean": 32.0,
-     "lo": 26.3,
-     "hi": 37.6,
+     "mean": 32.5,
+     "lo": 25.9,
+     "hi": 39.0,
      "n_polls": 7
     },
     "melenchon": {
      "mean": 17.4,
-     "lo": 14.5,
-     "hi": 20.3,
+     "lo": 14.6,
+     "hi": 20.2,
      "n_polls": 7
     },
     "philippe": {
-     "mean": 10.3,
-     "lo": 6.8,
-     "hi": 13.9,
+     "mean": 11.8,
+     "lo": 4.8,
+     "hi": 18.7,
      "n_polls": 7
     },
     "glucksmann": {
-     "mean": 10.7,
-     "lo": 7.6,
-     "hi": 13.7,
+     "mean": 11.4,
+     "lo": 6.6,
+     "hi": 16.2,
      "n_polls": 7
     },
     "attal": {
-     "mean": 4.8,
-     "lo": 0.9,
-     "hi": 8.8,
+     "mean": 5.9,
+     "lo": 0,
+     "hi": 12.9,
      "n_polls": 7
     },
     "zemmour": {
-     "mean": 3.1,
+     "mean": 3.2,
      "lo": 1.5,
-     "hi": 4.8,
+     "hi": 4.9,
      "n_polls": 7
     },
     "retailleau": {
-     "mean": 5.1,
-     "lo": 2.8,
-     "hi": 7.3,
+     "mean": 6.5,
+     "lo": 0,
+     "hi": 13.2,
      "n_polls": 7
     },
     "lisnard": {
-     "mean": 8.1,
-     "lo": 5.6,
-     "hi": 10.6,
+     "mean": 9.1,
+     "lo": 4.3,
+     "hi": 13.8,
      "n_polls": 7
     },
     "roussel": {
-     "mean": 1.6,
+     "mean": 1.8,
      "lo": 0.6,
-     "hi": 2.6,
+     "hi": 3.0,
      "n_polls": 7
     },
     "dupontaignan": {
-     "mean": 1.8,
-     "lo": 0.8,
-     "hi": 2.8,
+     "mean": 1.9,
+     "lo": 0.9,
+     "hi": 2.9,
      "n_polls": 7
     },
     "arthaud": {
@@ -14028,63 +14028,63 @@
    "date": "2026-11-15",
    "polls": {
     "lepen": {
-     "mean": 31.8,
-     "lo": 26.2,
-     "hi": 37.5,
+     "mean": 32.3,
+     "lo": 25.7,
+     "hi": 39.0,
      "n_polls": 6
     },
     "melenchon": {
      "mean": 17.6,
-     "lo": 15.3,
-     "hi": 19.9,
+     "lo": 15.4,
+     "hi": 19.8,
      "n_polls": 6
     },
     "philippe": {
-     "mean": 10.4,
-     "lo": 6.9,
-     "hi": 14.0,
+     "mean": 11.9,
+     "lo": 5.0,
+     "hi": 18.9,
      "n_polls": 6
     },
     "glucksmann": {
-     "mean": 10.6,
-     "lo": 7.5,
-     "hi": 13.6,
+     "mean": 11.4,
+     "lo": 6.4,
+     "hi": 16.3,
      "n_polls": 6
     },
     "attal": {
-     "mean": 4.8,
-     "lo": 0.8,
-     "hi": 8.8,
+     "mean": 5.9,
+     "lo": 0,
+     "hi": 13.0,
      "n_polls": 6
     },
     "zemmour": {
      "mean": 3.1,
      "lo": 1.4,
-     "hi": 4.7,
+     "hi": 4.9,
      "n_polls": 6
     },
     "retailleau": {
-     "mean": 5.1,
-     "lo": 2.8,
-     "hi": 7.3,
+     "mean": 6.6,
+     "lo": 0,
+     "hi": 13.3,
      "n_polls": 6
     },
     "lisnard": {
-     "mean": 8.3,
-     "lo": 6.4,
-     "hi": 10.1,
+     "mean": 9.3,
+     "lo": 4.9,
+     "hi": 13.7,
      "n_polls": 6
     },
     "roussel": {
-     "mean": 1.6,
-     "lo": 0.6,
-     "hi": 2.6,
+     "mean": 1.8,
+     "lo": 0.5,
+     "hi": 3.0,
      "n_polls": 6
     },
     "dupontaignan": {
-     "mean": 1.8,
-     "lo": 0.8,
-     "hi": 2.8,
+     "mean": 1.9,
+     "lo": 0.9,
+     "hi": 2.9,
      "n_polls": 6
     },
     "arthaud": {
@@ -14123,81 +14123,81 @@
    "date": "2026-11-16",
    "polls": {
     "lepen": {
-     "mean": 31.8,
-     "lo": 26.2,
-     "hi": 37.5,
+     "mean": 31.5,
+     "lo": 26.8,
+     "hi": 36.2,
      "n_polls": 6
     },
     "melenchon": {
-     "mean": 17.6,
+     "mean": 17.4,
      "lo": 15.3,
-     "hi": 19.9,
+     "hi": 19.6,
      "n_polls": 6
     },
     "philippe": {
      "mean": 10.4,
-     "lo": 6.9,
-     "hi": 14.0,
-     "n_polls": 6
-    },
-    "glucksmann": {
-     "mean": 10.6,
-     "lo": 7.5,
+     "lo": 7.2,
      "hi": 13.6,
      "n_polls": 6
     },
+    "glucksmann": {
+     "mean": 9.8,
+     "lo": 6.4,
+     "hi": 13.3,
+     "n_polls": 6
+    },
     "attal": {
-     "mean": 4.8,
-     "lo": 0.8,
-     "hi": 8.8,
+     "mean": 4.5,
+     "lo": 1.1,
+     "hi": 7.9,
      "n_polls": 6
     },
     "zemmour": {
-     "mean": 3.1,
-     "lo": 1.4,
-     "hi": 4.7,
+     "mean": 2.9,
+     "lo": 1.7,
+     "hi": 4.1,
      "n_polls": 6
     },
     "retailleau": {
-     "mean": 5.1,
-     "lo": 2.8,
-     "hi": 7.3,
+     "mean": 4.8,
+     "lo": 2.6,
+     "hi": 7.1,
      "n_polls": 6
     },
     "lisnard": {
      "mean": 8.3,
-     "lo": 6.4,
-     "hi": 10.1,
+     "lo": 6.7,
+     "hi": 9.9,
      "n_polls": 6
     },
     "roussel": {
-     "mean": 1.6,
-     "lo": 0.6,
-     "hi": 2.6,
+     "mean": 1.5,
+     "lo": 0.5,
+     "hi": 2.5,
      "n_polls": 6
     },
     "dupontaignan": {
-     "mean": 1.8,
-     "lo": 0.8,
-     "hi": 2.8,
+     "mean": 1.7,
+     "lo": 0.7,
+     "hi": 2.7,
      "n_polls": 6
     },
     "arthaud": {
-     "mean": 0.7,
+     "mean": 0.5,
      "lo": 0,
-     "hi": 1.7,
+     "hi": 1.5,
      "n_polls": 6
     },
     "ruffin": {
-     "mean": 1.6,
-     "lo": 0.6,
-     "hi": 2.6,
+     "mean": 1.8,
+     "lo": 0.8,
+     "hi": 2.8,
      "n_polls": 2
     },
     "polony": {
-     "mean": 1.8,
-     "lo": 0.6,
-     "hi": 3.0,
+     "mean": 1.5,
+     "lo": 0.3,
+     "hi": 2.8,
      "n_polls": 3
     },
     "villepin": {
@@ -14207,10 +14207,10 @@
      "n_polls": 3
     },
     "riner": {
-     "mean": 3.6,
-     "lo": 1.4,
-     "hi": 5.8,
-     "n_polls": 3
+     "mean": 3.7,
+     "lo": 1.9,
+     "hi": 5.6,
+     "n_polls": 4
     }
    }
   },
@@ -14218,94 +14218,94 @@
    "date": "2026-11-17",
    "polls": {
     "lepen": {
-     "mean": 31.8,
-     "lo": 26.2,
-     "hi": 37.5,
-     "n_polls": 6
+     "mean": 31.6,
+     "lo": 27.3,
+     "hi": 35.9,
+     "n_polls": 7
     },
     "melenchon": {
-     "mean": 17.6,
-     "lo": 15.3,
-     "hi": 19.9,
-     "n_polls": 6
+     "mean": 17.4,
+     "lo": 15.4,
+     "hi": 19.4,
+     "n_polls": 7
     },
     "philippe": {
-     "mean": 10.4,
-     "lo": 6.9,
-     "hi": 14.0,
-     "n_polls": 6
+     "mean": 9.9,
+     "lo": 6.0,
+     "hi": 13.7,
+     "n_polls": 7
     },
     "glucksmann": {
-     "mean": 10.6,
-     "lo": 7.5,
-     "hi": 13.6,
-     "n_polls": 6
+     "mean": 9.7,
+     "lo": 6.5,
+     "hi": 12.9,
+     "n_polls": 7
     },
     "attal": {
-     "mean": 4.8,
-     "lo": 0.8,
-     "hi": 8.8,
-     "n_polls": 6
+     "mean": 4.4,
+     "lo": 1.3,
+     "hi": 7.6,
+     "n_polls": 7
     },
     "zemmour": {
-     "mean": 3.1,
-     "lo": 1.4,
-     "hi": 4.7,
-     "n_polls": 6
+     "mean": 2.9,
+     "lo": 1.8,
+     "hi": 4.0,
+     "n_polls": 7
     },
     "retailleau": {
-     "mean": 5.1,
+     "mean": 5.0,
      "lo": 2.8,
      "hi": 7.3,
-     "n_polls": 6
+     "n_polls": 7
     },
     "lisnard": {
-     "mean": 8.3,
-     "lo": 6.4,
-     "hi": 10.1,
-     "n_polls": 6
+     "mean": 8.4,
+     "lo": 6.9,
+     "hi": 10.0,
+     "n_polls": 7
     },
     "roussel": {
      "mean": 1.6,
      "lo": 0.6,
      "hi": 2.6,
-     "n_polls": 6
+     "n_polls": 7
     },
     "dupontaignan": {
      "mean": 1.8,
      "lo": 0.8,
      "hi": 2.8,
-     "n_polls": 6
+     "n_polls": 7
     },
     "arthaud": {
-     "mean": 0.7,
+     "mean": 0.6,
      "lo": 0,
-     "hi": 1.7,
-     "n_polls": 6
+     "hi": 1.6,
+     "n_polls": 7
     },
     "ruffin": {
-     "mean": 1.6,
-     "lo": 0.6,
-     "hi": 2.6,
+     "mean": 1.8,
+     "lo": 0.8,
+     "hi": 2.8,
      "n_polls": 2
     },
     "polony": {
-     "mean": 1.8,
-     "lo": 0.6,
-     "hi": 3.0,
+     "mean": 1.5,
+     "lo": 0.3,
+     "hi": 2.8,
      "n_polls": 3
     },
     "villepin": {
-     "mean": 1.5,
-     "lo": 0.5,
-     "hi": 2.5,
-     "n_polls": 3
+     "mean": 1.6,
+     "lo": 0.6,
+     "hi": 2.6,
+     "n_polls": 4
     },
     "riner": {
      "mean": 3.6,
-     "lo": 1.4,
-     "hi": 5.8,
-     "n_polls": 3
+     "lo": 1.8,
+     "hi": 5.3,
+     "n_polls": 5
     }
    }
   },
@@ -14313,94 +14313,94 @@
    "date": "2026-11-18",
    "polls": {
     "lepen": {
-     "mean": 31.8,
-     "lo": 26.2,
-     "hi": 37.5,
-     "n_polls": 6
+     "mean": 31.6,
+     "lo": 27.3,
+     "hi": 35.9,
+     "n_polls": 7
     },
     "melenchon": {
-     "mean": 17.6,
-     "lo": 15.3,
-     "hi": 19.9,
-     "n_polls": 6
+     "mean": 17.4,
+     "lo": 15.4,
+     "hi": 19.4,
+     "n_polls": 7
     },
     "philippe": {
-     "mean": 10.4,
-     "lo": 6.9,
-     "hi": 14.0,
-     "n_polls": 6
+     "mean": 9.9,
+     "lo": 6.0,
+     "hi": 13.7,
+     "n_polls": 7
     },
     "glucksmann": {
-     "mean": 10.6,
-     "lo": 7.5,
-     "hi": 13.6,
-     "n_polls": 6
+     "mean": 9.7,
+     "lo": 6.5,
+     "hi": 12.9,
+     "n_polls": 7
     },
     "attal": {
-     "mean": 4.8,
-     "lo": 0.8,
-     "hi": 8.8,
-     "n_polls": 6
+     "mean": 4.4,
+     "lo": 1.3,
+     "hi": 7.6,
+     "n_polls": 7
     },
     "zemmour": {
-     "mean": 3.1,
-     "lo": 1.4,
-     "hi": 4.7,
-     "n_polls": 6
+     "mean": 2.9,
+     "lo": 1.8,
+     "hi": 4.0,
+     "n_polls": 7
     },
     "retailleau": {
-     "mean": 5.1,
+     "mean": 5.0,
      "lo": 2.8,
      "hi": 7.3,
-     "n_polls": 6
+     "n_polls": 7
     },
     "lisnard": {
-     "mean": 8.3,
-     "lo": 6.4,
-     "hi": 10.1,
-     "n_polls": 6
+     "mean": 8.4,
+     "lo": 6.9,
+     "hi": 10.0,
+     "n_polls": 7
     },
     "roussel": {
      "mean": 1.6,
      "lo": 0.6,
      "hi": 2.6,
-     "n_polls": 6
+     "n_polls": 7
     },
     "dupontaignan": {
      "mean": 1.8,
      "lo": 0.8,
      "hi": 2.8,
-     "n_polls": 6
+     "n_polls": 7
     },
     "arthaud": {
-     "mean": 0.7,
+     "mean": 0.6,
      "lo": 0,
-     "hi": 1.7,
-     "n_polls": 6
+     "hi": 1.6,
+     "n_polls": 7
     },
     "ruffin": {
-     "mean": 1.6,
-     "lo": 0.6,
-     "hi": 2.6,
+     "mean": 1.8,
+     "lo": 0.8,
+     "hi": 2.8,
      "n_polls": 2
     },
     "polony": {
-     "mean": 1.8,
-     "lo": 0.6,
-     "hi": 3.0,
+     "mean": 1.5,
+     "lo": 0.3,
+     "hi": 2.8,
      "n_polls": 3
     },
     "villepin": {
-     "mean": 1.5,
-     "lo": 0.5,
-     "hi": 2.5,
-     "n_polls": 3
+     "mean": 1.6,
+     "lo": 0.6,
+     "hi": 2.6,
+     "n_polls": 4
     },
     "riner": {
      "mean": 3.6,
-     "lo": 1.4,
-     "hi": 5.8,
-     "n_polls": 3
+     "lo": 1.8,
+     "hi": 5.3,
+     "n_polls": 5
     }
    }
   },
@@ -14408,94 +14408,94 @@
    "date": "2026-11-19",
    "polls": {
     "lepen": {
-     "mean": 31.8,
-     "lo": 26.2,
-     "hi": 37.5,
-     "n_polls": 6
+     "mean": 31.0,
+     "lo": 27.8,
+     "hi": 34.2,
+     "n_polls": 7
     },
     "melenchon": {
-     "mean": 17.6,
-     "lo": 15.3,
-     "hi": 19.9,
-     "n_polls": 6
+     "mean": 17.5,
+     "lo": 15.4,
+     "hi": 19.6,
+     "n_polls": 7
     },
     "philippe": {
-     "mean": 10.4,
-     "lo": 6.9,
-     "hi": 14.0,
-     "n_polls": 6
+     "mean": 9.6,
+     "lo": 6.2,
+     "hi": 13.0,
+     "n_polls": 7
     },
     "glucksmann": {
-     "mean": 10.6,
-     "lo": 7.5,
-     "hi": 13.6,
-     "n_polls": 6
+     "mean": 9.8,
+     "lo": 6.7,
+     "hi": 12.9,
+     "n_polls": 7
     },
     "attal": {
-     "mean": 4.8,
-     "lo": 0.8,
-     "hi": 8.8,
-     "n_polls": 6
+     "mean": 4.3,
+     "lo": 2.0,
+     "hi": 6.6,
+     "n_polls": 7
     },
     "zemmour": {
      "mean": 3.1,
-     "lo": 1.4,
-     "hi": 4.7,
-     "n_polls": 6
+     "lo": 1.9,
+     "hi": 4.3,
+     "n_polls": 7
     },
     "retailleau": {
-     "mean": 5.1,
-     "lo": 2.8,
-     "hi": 7.3,
-     "n_polls": 6
+     "mean": 4.8,
+     "lo": 2.7,
+     "hi": 6.8,
+     "n_polls": 7
     },
     "lisnard": {
-     "mean": 8.3,
-     "lo": 6.4,
-     "hi": 10.1,
-     "n_polls": 6
+     "mean": 9.0,
+     "lo": 6.1,
+     "hi": 11.9,
+     "n_polls": 7
     },
     "roussel": {
-     "mean": 1.6,
-     "lo": 0.6,
-     "hi": 2.6,
-     "n_polls": 6
+     "mean": 1.5,
+     "lo": 0.5,
+     "hi": 2.5,
+     "n_polls": 7
     },
     "dupontaignan": {
-     "mean": 1.8,
-     "lo": 0.8,
-     "hi": 2.8,
-     "n_polls": 6
+     "mean": 1.7,
+     "lo": 0.7,
+     "hi": 2.7,
+     "n_polls": 7
     },
     "arthaud": {
      "mean": 0.7,
      "lo": 0,
      "hi": 1.7,
-     "n_polls": 6
+     "n_polls": 7
     },
     "ruffin": {
-     "mean": 1.5,
-     "lo": 0.5,
-     "hi": 2.5,
-     "n_polls": 1
+     "mean": 1.8,
+     "lo": 0.8,
+     "hi": 2.8,
+     "n_polls": 2
     },
     "polony": {
-     "mean": 1.9,
-     "lo": 0.8,
-     "hi": 3.0,
-     "n_polls": 2
+     "mean": 1.5,
+     "lo": 0.3,
+     "hi": 2.8,
+     "n_polls": 3
     },
     "villepin": {
-     "mean": 1.5,
-     "lo": 0.4,
+     "mean": 1.6,
+     "lo": 0.6,
      "hi": 2.6,
-     "n_polls": 2
+     "n_polls": 4
     },
     "riner": {
-     "mean": 3.6,
-     "lo": 1.4,
-     "hi": 5.8,
-     "n_polls": 3
+     "mean": 3.8,
+     "lo": 2.1,
+     "hi": 5.4,
+     "n_polls": 6
     }
    }
   },
@@ -14503,94 +14503,94 @@
    "date": "2026-11-20",
    "polls": {
     "lepen": {
-     "mean": 31.8,
-     "lo": 26.2,
-     "hi": 37.5,
-     "n_polls": 6
+     "mean": 31.0,
+     "lo": 27.8,
+     "hi": 34.2,
+     "n_polls": 7
     },
     "melenchon": {
-     "mean": 17.6,
-     "lo": 15.3,
-     "hi": 19.9,
-     "n_polls": 6
+     "mean": 17.5,
+     "lo": 15.4,
+     "hi": 19.6,
+     "n_polls": 7
     },
     "philippe": {
-     "mean": 10.4,
-     "lo": 6.9,
-     "hi": 14.0,
-     "n_polls": 6
+     "mean": 9.6,
+     "lo": 6.2,
+     "hi": 13.0,
+     "n_polls": 7
     },
     "glucksmann": {
-     "mean": 10.6,
-     "lo": 7.5,
-     "hi": 13.6,
-     "n_polls": 6
+     "mean": 9.8,
+     "lo": 6.7,
+     "hi": 12.9,
+     "n_polls": 7
     },
     "attal": {
-     "mean": 4.8,
-     "lo": 0.8,
-     "hi": 8.8,
-     "n_polls": 6
+     "mean": 4.3,
+     "lo": 2.0,
+     "hi": 6.6,
+     "n_polls": 7
     },
     "zemmour": {
      "mean": 3.1,
-     "lo": 1.4,
-     "hi": 4.7,
-     "n_polls": 6
+     "lo": 1.9,
+     "hi": 4.3,
+     "n_polls": 7
     },
     "retailleau": {
-     "mean": 5.1,
-     "lo": 2.8,
-     "hi": 7.3,
-     "n_polls": 6
+     "mean": 4.8,
+     "lo": 2.7,
+     "hi": 6.8,
+     "n_polls": 7
     },
     "lisnard": {
-     "mean": 8.3,
-     "lo": 6.4,
-     "hi": 10.1,
-     "n_polls": 6
+     "mean": 9.0,
+     "lo": 6.1,
+     "hi": 11.9,
+     "n_polls": 7
     },
     "roussel": {
-     "mean": 1.6,
-     "lo": 0.6,
-     "hi": 2.6,
-     "n_polls": 6
+     "mean": 1.5,
+     "lo": 0.5,
+     "hi": 2.5,
+     "n_polls": 7
     },
     "dupontaignan": {
-     "mean": 1.8,
-     "lo": 0.8,
-     "hi": 2.8,
-     "n_polls": 6
+     "mean": 1.7,
+     "lo": 0.7,
+     "hi": 2.7,
+     "n_polls": 7
     },
     "arthaud": {
      "mean": 0.7,
      "lo": 0,
      "hi": 1.7,
-     "n_polls": 6
+     "n_polls": 7
     },
     "ruffin": {
-     "mean": 1.5,
-     "lo": 0.5,
-     "hi": 2.5,
-     "n_polls": 1
+     "mean": 1.8,
+     "lo": 0.8,
+     "hi": 2.8,
+     "n_polls": 2
     },
     "polony": {
-     "mean": 1.9,
-     "lo": 0.8,
-     "hi": 3.0,
-     "n_polls": 2
+     "mean": 1.5,
+     "lo": 0.3,
+     "hi": 2.8,
+     "n_polls": 3
     },
     "villepin": {
-     "mean": 1.5,
-     "lo": 0.4,
+     "mean": 1.6,
+     "lo": 0.6,
      "hi": 2.6,
-     "n_polls": 2
+     "n_polls": 4
     },
     "riner": {
-     "mean": 3.6,
-     "lo": 1.4,
-     "hi": 5.8,
-     "n_polls": 3
+     "mean": 3.8,
+     "lo": 2.1,
+     "hi": 5.4,
+     "n_polls": 6
     }
    }
   },
@@ -14598,51 +14598,526 @@
    "date": "2026-11-21",
    "polls": {
     "lepen": {
-     "mean": 31.8,
-     "lo": 26.2,
-     "hi": 37.5,
-     "n_polls": 6
+     "mean": 31.0,
+     "lo": 27.8,
+     "hi": 34.2,
+     "n_polls": 7
     },
     "melenchon": {
-     "mean": 17.6,
-     "lo": 15.3,
-     "hi": 19.9,
-     "n_polls": 6
+     "mean": 17.5,
+     "lo": 15.4,
+     "hi": 19.6,
+     "n_polls": 7
     },
     "philippe": {
-     "mean": 10.4,
-     "lo": 6.9,
-     "hi": 14.0,
-     "n_polls": 6
+     "mean": 9.6,
+     "lo": 6.2,
+     "hi": 13.0,
+     "n_polls": 7
     },
     "glucksmann": {
-     "mean": 10.6,
-     "lo": 7.5,
-     "hi": 13.6,
-     "n_polls": 6
+     "mean": 9.8,
+     "lo": 6.7,
+     "hi": 12.9,
+     "n_polls": 7
     },
     "attal": {
-     "mean": 4.8,
-     "lo": 0.8,
-     "hi": 8.8,
-     "n_polls": 6
+     "mean": 4.3,
+     "lo": 2.0,
+     "hi": 6.6,
+     "n_polls": 7
     },
     "zemmour": {
      "mean": 3.1,
-     "lo": 1.4,
-     "hi": 4.7,
+     "lo": 1.9,
+     "hi": 4.3,
+     "n_polls": 7
+    },
+    "retailleau": {
+     "mean": 4.8,
+     "lo": 2.7,
+     "hi": 6.8,
+     "n_polls": 7
+    },
+    "lisnard": {
+     "mean": 9.0,
+     "lo": 6.1,
+     "hi": 11.9,
+     "n_polls": 7
+    },
+    "roussel": {
+     "mean": 1.5,
+     "lo": 0.5,
+     "hi": 2.5,
+     "n_polls": 7
+    },
+    "dupontaignan": {
+     "mean": 1.7,
+     "lo": 0.7,
+     "hi": 2.7,
+     "n_polls": 7
+    },
+    "arthaud": {
+     "mean": 0.7,
+     "lo": 0,
+     "hi": 1.7,
+     "n_polls": 7
+    },
+    "ruffin": {
+     "mean": 1.8,
+     "lo": 0.8,
+     "hi": 2.8,
+     "n_polls": 2
+    },
+    "polony": {
+     "mean": 1.5,
+     "lo": 0.3,
+     "hi": 2.8,
+     "n_polls": 3
+    },
+    "villepin": {
+     "mean": 1.6,
+     "lo": 0.6,
+     "hi": 2.6,
+     "n_polls": 4
+    },
+    "riner": {
+     "mean": 3.8,
+     "lo": 2.1,
+     "hi": 5.4,
+     "n_polls": 6
+    }
+   }
+  },
+  {
+   "date": "2026-11-22",
+   "polls": {
+    "lepen": {
+     "mean": 30.8,
+     "lo": 27.7,
+     "hi": 34.0,
+     "n_polls": 6
+    },
+    "melenchon": {
+     "mean": 17.5,
+     "lo": 15.4,
+     "hi": 19.7,
+     "n_polls": 6
+    },
+    "philippe": {
+     "mean": 9.3,
+     "lo": 6.5,
+     "hi": 12.2,
+     "n_polls": 6
+    },
+    "glucksmann": {
+     "mean": 9.6,
+     "lo": 7.1,
+     "hi": 12.2,
+     "n_polls": 6
+    },
+    "attal": {
+     "mean": 4.2,
+     "lo": 2.1,
+     "hi": 6.3,
+     "n_polls": 6
+    },
+    "zemmour": {
+     "mean": 3.0,
+     "lo": 1.9,
+     "hi": 4.1,
      "n_polls": 6
     },
     "retailleau": {
-     "mean": 5.1,
-     "lo": 2.8,
-     "hi": 7.3,
+     "mean": 4.6,
+     "lo": 3.2,
+     "hi": 6.0,
      "n_polls": 6
     },
     "lisnard": {
-     "mean": 8.3,
+     "mean": 9.2,
      "lo": 6.4,
-     "hi": 10.1,
+     "hi": 11.9,
+     "n_polls": 6
+    },
+    "roussel": {
+     "mean": 1.5,
+     "lo": 0.5,
+     "hi": 2.5,
+     "n_polls": 6
+    },
+    "dupontaignan": {
+     "mean": 1.7,
+     "lo": 0.7,
+     "hi": 2.7,
+     "n_polls": 6
+    },
+    "arthaud": {
+     "mean": 0.7,
+     "lo": 0,
+     "hi": 1.7,
+     "n_polls": 6
+    },
+    "ruffin": {
+     "mean": 1.8,
+     "lo": 0.8,
+     "hi": 2.8,
+     "n_polls": 2
+    },
+    "polony": {
+     "mean": 1.5,
+     "lo": 0.3,
+     "hi": 2.8,
+     "n_polls": 3
+    },
+    "villepin": {
+     "mean": 1.6,
+     "lo": 0.6,
+     "hi": 2.6,
+     "n_polls": 4
+    },
+    "riner": {
+     "mean": 3.8,
+     "lo": 2.1,
+     "hi": 5.4,
+     "n_polls": 6
+    }
+   }
+  },
+  {
+   "date": "2026-11-23",
+   "polls": {
+    "lepen": {
+     "mean": 30.8,
+     "lo": 27.7,
+     "hi": 34.0,
+     "n_polls": 6
+    },
+    "melenchon": {
+     "mean": 17.5,
+     "lo": 15.4,
+     "hi": 19.7,
+     "n_polls": 6
+    },
+    "philippe": {
+     "mean": 9.3,
+     "lo": 6.5,
+     "hi": 12.2,
+     "n_polls": 6
+    },
+    "glucksmann": {
+     "mean": 9.6,
+     "lo": 7.1,
+     "hi": 12.2,
+     "n_polls": 6
+    },
+    "attal": {
+     "mean": 4.2,
+     "lo": 2.1,
+     "hi": 6.3,
+     "n_polls": 6
+    },
+    "zemmour": {
+     "mean": 3.0,
+     "lo": 1.9,
+     "hi": 4.1,
+     "n_polls": 6
+    },
+    "retailleau": {
+     "mean": 4.6,
+     "lo": 3.2,
+     "hi": 6.0,
+     "n_polls": 6
+    },
+    "lisnard": {
+     "mean": 9.2,
+     "lo": 6.4,
+     "hi": 11.9,
+     "n_polls": 6
+    },
+    "roussel": {
+     "mean": 1.5,
+     "lo": 0.5,
+     "hi": 2.5,
+     "n_polls": 6
+    },
+    "dupontaignan": {
+     "mean": 1.7,
+     "lo": 0.7,
+     "hi": 2.7,
+     "n_polls": 6
+    },
+    "arthaud": {
+     "mean": 0.7,
+     "lo": 0,
+     "hi": 1.7,
+     "n_polls": 6
+    },
+    "ruffin": {
+     "mean": 1.8,
+     "lo": 0.8,
+     "hi": 2.8,
+     "n_polls": 2
+    },
+    "polony": {
+     "mean": 1.5,
+     "lo": 0.3,
+     "hi": 2.8,
+     "n_polls": 3
+    },
+    "villepin": {
+     "mean": 1.6,
+     "lo": 0.6,
+     "hi": 2.6,
+     "n_polls": 4
+    },
+    "riner": {
+     "mean": 3.8,
+     "lo": 2.1,
+     "hi": 5.4,
+     "n_polls": 6
+    }
+   }
+  },
+  {
+   "date": "2026-11-24",
+   "polls": {
+    "lepen": {
+     "mean": 30.8,
+     "lo": 27.7,
+     "hi": 34.0,
+     "n_polls": 6
+    },
+    "melenchon": {
+     "mean": 17.5,
+     "lo": 15.4,
+     "hi": 19.7,
+     "n_polls": 6
+    },
+    "philippe": {
+     "mean": 9.3,
+     "lo": 6.5,
+     "hi": 12.2,
+     "n_polls": 6
+    },
+    "glucksmann": {
+     "mean": 9.6,
+     "lo": 7.1,
+     "hi": 12.2,
+     "n_polls": 6
+    },
+    "attal": {
+     "mean": 4.2,
+     "lo": 2.1,
+     "hi": 6.3,
+     "n_polls": 6
+    },
+    "zemmour": {
+     "mean": 3.0,
+     "lo": 1.9,
+     "hi": 4.1,
+     "n_polls": 6
+    },
+    "retailleau": {
+     "mean": 4.6,
+     "lo": 3.2,
+     "hi": 6.0,
+     "n_polls": 6
+    },
+    "lisnard": {
+     "mean": 9.2,
+     "lo": 6.4,
+     "hi": 11.9,
+     "n_polls": 6
+    },
+    "roussel": {
+     "mean": 1.5,
+     "lo": 0.5,
+     "hi": 2.5,
+     "n_polls": 6
+    },
+    "dupontaignan": {
+     "mean": 1.7,
+     "lo": 0.7,
+     "hi": 2.7,
+     "n_polls": 6
+    },
+    "arthaud": {
+     "mean": 0.7,
+     "lo": 0,
+     "hi": 1.7,
+     "n_polls": 6
+    },
+    "ruffin": {
+     "mean": 1.8,
+     "lo": 0.8,
+     "hi": 2.8,
+     "n_polls": 2
+    },
+    "polony": {
+     "mean": 1.5,
+     "lo": 0.3,
+     "hi": 2.8,
+     "n_polls": 3
+    },
+    "villepin": {
+     "mean": 1.6,
+     "lo": 0.6,
+     "hi": 2.6,
+     "n_polls": 4
+    },
+    "riner": {
+     "mean": 3.8,
+     "lo": 2.1,
+     "hi": 5.4,
+     "n_polls": 6
+    }
+   }
+  },
+  {
+   "date": "2026-11-25",
+   "polls": {
+    "lepen": {
+     "mean": 30.8,
+     "lo": 27.7,
+     "hi": 34.0,
+     "n_polls": 6
+    },
+    "melenchon": {
+     "mean": 17.5,
+     "lo": 15.4,
+     "hi": 19.7,
+     "n_polls": 6
+    },
+    "philippe": {
+     "mean": 9.3,
+     "lo": 6.5,
+     "hi": 12.2,
+     "n_polls": 6
+    },
+    "glucksmann": {
+     "mean": 9.6,
+     "lo": 7.1,
+     "hi": 12.2,
+     "n_polls": 6
+    },
+    "attal": {
+     "mean": 4.2,
+     "lo": 2.1,
+     "hi": 6.3,
+     "n_polls": 6
+    },
+    "zemmour": {
+     "mean": 3.0,
+     "lo": 1.9,
+     "hi": 4.1,
+     "n_polls": 6
+    },
+    "retailleau": {
+     "mean": 4.6,
+     "lo": 3.2,
+     "hi": 6.0,
+     "n_polls": 6
+    },
+    "lisnard": {
+     "mean": 9.2,
+     "lo": 6.4,
+     "hi": 11.9,
+     "n_polls": 6
+    },
+    "roussel": {
+     "mean": 1.5,
+     "lo": 0.5,
+     "hi": 2.5,
+     "n_polls": 6
+    },
+    "dupontaignan": {
+     "mean": 1.7,
+     "lo": 0.7,
+     "hi": 2.7,
+     "n_polls": 6
+    },
+    "arthaud": {
+     "mean": 0.7,
+     "lo": 0,
+     "hi": 1.7,
+     "n_polls": 6
+    },
+    "ruffin": {
+     "mean": 1.8,
+     "lo": 0.8,
+     "hi": 2.8,
+     "n_polls": 2
+    },
+    "polony": {
+     "mean": 1.5,
+     "lo": 0.3,
+     "hi": 2.8,
+     "n_polls": 3
+    },
+    "villepin": {
+     "mean": 1.6,
+     "lo": 0.6,
+     "hi": 2.6,
+     "n_polls": 4
+    },
+    "riner": {
+     "mean": 3.8,
+     "lo": 2.1,
+     "hi": 5.4,
+     "n_polls": 6
+    }
+   }
+  },
+  {
+   "date": "2026-11-26",
+   "polls": {
+    "lepen": {
+     "mean": 31.2,
+     "lo": 27.8,
+     "hi": 34.7,
+     "n_polls": 6
+    },
+    "melenchon": {
+     "mean": 17.4,
+     "lo": 15.1,
+     "hi": 19.6,
+     "n_polls": 6
+    },
+    "philippe": {
+     "mean": 8.8,
+     "lo": 6.6,
+     "hi": 10.9,
+     "n_polls": 6
+    },
+    "glucksmann": {
+     "mean": 9.6,
+     "lo": 7.2,
+     "hi": 12.0,
+     "n_polls": 6
+    },
+    "attal": {
+     "mean": 4.2,
+     "lo": 2.3,
+     "hi": 6.2,
+     "n_polls": 6
+    },
+    "zemmour": {
+     "mean": 3.0,
+     "lo": 2.0,
+     "hi": 4.0,
+     "n_polls": 6
+    },
+    "retailleau": {
+     "mean": 4.5,
+     "lo": 3.0,
+     "hi": 5.9,
+     "n_polls": 6
+    },
+    "lisnard": {
+     "mean": 9.7,
+     "lo": 6.3,
+     "hi": 13.2,
      "n_polls": 6
     },
     "roussel": {
@@ -14652,9 +15127,9 @@
      "n_polls": 6
     },
     "dupontaignan": {
-     "mean": 1.8,
-     "lo": 0.8,
-     "hi": 2.8,
+     "mean": 1.7,
+     "lo": 0.7,
+     "hi": 2.7,
      "n_polls": 6
     },
     "arthaud": {
@@ -14664,503 +15139,28 @@
      "n_polls": 6
     },
     "ruffin": {
-     "mean": 1.5,
-     "lo": 0.5,
-     "hi": 2.5,
-     "n_polls": 1
-    },
-    "polony": {
-     "mean": 1.9,
-     "lo": 0.8,
-     "hi": 3.0,
-     "n_polls": 2
-    },
-    "villepin": {
-     "mean": 1.5,
-     "lo": 0.4,
-     "hi": 2.6,
-     "n_polls": 2
-    },
-    "riner": {
-     "mean": 3.6,
-     "lo": 1.4,
-     "hi": 5.8,
-     "n_polls": 3
-    }
-   }
-  },
-  {
-   "date": "2026-11-22",
-   "polls": {
-    "lepen": {
-     "mean": 31.7,
-     "lo": 25.8,
-     "hi": 37.6,
-     "n_polls": 5
-    },
-    "melenchon": {
-     "mean": 17.6,
-     "lo": 15.3,
-     "hi": 20.0,
-     "n_polls": 5
-    },
-    "philippe": {
-     "mean": 10.1,
-     "lo": 7.2,
-     "hi": 13.1,
-     "n_polls": 5
-    },
-    "glucksmann": {
-     "mean": 10.3,
-     "lo": 7.8,
-     "hi": 12.8,
-     "n_polls": 5
-    },
-    "attal": {
-     "mean": 4.6,
-     "lo": 0.6,
-     "hi": 8.6,
-     "n_polls": 5
-    },
-    "zemmour": {
-     "mean": 3.0,
-     "lo": 1.4,
-     "hi": 4.5,
-     "n_polls": 5
-    },
-    "retailleau": {
-     "mean": 4.8,
-     "lo": 3.3,
-     "hi": 6.3,
-     "n_polls": 5
-    },
-    "lisnard": {
-     "mean": 8.4,
-     "lo": 6.8,
-     "hi": 10.0,
-     "n_polls": 5
-    },
-    "roussel": {
-     "mean": 1.5,
-     "lo": 0.5,
-     "hi": 2.5,
-     "n_polls": 5
-    },
-    "dupontaignan": {
      "mean": 1.8,
      "lo": 0.8,
      "hi": 2.8,
-     "n_polls": 5
-    },
-    "arthaud": {
-     "mean": 0.7,
-     "lo": 0,
-     "hi": 1.7,
-     "n_polls": 5
-    },
-    "ruffin": {
-     "mean": 1.5,
-     "lo": 0.5,
-     "hi": 2.5,
-     "n_polls": 1
+     "n_polls": 2
     },
     "polony": {
-     "mean": 1.9,
-     "lo": 0.8,
-     "hi": 3.0,
-     "n_polls": 2
-    },
-    "villepin": {
      "mean": 1.5,
-     "lo": 0.4,
-     "hi": 2.6,
-     "n_polls": 2
-    },
-    "riner": {
-     "mean": 3.6,
-     "lo": 1.4,
-     "hi": 5.8,
-     "n_polls": 3
-    }
-   }
-  },
-  {
-   "date": "2026-11-23",
-   "polls": {
-    "lepen": {
-     "mean": 31.7,
-     "lo": 25.8,
-     "hi": 37.6,
-     "n_polls": 5
-    },
-    "melenchon": {
-     "mean": 17.6,
-     "lo": 15.3,
-     "hi": 20.0,
-     "n_polls": 5
-    },
-    "philippe": {
-     "mean": 10.1,
-     "lo": 7.2,
-     "hi": 13.1,
-     "n_polls": 5
-    },
-    "glucksmann": {
-     "mean": 10.3,
-     "lo": 7.8,
-     "hi": 12.8,
-     "n_polls": 5
-    },
-    "attal": {
-     "mean": 4.6,
-     "lo": 0.6,
-     "hi": 8.6,
-     "n_polls": 5
-    },
-    "zemmour": {
-     "mean": 3.0,
-     "lo": 1.4,
-     "hi": 4.5,
-     "n_polls": 5
-    },
-    "retailleau": {
-     "mean": 4.8,
-     "lo": 3.3,
-     "hi": 6.3,
-     "n_polls": 5
-    },
-    "lisnard": {
-     "mean": 8.4,
-     "lo": 6.8,
-     "hi": 10.0,
-     "n_polls": 5
-    },
-    "roussel": {
-     "mean": 1.5,
-     "lo": 0.5,
-     "hi": 2.5,
-     "n_polls": 5
-    },
-    "dupontaignan": {
-     "mean": 1.8,
-     "lo": 0.8,
+     "lo": 0.3,
      "hi": 2.8,
-     "n_polls": 5
-    },
-    "arthaud": {
-     "mean": 0.7,
-     "lo": 0,
-     "hi": 1.7,
-     "n_polls": 5
-    },
-    "ruffin": {
-     "mean": 1.5,
-     "lo": 0.5,
-     "hi": 2.5,
-     "n_polls": 1
-    },
-    "polony": {
-     "mean": 1.9,
-     "lo": 0.8,
-     "hi": 3.0,
-     "n_polls": 2
+     "n_polls": 3
     },
     "villepin": {
-     "mean": 1.5,
-     "lo": 0.4,
-     "hi": 2.6,
-     "n_polls": 2
+     "mean": 1.7,
+     "lo": 0.7,
+     "hi": 2.7,
+     "n_polls": 5
     },
     "riner": {
-     "mean": 3.6,
-     "lo": 1.4,
-     "hi": 5.8,
-     "n_polls": 3
-    }
-   }
-  },
-  {
-   "date": "2026-11-24",
-   "polls": {
-    "lepen": {
-     "mean": 31.7,
-     "lo": 25.8,
-     "hi": 37.6,
-     "n_polls": 5
-    },
-    "melenchon": {
-     "mean": 17.6,
-     "lo": 15.3,
-     "hi": 20.0,
-     "n_polls": 5
-    },
-    "philippe": {
-     "mean": 10.1,
-     "lo": 7.2,
-     "hi": 13.1,
-     "n_polls": 5
-    },
-    "glucksmann": {
-     "mean": 10.3,
-     "lo": 7.8,
-     "hi": 12.8,
-     "n_polls": 5
-    },
-    "attal": {
-     "mean": 4.6,
-     "lo": 0.6,
-     "hi": 8.6,
-     "n_polls": 5
-    },
-    "zemmour": {
-     "mean": 3.0,
-     "lo": 1.4,
-     "hi": 4.5,
-     "n_polls": 5
-    },
-    "retailleau": {
-     "mean": 4.8,
-     "lo": 3.3,
-     "hi": 6.3,
-     "n_polls": 5
-    },
-    "lisnard": {
-     "mean": 8.4,
-     "lo": 6.8,
-     "hi": 10.0,
-     "n_polls": 5
-    },
-    "roussel": {
-     "mean": 1.5,
-     "lo": 0.5,
-     "hi": 2.5,
-     "n_polls": 5
-    },
-    "dupontaignan": {
-     "mean": 1.8,
-     "lo": 0.8,
-     "hi": 2.8,
-     "n_polls": 5
-    },
-    "arthaud": {
-     "mean": 0.7,
-     "lo": 0,
-     "hi": 1.7,
-     "n_polls": 5
-    },
-    "ruffin": {
-     "mean": 1.5,
-     "lo": 0.5,
-     "hi": 2.5,
-     "n_polls": 1
-    },
-    "polony": {
-     "mean": 1.9,
-     "lo": 0.8,
-     "hi": 3.0,
-     "n_polls": 2
-    },
-    "villepin": {
-     "mean": 1.5,
-     "lo": 0.4,
-     "hi": 2.6,
-     "n_polls": 2
-    },
-    "riner": {
-     "mean": 3.6,
-     "lo": 1.4,
-     "hi": 5.8,
-     "n_polls": 3
-    }
-   }
-  },
-  {
-   "date": "2026-11-25",
-   "polls": {
-    "lepen": {
-     "mean": 31.7,
-     "lo": 25.8,
-     "hi": 37.6,
-     "n_polls": 5
-    },
-    "melenchon": {
-     "mean": 17.6,
-     "lo": 15.3,
-     "hi": 20.0,
-     "n_polls": 5
-    },
-    "philippe": {
-     "mean": 10.1,
-     "lo": 7.2,
-     "hi": 13.1,
-     "n_polls": 5
-    },
-    "glucksmann": {
-     "mean": 10.3,
-     "lo": 7.8,
-     "hi": 12.8,
-     "n_polls": 5
-    },
-    "attal": {
-     "mean": 4.6,
-     "lo": 0.6,
-     "hi": 8.6,
-     "n_polls": 5
-    },
-    "zemmour": {
-     "mean": 3.0,
-     "lo": 1.4,
-     "hi": 4.5,
-     "n_polls": 5
-    },
-    "retailleau": {
-     "mean": 4.8,
-     "lo": 3.3,
-     "hi": 6.3,
-     "n_polls": 5
-    },
-    "lisnard": {
-     "mean": 8.4,
-     "lo": 6.8,
-     "hi": 10.0,
-     "n_polls": 5
-    },
-    "roussel": {
-     "mean": 1.5,
-     "lo": 0.5,
-     "hi": 2.5,
-     "n_polls": 5
-    },
-    "dupontaignan": {
-     "mean": 1.8,
-     "lo": 0.8,
-     "hi": 2.8,
-     "n_polls": 5
-    },
-    "arthaud": {
-     "mean": 0.7,
-     "lo": 0,
-     "hi": 1.7,
-     "n_polls": 5
-    },
-    "ruffin": {
-     "mean": 1.5,
-     "lo": 0.5,
-     "hi": 2.5,
-     "n_polls": 1
-    },
-    "polony": {
-     "mean": 1.9,
-     "lo": 0.8,
-     "hi": 3.0,
-     "n_polls": 2
-    },
-    "villepin": {
-     "mean": 1.5,
-     "lo": 0.4,
-     "hi": 2.6,
-     "n_polls": 2
-    },
-    "riner": {
-     "mean": 3.6,
-     "lo": 1.4,
-     "hi": 5.8,
-     "n_polls": 3
-    }
-   }
-  },
-  {
-   "date": "2026-11-26",
-   "polls": {
-    "lepen": {
-     "mean": 31.7,
-     "lo": 25.8,
-     "hi": 37.6,
-     "n_polls": 5
-    },
-    "melenchon": {
-     "mean": 17.6,
-     "lo": 15.3,
-     "hi": 20.0,
-     "n_polls": 5
-    },
-    "philippe": {
-     "mean": 10.1,
-     "lo": 7.2,
-     "hi": 13.1,
-     "n_polls": 5
-    },
-    "glucksmann": {
-     "mean": 10.3,
-     "lo": 7.8,
-     "hi": 12.8,
-     "n_polls": 5
-    },
-    "attal": {
-     "mean": 4.6,
-     "lo": 0.6,
-     "hi": 8.6,
-     "n_polls": 5
-    },
-    "zemmour": {
-     "mean": 3.0,
-     "lo": 1.4,
-     "hi": 4.5,
-     "n_polls": 5
-    },
-    "retailleau": {
-     "mean": 4.8,
-     "lo": 3.3,
-     "hi": 6.3,
-     "n_polls": 5
-    },
-    "lisnard": {
-     "mean": 8.4,
-     "lo": 6.8,
-     "hi": 10.0,
-     "n_polls": 5
-    },
-    "roussel": {
-     "mean": 1.5,
-     "lo": 0.5,
-     "hi": 2.5,
-     "n_polls": 5
-    },
-    "dupontaignan": {
-     "mean": 1.8,
-     "lo": 0.8,
-     "hi": 2.8,
-     "n_polls": 5
-    },
-    "arthaud": {
-     "mean": 0.7,
-     "lo": 0,
-     "hi": 1.7,
-     "n_polls": 5
-    },
-    "ruffin": {
-     "mean": 1.5,
-     "lo": 0.5,
-     "hi": 2.5,
-     "n_polls": 1
-    },
-    "polony": {
-     "mean": 1.9,
-     "lo": 0.8,
-     "hi": 3.0,
-     "n_polls": 2
-    },
-    "villepin": {
-     "mean": 1.5,
-     "lo": 0.4,
-     "hi": 2.6,
-     "n_polls": 2
-    },
-    "riner": {
-     "mean": 3.6,
-     "lo": 1.4,
-     "hi": 5.8,
-     "n_polls": 3
+     "mean": 3.4,
+     "lo": 1.3,
+     "hi": 5.4,
+     "n_polls": 6
     }
    }
   },
@@ -15168,94 +15168,94 @@
    "date": "2026-11-27",
    "polls": {
     "lepen": {
-     "mean": 31.7,
-     "lo": 25.8,
-     "hi": 37.6,
-     "n_polls": 5
+     "mean": 31.2,
+     "lo": 27.8,
+     "hi": 34.7,
+     "n_polls": 6
     },
     "melenchon": {
-     "mean": 17.6,
-     "lo": 15.3,
-     "hi": 20.0,
-     "n_polls": 5
+     "mean": 17.4,
+     "lo": 15.1,
+     "hi": 19.6,
+     "n_polls": 6
     },
     "philippe": {
-     "mean": 10.1,
-     "lo": 7.2,
-     "hi": 13.1,
-     "n_polls": 5
+     "mean": 8.8,
+     "lo": 6.6,
+     "hi": 10.9,
+     "n_polls": 6
     },
     "glucksmann": {
-     "mean": 10.3,
-     "lo": 7.8,
-     "hi": 12.8,
-     "n_polls": 5
+     "mean": 9.6,
+     "lo": 7.2,
+     "hi": 12.0,
+     "n_polls": 6
     },
     "attal": {
-     "mean": 4.6,
-     "lo": 0.6,
-     "hi": 8.6,
-     "n_polls": 5
+     "mean": 4.2,
+     "lo": 2.3,
+     "hi": 6.2,
+     "n_polls": 6
     },
     "zemmour": {
      "mean": 3.0,
-     "lo": 1.4,
-     "hi": 4.5,
-     "n_polls": 5
+     "lo": 2.0,
+     "hi": 4.0,
+     "n_polls": 6
     },
     "retailleau": {
-     "mean": 4.8,
-     "lo": 3.3,
-     "hi": 6.3,
-     "n_polls": 5
+     "mean": 4.5,
+     "lo": 3.0,
+     "hi": 5.9,
+     "n_polls": 6
     },
     "lisnard": {
-     "mean": 8.4,
-     "lo": 6.8,
-     "hi": 10.0,
-     "n_polls": 5
+     "mean": 9.7,
+     "lo": 6.3,
+     "hi": 13.2,
+     "n_polls": 6
     },
     "roussel": {
-     "mean": 1.5,
-     "lo": 0.5,
-     "hi": 2.5,
-     "n_polls": 5
+     "mean": 1.6,
+     "lo": 0.6,
+     "hi": 2.6,
+     "n_polls": 6
     },
     "dupontaignan": {
-     "mean": 1.8,
-     "lo": 0.8,
-     "hi": 2.8,
-     "n_polls": 5
+     "mean": 1.7,
+     "lo": 0.7,
+     "hi": 2.7,
+     "n_polls": 6
     },
     "arthaud": {
      "mean": 0.7,
      "lo": 0,
      "hi": 1.7,
-     "n_polls": 5
+     "n_polls": 6
     },
     "ruffin": {
-     "mean": 1.5,
-     "lo": 0.5,
-     "hi": 2.5,
-     "n_polls": 1
+     "mean": 1.8,
+     "lo": 0.8,
+     "hi": 2.8,
+     "n_polls": 2
     },
     "polony": {
-     "mean": 1.9,
-     "lo": 0.8,
-     "hi": 3.0,
-     "n_polls": 2
+     "mean": 1.5,
+     "lo": 0.3,
+     "hi": 2.8,
+     "n_polls": 3
     },
     "villepin": {
-     "mean": 1.5,
-     "lo": 0.4,
-     "hi": 2.6,
-     "n_polls": 2
+     "mean": 1.7,
+     "lo": 0.7,
+     "hi": 2.7,
+     "n_polls": 5
     },
     "riner": {
-     "mean": 3.6,
-     "lo": 1.4,
-     "hi": 5.8,
-     "n_polls": 3
+     "mean": 3.4,
+     "lo": 1.3,
+     "hi": 5.4,
+     "n_polls": 6
     }
    }
   }
@@ -15850,8 +15850,8 @@
     "Raphaël Glucksmann": 13.0,
     "Gabriel Attal": 6.0,
     "Édouard Philippe": 12.0,
-    "David Lisnard": 4.0,
     "Bruno Retailleau": 6.5,
+    "David Lisnard": 4.0,
     "Nicolas Dupont-Aignan": 1.5,
     "Marine Le Pen": 35.0,
     "Éric Zemmour": 4.5
@@ -15872,13 +15872,13 @@
     "Raphaël Glucksmann": 11.5,
     "Gabriel Attal": 5.0,
     "Édouard Philippe": 13.0,
-    "David Lisnard": 6.0,
+    "Dominique de Villepin": 1.5,
     "Bruno Retailleau": 5.0,
+    "David Lisnard": 6.0,
     "Nicolas Dupont-Aignan": 1.0,
     "Marine Le Pen": 32.0,
     "Éric Zemmour": 3.0,
-    "François Ruffin": 2.0,
-    "Dominique de Villepin": 1.5
+    "François Ruffin": 2.0
    },
    "scenarios": 4,
    "scenarios_used": 1
@@ -15895,8 +15895,8 @@
     "Marine Tondelier": 2.0,
     "Raphaël Glucksmann": 11.0,
     "Édouard Philippe": 17.0,
-    "David Lisnard": 7.0,
     "Bruno Retailleau": 7.0,
+    "David Lisnard": 7.0,
     "Nicolas Dupont-Aignan": 2.0,
     "Marine Le Pen": 31.0,
     "Éric Zemmour": 3.0
@@ -15917,13 +15917,13 @@
     "Raphaël Glucksmann": 12.0,
     "Gabriel Attal": 6.0,
     "Édouard Philippe": 8.0,
-    "David Lisnard": 4.0,
+    "Dominique de Villepin": 1.0,
     "Bruno Retailleau": 5.0,
+    "David Lisnard": 4.0,
     "Nicolas Dupont-Aignan": 2.0,
     "Marine Le Pen": 35.0,
     "Éric Zemmour": 4.0,
-    "François Ruffin": 2.0,
-    "Dominique de Villepin": 1.0
+    "François Ruffin": 2.0
    },
    "scenarios": 5,
    "scenarios_used": 1
@@ -15940,11 +15940,11 @@
     "Marine Tondelier": 2.6,
     "Raphaël Glucksmann": 15.83,
     "Édouard Philippe": 15.5,
+    "Dominique de Villepin": 2.5,
     "Bruno Retailleau": 7.83,
     "Nicolas Dupont-Aignan": 2.58,
     "Marine Le Pen": 32.42,
     "Éric Zemmour": 3.33,
-    "Dominique de Villepin": 2.5,
     "Gabriel Attal": 8.17,
     "David Lisnard": 6.0,
     "François Ruffin": 3.0,
@@ -15966,13 +15966,13 @@
     "Raphaël Glucksmann": 12.0,
     "Gabriel Attal": 5.0,
     "Édouard Philippe": 12.0,
-    "David Lisnard": 5.5,
+    "Dominique de Villepin": 1.5,
     "Bruno Retailleau": 5.75,
+    "David Lisnard": 5.5,
     "Nicolas Dupont-Aignan": 1.75,
     "Marine Le Pen": 34.5,
     "Éric Zemmour": 3.25,
     "François Ruffin": 1.75,
-    "Dominique de Villepin": 1.5,
     "Natacha Polony": 1.0
    },
    "scenarios": 8,
@@ -15990,12 +15990,12 @@
     "Marine Tondelier": 2.0,
     "Raphaël Glucksmann": 12.67,
     "Édouard Philippe": 14.0,
-    "David Lisnard": 7.5,
+    "Dominique de Villepin": 1.5,
     "Bruno Retailleau": 5.0,
+    "David Lisnard": 7.5,
     "Nicolas Dupont-Aignan": 1.33,
     "Marine Le Pen": 33.67,
     "Éric Zemmour": 5.33,
-    "Dominique de Villepin": 1.5,
     "Gabriel Attal": 7.5
    },
    "scenarios": 5,
@@ -16036,8 +16036,8 @@
     "Raphaël Glucksmann": 13.0,
     "Gabriel Attal": 4.0,
     "Édouard Philippe": 12.0,
-    "David Lisnard": 6.0,
     "Bruno Retailleau": 6.0,
+    "David Lisnard": 6.0,
     "Nicolas Dupont-Aignan": 1.0,
     "Marine Le Pen": 36.0,
     "Éric Zemmour": 4.0
@@ -16081,14 +16081,36 @@
     "Raphaël Glucksmann": 11.5,
     "Gabriel Attal": 7.0,
     "Édouard Philippe": 9.5,
-    "David Lisnard": 7.25,
     "Bruno Retailleau": 4.5,
+    "David Lisnard": 7.25,
     "Nicolas Dupont-Aignan": 1.75,
     "Marine Le Pen": 35.5,
     "Éric Zemmour": 4.5
    },
    "scenarios": 4,
    "scenarios_used": 2
+  },
+  {
+   "pollster": "Ifop",
+   "end_date": "2026-11-04",
+   "sample": 1834,
+   "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/novembre/10392-pres-iv-ifop-sud-radio-20-novembre.pdf",
+   "scores": {
+    "Nathalie Arthaud": 0.75,
+    "Jean-Luc Mélenchon": 17.75,
+    "Fabien Roussel": 3.12,
+    "Marine Tondelier": 3.25,
+    "Raphaël Glucksmann": 16.0,
+    "Édouard Philippe": 19.0,
+    "Nicolas Dupont-Aignan": 2.12,
+    "Marine Le Pen": 37.5,
+    "Éric Zemmour": 4.5,
+    "Bruno Retailleau": 14.0,
+    "David Lisnard": 14.0,
+    "Gabriel Attal": 13.0
+   },
+   "scenarios": 4,
+   "scenarios_used": 4
   },
   {
    "pollster": "Harris Interactive",
@@ -16102,12 +16124,12 @@
     "Marine Tondelier": 2.0,
     "Raphaël Glucksmann": 11.33,
     "Édouard Philippe": 11.5,
-    "David Lisnard": 9.0,
+    "Dominique de Villepin": 2.0,
     "Bruno Retailleau": 6.0,
+    "David Lisnard": 9.0,
     "Nicolas Dupont-Aignan": 1.33,
     "Marine Le Pen": 35.0,
     "Éric Zemmour": 3.33,
-    "Dominique de Villepin": 2.0,
     "Gabriel Attal": 7.5
    },
    "scenarios": 5,
@@ -16126,8 +16148,8 @@
     "Raphaël Glucksmann": 12.0,
     "Gabriel Attal": 7.0,
     "Édouard Philippe": 11.5,
-    "David Lisnard": 11.0,
     "Bruno Retailleau": 4.67,
+    "David Lisnard": 11.0,
     "Nicolas Dupont-Aignan": 1.33,
     "Marine Le Pen": 34.0,
     "Éric Zemmour": 3.0
@@ -16148,8 +16170,9 @@
     "Raphaël Glucksmann": 8.0,
     "Gabriel Attal": 2.0,
     "Édouard Philippe": 8.0,
-    "David Lisnard": 8.0,
+    "Dominique de Villepin": 1.0,
     "Bruno Retailleau": 5.0,
+    "David Lisnard": 8.0,
     "Nicolas Dupont-Aignan": 2.0,
     "Marine Le Pen": 27.0,
     "Éric Zemmour": 2.0,
@@ -16157,8 +16180,7 @@
     "Christine Lagarde": 8.0,
     "Natacha Polony": 2.5,
     "Teddy Riner": 2.0,
-    "François Ruffin": 1.5,
-    "Dominique de Villepin": 1.0
+    "François Ruffin": 1.5
    },
    "scenarios": 4,
    "scenarios_used": 1
@@ -16176,8 +16198,8 @@
     "Raphaël Glucksmann": 10.5,
     "Gabriel Attal": 3.5,
     "Édouard Philippe": 12.0,
-    "David Lisnard": 9.5,
     "Bruno Retailleau": 4.5,
+    "David Lisnard": 9.5,
     "Nicolas Dupont-Aignan": 2.0,
     "Marine Le Pen": 31.5,
     "Éric Zemmour": 2.5,
@@ -16200,8 +16222,8 @@
     "Raphaël Glucksmann": 10.5,
     "Gabriel Attal": 4.0,
     "Édouard Philippe": 9.5,
-    "David Lisnard": 8.0,
     "Bruno Retailleau": 4.0,
+    "David Lisnard": 8.0,
     "Nicolas Dupont-Aignan": 2.0,
     "Marine Le Pen": 31.0,
     "Éric Zemmour": 3.0,
@@ -16209,6 +16231,104 @@
     "Teddy Riner": 4.5
    },
    "scenarios": 6,
+   "scenarios_used": 1
+  },
+  {
+   "pollster": "Ifop",
+   "end_date": "2026-11-16",
+   "sample": 1690,
+   "url": "https://www.ifopgroup.com/wp-content/uploads/2026/11/122919-petit-dejeuner-electoral-intentions-de-vote-et-determinants-du-vote.pdf",
+   "scores": {
+    "Nathalie Arthaud": 0.0,
+    "Jean-Luc Mélenchon": 17.0,
+    "Fabien Roussel": 1.5,
+    "Marine Tondelier": 2.0,
+    "Raphaël Glucksmann": 8.0,
+    "Gabriel Attal": 4.5,
+    "Édouard Philippe": 10.0,
+    "Dominique de Villepin": 1.5,
+    "Bruno Retailleau": 4.0,
+    "David Lisnard": 8.0,
+    "Nicolas Dupont-Aignan": 1.5,
+    "Marine Le Pen": 32.0,
+    "Éric Zemmour": 3.0,
+    "Natacha Polony": 1.0,
+    "Teddy Riner": 4.0,
+    "François Ruffin": 2.0
+   },
+   "scenarios": 6,
+   "scenarios_used": 1
+  },
+  {
+   "pollster": "YouGov",
+   "end_date": "2026-11-17",
+   "sample": 952,
+   "url": "http://www.commission-des-sondages.fr/notices/files/notices/2026/novembre/10382-pres-iv-yougov-le-huffpost-19-novembre.pdf",
+   "scores": {
+    "Nathalie Arthaud": 1.0,
+    "Jean-Luc Mélenchon": 17.0,
+    "Fabien Roussel": 2.0,
+    "Marine Tondelier": 5.0,
+    "Raphaël Glucksmann": 9.0,
+    "Gabriel Attal": 4.0,
+    "Édouard Philippe": 7.0,
+    "Dominique de Villepin": 2.0,
+    "Bruno Retailleau": 6.0,
+    "David Lisnard": 9.0,
+    "Nicolas Dupont-Aignan": 2.0,
+    "Marine Le Pen": 32.0,
+    "Éric Zemmour": 3.0,
+    "Teddy Riner": 3.0
+   },
+   "scenarios": 5,
+   "scenarios_used": 1
+  },
+  {
+   "pollster": "Harris Interactive",
+   "end_date": "2026-11-19",
+   "sample": 2088,
+   "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/novembre/10393-pres-iv-vague-10-toluna-harris-interactive-23-novembre.pdf",
+   "scores": {
+    "Nathalie Arthaud": 1.0,
+    "Jean-Luc Mélenchon": 18.67,
+    "Fabien Roussel": 1.0,
+    "Marine Tondelier": 1.33,
+    "Raphaël Glucksmann": 11.0,
+    "Gabriel Attal": 5.5,
+    "Édouard Philippe": 9.5,
+    "Dominique de Villepin": 1.67,
+    "Bruno Retailleau": 4.33,
+    "David Lisnard": 11.33,
+    "Nicolas Dupont-Aignan": 1.0,
+    "Marine Le Pen": 30.67,
+    "Éric Zemmour": 3.67,
+    "Teddy Riner": 4.33
+   },
+   "scenarios": 3,
+   "scenarios_used": 3
+  },
+  {
+   "pollster": "OpinionWay",
+   "end_date": "2026-11-26",
+   "sample": 912,
+   "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/novembre/10400-pres-iv-vague-5-opinionway-26-novembre.pdf",
+   "scores": {
+    "Nathalie Arthaud": 1.0,
+    "Jean-Luc Mélenchon": 16.0,
+    "Fabien Roussel": 2.0,
+    "Marine Tondelier": 1.0,
+    "Raphaël Glucksmann": 10.0,
+    "Gabriel Attal": 4.0,
+    "Édouard Philippe": 8.0,
+    "Dominique de Villepin": 2.0,
+    "Bruno Retailleau": 4.0,
+    "David Lisnard": 12.0,
+    "Nicolas Dupont-Aignan": 2.0,
+    "Marine Le Pen": 33.0,
+    "Éric Zemmour": 3.0,
+    "Teddy Riner": 2.0
+   },
+   "scenarios": 1,
    "scenarios_used": 1
   }
  ],
@@ -17222,7 +17342,7 @@
      "articles": 1
     },
     "riner": {
-     "articles": 6
+     "articles": 7
     }
    }
   },
@@ -17294,7 +17414,7 @@
    "date": "2026-08-18",
    "candidates": {
     "philippe": {
-     "articles": 7
+     "articles": 8
     },
     "attal": {
      "articles": 4
@@ -17665,7 +17785,7 @@
      "articles": 2
     },
     "lisnard": {
-     "articles": 6
+     "articles": 7
     },
     "melenchon": {
      "articles": 4
@@ -17732,7 +17852,7 @@
    "date": "2026-09-02",
    "candidates": {
     "ruffin": {
-     "articles": 17
+     "articles": 18
     },
     "melenchon": {
      "articles": 5
@@ -17855,7 +17975,7 @@
      "articles": 2
     },
     "riner": {
-     "articles": 14
+     "articles": 16
     },
     "philippe": {
      "articles": 1
@@ -17907,13 +18027,19 @@
      "articles": 3
     },
     "philippe": {
-     "articles": 6
+     "articles": 7
     },
     "melenchon": {
      "articles": 4
     },
     "roussel": {
      "articles": 7
+    },
+    "retailleau": {
+     "articles": 1
+    },
+    "villepin": {
+     "articles": 1
     }
    }
   },
@@ -17959,7 +18085,7 @@
    "date": "2026-09-09",
    "candidates": {
     "philippe": {
-     "articles": 14
+     "articles": 15
     },
     "attal": {
      "articles": 13
@@ -18230,7 +18356,7 @@
      "articles": 1
     },
     "philippe": {
-     "articles": 8
+     "articles": 9
     },
     "attal": {
      "articles": 5
@@ -18370,7 +18496,7 @@
      "articles": 2
     },
     "attal": {
-     "articles": 10
+     "articles": 11
     },
     "philippe": {
      "articles": 2
@@ -18455,7 +18581,7 @@
      "articles": 1
     },
     "riner": {
-     "articles": 13
+     "articles": 14
     }
    }
   },
@@ -18487,7 +18613,7 @@
      "articles": 1
     },
     "riner": {
-     "articles": 7
+     "articles": 8
     },
     "villepin": {
      "articles": 5
@@ -18859,7 +18985,7 @@
      "articles": 1
     },
     "attal": {
-     "articles": 4
+     "articles": 5
     },
     "philippe": {
      "articles": 2
@@ -18933,6 +19059,9 @@
     },
     "polony": {
      "articles": 1
+    },
+    "attal": {
+     "articles": 1
     }
    }
   },
@@ -18961,7 +19090,7 @@
      "articles": 4
     },
     "glucksmann": {
-     "articles": 1
+     "articles": 2
     },
     "riner": {
      "articles": 1
@@ -18972,7 +19101,7 @@
    "date": "2026-10-10",
    "candidates": {
     "attal": {
-     "articles": 14
+     "articles": 15
     },
     "melenchon": {
      "articles": 9
@@ -19010,7 +19139,7 @@
      "articles": 9
     },
     "glucksmann": {
-     "articles": 16
+     "articles": 17
     },
     "attal": {
      "articles": 10
@@ -20221,13 +20350,13 @@
      "articles": 1
     },
     "melenchon": {
-     "articles": 44
+     "articles": 45
     },
     "retailleau": {
      "articles": 18
     },
     "riner": {
-     "articles": 4
+     "articles": 5
     }
    }
   },
@@ -20259,7 +20388,7 @@
      "articles": 2
     },
     "riner": {
-     "articles": 6
+     "articles": 7
     },
     "lepen": {
      "articles": 10
@@ -20622,7 +20751,7 @@
      "articles": 22
     },
     "ruffin": {
-     "articles": 26
+     "articles": 27
     },
     "lepen": {
      "articles": 19
@@ -20795,22 +20924,22 @@
      "articles": 34
     },
     "lisnard": {
-     "articles": 86
+     "articles": 87
     },
     "roussel": {
      "articles": 4
     },
     "lepen": {
-     "articles": 37
+     "articles": 38
     },
     "melenchon": {
-     "articles": 34
+     "articles": 36
     },
     "zemmour": {
      "articles": 9
     },
     "riner": {
-     "articles": 39
+     "articles": 40
     },
     "glucksmann": {
      "articles": 14
@@ -20839,10 +20968,10 @@
    "date": "2026-11-26",
    "candidates": {
     "philippe": {
-     "articles": 35
+     "articles": 36
     },
     "lisnard": {
-     "articles": 69
+     "articles": 72
     },
     "attal": {
      "articles": 7
@@ -20851,16 +20980,16 @@
      "articles": 12
     },
     "riner": {
-     "articles": 35
+     "articles": 36
     },
     "melenchon": {
-     "articles": 26
+     "articles": 27
     },
     "lepen": {
-     "articles": 46
+     "articles": 52
     },
     "glucksmann": {
-     "articles": 23
+     "articles": 25
     },
     "zemmour": {
      "articles": 25
@@ -20886,7 +21015,7 @@
    "date": "2026-11-27",
    "candidates": {
     "lepen": {
-     "articles": 42
+     "articles": 48
     },
     "zemmour": {
      "articles": 8
@@ -20895,7 +21024,7 @@
      "articles": 17
     },
     "melenchon": {
-     "articles": 21
+     "articles": 22
     },
     "philippe": {
      "articles": 21
@@ -20910,7 +21039,7 @@
      "articles": 36
     },
     "glucksmann": {
-     "articles": 7
+     "articles": 8
     },
     "roussel": {
      "articles": 1
@@ -20941,30 +21070,30 @@
   "candidates": {
    "lisnard": [
     37,
-    56,
+    57,
     58,
     192,
-    772
+    776
    ],
    "philippe": [
     129,
-    191,
-    150,
+    192,
+    153,
     224,
-    748
+    749
    ],
    "retailleau": [
     110,
     68,
-    162,
+    163,
     215,
     373
    ],
    "attal": [
     117,
     125,
-    135,
-    204,
+    136,
+    207,
     355
    ],
    "melenchon": [
@@ -20972,21 +21101,21 @@
     129,
     154,
     286,
-    1047
+    1052
    ],
    "ruffin": [
     42,
     11,
-    73,
+    74,
     45,
-    139
+    140
    ],
    "lepen": [
     245,
     96,
     169,
     328,
-    747
+    760
    ],
    "dupontaignan": [
     13,
@@ -20998,7 +21127,7 @@
    "villepin": [
     36,
     40,
-    63,
+    64,
     79,
     202
    ],
@@ -21013,8 +21142,8 @@
     39,
     149,
     147,
-    225,
-    489
+    227,
+    492
    ],
    "zemmour": [
     8,
@@ -21032,10 +21161,10 @@
    ],
    "riner": [
     13,
+    21,
+    61,
     20,
-    57,
-    20,
-    545
+    549
    ],
    "arthaud": [
     0,
@@ -98560,21 +98689,21 @@
  },
  "media_by_outlet": {
   "BFMTV": {
-   "lisnard": 205,
+   "lisnard": 207,
    "melenchon": 329,
    "retailleau": 255,
    "dupontaignan": 31,
-   "philippe": 332,
-   "attal": 211,
+   "philippe": 333,
+   "attal": 213,
    "villepin": 152,
    "roussel": 94,
-   "lepen": 282,
-   "ruffin": 84,
+   "lepen": 285,
+   "ruffin": 85,
    "zemmour": 78,
-   "glucksmann": 227,
+   "glucksmann": 228,
    "arthaud": 14,
    "polony": 50,
-   "riner": 90
+   "riner": 91
   },
   "Le Monde": {
    "philippe": 48,
@@ -98583,7 +98712,7 @@
    "lepen": 113,
    "melenchon": 69,
    "roussel": 8,
-   "glucksmann": 48,
+   "glucksmann": 49,
    "villepin": 5,
    "lisnard": 20,
    "ruffin": 4,
@@ -98611,7 +98740,7 @@
    "arthaud": 1
   },
   "Le Figaro": {
-   "attal": 65,
+   "attal": 66,
    "retailleau": 90,
    "melenchon": 96,
    "philippe": 110,
@@ -98621,17 +98750,17 @@
    "villepin": 19,
    "roussel": 14,
    "riner": 27,
-   "lepen": 77,
+   "lepen": 79,
    "polony": 5,
    "ruffin": 5,
    "dupontaignan": 1
   },
   "RTL": {
    "melenchon": 43,
-   "philippe": 38,
+   "philippe": 39,
    "retailleau": 15,
-   "lisnard": 21,
-   "lepen": 37,
+   "lisnard": 22,
+   "lepen": 40,
    "ruffin": 5,
    "glucksmann": 20,
    "attal": 17,
@@ -98644,7 +98773,7 @@
   },
   "franceinfo": {
    "melenchon": 107,
-   "lepen": 150,
+   "lepen": 151,
    "philippe": 98,
    "attal": 84,
    "retailleau": 46,
@@ -98682,7 +98811,7 @@
    "lisnard": 26,
    "melenchon": 58,
    "roussel": 7,
-   "glucksmann": 34,
+   "glucksmann": 35,
    "lepen": 48,
    "villepin": 6,
    "polony": 5,
@@ -98699,11 +98828,11 @@
    "roussel": 6,
    "zemmour": 6,
    "lepen": 30,
-   "villepin": 8,
+   "villepin": 9,
    "melenchon": 27,
    "glucksmann": 24,
    "arthaud": 3,
-   "lisnard": 20,
+   "lisnard": 21,
    "dupontaignan": 1,
    "polony": 2
   },
@@ -98711,7 +98840,7 @@
    "retailleau": 40,
    "philippe": 42,
    "dupontaignan": 14,
-   "lisnard": 47,
+   "lisnard": 48,
    "roussel": 4,
    "melenchon": 45,
    "lepen": 47,
@@ -98725,12 +98854,12 @@
   },
   "RMC": {
    "lisnard": 37,
-   "philippe": 48,
+   "philippe": 49,
    "retailleau": 21,
-   "attal": 26,
+   "attal": 27,
    "lepen": 29,
    "ruffin": 28,
-   "melenchon": 48,
+   "melenchon": 49,
    "glucksmann": 35,
    "zemmour": 22,
    "villepin": 14,
@@ -98742,14 +98871,14 @@
   "Ouest-France": {
    "retailleau": 37,
    "attal": 32,
-   "riner": 37,
+   "riner": 40,
    "dupontaignan": 4,
    "roussel": 15,
    "lepen": 36,
-   "glucksmann": 50,
+   "glucksmann": 52,
    "ruffin": 21,
    "melenchon": 41,
-   "philippe": 42,
+   "philippe": 43,
    "villepin": 14,
    "arthaud": 6,
    "lisnard": 29,
@@ -98772,14 +98901,14 @@
    "ruffin": 2
   },
   "TF1": {
-   "lepen": 91,
+   "lepen": 92,
    "retailleau": 37,
    "attal": 64,
    "philippe": 81,
    "polony": 6,
    "roussel": 22,
    "ruffin": 18,
-   "melenchon": 75,
+   "melenchon": 76,
    "glucksmann": 39,
    "lisnard": 34,
    "zemmour": 16,
@@ -98796,9 +98925,9 @@
    "dupontaignan": 18,
    "zemmour": 38,
    "roussel": 4,
-   "melenchon": 65,
+   "melenchon": 66,
    "lepen": 52,
-   "riner": 27,
+   "riner": 28,
    "villepin": 9,
    "glucksmann": 23,
    "polony": 2,
@@ -98836,14 +98965,14 @@
    "attal": 145,
    "roussel": 34,
    "ruffin": 46,
-   "lepen": 341,
+   "lepen": 342,
    "retailleau": 144,
    "glucksmann": 230,
-   "melenchon": 468,
+   "melenchon": 469,
    "villepin": 71,
    "philippe": 239,
    "zemmour": 81,
-   "riner": 206,
+   "riner": 209,
    "lisnard": 288,
    "polony": 13,
    "arthaud": 1,
@@ -98880,11 +99009,11 @@
    "retailleau": 1
   },
   "L'Équipe": {
-   "riner": 33,
+   "riner": 34,
    "lisnard": 1
   },
   "Midi Libre": {
-   "melenchon": 29,
+   "melenchon": 30,
    "roussel": 2,
    "lepen": 23,
    "retailleau": 11,
@@ -98911,13 +99040,13 @@
    "retailleau": 3,
    "zemmour": 3,
    "dupontaignan": 1,
-   "ruffin": 1,
+   "ruffin": 2,
    "arthaud": 1,
    "riner": 1
   },
   "La Croix": {
    "roussel": 2,
-   "lepen": 12,
+   "lepen": 13,
    "ruffin": 3,
    "melenchon": 4,
    "glucksmann": 3,
@@ -98987,11 +99116,11 @@
    "melenchon": 1
   },
   "Les Échos": {
-   "retailleau": 16,
-   "lepen": 35,
+   "retailleau": 17,
+   "lepen": 36,
    "attal": 15,
    "melenchon": 13,
-   "philippe": 14,
+   "philippe": 15,
    "glucksmann": 12,
    "roussel": 2,
    "lisnard": 18,
@@ -99063,6 +99192,30 @@
   }
  },
  "events": [
+  {
+   "date": "2026-11-21",
+   "title": "François Ruffin, président de Debout ! (D!), retire sa candidature (21/11/2026).",
+   "description": "",
+   "category": "campagne",
+   "candidates": [],
+   "origin": "wikipedia",
+   "sources": [
+    {
+     "outlet": "Wikipédia",
+     "title": "Annotation du tableau des sondages",
+     "url": "https://www.bfmtv.com/politique/elections/presidentielle/presidentielle-2027-francois-ruffin-prend-acte-de-l-impasse-de-sa-campagne-et-annonce-retirer-sa-candidature_AD-202611210380.html"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-20",
+   "title": "Dominique de Villepin, président de La France Humaniste, officialise sa candidature (20/11/2026).",
+   "description": "",
+   "category": "campagne",
+   "candidates": [],
+   "origin": "wikipedia",
+   "sources": []
+  },
   {
    "id": "7f52856b212b",
    "date": "2026-10-26",
@@ -99451,7 +99604,13 @@
    "category": "campagne",
    "candidates": [],
    "origin": "wikipedia",
-   "sources": []
+   "sources": [
+    {
+     "outlet": "Wikipédia",
+     "title": "Annotation du tableau des sondages",
+     "url": "https://fr.euronews.com/my-europe/2026/07/07/je-suis-candidate-a-lelection-presidentielle-annonce-marine-le-pen-sur-tf1"
+    }
+   ]
   },
   {
    "date": "2026-05-22",
@@ -99460,7 +99619,13 @@
    "category": "campagne",
    "candidates": [],
    "origin": "wikipedia",
-   "sources": []
+   "sources": [
+    {
+     "outlet": "Wikipédia",
+     "title": "Annotation du tableau des sondages",
+     "url": "https://www.lefigaro.fr/politique/presidentielle-2027-j-ai-decide-d-etre-candidat-annonce-gabriel-attal-20260522"
+    }
+   ]
   },
   {
    "date": "2026-05-03",
@@ -99469,7 +99634,13 @@
    "category": "campagne",
    "candidates": [],
    "origin": "wikipedia",
-   "sources": []
+   "sources": [
+    {
+     "outlet": "Wikipédia",
+     "title": "Annotation du tableau des sondages",
+     "url": "https://www.rtl.fr/actu/politique/presidentielle-2027-jean-luc-melenchon-officialise-sa-candidature-a-un-an-du-scrutin-7900630247"
+    }
+   ]
   },
   {
    "date": "2026-04-19",
@@ -99478,7 +99649,28 @@
    "category": "campagne",
    "candidates": [],
    "origin": "wikipedia",
-   "sources": []
+   "sources": [
+    {
+     "outlet": "Wikipédia",
+     "title": "Annotation du tableau des sondages",
+     "url": "https://www.franceinfo.fr/politique/les-republicains/presidentielle-2027-bruno-retailleau-largement-designe-candidat-par-les-adherents-du-parti-les-republicains_7949957.html"
+    }
+   ]
+  },
+  {
+   "date": "2026-03-31",
+   "title": "David Lisnard, quitte Les Républicains (LR) et se déclare candidat pour Nouvelle Énergie (NE) (31/03/2026).",
+   "description": "",
+   "category": "campagne",
+   "candidates": [],
+   "origin": "wikipedia",
+   "sources": [
+    {
+     "outlet": "Wikipédia",
+     "title": "Annotation du tableau des sondages",
+     "url": "https://www.franceinfo.fr/elections/presidentielle/le-maire-de-cannes-david-lisnard-annonce-sa-candidature-a-l-election-presidentielle-et-officialise-son-depart-des-republicains_7907063.html"
+    }
+   ]
   },
   {
    "date": "2025-12-08",
@@ -99487,7 +99679,13 @@
    "category": "campagne",
    "candidates": [],
    "origin": "wikipedia",
-   "sources": []
+   "sources": [
+    {
+     "outlet": "Wikipédia",
+     "title": "Annotation du tableau des sondages",
+     "url": "https://www.lemonde.fr/politique/article/2025/12/08/presidentielle-la-porte-parole-de-lutte-ouvriere-nathalie-arthaud-annonce-sa-candidature_6656468_823448.html"
+    }
+   ]
   },
   {
    "date": "2025-10-06",
@@ -99496,7 +99694,13 @@
    "category": "campagne",
    "candidates": [],
    "origin": "wikipedia",
-   "sources": []
+   "sources": [
+    {
+     "outlet": "Wikipédia",
+     "title": "Annotation du tableau des sondages",
+     "url": "https://www.liberation.fr/politique/quatorze-heures-demission-comprise-le-desastre-annonce-du-gouvernement-lecornu-20251006_LNP376GAR5HZFBBL2GDRNWJDHA/"
+    }
+   ]
   },
   {
    "date": "2025-09-09",
@@ -99505,7 +99709,13 @@
    "category": "campagne",
    "candidates": [],
    "origin": "wikipedia",
-   "sources": []
+   "sources": [
+    {
+     "outlet": "Wikipédia",
+     "title": "Annotation du tableau des sondages",
+     "url": "https://www.bfmtv.com/politique/elysee/sebastien-lecornu-nomme-premier-ministre-par-emmanuel-macron_AN-202509090839.html"
+    }
+   ]
   },
   {
    "date": "2025-09-08",
@@ -99514,7 +99724,13 @@
    "category": "campagne",
    "candidates": [],
    "origin": "wikipedia",
-   "sources": []
+   "sources": [
+    {
+     "outlet": "Wikipédia",
+     "title": "Annotation du tableau des sondages",
+     "url": "https://www.franceinfo.fr/politique/gouvernement-de-francois-bayrou/direct-francois-bayrou-affronte-un-vote-de-confiance-a-l-assemblee-nationale-la-chute-du-gouvernement-parait-ineluctable_7478794.html"
+    }
+   ]
   },
   {
    "date": "2025-07-02",
@@ -107202,7 +107418,7 @@
      "channel_id": "UCXKJrYczY2_fJEZgFPGY0HQ",
      "subscribers": 663000,
      "views": 559721407,
-     "videos": 43119
+     "videos": 43120
     }
    },
    {
@@ -107674,7 +107890,7 @@
      "channel_id": "UCIMGfEAERXjmWwQeg15BFsg",
      "subscribers": 2310000,
      "views": 2017429857,
-     "videos": 182404
+     "videos": 182403
     }
    },
    {
@@ -111230,7 +111446,7 @@
    "candidates": [
     "Marine Le Pen"
    ],
-   "views": 1818,
+   "views": 1979,
    "url": "https://www.youtube.com/watch?v=QzW1C0eRT0k"
   },
   {
@@ -111241,7 +111457,7 @@
    "candidates": [
     "Marine Le Pen"
    ],
-   "views": 3039,
+   "views": 3135,
    "url": "https://www.youtube.com/watch?v=oXTux_ZagFk"
   },
   {
@@ -111252,7 +111468,7 @@
    "candidates": [
     "Marine Le Pen"
    ],
-   "views": 1076,
+   "views": 1104,
    "url": "https://www.youtube.com/watch?v=sIHzBynZNo8"
   },
   {
@@ -111263,7 +111479,7 @@
    "candidates": [
     "Marine Le Pen"
    ],
-   "views": 1927,
+   "views": 1996,
    "url": "https://www.youtube.com/watch?v=bpAKxwK_e04"
   },
   {
@@ -111274,7 +111490,7 @@
    "candidates": [
     "Marine Le Pen"
    ],
-   "views": 2082,
+   "views": 2106,
    "url": "https://www.youtube.com/watch?v=ZXUxWqvS_Ts"
   },
   {
@@ -111285,7 +111501,7 @@
    "candidates": [
     "David Lisnard"
    ],
-   "views": 8142,
+   "views": 8349,
    "url": "https://www.youtube.com/watch?v=y_l_CyVM9DY"
   },
   {
@@ -111296,7 +111512,7 @@
    "candidates": [
     "Jean-Luc Mélenchon"
    ],
-   "views": 1891,
+   "views": 1930,
    "url": "https://www.youtube.com/watch?v=eoPhcO2x1Mc"
   },
   {
@@ -111307,7 +111523,7 @@
    "candidates": [
     "Marine Le Pen"
    ],
-   "views": 619,
+   "views": 625,
    "url": "https://www.youtube.com/watch?v=gQd5sxZ-Y_E"
   },
   {
@@ -111318,7 +111534,7 @@
    "candidates": [
     "Jean-Luc Mélenchon"
    ],
-   "views": 2688,
+   "views": 2723,
    "url": "https://www.youtube.com/watch?v=vZaABIAfj84"
   },
   {
@@ -111329,7 +111545,7 @@
    "candidates": [
     "David Lisnard"
    ],
-   "views": 2165,
+   "views": 2168,
    "url": "https://www.youtube.com/watch?v=i9wKe9tt1V0"
   },
   {
@@ -111340,7 +111556,7 @@
    "candidates": [
     "David Lisnard"
    ],
-   "views": 8190,
+   "views": 8219,
    "url": "https://www.youtube.com/watch?v=hakcYrqoC7I"
   },
   {
@@ -111351,7 +111567,7 @@
    "candidates": [
     "Éric Zemmour"
    ],
-   "views": 1888,
+   "views": 1891,
    "url": "https://www.youtube.com/watch?v=RQ72lr4YeFI"
   },
   {
@@ -111362,7 +111578,7 @@
    "candidates": [
     "Éric Zemmour"
    ],
-   "views": 1320,
+   "views": 1324,
    "url": "https://www.youtube.com/watch?v=HUgjfkGG94c"
   },
   {
@@ -111373,7 +111589,7 @@
    "candidates": [
     "Éric Zemmour"
    ],
-   "views": 14158,
+   "views": 14190,
    "url": "https://www.youtube.com/watch?v=Bt-Q2eLH8Ok"
   },
   {
@@ -111406,7 +111622,7 @@
    "candidates": [
     "Éric Zemmour"
    ],
-   "views": 4386,
+   "views": 4397,
    "url": "https://www.youtube.com/watch?v=2o7x50VY9NM"
   },
   {
@@ -111417,7 +111633,7 @@
    "candidates": [
     "Éric Zemmour"
    ],
-   "views": 7761,
+   "views": 7783,
    "url": "https://www.youtube.com/watch?v=AI4hKyE842w"
   },
   {
@@ -111428,7 +111644,7 @@
    "candidates": [
     "Éric Zemmour"
    ],
-   "views": 4776,
+   "views": 4780,
    "url": "https://www.youtube.com/watch?v=Vb2WvG72p00"
   },
   {
@@ -111439,7 +111655,7 @@
    "candidates": [
     "Éric Zemmour"
    ],
-   "views": 4439,
+   "views": 4448,
    "url": "https://www.youtube.com/watch?v=jBM9F3Cs28E"
   },
   {
@@ -111472,7 +111688,7 @@
    "candidates": [
     "Éric Zemmour"
    ],
-   "views": 3727,
+   "views": 3745,
    "url": "https://www.youtube.com/watch?v=vtDeWCTuF2M"
   },
   {
@@ -111516,7 +111732,7 @@
    "candidates": [
     "Éric Zemmour"
    ],
-   "views": 10304,
+   "views": 10354,
    "url": "https://www.youtube.com/watch?v=zUxue171okk"
   },
   {
@@ -111538,7 +111754,7 @@
    "candidates": [
     "Éric Zemmour"
    ],
-   "views": 4805,
+   "views": 4813,
    "url": "https://www.youtube.com/watch?v=BcuUS_o9G2k"
   },
   {
@@ -111560,7 +111776,7 @@
    "candidates": [
     "Éric Zemmour"
    ],
-   "views": 475,
+   "views": 477,
    "url": "https://www.youtube.com/watch?v=Gy-DCXx-q7U"
   },
   {
@@ -111584,7 +111800,7 @@
     "Marine Le Pen",
     "Éric Zemmour"
    ],
-   "views": 7690,
+   "views": 7701,
    "url": "https://www.youtube.com/watch?v=WR9idnc0AmY"
   },
   {
@@ -111606,7 +111822,7 @@
    "candidates": [
     "Éric Zemmour"
    ],
-   "views": 2294,
+   "views": 2304,
    "url": "https://www.youtube.com/watch?v=MczYIQa80l8"
   },
   {
@@ -111617,7 +111833,7 @@
    "candidates": [
     "Éric Zemmour"
    ],
-   "views": 13448,
+   "views": 13469,
    "url": "https://www.youtube.com/watch?v=tCm2zjb3Nys"
   },
   {
@@ -111628,7 +111844,7 @@
    "candidates": [
     "Éric Zemmour"
    ],
-   "views": 1358,
+   "views": 1369,
    "url": "https://www.youtube.com/watch?v=f1tDlXgvldI"
   },
   {
@@ -111639,7 +111855,7 @@
    "candidates": [
     "Éric Zemmour"
    ],
-   "views": 2860,
+   "views": 2864,
    "url": "https://www.youtube.com/watch?v=MxMLBJWAcMM"
   },
   {
@@ -111650,7 +111866,7 @@
    "candidates": [
     "David Lisnard"
    ],
-   "views": 22285,
+   "views": 22374,
    "url": "https://www.youtube.com/watch?v=1i1NoKNNYPw"
   },
   {
@@ -111672,7 +111888,7 @@
    "candidates": [
     "David Lisnard"
    ],
-   "views": 11135,
+   "views": 11163,
    "url": "https://www.youtube.com/watch?v=0Wnn4eq2ZWs"
   },
   {
@@ -111683,7 +111899,7 @@
    "candidates": [
     "Teddy Riner"
    ],
-   "views": 26173,
+   "views": 26399,
    "url": "https://www.youtube.com/watch?v=j_yOU85JyNY"
   },
   {
@@ -111694,7 +111910,7 @@
    "candidates": [
     "Teddy Riner"
    ],
-   "views": 35090,
+   "views": 35105,
    "url": "https://www.youtube.com/watch?v=GaEsdnBYSgU"
   },
   {
@@ -111705,7 +111921,7 @@
    "candidates": [
     "David Lisnard"
    ],
-   "views": 2391,
+   "views": 2597,
    "url": "https://www.youtube.com/watch?v=zaKthRuTac4"
   },
   {
@@ -111727,7 +111943,7 @@
    "candidates": [
     "David Lisnard"
    ],
-   "views": 3718,
+   "views": 3724,
    "url": "https://www.youtube.com/watch?v=TVFawfhke3U"
   },
   {
@@ -111749,7 +111965,7 @@
    "candidates": [
     "Teddy Riner"
    ],
-   "views": 3470,
+   "views": 3473,
    "url": "https://www.youtube.com/watch?v=if53lT2MNCM"
   },
   {
@@ -111782,7 +111998,7 @@
    "candidates": [
     "Marine Le Pen"
    ],
-   "views": 21059,
+   "views": 21060,
    "url": "https://www.youtube.com/watch?v=fOpn9Z-7mv8"
   },
   {
@@ -111793,7 +112009,7 @@
    "candidates": [
     "Teddy Riner"
    ],
-   "views": 7963,
+   "views": 7968,
    "url": "https://www.youtube.com/watch?v=823rUvQ2zRg"
   },
   {
@@ -111826,7 +112042,7 @@
    "candidates": [
     "David Lisnard"
    ],
-   "views": 8527,
+   "views": 8528,
    "url": "https://www.youtube.com/watch?v=V5Iv0S8RS1w"
   },
   {
@@ -111837,7 +112053,7 @@
    "candidates": [
     "Teddy Riner"
    ],
-   "views": 4414,
+   "views": 4420,
    "url": "https://www.youtube.com/watch?v=-smLp890QbE"
   },
   {
@@ -111848,7 +112064,7 @@
    "candidates": [
     "Dominique de Villepin"
    ],
-   "views": 54172,
+   "views": 54187,
    "url": "https://www.youtube.com/watch?v=6V-wIR8NBsk"
   },
   {
@@ -111859,7 +112075,7 @@
    "candidates": [
     "Dominique de Villepin"
    ],
-   "views": 14952,
+   "views": 14960,
    "url": "https://www.youtube.com/watch?v=usL6thtRR_I"
   },
   {
@@ -111870,7 +112086,7 @@
    "candidates": [
     "Teddy Riner"
    ],
-   "views": 48579,
+   "views": 48642,
    "url": "https://www.youtube.com/watch?v=eUDq3lWUuT8"
   },
   {
@@ -111881,7 +112097,7 @@
    "candidates": [
     "Fabien Roussel"
    ],
-   "views": 43343,
+   "views": 43379,
    "url": "https://www.youtube.com/watch?v=-E0aOn9e3Ac"
   }
  ],
@@ -111894,7 +112110,7 @@
    "candidates": [
     "David Lisnard"
    ],
-   "views": 108,
+   "views": 270,
    "url": "https://www.youtube.com/watch?v=QyRCC9dCZ9s"
   },
   {
@@ -111905,7 +112121,7 @@
    "candidates": [
     "David Lisnard"
    ],
-   "views": 781,
+   "views": 892,
    "url": "https://www.youtube.com/watch?v=RPQddaiwO8c"
   },
   {
@@ -111916,7 +112132,7 @@
    "candidates": [
     "Gabriel Attal"
    ],
-   "views": 673,
+   "views": 742,
    "url": "https://www.youtube.com/watch?v=72Rri8Xm_JU"
   },
   {
@@ -111927,7 +112143,7 @@
    "candidates": [
     "Dominique de Villepin"
    ],
-   "views": 599,
+   "views": 659,
    "url": "https://www.youtube.com/watch?v=TDZvMUsB_7c"
   },
   {
@@ -111938,7 +112154,7 @@
    "candidates": [
     "Marine Le Pen"
    ],
-   "views": 566,
+   "views": 606,
    "url": "https://www.youtube.com/watch?v=0ZDTAZOvmqI"
   },
   {
@@ -111949,7 +112165,7 @@
    "candidates": [
     "Éric Zemmour"
    ],
-   "views": 915,
+   "views": 951,
    "url": "https://www.youtube.com/watch?v=eChPv5BPwUw"
   },
   {
@@ -111960,7 +112176,7 @@
    "candidates": [
     "Nathalie Arthaud"
    ],
-   "views": 773,
+   "views": 778,
    "url": "https://www.youtube.com/watch?v=4Qd2aAUOfso"
   },
   {
@@ -111971,7 +112187,7 @@
    "candidates": [
     "Jean-Luc Mélenchon"
    ],
-   "views": 23364,
+   "views": 24500,
    "url": "https://www.youtube.com/watch?v=_S3Ew8eZHJU"
   },
   {
@@ -111982,7 +112198,7 @@
    "candidates": [
     "David Lisnard"
    ],
-   "views": 1856,
+   "views": 1915,
    "url": "https://www.youtube.com/watch?v=Ce0opKL5GG4"
   },
   {
@@ -111993,7 +112209,7 @@
    "candidates": [
     "David Lisnard"
    ],
-   "views": 7954,
+   "views": 8268,
    "url": "https://www.youtube.com/watch?v=S_W3du0Oo_c"
   },
   {
@@ -112004,7 +112220,7 @@
    "candidates": [
     "Marine Le Pen"
    ],
-   "views": 24547,
+   "views": 24586,
    "url": "https://www.youtube.com/watch?v=7ioMrHabxuY"
   },
   {
@@ -112015,7 +112231,7 @@
    "candidates": [
     "Jordan Bardella"
    ],
-   "views": 1497,
+   "views": 1530,
    "url": "https://www.youtube.com/watch?v=OT9-08fKzBM"
   },
   {
@@ -112026,7 +112242,7 @@
    "candidates": [
     "Manuel Bompard"
    ],
-   "views": 3133,
+   "views": 3185,
    "url": "https://www.youtube.com/watch?v=UCJ59d84few"
   },
   {
@@ -112037,7 +112253,7 @@
    "candidates": [
     "Jordan Bardella"
    ],
-   "views": 5332,
+   "views": 5518,
    "url": "https://www.youtube.com/watch?v=PEm8fSyNl5U"
   },
   {
@@ -112048,7 +112264,7 @@
    "candidates": [
     "Éric Zemmour"
    ],
-   "views": 2538,
+   "views": 2590,
    "url": "https://www.youtube.com/watch?v=0huY7QuoU9U"
   },
   {
@@ -112059,7 +112275,7 @@
    "candidates": [
     "François-Xavier Bellamy"
    ],
-   "views": 1211,
+   "views": 1215,
    "url": "https://www.youtube.com/watch?v=yhTroUlHMQw"
   },
   {
@@ -112070,7 +112286,7 @@
    "candidates": [
     "David Lisnard"
    ],
-   "views": 1941,
+   "views": 1977,
    "url": "https://www.youtube.com/watch?v=zrtApxhb1BY"
   },
   {
@@ -112081,7 +112297,7 @@
    "candidates": [
     "Marine Le Pen"
    ],
-   "views": 1880,
+   "views": 1913,
    "url": "https://www.youtube.com/watch?v=b1z9bkpBy4o"
   },
   {
@@ -112092,7 +112308,7 @@
    "candidates": [
     "Manon Aubry"
    ],
-   "views": 8350,
+   "views": 8467,
    "url": "https://www.youtube.com/watch?v=RTCS9bLc4Hw"
   },
   {
@@ -112103,7 +112319,7 @@
    "candidates": [
     "Marine Le Pen"
    ],
-   "views": 1352,
+   "views": 1373,
    "url": "https://www.youtube.com/watch?v=TGhknCHxZh0"
   },
   {
@@ -112114,7 +112330,7 @@
    "candidates": [
     "Antoine Léaument"
    ],
-   "views": 15915,
+   "views": 16044,
    "url": "https://www.youtube.com/watch?v=DcqYkvaF9z0"
   },
   {
@@ -112125,7 +112341,7 @@
    "candidates": [
     "Natacha Polony"
    ],
-   "views": 1444,
+   "views": 1447,
    "url": "https://www.youtube.com/watch?v=edZkIf8q4BY"
   },
   {
@@ -112136,7 +112352,7 @@
    "candidates": [
     "Natacha Polony"
    ],
-   "views": 1119,
+   "views": 1123,
    "url": "https://www.youtube.com/watch?v=JWoS0GNNT3o"
   },
   {
@@ -112147,7 +112363,7 @@
    "candidates": [
     "Natacha Polony"
    ],
-   "views": 1072,
+   "views": 1080,
    "url": "https://www.youtube.com/watch?v=GClZdL0XJ4A"
   },
   {
@@ -112158,7 +112374,7 @@
    "candidates": [
     "Marine Le Pen"
    ],
-   "views": 8999,
+   "views": 9125,
    "url": "https://www.youtube.com/watch?v=B7XNJOY5DQQ"
   },
   {
@@ -112169,7 +112385,7 @@
    "candidates": [
     "Nicolas Dupont-Aignan"
    ],
-   "views": 5409,
+   "views": 5438,
    "url": "https://www.youtube.com/watch?v=x6TYlgGhHus"
   },
   {
@@ -112180,7 +112396,7 @@
    "candidates": [
     "Marine Le Pen"
    ],
-   "views": 5450,
+   "views": 5721,
    "url": "https://www.youtube.com/watch?v=xtEnym8QfZI"
   },
   {
@@ -112191,7 +112407,7 @@
    "candidates": [
     "Marine Le Pen"
    ],
-   "views": 1519,
+   "views": 1567,
    "url": "https://www.youtube.com/watch?v=AuwCeRCsqwc"
   },
   {
@@ -112202,7 +112418,7 @@
    "candidates": [
     "Éric Zemmour"
    ],
-   "views": 2283,
+   "views": 2286,
    "url": "https://www.youtube.com/watch?v=nHA3sGaUowg"
   },
   {
@@ -112213,7 +112429,7 @@
    "candidates": [
     "Marine Le Pen"
    ],
-   "views": 2057,
+   "views": 2065,
    "url": "https://www.youtube.com/watch?v=xIweNydemAo"
   },
   {
@@ -112224,7 +112440,7 @@
    "candidates": [
     "Éric Zemmour"
    ],
-   "views": 3389,
+   "views": 3400,
    "url": "https://www.youtube.com/watch?v=IhXColNq9tE"
   },
   {
@@ -112235,7 +112451,7 @@
    "candidates": [
     "Manon Aubry"
    ],
-   "views": 2190,
+   "views": 2191,
    "url": "https://www.youtube.com/watch?v=a2dtGoRCNN0"
   },
   {
@@ -112246,7 +112462,7 @@
    "candidates": [
     "Marine Le Pen"
    ],
-   "views": 11296,
+   "views": 11347,
    "url": "https://www.youtube.com/watch?v=-p7snvITED8"
   },
   {
@@ -112257,7 +112473,7 @@
    "candidates": [
     "Éric Zemmour"
    ],
-   "views": 48034,
+   "views": 48182,
    "url": "https://www.youtube.com/watch?v=zplSsiIX7mc"
   },
   {
@@ -112268,7 +112484,7 @@
    "candidates": [
     "Jordan Bardella"
    ],
-   "views": 34888,
+   "views": 34923,
    "url": "https://www.youtube.com/watch?v=ayuTCTcfTqU"
   },
   {
@@ -112279,7 +112495,7 @@
    "candidates": [
     "Marine Le Pen"
    ],
-   "views": 25910,
+   "views": 25952,
    "url": "https://www.youtube.com/watch?v=WRoZTcqd-J4"
   },
   {
@@ -112290,7 +112506,7 @@
    "candidates": [
     "Marine Le Pen"
    ],
-   "views": 115946,
+   "views": 116269,
    "url": "https://www.youtube.com/watch?v=7F8JO93E5I4"
   },
   {
@@ -112301,7 +112517,7 @@
    "candidates": [
     "Jordan Bardella"
    ],
-   "views": 29883,
+   "views": 29931,
    "url": "https://www.youtube.com/watch?v=rknzOSQkMEU"
   },
   {
@@ -112312,7 +112528,7 @@
    "candidates": [
     "Manuel Bompard"
    ],
-   "views": 7946,
+   "views": 7958,
    "url": "https://www.youtube.com/watch?v=jQwfNHgezV0"
   },
   {
@@ -112323,7 +112539,7 @@
    "candidates": [
     "Clémence Guetté"
    ],
-   "views": 33218,
+   "views": 33280,
    "url": "https://www.youtube.com/watch?v=_sjS1X_FgP4"
   },
   {
@@ -112334,7 +112550,7 @@
    "candidates": [
     "Marine Le Pen"
    ],
-   "views": 5414,
+   "views": 5417,
    "url": "https://www.youtube.com/watch?v=RFHqfuhKBXg"
   },
   {
@@ -112356,7 +112572,7 @@
    "candidates": [
     "Marine Le Pen"
    ],
-   "views": 10108,
+   "views": 10130,
    "url": "https://www.youtube.com/watch?v=g2YHgvKSZn4"
   },
   {
@@ -112367,7 +112583,7 @@
    "candidates": [
     "David Lisnard"
    ],
-   "views": 21934,
+   "views": 21961,
    "url": "https://www.youtube.com/watch?v=ZGYIBIaAg-Y"
   },
   {
@@ -112378,7 +112594,7 @@
    "candidates": [
     "Dominique de Villepin"
    ],
-   "views": 2996,
+   "views": 2997,
    "url": "https://www.youtube.com/watch?v=B31BcUWhtz8"
   },
   {
@@ -112389,7 +112605,7 @@
    "candidates": [
     "Nicolas Dupont-Aignan"
    ],
-   "views": 5051,
+   "views": 5055,
    "url": "https://www.youtube.com/watch?v=46eQN6IyJuw"
   },
   {
@@ -112400,7 +112616,7 @@
    "candidates": [
     "Sarah Knafo"
    ],
-   "views": 79607,
+   "views": 79677,
    "url": "https://www.youtube.com/watch?v=UMN_2Wxajts"
   },
   {
@@ -112411,7 +112627,7 @@
    "candidates": [
     "Antoine Léaument"
    ],
-   "views": 15885,
+   "views": 15907,
    "url": "https://www.youtube.com/watch?v=QtfNvJ1GAlA"
   },
   {
@@ -112422,7 +112638,7 @@
    "candidates": [
     "Marine Le Pen"
    ],
-   "views": 41389,
+   "views": 41479,
    "url": "https://www.youtube.com/watch?v=a1lFEcaD-4E"
   },
   {
@@ -112433,7 +112649,7 @@
    "candidates": [
     "David Lisnard"
    ],
-   "views": 160967,
+   "views": 161164,
    "url": "https://www.youtube.com/watch?v=shs20ss0JCI"
   },
   {
@@ -112455,7 +112671,7 @@
    "candidates": [
     "Nicolas Dupont-Aignan"
    ],
-   "views": 4806,
+   "views": 4807,
    "url": "https://www.youtube.com/watch?v=FHZBnU4Jg3I"
   },
   {
@@ -112466,7 +112682,7 @@
    "candidates": [
     "David Lisnard"
    ],
-   "views": 7077,
+   "views": 7085,
    "url": "https://www.youtube.com/watch?v=Id5Z6-c2cVA"
   },
   {
@@ -112477,7 +112693,7 @@
    "candidates": [
     "Marine Le Pen"
    ],
-   "views": 3255,
+   "views": 3260,
    "url": "https://www.youtube.com/watch?v=y-OE_H0_P9M"
   },
   {
@@ -112488,7 +112704,7 @@
    "candidates": [
     "David Lisnard"
    ],
-   "views": 17520,
+   "views": 17533,
    "url": "https://www.youtube.com/watch?v=kThNMSIlAbk"
   },
   {
@@ -112499,7 +112715,7 @@
    "candidates": [
     "Marine Le Pen"
    ],
-   "views": 6339,
+   "views": 6341,
    "url": "https://www.youtube.com/watch?v=JiqOuePHGuc"
   },
   {
@@ -112510,7 +112726,7 @@
    "candidates": [
     "Marine Le Pen"
    ],
-   "views": 32482,
+   "views": 32550,
    "url": "https://www.youtube.com/watch?v=jtffNiZqiwo"
   },
   {
@@ -112521,7 +112737,7 @@
    "candidates": [
     "Jordan Bardella"
    ],
-   "views": 46423,
+   "views": 46449,
    "url": "https://www.youtube.com/watch?v=CYccfdQ608Q"
   },
   {
@@ -112532,7 +112748,7 @@
    "candidates": [
     "Marine Le Pen"
    ],
-   "views": 7854,
+   "views": 7889,
    "url": "https://www.youtube.com/watch?v=CtkrmSEO0zU"
   },
   {
@@ -112543,7 +112759,7 @@
    "candidates": [
     "Jean-Luc Mélenchon"
    ],
-   "views": 140742,
+   "views": 140789,
    "url": "https://www.youtube.com/watch?v=2jkmpMb_a1Q"
   },
   {
@@ -112565,7 +112781,7 @@
    "candidates": [
     "Marine Le Pen"
    ],
-   "views": 11486,
+   "views": 11490,
    "url": "https://www.youtube.com/watch?v=HnYxMeBJkjk"
   },
   {
@@ -112576,7 +112792,7 @@
    "candidates": [
     "Marine Le Pen"
    ],
-   "views": 3907,
+   "views": 3909,
    "url": "https://www.youtube.com/watch?v=CSuO4uyg9l0"
   },
   {
@@ -112587,7 +112803,7 @@
    "candidates": [
     "Marine Le Pen"
    ],
-   "views": 10797,
+   "views": 10802,
    "url": "https://www.youtube.com/watch?v=xEZh8WplKZA"
   },
   {
@@ -112598,7 +112814,7 @@
    "candidates": [
     "Marine Le Pen"
    ],
-   "views": 117407,
+   "views": 117456,
    "url": "https://www.youtube.com/watch?v=OCSuSmwXUuI"
   },
   {
@@ -112609,7 +112825,7 @@
    "candidates": [
     "Marine Le Pen"
    ],
-   "views": 140222,
+   "views": 140223,
    "url": "https://www.youtube.com/watch?v=a7xoUP_Kkfo"
   },
   {
@@ -112620,7 +112836,7 @@
    "candidates": [
     "Clémence Guetté"
    ],
-   "views": 30101,
+   "views": 30117,
    "url": "https://www.youtube.com/watch?v=btKx4c8j2P4"
   },
   {
@@ -112631,7 +112847,7 @@
    "candidates": [
     "Marine Le Pen"
    ],
-   "views": 9587,
+   "views": 9591,
    "url": "https://www.youtube.com/watch?v=WFOxYHqMlYQ"
   },
   {
@@ -112642,7 +112858,7 @@
    "candidates": [
     "Antoine Léaument"
    ],
-   "views": 37250,
+   "views": 37261,
    "url": "https://www.youtube.com/watch?v=_gukYeJogZg"
   },
   {
@@ -112664,7 +112880,7 @@
    "candidates": [
     "Marine Le Pen"
    ],
-   "views": 25642,
+   "views": 25669,
    "url": "https://www.youtube.com/watch?v=fSYlXDPR9dU"
   },
   {
@@ -112675,7 +112891,7 @@
    "candidates": [
     "Jordan Bardella"
    ],
-   "views": 15862,
+   "views": 15869,
    "url": "https://www.youtube.com/watch?v=uSSF0DKttoE"
   },
   {
@@ -112697,7 +112913,7 @@
    "candidates": [
     "Marion Maréchal"
    ],
-   "views": 14938,
+   "views": 14940,
    "url": "https://www.youtube.com/watch?v=wj8kl3Meu5Q"
   },
   {
@@ -112708,7 +112924,7 @@
    "candidates": [
     "Jordan Bardella"
    ],
-   "views": 48986,
+   "views": 48990,
    "url": "https://www.youtube.com/watch?v=MMmTUxUc4JA"
   },
   {
@@ -112741,7 +112957,7 @@
    "candidates": [
     "Éric Zemmour"
    ],
-   "views": 18293,
+   "views": 18295,
    "url": "https://www.youtube.com/watch?v=yOyI5QN4MLY"
   },
   {
@@ -112752,7 +112968,7 @@
    "candidates": [
     "David Lisnard"
    ],
-   "views": 7008,
+   "views": 7011,
    "url": "https://www.youtube.com/watch?v=HynuRYcxNX4"
   },
   {
@@ -112807,7 +113023,7 @@
    "candidates": [
     "Jordan Bardella"
    ],
-   "views": 22144,
+   "views": 22154,
    "url": "https://www.youtube.com/watch?v=JgY94iZUGq8"
   },
   {
@@ -112818,7 +113034,7 @@
    "candidates": [
     "Manuel Bompard"
    ],
-   "views": 6138,
+   "views": 6139,
    "url": "https://www.youtube.com/watch?v=MsKgx6Bplgs"
   },
   {
@@ -112829,7 +113045,7 @@
    "candidates": [
     "Marine Le Pen"
    ],
-   "views": 14151,
+   "views": 14154,
    "url": "https://www.youtube.com/watch?v=nPrqHmMYTbE"
   },
   {
@@ -112840,7 +113056,7 @@
    "candidates": [
     "David Lisnard"
    ],
-   "views": 9993,
+   "views": 9994,
    "url": "https://www.youtube.com/watch?v=LxrmvbmWrGQ"
   },
   {
@@ -112851,7 +113067,7 @@
    "candidates": [
     "Jean-Luc Mélenchon"
    ],
-   "views": 99033,
+   "views": 99058,
    "url": "https://www.youtube.com/watch?v=I3PaiE_Ys74"
   },
   {
@@ -112873,7 +113089,7 @@
    "candidates": [
     "Nicolas Dupont-Aignan"
    ],
-   "views": 4826,
+   "views": 4829,
    "url": "https://www.youtube.com/watch?v=NcHuQNnm2Ik"
   },
   {
@@ -112906,7 +113122,7 @@
    "candidates": [
     "Antoine Léaument"
    ],
-   "views": 31097,
+   "views": 31101,
    "url": "https://www.youtube.com/watch?v=9eWDAAoWyWI"
   },
   {
@@ -112928,7 +113144,7 @@
    "candidates": [
     "Dominique de Villepin"
    ],
-   "views": 78472,
+   "views": 78507,
    "url": "https://www.youtube.com/watch?v=QW1FF79lyqU"
   },
   {
@@ -112939,7 +113155,7 @@
    "candidates": [
     "David Lisnard"
    ],
-   "views": 2926,
+   "views": 2921,
    "url": "https://www.youtube.com/watch?v=YLrjteJwrzw"
   },
   {
@@ -112950,7 +113166,7 @@
    "candidates": [
     "Marine Le Pen"
    ],
-   "views": 79304,
+   "views": 79320,
    "url": "https://www.youtube.com/watch?v=5w0dY2GWa-o"
   },
   {
@@ -112972,7 +113188,7 @@
    "candidates": [
     "Sarah Knafo"
    ],
-   "views": 294475,
+   "views": 294564,
    "url": "https://www.youtube.com/watch?v=GLVdszHmwAE"
   },
   {
@@ -113027,7 +113243,7 @@
    "candidates": [
     "Manuel Bompard"
    ],
-   "views": 421134,
+   "views": 421254,
    "url": "https://www.youtube.com/watch?v=HXFvv2F_ApA"
   },
   {
@@ -113038,7 +113254,7 @@
    "candidates": [
     "Mathilde Panot"
    ],
-   "views": 30462,
+   "views": 30468,
    "url": "https://www.youtube.com/watch?v=hsubtLbO5XQ"
   },
   {
@@ -113060,7 +113276,7 @@
    "candidates": [
     "Manuel Bompard"
    ],
-   "views": 29218,
+   "views": 29220,
    "url": "https://www.youtube.com/watch?v=e-WVv0V7c9E"
   },
   {
@@ -113071,7 +113287,7 @@
    "candidates": [
     "Marine Le Pen"
    ],
-   "views": 34686,
+   "views": 34693,
    "url": "https://www.youtube.com/watch?v=jrKzeZRj6Hc"
   },
   {
@@ -113082,7 +113298,7 @@
    "candidates": [
     "Éric Zemmour"
    ],
-   "views": 36960,
+   "views": 36965,
    "url": "https://www.youtube.com/watch?v=LLvxJnceUDI"
   },
   {
@@ -113104,7 +113320,7 @@
    "candidates": [
     "Marine Le Pen"
    ],
-   "views": 65299,
+   "views": 65338,
    "url": "https://www.youtube.com/watch?v=3VENnrrPets"
   },
   {
@@ -113126,7 +113342,7 @@
    "candidates": [
     "David Lisnard"
    ],
-   "views": 43630,
+   "views": 43638,
    "url": "https://www.youtube.com/watch?v=WI5sREW-NjY"
   },
   {
@@ -113148,7 +113364,7 @@
    "candidates": [
     "Éric Zemmour"
    ],
-   "views": 37401,
+   "views": 37403,
    "url": "https://www.youtube.com/watch?v=WfuNLqEv0_Q"
   },
   {
@@ -113159,7 +113375,7 @@
    "candidates": [
     "Jordan Bardella"
    ],
-   "views": 6595,
+   "views": 6596,
    "url": "https://www.youtube.com/watch?v=ZtMnLgDLx8Y"
   },
   {
@@ -113181,7 +113397,7 @@
    "candidates": [
     "David Lisnard"
    ],
-   "views": 50090,
+   "views": 50103,
    "url": "https://www.youtube.com/watch?v=uv5Db6UYMyg"
   },
   {
@@ -113192,7 +113408,7 @@
    "candidates": [
     "Jordan Bardella"
    ],
-   "views": 35641,
+   "views": 35647,
    "url": "https://www.youtube.com/watch?v=FAo9SkJlpjE"
   },
   {
@@ -113214,7 +113430,7 @@
    "candidates": [
     "Clémence Guetté"
    ],
-   "views": 39592,
+   "views": 39598,
    "url": "https://www.youtube.com/watch?v=DPo1W_IUBCM"
   },
   {
@@ -113258,7 +113474,7 @@
    "candidates": [
     "Éric Zemmour"
    ],
-   "views": 7465,
+   "views": 7466,
    "url": "https://www.youtube.com/watch?v=2WqA_RU93ZI"
   },
   {
@@ -113291,7 +113507,7 @@
    "candidates": [
     "Antoine Léaument"
    ],
-   "views": 32335,
+   "views": 32337,
    "url": "https://www.youtube.com/watch?v=_kpo-ny_wCI"
   },
   {
@@ -113313,7 +113529,7 @@
    "candidates": [
     "David Lisnard"
    ],
-   "views": 15288,
+   "views": 15293,
    "url": "https://www.youtube.com/watch?v=TTvjPHKIUrE"
   },
   {
@@ -113324,7 +113540,7 @@
    "candidates": [
     "Sarah Knafo"
    ],
-   "views": 60110,
+   "views": 60113,
    "url": "https://www.youtube.com/watch?v=w4T-XF1RuCk"
   },
   {
@@ -113346,7 +113562,7 @@
    "candidates": [
     "Jordan Bardella"
    ],
-   "views": 32163,
+   "views": 32165,
    "url": "https://www.youtube.com/watch?v=L4ceShzU4ao"
   },
   {
@@ -113357,7 +113573,7 @@
    "candidates": [
     "Marine Le Pen"
    ],
-   "views": 81884,
+   "views": 81887,
    "url": "https://www.youtube.com/watch?v=-6QKzDUNMx8"
   },
   {
@@ -113368,7 +113584,7 @@
    "candidates": [
     "David Lisnard"
    ],
-   "views": 27361,
+   "views": 27362,
    "url": "https://www.youtube.com/watch?v=GEPt0HNtTho"
   },
   {
@@ -113401,7 +113617,7 @@
    "candidates": [
     "Sarah Knafo"
    ],
-   "views": 32493,
+   "views": 32513,
    "url": "https://www.youtube.com/watch?v=48pN4D3WAh0"
   },
   {
@@ -113412,7 +113628,7 @@
    "candidates": [
     "Sarah Knafo"
    ],
-   "views": 441755,
+   "views": 441833,
    "url": "https://www.youtube.com/watch?v=0hJ0Rmxv1bE"
   },
   {
@@ -113423,7 +113639,7 @@
    "candidates": [
     "Nicolas Dupont-Aignan"
    ],
-   "views": 5658,
+   "views": 5689,
    "url": "https://www.youtube.com/watch?v=cAAcqkJC26E"
   },
   {
@@ -113456,7 +113672,7 @@
    "candidates": [
     "Marine Le Pen"
    ],
-   "views": 78585,
+   "views": 78589,
    "url": "https://www.youtube.com/watch?v=Mr5pmVO-Osw"
   },
   {
@@ -113478,7 +113694,7 @@
    "candidates": [
     "Jordan Bardella"
    ],
-   "views": 86245,
+   "views": 86249,
    "url": "https://www.youtube.com/watch?v=6Z-3v9GRrjU"
   },
   {
@@ -113489,7 +113705,7 @@
    "candidates": [
     "Jordan Bardella"
    ],
-   "views": 22595,
+   "views": 22593,
    "url": "https://www.youtube.com/watch?v=WXhaCmtc3Kc"
   },
   {
@@ -113522,7 +113738,7 @@
    "candidates": [
     "Nicolas Dupont-Aignan"
    ],
-   "views": 47742,
+   "views": 47747,
    "url": "https://www.youtube.com/watch?v=xQhrdq9TNig"
   },
   {
@@ -113544,7 +113760,7 @@
    "candidates": [
     "Antoine Léaument"
    ],
-   "views": 12522,
+   "views": 12523,
    "url": "https://www.youtube.com/watch?v=qYsBy-AF8CQ"
   },
   {
@@ -113555,7 +113771,7 @@
    "candidates": [
     "Dominique de Villepin"
    ],
-   "views": 15432,
+   "views": 15434,
    "url": "https://www.youtube.com/watch?v=nek-klZB8PQ"
   },
   {
@@ -113566,7 +113782,7 @@
    "candidates": [
     "Édouard Philippe"
    ],
-   "views": 3417,
+   "views": 3418,
    "url": "https://www.youtube.com/watch?v=RuqzpFRhuVM"
   },
   {
@@ -113577,7 +113793,7 @@
    "candidates": [
     "Sarah Knafo"
    ],
-   "views": 879048,
+   "views": 879158,
    "url": "https://www.youtube.com/watch?v=eaO8kyYAUqU"
   },
   {
@@ -113599,7 +113815,7 @@
    "candidates": [
     "Jordan Bardella"
    ],
-   "views": 13409,
+   "views": 13410,
    "url": "https://www.youtube.com/watch?v=fmUE0dIz62E"
   },
   {
@@ -113610,7 +113826,7 @@
    "candidates": [
     "Éric Zemmour"
    ],
-   "views": 63582,
+   "views": 63583,
    "url": "https://www.youtube.com/watch?v=yZ_jXldVuT0"
   },
   {
@@ -113676,7 +113892,7 @@
    "candidates": [
     "Sarah Knafo"
    ],
-   "views": 874872,
+   "views": 874970,
    "url": "https://www.youtube.com/watch?v=UH4vGvZfgzY"
   },
   {
@@ -113687,7 +113903,7 @@
    "candidates": [
     "David Lisnard"
    ],
-   "views": 103333,
+   "views": 103342,
    "url": "https://www.youtube.com/watch?v=uLVt1zpia08"
   },
   {
@@ -113709,7 +113925,7 @@
    "candidates": [
     "David Lisnard"
    ],
-   "views": 78081,
+   "views": 78082,
    "url": "https://www.youtube.com/watch?v=Lq6hl0nBjK4"
   },
   {
@@ -113720,7 +113936,7 @@
    "candidates": [
     "Éric Zemmour"
    ],
-   "views": 6156,
+   "views": 6169,
    "url": "https://www.youtube.com/watch?v=48rd1om3N7U"
   },
   {
@@ -113753,7 +113969,7 @@
    "candidates": [
     "David Lisnard"
    ],
-   "views": 261442,
+   "views": 261458,
    "url": "https://www.youtube.com/watch?v=RVxV7ZjVZ2k"
   },
   {
@@ -113797,7 +114013,7 @@
    "candidates": [
     "Sarah Knafo"
    ],
-   "views": 116963,
+   "views": 116971,
    "url": "https://www.youtube.com/watch?v=UaiZRoBl4Ao"
   },
   {
@@ -113885,7 +114101,7 @@
    "candidates": [
     "Éric Zemmour"
    ],
-   "views": 7343,
+   "views": 7347,
    "url": "https://www.youtube.com/watch?v=kFSqsuZutTo"
   },
   {
@@ -113896,7 +114112,7 @@
    "candidates": [
     "David Lisnard"
    ],
-   "views": 17207,
+   "views": 17208,
    "url": "https://www.youtube.com/watch?v=EkOxV4-LvEw"
   },
   {
@@ -113907,7 +114123,7 @@
    "candidates": [
     "Jordan Bardella"
    ],
-   "views": 8762,
+   "views": 8773,
    "url": "https://www.youtube.com/watch?v=u5uCub1n32M"
   },
   {
@@ -113918,7 +114134,7 @@
    "candidates": [
     "Sarah Knafo"
    ],
-   "views": 262707,
+   "views": 262711,
    "url": "https://www.youtube.com/watch?v=sgeOV601Fxo"
   },
   {
@@ -113940,7 +114156,7 @@
    "candidates": [
     "Clémence Guetté"
    ],
-   "views": 46166,
+   "views": 46179,
    "url": "https://www.youtube.com/watch?v=lrGNfeNN5dA"
   },
   {
@@ -113962,7 +114178,7 @@
    "candidates": [
     "Marine Le Pen"
    ],
-   "views": 248286,
+   "views": 248328,
    "url": "https://www.youtube.com/watch?v=mLdxDCwD8wE"
   },
   {
@@ -114006,7 +114222,7 @@
    "candidates": [
     "Jordan Bardella"
    ],
-   "views": 18979,
+   "views": 18996,
    "url": "https://www.youtube.com/watch?v=n7yrBrDT4cQ"
   },
   {
@@ -114039,7 +114255,7 @@
    "candidates": [
     "Éric Zemmour"
    ],
-   "views": 11427,
+   "views": 11429,
    "url": "https://www.youtube.com/watch?v=KwXzcG2pyD0"
   },
   {
@@ -114072,7 +114288,7 @@
    "candidates": [
     "Sarah Knafo"
    ],
-   "views": 285809,
+   "views": 285852,
    "url": "https://www.youtube.com/watch?v=patsw9ys024"
   },
   {
@@ -114083,7 +114299,7 @@
    "candidates": [
     "Antoine Léaument"
    ],
-   "views": 125900,
+   "views": 125903,
    "url": "https://www.youtube.com/watch?v=a--IdFisVLI"
   },
   {
@@ -114116,7 +114332,7 @@
    "candidates": [
     "Sarah Knafo"
    ],
-   "views": 179493,
+   "views": 179510,
    "url": "https://www.youtube.com/watch?v=JljXrJWBWAU"
   },
   {
@@ -114127,7 +114343,7 @@
    "candidates": [
     "Marine Le Pen"
    ],
-   "views": 107159,
+   "views": 107163,
    "url": "https://www.youtube.com/watch?v=hXF4og3qLK4"
   },
   {
@@ -114171,7 +114387,7 @@
    "candidates": [
     "Éric Zemmour"
    ],
-   "views": 25999,
+   "views": 26000,
    "url": "https://www.youtube.com/watch?v=QnyTWHox1wg"
   },
   {
@@ -114193,7 +114409,7 @@
    "candidates": [
     "Marine Le Pen"
    ],
-   "views": 139508,
+   "views": 139511,
    "url": "https://www.youtube.com/watch?v=mprmuUVZG8A"
   },
   {
@@ -114204,7 +114420,7 @@
    "candidates": [
     "Sarah Knafo"
    ],
-   "views": 367449,
+   "views": 367474,
    "url": "https://www.youtube.com/watch?v=52Fxl5Jx2do"
   },
   {
@@ -114226,7 +114442,7 @@
    "candidates": [
     "Sarah Knafo"
    ],
-   "views": 302378,
+   "views": 302395,
    "url": "https://www.youtube.com/watch?v=DTUrRRgFq0A"
   },
   {
@@ -114237,7 +114453,7 @@
    "candidates": [
     "Clémence Guetté"
    ],
-   "views": 113581,
+   "views": 113584,
    "url": "https://www.youtube.com/watch?v=GGYOifD8DHg"
   },
   {
@@ -114248,7 +114464,7 @@
    "candidates": [
     "Éric Zemmour"
    ],
-   "views": 317459,
+   "views": 317461,
    "url": "https://www.youtube.com/watch?v=DvPGcz-3NHY"
   },
   {
@@ -114259,7 +114475,7 @@
    "candidates": [
     "Sarah Knafo"
    ],
-   "views": 448421,
+   "views": 448435,
    "url": "https://www.youtube.com/watch?v=0zMMnwyBMSc"
   },
   {
@@ -114292,7 +114508,7 @@
    "candidates": [
     "Jordan Bardella"
    ],
-   "views": 13802,
+   "views": 13805,
    "url": "https://www.youtube.com/watch?v=jXBSKKo5gnA"
   },
   {
@@ -114369,7 +114585,7 @@
    "candidates": [
     "Rima Hassan"
    ],
-   "views": 19841,
+   "views": 19842,
    "url": "https://www.youtube.com/watch?v=VxlVk7w5nIo"
   },
   {
@@ -114446,7 +114662,7 @@
    "candidates": [
     "David Lisnard"
    ],
-   "views": 21433,
+   "views": 21458,
    "url": "https://www.youtube.com/watch?v=ALuLUfc40fM"
   },
   {
@@ -114479,7 +114695,7 @@
    "candidates": [
     "Jean-Luc Mélenchon"
    ],
-   "views": 496130,
+   "views": 496152,
    "url": "https://www.youtube.com/watch?v=BWGz0_CCoe8"
   },
   {
@@ -114490,7 +114706,7 @@
    "candidates": [
     "Jordan Bardella"
    ],
-   "views": 16173,
+   "views": 16178,
    "url": "https://www.youtube.com/watch?v=iny9jNGgWZw"
   },
   {
@@ -114523,7 +114739,7 @@
    "candidates": [
     "Marion Maréchal"
    ],
-   "views": 87494,
+   "views": 87506,
    "url": "https://www.youtube.com/watch?v=gjgxE8pPwWE"
   },
   {
@@ -114545,7 +114761,7 @@
    "candidates": [
     "David Lisnard"
    ],
-   "views": 48896,
+   "views": 48897,
    "url": "https://www.youtube.com/watch?v=fap-3DUQP1g"
   },
   {
@@ -114600,7 +114816,7 @@
    "candidates": [
     "David Lisnard"
    ],
-   "views": 7719,
+   "views": 7712,
    "url": "https://www.youtube.com/watch?v=77xiXQQy_1U"
   },
   {
@@ -114611,7 +114827,7 @@
    "candidates": [
     "Antoine Léaument"
    ],
-   "views": 190489,
+   "views": 190563,
    "url": "https://www.youtube.com/watch?v=dIJGxOURlgY"
   },
   {
@@ -114677,7 +114893,7 @@
    "candidates": [
     "David Lisnard"
    ],
-   "views": 17602,
+   "views": 17613,
    "url": "https://www.youtube.com/watch?v=ifK8KjBhlvA"
   },
   {
@@ -114710,7 +114926,7 @@
    "candidates": [
     "Édouard Philippe"
    ],
-   "views": 1779,
+   "views": 1780,
    "url": "https://www.youtube.com/watch?v=pfGc_yrVSLE"
   },
   {
@@ -114776,7 +114992,7 @@
    "candidates": [
     "Jordan Bardella"
    ],
-   "views": 30572,
+   "views": 30586,
    "url": "https://www.youtube.com/watch?v=jxVY8St37ls"
   },
   {
@@ -114787,7 +115003,7 @@
    "candidates": [
     "Jean-Luc Mélenchon"
    ],
-   "views": 160042,
+   "views": 160043,
    "url": "https://www.youtube.com/watch?v=abNC9fWHpyE"
   },
   {
@@ -114809,7 +115025,7 @@
    "candidates": [
     "Jordan Bardella"
    ],
-   "views": 28603,
+   "views": 28613,
    "url": "https://www.youtube.com/watch?v=AXEE6X8kfWM"
   },
   {
@@ -114897,7 +115113,7 @@
    "candidates": [
     "David Lisnard"
    ],
-   "views": 29138,
+   "views": 29223,
    "url": "https://www.youtube.com/watch?v=jahu1xe1ZQ0"
   },
   {
@@ -114930,7 +115146,7 @@
    "candidates": [
     "Jordan Bardella"
    ],
-   "views": 187487,
+   "views": 187491,
    "url": "https://www.youtube.com/watch?v=NOFhecD1dzQ"
   },
   {
@@ -114952,7 +115168,7 @@
    "candidates": [
     "David Lisnard"
    ],
-   "views": 22975,
+   "views": 22968,
    "url": "https://www.youtube.com/watch?v=jOLFmHnr3-c"
   },
   {
@@ -115029,7 +115245,7 @@
    "candidates": [
     "Marine Le Pen"
    ],
-   "views": 66098,
+   "views": 66100,
    "url": "https://www.youtube.com/watch?v=y0WaUgMZUA8"
   },
   {
@@ -115040,7 +115256,7 @@
    "candidates": [
     "Marine Le Pen"
    ],
-   "views": 176962,
+   "views": 176975,
    "url": "https://www.youtube.com/watch?v=m5Ixw6IORZY"
   },
   {
@@ -115106,7 +115322,7 @@
    "candidates": [
     "Jordan Bardella"
    ],
-   "views": 12971,
+   "views": 12974,
    "url": "https://www.youtube.com/watch?v=5PCITzSQVPg"
   },
   {
@@ -115117,7 +115333,7 @@
    "candidates": [
     "Gabriel Attal"
    ],
-   "views": 38715,
+   "views": 38721,
    "url": "https://www.youtube.com/watch?v=taqqfnW40Sw"
   },
   {
@@ -115128,7 +115344,7 @@
    "candidates": [
     "Jordan Bardella"
    ],
-   "views": 95446,
+   "views": 95450,
    "url": "https://www.youtube.com/watch?v=44B9PSp1tzo"
   },
   {
@@ -115161,7 +115377,7 @@
    "candidates": [
     "Éric Zemmour"
    ],
-   "views": 239991,
+   "views": 239992,
    "url": "https://www.youtube.com/watch?v=kTYGbmS_Xbw"
   },
   {
@@ -115183,7 +115399,7 @@
    "candidates": [
     "Jordan Bardella"
    ],
-   "views": 28352,
+   "views": 28362,
    "url": "https://www.youtube.com/watch?v=iw7LlMuqSLw"
   }
  ],
@@ -116251,7 +116467,7 @@
  },
  "sources": {
   "polls": "https://fr.wikipedia.org/wiki/Liste_de_sondages_sur_l'élection_présidentielle_française_de_2027",
-  "polls_fetched": "2026-11-17T14:58+01:00",
+  "polls_fetched": "2026-11-27T15:17+01:00",
   "feeds": [
    {
     "outlet": "L'Humanité",
@@ -116381,11 +116597,11 @@
    {
     "outlet": "Google Actualités (recherche par candidat)",
     "ok": true,
-    "items": 7410,
-    "error": "1 requête(s) en échec sur 150"
+    "items": 7704,
+    "error": null
    }
   ],
-  "articles_total": 34394,
+  "articles_total": 34474,
   "articles_analysed": 4417,
   "analysis_models": {
    "ollama:qwen3.5:4b": 4308,
