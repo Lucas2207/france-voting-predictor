@@ -83,6 +83,8 @@ Relevé le 1er novembre 2026. Période visée : du 1er juillet 2026 à aujourd'h
 
 **Contrôles :** nombre de lignes de chaque section TF1 comparé au total annoncé.
 
+**Villepin et Riner (27 novembre 2026) :** requêtes « Villepin » et « Riner », 16 extensions (170 résultats chargés) dans le navigateur. 2 articles pour Villepin (la vidéo de l'émission du 17 septembre retirée comme doublon de l'article sur ses temps forts), 1 pour Riner.
+
 ## 4. franceinfo (franceinfo.fr)
 
 **Source :** la recherche du site, `https://www.franceinfo.fr/recherche/?request=<nom complet>`. La première page affiche 20 contenus ; les pages suivantes sont `/recherche/N.html?request=<nom>`.
@@ -102,6 +104,8 @@ Relevé le 1er novembre 2026. Période visée : du 1er juillet 2026 à aujourd'h
 
 **Contrôles :** nombre de lignes de chaque section franceinfo comparé au total annoncé.
 
+**Villepin et Riner (27 novembre 2026) :** recherche sur le seul nom de famille, pages 1 à 10. Les deux requêtes atteignent la limite de 200 contenus, et aucun résultat de juillet ou d'août 2026 n'apparaît : le décompte est un minimum.
+
 ## 5. Le Monde (lemonde.fr)
 
 **Source :** la recherche du site, `https://www.lemonde.fr/recherche/?search_keywords=<nom complet>&start_at=01%2F07%2F2026&end_at=01%2F11%2F2026&page=N`. Les dates de début et de fin sont appliquées par le site, au format JJ/MM/AAAA. Une page affiche 40 résultats ; la pagination s'arrête à la page renvoyant une erreur 404.
@@ -118,6 +122,8 @@ Relevé le 1er novembre 2026. Période visée : du 1er juillet 2026 à aujourd'h
 - le chapô étant souvent complet, un article peut être compté pour un candidat parce qu'il le cite sans être centré sur lui (même convention que pour les autres médias).
 
 **Contrôles :** nombre de lignes de chaque section Le Monde comparé au total annoncé ; vérification du sujet pour Marine Le Pen et François Ruffin.
+
+**Villepin et Riner (27 novembre 2026) :** relevés dans le navigateur (le site refuse les requêtes par script), requête sur le seul nom de famille avec les mêmes bornes de dates : 35 résultats pour « Villepin » (3 articles retenus), 14 pour « Riner » (6 retenus, dont 1 par le chapô).
 
 ## 6. CNEWS (cnews.fr)
 
@@ -155,6 +161,8 @@ Relevé le 1er novembre 2026. Période visée : du 1er juillet 2026 à aujourd'h
 
 **Contrôles :** nombre de lignes de chaque section Libération comparé au total annoncé.
 
+**Villepin et Riner (27 novembre 2026) :** relevés dans le navigateur, après acceptation de la bannière de cookies par l'utilisateur (le site n'affiche pas les résultats sans ce choix). Les résultats affichés ont été lus, sans appel direct à l'interface. « Villepin » : 25 contenus, 18 retenus (dont 5 par le chapô ; « Villepinte » exclu ; le direct et l'annonce du débat Ruffin-Villepin retirés comme doublons du compte rendu). « Riner » : 29 contenus sur la période, donc redécoupée en trois fenêtres sous la limite ; 6 retenus.
+
 ## 8. Ouest-France (ouest-france.fr)
 
 **Source :** la recherche du site, `https://www.ouest-france.fr/recherche/?q=<nom complet>`, onglet « Actualités ». Les résultats sont affichés par pages de 20 articles, avec la pagination du site (`#!r/…&page=N`).
@@ -175,6 +183,8 @@ Relevé le 1er novembre 2026. Période visée : du 1er juillet 2026 à aujourd'h
 - un article peut être compté pour plusieurs candidats s'il les cite tous les deux.
 
 **Contrôles :** nombre de lignes de chaque section Ouest-France comparé au total annoncé. Un article omis lors de la première transcription (Marine Le Pen, 7 juillet) a été ajouté après comparaison avec les résultats chargés.
+
+**Villepin et Riner (27 novembre 2026) :** cookies acceptés par l'utilisateur. Requêtes « Villepin » et « Riner » saisies dans le champ de recherche (le paramètre `q` de l'adresse n'est plus pris en compte), pages lues jusqu'à une page entièrement antérieure au 1er juillet. Les articles d'autres titres du groupe (Courrier de l'Ouest, Maine Libre) sont écartés. 6 articles pour Villepin (un doublon d'appel à questions retiré), 15 pour Riner.
 
 ## 9. Europe 1 (europe1.fr)
 
@@ -213,6 +223,8 @@ Relevé le 1er novembre 2026. Période visée : du 1er juillet 2026 à aujourd'h
 
 **Contrôles :** le nombre de lignes de chaque section La Dépêche est comparé au total annoncé dans le dossier et au total attendu pour chaque candidat.
 
+**Villepin et Riner (27 novembre 2026) :** relevés dans le navigateur, cookies acceptés (sans acceptation, la recherche renvoie les derniers articles du site quel que soit le nom). Recherches sur le nom de famille et sur le nom complet, fusionnées. 6 articles pour Villepin, 5 pour Riner.
+
 ## 11. RMC (rmc.bfmtv.com)
 
 **Source :** les archives quotidiennes du site, `https://rmc.bfmtv.com/archives/AAAA/MM/JJ/` (puis `pageN/` pour la suite de la journée), toutes rubriques confondues. Les 124 journées du 1er juillet au 1er novembre 2026 ont été lues. Le bandeau de cookies a été refusé (« Continuer sans accepter », puis « I refuse » sur le second bandeau).
@@ -234,6 +246,8 @@ Relevé le 1er novembre 2026. Période visée : du 1er juillet 2026 à aujourd'h
 
 **Contrôles :** le nombre de lignes de chaque section RMC est comparé au total annoncé dans le dossier.
 
+**Villepin et Riner (27 novembre 2026) :** les 124 journées ont été relues par script, en gardant les adresses `_VN-` (articles ; les podcasts `_EN-` et vidéos `_AV-` sont écartés comme lors du premier relevé). Le décompte des autres candidats retrouve les totaux publiés, sauf Raphaël Glucksmann (25 titres contre 20).
+
 ## 12. Sud Ouest (sudouest.fr)
 
 **Source :** la page d'archives de chaque candidat, `https://www.sudouest.fr/politique/<nom>/archives/`. Dix candidats ont une page. Nicolas Dupont-Aignan, Éric Zemmour et les autres ont la leur ; David Lisnard, François Ruffin et Natacha Polony n'en ont pas (erreur 404), et leur dossier porte une note « recherche impossible ». Le bandeau de cookies a été accepté pour accéder au site.
@@ -252,7 +266,9 @@ Relevé le 1er novembre 2026. Période visée : du 1er juillet 2026 à aujourd'h
 
 **Contrôles :** le nombre de lignes de chaque section Sud Ouest est comparé au total annoncé dans le dossier.
 
-## 13. ARTE (arte.tv) : non intégré
+**Villepin et Riner (27 novembre 2026) :** pages d'archives `/politique/dominique-de-villepin/archives/` (55 cartes) et `/sport/judo/teddy-riner/archives/` (27 cartes ; `/politique/teddy-riner/` renvoie une erreur 404), lues dans le navigateur sans accepter les cookies. 5 articles pour Villepin, 3 pour Riner. La page de Riner s'arrête au 12 octobre 2026, et plusieurs cartes à cette date portent sur des faits de septembre : le décompte de Riner est un minimum.
+
+## 13. ARTE (arte.tv) : retiré du relevé
 
 **Source :** le champ de recherche du site, `https://www.arte.tv/fr/search?q=<nom>`. Le bandeau de cookies a été refusé.
 
@@ -262,6 +278,8 @@ Relevé le 1er novembre 2026. Période visée : du 1er juillet 2026 à aujourd'h
 - la page brute du site ne change pas avec la requête : seul le champ de recherche rend des résultats, et leur nombre ne permet pas de couvrir la période.
 
 Pour garder une méthode commune avec les journaux, ARTE n'est pas intégré aux dossiers : aucune ligne ARTE n'y figure.
+
+**Retrait :** ARTE ne publie pas, ou presque pas, de contenus sur les candidats : 2 pour l'ensemble des candidats sur la période. Il a donc été retiré de la liste des médias relevés.
 
 ## 14. Canal+ (canalplus.com)
 
@@ -568,15 +586,42 @@ Pour garder une méthode commune avec les journaux, ARTE n'est pas intégré aux
 - la recherche est approximative et peut ne pas tout renvoyer : le décompte est un minimum ;
 - le décompte par titre sous-estime les articles qui ne citent le candidat que dans le texte.
 
-## 34. Ce qui n'est pas fait
+## 34. Le Parisien (leparisien.fr)
+
+**Source :** la recherche du site, `https://www.leparisien.fr/recherche/?q=<nom complet>`, parcourue jusqu'au 1er juillet 2026.
+
+**Relevé :**
+- une requête par candidat, sur le nom complet ;
+- titres reconstitués à partir des adresses des articles (sans accents, parfois tronqués) ; date lue sur la carte de résultat ;
+- chaque dossier donne le total depuis le 1er juillet, puis la liste complète en sous-section « Le Parisien : liste complète ».
+
+**Limites :**
+- les titres issus des adresses peuvent être tronqués ou sans majuscules ;
+- Dominique de Villepin et Teddy Riner : relevés le 27 novembre 2026 dans le navigateur (le site refuse les requêtes par script). Requêtes « Villepin » et « Riner », tri « Récent », pages lues jusqu'à passer avant le 1er juillet ; titres lus sur la page de résultats (et non plus dans l'adresse) ; un article est compté si le nom figure dans le titre. 8 articles pour Villepin, 16 pour Riner, aucun doublon.
+
+## 35. Le Figaro (lefigaro.fr)
+
+**Source :** la recherche du site, `https://recherche.lefigaro.fr/recherche/<nom complet>/?datemin=01-07-2026&datemax=01-11-2026`. Les bornes de dates sont appliquées par le site. Pour Jean-Luc Mélenchon, la requête porte sur « mélenchon ».
+
+**Relevé :**
+- toutes les pages de résultats de la période parcourues (par exemple 1 159 articles pour Marine Le Pen, 1 149 pour Jean-Luc Mélenchon dont 1 148 parcourus, 9 pour Nathalie Arthaud) ;
+- un article est compté si le nom du candidat (nom de famille ; « Édouard Philippe » pour Édouard Philippe ; « Nathalie Arthaud » pour Nathalie Arthaud) figure dans son **titre ou son chapô** ;
+- dans chaque dossier, la liste est une sous-section « ### Le Figaro », rangée sous la section Le Parisien. `pipeline/radio_france.py` lit les titres de niveau 3 comme des sections de média : les articles sont bien attribués au Figaro.
+
+**Limites :**
+- « Le Pen » peut retenir quelques articles sur Jean-Marie Le Pen ;
+- les titres longs sont tronqués à 95 caractères pour Édouard Philippe et Jean-Luc Mélenchon ;
+- Dominique de Villepin et Teddy Riner : relevés le 27 novembre 2026 dans le navigateur (le site refuse les requêtes par script et affiche un mur de cookies après quelques secondes ; les pages de résultats ont été lues sans accepter les cookies). Requêtes « villepin » (74 résultats) et « riner » (56), toutes les pages lues (`&page=N`) ; Les vidéos et articles de TV Magazine renvoyés par la recherche sont comptés, mais une vidéo qui reprend un article du même sujet est retirée comme doublon (16 pour Villepin, dont 9 extraits du « Grand Oral » du 4 octobre ; 9 pour Riner). Restent 18 articles pour Villepin et 20 pour Riner, dont 4 par le seul chapô.
+
+## 36. Ce qui n'est pas fait
 
 - pas d'ouverture des articles un par un : le classement se base sur le titre et le chapô ou l'adresse ;
 - pas de couverture de BFMTV pour juillet à septembre 2026 ;
-- Dominique de Villepin et Teddy Riner (candidats ajoutés le 23 novembre 2026) ne sont relevés que pour les médias traités à partir de cette date (et BFMTV, Canal+). Restent sans relevé pour eux : Radio France, TF1, franceinfo, Le Monde, Libération, Ouest-France, La Dépêche, RMC, Sud Ouest, ARTE, Le Parisien. Leurs totaux ne sont donc pas comparables à ceux des autres candidats ;
-- France 3 Régions et Radio Classique ne sont pas relevés, et le relevé de Nice-Matin, interrompu, n'a rien produit (voir la section 34) ;
+- Dominique de Villepin et Teddy Riner (candidats ajoutés le 23 novembre 2026) ne sont relevés que pour les médias traités à partir de cette date (et BFMTV, Canal+). Radio France, franceinfo, RMC, Le Figaro, Le Parisien, Le Monde, Libération, Ouest-France, Sud Ouest, TF1 et La Dépêche ont été relevés pour eux le 27 novembre 2026 . Leurs totaux sont donc désormais comparables à ceux des autres candidats, aux limites de chaque média près ;
+- France 3 Régions et Radio Classique ne sont pas relevés, et le relevé de Nice-Matin, interrompu, n'a rien produit ;
 - les dossiers Radio France ne sont pas tous à jour pour les personnalités sans page propre (Zemmour, Lisnard, Roussel) : ils sont couverts par les pages des autres personnalités citées dans les chapôs.
 
-## 35. Fichiers
+## 37. Fichiers
 
 - Dossiers par candidat : `dossiers-candidats/<nom>/README.md`
 - Tableaux Radio France : section « Radio France » de chaque dossier (les anciens fichiers `radio-france-<nom>-emissions.md` à la racine ont été supprimés une fois repris dans les dossiers)
