@@ -568,42 +568,7 @@ Pour garder une méthode commune avec les journaux, ARTE n'est pas intégré aux
 - la recherche est approximative et peut ne pas tout renvoyer : le décompte est un minimum ;
 - le décompte par titre sous-estime les articles qui ne citent le candidat que dans le texte.
 
-## 34. Accès autorisé par les sites (robots.txt)
-
-**Constat du 26 novembre 2026.** Les relevés ont été faits avec un agent Claude (navigateur et scripts) **sans vérifier au préalable le fichier `robots.txt` des sites**. Il a été lu après coup. Les données déjà collectées sont conservées (décision de l'auteur du projet) ; ce paragraphe dit, média par média, ce que le site demande. L'analyse est simplifiée et porte sur les adresses notées dans ce document, au 26 novembre 2026.
-
-**1. Le site interdit nommément `Claude-User` (agent agissant pour un utilisateur) :**
-- relevés : BFMTV, TF1, franceinfo, Le Monde, Ouest-France, RMC, Les Échos, L'Humanité, Le Télégramme, Le Figaro (`www.lefigaro.fr`) ;
-- non relevés ou interrompus : France 3 Régions, Nice-Matin ;
-- ARTE : interdit à `Claude-User` la recherche (non intégré).
-
-**2. Le site interdit d'autres robots d'Anthropic (`anthropic-ai`, `ClaudeBot`) et la page de recherche à tous les robots :** Radio France, Libération, La Dépêche du Midi, Midi Libre, Le Parisien, Le Progrès, Le Dauphiné Libéré, Dernières Nouvelles d'Alsace, L'Est Républicain, Le Républicain Lorrain, L'Alsace, Le Journal de Saône-et-Loire ; Radio Classique (non relevé).
-
-**3. Le site ne nomme pas Claude mais interdit la page de recherche à tous les robots :** RTL, La Croix, La Nouvelle République (et le sous-domaine `recherche.lefigaro.fr`).
-
-**4. Aucune restriction trouvée :** CNEWS, Europe 1, La Provence.
-
-**5. `robots.txt` illisible par script (réponse 403), situation inconnue :** Sud Ouest, Canal+, L'Équipe, La Voix du Nord, La Montagne, L'Union - L'Ardennais.
-
-**Règle pour la suite :** vérifier le `robots.txt` avant tout relevé ; ne pas relever automatiquement les médias des groupes 1 à 3. Voies possibles : flux RSS prévus par les médias (conditions à vérifier), service de veille presse sous licence, ou recherche faite à la main par une personne.
-
-## 35. Radios musicales (26 novembre 2026)
-
-**RFM et Europe 2 :** recherche du site (`/search/<nom>`), les 15 candidats (nom de famille), titres des résultats. **Aucun article daté du 1er juillet au 1er novembre 2026** : les seuls titres contenant un nom sont antérieurs (2022 à 2024), et pour « Attal » sur RFM il s'agit d'Yvan Attal. La recherche de ces sites renvoie surtout des contenus musicaux et peut ne pas tout retrouver.
-
-**Radio Nova, Nostalgie, Rire et Chansons :** la recherche de Nova n'est pas exploitable par script, et le `robots.txt` de Nostalgie et Rire et Chansons interdit leur recherche aux robots. Le relevé passe donc par les plans de site qu'ils publient : nom de famille cherché dans l'adresse de la page (formée à partir du titre), date vérifiée sur la page.
-- Radio Nova : aucun contenu dans la période (une seule adresse correspondante, « Fattal », sans rapport) ;
-- Nostalgie : aucun contenu dans la période ;
-- Rire et Chansons : **1 contenu** (vidéo, 18 septembre, Mélenchon).
-
-Limites : un nom cité seulement dans le chapô ou le texte n'est pas trouvé, et la complétude des plans de site n'est pas garantie.
-
-**Non relevés à ce jour :**
-- Skyrock : aucune adresse de recherche trouvée (erreur 404) ;
-- NRJ, Chérie FM : le `robots.txt` interdit la recherche aux robots et les plans de site refusent l'accès par script (403) ; un essai du plan de site de NRJ dans le navigateur intégré n'a pas abouti (l'onglet s'est fermé) ;
-- RTL2, Fun Radio : le `robots.txt` interdit la page de recherche à tous les robots.
-
-## 36. Ce qui n'est pas fait
+## 34. Ce qui n'est pas fait
 
 - pas d'ouverture des articles un par un : le classement se base sur le titre et le chapô ou l'adresse ;
 - pas de couverture de BFMTV pour juillet à septembre 2026 ;
@@ -611,7 +576,7 @@ Limites : un nom cité seulement dans le chapô ou le texte n'est pas trouvé, e
 - France 3 Régions et Radio Classique ne sont pas relevés, et le relevé de Nice-Matin, interrompu, n'a rien produit (voir la section 34) ;
 - les dossiers Radio France ne sont pas tous à jour pour les personnalités sans page propre (Zemmour, Lisnard, Roussel) : ils sont couverts par les pages des autres personnalités citées dans les chapôs.
 
-## 37. Fichiers
+## 35. Fichiers
 
 - Dossiers par candidat : `dossiers-candidats/<nom>/README.md`
 - Tableaux Radio France : section « Radio France » de chaque dossier (les anciens fichiers `radio-france-<nom>-emissions.md` à la racine ont été supprimés une fois repris dans les dossiers)
