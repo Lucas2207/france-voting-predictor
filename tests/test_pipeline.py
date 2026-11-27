@@ -14,6 +14,27 @@ FIXTURE = ROOT / "tests" / "fixtures" / "polls_2026-10-27.wiki"
 CANDIDATES = json.loads((ROOT / "config" / "candidates.json").read_text(encoding="utf-8"))["candidates"]
 
 
+class PollParserPhotoInHeaderTest(unittest.TestCase):
+    """Format de la page depuis novembre 2026 : photo et nom dans la même cellule d'en-tête,
+    sur la même ligne que Sondeur, Date et Échantillon."""
+
+    @classmethod
+    def setUpClass(cls):
+        wiki = (ROOT / "tests" / "fixtures" / "polls_2026-11-27.wiki").read_text(encoding="utf-8")
+        cls.polls = polls.group_by_poll(polls.parse_first_round(wiki)[0])
+
+    def test_reads_tables_with_photo_in_name_cell(self):
+        self.assertGreater(len(self.polls), 50)
+
+    def test_scores_are_in_the_right_columns(self):
+        ow = next(p for p in self.polls if p["pollster"] == "OpinionWay" and p["end_date"] == "2026-11-26")
+        self.assertEqual(ow["sample"], 912)
+        self.assertEqual(ow["scores"]["Marine Le Pen"], 33.0)
+        self.assertEqual(ow["scores"]["Jean-Luc Mélenchon"], 16.0)
+        self.assertEqual(ow["scores"]["Nathalie Arthaud"], 1.0)
+        self.assertEqual(ow["scores"]["Teddy Riner"], 2.0)
+
+
 class PollParserTest(unittest.TestCase):
     @classmethod
     def setUpClass(cls):

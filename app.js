@@ -937,10 +937,9 @@ function renderRadioFrance() {
   });
   const surveyed = rf.surveyed || [...new Set(rf.rows.map(r => r.candidate))];
   const cands = data.candidates.filter(c => surveyed.includes(c.id));
-  matrix.__total = {};
-  shown.forEach(r => { matrix.__total[r.candidate] = (matrix.__total[r.candidate] || 0) + 1; });
+  // Le total par candidat est la ligne de pied de renderMatrix, fixe et hors tri
   renderMatrix('radioFranceMatrix',
-    Object.keys(matrix).filter(st => shown.length).map(st => ({ key: st, label: st === '__total' ? t('radiofr.total') : st })),
+    Object.keys(matrix).map(st => ({ key: st, label: st })),
     cands.map(c => ({ key: c.id, head: candidateHead(c) })),
     (st, c) => (matrix[st] && matrix[st][c]) || 0,
     t('radiofr.none'), renderRadioFrance);

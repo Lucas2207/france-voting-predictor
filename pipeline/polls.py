@@ -113,7 +113,7 @@ def _pollster(content):
     name = m.group(1) if m else re.sub(r"<[^>]+>|\[|\]", "", content)
     url = re.search(r"\[(https?://\S+)", content)
     name = name.strip()
-    name = {"Opinionway": "OpinionWay", "Harris-Interactive": "Harris Interactive", "Harris": "Harris Interactive"}.get(name, name)
+    name = {"Opinionway": "OpinionWay", "OpinonWay": "OpinionWay", "Harris-Interactive": "Harris Interactive", "Harris": "Harris Interactive"}.get(name, name)
     return name, (url.group(1) if url else None)
 
 
@@ -159,15 +159,22 @@ def _parse_table(lines, year):
             cur.append(line)
     rows.append(cur)
 
-    # Ligne d'en-tête contenant les noms : celle où les « ! » ont des [[Nom|Court]] sans Fichier
+    # Ligne d'en-tête contenant les noms : celle où les « ! » ont des [[Nom|Court]]. La photo peut être
+    # dans la même cellule (format depuis novembre 2026) ou sur une ligne à part : les liens Fichier sont ignorés.
+    def person_links(text):
+        return [n for n in LINK_RE.findall(text) if not re.match(r"\s*(Fichier|File|Image)\s*:", n, re.I)]
+
     columns = None  # liste de personnes, une entrée par colonne physique (après les 3 premières)
     for row in rows:
         heads = [l for l in row if l.startswith("!")]
-        if heads and all("Fichier" not in h for h in heads) and any("[[" in h for h in heads):
+        if heads and any(person_links(h) for h in heads):
+            # Sondeur, Date et Échantillon peuvent être sur la même ligne : ce ne sont pas des colonnes de scores
+            heads = [h for h in heads
+                     if not re.fullmatch(r"\s*(Sondeur|Date|[ÉE]chantillon)\s*", _split_attr(h[1:])[1], re.I)]
             columns = []
             for h in heads:
                 attrs, content = _split_attr(h[1:])
-                names = LINK_RE.findall(content)
+                names = person_links(re.sub(r"<ref[^>]*>.*?</ref>|<ref[^>]*/>", "", content, flags=re.S))
                 person = re.sub(r"\s*\(.*\)$", "", names[0]).strip() if names else None  # peut être un parti (« Candidat PS »)
                 columns.extend([person] * _span(attrs, "colspan"))
             break
