@@ -1,5 +1,5 @@
 {
-  "_doc": "Candidats déclarés à l'élection présidentielle (statut vérifié, voir source_statut). Ces personnes alimentent les sondages, la veille médias et les graphiques. Les personnalités influentes non candidates sont dans config/influencers.json.",
+  "_doc": "Candidats déclarés à l'élection présidentielle (statut vérifié, voir source_statut). Ces personnes alimentent les sondages, la veille médias et les graphiques. Les personnalités influentes non candidates sont dans config/influencers.json. 'declaration' : date (AAAA-MM-JJ) de l'annonce officielle de candidature, ou null si elle n'est pas connue au jour près ; elle place un repère sur les courbes du site.",
   "candidates": [
     {
       "id": "lepen",
@@ -14,7 +14,8 @@
         "Le Pen"
       ],
       "statut": "declare",
-      "source_statut": "Déclarée le 7 juillet 2026 (source : note du tableau des sondages)"
+      "source_statut": "Déclarée le 7 juillet 2026 (source : note du tableau des sondages)",
+      "declaration": "2026-07-07"
     },
     {
       "id": "melenchon",
@@ -28,7 +29,8 @@
         "Mélenchon"
       ],
       "statut": "declare",
-      "source_statut": "Désigné par LFI le 3 mai 2026 (note du tableau des sondages)"
+      "source_statut": "Désigné par LFI le 3 mai 2026 (note du tableau des sondages)",
+      "declaration": "2026-05-03"
     },
     {
       "id": "philippe",
@@ -42,7 +44,8 @@
         "Édouard Philippe"
       ],
       "statut": "declare",
-      "source_statut": "Cité parmi les candidats déclarés (France 24, 24 mai 2026) ; date non vérifiée"
+      "source_statut": "Cité parmi les candidats déclarés (France 24, 24 mai 2026) ; date non vérifiée",
+      "declaration": null
     },
     {
       "id": "glucksmann",
@@ -56,7 +59,8 @@
         "Glucksmann"
       ],
       "statut": "declare",
-      "source_statut": "Déclaré le 23 août 2026, vainqueur de la primaire le 11 octobre (note du tableau)"
+      "source_statut": "Déclaré le 23 août 2026, vainqueur de la primaire le 11 octobre (note du tableau)",
+      "declaration": "2026-08-23"
     },
     {
       "id": "attal",
@@ -71,7 +75,8 @@
         "Attal"
       ],
       "statut": "declare",
-      "source_statut": "Déclaré le 22 mai 2026 (note du tableau)"
+      "source_statut": "Déclaré le 22 mai 2026 (note du tableau)",
+      "declaration": "2026-05-22"
     },
     {
       "id": "zemmour",
@@ -85,7 +90,8 @@
         "Zemmour"
       ],
       "statut": "declare",
-      "source_statut": "Déclaré le 17 septembre 2026 (note du tableau)"
+      "source_statut": "Déclaré le 17 septembre 2026 (note du tableau)",
+      "declaration": "2026-09-17"
     },
     {
       "id": "retailleau",
@@ -99,7 +105,8 @@
         "Retailleau"
       ],
       "statut": "declare",
-      "source_statut": "Désigné par les adhérents LR en avril 2026 (note du tableau)"
+      "source_statut": "Désigné par les adhérents LR en avril 2026 (note du tableau)",
+      "declaration": null
     },
     {
       "id": "lisnard",
@@ -113,7 +120,8 @@
         "Lisnard"
       ],
       "statut": "declare",
-      "source_statut": "Déclaré le 31 mars 2026 (France 24, 24 mai 2026)"
+      "source_statut": "Déclaré le 31 mars 2026 (France 24, 24 mai 2026)",
+      "declaration": "2026-03-31"
     },
     {
       "id": "roussel",
@@ -128,7 +136,8 @@
         "Roussel"
       ],
       "statut": "declare",
-      "source_statut": "Déclaré le 6 septembre 2026 (note du tableau)"
+      "source_statut": "Déclaré le 6 septembre 2026 (note du tableau)",
+      "declaration": "2026-09-06"
     },
     {
       "id": "dupontaignan",
@@ -142,7 +151,8 @@
         "Dupont-Aignan"
       ],
       "statut": "declare",
-      "source_statut": "Déclaré le 19 septembre 2026 (note du tableau)"
+      "source_statut": "Déclaré le 19 septembre 2026 (note du tableau)",
+      "declaration": "2026-09-19"
     },
     {
       "id": "arthaud",
@@ -157,7 +167,8 @@
         "Arthaud"
       ],
       "statut": "declare",
-      "source_statut": "Déclarée le 8 décembre 2025 (note du tableau)"
+      "source_statut": "Déclarée le 8 décembre 2025 (note du tableau)",
+      "declaration": "2025-12-08"
     },
     {
       "id": "ruffin",
@@ -172,7 +183,8 @@
         "Ruffin"
       ],
       "statut": "declare",
-      "source_statut": "Déclaré selon son compte TikTok (relevé du 28/10/2026, à confirmer par une source officielle). Couleur provisoire, non validée."
+      "source_statut": "Déclaré selon son compte TikTok (relevé du 28/10/2026, à confirmer par une source officielle). Couleur provisoire, non validée.",
+      "declaration": null
     },
     {
       "id": "polony",
@@ -187,7 +199,8 @@
         "Polony"
       ],
       "statut": "declare",
-      "source_statut": "Candidature déclarée officiellement en octobre 2026 (indication de la personne suivie). Mouvement « Nous sommes la France », sans parti défini ; couleur provisoire."
+      "source_statut": "Candidature annoncée le 14 octobre 2026 (dossier médias : « Natacha Polony annonce sa candidature », plusieurs titres du 14 octobre). Mouvement « Nous sommes la France », sans parti défini ; couleur provisoire.",
+      "declaration": "2026-10-14"
     },
     {
       "id": "villepin",
@@ -202,7 +215,8 @@
         "Villepin"
       ],
       "statut": "declare",
-      "source_statut": "Candidature déclarée (indication de la personne suivie). Parti et couleur provisoires."
+      "source_statut": "Candidature annoncée le 20 novembre 2026 (dossier médias : « Je suis candidat », Le Parisien, Ouest-France, 20 novembre). Parti et couleur provisoires.",
+      "declaration": "2026-11-20"
     },
     {
       "id": "riner",
@@ -217,7 +231,8 @@
         "Riner"
       ],
       "statut": "declare",
-      "source_statut": "Candidature déclarée (indication de la personne suivie). Parti et couleur provisoires."
+      "source_statut": "Candidature annoncée le 9 novembre 2026 (dossier médias : Le Parisien, Sud Ouest, 9 novembre). Parti et couleur provisoires.",
+      "declaration": "2026-11-09"
     }
   ]
 }

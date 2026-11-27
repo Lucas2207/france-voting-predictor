@@ -1,6 +1,6 @@
 /**
  * Schéma de live_data.json (produit par `python -m pipeline`).
- * @typedef {{ id: string, name: string, wiki: string, party: string, badge: string, color: string, main: boolean, aliases: string[] }} Candidate
+ * @typedef {{ id: string, name: string, wiki: string, party: string, badge: string, color: string, main: boolean, aliases: string[], declaration?: string | null }} Candidate
  * @typedef {{ id: string, name: string, badge: string, color: string }} Party
  * @typedef {{ articles_7d: number, share_7d: number, adjustment: number, status: 'ok' | 'trop_peu_articles' }} MediaSignal
  * @typedef {{ id: string, poll_avg: number, poll_lo: number, poll_hi: number, n_polls: number, change_7d: number | null, media: MediaSignal, projected: number, projected_lo: number, projected_hi: number }} Projection
@@ -589,6 +589,7 @@ function renderPlatformCharts() {
       if (values.every(v => v == null)) return;
       sets.push({ label: candById[s.id].name, data: values, borderColor: candById[s.id].color, backgroundColor: candById[s.id].color,
                   borderWidth: 2.5, pointRadius: f.dates.length < 10 ? 4 : 0, pointHoverRadius: 5, tension: 0.2, spanGaps: true });
+      pushDeclaration(sets, candById[s.id], f.dates, values);
     });
     net.influencers.filter(s => picked(chart).has(`inf:${s.id}`)).forEach(s => {
       const values = change ? gainOf(s) : s.followers;
@@ -622,10 +623,14 @@ function renderYouTube() {
    * @param {string} prefix
    * @param {string} chart
    */
-  const sets = (series, prefix, chart) => hasData ? series.filter(s => picked(chart).has(prefix + s.id)).map(s => {
+  const sets = (series, prefix, chart) => hasData ? series.filter(s => picked(chart).has(prefix + s.id)).flatMap(s => {
     const color = s.color || (candById[s.id] && candById[s.id].color) || '#64748B';
-    return { label: s.name, data: change ? s.change : s.views, borderColor: color, backgroundColor: color,
-             borderWidth: 2.5, pointRadius: yt.dates.length < 10 ? 4 : 0, pointHoverRadius: 5, tension: 0.2, spanGaps: true };
+    const values = change ? s.change : s.views;
+    /** @type {any[]} */
+    const out = [{ label: s.name, data: values, borderColor: color, backgroundColor: color,
+                   borderWidth: 2.5, pointRadius: yt.dates.length < 10 ? 4 : 0, pointHoverRadius: 5, tension: 0.2, spanGaps: true }];
+    if (prefix === 'cand:') pushDeclaration(out, candById[s.id], yt.dates, values);
+    return out;
   }) : [];
 
   if (charts.ytCand) charts.ytCand.destroy();
@@ -698,6 +703,38 @@ function renderProjection() {
   }).join('');
 }
 
+/**
+ * Repère de déclaration de candidature sur la courbe d'un candidat : un triangle au premier point daté
+ * du jour de l'annonce ou après. Rien si la date est inconnue ou hors de la période affichée.
+ * @param {Candidate} c
+ * @param {string[]} keys  clé de chaque point : date (AAAA-MM-JJ) ou mois (AAAA-MM)
+ * @param {(number | null)[]} values  valeurs de la courbe du candidat
+ */
+function declarationMarker(c, keys, values) {
+  if (!c.declaration || !keys.length) return null;
+  const target = c.declaration.slice(0, keys[0].length);
+  const i = keys.findIndex(k => k >= target);
+  if (i < 0 || keys[0] > target) return null;
+  let v = values[i];
+  for (let d = 1; v == null && d < values.length; d++) v = values[i + d] ?? values[i - d] ?? null;
+  if (v == null) return null;
+  return { label: '_decl', _decl: c, data: keys.map((_, j) => (j === i ? v : null)), showLine: false,
+           pointStyle: 'triangle', pointRadius: 7, pointHoverRadius: 9, borderWidth: 2,
+           borderColor: c.color, backgroundColor: '#FFFFFF' };
+}
+
+/**
+ * Ajoute à une liste de séries le repère de déclaration d'un candidat, s'il y en a un.
+ * @param {any[]} sets
+ * @param {Candidate | undefined} c
+ * @param {string[]} keys
+ * @param {(number | null)[]} values
+ */
+function pushDeclaration(sets, c, keys, values) {
+  const marker = c && declarationMarker(c, keys, values);
+  if (marker) sets.push(marker);
+}
+
 function renderPollChart() {
   const cands = data.candidates.filter(c => picked('pollChart').has(`cand:${c.id}`));
   const single = cands.length === 1;
@@ -719,6 +756,7 @@ function renderPollChart() {
       borderColor: c.color, backgroundColor: c.color, borderWidth: single ? 4 : 2.5, pointRadius: 0,
       pointHoverRadius: 5, tension: 0.25, spanGaps: true,
     });
+    pushDeclaration(datasets, c, labels, hist.map(h => h.polls[c.id]?.mean ?? null));
     if (single) {
       // Sondages individuels, moyennés si plusieurs enquêtes tombent le même jour
       /** @type {Map<number, number[]>} */
@@ -767,12 +805,17 @@ function renderRadioMonthChart() {
     return label;
   });
   const cands = data.candidates.filter(c => picked('radioMonthChart').has(`cand:${c.id}`));
-  const datasets = cands.map(c => ({
-    label: c.name,
-    data: range.map(m => rows.filter(r => r.candidate === c.id && r.date.startsWith(m)).length),
-    borderColor: c.color, backgroundColor: c.color, borderWidth: 2.5, pointRadius: range.length < 10 ? 4 : 2,
-    pointHoverRadius: 5, tension: 0.25,
-  }));
+  /** @type {any[]} */
+  const datasets = [];
+  cands.forEach(c => {
+    const values = range.map(m => rows.filter(r => r.candidate === c.id && r.date.startsWith(m)).length);
+    datasets.push({
+      label: c.name, data: values,
+      borderColor: c.color, backgroundColor: c.color, borderWidth: 2.5, pointRadius: range.length < 10 ? 4 : 2,
+      pointHoverRadius: 5, tension: 0.25,
+    });
+    pushDeclaration(datasets, c, range, values);
+  });
   if (charts.radioMonthChart) charts.radioMonthChart.destroy();
   charts.radioMonthChart = new Chart(canvas('radioMonthChart'), {
     type: 'line', data: { labels, datasets },
@@ -802,6 +845,7 @@ function renderFollowers() {
       candSets.push({ label: candById[s.id].name, data: values, borderColor: candById[s.id].color,
                       backgroundColor: candById[s.id].color, borderWidth: 2.5, pointRadius: f.dates.length < 10 ? 4 : 0,
                       pointHoverRadius: 5, tension: 0.2, spanGaps: true });
+      pushDeclaration(candSets, candById[s.id], f.dates, values);
     });
   }
   /** @type {any[]} */
@@ -989,8 +1033,12 @@ function lineOptions(unit, { legend, tickFormat, tooltipLabel, tooltipAfter }) {
           afterBody: tooltipAfter ? (/** @type {any[]} */ items) => items.map(tooltipAfter) : undefined,
           afterTitle: (/** @type {any[]} */ items) => {
             const date = items[0]?.label;
-            const ev = (data.events || []).filter(e => e.date === date);
-            return ev.length ? ev.map(e => '📍 ' + e.title.slice(0, 90)).join('\n') : '';
+            const ev = (data.events || []).filter(e => e.date === date).map(e => '📍 ' + e.title.slice(0, 90));
+            const index = items[0]?.dataIndex;
+            const decl = (items[0]?.chart?.data.datasets || [])
+              .filter((/** @type {any} */ ds) => ds._decl && ds.data[index] != null)
+              .map((/** @type {any} */ ds) => '▲ ' + t('decl.marker', { name: ds._decl.name, date: shortDate(ds._decl.declaration) }));
+            return [...ev, ...decl].join('\n');
           },
         },
       },
@@ -1013,6 +1061,11 @@ function focusSeries(chart, index) {
     if (!ds._base) {
       if (typeof ds.borderColor !== 'string' || !ds.borderColor.startsWith('#')) return;
       ds._base = ds.borderColor;
+    }
+    if (ds._decl) {
+      const on = index === null || chart.data.datasets[index]?.label === ds._decl.name;
+      ds.borderColor = on ? ds._base : hexA(ds._base, 0.2);
+      return;
     }
     const on = index === null || i === index;
     ds.borderColor = on ? ds._base : hexA(ds._base, 0.2);
