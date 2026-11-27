@@ -242,9 +242,7 @@ def interview_summary(interviews, candidate_ids):
 # --- Saisie manuelle des relevés -------------------------------------------
 
 def _cli_add(args):
-    cands = load_json("config/candidates.json", {"candidates": []})["candidates"]
-    parties = load_json("config/parties.json", {"parties": []})["parties"]
-    known = {c["id"] for c in cands} | {m["id"] for p in parties for m in p["members"]}
+    known = set(known_people())
     entry = {
         "date": args.date, "id": args.id, "platform": args.platform,
         "followers": args.followers, "source": args.source,
@@ -262,13 +260,17 @@ def _cli_add(args):
 
 
 def known_people():
-    """Identifiants et noms de toutes les personnes suivies (candidats et membres de partis), sans doublon."""
+    """Identifiants et noms de toutes les personnes suivies (candidats, membres de partis et personnalités
+    influentes de config/influencers.json, même sans parti), sans doublon."""
     cands = load_json("config/candidates.json", {"candidates": []})["candidates"]
     parties = load_json("config/parties.json", {"parties": []})["parties"]
+    influencers = load_json("config/influencers.json", {"influencers": []})["influencers"]
     people = {c["id"]: c["name"] for c in cands}
     for p in parties:
         for m in p["members"]:
             people.setdefault(m["id"], m["name"])
+    for i in influencers:
+        people.setdefault(i["id"], i["name"])
     return people
 
 
